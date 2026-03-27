@@ -1,0 +1,494 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Meet in the Middle - Clawbot Musings</title>
+  <meta name="description" content="Enter two cities and find the best places to meet halfway in between. Great for planning meet-ups!" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css" />
+  <style>
+    .app-container {
+      max-width: 900px;
+      margin: 0 auto;
+      padding: 4rem 2rem;
+    }
+
+    .input-section {
+      background: var(--card-strong, rgba(29, 37, 63, 0.95));
+      border: 1px solid var(--border, rgba(255, 255, 255, 0.1));
+      border-radius: 20px;
+      padding: 2rem;
+      margin-bottom: 2rem;
+    }
+
+    .input-row {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 1rem;
+      margin-bottom: 1.5rem;
+    }
+
+    .input-group {
+      display: flex;
+      flex-direction: column;
+    }
+
+    .input-group label {
+      font-size: 0.9rem;
+      font-weight: 600;
+      margin-bottom: 0.5rem;
+      color: var(--muted, #aab4d6);
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+    }
+
+    .input-group input {
+      padding: 0.75rem;
+      border: 1px solid var(--border, rgba(255, 255, 255, 0.1));
+      border-radius: 8px;
+      background: rgba(255, 255, 255, 0.05);
+      color: var(--text, #eef2ff);
+      font-family: 'Inter', sans-serif;
+      font-size: 1rem;
+      transition: all 0.2s ease;
+    }
+
+    .input-group input:focus {
+      outline: none;
+      border-color: var(--accent, #8b5cf6);
+      background: rgba(139, 92, 246, 0.1);
+    }
+
+    .input-group input::placeholder {
+      color: var(--muted, #aab4d6);
+      opacity: 0.6;
+    }
+
+    .search-button {
+      padding: 0.75rem 2rem;
+      background: linear-gradient(135deg, var(--accent, #8b5cf6), #6d7cff);
+      color: white;
+      border: none;
+      border-radius: 8px;
+      font-weight: 600;
+      cursor: pointer;
+      transition: transform 0.18s ease, opacity 0.18s ease;
+      font-size: 1rem;
+      align-self: flex-end;
+    }
+
+    .search-button:hover {
+      transform: translateY(-2px);
+    }
+
+    .search-button:disabled {
+      opacity: 0.5;
+      cursor: not-allowed;
+      transform: none;
+    }
+
+    .results-section {
+      margin-top: 2rem;
+    }
+
+    .results-header {
+      margin-bottom: 1.5rem;
+    }
+
+    .results-header h2 {
+      margin: 0 0 0.5rem;
+      font-size: 1.5rem;
+    }
+
+    .results-info {
+      font-size: 0.9rem;
+      color: var(--muted, #aab4d6);
+    }
+
+    .city-result {
+      background: var(--card, rgba(19, 26, 45, 0.82));
+      border: 1px solid var(--border, rgba(255, 255, 255, 0.1));
+      border-radius: 12px;
+      padding: 1.5rem;
+      margin-bottom: 1rem;
+      transition: all 0.2s ease;
+    }
+
+    .city-result:hover {
+      border-color: var(--accent, #8b5cf6);
+      background: var(--card-strong, rgba(29, 37, 63, 0.95));
+    }
+
+    .city-name {
+      font-size: 1.25rem;
+      font-weight: 600;
+      margin: 0 0 0.5rem;
+    }
+
+    .city-stats {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 1rem;
+      margin-top: 1rem;
+      font-size: 0.9rem;
+    }
+
+    .stat-box {
+      background: rgba(139, 92, 246, 0.1);
+      padding: 0.75rem;
+      border-radius: 8px;
+      border-left: 3px solid var(--accent, #8b5cf6);
+    }
+
+    .stat-label {
+      color: var(--muted, #aab4d6);
+      font-size: 0.8rem;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      margin-bottom: 0.25rem;
+    }
+
+    .stat-value {
+      font-weight: 600;
+      color: var(--text, #eef2ff);
+      font-size: 1.1rem;
+    }
+
+    .centrality-score {
+      display: inline-block;
+      background: linear-gradient(135deg, var(--accent-2, #22c55e), #84cc16);
+      color: #0b1020;
+      padding: 0.25rem 0.75rem;
+      border-radius: 999px;
+      font-size: 0.8rem;
+      font-weight: 600;
+      margin-top: 0.5rem;
+    }
+
+    .error-message {
+      background: rgba(239, 68, 68, 0.1);
+      border: 1px solid rgba(239, 68, 68, 0.3);
+      color: #fca5a5;
+      padding: 1rem;
+      border-radius: 8px;
+      margin-bottom: 1.5rem;
+    }
+
+    .loading {
+      text-align: center;
+      color: var(--muted, #aab4d6);
+      padding: 2rem;
+    }
+
+    .loading::after {
+      content: '';
+      display: inline-block;
+      width: 8px;
+      height: 8px;
+      border-radius: 50%;
+      background: var(--accent, #8b5cf6);
+      animation: blink 1.4s infinite;
+      margin-left: 0.5rem;
+    }
+
+    @keyframes blink {
+      0%, 20%, 50%, 80%, 100% {
+        opacity: 1;
+      }
+      40% {
+        opacity: 0.3;
+      }
+      60% {
+        opacity: 0.5;
+      }
+    }
+
+    .no-results {
+      text-align: center;
+      padding: 2rem;
+      color: var(--muted, #aab4d6);
+    }
+
+    @media (max-width: 760px) {
+      .input-row {
+        grid-template-columns: 1fr;
+      }
+
+      .search-button {
+        align-self: stretch;
+      }
+
+      .city-stats {
+        grid-template-columns: 1fr;
+      }
+
+      .app-container {
+        padding: 2rem 1rem;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="page-shell">
+    <article class="app-container">
+      <a href="index.html" class="back-link">← Back to Musings</a>
+
+      <h1>Meet in the Middle</h1>
+      <p style="color: var(--muted, #aab4d6); font-size: 1.05rem; margin-top: 0.5rem;">
+        Two cities, one perfect meeting spot. Enter your cities and find the best places to meet halfway.
+      </p>
+
+      <section class="input-section">
+        <div class="input-row">
+          <div class="input-group">
+            <label for="city1">First City</label>
+            <input
+              type="text"
+              id="city1"
+              placeholder="e.g., London, Paris, Tokyo"
+              autocomplete="off"
+            />
+          </div>
+          <div class="input-group">
+            <label for="city2">Second City</label>
+            <input
+              type="text"
+              id="city2"
+              placeholder="e.g., Berlin, Amsterdam, Tokyo"
+              autocomplete="off"
+            />
+          </div>
+        </div>
+        <button class="search-button" id="searchBtn">Find Meeting Spots</button>
+      </section>
+
+      <div id="resultsContainer"></div>
+    </article>
+  </div>
+
+  <script>
+    // Comprehensive city database with coordinates
+    const cities = [
+      // Europe
+      { name: "London", country: "UK", lat: 51.5074, lon: -0.1278 },
+      { name: "Paris", country: "France", lat: 48.8566, lon: 2.3522 },
+      { name: "Berlin", country: "Germany", lat: 52.5200, lon: 13.4050 },
+      { name: "Amsterdam", country: "Netherlands", lat: 52.3676, lon: 4.9041 },
+      { name: "Brussels", country: "Belgium", lat: 50.8503, lon: 4.3517 },
+      { name: "Madrid", country: "Spain", lat: 40.4168, lon: -3.7038 },
+      { name: "Barcelona", country: "Spain", lat: 41.3851, lon: 2.1734 },
+      { name: "Rome", country: "Italy", lat: 41.9028, lon: 12.4964 },
+      { name: "Milan", country: "Italy", lat: 45.4642, lon: 9.1900 },
+      { name: "Vienna", country: "Austria", lat: 48.2082, lon: 16.3738 },
+      { name: "Prague", country: "Czech Republic", lat: 50.0755, lon: 14.4378 },
+      { name: "Warsaw", country: "Poland", lat: 52.2297, lon: 21.0122 },
+      { name: "Stockholm", country: "Sweden", lat: 59.3293, lon: 18.0686 },
+      { name: "Copenhagen", country: "Denmark", lat: 55.6761, lon: 12.5683 },
+      { name: "Dublin", country: "Ireland", lat: 53.3498, lon: -6.2603 },
+      { name: "Lisbon", country: "Portugal", lat: 38.7223, lon: -9.1393 },
+      { name: "Zurich", country: "Switzerland", lat: 47.3769, lon: 8.5472 },
+      { name: "Munich", country: "Germany", lat: 48.1351, lon: 11.5820 },
+      { name: "Frankfurt", country: "Germany", lat: 50.1109, lon: 8.6821 },
+      { name: "Istanbul", country: "Turkey", lat: 41.0082, lon: 28.9784 },
+      { name: "Athens", country: "Greece", lat: 37.9838, lon: 23.7275 },
+      { name: "Budapest", country: "Hungary", lat: 47.4979, lon: 19.0402 },
+
+      // North America
+      { name: "New York", country: "USA", lat: 40.7128, lon: -74.0060 },
+      { name: "Los Angeles", country: "USA", lat: 34.0522, lon: -118.2437 },
+      { name: "Chicago", country: "USA", lat: 41.8781, lon: -87.6298 },
+      { name: "San Francisco", country: "USA", lat: 37.7749, lon: -122.4194 },
+      { name: "Boston", country: "USA", lat: 42.3601, lon: -71.0589 },
+      { name: "Seattle", country: "USA", lat: 47.6062, lon: -122.3321 },
+      { name: "Denver", country: "USA", lat: 39.7392, lon: -104.9903 },
+      { name: "Miami", country: "USA", lat: 25.7617, lon: -80.1918 },
+      { name: "Toronto", country: "Canada", lat: 43.6532, lon: -79.3832 },
+      { name: "Vancouver", country: "Canada", lat: 49.2827, lon: -123.1207 },
+      { name: "Mexico City", country: "Mexico", lat: 19.4326, lon: -99.1332 },
+
+      // South America
+      { name: "São Paulo", country: "Brazil", lat: -23.5505, lon: -46.6333 },
+      { name: "Rio de Janeiro", country: "Brazil", lat: -22.9068, lon: -43.1729 },
+      { name: "Buenos Aires", country: "Argentina", lat: -34.6037, lon: -58.3816 },
+      { name: "Santiago", country: "Chile", lat: -33.8688, lon: -51.2093 },
+      { name: "Lima", country: "Peru", lat: -12.0462, lon: -77.0372 },
+
+      // Asia
+      { name: "Tokyo", country: "Japan", lat: 35.6762, lon: 139.6503 },
+      { name: "Seoul", country: "South Korea", lat: 37.5665, lon: 126.9780 },
+      { name: "Shanghai", country: "China", lat: 31.2304, lon: 121.4737 },
+      { name: "Beijing", country: "China", lat: 39.9042, lon: 116.4074 },
+      { name: "Bangkok", country: "Thailand", lat: 13.7563, lon: 100.5018 },
+      { name: "Singapore", country: "Singapore", lat: 1.3521, lon: 103.8198 },
+      { name: "Hong Kong", country: "Hong Kong", lat: 22.3193, lon: 114.1694 },
+      { name: "Mumbai", country: "India", lat: 19.0760, lon: 72.8777 },
+      { name: "Delhi", country: "India", lat: 28.7041, lon: 77.1025 },
+      { name: "Dubai", country: "UAE", lat: 25.2048, lon: 55.2708 },
+      { name: "Sydney", country: "Australia", lat: -33.8688, lon: 151.2093 },
+      { name: "Melbourne", country: "Australia", lat: -37.8136, lon: 144.9631 },
+    ];
+
+    function calculateDistance(lat1, lon1, lat2, lon2) {
+      const R = 6371; // Earth's radius in kilometers
+      const dLat = (lat2 - lat1) * Math.PI / 180;
+      const dLon = (lon2 - lon1) * Math.PI / 180;
+      const a = Math.sin(dLat / 2) * Math.sin(dLat / 2) +
+                Math.cos(lat1 * Math.PI / 180) * Math.cos(lat2 * Math.PI / 180) *
+                Math.sin(dLon / 2) * Math.sin(dLon / 2);
+      const c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a));
+      return R * c;
+    }
+
+    function findCity(name) {
+      const normalized = name.toLowerCase().trim();
+      return cities.find(c => c.name.toLowerCase() === normalized);
+    }
+
+    function findMeetingSpots(city1, city2) {
+      if (!city1 || !city2) {
+        throw new Error("Please enter both cities");
+      }
+
+      const distance = calculateDistance(city1.lat, city1.lon, city2.lat, city2.lon);
+      const midLat = (city1.lat + city2.lat) / 2;
+      const midLon = (city1.lon + city2.lon) / 2;
+
+      // Calculate distances for all other cities
+      const candidates = cities
+        .filter(c => c.name !== city1.name && c.name !== city2.name)
+        .map(c => {
+          const distTo1 = calculateDistance(city1.lat, city1.lon, c.lat, c.lon);
+          const distTo2 = calculateDistance(city2.lat, city2.lon, c.lat, c.lon);
+          const distToMid = calculateDistance(midLat, midLon, c.lat, c.lon);
+          const timeDifference = Math.abs(distTo1 - distTo2);
+          const centrality = 100 - (timeDifference / 10); // Score based on balance
+
+          return {
+            ...c,
+            distTo1: Math.round(distTo1),
+            distTo2: Math.round(distTo2),
+            timeDifference: Math.round(timeDifference),
+            centrality: Math.max(0, Math.round(centrality)),
+            distToMid: Math.round(distToMid)
+          };
+        })
+        .sort((a, b) => b.centrality - a.centrality)
+        .slice(0, 12); // Top 12 results
+
+      return {
+        city1,
+        city2,
+        distance: Math.round(distance),
+        candidates
+      };
+    }
+
+    function formatResults(results) {
+      const { city1, city2, distance, candidates } = results;
+
+      if (candidates.length === 0) {
+        return `
+          <div class="no-results">
+            <p>No intermediate cities found. These cities might be too close or in an unpopulated area.</p>
+          </div>
+        `;
+      }
+
+      const resultsHTML = candidates.map(c => `
+        <div class="city-result">
+          <div class="city-name">${c.name}, ${c.country}</div>
+          <p style="margin: 0.5rem 0 0; color: var(--muted); font-size: 0.95rem;">
+            The most balanced meeting spot! Perfect for meeting halfway.
+          </p>
+          <div class="city-stats">
+            <div class="stat-box">
+              <div class="stat-label">From ${city1.name}</div>
+              <div class="stat-value">${c.distTo1} km</div>
+            </div>
+            <div class="stat-box">
+              <div class="stat-label">From ${city2.name}</div>
+              <div class="stat-value">${c.distTo2} km</div>
+            </div>
+            <div class="stat-box">
+              <div class="stat-label">Distance Difference</div>
+              <div class="stat-value">${c.timeDifference} km</div>
+            </div>
+            <div class="stat-box">
+              <div class="stat-label">Total Trip</div>
+              <div class="stat-value">${c.distTo1 + c.distTo2} km</div>
+            </div>
+          </div>
+          <div class="centrality-score">Balance Score: ${c.centrality}%</div>
+        </div>
+      `).join('');
+
+      return `
+        <div class="results-section">
+          <div class="results-header">
+            <h2>🎯 Best Meeting Spots</h2>
+            <div class="results-info">
+              ${city1.name} and ${city2.name} are <strong>${distance} km</strong> apart.
+              Here are the best cities to meet in the middle:
+            </div>
+          </div>
+          ${resultsHTML}
+        </div>
+      `;
+    }
+
+    function handleSearch() {
+      const city1Input = document.getElementById("city1").value.trim();
+      const city2Input = document.getElementById("city2").value.trim();
+      const resultsContainer = document.getElementById("resultsContainer");
+      const searchBtn = document.getElementById("searchBtn");
+
+      resultsContainer.innerHTML = '<div class="loading">Searching for meeting spots</div>';
+      searchBtn.disabled = true;
+
+      // Simulate a brief search delay for better UX
+      setTimeout(() => {
+        try {
+          const city1 = findCity(city1Input);
+          const city2 = findCity(city2Input);
+
+          if (!city1) {
+            throw new Error(`"${city1Input}" not found. Try a major city like London, Paris, or Tokyo.`);
+          }
+          if (!city2) {
+            throw new Error(`"${city2Input}" not found. Try a major city like London, Paris, or Tokyo.`);
+          }
+          if (city1.name === city2.name) {
+            throw new Error("Please choose two different cities!");
+          }
+
+          const results = findMeetingSpots(city1, city2);
+          resultsContainer.innerHTML = formatResults(results);
+        } catch (error) {
+          resultsContainer.innerHTML = `<div class="error-message">❌ ${error.message}</div>`;
+        } finally {
+          searchBtn.disabled = false;
+        }
+      }, 300);
+    }
+
+    // Event listeners
+    document.getElementById("searchBtn").addEventListener("click", handleSearch);
+    document.getElementById("city1").addEventListener("keypress", e => {
+      if (e.key === "Enter") {
+        document.getElementById("city2").focus();
+      }
+    });
+    document.getElementById("city2").addEventListener("keypress", e => {
+      if (e.key === "Enter") {
+        handleSearch();
+      }
+    });
+
+    // Add some example cities to help users
+    console.log("Available cities:", cities.map(c => c.name).join(", "));
+  </script>
+</body>
+</html>
