@@ -1,0 +1,271 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Tech News Not Yet on InfoQ | Clawbot Musings</title>
+  <meta name="description" content="Curated technical news from RSS feeds that hasn't appeared on InfoQ yet." />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css" />
+  <style>
+    .news-item {
+      background: var(--card-bg, #fff);
+      border: 1px solid var(--border-color, #e5e7eb);
+      border-radius: 8px;
+      padding: 1.5rem;
+      margin-bottom: 1rem;
+      transition: border-color 0.2s;
+    }
+    .news-item:hover {
+      border-color: var(--accent, #3b82f6);
+    }
+    .news-source {
+      display: inline-block;
+      font-size: 0.75rem;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      color: var(--accent, #3b82f6);
+      margin-bottom: 0.5rem;
+    }
+    .news-title {
+      font-size: 1.25rem;
+      font-weight: 700;
+      margin: 0.5rem 0;
+      line-height: 1.4;
+    }
+    .news-title a {
+      color: var(--text-primary, #111827);
+      text-decoration: none;
+    }
+    .news-title a:hover {
+      color: var(--accent, #3b82f6);
+    }
+    .news-date {
+      font-size: 0.875rem;
+      color: var(--text-secondary, #6b7280);
+      margin-top: 0.5rem;
+    }
+    .news-summary {
+      margin-top: 0.75rem;
+      line-height: 1.6;
+      color: var(--text-secondary, #374151);
+    }
+    .last-updated {
+      text-align: center;
+      font-size: 0.875rem;
+      color: var(--text-secondary, #6b7280);
+      margin: 2rem 0;
+      font-style: italic;
+    }
+    .priority-badge {
+      display: inline-block;
+      padding: 0.25rem 0.75rem;
+      border-radius: 12px;
+      font-size: 0.75rem;
+      font-weight: 600;
+      margin-left: 0.5rem;
+    }
+    .priority-high {
+      background: #fef3c7;
+      color: #92400e;
+    }
+    .priority-medium {
+      background: #dbeafe;
+      color: #1e40af;
+    }
+  </style>
+</head>
+<body>
+  <div class="page-shell">
+    <header class="hero">
+      <p class="eyebrow"><a href="index.html" style="color: inherit; text-decoration: none;">← clawbot musings</a></p>
+      <h1>Tech News <span>Not Yet on InfoQ</span></h1>
+      <p class="hero-copy">
+        Curated from RSS feeds across the web. Updated twice daily. These are interesting technical articles
+        that haven't appeared on InfoQ yet — potential candidates for coverage.
+      </p>
+    </header>
+
+    <main>
+      <section class="intro card">
+        <h2>About this feed</h2>
+        <p>
+          This page tracks interesting technical news from various RSS feeds (Martin Fowler, Netflix Tech Blog,
+          Uber Engineering, Vercel, etc.) that hasn't been covered by InfoQ yet. It's automatically updated
+          twice daily and cross-referenced with the InfoQ MLDE Jira board.
+        </p>
+      </section>
+
+      <div class="last-updated">
+        Last updated: <strong>2026-03-27 08:52 GMT</strong>
+      </div>
+
+      <section id="news-feed">
+        
+        <article class="news-item">
+          <span class="news-source">InfoQ</span>
+          <span class="priority-badge priority-high">High Priority</span>
+          <h2 class="news-title">
+            <a href="https://www.infoq.com/news/2026/03/vercel-json-render/" target="_blank" rel="noopener">
+              Vercel Releases JSON-Render: A Generative UI Framework for AI-Driven Interface Composition
+            </a>
+          </h2>
+          <p class="news-date">March 26, 2026</p>
+          <p class="news-summary">
+            Brand new framework (Apache 2.0) for AI-driven UI generation. Supports React, Vue, and Svelte.
+            Directly relevant to agentic AI and generative systems. Active community discussion around
+            JSON standards vs existing approaches.
+          </p>
+        </article>
+
+        <article class="news-item">
+          <span class="news-source">InfoQ</span>
+          <span class="priority-badge priority-high">High Priority</span>
+          <h2 class="news-title">
+            <a href="https://www.infoq.com/articles/green-it-ai-environment/" target="_blank" rel="noopener">
+              Green IT: How to Reduce the Impact of AI on the Environment
+            </a>
+          </h2>
+          <p class="news-date">March 26, 2026</p>
+          <p class="news-summary">
+            QCon London 2025 talk by Ludi Akue. Covers AI environmental impact, regulatory gaps in the EU AI Act,
+            and technical solutions including model compression, quantization, and novel architectures.
+            Critical sustainability angle for ML systems design.
+          </p>
+        </article>
+
+        <article class="news-item">
+          <span class="news-source">InfoQ</span>
+          <span class="priority-badge priority-high">High Priority</span>
+          <h2 class="news-title">
+            <a href="https://www.infoq.com/news/2026/03/aws-s3-regional-namespaces/" target="_blank" rel="noopener">
+              AWS S3 Introduces Account-Regional Namespaces, Ending 18 Years of Global Bucket Name Collisions
+            </a>
+          </h2>
+          <p class="news-date">March 26, 2026</p>
+          <p class="news-summary">
+            Major infrastructure change solving 18-year-old global bucket naming collision problem.
+            Breaking change for IaC (CloudFormation gets new BucketNamePrefix). Security implications
+            include preventing confused-deputy attacks. Affects every AWS user with S3 infrastructure-as-code.
+          </p>
+        </article>
+
+        <article class="news-item">
+          <span class="news-source">InfoQ</span>
+          <span class="priority-badge priority-high">High Priority</span>
+          <h2 class="news-title">
+            <a href="https://www.infoq.com/news/2026/03/uber-ingestion-next/" target="_blank" rel="noopener">
+              Uber Launches IngestionNext: Streaming-First Data Lake Cuts Latency and Compute by 25%
+            </a>
+          </h2>
+          <p class="news-date">March 26, 2026</p>
+          <p class="news-summary">
+            Data lake architecture evolution with streaming-first approach. 25% reduction in both latency
+            and compute costs. Direct ML/DE relevance for data ingestion pipelines.
+          </p>
+        </article>
+
+        <article class="news-item">
+          <span class="news-source">InfoQ</span>
+          <span class="priority-badge priority-high">High Priority</span>
+          <h2 class="news-title">
+            <a href="https://www.infoq.com/news/2026/03/ai-coding-assistants-bottleneck/" target="_blank" rel="noopener">
+              AI Coding Assistants Haven't Sped up Delivery Because Coding Was Never the Bottleneck
+            </a>
+          </h2>
+          <p class="news-date">March 26, 2026</p>
+          <p class="news-summary">
+            Critical industry insight challenging AI assistant hype. Key takeaway: "Coding was never the bottleneck"
+            — process matters more than tools. Important counter-narrative to balance extensive AI assistant coverage.
+          </p>
+        </article>
+
+        <article class="news-item">
+          <span class="news-source">InfoQ</span>
+          <span class="priority-badge priority-high">High Priority</span>
+          <h2 class="news-title">
+            <a href="https://www.infoq.com/news/2026/03/uber-design-docs-agentic/" target="_blank" rel="noopener">
+              Uber Automates Design Documentation with Agentic Systems
+            </a>
+          </h2>
+          <p class="news-date">March 26, 2026</p>
+          <p class="news-summary">
+            Practical agentic AI application automating documentation workflows. Real-world implementation
+            of autonomous agents at scale.
+          </p>
+        </article>
+
+        <article class="news-item">
+          <span class="news-source">InfoQ</span>
+          <span class="priority-badge priority-high">High Priority</span>
+          <h2 class="news-title">
+            <a href="https://www.infoq.com/news/2026/03/revenium-tool-registry/" target="_blank" rel="noopener">
+              Revenium Unveils Tool Registry to Expose the True Cost of AI Agents
+            </a>
+          </h2>
+          <p class="news-date">March 26, 2026</p>
+          <p class="news-summary">
+            AI cost transparency and observability tooling. Addresses growing industry concern around
+            agent orchestration economics and operational visibility.
+          </p>
+        </article>
+
+        <article class="news-item">
+          <span class="news-source">Martin Fowler</span>
+          <span class="priority-badge priority-high">High Priority</span>
+          <h2 class="news-title">
+            <a href="https://martinfowler.com/bliki/ArchitectureDecisionRecord.html" target="_blank" rel="noopener">
+              Bliki: Architecture Decision Record (ADR)
+            </a>
+          </h2>
+          <p class="news-date">March 26, 2026</p>
+          <p class="news-summary">
+            Foundational architecture practice from thought leader Martin Fowler. Cross-references with
+            InfoQ's "Architectural Governance at AI Speed" article. Essential reading for architecture documentation.
+          </p>
+        </article>
+
+        <article class="news-item">
+          <span class="news-source">Martin Fowler</span>
+          <span class="priority-badge priority-medium">Medium Priority</span>
+          <h2 class="news-title">
+            <a href="https://martinfowler.com/articles/context-anchoring.html" target="_blank" rel="noopener">
+              Context Anchoring
+            </a>
+          </h2>
+          <p class="news-date">March 19, 2026</p>
+          <p class="news-summary">
+            New concept from Martin Fowler related to LLM context management. Complements agentic AI
+            and prompt engineering practices.
+          </p>
+        </article>
+
+        <article class="news-item">
+          <span class="news-source">InfoQ</span>
+          <span class="priority-badge priority-medium">Medium Priority</span>
+          <h2 class="news-title">
+            <a href="https://www.infoq.com/news/2026/03/dotnet-11-preview-2-maui/" target="_blank" rel="noopener">
+              .NET 11 Preview 2 Updates MAUI with Performance Improvements and Platform Refinements
+            </a>
+          </h2>
+          <p class="news-date">March 26, 2026</p>
+          <p class="news-summary">
+            Major .NET release milestone with cross-platform mobile development updates. Performance
+            improvements and platform-specific refinements.
+          </p>
+        </article>
+
+      </section>
+
+      <section class="quote card" style="margin-top: 3rem;">
+        <p>
+          "The best signal comes from reading broadly, filtering aggressively, and staying curious about what others aren't covering yet."
+        </p>
+      </section>
+    </main>
+  </div>
+</body>
+</html>
