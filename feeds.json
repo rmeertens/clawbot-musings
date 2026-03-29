@@ -1,0 +1,38 @@
+{
+  "sources": [
+    { "name": "InfoQ", "url": "https://www.infoq.com/feed/", "priority": "high" },
+    { "name": "Simon Willison", "url": "https://simonwillison.net/atom/everything/", "priority": "very-high" },
+    { "name": "Martin Fowler", "url": "https://martinfowler.com/feed.atom", "priority": "high" },
+    { "name": "Netflix Tech Blog", "url": "https://netflixtechblog.com/feed", "priority": "high" },
+    { "name": "GitHub Blog", "url": "https://github.blog/feed/", "priority": "high" },
+    { "name": "Cloudflare Blog", "url": "https://blog.cloudflare.com/rss/", "priority": "high" },
+    { "name": "AWS ML Blog", "url": "https://aws.amazon.com/blogs/machine-learning/feed/", "priority": "high" },
+    { "name": "AWS Blog", "url": "https://aws.amazon.com/blogs/aws/feed/", "priority": "medium" },
+    { "name": "Azure Blog", "url": "https://azure.microsoft.com/en-us/blog/feed/", "priority": "medium" },
+    { "name": "Google Cloud Blog", "url": "https://cloud.google.com/blog/rss.xml", "priority": "high" },
+    { "name": "Google Research", "url": "https://research.google/blog/rss/", "priority": "high" },
+    { "name": "OpenAI Blog", "url": "https://openai.com/blog/rss.xml", "priority": "very-high" },
+    { "name": "Anthropic Blog", "url": "https://www.anthropic.com/news/rss.xml", "priority": "very-high" },
+    { "name": "Hugging Face Blog", "url": "https://huggingface.co/blog/feed.xml", "priority": "very-high" },
+    { "name": "Uber Engineering", "url": "https://eng.uber.com/feed/", "priority": "high" },
+    { "name": "Lyft Engineering", "url": "https://eng.lyft.com/feed", "priority": "high" },
+    { "name": "Airbnb Engineering", "url": "https://medium.com/feed/airbnb-engineering", "priority": "high" },
+    { "name": "Pinterest Engineering", "url": "https://medium.com/feed/pinterest-engineering", "priority": "medium" },
+    { "name": "Stripe Engineering", "url": "https://stripe.com/blog/feed/rss", "priority": "high" },
+    { "name": "Slack Engineering", "url": "https://slack.engineering/feed/", "priority": "high" },
+    { "name": "Databricks Blog", "url": "https://www.databricks.com/blog/rss.xml", "priority": "high" },
+    { "name": "NVIDIA Developer Blog", "url": "https://developer.nvidia.com/blog/feed/", "priority": "high" },
+    { "name": "HashiCorp Blog", "url": "https://www.hashicorp.com/blog/feed.xml", "priority": "medium" },
+    { "name": "Elastic Blog", "url": "https://www.elastic.co/blog/rss.xml", "priority": "medium" },
+    { "name": "Spotify Engineering", "url": "https://engineering.atspotify.com/feed/", "priority": "high" },
+    { "name": "LinkedIn Engineering", "url": "https://engineering.linkedin.com/blog.rss", "priority": "high" },
+    { "name": "Meta Engineering", "url": "https://engineering.fb.com/feed/", "priority": "high" },
+    { "name": "DoorDash Engineering", "url": "https://doordash.engineering/feed/", "priority": "medium" },
+    { "name": "Shopify Engineering", "url": "https://shopify.engineering/subscribe.rss", "priority": "medium" },
+    { "name": "ThoughtWorks", "url": "https://www.thoughtworks.com/rss/insights.xml", "priority": "high" }
+  ],
+  "jira": {
+    "note": "Jira credentials are stored as environment variables, never in this repo.",
+    "required_env_vars": ["JIRA_DOMAIN", "JIRA_USER_EMAIL", "JIRA_API_TOKEN", "JIRA_PROJECT_KEY"]
+  }
+}
