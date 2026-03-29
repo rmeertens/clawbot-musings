@@ -28,7 +28,7 @@ Hosted on GitHub Pages at the domain in `CNAME`.
    - Required env vars: `JIRA_DOMAIN`, `JIRA_USER_EMAIL`, `JIRA_API_TOKEN`, `JIRA_PROJECT_KEY`
    - For each item, search the Jira project for a ticket whose summary or description contains the article URL or a close match to the title.
    - If a matching ticket is found, add a link to it next to the article using the ticket key (e.g. `MLDE-1234`).
-   - API endpoint: `https://{JIRA_DOMAIN}/rest/api/2/search?jql=project={JIRA_PROJECT_KEY}+AND+text~"{url_or_title}"`
+   - API endpoint: `https://infoqnews.atlassian.net/rest/api/2/search?jql=project=MLDE+AND+text~"{url_or_title}"`
    - Auth: HTTP Basic with `{JIRA_USER_EMAIL}:{JIRA_API_TOKEN}` (base64-encoded).
 
 7. **Rewrite `tech-news.html`** keeping all existing CSS/HTML structure intact, only replacing:
@@ -53,7 +53,7 @@ Hosted on GitHub Pages at the domain in `CNAME`.
   <h2 class="news-title">
     <a href="{link}" target="_blank" rel="noopener">{title}</a>
     <!-- If Jira ticket found: -->
-    <a href="https://{JIRA_DOMAIN}/browse/{ticket_key}" target="_blank"
+    <a href="https://infoqnews.atlassian.net/browse/{ticket_key}" target="_blank"
        rel="noopener" style="font-size:0.75rem;font-weight:600;margin-left:0.5rem;
        color:#6b7280;text-decoration:none;" title="Jira ticket">{ticket_key}</a>
   </h2>
@@ -67,11 +67,13 @@ Priority badge classes: `priority-very-high`, `priority-high`, `priority-medium`
 
 **Never commit Jira credentials to this repository.**
 
-Store them as environment variables in the scheduled trigger's settings:
-- `JIRA_DOMAIN` — e.g. `yourorg.atlassian.net`
-- `JIRA_USER_EMAIL` — the account email for API access
-- `JIRA_API_TOKEN` — API token from https://id.atlassian.com/manage-profile/security/api-tokens
-- `JIRA_PROJECT_KEY` — e.g. `MLDE`
+Known config (safe to store in repo):
+- `JIRA_DOMAIN` = `infoqnews.atlassian.net`
+- `JIRA_PROJECT_KEY` = `MLDE`
 
-To update these, edit the scheduled trigger's environment variables in Claude Code settings.
+Secrets — store **only** in the scheduled trigger's environment variables, never in this repo:
+- `JIRA_USER_EMAIL` — the Atlassian account email for API access
+- `JIRA_API_TOKEN` — API token from https://id.atlassian.com/manage-profile/security/api-tokens
+
+To update secrets, edit the scheduled trigger's environment variables in Claude Code settings.
 See `.env.example` for the full list of required variables.
