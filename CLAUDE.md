@@ -5,44 +5,38 @@ Hosted on GitHub Pages at the domain in `CNAME`.
 
 ## Tech News Feed — Update Instructions
 
-`tech-news.html` is automatically updated by a scheduled agent twice daily (9:00 and 21:00 GMT).
+All configuration and tooling for the tech news page lives under **`tech-news/`**:
 
-### What to do on each update run
+| Path | Purpose |
+|------|---------|
+| `tech-news/feeds.json` | RSS/Atom URLs, per-source priority, and `blocked_link_hosts` (always includes `infoq.com` so nothing on InfoQ is linked) |
+| `tech-news/index.html` | The generated page (GitHub Pages serves it at `/tech-news/`) |
+| `tech-news/update_feed.py` | Fetches feeds, merges, dedupes, writes `tech-news/index.html` |
 
-1. **Read `feeds.json`** to get the list of RSS/Atom feed URLs and their priority ratings.
+### How to run locally
 
-2. **Fetch every feed** using WebFetch. For each feed parse all `<item>` / `<entry>` elements and extract:
-   - `title` — article title (strip HTML entities)
-   - `link` — canonical URL
-   - `pubDate` / `published` / `updated` — publication date
-   - `source` — the `name` field from `feeds.json`
-   - `priority` — the `priority` field from `feeds.json`
+```bash
+python3 tech-news/update_feed.py
+```
 
-3. **Deduplicate by URL** across all feeds.
+Optional Jira cross-links: set the same environment variables as in `.env.example` before running.
 
-4. **Sort by publication date, newest first.**
+### Automation (recommended)
 
-5. **Keep the latest 100 items.** Do NOT apply any other date filter (e.g. "today only" or "since last run"). Show items from up to 14 days ago if needed to fill 100 slots.
+GitHub Actions workflow **`.github/workflows/tech-news-feed.yml`** runs the script on a cron (09:00, 15:00, 21:00 UTC) and on manual dispatch. It commits `tech-news/index.html` when it changes.
 
-6. **Jira cross-reference** (optional — only when env vars are available):
-   - Required env vars: `JIRA_DOMAIN`, `JIRA_USER_EMAIL`, `JIRA_API_TOKEN`, `JIRA_PROJECT_KEY`
-   - For each item, search the Jira project for a ticket whose summary or description contains the article URL or a close match to the title.
-   - If a matching ticket is found, add a link to it next to the article using the ticket key (e.g. `MLDE-1234`).
-   - API endpoint: `https://infoqnews.atlassian.net/rest/api/2/search?jql=project=MLDE+AND+text~"{url_or_title}"`
-   - Auth: HTTP Basic with `{JIRA_USER_EMAIL}:{JIRA_API_TOKEN}` (base64-encoded).
+Configure repository **secrets** (if using Jira): `JIRA_USER_EMAIL`, `JIRA_API_TOKEN`. Optional **variables**: `JIRA_DOMAIN`, `JIRA_PROJECT_KEY` (defaults can be omitted if you only use secrets for auth).
 
-7. **Rewrite `tech-news.html`** keeping all existing CSS/HTML structure intact, only replacing:
-   - The `<strong>` timestamp inside `.last-updated`
-   - The entire `<section id="news-feed">` block
+### Behaviour (matches the script)
 
-8. **If no items are found** (all feeds returned errors or truly empty), show a diagnostic message listing which feeds failed rather than the generic "No new items found" message. Example:
-   ```html
-   <p style="text-align:center;padding:2rem;color:#6b7280;">
-     Could not fetch articles. Feeds tried: InfoQ (403), Simon Willison (timeout), ...
-   </p>
-   ```
-
-9. **Commit and push** with message: `Auto-update: Tech news feed (YYYY-MM-DD HH:MM GMT)`
+1. Read `tech-news/feeds.json` for sources and priorities.
+2. Fetch each feed (staggered requests, gzip-safe, HTTP 308 redirects, custom User-Agent).
+3. Parse RSS 2.0 and Atom; extract title, link, date (`pubDate`, `published`/`updated`, or DC `date`).
+4. Drop any item whose link matches `blocked_link_hosts` (InfoQ and similar).
+5. Deduplicate by normalized URL; sort by date, newest first; keep **100** items.
+6. If Jira env vars are set, look up tickets (same rules as before).
+7. Rewrite **only** the `<strong>` timestamp inside `.last-updated` and the full `<section id="news-feed">` in `tech-news/index.html`.
+8. If there are no items, show a diagnostic listing failed/empty feeds when applicable.
 
 ### Article HTML template
 
@@ -68,12 +62,17 @@ Priority badge classes: `priority-very-high`, `priority-high`, `priority-medium`
 **Never commit Jira credentials to this repository.**
 
 Known config (safe to store in repo):
+
 - `JIRA_DOMAIN` = `infoqnews.atlassian.net`
 - `JIRA_PROJECT_KEY` = `MLDE`
 
-Secrets — store **only** in the scheduled trigger's environment variables, never in this repo:
+Secrets — store **only** in the scheduled trigger's environment variables or GitHub Actions secrets, never in this repo:
+
 - `JIRA_USER_EMAIL` — the Atlassian account email for API access
 - `JIRA_API_TOKEN` — API token from https://id.atlassian.com/manage-profile/security/api-tokens
 
-To update secrets, edit the scheduled trigger's environment variables in Claude Code settings.
-See `.env.example` for the full list of required variables.
+See `.env.example` for the full list of variables.
+
+### Commit message (manual or external automation)
+
+`Auto-update: Tech news feed (YYYY-MM-DD HH:MM GMT)`
