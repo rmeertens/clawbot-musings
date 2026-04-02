@@ -268,7 +268,9 @@ def link_blocked(link: str, hosts: list[str]) -> bool:
     except Exception:
         return False
     for h in hosts:
-        hl = h.lower().removeprefix("www.")
+        hl = h.lower()
+        if hl.startswith("www."):
+            hl = hl[4:]
         if host == hl or host.endswith("." + hl):
             return True
     return False
