@@ -9,6 +9,7 @@ Or from this dir:    python update_feed.py
 from __future__ import annotations
 
 import base64
+import concurrent.futures
 import gzip
 import json
 import os
@@ -30,12 +31,13 @@ SCRIPT_DIR = Path(__file__).resolve().parent
 REPO_ROOT = SCRIPT_DIR.parent
 FEEDS_PATH = SCRIPT_DIR / "feeds.json"
 OUTPUT_HTML = SCRIPT_DIR / "index.html"
+SEEN_PATH = SCRIPT_DIR / "seen.json"
 
 USER_AGENT = "ClawbotMusings-TechNews/1.0 (+https://github.com/clawbot-musings)"
-FETCH_TIMEOUT_SEC = 45
+FETCH_TIMEOUT_SEC = 30
 MAX_ITEMS = 100
 JIRA_DELAY_SEC = 0.12
-FEED_STAGGER_SEC = 0.35
+FETCH_WORKERS = 16
 
 PRIORITY_LABEL = {
     "very-high": "Very High",
@@ -193,6 +195,8 @@ class NewsItem:
     source: str
     priority: str
     jira_key: str | None = None
+    first_seen: datetime | None = None
+    is_new: bool = False
 
 
 @dataclass
@@ -222,6 +226,15 @@ def _maybe_decompress(raw: bytes) -> bytes:
     return raw
 
 
+def _build_opener() -> urllib.request.OpenerDirector:
+    ctx = ssl.create_default_context()
+    https = urllib.request.HTTPSHandler(context=ctx)
+    return urllib.request.build_opener(HTTPRedirect308Handler(), https)
+
+
+_SHARED_OPENER = _build_opener()
+
+
 def fetch_url(url: str) -> bytes:
     req = urllib.request.Request(
         url,
@@ -231,10 +244,7 @@ def fetch_url(url: str) -> bytes:
             "Accept-Encoding": "identity",
         },
     )
-    ctx = ssl.create_default_context()
-    https = urllib.request.HTTPSHandler(context=ctx)
-    opener = urllib.request.build_opener(HTTPRedirect308Handler(), https)
-    with opener.open(req, timeout=FETCH_TIMEOUT_SEC) as resp:
+    with _SHARED_OPENER.open(req, timeout=FETCH_TIMEOUT_SEC) as resp:
         raw = resp.read()
         return _maybe_decompress(raw)
 
@@ -342,6 +352,55 @@ def jira_ticket_for_item(item: NewsItem) -> str | None:
     return None
 
 
+def load_seen() -> dict[str, dict[str, str]]:
+    """Load the URL→metadata history from seen.json."""
+    if not SEEN_PATH.is_file():
+        return {}
+    try:
+        return json.loads(SEEN_PATH.read_text(encoding="utf-8"))
+    except (json.JSONDecodeError, OSError):
+        return {}
+
+
+def save_seen(seen: dict[str, dict[str, str]]) -> None:
+    SEEN_PATH.write_text(
+        json.dumps(seen, indent=2, ensure_ascii=False) + "\n",
+        encoding="utf-8",
+    )
+
+
+def apply_seen_history(
+    items: list[NewsItem], now: datetime
+) -> tuple[int, int]:
+    """Cross-reference items with seen.json. Returns (new_count, seen_count)."""
+    seen = load_seen()
+    new_count = 0
+    now_iso = now.isoformat()
+
+    for it in items:
+        key = normalize_url(it.link)
+        if not key:
+            continue
+        entry = seen.get(key)
+        if entry is None:
+            it.is_new = True
+            it.first_seen = now
+            seen[key] = {
+                "title": it.title,
+                "source": it.source,
+                "first_seen": now_iso,
+                "published": it.published.isoformat() if it.published else None,
+            }
+            new_count += 1
+        else:
+            it.is_new = False
+            fs = parse_iso_date(entry.get("first_seen"))
+            it.first_seen = fs or now
+
+    save_seen(seen)
+    return new_count, len(items) - new_count
+
+
 def render_articles(items: list[NewsItem], now: datetime) -> str:
     jira_domain = (os.getenv("JIRA_DOMAIN") or "").strip().rstrip("/")
     lines: list[str] = []
@@ -356,10 +415,20 @@ def render_articles(items: list[NewsItem], now: datetime) -> str:
                 '       color:#6b7280;text-decoration:none;" title="Jira ticket">'
                 f"{html_escape(it.jira_key)}</a>"
             )
+        new_badge = ""
+        if it.is_new:
+            new_badge = ' <span class="new-badge">NEW</span>'
+
+        first_seen_html = ""
+        if it.first_seen:
+            fs_str = it.first_seen.strftime("%b %d, %Y %H:%M UTC")
+            first_seen_html = f' · First seen: {html_escape(fs_str)}'
+
         lines.append("        <article class=\"news-item\">")
         lines.append(f'          <span class="news-source">{html_escape(it.source)}</span>')
         lines.append(
             f'          <span class="priority-badge priority-{html_escape(it.priority)}">{html_escape(badge)}</span>'
+            f"{new_badge}"
         )
         lines.append('          <h2 class="news-title">')
         lines.append(
@@ -367,7 +436,10 @@ def render_articles(items: list[NewsItem], now: datetime) -> str:
             f"{html_escape(it.title)}</a>{jira_html}"
         )
         lines.append("          </h2>")
-        lines.append(f'          <p class="news-date">{html_escape(relative_date(it.published, now))}</p>')
+        lines.append(
+            f'          <p class="news-date">{html_escape(relative_date(it.published, now))}'
+            f"{first_seen_html}</p>"
+        )
         lines.append("        </article>")
     return "\n".join(lines)
 
@@ -406,10 +478,7 @@ def main() -> int:
     sources: list[dict[str, str]] = cfg.get("sources") or []
     blocked_hosts: list[str] = list(cfg.get("blocked_link_hosts") or [])
 
-    results: list[FetchResult] = []
-    for i, src in enumerate(sources):
-        if i:
-            time.sleep(FEED_STAGGER_SEC)
+    def _fetch_one(src: dict[str, str]) -> FetchResult:
         name = src.get("name") or "unknown"
         url = src.get("url") or ""
         priority = src.get("priority") or "medium"
@@ -425,7 +494,12 @@ def main() -> int:
             fr.error = f"XML parse: {e}"
         except Exception as e:
             fr.error = type(e).__name__
-        results.append(fr)
+        return fr
+
+    t0 = time.monotonic()
+    with concurrent.futures.ThreadPoolExecutor(max_workers=FETCH_WORKERS) as pool:
+        results = list(pool.map(_fetch_one, sources))
+    fetch_elapsed = time.monotonic() - t0
 
     by_url: dict[str, NewsItem] = {}
     for fr in results:
@@ -456,6 +530,8 @@ def main() -> int:
             failures.append(f"{name} (empty)")
 
     now = datetime.now(timezone.utc)
+
+    new_count, seen_count = apply_seen_history(merged, now)
 
     if jira_env_ready():
         for it in merged:
@@ -489,7 +565,13 @@ def main() -> int:
     html = replace_last_updated(html, stamp)
     html = replace_news_section(html, inner)
     OUTPUT_HTML.write_text(html, encoding="utf-8")
-    print(f"Wrote {len(merged)} items to {OUTPUT_HTML}", flush=True)
+    seen_total = len(load_seen())
+    print(
+        f"Wrote {len(merged)} items to {OUTPUT_HTML} "
+        f"({new_count} new, {seen_count} seen before, {seen_total} total tracked) "
+        f"[{fetch_elapsed:.1f}s fetch, {len(sources)} sources]",
+        flush=True,
+    )
     if failures:
         msg = ", ".join(failures[:15])
         if len(failures) > 15:
