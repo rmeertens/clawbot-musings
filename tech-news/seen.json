@@ -706,5 +706,329 @@
     "source": "Phoronix",
     "first_seen": "2026-04-03T08:32:40.871108+00:00",
     "published": "2026-04-02T04:00:00+00:00"
+  },
+  "https://www.bbc.com/news/articles/ce8jzr423p9o": {
+    "title": "Artemis II crew take 'spectacular' image of Earth",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-03T20:24:03.772719+00:00",
+    "published": "2026-04-03T19:35:02+00:00"
+  },
+  "https://cybrkyd.com/post/age-verification-on-systemd-and-flatpak": {
+    "title": "Age Verification on Systemd and Flatpak",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-03T20:24:03.772719+00:00",
+    "published": "2026-04-03T19:17:28+00:00"
+  },
+  "https://thenewstack.io/vultr-nvidia-ai-infrastructure": {
+    "title": "Vultr says its Nvidia-powered AI infrastructure costs 50% to 90% less than hyperscalers",
+    "source": "The New Stack",
+    "first_seen": "2026-04-03T20:24:03.772719+00:00",
+    "published": "2026-04-03T19:08:12+00:00"
+  },
+  "https://www.phoronix.com/news/Redox-OS-New-CPU-Sched": {
+    "title": "Redox OS Introducing New CPU Scheduler For ~1.5x Performance In Heavy Tasks",
+    "source": "Phoronix",
+    "first_seen": "2026-04-03T20:24:03.772719+00:00",
+    "published": "2026-04-03T18:57:39+00:00"
+  },
+  "https://www.dbos.dev/blog/async-python-is-secretly-deterministic": {
+    "title": "Async Python Is Secretly Deterministic",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-03T20:24:03.772719+00:00",
+    "published": "2026-04-03T18:55:12+00:00"
+  },
+  "https://www.backyardchickens.com/articles/how-to-make-a-sliding-self-locking-and-predator-proof-chicken-coop-door.75906": {
+    "title": "How to Make a Sliding, Self-Locking, and Predator-Proof Chicken Coop Door (2020)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-03T20:24:03.772719+00:00",
+    "published": "2026-04-03T18:54:11+00:00"
+  },
+  "https://kevquirk.com/update-on-the-ebay-scam": {
+    "title": "Update on the eBay Scam",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-03T20:24:03.772719+00:00",
+    "published": "2026-04-03T18:22:07+00:00"
+  },
+  "https://www.tomshardware.com/service-providers/streaming/h264-streaming-license-fees-jump-from-100000-to-4-5-million": {
+    "title": "Firm boosts H.264 streaming license fees from $100k up to staggering $4.5M",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-03T20:24:03.772719+00:00",
+    "published": "2026-04-03T18:20:16+00:00"
+  },
+  "https://anonhaven.com/en/news/drift-protocol-hack-285-million-solana": {
+    "title": "Solana Drift Protocol drained of $285M via fake token and governance hijack",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-03T20:24:03.772719+00:00",
+    "published": "2026-04-03T17:29:21+00:00"
+  },
+  "https://www.inaturalist.org": {
+    "title": "iNaturalist",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-03T20:24:03.772719+00:00",
+    "published": "2026-04-03T17:22:20+00:00"
+  },
+  "https://blog.langchain.com/production-agents-self-heal": {
+    "title": "How My Agents Self-Heal in Production",
+    "source": "LangChain Blog",
+    "first_seen": "2026-04-03T20:24:03.772719+00:00",
+    "published": "2026-04-03T17:01:03+00:00"
+  },
+  "https://stratechery.com/2026/apple-acceleration-and-ai": {
+    "title": "2026.14: Apple, Acceleration, and AI",
+    "source": "Stratechery",
+    "first_seen": "2026-04-03T20:24:03.772719+00:00",
+    "published": "2026-04-03T17:00:00+00:00"
+  },
+  "https://tinygo.org": {
+    "title": "Go on Embedded Systems and WebAssembly",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-03T20:24:03.772719+00:00",
+    "published": "2026-04-03T16:57:09+00:00"
+  },
+  "https://www.phoronix.com/news/Intel-NPU-Linux-Driver-1.32": {
+    "title": "Intel Linux NPU Driver 1.32 Adds Wildcat Lake Support",
+    "source": "Phoronix",
+    "first_seen": "2026-04-03T20:24:03.772719+00:00",
+    "published": "2026-04-03T16:37:00+00:00"
+  },
+  "https://simonwillison.net/2026/Apr/3/test-csp-iframe-escape": {
+    "title": "Can JavaScript Escape a CSP Meta Tag Inside an Iframe?",
+    "source": "Simon Willison",
+    "first_seen": "2026-04-03T20:24:03.772719+00:00",
+    "published": "2026-04-03T16:05:00+00:00"
+  },
+  "https://www.theguardian.com/world/2026/apr/03/us-fighter-jet-confirmed-shot-down-over-iran": {
+    "title": "F-15E jet shot down over Iran",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-03T20:24:03.772719+00:00",
+    "published": "2026-04-03T16:00:44+00:00"
+  },
+  "https://github.blog/engineering/architecture-optimization/the-uphill-climb-of-making-diff-lines-performant": {
+    "title": "The uphill climb of making diff lines performant",
+    "source": "GitHub Blog",
+    "first_seen": "2026-04-03T20:24:03.772719+00:00",
+    "published": "2026-04-03T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud": {
+    "title": "What’s new with Google Cloud",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-04-03T20:24:03.772719+00:00",
+    "published": "2026-04-03T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/networking/the-case-for-envoy-networking-in-the-agentic-ai-era": {
+    "title": "Envoy: A future-ready foundation for agentic AI networking",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-04-03T20:24:03.772719+00:00",
+    "published": "2026-04-03T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/ai-machine-learning/veo-3-1-lite-and-a-new-veo-upscaling-capability-on-vertex-ai": {
+    "title": "Introducing Veo 3.1 Lite and a new Veo upscaling capability on Vertex AI",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-04-03T20:24:03.772719+00:00",
+    "published": "2026-04-03T16:00:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/security/how-aws-kms-and-aws-encryption-sdk-overcome-symmetric-encryption-bounds": {
+    "title": "How AWS KMS and AWS Encryption SDK overcome symmetric encryption bounds",
+    "source": "AWS Security Blog",
+    "first_seen": "2026-04-03T20:24:03.772719+00:00",
+    "published": "2026-04-03T15:44:48+00:00"
+  },
+  "https://blog.bytebytego.com/p/our-new-book-on-behavioral-interviews": {
+    "title": "Our New Book on Behavioral Interviews Is Now Available on Amazon",
+    "source": "ByteByteGo",
+    "first_seen": "2026-04-03T20:24:03.772719+00:00",
+    "published": "2026-04-03T15:31:34+00:00"
+  },
+  "https://lwn.net/Articles/1065420": {
+    "title": "[$] Ubuntu's GRUBby plans",
+    "source": "LWN.net",
+    "first_seen": "2026-04-03T20:24:03.772719+00:00",
+    "published": "2026-04-03T15:12:34+00:00"
+  },
+  "https://www.jeffgeerling.com/blog/2026/build-your-own-dial-up-isp-with-a-raspberry-pi": {
+    "title": "Build your own Dial-up ISP with a Raspberry Pi",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-03T20:24:03.772719+00:00",
+    "published": "2026-04-03T15:08:16+00:00"
+  },
+  "https://www.phoronix.com/review/cachyos-panther-lake": {
+    "title": "CachyOS Delivers More Performance Out Of Intel Panther Lake",
+    "source": "Phoronix",
+    "first_seen": "2026-04-03T20:24:03.772719+00:00",
+    "published": "2026-04-03T15:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/Gentoo-GNU-Hurd-Experimental": {
+    "title": "Gentoo Releases Experimental Images Using GNU/Hurd",
+    "source": "Phoronix",
+    "first_seen": "2026-04-03T20:24:03.772719+00:00",
+    "published": "2026-04-03T14:37:03+00:00"
+  },
+  "https://lwn.net/Articles/1066241": {
+    "title": "No kidding: Gentoo GNU/Hurd",
+    "source": "LWN.net",
+    "first_seen": "2026-04-03T20:24:03.772719+00:00",
+    "published": "2026-04-03T14:12:56+00:00"
+  },
+  "https://thenewstack.io/ai-coding-tools-reckoning": {
+    "title": "“I started to lose my ability to code”: Developers grapple with the real cost of AI programming tools",
+    "source": "The New Stack",
+    "first_seen": "2026-04-03T20:24:03.772719+00:00",
+    "published": "2026-04-03T14:01:11+00:00"
+  },
+  "https://thenewstack.io/digital-experience-monitoring-workflow": {
+    "title": "Digital Experience Monitoring belongs in the modern developer workflow",
+    "source": "The New Stack",
+    "first_seen": "2026-04-03T20:24:03.772719+00:00",
+    "published": "2026-04-03T14:00:00+00:00"
+  },
+  "https://simonwillison.net/2026/Apr/3/supply-chain-social-engineering": {
+    "title": "The Axios supply chain attack used individually targeted social engineering",
+    "source": "Simon Willison",
+    "first_seen": "2026-04-03T20:24:03.772719+00:00",
+    "published": "2026-04-03T13:54:53+00:00"
+  },
+  "https://www.hanshq.net/big-endian-qemu.html": {
+    "title": "Big-Endian Testing with QEMU",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-03T20:24:03.772719+00:00",
+    "published": "2026-04-03T13:28:58+00:00"
+  },
+  "https://lwn.net/Articles/1066236": {
+    "title": "Security updates for Friday",
+    "source": "LWN.net",
+    "first_seen": "2026-04-03T20:24:03.772719+00:00",
+    "published": "2026-04-03T13:24:27+00:00"
+  },
+  "https://www.phoronix.com/news/AMDGPU-GCN-1.1-APUs-Default": {
+    "title": "AMDGPU Driver Ready To Be The Default For Aging Kaveri / Kabini / Mullins APUs",
+    "source": "Phoronix",
+    "first_seen": "2026-04-03T20:24:03.772719+00:00",
+    "published": "2026-04-03T13:15:24+00:00"
+  },
+  "https://thenewstack.io/why-ai-feels-sluggish": {
+    "title": "The hidden reason your AI assistant feels so sluggish",
+    "source": "The New Stack",
+    "first_seen": "2026-04-03T20:24:03.772719+00:00",
+    "published": "2026-04-03T13:00:00+00:00"
+  },
+  "https://text.blogosphere.app": {
+    "title": "Show HN: I built a frontpage for personal blogs",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-03T20:24:03.772719+00:00",
+    "published": "2026-04-03T12:33:45+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-VM-Pressure-TCP-Through": {
+    "title": "Meta Has A New Linux Optimization To Avoid Throttling TCP Throughput Unnecessarily",
+    "source": "Phoronix",
+    "first_seen": "2026-04-03T20:24:03.772719+00:00",
+    "published": "2026-04-03T12:25:12+00:00"
+  },
+  "https://realpython.com/quizzes/python-class-object": {
+    "title": "Quiz: Class Concepts: Object-Oriented Programming in Python",
+    "source": "Real Python",
+    "first_seen": "2026-04-03T20:24:03.772719+00:00",
+    "published": "2026-04-03T12:00:00+00:00"
+  },
+  "https://realpython.com/quizzes/codex-cli": {
+    "title": "Quiz: How to Add Features to a Python Project With Codex CLI",
+    "source": "Real Python",
+    "first_seen": "2026-04-03T20:24:03.772719+00:00",
+    "published": "2026-04-03T12:00:00+00:00"
+  },
+  "https://meeksfamily.uk/~michael/blog/2026-04-02-tdf-ejects-core-devs.html": {
+    "title": "TDF ejects its core developers",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-03T20:24:03.772719+00:00",
+    "published": "2026-04-03T11:53:32+00:00"
+  },
+  "https://www.schneier.com/blog/archives/2026/04/company-that-secretly-records-and-publishes-zoom-meetings.html": {
+    "title": "Company that Secretly Records and Publishes Zoom Meetings",
+    "source": "Schneier on Security",
+    "first_seen": "2026-04-03T20:24:03.772719+00:00",
+    "published": "2026-04-03T11:08:17+00:00"
+  },
+  "https://www.tigerdata.com/blog/surviving-performance-cliff-disk-bound-data": {
+    "title": "Surviving the Performance Cliff of Disk-Bound Data",
+    "source": "Timescale Blog",
+    "first_seen": "2026-04-03T20:24:03.772719+00:00",
+    "published": "2026-04-03T11:07:26+00:00"
+  },
+  "https://thenewstack.io/rag-pipeline-hybrid-search": {
+    "title": "The laptop return that broke a RAG pipeline",
+    "source": "The New Stack",
+    "first_seen": "2026-04-03T20:24:03.772719+00:00",
+    "published": "2026-04-03T11:00:00+00:00"
+  },
+  "https://blog.trailofbits.com/2026/04/03/simplifying-mba-obfuscation-with-cobra": {
+    "title": "Simplifying MBA obfuscation with CoBRA",
+    "source": "Trail of Bits",
+    "first_seen": "2026-04-03T20:24:03.772719+00:00",
+    "published": "2026-04-03T11:00:00+00:00"
+  },
+  "https://www.databricks.com/blog/aichemy-next-generation-agent-mcp-skills-and-custom-data-drug-discovery": {
+    "title": "AiChemy: Next-Generation Agent with MCP, Skills and Custom Data for Drug Discovery",
+    "source": "Databricks Blog",
+    "first_seen": "2026-04-03T20:24:03.772719+00:00",
+    "published": "2026-04-03T10:38:03+00:00"
+  },
+  "https://www.phoronix.com/news/FreeBSD-Newer-GPU-Drivers-2026": {
+    "title": "FreeBSD Laptop Project Hopes To Port Newer Linux Graphics Drivers This Year",
+    "source": "Phoronix",
+    "first_seen": "2026-04-03T20:24:03.772719+00:00",
+    "published": "2026-04-03T10:18:29+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.1-Qualcomm-MSM": {
+    "title": "Snapdragon X2's Adreno X2-85 GPU Sees Driver Improvements For Linux 7.1",
+    "source": "Phoronix",
+    "first_seen": "2026-04-03T20:24:03.772719+00:00",
+    "published": "2026-04-03T10:08:08+00:00"
+  },
+  "https://jpmens.net/2026/04/03/ssh-certificates-the-better-ssh-experience": {
+    "title": "SSH certificates: the better SSH experience",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-03T20:24:03.772719+00:00",
+    "published": "2026-04-03T09:52:20+00:00"
+  },
+  "https://www.phoronix.com/news/Vulkan-1.4.348-Released": {
+    "title": "Vulkan 1.4.348 Ships Four New Extensions - Including One To Help OpenGL Emulation",
+    "source": "Phoronix",
+    "first_seen": "2026-04-03T20:24:03.772719+00:00",
+    "published": "2026-04-03T09:50:54+00:00"
+  },
+  "https://abuseofnotation.github.io/category-theory-illustrated/06_type": {
+    "title": "Category Theory Illustrated – Types",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-03T20:24:03.772719+00:00",
+    "published": "2026-04-03T09:49:41+00:00"
+  },
+  "https://www.freevacy.com/news/financial-times/nhs-staff-refusing-to-use-fdp-over-palantir-ethical-concerns/7272": {
+    "title": "NHS staff refusing to use FDP over Palantir ethical concerns",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-03T20:24:03.772719+00:00",
+    "published": "2026-04-03T09:36:33+00:00"
+  },
+  "https://gist.github.com/greenstevester/fc49b4e60a4fef9effc79066c1033ae5": {
+    "title": "April 2026 TLDR Setup for Ollama and Gemma 4 26B on a Mac mini",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-03T20:24:03.772719+00:00",
+    "published": "2026-04-03T09:35:16+00:00"
+  },
+  "https://apfel.franzai.com": {
+    "title": "Show HN: Apfel – The free AI already on your Mac",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-03T20:24:03.772719+00:00",
+    "published": "2026-04-03T09:15:34+00:00"
+  },
+  "https://research.google/blog/evaluating-alignment-of-behavioral-dispositions-in-llms": {
+    "title": "Evaluating alignment of behavioral dispositions in LLMs",
+    "source": "Google Research",
+    "first_seen": "2026-04-03T20:24:03.772719+00:00",
+    "published": "2026-04-03T08:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/data-analytics/whats-new-with-google-data-cloud": {
+    "title": "What’s new with Google Data Cloud",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-04-03T20:24:03.772719+00:00",
+    "published": "2026-04-02T16:00:00+00:00"
   }
 }
