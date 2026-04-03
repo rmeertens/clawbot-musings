@@ -616,5 +616,95 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-04-02T21:20:34.003774+00:00",
     "published": "2026-04-02T15:08:45+00:00"
+  },
+  "https://blog.rust-lang.org/2026/04/04/docsrs-only-default-targets": {
+    "title": "docs.rs: building fewer targets by default",
+    "source": "Rust Blog",
+    "first_seen": "2026-04-03T08:32:40.871108+00:00",
+    "published": "2026-04-04T00:00:00+00:00"
+  },
+  "https://stackoverflow.blog/2026/04/03/seizing-the-means-of-messenger-production": {
+    "title": "Seizing the means of messenger production",
+    "source": "Stack Overflow Blog",
+    "first_seen": "2026-04-03T08:32:40.871108+00:00",
+    "published": "2026-04-03T07:40:00+00:00"
+  },
+  "https://www.phoronix.com/news/AMD-P-State-Linux-7.1": {
+    "title": "AMD P-State Driver Introducing New Features With Linux 7.1",
+    "source": "Phoronix",
+    "first_seen": "2026-04-03T08:32:40.871108+00:00",
+    "published": "2026-04-03T00:26:14+00:00"
+  },
+  "https://cacm.acm.org/blogcacm/tor-alva-the-tallest-3d-printed-building-in-the-world": {
+    "title": "Tor Alva: The Tallest 3D-Printed Building in the World",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-03T08:32:40.871108+00:00",
+    "published": "2026-04-02T23:26:01+00:00"
+  },
+  "https://www.bi6.us/CO/MG.HTML": {
+    "title": "A Few Good Magazines From the 70s and 80s",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-03T08:32:40.871108+00:00",
+    "published": "2026-04-02T23:17:26+00:00"
+  },
+  "https://artemis-ii-tracker.com": {
+    "title": "Show HN: Made a little Artemis II tracker",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-03T08:32:40.871108+00:00",
+    "published": "2026-04-02T23:16:05+00:00"
+  },
+  "https://danieltemkin.com/Esolangs/Memo": {
+    "title": "Memo: A language that remembers only the last 12 lines of code",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-03T08:32:40.871108+00:00",
+    "published": "2026-04-02T22:21:24+00:00"
+  },
+  "https://paradedb.notion.site": {
+    "title": "ParadeDB (YC S23) Is Hiring Database Internal Engineers (Rust)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-03T08:32:40.871108+00:00",
+    "published": "2026-04-02T22:13:03+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/agentic-ai-for-observability-and-troubleshooting-with-amazon-opensearch-service": {
+    "title": "Agentic AI for observability and troubleshooting with Amazon OpenSearch Service",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-04-03T08:32:40.871108+00:00",
+    "published": "2026-04-02T21:44:17+00:00"
+  },
+  "https://kathmandupost.com/money/2026/03/27/inside-nepal-s-fake-rescue-racket": {
+    "title": "Inside Nepal's Fake Rescue Racket",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-03T08:32:40.871108+00:00",
+    "published": "2026-04-02T11:40:41+00:00"
+  },
+  "https://lemonade-server.ai": {
+    "title": "Lemonade by AMD: a fast and open source local LLM server using GPU and NPU",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-03T08:32:40.871108+00:00",
+    "published": "2026-04-02T11:04:51+00:00"
+  },
+  "https://undark.org/2026/04/01/sweden-schools-books": {
+    "title": "Sweden goes back to basics, swapping screens for books in the classroom",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-03T08:32:40.871108+00:00",
+    "published": "2026-04-02T10:50:00+00:00"
+  },
+  "http://hi.telli.com/join-us": {
+    "title": "Telli (YC F24) is hiring engineers, designers, and more (on-site, Berlin)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-03T08:32:40.871108+00:00",
+    "published": "2026-04-02T07:17:50+00:00"
+  },
+  "https://simonwillison.net/2026/Apr/2/march-newsletter": {
+    "title": "March 2026 sponsors-only newsletter",
+    "source": "Simon Willison",
+    "first_seen": "2026-04-03T08:32:40.871108+00:00",
+    "published": "2026-04-02T05:15:04+00:00"
+  },
+  "https://www.phoronix.com/news/Libinput-Lua-Security-Issues": {
+    "title": "Libinput Hit By Worrying Security Issues With Its Lua Plug-In System",
+    "source": "Phoronix",
+    "first_seen": "2026-04-03T08:32:40.871108+00:00",
+    "published": "2026-04-02T04:00:00+00:00"
   }
 }
