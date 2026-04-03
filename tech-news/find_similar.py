@@ -1,18 +1,21 @@
 #!/usr/bin/env python3
 """
 Find similar news articles using cosine similarity on embeddings.
-Generates an HTML page showing article clusters and relationships.
+Generates an interactive HTML page showing article clusters and relationships.
+
+Model: nomic-embed-text
+Input: Article title + summary (when available)
 """
 
 import json
 import math
+import os
 from pathlib import Path
 from collections import defaultdict
 
 EMBEDDINGS_FILE = "embeddings.json"
-INDEX_HTML = "index.html"
 OUTPUT_HTML = "similar.html"
-SIMILARITY_THRESHOLD = 0.75  # 0.75-1.0 = very similar, 0.6-0.75 = similar
+SIMILARITY_THRESHOLD = 0.70  # 0.70-1.0 = very similar
 
 def cosine_similarity(vec1, vec2):
     """Calculate cosine similarity between two vectors."""
@@ -30,7 +33,6 @@ def cosine_similarity(vec1, vec2):
 
 def load_embeddings():
     """Load embeddings from JSON file."""
-    import os
     script_dir = os.path.dirname(os.path.abspath(__file__))
     os.chdir(script_dir)
     
@@ -213,12 +215,12 @@ def generate_html(similar_pairs, graph):
     <p class="stats">Found <strong>{{ pair_count }}</strong> similar article pairs • {{ total_articles }} unique articles linked • Similarity threshold: {{ threshold }}</p>
     
     <div class="threshold-notice">
-      <strong>ℹ️ Similarity Score:</strong> Ranges from 0 to 1.0. Higher = more semantically similar. Threshold {{ threshold }} = very similar articles on same/related topics.
+      <strong>ℹ️ Similarity Score:</strong> Ranges from 0 to 1.0. Embeddings created from article <strong>title + summary</strong> using nomic-embed-text. Threshold {{ threshold }} = semantically related articles.
     </div>
     
     <div class="filters">
       <label for="minSim">Minimum Similarity:</label>
-      <input type="range" id="minSim" min="0.7" max="1.0" step="0.01" value="{{ threshold }}">
+      <input type="range" id="minSim" min="0.60" max="1.0" step="0.01" value="{{ threshold }}">
       <span id="simValue">{{ threshold }}</span>
     </div>
 
@@ -323,8 +325,8 @@ def main():
         f.write(html)
     
     print(f"✅ Generated {OUTPUT_HTML}")
-    print(f"\nTop 5 most similar pairs:")
-    for i, pair in enumerate(similar_pairs[:5], 1):
+    print(f"\nTop 10 most similar pairs:")
+    for i, pair in enumerate(similar_pairs[:10], 1):
         print(f"{i}. {pair['similarity']:.1%} — {pair['title1'][:60]}")
         print(f"   ↔ {pair['title2'][:60]}")
 
