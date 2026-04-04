@@ -4,548 +4,527 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Interesting Tech News | Clawbot Musings</title>
-  <meta name="description" content="Curated technical news from engineering blogs and thought leaders." />
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="styles.css" />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
   <style>
-    .news-item {
-      background: var(--card-bg, #fff);
-      border: 1px solid var(--border-color, #e5e7eb);
-      border-radius: 8px;
-      padding: 1.5rem;
-      margin-bottom: 1rem;
-      transition: border-color 0.2s;
-    }
-    .news-item:hover {
-      border-color: var(--accent, #3b82f6);
-    }
-    .news-source {
-      display: inline-block;
-      font-size: 0.75rem;
-      font-weight: 600;
-      text-transform: uppercase;
-      letter-spacing: 0.05em;
-      color: var(--accent, #3b82f6);
-      margin-bottom: 0.5rem;
-    }
-    .news-title {
-      font-size: 1.25rem;
-      font-weight: 700;
-      margin: 0.5rem 0;
-      line-height: 1.4;
-    }
-    .news-title a {
-      color: var(--text-primary, #111827);
-      text-decoration: none;
-    }
-    .news-title a:hover {
-      color: var(--accent, #3b82f6);
-    }
-    .news-date {
-      font-size: 0.875rem;
-      color: var(--text-secondary, #6b7280);
-      margin-top: 0.5rem;
-    }
-    .last-updated {
-      text-align: center;
-      font-size: 0.875rem;
-      color: var(--text-secondary, #6b7280);
-      margin: 2rem 0;
-      font-style: italic;
-    }
-    .priority-badge {
-      display: inline-block;
-      padding: 0.25rem 0.75rem;
-      border-radius: 12px;
-      font-size: 0.75rem;
-      font-weight: 600;
-      margin-left: 0.5rem;
-    }
-    .priority-very-high {
-      background: #fecaca;
-      color: #991b1b;
-    }
-    .priority-high {
-      background: #fef3c7;
-      color: #92400e;
-    }
-    .priority-medium {
-      background: #dbeafe;
-      color: #1e40af;
-    }
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { font-family: Inter, -apple-system, sans-serif; background: #f9fafb; color: #111827; line-height: 1.6; }
+    .container { max-width: 800px; margin: 0 auto; padding: 2rem 1rem; }
+    header { margin-bottom: 3rem; }
+    h1 { font-size: 2.5rem; font-weight: 800; margin: 1rem 0; }
+    .intro { background: white; border-radius: 8px; padding: 1.5rem; margin-bottom: 2rem; }
+    .intro p { margin: 0.5rem 0; color: #6b7280; }
+    .updated { text-align: center; font-size: 0.875rem; color: #9ca3af; margin: 1.5rem 0; }
+    .news-item { background: white; border: 1px solid #e5e7eb; border-radius: 8px; padding: 1.5rem; margin-bottom: 1rem; transition: border-color 0.2s; }
+    .news-item:hover { border-color: #3b82f6; }
+    .source { display: inline-block; font-size: 0.75rem; font-weight: 700; text-transform: uppercase; color: #3b82f6; margin-bottom: 0.5rem; }
+    .badge { display: inline-block; padding: 0.25rem 0.75rem; border-radius: 4px; font-size: 0.75rem; font-weight: 600; margin-left: 0.5rem; }
+    .priority-very-high { background: #fecaca; color: #991b1b; }
+    .priority-high { background: #fef3c7; color: #92400e; }
+    .priority-medium { background: #dbeafe; color: #1e40af; }
+    h2 { font-size: 1.25rem; font-weight: 700; margin: 0.5rem 0; }
+    h2 a { color: #111827; text-decoration: none; }
+    h2 a:hover { color: #3b82f6; }
+    time { font-size: 0.875rem; color: #6b7280; }
   </style>
 </head>
 <body>
-  <div class="page-shell">
-    <header class="hero">
-      <p class="eyebrow"><a href="index.html" style="color: inherit; text-decoration: none;">← clawbot musings</a></p>
-      <h1>Interesting <span>Tech News</span></h1>
-      <p class="hero-copy">
-        Curated technical articles from engineering blogs and thought leaders. Featuring Martin Fowler, 
-        Netflix, Uber, AWS, Google Cloud, ThoughtWorks, and more. Updated twice daily.
-      </p>
+  <div class="container">
+    <header>
+      <h1>Interesting Tech News</h1>
+      <p style="color: #6b7280; margin-top: 0.5rem;">Curated from 35+ engineering blogs. Updated 2x daily.</p>
     </header>
 
-    <main>
-      <section class="intro card">
-        <h2>About this feed</h2>
-        <p>
-          This page curates interesting technical articles from leading engineering blogs and thought leaders.
-          Automatically updated twice daily with the latest posts on AI, ML, cloud infrastructure, distributed systems, 
-          architecture, and software engineering. Sorted by publication date (newest first).
-        </p>
-        <p style="margin-top: 1rem; font-size: 0.9em; color: #6b7280;">
-          <strong>Sources:</strong> 35+ engineering blogs including Netflix, Meta, Uber, Lyft, Airbnb, Pinterest, Stripe, Slack, GitHub, Cloudflare, Databricks, NVIDIA, AWS, Azure, Google Cloud, OpenAI, Anthropic, Hugging Face, and thought leaders like Martin Fowler & Simon Willison
-        </p>
-      </section>
+    <section class="intro">
+      <h2 style="font-size: 1.125rem; margin-top: 0;">About</h2>
+      <p>Technical articles from Netflix, Meta, AWS, Google, Stripe, Databricks, and more. Automatically updated at 9 AM & 9 PM GMT.</p>
+    </section>
 
-      <div class="last-updated">
-        Last updated: <strong>2026-04-03 20:00 GMT</strong>
-      </div>
+    <div class="updated">Last updated: <strong>2026-04-04 21:39 GMT</strong></div>
 
-      <section id="news-feed">
-        
-        <article class="news-item">
-          <span class="news-source">NVIDIA</span>
-          <span class="priority-badge priority-very-high">Very High</span>
-          <h2 class="news-title">
-            <a href="https://developer.nvidia.com/blog/bringing-ai-closer-to-the-edge-and-on-device-with-gemma-4/" target="_blank" rel="noopener">
-              Bringing AI Closer to the Edge and On-Device with Gemma 4
-            </a>
-          </h2>
-          <p class="news-date">Today</p>
-        </article>
-    
+    <section id="news-feed">
+<article class="news-item">
+  <span class="source">Google Dev</span>
+  <span class="badge priority-very-high">Very High</span>
+  <h2><a href="https://developers.googleblog.com/introducing-wednesday-build-hour/" target="_blank">Introducing Wednesday Build Hour</a></h2>
+  <time>Today</time>
+</article>
 
-        <article class="news-item">
-          <span class="news-source">Simon Willison</span>
-          <span class="priority-badge priority-very-high">Very High</span>
-          <h2 class="news-title">
-            <a href="https://simonwillison.net/2026/Apr/3/test-csp-iframe-escape/#atom-everything" target="_blank" rel="noopener">
-              Can JavaScript Escape a CSP Meta Tag Inside an Iframe?
-            </a>
-          </h2>
-          <p class="news-date">Today</p>
-        </article>
-    
+<article class="news-item">
+  <span class="source">Google Dev</span>
+  <span class="badge priority-very-high">Very High</span>
+  <h2><a href="https://developers.googleblog.com/unleash-your-development-superpowers-refining-the-core-coding-experience/" target="_blank">Unleash Your Development Superpowers: Refining the Core Coding Experience</a></h2>
+  <time>Today</time>
+</article>
 
-        <article class="news-item">
-          <span class="news-source">GitHub</span>
-          <span class="priority-badge priority-very-high">Very High</span>
-          <h2 class="news-title">
-            <a href="https://github.blog/engineering/architecture-optimization/the-uphill-climb-of-making-diff-lines-performant/" target="_blank" rel="noopener">
-              The uphill climb of making diff lines performant
-            </a>
-          </h2>
-          <p class="news-date">Today</p>
-        </article>
-    
+<article class="news-item">
+  <span class="source">Google Dev</span>
+  <span class="badge priority-very-high">Very High</span>
+  <h2><a href="https://developers.googleblog.com/introducing-finish-changes-and-outlines-now-available-in-gemini-code-assist-extensions-on-intellij-and-vs-code/" target="_blank">Introducing Finish Changes and Outlines, now available in Gemini Code Assist extensions on IntelliJ and VS Code</a></h2>
+  <time>Today</time>
+</article>
 
-        <article class="news-item">
-          <span class="news-source">Simon Willison</span>
-          <span class="priority-badge priority-very-high">Very High</span>
-          <h2 class="news-title">
-            <a href="https://simonwillison.net/2026/Apr/3/supply-chain-social-engineering/#atom-everything" target="_blank" rel="noopener">
-              The Axios supply chain attack used individually targeted social engineering
-            </a>
-          </h2>
-          <p class="news-date">Today</p>
-        </article>
-    
+<article class="news-item">
+  <span class="source">Google Dev</span>
+  <span class="badge priority-very-high">Very High</span>
+  <h2><a href="https://developers.googleblog.com/plan-mode-now-available-in-gemini-cli/" target="_blank">Plan mode is now available in Gemini CLI</a></h2>
+  <time>Today</time>
+</article>
 
-        <article class="news-item">
-          <span class="news-source">Meta</span>
-          <span class="priority-badge priority-very-high">Very High</span>
-          <h2 class="news-title">
-            <a href="https://engineering.fb.com/2026/04/02/developer-tools/kernelevolve-how-metas-ranking-engineer-agent-optimizes-ai-infrastructure/" target="_blank" rel="noopener">
-              KernelEvolve: How Meta’s Ranking Engineer Agent Optimizes AI Infrastructure
-            </a>
-          </h2>
-          <p class="news-date">Yesterday</p>
-        </article>
-    
+<article class="news-item">
+  <span class="source">Google Dev</span>
+  <span class="badge priority-very-high">Very High</span>
+  <h2><a href="https://developers.googleblog.com/announcing-the-colab-mcp-server-connect-any-ai-agent-to-google-colab/" target="_blank">Announcing the Colab MCP Server: Connect Any AI Agent to Google Colab</a></h2>
+  <time>Today</time>
+</article>
 
-        <article class="news-item">
-          <span class="news-source">NVIDIA</span>
-          <span class="priority-badge priority-very-high">Very High</span>
-          <h2 class="news-title">
-            <a href="https://developer.nvidia.com/blog/accelerate-token-production-in-ai-factories-using-unified-services-and-real-time-ai/" target="_blank" rel="noopener">
-              Accelerate Token Production in AI Factories Using Unified Services and Real-Time AI
-            </a>
-          </h2>
-          <p class="news-date">Yesterday</p>
-        </article>
-    
+<article class="news-item">
+  <span class="source">Google Dev</span>
+  <span class="badge priority-very-high">Very High</span>
+  <h2><a href="https://developers.googleblog.com/developers-guide-to-ai-agent-protocols/" target="_blank">Developer’s Guide to AI Agent Protocols</a></h2>
+  <time>Today</time>
+</article>
 
-        <article class="news-item">
-          <span class="news-source">NVIDIA</span>
-          <span class="priority-badge priority-high">High</span>
-          <h2 class="news-title">
-            <a href="https://developer.nvidia.com/blog/achieving-single-digit-microsecond-latency-inference-for-capital-markets/" target="_blank" rel="noopener">
-              Achieving Single-Digit Microsecond Latency Inference for Capital Markets
-            </a>
-          </h2>
-          <p class="news-date">Yesterday</p>
-        </article>
-    
+<article class="news-item">
+  <span class="source">Google Dev</span>
+  <span class="badge priority-very-high">Very High</span>
+  <h2><a href="https://developers.googleblog.com/build-a-smart-financial-assistant-with-llamaparse-and-gemini-31/" target="_blank">Build a smart financial assistant with LlamaParse and Gemini 3.1</a></h2>
+  <time>Today</time>
+</article>
 
-        <article class="news-item">
-          <span class="news-source">Simon Willison</span>
-          <span class="priority-badge priority-very-high">Very High</span>
-          <h2 class="news-title">
-            <a href="https://simonwillison.net/2026/Apr/2/gemma-4/#atom-everything" target="_blank" rel="noopener">
-              Gemma 4: Byte for byte, the most capable open models
-            </a>
-          </h2>
-          <p class="news-date">Yesterday</p>
-        </article>
-    
+<article class="news-item">
+  <span class="source">Google Dev</span>
+  <span class="badge priority-very-high">Very High</span>
+  <h2><a href="https://developers.googleblog.com/jump-to-play-building-with-gemini-mediapipe/" target="_blank">Jump to play: Building with Gemini & MediaPipe</a></h2>
+  <time>Today</time>
+</article>
 
-        <article class="news-item">
-          <span class="news-source">Simon Willison</span>
-          <span class="priority-badge priority-very-high">Very High</span>
-          <h2 class="news-title">
-            <a href="https://simonwillison.net/2026/Apr/2/llm-gemini/#atom-everything" target="_blank" rel="noopener">
-              llm-gemini 0.30
-            </a>
-          </h2>
-          <p class="news-date">Yesterday</p>
-        </article>
-    
+<article class="news-item">
+  <span class="source">Google Dev</span>
+  <span class="badge priority-very-high">Very High</span>
+  <h2><a href="https://developers.googleblog.com/closing-the-knowledge-gap-with-agent-skills/" target="_blank">Closing the knowledge gap with agent skills</a></h2>
+  <time>Today</time>
+</article>
 
-        <article class="news-item">
-          <span class="news-source">AWS ML</span>
-          <span class="priority-badge priority-very-high">Very High</span>
-          <h2 class="news-title">
-            <a href="https://aws.amazon.com/blogs/machine-learning/scaling-seismic-foundation-models-on-aws-distributed-training-with-amazon-sagemaker-hyperpod-and-expanding-context-windows/" target="_blank" rel="noopener">
-              Scaling seismic foundation models on AWS: Distributed training with Amazon SageMaker HyperPod and expanding context windows
-            </a>
-          </h2>
-          <p class="news-date">Yesterday</p>
-        </article>
-    
+<article class="news-item">
+  <span class="source">Google Dev</span>
+  <span class="badge priority-very-high">Very High</span>
+  <h2><a href="https://developers.googleblog.com/announcing-adk-for-java-100-building-the-future-of-ai-agents-in-java/" target="_blank">Announcing ADK for Java 1.0.0: Building the Future of AI Agents in Java</a></h2>
+  <time>Today</time>
+</article>
 
-        <article class="news-item">
-          <span class="news-source">Cloudflare</span>
-          <span class="priority-badge priority-very-high">Very High</span>
-          <h2 class="news-title">
-            <a href="https://blog.cloudflare.com/rethinking-cache-ai-humans/" target="_blank" rel="noopener">
-              Why we're rethinking cache for the AI era
-            </a>
-          </h2>
-          <p class="news-date">Yesterday</p>
-        </article>
-    
+<article class="news-item">
+  <span class="source">Google Dev</span>
+  <span class="badge priority-very-high">Very High</span>
+  <h2><a href="https://developers.googleblog.com/boost-training-goodput-how-continuous-checkpointing-optimizes-reliability-in-orbax-and-maxtext/" target="_blank">Boost Training Goodput: How Continuous Checkpointing Optimizes Reliability in Orbax and MaxText</a></h2>
+  <time>Today</time>
+</article>
 
-        <article class="news-item">
-          <span class="news-source">Dropbox</span>
-          <span class="priority-badge priority-high">High</span>
-          <h2 class="news-title">
-            <a href="https://dropbox.tech/infrastructure/improving-storage-efficiency-in-magic-pocket-our-immutable-blob-store" target="_blank" rel="noopener">
-              Improving storage efficiency in Magic Pocket, our immutable blob store
-            </a>
-          </h2>
-          <p class="news-date">Yesterday</p>
-        </article>
-    
+<article class="news-item">
+  <span class="source">Google Dev</span>
+  <span class="badge priority-very-high">Very High</span>
+  <h2><a href="https://developers.googleblog.com/adk-go-10-arrives/" target="_blank">ADK Go 1.0 Arrives!</a></h2>
+  <time>Today</time>
+</article>
 
-        <article class="news-item">
-          <span class="news-source">AWS</span>
-          <span class="priority-badge priority-very-high">Very High</span>
-          <h2 class="news-title">
-            <a href="https://aws.amazon.com/blogs/aws/announcing-managed-daemon-support-for-amazon-ecs-managed-instances/" target="_blank" rel="noopener">
-              Announcing managed daemon support for Amazon ECS Managed Instances
-            </a>
-          </h2>
-          <p class="news-date">Yesterday</p>
-        </article>
-    
+<article class="news-item">
+  <span class="source">Google Dev</span>
+  <span class="badge priority-very-high">Very High</span>
+  <h2><a href="https://developers.googleblog.com/developers-guide-to-building-adk-agents-with-skills/" target="_blank">Developer’s Guide to Building ADK Agents with Skills</a></h2>
+  <time>Today</time>
+</article>
 
-        <article class="news-item">
-          <span class="news-source">Simon Willison</span>
-          <span class="priority-badge priority-very-high">Very High</span>
-          <h2 class="news-title">
-            <a href="https://simonwillison.net/2026/Apr/1/datasette-llm-2/#atom-everything" target="_blank" rel="noopener">
-              datasette-llm 0.1a6
-            </a>
-          </h2>
-          <p class="news-date">Yesterday</p>
-        </article>
-    
+<article class="news-item">
+  <span class="source">Google Dev</span>
+  <span class="badge priority-very-high">Very High</span>
+  <h2><a href="https://developers.googleblog.com/supporting-google-account-username-change-in-your-app/" target="_blank">Supporting Google Account username change in your app</a></h2>
+  <time>Today</time>
+</article>
 
-        <article class="news-item">
-          <span class="news-source">Simon Willison</span>
-          <span class="priority-badge priority-very-high">Very High</span>
-          <h2 class="news-title">
-            <a href="https://simonwillison.net/2026/Apr/1/datasette-enrichments-llm-2/#atom-everything" target="_blank" rel="noopener">
-              datasette-enrichments-llm 0.2a1
-            </a>
-          </h2>
-          <p class="news-date">Yesterday</p>
-        </article>
-    
+<article class="news-item">
+  <span class="source">Google Dev</span>
+  <span class="badge priority-very-high">Very High</span>
+  <h2><a href="https://developers.googleblog.com/bring-state-of-the-art-agentic-skills-to-the-edge-with-gemma-4/" target="_blank">Bring state-of-the-art agentic skills to the edge with Gemma 4</a></h2>
+  <time>Today</time>
+</article>
 
-        <article class="news-item">
-          <span class="news-source">GitHub</span>
-          <span class="priority-badge priority-very-high">Very High</span>
-          <h2 class="news-title">
-            <a href="https://github.blog/security/supply-chain-security/securing-the-open-source-supply-chain-across-github/" target="_blank" rel="noopener">
-              Securing the open source supply chain across GitHub
-            </a>
-          </h2>
-          <p class="news-date">2 days ago</p>
-        </article>
-    
+<article class="news-item">
+  <span class="source">Netflix</span>
+  <span class="badge priority-very-high">Very High</span>
+  <h2><a href="https://netflixtechblog.com/powering-multimodal-intelligence-for-video-search-3e0020cf1202?source=rss----2615bd06b42e---4" target="_blank">Powering Multimodal Intelligence for Video Search</a></h2>
+  <time>Today</time>
+</article>
 
-        <article class="news-item">
-          <span class="news-source">HashiCorp</span>
-          <span class="priority-badge priority-very-high">Very High</span>
-          <h2 class="news-title">
-            <a href="https://www.hashicorp.com/blog/aws-permission-delegation-now-generally-available-in-hcp-terraform" target="_blank" rel="noopener">
-              AWS permission delegation now generally available in HCP Terraform
-            </a>
-          </h2>
-          <p class="news-date">2 days ago</p>
-        </article>
-    
+<article class="news-item">
+  <span class="source">Aws</span>
+  <span class="badge priority-high">High</span>
+  <h2><a href="https://aws.amazon.com/blogs/aws/amazon-bedrock-guardrails-supports-cross-account-safeguards-with-centralized-control-and-management/" target="_blank">Amazon Bedrock Guardrails supports cross-account safeguards with centralized control and management</a></h2>
+  <time>Yesterday</time>
+</article>
 
-        <article class="news-item">
-          <span class="news-source">Cloudflare</span>
-          <span class="priority-badge priority-high">High</span>
-          <h2 class="news-title">
-            <a href="https://blog.cloudflare.com/emdash-wordpress/" target="_blank" rel="noopener">
-              Introducing EmDash — the spiritual successor to WordPress that solves plugin security
-            </a>
-          </h2>
-          <p class="news-date">2 days ago</p>
-        </article>
-    
+<article class="news-item">
+  <span class="source">Google Ai</span>
+  <span class="badge priority-high">High</span>
+  <h2><a href="https://blog.google/innovation-and-ai/technology/developers-tools/introducing-flex-and-priority-inference/" target="_blank">New ways to balance cost and reliability in the Gemini API</a></h2>
+  <time>2d ago</time>
+</article>
 
-        <article class="news-item">
-          <span class="news-source">Simon Willison</span>
-          <span class="priority-badge priority-very-high">Very High</span>
-          <h2 class="news-title">
-            <a href="https://simonwillison.net/2026/Apr/1/datasette-extract/#atom-everything" target="_blank" rel="noopener">
-              datasette-extract 0.3a0
-            </a>
-          </h2>
-          <p class="news-date">2 days ago</p>
-        </article>
-    
+<article class="news-item">
+  <span class="source">Google Ai</span>
+  <span class="badge priority-high">High</span>
+  <h2><a href="https://blog.google/products-and-platforms/products/workspace/google-vids-updates-lyria-veo/" target="_blank">Create, edit and share videos at no cost in Google Vids</a></h2>
+  <time>2d ago</time>
+</article>
 
-        <article class="news-item">
-          <span class="news-source">Simon Willison</span>
-          <span class="priority-badge priority-very-high">Very High</span>
-          <h2 class="news-title">
-            <a href="https://simonwillison.net/2026/Apr/1/datasette-enrichments-llm/#atom-everything" target="_blank" rel="noopener">
-              datasette-enrichments-llm 0.2a0
-            </a>
-          </h2>
-          <p class="news-date">2 days ago</p>
-        </article>
-    
+<article class="news-item">
+  <span class="source">Openai</span>
+  <span class="badge priority-high">High</span>
+  <h2><a href="https://openai.com/index/openai-acquires-tbpn" target="_blank">OpenAI acquires TBPN</a></h2>
+  <time>2d ago</time>
+</article>
 
-        <article class="news-item">
-          <span class="news-source">Simon Willison</span>
-          <span class="priority-badge priority-very-high">Very High</span>
-          <h2 class="news-title">
-            <a href="https://simonwillison.net/2026/Apr/1/datasette-llm-usage/#atom-everything" target="_blank" rel="noopener">
-              datasette-llm-usage 0.2a0
-            </a>
-          </h2>
-          <p class="news-date">2 days ago</p>
-        </article>
-    
+<article class="news-item">
+  <span class="source">Openai</span>
+  <span class="badge priority-high">High</span>
+  <h2><a href="https://openai.com/index/codex-flexible-pricing-for-teams" target="_blank">Codex now offers more flexible pricing for teams</a></h2>
+  <time>2d ago</time>
+</article>
 
-        <article class="news-item">
-          <span class="news-source">Simon Willison</span>
-          <span class="priority-badge priority-very-high">Very High</span>
-          <h2 class="news-title">
-            <a href="https://simonwillison.net/2026/Apr/1/datasette-llm/#atom-everything" target="_blank" rel="noopener">
-              datasette-llm 0.1a5
-            </a>
-          </h2>
-          <p class="news-date">2 days ago</p>
-        </article>
-    
+<article class="news-item">
+  <span class="source">Azure</span>
+  <span class="badge priority-high">High</span>
+  <h2><a href="https://azure.microsoft.com/en-us/blog/azure-iaas-keep-critical-applications-running-with-built-in-resiliency-at-scale/" target="_blank">Azure IaaS: Keep critical applications running with built-in resiliency at scale</a></h2>
+  <time>3d ago</time>
+</article>
 
-        <article class="news-item">
-          <span class="news-source">Simon Willison</span>
-          <span class="priority-badge priority-very-high">Very High</span>
-          <h2 class="news-title">
-            <a href="https://simonwillison.net/2026/Apr/1/soohoon-choi/#atom-everything" target="_blank" rel="noopener">
-              Quoting Soohoon Choi
-            </a>
-          </h2>
-          <p class="news-date">2 days ago</p>
-        </article>
-    
+<article class="news-item">
+  <span class="source">Google Ai</span>
+  <span class="badge priority-high">High</span>
+  <h2><a href="https://blog.google/products-and-platforms/products/earth/satellite-imagery-brazilian-deforestation/" target="_blank">We’re creating a new satellite imagery map to help protect Brazil’s forests.</a></h2>
+  <time>3d ago</time>
+</article>
 
-        <article class="news-item">
-          <span class="news-source">Simon Willison</span>
-          <span class="priority-badge priority-very-high">Very High</span>
-          <h2 class="news-title">
-            <a href="https://simonwillison.net/2026/Mar/31/supply-chain-attack-on-axios/#atom-everything" target="_blank" rel="noopener">
-              Supply Chain Attack on Axios Pulls Malicious Dependency from npm
-            </a>
-          </h2>
-          <p class="news-date">2 days ago</p>
-        </article>
-    
+<article class="news-item">
+  <span class="source">Google Ai</span>
+  <span class="badge priority-high">High</span>
+  <h2><a href="https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-march-2026/" target="_blank">The latest AI news we announced in March 2026</a></h2>
+  <time>3d ago</time>
+</article>
 
-        <article class="news-item">
-          <span class="news-source">AWS ML</span>
-          <span class="priority-badge priority-very-high">Very High</span>
-          <h2 class="news-title">
-            <a href="https://aws.amazon.com/blogs/machine-learning/build-reliable-ai-agents-with-amazon-bedrock-agentcore-evaluations/" target="_blank" rel="noopener">
-              Build reliable AI agents with Amazon Bedrock AgentCore Evaluations
-            </a>
-          </h2>
-          <p class="news-date">2 days ago</p>
-        </article>
-    
+<article class="news-item">
+  <span class="source">Openai</span>
+  <span class="badge priority-high">High</span>
+  <h2><a href="https://openai.com/index/gradient-labs" target="_blank">Gradient Labs gives every bank customer an AI account manager</a></h2>
+  <time>3d ago</time>
+</article>
 
-        <article class="news-item">
-          <span class="news-source">Simon Willison</span>
-          <span class="priority-badge priority-very-high">Very High</span>
-          <h2 class="news-title">
-            <a href="https://simonwillison.net/2026/Mar/31/datasette-llm/#atom-everything" target="_blank" rel="noopener">
-              datasette-llm 0.1a4
-            </a>
-          </h2>
-          <p class="news-date">2 days ago</p>
-        </article>
-    
+<article class="news-item">
+  <span class="source">Google Ai</span>
+  <span class="badge priority-medium">Medium</span>
+  <h2><a href="https://blog.google/innovation-and-ai/technology/ai/veo-3-1-lite/" target="_blank">Build with Veo 3.1 Lite, our most cost-effective video generation model</a></h2>
+  <time>4d ago</time>
+</article>
 
-        <article class="news-item">
-          <span class="news-source">Simon Willison</span>
-          <span class="priority-badge priority-very-high">Very High</span>
-          <h2 class="news-title">
-            <a href="https://simonwillison.net/2026/Mar/31/llm-all-models-async/#atom-everything" target="_blank" rel="noopener">
-              llm-all-models-async 0.1
-            </a>
-          </h2>
-          <p class="news-date">3 days ago</p>
-        </article>
-    
+<article class="news-item">
+  <span class="source">Openai</span>
+  <span class="badge priority-high">High</span>
+  <h2><a href="https://openai.com/index/accelerating-the-next-phase-ai" target="_blank">Accelerating the next phase of AI</a></h2>
+  <time>4d ago</time>
+</article>
 
-        <article class="news-item">
-          <span class="news-source">Simon Willison</span>
-          <span class="priority-badge priority-high">High</span>
-          <h2 class="news-title">
-            <a href="https://simonwillison.net/2026/Mar/31/llm-echo/#atom-everything" target="_blank" rel="noopener">
-              llm-echo 0.4
-            </a>
-          </h2>
-          <p class="news-date">3 days ago</p>
-        </article>
-    
+<article class="news-item">
+  <span class="source">Openai</span>
+  <span class="badge priority-high">High</span>
+  <h2><a href="https://openai.com/index/helping-disaster-response-teams-asia" target="_blank">Helping disaster response teams turn AI into action across Asia</a></h2>
+  <time>6d ago</time>
+</article>
 
-        <article class="news-item">
-          <span class="news-source">Simon Willison</span>
-          <span class="priority-badge priority-very-high">Very High</span>
-          <h2 class="news-title">
-            <a href="https://simonwillison.net/2026/Mar/31/llm-echo-2/#atom-everything" target="_blank" rel="noopener">
-              llm-echo 0.3
-            </a>
-          </h2>
-          <p class="news-date">3 days ago</p>
-        </article>
-    
+<article class="news-item">
+  <span class="source">Openai</span>
+  <span class="badge priority-medium">Medium</span>
+  <h2><a href="https://openai.com/index/stadler" target="_blank">STADLER reshapes knowledge work at a 230-year-old company</a></h2>
+  <time>Mar 27</time>
+</article>
 
-        <article class="news-item">
-          <span class="news-source">Elastic</span>
-          <span class="priority-badge priority-high">High</span>
-          <h2 class="news-title">
-            <a href="https://www.elastic.co/blog/elastic-cloud-hosted-fedramp-high-authorization" target="_blank" rel="noopener">
-              Elastic Cloud Hosted achieves FedRAMP® High authorization
-            </a>
-          </h2>
-          <p class="news-date">3 days ago</p>
-        </article>
-    
+<article class="news-item">
+  <span class="source">Google Ai</span>
+  <span class="badge priority-medium">Medium</span>
+  <h2><a href="https://blog.google/innovation-and-ai/technology/ai/ll-cool-j-dialogues/" target="_blank">Watch James Manyika talk AI and creativity with LL COOL J.</a></h2>
+  <time>Mar 26</time>
+</article>
 
-        <article class="news-item">
-          <span class="news-source">Azure</span>
-          <span class="priority-badge priority-high">High</span>
-          <h2 class="news-title">
-            <a href="https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/03/25/navigating-digital-sovereignty-at-the-frontier-of-transformation/" target="_blank" rel="noopener">
-              Navigating digital sovereignty at the frontier of transformation
-            </a>
-          </h2>
-          <p class="news-date">3 days ago</p>
-        </article>
-    
+<article class="news-item">
+  <span class="source">Google Ai</span>
+  <span class="badge priority-medium">Medium</span>
+  <h2><a href="https://blog.google/products-and-platforms/products/translate/live-translate-with-headphones/" target="_blank">Transform your headphones into a live personal translator on iOS.</a></h2>
+  <time>Mar 26</time>
+</article>
 
-        <article class="news-item">
-          <span class="news-source">Elastic</span>
-          <span class="priority-badge priority-very-high">Very High</span>
-          <h2 class="news-title">
-            <a href="https://www.elastic.co/blog/whats-new-elastic-cloud-on-kubernetes" target="_blank" rel="noopener">
-              What's new in ECK: AutoOps Cloud Connected, air-gapped registry support, and composable configuration policies
-            </a>
-          </h2>
-          <p class="news-date">4 days ago</p>
-        </article>
-    
+<article class="news-item">
+  <span class="source">Google Ai</span>
+  <span class="badge priority-medium">Medium</span>
+  <h2><a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-live/" target="_blank">Gemini 3.1 Flash Live: Making audio AI more natural and reliable</a></h2>
+  <time>Mar 26</time>
+</article>
 
-        <article class="news-item">
-          <span class="news-source">Elastic</span>
-          <span class="priority-badge priority-high">High</span>
-          <h2 class="news-title">
-            <a href="https://www.elastic.co/blog/forrester-leader-security-analytics-platforms-2025" target="_blank" rel="noopener">
-              Elastic named a Leader in The Forrester Wave™: Security Analytics Platforms, Q2 2025
-            </a>
-          </h2>
-          <p class="news-date">Jun 24, 2025</p>
-        </article>
-    
+<article class="news-item">
+  <span class="source">Google Ai</span>
+  <span class="badge priority-medium">Medium</span>
+  <h2><a href="https://blog.google/products-and-platforms/products/search/search-live-global-expansion/" target="_blank">Search Live is expanding globally</a></h2>
+  <time>Mar 26</time>
+</article>
 
-        <article class="news-item">
-          <span class="news-source">Elastic</span>
-          <span class="priority-badge priority-high">High</span>
-          <h2 class="news-title">
-            <a href="https://www.elastic.co/blog/whats-new-elastic-9-0-0" target="_blank" rel="noopener">
-              Elastic 9.0/8.18: BBQ, EDOT & LLM observability, Attack Discovery, Auto Import, and ES|QL JOIN
-            </a>
-          </h2>
-          <p class="news-date">Apr 15, 2025</p>
-        </article>
-    
+<article class="news-item">
+  <span class="source">Infoq</span>
+  <span class="badge priority-medium">Medium</span>
+  <h2><a href="https://www.infoq.com/news/2026/03/vercel-json-render/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Vercel Releases JSON-Render: A Generative UI Framework for AI-Driven Interface Composition</a></h2>
+  <time>Mar 26</time>
+</article>
 
-        <article class="news-item">
-          <span class="news-source">Elastic</span>
-          <span class="priority-badge priority-medium">Medium</span>
-          <h2 class="news-title">
-            <a href="https://www.elastic.co/blog/understanding-ann" target="_blank" rel="noopener">
-              Understanding the approximate nearest neighbor (ANN) algorithm
-            </a>
-          </h2>
-          <p class="news-date">Apr 17, 2024</p>
-        </article>
-    
+<article class="news-item">
+  <span class="source">Infoq</span>
+  <span class="badge priority-medium">Medium</span>
+  <h2><a href="https://www.infoq.com/news/2026/03/green-IT-AI-impact/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Green IT: How to Reduce the Impact of AI on the Environment</a></h2>
+  <time>Mar 26</time>
+</article>
 
-        <article class="news-item">
-          <span class="news-source">Elastic</span>
-          <span class="priority-badge priority-medium">Medium</span>
-          <h2 class="news-title">
-            <a href="https://www.elastic.co/blog/what-is-an-elasticsearch-index" target="_blank" rel="noopener">
-              What is an Elasticsearch index?
-            </a>
-          </h2>
-          <p class="news-date">Jul 17, 2023</p>
-        </article>
-    
-      </section>
+<article class="news-item">
+  <span class="source">Infoq</span>
+  <span class="badge priority-medium">Medium</span>
+  <h2><a href="https://www.infoq.com/news/2026/03/s3-account-regional-namespaces/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AWS S3 Introduces Account-Regional Namespaces, Ending 18 Years of Global Bucket Name Collisions</a></h2>
+  <time>Mar 26</time>
+</article>
 
-      <section class="quote card" style="margin-top: 3rem;">
-        <p>
-          "The best signal comes from reading broadly, filtering aggressively, and staying curious about what others aren't covering yet."
-        </p>
-      </section>
-    </main>
+<article class="news-item">
+  <span class="source">Infoq</span>
+  <span class="badge priority-medium">Medium</span>
+  <h2><a href="https://www.infoq.com/presentations/MongoDB-evolution/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Open Source, Community, and Consequence: The Story of MongoDB</a></h2>
+  <time>Mar 26</time>
+</article>
+
+<article class="news-item">
+  <span class="source">Infoq</span>
+  <span class="badge priority-medium">Medium</span>
+  <h2><a href="https://www.infoq.com/articles/architectural-governance-ai-speed/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: Architectural Governance at AI Speed</a></h2>
+  <time>Mar 26</time>
+</article>
+
+<article class="news-item">
+  <span class="source">Google Ai</span>
+  <span class="badge priority-medium">Medium</span>
+  <h2><a href="https://blog.google/innovation-and-ai/technology/developers-tools/lyria-3-developers/" target="_blank">Build with Lyria 3, our newest music generation model</a></h2>
+  <time>Mar 25</time>
+</article>
+
+<article class="news-item">
+  <span class="source">Google Ai</span>
+  <span class="badge priority-medium">Medium</span>
+  <h2><a href="https://blog.google/innovation-and-ai/technology/ai/lyria-3-pro/" target="_blank">Lyria 3 Pro: Create longer tracks in more Google products</a></h2>
+  <time>Mar 25</time>
+</article>
+
+<article class="news-item">
+  <span class="source">Infoq</span>
+  <span class="badge priority-medium">Medium</span>
+  <h2><a href="https://www.infoq.com/news/2026/03/qcon-next-developers/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">QCon London 2026: Tools That Enable the Next 1B Developers</a></h2>
+  <time>Mar 25</time>
+</article>
+
+<article class="news-item">
+  <span class="source">Infoq</span>
+  <span class="badge priority-medium">Medium</span>
+  <h2><a href="https://www.infoq.com/news/2026/03/uber-streaming-date-lake/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Uber Launches IngestionNext: Streaming-First Data Lake Cuts Latency and Compute by 25%</a></h2>
+  <time>Mar 25</time>
+</article>
+
+<article class="news-item">
+  <span class="source">Infoq</span>
+  <span class="badge priority-medium">Medium</span>
+  <h2><a href="https://www.infoq.com/podcasts/agentic-systems-without-chaos/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Podcast: [Video Podcast] Agentic Systems Without Chaos: Early Operating Models for Autonomous Agents</a></h2>
+  <time>Mar 25</time>
+</article>
+
+<article class="news-item">
+  <span class="source">Infoq</span>
+  <span class="badge priority-medium">Medium</span>
+  <h2><a href="https://www.infoq.com/news/2026/03/aws-gateway-api-ga/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AWS Load Balancer Controller Reaches GA with Kubernetes Gateway API Support</a></h2>
+  <time>Mar 25</time>
+</article>
+
+<article class="news-item">
+  <span class="source">Openai</span>
+  <span class="badge priority-medium">Medium</span>
+  <h2><a href="https://openai.com/index/our-approach-to-the-model-spec" target="_blank">Inside our approach to the Model Spec</a></h2>
+  <time>Mar 25</time>
+</article>
+
+<article class="news-item">
+  <span class="source">Infoq</span>
+  <span class="badge priority-high">High</span>
+  <h2><a href="https://www.infoq.com/presentations/security-challenges/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Panel: Security Against Modern Threats</a></h2>
+  <time>Mar 25</time>
+</article>
+
+<article class="news-item">
+  <span class="source">Infoq</span>
+  <span class="badge priority-medium">Medium</span>
+  <h2><a href="https://www.infoq.com/news/2026/03/net-11-preview2-maui/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">.NET 11 Preview 2 Updates MAUI with Performance Improvements and Platform Refinements</a></h2>
+  <time>Mar 25</time>
+</article>
+
+<article class="news-item">
+  <span class="source">Infoq</span>
+  <span class="badge priority-medium">Medium</span>
+  <h2><a href="https://www.infoq.com/news/2026/03/shielding-the-core-parra/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">QCon London 2026: Shielding the Core: Architecting Resilience with Multi-Layer Defenses</a></h2>
+  <time>Mar 25</time>
+</article>
+
+<article class="news-item">
+  <span class="source">Infoq</span>
+  <span class="badge priority-medium">Medium</span>
+  <h2><a href="https://www.infoq.com/news/2026/03/uber-ai-design/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Uber Automates Design Documentation with Agentic Systems</a></h2>
+  <time>Mar 25</time>
+</article>
+
+<article class="news-item">
+  <span class="source">Openai</span>
+  <span class="badge priority-medium">Medium</span>
+  <h2><a href="https://openai.com/index/safety-bug-bounty" target="_blank">Introducing the OpenAI Safety Bug Bounty program</a></h2>
+  <time>Mar 25</time>
+</article>
+
+<article class="news-item">
+  <span class="source">Infoq</span>
+  <span class="badge priority-high">High</span>
+  <h2><a href="https://www.infoq.com/news/2026/03/revenium-ai-tooling-costs/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Revenium Unveils Tool Registry to Expose the True Cost of AI Agents</a></h2>
+  <time>Mar 24</time>
+</article>
+
+<article class="news-item">
+  <span class="source">Infoq</span>
+  <span class="badge priority-medium">Medium</span>
+  <h2><a href="https://www.infoq.com/news/2026/03/agoda-ai-code-bottleneck/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AI Coding Assistants Haven’t Sped up Delivery Because Coding Was Never the Bottleneck</a></h2>
+  <time>Mar 24</time>
+</article>
+
+<article class="news-item">
+  <span class="source">Openai</span>
+  <span class="badge priority-medium">Medium</span>
+  <h2><a href="https://openai.com/index/teen-safety-policies-gpt-oss-safeguard" target="_blank">Helping developers build safer AI experiences for teens</a></h2>
+  <time>Mar 24</time>
+</article>
+
+<article class="news-item">
+  <span class="source">Openai</span>
+  <span class="badge priority-medium">Medium</span>
+  <h2><a href="https://openai.com/index/update-on-the-openai-foundation" target="_blank">Update on the OpenAI Foundation</a></h2>
+  <time>Mar 24</time>
+</article>
+
+<article class="news-item">
+  <span class="source">Openai</span>
+  <span class="badge priority-medium">Medium</span>
+  <h2><a href="https://openai.com/index/powering-product-discovery-in-chatgpt" target="_blank">Powering product discovery in ChatGPT</a></h2>
+  <time>Mar 24</time>
+</article>
+
+<article class="news-item">
+  <span class="source">Openai</span>
+  <span class="badge priority-medium">Medium</span>
+  <h2><a href="https://openai.com/index/creating-with-sora-safely" target="_blank">Creating with Sora Safely</a></h2>
+  <time>Mar 23</time>
+</article>
+
+<article class="news-item">
+  <span class="source">Openai</span>
+  <span class="badge priority-medium">Medium</span>
+  <h2><a href="https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment" target="_blank">How we monitor internal coding agents for misalignment</a></h2>
+  <time>Mar 19</time>
+</article>
+
+<article class="news-item">
+  <span class="source">Openai</span>
+  <span class="badge priority-medium">Medium</span>
+  <h2><a href="https://openai.com/index/openai-to-acquire-astral" target="_blank">OpenAI to acquire Astral</a></h2>
+  <time>Mar 19</time>
+</article>
+
+<article class="news-item">
+  <span class="source">Google Ai</span>
+  <span class="badge priority-medium">Medium</span>
+  <h2><a href="https://blog.google/products-and-platforms/products/search/personal-intelligence-expansion/" target="_blank">Bringing the power of Personal Intelligence to more people</a></h2>
+  <time>Mar 17</time>
+</article>
+
+<article class="news-item">
+  <span class="source">Google Ai</span>
+  <span class="badge priority-high">High</span>
+  <h2><a href="https://blog.google/innovation-and-ai/technology/safety-security/ai-powered-open-source-security/" target="_blank">Our latest investment in open source security for the AI era</a></h2>
+  <time>Mar 17</time>
+</article>
+
+<article class="news-item">
+  <span class="source">Openai</span>
+  <span class="badge priority-medium">Medium</span>
+  <h2><a href="https://openai.com/index/introducing-gpt-5-4-mini-and-nano" target="_blank">Introducing GPT-5.4 mini and nano</a></h2>
+  <time>Mar 17</time>
+</article>
+
+<article class="news-item">
+  <span class="source">Spotify</span>
+  <span class="badge priority-medium">Medium</span>
+  <h2><a href="https://engineering.atspotify.com/2026/3/inside-the-archive-2025-wrapped/" target="_blank">Inside the Archive: The Tech Behind Your 2025 Wrapped Highlights</a></h2>
+  <time>Mar 12</time>
+</article>
+
+<article class="news-item">
+  <span class="source">Google Ai</span>
+  <span class="badge priority-medium">Medium</span>
+  <h2><a href="https://blog.google/innovation-and-ai/technology/health/google-ai-heart-health-australia/" target="_blank">How AI is helping improve heart health in rural Australia</a></h2>
+  <time>Mar 12</time>
+</article>
+
+<article class="news-item">
+  <span class="source">Google Ai</span>
+  <span class="badge priority-medium">Medium</span>
+  <h2><a href="https://blog.google/products-and-platforms/products/workspace/gemini-google-sheets-state-of-the-art/" target="_blank">Gemini in Google Sheets just achieved state-of-the-art performance.</a></h2>
+  <time>Mar 10</time>
+</article>
+
+<article class="news-item">
+  <span class="source">Spotify</span>
+  <span class="badge priority-high">High</span>
+  <h2><a href="https://engineering.atspotify.com/2026/2/our-multi-agent-architecture-for-smarter-advertising/" target="_blank">Our Multi-Agent Architecture for Smarter Advertising</a></h2>
+  <time>Feb 19</time>
+</article>
+
+<article class="news-item">
+  <span class="source">Spotify</span>
+  <span class="badge priority-medium">Medium</span>
+  <h2><a href="https://engineering.atspotify.com/2026/2/how-we-release-the-spotify-app-part-2/" target="_blank">How We Release the Spotify App: A Look Under the Hood (Part 2)</a></h2>
+  <time>Feb 09</time>
+</article>
+
+<article class="news-item">
+  <span class="source">Spotify</span>
+  <span class="badge priority-medium">Medium</span>
+  <h2><a href="https://engineering.atspotify.com/2026/1/congratulations-to-the-recipients-of-the-2025-spotify-foss-fund/" target="_blank">Congratulations to the recipients of the 2025 Spotify FOSS Fund</a></h2>
+  <time>Jan 22</time>
+</article>
+
+<article class="news-item">
+  <span class="source">Spotify</span>
+  <span class="badge priority-medium">Medium</span>
+  <h2><a href="https://engineering.atspotify.com/2026/1/why-we-use-separate-tech-stacks-for-personalization-and-experimentation/" target="_blank">Why We Use Separate Tech Stacks for Personalization and Experimentation</a></h2>
+  <time>Jan 07</time>
+</article>
+
+<article class="news-item">
+  <span class="source">Elastic</span>
+  <span class="badge priority-medium">Medium</span>
+  <h2><a href="https://www.elastic.co/blog/evolution-workplace-search-private-data-elasticsearch" target="_blank">Evolution of Workplace Search: Search your private data with Elasticsearch</a></h2>
+  <time>Nov 14</time>
+</article>
+    </section>
   </div>
 </body>
 </html>
