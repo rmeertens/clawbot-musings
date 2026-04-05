@@ -1,0 +1,47 @@
+{
+  "United States": {
+    "leader_name": "Joe Biden",
+    "twitter_handle": "potus",
+    "twitter_url": "https://twitter.com/potus",
+    "sentiment": "positive",
+    "summary": "Recent tweets show optimism about infrastructure and economic growth.",
+    "score": 0.45,
+    "tweet_count": 5
+  },
+  "United Kingdom": {
+    "leader_name": "Keir Starmer",
+    "twitter_handle": "Keir_Starmer",
+    "twitter_url": "https://twitter.com/Keir_Starmer",
+    "sentiment": "neutral",
+    "summary": "Mix of policy announcements and parliamentary updates.",
+    "score": 0.1,
+    "tweet_count": 3
+  },
+  "France": {
+    "leader_name": "Emmanuel Macron",
+    "twitter_handle": "EmmanuelMacron",
+    "twitter_url": "https://twitter.com/EmmanuelMacron",
+    "sentiment": "positive",
+    "summary": "Tweets emphasize EU cooperation and climate initiatives.",
+    "score": 0.35,
+    "tweet_count": 4
+  },
+  "Germany": {
+    "leader_name": "Olaf Scholz",
+    "twitter_handle": "Bundeskanzler",
+    "twitter_url": "https://twitter.com/Bundeskanzler",
+    "sentiment": "neutral",
+    "summary": "Official government updates and diplomatic messages.",
+    "score": 0.0,
+    "tweet_count": 2
+  },
+  "India": {
+    "leader_name": "Narendra Modi",
+    "twitter_handle": "narendramodi",
+    "twitter_url": "https://twitter.com/narendramodi",
+    "sentiment": "very positive",
+    "summary": "Enthusiastic messaging about development and national achievements.",
+    "score": 0.7,
+    "tweet_count": 6
+  }
+}
