@@ -19,8 +19,15 @@ import time
 from pathlib import Path
 
 
-def fetch_news_items(html_path: str, limit: int = None) -> list:
-    """Extract news items from HTML."""
+def fetch_news_items(html_path: str, limit: int = None, offset: int = 0, skip_enriched: bool = True) -> list:
+    """Extract news items from HTML.
+    
+    Args:
+        html_path: Path to HTML file
+        limit: Max items to process
+        offset: Skip first N items
+        skip_enriched: Skip items that already have summaries
+    """
     with open(html_path) as f:
         html = f.read()
 
@@ -28,7 +35,7 @@ def fetch_news_items(html_path: str, limit: int = None) -> list:
     articles = re.findall(pattern, html, re.DOTALL)
 
     items = []
-    for article in articles[:limit]:
+    for article in articles:
         item = {}
 
         # Source
@@ -47,8 +54,21 @@ def fetch_news_items(html_path: str, limit: int = None) -> list:
         if date_match:
             item['date'] = date_match.group(1).strip()
 
+        # Check if already enriched
+        item['is_enriched'] = '<p class="news-summary">' in article
+        
         if item.get('title'):
             items.append(item)
+
+    # Skip enriched items if requested
+    if skip_enriched:
+        items = [item for item in items if not item['is_enriched']]
+    
+    # Apply offset and limit
+    if offset > 0:
+        items = items[offset:]
+    if limit:
+        items = items[:limit]
 
     return items
 
@@ -169,15 +189,21 @@ def main():
 
     parser = argparse.ArgumentParser(description="Enrich tech news with AI summaries and InfoQ relevance.")
     parser.add_argument('--limit', type=int, default=10, help="Max items to process (default: 10)")
+    parser.add_argument('--offset', type=int, default=0, help="Skip first N un-enriched items (default: 0)")
     parser.add_argument('--model', default="qwen3.5:0.8b-small", help="Ollama model to use")
+    parser.add_argument('--all', action='store_true', help="Process all items (including re-enriching enriched ones)")
     args = parser.parse_args()
 
     base_dir = Path(__file__).parent
     html_path = base_dir / "index.html"
 
     print(f"Fetching news items from {html_path}", file=sys.stderr)
-    items = fetch_news_items(str(html_path), limit=args.limit)
-    print(f"Found {len(items)} items", file=sys.stderr)
+    items = fetch_news_items(str(html_path), limit=args.limit, offset=args.offset, skip_enriched=not args.all)
+    print(f"Found {len(items)} items to process", file=sys.stderr)
+
+    if not items:
+        print("No items to process.", file=sys.stderr)
+        return
 
     print(f"\nEnriching with {args.model}...", file=sys.stderr)
     enriched = enrich_items(items, model=args.model)
