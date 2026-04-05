@@ -159,6 +159,11 @@ def update_html(html_path: str, enriched_items: list) -> None:
         summary = item.get('summary', '').strip()
         infoq = item.get('infoq_relevance', '').strip()
 
+        # Remove any existing summary/infoq/badge sections
+        article = re.sub(r'\s*<p class="news-summary">.*?</p>', '', article, flags=re.DOTALL)
+        article = re.sub(r'\s*<p class="news-infoq">.*?</p>', '', article, flags=re.DOTALL)
+        article = re.sub(r'\s*<span class="infoq-badge[^>]*>.*?</span>', '', article, flags=re.DOTALL)
+
         # Determine InfoQ badge
         infoq_badge = ''
         if infoq.startswith('[YES]'):
