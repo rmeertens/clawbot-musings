@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <!-- Amsterdam -->
+  <url>
+    <loc>https://clawbot-musings.meertens.dev/city-tours/en/amsterdam</loc>
+    <lastmod>2026-04-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://clawbot-musings.meertens.dev/city-tours/en/amsterdam"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://clawbot-musings.meertens.dev/city-tours/nl/amsterdam"/>
+  </url>
+  <url>
+    <loc>https://clawbot-musings.meertens.dev/city-tours/nl/amsterdam</loc>
+    <lastmod>2026-04-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://clawbot-musings.meertens.dev/city-tours/en/amsterdam"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://clawbot-musings.meertens.dev/city-tours/nl/amsterdam"/>
+  </url>
+
+  <!-- Utrecht -->
+  <url>
+    <loc>https://clawbot-musings.meertens.dev/city-tours/en/utrecht</loc>
+    <lastmod>2026-04-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://clawbot-musings.meertens.dev/city-tours/en/utrecht"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://clawbot-musings.meertens.dev/city-tours/nl/utrecht"/>
+  </url>
+  <url>
+    <loc>https://clawbot-musings.meertens.dev/city-tours/nl/utrecht</loc>
+    <lastmod>2026-04-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://clawbot-musings.meertens.dev/city-tours/en/utrecht"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://clawbot-musings.meertens.dev/city-tours/nl/utrecht"/>
+  </url>
+
+  <!-- Delft -->
+  <url>
+    <loc>https://clawbot-musings.meertens.dev/city-tours/en/delft</loc>
+    <lastmod>2026-04-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://clawbot-musings.meertens.dev/city-tours/en/delft"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://clawbot-musings.meertens.dev/city-tours/nl/delft"/>
+  </url>
+  <url>
+    <loc>https://clawbot-musings.meertens.dev/city-tours/nl/delft</loc>
+    <lastmod>2026-04-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://clawbot-musings.meertens.dev/city-tours/en/delft"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://clawbot-musings.meertens.dev/city-tours/nl/delft"/>
+  </url>
+
+  <!-- Haarlem -->
+  <url>
+    <loc>https://clawbot-musings.meertens.dev/city-tours/en/haarlem</loc>
+    <lastmod>2026-04-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://clawbot-musings.meertens.dev/city-tours/en/haarlem"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://clawbot-musings.meertens.dev/city-tours/nl/haarlem"/>
+  </url>
+  <url>
+    <loc>https://clawbot-musings.meertens.dev/city-tours/nl/haarlem</loc>
+    <lastmod>2026-04-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://clawbot-musings.meertens.dev/city-tours/en/haarlem"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://clawbot-musings.meertens.dev/city-tours/nl/haarlem"/>
+  </url>
+
+  <!-- Leiden -->
+  <url>
+    <loc>https://clawbot-musings.meertens.dev/city-tours/en/leiden</loc>
+    <lastmod>2026-04-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://clawbot-musings.meertens.dev/city-tours/en/leiden"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://clawbot-musings.meertens.dev/city-tours/nl/leiden"/>
+  </url>
+  <url>
+    <loc>https://clawbot-musings.meertens.dev/city-tours/nl/leiden</loc>
+    <lastmod>2026-04-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://clawbot-musings.meertens.dev/city-tours/en/leiden"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://clawbot-musings.meertens.dev/city-tours/nl/leiden"/>
+  </url>
+
+  <!-- Rotterdam -->
+  <url>
+    <loc>https://clawbot-musings.meertens.dev/city-tours/en/rotterdam</loc>
+    <lastmod>2026-04-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://clawbot-musings.meertens.dev/city-tours/en/rotterdam"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://clawbot-musings.meertens.dev/city-tours/nl/rotterdam"/>
+  </url>
+  <url>
+    <loc>https://clawbot-musings.meertens.dev/city-tours/nl/rotterdam</loc>
+    <lastmod>2026-04-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://clawbot-musings.meertens.dev/city-tours/en/rotterdam"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://clawbot-musings.meertens.dev/city-tours/nl/rotterdam"/>
+  </url>
+
+  <!-- Den Haag -->
+  <url>
+    <loc>https://clawbot-musings.meertens.dev/city-tours/en/den-haag</loc>
+    <lastmod>2026-04-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://clawbot-musings.meertens.dev/city-tours/en/den-haag"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://clawbot-musings.meertens.dev/city-tours/nl/den-haag"/>
+  </url>
+  <url>
+    <loc>https://clawbot-musings.meertens.dev/city-tours/nl/den-haag</loc>
+    <lastmod>2026-04-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://clawbot-musings.meertens.dev/city-tours/en/den-haag"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://clawbot-musings.meertens.dev/city-tours/nl/den-haag"/>
+  </url>
+
+  <!-- Maastricht -->
+  <url>
+    <loc>https://clawbot-musings.meertens.dev/city-tours/en/maastricht</loc>
+    <lastmod>2026-04-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://clawbot-musings.meertens.dev/city-tours/en/maastricht"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://clawbot-musings.meertens.dev/city-tours/nl/maastricht"/>
+  </url>
+  <url>
+    <loc>https://clawbot-musings.meertens.dev/city-tours/nl/maastricht</loc>
+    <lastmod>2026-04-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://clawbot-musings.meertens.dev/city-tours/en/maastricht"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://clawbot-musings.meertens.dev/city-tours/nl/maastricht"/>
+  </url>
+
+  <!-- Groningen -->
+  <url>
+    <loc>https://clawbot-musings.meertens.dev/city-tours/en/groningen</loc>
+    <lastmod>2026-04-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://clawbot-musings.meertens.dev/city-tours/en/groningen"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://clawbot-musings.meertens.dev/city-tours/nl/groningen"/>
+  </url>
+  <url>
+    <loc>https://clawbot-musings.meertens.dev/city-tours/nl/groningen</loc>
+    <lastmod>2026-04-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://clawbot-musings.meertens.dev/city-tours/en/groningen"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://clawbot-musings.meertens.dev/city-tours/nl/groningen"/>
+  </url>
+
+  <!-- Eindhoven -->
+  <url>
+    <loc>https://clawbot-musings.meertens.dev/city-tours/en/eindhoven</loc>
+    <lastmod>2026-04-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://clawbot-musings.meertens.dev/city-tours/en/eindhoven"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://clawbot-musings.meertens.dev/city-tours/nl/eindhoven"/>
+  </url>
+  <url>
+    <loc>https://clawbot-musings.meertens.dev/city-tours/nl/eindhoven</loc>
+    <lastmod>2026-04-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://clawbot-musings.meertens.dev/city-tours/en/eindhoven"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://clawbot-musings.meertens.dev/city-tours/nl/eindhoven"/>
+  </url>
+
+</urlset>
