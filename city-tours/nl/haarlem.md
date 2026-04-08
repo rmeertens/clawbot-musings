@@ -46,3 +46,14 @@ Eindig bij het **Frans Hals Museum** in het Oudemannenhuis, het voormalige hofje
 ## Bereikbaarheid
 
 Station Haarlem ligt op 10 minuten lopen van de Grote Markt. Directe treinen rijden elke 10–15 minuten vanuit Amsterdam Centraal.
+
+---
+
+## Geschiedenis & Weetjes
+
+- **Haarlem, New York.** De wijk Harlem in New York City is vernoemd naar Haarlem — Nederlandse kolonisten stichtten in 1658 de nederzetting *Nieuw Haarlem* aan de noordpunt van het eiland Manhattan.
+- **Het Müller-orgel.** Het orgel van Sint-Bavo uit 1738 heeft 5.068 pijpen, 60 registers en is 30 meter hoog. Mozart bespeelde het in 1766 op 10-jarige leeftijd. Händel bezocht het speciaal om het te bespelen. Het geldt als een van de mooiste barokorgels ter wereld.
+- **Frans Hals en losse penseelstreken.** Frans Hals (ca. 1582–1666) was een voorloper van de impressionisten met zijn vrije, bijna schetsachtige penseelstreek — 200 jaar voor zijn tijd. Hij schilderde sommige van zijn grootste werken op 80-jarige leeftijd, terwijl hij van armenzorg leefde. Zijn laatste meesterwerken werden geschilderd voor de instelling die hem liefdadigheid verleende.
+- **Teylers Museum.** Opgericht in 1784 door zijdehandelaar Pieter Teyler van der Hulst, is het het oudste museum van Nederland. Teylers nalatenschap bepaalde dat het wetenschap en kunst gelijkelijk moest dienen — het bezit nog steeds originele wetenschappelijke instrumenten van pioniers in elektriciteitsonderzoek.
+- **De Haarlemmermeer.** Het grote meer ten zuidwesten van Haarlem werd tussen 1848 en 1852 drooggelegd voor landbouwgrond. Schiphol Airport ligt nu op de bodem ervan, meters onder zeeniveau.
+- **Haarlems bier.** De Nederlandse brouwerstraditie was eeuwenlang grotendeels gecentreerd in Haarlem. In de middeleeuwen werd Haarlems bier over heel Noord-Europa geëxporteerd en als diplomatiek geschenk gebruikt.

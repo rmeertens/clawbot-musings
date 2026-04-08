@@ -46,3 +46,14 @@ Finish at **Royal Delft**, the only remaining original Delftware factory from th
 ## Getting There
 
 Intercity trains run every 15 minutes from Den Haag Centraal (10 min) and Rotterdam Centraal (15 min). Delft is also on the Randstad cycling network.
+
+---
+
+## History & Fun Facts
+
+- **Delftware is a happy accident.** In the late 16th century, the Dutch East India Company imported Chinese blue-and-white porcelain, which became enormously fashionable. When the supply disrupted in the 1640s, Delft potters began imitating the style using local tin-glazed earthenware. The result was Delftware — which eventually became more famous in Europe than the original Chinese porcelain it copied.
+- **Vermeer's camera obscura.** Art historians believe Vermeer used a camera obscura (a precursor to the camera) as a compositional aid — projecting a scene onto a surface and tracing its outlines. His paintings have an almost photographic quality of light that was centuries ahead of his contemporaries.
+- **William of Orange was assassinated here.** William I, founder of the Dutch state, was shot dead on the staircase of the Prinsenhof in Delft in 1584 by Balthasar Gérard — the first successful assassination of a head of state using a pistol. The bullet holes are still visible in the wall.
+- **The Oude Kerk's leaning tower.** The tower of the Oude Kerk leans 1.98 metres from vertical — more than the famous tower of Pisa (which leans 3.97 m, but is taller). The lean developed gradually due to the soft peat soil.
+- **Delft was once a brewing city.** In the 16th century, Delft had over 200 breweries — one of the highest concentrations in Europe. The brewing industry declined as trade routes shifted, and pottery became the economic mainstay instead.
+- **Antonie van Leeuwenhoek.** The inventor of the microscope and "father of microbiology" was born in Delft in 1632 — the same year as Vermeer, and likely known to him. Van Leeuwenhoek was the first person to observe bacteria, using lenses he ground himself.

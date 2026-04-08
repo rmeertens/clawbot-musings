@@ -43,3 +43,15 @@ End at the **Philips Museum** in the company's original factory building from 18
 ## Getting There
 
 Direct intercity trains from Amsterdam (1h20min), Utrecht (50 min), and Den Haag (1h30min). Eindhoven Airport serves budget carriers to many European destinations.
+
+---
+
+## History & Fun Facts
+
+- **From village to city in 60 years.** In 1900, Eindhoven was a small market town of 4,000 people. Gerard Philips built a light bulb factory here in 1891 because land and labour were cheap. By 1960, the population had grown to 170,000 — entirely driven by Philips. The company built housing, schools, hospitals, sports facilities, and a radio broadcasting station for its workers.
+- **Philips inventions.** From Eindhoven, Philips pioneered the compact cassette (1963), the LaserDisc (1972), the compact disc with Sony (1982), and the DVD with Sony (1995). The CD format standard was established in these labs — famously, the disc's 74-minute capacity was set so it could hold Beethoven's Ninth Symphony without interruption.
+- **Dutch Design Week.** Eindhoven hosts the largest design event in northern Europe every October: over 2,600 designers exhibit in venues across the city, including the Strijp-S industrial complex. Over 350,000 visitors attend across 9 days.
+- **Strijp-S: the Forbidden City.** During Philips's heyday, Strijp-S was a closed industrial compound — Eindhoven residents called it the "Forbidden City" because ordinary people were not allowed to enter. Philips made everything from radios to x-ray machines on-site. The complex was abandoned in the 1990s and has been gradually transformed into a creative district since 2010.
+- **DAF and the Variomatic.** Eindhoven was also home to DAF automobiles, which invented the Variomatic — the world's first continuously variable transmission (CVT) — in 1958. CVT is now used in millions of cars and scooters worldwide. DAF's car division was eventually bought by Volvo.
+- **The Van Abbemuseum.** Founded in 1936, it was one of the first museums in the Netherlands to collect abstract and avant-garde art. Its director Wim Beeren caused a scandal in the 1970s by exhibiting Marcel Duchamp's urinal (*Fountain*) as a major artwork. The museum also owns an extraordinary collection of El Lissitzky — second only to Russia's state holdings.
+- **Eindhoven and PSV.** PSV Eindhoven was founded by Philips in 1913 as a sports club for factory workers — PSV stands for *Philips Sport Vereniging*. Philips owned the club until 1999. PSV has won the Dutch league 24 times and the European Cup in 1988.

@@ -46,3 +46,14 @@ End at the **Frans Hals Museum** in the Oudemannenhuis, the former almshouse whe
 ## Getting There
 
 Haarlem station is a 10-minute walk from the Grote Markt. Direct trains run every 10–15 minutes from Amsterdam Centraal.
+
+---
+
+## History & Fun Facts
+
+- **Haarlem, New York.** The neighbourhood of Harlem in New York City was named after Haarlem — Dutch settlers established the settlement of *Nieuw Haarlem* in 1658 at the northern tip of Manhattan island.
+- **The Müller organ.** Sint-Bavo's 1738 Christian Müller organ has 5,068 pipes, 60 stops, and stands 30 metres tall. Mozart played it in 1766 at age 10. Handel visited specifically to play it. It is considered one of the finest Baroque organs in existence.
+- **Frans Hals and loose brushwork.** Frans Hals (c. 1582–1666) pioneered a free, almost sketchy brushstroke that was 200 years ahead of the Impressionists. He painted some of his greatest works in his 80s, living in poverty and supported by poor relief. His final masterpieces were painted for the very institution giving him charity.
+- **Teylers Museum.** Founded in 1784 by silk merchant Pieter Teyler van der Hulst, it is the oldest museum in the Netherlands and among the oldest in the world. Teyler's bequest specified that it should serve science and art equally — it still holds original scientific instruments used by pioneers of electricity research.
+- **The Haarlemmermeer.** The large lake southwest of Haarlem — the Haarlemmermeer — was drained between 1848 and 1852 to create agricultural land. Schiphol Airport now sits on its bed, several metres below sea level.
+- **Beer from Haarlem.** The Dutch brewing tradition was largely centred on Haarlem for centuries. Haarlem beer was exported across northern Europe in the Middle Ages and was so valued it was used as a diplomatic gift.

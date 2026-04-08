@@ -44,3 +44,15 @@ Eindig bij de **Passage**, een 19e-eeuwse overdekte winkelgalerij met glazen dak
 ## Bereikbaarheid
 
 Den Haag Centraal heeft intercity's vanuit Amsterdam (50 min), Rotterdam (25 min) en Leiden (15 min). Den Haag HS is een alternatief station, dichter bij de trams naar Scheveningen.
+
+---
+
+## Geschiedenis & Weetjes
+
+- **Regeringszetel vs. hoofdstad.** Den Haag is de zetel van de Nederlandse regering, het parlement en alle buitenlandse ambassades — maar Amsterdam is de constitutionele hoofdstad. Deze bijzonderheid dateert uit de 16e eeuw, toen de Republiek geen formele hoofdstad had. De situatie is sindsdien nooit veranderd.
+- **Het Internationaal Gerechtshof.** Den Haag herbergt het IGH (Wereldhof) in het Vredespaleis, gebouwd in 1913 en gefinancierd door Andrew Carnegie nadat tsaar Nicolaas II Den Haag koos voor de eerste internationale vredesconferentie in 1899. De stad is ook thuisbasis van het Internationaal Strafhof.
+- **Meisje met de parel.** Vermeers beroemdste schilderij had in historische documenten geen titel — de bijnaam *Meisje met de parel* ontstond pas in de 20e eeuw. Het model is onbekend. De parel is mogelijk helemaal geen echte parel: sommige experts denken dat het een druppelvormige glazen oorbel was, wat destijds in de mode was.
+- **Eschers wiskunde.** M.C. Escher (1898–1972) had geen formele wiskundeopleiding, maar zijn werk over tessellaties en onmogelijke figuren anticipeerde op ontdekkingen in de kristallografie en topologie die wiskundigen later formaliseerden. Hij correspondeerde uitgebreid met Roger Penrose.
+- **Het Binnenhof.** Het Nederlandse parlement vergadert al in het Binnenhof sinds 1446 — een van de langst aaneengesloten gebruikte parlementsgebouwen ter wereld.
+- **Scheveningen.** De kustplaats Scheveningen (20 minuten per tram) was het eerste badplaatsje van Nederland, gesticht in het begin van de 19e eeuw. De uitspraak van "Scheveningen" diende in de Tweede Wereldoorlog als shibboleth — Duitse spionnen konden de juiste Nederlandse fricatieven niet produceren.
+- **De Passage.** Gebouwd in 1882, geïnspireerd op de Galeries de la Reine in Brussel. Het is de oudste overgebleven winkelgalerij van Nederland.

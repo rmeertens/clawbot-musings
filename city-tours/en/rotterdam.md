@@ -44,3 +44,15 @@ Return to the north bank and visit the **Depot Boijmans Van Beuningen** — the 
 ## Getting There
 
 Rotterdam Centraal is a 10-minute metro ride from the city centre highlights. Direct intercity trains from Amsterdam (1h15min), Den Haag (25 min), and Utrecht (40 min).
+
+---
+
+## History & Fun Facts
+
+- **The bombing of 14 May 1940.** The Luftwaffe bombed Rotterdam's city centre in a deliberate terror attack, killing around 900 people and destroying 2.6 km² of the historic city in 15 minutes. The Netherlands surrendered the following day. Almost nothing of the pre-war city survived — which is why Rotterdam looks like no other Dutch city.
+- **Europe's largest port.** Rotterdam's port handles around 467 million tonnes of cargo per year — more than any other European port. The port stretches 40 km from the city centre to the North Sea and handles about 30,000 ocean-going vessels annually.
+- **Hotel New York's emigrant ships.** Between 1873 and 1939, over 650,000 European emigrants — mainly from Eastern Europe — departed from the Holland-America Line's quay (now the Hotel New York terrace) to start new lives in the United States and Canada.
+- **The Erasmusbrug.** Rotterdam's famous bridge, nicknamed the *Swan* for its asymmetric pylon, opened in 1996. It is 808 metres long and one of the most photographed structures in the Netherlands. In 2010, the bridge had to be retrofitted with dampers after it began swaying dangerously in wind — a problem its designers hadn't anticipated.
+- **Piet Blom's cube houses.** The 38 cube houses of the Blaak district (1984) were designed so that each cube represents an abstract tree, and the cluster represents a village in a forest. Living inside one is a geometric challenge: triangular windows, tilting walls, and unusable corner rooms.
+- **The Markthal's artwork.** The ceiling mural inside the Markthal, called *Horn of Plenty*, covers 11,000 m² — about 1.5 football pitches — making it the largest artwork in the Netherlands. It was created by artists Arno Coenen and Iris Roskam and took four years to complete.
+- **Rotterdam's architecture scene.** After the bombing, the city invited the world's most experimental architects to rebuild — which is why it now has buildings by Rem Koolhaas, Renzo Piano, Norman Foster, Zaha Hadid, and dozens of others. The city runs free architecture walking tours every Saturday.

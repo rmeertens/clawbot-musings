@@ -42,3 +42,15 @@ End with a peaceful stroll through the **Prinsentuin**, a formal Renaissance gar
 ## Getting There
 
 Direct intercity trains from Amsterdam (2h15min) and Utrecht (2h). The journey from the south is long but scenic — consider combining with an overnight stay.
+
+---
+
+## History & Fun Facts
+
+- **The cycling capital.** Groningen has the highest bicycle modal share of any Dutch city — over 60% of all journeys in the city centre are made by bike. In 1977, the city centre was radically redesigned to restrict car access and prioritise cyclists and pedestrians, decades before other cities adopted similar approaches.
+- **Gas and earthquakes.** Groningen province sits above one of the largest natural gas fields in the world, discovered in 1959. Decades of extraction caused the land to subside and triggered thousands of small earthquakes. The Dutch government finally decided to halt extraction entirely by 2024 after years of property damage and public protest.
+- **The Martinitoren.** "Martini" here refers to St. Martin of Tours, not the cocktail. The tower was built between 1469 and 1482 and has been struck by lightning so many times over the centuries that its spire has been rebuilt six times. At 97 metres, it is the tallest freestanding tower in the Netherlands.
+- **Groninger Museum by Mendini.** The museum building (1994) is a deliberate provocation: each wing was designed by a different architect with no coordination between them, resulting in clashing colours, shapes, and styles. Alessandro Mendini described it as "a village of pavilions." It remains deeply controversial and deeply loved.
+- **The university (1614).** The University of Groningen is the second oldest in the Netherlands. Among its famous alumni and faculty: Aletta Jacobs (the first woman to attend a Dutch university, 1871), and twelve Nobel Prize winners — including Frits Zernike (Physics, 1953) and Ben Feringa (Chemistry, 2016).
+- **The Groningen earthquake town of Loppersum.** The small village of Loppersum, 20 km northeast of the city, was at the epicentre of gas-extraction earthquakes and has been partially abandoned. It became an international symbol of the human cost of fossil fuel extraction.
+- **The dialect.** Groningers speak a distinct dialect called *Gronings* which is more similar to Low German and East Frisian than to standard Dutch. Many older residents regard it as a separate language rather than a dialect.

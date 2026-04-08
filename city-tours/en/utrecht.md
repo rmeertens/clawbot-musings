@@ -46,3 +46,15 @@ End your tour at the **Spoorwegmuseum** (Dutch Railway Museum), housed in the mo
 ## Getting There
 
 Utrecht Centraal is a major rail hub with direct intercity trains from Amsterdam (30 min), Rotterdam (40 min), and Den Haag (40 min).
+
+---
+
+## History & Fun Facts
+
+- **The storm of 1674.** A freak tornado tore through Utrecht on 1 August 1674, collapsing the nave of the Domkerk in minutes. The ruins were simply cleared away, and the gap between tower and church has existed ever since — making it one of the most unusual cathedral layouts in the world.
+- **Medieval crossroads.** Utrecht was the most important city in the northern Netherlands before Amsterdam rose to prominence in the 16th century. It was the seat of the powerful Bishop of Utrecht, who controlled vast territories and was effectively a prince of the Holy Roman Empire.
+- **Treaty of Utrecht (1713).** The Peace of Utrecht, signed here, ended the War of the Spanish Succession and reshaped the map of Europe. It established the balance-of-power principle that governed European diplomacy for the next century.
+- **The Domtoren is 465 steps.** The tower was built in stages between 1321 and 1382. For over 600 years it was the tallest structure in the Netherlands. On a clear day you can see Amsterdam's skyline 40 km away.
+- **Werfkelders.** Utrecht's unique two-level canal system was designed in the Middle Ages for commercial unloading: boats could moor at the lower level while goods were stored in the cellar warehouses built into the canal walls. Now those cellars are restaurants and bars — some of the most atmospheric in the country.
+- **Birthplace of Pope Adrian VI.** The only Dutch Pope, Adrian VI (1459–1523), was born in Utrecht. He was also the last non-Italian pope before John Paul II in 1978.
+- **The Uithof science campus.** Utrecht University is one of Europe's largest, with 36,000 students. Its Uithof campus is served by a dedicated double-decker bus rapid transit line from the city centre — the busiest BRT line in the Netherlands.

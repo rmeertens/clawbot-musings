@@ -42,3 +42,15 @@ Steek de **Sint-Servaasbrug** (een van de oudste bruggen van Nederland) over naa
 ## Bereikbaarheid
 
 Directe intercity's vanuit Eindhoven (1u), Utrecht (1u45min) en Amsterdam (2u30min). Maastricht is ook goed bereikbaar per bus vanuit Luik (België) en Aken (Duitsland).
+
+---
+
+## Geschiedenis & Weetjes
+
+- **Het Verdrag van Maastricht (1992).** Het verdrag dat de Europese Unie creëerde en de euro invoerde, werd op 7 februari 1992 in Maastricht ondertekend. De onderhandelingstafel in het Gouvernementsgebouw op het Vrijthof is nog steeds te bezichtigen. De naam van de stad werd wereldwijd een synoniem voor Europese integratie.
+- **Oudste stad van Nederland.** Maastricht werd door de Romeinen rond 50 v.Chr. gesticht als *Mosae Trajectum* ("oversteek over de Maas") — een doorwaadbare plek op de Romeinse weg van Keulen naar de Rijndelta. Bij bouwwerkzaamheden worden nog regelmatig Romeinse vondsten gedaan.
+- **Ondergrondse tunnels.** De Maastrichtse grotten (Sint-Pietersberg) strekken zich uit over meer dan 200 km aan door de mens gegraven tunnels in mergelsteen. Tijdens de Tweede Wereldoorlog werden Rembrandts *De Nachtwacht* en andere Nederlandse meesterwerken in de grotten opgeslagen. De tunnels boden ook onderdak aan duizenden bewoners tijdens bombardementen.
+- **Drie landen, één grens.** Vanaf de top van de Sint-Pietersberg zie je drie landen: Nederland, België en Duitsland. Het trilandenpunt *Drielandenpunt* ligt op slechts 10 km van het stadscentrum.
+- **Boekhandel Dominicanen.** De Dominicaanse kerk werd in 1794 ontheiligd na de Franse Revolutie. Daarna diende hij als stal, pakhuis en fietsenstalling, voordat hij in 2006 werd omgebouwd tot boekwinkel. The Guardian verkoos het in 2008 tot mooiste boekwinkel ter wereld.
+- **Carnaval.** Het carnaval van Maastricht geldt als het meest authentieke van Nederland, met wortels in middeleeuwse katholieke tradities. De driedaagse viering voor de vasten trekt honderdduizenden bezoekers.
+- **De Helpoort.** De naam "Helpoort" verwijst waarschijnlijk naar de *Hel*-buurt, een middeleeuwse naam voor de wijk — niet naar iets duivelachtigs. Gebouwd in 1229, is het de oudste nog bestaande stadspoort van Nederland.

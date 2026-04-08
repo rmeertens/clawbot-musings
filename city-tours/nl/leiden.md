@@ -46,3 +46,14 @@ Sluit af bij de **Hortus Botanicus**, een van de oudste botanische tuinen ter we
 ## Bereikbaarheid
 
 Intercity Direct-treinen vanuit Amsterdam Centraal (35 min) en Den Haag Centraal (15 min). Leiden Centraal ligt ook op de hogesnelheidslijn Schiphol–Rotterdam.
+
+---
+
+## Geschiedenis & Weetjes
+
+- **Tulpenmanie.** De tulp werd via Leiden in de jaren 1590 door botanicus Carolus Clusius in West-Europa geïntroduceerd. In 1636–37 stegen de prijzen van tulpenbollen tot absurde speculatieve hoogte — een enkele Semper Augustus-bol werd verkocht voor de prijs van een Amsterdams grachtenpand. De zeepbel barstte in februari 1637: de eerste gedocumenteerde speculatieve economische zeepbel in de geschiedenis.
+- **De Pilgrimvaders woonden 11 jaar in Leiden.** De separatistische gemeente van John Robinson arriveerde in 1609 en woonde rond de Pieterskerk. Ze vertrokken naar de Nieuwe Wereld in 1620, deels omdat ze bang waren dat hun kinderen "te Nederlands" werden. Leidse burgers vroegen om een gedenkplaat in de kerk — de band wordt nog steeds gevierd in de VS.
+- **Rembrandts vroege carrière.** Rembrandt (1606–1669) werd in Leiden geboren en opleiding hier voor hij op 22-jarige leeftijd naar Amsterdam verhuisde. Sommige kunsthistorici beweren dat zijn fijnste experimentele werken uit zijn Leidse periode stammen.
+- **Het beleg van Leiden (1574).** Na een gruwelijk beleg van 130 dagen liet Willem van Oranje de dijken doorsteken, zodat de Watergeuzen over het ondergelopen land konden varen om voedsel te brengen. Ter nagedachtenis vroeg de stad om een universiteit of een belastingvrijstelling van 10 jaar. Ze kozen de universiteit — opgericht in 1575, de oudste van Nederland.
+- **De Tempel van Taffeh.** Egypte schonk de volledige Romeinse tempel aan Nederland in 1979 als dankbetuiging voor de hulp van Nederlandse ingenieurs bij het redden van Nubische monumenten tijdens de bouw van de Aswan-dam. Hij werd steen voor steen gedemonteerd en herbouwd in het Rijksmuseum van Oudheden.
+- **Het Leiden American Pilgrim Museum.** Een piepklein, particulier museum met origineel 17e-eeuws meubilair op de exacte straat waar de Pilgrimvaders woonden — een van de kleinste maar historisch meest significante musea van het land.

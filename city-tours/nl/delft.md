@@ -46,3 +46,14 @@ Eindig bij **Royal Delft**, de enige nog overgebleven originele Delftsaardewerk-
 ## Bereikbaarheid
 
 Intercity's rijden elk kwartier vanuit Den Haag Centraal (10 min) en Rotterdam Centraal (15 min). Delft is ook uitstekend bereikbaar per fiets via het Randstad-fietsnetwerk.
+
+---
+
+## Geschiedenis & Weetjes
+
+- **Delfts aardewerk als gelukkig ongeluk.** In de late 16e eeuw importeerde de VOC Chinees blauw-wit porselein, dat enorm populair werd. Toen de aanvoer in de jaren 1640 stokte, begonnen Delftse pottenbakkers de stijl na te maken. Het resultaat — Delfts aardewerk — werd uiteindelijk beroemder in Europa dan het originele Chinese porselein.
+- **Vermeers camera obscura.** Kunsthistorici geloven dat Vermeer een camera obscura gebruikte als hulpmiddel bij het samenstellen van zijn composities. Zijn schilderijen hebben een bijna fotografische lichtwerking die eeuwen voor zijn tijdgenoten lag.
+- **Aanslag op Willem van Oranje.** Willem I, grondlegger van de Nederlandse staat, werd in 1584 neergeschoten op de trap van het Prinsenhof in Delft — de eerste succesvolle moordaanslag op een staatshoofd met een pistool. De kogelgaten zijn nog steeds zichtbaar in de muur.
+- **De scheve toren van de Oude Kerk.** De toren helt 1,98 meter uit het lood — meer dan de scheve toren van Pisa procentueel gezien. De verzakking ontstond geleidelijk door de zachte veenbodem.
+- **Delft als brouwerijstad.** In de 16e eeuw telde Delft meer dan 200 brouwerijen — een van de hoogste concentraties in Europa. Toen de handelsroutes verschoven, werd aardewerk de nieuwe economische pijler.
+- **Antonie van Leeuwenhoek.** De uitvinder van de microscoop en "vader van de microbiologie" werd in 1632 in Delft geboren — hetzelfde jaar als Vermeer, en vermoedelijk goed bekend met hem. Van Leeuwenhoek was de eerste mens die bacteriën waarnam, met lenzen die hij zelf had geslepen.

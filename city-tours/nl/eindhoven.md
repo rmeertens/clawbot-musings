@@ -43,3 +43,15 @@ Eindig bij het **Philips Museum** in het oorspronkelijke fabrieksgebouw van het 
 ## Bereikbaarheid
 
 Directe intercity's vanuit Amsterdam (1u20min), Utrecht (50 min) en Den Haag (1u30min). Eindhoven Airport heeft budgetvluchten naar vele Europese bestemmingen.
+
+---
+
+## Geschiedenis & Weetjes
+
+- **Van dorp naar stad in 60 jaar.** In 1900 was Eindhoven een kleine marktplaats van 4.000 mensen. Gerard Philips bouwde hier in 1891 een gloeilampenfabriek omdat grond en arbeid goedkoop waren. Tegen 1960 was de bevolking gegroeid tot 170.000 — volledig gedreven door Philips. Het bedrijf bouwde woningen, scholen, ziekenhuizen, sportfaciliteiten en een radioomroep voor zijn werknemers.
+- **Philips-uitvindingen.** Vanuit Eindhoven pionierde Philips de compact cassette (1963), de LaserDisc (1972), de compact disc met Sony (1982) en de dvd met Sony (1995). De speelduur van de cd — 74 minuten — werd bepaald zodat Beethovens Negende Symfonie er zonder onderbreking op paste.
+- **Dutch Design Week.** Eindhoven organiseert elk oktober het grootste designevenement van Noord-Europa: meer dan 2.600 ontwerpers exposeren op locaties door de hele stad, waaronder het Strijp-S complex. Meer dan 350.000 bezoekers komen in 9 dagen.
+- **Strijp-S: de Verboden Stad.** Tijdens de hoogtijdagen van Philips was Strijp-S een gesloten industriecomplex — Eindhovenaren noemden het de "Verboden Stad" omdat gewone mensen er niet mochten komen. Philips maakte er van alles: van radio's tot röntgenapparaten. Het complex werd in de jaren 90 verlaten en wordt sinds 2010 geleidelijk omgevormd tot creatief district.
+- **DAF en de Variomatic.** Eindhoven was ook de thuisbasis van DAF-automobielen, dat in 1958 de Variomatic uitvond — 's werelds eerste continu variabele transmissie (CVT). CVT wordt nu gebruikt in miljoenen auto's en scooters wereldwijd. DAF's personenwagendivisie werd uiteindelijk gekocht door Volvo.
+- **Het Van Abbemuseum.** Opgericht in 1936, was het een van de eerste musea in Nederland die abstracte en avant-gardekunst verzamelden. De directeur Wim Beeren veroorzaakte in de jaren 70 opschudding door Marcel Duchamps urinoir (*Fontein*) als groot kunstwerk te tentoonstellen.
+- **Eindhoven en PSV.** PSV Eindhoven werd in 1913 opgericht door Philips als sportclub voor fabrieksarbeiders — PSV staat voor *Philips Sport Vereniging*. Philips was eigenaar van de club tot 1999. PSV won 24 keer de Nederlandse competitie en de Europacup in 1988.

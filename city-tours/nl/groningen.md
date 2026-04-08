@@ -42,3 +42,15 @@ Sluit af met een rustige wandeling door de **Prinsentuin**, een formele Renaissa
 ## Bereikbaarheid
 
 Directe intercity's vanuit Amsterdam (2u15min) en Utrecht (2u). De reis vanuit het zuiden is lang maar schilderachtig — overweeg een overnachting te combineren.
+
+---
+
+## Geschiedenis & Weetjes
+
+- **De fietsende stad.** Groningen heeft het hoogste fietsaandeel van alle Nederlandse steden — meer dan 60% van alle verplaatsingen in het stadscentrum gaat per fiets. In 1977 werd het centrum radicaal heringericht om autoverkeer te weren en fietsers en voetgangers prioriteit te geven — decennia voordat andere steden vergelijkbare maatregelen namen.
+- **Gas en aardbevingen.** De provincie Groningen ligt boven een van de grootste aardgasvelden ter wereld, ontdekt in 1959. Decennialange winning veroorzaakte bodemdaling en duizenden kleine aardbevingen. Na jarenlange schade aan woningen en protest van bewoners besloot de Nederlandse overheid de winning vóór 2024 volledig te stoppen.
+- **De Martinitoren.** "Martini" verwijst naar Sint-Maarten van Tours, niet naar de cocktail. De toren werd gebouwd tussen 1469 en 1482 en is zo vaak door bliksem getroffen dat de spits zes keer is herbouwd. Met 97 meter is het de hoogste vrijstaande toren van Nederland.
+- **Het Groninger Museum.** Het gebouw (1994) is een bewuste provocatie: elke vleugel is ontworpen door een andere architect zonder onderlinge afstemming. Alessandro Mendini omschreef het als "een dorp van paviljoens." Het blijft diep controversieel en diep geliefd.
+- **De universiteit (1614).** De Rijksuniversiteit Groningen is de op één na oudste van Nederland. Beroemde alumni en medewerkers: Aletta Jacobs (de eerste vrouw die aan een Nederlandse universiteit studeerde, 1871) en twaalf Nobelprijswinnaars, waaronder Ben Feringa (Scheikunde, 2016).
+- **Het Gronings.** Groningers spreken een eigen dialect dat *Gronings* heet — dichter bij het Nederduits en Oost-Fries dan bij het standaard Nederlands. Veel oudere bewoners beschouwen het als een aparte taal.
+- **Het gasveld van Loppersum.** Het kleine dorp Loppersum, 20 km ten noordoosten van de stad, lag op het epicentrum van de gaswinningsaardbevingen en is gedeeltelijk verlaten. Het werd een internationaal symbool voor de menselijke kosten van fossiele brandstofwinning.

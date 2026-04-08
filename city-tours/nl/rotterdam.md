@@ -44,3 +44,15 @@ Ga terug naar de noordoever en bezoek het **Depot Boijmans Van Beuningen** — h
 ## Bereikbaarheid
 
 Rotterdam Centraal ligt op 10 minuten per metro van de highlights. Directe intercity's vanuit Amsterdam (1u15min), Den Haag (25 min) en Utrecht (40 min).
+
+---
+
+## Geschiedenis & Weetjes
+
+- **Het bombardement van 14 mei 1940.** De Luftwaffe bombardeerde het stadscentrum van Rotterdam in een bewuste terreuractie, waarbij ongeveer 900 mensen omkwamen en 2,6 km² van de historische binnenstad in 15 minuten werd verwoest. Nederland capituleerde de volgende dag. Bijna niets van de vooroorlogse stad overleefde — vandaar dat Rotterdam er anders uitziet dan elke andere Nederlandse stad.
+- **Grootste haven van Europa.** De haven van Rotterdam verwerkt jaarlijks circa 467 miljoen ton vracht — meer dan enige andere Europese haven. De haven strekt zich 40 km uit van het stadscentrum tot de Noordzee.
+- **Hotel New York en de emigranten.** Tussen 1873 en 1939 vertrokken meer dan 650.000 Europese emigranten — voornamelijk uit Oost-Europa — vanaf de kade van de Holland-Amerika Lijn (nu het terras van Hotel New York) naar een nieuw leven in de VS en Canada.
+- **De Erasmusbrug.** De beroemde brug, bijgenaamd *de Zwaan* vanwege zijn asymmetrische pyloon, opende in 1996. In 2010 moest hij worden uitgerust met dempingsinstallaties nadat hij gevaarlijk begon te slingeren bij wind — een probleem dat de ontwerpers niet hadden voorzien.
+- **De kubuswoningen.** De 38 kubuswoningen in de Blaakwijk (1984) zijn ontworpen zo dat elke kubus een abstracte boom voorstelt en het cluster een dorp in een bos. Wonen erin is een geometrische uitdaging: driehoekige ramen, hellende muren en onbruikbare hoekruimtes.
+- **Het kunstwerk in de Markthal.** Het plafondmozaïek *Hoorn des Overvloeds* beslaat 11.000 m² — zo groot als 1,5 voetbalveld — en is het grootste kunstwerk van Nederland. Het werd gemaakt door Arno Coenen en Iris Roskam en kostte vier jaar om te voltooien.
+- **Architectuurscène.** Na het bombardement nodigde de stad de meest experimentele architecten ter wereld uit om te herbouwen. Dat verklaart waarom Rotterdam nu gebouwen heeft van Rem Koolhaas, Renzo Piano, Norman Foster en Zaha Hadid. Elke zaterdag zijn er gratis architectuurwandelingen.

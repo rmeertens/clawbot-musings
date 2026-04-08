@@ -44,3 +44,16 @@ Finish in the **Jordaan**, Amsterdam's most atmospheric quarter. Wander down **B
 ## Getting There
 
 From Amsterdam Centraal Station, take tram 2 or 12 to **Museumplein** (10 minutes). The station is well connected to Schiphol Airport (20 min by train).
+
+---
+
+## History & Fun Facts
+
+- **Built on piles.** The entire historic city centre sits on millions of wooden foundation piles driven into the soft peat — the Rijksmuseum alone rests on 6,000 piles. The wooden poles petrify over centuries and are actually stronger than concrete.
+- **More bridges than Venice.** Amsterdam has approximately 1,500 bridges crossing its 100 km of canals — significantly more than Venice's 400.
+- **The Golden Age (1580–1720).** Amsterdam was the wealthiest city on Earth during this period. The Dutch East India Company (VOC), founded in 1602 and headquartered here, was the world's first publicly traded company and at its peak worth more than Apple and Google combined in today's money.
+- **Rembrandt's bankruptcy.** Rembrandt van Rijn lived and worked in Amsterdam and became the most celebrated painter of his age — then went bankrupt in 1656. He was forced to sell all his possessions at auction, including his art collection, house, and printing press. He died poor in 1669.
+- **The Jordaan was a working-class neighbourhood.** In the 17th century the Jordaan housed the poor: tanners, brewers, and dye-workers who couldn't afford the canal ring. Today its tiny houses sell for over €1 million.
+- **Bikes outnumber people.** Amsterdam has roughly 900,000 bicycles for a population of 870,000. Around 15,000 bikes are fished out of the canals every year.
+- **Anne Frank's hiding place.** The Secret Annex where Anne Frank and seven others hid from 1942–1944 is one of the most visited sites in Europe, with over 1.2 million visitors per year. Admission must be booked months in advance.
+- **The narrowest house.** The narrowest house in Amsterdam (on Singel 7) is just 1 metre wide at the front — built this way to minimize property taxes, which were historically levied on frontage width.

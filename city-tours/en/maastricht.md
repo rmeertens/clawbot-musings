@@ -42,3 +42,15 @@ Cross the **Sint-Servaasbrug** (one of the oldest bridges in the Netherlands) to
 ## Getting There
 
 Direct intercity trains from Eindhoven (1h), Utrecht (1h45min), and Amsterdam (2h30min). Maastricht is also well connected by bus to Liège (Belgium) and Aachen (Germany).
+
+---
+
+## History & Fun Facts
+
+- **The Maastricht Treaty (1992).** The treaty that created the European Union and introduced the euro was signed in Maastricht on 7 February 1992. The signing table in the Gouvernement building on the Vrijthof is still on display. The city's name became synonymous with European integration worldwide.
+- **Oldest city in the Netherlands.** Maastricht was founded by the Romans around 50 BC as *Mosae Trajectum* ("crossing on the Maas") — a ford on the Roman road between Cologne and the Rhine delta. Roman artefacts are still regularly found during construction work.
+- **Underground tunnels.** The Maastricht Caves (Sint-Pietersberg caves) extend for over 200 km of man-made tunnels quarried from Marl stone since the Middle Ages. During WWII, Rembrandt's *The Night Watch* and other Dutch masterpieces were stored in the caves for safekeeping. The tunnels also sheltered thousands of residents from bombing raids.
+- **Three countries, one border.** From the top of Sint-Pietersberg hill, you can see three countries: the Netherlands, Belgium, and Germany. The tripoint *Drielandenpunt* is just 10 km from the city centre.
+- **The Bookshop Dominicanen.** The Dominican church was deconsecrated in 1794 following the French Revolution, after which it was used as a stable, a warehouse, and a bicycle storage facility before being converted into a bookshop in 2006. It was voted the most beautiful bookshop in the world by The Guardian in 2008.
+- **Carnival.** Maastricht's Carnival is considered the most authentic in the Netherlands, with roots in medieval Catholic traditions. The three-day celebration before Lent transforms the city completely — businesses close, the mayor hands the city key to the Prince of Carnival, and hundreds of thousands of visitors attend.
+- **The Helpoort.** The gate's name — "Gate of Hell" — likely derives from the *Hel* district, a medieval name for the neighbourhood, not from infernal connotations. Built in 1229, it is the oldest surviving city gate in the Netherlands.

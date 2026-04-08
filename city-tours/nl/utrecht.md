@@ -46,3 +46,15 @@ Sluit af bij het **Spoorwegmuseum** in het monumentale Maliebaanstation uit 1874
 ## Bereikbaarheid
 
 Utrecht Centraal is een groot knooppunt met directe intercity's vanuit Amsterdam (30 min), Rotterdam (40 min) en Den Haag (40 min).
+
+---
+
+## Geschiedenis & Weetjes
+
+- **De storm van 1674.** Op 1 augustus 1674 trok een tornado door Utrecht en stortte het middenschip van de Domkerk in enkele minuten in. De ruïnes werden opgeruimd en de kloof tussen toren en kerk bestaat sindsdien — een van de meest bijzondere kathedraalindelingen ter wereld.
+- **Middeleeuws knooppunt.** Utrecht was de belangrijkste stad van de Nederlanden vóór Amsterdam in de 16e eeuw opkwam. De bisschop van Utrecht controleerde enorme gebieden en was feitelijk een vorst van het Heilige Roomse Rijk.
+- **Verdrag van Utrecht (1713).** De Vrede van Utrecht beëindigde de Spaanse Successieoorlog en hertekende de kaart van Europa. Het vestigde het machtsevenwichtsprincipe dat de Europese diplomatie een eeuw lang zou beheersen.
+- **De Domtoren is 465 treden hoog.** De toren werd gebouwd tussen 1321 en 1382. Meer dan 600 jaar was hij het hoogste bouwwerk van Nederland. Op een heldere dag zie je de skyline van Amsterdam, 40 km verderop.
+- **Werfkelders.** Het unieke tweelaagse grachtensysteem van Utrecht werd in de middeleeuwen ontworpen voor commerciële lossing: schepen meerden aan op het lager gelegen niveau terwijl goederen werden opgeslagen in de werfkelders. Nu zijn die kelders restaurants en bars.
+- **Paus Adrianus VI.** De enige Nederlandse paus, Adrianus VI (1459–1523), werd geboren in Utrecht. Hij was ook de laatste niet-Italiaanse paus vóór Johannes Paulus II in 1978.
+- **De Uithof.** De Universiteit Utrecht is een van de grootste van Europa, met 36.000 studenten. De Uithof-campus wordt bediend door een dubbeldekker busbaan — de drukste buslijn van Nederland.

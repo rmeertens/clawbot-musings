@@ -44,3 +44,15 @@ End your tour at the **Passage**, a 19th-century glass-roofed shopping arcade �
 ## Getting There
 
 Den Haag Centraal is served by intercity trains from Amsterdam (50 min), Rotterdam (25 min), and Leiden (15 min). Den Haag HS is an alternative station closer to Scheveningen trams.
+
+---
+
+## History & Fun Facts
+
+- **Capital vs. seat of government.** Den Haag is the seat of the Dutch government, parliament, and all foreign embassies — yet Amsterdam is the constitutional capital. This peculiarity dates to the 16th century when the Dutch Republic had no single formal capital. The arrangement has simply never been changed.
+- **The International Court of Justice.** Den Haag is home to the ICJ (World Court) at the Peace Palace, built in 1913. The building was funded by Andrew Carnegie after Tsar Nicholas II chose Den Haag for the first international peace conference in 1899. The city is also home to the International Criminal Court and the Organisation for the Prohibition of Chemical Weapons.
+- **Girl with a Pearl Earring.** Vermeer's most famous painting has no known title in historical records — it was only nicknamed *The Girl with the Pearl Earring* in the 20th century. The sitter is unknown. The pearl may not even be a real pearl: some experts believe it is a teardrop-shaped glass earring, which was fashionable at the time.
+- **Escher's mathematics.** M.C. Escher (1898–1972) had no formal mathematics training, yet his work on tessellations and impossible figures anticipated discoveries in crystallography and topology that mathematicians later formalized. He corresponded extensively with mathematicians including Roger Penrose, who inspired his final major work.
+- **The Binnenhof.** The Dutch parliament has met in the Binnenhof since 1446 — making it one of the longest continuously used parliamentary buildings in the world. The inner courtyard is open to the public and is surrounded by government offices, cafés, and the Ridderzaal.
+- **Scheveningen.** The coastal resort of Scheveningen (a 20-minute tram ride from the centre) was the first beach resort in the Netherlands, founded in the early 19th century. The pronunciation of "Scheveningen" was used as a shibboleth during WWII — German spies could not produce the correct Dutch fricative sounds.
+- **The Passage.** Built in 1882, Den Haag's glass-roofed arcade was inspired by the Galeries de la Reine in Brussels and the Galleria Vittorio Emanuele II in Milan. It is the oldest surviving shopping arcade in the Netherlands.
