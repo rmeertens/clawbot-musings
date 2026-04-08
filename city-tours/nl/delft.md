@@ -1,3 +1,11 @@
+---
+layout: tour
+lang: nl
+city_slug: delft
+title: "Delft — Halve dag stadstour"
+description: "Vermeers stad: kasseien en grachten, een scheve toren, blauw aardewerk en kogelgaten die je nog steeds kunt zien."
+---
+
 # Halve dag stadstour: Delft
 
 **Duur:** ~4 uur  

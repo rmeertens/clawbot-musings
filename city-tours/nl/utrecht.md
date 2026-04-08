@@ -1,3 +1,11 @@
+---
+layout: tour
+lang: nl
+city_slug: utrecht
+title: "Utrecht — Halve dag stadstour"
+description: "Een middeleeuwse toren zonder kerk, kades waar je koffie kunt drinken op het water, en een spoorwegmuseum dat volwassenen blij maakt."
+---
+
 # Halve dag stadstour: Utrecht
 
 **Duur:** ~4 uur  

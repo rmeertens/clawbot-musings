@@ -1,3 +1,11 @@
+---
+layout: tour
+lang: nl
+city_slug: den-haag
+title: "Den Haag — Halve dag stadstour"
+description: "De regeringszetel die geen hoofdstad is: het Binnenhof, Vermeers Meisje met de parel, Eschers onmogelijke trappen en het Internationaal Gerechtshof."
+---
+
 # Halve dag stadstour: Den Haag
 
 **Duur:** ~4 uur  

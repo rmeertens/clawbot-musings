@@ -1,3 +1,11 @@
+---
+layout: tour
+lang: nl
+city_slug: amsterdam
+title: "Amsterdam — Halve dag stadstour"
+description: "Van Rembrandts Nachtwacht tot de bruine cafés van de Jordaan — de Gouden Eeuw in vier uur te voet."
+---
+
 # Halve dag stadstour: Amsterdam
 
 **Duur:** ~4 uur  

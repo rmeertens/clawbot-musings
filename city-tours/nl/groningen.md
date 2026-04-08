@@ -1,3 +1,11 @@
+---
+layout: tour
+lang: nl
+city_slug: groningen
+title: "Groningen — Halve dag stadstour"
+description: "De hoofdstad van het noorden: een fietsende universiteitsstad met de hoogste vrijstaande toren van Nederland en een museum dat er bewust uitziet alsof het door een commissie is ontworpen."
+---
+
 # Halve dag stadstour: Groningen
 
 **Duur:** ~4 uur  

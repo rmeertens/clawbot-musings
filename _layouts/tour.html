@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: 'en' }}">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>{{ page.title }} — Netherlands City Tours</title>
+  <meta name="description" content="{{ page.description | default: page.title }}" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/styles.css" />
+  <style>
+    .tour-nav {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: 36px;
+      flex-wrap: wrap;
+      gap: 10px;
+    }
+
+    .back-link {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      color: var(--muted);
+      text-decoration: none;
+      font-size: 0.9rem;
+      font-weight: 500;
+      transition: color 0.15s;
+    }
+    .back-link:hover { color: var(--text); }
+
+    .lang-toggle {
+      display: inline-flex;
+      align-items: center;
+      gap: 5px;
+      font-size: 0.82rem;
+      font-weight: 700;
+      text-decoration: none;
+      padding: 7px 16px;
+      border-radius: 999px;
+      border: 1px solid var(--border);
+      background: rgba(255, 255, 255, 0.04);
+      color: var(--text);
+      transition: background 0.15s, border-color 0.15s;
+    }
+    .lang-toggle:hover {
+      background: rgba(255,255,255,0.08);
+      border-color: rgba(255,255,255,0.2);
+    }
+
+    /* Prose container */
+    .tour-prose {
+      padding: 40px 48px;
+      max-width: 800px;
+      margin: 0 auto;
+    }
+
+    @media (max-width: 700px) {
+      .tour-prose { padding: 24px 20px; }
+    }
+
+    /* Typography */
+    .tour-prose h1 {
+      font-size: clamp(1.9rem, 4vw, 2.8rem);
+      line-height: 1.1;
+      margin: 0 0 6px;
+      color: var(--text);
+    }
+
+    .tour-prose .subtitle {
+      font-size: 1rem;
+      color: var(--muted);
+      margin: 0 0 32px;
+    }
+
+    .tour-prose h2 {
+      font-size: 1.35rem;
+      font-weight: 700;
+      color: var(--text);
+      margin: 40px 0 14px;
+      padding-top: 32px;
+      border-top: 1px solid var(--border);
+    }
+
+    .tour-prose h2:first-of-type {
+      border-top: none;
+      padding-top: 0;
+    }
+
+    .tour-prose h3 {
+      font-size: 1.1rem;
+      font-weight: 700;
+      color: var(--accent);
+      margin: 28px 0 10px;
+    }
+
+    .tour-prose p {
+      color: var(--muted);
+      line-height: 1.78;
+      margin: 0 0 16px;
+    }
+
+    .tour-prose strong { color: var(--text); font-weight: 600; }
+    .tour-prose em { color: var(--text); font-style: italic; }
+
+    .tour-prose ul, .tour-prose ol {
+      color: var(--muted);
+      padding-left: 22px;
+      margin: 0 0 16px;
+      line-height: 1.72;
+    }
+
+    .tour-prose li { margin-bottom: 6px; }
+    .tour-prose li strong { color: var(--text); }
+
+    /* Blockquote — tips */
+    .tour-prose blockquote {
+      border-left: 3px solid var(--accent-2);
+      margin: 20px 0;
+      padding: 12px 18px;
+      background: rgba(34, 197, 94, 0.06);
+      border-radius: 0 10px 10px 0;
+    }
+    .tour-prose blockquote p {
+      margin: 0;
+      color: var(--text);
+      font-size: 0.93rem;
+    }
+
+    /* Table — practical info */
+    .tour-prose table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 16px 0 24px;
+      font-size: 0.92rem;
+    }
+    .tour-prose th {
+      text-align: left;
+      padding: 10px 14px;
+      color: var(--muted);
+      font-weight: 600;
+      font-size: 0.78rem;
+      text-transform: uppercase;
+      letter-spacing: 0.06em;
+      border-bottom: 1px solid var(--border);
+    }
+    .tour-prose td {
+      padding: 10px 14px;
+      color: var(--muted);
+      border-bottom: 1px solid rgba(255,255,255,0.05);
+      line-height: 1.5;
+    }
+    .tour-prose td:first-child { color: var(--text); font-weight: 500; width: 34%; }
+    .tour-prose tr:last-child td { border-bottom: none; }
+
+    /* HR */
+    .tour-prose hr {
+      border: none;
+      border-top: 1px solid var(--border);
+      margin: 36px 0;
+    }
+
+    /* Meta pills row (duration, distance, transport) */
+    .tour-meta-row {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      margin: 16px 0 32px;
+    }
+    .tour-meta-pill {
+      display: inline-flex;
+      align-items: center;
+      gap: 5px;
+      font-size: 0.82rem;
+      font-weight: 600;
+      color: var(--muted);
+      background: rgba(255,255,255,0.05);
+      border: 1px solid var(--border);
+      border-radius: 999px;
+      padding: 5px 12px;
+    }
+  </style>
+</head>
+<body>
+  <div class="page-shell">
+
+    {% if page.lang == 'en' %}
+      {% assign alt_url = '/city-tours/nl/' | append: page.city_slug | append: '/' %}
+      {% assign alt_label = 'Nederlands' %}
+      {% assign alt_flag = '🇳🇱' %}
+    {% else %}
+      {% assign alt_url = '/city-tours/en/' | append: page.city_slug | append: '/' %}
+      {% assign alt_label = 'English' %}
+      {% assign alt_flag = '🇬🇧' %}
+    {% endif %}
+
+    <nav class="tour-nav">
+      <a class="back-link" href="/city-tours/">← {% if page.lang == 'nl' %}Alle stadstours{% else %}All city tours{% endif %}</a>
+      <a class="lang-toggle" href="{{ alt_url }}">{{ alt_flag }} {{ alt_label }}</a>
+    </nav>
+
+    <article class="tour-prose card">
+      {{ content }}
+    </article>
+
+  </div>
+</body>
+</html>

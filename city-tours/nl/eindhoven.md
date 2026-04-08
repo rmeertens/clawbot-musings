@@ -1,3 +1,11 @@
+---
+layout: tour
+lang: nl
+city_slug: eindhoven
+title: "Eindhoven — Halve dag stadstour"
+description: "Een bedrijfsstad die designhoofdstad werd: de Philips-fabrieken opnieuw uitgevonden, een wereld­klasse museum voor hedendaagse kunst en de geschiedenis van de gloeilamp, de cd en de cassette."
+---
+
 # Halve dag stadstour: Eindhoven
 
 **Duur:** ~4 uur  

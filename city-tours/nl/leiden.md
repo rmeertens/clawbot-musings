@@ -1,3 +1,11 @@
+---
+layout: tour
+lang: nl
+city_slug: leiden
+title: "Leiden — Halve dag stadstour"
+description: "Rembrandts geboortestad, de Europese introductie van de tulp, een 131 dagen durend Spaans beleg en een complete Egyptische tempel — alles op loopafstand."
+---
+
 # Halve dag stadstour: Leiden
 
 **Duur:** ~4 uur  

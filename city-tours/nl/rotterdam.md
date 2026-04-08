@@ -1,3 +1,11 @@
+---
+layout: tour
+lang: nl
+city_slug: rotterdam
+title: "Rotterdam — Halve dag stadstour"
+description: "Een stad die in 1940 met de grond gelijkgemaakt werd en zichzelf herbouwde als het boldste architectuurexperiment van Europa."
+---
+
 # Halve dag stadstour: Rotterdam
 
 **Duur:** ~4 uur  

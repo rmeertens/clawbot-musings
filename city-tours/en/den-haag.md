@@ -1,58 +1,130 @@
-# Half-Day City Tour: Den Haag (The Hague)
+---
+layout: tour
+lang: en
+city_slug: den-haag
+title: "Den Haag — Half-Day City Tour"
+description: "The seat of government that isn't the capital, home to Vermeer's most famous painting, Escher's impossible staircases, and the International Court of Justice."
+---
 
-**Duration:** ~4 hours  
-**Best time:** Any weekday (most museums closed Monday)  
-**Transport:** Tram and walking
+# Den Haag (The Hague)
 
-## Overview
+> Den Haag is formally not the capital of the Netherlands — Amsterdam holds that title — yet it houses Parliament, the government, the royal family, and 200 international organisations. This geographical anomaly gives the city a strange, dual quality: grand and slightly detached, as if it's doing important things in its own reserved way.
 
-Den Haag is the seat of the Dutch government, the International Court of Justice, and dozens of foreign embassies — yet it has a quiet, stately character quite different from Amsterdam. The city holds two of the world's finest small art museums side by side: the Mauritshuis (Vermeer's *Girl with a Pearl Earring*) and the Escher museum. The historic Binnenhof parliament complex and the seaside resort of Scheveningen are both within easy reach.
+**Duration:** ~4 hours &nbsp;|&nbsp; **Best time:** Weekday (most museums closed Monday) &nbsp;|&nbsp; **Transport:** Tram from Den Haag Centraal (5 minutes)
+
+---
+
+## The City in 60 Seconds
+
+Den Haag began as a royal hunting lodge in the 13th century — the name means "the hedge" (as in the hedge surrounding the count's hunting park). It grew into a court city: the seat of power without ever being a trading or manufacturing centre. This distinguishes it sharply from Amsterdam, Rotterdam, or Utrecht — there's no industrial past, no great commercial port, no Golden Age merchant wealth. Instead there are embassies, ministries, law courts, and the quiet self-confidence of a city that has always hosted the people who make decisions.
+
+The result is beautifully maintained, architecturally consistent, and very slightly stiff. The two world-class museums — the Mauritshuis and Escher in het Paleis — are within 500 metres of each other, and the Binnenhof (Parliament) is between them.
 
 ---
 
 ## Route
 
-### 1. Binnenhof & Hofvijver (30 minutes)
-Start at the **Binnenhof**, the 13th-century parliament complex at the heart of the city. The Gothic **Ridderzaal** (Hall of Knights) stands on an island in the **Hofvijver** pond — a perfect reflection shot in calm weather. Guided tours of the Ridderzaal are available. Walk around the pond for different angles of the complex.
+### 1. Binnenhof & Hofvijver — Parliament Complex
 
-### 2. Mauritshuis (1.5 hours)
-Cross to the **Mauritshuis**, a small but world-class collection housed in a 17th-century patrician mansion. The highlights are Vermeer's *Girl with a Pearl Earring* and *View of Delft*, Rembrandt's *The Anatomy Lesson of Dr. Nicolaes Tulp*, and Fabritius's *The Goldfinch*. Because the museum is compact, it never feels overwhelming.
+**Time here:** 30 minutes
 
-> Book tickets online — queues can be long on weekends. Allow 1.5 hours minimum.
+The **Binnenhof** is one of the oldest continuously used parliamentary complexes in the world. Dating from the 13th century, it's a walled Gothic compound built on an island in the **Hofvijver** pond, in the centre of the city. The Parliament of the Netherlands has met here in various forms since 1446.
 
-### 3. Plein & Denneweg (20 minutes)
-Walk through the **Plein** (the square in front of parliament) and into the **Denneweg**, a quiet street of independent galleries, antique dealers, and good cafés. The contrast between the governmental grandeur and this intimate neighbourhood is one of Den Haag's pleasures.
+Walk around the Hofvijver first. The view from the southern bank — the Gothic towers of the Ridderzaal reflected in the still water, with the modern city towers visible beyond — is the defining image of Den Haag. On Tuesday, *Prinsjesdag* (Budget Day, third Tuesday in September), the monarch reads the government's legislative programme from the Ridderzaal in a ceremony involving a golden carriage procession. Most days, it's quieter.
 
-### 4. Lange Voorhout & Escher in het Paleis (1 hour)
-Stroll up the **Lange Voorhout**, a grand tree-lined boulevard of embassies and ministries. At the far end is the **Escher in het Paleis** museum — M.C. Escher's impossible staircases, infinite tessellations, and visual paradoxes displayed in Queen Emma's former winter palace. A unique collection unlike anything else in the Netherlands.
+The inner courtyard of the Binnenhof is open to the public (when Parliament is not in session) — walk through the main gate and you're standing in the space where Dutch history has been made for 600 years.
 
-### 5. Passage & Grote Kerk (20 minutes)
-End your tour at the **Passage**, a 19th-century glass-roofed shopping arcade — the oldest in the Netherlands. Emerge onto the **Grote Markt** with the **Grote Kerk** (St. Jacobskerk), a hulking Gothic church that has stood here since the 15th century.
+**Don't miss:** The **Ridderzaal** (Hall of Knights, 1280) — the Gothic hall at the heart of the complex. Guided tours available when Parliament is in recess. Its stained glass windows bear the coats of arms of every Dutch province.
+
+**Walk to stop 2:** The Mauritshuis is directly adjacent to the Hofvijver — 2-minute walk through the Binnenhof or around the pond.
+
+---
+
+### 2. Mauritshuis — Golden Age Museum
+
+**Time here:** 90 minutes
+
+The Mauritshuis is a small museum by international standards — about 800 works across 17 rooms — but its concentration of quality is extraordinary. The collection belongs to the Dutch and Flemish Golden Age (1600–1700) and contains some of the most celebrated paintings in the world.
+
+You will spend 20 minutes in front of **Vermeer's *Girl with a Pearl Earring*** (1665). Everyone does. The painting is smaller than you expect — 44 × 39 cm — and in an unassuming oval frame. The girl's gaze, caught mid-turn, has been described as the most psychologically immediate portrait in Dutch art. Nothing about it should be as compelling as it is.
+
+Also in the collection: **Rembrandt's *The Anatomy Lesson of Dr. Nicolaes Tulp*** (1632) — a group portrait of seven surgeons watching a public dissection, each face expressing a slightly different reaction to what's happening; **Vermeer's *View of Delft*** (1660–61), which Proust described as "the most beautiful painting in the world"; and **Fabritius's *The Goldfinch*** (1654), painted in the year of its creator's death in the Delft Thunderclap.
+
+**Don't miss:** Room 15 (Vermeer) and Room 14 (Fabritius/Rembrandt). If there's a queue for the Girl with a Pearl Earring, come back to her at the end.
+
+**Practical tip:** Book online to avoid the queue at peak times. The museum is compact enough to cover in 90 minutes without rushing.
+
+**Walk to stop 3:** Exit onto Korte Vijverberg and walk west through the Plein — 6 minutes to Denneweg.
+
+---
+
+### 3. Denneweg — Neighbourhood Street
+
+**Time here:** 20 minutes
+
+The **Denneweg** is the most pleasant street in Den Haag for walking: a quiet, slightly curved road lined with antique dealers, independent galleries, good restaurants, and the occasional embassy facade. It's five minutes from Parliament and feels like a different city.
+
+This is where diplomats shop. The street connects the Plein (the square in front of Parliament) to the Lange Voorhout, so it's a natural transition between the two main stops on this side of the tour.
+
+**Walk to stop 4:** Denneweg leads directly into the Lange Voorhout — 4 minutes.
+
+---
+
+### 4. Lange Voorhout & Escher in het Paleis — Boulevard & Museum
+
+**Time here:** 70 minutes
+
+The **Lange Voorhout** is a wide tree-lined boulevard with a double row of lime trees running down the centre. The surrounding buildings include the Hotel des Indes (where Harry Houdini, Anna Pavlova, and Josephine Baker all stayed), the British, US, and Japanese embassy residences, and a rotating series of foreign cultural institutes.
+
+At the northern end of the boulevard, the 18th-century **Lange Voorhout Palace** houses **Escher in het Paleis** — the definitive M.C. Escher museum. The collection includes over 130 original prints, drawings, and paintings, displayed in the former royal palace where Queen Emma of the Netherlands held her winter court.
+
+Escher (1898–1972) had no formal mathematics training, yet he produced work that anticipated crystallography and topology discoveries that mathematicians formalised decades later. The ascending/descending staircases, the tessellations where fish become birds, the hands drawing themselves — these images are instantly recognisable to anyone who has seen them once. Seeing the originals in context — the meticulous pencil preparatory drawings, the woodblock experiments, the evolution of an idea across multiple attempts — is a completely different experience from seeing the reproductions.
+
+**Don't miss:** The **preparatory sketchbooks** for *Relativity* and *Waterfall* — the finished prints are world-famous, but the sketches show how systematic and mathematical the thinking process actually was.
+
+**Walk to stop 5:** Walk west from Lange Voorhout toward the Grote Markt — 8 minutes.
+
+---
+
+### 5. Grote Markt & Passage — Old Centre
+
+**Time here:** 20 minutes
+
+The **Grote Markt** (Great Market) is Den Haag's oldest square, surrounded by the bulk of the **Grote Kerk** (Sint-Jacobskerk), a 15th-century Gothic church, and the 17th-century old town hall. The square is less impressive than the government district but more historically rooted — this is where the market city of Den Haag (as opposed to the court city) began.
+
+From the Grote Markt, find the entrance to the **Passage**: an 1882 glass-roofed shopping arcade, the oldest surviving arcade in the Netherlands, modelled on the Galleria Vittorio Emanuele II in Milan. It runs for 100 metres between two streets, entirely covered in cast iron and glass, with a central dome above the crossing. The shops inside are nothing special — the architecture is everything.
+
+**Don't miss:** Stand at the crossing beneath the central dome and look up — the iron-and-glass structure is exactly what Victorian commercial architecture was supposed to look like.
+
+---
+
+## Where to Eat & Drink
+
+- **Coffee:** **Dudok** (Hofweg 1a) — a Den Haag institution, enormous space, excellent apple pie, close to the Binnenhof.
+- **Lunch:** **De Posthoorn** (Lange Voorhout 39a) — traditional Dutch grand café on the boulevard, good *dagschotel* (dish of the day).
+- **End-of-tour drink:** **Café Bleyenberg** (Grote Marktstraat 10, facing the Grote Kerk) — terrace on the square with a view of the church.
 
 ---
 
 ## Practical Info
 
-| Item | Detail |
-|------|--------|
-| Start point | Binnenhof (Binnenhof 1) |
-| End point | Grote Markt / Grote Kerk |
-| Distance | ~3.5 km walking |
-| Public transport | Trams 1, 6, 16 from Den Haag Centraal to Buitenhof (5 min) |
-| Entry fees | Ridderzaal tour ~€10; Mauritshuis €17.50; Escher in het Paleis €13 |
-
-## Getting There
-
-Den Haag Centraal is served by intercity trains from Amsterdam (50 min), Rotterdam (25 min), and Leiden (15 min). Den Haag HS is an alternative station closer to Scheveningen trams.
+| | |
+|---|---|
+| **Start** | Binnenhof / Hofvijver (tram 1, 6, 17 from Centraal to Buitenhof) |
+| **End** | Grote Markt / Passage |
+| **Total walk** | ~3.5 km |
+| **Transport in** | Den Haag Centraal: intercity from Amsterdam (50 min), Rotterdam (25 min), Leiden (15 min) |
+| **Book ahead** | Mauritshuis €17.50 — mauritshuis.nl; Escher in het Paleis €13 — escherinhetpaleis.nl |
+| **Free highlights** | Binnenhof courtyard, Hofvijver walk, Denneweg, Lange Voorhout, Passage |
+| **Avoid** | Monday (most museums closed); Prinsjesdag (third Tuesday in September) unless you want to see the golden carriage |
 
 ---
 
 ## History & Fun Facts
 
-- **Capital vs. seat of government.** Den Haag is the seat of the Dutch government, parliament, and all foreign embassies — yet Amsterdam is the constitutional capital. This peculiarity dates to the 16th century when the Dutch Republic had no single formal capital. The arrangement has simply never been changed.
-- **The International Court of Justice.** Den Haag is home to the ICJ (World Court) at the Peace Palace, built in 1913. The building was funded by Andrew Carnegie after Tsar Nicholas II chose Den Haag for the first international peace conference in 1899. The city is also home to the International Criminal Court and the Organisation for the Prohibition of Chemical Weapons.
-- **Girl with a Pearl Earring.** Vermeer's most famous painting has no known title in historical records — it was only nicknamed *The Girl with the Pearl Earring* in the 20th century. The sitter is unknown. The pearl may not even be a real pearl: some experts believe it is a teardrop-shaped glass earring, which was fashionable at the time.
-- **Escher's mathematics.** M.C. Escher (1898–1972) had no formal mathematics training, yet his work on tessellations and impossible figures anticipated discoveries in crystallography and topology that mathematicians later formalized. He corresponded extensively with mathematicians including Roger Penrose, who inspired his final major work.
-- **The Binnenhof.** The Dutch parliament has met in the Binnenhof since 1446 — making it one of the longest continuously used parliamentary buildings in the world. The inner courtyard is open to the public and is surrounded by government offices, cafés, and the Ridderzaal.
-- **Scheveningen.** The coastal resort of Scheveningen (a 20-minute tram ride from the centre) was the first beach resort in the Netherlands, founded in the early 19th century. The pronunciation of "Scheveningen" was used as a shibboleth during WWII — German spies could not produce the correct Dutch fricative sounds.
-- **The Passage.** Built in 1882, Den Haag's glass-roofed arcade was inspired by the Galeries de la Reine in Brussels and the Galleria Vittorio Emanuele II in Milan. It is the oldest surviving shopping arcade in the Netherlands.
+- **Not the capital.** Amsterdam is the constitutional capital of the Netherlands — the monarch is crowned there, the constitution declares it. Den Haag is where Parliament sits, the government meets, the courts operate, and all foreign embassies are accredited. This arrangement dates to the 16th-century Dutch Republic, which had no single formal capital, and has never been formalised or changed.
+- **International courts.** Den Haag hosts the International Court of Justice (the main UN judicial body), the International Criminal Court, the Permanent Court of Arbitration, the Organisation for the Prohibition of Chemical Weapons (OPCW), and Europol — more international legal and law-enforcement bodies than any other city on Earth.
+- **Vermeer's sitter.** The model for *Girl with a Pearl Earring* is unknown. She has no name in any historical record. The painting was sold at auction in 1881 for two guilders and 30 cents — approximately €1.50 in modern money — to a collector who recognised it as exceptional. It now insures for over €150 million.
+- **The Mauritshuis survived a gunpowder barge explosion.** In 1831, a barge loaded with gunpowder blew up in the Hofvijver, destroying several buildings. The Mauritshuis survived with minor damage. The explosion killed around 150 people and left a crater 10 metres deep in the pond.
+- **Scheveningen as a shibboleth.** The seaside resort of Scheveningen (20-minute tram ride from the centre) lent its name to a WWII security measure: Dutch resistance operatives used the pronunciation of "Scheveningen" to identify German infiltrators. The combination of Dutch vowel sounds and fricatives is extremely difficult for German speakers to reproduce correctly.
+- **The Passage.** The glass-roofed arcade (1882) was designed by the Haagse architect C. B. Posthumus Meyjes. It was modelled explicitly on the Galeries de la Reine in Brussels and the Galleria Vittorio Emanuele II in Milan — European commercial arcade design at its peak. The original gas lighting has been preserved in the lamp fittings, now electrified.
