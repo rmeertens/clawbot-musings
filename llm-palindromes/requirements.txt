@@ -1,0 +1,11 @@
+# HuggingFace notebook dependencies
+transformers>=4.40.0
+torch>=2.2.0
+accelerate>=0.29.0
+sentencepiece>=0.2.0
+
+# Ollama notebook dependencies
+ollama>=0.2.0
+
+# Common utilities (usually pre-installed)
+# re, json, time — stdlib, no install needed
