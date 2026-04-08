@@ -1,0 +1,690 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>My Runs — City Maps</title>
+  <meta name="description" content="All my Strava runs, grouped by city on interactive OpenStreetMap maps." />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <!-- Leaflet -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --bg: #0f1117;
+      --surface: #1a1d27;
+      --surface2: #22263a;
+      --border: #2e3350;
+      --text: #e8eaf6;
+      --muted: #8892b0;
+      --accent: #7c6af7;
+      --accent-glow: rgba(124, 106, 247, 0.25);
+      --sidebar-w: 320px;
+    }
+
+    html, body { height: 100%; overflow: hidden; font-family: 'Inter', sans-serif; background: var(--bg); color: var(--text); }
+
+    /* ── Layout ── */
+    #app { display: flex; height: 100vh; }
+
+    /* ── Sidebar ── */
+    #sidebar {
+      width: var(--sidebar-w);
+      min-width: var(--sidebar-w);
+      background: var(--surface);
+      border-right: 1px solid var(--border);
+      display: flex;
+      flex-direction: column;
+      overflow: hidden;
+      z-index: 10;
+    }
+
+    #sidebar-header {
+      padding: 20px 20px 16px;
+      border-bottom: 1px solid var(--border);
+      background: var(--surface);
+    }
+
+    #sidebar-header h1 {
+      font-size: 1.1rem;
+      font-weight: 700;
+      letter-spacing: -0.01em;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    #sidebar-header h1 span.logo { font-size: 1.3rem; }
+
+    #sidebar-header p {
+      font-size: 0.75rem;
+      color: var(--muted);
+      margin-top: 4px;
+    }
+
+    #stats-bar {
+      display: flex;
+      gap: 0;
+      border-bottom: 1px solid var(--border);
+    }
+
+    .stat {
+      flex: 1;
+      padding: 12px 10px;
+      text-align: center;
+      border-right: 1px solid var(--border);
+    }
+    .stat:last-child { border-right: none; }
+    .stat-value { font-size: 1.1rem; font-weight: 700; color: var(--accent); }
+    .stat-label { font-size: 0.65rem; color: var(--muted); text-transform: uppercase; letter-spacing: 0.05em; margin-top: 2px; }
+
+    #search-box {
+      padding: 12px 16px;
+      border-bottom: 1px solid var(--border);
+    }
+    #search-box input {
+      width: 100%;
+      background: var(--surface2);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 8px 12px;
+      color: var(--text);
+      font-size: 0.8rem;
+      outline: none;
+      transition: border-color 0.2s;
+    }
+    #search-box input:focus { border-color: var(--accent); }
+    #search-box input::placeholder { color: var(--muted); }
+
+    #city-list { overflow-y: auto; flex: 1; padding: 8px 0; }
+
+    .city-btn {
+      width: 100%;
+      background: none;
+      border: none;
+      cursor: pointer;
+      padding: 10px 16px;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      text-align: left;
+      transition: background 0.15s;
+      position: relative;
+    }
+    .city-btn:hover { background: var(--surface2); }
+    .city-btn.active { background: var(--accent-glow); }
+    .city-btn.active::before {
+      content: '';
+      position: absolute;
+      left: 0; top: 4px; bottom: 4px;
+      width: 3px;
+      background: var(--accent);
+      border-radius: 0 3px 3px 0;
+    }
+
+    .city-dot {
+      width: 10px; height: 10px;
+      border-radius: 50%;
+      flex-shrink: 0;
+    }
+
+    .city-info { flex: 1; min-width: 0; }
+    .city-name { font-size: 0.85rem; font-weight: 600; color: var(--text); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+    .city-meta { font-size: 0.7rem; color: var(--muted); margin-top: 1px; }
+
+    .city-count {
+      font-size: 0.7rem;
+      font-weight: 600;
+      background: var(--surface2);
+      color: var(--muted);
+      border-radius: 20px;
+      padding: 2px 8px;
+      flex-shrink: 0;
+    }
+    .city-btn.active .city-count { background: var(--accent); color: white; }
+
+    /* ── Run panel (right of city, left of map) ── */
+    #run-panel {
+      width: 0;
+      overflow: hidden;
+      background: var(--surface);
+      border-right: 1px solid var(--border);
+      transition: width 0.2s ease;
+      display: flex;
+      flex-direction: column;
+    }
+    #run-panel.open { width: 240px; min-width: 240px; }
+
+    #run-panel-header {
+      padding: 14px 16px;
+      border-bottom: 1px solid var(--border);
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+    #run-panel-title { font-size: 0.85rem; font-weight: 700; white-space: nowrap; }
+    #run-panel-close {
+      background: none; border: none; cursor: pointer; color: var(--muted); font-size: 1rem; padding: 2px 6px;
+    }
+    #run-panel-close:hover { color: var(--text); }
+
+    #run-list { overflow-y: auto; flex: 1; padding: 4px 0; }
+
+    .run-item {
+      padding: 10px 14px;
+      border-bottom: 1px solid var(--border);
+      cursor: pointer;
+      transition: background 0.1s;
+    }
+    .run-item:hover { background: var(--surface2); }
+    .run-item.highlighted { background: var(--accent-glow); }
+
+    .run-name { font-size: 0.78rem; font-weight: 600; color: var(--text); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+    .run-date { font-size: 0.68rem; color: var(--muted); margin-top: 2px; }
+    .run-dist { font-size: 0.72rem; color: var(--accent); font-weight: 600; margin-top: 3px; }
+
+    /* ── Map ── */
+    #map-container { flex: 1; position: relative; }
+    #map { width: 100%; height: 100%; }
+
+    /* Custom Leaflet popup */
+    .leaflet-popup-content-wrapper {
+      background: var(--surface) !important;
+      color: var(--text) !important;
+      border: 1px solid var(--border) !important;
+      border-radius: 10px !important;
+      box-shadow: 0 8px 32px rgba(0,0,0,0.5) !important;
+      padding: 0 !important;
+    }
+    .leaflet-popup-tip { background: var(--surface) !important; }
+    .leaflet-popup-content { margin: 0 !important; padding: 14px 16px !important; min-width: 200px; }
+
+    .popup-name { font-weight: 700; font-size: 0.9rem; margin-bottom: 8px; }
+    .popup-grid { display: grid; grid-template-columns: auto 1fr; gap: 3px 10px; font-size: 0.75rem; }
+    .popup-label { color: var(--muted); }
+    .popup-val { font-weight: 600; }
+
+    /* ── Empty state ── */
+    #empty-state {
+      position: absolute;
+      inset: 0;
+      display: none;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      background: var(--bg);
+      z-index: 5;
+      padding: 40px;
+      text-align: center;
+    }
+    #empty-state h2 { font-size: 1.3rem; margin-bottom: 12px; }
+    #empty-state p { color: var(--muted); font-size: 0.85rem; line-height: 1.6; max-width: 460px; }
+    #empty-state code {
+      display: inline-block;
+      background: var(--surface2);
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      padding: 12px 18px;
+      font-family: monospace;
+      font-size: 0.82rem;
+      margin: 14px 0;
+      color: var(--accent);
+    }
+
+    /* ── Map controls ── */
+    #map-controls {
+      position: absolute;
+      top: 16px; right: 16px;
+      z-index: 400;
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+    }
+    .map-btn {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      color: var(--text);
+      border-radius: 8px;
+      padding: 8px 14px;
+      font-size: 0.78rem;
+      font-weight: 600;
+      cursor: pointer;
+      white-space: nowrap;
+      transition: background 0.15s, border-color 0.15s;
+      font-family: 'Inter', sans-serif;
+    }
+    .map-btn:hover { background: var(--surface2); border-color: var(--accent); }
+
+    /* ── Mobile ── */
+    @media (max-width: 700px) {
+      :root { --sidebar-w: 100vw; }
+      #app { flex-direction: column; }
+      #sidebar { width: 100%; min-width: unset; height: 50vh; border-right: none; border-bottom: 1px solid var(--border); }
+      #run-panel { display: none; }
+      #map-container { height: 50vh; }
+    }
+
+    /* Scrollbar styling */
+    ::-webkit-scrollbar { width: 5px; }
+    ::-webkit-scrollbar-track { background: transparent; }
+    ::-webkit-scrollbar-thumb { background: var(--border); border-radius: 99px; }
+    ::-webkit-scrollbar-thumb:hover { background: var(--muted); }
+  </style>
+</head>
+<body>
+
+<div id="app">
+  <!-- ── Sidebar ── -->
+  <aside id="sidebar">
+    <div id="sidebar-header">
+      <h1><span class="logo">🏃</span> My Runs</h1>
+      <p>Strava activities — grouped by city</p>
+    </div>
+
+    <div id="stats-bar">
+      <div class="stat">
+        <div class="stat-value" id="stat-runs">–</div>
+        <div class="stat-label">Runs</div>
+      </div>
+      <div class="stat">
+        <div class="stat-value" id="stat-km">–</div>
+        <div class="stat-label">km</div>
+      </div>
+      <div class="stat">
+        <div class="stat-value" id="stat-cities">–</div>
+        <div class="stat-label">Cities</div>
+      </div>
+    </div>
+
+    <div id="search-box">
+      <input type="text" id="city-search" placeholder="Search cities…" autocomplete="off" />
+    </div>
+
+    <div id="city-list">
+      <!-- Populated by JS -->
+    </div>
+  </aside>
+
+  <!-- ── Run panel ── -->
+  <div id="run-panel">
+    <div id="run-panel-header">
+      <span id="run-panel-title">Runs</span>
+      <button id="run-panel-close" title="Close">✕</button>
+    </div>
+    <div id="run-list"></div>
+  </div>
+
+  <!-- ── Map ── -->
+  <div id="map-container">
+    <div id="map"></div>
+    <div id="map-controls">
+      <button class="map-btn" id="btn-fit">Fit all</button>
+    </div>
+
+    <!-- Empty state -->
+    <div id="empty-state">
+      <h2>No run data yet</h2>
+      <p>
+        Run the fetch script locally to pull your Strava activities:
+      </p>
+      <code>python3 strava-runs/fetch_runs.py</code>
+      <p>
+        Then commit <strong>strava-runs/runs.json</strong> and push. The page will
+        automatically show all your runs grouped by city.
+      </p>
+    </div>
+  </div>
+</div>
+
+<script>
+// ─────────────────────────────────────────────────────────────────────────────
+// Polyline decoder (Google encoded polyline algorithm)
+// ─────────────────────────────────────────────────────────────────────────────
+function decodePolyline(encoded) {
+  if (!encoded) return [];
+  const coords = [];
+  let index = 0, lat = 0, lng = 0;
+  while (index < encoded.length) {
+    let b, shift = 0, result = 0;
+    do { b = encoded.charCodeAt(index++) - 63; result |= (b & 0x1f) << shift; shift += 5; } while (b >= 0x20);
+    lat += (result & 1) ? ~(result >> 1) : (result >> 1);
+    shift = 0; result = 0;
+    do { b = encoded.charCodeAt(index++) - 63; result |= (b & 0x1f) << shift; shift += 5; } while (b >= 0x20);
+    lng += (result & 1) ? ~(result >> 1) : (result >> 1);
+    coords.push([lat / 1e5, lng / 1e5]);
+  }
+  return coords;
+}
+
+// ─────────────────────────────────────────────────────────────────────────────
+// City colour palette (cycles if needed)
+// ─────────────────────────────────────────────────────────────────────────────
+const PALETTE = [
+  '#7c6af7','#f97316','#22d3ee','#4ade80','#f43f5e',
+  '#a78bfa','#fb923c','#34d399','#60a5fa','#fbbf24',
+  '#e879f9','#2dd4bf','#f472b6','#a3e635','#38bdf8',
+];
+
+function cityColor(idx) { return PALETTE[idx % PALETTE.length]; }
+
+// ─────────────────────────────────────────────────────────────────────────────
+// Helpers
+// ─────────────────────────────────────────────────────────────────────────────
+function fmtDate(iso) {
+  if (!iso) return '–';
+  const d = new Date(iso);
+  return d.toLocaleDateString('en-GB', { day: 'numeric', month: 'short', year: 'numeric' });
+}
+
+function fmtKm(km) { return km ? km.toFixed(1) + ' km' : '–'; }
+
+// ─────────────────────────────────────────────────────────────────────────────
+// Initialise map
+// ─────────────────────────────────────────────────────────────────────────────
+const map = L.map('map', {
+  center: [51.5, 0],
+  zoom: 4,
+  zoomControl: true,
+});
+
+L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+  attribution: '© <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+  maxZoom: 19,
+}).addTo(map);
+
+// Dark overlay for visual contrast
+L.tileLayer('https://tiles.stadiamaps.com/tiles/alidade_smooth_dark/{z}/{x}/{y}{r}.png', {
+  attribution: '© <a href="https://stadiamaps.com/">Stadia Maps</a>',
+  maxZoom: 20,
+  opacity: 1,
+}).addTo(map);
+
+// ─────────────────────────────────────────────────────────────────────────────
+// State
+// ─────────────────────────────────────────────────────────────────────────────
+let allRuns = [];
+let cityIndex = {}; // city -> { runs, color, polylines[] }
+let activeCity = null;
+let highlightedPolyline = null;
+
+// ─────────────────────────────────────────────────────────────────────────────
+// Load data
+// ─────────────────────────────────────────────────────────────────────────────
+async function loadData() {
+  let data;
+  try {
+    const resp = await fetch('runs.json');
+    data = await resp.json();
+  } catch (e) {
+    data = [];
+  }
+
+  allRuns = data;
+
+  if (!allRuns.length) {
+    document.getElementById('empty-state').style.display = 'flex';
+    return;
+  }
+
+  buildCityIndex();
+  renderStats();
+  renderCityList();
+  drawAllPolylines();
+  fitAll();
+}
+
+// ─────────────────────────────────────────────────────────────────────────────
+// Build city index
+// ─────────────────────────────────────────────────────────────────────────────
+function buildCityIndex() {
+  const order = [];
+  allRuns.forEach(run => {
+    const c = run.city || 'Unknown';
+    if (!cityIndex[c]) {
+      cityIndex[c] = { runs: [], color: null, layers: [], totalKm: 0 };
+      order.push(c);
+    }
+    cityIndex[c].runs.push(run);
+    cityIndex[c].totalKm += run.distance_km || 0;
+  });
+
+  // Sort cities by run count desc
+  order.sort((a, b) => cityIndex[b].runs.length - cityIndex[a].runs.length);
+
+  // Assign colours in sorted order
+  order.forEach((city, i) => { cityIndex[city].color = cityColor(i); cityIndex[city].sortOrder = i; });
+}
+
+// ─────────────────────────────────────────────────────────────────────────────
+// Draw polylines
+// ─────────────────────────────────────────────────────────────────────────────
+function drawAllPolylines() {
+  Object.entries(cityIndex).forEach(([city, data]) => {
+    data.runs.forEach(run => {
+      if (!run.polyline) return;
+      const coords = decodePolyline(run.polyline);
+      if (!coords.length) return;
+
+      const line = L.polyline(coords, {
+        color: data.color,
+        weight: 2.5,
+        opacity: 0.75,
+        smoothFactor: 1.5,
+      }).addTo(map);
+
+      // Popup
+      line.bindPopup(() => {
+        return `<div class="popup-name">${escHtml(run.name)}</div>
+          <div class="popup-grid">
+            <span class="popup-label">Date</span><span class="popup-val">${fmtDate(run.date)}</span>
+            <span class="popup-label">Distance</span><span class="popup-val">${fmtKm(run.distance_km)}</span>
+            <span class="popup-label">Time</span><span class="popup-val">${run.moving_time || '–'}</span>
+            <span class="popup-label">Pace</span><span class="popup-val">${run.pace || '–'}</span>
+            <span class="popup-label">Elevation</span><span class="popup-val">${run.elevation_gain ? run.elevation_gain + ' m' : '–'}</span>
+            <span class="popup-label">City</span><span class="popup-val">${escHtml(run.city || '–')}</span>
+          </div>`;
+      }, { maxWidth: 260 });
+
+      line.on('click', () => highlightRun(run, line));
+
+      data.layers.push({ run, line });
+    });
+  });
+}
+
+// ─────────────────────────────────────────────────────────────────────────────
+// Stats
+// ─────────────────────────────────────────────────────────────────────────────
+function renderStats() {
+  const totalKm = allRuns.reduce((s, r) => s + (r.distance_km || 0), 0);
+  document.getElementById('stat-runs').textContent = allRuns.length;
+  document.getElementById('stat-km').textContent = (totalKm / 1000).toFixed(1) + 'k';
+  document.getElementById('stat-cities').textContent = Object.keys(cityIndex).length;
+}
+
+// ─────────────────────────────────────────────────────────────────────────────
+// City list rendering
+// ─────────────────────────────────────────────────────────────────────────────
+function renderCityList(filter = '') {
+  const list = document.getElementById('city-list');
+  list.innerHTML = '';
+
+  const cities = Object.keys(cityIndex).sort((a, b) => cityIndex[a].sortOrder - cityIndex[b].sortOrder);
+  const q = filter.toLowerCase();
+
+  // "All" button
+  const allBtn = makeAllBtn();
+  list.appendChild(allBtn);
+
+  cities.forEach(city => {
+    if (q && !city.toLowerCase().includes(q)) return;
+    const data = cityIndex[city];
+    const btn = document.createElement('button');
+    btn.className = 'city-btn' + (activeCity === city ? ' active' : '');
+    btn.dataset.city = city;
+    btn.innerHTML = `
+      <span class="city-dot" style="background:${data.color}"></span>
+      <span class="city-info">
+        <span class="city-name">${escHtml(city)}</span>
+        <span class="city-meta">${data.totalKm.toFixed(0)} km total</span>
+      </span>
+      <span class="city-count">${data.runs.length}</span>
+    `;
+    btn.addEventListener('click', () => selectCity(city));
+    list.appendChild(btn);
+  });
+}
+
+function makeAllBtn() {
+  const btn = document.createElement('button');
+  btn.className = 'city-btn' + (activeCity === null ? ' active' : '');
+  btn.dataset.city = '__all__';
+  const totalKm = allRuns.reduce((s, r) => s + (r.distance_km || 0), 0);
+  btn.innerHTML = `
+    <span class="city-dot" style="background: linear-gradient(135deg, ${PALETTE[0]}, ${PALETTE[2]})"></span>
+    <span class="city-info">
+      <span class="city-name">All cities</span>
+      <span class="city-meta">${totalKm.toFixed(0)} km total</span>
+    </span>
+    <span class="city-count">${allRuns.length}</span>
+  `;
+  btn.addEventListener('click', () => selectCity(null));
+  return btn;
+}
+
+// ─────────────────────────────────────────────────────────────────────────────
+// City selection
+// ─────────────────────────────────────────────────────────────────────────────
+function selectCity(city) {
+  activeCity = city;
+  renderCityList(document.getElementById('city-search').value);
+
+  // Show/hide polylines
+  Object.entries(cityIndex).forEach(([c, data]) => {
+    const visible = city === null || c === city;
+    data.layers.forEach(({ line }) => {
+      if (visible) {
+        if (!map.hasLayer(line)) line.addTo(map);
+        line.setStyle({ opacity: 0.75, weight: 2.5 });
+      } else {
+        if (map.hasLayer(line)) map.removeLayer(line);
+      }
+    });
+  });
+
+  // Update run panel
+  if (city !== null) {
+    openRunPanel(city);
+    fitCity(city);
+  } else {
+    closeRunPanel();
+    fitAll();
+  }
+}
+
+// ─────────────────────────────────────────────────────────────────────────────
+// Run panel
+// ─────────────────────────────────────────────────────────────────────────────
+function openRunPanel(city) {
+  const panel = document.getElementById('run-panel');
+  const list = document.getElementById('run-list');
+  const title = document.getElementById('run-panel-title');
+  panel.classList.add('open');
+  title.textContent = city;
+  list.innerHTML = '';
+
+  cityIndex[city].runs.forEach(run => {
+    const item = document.createElement('div');
+    item.className = 'run-item';
+    item.dataset.id = run.id;
+    item.innerHTML = `
+      <div class="run-name">${escHtml(run.name)}</div>
+      <div class="run-date">${fmtDate(run.date)}</div>
+      <div class="run-dist">${fmtKm(run.distance_km)} · ${run.pace || ''}</div>
+    `;
+    item.addEventListener('click', () => {
+      const entry = cityIndex[city].layers.find(l => l.run.id === run.id);
+      if (entry) {
+        entry.line.openPopup();
+        map.fitBounds(entry.line.getBounds(), { padding: [40, 40] });
+        highlightRun(run, entry.line);
+      }
+      // Highlight in list
+      list.querySelectorAll('.run-item').forEach(el => el.classList.remove('highlighted'));
+      item.classList.add('highlighted');
+    });
+    list.appendChild(item);
+  });
+}
+
+function closeRunPanel() {
+  document.getElementById('run-panel').classList.remove('open');
+}
+
+document.getElementById('run-panel-close').addEventListener('click', () => {
+  closeRunPanel();
+  selectCity(null);
+});
+
+// ─────────────────────────────────────────────────────────────────────────────
+// Highlight a run
+// ─────────────────────────────────────────────────────────────────────────────
+function highlightRun(run, line) {
+  if (highlightedPolyline && highlightedPolyline !== line) {
+    highlightedPolyline.setStyle({ weight: 2.5, opacity: 0.75 });
+  }
+  line.setStyle({ weight: 4.5, opacity: 1 });
+  line.bringToFront();
+  highlightedPolyline = line;
+}
+
+// ─────────────────────────────────────────────────────────────────────────────
+// Fit bounds helpers
+// ─────────────────────────────────────────────────────────────────────────────
+function fitAll() {
+  const layers = [];
+  Object.values(cityIndex).forEach(d => d.layers.forEach(({ line }) => layers.push(line)));
+  if (layers.length) {
+    const group = L.featureGroup(layers);
+    map.fitBounds(group.getBounds(), { padding: [30, 30] });
+  }
+}
+
+function fitCity(city) {
+  const layers = cityIndex[city]?.layers.map(l => l.line).filter(Boolean);
+  if (layers && layers.length) {
+    const group = L.featureGroup(layers);
+    map.fitBounds(group.getBounds(), { padding: [50, 50] });
+  }
+}
+
+document.getElementById('btn-fit').addEventListener('click', () => {
+  if (activeCity) fitCity(activeCity);
+  else fitAll();
+});
+
+// ─────────────────────────────────────────────────────────────────────────────
+// Search
+// ─────────────────────────────────────────────────────────────────────────────
+document.getElementById('city-search').addEventListener('input', e => {
+  renderCityList(e.target.value);
+});
+
+// ─────────────────────────────────────────────────────────────────────────────
+// Utility
+// ─────────────────────────────────────────────────────────────────────────────
+function escHtml(s) {
+  return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+}
+
+// ─────────────────────────────────────────────────────────────────────────────
+// Boot
+// ─────────────────────────────────────────────────────────────────────────────
+loadData();
+</script>
+</body>
+</html>
