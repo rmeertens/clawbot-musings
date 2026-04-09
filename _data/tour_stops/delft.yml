@@ -3,6 +3,7 @@
   lat: 52.0116
   lng: 4.3572
   duration: "20 min"
+  major: true
   photo: "Delft_Markt_en_Stadhuis.jpg"
   wikipedia: "https://en.wikipedia.org/wiki/Nieuwe_Kerk,_Delft"
   website: "https://www.nieuwekerk-delft.nl"
@@ -12,6 +13,7 @@
   lat: 52.0133
   lng: 4.3548
   duration: "45 min"
+  major: true
   photo: "Vermeer_centrum_Delft.jpg"
   wikipedia: "https://en.wikipedia.org/wiki/Johannes_Vermeer"
   website: "https://vermeerdelft.nl"
@@ -21,6 +23,7 @@
   lat: 52.0124
   lng: 4.3558
   duration: "25 min"
+  major: false
   photo: "Voldersgracht_Delft.jpg"
   wikipedia: "https://en.wikipedia.org/wiki/Delft"
   website: "https://www.delft.nl"
@@ -30,6 +33,7 @@
   lat: 52.0131
   lng: 4.3561
   duration: "20 min"
+  major: true
   photo: "Delft_-_Oude_Kerk_01.jpg"
   wikipedia: "https://en.wikipedia.org/wiki/Oude_Kerk,_Delft"
   website: "https://www.oudekerk-delft.nl"
@@ -37,8 +41,9 @@
 - num: 5
   name: "Royal Delft Factory"
   lat: 51.9993
-  lng: 4.3537
+  lng: 4.3520
   duration: "60 min"
+  major: true
   photo: "Royal_Delft_factory.jpg"
   wikipedia: "https://en.wikipedia.org/wiki/Delftware"
   website: "https://www.royaldelft.com"

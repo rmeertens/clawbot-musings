@@ -3,6 +3,7 @@
   lat: 52.0907
   lng: 5.1214
   duration: "45 min"
+  major: true
   photo: "DomtowerUtrecht2023.jpg"
   wikipedia: "https://en.wikipedia.org/wiki/Dom_Tower_of_Utrecht"
   website: "https://domtoren.nl"
@@ -12,6 +13,7 @@
   lat: 52.0901
   lng: 5.1222
   duration: "15 min"
+  major: false
   photo: "Domkerk_pandhof_utrecht.jpg"
   wikipedia: "https://en.wikipedia.org/wiki/Dom_Church_(Utrecht)"
   website: "https://domkerk.nl"
@@ -21,6 +23,7 @@
   lat: 52.0877
   lng: 5.1184
   duration: "45 min"
+  major: true
   photo: "Oudegracht_Utrecht.jpg"
   wikipedia: "https://en.wikipedia.org/wiki/Oudegracht"
   website: "https://www.utrecht.nl"
@@ -30,15 +33,17 @@
   lat: 52.0934
   lng: 5.1140
   duration: "15 min"
+  major: false
   photo: "TivoliVredenburg_Utrecht.jpg"
   wikipedia: "https://en.wikipedia.org/wiki/Vredenburg,_Utrecht"
   website: "https://tivolivredenburg.nl"
 
 - num: 5
   name: "Spoorwegmuseum"
-  lat: 52.0913
-  lng: 5.1381
+  lat: 52.0921
+  lng: 5.1258
   duration: "90 min"
+  major: true
   photo: "Spoorwegmuseum_Utrecht.jpg"
   wikipedia: "https://en.wikipedia.org/wiki/Dutch_Railway_Museum"
   website: "https://www.spoorwegmuseum.nl"

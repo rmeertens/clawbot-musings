@@ -3,6 +3,7 @@
   lat: 50.8488
   lng: 5.6900
   duration: "20 min"
+  major: true
   photo: "Vrijthof_Maastricht.jpg"
   wikipedia: "https://en.wikipedia.org/wiki/Vrijthof"
   website: "https://www.visitmaastricht.com"
@@ -12,6 +13,7 @@
   lat: 50.8484
   lng: 5.6892
   duration: "45 min"
+  major: true
   photo: "Basilica_of_Saint_Servatius_Maastricht.jpg"
   wikipedia: "https://en.wikipedia.org/wiki/Basilica_of_Saint_Servatius"
   website: "https://www.sintservaas.nl"
@@ -21,6 +23,7 @@
   lat: 50.8473
   lng: 5.6888
   duration: "20 min"
+  major: true
   photo: "Boekhandel_Dominicanen_Maastricht.jpg"
   wikipedia: "https://en.wikipedia.org/wiki/Dominicanen_bookstore"
   website: "https://www.libris.nl/dominicanen"
@@ -30,6 +33,7 @@
   lat: 50.8459
   lng: 5.6877
   duration: "25 min"
+  major: false
   photo: "Helpoort_Maastricht.jpg"
   wikipedia: "https://en.wikipedia.org/wiki/Helpoort"
   website: "https://www.visitmaastricht.com"
@@ -39,6 +43,7 @@
   lat: 50.8473
   lng: 5.7001
   duration: "60 min"
+  major: true
   photo: "Bonnefantenmuseum_Maastricht.jpg"
   wikipedia: "https://en.wikipedia.org/wiki/Bonnefantenmuseum"
   website: "https://www.bonnefanten.nl"

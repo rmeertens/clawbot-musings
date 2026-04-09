@@ -3,6 +3,7 @@
   lat: 52.3600
   lng: 4.8852
   duration: "90 min"
+  major: true
   photo: "Rijksmuseum_Amsterdam_2019.jpg"
   wikipedia: "https://en.wikipedia.org/wiki/Rijksmuseum"
   website: "https://www.rijksmuseum.nl"
@@ -12,6 +13,7 @@
   lat: 52.3579
   lng: 4.8706
   duration: "20 min"
+  major: false
   photo: "Vondelpark_Amsterdam.jpg"
   wikipedia: "https://en.wikipedia.org/wiki/Vondelpark"
   website: "https://www.vondelpark.com"
@@ -21,6 +23,7 @@
   lat: 52.3688
   lng: 4.8808
   duration: "30 min"
+  major: false
   photo: "Nine_streets_Amsterdam.jpg"
   wikipedia: "https://en.wikipedia.org/wiki/Nine_Streets"
   website: "https://www.theninestreets.com"
@@ -30,6 +33,7 @@
   lat: 52.3747
   lng: 4.8839
   duration: "20 min"
+  major: true
   photo: "Westerkerk_(Amsterdam).jpg"
   wikipedia: "https://en.wikipedia.org/wiki/Westerkerk"
   website: "https://westerkerk.nl"
@@ -39,6 +43,7 @@
   lat: 52.3744
   lng: 4.8777
   duration: "40 min"
+  major: true
   photo: "Bloemgracht_Amsterdam.jpg"
   wikipedia: "https://en.wikipedia.org/wiki/Jordaan"
   website: "https://www.iamsterdam.com"

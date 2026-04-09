@@ -9,6 +9,7 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="../styles.css" />
+  <link rel="stylesheet" href="travel.css" />
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
   <style>
     .city-grid {
@@ -34,8 +35,8 @@
     .city-card:hover,
     .city-card.highlighted {
       transform: translateY(-3px);
-      box-shadow: 0 28px 80px rgba(0, 0, 0, 0.5);
-      border-color: rgba(139, 92, 246, 0.5);
+      box-shadow: 0 28px 80px rgba(0, 0, 0, 0.15);
+      border-color: rgba(194, 98, 45, 0.5);
     }
 
     .city-card-top {
@@ -195,15 +196,15 @@
     }
 
     .leaflet-popup-content-wrapper {
-      background: #1d253f;
-      color: #eef2ff;
-      border: 1px solid rgba(255,255,255,0.12);
+      background: #FFFFFF;
+      color: #1C1917;
+      border: 1px solid rgba(0,0,0,0.1);
       border-radius: 12px;
-      box-shadow: 0 8px 32px rgba(0,0,0,0.5);
+      box-shadow: 0 8px 32px rgba(0,0,0,0.12);
     }
 
     .leaflet-popup-tip {
-      background: #1d253f;
+      background: #FFFFFF;
     }
 
     .leaflet-popup-content {
@@ -217,17 +218,17 @@
       font-size: 1rem;
       display: block;
       margin-bottom: 4px;
-      color: #c4b5fd;
+      color: #1C1917;
     }
 
     .leaflet-popup-content a {
-      color: #8b5cf6;
+      color: #C2622D;
       text-decoration: none;
       font-weight: 600;
     }
 
     .leaflet-popup-content a:hover {
-      color: #22c55e;
+      color: #1B5E8A;
     }
 
     .map-hint {
@@ -678,9 +679,9 @@
       className: "",
       html: `<div style="
         width:28px;height:28px;border-radius:50%;
-        background:linear-gradient(135deg,#8b5cf6,#6d7cff);
-        border:2px solid rgba(255,255,255,0.3);
-        box-shadow:0 3px 12px rgba(139,92,246,0.55);
+        background:linear-gradient(135deg,#C2622D,#E8913A);
+        border:2px solid white;
+        box-shadow:0 3px 12px rgba(194,98,45,0.4);
         display:flex;align-items:center;justify-content:center;
         color:white;font-weight:700;font-size:11px;
         font-family:Inter,sans-serif;

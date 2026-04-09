@@ -9,6 +9,7 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="/styles.css" />
+  <link rel="stylesheet" href="/city-tours/travel.css" />
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" crossorigin="" />
   <style>
     /* ── Navigation ───────────────────────────────────────────── */
@@ -41,11 +42,11 @@
       padding: 7px 16px;
       border-radius: 999px;
       border: 1px solid var(--border);
-      background: rgba(255,255,255,0.04);
+      background: rgba(0,0,0,0.04);
       color: var(--text);
       transition: background 0.15s, border-color 0.15s;
     }
-    .lang-toggle:hover { background: rgba(255,255,255,0.08); border-color: rgba(255,255,255,0.2); }
+    .lang-toggle:hover { background: rgba(0,0,0,0.08); border-color: rgba(0,0,0,0.15); }
 
     /* ── Prose ────────────────────────────────────────────────── */
     .tour-prose {
@@ -66,11 +67,11 @@
     .tour-prose ul, .tour-prose ol { color: var(--muted); padding-left: 22px; margin: 0 0 16px; line-height: 1.72; }
     .tour-prose li { margin-bottom: 6px; }
     .tour-prose li strong { color: var(--text); }
-    .tour-prose blockquote { border-left: 3px solid var(--accent-2); margin: 20px 0; padding: 12px 18px; background: rgba(34,197,94,0.06); border-radius: 0 10px 10px 0; }
+    .tour-prose blockquote { border-left: 3px solid var(--accent-2); margin: 20px 0; padding: 12px 18px; background: rgba(27,94,138,0.06); border-radius: 0 10px 10px 0; }
     .tour-prose blockquote p { margin: 0; color: var(--text); font-size: 0.93rem; }
     .tour-prose table { width: 100%; border-collapse: collapse; margin: 16px 0 24px; font-size: 0.92rem; }
     .tour-prose th { text-align: left; padding: 10px 14px; color: var(--muted); font-weight: 600; font-size: 0.78rem; text-transform: uppercase; letter-spacing: 0.06em; border-bottom: 1px solid var(--border); }
-    .tour-prose td { padding: 10px 14px; color: var(--muted); border-bottom: 1px solid rgba(255,255,255,0.05); line-height: 1.5; }
+    .tour-prose td { padding: 10px 14px; color: var(--muted); border-bottom: 1px solid var(--border); line-height: 1.5; }
     .tour-prose td:first-child { color: var(--text); font-weight: 500; width: 34%; }
     .tour-prose tr:last-child td { border-bottom: none; }
     .tour-prose hr { border: none; border-top: 1px solid var(--border); margin: 36px 0; }
@@ -95,25 +96,30 @@
       overflow: hidden;
       border: 1px solid var(--border);
       margin-bottom: 32px;
+      box-shadow: var(--shadow);
     }
-    /* Dark-ish map tiles look better against our dark site */
-    .leaflet-tile { filter: brightness(0.85) saturate(0.9); }
+    /* Light-mode map popups */
     .leaflet-popup-content-wrapper {
-      background: #1d253f;
-      color: #eef2ff;
-      border: 1px solid rgba(255,255,255,0.12);
+      background: #FFFFFF;
+      color: #1C1917;
+      border: 1px solid rgba(0,0,0,0.1);
       border-radius: 12px;
-      box-shadow: 0 8px 32px rgba(0,0,0,0.4);
+      box-shadow: 0 8px 32px rgba(0,0,0,0.12);
     }
-    .leaflet-popup-tip { background: #1d253f; }
+    .leaflet-popup-tip { background: #FFFFFF; }
     .leaflet-popup-content { margin: 12px 16px; font-family: 'Inter', sans-serif; }
-    .popup-num { display: inline-block; background: #8b5cf6; color: white; border-radius: 50%; width: 22px; height: 22px; text-align: center; line-height: 22px; font-size: 0.75rem; font-weight: 700; margin-right: 6px; }
-    .popup-name { font-weight: 700; font-size: 0.95rem; color: #eef2ff; }
-    .popup-duration { font-size: 0.8rem; color: #aab4d6; margin: 4px 0 8px; }
-    .popup-photo { width: 100%; height: 120px; object-fit: cover; border-radius: 8px; margin-bottom: 8px; background: #0b1020; }
+    .popup-num { display: inline-block; color: white; border-radius: 50%; width: 22px; height: 22px; text-align: center; line-height: 22px; font-size: 0.75rem; font-weight: 700; margin-right: 6px; }
+    .popup-num.major { background: #C2622D; }
+    .popup-num.minor { background: #78716C; }
+    .popup-name { font-weight: 700; font-size: 0.95rem; color: #1C1917; }
+    .popup-duration { font-size: 0.8rem; color: #78716C; margin: 4px 0 8px; }
+    .popup-photo { width: 100%; height: 120px; object-fit: cover; border-radius: 8px; margin-bottom: 8px; background: #EDE5D8; }
     .popup-links { display: flex; gap: 8px; flex-wrap: wrap; }
-    .popup-link { font-size: 0.75rem; font-weight: 600; text-decoration: none; padding: 4px 10px; border-radius: 999px; border: 1px solid rgba(255,255,255,0.15); color: #aab4d6; transition: background 0.15s; }
-    .popup-link:hover { background: rgba(255,255,255,0.08); color: #eef2ff; }
+    .popup-link { font-size: 0.75rem; font-weight: 600; text-decoration: none; padding: 4px 10px; border-radius: 999px; border: 1px solid rgba(0,0,0,0.12); color: #78716C; transition: background 0.15s; }
+    .popup-link:hover { background: rgba(0,0,0,0.06); color: #1C1917; }
+    .popup-badge { font-size: 0.68rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.05em; padding: 2px 8px; border-radius: 999px; margin-left: 6px; vertical-align: middle; }
+    .popup-badge.major { background: rgba(194,98,45,0.12); color: #C2622D; }
+    .popup-badge.minor { background: rgba(0,0,0,0.05); color: #78716C; }
 
     /* ── Stop cards ───────────────────────────────────────────── */
     .stop-cards {
@@ -124,15 +130,24 @@
       gap: 14px;
     }
     @media (max-width: 600px) { .stop-cards { grid-template-columns: 1fr; } }
+    /* Base stop card */
     .stop-card {
-      background: var(--card-strong);
+      background: var(--card);
       border: 1px solid var(--border);
       border-radius: 16px;
       overflow: hidden;
       cursor: pointer;
-      transition: transform 0.15s, border-color 0.15s;
+      transition: transform 0.15s, border-color 0.15s, box-shadow 0.15s;
+      box-shadow: var(--shadow);
     }
-    .stop-card:hover { transform: translateY(-2px); border-color: rgba(139,92,246,0.4); }
+    .stop-card:hover { transform: translateY(-2px); border-color: rgba(194,98,45,0.35); box-shadow: 0 8px 32px rgba(0,0,0,0.1); }
+    /* Major stop — slightly elevated, taller image */
+    .stop-card.major { border-color: rgba(194,98,45,0.2); }
+    .stop-card.major .stop-card-img { height: 150px; }
+    .stop-card.major:hover { border-color: rgba(194,98,45,0.5); }
+    /* Minor stop */
+    .stop-card.minor { opacity: 0.9; }
+    .stop-card.minor .stop-card-img { height: 100px; }
     .stop-card-img {
       width: 100%;
       height: 130px;
@@ -141,14 +156,19 @@
       background: var(--bg-soft);
     }
     .stop-card-body { padding: 12px 14px; }
-    .stop-card-num { display: inline-block; background: var(--accent); color: white; border-radius: 50%; width: 20px; height: 20px; text-align: center; line-height: 20px; font-size: 0.7rem; font-weight: 700; margin-right: 6px; vertical-align: middle; }
+    .stop-card-num { display: inline-block; color: white; border-radius: 50%; width: 20px; height: 20px; text-align: center; line-height: 20px; font-size: 0.7rem; font-weight: 700; margin-right: 6px; vertical-align: middle; }
+    .stop-card-num.major { background: var(--accent); }
+    .stop-card-num.minor { background: var(--muted); }
     .stop-card-name { font-weight: 700; font-size: 0.9rem; color: var(--text); vertical-align: middle; }
+    .stop-card-type { display: inline-block; font-size: 0.65rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.06em; padding: 1px 7px; border-radius: 999px; margin-left: 4px; vertical-align: middle; }
+    .stop-card-type.major { background: rgba(194,98,45,0.1); color: var(--accent); }
+    .stop-card-type.minor { background: rgba(0,0,0,0.05); color: var(--muted); }
     .stop-card-duration { font-size: 0.78rem; color: var(--muted); margin: 5px 0 8px; }
     .stop-card-links { display: flex; gap: 6px; flex-wrap: wrap; }
     .stop-link { font-size: 0.72rem; font-weight: 600; text-decoration: none; padding: 3px 9px; border-radius: 999px; border: 1px solid var(--border); color: var(--muted); transition: background 0.15s; }
-    .stop-link:hover { background: rgba(255,255,255,0.06); color: var(--text); }
-    .stop-link.wiki { border-color: rgba(139,92,246,0.3); color: var(--accent); }
-    .stop-link.wiki:hover { background: rgba(139,92,246,0.1); }
+    .stop-link:hover { background: rgba(0,0,0,0.04); color: var(--text); }
+    .stop-link.wiki { border-color: rgba(194,98,45,0.3); color: var(--accent); }
+    .stop-link.wiki:hover { background: rgba(194,98,45,0.08); }
   </style>
 </head>
 <body>
@@ -181,7 +201,8 @@
     <!-- Stop cards with photos and links -->
     <div class="stop-cards">
       {% for stop in stops %}
-      <div class="stop-card" onclick="focusStop({{ forloop.index0 }})">
+      {% if stop.major %}{% assign card_class = 'major' %}{% else %}{% assign card_class = 'minor' %}{% endif %}
+      <div class="stop-card {{ card_class }}" onclick="focusStop({{ forloop.index0 }})">
         <img class="stop-card-img"
              src="https://en.wikipedia.org/wiki/Special:FilePath/{{ stop.photo | url_encode }}?width=400"
              alt="{{ stop.name }}"
@@ -189,8 +210,9 @@
              onerror="this.style.display='none'">
         <div class="stop-card-body">
           <div>
-            <span class="stop-card-num">{{ stop.num }}</span>
+            <span class="stop-card-num {{ card_class }}">{{ stop.num }}</span>
             <span class="stop-card-name">{{ stop.name }}</span>
+            {% if stop.major %}<span class="stop-card-type major">Must-see</span>{% else %}<span class="stop-card-type minor">Bonus</span>{% endif %}
           </div>
           <div class="stop-card-duration">⏱ {{ stop.duration }}</div>
           <div class="stop-card-links">
@@ -223,7 +245,8 @@
         duration: {{ stop.duration | jsonify }},
         photo: {{ stop.photo | jsonify }},
         wikipedia: {{ stop.wikipedia | default: '' | jsonify }},
-        website: {{ stop.website | default: '' | jsonify }}
+        website: {{ stop.website | default: '' | jsonify }},
+        major: {{ stop.major | default: false | jsonify }}
       }{% unless forloop.last %},{% endunless %}
       {% endfor %}
     ];
@@ -243,18 +266,22 @@
       maxZoom: 19
     }).addTo(map);
 
-    // Draw route polyline
+    // Draw route polyline — terra cotta for travel theme
     var latlngs = stopsData.map(function(s){ return [s.lat, s.lng]; });
-    L.polyline(latlngs, { color: '#8b5cf6', weight: 3, opacity: 0.7, dashArray: '6 6' }).addTo(map);
+    L.polyline(latlngs, { color: '#C2622D', weight: 3, opacity: 0.6, dashArray: '6 6' }).addTo(map);
 
-    // Custom numbered marker icon
-    function makeIcon(num) {
+    // Numbered marker: major (terra cotta, 32px) vs minor (stone, 24px)
+    function makeIcon(num, isMajor) {
+      var bg = isMajor ? '#C2622D' : '#78716C';
+      var size = isMajor ? 32 : 24;
+      var half = size / 2;
+      var fs = isMajor ? 14 : 11;
       return L.divIcon({
         className: '',
-        html: '<div style="background:#8b5cf6;color:white;border-radius:50%;width:28px;height:28px;display:flex;align-items:center;justify-content:center;font-weight:700;font-size:13px;border:2px solid white;box-shadow:0 2px 8px rgba(0,0,0,0.4);">' + num + '</div>',
-        iconSize: [28, 28],
-        iconAnchor: [14, 14],
-        popupAnchor: [0, -16]
+        html: '<div style="background:' + bg + ';color:white;border-radius:50%;width:' + size + 'px;height:' + size + 'px;display:flex;align-items:center;justify-content:center;font-weight:700;font-size:' + fs + 'px;border:2px solid white;box-shadow:0 2px 8px rgba(0,0,0,0.25);">' + num + '</div>',
+        iconSize: [size, size],
+        iconAnchor: [half, half],
+        popupAnchor: [0, -(half + 2)]
       });
     }
 
@@ -267,14 +294,19 @@
       if (stop.wikipedia) linksHtml += '<a class="popup-link" href="' + stop.wikipedia + '" target="_blank" rel="noopener">Wikipedia</a>';
       if (stop.website)   linksHtml += '<a class="popup-link" href="' + stop.website   + '" target="_blank" rel="noopener">Official site</a>';
 
+      var numClass = stop.major ? 'major' : 'minor';
+      var badgeHtml = stop.major
+        ? '<span class="popup-badge major">Must-see</span>'
+        : '<span class="popup-badge minor">Bonus</span>';
+
       var popupHtml = '<div>' +
         imgHtml +
-        '<div><span class="popup-num">' + stop.num + '</span><span class="popup-name">' + stop.name + '</span></div>' +
+        '<div><span class="popup-num ' + numClass + '">' + stop.num + '</span><span class="popup-name">' + stop.name + '</span>' + badgeHtml + '</div>' +
         '<div class="popup-duration">⏱ ' + stop.duration + '</div>' +
         '<div class="popup-links">' + linksHtml + '</div>' +
         '</div>';
 
-      var marker = L.marker([stop.lat, stop.lng], { icon: makeIcon(stop.num) })
+      var marker = L.marker([stop.lat, stop.lng], { icon: makeIcon(stop.num, stop.major) })
         .addTo(map)
         .bindPopup(popupHtml, { maxWidth: 260 });
       markers.push(marker);

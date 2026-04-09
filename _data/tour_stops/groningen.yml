@@ -1,44 +1,50 @@
+# Route reordered: start near Groningen Centraal, walk north through the city
 - num: 1
-  name: "Martinitoren"
-  lat: 53.2196
-  lng: 6.5671
-  duration: "45 min"
-  photo: "Martinitoren_Groningen_2010.jpg"
-  wikipedia: "https://en.wikipedia.org/wiki/Martinitoren"
-  website: "https://martinitoren.nl"
+  name: "Groninger Museum"
+  lat: 53.2130
+  lng: 6.5683
+  duration: "90 min"
+  major: true
+  photo: "Groninger_Museum_2010.jpg"
+  wikipedia: "https://en.wikipedia.org/wiki/Groninger_Museum"
+  website: "https://www.groningermuseum.nl"
 
 - num: 2
-  name: "Grote Markt & Goudkantoor"
-  lat: 53.2193
-  lng: 6.5673
-  duration: "20 min"
-  photo: "Groningen_Grote_Markt.jpg"
-  wikipedia: "https://en.wikipedia.org/wiki/Grote_Markt,_Groningen"
-  website: "https://www.visitgroningen.nl"
-
-- num: 3
   name: "Vismarkt & Poelestraat"
   lat: 53.2175
   lng: 6.5666
   duration: "30 min"
+  major: false
   photo: "Vismarkt_Groningen.jpg"
   wikipedia: "https://en.wikipedia.org/wiki/Groningen"
   website: "https://www.visitgroningen.nl"
 
+- num: 3
+  name: "Grote Markt & Goudkantoor"
+  lat: 53.2193
+  lng: 6.5673
+  duration: "20 min"
+  major: true
+  photo: "Groningen_Grote_Markt.jpg"
+  wikipedia: "https://en.wikipedia.org/wiki/Grote_Markt,_Groningen"
+  website: "https://www.visitgroningen.nl"
+
 - num: 4
-  name: "Groninger Museum"
-  lat: 53.2131
-  lng: 6.5619
-  duration: "90 min"
-  photo: "Groninger_Museum_2010.jpg"
-  wikipedia: "https://en.wikipedia.org/wiki/Groninger_Museum"
-  website: "https://www.groningermuseum.nl"
+  name: "Martinitoren"
+  lat: 53.2196
+  lng: 6.5671
+  duration: "45 min"
+  major: true
+  photo: "Martinitoren_Groningen_2010.jpg"
+  wikipedia: "https://en.wikipedia.org/wiki/Martinitoren"
+  website: "https://martinitoren.nl"
 
 - num: 5
   name: "Prinsentuin"
   lat: 53.2207
   lng: 6.5670
   duration: "20 min"
+  major: false
   photo: "Prinsentuin_Groningen.jpg"
   wikipedia: "https://en.wikipedia.org/wiki/Prinsenhof_(Groningen)"
   website: "https://www.prinsenhofgroningen.nl"

@@ -3,6 +3,7 @@
   lat: 52.0116
   lng: 4.7104
   duration: "25 min"
+  major: true
   photo: "Gouda_Markt_Stadhuis.jpg"
   wikipedia: "https://en.wikipedia.org/wiki/Gouda,_South_Holland"
   website: "https://www.gouda.nl"
@@ -12,6 +13,7 @@
   lat: 52.0118
   lng: 4.7107
   duration: "60 min"
+  major: true
   photo: "Sint-Janskerk_Gouda.jpg"
   wikipedia: "https://en.wikipedia.org/wiki/Sint-Janskerk,_Gouda"
   website: "https://www.sintjangouda.nl"
@@ -21,6 +23,7 @@
   lat: 52.0123
   lng: 4.7099
   duration: "20 min"
+  major: false
   photo: "Stroopwafels_01.jpg"
   wikipedia: "https://en.wikipedia.org/wiki/Stroopwafel"
   website: "https://www.stroopwafelscenter.nl"
@@ -30,6 +33,7 @@
   lat: 52.0093
   lng: 4.7060
   duration: "30 min"
+  major: false
   photo: "Gouwe_canal_Gouda.jpg"
   wikipedia: "https://en.wikipedia.org/wiki/Gouwe_(canal)"
   website: "https://www.gouda.nl"
@@ -39,6 +43,7 @@
   lat: 52.0114
   lng: 4.7112
   duration: "45 min"
+  major: true
   photo: "Museum_Gouda.jpg"
   wikipedia: "https://en.wikipedia.org/wiki/Museum_Gouda"
   website: "https://www.museumgouda.nl"

@@ -3,6 +3,7 @@
   lat: 52.1601
   lng: 4.4970
   duration: "20 min"
+  major: true
   photo: "Burcht_Leiden.jpg"
   wikipedia: "https://en.wikipedia.org/wiki/Burcht_van_Leiden"
   website: "https://www.leiden.nl/burcht"
@@ -12,6 +13,7 @@
   lat: 52.1590
   lng: 4.4960
   duration: "25 min"
+  major: true
   photo: "Pieterskerk_Leiden_interior.jpg"
   wikipedia: "https://en.wikipedia.org/wiki/Pieterskerk,_Leiden"
   website: "https://www.pieterskerk.com"
@@ -21,6 +23,7 @@
   lat: 52.1580
   lng: 4.4930
   duration: "25 min"
+  major: false
   photo: "Leiden_Rapenburg.jpg"
   wikipedia: "https://en.wikipedia.org/wiki/Rapenburg,_Leiden"
   website: "https://www.leiden.nl"
@@ -30,6 +33,7 @@
   lat: 52.1568
   lng: 4.4924
   duration: "90 min"
+  major: true
   photo: "Rijksmuseum_van_Oudheden_Leiden.jpg"
   wikipedia: "https://en.wikipedia.org/wiki/National_Museum_of_Antiquities_(Leiden)"
   website: "https://www.rmo.nl"
@@ -39,6 +43,7 @@
   lat: 52.1572
   lng: 4.4916
   duration: "45 min"
+  major: true
   photo: "Hortus_botanicus_Leiden_-_Victoria_amazonica.jpg"
   wikipedia: "https://en.wikipedia.org/wiki/Hortus_botanicus_Leiden"
   website: "https://www.hortusleiden.nl"

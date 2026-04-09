@@ -1,0 +1,128 @@
+/*
+ * Travel theme — warm, light, map-friendly
+ * Linked from city-tours pages to override the dark tech theme.
+ */
+
+/* ── Colour variables ──────────────────────────────────────── */
+:root {
+  --bg:          #F6F1E9;
+  --bg-soft:     #EDE5D8;
+  --card:        #FFFFFF;
+  --card-strong: #FFFCF8;
+  --text:        #1C1917;
+  --muted:       #78716C;
+  --accent:      #C2622D;   /* terra-cotta  */
+  --accent-2:    #1B5E8A;   /* ocean blue   */
+  --border:      rgba(0, 0, 0, 0.09);
+  --shadow:      0 2px 18px rgba(0, 0, 0, 0.07);
+}
+
+/* ── Body background ───────────────────────────────────────── */
+body {
+  background: linear-gradient(180deg, #F6F1E9 0%, #EDE5D8 100%) !important;
+  color: var(--text);
+}
+
+/* ── Typography ────────────────────────────────────────────── */
+.eyebrow,
+.section-kicker {
+  color: var(--accent-2);
+}
+
+.hero h1 { color: var(--text); }
+.hero h1 span { color: var(--accent); }
+.hero-copy { color: var(--muted); }
+
+.intro p,
+.quote p,
+.project-card p,
+.project-card li { color: var(--muted); }
+
+.intro h2,
+.section-heading h2 { color: var(--text); }
+
+/* ── Buttons ───────────────────────────────────────────────── */
+.button.primary {
+  background: linear-gradient(135deg, var(--accent), #E8913A);
+  color: #fff;
+}
+.button.ghost {
+  color: var(--text);
+  border-color: var(--border);
+  background: rgba(0, 0, 0, 0.03);
+}
+.button.ghost:hover { background: rgba(0, 0, 0, 0.06); }
+
+/* ── Cards ─────────────────────────────────────────────────── */
+.card {
+  background: var(--card);
+  border-color: var(--border);
+  box-shadow: var(--shadow);
+}
+
+.project-card {
+  background: var(--card-strong);
+  border-color: var(--border);
+}
+
+.accent-card {
+  background: linear-gradient(145deg, rgba(194, 98, 45, 0.08), rgba(27, 94, 138, 0.05)),
+              var(--card-strong);
+}
+
+/* ── Blog items ────────────────────────────────────────────── */
+.blog-date    { color: var(--accent); }
+.blog-tag     { color: var(--muted); }
+.blog-item h3 a { color: var(--text); }
+.blog-item h3 a:hover { color: var(--accent); }
+.blog-item p  { color: var(--muted); }
+.read-more    { color: var(--accent-2); }
+.read-more:hover { color: var(--accent); }
+
+/* ── City-tour index page specific ────────────────────────── */
+.city-card {
+  background: #FFFFFF !important;
+  border-color: var(--border) !important;
+}
+.city-card:hover {
+  border-color: rgba(194, 98, 45, 0.4) !important;
+}
+.city-name { color: var(--text); }
+.highlight-pill {
+  background: rgba(0,0,0,0.04);
+  border-color: var(--border);
+  color: var(--muted);
+}
+.lang-link.en {
+  background: linear-gradient(135deg, var(--accent), #E8913A);
+}
+.lang-link.nl {
+  color: var(--text);
+  border-color: var(--border);
+  background: rgba(0,0,0,0.04);
+}
+.tour-meta { color: var(--muted); }
+.stat-num  { color: var(--accent); }
+.stat-label { color: var(--muted); }
+
+/* ── Tour prose page ───────────────────────────────────────── */
+.back-link      { color: var(--muted); }
+.back-link:hover { color: var(--text); }
+.lang-toggle {
+  color: var(--text);
+  border-color: var(--border);
+  background: rgba(0,0,0,0.04);
+}
+.lang-toggle:hover { background: rgba(0,0,0,0.08); }
+
+/* ── Fun-fact pill on city cards ───────────────────────────── */
+.city-funfact {
+  font-size: 0.82rem;
+  color: var(--muted);
+  background: rgba(27, 94, 138, 0.07);
+  border-left: 3px solid var(--accent-2);
+  border-radius: 0 8px 8px 0;
+  padding: 8px 12px;
+  line-height: 1.5;
+  margin: 4px 0;
+}
