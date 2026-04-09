@@ -1,0 +1,44 @@
+- num: 1
+  name: "Markthal"
+  lat: 51.9204
+  lng: 4.4876
+  duration: "30 min"
+  photo: "Markthal_Rotterdam_2014.jpg"
+  wikipedia: "https://en.wikipedia.org/wiki/Markthal"
+  website: "https://www.markthal.nl"
+
+- num: 2
+  name: "Kubuswoningen (Cube Houses)"
+  lat: 51.9202
+  lng: 4.4888
+  duration: "20 min"
+  photo: "Rotterdam_Cube_houses.jpg"
+  wikipedia: "https://en.wikipedia.org/wiki/Cube_house"
+  website: "https://www.kubuswoning.nl"
+
+- num: 3
+  name: "Oudehaven & Witte Huis"
+  lat: 51.9214
+  lng: 4.4908
+  duration: "25 min"
+  photo: "Oudehaven_Rotterdam.jpg"
+  wikipedia: "https://en.wikipedia.org/wiki/Oudehaven"
+  website: "https://www.rotterdam.nl"
+
+- num: 4
+  name: "Erasmusbrug & Wilhelminapier"
+  lat: 51.9083
+  lng: 4.4878
+  duration: "35 min"
+  photo: "Erasmusbrug_(The_Swan)_-_Rotterdam.jpg"
+  wikipedia: "https://en.wikipedia.org/wiki/Erasmusbrug"
+  website: "https://www.hotelnewyork.com"
+
+- num: 5
+  name: "Depot Boijmans Van Beuningen"
+  lat: 51.9128
+  lng: 4.4694
+  duration: "60 min"
+  photo: "Depot_Boijmans_Van_Beuningen_Rotterdam.jpg"
+  wikipedia: "https://en.wikipedia.org/wiki/Depot_Boijmans_Van_Beuningen"
+  website: "https://www.depotboijmans.nl"

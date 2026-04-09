@@ -1,0 +1,44 @@
+- num: 1
+  name: "Burcht van Leiden"
+  lat: 52.1601
+  lng: 4.4970
+  duration: "20 min"
+  photo: "Burcht_Leiden.jpg"
+  wikipedia: "https://en.wikipedia.org/wiki/Burcht_van_Leiden"
+  website: "https://www.leiden.nl/burcht"
+
+- num: 2
+  name: "Pieterskerk & Pilgrim Trail"
+  lat: 52.1590
+  lng: 4.4960
+  duration: "25 min"
+  photo: "Pieterskerk_Leiden_interior.jpg"
+  wikipedia: "https://en.wikipedia.org/wiki/Pieterskerk,_Leiden"
+  website: "https://www.pieterskerk.com"
+
+- num: 3
+  name: "Rapenburg Canal"
+  lat: 52.1580
+  lng: 4.4930
+  duration: "25 min"
+  photo: "Leiden_Rapenburg.jpg"
+  wikipedia: "https://en.wikipedia.org/wiki/Rapenburg,_Leiden"
+  website: "https://www.leiden.nl"
+
+- num: 4
+  name: "Rijksmuseum van Oudheden"
+  lat: 52.1568
+  lng: 4.4924
+  duration: "90 min"
+  photo: "Rijksmuseum_van_Oudheden_Leiden.jpg"
+  wikipedia: "https://en.wikipedia.org/wiki/National_Museum_of_Antiquities_(Leiden)"
+  website: "https://www.rmo.nl"
+
+- num: 5
+  name: "Hortus Botanicus Leiden"
+  lat: 52.1572
+  lng: 4.4916
+  duration: "45 min"
+  photo: "Hortus_botanicus_Leiden_-_Victoria_amazonica.jpg"
+  wikipedia: "https://en.wikipedia.org/wiki/Hortus_botanicus_Leiden"
+  website: "https://www.hortusleiden.nl"

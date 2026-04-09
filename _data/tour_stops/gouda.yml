@@ -1,0 +1,44 @@
+- num: 1
+  name: "Markt & Stadhuis"
+  lat: 52.0116
+  lng: 4.7104
+  duration: "25 min"
+  photo: "Gouda_Markt_Stadhuis.jpg"
+  wikipedia: "https://en.wikipedia.org/wiki/Gouda,_South_Holland"
+  website: "https://www.gouda.nl"
+
+- num: 2
+  name: "Sint-Janskerk (Stained Glass)"
+  lat: 52.0118
+  lng: 4.7107
+  duration: "60 min"
+  photo: "Sint-Janskerk_Gouda.jpg"
+  wikipedia: "https://en.wikipedia.org/wiki/Sint-Janskerk,_Gouda"
+  website: "https://www.sintjangouda.nl"
+
+- num: 3
+  name: "Stroopwafel Bakery"
+  lat: 52.0123
+  lng: 4.7099
+  duration: "20 min"
+  photo: "Stroopwafels_01.jpg"
+  wikipedia: "https://en.wikipedia.org/wiki/Stroopwafel"
+  website: "https://www.stroopwafelscenter.nl"
+
+- num: 4
+  name: "Gouwe Canal & Warehouses"
+  lat: 52.0093
+  lng: 4.7060
+  duration: "30 min"
+  photo: "Gouwe_canal_Gouda.jpg"
+  wikipedia: "https://en.wikipedia.org/wiki/Gouwe_(canal)"
+  website: "https://www.gouda.nl"
+
+- num: 5
+  name: "Museum Gouda"
+  lat: 52.0114
+  lng: 4.7112
+  duration: "45 min"
+  photo: "Museum_Gouda.jpg"
+  wikipedia: "https://en.wikipedia.org/wiki/Museum_Gouda"
+  website: "https://www.museumgouda.nl"

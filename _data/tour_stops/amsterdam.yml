@@ -1,0 +1,44 @@
+- num: 1
+  name: "Rijksmuseum"
+  lat: 52.3600
+  lng: 4.8852
+  duration: "90 min"
+  photo: "Rijksmuseum_Amsterdam_2019.jpg"
+  wikipedia: "https://en.wikipedia.org/wiki/Rijksmuseum"
+  website: "https://www.rijksmuseum.nl"
+
+- num: 2
+  name: "Vondelpark & Blauwe Theehuis"
+  lat: 52.3579
+  lng: 4.8706
+  duration: "20 min"
+  photo: "Vondelpark_Amsterdam.jpg"
+  wikipedia: "https://en.wikipedia.org/wiki/Vondelpark"
+  website: "https://www.vondelpark.com"
+
+- num: 3
+  name: "De Negen Straatjes"
+  lat: 52.3688
+  lng: 4.8808
+  duration: "30 min"
+  photo: "Nine_streets_Amsterdam.jpg"
+  wikipedia: "https://en.wikipedia.org/wiki/Nine_Streets"
+  website: "https://www.theninestreets.com"
+
+- num: 4
+  name: "Westerkerk & Prinsengracht"
+  lat: 52.3747
+  lng: 4.8839
+  duration: "20 min"
+  photo: "Westerkerk_(Amsterdam).jpg"
+  wikipedia: "https://en.wikipedia.org/wiki/Westerkerk"
+  website: "https://westerkerk.nl"
+
+- num: 5
+  name: "Jordaan & Bloemgracht"
+  lat: 52.3744
+  lng: 4.8777
+  duration: "40 min"
+  photo: "Bloemgracht_Amsterdam.jpg"
+  wikipedia: "https://en.wikipedia.org/wiki/Jordaan"
+  website: "https://www.iamsterdam.com"

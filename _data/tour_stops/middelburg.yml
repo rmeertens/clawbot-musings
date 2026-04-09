@@ -1,0 +1,44 @@
+- num: 1
+  name: "Abdij van Middelburg"
+  lat: 51.4988
+  lng: 3.6136
+  duration: "50 min"
+  photo: "Middelburg_abbey_Lange_Jan.jpg"
+  wikipedia: "https://en.wikipedia.org/wiki/Middelburg_Abbey"
+  website: "https://www.middelburg.nl"
+
+- num: 2
+  name: "Markt & Stadhuis"
+  lat: 51.4984
+  lng: 3.6144
+  duration: "30 min"
+  photo: "Stadhuis_Middelburg.jpg"
+  wikipedia: "https://en.wikipedia.org/wiki/Middelburg"
+  website: "https://www.vvvzeeland.nl"
+
+- num: 3
+  name: "Zeeuws Museum"
+  lat: 51.4985
+  lng: 3.6130
+  duration: "60 min"
+  photo: "Zeeuws_Museum_Middelburg.jpg"
+  wikipedia: "https://en.wikipedia.org/wiki/Zeeuws_Museum"
+  website: "https://www.zeeuwsmuseum.nl"
+
+- num: 4
+  name: "Spanjaardstraat & Canal"
+  lat: 51.4997
+  lng: 3.6130
+  duration: "30 min"
+  photo: "Middelburg_canal.jpg"
+  wikipedia: "https://en.wikipedia.org/wiki/Middelburg"
+  website: "https://www.vvvzeeland.nl"
+
+- num: 5
+  name: "Miniatuur Walcheren"
+  lat: 51.5007
+  lng: 3.6082
+  duration: "45 min"
+  photo: "Miniatuur_Walcheren_Middelburg.jpg"
+  wikipedia: "https://en.wikipedia.org/wiki/Middelburg"
+  website: "https://www.miniatuurwalcheren.nl"

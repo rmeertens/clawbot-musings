@@ -1,0 +1,44 @@
+- num: 1
+  name: "Binnenhof & Hofvijver"
+  lat: 52.0799
+  lng: 4.3147
+  duration: "30 min"
+  photo: "Binnenhof_from_Hofvijver.jpg"
+  wikipedia: "https://en.wikipedia.org/wiki/Binnenhof"
+  website: "https://www.binnenhof.nl"
+
+- num: 2
+  name: "Mauritshuis"
+  lat: 52.0801
+  lng: 4.3152
+  duration: "90 min"
+  photo: "Mauritshuis_-_The_Hague.jpg"
+  wikipedia: "https://en.wikipedia.org/wiki/Mauritshuis"
+  website: "https://www.mauritshuis.nl"
+
+- num: 3
+  name: "Denneweg"
+  lat: 52.0806
+  lng: 4.3083
+  duration: "20 min"
+  photo: "Denneweg_Den_Haag.jpg"
+  wikipedia: "https://en.wikipedia.org/wiki/The_Hague"
+  website: "https://www.denhaag.com"
+
+- num: 4
+  name: "Lange Voorhout & Escher in het Paleis"
+  lat: 52.0821
+  lng: 4.3091
+  duration: "70 min"
+  photo: "Lange_Voorhout_The_Hague.jpg"
+  wikipedia: "https://en.wikipedia.org/wiki/Escher_in_het_Paleis"
+  website: "https://www.escherinhetpaleis.nl"
+
+- num: 5
+  name: "Grote Markt & Passage"
+  lat: 52.0769
+  lng: 4.3118
+  duration: "20 min"
+  photo: "Passage_Den_Haag.jpg"
+  wikipedia: "https://en.wikipedia.org/wiki/The_Hague"
+  website: "https://www.denhaag.com"

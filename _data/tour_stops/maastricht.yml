@@ -1,0 +1,44 @@
+- num: 1
+  name: "Vrijthof"
+  lat: 50.8488
+  lng: 5.6900
+  duration: "20 min"
+  photo: "Vrijthof_Maastricht.jpg"
+  wikipedia: "https://en.wikipedia.org/wiki/Vrijthof"
+  website: "https://www.visitmaastricht.com"
+
+- num: 2
+  name: "Sint-Servaasbasiliek"
+  lat: 50.8484
+  lng: 5.6892
+  duration: "45 min"
+  photo: "Basilica_of_Saint_Servatius_Maastricht.jpg"
+  wikipedia: "https://en.wikipedia.org/wiki/Basilica_of_Saint_Servatius"
+  website: "https://www.sintservaas.nl"
+
+- num: 3
+  name: "Boekhandel Dominicanen"
+  lat: 50.8473
+  lng: 5.6888
+  duration: "20 min"
+  photo: "Boekhandel_Dominicanen_Maastricht.jpg"
+  wikipedia: "https://en.wikipedia.org/wiki/Dominicanen_bookstore"
+  website: "https://www.libris.nl/dominicanen"
+
+- num: 4
+  name: "Helpoort & City Walls"
+  lat: 50.8459
+  lng: 5.6877
+  duration: "25 min"
+  photo: "Helpoort_Maastricht.jpg"
+  wikipedia: "https://en.wikipedia.org/wiki/Helpoort"
+  website: "https://www.visitmaastricht.com"
+
+- num: 5
+  name: "Bonnefantenmuseum"
+  lat: 50.8473
+  lng: 5.7001
+  duration: "60 min"
+  photo: "Bonnefantenmuseum_Maastricht.jpg"
+  wikipedia: "https://en.wikipedia.org/wiki/Bonnefantenmuseum"
+  website: "https://www.bonnefanten.nl"

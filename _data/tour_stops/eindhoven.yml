@@ -1,0 +1,35 @@
+- num: 1
+  name: "Strijp-S"
+  lat: 51.4455
+  lng: 5.4541
+  duration: "60 min"
+  photo: "Strijp-S_Eindhoven_Klokgebouw.jpg"
+  wikipedia: "https://en.wikipedia.org/wiki/Strijp-S"
+  website: "https://www.strijp-s.nl"
+
+- num: 2
+  name: "Van Abbemuseum"
+  lat: 51.4387
+  lng: 5.4722
+  duration: "90 min"
+  photo: "Van_Abbemuseum_Eindhoven.jpg"
+  wikipedia: "https://en.wikipedia.org/wiki/Van_Abbemuseum"
+  website: "https://www.vanabbemuseum.nl"
+
+- num: 3
+  name: "Wilhelminaplein & Blob/Bubble"
+  lat: 51.4416
+  lng: 5.4782
+  duration: "20 min"
+  photo: "Eindhoven_Wilhelminaplein.jpg"
+  wikipedia: "https://en.wikipedia.org/wiki/Eindhoven"
+  website: "https://www.eindhoven.nl"
+
+- num: 4
+  name: "Philips Museum"
+  lat: 51.4440
+  lng: 5.4698
+  duration: "60 min"
+  photo: "Philips_Museum_Eindhoven.jpg"
+  wikipedia: "https://en.wikipedia.org/wiki/Philips_Museum"
+  website: "https://www.philips-museum.com"
