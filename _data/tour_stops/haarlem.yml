@@ -30,8 +30,8 @@
 
 - num: 4
   name: "Frans Hals Museum"
-  lat: 52.3768
-  lng: 4.6351
+  lat: 52.3766
+  lng: 4.6336
   duration: "60 min"
   major: true
   photo: "Frans_Hals_Museum_-_panoramio.jpg"
@@ -50,8 +50,8 @@
 
 - num: 6
   name: "Amsterdamse Poort"
-  lat: 52.3822
-  lng: 4.6328
+  lat: 52.3750
+  lng: 4.6413
   duration: "15 min"
   major: false
   photo: "Haarlem_Amsterdamse_Poort.jpg"

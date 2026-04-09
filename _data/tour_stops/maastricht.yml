@@ -54,14 +54,14 @@
   lng: 5.6885
   duration: "30 min"
   major: false
-  photo: "Jeker_Maastricht.jpg"
+  photo: "20130313_Jeker_in_Maastricht_1.JPG"
   wikipedia: "https://en.wikipedia.org/wiki/Maastricht"
   website: "https://www.visitmaastricht.com"
 
 - num: 7
   name: "Bonnefantenmuseum"
-  lat: 50.8473
-  lng: 5.7001
+  lat: 50.8425
+  lng: 5.7019
   duration: "60 min"
   major: true
   photo: "Bonnefantenmuseum_Maastricht.jpg"

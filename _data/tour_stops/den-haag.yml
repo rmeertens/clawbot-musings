@@ -50,8 +50,8 @@
 
 - num: 6
   name: "Panorama Mesdag"
-  lat: 52.0844
-  lng: 4.3044
+  lat: 52.0847
+  lng: 4.3034
   duration: "45 min"
   major: true
   photo: "Panorama_Mesdag_2012.jpg"
@@ -60,8 +60,8 @@
 
 - num: 7
   name: "Vredespaleis (Peace Palace)"
-  lat: 52.0881
-  lng: 4.2963
+  lat: 52.0866
+  lng: 4.2956
   duration: "30 min"
   major: true
   photo: "Vredespaleis_(The_Hague).jpg"

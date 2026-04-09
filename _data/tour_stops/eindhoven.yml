@@ -4,14 +4,14 @@
   lng: 5.4541
   duration: "60 min"
   major: true
-  photo: "Strijp-S_Eindhoven_Klokgebouw.jpg"
+  photo: "Klokgebouw_Eindhoven.jpg"
   wikipedia: "https://en.wikipedia.org/wiki/Strijp-S"
   website: "https://www.strijp-s.nl"
 
 - num: 2
   name: "Philips Museum"
-  lat: 51.4438
-  lng: 5.4693
+  lat: 51.4393
+  lng: 5.4753
   duration: "60 min"
   major: true
   photo: "Philips_Museum_Eindhoven.jpg"
@@ -54,6 +54,6 @@
   lng: 5.4802
   duration: "30 min"
   major: false
-  photo: "Stratumseind_Eindhoven.jpg"
+  photo: "Stratumseind,_Eindhoven.JPG"
   wikipedia: "https://en.wikipedia.org/wiki/Stratumseind"
   website: "https://www.eindhoven.nl"

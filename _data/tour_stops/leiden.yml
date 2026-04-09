@@ -40,8 +40,8 @@
 
 - num: 5
   name: "Hortus Botanicus Leiden"
-  lat: 52.1572
-  lng: 4.4916
+  lat: 52.1569
+  lng: 4.4856
   duration: "45 min"
   major: true
   photo: "Hortus_botanicus_Leiden_-_Victoria_amazonica.jpg"
@@ -50,8 +50,8 @@
 
 - num: 6
   name: "Naturalis Biodiversity Center"
-  lat: 52.1559
-  lng: 4.4893
+  lat: 52.1588
+  lng: 4.4707
   duration: "90 min"
   major: true
   photo: "Naturalis_Biodiversity_Center.jpg"
@@ -60,8 +60,8 @@
 
 - num: 7
   name: "Molen de Valk"
-  lat: 52.1614
-  lng: 4.4961
+  lat: 52.1645
+  lng: 4.4864
   duration: "30 min"
   major: false
   photo: "Leiden_-_Molen_De_Valk_1.jpg"

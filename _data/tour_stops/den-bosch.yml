@@ -14,8 +14,8 @@
   lng: 5.3065
   duration: "45 min"
   major: true
-  photo: "Hieronymus_Bosch_Art_Center_Den_Bosch.jpg"
-  wikipedia: "https://en.wikipedia.org/wiki/Hieronymus_Bosch"
+  photo: "The_Garden_of_Earthly_Delights_by_Bosch_High_Resolution.jpg"
+  wikipedia: "https://en.wikipedia.org/wiki/Jheronimus_Bosch_Art_Center"
   website: "https://www.jheronimusbosch-artcenter.nl"
 
 - num: 3
@@ -34,7 +34,7 @@
   lng: 5.3068
   duration: "20 min"
   major: false
-  photo: "Parade_Den_Bosch.jpg"
+  photo: "Parade_'s-Hertogenbosch_met_Sint-Jan.jpg"
   wikipedia: "https://en.wikipedia.org/wiki/%27s-Hertogenbosch"
   website: "https://www.denbosch.nl"
 
@@ -44,7 +44,7 @@
   lng: 5.3044
   duration: "45 min"
   major: true
-  photo: "Binnendieze_Den_Bosch.jpg"
+  photo: "Binnendieze-Den_Bosch-001.JPG"
   wikipedia: "https://en.wikipedia.org/wiki/Binnendieze"
   website: "https://www.binnendieze.nl"
 
@@ -54,7 +54,7 @@
   lng: 5.3027
   duration: "60 min"
   major: true
-  photo: "Noord-Brabants_Museum.jpg"
+  photo: "Voorgevel_Noordbrabants_Museum.jpg"
   wikipedia: "https://en.wikipedia.org/wiki/Noord-Brabants_Museum"
   website: "https://www.noordbrabantsmuseum.nl"
 
