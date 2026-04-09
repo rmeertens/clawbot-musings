@@ -10,7 +10,7 @@ description: "A company town that became a design capital: Philips's factory dis
 
 > Eindhoven is the most un-Dutch city in the Netherlands in a specific way: it has almost no medieval history. The Germans bombed it, Philips outgrew it, and designers reimagined it. What's left is one of the most forward-looking cities in Europe.
 
-**Duration:** ~4 hours &nbsp;|&nbsp; **Best time:** Any day; Dutch Design Week (October) is exceptional &nbsp;|&nbsp; **Transport:** Walk or bus from Eindhoven Centraal
+**Duration:** ~6 hours &nbsp;|&nbsp; **Best time:** Any day; Dutch Design Week (October) is exceptional &nbsp;|&nbsp; **Transport:** Walk or bus from Eindhoven Centraal
 
 ---
 
@@ -40,11 +40,55 @@ Outside, the **Ketelfactorie** (Kettle Factory) and the **Hoge Rug** (High Back)
 
 **Practical tip:** During Dutch Design Week (October), Strijp-S is the main venue. The rest of the year it's quieter but still worth the walk.
 
-**Walk to stop 2:** Walk east along Torenallee to the city centre — 15-minute walk, or take bus 1 or 9.
+**Walk to stop 2:** Walk east along Torenallee to the Philips Museum on Emmasingel — 15-minute walk, or take bus 1 or 9.
 
 ---
 
-### 2. Van Abbemuseum — Contemporary Art
+### 2. Philips Museum — Industrial History
+
+**Time here:** 60 minutes
+
+The **Philips Museum** occupies the company's original factory building from 1891 — a modest redbrick structure on Emmasingel that's now surrounded by glass office towers. Inside, the collection traces Philips's history from its beginning (a lamp factory with 35 employees) to a global electronics company employing over 100,000 people worldwide.
+
+The exhibits are surprisingly interesting even for non-technology visitors. Original products from every decade are on display: the first Philips light bulb (1891, carbon filament), early radio sets (1920s), the first Philips electric shaver (1939), the compact cassette prototype (1963), the LaserDisc (1972), the original compact disc (1982). The technical story of how each product was developed is told accessibly.
+
+**Don't miss:** The **compact disc development story** — specifically the decision that the disc's capacity should be 74 minutes, to fit Beethoven's 9th Symphony in a single uninterrupted recording. The story (attributed to Philips executive Norio Ohga) is disputed in its details but the design principle it encodes — technology should serve human use, not the other way around — is real.
+
+**Practical tip:** The museum has good interactive elements for all ages. The gift shop sells a miniature replica of the 1891 Philips light bulb, which is an excellent souvenir.
+
+**Walk to stop 3:** Exit the Philips Museum and walk east along Emmasingel to the Stadhuisplein — 5 minutes.
+
+---
+
+### 3. Stadhuisplein & Design Walk — City Hall Square
+
+**Time here:** 20 minutes
+
+Walk east from the Philips Museum along Emmasingel to the **Stadhuisplein** — Eindhoven's city hall square, redesigned in 2013 as part of the city's broader urban renewal program. The square is deliberately treated as a design space rather than a traffic junction: public art installations, shifting interventions, and commissioned works by designers connected to the city's design community occupy the square's edges and change regularly.
+
+From the square, you're walking the **Lichtjesroute** (Light Route) — a thematic walking path through the city centre that connects design interventions, murals, and public sculptures. Eindhoven treats its public space as a design gallery in a way that's different in kind from other Dutch cities, where public art is typically more decorative than conceptual.
+
+The city's relationship with design here is about industry as much as aesthetics: these interventions are by designers who work in Eindhoven's ecosystem of studios, agencies, and technology companies, and the city functions as a test environment.
+
+**Don't miss:** The **Van Gogh Village** connection — Vincent van Gogh was born 30km from Eindhoven in Nuenen, and the region markets itself as "Van Gogh Country." The Philips Museum gift shop carries good Van Gogh Brabant material; the broader Van Gogh Brabant trail connects Nuenen, Eindhoven, and Helmond by cycling route, and Nuenen is worth a half-day visit if you have time.
+
+**Walk to stop 4:** From Stadhuisplein, walk south along Rechtestraat to the Wilhelminaplein — 5 minutes.
+
+---
+
+### 4. Wilhelminaplein & City Centre Architecture — Urban Walk
+
+**Time here:** 20 minutes
+
+**Wilhelminaplein** is Eindhoven's main square and a case study in what a Dutch city looks like when it rebuilds from scratch after heavy WWII bombing. The square contains the **Blob** and **Bubble** — two shopping buildings designed by Massimiliano Fuksas (2010), their organic silver forms looking like something between a spacecraft and a dropped balloon. They're controversial and they're exactly right for Eindhoven: a city that decided long ago that it had nothing to preserve and might as well experiment.
+
+Walk through the square and look at the surrounding buildings: the **Parktheater** (performing arts centre), the **Muziekgebouw** (music hall), and the various towers of the city's post-war commercial centre. None of it is beautiful in the historic city sense. All of it is interesting as an example of deliberate urban reinvention.
+
+**Walk to stop 5:** Walk south from Wilhelminaplein along the Dommel riverwalk to the Van Abbemuseum — 10 minutes.
+
+---
+
+### 5. Van Abbemuseum — Contemporary Art
 
 **Time here:** 90 minutes
 
@@ -58,41 +102,33 @@ The building itself is significant: the original 1936 wing by A.J. Kropholler (w
 
 **Practical tip:** The museum's café (ground floor, Abel Cahen wing) serves an excellent lunch. The outdoor terrace overlooks the Dommel river.
 
-**Walk to stop 3:** Walk north from the Van Abbe along the Dommel riverwalk to the centre — 10 minutes.
+**Walk to stop 6:** From the Van Abbemuseum, walk northeast back into the city centre along Stratumseind — the street begins near the Markt, about 10 minutes on foot from the museum.
 
 ---
 
-### 3. Wilhelminaplein & City Centre Architecture — Urban Walk
+### 6. Stratumseind — The Long Bar Street
 
-**Time here:** 20 minutes
+**Time here:** 30 minutes
 
-**Wilhelminaplein** is Eindhoven's main square and a case study in what a Dutch city looks like when it rebuilds from scratch after heavy WWII bombing. The square contains the **Blob** and **Bubble** — two shopping buildings designed by Massimiliano Fuksas (2010), their organic silver forms looking like something between a spacecraft and a dropped balloon. They're controversial and they're exactly right for Eindhoven: a city that decided long ago that it had nothing to preserve and might as well experiment.
+**Stratumseind** is officially the longest bar street in the Netherlands — possibly in Europe. A single street of approximately 500 metres, running southeast from the Markt toward the Woensel district, with around 50 bars, clubs, and restaurants packed along both sides. This is where your tour ends.
 
-Walk through the square and look at the surrounding buildings: the **Parktheater** (performing arts centre), the **Muziekgebouw** (music hall), and the various towers of the city's post-war commercial centre. None of it is beautiful in the historic city sense. All of it is interesting as an example of deliberate urban reinvention.
+During the day, Stratumseind is surprisingly quiet and you can read its character clearly: a 19th-century bourgeois street — solid brick facades, wide pavements, a sense of civic self-respect — that the city's student population colonised in the 1980s and never gave back. The bars open properly around 17:00; by 20:00 the street is fully animated.
 
-**Walk to stop 4:** The Philips Museum is a 5-minute walk north from Wilhelminaplein on Emmasingel.
+Walk the full length of the street before you sit down. Midway along, on the left, a former church has been converted into a nightclub — the original stone exterior and rose window are intact, the interior has been gutted and fitted with a sound system. The juxtaposition is very Eindhoven: irreverent, unashamed, and actually quite effective.
 
----
+Pick whichever terrace has a free table and finish the tour here with a drink.
 
-### 4. Philips Museum — Industrial History
+**Don't miss:** The former church converted into a nightclub — the juxtaposition of Gothic stonework and club signage is the street's most characteristic image, and the building itself is worth standing in front of for a moment.
 
-**Time here:** 60 minutes
-
-The **Philips Museum** occupies the company's original factory building from 1891 — a modest redbrick structure on Emmasingel that's now surrounded by glass office towers. Inside, the collection traces Philips's history from its beginning (a lamp factory with 35 employees) to a global electronics company employing over 100,000 people worldwide.
-
-The exhibits are surprisingly interesting even for non-technology visitors. Original products from every decade are on display: the first Philips light bulb (1891, carbon filament), early radio sets (1920s), the first Philips electric shaver (1939), the compact cassette prototype (1963), the LaserDisc (1972), the original compact disc (1982). The technical story of how each product was developed is told accessibly.
-
-**Don't miss:** The **compact disc development story** — specifically the decision that the disc's capacity should be 74 minutes, to fit Beethoven's 9th Symphony in a single uninterrupted recording. The story (attributed to Philips executive Norio Ohga) is disputed in its details but the design principle it encodes — technology should serve human use, not the other way around — is real.
-
-**Practical tip:** The museum has good interactive elements for all ages. The gift shop sells a miniature replica of the 1891 Philips light bulb, which is an excellent souvenir.
+**Practical tip:** The street is quiet before 17:00 and fully alive by 20:00. If you're finishing the tour in the afternoon, the café terraces on the Markt at the street's north end are a better option for a post-tour drink than the bars further down, which gear toward an evening crowd.
 
 ---
 
 ## Where to Eat & Drink
 
 - **Coffee:** **Ink. Espressobar** (Stationsplein 18a) — near the station, serious coffee, regularly cited as one of the best espresso bars in the Netherlands.
-- **Lunch:** **Usine** (Glaslaan 2) — in the former Philips research lab building, now a food hall. Good for a quick lunch between Strijp-S and the Van Abbe.
-- **End-of-tour drink:** **Wilhelmina Plein** terraces — the outdoor cafés around the Blob buildings are animated in good weather. Or **Brouwerij BAVO** (Nachtegaallaan 27) for local craft beer.
+- **Lunch:** **Usine** (Glaslaan 2) — in the former Philips research lab building, now a food hall. Good for a quick lunch between Strijp-S and the Philips Museum.
+- **End-of-tour drink:** **Stratumseind** terraces — take your pick; the northern end of the street near the Markt has the most varied options.
 
 ---
 
@@ -101,11 +137,11 @@ The exhibits are surprisingly interesting even for non-technology visitors. Orig
 | | |
 |---|---|
 | **Start** | Strijp-S (Torenallee 4, west of Eindhoven Centraal) |
-| **End** | Philips Museum, Emmasingel 31 |
-| **Total walk** | ~4 km |
+| **End** | Stratumseind (bar street, southeast of city centre Markt) |
+| **Total walk** | ~5 km |
 | **Transport in** | Intercity from Amsterdam (1h20), Utrecht (50 min), Den Haag (1h30) |
 | **Book ahead** | Van Abbemuseum €18 — vanabbemuseum.nl; Philips Museum €15 — philips-museum.com |
-| **Free highlights** | Strijp-S complex (free to walk through), Wilhelminaplein, city architecture walk |
+| **Free highlights** | Strijp-S complex (free to walk through), Stadhuisplein, Wilhelminaplein, city architecture walk, Stratumseind |
 | **Avoid** | Monday (Van Abbemuseum closed); if visiting during Dutch Design Week, book accommodation months in advance |
 
 ---

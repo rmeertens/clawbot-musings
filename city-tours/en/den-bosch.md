@@ -10,7 +10,7 @@ description: "The birthplace of Hieronymus Bosch, a Gothic cathedral that took 6
 
 > Den Bosch is the Netherlands' best-kept secret: a compact medieval city with a cathedral that took 600 years to complete, extraordinary street-level art history, and a local pastry so beloved it has its own museum.
 
-**Duration:** ~4 hours &nbsp;|&nbsp; **Best time:** Any day; Wednesday and Saturday market on the Markt &nbsp;|&nbsp; **Transport:** Walk from Den Bosch station (10 minutes)
+**Duration:** ~7 hours &nbsp;|&nbsp; **Best time:** Any day; Wednesday and Saturday market on the Markt &nbsp;|&nbsp; **Transport:** Walk from Den Bosch station (10 minutes)
 
 ---
 
@@ -62,13 +62,27 @@ The **Markt** is one of the finest medieval market squares in the Netherlands: a
 
 On the east side of the square at **Markt 26**, look for the **Frituur De Tijd** — a snack bar that serves its food through a wall-mounted *automatiek* (automat). Insert coins, open a small door, and take out a *kroket* (beef ragout in breadcrumbs, deep-fried). The Den Bosch *kroket* is locally famous and often described as the best in the Netherlands. It's eaten standing on the Markt.
 
-**Don't miss:** The **Parade** square immediately east of the Markt — a quieter square with a weekly market and the most pleasant café terraces in the city centre.
-
-**Walk to stop 4:** Walk north from the Markt along the Waterstraat to the canal network — 5 minutes.
+**Walk to stop 4:** The Parade is immediately east of the Markt — cross through the Markt's eastern edge, 2 minutes.
 
 ---
 
-### 4. Dieze River & Binnendieze — Underground Canals
+### 4. Parade — The Local Square
+
+**Time here:** 20 minutes
+
+The **Parade** is a quieter square immediately east of the Markt: smaller, shadier, with plane trees along the edges and café terraces that feel genuinely local rather than touristy. It's named after the military parades that used to be held here, when Den Bosch was a garrison city and the square served as the parade ground for the troops quartered within the walls.
+
+The square is flanked by the **Provinciehuis** (Provincial Government building) and several historic guild and merchant houses. The atmosphere is markedly different from the Markt: the Markt belongs to the city's public and commercial life; the Parade belongs to people who live here. This is where Bosschenaren drink coffee on a Tuesday morning when they're not in a hurry.
+
+**Don't miss:** The Wednesday and Saturday outdoor market, which spills into both the Markt and the Parade — the Parade's portion of the market tends toward local produce, flowers, and cheeses rather than tourist goods.
+
+**Practical tip:** **Café Francois** on the Parade has one of the best terraces in the city — shaded in the afternoon, with a direct view of the Provinciehuis facade.
+
+**Walk to stop 5:** Walk north from the Parade along the Waterstraat to the canal network — 5 minutes.
+
+---
+
+### 5. Dieze River & Binnendieze — Underground Canals
 
 **Time here:** 45 minutes
 
@@ -80,11 +94,29 @@ If no boat tour fits your schedule, walk the **Molenleij** along the surface can
 
 **Don't miss:** The view from the **Stadhuisbrug** bridge — looking north along the Binnendieze toward the underpass beneath the Papenhulst house.
 
-**Walk to stop 5:** Walk west along the canal to the Zusters van Orthen Street, then south to the Bossche Bol bakery — 8 minutes.
+**Walk to stop 6:** From the Binnendieze, walk south along the Verwersstraat — the Noord-Brabants Museum is at Verwersstraat 41, about 6 minutes on foot.
 
 ---
 
-### 5. Jan de Groot Patisserie — The Bossche Bol
+### 6. Noord-Brabants Museum — Provincial Art Museum
+
+**Time here:** 60 minutes
+
+The **Noord-Brabants Museum** is the provincial museum of North Brabant, housed in a former governor's residence on the Verwersstraat — a neoclassical building from the late 18th century, with a formal garden to the rear that's accessible from the street even when the museum is closed.
+
+The collection is significantly stronger than its reputation suggests. Three things distinguish it: the **medieval Brabantine woodcarving** tradition is documented here with pieces that provide essential context for what you saw in the Sint-Jan's north transept; a dedicated research and display space gives serious attention to **Hieronymus Bosch** — not originals, but high-quality reproductions alongside current scholarship, dendrochronology findings, and infrared imaging studies that are genuinely illuminating for anyone who cares about the paintings; and the permanent collection of **20th-century Brabantine art** is substantial and largely overlooked by visitors who come for the Bosch material.
+
+The building itself rewards attention. The governor's residence was built when Brabant was under French and then Dutch administration, and the architecture reflects that administrative seriousness: formal rooms, high ceilings, a ceremonial staircase that was designed to impress visiting officials.
+
+**Don't miss:** The Bosch research room — a study space dedicated to current scholarship on Bosch's paintings, with access to the latest dendrochronology and infrared imaging studies. These are the scientific investigations that have recently confirmed or disputed attributions across the Bosch corpus, and seeing the evidence laid out changes how you think about the Art Center's reproductions earlier in the tour.
+
+**Practical tip:** Entry ~€14; closed Monday; the garden is free and accessible from the street via a gate on the Verwersstraat side — worth a 5-minute detour even if you're not going in.
+
+**Walk to stop 7:** From the Noord-Brabants Museum, walk south toward the station along the Stationsweg — Jan de Groot is at Stationsweg 25, about 8 minutes on foot.
+
+---
+
+### 7. Jan de Groot Patisserie — The Bossche Bol
 
 **Time here:** 15 minutes
 
@@ -108,11 +140,11 @@ This is not a museum stop. It's a pastry stop. Den Bosch takes its pastries seri
 |---|---|
 | **Start** | Sint-Janskathedraal, Choorstraat (10-minute walk from station) |
 | **End** | Jan de Groot Patisserie, Stationsweg 25 |
-| **Total walk** | ~3.5 km |
+| **Total walk** | ~4 km |
 | **Transport in** | Direct intercity from Amsterdam (1h10), Utrecht (40 min), Eindhoven (20 min) |
-| **Book ahead** | Binnendieze boat tour ~€13.50 — binnendieze.nl (book ahead on summer weekends) |
-| **Free highlights** | Sint-Janskathedraal interior, Markt, canal walk |
-| **Avoid** | Monday (Bosch Art Center closed); Carnival weekend (city is wonderfully chaotic but packed) |
+| **Book ahead** | Binnendieze boat tour ~€13.50 — binnendieze.nl (book ahead on summer weekends); Noord-Brabants Museum ~€14 — hetnoordbrabantsmuseum.nl |
+| **Free highlights** | Sint-Janskathedraal interior, Markt, Parade, canal walk, Noord-Brabants Museum garden |
+| **Avoid** | Monday (Bosch Art Center and Noord-Brabants Museum closed); Carnival weekend (city is wonderfully chaotic but packed) |
 
 ---
 

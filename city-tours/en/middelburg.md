@@ -10,7 +10,7 @@ description: "The capital of Zeeland: an island city with a 12th-century abbey, 
 
 > Middelburg is an island — the city of Walcheren is surrounded by water on all sides — and it has an island's self-contained quality: distinctive, slightly removed from mainland Dutch life, proud of things that other cities have forgotten to be proud of.
 
-**Duration:** ~4 hours &nbsp;|&nbsp; **Best time:** Thursday market day; summer is best for the Zeeuws Museum garden &nbsp;|&nbsp; **Transport:** Walk from Middelburg station (5 minutes)
+**Duration:** ~7 hours &nbsp;|&nbsp; **Best time:** Thursday market day; summer is best for the Zeeuws Museum garden &nbsp;|&nbsp; **Transport:** Walk from Middelburg station (5 minutes)
 
 ---
 
@@ -78,11 +78,25 @@ Middelburg's canal network is smaller than Amsterdam's or Utrecht's but more rur
 
 **Don't miss:** The **Roosevelt study centre** in the former Abdij building — a research institute dedicated to the Roosevelt family's Dutch origins (Theodore Roosevelt's ancestors emigrated from Zeeland in the 17th century). Small public exhibition, usually open weekday afternoons.
 
-**Walk to stop 5:** Walk south from the canal back toward the station area — 8 minutes.
+**Walk to stop 5:** From the Spanjaardstraat, walk north toward the Kuiperspoort — follow the Langeviele north and turn into the Kuiperspoort passage, about 6 minutes on foot.
 
 ---
 
-### 5. Miniature Walcheren (Miniatuur Walcheren) — Optional
+### 5. Kuiperspoort — Medieval Gateway Street
+
+**Time here:** 15 minutes
+
+The **Kuiperspoort** (Coopers' Gate) is Middelburg's most photogenic street and one of its most overlooked: a narrow cobbled passage in the north of the old town, named after the barrel-makers — coopers — who worked here when this was the city's craft quarter. The barrels they made held the herring, the grain, the tobacco, and eventually the spices that passed through Middelburg's port.
+
+The passage runs between a 15th-century arch and the street beyond, flanked by restored 16th-century buildings that lean slightly inward above the cobbles. It is almost always empty of other tourists. Standing under the arch and looking along the passage, the view could plausibly belong to any century between the 15th and the 20th — the reconstruction after 1940 was done with enough fidelity that the period seams are invisible here.
+
+**Don't miss:** The carved stone details on the arch — merchants' marks and guild symbols, faint but legible if you look at them in raking light. Each mark belonged to a specific guild or merchant family and would have been immediately recognisable to anyone doing business in the quarter.
+
+**Walk to stop 6:** Walk south from the Kuiperspoort toward the station area where the Miniatuur Walcheren is located — about 8 minutes on foot.
+
+---
+
+### 6. Miniature Walcheren (Miniatuur Walcheren) — Optional
 
 **Time here:** 45 minutes (optional, particularly good with children)
 
@@ -91,6 +105,24 @@ Middelburg's canal network is smaller than Amsterdam's or Utrecht's but more rur
 It's a tourist attraction in the most straightforward sense, and it's genuinely worth visiting: as a way of understanding the island's geography, the relationship between the polders and the sea, and the scale of the dyke system that keeps Walcheren above water.
 
 **Skip this if:** You don't have the time, or miniature parks aren't your thing.
+
+**Walk to stop 7:** From Miniatuur Walcheren, walk northeast toward the Damplein and the inner harbour — about 8 minutes on foot, following the canal northeast from the station area.
+
+---
+
+### 7. Damplein & Inner Harbour — VOC Quay
+
+**Time here:** 20 minutes
+
+Walk northeast from Miniatuur Walcheren to the **Damplein** — the square at Middelburg's inner harbour, where the canal from the Kanaal door Walcheren meets the town. This was the commercial heart of the city in the VOC era: ships unloaded their cargo directly into the warehouses here, and the square was the point of contact between the maritime world and the city's merchant economy.
+
+The **Groot Arsenaal** building on the north side of the square was the VOC's main warehouse — a long, low brick structure whose proportions reflect pure function: wide enough to store bulk goods, high enough to stack them, with doors at quay level for direct loading. It's still standing, still in use, and still doing what warehouses do.
+
+From the quay at the **Turfkade**, the proportions of the harbour make the city's maritime logic visible: a sheltered inland basin, connected by canal to the open water of the Westerschelde, protected from storms, deep enough for the VOC's medium-sized ocean-going ships. This is why Middelburg mattered — not its size, but its geography.
+
+**Don't miss:** The crane structure on the quay — a reconstruction of the original VOC crane, which was used to lift cargo from the ships' holds to the quayside. The mechanism is simple (a walking wheel powering a windlass) and the reconstruction is accurate enough to show you how the work was actually done.
+
+**Practical tip:** The harbour is free to visit. **De Mug** café (Vlasmarkt 17, a few minutes southwest of the Damplein) is a good final stop — a long-established Middelburg café with a terrace and good Zeeland jenever.
 
 ---
 
@@ -107,11 +139,11 @@ It's a tourist attraction in the most straightforward sense, and it's genuinely 
 | | |
 |---|---|
 | **Start** | Abdij van Middelburg, Abdijplein (5-minute walk from station) |
-| **End** | Rouaansekaai canal or Miniatuur Walcheren (near station) |
-| **Total walk** | ~3.5 km |
+| **End** | Damplein / Inner Harbour (northeast of city centre) |
+| **Total walk** | ~4 km |
 | **Transport in** | Direct intercity from Rotterdam (1h15) via Bergen op Zoom; or from Eindhoven (2h); transfers usually required |
 | **Book ahead** | Zeeuws Museum €13 — zeeuwsmuseum.nl; Lange Jan tower €4 |
-| **Free highlights** | Abbey exterior, Markt, cloister garden, canal walk |
+| **Free highlights** | Abbey exterior, Markt, cloister garden, Kuiperspoort passage, canal walk, Damplein harbour |
 | **Best visit** | Thursday for the market; summer for the abbey garden |
 
 ---

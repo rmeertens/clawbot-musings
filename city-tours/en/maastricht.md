@@ -10,7 +10,7 @@ description: "The oldest city in the Netherlands, where Romans crossed the Meuse
 
 > Maastricht is the Netherlands' southernmost city and its most un-Dutch: warmer, more Catholic, more French-inflected, with Roman foundations and a Carnival that transforms the city for three days before Lent. If you think you know what a Dutch city feels like, Maastricht will make you reconsider.
 
-**Duration:** ~4 hours &nbsp;|&nbsp; **Best time:** Any day; midweek is quietest; avoid the three days before Lent (Carnival) unless you want to be part of it &nbsp;|&nbsp; **Transport:** Walk from Maastricht station (15 minutes to the Vrijthof)
+**Duration:** ~7 hours &nbsp;|&nbsp; **Best time:** Any day; midweek is quietest; avoid the three days before Lent (Carnival) unless you want to be part of it &nbsp;|&nbsp; **Transport:** Walk from Maastricht station (15 minutes to the Vrijthof)
 
 ---
 
@@ -50,11 +50,31 @@ The interior is layered in exactly the way the city is: Romanesque arches from t
 
 **Don't miss:** The **crypt** — enter from the south aisle. The foundation walls in the lowest level date to the 4th century, making this the oldest continuously used religious site in the Netherlands.
 
-**Walk to stop 3:** Exit onto the Vrijthof and walk south through the Helmstraat to the Dominicanen — 4 minutes.
+**Walk to stop 3:** Exit onto the Vrijthof and cross to the south side of the square — the OLV Basilica facade is visible from the Vrijthof, 2 minutes on foot.
 
 ---
 
-### 3. Boekhandel Dominicanen — World-Famous Bookshop
+### 3. Onze-Lieve-Vrouwebasiliek & Stokstraat — Romanesque Basilica & Elegant Street
+
+**Time here:** 30 minutes
+
+The **Basilica of Our Lady** (Onze-Lieve-Vrouwebasiliek) is the oldest church in the Netherlands — 11th-century Romanesque, with foundations from an even earlier structure — and it faces the Vrijthof's southern side. Where the Sint-Servaas reads as grand and ceremonial, the OLV reads as intimate and powerful: smaller, darker, with a massive west apse that makes the entrance feel like a fortress rather than a welcome.
+
+The interior is Romanesque rather than Gothic — no soaring pointed arches, but thick piers, round arches, and a nave that feels hewn rather than assembled. The treasury here is small but extraordinary: medieval goldwork, reliquaries, vestments, and the silver crown that was given to the basilica's most celebrated possession.
+
+That possession is the **Sedes Sapientiae** (Seat of Wisdom), an 11th-century carved wooden statue of the Madonna and Child in the north transept. She has been venerated here since the Middle Ages and is the object of a major annual procession in August, when the statue is carried through the city streets. The face is very old and very specific — not idealized, but individual.
+
+Outside, **Stokstraat** runs south from the Vrijthof and is the finest shopping street in Maastricht: 17th and 18th-century buildings, independent jewellers and fashion boutiques, and the most expensive retail real estate in the city. Walk its length and back before moving on.
+
+**Don't miss:** The treasury museum within the OLV basilica — entry is cheap and the collection is exceptional. The silver crown given to the Sedes Sapientiae statue is displayed alongside medieval goldwork that belongs in a major museum and, improbably, is just sitting here.
+
+**Practical tip:** Entry to the basilica is free; the treasury costs ~€4. Open every day. The basilica is rarely crowded — most visitors to the Vrijthof don't cross to this side.
+
+**Walk to stop 4:** From the OLV Basilica, walk south through the Helmstraat to the Dominicanen — 4 minutes.
+
+---
+
+### 4. Boekhandel Dominicanen — World-Famous Bookshop
 
 **Time here:** 20 minutes
 
@@ -64,11 +84,11 @@ The conversion is extraordinary. The soaring Gothic nave — 25 metres to the va
 
 **Don't miss:** The 14th-century frescoes in the choir — uncovered during restoration, still visible above the bookshelves. Most visitors don't look up far enough.
 
-**Walk to stop 4:** Walk south on Vrijthof, cross the river on the Sint-Servaasbrug — 10 minutes.
+**Walk to stop 5:** Walk south on Vrijthof, cross the river on the Sint-Servaasbrug — 10 minutes.
 
 ---
 
-### 4. Helpoort & the Medieval City Walls — Fortification Walk
+### 5. Helpoort & the Medieval City Walls — Fortification Walk
 
 **Time here:** 25 minutes
 
@@ -78,11 +98,29 @@ From the Helpoort, a preserved section of the 13th-century city walls runs along
 
 **Don't miss:** The view from the **Vijf Koppen** bastion across the Maas to the Bonnefantenmuseum on the opposite bank — you'll see the rocket-shaped dome before you cross.
 
-**Walk to stop 5:** Cross the Sint-Servaasbrug (or the older Wilhelminabrug further south) to the east bank — 10 minutes.
+**Walk to stop 6:** From the Helpoort, walk back north along the Kleine Staat and into the Jekerkwartier — the quarter begins immediately west of the Helpoort, 2 minutes on foot.
 
 ---
 
-### 5. Bonnefantenmuseum — Contemporary Art Museum
+### 6. Jekerkwartier — The Jeker Quarter
+
+**Time here:** 30 minutes
+
+The **Jekerkwartier** is Maastricht's most photogenic neighbourhood and the one most easily missed: a warren of narrow streets between the medieval city walls and the Jeker river, packed into the southwestern corner of the old town. The streets here — Kleine Staat, Plankstraat, Grote Looiersstraat — have Medieval religious buildings, 17th-century cottages, and the former mills that used the Jeker's water power, all layered together in a way that feels organic rather than curated.
+
+What gives the Jekerkwartier its particular character is sound: the Jeker runs through stone channels under and beside the buildings, audible throughout the quarter as a constant low murmur. You'll hear water before you see it, emerging from beneath a wall or running alongside a cobbled path. This is not something you find anywhere else in the Netherlands.
+
+Walk along the Kleine Staat toward the **Naamse Poort** area, looking for the point where the Jeker disappears under the city walls. The watermill ruins — stonework from mills destroyed in the 18th century — are visible along the water's edge. The neighbourhood is dense in the north, near the Helpoort, and opens slightly as you move south toward the walls.
+
+**Don't miss:** The Jeker mill ruins visible from the Maasboulevard — the mills were destroyed in the 18th century but the stonework survives, half-submerged at the water's edge. The sound of the river running through the mill channel is still audible.
+
+**Practical tip:** Free to walk. The quarter is most atmospheric in the northern section near the Helpoort — which you'll have just visited. Give yourself 30 minutes to wander without a specific destination.
+
+**Walk to stop 7:** Cross the Sint-Servaasbrug (or the older Wilhelminabrug further south) to the east bank — 10 minutes.
+
+---
+
+### 7. Bonnefantenmuseum — Contemporary Art Museum
 
 **Time here:** 60 minutes
 
@@ -112,10 +150,10 @@ The building is genuinely interesting to be inside: the main staircase is a cere
 |---|---|
 | **Start** | Vrijthof, Maastricht |
 | **End** | Bonnefantenmuseum, Avenue Céramique 250 |
-| **Total walk** | ~4 km |
+| **Total walk** | ~4.5 km |
 | **Transport in** | Direct intercity from Eindhoven (1h), Utrecht (1h45), Amsterdam (2h30) |
-| **Book ahead** | Sint-Servaas treasury €6; Bonnefantenmuseum €17.50 — bonnefanten.nl |
-| **Free highlights** | Vrijthof, Dominicanen bookshop, Helpoort, city walls walk |
+| **Book ahead** | Sint-Servaas treasury €6; OLV treasury ~€4; Bonnefantenmuseum €17.50 — bonnefanten.nl |
+| **Free highlights** | Vrijthof, OLV Basilica nave, Dominicanen bookshop, Helpoort, Jekerkwartier, city walls walk |
 | **Avoid** | Carnival weekend (enormous crowds); Monday (Bonnefantenmuseum closed) |
 
 ---

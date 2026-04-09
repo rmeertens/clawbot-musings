@@ -10,7 +10,7 @@ description: "The cheese isn't even the best thing here. Gouda's 13th-century ma
 
 > Everyone knows the cheese. Almost no one knows the rest: that Gouda has the largest market square in the Netherlands, a Gothic church with windows that Erasmus and William of Orange both donated, and a stroopwafel so good it became the world's most popular Dutch export.
 
-**Duration:** ~4 hours &nbsp;|&nbsp; **Best time:** Thursday morning in summer (cheese market, June–August); any weekday otherwise &nbsp;|&nbsp; **Transport:** Walk from Gouda station (10 minutes)
+**Duration:** ~7 hours &nbsp;|&nbsp; **Best time:** Thursday morning in summer (cheese market, June–August); any weekday otherwise &nbsp;|&nbsp; **Transport:** Walk from Gouda station (10 minutes)
 
 ---
 
@@ -98,6 +98,38 @@ The museum also owns the town's historical documents, maps, and archives, and oc
 
 **Don't miss:** The reconstructed 17th-century **apothecary** in the hospital section — an almost completely intact period interior with original fittings, ceramic jars, and medical instruments.
 
+**Walk to stop 6:** From Museum Gouda, walk north along the Achter de Kerk and then west along Peperstraat — the Pipe Museum is at Peperstraat 6, about 5 minutes on foot.
+
+---
+
+### 6. Goudse Pijpenmuseum — Clay Pipe Museum
+
+**Time here:** 30 minutes
+
+From the 17th century onward, Gouda was the centre of Dutch clay pipe production — virtually every long-stemmed clay pipe used in Europe was made here, and at the industry's peak, 400 factories were operating in the city. The **Goudse Pijpenmuseum** (Peperstraat 6) occupies a historic house near the town centre and displays several thousand pipes spanning 400 years, from plain white working pipes to elaborately decorated presentation pieces with portraits of rulers, naval scenes, and heraldic imagery.
+
+The craftsmanship is extraordinary — these are tiny objects, many of them made to be used once and discarded. That so many survive is partly a function of the material (fired clay doesn't biodegrade), which is why archaeologists find Gouda pipes in digs from New Amsterdam to South Africa. In the museum, seeing them collected and catalogued, the range of decorative ambition becomes clear: these were not just utilitarian objects but carriers of imagery, status, and political allegiance.
+
+**Don't miss:** The display of pipe-making tools — the clay was packed into molds by hand, fired, and the stem polished with a smooth stone. The process is demonstrated in the workshop at the back of the museum; if a demonstration is running, watch it — the physical difficulty of making something so thin and uniform by hand is genuinely surprising.
+
+**Practical tip:** Entry ~€5; it's a small museum and 30 minutes is enough. The gift shop sells historically accurate reproduction pipes for €3–20 — a good and unusual souvenir that actually has something to do with Gouda's real history.
+
+**Walk to stop 7:** Walk north from Peperstraat along the Spieringstraat toward the Prinsessehof — about 5 minutes on foot.
+
+---
+
+### 7. Prinsessehof & Historic Hofjes — Almshouse Courtyards
+
+**Time here:** 20 minutes
+
+Walk north from the pipe museum through Gouda's medieval street grid toward the **hofjes** — the enclosed almshouse courtyards that are one of the characteristic features of Dutch urban life that visitors almost never find. Wealthy citizens built hofjes from the 17th century onward as charitable housing for widows and the elderly: a gate on the street, a small garden behind it, single-story housing arranged around the courtyard. The residents had their own rules, their own governance, their own world.
+
+The **Prinsessehof** on the Spieringstraat is the most accessible of Gouda's surviving hofjes. Enter through the gate (usually open during daylight hours) to find a small, immaculate garden surrounded by almshouses — completely silent, completely private-feeling, despite being in the centre of a busy town. Nothing dramatic happens here. The silence is the point.
+
+**Don't miss:** The gate inscription — carved in stone above the entrance, it records who funded the hofje, who was eligible to live there (widows of specific trades, often), and what rules governed the community. These inscriptions are the hofje's constitution, and they tell you something specific about how Dutch urban charity worked: not anonymous but named, not universal but particular, and always with strings attached.
+
+**Practical tip:** Free to enter during daylight hours. Be respectful — the hofjes are residential and the residents appreciate quiet visitors who don't photograph through windows.
+
 ---
 
 ## Where to Eat & Drink
@@ -113,11 +145,11 @@ The museum also owns the town's historical documents, maps, and archives, and oc
 | | |
 |---|---|
 | **Start** | Markt, Gouda (10-minute walk from Gouda station) |
-| **End** | Museum Gouda, Achter de Kerk 14 |
-| **Total walk** | ~3 km |
+| **End** | Prinsessehof / Hofjes, Spieringstraat |
+| **Total walk** | ~4 km |
 | **Transport in** | Direct intercity from Amsterdam (50 min) and Rotterdam (25 min); also Intercity from Utrecht (35 min) |
-| **Book ahead** | Sint-Janskerk €5; Museum Gouda €15 — museumgouda.nl |
-| **Free highlights** | Markt, canal walk, stroopwafel bakery (free to watch, pay for the waffle) |
+| **Book ahead** | Sint-Janskerk €5; Museum Gouda €15 — museumgouda.nl; Goudse Pijpenmuseum ~€5 — pijpenmuseum.nl |
+| **Free highlights** | Markt, canal walk, stroopwafel bakery (free to watch, pay for the waffle), Prinsessehof courtyard |
 | **Best visit** | Thursday morning June–August for the traditional cheese market |
 
 ---

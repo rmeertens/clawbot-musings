@@ -10,7 +10,7 @@ description: "The seat of government that isn't the capital, home to Vermeer's m
 
 > Den Haag is formally not the capital of the Netherlands — Amsterdam holds that title — yet it houses Parliament, the government, the royal family, and 200 international organisations. This geographical anomaly gives the city a strange, dual quality: grand and slightly detached, as if it's doing important things in its own reserved way.
 
-**Duration:** ~4 hours &nbsp;|&nbsp; **Best time:** Weekday (most museums closed Monday) &nbsp;|&nbsp; **Transport:** Tram from Den Haag Centraal (5 minutes)
+**Duration:** ~7 hours &nbsp;|&nbsp; **Best time:** Weekday (most museums closed Monday) &nbsp;|&nbsp; **Transport:** Tram from Den Haag Centraal (5 minutes)
 
 ---
 
@@ -96,6 +96,42 @@ From the Grote Markt, find the entrance to the **Passage**: an 1882 glass-roofed
 
 **Don't miss:** Stand at the crossing beneath the central dome and look up — the iron-and-glass structure is exactly what Victorian commercial architecture was supposed to look like.
 
+**Walk to stop 6:** From the Grote Markt, walk northwest along Zeestraat toward the Scheveningseweg — Panorama Mesdag is on Zeestraat 65, about 10 minutes on foot.
+
+---
+
+### 6. Panorama Mesdag — The 360° Panorama
+
+**Time here:** 45 minutes
+
+The **Panorama Mesdag** is one of the strangest and most extraordinary things in Den Haag: a circular painting 120 metres in circumference and 14 metres high, depicting the North Sea coast at Scheveningen in 1881. Hendrik Willem Mesdag — a successful Hague School painter — and his wife Sientje painted it in just four months, working from a specially constructed observation tower at Scheveningen to record the panorama from life.
+
+You enter through a long, dark tunnel. After about 60 seconds of darkness, you emerge onto a circular viewing platform in the centre of an artificial sand dune. Then you look up — and the entire horizon is a painting. Real sand is piled at your feet, sloping up to meet the painted dunes. The painted fishing village of Scheveningen fills the middle distance. Over 100 fishing vessels are individually rendered in the painted sea. A painted sky curves above.
+
+The illusion works because the transition from real to painted space — the dune at your feet grading into the painted dune — happens at exactly the angle where your eye stops questioning it. After 30 seconds, you stop noticing the seam. It becomes simply the view. It is the world's largest surviving 19th-century panorama painting, and after 140 years it still does exactly what it was designed to do.
+
+**Don't miss:** The section showing Scheveningen's fishing fleet — over 100 vessels individually rendered, with the town of Scheveningen behind them. Then consider: the Scheveningen beach is a 4km tram ride from here, and you can compare the painted 1881 view to the actual 2024 view. Almost nothing in the landscape beyond the sea is the same.
+
+**Practical tip:** Entry ~€12; the dark entrance tunnel takes 60 seconds and your eyes adjust. Allow the full 45 minutes — the painting rewards slow looking. Walk around the full circle twice: once quickly to get the whole picture, once slowly to find the details.
+
+**Walk to stop 7:** From Panorama Mesdag, walk or take tram 10 northwest along Carnegielaan to the Peace Palace — about 15 minutes on foot, or 5 minutes by tram.
+
+---
+
+### 7. Vredespaleis (Peace Palace) — International Court of Justice
+
+**Time here:** 30 minutes
+
+The **Vredespaleis** (Peace Palace) was built in 1913 to house the Permanent Court of Arbitration — the world's first standing body for international dispute resolution. It was financed by Andrew Carnegie, who donated $1.5 million after being persuaded that a permanent home for international arbitration was the most effective use of money for peace. The building was designed by French architect Louis Cordonnier in a neo-Gothic and Renaissance hybrid style: turrets, gables, stained glass, and elaborate stonework, set in a large formal garden.
+
+It still operates as one of the world's most important legal institutions. The **International Court of Justice** (the principal judicial organ of the United Nations), the **Permanent Court of Arbitration**, the **Hague Academy of International Law**, and the **Peace Palace Library** — one of the world's largest collections of international law — all work inside this building. On any given day, cases between states are being adjudicated here: territorial disputes, treaty interpretations, war crimes referrals.
+
+The garden is always open and gives you the full view of the facade and the scale of the building. Inside tours (when the court is not in session) show you the main hall, the Great Hall of Justice, and the donated furnishings — each member state in 1913 contributed something, and the donations tell their own story. Austria-Hungary gave the stained glass in the main hall. The Netherlands gave the ceramic tiles. Italy gave the marble staircase.
+
+**Don't miss:** The garden and the entrance facade — the scale of the building is genuinely surprising for something that most people in Den Haag don't mention in the same breath as the Mauritshuis. The stained glass in the main hall (visible from the guided tour) was donated by Austria-Hungary in 1913 — a state that ceased to exist five years later.
+
+**Practical tip:** Garden free, always open; guided tours of the interior are separate (~€14, book via vredespaleis.nl); tours don't run when the court is in session, so check the website before you plan around this stop.
+
 ---
 
 ## Where to Eat & Drink
@@ -111,11 +147,11 @@ From the Grote Markt, find the entrance to the **Passage**: an 1882 glass-roofed
 | | |
 |---|---|
 | **Start** | Binnenhof / Hofvijver (tram 1, 6, 17 from Centraal to Buitenhof) |
-| **End** | Grote Markt / Passage |
-| **Total walk** | ~3.5 km |
+| **End** | Vredespaleis (Peace Palace), Carnegieplein 2 |
+| **Total walk** | ~5 km |
 | **Transport in** | Den Haag Centraal: intercity from Amsterdam (50 min), Rotterdam (25 min), Leiden (15 min) |
-| **Book ahead** | Mauritshuis €17.50 — mauritshuis.nl; Escher in het Paleis €13 — escherinhetpaleis.nl |
-| **Free highlights** | Binnenhof courtyard, Hofvijver walk, Denneweg, Lange Voorhout, Passage |
+| **Book ahead** | Mauritshuis €17.50 — mauritshuis.nl; Escher in het Paleis €13 — escherinhetpaleis.nl; Panorama Mesdag ~€12 — panorama-mesdag.nl; Vredespaleis interior tour ~€14 — vredespaleis.nl |
+| **Free highlights** | Binnenhof courtyard, Hofvijver walk, Denneweg, Lange Voorhout, Passage, Peace Palace garden |
 | **Avoid** | Monday (most museums closed); Prinsjesdag (third Tuesday in September) unless you want to see the golden carriage |
 
 ---
