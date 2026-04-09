@@ -47,3 +47,23 @@
   photo: "Depot_Boijmans_Van_Beuningen_Rotterdam.jpg"
   wikipedia: "https://en.wikipedia.org/wiki/Depot_Boijmans_Van_Beuningen"
   website: "https://www.depotboijmans.nl"
+
+- num: 6
+  name: "Delfshaven"
+  lat: 51.9073
+  lng: 4.4650
+  duration: "45 min"
+  major: true
+  photo: "Delfshaven_Rotterdam.jpg"
+  wikipedia: "https://en.wikipedia.org/wiki/Delfshaven"
+  website: "https://www.delfshaven.nl"
+
+- num: 7
+  name: "Euromast"
+  lat: 51.9054
+  lng: 4.4667
+  duration: "30 min"
+  major: false
+  photo: "Euromast_Rotterdam.jpg"
+  wikipedia: "https://en.wikipedia.org/wiki/Euromast"
+  website: "https://www.euromast.nl"

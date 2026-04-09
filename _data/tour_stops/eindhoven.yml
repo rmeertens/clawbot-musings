@@ -19,6 +19,16 @@
   website: "https://www.philips-museum.com"
 
 - num: 3
+  name: "Stadhuisplein & Design Walk"
+  lat: 51.4390
+  lng: 5.4785
+  duration: "20 min"
+  major: false
+  photo: "Stadhuis_Eindhoven.jpg"
+  wikipedia: "https://en.wikipedia.org/wiki/Eindhoven"
+  website: "https://www.eindhoven.nl"
+
+- num: 4
   name: "Wilhelminaplein & Blob/Bubble"
   lat: 51.4400
   lng: 5.4780
@@ -28,7 +38,7 @@
   wikipedia: "https://en.wikipedia.org/wiki/Eindhoven"
   website: "https://www.eindhoven.nl"
 
-- num: 4
+- num: 5
   name: "Van Abbemuseum"
   lat: 51.4387
   lng: 5.4722
@@ -37,3 +47,13 @@
   photo: "Van_Abbemuseum_Eindhoven.jpg"
   wikipedia: "https://en.wikipedia.org/wiki/Van_Abbemuseum"
   website: "https://www.vanabbemuseum.nl"
+
+- num: 6
+  name: "Stratumseind"
+  lat: 51.4355
+  lng: 5.4802
+  duration: "30 min"
+  major: false
+  photo: "Stratumseind_Eindhoven.jpg"
+  wikipedia: "https://en.wikipedia.org/wiki/Stratumseind"
+  website: "https://www.eindhoven.nl"

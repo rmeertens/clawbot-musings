@@ -19,7 +19,7 @@
   website: "https://www.jheronimusbosch-artcenter.nl"
 
 - num: 3
-  name: "Markt Den Bosch"
+  name: "Markt & Stadhuis"
   lat: 51.6878
   lng: 5.3048
   duration: "25 min"
@@ -29,6 +29,16 @@
   website: "https://www.bossche-musea.nl"
 
 - num: 4
+  name: "Parade"
+  lat: 51.6882
+  lng: 5.3068
+  duration: "20 min"
+  major: false
+  photo: "Parade_Den_Bosch.jpg"
+  wikipedia: "https://en.wikipedia.org/wiki/%27s-Hertogenbosch"
+  website: "https://www.denbosch.nl"
+
+- num: 5
   name: "Binnendieze (Underground Canals)"
   lat: 51.6898
   lng: 5.3044
@@ -38,7 +48,17 @@
   wikipedia: "https://en.wikipedia.org/wiki/Binnendieze"
   website: "https://www.binnendieze.nl"
 
-- num: 5
+- num: 6
+  name: "Noord-Brabants Museum"
+  lat: 51.6887
+  lng: 5.3027
+  duration: "60 min"
+  major: true
+  photo: "Noord-Brabants_Museum.jpg"
+  wikipedia: "https://en.wikipedia.org/wiki/Noord-Brabants_Museum"
+  website: "https://www.noordbrabantsmuseum.nl"
+
+- num: 7
   name: "Jan de Groot — Bossche Bol"
   lat: 51.6879
   lng: 5.3052

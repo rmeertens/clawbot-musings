@@ -9,6 +9,16 @@
   website: "https://domtoren.nl"
 
 - num: 2
+  name: "Museum Speelklok"
+  lat: 52.0912
+  lng: 5.1204
+  duration: "60 min"
+  major: false
+  photo: "Speelklok_museum_Utrecht.jpg"
+  wikipedia: "https://en.wikipedia.org/wiki/Museum_Speelklok"
+  website: "https://www.museumspeelklok.nl"
+
+- num: 3
   name: "Pandhof (Cloister Garden)"
   lat: 52.0901
   lng: 5.1222
@@ -18,7 +28,7 @@
   wikipedia: "https://en.wikipedia.org/wiki/Dom_Church_(Utrecht)"
   website: "https://domkerk.nl"
 
-- num: 3
+- num: 4
   name: "Oudegracht Wharves"
   lat: 52.0877
   lng: 5.1184
@@ -28,7 +38,17 @@
   wikipedia: "https://en.wikipedia.org/wiki/Oudegracht"
   website: "https://www.utrecht.nl"
 
-- num: 4
+- num: 5
+  name: "Centraal Museum"
+  lat: 52.0843
+  lng: 5.1159
+  duration: "60 min"
+  major: true
+  photo: "Centraal_Museum_Utrecht.jpg"
+  wikipedia: "https://en.wikipedia.org/wiki/Centraal_Museum"
+  website: "https://www.centraalmuseum.nl"
+
+- num: 6
   name: "Vredenburg & Hoog Catharijne"
   lat: 52.0934
   lng: 5.1140
@@ -38,7 +58,7 @@
   wikipedia: "https://en.wikipedia.org/wiki/Vredenburg,_Utrecht"
   website: "https://tivolivredenburg.nl"
 
-- num: 5
+- num: 7
   name: "Spoorwegmuseum"
   lat: 52.0921
   lng: 5.1258

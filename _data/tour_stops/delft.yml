@@ -39,6 +39,26 @@
   website: "https://www.oudekerk-delft.nl"
 
 - num: 5
+  name: "Museum Prinsenhof"
+  lat: 52.0129
+  lng: 4.3560
+  duration: "60 min"
+  major: true
+  photo: "Museum_Prinsenhof_Delft.jpg"
+  wikipedia: "https://en.wikipedia.org/wiki/Prinsenhof,_Delft"
+  website: "https://www.prinsenhof-delft.nl"
+
+- num: 6
+  name: "Beestenmarkt"
+  lat: 52.0105
+  lng: 4.3585
+  duration: "20 min"
+  major: false
+  photo: "Beestenmarkt_Delft.jpg"
+  wikipedia: "https://en.wikipedia.org/wiki/Delft"
+  website: "https://www.delft.nl"
+
+- num: 7
   name: "Royal Delft Factory"
   lat: 51.9993
   lng: 4.3520

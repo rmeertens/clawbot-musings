@@ -39,6 +39,16 @@
   website: "https://www.vvvzeeland.nl"
 
 - num: 5
+  name: "Kuiperspoort"
+  lat: 51.5001
+  lng: 3.6117
+  duration: "15 min"
+  major: false
+  photo: "Kuiperspoort_Middelburg.jpg"
+  wikipedia: "https://en.wikipedia.org/wiki/Middelburg"
+  website: "https://www.middelburg.nl"
+
+- num: 6
   name: "Miniatuur Walcheren"
   lat: 51.4973
   lng: 3.6088
@@ -47,3 +57,13 @@
   photo: "Miniatuur_Walcheren_Middelburg.jpg"
   wikipedia: "https://en.wikipedia.org/wiki/Middelburg"
   website: "https://www.miniatuurwalcheren.nl"
+
+- num: 7
+  name: "Damplein & Inner Harbour"
+  lat: 51.5007
+  lng: 3.6165
+  duration: "20 min"
+  major: false
+  photo: "Middelburg_haven.jpg"
+  wikipedia: "https://en.wikipedia.org/wiki/Middelburg"
+  website: "https://www.vvvzeeland.nl"

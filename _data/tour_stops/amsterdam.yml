@@ -39,6 +39,16 @@
   website: "https://westerkerk.nl"
 
 - num: 5
+  name: "Anne Frank House"
+  lat: 52.3752
+  lng: 4.8840
+  duration: "75 min"
+  major: true
+  photo: "Anne_Frank_House_Amsterdam_(cropped).jpg"
+  wikipedia: "https://en.wikipedia.org/wiki/Anne_Frank_House"
+  website: "https://www.annefrank.org"
+
+- num: 6
   name: "Jordaan & Bloemgracht"
   lat: 52.3744
   lng: 4.8777
@@ -46,4 +56,14 @@
   major: true
   photo: "Bloemgracht_Amsterdam.jpg"
   wikipedia: "https://en.wikipedia.org/wiki/Jordaan"
+  website: "https://www.iamsterdam.com"
+
+- num: 7
+  name: "Brouwersgracht & Haarlemmerstraat"
+  lat: 52.3786
+  lng: 4.8849
+  duration: "30 min"
+  major: false
+  photo: "Brouwersgracht_Amsterdam.jpg"
+  wikipedia: "https://en.wikipedia.org/wiki/Brouwersgracht"
   website: "https://www.iamsterdam.com"

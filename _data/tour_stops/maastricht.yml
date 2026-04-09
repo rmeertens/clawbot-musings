@@ -19,6 +19,16 @@
   website: "https://www.sintservaas.nl"
 
 - num: 3
+  name: "Onze-Lieve-Vrouwebasiliek & Stokstraat"
+  lat: 50.8481
+  lng: 5.6883
+  duration: "30 min"
+  major: true
+  photo: "Basilique_Notre-Dame_de_Maastricht.jpg"
+  wikipedia: "https://en.wikipedia.org/wiki/Basilica_of_Our_Lady,_Maastricht"
+  website: "https://www.visitmaastricht.com"
+
+- num: 4
   name: "Boekhandel Dominicanen"
   lat: 50.8473
   lng: 5.6888
@@ -28,7 +38,7 @@
   wikipedia: "https://en.wikipedia.org/wiki/Dominicanen_bookstore"
   website: "https://www.libris.nl/dominicanen"
 
-- num: 4
+- num: 5
   name: "Helpoort & City Walls"
   lat: 50.8459
   lng: 5.6877
@@ -38,7 +48,17 @@
   wikipedia: "https://en.wikipedia.org/wiki/Helpoort"
   website: "https://www.visitmaastricht.com"
 
-- num: 5
+- num: 6
+  name: "Jekerkwartier"
+  lat: 50.8455
+  lng: 5.6885
+  duration: "30 min"
+  major: false
+  photo: "Jeker_Maastricht.jpg"
+  wikipedia: "https://en.wikipedia.org/wiki/Maastricht"
+  website: "https://www.visitmaastricht.com"
+
+- num: 7
   name: "Bonnefantenmuseum"
   lat: 50.8473
   lng: 5.7001

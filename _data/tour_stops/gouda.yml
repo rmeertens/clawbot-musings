@@ -47,3 +47,23 @@
   photo: "Museum_Gouda.jpg"
   wikipedia: "https://en.wikipedia.org/wiki/Museum_Gouda"
   website: "https://www.museumgouda.nl"
+
+- num: 6
+  name: "Goudse Pijpenmuseum"
+  lat: 52.0113
+  lng: 4.7130
+  duration: "30 min"
+  major: false
+  photo: "Gouda_clay_pipes.jpg"
+  wikipedia: "https://en.wikipedia.org/wiki/Gouda_pipe"
+  website: "https://www.pijpenmuseum.nl"
+
+- num: 7
+  name: "Prinsessehof & Historic Hofjes"
+  lat: 52.0128
+  lng: 4.7080
+  duration: "20 min"
+  major: false
+  photo: "Gouda_binnenstad.jpg"
+  wikipedia: "https://en.wikipedia.org/wiki/Gouda,_South_Holland"
+  website: "https://www.gouda.nl"

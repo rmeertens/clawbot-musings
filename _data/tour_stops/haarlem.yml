@@ -37,3 +37,23 @@
   photo: "Frans_Hals_Museum_-_panoramio.jpg"
   wikipedia: "https://en.wikipedia.org/wiki/Frans_Hals_Museum"
   website: "https://www.franshalsmuseum.nl"
+
+- num: 5
+  name: "Corrie ten Boom House"
+  lat: 52.3793
+  lng: 4.6380
+  duration: "45 min"
+  major: false
+  photo: "Corrie_ten_Boom_House_Haarlem.jpg"
+  wikipedia: "https://en.wikipedia.org/wiki/Corrie_ten_Boom"
+  website: "https://www.corrietenboom.com"
+
+- num: 6
+  name: "Amsterdamse Poort"
+  lat: 52.3822
+  lng: 4.6328
+  duration: "15 min"
+  major: false
+  photo: "Haarlem_Amsterdamse_Poort.jpg"
+  wikipedia: "https://en.wikipedia.org/wiki/Amsterdamse_Poort,_Haarlem"
+  website: "https://www.haarlem.nl"

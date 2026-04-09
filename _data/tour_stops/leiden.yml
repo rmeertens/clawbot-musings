@@ -47,3 +47,23 @@
   photo: "Hortus_botanicus_Leiden_-_Victoria_amazonica.jpg"
   wikipedia: "https://en.wikipedia.org/wiki/Hortus_botanicus_Leiden"
   website: "https://www.hortusleiden.nl"
+
+- num: 6
+  name: "Naturalis Biodiversity Center"
+  lat: 52.1559
+  lng: 4.4893
+  duration: "90 min"
+  major: true
+  photo: "Naturalis_Biodiversity_Center.jpg"
+  wikipedia: "https://en.wikipedia.org/wiki/Naturalis_Biodiversity_Center"
+  website: "https://www.naturalis.nl"
+
+- num: 7
+  name: "Molen de Valk"
+  lat: 52.1614
+  lng: 4.4961
+  duration: "30 min"
+  major: false
+  photo: "Leiden_-_Molen_De_Valk_1.jpg"
+  wikipedia: "https://en.wikipedia.org/wiki/Museum_De_Valk"
+  website: "https://www.molendevalk.nl"
