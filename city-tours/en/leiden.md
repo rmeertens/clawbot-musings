@@ -100,6 +100,38 @@ The garden's current layout still includes a reconstruction of Clusius's origina
 
 **Practical tip:** The garden is at its best in May when the historic tulip varieties are in bloom.
 
+**Walk to stop 6:** Exit the Hortus Botanicus and walk northwest along Rapenburg, then turn south on Darwinweg to Naturalis — 12 minutes.
+
+---
+
+### 6. Naturalis Biodiversity Center — National Natural History Museum
+
+**Time here:** 90 minutes
+
+Naturalis is the national natural history museum of the Netherlands, reopened in 2019 after a €100 million renovation that transformed it into one of the most ambitious natural history museums in Europe. Its signature piece is *Trix* — the largest and most complete Tyrannosaurus rex skeleton in Europe, standing 4 metres tall and 13 metres long, found in Montana in 2013. Trix is displayed in the main hall in a dynamic walking pose, and the experience of entering the space and encountering her at eye level is genuinely startling.
+
+The collection spans 42 million specimens — insects, fossils, minerals, taxidermied animals — and the permanent exhibition traces the history of life on Earth from single cells to the present day. The architecture is striking: a faceted white exterior designed by Neutelings Riedijk Architects, inserted between two historic university buildings on the Darwinweg, with the contrast between old brick and new white panelling making the building immediately recognisable. Entry ~€17.50.
+
+**Don't miss:** Trix — go to the main hall first. Allow a few minutes just to stand in the space and adjust to the scale.
+
+**Practical tip:** The museum is popular with school groups on weekday mornings; afternoons and weekends are calmer. The café on the ground floor is decent and a reasonable option for a late lunch.
+
+**Walk to stop 7:** Walk north from Naturalis along Darwinweg and Steenstraat, then northwest to the Molen de Valk on Binnenvestgracht — 15 minutes.
+
+---
+
+### 7. Molen de Valk — Museum Mill
+
+**Time here:** 30 minutes
+
+De Valk (The Falcon) is a working windmill from 1743 standing at the edge of the old city moat — a stone tower mill that ground grain continuously from its construction until 1964. It's one of the few remaining windmills in the Netherlands that is also a fully operational museum, with the original miller's dwelling on the ground floor preserved intact: kitchen, bedroom, tools, and domestic objects exactly as they would have been in the 18th and 19th century. The miller's family lived in the base of the working mill for over two centuries; the domestic rooms have an immediacy that purpose-built museums rarely achieve.
+
+You can climb all seven floors to the cap, where the view takes in the city, the old moat, and — on a clear day — the flat Dutch countryside extending to the horizon. On wind days, the sails turn and the whole mechanism operates. This is a good way to end the tour before walking back to Leiden Centraal station — about 15 minutes north along the singel. Entry ~€5.
+
+**Don't miss:** The miller's kitchen on the ground floor, preserved exactly as left — the combination of functioning millworks overhead and a domestic kitchen directly beneath is oddly moving.
+
+**Practical tip:** Climb all the way to the cap even if the stairs are steep — the view from the top is the point, and the mechanism at close range is extraordinary when the sails are turning.
+
 ---
 
 ## Where to Eat & Drink
@@ -115,10 +147,10 @@ The garden's current layout still includes a reconstruction of Clusius's origina
 | | |
 |---|---|
 | **Start** | Burcht van Leiden, Burgsteeg 14 |
-| **End** | Hortus Botanicus, Rapenburg 73 |
-| **Total walk** | ~3 km |
+| **End** | Molen de Valk, Binnenvestgracht 1 |
+| **Total walk** | ~4.5 km |
 | **Transport in** | Intercity Direct from Amsterdam Centraal (35 min), Den Haag Centraal (15 min) |
-| **Book ahead** | Rijksmuseum van Oudheden €15 — rmo.nl; Hortus Botanicus €9.50 — hortusleiden.nl |
+| **Book ahead** | Rijksmuseum van Oudheden €15 — rmo.nl; Hortus Botanicus €9.50 — hortusleiden.nl; Naturalis €17.50 — naturalis.nl; Molen de Valk ~€5 — molendevalk.nl |
 | **Free highlights** | Burcht (free entry), Rapenburg canal walk, Pieterskerk interior |
 | **Avoid** | Monday (Rijksmuseum van Oudheden closed) |
 

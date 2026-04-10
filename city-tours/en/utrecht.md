@@ -36,11 +36,29 @@ The **guided tower climb** (365 steps to the first platform, 465 to the top) run
 
 **Practical tip:** Tower tours must be booked at the Domtoren visitor centre. Last entry 1 hour before closing. Skip the climb if you have mobility issues — the exterior and Domplein are equally worth your time.
 
-**Walk to stop 2:** The Pandhof garden is directly behind the Domkerk — 2 minutes.
+**Walk to stop 2:** Museum Speelklok is around the corner from the Dom, in the Buurkerk on Steenweg — 3 minutes.
 
 ---
 
-### 2. Pandhof — Hidden Cloister Garden
+### 2. Museum Speelklok — Self-Playing Musical Instruments
+
+**Time here:** 60 minutes
+
+**Museum Speelklok** is housed in the **Buurkerk** — Utrecht's oldest surviving church, a Gothic building from the 13th century — and contains the world's finest collection of self-playing musical instruments. Street organs, carillons, orchestrions, musical boxes, pianolas, and full fairground organs fill the naves and side aisles; the largest instruments fill entire rooms and produce sound of extraordinary complexity and volume when started.
+
+The collection spans from the 18th century to the 1930s and documents a genuine engineering tradition: before recorded music, wealthy households, grand cafés, and fairgrounds paid enormous sums for mechanical instruments capable of simulating an orchestra automatically. The **Belgian café organs** are particularly remarkable — designed to fill a café or dance hall with the sound of a full orchestra at a fraction of the cost of live musicians. A 19th-century musical clock in the collection took 47 years to build.
+
+The guides here are exceptional and essential: they start each instrument during the tour, explaining the mechanism as the sound fills the church. Without the guide, the instruments are beautiful objects; with the guide starting them, the museum becomes an experience you won't find anywhere else.
+
+**Don't miss:** The fairground organs on the upper level — the sheer volume and intricacy of the sound when they start is startling in a good way.
+
+**Practical tip:** Entry ~€16. Tours run throughout the day and are the right way to visit — don't arrive late and miss the guide's start of a major instrument. Check the timetable at the entrance.
+
+**Walk to stop 3:** Walk back through the Buurkerksteeg toward the Dom — 3 minutes.
+
+---
+
+### 3. Pandhof — Hidden Cloister Garden
 
 **Time here:** 15 minutes
 
@@ -50,11 +68,11 @@ The garden was originally part of the Domkapittel — the administrative centre 
 
 **Don't miss:** The carved stone heads on the arcade corbels — each one is slightly different, portrait-like, and oddly expressive for 12th-century work.
 
-**Walk to stop 3:** Exit onto Achter de Dom and walk west to the Oudegracht — 4 minutes.
+**Walk to stop 4:** Exit onto Achter de Dom and walk west to the Oudegracht — 4 minutes.
 
 ---
 
-### 3. Oudegracht — The Wharf Canal
+### 4. Oudegracht — The Wharf Canal
 
 **Time here:** 45 minutes
 
@@ -66,11 +84,29 @@ Most of those cellars are now restaurants, cafés, and bars with outdoor tables 
 
 **Practical tip:** This is your lunch stop. Choose any wharf-level café — the setting is the same everywhere, so trust your instincts on the menu.
 
-**Walk to stop 4:** Climb back up to street level and walk northwest to Vredenburg — 5 minutes.
+**Walk to stop 5:** Climb back up to street level and walk south toward the Centraal Museum on Agnietenstraat — 8 minutes.
 
 ---
 
-### 4. Vredenburg & Hoog Catharijne — City Centre
+### 5. Centraal Museum — Utrecht's Civic Art Museum
+
+**Time here:** 60 minutes
+
+The **Centraal Museum** is Utrecht's main civic art museum, housed in a former convent on Agnietenstraat, with collections spanning from the Middle Ages to the present. The building is quiet, well-organised, and largely uncrowded — the kind of museum where you can stand in front of a painting for ten minutes without being jostled.
+
+The standout is the world's largest collection of work by **Gerrit Rietveld** (1888–1964), Utrecht's most famous architect and designer. Rietveld trained as a cabinetmaker before becoming a central figure of the De Stijl movement — the Dutch modernist group that reduced art, design, and architecture to primary colours and right angles. His most celebrated work is the **Rietveld Schröder House** (1924), a private house on the edge of the city that is now a UNESCO World Heritage Site and considered one of the defining buildings of 20th-century architecture. The museum runs guided tours to the house separately (a 10-minute walk away); book ahead if you want to go inside.
+
+The painting collection includes the **Utrecht Caravaggists** — artists like Hendrick ter Brugghen and Gerard van Honthorst who studied in Rome under the influence of Caravaggio's revolutionary use of dramatic light and shadow, then returned to the Netherlands in the early 17th century. Their work brought chiaroscuro to Dutch painting decades before Rembrandt made it famous. Seeing these paintings here, where the artists were from, reframes the Dutch Golden Age considerably.
+
+**Don't miss:** The **Rietveld bicycle** — a functioning wooden bicycle he designed and built as a prototype in 1917, before he made any furniture. It looks like a De Stijl sculpture. It worked.
+
+**Practical tip:** Entry ~€15; closed Monday. The café is good and the courtyard garden is accessible without a ticket.
+
+**Walk to stop 6:** Walk north toward Vredenburg — 10 minutes.
+
+---
+
+### 6. Vredenburg & Hoog Catharijne — City Centre
 
 **Time here:** 15 minutes (brief walk-through)
 
@@ -78,11 +114,11 @@ Most of those cellars are now restaurants, cafés, and bars with outdoor tables 
 
 Hoog Catharijne was built in 1973 and was for decades considered one of the ugliest buildings in the Netherlands. A decade-long renovation completed in 2018 turned it into something quite good — daylit, well-organised, and connected at multiple levels to the Leidsche Rijn canal outside. It now looks like what it is: the necessary connective tissue between a major railway station and a medieval city centre. The contrast between stepping from a 12th-century cloister garden into a modern mall and back into the station is itself very Dutch.
 
-**Walk to stop 5:** Walk through Hoog Catharijne toward the station, then follow signs to the Spoorwegmuseum — 15-minute walk or 5-minute bus ride (bus 28 from Centraal).
+**Walk to stop 7:** Walk through Hoog Catharijne toward the station, then follow signs to the Spoorwegmuseum — 15-minute walk or 5-minute bus ride (bus 28 from Centraal).
 
 ---
 
-### 5. Spoorwegmuseum — Railway Museum
+### 7. Spoorwegmuseum — Railway Museum
 
 **Time here:** 90 minutes
 
@@ -110,9 +146,9 @@ The collection includes original steam locomotives, the royal carriages of Queen
 |---|---|
 | **Start** | Domtoren, Domplein 9 |
 | **End** | Spoorwegmuseum, Maliebaanstation |
-| **Total walk** | ~3.5 km |
+| **Total walk** | ~5 km |
 | **Transport in** | Utrecht Centraal is a 10-minute walk to the Dom; direct intercity from Amsterdam (30 min), Rotterdam (40 min) |
-| **Book ahead** | Domtoren tower €15 — domtoren.nl; Spoorwegmuseum €17.50 — spoorwegmuseum.nl |
+| **Book ahead** | Domtoren tower €15 — domtoren.nl; Spoorwegmuseum €17.50 — spoorwegmuseum.nl; Centraal Museum €15 — centraalmuseum.nl; Museum Speelklok €16 — museumspeelklok.nl |
 | **Free highlights** | Pandhof garden, Oudegracht walk, Domplein |
 | **Avoid** | Monday (Spoorwegmuseum closed) |
 

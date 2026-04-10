@@ -10,7 +10,7 @@ description: "De hoofdstad van Zeeland: een eilandstad met een 12e-eeuwse abdij,
 
 > Middelburg is een eiland — de stad op Walcheren is aan alle kanten omgeven door water — en heeft de op zichzelf staande kwaliteit van een eiland: onderscheidend, enigszins verwijderd van het vasteland, trots op dingen die andere steden zijn vergeten om trots op te zijn.
 
-**Duur:** ~4 uur &nbsp;|&nbsp; **Beste tijd:** Donderdagmarkt; zomer is het beste voor de abdijstuin &nbsp;|&nbsp; **Vervoer:** Te voet vanuit station Middelburg (5 minuten)
+**Duur:** ~5 uur &nbsp;|&nbsp; **Beste tijd:** Donderdagmarkt; zomer is het beste voor de abdijstuin &nbsp;|&nbsp; **Vervoer:** Te voet vanuit station Middelburg (5 minuten)
 
 ---
 
@@ -84,6 +84,38 @@ Middelburgs grachtennetwerk is kleiner dan dat van Amsterdam of Utrecht maar hee
 
 Het is een toeristische attractie in de meest directe zin, maar het is oprecht de moeite waard als manier om de geografie van het eiland te begrijpen: de verhouding tussen de polders en de zee, en de schaal van het dijkenstelsel dat Walcheren droog houdt.
 
+**Loop naar stop 6:** Loop vanuit Miniatuur Walcheren noordwaarts terug richting de binnenstad via de Segeerssingel — de Kuiperspoort ligt 8 minuten lopen.
+
+---
+
+### 6. Kuiperspoort — Middeleeuws steegje
+
+**Tijd hier:** 15 minuten
+
+De **Kuiperspoort** is een van de best bewaarde middeleeuwse steegjes van Middelburg — een overdekte passage met historische gevels aan weerszijden, vroeger de locatie van de **kuipers** (tonnenmakers) die leverden aan de Zeeuwse handelsvloot. Kuipers maakten de eikenhouten vaten waarzonder de VOC-handel niet kon functioneren: haringen, pekelvlees, kruiden, teer — alles reisde in vaten, en de vaten kwamen uit steegjes als deze.
+
+De steeg dateert grotendeels uit de **16e en 17e eeuw** en is opvallend goed bewaard gebleven, inclusief de houten gevelpartijen die elders in Middelburg grotendeels verloren gingen bij het bombardement van 1940. De Kuiperspoort overleefde relatief intact. In het weekend is het stil genoeg om het je voor te stellen zoals het vroeger was: de klop van hout op hout, de geur van vers gestoken vaten, het af en aan lopen van dragers richting de kade.
+
+**Niet missen:** De **houten bovenbouwen** aan weerszijden van de steeg — ze zijn zeldzaam in Nederland en geven de passage zijn duistere, ingetogen karakter.
+
+**Praktische tip:** Vrij toegankelijk; geen openingstijden. De steeg is het best te beleven buiten de piekuren.
+
+**Loop naar stop 7:** Loop oostwaarts richting de Londensekaai en het Damplein — 6 minuten.
+
+---
+
+### 7. Damplein & Binnenhaven — Historische haven
+
+**Tijd hier:** 20 minuten
+
+Het **Damplein** is het plein aan de **binnenhaven** van Middelburg — de historische haven waar de binnenvaartschepen aanlegden die de stad voorzagen van goederen uit heel Zeeland. Het plein heeft een rij historische pakhuizen langs de kade en een directe verbinding met de singels die om de binnenstad lopen.
+
+Vanaf de kade heb je een open uitzicht over het grachtennetwerk en de omringende lage landschappen van Walcheren: akkers en polders die amper boven het waterpeil liggen, de dijken die het geheel bijeenhouden. Het is een herinnering aan hoe dicht Middelburg bij het water leeft — altijd heeft geleefd. De VOC-schepen voeren van hier via de Westerschelde naar zee; de graanschepen kwamen terug.
+
+Vandaag is het Damplein een rustig plein met terrasmogelijkheden op het water. Een goede plek voor een afsluitend drankje met zicht op de haven voor je terugloopt naar het station.
+
+**Niet missen:** De rij **pakhuisgevels** langs de kade — verschillende zijn gerestaureerd maar herkenbaar als de opslagplaatsen die de 17e-eeuwse Zeeuwse handel faciliteerden.
+
 ---
 
 ## Eten & drinken
@@ -99,8 +131,8 @@ Het is een toeristische attractie in de meest directe zin, maar het is oprecht d
 | | |
 |---|---|
 | **Start** | Abdij van Middelburg, Abdijplein (5 min lopen van het station) |
-| **Einde** | Rouaansekaai of Miniatuur Walcheren (bij het station) |
-| **Totale wandeling** | ~3,5 km |
+| **Einde** | Damplein & Binnenhaven |
+| **Totale wandeling** | ~4,5 km |
 | **Vervoer** | Directe intercity vanuit Rotterdam (1u15); transfers meestal vereist vanuit het noorden |
 | **Vooraf boeken** | Zeeuws Museum €13 — zeeuwsmuseum.nl; Lange Jan-toren €4 |
 | **Beste bezoektijd** | Donderdag voor de markt; zomer voor de abdijstuin |

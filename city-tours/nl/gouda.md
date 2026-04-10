@@ -10,7 +10,7 @@ description: "De kaas is niet eens het beste. Gouda's 13e-eeuwse marktplein is h
 
 > Iedereen kent de kaas. Bijna niemand kent de rest: Gouda heeft het grootste marktplein van Nederland, een gotische kerk met ramen die Erasmus en Willem van Oranje doneerden, en een stroopwafel zo goed dat hij de populairste Nederlandse export ter wereld werd.
 
-**Duur:** ~4 uur &nbsp;|&nbsp; **Beste tijd:** Donderdagochtend in de zomer (kaasmarkt, juni–augustus); anders elke doordeweekse dag &nbsp;|&nbsp; **Vervoer:** Te voet vanuit station Gouda (10 minuten)
+**Duur:** ~5,5 uur &nbsp;|&nbsp; **Beste tijd:** Donderdagochtend in de zomer (kaasmarkt, juni–augustus); anders elke doordeweekse dag &nbsp;|&nbsp; **Vervoer:** Te voet vanuit station Gouda (10 minuten)
 
 ---
 
@@ -90,6 +90,42 @@ Loop zuidwaarts langs het **Gouwe**-kanaal. Dit is het deel van Gouda dat de mee
 
 **Niet missen:** De gereconstrueerde 17e-eeuwse **apotheek** in het ziekenhuisgedeelte — een bijna volledig intact periode-interieur met originele inrichting, keramische potten en medische instrumenten.
 
+**Loop naar stop 6:** Loop oostwaarts langs de Achter de Kerk naar de Lage Gouwe — 5 minuten.
+
+---
+
+### 6. Goudse Pijpenmuseum — Pijpenmakers & tabaksgeschiedenis
+
+**Tijd hier:** 30 minuten
+
+Van de 17e tot de 19e eeuw was Gouda het **centrum van kleipijpproductie** in Nederland en een van de grootste in Europa. De iconische **Goudse pijp** — een lange, dunstelige kleipijp met een klein pijpenkopje — werd in enorme hoeveelheden geproduceerd en vond zijn weg naar kooplieden, zeelieden en rokers van Dublin tot Batavia.
+
+Het **Goudse Pijpenmuseum** (ook bekend als het Pijpenmakers & Tabakologiemuseum) op de Lage Gouwe documenteert het complete verhaal: de **mallen** waarmee de pijpen werden gevormd, de **ovens** die bij 1.000 graden bakten, de handelsnetwerken die Goudse pijpen verspreidden over de hele wereld, en de namen van de pijpenmakers die hun merken in klei stempelden. Op het hoogtepunt van de industrie telde Gouda meer dan 400 pijpenfabrikanten en leverden ze werk aan een groot deel van de stadsbevolking.
+
+De naam **Goedewaagen** — een van de grootste Goudse pijpenfabrikanten — werd in meerdere Europese talen synoniem voor kleipijp. Goudse pijpen worden gevonden bij archeologische opgravingen van Manhattan tot Zuid-Afrika, en dateren aanlegplaatsen zo nauwkeurig dat archeologen ze gebruiken als tijdsaanduiding.
+
+**Niet missen:** De **stempelcollectie** — elke pijpenfabrikant had zijn eigen unieke merkteken dat in het natte klei werd gedrukt. De variatie in ontwerp en uitvoering is verrassend rijk.
+
+**Praktische tip:** Toegang bescheiden of gratis; controleer de openingstijden vooraf op de website.
+
+**Loop naar stop 7:** Loop noordwaarts langs de Lage Gouwe richting de Spieringstraat — 5 minuten.
+
+---
+
+### 7. Prinsessehof & Historische Hofjes — Stille binnenplaatsen
+
+**Tijd hier:** 20 minuten
+
+Gouda heeft meerdere **historische hofjes** — besloten liefdadigheidskofjes uit de 17e en 18e eeuw, verborgen achter nondescripte straatdeuren. Het **Prinsessehof** op de Spieringstraat is een van de mooiste voorbeelden.
+
+Deze hofjes werden gesticht door rijke kooplieden om bejaarde arme vrouwen te huisvesten, en ze volgen een consistent patroon: een stille binnenplaats met een tuin, omgeven door kleine identieke huisjes, volledig onzichtbaar van de straat. Je loopt door een smalle doorgang en stapt van de drukte van de stad in een wereld die in twee eeuwen nauwelijks is veranderd.
+
+Het contrast is opmerkelijk: buiten het poortje de Goudse straat met fietsen en voetgangers; binnen het poortje absolute rust, bloembakken op de vensterbanken, katten op de stoep. Verschillende hofjes zijn nog steeds bewoond en moeten stil en kort worden bezocht.
+
+**Niet missen:** De **binnenplaats zelf** — ga door de poort en loop tot het einde van het hofje; de symmetrie van de geveltjes en de tuin midden op de binnenplaats zijn de kern van de ervaring.
+
+**Praktische tip:** Overdag vrij toegankelijk. Bezoek respectvol en stil — bewoners wonen hier.
+
 ---
 
 ## Eten & drinken
@@ -105,8 +141,8 @@ Loop zuidwaarts langs het **Gouwe**-kanaal. Dit is het deel van Gouda dat de mee
 | | |
 |---|---|
 | **Start** | Markt, Gouda (10 min lopen van station Gouda) |
-| **Einde** | Museum Gouda, Achter de Kerk 14 |
-| **Totale wandeling** | ~3 km |
+| **Einde** | Prinsessehof & Historische Hofjes, Spieringstraat |
+| **Totale wandeling** | ~4 km |
 | **Vervoer** | Directe intercity vanuit Amsterdam (50 min), Rotterdam (25 min), Utrecht (35 min) |
 | **Vooraf boeken** | Sint-Janskerk €5; Museum Gouda €15 — museumgouda.nl |
 | **Beste bezoektijd** | Donderdagochtend juni–augustus voor de traditionele kaasmarkt |

@@ -2,15 +2,15 @@
 layout: tour
 lang: en
 city_slug: haarlem
-title: "Haarlem — Half-Day City Tour"
-description: "Amsterdam's quieter neighbour: a Gothic organ that stopped Mozart in his tracks, the world's oldest public museum, and Frans Hals painting portraits at 80 for the charity keeping him alive."
+title: "Haarlem — Full-Day City Tour"
+description: "Amsterdam's quieter neighbour: a Gothic organ that stopped Mozart in his tracks, the world's oldest public museum, Frans Hals painting portraits at 80 for the charity keeping him alive, and a secret room that hid six people from the Nazis."
 ---
 
 # Haarlem
 
 > Twenty minutes from Amsterdam, a quarter of the tourists, and arguably a better art collection. Haarlem is one of the most straightforward good days out in the Netherlands.
 
-**Duration:** ~4 hours &nbsp;|&nbsp; **Best time:** Any day; Saturday morning has the best market &nbsp;|&nbsp; **Transport:** Direct train from Amsterdam Centraal (20 min), then 10-minute walk to centre
+**Duration:** ~6 hours &nbsp;|&nbsp; **Best time:** Any day; Saturday morning has the best market &nbsp;|&nbsp; **Transport:** Direct train from Amsterdam Centraal (20 min), then 10-minute walk to centre
 
 ---
 
@@ -82,6 +82,40 @@ Hals's late style is the most extraordinary thing in the museum. By his 80s, the
 
 **Practical tip:** The Frans Hals Museum has a second site (Hal) on the Grote Markt if you prefer to end back near the station.
 
+**Walk to stop 5:** From the museum, walk north along Groot Heiligland back toward the city centre, then turn right onto Barteljorisstraat — 7 minutes.
+
+---
+
+### 5. Corrie ten Boom House — The Hiding Place *(bonus stop)*
+
+**Time here:** 45 minutes
+
+The house at **Barteljorisstraat 19** is where the Ten Boom family ran a watch repair shop and, from 1942, a hiding operation for Jewish refugees during the Nazi occupation. At the height of the network, the family was concealing up to 80 people at a time — some for a night, some for weeks — cycling them through safe houses across the region. The permanent hiding place, built behind a false wall in the top-floor bedroom, was small enough to be almost invisible: a space roughly 2.5 × 0.8 metres, accessed through a sliding panel.
+
+On 28 February 1944, the house was raided. The six people inside the secret room held still and were not found. Corrie ten Boom, her father Casper, and her sister Betsie were arrested. Casper died in Scheveningen prison after ten days. Betsie died in Ravensbrück concentration camp in December 1944. Corrie survived, was released on a clerical error, and spent the rest of her life travelling the world. She wrote about it in *The Hiding Place* (1971). The six people in the secret room all survived the war.
+
+The guided tours take you through every floor of the house — the watch shop on the ground floor, the family rooms, the bedroom with the concealed entrance — with the restraint and directness the story deserves. There is no theatre here. The house is small, a little cramped, and completely unembellished. That's what makes it work.
+
+**Don't miss:** The secret room itself. Stand at the entrance to the concealed panel and consider that six adults spent 47 hours inside that space before it was safe to come out. The original false wall mechanism is intact.
+
+**Practical tip:** Tours run on the hour, Tuesday–Saturday; arrive at least 10 minutes early as groups fill quickly. Entry is free; donations are welcomed and the organisation depends on them.
+
+**Walk to stop 6:** Walk north along Barteljorisstraat, then northeast past the Grote Markt to the Amsterdamse Poort — 8 minutes.
+
+---
+
+### 6. Amsterdamse Poort — Medieval City Gate *(bonus stop)*
+
+**Time here:** 15 minutes
+
+The **Amsterdamse Poort** is the last surviving medieval city gate in Haarlem — one of twelve that once ringed the city, of which this is the only one standing. Built around 1355, it spans the road that once led north to Amsterdam: a double-towered gatehouse of pale brick with conical roofs, still sitting in the middle of a working road at the edge of the old city, flanked by traffic.
+
+It costs nothing to walk under it. The gate is not fenced off, not ticketed, not announced with interpretation panels — it's simply there, doing what it has done for 670 years, which is standing in the road. The scale only registers once you're close: the towers are substantial, the archway deep, and the stone worn smooth. For most of Haarlem's history, this was the first thing arriving travellers from Amsterdam would have seen.
+
+**Don't miss:** The view back through the gate toward the city centre — turn around after passing through and look south. The tower of the Grote Kerk is visible in the distance above the roofline, framed by the gate arch. It's the most concentrated image of old Haarlem you'll find.
+
+**Practical tip:** The gate is free to see and always accessible. It's most atmospheric on weekday mornings when the road is quiet and the light falls at a low angle on the pale brickwork. You don't need to linger long — ten minutes is enough to walk around it, through it, and look back.
+
 ---
 
 ## Where to Eat & Drink
@@ -97,12 +131,12 @@ Hals's late style is the most extraordinary thing in the museum. By his 80s, the
 | | |
 |---|---|
 | **Start** | Grote Markt, Haarlem (10-minute walk from station) |
-| **End** | Frans Hals Museum, Groot Heiligland 62 |
-| **Total walk** | ~3 km |
+| **End** | Amsterdamse Poort, Haarlem |
+| **Total walk** | ~4 km |
 | **Transport in** | Direct Intercity from Amsterdam Centraal every 10–15 min (20 min journey) |
 | **Book ahead** | Teylers Museum €17.50 — teylersmuseum.nl; Frans Hals Museum €20 — franshalsmuseum.nl |
-| **Free highlights** | Sint-Bavo Church interior, Spaarne riverfront, Grote Markt |
-| **Avoid** | Monday (Frans Hals Museum closed) |
+| **Free highlights** | Sint-Bavo Church interior, Spaarne riverfront, Grote Markt, Corrie ten Boom House, Amsterdamse Poort |
+| **Avoid** | Monday (Frans Hals Museum closed; Corrie ten Boom House closed) |
 
 ---
 

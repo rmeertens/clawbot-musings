@@ -80,15 +80,33 @@ The **Westerkerk** (1631) is the tallest church in Amsterdam at 85 metres, toppe
 
 The view from the Prinsengracht looking south toward the Nine Streets is exactly what Amsterdam is supposed to look like: leaning brick facades, boats on the water, cyclists crossing the bridges in an endless casual stream.
 
-The **Anne Frank House** (Prinsengracht 263–267) is directly opposite. If you want to visit — and it's worth it — you must book weeks in advance online. Walk-up entry is not available. The experience of climbing the steep stairs into the hidden rooms behind the bookcase is unlike anywhere else.
-
 **Don't miss:** The Westerkerk tower climb (seasonal, guided only, ~€10) — the view from the top makes Amsterdam's grid layout suddenly legible.
 
-**Walk to stop 5:** Cross the Prinsengracht and walk west into the Jordaan — 2 minutes.
+**Walk to stop 5:** The Anne Frank House is directly opposite the Westerkerk at Prinsengracht 263–267 — 1 minute.
 
 ---
 
-### 5. The Jordaan — Neighbourhood Walk
+### 5. Anne Frank House — Secret Annex
+
+**Time here:** 75 minutes (pre-booked tickets required)
+
+The Anne Frank House opened as a museum in 1960 at the initiative of Otto Frank, the sole survivor of the eight people who hid here. From July 1942 to August 1944 — 761 days — Otto Frank, his wife Edith, their daughters Margot and Anne, and four others concealed themselves in a set of rooms behind a hinged bookcase on the third floor of this canal house. The bookcase is still there. So is the hiding place.
+
+Anne Frank was thirteen when the family went into hiding after Margot received a call-up notice from the Nazi occupiers. She was fifteen when the Gestapo came on 4 August 1944, following an anonymous tip that was never conclusively traced. All eight were arrested and deported. Edith Frank died in Auschwitz in January 1945. Margot and Anne were transferred to Bergen-Belsen, where both died — Anne in February or March 1945, weeks before the camp was liberated in April. Otto Frank was the only survivor of the group.
+
+The museum experience is unlike any other. You climb steep, narrow stairs into the actual rooms where the family lived in near-total silence for over two years. The rooms are unfurnished — Otto Frank, when he returned to Amsterdam and learned his daughters were dead, asked that the rooms be left as they were found. On the wall of Anne's room, the pencil marks where her parents tracked the children's height are still visible. In the display area before the annex, there is a brief clip of film — shot accidentally from a neighbor's window at a wedding — in which a girl leans out of a window to watch the procession. It is the only known footage of Anne Frank.
+
+Anne's diary, kept throughout the hiding period and recovered by Miep Gies after the arrest, was rejected by fifteen publishers before being accepted. It has since sold over 35 million copies in 70 languages.
+
+**Don't miss:** The single clip of Anne on film — watch it before you enter the annex, and again after.
+
+**Practical tip:** Tickets (~€16) must be booked weeks in advance on annefrank.org. Walk-up entry is not available. The museum is compact but emotionally demanding — allow more time than the nominal 75 minutes if possible.
+
+**Walk to stop 6:** Cross the Prinsengracht and walk west into the Jordaan — 2 minutes.
+
+---
+
+### 6. The Jordaan — Neighbourhood Walk
 
 **Time here:** 40 minutes
 
@@ -101,6 +119,24 @@ Poke your head into the **Karthuizerhof** on Karthuizerstraat — a hidden court
 Finish at a **bruin café** (brown café — named for the tobacco-stained walls) on Westerstraat or Lindengracht for a cold *pils* or a tiny glass of *jonge jenever* (young Dutch gin). You've earned it.
 
 **Don't miss:** The street art on the sides of the houses along Elandsgracht — some of the oldest and best in the city.
+
+**Walk to stop 7:** Walk north from Bloemgracht along Brouwersgracht — 3 minutes.
+
+---
+
+### 7. Brouwersgracht & Haarlemmerstraat — Canal & Shopping Street
+
+**Time here:** 30 minutes
+
+**Brouwersgracht** — Brewers' Canal — is consistently voted Amsterdam's most beautiful canal, which is a meaningful accolade in a city of remarkable canals. It marks the northern edge of the Jordaan and the western end of the main ring canals, and in the 17th century it was lined with breweries, tanneries, and warehouses that supplied the city. Most of those buildings have been converted to apartments; the conversion preserved the most characteristic features — the wide loading doors, the wooden shutters, and the external hoisting beams that project from the gable peaks, used to winch goods up from boats below.
+
+From the bridge at the corner of Prinsengracht and Brouwersgracht, you can look in four directions and see four separate canals simultaneously. Early morning is the best time: the light is low, the water is still, and the only sound is the occasional cyclist crossing the bridge.
+
+Walk east along Brouwersgracht to **Haarlemmerstraat** — Amsterdam's best non-touristy shopping street. It's a long, slightly scruffy street of independent food shops, bakers, cheesemongers, bookshops, and local businesses that you won't find in the Nine Streets. It terminates at the **Haarlemmerpoort**, a neoclassical city gate from 1840 — the last surviving gate of the city's original fortifications, now used as a private residence — and sits one block from the Centraal Station metro entrance. This is a natural and satisfying point to end the tour.
+
+**Don't miss:** The 17th-century warehouses on the south bank of Brouwersgracht — look for the wooden hoisting beams and the distinctive shuttered upper floors that open directly onto the hoisting hooks.
+
+**Practical tip:** Haarlemmerstraat's best food stop is **Gebroeders Hartering** (no. 67) — a small gourmet grocery with excellent Dutch products. The street is busiest on Saturday mornings; quieter and more pleasant on weekday mornings.
 
 ---
 
@@ -117,8 +153,8 @@ Finish at a **bruin café** (brown café — named for the tobacco-stained walls
 | | |
 |---|---|
 | **Start** | Rijksmuseum, Museumstraat 1 |
-| **End** | Jordaan (Westermarkt area) |
-| **Total walk** | ~4 km |
+| **End** | Haarlemmerstraat / Haarlemmerpoort |
+| **Total walk** | ~5 km |
 | **Transport in** | Tram 2 or 12 from Centraal Station to Museumplein (10 min) |
 | **Book ahead** | Rijksmuseum €22.50 — [rijksmuseum.nl](https://www.rijksmuseum.nl); Anne Frank House €16 — weeks in advance |
 | **Free highlights** | Vondelpark, Nine Streets walk, Jordaan, Westerkerk exterior |

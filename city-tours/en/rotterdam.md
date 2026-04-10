@@ -96,6 +96,38 @@ The building itself, by MVRDV, is extraordinary: the mirrored exterior reflects 
 
 **Practical tip:** Book online. The Depot costs €22.50 but it's one of the most genuinely original museum experiences in Europe right now.
 
+**Walk to stop 6:** Take tram 8 west from Museumpark to Delfshaven — 12 minutes, or walk 30 minutes southwest.
+
+---
+
+### 6. Delfshaven — The Pilgrim Harbour
+
+**Time here:** 45 minutes
+
+Delfshaven is the one district in Rotterdam that survived the 1940 bombing — a small, perfectly preserved stretch of 17th-century quay along the Schie canal, with step-gabled warehouses reflected in the still water. It looks like a period film set, which is a genuinely jarring effect after the rest of Rotterdam. The historical significance is specific: on 21 July 1620, the Pilgrim Fathers departed from this quay on the *Speedwell* — the vessel that carried them to Southampton, where they transferred to the *Mayflower* for the Atlantic crossing — bound ultimately for Plymouth Rock and the founding of Plymouth Colony.
+
+The Pilgrim church — the **Pelgrimsvaderskerk** (1417) on Aelbrechtskolk — is where the congregation held their final service before departure. The church still stands and you can enter. The quayside has a small statue of William Bradford, first governor of Plymouth Colony. Also in Delfshaven: the Zakkendragershuis (1653, a grain porter's guild house now operating as a brewery), the Dubbelde Palmboom museum of daily life in old Rotterdam, and the old windmill De Distilleerketel (1727). Entry to the neighbourhood is free.
+
+**Don't miss:** The Pelgrimsvaderskerk interior — small, plain, whitewashed, with a timber ceiling and box pews. It has barely changed since 1620. Standing in the nave is the closest you'll get to understanding what the Pilgrim Fathers were leaving behind.
+
+**Practical tip:** Most cafés in Delfshaven are on the water side of the quay; the terraces face the canal and get afternoon sun. This is the best spot on the tour for a late afternoon beer.
+
+**Walk to stop 7:** Walk or take bus 33/45 south along Mathenesserlaan to Euromast Park — 15 minutes on foot.
+
+---
+
+### 7. Euromast — City Panorama
+
+**Time here:** 30 minutes
+
+The Euromast was built in 1960 for the Floriade horticultural exhibition, designed by H.A. Maaskant. At 185 metres it was the tallest structure in the Netherlands at the time of construction and remains the highest point from which Rotterdam is visible without obstruction. The observation deck at 96 metres gives the clearest possible view of what makes Rotterdam unique among European cities: the total flatness of the polder landscape extending to the horizon in every direction, the port stretching west along the Nieuwe Waterweg, and — most strikingly — the absence of any pre-1940 urban fabric visible in the central city. It's all post-war, and from 96 metres up, this fact is impossible to miss.
+
+A rotating *Space Tower* gondola rises from 96 to 185 metres for those who want the full height. There is a restaurant at the base. Abseiling and zip-line experiences operate off the tower for the adventurously inclined. Entry to the observation deck ~€16.
+
+**Don't miss:** The view west toward the port at dusk or late afternoon, when the cranes are lit and the container ships are moving on the Nieuwe Waterweg — the scale of what Rotterdam actually does, as a working port, becomes visible from up here in a way it simply isn't from street level.
+
+**Practical tip:** The Space Tower gondola rotates slowly on the way up; you don't need to do anything except stand inside the glass capsule and watch Rotterdam revolve below you. Worth the extra cost over the standard observation deck ticket.
+
 ---
 
 ## Where to Eat & Drink
@@ -111,10 +143,10 @@ The building itself, by MVRDV, is extraordinary: the mirrored exterior reflects 
 | | |
 |---|---|
 | **Start** | Markthal, Dominee Jan Scharpstraat 298 |
-| **End** | Depot Boijmans Van Beuningen, Museumpark 24 |
-| **Total walk** | ~4.5 km (plus optional Erasmusbrug crossing) |
+| **End** | Euromast, Parkhaven 20 |
+| **Total walk** | ~5 km (plus tram) |
 | **Transport in** | Metro A/B/C/D or Tram 8 to Beurs; Rotterdam Centraal to centre is 10 min |
-| **Book ahead** | Depot Boijmans €22.50 — depotboijmans.nl |
+| **Book ahead** | Depot Boijmans €22.50 — depotboijmans.nl; Euromast €16 — euromast.nl |
 | **Free highlights** | Markthal interior, Cube Houses exterior, Oudehaven waterfront, Erasmusbrug walk |
 | **Avoid** | Monday (Depot closed) |
 

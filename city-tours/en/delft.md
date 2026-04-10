@@ -80,11 +80,43 @@ Also here: the grave of **Antonie van Leeuwenhoek**, who invented the microscope
 
 **Don't miss:** The memorial window to the *Delftse Donderslag* (Delft Thunderclap) of 1654 — when the municipal gunpowder store exploded, killing over 100 people and destroying a third of the city. The painter Carel Fabritius (master of *The Goldfinch*) died in the blast.
 
-**Walk to stop 5:** Walk south on Choorstraat, over the canal, and follow Rotterdamseweg south — 20-minute walk or bus 40 from the station.
+**Walk to stop 5:** Exit the Oude Kerk onto the Heilige Geestkerkhof and walk west to the Prinsenhof — 3 minutes.
 
 ---
 
-### 5. Royal Delft (Koninklijke Porceleyne Fles) — Pottery Factory
+### 5. Museum Prinsenhof Delft — Assassination & Golden Age History
+
+**Time here:** 60 minutes
+
+The Prinsenhof is where William of Orange — William I, Prince of Orange, leader of the Dutch Revolt against Spanish rule — maintained his court in the final years of his life. On 10 July 1584, Balthasar Gérard, a Catholic extremist, shot William on the internal staircase of the building. William was the first European head of state to be assassinated with a handgun. Gérard used a wheel-lock pistol, a relatively new technology at the time. The bullet holes in the staircase wall are still visible today — allegedly the originals, though their authenticity is genuinely contested.
+
+The building has served many purposes over its history: a convent, army barracks, and a period as Delft's city hall. It is now a museum of Delft's history, with permanent collections covering the city's Golden Age, the Delft Thunderclap explosion of 1654, and the development of Delftware. The Prinsenhof is excellent and notably under-visited compared to the Vermeer Centrum — you are unlikely to encounter crowds here. Entry ~€10.
+
+**Don't miss:** The bullet holes in the stairwell — whatever their precise authenticity, standing at the spot where the leader of the Dutch Revolt was killed in 1584 is a singular moment.
+
+**Practical tip:** The museum is rarely crowded even in summer. The Golden Age rooms on the upper floors give the best context for everything else you've seen in Delft today.
+
+**Walk to stop 6:** Turn right from the Prinsenhof entrance onto Agathaplein and walk south to the Beestenmarkt — 5 minutes.
+
+---
+
+### 6. Beestenmarkt — The Old Livestock Square
+
+**Time here:** 20 minutes
+
+The Beestenmarkt — "Beast Market" — takes its name from the livestock market that occupied this square until the 19th century: cattle, pigs, and horses were traded here on market days, within a few minutes' walk of the Markt. Today it's one of the most pleasant squares in Delft, quieter and less tourist-oriented than the main Markt, ringed by café terraces and framed on all sides by old buildings with mature trees in the centre.
+
+The square has an easy, lived-in quality that the Markt — busier, more photographed — doesn't always have. The cafés here offer the best option for a mid-tour drink or lunch: less crowded, cheaper, and with a local clientele rather than a primarily tourist one.
+
+**Don't miss:** The view back toward the Nieuwe Kerk tower, visible above the roofline to the north — a good reminder of how compact Delft is and how much you've covered.
+
+**Practical tip:** The Beestenmarkt is at its best on Thursday morning (market day) or a sunny weekend afternoon, when the terraces fill and the square takes on a genuinely relaxed atmosphere.
+
+**Walk to stop 7:** From the Beestenmarkt, walk south on Phoenixstraat and continue south along Coenderstraat to Rotterdamseweg, then turn right — 20-minute walk, or take bus 40 south from the station.
+
+---
+
+### 7. Royal Delft (Koninklijke Porceleyne Fles) — Pottery Factory
 
 **Time here:** 60 minutes
 
@@ -111,10 +143,10 @@ The blue-and-white decoration is hand-painted using cobalt oxide. Before firing,
 | | |
 |---|---|
 | **Start** | Markt, Delft (5-minute walk from the station) |
-| **End** | Royal Delft, Rotterdamseweg 196 |
-| **Total walk** | ~3.5 km |
+| **End** | Royal Delft Factory, Rotterdamseweg 196 |
+| **Total walk** | ~4 km |
 | **Transport in** | Every 15 minutes from Den Haag Centraal (10 min) and Rotterdam Centraal (15 min) |
-| **Book ahead** | Vermeer Centrum €14 — vermeerdelft.nl; Royal Delft €15 — royaldelft.com |
+| **Book ahead** | Vermeer Centrum €14 — vermeerdelft.nl; Museum Prinsenhof €10 — prinsenhof-delft.nl; Royal Delft €15 — royaldelft.com |
 | **Free highlights** | Markt exterior, canal walk, Oude Kerk exterior |
 | **Avoid** | Monday (Vermeer Centrum closed) |
 

@@ -10,7 +10,7 @@ description: "De geboorteplaats van Jeroen Bosch, een gotische kathedraal die 60
 
 > Den Bosch is een van de best bewaarde geheimen van Nederland: een compacte middeleeuwse stad met een kathedraal die 600 jaar kostte om te bouwen, buitengewone kunstgeschiedenis op straatniveau, en een lokaal gebakje zo geliefd dat het zijn eigen museum heeft.
 
-**Duur:** ~4 uur &nbsp;|&nbsp; **Beste tijd:** Elke dag; woensdag en zaterdag markt op de Markt &nbsp;|&nbsp; **Vervoer:** Te voet vanuit Den Bosch station (10 minuten)
+**Duur:** ~5,5 uur &nbsp;|&nbsp; **Beste tijd:** Elke dag; woensdag en zaterdag markt op de Markt &nbsp;|&nbsp; **Vervoer:** Te voet vanuit Den Bosch station (10 minuten)
 
 ---
 
@@ -60,13 +60,29 @@ Hoogwaardige reproducties van alle overgebleven werken van Bosch worden getoond 
 
 De **Markt** is een van de fraaiste middeleeuwse marktpleinen van Nederland. Het **Stadhuis** aan de noordzijde dateert in zijn huidige vorm uit 1670. Op de oostkant van het plein bij **Markt 26** vind je **Frituur De Tijd** — een snackbar die zijn eten aanbiedt via een in de muur gemonteerd *automatiek*. Gooi een munt in de gleuf, open een luikje en haal een kroket. De kroket van Den Bosch staat bekend als de beste van Nederland. Die eet je staande op de Markt.
 
-**Niet missen:** Het **Parade**-plein direct oost van de Markt — een rustiger plein met prettige caféterrassen.
+**Niet missen:** De geveldetails van het **Stadhuis** aan de noordzijde van het plein — de façade uit 1670 is een van de fraaiste staaltjes Hollands classicisme in Brabant.
 
-**Loop naar stop 4:** Loop vanuit de Markt noordwaarts langs de Waterstraat naar het kanalenstelsel — 5 minuten.
+**Loop naar stop 4:** Het Parade-plein ligt direct ten zuidoosten van de kathedraal — 2 minuten lopen.
 
 ---
 
-### 4. Dieze & Binnendieze — Ondergrondse grachten
+### 4. Parade — Kathedraalplein
+
+**Tijd hier:** 20 minuten
+
+De **Parade** is het plein aan de voet van de Sint-Janskathedraal — intimer dan de Markt, en in sommige opzichten onmisbaarder. Historisch was het een parade- en exercitieterrein; tegenwoordig is het een rustig plein omzoomd door caféterrassen en monumentale panden.
+
+Vanuit de Parade heb je de beste grondniveauzichten op de **luchtbogen** en **waterspuwers** van Sint-Jan. De zuidgevel van de kathedraal — die je hier van dichtbij ziet — is de rijkst versierde, met de dichtste concentratie stenen figuren. Neem de tijd om de waterspuwers te tellen; er zijn er hier alleen al meer dan 80.
+
+Elke zomer is de Parade het decor van het **Parade-festival** — een van de grootste outdoor theaterfestivals van Nederland, waarbij het plein verandert in een aaneenschakeling van tenten en podia. Buiten het festivalseizoen is het de rustigste plek bij de kathedraal.
+
+**Niet missen:** De **vliegende bogen** gezien vanuit de zuidoosthoek van het plein — hier is de opeenstapeling van gotische constructie het meest dramatisch en de afstand tot de gevel het kleinst.
+
+**Loop naar stop 5:** Loop vanuit de Parade noordwaarts langs de Waterstraat naar het kanalenstelsel — 5 minuten.
+
+---
+
+### 5. Dieze & Binnendieze — Ondergrondse grachten
 
 **Tijd hier:** 45 minuten
 
@@ -76,11 +92,29 @@ Rondvaarten (45 minuten, vertrek vanuit de Molenleij) voeren je door de ondergro
 
 **Niet missen:** Uitzicht vanaf de **Stadhuisbrug** — kijk noordwaarts langs de Binnendieze naar de doorgang onder het Papenhulst-huis.
 
-**Loop naar stop 5:** Loop westwaarts langs het kanaal naar de Jan de Groot-patisserie — 8 minuten.
+**Loop naar stop 6:** Loop zuidwestwaarts langs de singels naar de Verwersstraat — 6 minuten.
 
 ---
 
-### 5. Jan de Groot Patisserie — De Bossche Bol
+### 6. Noord-Brabants Museum — Regionaal kunst- en geschiedenismuseum
+
+**Tijd hier:** 60 minuten
+
+Het **Noord-Brabants Museum** (Verwersstraat 41) is het belangrijkste kunst- en geschiedenismuseum van de provincie Noord-Brabant. Het is gevestigd in de voormalige Gouvernementswoning — een statig neoclassicistisch pand dat in 1768 werd gebouwd als officiële residentie van de Gouverneur van Brabant, en waarvan de zalen en salons nog grotendeels in hun originele staat zijn.
+
+De collectie bestrijkt een brede periode: van vroegmiddeleeuwse archeologie tot hedendaagse kunst, met bijzonder sterke vertegenwoordiging van kunstenaars die een directe band hebben met Brabant. Er is een vroege schildering die aan **Jeroen Bosch** wordt toegeschreven of aan zijn atelier, een solide reeks werken uit de **Hollandse Gouden Eeuw**, en een indrukwekkende 20e-eeuwse afdeling met werk van onder anderen **Hendrik Wijdeveld** en andere Brabantse modernisten.
+
+Zelfs voor wie moe is van musea: het gebouw zelf — de statige entreehal, de stucwerken plafonds, de binnentuin — is de moeite waard.
+
+**Niet missen:** De **tijdelijke tentoonstellingen** zijn doorgaans van hoog niveau; het museum legt een accent op moderne en hedendaagse kunst naast de vaste historische collectie. Controleer vooraf de website.
+
+**Praktische tip:** Toegang circa €13. Dinsdagen gesloten.
+
+**Loop naar stop 7:** Loop oostwaarts langs de singels richting het station — Jan de Groot Patisserie ligt op de Stationsweg, 8 minuten lopen.
+
+---
+
+### 7. Jan de Groot Patisserie — De Bossche Bol
 
 **Tijd hier:** 15 minuten
 
@@ -104,10 +138,10 @@ Dit is geen museumstop. Dit is een gebakstop.
 |---|---|
 | **Start** | Sint-Janskathedraal, Choorstraat (10 min lopen van het station) |
 | **Einde** | Jan de Groot Patisserie, Stationsweg 25 |
-| **Totale wandeling** | ~3,5 km |
+| **Totale wandeling** | ~4,5 km |
 | **Vervoer** | Directe intercity vanuit Amsterdam (1u10), Utrecht (40 min), Eindhoven (20 min) |
-| **Vooraf boeken** | Binnendieze-rondvaart ~€13,50 — binnendieze.nl |
-| **Gratis highlights** | Sint-Janskathedraal interieur, Markt, kanalenwandeling |
+| **Vooraf boeken** | Binnendieze-rondvaart ~€13,50 — binnendieze.nl; Noord-Brabants Museum ~€13 — noordbrabantsmuseum.nl |
+| **Gratis highlights** | Sint-Janskathedraal interieur, Markt, Parade-plein, kanalenwandeling |
 
 ---
 
