@@ -9,7 +9,8 @@ CHAPTERS = [
     ("Ch 01: あびる–ちがう", [
     ("浴びる", "あびる", "abiru", "V1, VT", "to bathe; to bask in the sun, to shower"),
     ("危ない", "あぶない", "abunai", "ADJ-I", "dangerous; hazardous, perilous; in danger"),
-    ("あちら", "あっち", "achira, acchi", "N, UK", "over there; that way, that one; that person"),
+    ("あちら", "", "achira", "N, UK", "over there; that way, that one; that person", "See also: あっち (acchi) — casual form"),
+    ("あっち", "", "acchi", "N, UK", "over there; that way, that one; that person", "See also: あちら (achira) — polite form"),
     ("上げる", "あげる", "ageru", "V1, VT", "to give; to raise, to fly (a kite, etc.)"),
     ("赤", "あか", "aka", "N", "red; crimson, scarlet"),
     ("赤い", "あかい", "akai", "ADJ-I", "red"),
@@ -92,7 +93,8 @@ CHAPTERS = [
     ("絵", "え", "e", "N, N-SUF", "picture; drawing, painting, sketch"),
     ("ええ", "", "ē", "INT", "yes; right; well, um...; huh?"),
     ("動物", "どうぶつ", "dōbutsu", "N", "animal"),
-    ("どちら", "どっち", "dochira, docchi", "N, UK", "which way; which direction, where"),
+    ("どちら", "", "dochira", "N, UK", "which way; which direction, where", "See also: どっち (docchi) — casual form"),
+    ("どっち", "", "docchi", "N, UK", "which way; which direction, where", "See also: どちら (dochira) — polite form"),
     ("どこ", "", "doko", "N, UK", "where; what place"),
     ("どうも", "", "dōmo", "INT, ABBR", "thanks; very (sorry)"),
     ("どなた", "", "donata", "N, UK, HON", "who"),
@@ -102,7 +104,8 @@ CHAPTERS = [
     ("電話", "でんわ", "denwa", "N, VS", "telephone"),
     ("デパート", "", "depāto", "N, ABBR", "department store"),
     ("出る", "でる", "deru", "V1, VI", "to appear; to come forth; to leave; to answer (the phone or door)"),
-    ("どう / いかが", "", "dō, ikaga", "ADV, UK", "how; in what way, how about"),
+    ("どう", "", "dō", "ADV, UK", "how; in what way, how about", "See also: いかが (ikaga) — polite form"),
+    ("いかが", "", "ikaga", "ADV, UK, HON", "how; in what way, how about", "See also: どう (dō) — casual form"),
     ("ドア", "", "doa", "N", "western style door"),
     ("出口", "でぐち", "deguchi", "N", "exit; gateway, way out, outlet"),
     ("出かける", "でかける", "dekakeru", "V1, VI", "to go out (e.g. on an excursion); to depart, to set out"),
@@ -207,7 +210,8 @@ CHAPTERS = [
     ("授業", "じゅぎょう", "jugyō", "N, VS", "lesson; class work"),
     ("鞄", "かばん", "kaban", "N", "bag; satchel, briefcase"),
     ("花瓶", "かびん", "kabin", "N", "a (flower) vase"),
-    ("じゃ / じゃあ", "", "ja, jā", "CONJ, INT", "well then...; then, so"),
+    ("じゃ", "", "ja", "CONJ, INT", "well then...; then, so", "See also: じゃあ (jā) — extended form"),
+    ("じゃあ", "", "jā", "CONJ, INT", "well then...; then, so", "See also: じゃ (ja) — short form"),
     ("字引", "じびき", "jibiki", "N", "dictionary"),
     ("自分", "じぶん", "jibun", "N", "oneself; myself, yourself, himself, herself; I, me"),
     ("自動車", "じどうしゃ", "jidōsha", "N", "automobile"),
@@ -260,7 +264,8 @@ CHAPTERS = [
     ]),
     ("Ch 05: こうちゃ–こんな", [
     ("紅茶", "こうちゃ", "kōcha", "N", "black tea"),
-    ("こちら", "こっち", "kochira, kocchi", "N, UK", "this way; this direction; here; I, me; this person"),
+    ("こちら", "", "kochira", "N, UK", "this way; this direction; here; I, me; this person", "See also: こっち (kocchi) — casual form"),
+    ("こっち", "", "kocchi", "N, UK", "this way; this direction; here; I, me; this person", "See also: こちら (kochira) — polite form"),
     ("子供", "こども", "kodomo", "N", "child; children"),
     ("公園", "こうえん", "kōen", "N", "(public) park"),
     ("コーヒー", "", "kōhii", "N, ADJ-NO", "coffee"),
@@ -529,7 +534,8 @@ CHAPTERS = [
     ("それでは", "", "sore de wa", "EXP, UK", "in that situation; well then..."),
     ("宿題", "しゅくだい", "shukudai", "N", "homework"),
     ("側", "そば", "soba", "N", "near; beside, vicinity"),
-    ("そちら", "そっち", "sochira, socchi", "N, UK", "that way (by you); there; you, your family"),
+    ("そちら", "", "sochira", "N, UK", "that way (by you); there; you, your family", "See also: そっち (socchi) — casual form"),
+    ("そっち", "", "socchi", "N, UK", "that way (by you); there; you, your family", "See also: そちら (sochira) — polite form"),
     ("掃除", "そうじ", "sōji", "N, VS", "cleaning; sweeping"),
     ("そこ", "", "soko", "N, UK", "there; then"),
     ("白い", "しろい", "shiroi", "ADJ-I", "white"),
@@ -705,8 +711,13 @@ def make_id(s):
     return int(hashlib.md5(s.encode()).hexdigest()[:8], 16)
 
 
+SEE_ALSO_HTML = (
+    '{{#SeeAlso}}<div style="font-size:13px;text-align:center;color:#8b5cf6;'
+    'margin-top:10px;font-style:italic;">{{SeeAlso}}</div>{{/SeeAlso}}'
+)
+
 MODEL = genanki.Model(
-    make_id("jlpt_n5_vocab_model_v2"),
+    make_id("jlpt_n5_vocab_model_v3"),
     "JLPT N5 Vocabulary",
     fields=[
         {"name": "Kanji"},
@@ -714,6 +725,7 @@ MODEL = genanki.Model(
         {"name": "Romaji"},
         {"name": "PartOfSpeech"},
         {"name": "Meaning"},
+        {"name": "SeeAlso"},
     ],
     templates=[
         {
@@ -730,7 +742,7 @@ MODEL = genanki.Model(
                 "{{Romaji}} — {{PartOfSpeech}}</div>"
                 '<div style="font-size:22px;text-align:center;margin-top:12px;">'
                 "{{Meaning}}</div>"
-            ),
+            ) + SEE_ALSO_HTML,
         },
         {
             "name": "Recall",
@@ -747,7 +759,7 @@ MODEL = genanki.Model(
                 "{{Reading}}</div>"
                 '<div style="font-size:14px;text-align:center;color:#aaa;">'
                 "{{Romaji}}</div>"
-            ),
+            ) + SEE_ALSO_HTML,
         },
     ],
     css=(
@@ -764,10 +776,12 @@ total = 0
 for chapter_name, entries in CHAPTERS:
     deck_name = f"{PARENT_NAME}::{chapter_name}"
     deck = genanki.Deck(make_id(deck_name), deck_name)
-    for kanji, reading, romaji, pos, meaning in entries:
+    for entry in entries:
+        kanji, reading, romaji, pos, meaning = entry[:5]
+        see_also = entry[5] if len(entry) > 5 else ""
         note = genanki.Note(
             model=MODEL,
-            fields=[kanji, reading, romaji, pos, meaning],
+            fields=[kanji, reading, romaji, pos, meaning, see_also],
             guid=genanki.guid_for(kanji, reading, meaning),
         )
         deck.add_note(note)
