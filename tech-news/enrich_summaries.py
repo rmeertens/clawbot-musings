@@ -76,23 +76,32 @@ def fetch_news_items(html_path: str, limit: int = None, offset: int = 0, skip_en
 def summarize_with_ollama(title: str, source: str, model: str = "qwen3.5:0.8b-small") -> str:
     """Generate summary using local Ollama.
 
-    Writes a two-sentence relevance blurb in the voice of an InfoQ editor
-    pitching the article in a ticket — what problem it speaks to and why
-    it's worth reading — rather than a neutral abstract.
+    Writes a two-sentence, first-person relevance blurb from the perspective
+    of an InfoQ editor who is also a hands-on software engineer — biased
+    toward machine learning and deploying new applications, and toward
+    things that can be applied to their own stack immediately.
     """
-    prompt = f"""You are an InfoQ editor writing a short note in a ticket to pitch this article to a colleague.
+    prompt = f"""You are writing a short note to yourself about a link you just came across. Stay fully in character:
+
+You are an InfoQ editor AND a hands-on software engineer. You spend your days shipping code and thinking about what to publish next. You are most interested in:
+- machine learning (training, fine-tuning, evaluation, inference, cost/latency trade-offs)
+- deploying new applications (infra, CI/CD, observability, scaling, reliability)
+- anything you could realistically apply to your own software stack this week
+
+You care less about pure research, pop culture, or general business news unless it clearly changes how you'd build or run software.
 
 Title: {title}
 Source: {source}
 
-Write EXACTLY two sentences explaining why this article is relevant, in a natural, first-person voice.
-- Sentence 1: frame the problem or context the article speaks to (what a practitioner is struggling with or curious about).
-- Sentence 2: a brief take on why it's worth reading (what the reader will get out of it).
+Write EXACTLY two sentences, in first person ("I ...", "my stack", "my team"), in a natural, slightly informal voice — the way you'd jot a note in a ticket for yourself.
+- Sentence 1: frame the concrete problem, question, or itch in your own work that this article speaks to.
+- Sentence 2: say briefly what you think you'd get out of reading it — ideas you could apply, a technique to try, a pitfall to avoid, or a reason it probably isn't worth your time.
 
-Example of the tone and length:
+Tone and length reference:
 "I was lately struggling a lot trying to get good performance for my projects while keeping costs low. This article is quite an interesting read."
 
-Do not include the title, the URL, bullet points, labels, or any preamble — output only the two sentences."""
+Hard rules:
+- Output ONLY the two sentences. No title, no URL, no bullet points, no labels, no preamble, no markdown."""
 
     try:
         result = subprocess.run(
