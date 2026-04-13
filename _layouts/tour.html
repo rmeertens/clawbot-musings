@@ -1,0 +1,327 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: 'en' }}">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>{{ page.title }} — Netherlands City Tours</title>
+  <meta name="description" content="{{ page.description | default: page.title }}" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/styles.css" />
+  <link rel="stylesheet" href="/city-tours/travel.css" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" crossorigin="" />
+  <style>
+    /* ── Navigation ───────────────────────────────────────────── */
+    .tour-nav {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: 36px;
+      flex-wrap: wrap;
+      gap: 10px;
+    }
+    .back-link {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      color: var(--muted);
+      text-decoration: none;
+      font-size: 0.9rem;
+      font-weight: 500;
+      transition: color 0.15s;
+    }
+    .back-link:hover { color: var(--text); }
+    .lang-toggle {
+      display: inline-flex;
+      align-items: center;
+      gap: 5px;
+      font-size: 0.82rem;
+      font-weight: 700;
+      text-decoration: none;
+      padding: 7px 16px;
+      border-radius: 999px;
+      border: 1px solid var(--border);
+      background: rgba(0,0,0,0.04);
+      color: var(--text);
+      transition: background 0.15s, border-color 0.15s;
+    }
+    .lang-toggle:hover { background: rgba(0,0,0,0.08); border-color: rgba(0,0,0,0.15); }
+
+    /* ── Prose ────────────────────────────────────────────────── */
+    .tour-prose {
+      padding: 40px 48px;
+      max-width: 800px;
+      margin: 0 auto;
+    }
+    @media (max-width: 700px) { .tour-prose { padding: 24px 20px; } }
+
+    .tour-prose h1 { font-size: clamp(1.9rem, 4vw, 2.8rem); line-height: 1.1; margin: 0 0 6px; color: var(--text); }
+    .tour-prose .subtitle { font-size: 1rem; color: var(--muted); margin: 0 0 32px; }
+    .tour-prose h2 { font-size: 1.35rem; font-weight: 700; color: var(--text); margin: 40px 0 14px; padding-top: 32px; border-top: 1px solid var(--border); }
+    .tour-prose h2:first-of-type { border-top: none; padding-top: 0; }
+    .tour-prose h3 { font-size: 1.1rem; font-weight: 700; color: var(--accent); margin: 28px 0 10px; }
+    .tour-prose p { color: var(--muted); line-height: 1.78; margin: 0 0 16px; }
+    .tour-prose strong { color: var(--text); font-weight: 600; }
+    .tour-prose em { color: var(--text); font-style: italic; }
+    .tour-prose ul, .tour-prose ol { color: var(--muted); padding-left: 22px; margin: 0 0 16px; line-height: 1.72; }
+    .tour-prose li { margin-bottom: 6px; }
+    .tour-prose li strong { color: var(--text); }
+    .tour-prose blockquote { border-left: 3px solid var(--accent-2); margin: 20px 0; padding: 12px 18px; background: rgba(27,94,138,0.06); border-radius: 0 10px 10px 0; }
+    .tour-prose blockquote p { margin: 0; color: var(--text); font-size: 0.93rem; }
+    .tour-prose table { width: 100%; border-collapse: collapse; margin: 16px 0 24px; font-size: 0.92rem; }
+    .tour-prose th { text-align: left; padding: 10px 14px; color: var(--muted); font-weight: 600; font-size: 0.78rem; text-transform: uppercase; letter-spacing: 0.06em; border-bottom: 1px solid var(--border); }
+    .tour-prose td { padding: 10px 14px; color: var(--muted); border-bottom: 1px solid var(--border); line-height: 1.5; }
+    .tour-prose td:first-child { color: var(--text); font-weight: 500; width: 34%; }
+    .tour-prose tr:last-child td { border-bottom: none; }
+    .tour-prose hr { border: none; border-top: 1px solid var(--border); margin: 36px 0; }
+
+    /* ── Map ──────────────────────────────────────────────────── */
+    .tour-map-section {
+      max-width: 800px;
+      margin: 0 auto 0;
+    }
+    .tour-map-section h2 {
+      font-size: 1.1rem;
+      font-weight: 700;
+      color: var(--muted);
+      text-transform: uppercase;
+      letter-spacing: 0.1em;
+      font-size: 0.78rem;
+      margin: 0 0 12px;
+    }
+    #tour-map {
+      height: 420px;
+      border-radius: 20px;
+      overflow: hidden;
+      border: 1px solid var(--border);
+      margin-bottom: 32px;
+      box-shadow: var(--shadow);
+    }
+    /* Light-mode map popups */
+    .leaflet-popup-content-wrapper {
+      background: #FFFFFF;
+      color: #1C1917;
+      border: 1px solid rgba(0,0,0,0.1);
+      border-radius: 12px;
+      box-shadow: 0 8px 32px rgba(0,0,0,0.12);
+    }
+    .leaflet-popup-tip { background: #FFFFFF; }
+    .leaflet-popup-content { margin: 12px 16px; font-family: 'Inter', sans-serif; }
+    .popup-num { display: inline-block; color: white; border-radius: 50%; width: 22px; height: 22px; text-align: center; line-height: 22px; font-size: 0.75rem; font-weight: 700; margin-right: 6px; }
+    .popup-num.major { background: #C2622D; }
+    .popup-num.minor { background: #78716C; }
+    .popup-name { font-weight: 700; font-size: 0.95rem; color: #1C1917; }
+    .popup-duration { font-size: 0.8rem; color: #78716C; margin: 4px 0 8px; }
+    .popup-photo { width: 100%; height: 120px; object-fit: cover; border-radius: 8px; margin-bottom: 8px; background: #EDE5D8; }
+    .popup-links { display: flex; gap: 8px; flex-wrap: wrap; }
+    .popup-link { font-size: 0.75rem; font-weight: 600; text-decoration: none; padding: 4px 10px; border-radius: 999px; border: 1px solid rgba(0,0,0,0.12); color: #78716C; transition: background 0.15s; }
+    .popup-link:hover { background: rgba(0,0,0,0.06); color: #1C1917; }
+    .popup-badge { font-size: 0.68rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.05em; padding: 2px 8px; border-radius: 999px; margin-left: 6px; vertical-align: middle; }
+    .popup-badge.major { background: rgba(194,98,45,0.12); color: #C2622D; }
+    .popup-badge.minor { background: rgba(0,0,0,0.05); color: #78716C; }
+
+    /* ── Stop cards ───────────────────────────────────────────── */
+    .stop-cards {
+      max-width: 800px;
+      margin: 0 auto 48px;
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 14px;
+    }
+    @media (max-width: 600px) { .stop-cards { grid-template-columns: 1fr; } }
+    /* Base stop card */
+    .stop-card {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 16px;
+      overflow: hidden;
+      cursor: pointer;
+      transition: transform 0.15s, border-color 0.15s, box-shadow 0.15s;
+      box-shadow: var(--shadow);
+    }
+    .stop-card:hover { transform: translateY(-2px); border-color: rgba(194,98,45,0.35); box-shadow: 0 8px 32px rgba(0,0,0,0.1); }
+    /* Major stop — slightly elevated, taller image */
+    .stop-card.major { border-color: rgba(194,98,45,0.2); }
+    .stop-card.major .stop-card-img { height: 150px; }
+    .stop-card.major:hover { border-color: rgba(194,98,45,0.5); }
+    /* Minor stop */
+    .stop-card.minor { opacity: 0.9; }
+    .stop-card.minor .stop-card-img { height: 100px; }
+    .stop-card-img {
+      width: 100%;
+      height: 130px;
+      object-fit: cover;
+      display: block;
+      background: var(--bg-soft);
+    }
+    .stop-card-body { padding: 12px 14px; }
+    .stop-card-num { display: inline-block; color: white; border-radius: 50%; width: 20px; height: 20px; text-align: center; line-height: 20px; font-size: 0.7rem; font-weight: 700; margin-right: 6px; vertical-align: middle; }
+    .stop-card-num.major { background: var(--accent); }
+    .stop-card-num.minor { background: var(--muted); }
+    .stop-card-name { font-weight: 700; font-size: 0.9rem; color: var(--text); vertical-align: middle; }
+    .stop-card-type { display: inline-block; font-size: 0.65rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.06em; padding: 1px 7px; border-radius: 999px; margin-left: 4px; vertical-align: middle; }
+    .stop-card-type.major { background: rgba(194,98,45,0.1); color: var(--accent); }
+    .stop-card-type.minor { background: rgba(0,0,0,0.05); color: var(--muted); }
+    .stop-card-duration { font-size: 0.78rem; color: var(--muted); margin: 5px 0 8px; }
+    .stop-card-links { display: flex; gap: 6px; flex-wrap: wrap; }
+    .stop-link { font-size: 0.72rem; font-weight: 600; text-decoration: none; padding: 3px 9px; border-radius: 999px; border: 1px solid var(--border); color: var(--muted); transition: background 0.15s; }
+    .stop-link:hover { background: rgba(0,0,0,0.04); color: var(--text); }
+    .stop-link.wiki { border-color: rgba(194,98,45,0.3); color: var(--accent); }
+    .stop-link.wiki:hover { background: rgba(194,98,45,0.08); }
+  </style>
+</head>
+<body>
+  <div class="page-shell">
+
+    {% if page.lang == 'en' %}
+      {% assign alt_url = '/city-tours/nl/' | append: page.city_slug | append: '/' %}
+      {% assign alt_label = 'Nederlands' %}
+      {% assign alt_flag = '🇳🇱' %}
+    {% else %}
+      {% assign alt_url = '/city-tours/en/' | append: page.city_slug | append: '/' %}
+      {% assign alt_label = 'English' %}
+      {% assign alt_flag = '🇬🇧' %}
+    {% endif %}
+
+    <nav class="tour-nav">
+      <a class="back-link" href="/city-tours/">← {% if page.lang == 'nl' %}Alle stadstours{% else %}All city tours{% endif %}</a>
+      <a class="lang-toggle" href="{{ alt_url }}">{{ alt_flag }} {{ alt_label }}</a>
+    </nav>
+
+    {% assign stops = site.data.tour_stops[page.city_slug] %}
+
+    {% if stops %}
+    <!-- Map -->
+    <div class="tour-map-section">
+      <p class="section-kicker" style="margin-bottom:12px;">Walking route</p>
+      <div id="tour-map"></div>
+    </div>
+
+    <!-- Stop cards with photos and links -->
+    <div class="stop-cards">
+      {% for stop in stops %}
+      {% if stop.major %}{% assign card_class = 'major' %}{% else %}{% assign card_class = 'minor' %}{% endif %}
+      <div class="stop-card {{ card_class }}" onclick="focusStop({{ forloop.index0 }})">
+        <img class="stop-card-img"
+             src="https://en.wikipedia.org/wiki/Special:FilePath/{{ stop.photo | url_encode }}?width=400"
+             alt="{{ stop.name }}"
+             loading="lazy"
+             onerror="this.style.display='none'">
+        <div class="stop-card-body">
+          <div>
+            <span class="stop-card-num {{ card_class }}">{{ stop.num }}</span>
+            <span class="stop-card-name">{{ stop.name }}</span>
+            {% if stop.major %}<span class="stop-card-type major">Must-see</span>{% else %}<span class="stop-card-type minor">Bonus</span>{% endif %}
+          </div>
+          <div class="stop-card-duration">⏱ {{ stop.duration }}</div>
+          <div class="stop-card-links">
+            {% if stop.wikipedia %}<a class="stop-link wiki" href="{{ stop.wikipedia }}" target="_blank" rel="noopener" onclick="event.stopPropagation()">Wikipedia</a>{% endif %}
+            {% if stop.website %}<a class="stop-link" href="{{ stop.website }}" target="_blank" rel="noopener" onclick="event.stopPropagation()">Official site</a>{% endif %}
+          </div>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+    {% endif %}
+
+    <!-- Tour content -->
+    <article class="tour-prose card">
+      {{ content }}
+    </article>
+
+  </div>
+
+  {% if stops %}
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" crossorigin=""></script>
+  <script>
+    var stopsData = [
+      {% for stop in stops %}
+      {
+        num: {{ stop.num }},
+        name: {{ stop.name | jsonify }},
+        lat: {{ stop.lat }},
+        lng: {{ stop.lng }},
+        duration: {{ stop.duration | jsonify }},
+        photo: {{ stop.photo | jsonify }},
+        wikipedia: {{ stop.wikipedia | default: '' | jsonify }},
+        website: {{ stop.website | default: '' | jsonify }},
+        major: {{ stop.major | default: false | jsonify }}
+      }{% unless forloop.last %},{% endunless %}
+      {% endfor %}
+    ];
+
+    // Compute centre of all stops
+    var lats = stopsData.map(function(s){ return s.lat; });
+    var lngs = stopsData.map(function(s){ return s.lng; });
+    var centre = [
+      (Math.min.apply(null, lats) + Math.max.apply(null, lats)) / 2,
+      (Math.min.apply(null, lngs) + Math.max.apply(null, lngs)) / 2
+    ];
+
+    var map = L.map('tour-map', { zoomControl: true, attributionControl: true }).setView(centre, 14);
+
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      attribution: '© <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>',
+      maxZoom: 19
+    }).addTo(map);
+
+    // Draw route polyline — terra cotta for travel theme
+    var latlngs = stopsData.map(function(s){ return [s.lat, s.lng]; });
+    L.polyline(latlngs, { color: '#C2622D', weight: 3, opacity: 0.6, dashArray: '6 6' }).addTo(map);
+
+    // Numbered marker: major (terra cotta, 32px) vs minor (stone, 24px)
+    function makeIcon(num, isMajor) {
+      var bg = isMajor ? '#C2622D' : '#78716C';
+      var size = isMajor ? 32 : 24;
+      var half = size / 2;
+      var fs = isMajor ? 14 : 11;
+      return L.divIcon({
+        className: '',
+        html: '<div style="background:' + bg + ';color:white;border-radius:50%;width:' + size + 'px;height:' + size + 'px;display:flex;align-items:center;justify-content:center;font-weight:700;font-size:' + fs + 'px;border:2px solid white;box-shadow:0 2px 8px rgba(0,0,0,0.25);">' + num + '</div>',
+        iconSize: [size, size],
+        iconAnchor: [half, half],
+        popupAnchor: [0, -(half + 2)]
+      });
+    }
+
+    var markers = [];
+    stopsData.forEach(function(stop, i) {
+      var imgHtml = stop.photo
+        ? '<img class="popup-photo" src="https://en.wikipedia.org/wiki/Special:FilePath/' + encodeURIComponent(stop.photo) + '?width=280" alt="' + stop.name.replace(/"/g,'') + '" onerror="this.style.display=\'none\'">'
+        : '';
+      var linksHtml = '';
+      if (stop.wikipedia) linksHtml += '<a class="popup-link" href="' + stop.wikipedia + '" target="_blank" rel="noopener">Wikipedia</a>';
+      if (stop.website)   linksHtml += '<a class="popup-link" href="' + stop.website   + '" target="_blank" rel="noopener">Official site</a>';
+
+      var numClass = stop.major ? 'major' : 'minor';
+      var badgeHtml = stop.major
+        ? '<span class="popup-badge major">Must-see</span>'
+        : '<span class="popup-badge minor">Bonus</span>';
+
+      var popupHtml = '<div>' +
+        imgHtml +
+        '<div><span class="popup-num ' + numClass + '">' + stop.num + '</span><span class="popup-name">' + stop.name + '</span>' + badgeHtml + '</div>' +
+        '<div class="popup-duration">⏱ ' + stop.duration + '</div>' +
+        '<div class="popup-links">' + linksHtml + '</div>' +
+        '</div>';
+
+      var marker = L.marker([stop.lat, stop.lng], { icon: makeIcon(stop.num, stop.major) })
+        .addTo(map)
+        .bindPopup(popupHtml, { maxWidth: 260 });
+      markers.push(marker);
+    });
+
+    // Auto-fit to all stops
+    map.fitBounds(L.latLngBounds(latlngs).pad(0.15));
+
+    // Let stop cards pan the map to the corresponding marker
+    window.focusStop = function(idx) {
+      var stop = stopsData[idx];
+      map.setView([stop.lat, stop.lng], 16, { animate: true });
+      markers[idx].openPopup();
+    };
+  </script>
+  {% endif %}
+</body>
+</html>

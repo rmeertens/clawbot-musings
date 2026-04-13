@@ -1,0 +1,69 @@
+- num: 1
+  name: "Abdij van Middelburg"
+  lat: 51.4988
+  lng: 3.6136
+  duration: "50 min"
+  major: true
+  photo: "Middelburg_abbey_Lange_Jan.jpg"
+  wikipedia: "https://en.wikipedia.org/wiki/Middelburg_Abbey"
+  website: "https://www.middelburg.nl"
+
+- num: 2
+  name: "Markt & Stadhuis"
+  lat: 51.4984
+  lng: 3.6144
+  duration: "30 min"
+  major: true
+  photo: "Stadhuis_Middelburg.jpg"
+  wikipedia: "https://en.wikipedia.org/wiki/Middelburg"
+  website: "https://www.vvvzeeland.nl"
+
+- num: 3
+  name: "Zeeuws Museum"
+  lat: 51.4985
+  lng: 3.6130
+  duration: "60 min"
+  major: true
+  photo: "Zeeuws_Museum_Middelburg.jpg"
+  wikipedia: "https://en.wikipedia.org/wiki/Zeeuws_Museum"
+  website: "https://www.zeeuwsmuseum.nl"
+
+- num: 4
+  name: "Spanjaardstraat & Canal"
+  lat: 51.4997
+  lng: 3.6130
+  duration: "30 min"
+  major: false
+  photo: "Middelburg_canal.jpg"
+  wikipedia: "https://en.wikipedia.org/wiki/Middelburg"
+  website: "https://www.vvvzeeland.nl"
+
+- num: 5
+  name: "Kuiperspoort"
+  lat: 51.5001
+  lng: 3.6117
+  duration: "15 min"
+  major: false
+  photo: "Middelburg,_Kuiperspoort_2.jpg"
+  wikipedia: "https://en.wikipedia.org/wiki/Middelburg"
+  website: "https://www.middelburg.nl"
+
+- num: 6
+  name: "Miniatuur Walcheren"
+  lat: 51.4973
+  lng: 3.6088
+  duration: "45 min"
+  major: false
+  photo: "Overzicht_Miniatuur_Walcheren.JPG"
+  wikipedia: "https://en.wikipedia.org/wiki/Middelburg"
+  website: "https://www.miniatuurwalcheren.nl"
+
+- num: 7
+  name: "Damplein & Inner Harbour"
+  lat: 51.5007
+  lng: 3.6165
+  duration: "20 min"
+  major: false
+  photo: "Damplein_(Middelburg)_P1030513.jpg"
+  wikipedia: "https://en.wikipedia.org/wiki/Middelburg"
+  website: "https://www.vvvzeeland.nl"

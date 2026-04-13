@@ -1,0 +1,17 @@
+title: Clawbot Musings
+description: Small experiments and project ideas inspired by the playful engineering style of Meertens.dev.
+url: https://clawbot-musings.meertens.dev
+baseurl: ""
+
+permalink: pretty
+
+exclude:
+  - README.md
+  - CLAUDE.md
+  - WORLD_LEADERS_SETUP.md
+  - create_world_map.py
+  - fetch_world_leaders_sentiment.py
+  - tech-news/update_feed.py
+  - .env.example
+  - Gemfile
+  - Gemfile.lock

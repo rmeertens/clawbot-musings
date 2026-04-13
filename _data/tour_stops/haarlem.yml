@@ -1,0 +1,59 @@
+- num: 1
+  name: "Grote Markt & Sint-Bavo"
+  lat: 52.3807
+  lng: 4.6349
+  duration: "50 min"
+  major: true
+  photo: "Grote_kerk_haarlem_netherlands.jpg"
+  wikipedia: "https://en.wikipedia.org/wiki/St._Bavo%27s_Church,_Haarlem"
+  website: "https://www.bavokerk.nl"
+
+- num: 2
+  name: "Teylers Museum"
+  lat: 52.3786
+  lng: 4.6376
+  duration: "90 min"
+  major: true
+  photo: "Teylers_Museum_Haarlem_-_Oval_Room.jpg"
+  wikipedia: "https://en.wikipedia.org/wiki/Teylers_Museum"
+  website: "https://www.teylersmuseum.nl"
+
+- num: 3
+  name: "Spaarne Riverfront & Gravestenenbrug"
+  lat: 52.3798
+  lng: 4.6390
+  duration: "20 min"
+  major: false
+  photo: "Gravestenenbrug_Haarlem.jpg"
+  wikipedia: "https://en.wikipedia.org/wiki/Spaarne"
+  website: "https://www.haarlem.nl"
+
+- num: 4
+  name: "Frans Hals Museum"
+  lat: 52.3766
+  lng: 4.6336
+  duration: "60 min"
+  major: true
+  photo: "Frans_Hals_Museum_-_panoramio.jpg"
+  wikipedia: "https://en.wikipedia.org/wiki/Frans_Hals_Museum"
+  website: "https://www.franshalsmuseum.nl"
+
+- num: 5
+  name: "Corrie ten Boom House"
+  lat: 52.3793
+  lng: 4.6380
+  duration: "45 min"
+  major: false
+  photo: "Corrie_ten_Boom_House_Haarlem.jpg"
+  wikipedia: "https://en.wikipedia.org/wiki/Corrie_ten_Boom"
+  website: "https://www.corrietenboom.com"
+
+- num: 6
+  name: "Amsterdamse Poort"
+  lat: 52.3750
+  lng: 4.6413
+  duration: "15 min"
+  major: false
+  photo: "Haarlem_Amsterdamse_Poort.jpg"
+  wikipedia: "https://en.wikipedia.org/wiki/Amsterdamse_Poort,_Haarlem"
+  website: "https://www.haarlem.nl"

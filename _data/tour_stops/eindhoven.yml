@@ -1,0 +1,59 @@
+- num: 1
+  name: "Strijp-S"
+  lat: 51.4455
+  lng: 5.4541
+  duration: "60 min"
+  major: true
+  photo: "Klokgebouw_Eindhoven.jpg"
+  wikipedia: "https://en.wikipedia.org/wiki/Strijp-S"
+  website: "https://www.strijp-s.nl"
+
+- num: 2
+  name: "Philips Museum"
+  lat: 51.4393
+  lng: 5.4753
+  duration: "60 min"
+  major: true
+  photo: "Philips_Museum_Eindhoven.jpg"
+  wikipedia: "https://en.wikipedia.org/wiki/Philips_Museum"
+  website: "https://www.philips-museum.com"
+
+- num: 3
+  name: "Stadhuisplein & Design Walk"
+  lat: 51.4390
+  lng: 5.4785
+  duration: "20 min"
+  major: false
+  photo: "Stadhuis_Eindhoven.jpg"
+  wikipedia: "https://en.wikipedia.org/wiki/Eindhoven"
+  website: "https://www.eindhoven.nl"
+
+- num: 4
+  name: "Wilhelminaplein & Blob/Bubble"
+  lat: 51.4400
+  lng: 5.4780
+  duration: "20 min"
+  major: false
+  photo: "Eindhoven_Wilhelminaplein.jpg"
+  wikipedia: "https://en.wikipedia.org/wiki/Eindhoven"
+  website: "https://www.eindhoven.nl"
+
+- num: 5
+  name: "Van Abbemuseum"
+  lat: 51.4387
+  lng: 5.4722
+  duration: "90 min"
+  major: true
+  photo: "Van_Abbemuseum_Eindhoven.jpg"
+  wikipedia: "https://en.wikipedia.org/wiki/Van_Abbemuseum"
+  website: "https://www.vanabbemuseum.nl"
+
+- num: 6
+  name: "Stratumseind"
+  lat: 51.4355
+  lng: 5.4802
+  duration: "30 min"
+  major: false
+  photo: "Stratumseind,_Eindhoven.JPG"
+  wikipedia: "https://en.wikipedia.org/wiki/Stratumseind"
+  website: "https://www.eindhoven.nl"

@@ -1,0 +1,69 @@
+- num: 1
+  name: "Rijksmuseum"
+  lat: 52.3600
+  lng: 4.8852
+  duration: "90 min"
+  major: true
+  photo: "Rijksmuseum_Amsterdam_2019.jpg"
+  wikipedia: "https://en.wikipedia.org/wiki/Rijksmuseum"
+  website: "https://www.rijksmuseum.nl"
+
+- num: 2
+  name: "Vondelpark & Blauwe Theehuis"
+  lat: 52.3579
+  lng: 4.8706
+  duration: "20 min"
+  major: false
+  photo: "Vondelpark_Amsterdam.jpg"
+  wikipedia: "https://en.wikipedia.org/wiki/Vondelpark"
+  website: "https://www.vondelpark.com"
+
+- num: 3
+  name: "De Negen Straatjes"
+  lat: 52.3688
+  lng: 4.8808
+  duration: "30 min"
+  major: false
+  photo: "Nine_streets_Amsterdam.jpg"
+  wikipedia: "https://en.wikipedia.org/wiki/Nine_Streets"
+  website: "https://www.theninestreets.com"
+
+- num: 4
+  name: "Westerkerk & Prinsengracht"
+  lat: 52.3747
+  lng: 4.8839
+  duration: "20 min"
+  major: true
+  photo: "Westerkerk_(Amsterdam).jpg"
+  wikipedia: "https://en.wikipedia.org/wiki/Westerkerk"
+  website: "https://westerkerk.nl"
+
+- num: 5
+  name: "Anne Frank House"
+  lat: 52.3752
+  lng: 4.8840
+  duration: "75 min"
+  major: true
+  photo: "Anne_Frank_House_Amsterdam_(cropped).jpg"
+  wikipedia: "https://en.wikipedia.org/wiki/Anne_Frank_House"
+  website: "https://www.annefrank.org"
+
+- num: 6
+  name: "Jordaan & Bloemgracht"
+  lat: 52.3744
+  lng: 4.8777
+  duration: "40 min"
+  major: true
+  photo: "Bloemgracht_Amsterdam.jpg"
+  wikipedia: "https://en.wikipedia.org/wiki/Jordaan"
+  website: "https://www.iamsterdam.com"
+
+- num: 7
+  name: "Brouwersgracht & Haarlemmerstraat"
+  lat: 52.3786
+  lng: 4.8849
+  duration: "30 min"
+  major: false
+  photo: "Brouwersgracht_Amsterdam.jpg"
+  wikipedia: "https://en.wikipedia.org/wiki/Brouwersgracht"
+  website: "https://www.iamsterdam.com"

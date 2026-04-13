@@ -1,0 +1,69 @@
+- num: 1
+  name: "Sint-Janskathedraal"
+  lat: 51.6880
+  lng: 5.3057
+  duration: "60 min"
+  major: true
+  photo: "St_John's_Cathedral_'s-Hertogenbosch.jpg"
+  wikipedia: "https://en.wikipedia.org/wiki/St._John%27s_Cathedral,_%27s-Hertogenbosch"
+  website: "https://www.sint-jan.nl"
+
+- num: 2
+  name: "Hieronymus Bosch Art Center"
+  lat: 51.6880
+  lng: 5.3065
+  duration: "45 min"
+  major: true
+  photo: "The_Garden_of_Earthly_Delights_by_Bosch_High_Resolution.jpg"
+  wikipedia: "https://en.wikipedia.org/wiki/Jheronimus_Bosch_Art_Center"
+  website: "https://www.jheronimusbosch-artcenter.nl"
+
+- num: 3
+  name: "Markt & Stadhuis"
+  lat: 51.6878
+  lng: 5.3048
+  duration: "25 min"
+  major: false
+  photo: "Den_Bosch_Markt.jpg"
+  wikipedia: "https://en.wikipedia.org/wiki/%27s-Hertogenbosch"
+  website: "https://www.bossche-musea.nl"
+
+- num: 4
+  name: "Parade"
+  lat: 51.6882
+  lng: 5.3068
+  duration: "20 min"
+  major: false
+  photo: "Parade_'s-Hertogenbosch_met_Sint-Jan.jpg"
+  wikipedia: "https://en.wikipedia.org/wiki/%27s-Hertogenbosch"
+  website: "https://www.denbosch.nl"
+
+- num: 5
+  name: "Binnendieze (Underground Canals)"
+  lat: 51.6898
+  lng: 5.3044
+  duration: "45 min"
+  major: true
+  photo: "Binnendieze-Den_Bosch-001.JPG"
+  wikipedia: "https://en.wikipedia.org/wiki/Binnendieze"
+  website: "https://www.binnendieze.nl"
+
+- num: 6
+  name: "Noord-Brabants Museum"
+  lat: 51.6887
+  lng: 5.3027
+  duration: "60 min"
+  major: true
+  photo: "Voorgevel_Noordbrabants_Museum.jpg"
+  wikipedia: "https://en.wikipedia.org/wiki/Noord-Brabants_Museum"
+  website: "https://www.noordbrabantsmuseum.nl"
+
+- num: 7
+  name: "Jan de Groot — Bossche Bol"
+  lat: 51.6879
+  lng: 5.3052
+  duration: "15 min"
+  major: false
+  photo: "Bossche_bol.jpg"
+  wikipedia: "https://en.wikipedia.org/wiki/Bossche_bol"
+  website: "https://www.jandegrootpatisserie.nl"
