@@ -74,13 +74,25 @@ def fetch_news_items(html_path: str, limit: int = None, offset: int = 0, skip_en
 
 
 def summarize_with_ollama(title: str, source: str, model: str = "qwen3.5:0.8b-small") -> str:
-    """Generate summary using local Ollama."""
-    prompt = f"""Based on this tech news title and source, provide a 2-sentence technical summary of what this article likely covers:
+    """Generate summary using local Ollama.
+
+    Writes a two-sentence relevance blurb in the voice of an InfoQ editor
+    pitching the article in a ticket — what problem it speaks to and why
+    it's worth reading — rather than a neutral abstract.
+    """
+    prompt = f"""You are an InfoQ editor writing a short note in a ticket to pitch this article to a colleague.
 
 Title: {title}
 Source: {source}
 
-Write a concise, informative summary that a tech professional would find useful."""
+Write EXACTLY two sentences explaining why this article is relevant, in a natural, first-person voice.
+- Sentence 1: frame the problem or context the article speaks to (what a practitioner is struggling with or curious about).
+- Sentence 2: a brief take on why it's worth reading (what the reader will get out of it).
+
+Example of the tone and length:
+"I was lately struggling a lot trying to get good performance for my projects while keeping costs low. This article is quite an interesting read."
+
+Do not include the title, the URL, bullet points, labels, or any preamble — output only the two sentences."""
 
     try:
         result = subprocess.run(
@@ -159,23 +171,50 @@ def update_html(html_path: str, enriched_items: list) -> None:
         summary = item.get('summary', '').strip()
         infoq = item.get('infoq_relevance', '').strip()
 
-        # Remove any existing summary/infoq/badge sections
+        # Strip out any previously injected enrichment so this is idempotent.
+        article = re.sub(r'\s*<div class="news-enrichment">.*?</div>', '', article, flags=re.DOTALL)
         article = re.sub(r'\s*<p class="news-summary">.*?</p>', '', article, flags=re.DOTALL)
         article = re.sub(r'\s*<p class="news-infoq">.*?</p>', '', article, flags=re.DOTALL)
         article = re.sub(r'\s*<span class="infoq-badge[^>]*>.*?</span>', '', article, flags=re.DOTALL)
 
-        # Determine InfoQ badge
-        infoq_badge = ''
-        if infoq.startswith('[YES]'):
-            infoq_badge = '<span class="infoq-badge infoq-yes" title="Relevant for InfoQ.com">InfoQ Relevant ✓</span>'
-        elif infoq.startswith('[NO]'):
-            infoq_badge = '<span class="infoq-badge infoq-no" title="Not typical InfoQ content">Not InfoQ</span>'
+        # Parse "[YES|NO|SKIP] - reason" so we render a clean badge + reason
+        # instead of leaking the raw tag into the page.
+        status, reason = None, ''
+        m = re.match(r'\s*\[\s*(YES|NO|SKIP)\s*\]\s*[-:\u2013]?\s*(.*)', infoq, re.DOTALL)
+        if m:
+            status = m.group(1).upper()
+            reason = m.group(2).strip()
 
-        # Inject HTML
-        injection = f'''
-        <p class="news-summary"><strong>Summary:</strong> {summary}</p>
-        <p class="news-infoq"><strong>InfoQ Relevance:</strong> {infoq}</p>
-        {infoq_badge}'''
+        if status == 'YES':
+            badge = ('<span class="infoq-badge infoq-yes" '
+                     'title="Relevant for InfoQ.com">InfoQ Relevant ✓</span>')
+        elif status == 'NO':
+            badge = ('<span class="infoq-badge infoq-no" '
+                     'title="Not typical InfoQ content">Not InfoQ</span>')
+        else:
+            badge = ''
+
+        infoq_line = ''
+        if badge:
+            reason_html = (
+                f'<span class="news-infoq-reason">{reason}</span>' if reason else ''
+            )
+            infoq_line = (
+                '\n            <p class="news-infoq">'
+                f'{badge} {reason_html}</p>'
+            )
+
+        summary_html = (
+            '\n            <p class="news-summary">'
+            '<span class="label">Why it\'s relevant</span>'
+            f'{summary}</p>'
+        ) if summary else ''
+
+        injection = (
+            '\n          <div class="news-enrichment">'
+            f'{summary_html}{infoq_line}'
+            '\n          </div>'
+        )
 
         article = article.replace('</article>', injection + '\n        </article>')
         return article
