@@ -712,12 +712,30 @@ def make_id(s):
 
 
 SEE_ALSO_HTML = (
-    '{{#SeeAlso}}<div style="font-size:13px;text-align:center;color:#8b5cf6;'
-    'margin-top:10px;font-style:italic;">{{SeeAlso}}</div>{{/SeeAlso}}'
+    '{{#SeeAlso}}<div class="see-also">{{SeeAlso}}</div>{{/SeeAlso}}'
 )
 
+CARD_CSS = """\
+.card {
+  font-family: 'Helvetica Neue', Arial, sans-serif;
+  background: #1a1a2e; color: #eee; padding: 20px;
+}
+hr { border: none; border-top: 1px solid #333; margin: 16px 0; }
+.see-also {
+  font-size: 13px; text-align: center; color: #8b5cf6;
+  margin-top: 10px; font-style: italic;
+}
+a.hint { font-size: 14px; color: #555; text-decoration: none; }
+a.hint:hover { color: #8b5cf6; }
+.intro { text-align: left; line-height: 1.7; }
+.intro h2 { text-align: center; margin-bottom: 16px; }
+.intro ul { padding-left: 20px; }
+.intro li { margin-bottom: 6px; }
+.intro .key { color: #8b5cf6; font-weight: 600; }
+"""
+
 MODEL = genanki.Model(
-    make_id("jlpt_n5_vocab_model_v3"),
+    make_id("jlpt_n5_vocab_model_v4"),
     "JLPT N5 Vocabulary",
     fields=[
         {"name": "Kanji"},
@@ -733,11 +751,15 @@ MODEL = genanki.Model(
             "qfmt": (
                 '<div style="font-size:48px;text-align:center;font-family:serif;">'
                 "{{Kanji}}</div>"
-                '<div style="font-size:18px;text-align:center;color:#888;margin-top:8px;">'
-                "{{Reading}}</div>"
+                '<div style="text-align:center;margin-top:8px;">'
+                "{{hint:Reading}}</div>"
             ),
             "afmt": (
-                "{{FrontSide}}<hr>"
+                '<div style="font-size:48px;text-align:center;font-family:serif;">'
+                "{{Kanji}}</div>"
+                '<div style="font-size:18px;text-align:center;color:#888;margin-top:8px;">'
+                "{{Reading}}</div>"
+                "<hr>"
                 '<div style="font-size:14px;text-align:center;color:#aaa;">'
                 "{{Romaji}} — {{PartOfSpeech}}</div>"
                 '<div style="font-size:22px;text-align:center;margin-top:12px;">'
@@ -762,16 +784,56 @@ MODEL = genanki.Model(
             ) + SEE_ALSO_HTML,
         },
     ],
-    css=(
-        ".card { font-family: 'Helvetica Neue', Arial, sans-serif; "
-        "background: #1a1a2e; color: #eee; padding: 20px; }"
-        "hr { border: none; border-top: 1px solid #333; margin: 16px 0; }"
-    ),
+    css=CARD_CSS,
 )
+
+INTRO_MODEL = genanki.Model(
+    make_id("jlpt_n5_intro_model_v1"),
+    "JLPT N5 — Intro",
+    fields=[{"name": "Content"}],
+    templates=[{
+        "name": "Intro",
+        "qfmt": '{{Content}}',
+        "afmt": '{{Content}}',
+    }],
+    css=CARD_CSS,
+)
+
+INTRO_HTML = """\
+<div class="intro">
+<h2>JLPT N5 Vocabulary Deck</h2>
+<p>676 words across 11 chapters. Each word has two card types:</p>
+<ul>
+  <li><span class="key">Recognize</span> — see the kanji, recall the meaning</li>
+  <li><span class="key">Recall</span> — see the English, recall the Japanese</li>
+</ul>
+<h3>Reading / Furigana</h3>
+<p>On <span class="key">Recognize</span> cards, the reading (furigana) is \
+<strong>hidden by default</strong>. \
+If you need a hint, tap <em>"Show Reading"</em> to reveal it.</p>
+<p>On the <strong>answer side</strong>, the full reading is always shown.</p>
+<h3>Tips</h3>
+<ul>
+  <li>Study one chapter at a time, or shuffle the whole deck</li>
+  <li>Cards with related forms show a purple <em>"See also"</em> note</li>
+  <li>Suspend this intro card once you've read it</li>
+</ul>
+</div>
+"""
 
 PARENT_NAME = "JLPT N5 Vocabulary"
 decks = []
 total = 0
+
+intro_deck = genanki.Deck(make_id(f"{PARENT_NAME}::00 — How to use this deck"), f"{PARENT_NAME}::00 — How to use this deck")
+intro_note = genanki.Note(
+    model=INTRO_MODEL,
+    fields=[INTRO_HTML],
+    guid=genanki.guid_for("jlpt_n5_intro"),
+)
+intro_deck.add_note(intro_note)
+decks.append(intro_deck)
+print("  00 — How to use this deck: 1 intro card")
 
 for chapter_name, entries in CHAPTERS:
     deck_name = f"{PARENT_NAME}::{chapter_name}"
