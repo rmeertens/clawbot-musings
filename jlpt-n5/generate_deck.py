@@ -725,17 +725,53 @@ hr { border: none; border-top: 1px solid #333; margin: 16px 0; }
   font-size: 13px; text-align: center; color: #8b5cf6;
   margin-top: 10px; font-style: italic;
 }
-a.hint { font-size: 14px; color: #555; text-decoration: none; }
-a.hint:hover { color: #8b5cf6; }
+.reading-box {
+  font-size: 18px; text-align: center; color: #888; margin-top: 8px;
+}
+.reading-toggle {
+  font-size: 13px; text-align: center; margin-top: 6px;
+}
+.reading-toggle a {
+  color: #555; text-decoration: none; cursor: pointer;
+}
+.reading-toggle a:hover { color: #8b5cf6; }
 .intro { text-align: left; line-height: 1.7; }
 .intro h2 { text-align: center; margin-bottom: 16px; }
 .intro ul { padding-left: 20px; }
 .intro li { margin-bottom: 6px; }
 .intro .key { color: #8b5cf6; font-weight: 600; }
+.setting-toggle {
+  display: inline-block; padding: 6px 14px; border-radius: 8px;
+  background: #2a2a4e; border: 1px solid #444; color: #ccc;
+  cursor: pointer; font-size: 14px; margin: 4px;
+}
+.setting-toggle.active {
+  background: #8b5cf6; border-color: #8b5cf6; color: #fff;
+}
 """
 
+READING_JS = """\
+<script>
+(function() {
+  var el = document.getElementById('reading');
+  var toggle = document.getElementById('reading-tap');
+  var show;
+  try { show = localStorage.getItem('jlpt_show_reading') !== 'false'; }
+  catch(e) { show = true; }
+  if (show) { el.style.display = ''; toggle.textContent = 'tap to hide reading'; }
+  else { el.style.display = 'none'; toggle.textContent = 'tap to show reading'; }
+  toggle.onclick = function(e) {
+    e.preventDefault();
+    show = !show;
+    try { localStorage.setItem('jlpt_show_reading', show); } catch(e) {}
+    if (show) { el.style.display = ''; toggle.textContent = 'tap to hide reading'; }
+    else { el.style.display = 'none'; toggle.textContent = 'tap to show reading'; }
+  };
+})();
+</script>"""
+
 MODEL = genanki.Model(
-    make_id("jlpt_n5_vocab_model_v4"),
+    make_id("jlpt_n5_vocab_model_v5"),
     "JLPT N5 Vocabulary",
     fields=[
         {"name": "Kanji"},
@@ -751,9 +787,10 @@ MODEL = genanki.Model(
             "qfmt": (
                 '<div style="font-size:48px;text-align:center;font-family:serif;">'
                 "{{Kanji}}</div>"
-                '<div style="text-align:center;margin-top:8px;">'
-                "{{hint:Reading}}</div>"
-            ),
+                '<div id="reading" class="reading-box">{{Reading}}</div>'
+                '<div class="reading-toggle">'
+                '<a id="reading-tap">tap to show reading</a></div>'
+            ) + READING_JS,
             "afmt": (
                 '<div style="font-size:48px;text-align:center;font-family:serif;">'
                 "{{Kanji}}</div>"
@@ -807,10 +844,17 @@ INTRO_HTML = """\
   <li><span class="key">Recognize</span> — see the kanji, recall the meaning</li>
   <li><span class="key">Recall</span> — see the English, recall the Japanese</li>
 </ul>
-<h3>Reading / Furigana</h3>
-<p>On <span class="key">Recognize</span> cards, the reading (furigana) is \
-<strong>hidden by default</strong>. \
-If you need a hint, tap <em>"Show Reading"</em> to reveal it.</p>
+<h3>Reading / Furigana Setting</h3>
+<p>On <span class="key">Recognize</span> cards you can choose whether the \
+reading (furigana) is shown or hidden by default. Pick your preference below \
+— it will be remembered across sessions.</p>
+<div style="text-align:center;margin:16px 0;">
+  <span id="btn-show" class="setting-toggle" onclick="setPref(true)">Show reading</span>
+  <span id="btn-hide" class="setting-toggle" onclick="setPref(false)">Hide reading</span>
+</div>
+<p style="text-align:center;font-size:13px;color:#888;" id="pref-status"></p>
+<p>You can also tap <em>"tap to show/hide reading"</em> on any card to toggle \
+it and change the default.</p>
 <p>On the <strong>answer side</strong>, the full reading is always shown.</p>
 <h3>Tips</h3>
 <ul>
@@ -819,6 +863,27 @@ If you need a hint, tap <em>"Show Reading"</em> to reveal it.</p>
   <li>Suspend this intro card once you've read it</li>
 </ul>
 </div>
+<script>
+function setPref(show) {
+  try { localStorage.setItem('jlpt_show_reading', show); } catch(e) {}
+  updateUI(show);
+}
+function updateUI(show) {
+  document.getElementById('btn-show').className =
+    'setting-toggle' + (show ? ' active' : '');
+  document.getElementById('btn-hide').className =
+    'setting-toggle' + (!show ? ' active' : '');
+  document.getElementById('pref-status').textContent =
+    show ? 'Reading will be visible on new cards'
+         : 'Reading will be hidden on new cards (tap to reveal)';
+}
+(function() {
+  var show;
+  try { show = localStorage.getItem('jlpt_show_reading') !== 'false'; }
+  catch(e) { show = true; }
+  updateUI(show);
+})();
+</script>
 """
 
 PARENT_NAME = "JLPT N5 Vocabulary"
