@@ -76,10 +76,10 @@ def fetch_news_items(html_path: str, limit: int = None, offset: int = 0, skip_en
 def summarize_with_ollama(title: str, source: str, model: str = "qwen3.5:0.8b-small") -> str:
     """Generate summary using local Ollama.
 
-    Writes a two-sentence, first-person relevance blurb from the perspective
-    of an InfoQ editor who is also a hands-on software engineer — biased
-    toward machine learning and deploying new applications, and toward
-    things that can be applied to their own stack immediately.
+    Writes a two-sentence, first-person, forward-looking note from the
+    perspective of an InfoQ editor who is also a hands-on software engineer
+    — biased toward machine learning and deploying new applications, and
+    focused on what becomes possible or improves thanks to this article.
     """
     prompt = f"""You are writing a short note to yourself about a link you just came across. Stay fully in character:
 
@@ -93,12 +93,14 @@ You care less about pure research, pop culture, or general business news unless 
 Title: {title}
 Source: {source}
 
-Write EXACTLY two sentences, in first person ("I ...", "my stack", "my team"), in a natural, slightly informal voice — the way you'd jot a note in a ticket for yourself.
-- Sentence 1: frame the concrete problem, question, or itch in your own work that this article speaks to.
-- Sentence 2: say briefly what you think you'd get out of reading it — ideas you could apply, a technique to try, a pitfall to avoid, or a reason it probably isn't worth your time.
+Write EXACTLY two sentences, in first person ("I ...", "my stack", "my team"), in a natural, upbeat, forward-looking voice — the way you'd jot a quick note in a ticket about something exciting you want to try.
+- Sentence 1: describe what this makes possible, easier, faster, or better — either for the field or for something on your own stack. Focus on the opportunity or improvement, not on past pain.
+- Sentence 2: say briefly what you'd do with it — a technique to try, an idea to apply, an integration to explore, or who on the team should see it.
+
+Do NOT start with "I was struggling", "I used to", "I've been having trouble", or any similarly backward-looking, problem-focused framing. Lead with the new capability, improvement, or idea.
 
 Tone and length reference:
-"I was lately struggling a lot trying to get good performance for my projects while keeping costs low. This article is quite an interesting read."
+"This looks like a clean way to cut inference costs on small models without giving up quality, which is exactly the kind of lever I want on my stack. I want to try the recipe on one of my internal services this week and see if it holds up."
 
 Hard rules:
 - Output ONLY the two sentences. No title, no URL, no bullet points, no labels, no preamble, no markdown."""
