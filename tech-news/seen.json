@@ -2398,5 +2398,107 @@
     "source": "Grafana Blog",
     "first_seen": "2026-04-14T08:24:54.356066+00:00",
     "published": "2026-04-13T20:43:59+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/spring-ai-sdk-for-amazon-bedrock-agentcore-is-now-generally-available": {
+    "title": "Spring AI SDK for Amazon Bedrock AgentCore is now Generally Available",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-04-14T13:01:32.940026+00:00",
+    "published": "2026-04-14T12:40:47+00:00"
+  },
+  "https://www.phoronix.com/news/RADV-Merges-Descriptor-Heap": {
+    "title": "Mesa 26.1 RADV Driver Merges Vulkan Descriptor Heap As Big Improvement For Steam Play",
+    "source": "Phoronix",
+    "first_seen": "2026-04-14T13:01:32.940026+00:00",
+    "published": "2026-04-14T12:23:08+00:00"
+  },
+  "https://realpython.com/quizzes/vector-databases-embeddings-chromadb": {
+    "title": "Quiz: Vector Databases and Embeddings With ChromaDB",
+    "source": "Real Python",
+    "first_seen": "2026-04-14T13:01:32.940026+00:00",
+    "published": "2026-04-14T12:00:00+00:00"
+  },
+  "https://realpython.com/quizzes/explore-dataset-with-pandas": {
+    "title": "Quiz: Explore Your Dataset With pandas",
+    "source": "Real Python",
+    "first_seen": "2026-04-14T13:01:32.940026+00:00",
+    "published": "2026-04-14T12:00:00+00:00"
+  },
+  "https://realpython.com/quizzes/altair-python": {
+    "title": "Quiz: Altair: Declarative Charts With Python",
+    "source": "Real Python",
+    "first_seen": "2026-04-14T13:01:32.940026+00:00",
+    "published": "2026-04-14T12:00:00+00:00"
+  },
+  "https://news.ycombinator.com/item?id=47764215": {
+    "title": "Ask HN: I quit my job over weaponized robots to start my own venture",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-14T13:01:32.940026+00:00",
+    "published": "2026-04-14T11:31:19+00:00"
+  },
+  "https://nim-lang.org/blog/2026/04/07/nimconf-2026.html": {
+    "title": "NimConf 2026: Dates Announced, Registrations Open",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-14T13:01:32.940026+00:00",
+    "published": "2026-04-14T11:19:10+00:00"
+  },
+  "https://www.schneier.com/blog/archives/2026/04/how-hackers-are-thinking-about-ai.html": {
+    "title": "How Hackers Are Thinking About AI",
+    "source": "Schneier on Security",
+    "first_seen": "2026-04-14T13:01:32.940026+00:00",
+    "published": "2026-04-14T10:49:50+00:00"
+  },
+  "https://steveklabnik.github.io/jujutsu-tutorial/introduction/what-is-jj-and-why-should-i-care.html": {
+    "title": "What is jj and why should I care?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-14T13:01:32.940026+00:00",
+    "published": "2026-04-14T10:33:39+00:00"
+  },
+  "https://www.phoronix.com/news/KDE-Per-Screen-Virt-Desktops": {
+    "title": "KDE Merges Per-Screen Virtual Desktops After 21 Years",
+    "source": "Phoronix",
+    "first_seen": "2026-04-14T13:01:32.940026+00:00",
+    "published": "2026-04-14T10:24:13+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.1-Power-Management": {
+    "title": "AMD Ready With CPPC Performance Priority & Dynamic/Raw EPP In Linux 7.1",
+    "source": "Phoronix",
+    "first_seen": "2026-04-14T13:01:32.940026+00:00",
+    "published": "2026-04-14T10:10:00+00:00"
+  },
+  "https://stratechery.com/2026/openais-memos-frontier-amazon-and-anthropic": {
+    "title": "OpenAI’s Memos, Frontier, Amazon and Anthropic",
+    "source": "Stratechery",
+    "first_seen": "2026-04-14T13:01:32.940026+00:00",
+    "published": "2026-04-14T10:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/Haiku-OS-ARM64-Booting": {
+    "title": "BeOS-Inspired Haiku OS Gets ARM64 Port Booting",
+    "source": "Phoronix",
+    "first_seen": "2026-04-14T13:01:32.940026+00:00",
+    "published": "2026-04-14T09:57:47+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.1-Fast-ARM64-CRC64-NVMe": {
+    "title": "Linux 7.1 Lands ARM64 NEON-Accelerated CRC64-NVMe For ~6x Improvement",
+    "source": "Phoronix",
+    "first_seen": "2026-04-14T13:01:32.940026+00:00",
+    "published": "2026-04-14T09:50:00+00:00"
+  },
+  "https://blog.google/company-news/outreach-and-initiatives/creating-opportunity/ai-economy-forum": {
+    "title": "Bringing people together at AI for the Economy Forum",
+    "source": "Google AI Blog",
+    "first_seen": "2026-04-14T13:01:32.940026+00:00",
+    "published": "2026-04-14T09:00:00+00:00"
+  },
+  "https://ciphercue.com/blog/ransomware-claims-grew-faster-than-security-spend-2025": {
+    "title": "Ransomware Is Growing Three Times Faster Than the Spending Meant to Stop It",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-14T13:01:32.940026+00:00",
+    "published": "2026-04-14T08:52:12+00:00"
+  },
+  "https://rareese.com/posts/backblaze": {
+    "title": "Backblaze has stopped backing up your data",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-14T13:01:32.940026+00:00",
+    "published": "2026-04-14T08:30:27+00:00"
   }
 }
