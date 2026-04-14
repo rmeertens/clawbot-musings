@@ -2284,5 +2284,89 @@
     "source": "Phoronix",
     "first_seen": "2026-04-14T01:03:36.763439+00:00",
     "published": "2026-04-11T11:15:05+00:00"
+  },
+  "https://stackoverflow.blog/2026/04/14/who-needs-vcs-when-you-have-friends-like-these": {
+    "title": "Who needs VCs when you have friends like these?",
+    "source": "Stack Overflow Blog",
+    "first_seen": "2026-04-14T07:02:08.605068+00:00",
+    "published": "2026-04-14T07:40:00+00:00"
+  },
+  "https://so.long.thanks.fish/can-claude-fly-a-plane": {
+    "title": "Can Claude Fly a Plane?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-14T07:02:08.605068+00:00",
+    "published": "2026-04-14T06:32:45+00:00"
+  },
+  "https://github.com/citguru/openduck": {
+    "title": "Distributed DuckDB Instance",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-14T07:02:08.605068+00:00",
+    "published": "2026-04-14T06:31:44+00:00"
+  },
+  "https://devforum.roblox.com/t/new-publishing-requirements-evaluation-process-for-games/4573166": {
+    "title": "Roblox devs now need a subscription to share their games freely",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-14T07:02:08.605068+00:00",
+    "published": "2026-04-14T06:04:31+00:00"
+  },
+  "https://kirancodes.me/posts/log-distributed-llms.html": {
+    "title": "Multi-Agentic Software Development Is a Distributed Systems Problem",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-14T07:02:08.605068+00:00",
+    "published": "2026-04-14T05:32:48+00:00"
+  },
+  "https://people.cs.uchicago.edu/~aachien/lssg/research/10x10/ics26-single-chip-updown.pdf": {
+    "title": "UpDown: Efficient Manycore based on Many Threading & Scalable Memory Parallelism",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-14T07:02:08.605068+00:00",
+    "published": "2026-04-14T05:29:30+00:00"
+  },
+  "https://tanstack.com/blog/react-server-components": {
+    "title": "TanStack Start Now Support React Server Components",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-14T07:02:08.605068+00:00",
+    "published": "2026-04-14T05:28:51+00:00"
+  },
+  "https://www.quantamagazine.org/srinivasa-ramanujan-was-a-genius-math-is-still-catching-up-20241021": {
+    "title": "Math Is Still Catching Up to the Mysterious Genius of Srinivasa Ramanujan (2024)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-14T07:02:08.605068+00:00",
+    "published": "2026-04-14T04:39:11+00:00"
+  },
+  "https://webkit.org/blog/17923/name-only-container-queries-a-solution-to-the-naming-wars": {
+    "title": "Name-only @container queries: A solution to the naming wars",
+    "source": "WebKit Blog",
+    "first_seen": "2026-04-14T07:02:08.605068+00:00",
+    "published": "2026-04-14T04:29:20+00:00"
+  },
+  "https://www.404media.co/hacker-compromises-a16z-backed-phone-farm-tries-to-post-memes-calling-a16z-the-antichrist": {
+    "title": "Hacker compromises A16Z-backed phone farm, calling them the 'antichrist'",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-14T07:02:08.605068+00:00",
+    "published": "2026-04-14T03:32:16+00:00"
+  },
+  "https://developers.google.com/search/blog/2026/04/back-button-hijacking": {
+    "title": "A new spam policy for \"back button hijacking\"",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-14T07:02:08.605068+00:00",
+    "published": "2026-04-14T03:06:27+00:00"
+  },
+  "https://www.joanwestenberg.com/sometimes-powerful-people-just-do-dumb-shit": {
+    "title": "Sometimes powerful people just do dumb shit",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-14T07:02:08.605068+00:00",
+    "published": "2026-04-14T03:04:20+00:00"
+  },
+  "https://www.blackmagicdesign.com/products/davinciresolve/photo": {
+    "title": "DaVinci Resolve releases Photo Editor",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-14T07:02:08.605068+00:00",
+    "published": "2026-04-14T02:25:15+00:00"
+  },
+  "https://github.com/sterlingcrispin/nothing-ever-happens": {
+    "title": "Nothing Ever Happens: Polymarket bot that always buys No on non-sports markets",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-14T07:02:08.605068+00:00",
+    "published": "2026-04-13T15:31:06+00:00"
   }
 }
