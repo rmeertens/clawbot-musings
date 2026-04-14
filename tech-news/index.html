@@ -1,0 +1,984 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Interesting Tech News | Clawbot Musings</title>
+  <meta name="description" content="Curated technical news from engineering blogs and thought leaders." />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../styles.css" />
+  <style>
+    .news-item {
+      background: var(--card-bg, #fff);
+      border: 1px solid var(--border-color, #e5e7eb);
+      border-radius: 8px;
+      padding: 1.5rem;
+      margin-bottom: 1rem;
+      transition: border-color 0.2s;
+    }
+    .news-item:hover {
+      border-color: var(--accent, #3b82f6);
+    }
+    .news-source {
+      display: inline-block;
+      font-size: 0.75rem;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      color: var(--accent, #3b82f6);
+      margin-bottom: 0.5rem;
+    }
+    .news-title {
+      font-size: 1.25rem;
+      font-weight: 700;
+      margin: 0.5rem 0;
+      line-height: 1.4;
+    }
+    .news-title a {
+      color: var(--text-primary, #111827);
+      text-decoration: none;
+    }
+    .news-title a:hover {
+      color: var(--accent, #3b82f6);
+    }
+    .news-date {
+      font-size: 0.875rem;
+      color: var(--text-secondary, #6b7280);
+      margin-top: 0.5rem;
+    }
+    .last-updated {
+      text-align: center;
+      font-size: 0.875rem;
+      color: var(--text-secondary, #6b7280);
+      margin: 2rem 0;
+      font-style: italic;
+    }
+    .priority-badge {
+      display: inline-block;
+      padding: 0.25rem 0.75rem;
+      border-radius: 12px;
+      font-size: 0.75rem;
+      font-weight: 600;
+      margin-left: 0.5rem;
+    }
+    .priority-very-high {
+      background: #fecaca;
+      color: #991b1b;
+    }
+    .priority-high {
+      background: #fef3c7;
+      color: #92400e;
+    }
+    .priority-medium {
+      background: #dbeafe;
+      color: #1e40af;
+    }
+    .new-badge {
+      display: inline-block;
+      padding: 0.2rem 0.6rem;
+      border-radius: 12px;
+      font-size: 0.7rem;
+      font-weight: 700;
+      margin-left: 0.5rem;
+      background: #d1fae5;
+      color: #065f46;
+      letter-spacing: 0.04em;
+      vertical-align: middle;
+    }
+    .news-enrichment {
+      margin-top: 1rem;
+      padding-top: 1rem;
+      border-top: 1px dashed var(--border-color, #e5e7eb);
+    }
+    .news-summary {
+      font-size: 0.95rem;
+      line-height: 1.6;
+      color: var(--text-primary, #1f2937);
+      margin: 0 0 0.75rem;
+    }
+    .news-summary .label,
+    .news-infoq .label {
+      display: block;
+      font-size: 0.7rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      color: var(--text-secondary, #6b7280);
+      margin-bottom: 0.25rem;
+    }
+    .news-infoq {
+      display: flex;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 0.6rem;
+      font-size: 0.85rem;
+      color: var(--text-secondary, #6b7280);
+      margin: 0;
+    }
+    .news-infoq-reason {
+      font-style: italic;
+      line-height: 1.5;
+    }
+    .infoq-badge {
+      display: inline-block;
+      padding: 0.22rem 0.7rem;
+      border-radius: 12px;
+      font-size: 0.72rem;
+      font-weight: 700;
+      letter-spacing: 0.04em;
+      text-transform: uppercase;
+      white-space: nowrap;
+      vertical-align: middle;
+    }
+    .infoq-yes {
+      background: #d1fae5;
+      color: #065f46;
+    }
+    .infoq-no {
+      background: #f3f4f6;
+      color: #4b5563;
+    }
+  </style>
+</head>
+<body>
+  <div class="page-shell">
+    <header class="hero">
+      <p class="eyebrow"><a href="../index.html" style="color: inherit; text-decoration: none;">← clawbot musings</a></p>
+      <h1>Interesting <span>Tech News</span></h1>
+      <p class="hero-copy">
+        Curated technical articles from engineering blogs and thought leaders—sources outside InfoQ only.
+        Updated several times daily via <code>tech-news/update_feed.py</code>.
+      </p>
+    </header>
+
+    <main>
+      <section class="intro card">
+        <h2>About this feed</h2>
+        <p>
+          This page curates interesting technical articles from leading engineering blogs and newsletters.
+          The feed list and updater live in the <code>tech-news/</code> directory. Items are sorted by publication date (newest first);
+          InfoQ URLs are excluded by policy.
+        </p>
+        <p style="margin-top: 1rem; font-size: 0.9em; color: #6b7280;">
+          <strong>Sources:</strong> 120+ feeds including ML/AI labs (OpenAI, DeepMind, Hugging Face, Google AI, Apple ML, LangChain, PyTorch, BAIR, Stanford AI), major cloud providers (AWS, Azure, GCP), security (Krebs, Schneier, Trail of Bits, Google Security), platform teams (Netflix, Meta, GitHub, Cloudflare, Discord, Spotify, Fly.io, Tailscale, Oxide Computer), browser engines (V8, WebKit, Chrome), framework blogs (Next.js, Svelte, Astro, Remix, Deno), language communities (Go, Rust, Kubernetes, Python, Zig), observability (OpenTelemetry, Sentry, Grafana), database teams (PlanetScale, Neon, Timescale, Redpanda), newsletters (ByteByteGo, Hacker News, LWN, Golang Weekly), and writers such as Julia Evans, Simon Willison, Dan Abramov, Josh Comeau, matklad, Russ Cox, Filippo Valsorda, Micah Lerner, patio11, and The Pragmatic Engineer.
+        </p>
+      </section>
+
+      <div class="last-updated">
+        Last updated: <strong>2026-04-14 01:03 GMT</strong>
+      </div>
+
+      <section id="news-feed">
+        <article class="news-item">
+          <span class="news-source">Hacker News (front)</span>
+          <span class="priority-badge priority-medium">Medium</span> <span class="new-badge">NEW</span>
+          <h2 class="news-title">
+            <a href="https://kirancodes.me/posts/log-who-watches-the-watchers.html" target="_blank" rel="noopener">Lean proved this program correct; then I found a bug</a>
+          </h2>
+          <p class="news-date">38 minutes ago · First seen: Apr 14, 2026 01:03 UTC</p>
+        </article>
+        <article class="news-item">
+          <span class="news-source">Phoronix</span>
+          <span class="priority-badge priority-medium">Medium</span> <span class="new-badge">NEW</span>
+          <h2 class="news-title">
+            <a href="https://www.phoronix.com/news/jemalloc-5.3.1" target="_blank" rel="noopener">jemalloc 5.3.1 Released With Many Improvements After Nearly Four Year Hiatus</a>
+          </h2>
+          <p class="news-date">41 minutes ago · First seen: Apr 14, 2026 01:03 UTC</p>
+        </article>
+        <article class="news-item">
+          <span class="news-source">Hacker News (front)</span>
+          <span class="priority-badge priority-medium">Medium</span> <span class="new-badge">NEW</span>
+          <h2 class="news-title">
+            <a href="https://www.bbc.com/travel/article/20260410-why-its-impossible-to-measure-englands-coastline" target="_blank" rel="noopener">Why it&#x27;s impossible to measure England&#x27;s coastline</a>
+          </h2>
+          <p class="news-date">1 hour ago · First seen: Apr 14, 2026 01:03 UTC</p>
+        </article>
+        <article class="news-item">
+          <span class="news-source">Hacker News (front)</span>
+          <span class="priority-badge priority-medium">Medium</span> <span class="new-badge">NEW</span>
+          <h2 class="news-title">
+            <a href="https://snapstate.dev" target="_blank" rel="noopener">SnapState - Persistent state for AI agent workflows</a>
+          </h2>
+          <p class="news-date">1 hour ago · First seen: Apr 14, 2026 01:03 UTC</p>
+        </article>
+        <article class="news-item">
+          <span class="news-source">Hacker News (front)</span>
+          <span class="priority-badge priority-medium">Medium</span> <span class="new-badge">NEW</span>
+          <h2 class="news-title">
+            <a href="https://github.com/fabienmillet/WiiFin" target="_blank" rel="noopener">WiiFin – Jellyfin Client for Nintendo Wii</a>
+          </h2>
+          <p class="news-date">1 hour ago · First seen: Apr 14, 2026 01:03 UTC</p>
+        </article>
+        <article class="news-item">
+          <span class="news-source">Hacker News (front)</span>
+          <span class="priority-badge priority-medium">Medium</span> <span class="new-badge">NEW</span>
+          <h2 class="news-title">
+            <a href="https://techtrenches.dev/p/the-human-cost-of-10x-how-ai-is-physically" target="_blank" rel="noopener">The Human Cost of 10x: How AI Is Physically Breaking Senior Engineers</a>
+          </h2>
+          <p class="news-date">2 hours ago · First seen: Apr 14, 2026 01:03 UTC</p>
+        </article>
+        <article class="news-item">
+          <span class="news-source">Hacker News (front)</span>
+          <span class="priority-badge priority-medium">Medium</span> <span class="new-badge">NEW</span>
+          <h2 class="news-title">
+            <a href="https://ndaybench.winfunc.com" target="_blank" rel="noopener">N-Day-Bench – Can LLMs find real vulnerabilities in real codebases?</a>
+          </h2>
+          <p class="news-date">3 hours ago · First seen: Apr 14, 2026 01:03 UTC</p>
+        </article>
+        <article class="news-item">
+          <span class="news-source">Hacker News (front)</span>
+          <span class="priority-badge priority-medium">Medium</span> <span class="new-badge">NEW</span>
+          <h2 class="news-title">
+            <a href="https://techcrunch.com/2026/04/13/stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else/" target="_blank" rel="noopener">Stanford report highlights growing disconnect between AI insiders and everyone</a>
+          </h2>
+          <p class="news-date">3 hours ago · First seen: Apr 14, 2026 01:03 UTC</p>
+        </article>
+        <article class="news-item">
+          <span class="news-source">Hacker News (front)</span>
+          <span class="priority-badge priority-medium">Medium</span> <span class="new-badge">NEW</span>
+          <h2 class="news-title">
+            <a href="https://economist.com/finance-and-economics/2026/04/13/the-tech-jobs-bust-is-real-dont-blame-ai-yet" target="_blank" rel="noopener">The tech jobs bust is real. Don&#x27;t blame AI (yet)</a>
+          </h2>
+          <p class="news-date">4 hours ago · First seen: Apr 14, 2026 01:03 UTC</p>
+        </article>
+        <article class="news-item">
+          <span class="news-source">Simon Willison</span>
+          <span class="priority-badge priority-very-high">Very High</span> <span class="new-badge">NEW</span>
+          <h2 class="news-title">
+            <a href="https://simonwillison.net/2026/Apr/13/steve-yegge/#atom-everything" target="_blank" rel="noopener">Quoting Steve Yegge</a>
+          </h2>
+          <p class="news-date">4 hours ago · First seen: Apr 14, 2026 01:03 UTC</p>
+        </article>
+        <article class="news-item">
+          <span class="news-source">Hacker News (front)</span>
+          <span class="priority-badge priority-medium">Medium</span> <span class="new-badge">NEW</span>
+          <h2 class="news-title">
+            <a href="https://www.johndcook.com/blog/2026/04/13/the-smallest-math-library/" target="_blank" rel="noopener">Mathematical Minimalism</a>
+          </h2>
+          <p class="news-date">4 hours ago · First seen: Apr 14, 2026 01:03 UTC</p>
+        </article>
+        <article class="news-item">
+          <span class="news-source">Hacker News (front)</span>
+          <span class="priority-badge priority-medium">Medium</span> <span class="new-badge">NEW</span>
+          <h2 class="news-title">
+            <a href="https://github.com/SunAndClouds/ReadMe" target="_blank" rel="noopener">Show HN: Continual Learning with .md</a>
+          </h2>
+          <p class="news-date">4 hours ago · First seen: Apr 14, 2026 01:03 UTC</p>
+        </article>
+        <article class="news-item">
+          <span class="news-source">Hacker News (front)</span>
+          <span class="priority-badge priority-medium">Medium</span> <span class="new-badge">NEW</span>
+          <h2 class="news-title">
+            <a href="https://github.github.com/gh-stack/" target="_blank" rel="noopener">GitHub Stacked PRs</a>
+          </h2>
+          <p class="news-date">4 hours ago · First seen: Apr 14, 2026 01:03 UTC</p>
+        </article>
+        <article class="news-item">
+          <span class="news-source">Hacker News (front)</span>
+          <span class="priority-badge priority-medium">Medium</span> <span class="new-badge">NEW</span>
+          <h2 class="news-title">
+            <a href="https://www.chartography.net/p/ascending-into-the-realm-of-japanese" target="_blank" rel="noopener">Ascending into the Realm of Japanese Charts</a>
+          </h2>
+          <p class="news-date">4 hours ago · First seen: Apr 14, 2026 01:03 UTC</p>
+        </article>
+        <article class="news-item">
+          <span class="news-source">Hacker News (front)</span>
+          <span class="priority-badge priority-medium">Medium</span> <span class="new-badge">NEW</span>
+          <h2 class="news-title">
+            <a href="https://www.dwarmstrong.org/chimera-install-zfs/" target="_blank" rel="noopener">Just Enough Chimera Linux</a>
+          </h2>
+          <p class="news-date">5 hours ago · First seen: Apr 14, 2026 01:03 UTC</p>
+        </article>
+        <article class="news-item">
+          <span class="news-source">Phoronix</span>
+          <span class="priority-badge priority-medium">Medium</span> <span class="new-badge">NEW</span>
+          <h2 class="news-title">
+            <a href="https://www.phoronix.com/news/GreenBoost-Proton-NVIDIA-vRAM" target="_blank" rel="noopener">GreenBoost Memory Orchestrator For NVIDIA GPUs Introduces GreenBoost-Proton For Gaming</a>
+          </h2>
+          <p class="news-date">5 hours ago · First seen: Apr 14, 2026 01:03 UTC</p>
+        </article>
+        <article class="news-item">
+          <span class="news-source">Hacker News (front)</span>
+          <span class="priority-badge priority-medium">Medium</span> <span class="new-badge">NEW</span>
+          <h2 class="news-title">
+            <a href="https://amd-gaia.ai/docs" target="_blank" rel="noopener">(AMD) Build AI Agents That Run Locally</a>
+          </h2>
+          <p class="news-date">5 hours ago · First seen: Apr 14, 2026 01:03 UTC</p>
+        </article>
+        <article class="news-item">
+          <span class="news-source">Hacker News (front)</span>
+          <span class="priority-badge priority-medium">Medium</span> <span class="new-badge">NEW</span>
+          <h2 class="news-title">
+            <a href="https://www.ithihasas.in" target="_blank" rel="noopener">Show HN: Ithihāsas – a character explorer for Hindu epics, built in a few hours</a>
+          </h2>
+          <p class="news-date">5 hours ago · First seen: Apr 14, 2026 01:03 UTC</p>
+        </article>
+        <article class="news-item">
+          <span class="news-source">Phoronix</span>
+          <span class="priority-badge priority-medium">Medium</span> <span class="new-badge">NEW</span>
+          <h2 class="news-title">
+            <a href="https://www.phoronix.com/news/Coreboot-StarBook-MK-VI" target="_blank" rel="noopener">Coreboot Comes To AMD Ryzen Powered Star Labs StarBook MK VI After 3+ Year Wait</a>
+          </h2>
+          <p class="news-date">5 hours ago · First seen: Apr 14, 2026 01:03 UTC</p>
+        </article>
+        <article class="news-item">
+          <span class="news-source">Pinterest Engineering</span>
+          <span class="priority-badge priority-medium">Medium</span> <span class="new-badge">NEW</span>
+          <h2 class="news-title">
+            <a href="https://medium.com/pinterest-engineering/scaling-recommendation-systems-with-request-level-deduplication-93bd514142d9?source=rss----4c5a5f6279b6---4" target="_blank" rel="noopener">Scaling Recommendation Systems with Request-Level Deduplication</a>
+          </h2>
+          <p class="news-date">6 hours ago · First seen: Apr 14, 2026 01:03 UTC</p>
+        </article>
+        <article class="news-item">
+          <span class="news-source">Hacker News (front)</span>
+          <span class="priority-badge priority-medium">Medium</span> <span class="new-badge">NEW</span>
+          <h2 class="news-title">
+            <a href="https://blog.farre.se/posts/2026/04/10/caching-webidl-codegen/" target="_blank" rel="noopener">How to make Firefox builds 17% faster</a>
+          </h2>
+          <p class="news-date">6 hours ago · First seen: Apr 14, 2026 01:03 UTC</p>
+        </article>
+        <article class="news-item">
+          <span class="news-source">Phoronix</span>
+          <span class="priority-badge priority-medium">Medium</span> <span class="new-badge">NEW</span>
+          <h2 class="news-title">
+            <a href="https://www.phoronix.com/news/Linux-7.1-User-xattrs-Sockets" target="_blank" rel="noopener">user.* xattrs On Sockets Merged For Linux 7.1 As Sought By GNOME &amp; systemd Developers</a>
+          </h2>
+          <p class="news-date">6 hours ago · First seen: Apr 14, 2026 01:03 UTC</p>
+        </article>
+        <article class="news-item">
+          <span class="news-source">Hacker News (front)</span>
+          <span class="priority-badge priority-medium">Medium</span> <span class="new-badge">NEW</span>
+          <h2 class="news-title">
+            <a href="https://timmastny.com/blog/visualizing-cpu-pipelining/" target="_blank" rel="noopener">Visualizing CPU Pipelining (2024)</a>
+          </h2>
+          <p class="news-date">6 hours ago · First seen: Apr 14, 2026 01:03 UTC</p>
+        </article>
+        <article class="news-item">
+          <span class="news-source">Google Research</span>
+          <span class="priority-badge priority-high">High</span>
+          <h2 class="news-title">
+            <a href="https://research.google/blog/towards-developing-future-ready-skills-with-generative-ai/" target="_blank" rel="noopener">Towards developing future-ready skills with generative AI</a>
+          </h2>
+          <p class="news-date">6 hours ago · First seen: Apr 13, 2026 19:36 UTC</p>
+        </article>
+        <article class="news-item">
+          <span class="news-source">Hacker News (front)</span>
+          <span class="priority-badge priority-medium">Medium</span> <span class="new-badge">NEW</span>
+          <h2 class="news-title">
+            <a href="https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/" target="_blank" rel="noopener">Someone Bought 30 WordPress Plugins and Planted a Backdoor in All of Them</a>
+          </h2>
+          <p class="news-date">7 hours ago · First seen: Apr 14, 2026 01:03 UTC</p>
+        </article>
+        <article class="news-item">
+          <span class="news-source">Hacker News (front)</span>
+          <span class="priority-badge priority-medium">Medium</span> <span class="new-badge">NEW</span>
+          <h2 class="news-title">
+            <a href="https://www.newyorker.com/magazine/2026/04/20/the-car-crash-conspiracy" target="_blank" rel="noopener">New Orleans&#x27;s Car-Crash Conspiracy</a>
+          </h2>
+          <p class="news-date">7 hours ago · First seen: Apr 14, 2026 01:03 UTC</p>
+        </article>
+        <article class="news-item">
+          <span class="news-source">Hacker News (front)</span>
+          <span class="priority-badge priority-medium">Medium</span> <span class="new-badge">NEW</span>
+          <h2 class="news-title">
+            <a href="https://planetscale.com/blog/btrees-and-database-indexes" target="_blank" rel="noopener">B-trees and database indexes (2024)</a>
+          </h2>
+          <p class="news-date">7 hours ago · First seen: Apr 14, 2026 01:03 UTC</p>
+        </article>
+        <article class="news-item">
+          <span class="news-source">Slack Engineering</span>
+          <span class="priority-badge priority-high">High</span>
+          <h2 class="news-title">
+            <a href="https://slack.engineering/managing-context-in-long-run-agentic-applications/" target="_blank" rel="noopener">Managing context in long-run agentic applications</a>
+          </h2>
+          <p class="news-date">7 hours ago · First seen: Apr 13, 2026 19:36 UTC</p>
+        </article>
+        <article class="news-item">
+          <span class="news-source">Schneier on Security</span>
+          <span class="priority-badge priority-high">High</span>
+          <h2 class="news-title">
+            <a href="https://www.schneier.com/blog/archives/2026/04/on-anthropics-mythos-preview-and-project-glasswing.html" target="_blank" rel="noopener">On Anthropic’s Mythos Preview and Project Glasswing</a>
+          </h2>
+          <p class="news-date">8 hours ago · First seen: Apr 13, 2026 19:36 UTC</p>
+        </article>
+        <article class="news-item">
+          <span class="news-source">Grafana Blog</span>
+          <span class="priority-badge priority-high">High</span>
+          <h2 class="news-title">
+            <a href="https://grafana.com/blog/a-faster-way-to-pinpoint-performance-bottlenecks-using-profiles-drilldown-with-grafana-cloud-knowledge-graph/" target="_blank" rel="noopener">A faster way to pinpoint performance bottlenecks: Using Profiles Drilldown with Grafana Cloud Knowledge Graph</a>
+          </h2>
+          <p class="news-date">8 hours ago · First seen: Apr 13, 2026 19:36 UTC</p>
+        </article>
+        <article class="news-item">
+          <span class="news-source">AWS Blog</span>
+          <span class="priority-badge priority-medium">Medium</span> <span class="new-badge">NEW</span>
+          <h2 class="news-title">
+            <a href="https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-mythos-preview-in-amazon-bedrock-aws-agent-registry-and-more-april-13-2026/" target="_blank" rel="noopener">AWS Weekly Roundup: Claude Mythos Preview in Amazon Bedrock, AWS Agent Registry, and more (April 13, 2026)</a>
+          </h2>
+          <p class="news-date">8 hours ago · First seen: Apr 14, 2026 01:03 UTC</p>
+        </article>
+        <article class="news-item">
+          <span class="news-source">Phoronix</span>
+          <span class="priority-badge priority-medium">Medium</span> <span class="new-badge">NEW</span>
+          <h2 class="news-title">
+            <a href="https://www.phoronix.com/news/LLVM-Generated-Spack-Packages" target="_blank" rel="noopener">The Good &amp; The Bad When Using LLMs To Write Spack Packages</a>
+          </h2>
+          <p class="news-date">8 hours ago · First seen: Apr 14, 2026 01:03 UTC</p>
+        </article>
+        <article class="news-item">
+          <span class="news-source">Databricks Blog</span>
+          <span class="priority-badge priority-high">High</span>
+          <h2 class="news-title">
+            <a href="https://www.databricks.com/blog/lovable-databricks-build-data-driven-apps-speed-thought" target="_blank" rel="noopener">Lovable + Databricks: Build Data-Driven Apps at the Speed of Thought</a>
+          </h2>
+          <p class="news-date">8 hours ago · First seen: Apr 13, 2026 19:36 UTC</p>
+        </article>
+        <article class="news-item">
+          <span class="news-source">LWN.net</span>
+          <span class="priority-badge priority-medium">Medium</span> <span class="new-badge">NEW</span>
+          <h2 class="news-title">
+            <a href="https://lwn.net/Articles/1066723/" target="_blank" rel="noopener">[$] Development statistics for the 7.0 kernel</a>
+          </h2>
+          <p class="news-date">8 hours ago · First seen: Apr 14, 2026 01:03 UTC</p>
+        </article>
+        <article class="news-item">
+          <span class="news-source">AWS ML Blog</span>
+          <span class="priority-badge priority-medium">Medium</span> <span class="new-badge">NEW</span>
+          <h2 class="news-title">
+            <a href="https://aws.amazon.com/blogs/machine-learning/how-to-build-effective-reward-functions-with-aws-lambda-for-amazon-nova-model-customization/" target="_blank" rel="noopener">How to build effective reward functions with AWS Lambda for Amazon Nova model customization</a>
+          </h2>
+          <p class="news-date">9 hours ago · First seen: Apr 14, 2026 01:03 UTC</p>
+        </article>
+        <article class="news-item">
+          <span class="news-source">Google Cloud Blog</span>
+          <span class="priority-badge priority-high">High</span>
+          <h2 class="news-title">
+            <a href="https://cloud.google.com/blog/topics/public-sector/a-new-standard-for-research-how-uc-riverside-is-securing-the-path-to-federal-grants-with-google-public-sector/" target="_blank" rel="noopener">A new standard for research: How UC Riverside is securing the path to federal grants with Google Public Sector</a>
+          </h2>
+          <p class="news-date">9 hours ago · First seen: Apr 13, 2026 19:36 UTC</p>
+        </article>
+        <article class="news-item">
+          <span class="news-source">Google Cloud Blog</span>
+          <span class="priority-badge priority-high">High</span>
+          <h2 class="news-title">
+            <a href="https://cloud.google.com/blog/products/ai-machine-learning/build-a-robust-and-cost-effective-gen-ai-strategy/" target="_blank" rel="noopener">How to find the sweet spot between cost and performance</a>
+          </h2>
+          <p class="news-date">9 hours ago · First seen: Apr 13, 2026 19:36 UTC</p>
+        </article>
+        <article class="news-item">
+          <span class="news-source">Docker Blog</span>
+          <span class="priority-badge priority-high">High</span>
+          <h2 class="news-title">
+            <a href="https://www.docker.com/blog/how-to-analyze-hugging-face-for-arm64-readiness/" target="_blank" rel="noopener">How to Analyze Hugging Face for Arm64 Readiness</a>
+          </h2>
+          <p class="news-date">9 hours ago · First seen: Apr 13, 2026 19:36 UTC</p>
+        </article>
+        <article class="news-item">
+          <span class="news-source">AWS Big Data Blog</span>
+          <span class="priority-badge priority-medium">Medium</span> <span class="new-badge">NEW</span>
+          <h2 class="news-title">
+            <a href="https://aws.amazon.com/blogs/big-data/how-to-use-parquet-column-indexes-with-amazon-athena/" target="_blank" rel="noopener">How to use Parquet Column Indexes with Amazon Athena</a>
+          </h2>
+          <p class="news-date">9 hours ago · First seen: Apr 14, 2026 01:03 UTC</p>
+        </article>
+        <article class="news-item">
+          <span class="news-source">Angular Blog</span>
+          <span class="priority-badge priority-high">High</span> <span class="new-badge">NEW</span>
+          <h2 class="news-title">
+            <a href="https://blog.angular.dev/mastering-dynamic-components-http-resources-and-ai-writing-assistants-%EF%B8%8F-eb1a773270e4?source=rss----447683c3d9a3---4" target="_blank" rel="noopener">Mastering Dynamic Components, HTTP Resources, and AI Writing Assistants ️</a>
+          </h2>
+          <p class="news-date">9 hours ago · First seen: Apr 14, 2026 01:03 UTC</p>
+        </article>
+        <article class="news-item">
+          <span class="news-source">AWS Database Blog</span>
+          <span class="priority-badge priority-medium">Medium</span> <span class="new-badge">NEW</span>
+          <h2 class="news-title">
+            <a href="https://aws.amazon.com/blogs/database/options-for-changing-aws-kms-encryption-key-for-amazon-rds-databases/" target="_blank" rel="noopener">Options for changing AWS KMS encryption key for Amazon RDS databases</a>
+          </h2>
+          <p class="news-date">9 hours ago · First seen: Apr 14, 2026 01:03 UTC</p>
+        </article>
+        <article class="news-item">
+          <span class="news-source">AWS Big Data Blog</span>
+          <span class="priority-badge priority-medium">Medium</span> <span class="new-badge">NEW</span>
+          <h2 class="news-title">
+            <a href="https://aws.amazon.com/blogs/big-data/implementing-kerberos-authentication-for-apache-spark-jobs-on-amazon-emr-on-eks-to-access-a-kerberos-enabled-hive-metastore/" target="_blank" rel="noopener">Implementing Kerberos authentication for Apache Spark jobs on Amazon EMR on EKS to access a Kerberos-enabled Hive Metastore</a>
+          </h2>
+          <p class="news-date">9 hours ago · First seen: Apr 14, 2026 01:03 UTC</p>
+        </article>
+        <article class="news-item">
+          <span class="news-source">AWS Database Blog</span>
+          <span class="priority-badge priority-medium">Medium</span> <span class="new-badge">NEW</span>
+          <h2 class="news-title">
+            <a href="https://aws.amazon.com/blogs/database/connecting-net-lambda-to-amazon-aurora-postgresql-via-rds-proxy/" target="_blank" rel="noopener">Connecting .NET Lambda to Amazon Aurora PostgreSQL via RDS Proxy</a>
+          </h2>
+          <p class="news-date">9 hours ago · First seen: Apr 14, 2026 01:03 UTC</p>
+        </article>
+        <article class="news-item">
+          <span class="news-source">Phoronix</span>
+          <span class="priority-badge priority-medium">Medium</span> <span class="new-badge">NEW</span>
+          <h2 class="news-title">
+            <a href="https://www.phoronix.com/news/NVIDIA-More-Engineers-CUDA-Tile" target="_blank" rel="noopener">NVIDIA Hiring More LLVM Engineers To Work On CUDA Tile</a>
+          </h2>
+          <p class="news-date">9 hours ago · First seen: Apr 14, 2026 01:03 UTC</p>
+        </article>
+        <article class="news-item">
+          <span class="news-source">ByteByteGo</span>
+          <span class="priority-badge priority-high">High</span>
+          <h2 class="news-title">
+            <a href="https://blog.bytebytego.com/p/how-linkedin-feed-uses-llms-to-serve" target="_blank" rel="noopener">How LinkedIn Feed Uses LLMs to Serve 1.3 Billion Users</a>
+          </h2>
+          <p class="news-date">9 hours ago · First seen: Apr 13, 2026 19:36 UTC</p>
+        </article>
+        <article class="news-item">
+          <span class="news-source">LWN.net</span>
+          <span class="priority-badge priority-medium">Medium</span> <span class="new-badge">NEW</span>
+          <h2 class="news-title">
+            <a href="https://lwn.net/Articles/1066103/" target="_blank" rel="noopener">[$] A build system aimed at license compliance</a>
+          </h2>
+          <p class="news-date">9 hours ago · First seen: Apr 14, 2026 01:03 UTC</p>
+        </article>
+        <article class="news-item">
+          <span class="news-source">Simon Willison</span>
+          <span class="priority-badge priority-very-high">Very High</span>
+          <h2 class="news-title">
+            <a href="https://simonwillison.net/2026/Apr/13/servo-crate-exploration/#atom-everything" target="_blank" rel="noopener">Exploring the new `servo` crate</a>
+          </h2>
+          <p class="news-date">9 hours ago · First seen: Apr 13, 2026 19:36 UTC</p>
+        </article>
+        <article class="news-item">
+          <span class="news-source">GitHub Blog</span>
+          <span class="priority-badge priority-high">High</span>
+          <h2 class="news-title">
+            <a href="https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-github-pages/" target="_blank" rel="noopener">GitHub for Beginners: Getting started with GitHub Pages</a>
+          </h2>
+          <p class="news-date">10 hours ago · First seen: Apr 13, 2026 19:36 UTC</p>
+        </article>
+        <article class="news-item">
+          <span class="news-source">Phoronix</span>
+          <span class="priority-badge priority-medium">Medium</span> <span class="new-badge">NEW</span>
+          <h2 class="news-title">
+            <a href="https://www.phoronix.com/news/Linux-7.1-Rust" target="_blank" rel="noopener">Rust For Linux 7.1 Bringing Experimental Option That Can Help Performance</a>
+          </h2>
+          <p class="news-date">10 hours ago · First seen: Apr 14, 2026 01:03 UTC</p>
+        </article>
+        <article class="news-item">
+          <span class="news-source">LWN.net</span>
+          <span class="priority-badge priority-medium">Medium</span> <span class="new-badge">NEW</span>
+          <h2 class="news-title">
+            <a href="https://lwn.net/Articles/1067467/" target="_blank" rel="noopener">Servo now on crates.io</a>
+          </h2>
+          <p class="news-date">10 hours ago · First seen: Apr 14, 2026 01:03 UTC</p>
+        </article>
+        <article class="news-item">
+          <span class="news-source">Cloudflare Blog</span>
+          <span class="priority-badge priority-high">High</span>
+          <h2 class="news-title">
+            <a href="https://blog.cloudflare.com/cf-cli-local-explorer/" target="_blank" rel="noopener">Building a CLI for all of Cloudflare</a>
+          </h2>
+          <p class="news-date">10 hours ago · First seen: Apr 13, 2026 19:36 UTC</p>
+        </article>
+        <article class="news-item">
+          <span class="news-source">Real Python</span>
+          <span class="priority-badge priority-medium">Medium</span> <span class="new-badge">NEW</span>
+          <h2 class="news-title">
+            <a href="https://realpython.com/codex-cli/" target="_blank" rel="noopener">How to Add Features to a Python Project With Codex CLI</a>
+          </h2>
+          <p class="news-date">11 hours ago · First seen: Apr 14, 2026 01:03 UTC</p>
+        </article>
+        <article class="news-item">
+          <span class="news-source">Phoronix</span>
+          <span class="priority-badge priority-medium">Medium</span> <span class="new-badge">NEW</span>
+          <h2 class="news-title">
+            <a href="https://www.phoronix.com/news/FTRFS-Linux-File-System" target="_blank" rel="noopener">FTRFS: New Fault-Tolerant File-System Proposed For Linux</a>
+          </h2>
+          <p class="news-date">11 hours ago · First seen: Apr 14, 2026 01:03 UTC</p>
+        </article>
+        <article class="news-item">
+          <span class="news-source">Grafana Blog</span>
+          <span class="priority-badge priority-high">High</span>
+          <h2 class="news-title">
+            <a href="https://grafana.com/blog/kubernetes-monitoring-helm-chart-v4-biggest-update-ever-/" target="_blank" rel="noopener">Kubernetes Monitoring Helm chart v4: Biggest update ever!</a>
+          </h2>
+          <p class="news-date">11 hours ago · First seen: Apr 13, 2026 19:36 UTC</p>
+        </article>
+        <article class="news-item">
+          <span class="news-source">Phoronix</span>
+          <span class="priority-badge priority-medium">Medium</span> <span class="new-badge">NEW</span>
+          <h2 class="news-title">
+            <a href="https://www.phoronix.com/news/Mold-2.41-Released" target="_blank" rel="noopener">Mold 2.41 Linker Released With New Features &amp; Fixes</a>
+          </h2>
+          <p class="news-date">11 hours ago · First seen: Apr 14, 2026 01:03 UTC</p>
+        </article>
+        <article class="news-item">
+          <span class="news-source">LWN.net</span>
+          <span class="priority-badge priority-medium">Medium</span> <span class="new-badge">NEW</span>
+          <h2 class="news-title">
+            <a href="https://lwn.net/Articles/1067436/" target="_blank" rel="noopener">Security updates for Monday</a>
+          </h2>
+          <p class="news-date">11 hours ago · First seen: Apr 14, 2026 01:03 UTC</p>
+        </article>
+        <article class="news-item">
+          <span class="news-source">Cloudflare Blog</span>
+          <span class="priority-badge priority-high">High</span>
+          <h2 class="news-title">
+            <a href="https://blog.cloudflare.com/sandbox-ga/" target="_blank" rel="noopener">Agents have their own computers with Sandboxes GA</a>
+          </h2>
+          <p class="news-date">11 hours ago · First seen: Apr 13, 2026 19:36 UTC</p>
+        </article>
+        <article class="news-item">
+          <span class="news-source">Cloudflare Blog</span>
+          <span class="priority-badge priority-high">High</span>
+          <h2 class="news-title">
+            <a href="https://blog.cloudflare.com/durable-object-facets-dynamic-workers/" target="_blank" rel="noopener">Durable Objects in Dynamic Workers: Give each AI-generated app its own database</a>
+          </h2>
+          <p class="news-date">11 hours ago · First seen: Apr 13, 2026 19:36 UTC</p>
+        </article>
+        <article class="news-item">
+          <span class="news-source">Cloudflare Blog</span>
+          <span class="priority-badge priority-high">High</span>
+          <h2 class="news-title">
+            <a href="https://blog.cloudflare.com/sandbox-auth/" target="_blank" rel="noopener">Dynamic, identity-aware, and secure Sandbox auth</a>
+          </h2>
+          <p class="news-date">12 hours ago · First seen: Apr 13, 2026 19:36 UTC</p>
+        </article>
+        <article class="news-item">
+          <span class="news-source">Josh W. Comeau</span>
+          <span class="priority-badge priority-high">High</span>
+          <h2 class="news-title">
+            <a href="https://www.joshwcomeau.com/animation/squash-and-stretch/" target="_blank" rel="noopener">Squash and Stretch</a>
+          </h2>
+          <p class="news-date">13 hours ago · First seen: Apr 13, 2026 19:36 UTC</p>
+        </article>
+        <article class="news-item">
+          <span class="news-source">Real Python</span>
+          <span class="priority-badge priority-medium">Medium</span> <span class="new-badge">NEW</span>
+          <h2 class="news-title">
+            <a href="https://realpython.com/quizzes/gemini-cli-vs-claude-code/" target="_blank" rel="noopener">Quiz: Gemini CLI vs Claude Code: Which to Choose for Python Tasks</a>
+          </h2>
+          <p class="news-date">13 hours ago · First seen: Apr 14, 2026 01:03 UTC</p>
+        </article>
+        <article class="news-item">
+          <span class="news-source">Real Python</span>
+          <span class="priority-badge priority-medium">Medium</span> <span class="new-badge">NEW</span>
+          <h2 class="news-title">
+            <a href="https://realpython.com/quizzes/cicd-github-actions/" target="_blank" rel="noopener">Quiz: Python Continuous Integration and Deployment Using GitHub Actions</a>
+          </h2>
+          <p class="news-date">13 hours ago · First seen: Apr 14, 2026 01:03 UTC</p>
+        </article>
+        <article class="news-item">
+          <span class="news-source">Phoronix</span>
+          <span class="priority-badge priority-medium">Medium</span> <span class="new-badge">NEW</span>
+          <h2 class="news-title">
+            <a href="https://www.phoronix.com/news/Servo-Embed-Crates-LTS" target="_blank" rel="noopener">Servo Browser Engine Making It Easier For Embedded Use</a>
+          </h2>
+          <p class="news-date">13 hours ago · First seen: Apr 14, 2026 01:03 UTC</p>
+        </article>
+        <article class="news-item">
+          <span class="news-source">Phoronix</span>
+          <span class="priority-badge priority-medium">Medium</span> <span class="new-badge">NEW</span>
+          <h2 class="news-title">
+            <a href="https://www.phoronix.com/news/Mesa-26.1-RadeonSI-Rusticl-APUs" target="_blank" rel="noopener">Mesa 26.1 RadeonSI Driver Lands Improvement For AMD APUs With Rusticl</a>
+          </h2>
+          <p class="news-date">14 hours ago · First seen: Apr 14, 2026 01:03 UTC</p>
+        </article>
+        <article class="news-item">
+          <span class="news-source">Phoronix</span>
+          <span class="priority-badge priority-medium">Medium</span> <span class="new-badge">NEW</span>
+          <h2 class="news-title">
+            <a href="https://www.phoronix.com/news/Apple-HFS-Fixes-Linux-7.1" target="_blank" rel="noopener">Apple HFS / HFS+ File-System Support Seeing Many Fixes For Linux 7.1</a>
+          </h2>
+          <p class="news-date">14 hours ago · First seen: Apr 14, 2026 01:03 UTC</p>
+        </article>
+        <article class="news-item">
+          <span class="news-source">Schneier on Security</span>
+          <span class="priority-badge priority-high">High</span>
+          <h2 class="news-title">
+            <a href="https://www.schneier.com/blog/archives/2026/04/ai-chatbots-and-trust.html" target="_blank" rel="noopener">AI Chatbots and Trust</a>
+          </h2>
+          <p class="news-date">14 hours ago · First seen: Apr 13, 2026 19:36 UTC</p>
+        </article>
+        <article class="news-item">
+          <span class="news-source">Stratechery</span>
+          <span class="priority-badge priority-high">High</span>
+          <h2 class="news-title">
+            <a href="https://stratechery.com/2026/mythos-muse-and-the-opportunity-cost-of-compute/" target="_blank" rel="noopener">Mythos, Muse, and the Opportunity Cost of Compute</a>
+          </h2>
+          <p class="news-date">15 hours ago · First seen: Apr 13, 2026 19:36 UTC</p>
+        </article>
+        <article class="news-item">
+          <span class="news-source">Phoronix</span>
+          <span class="priority-badge priority-medium">Medium</span> <span class="new-badge">NEW</span>
+          <h2 class="news-title">
+            <a href="https://www.phoronix.com/news/Btrfs-Linux-7.1" target="_blank" rel="noopener">Btrfs Brings Performance Improvements, Shutdown ioctl Stable With Linux 7.1</a>
+          </h2>
+          <p class="news-date">15 hours ago · First seen: Apr 14, 2026 01:03 UTC</p>
+        </article>
+        <article class="news-item">
+          <span class="news-source">Phoronix</span>
+          <span class="priority-badge priority-medium">Medium</span> <span class="new-badge">NEW</span>
+          <h2 class="news-title">
+            <a href="https://www.phoronix.com/news/GNU-Linux-Libre-7.0" target="_blank" rel="noopener">GNU Linux-libre 7.0 Deals With Deblobbing More Drivers &amp; Cleansing DT Files</a>
+          </h2>
+          <p class="news-date">15 hours ago · First seen: Apr 14, 2026 01:03 UTC</p>
+        </article>
+        <article class="news-item">
+          <span class="news-source">Phoronix</span>
+          <span class="priority-badge priority-medium">Medium</span> <span class="new-badge">NEW</span>
+          <h2 class="news-title">
+            <a href="https://www.phoronix.com/news/Linux-7.1-Power-Sequencing" target="_blank" rel="noopener">Linux&#x27;s Power Sequencing PCIe M.2 Driver To Support M.2 Key-E Connectors</a>
+          </h2>
+          <p class="news-date">16 hours ago · First seen: Apr 14, 2026 01:03 UTC</p>
+        </article>
+        <article class="news-item">
+          <span class="news-source">OpenAI Blog</span>
+          <span class="priority-badge priority-very-high">Very High</span>
+          <h2 class="news-title">
+            <a href="https://openai.com/index/cloudflare-openai-agent-cloud" target="_blank" rel="noopener">Enterprises power agentic workflows in Cloudflare Agent Cloud with OpenAI</a>
+          </h2>
+          <p class="news-date">19 hours ago · First seen: Apr 13, 2026 19:36 UTC</p>
+        </article>
+        <article class="news-item">
+          <span class="news-source">Simon Willison</span>
+          <span class="priority-badge priority-very-high">Very High</span>
+          <h2 class="news-title">
+            <a href="https://simonwillison.net/2026/Apr/13/bryan-cantrill/#atom-everything" target="_blank" rel="noopener">Quoting Bryan Cantrill</a>
+          </h2>
+          <p class="news-date">22 hours ago · First seen: Apr 13, 2026 19:36 UTC</p>
+        </article>
+        <article class="news-item">
+          <span class="news-source">Elastic Blog</span>
+          <span class="priority-badge priority-medium">Medium</span> <span class="new-badge">NEW</span>
+          <h2 class="news-title">
+            <a href="https://www.elastic.co/blog/cursor" target="_blank" rel="noopener">Elastic and Cursor partner to accelerate context engineering with coding agents</a>
+          </h2>
+          <p class="news-date">25 hours ago · First seen: Apr 14, 2026 01:03 UTC</p>
+        </article>
+        <article class="news-item">
+          <span class="news-source">Apple ML Journal</span>
+          <span class="priority-badge priority-high">High</span>
+          <h2 class="news-title">
+            <a href="https://machinelearning.apple.com/research/cram-less" target="_blank" rel="noopener">Cram Less to Fit More: Training Data Pruning Improves Memorization of Facts</a>
+          </h2>
+          <p class="news-date">25 hours ago · First seen: Apr 13, 2026 19:36 UTC</p>
+        </article>
+        <article class="news-item">
+          <span class="news-source">Simon Willison</span>
+          <span class="priority-badge priority-very-high">Very High</span>
+          <h2 class="news-title">
+            <a href="https://simonwillison.net/2026/Apr/12/mlx-audio/#atom-everything" target="_blank" rel="noopener">Gemma 4 audio with MLX</a>
+          </h2>
+          <p class="news-date">25 hours ago · First seen: Apr 13, 2026 19:36 UTC</p>
+        </article>
+        <article class="news-item">
+          <span class="news-source">LWN.net</span>
+          <span class="priority-badge priority-medium">Medium</span> <span class="new-badge">NEW</span>
+          <h2 class="news-title">
+            <a href="https://lwn.net/Articles/1067279/" target="_blank" rel="noopener">The 7.0 kernel has been released</a>
+          </h2>
+          <p class="news-date">27 hours ago · First seen: Apr 14, 2026 01:03 UTC</p>
+        </article>
+        <article class="news-item">
+          <span class="news-source">Phoronix</span>
+          <span class="priority-badge priority-medium">Medium</span> <span class="new-badge">NEW</span>
+          <h2 class="news-title">
+            <a href="https://www.phoronix.com/news/Linux-7.0-Released" target="_blank" rel="noopener">Linux 7.0 Released With New Hardware Support, Optimizations &amp; Self-Healing XFS</a>
+          </h2>
+          <p class="news-date">27 hours ago · First seen: Apr 14, 2026 01:03 UTC</p>
+        </article>
+        <article class="news-item">
+          <span class="news-source">Phoronix</span>
+          <span class="priority-badge priority-medium">Medium</span> <span class="new-badge">NEW</span>
+          <h2 class="news-title">
+            <a href="https://www.phoronix.com/news/Linux-OOB-Special-Certificate" target="_blank" rel="noopener">Linux Out-Of-Bounds Access Fixed For Unprivileged Users With Specially Crafted Certs</a>
+          </h2>
+          <p class="news-date">30 hours ago · First seen: Apr 14, 2026 01:03 UTC</p>
+        </article>
+        <article class="news-item">
+          <span class="news-source">Cloudflare Blog</span>
+          <span class="priority-badge priority-high">High</span>
+          <h2 class="news-title">
+            <a href="https://blog.cloudflare.com/welcome-to-agents-week/" target="_blank" rel="noopener">Welcome to Agents Week</a>
+          </h2>
+          <p class="news-date">32 hours ago · First seen: Apr 13, 2026 19:36 UTC</p>
+        </article>
+        <article class="news-item">
+          <span class="news-source">Will Larson</span>
+          <span class="priority-badge priority-high">High</span>
+          <h2 class="news-title">
+            <a href="https://lethain.com/agents-as-scaffolding/" target="_blank" rel="noopener">Agents as scaffolding for recurring tasks.</a>
+          </h2>
+          <p class="news-date">32 hours ago · First seen: Apr 13, 2026 19:36 UTC</p>
+        </article>
+        <article class="news-item">
+          <span class="news-source">Phoronix</span>
+          <span class="priority-badge priority-medium">Medium</span> <span class="new-badge">NEW</span>
+          <h2 class="news-title">
+            <a href="https://www.phoronix.com/news/Linux-7.1-Features-Early-Look" target="_blank" rel="noopener">Many Wonderful Improvements Expected For Linux 7.1, Especially For AMD &amp; Intel</a>
+          </h2>
+          <p class="news-date">35 hours ago · First seen: Apr 14, 2026 01:03 UTC</p>
+        </article>
+        <article class="news-item">
+          <span class="news-source">The New Stack</span>
+          <span class="priority-badge priority-high">High</span>
+          <h2 class="news-title">
+            <a href="https://thenewstack.io/ai-coding-tool-stack/" target="_blank" rel="noopener">Cursor, Claude Code, and Codex are merging into one AI coding stack nobody planned</a>
+          </h2>
+          <p class="news-date">36 hours ago · First seen: Apr 13, 2026 19:36 UTC</p>
+        </article>
+        <article class="news-item">
+          <span class="news-source">Phoronix</span>
+          <span class="priority-badge priority-medium">Medium</span> <span class="new-badge">NEW</span>
+          <h2 class="news-title">
+            <a href="https://www.phoronix.com/news/CMake-Tighter-Package-Integrate" target="_blank" rel="noopener">CMake Pursuing Tighter Integration With Package Managers, Other Improvements</a>
+          </h2>
+          <p class="news-date">38 hours ago · First seen: Apr 14, 2026 01:03 UTC</p>
+        </article>
+        <article class="news-item">
+          <span class="news-source">Phoronix</span>
+          <span class="priority-badge priority-medium">Medium</span> <span class="new-badge">NEW</span>
+          <h2 class="news-title">
+            <a href="https://www.phoronix.com/news/Linux-Hardware-Errors-AMD-Zen-3" target="_blank" rel="noopener">Linux 7.0 Sees Last Minute Fix For Bogus Hardware Errors On AMD Zen 3</a>
+          </h2>
+          <p class="news-date">38 hours ago · First seen: Apr 14, 2026 01:03 UTC</p>
+        </article>
+        <article class="news-item">
+          <span class="news-source">Phoronix</span>
+          <span class="priority-badge priority-medium">Medium</span> <span class="new-badge">NEW</span>
+          <h2 class="news-title">
+            <a href="https://www.phoronix.com/news/Trisquel-12-Linux" target="_blank" rel="noopener">Trisquel 12.0 Released For Free Software Foundation Endorsed Distribution</a>
+          </h2>
+          <p class="news-date">38 hours ago · First seen: Apr 14, 2026 01:03 UTC</p>
+        </article>
+        <article class="news-item">
+          <span class="news-source">The New Stack</span>
+          <span class="priority-badge priority-high">High</span>
+          <h2 class="news-title">
+            <a href="https://thenewstack.io/hpa-managed-workloads-why-waste-stays/" target="_blank" rel="noopener">HPA-managed workloads: Why the obvious waste stays</a>
+          </h2>
+          <p class="news-date">47 hours ago · First seen: Apr 13, 2026 19:36 UTC</p>
+        </article>
+        <article class="news-item">
+          <span class="news-source">NVIDIA Developer Blog</span>
+          <span class="priority-badge priority-high">High</span>
+          <h2 class="news-title">
+            <a href="https://developer.nvidia.com/blog/minimax-m2-7-advances-scalable-agentic-workflows-on-nvidia-platforms-for-complex-ai-applications/" target="_blank" rel="noopener">MiniMax M2.7 Advances Scalable Agentic Workflows on NVIDIA Platforms for Complex AI Applications</a>
+          </h2>
+          <p class="news-date">2 days ago · First seen: Apr 13, 2026 19:36 UTC</p>
+        </article>
+        <article class="news-item">
+          <span class="news-source">Simon Willison</span>
+          <span class="priority-badge priority-very-high">Very High</span>
+          <h2 class="news-title">
+            <a href="https://simonwillison.net/2026/Apr/11/sqlite/#atom-everything" target="_blank" rel="noopener">SQLite 3.53.0</a>
+          </h2>
+          <p class="news-date">2 days ago · First seen: Apr 13, 2026 19:36 UTC</p>
+        </article>
+        <article class="news-item">
+          <span class="news-source">Phoronix</span>
+          <span class="priority-badge priority-medium">Medium</span> <span class="new-badge">NEW</span>
+          <h2 class="news-title">
+            <a href="https://www.phoronix.com/news/AMD-GAIA-True-Desktop-App" target="_blank" rel="noopener">AMD&#x27;s GAIA Now Allows Building Custom AI Agents Via Chat, Becomes &quot;True Desktop App&quot;</a>
+          </h2>
+          <p class="news-date">2 days ago · First seen: Apr 14, 2026 01:03 UTC</p>
+        </article>
+        <article class="news-item">
+          <span class="news-source">Simon Willison</span>
+          <span class="priority-badge priority-very-high">Very High</span>
+          <h2 class="news-title">
+            <a href="https://simonwillison.net/2026/Apr/11/sqlite-qrf/#atom-everything" target="_blank" rel="noopener">SQLite Query Result Formatter Demo</a>
+          </h2>
+          <p class="news-date">2 days ago · First seen: Apr 13, 2026 19:36 UTC</p>
+        </article>
+        <article class="news-item">
+          <span class="news-source">ByteByteGo</span>
+          <span class="priority-badge priority-high">High</span>
+          <h2 class="news-title">
+            <a href="https://blog.bytebytego.com/p/ep210-monolithic-vs-microservices" target="_blank" rel="noopener">EP210: Monolithic vs Microservices vs Serverless</a>
+          </h2>
+          <p class="news-date">2 days ago · First seen: Apr 13, 2026 19:36 UTC</p>
+        </article>
+        <article class="news-item">
+          <span class="news-source">LangChain Blog</span>
+          <span class="priority-badge priority-very-high">Very High</span>
+          <h2 class="news-title">
+            <a href="https://blog.langchain.com/your-harness-your-memory/" target="_blank" rel="noopener">Your harness, your memory</a>
+          </h2>
+          <p class="news-date">2 days ago · First seen: Apr 13, 2026 19:36 UTC</p>
+        </article>
+        <article class="news-item">
+          <span class="news-source">Phoronix</span>
+          <span class="priority-badge priority-medium">Medium</span> <span class="new-badge">NEW</span>
+          <h2 class="news-title">
+            <a href="https://www.phoronix.com/news/D7VK-1.7-Released" target="_blank" rel="noopener">D7VK 1.7 Brings More Improvements For Legacy Direct3D On Vulkan</a>
+          </h2>
+          <p class="news-date">2 days ago · First seen: Apr 14, 2026 01:03 UTC</p>
+        </article>
+        <article class="news-item">
+          <span class="news-source">LWN.net</span>
+          <span class="priority-badge priority-medium">Medium</span> <span class="new-badge">NEW</span>
+          <h2 class="news-title">
+            <a href="https://lwn.net/Articles/1067272/" target="_blank" rel="noopener">A set of Saturday stable kernel updates</a>
+          </h2>
+          <p class="news-date">2 days ago · First seen: Apr 14, 2026 01:03 UTC</p>
+        </article>
+        <article class="news-item">
+          <span class="news-source">Martin Fowler</span>
+          <span class="priority-badge priority-high">High</span>
+          <h2 class="news-title">
+            <a href="https://martinfowler.com/articles/202604-turing.html" target="_blank" rel="noopener">Alan Turing play in Cambridge MA</a>
+          </h2>
+          <p class="news-date">2 days ago · First seen: Apr 13, 2026 19:36 UTC</p>
+        </article>
+        <article class="news-item">
+          <span class="news-source">Construction Physics</span>
+          <span class="priority-badge priority-high">High</span>
+          <h2 class="news-title">
+            <a href="https://www.construction-physics.com/p/reading-list-04112026" target="_blank" rel="noopener">Reading List 04/11/2026</a>
+          </h2>
+          <p class="news-date">2 days ago · First seen: Apr 13, 2026 19:36 UTC</p>
+        </article>
+        <article class="news-item">
+          <span class="news-source">CNCF Blog</span>
+          <span class="priority-badge priority-high">High</span>
+          <h2 class="news-title">
+            <a href="https://www.cncf.io/blog/2026/04/11/what-i-learned-at-my-first-kubecon-cloudnativecon-as-a-high-school-speaker/" target="_blank" rel="noopener">What I Learned at My First KubeCon + CloudNativeCon as a High School Speaker</a>
+          </h2>
+          <p class="news-date">2 days ago · First seen: Apr 13, 2026 19:36 UTC</p>
+        </article>
+        <article class="news-item">
+          <span class="news-source">Phoronix</span>
+          <span class="priority-badge priority-medium">Medium</span> <span class="new-badge">NEW</span>
+          <h2 class="news-title">
+            <a href="https://www.phoronix.com/news/Linux-7.1-BeagleV-Ahead-HDMI" target="_blank" rel="noopener">RISC-V BeagleV Ahead Single Board Computer To See Working HDMI With Linux 7.1</a>
+          </h2>
+          <p class="news-date">2 days ago · First seen: Apr 14, 2026 01:03 UTC</p>
+        </article>
+        <article class="news-item">
+          <span class="news-source">Phoronix</span>
+          <span class="priority-badge priority-medium">Medium</span> <span class="new-badge">NEW</span>
+          <h2 class="news-title">
+            <a href="https://www.phoronix.com/news/Linux-6.18-LTS-Microsoft-WSL2" target="_blank" rel="noopener">Microsoft Upgrades Its WSL2 Kernel Against Linux 6.18 LTS</a>
+          </h2>
+          <p class="news-date">2 days ago · First seen: Apr 14, 2026 01:03 UTC</p>
+        </article>
+        <article class="news-item">
+          <span class="news-source">Phoronix</span>
+          <span class="priority-badge priority-medium">Medium</span> <span class="new-badge">NEW</span>
+          <h2 class="news-title">
+            <a href="https://www.phoronix.com/news/Linux-7.1-FSMOUNT-NAMESPACE" target="_blank" rel="noopener">FSMOUNT_NAMESPACE Feature Coming For Linux 7.1</a>
+          </h2>
+          <p class="news-date">2 days ago · First seen: Apr 14, 2026 01:03 UTC</p>
+        </article>
+      </section>
+
+      <section class="quote card" style="margin-top: 3rem;">
+        <p>
+          "The best signal comes from reading broadly, filtering aggressively, and staying curious about what others aren't covering yet."
+        </p>
+      </section>
+    </main>
+  </div>
+</body>
+</html>

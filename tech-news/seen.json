@@ -1894,5 +1894,395 @@
     "source": "The New Stack",
     "first_seen": "2026-04-13T19:36:46.772036+00:00",
     "published": "2026-04-09T17:30:00+00:00"
+  },
+  "https://kirancodes.me/posts/log-who-watches-the-watchers.html": {
+    "title": "Lean proved this program correct; then I found a bug",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-14T01:03:36.763439+00:00",
+    "published": "2026-04-14T00:25:08+00:00"
+  },
+  "https://www.phoronix.com/news/jemalloc-5.3.1": {
+    "title": "jemalloc 5.3.1 Released With Many Improvements After Nearly Four Year Hiatus",
+    "source": "Phoronix",
+    "first_seen": "2026-04-14T01:03:36.763439+00:00",
+    "published": "2026-04-14T00:22:26+00:00"
+  },
+  "https://www.bbc.com/travel/article/20260410-why-its-impossible-to-measure-englands-coastline": {
+    "title": "Why it's impossible to measure England's coastline",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-14T01:03:36.763439+00:00",
+    "published": "2026-04-13T23:44:10+00:00"
+  },
+  "https://snapstate.dev": {
+    "title": "SnapState - Persistent state for AI agent workflows",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-14T01:03:36.763439+00:00",
+    "published": "2026-04-13T23:42:32+00:00"
+  },
+  "https://github.com/fabienmillet/WiiFin": {
+    "title": "WiiFin – Jellyfin Client for Nintendo Wii",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-14T01:03:36.763439+00:00",
+    "published": "2026-04-13T23:33:18+00:00"
+  },
+  "https://techtrenches.dev/p/the-human-cost-of-10x-how-ai-is-physically": {
+    "title": "The Human Cost of 10x: How AI Is Physically Breaking Senior Engineers",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-14T01:03:36.763439+00:00",
+    "published": "2026-04-13T22:40:26+00:00"
+  },
+  "https://ndaybench.winfunc.com": {
+    "title": "N-Day-Bench – Can LLMs find real vulnerabilities in real codebases?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-14T01:03:36.763439+00:00",
+    "published": "2026-04-13T21:54:03+00:00"
+  },
+  "https://techcrunch.com/2026/04/13/stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else": {
+    "title": "Stanford report highlights growing disconnect between AI insiders and everyone",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-14T01:03:36.763439+00:00",
+    "published": "2026-04-13T21:25:38+00:00"
+  },
+  "https://economist.com/finance-and-economics/2026/04/13/the-tech-jobs-bust-is-real-dont-blame-ai-yet": {
+    "title": "The tech jobs bust is real. Don't blame AI (yet)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-14T01:03:36.763439+00:00",
+    "published": "2026-04-13T21:02:21+00:00"
+  },
+  "https://simonwillison.net/2026/Apr/13/steve-yegge": {
+    "title": "Quoting Steve Yegge",
+    "source": "Simon Willison",
+    "first_seen": "2026-04-14T01:03:36.763439+00:00",
+    "published": "2026-04-13T20:59:45+00:00"
+  },
+  "https://www.johndcook.com/blog/2026/04/13/the-smallest-math-library": {
+    "title": "Mathematical Minimalism",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-14T01:03:36.763439+00:00",
+    "published": "2026-04-13T20:45:39+00:00"
+  },
+  "https://github.com/SunAndClouds/ReadMe": {
+    "title": "Show HN: Continual Learning with .md",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-14T01:03:36.763439+00:00",
+    "published": "2026-04-13T20:42:19+00:00"
+  },
+  "https://github.github.com/gh-stack": {
+    "title": "GitHub Stacked PRs",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-14T01:03:36.763439+00:00",
+    "published": "2026-04-13T20:36:49+00:00"
+  },
+  "https://www.chartography.net/p/ascending-into-the-realm-of-japanese": {
+    "title": "Ascending into the Realm of Japanese Charts",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-14T01:03:36.763439+00:00",
+    "published": "2026-04-13T20:29:55+00:00"
+  },
+  "https://www.dwarmstrong.org/chimera-install-zfs": {
+    "title": "Just Enough Chimera Linux",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-14T01:03:36.763439+00:00",
+    "published": "2026-04-13T19:37:54+00:00"
+  },
+  "https://www.phoronix.com/news/GreenBoost-Proton-NVIDIA-vRAM": {
+    "title": "GreenBoost Memory Orchestrator For NVIDIA GPUs Introduces GreenBoost-Proton For Gaming",
+    "source": "Phoronix",
+    "first_seen": "2026-04-14T01:03:36.763439+00:00",
+    "published": "2026-04-13T19:30:00+00:00"
+  },
+  "https://amd-gaia.ai/docs": {
+    "title": "(AMD) Build AI Agents That Run Locally",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-14T01:03:36.763439+00:00",
+    "published": "2026-04-13T19:28:41+00:00"
+  },
+  "https://www.ithihasas.in": {
+    "title": "Show HN: Ithihāsas – a character explorer for Hindu epics, built in a few hours",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-14T01:03:36.763439+00:00",
+    "published": "2026-04-13T19:10:07+00:00"
+  },
+  "https://www.phoronix.com/news/Coreboot-StarBook-MK-VI": {
+    "title": "Coreboot Comes To AMD Ryzen Powered Star Labs StarBook MK VI After 3+ Year Wait",
+    "source": "Phoronix",
+    "first_seen": "2026-04-14T01:03:36.763439+00:00",
+    "published": "2026-04-13T19:05:57+00:00"
+  },
+  "https://medium.com/pinterest-engineering/scaling-recommendation-systems-with-request-level-deduplication-93bd514142d9?source=rss----4c5a5f6279b6---4": {
+    "title": "Scaling Recommendation Systems with Request-Level Deduplication",
+    "source": "Pinterest Engineering",
+    "first_seen": "2026-04-14T01:03:36.763439+00:00",
+    "published": "2026-04-13T19:01:01+00:00"
+  },
+  "https://blog.farre.se/posts/2026/04/10/caching-webidl-codegen": {
+    "title": "How to make Firefox builds 17% faster",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-14T01:03:36.763439+00:00",
+    "published": "2026-04-13T18:50:08+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.1-User-xattrs-Sockets": {
+    "title": "user.* xattrs On Sockets Merged For Linux 7.1 As Sought By GNOME & systemd Developers",
+    "source": "Phoronix",
+    "first_seen": "2026-04-14T01:03:36.763439+00:00",
+    "published": "2026-04-13T18:45:50+00:00"
+  },
+  "https://timmastny.com/blog/visualizing-cpu-pipelining": {
+    "title": "Visualizing CPU Pipelining (2024)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-14T01:03:36.763439+00:00",
+    "published": "2026-04-13T18:26:40+00:00"
+  },
+  "https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them": {
+    "title": "Someone Bought 30 WordPress Plugins and Planted a Backdoor in All of Them",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-14T01:03:36.763439+00:00",
+    "published": "2026-04-13T17:54:39+00:00"
+  },
+  "https://www.newyorker.com/magazine/2026/04/20/the-car-crash-conspiracy": {
+    "title": "New Orleans's Car-Crash Conspiracy",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-14T01:03:36.763439+00:00",
+    "published": "2026-04-13T17:50:56+00:00"
+  },
+  "https://planetscale.com/blog/btrees-and-database-indexes": {
+    "title": "B-trees and database indexes (2024)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-14T01:03:36.763439+00:00",
+    "published": "2026-04-13T17:22:31+00:00"
+  },
+  "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-mythos-preview-in-amazon-bedrock-aws-agent-registry-and-more-april-13-2026": {
+    "title": "AWS Weekly Roundup: Claude Mythos Preview in Amazon Bedrock, AWS Agent Registry, and more (April 13, 2026)",
+    "source": "AWS Blog",
+    "first_seen": "2026-04-14T01:03:36.763439+00:00",
+    "published": "2026-04-13T16:16:20+00:00"
+  },
+  "https://www.phoronix.com/news/LLVM-Generated-Spack-Packages": {
+    "title": "The Good & The Bad When Using LLMs To Write Spack Packages",
+    "source": "Phoronix",
+    "first_seen": "2026-04-14T01:03:36.763439+00:00",
+    "published": "2026-04-13T16:13:54+00:00"
+  },
+  "https://lwn.net/Articles/1066723": {
+    "title": "[$] Development statistics for the 7.0 kernel",
+    "source": "LWN.net",
+    "first_seen": "2026-04-14T01:03:36.763439+00:00",
+    "published": "2026-04-13T16:04:23+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/how-to-build-effective-reward-functions-with-aws-lambda-for-amazon-nova-model-customization": {
+    "title": "How to build effective reward functions with AWS Lambda for Amazon Nova model customization",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-04-14T01:03:36.763439+00:00",
+    "published": "2026-04-13T16:01:18+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/how-to-use-parquet-column-indexes-with-amazon-athena": {
+    "title": "How to use Parquet Column Indexes with Amazon Athena",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-04-14T01:03:36.763439+00:00",
+    "published": "2026-04-13T15:57:18+00:00"
+  },
+  "https://blog.angular.dev/mastering-dynamic-components-http-resources-and-ai-writing-assistants-%EF%B8%8F-eb1a773270e4?source=rss----447683c3d9a3---4": {
+    "title": "Mastering Dynamic Components, HTTP Resources, and AI Writing Assistants ️",
+    "source": "Angular Blog",
+    "first_seen": "2026-04-14T01:03:36.763439+00:00",
+    "published": "2026-04-13T15:53:54+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/options-for-changing-aws-kms-encryption-key-for-amazon-rds-databases": {
+    "title": "Options for changing AWS KMS encryption key for Amazon RDS databases",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-04-14T01:03:36.763439+00:00",
+    "published": "2026-04-13T15:52:10+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/implementing-kerberos-authentication-for-apache-spark-jobs-on-amazon-emr-on-eks-to-access-a-kerberos-enabled-hive-metastore": {
+    "title": "Implementing Kerberos authentication for Apache Spark jobs on Amazon EMR on EKS to access a Kerberos-enabled Hive Metastore",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-04-14T01:03:36.763439+00:00",
+    "published": "2026-04-13T15:51:31+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/connecting-net-lambda-to-amazon-aurora-postgresql-via-rds-proxy": {
+    "title": "Connecting .NET Lambda to Amazon Aurora PostgreSQL via RDS Proxy",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-04-14T01:03:36.763439+00:00",
+    "published": "2026-04-13T15:48:58+00:00"
+  },
+  "https://www.phoronix.com/news/NVIDIA-More-Engineers-CUDA-Tile": {
+    "title": "NVIDIA Hiring More LLVM Engineers To Work On CUDA Tile",
+    "source": "Phoronix",
+    "first_seen": "2026-04-14T01:03:36.763439+00:00",
+    "published": "2026-04-13T15:45:48+00:00"
+  },
+  "https://lwn.net/Articles/1066103": {
+    "title": "[$] A build system aimed at license compliance",
+    "source": "LWN.net",
+    "first_seen": "2026-04-14T01:03:36.763439+00:00",
+    "published": "2026-04-13T15:17:37+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.1-Rust": {
+    "title": "Rust For Linux 7.1 Bringing Experimental Option That Can Help Performance",
+    "source": "Phoronix",
+    "first_seen": "2026-04-14T01:03:36.763439+00:00",
+    "published": "2026-04-13T14:51:11+00:00"
+  },
+  "https://lwn.net/Articles/1067467": {
+    "title": "Servo now on crates.io",
+    "source": "LWN.net",
+    "first_seen": "2026-04-14T01:03:36.763439+00:00",
+    "published": "2026-04-13T14:49:30+00:00"
+  },
+  "https://realpython.com/codex-cli": {
+    "title": "How to Add Features to a Python Project With Codex CLI",
+    "source": "Real Python",
+    "first_seen": "2026-04-14T01:03:36.763439+00:00",
+    "published": "2026-04-13T14:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/FTRFS-Linux-File-System": {
+    "title": "FTRFS: New Fault-Tolerant File-System Proposed For Linux",
+    "source": "Phoronix",
+    "first_seen": "2026-04-14T01:03:36.763439+00:00",
+    "published": "2026-04-13T13:20:32+00:00"
+  },
+  "https://www.phoronix.com/news/Mold-2.41-Released": {
+    "title": "Mold 2.41 Linker Released With New Features & Fixes",
+    "source": "Phoronix",
+    "first_seen": "2026-04-14T01:03:36.763439+00:00",
+    "published": "2026-04-13T13:13:52+00:00"
+  },
+  "https://lwn.net/Articles/1067436": {
+    "title": "Security updates for Monday",
+    "source": "LWN.net",
+    "first_seen": "2026-04-14T01:03:36.763439+00:00",
+    "published": "2026-04-13T13:13:43+00:00"
+  },
+  "https://realpython.com/quizzes/gemini-cli-vs-claude-code": {
+    "title": "Quiz: Gemini CLI vs Claude Code: Which to Choose for Python Tasks",
+    "source": "Real Python",
+    "first_seen": "2026-04-14T01:03:36.763439+00:00",
+    "published": "2026-04-13T12:00:00+00:00"
+  },
+  "https://realpython.com/quizzes/cicd-github-actions": {
+    "title": "Quiz: Python Continuous Integration and Deployment Using GitHub Actions",
+    "source": "Real Python",
+    "first_seen": "2026-04-14T01:03:36.763439+00:00",
+    "published": "2026-04-13T12:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/Servo-Embed-Crates-LTS": {
+    "title": "Servo Browser Engine Making It Easier For Embedded Use",
+    "source": "Phoronix",
+    "first_seen": "2026-04-14T01:03:36.763439+00:00",
+    "published": "2026-04-13T11:47:51+00:00"
+  },
+  "https://www.phoronix.com/news/Mesa-26.1-RadeonSI-Rusticl-APUs": {
+    "title": "Mesa 26.1 RadeonSI Driver Lands Improvement For AMD APUs With Rusticl",
+    "source": "Phoronix",
+    "first_seen": "2026-04-14T01:03:36.763439+00:00",
+    "published": "2026-04-13T10:27:07+00:00"
+  },
+  "https://www.phoronix.com/news/Apple-HFS-Fixes-Linux-7.1": {
+    "title": "Apple HFS / HFS+ File-System Support Seeing Many Fixes For Linux 7.1",
+    "source": "Phoronix",
+    "first_seen": "2026-04-14T01:03:36.763439+00:00",
+    "published": "2026-04-13T10:17:54+00:00"
+  },
+  "https://www.phoronix.com/news/Btrfs-Linux-7.1": {
+    "title": "Btrfs Brings Performance Improvements, Shutdown ioctl Stable With Linux 7.1",
+    "source": "Phoronix",
+    "first_seen": "2026-04-14T01:03:36.763439+00:00",
+    "published": "2026-04-13T09:55:32+00:00"
+  },
+  "https://www.phoronix.com/news/GNU-Linux-Libre-7.0": {
+    "title": "GNU Linux-libre 7.0 Deals With Deblobbing More Drivers & Cleansing DT Files",
+    "source": "Phoronix",
+    "first_seen": "2026-04-14T01:03:36.763439+00:00",
+    "published": "2026-04-13T09:35:09+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.1-Power-Sequencing": {
+    "title": "Linux's Power Sequencing PCIe M.2 Driver To Support M.2 Key-E Connectors",
+    "source": "Phoronix",
+    "first_seen": "2026-04-14T01:03:36.763439+00:00",
+    "published": "2026-04-13T09:03:35+00:00"
+  },
+  "https://www.elastic.co/blog/cursor": {
+    "title": "Elastic and Cursor partner to accelerate context engineering with coding agents",
+    "source": "Elastic Blog",
+    "first_seen": "2026-04-14T01:03:36.763439+00:00",
+    "published": "2026-04-13T00:00:00+00:00"
+  },
+  "https://lwn.net/Articles/1067279": {
+    "title": "The 7.0 kernel has been released",
+    "source": "LWN.net",
+    "first_seen": "2026-04-14T01:03:36.763439+00:00",
+    "published": "2026-04-12T21:09:15+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.0-Released": {
+    "title": "Linux 7.0 Released With New Hardware Support, Optimizations & Self-Healing XFS",
+    "source": "Phoronix",
+    "first_seen": "2026-04-14T01:03:36.763439+00:00",
+    "published": "2026-04-12T21:07:16+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-OOB-Special-Certificate": {
+    "title": "Linux Out-Of-Bounds Access Fixed For Unprivileged Users With Specially Crafted Certs",
+    "source": "Phoronix",
+    "first_seen": "2026-04-14T01:03:36.763439+00:00",
+    "published": "2026-04-12T18:45:25+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.1-Features-Early-Look": {
+    "title": "Many Wonderful Improvements Expected For Linux 7.1, Especially For AMD & Intel",
+    "source": "Phoronix",
+    "first_seen": "2026-04-14T01:03:36.763439+00:00",
+    "published": "2026-04-12T14:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/CMake-Tighter-Package-Integrate": {
+    "title": "CMake Pursuing Tighter Integration With Package Managers, Other Improvements",
+    "source": "Phoronix",
+    "first_seen": "2026-04-14T01:03:36.763439+00:00",
+    "published": "2026-04-12T11:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-Hardware-Errors-AMD-Zen-3": {
+    "title": "Linux 7.0 Sees Last Minute Fix For Bogus Hardware Errors On AMD Zen 3",
+    "source": "Phoronix",
+    "first_seen": "2026-04-14T01:03:36.763439+00:00",
+    "published": "2026-04-12T10:23:36+00:00"
+  },
+  "https://www.phoronix.com/news/Trisquel-12-Linux": {
+    "title": "Trisquel 12.0 Released For Free Software Foundation Endorsed Distribution",
+    "source": "Phoronix",
+    "first_seen": "2026-04-14T01:03:36.763439+00:00",
+    "published": "2026-04-12T10:15:15+00:00"
+  },
+  "https://www.phoronix.com/news/AMD-GAIA-True-Desktop-App": {
+    "title": "AMD's GAIA Now Allows Building Custom AI Agents Via Chat, Becomes \"True Desktop App\"",
+    "source": "Phoronix",
+    "first_seen": "2026-04-14T01:03:36.763439+00:00",
+    "published": "2026-04-11T19:49:10+00:00"
+  },
+  "https://www.phoronix.com/news/D7VK-1.7-Released": {
+    "title": "D7VK 1.7 Brings More Improvements For Legacy Direct3D On Vulkan",
+    "source": "Phoronix",
+    "first_seen": "2026-04-14T01:03:36.763439+00:00",
+    "published": "2026-04-11T13:31:26+00:00"
+  },
+  "https://lwn.net/Articles/1067272": {
+    "title": "A set of Saturday stable kernel updates",
+    "source": "LWN.net",
+    "first_seen": "2026-04-14T01:03:36.763439+00:00",
+    "published": "2026-04-11T13:16:30+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.1-BeagleV-Ahead-HDMI": {
+    "title": "RISC-V BeagleV Ahead Single Board Computer To See Working HDMI With Linux 7.1",
+    "source": "Phoronix",
+    "first_seen": "2026-04-14T01:03:36.763439+00:00",
+    "published": "2026-04-11T11:34:16+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-6.18-LTS-Microsoft-WSL2": {
+    "title": "Microsoft Upgrades Its WSL2 Kernel Against Linux 6.18 LTS",
+    "source": "Phoronix",
+    "first_seen": "2026-04-14T01:03:36.763439+00:00",
+    "published": "2026-04-11T11:21:00+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.1-FSMOUNT-NAMESPACE": {
+    "title": "FSMOUNT_NAMESPACE Feature Coming For Linux 7.1",
+    "source": "Phoronix",
+    "first_seen": "2026-04-14T01:03:36.763439+00:00",
+    "published": "2026-04-11T11:15:05+00:00"
   }
 }
