@@ -2500,5 +2500,191 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-04-14T13:01:32.940026+00:00",
     "published": "2026-04-14T08:30:27+00:00"
+  },
+  "https://cloud.google.com/blog/topics/public-sector/securing-the-ai-era-across-the-public-sector": {
+    "title": "Securing the AI era across the public sector",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-04-14T15:56:31.173244+00:00",
+    "published": "2026-04-14T16:00:00+00:00"
+  },
+  "https://lwn.net/Articles/1066384": {
+    "title": "[$] Tagging music with MusicBrainz Picard",
+    "source": "LWN.net",
+    "first_seen": "2026-04-14T15:56:31.173244+00:00",
+    "published": "2026-04-14T15:50:54+00:00"
+  },
+  "https://lwn.net/Articles/1067622": {
+    "title": "OpenSSL 4.0.0 released",
+    "source": "LWN.net",
+    "first_seen": "2026-04-14T15:56:31.173244+00:00",
+    "published": "2026-04-14T15:36:00+00:00"
+  },
+  "https://blog.bytebytego.com/p/figma-design-to-code-code-to-design": {
+    "title": "Figma Design to Code, Code to Design: Clearly Explained",
+    "source": "ByteByteGo",
+    "first_seen": "2026-04-14T15:56:31.173244+00:00",
+    "published": "2026-04-14T15:31:25+00:00"
+  },
+  "https://meiert.com/blog/ai-ethics-and-safety": {
+    "title": "AI Will Never Be Ethical or Safe",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-14T15:56:31.173244+00:00",
+    "published": "2026-04-14T15:30:48+00:00"
+  },
+  "https://www.phoronix.com/news/Nginx-1.30-Released": {
+    "title": "Nginx 1.30 Released With Multipath TCP, ECH & More",
+    "source": "Phoronix",
+    "first_seen": "2026-04-14T15:56:31.173244+00:00",
+    "published": "2026-04-14T15:26:00+00:00"
+  },
+  "https://www.bloomberg.com/news/features/2026-04-14/buspatrol-school-bus-traffic-tickets-have-limited-safety-benefits-critics-say": {
+    "title": "The AI School Bus Camera Company Blanketing America in Tickets",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-14T15:56:31.173244+00:00",
+    "published": "2026-04-14T15:06:38+00:00"
+  },
+  "https://thenewstack.io/cloudflare-mesh-agent-networking": {
+    "title": "Beyond the VPN: Cloudflare Mesh builds a private network for the age of AI agents",
+    "source": "The New Stack",
+    "first_seen": "2026-04-14T15:56:31.173244+00:00",
+    "published": "2026-04-14T15:04:59+00:00"
+  },
+  "https://www.phoronix.com/news/GNOME-Mutter-50.1": {
+    "title": "GNOME Mutter 50.1 Fixes Performance Regression For Some NVIDIA Driver Versions",
+    "source": "Phoronix",
+    "first_seen": "2026-04-14T15:56:31.173244+00:00",
+    "published": "2026-04-14T15:02:06+00:00"
+  },
+  "https://aphyr.com/posts/418-the-future-of-everything-is-lies-i-guess-work": {
+    "title": "The Future of Everything Is Lies, I Guess: Work",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-14T15:56:31.173244+00:00",
+    "published": "2026-04-14T15:00:45+00:00"
+  },
+  "https://www.databricks.com/blog/agentic-reasoning-practice-making-sense-structured-and-unstructured-data": {
+    "title": "Agentic Reasoning in Practice: Making Sense of Structured and Unstructured Data",
+    "source": "Databricks Blog",
+    "first_seen": "2026-04-14T15:56:31.173244+00:00",
+    "published": "2026-04-14T15:00:24+00:00"
+  },
+  "https://www.databricks.com/blog/agent-bricks-governed-enterprise-agent-platform": {
+    "title": "Agent Bricks: The Governed Enterprise Agent Platform",
+    "source": "Databricks Blog",
+    "first_seen": "2026-04-14T15:56:31.173244+00:00",
+    "published": "2026-04-14T15:00:03+00:00"
+  },
+  "https://github.blog/security/application-security/how-exposed-is-your-code-find-out-in-minutes-for-free": {
+    "title": "How exposed is your code? Find out in minutes—for free",
+    "source": "GitHub Blog",
+    "first_seen": "2026-04-14T15:56:31.173244+00:00",
+    "published": "2026-04-14T15:00:00+00:00"
+  },
+  "https://developer.nvidia.com/blog/nvidia-ising-introduces-ai-powered-workflows-to-build-fault-tolerant-quantum-systems": {
+    "title": "NVIDIA Ising Introduces AI-Powered Workflows to Build Fault-Tolerant Quantum Systems",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-04-14T15:56:31.173244+00:00",
+    "published": "2026-04-14T14:15:56+00:00"
+  },
+  "https://thenewstack.io/real-time-sync-engine": {
+    "title": "From clobbered drafts to real-time sync",
+    "source": "The New Stack",
+    "first_seen": "2026-04-14T15:56:31.173244+00:00",
+    "published": "2026-04-14T14:00:00+00:00"
+  },
+  "https://realpython.com/courses/vector-databases-embeddings-chromadb": {
+    "title": "Vector Databases and Embeddings With ChromaDB",
+    "source": "Real Python",
+    "first_seen": "2026-04-14T15:56:31.173244+00:00",
+    "published": "2026-04-14T14:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/X.Org-Server-21.1.22": {
+    "title": "X.Org Server 21.1.22 Released Due To Five New Security Vulnerabilities",
+    "source": "Phoronix",
+    "first_seen": "2026-04-14T15:56:31.173244+00:00",
+    "published": "2026-04-14T13:59:38+00:00"
+  },
+  "https://www.phoronix.com/news/Sunshine-v2026.413.143228": {
+    "title": "Sunshine Game Streaming Introduces Vulkan Video Encode Support",
+    "source": "Phoronix",
+    "first_seen": "2026-04-14T15:56:31.173244+00:00",
+    "published": "2026-04-14T13:48:11+00:00"
+  },
+  "https://techcrunch.com/2026/04/13/thousands-of-rare-concert-recordings-are-landing-on-the-internet-archive-listen-now": {
+    "title": "Rare concert recordings are landing on the Internet Archive",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-14T15:56:31.173244+00:00",
+    "published": "2026-04-14T13:46:31+00:00"
+  },
+  "https://github.com/kontext-dev/kontext-cli": {
+    "title": "Show HN: Kontext CLI – Credential broker for AI coding agents in Go",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-14T15:56:31.173244+00:00",
+    "published": "2026-04-14T13:26:53+00:00"
+  },
+  "https://www.phoronix.com/news/OpenSSL-4.0-Released": {
+    "title": "OpenSSL 4.0 Released With Encrypted Client Hello, RFC 8998 Support",
+    "source": "Phoronix",
+    "first_seen": "2026-04-14T15:56:31.173244+00:00",
+    "published": "2026-04-14T13:18:06+00:00"
+  },
+  "https://martinfowler.com/fragments/2026-04-14.html": {
+    "title": "Fragments: April 14",
+    "source": "Martin Fowler",
+    "first_seen": "2026-04-14T15:56:31.173244+00:00",
+    "published": "2026-04-14T13:16:00+00:00"
+  },
+  "https://lwn.net/Articles/1067595": {
+    "title": "Security updates for Tuesday",
+    "source": "LWN.net",
+    "first_seen": "2026-04-14T15:56:31.173244+00:00",
+    "published": "2026-04-14T13:05:04+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.1-Revamps-T10-PI": {
+    "title": "Linux 7.1 Revamps T10 PI Data Integrity Handling For Better Read Performance",
+    "source": "Phoronix",
+    "first_seen": "2026-04-14T15:56:31.173244+00:00",
+    "published": "2026-04-14T13:03:36+00:00"
+  },
+  "https://blog.cloudflare.com/managed-oauth-for-access": {
+    "title": "Managed OAuth for Access: make internal apps agent-ready in one click",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-04-14T15:56:31.173244+00:00",
+    "published": "2026-04-14T13:00:10+00:00"
+  },
+  "https://blog.cloudflare.com/improved-developer-security": {
+    "title": "Securing non-human identities: automated revocation, OAuth, and scoped permissions",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-04-14T15:56:31.173244+00:00",
+    "published": "2026-04-14T13:00:10+00:00"
+  },
+  "https://blog.cloudflare.com/enterprise-mcp": {
+    "title": "Scaling MCP adoption: Our reference architecture for simpler, safer and cheaper enterprise deployments of MCP",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-04-14T15:56:31.173244+00:00",
+    "published": "2026-04-14T13:00:10+00:00"
+  },
+  "https://blog.cloudflare.com/mesh": {
+    "title": "Secure private networking for everyone: users, nodes, agents, Workers — introducing Cloudflare Mesh",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-04-14T15:56:31.173244+00:00",
+    "published": "2026-04-14T13:00:09+00:00"
+  },
+  "https://armanckeser.com/writing/jellyfin-flow": {
+    "title": "The exponential curve behind open source backlogs",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-14T15:56:31.173244+00:00",
+    "published": "2026-04-14T11:37:56+00:00"
+  },
+  "https://web.dev/blog/baseline-digest-mar-2026?hl=en": {
+    "title": "March 2026 Baseline monthly digest",
+    "source": "web.dev",
+    "first_seen": "2026-04-14T15:56:31.173244+00:00",
+    "published": "2026-04-14T07:00:00+00:00"
+  },
+  "https://deepmind.google/blog/gemini-robotics-er-1-6": {
+    "title": "Gemini Robotics-ER 1.6: Powering real-world robotics tasks through enhanced embodied reasoning",
+    "source": "DeepMind Blog",
+    "first_seen": "2026-04-14T15:56:31.173244+00:00",
+    "published": "2026-04-13T15:52:13+00:00"
   }
 }
