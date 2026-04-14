@@ -2686,5 +2686,275 @@
     "source": "DeepMind Blog",
     "first_seen": "2026-04-14T15:56:31.173244+00:00",
     "published": "2026-04-13T15:52:13+00:00"
+  },
+  "https://thenewstack.io/claude-code-can-now-do-your-job-overnight": {
+    "title": "Claude Code can now do your job overnight",
+    "source": "The New Stack",
+    "first_seen": "2026-04-14T19:02:26.398832+00:00",
+    "published": "2026-04-14T18:56:00+00:00"
+  },
+  "https://thenewstack.io/spring-creator-java-type-system-agentic-ai-rod-johnson": {
+    "title": "Spring creator wants Java’s type system to tame agentic AI",
+    "source": "The New Stack",
+    "first_seen": "2026-04-14T19:02:26.398832+00:00",
+    "published": "2026-04-14T18:49:24+00:00"
+  },
+  "https://lwn.net/Articles/1067634": {
+    "title": "Zig 0.16.0 released",
+    "source": "LWN.net",
+    "first_seen": "2026-04-14T19:02:26.398832+00:00",
+    "published": "2026-04-14T18:48:44+00:00"
+  },
+  "https://thenewstack.io/claude-mythos-preview-simulation": {
+    "title": "Claude Mythos Preview completes full cyberattack simulation for the first time",
+    "source": "The New Stack",
+    "first_seen": "2026-04-14T19:02:26.398832+00:00",
+    "published": "2026-04-14T18:35:03+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/navigating-the-generative-ai-journey-the-path-to-value-framework-from-aws": {
+    "title": "Navigating the generative AI journey: The Path-to-Value framework from AWS",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-04-14T19:02:26.398832+00:00",
+    "published": "2026-04-14T18:19:43+00:00"
+  },
+  "https://github.blog/security/hack-the-ai-agent-build-agentic-ai-security-skills-with-the-github-secure-code-game": {
+    "title": "Hack the AI agent: Build agentic AI security skills with the GitHub Secure Code Game",
+    "source": "GitHub Blog",
+    "first_seen": "2026-04-14T19:02:26.398832+00:00",
+    "published": "2026-04-14T18:17:59+00:00"
+  },
+  "https://www.tigerdata.com/blog/clickhouse-is-fast-your-pipeline-isnt": {
+    "title": "ClickHouse Is Fast. Your Pipeline Isn't.",
+    "source": "Timescale Blog",
+    "first_seen": "2026-04-14T19:02:26.398832+00:00",
+    "published": "2026-04-14T18:15:43+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/use-case-based-deployments-on-sagemaker-jumpstart": {
+    "title": "Use-case based deployments on SageMaker JumpStart",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-04-14T19:02:26.398832+00:00",
+    "published": "2026-04-14T18:14:54+00:00"
+  },
+  "https://iopscience.iop.org/article/10.1088/2976-601X/ae4f6b": {
+    "title": "40% of lost calories globally are from beef, needing 33 cal of feed per 1 cal",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-14T19:02:26.398832+00:00",
+    "published": "2026-04-14T18:14:29+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/best-practices-to-run-inference-on-amazon-sagemaker-hyperpod": {
+    "title": "Best practices to run inference on Amazon SageMaker HyperPod",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-04-14T19:02:26.398832+00:00",
+    "published": "2026-04-14T18:09:22+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/how-guidesly-built-ai-generated-trip-reports-for-outdoor-guides-on-aws": {
+    "title": "How Guidesly built AI-generated trip reports for outdoor guides on AWS",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-04-14T19:02:26.398832+00:00",
+    "published": "2026-04-14T18:02:56+00:00"
+  },
+  "https://thenewstack.io/aws-kubernetes-invisible-simplicity": {
+    "title": "Can you make Kubernetes invisible? Here’s why AWS is on a mission to do it.",
+    "source": "The New Stack",
+    "first_seen": "2026-04-14T19:02:26.398832+00:00",
+    "published": "2026-04-14T17:52:51+00:00"
+  },
+  "https://honeypot.net/2026/04/14/i-wrote-to-flocks-privacy.html": {
+    "title": "I wrote to Flock's privacy contact to opt out of their domestic spying program",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-14T19:02:26.398832+00:00",
+    "published": "2026-04-14T17:47:00+00:00"
+  },
+  "https://github.com/openssl/openssl/releases/tag/openssl-4.0.0": {
+    "title": "OpenSSL 4.0.0",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-14T19:02:26.398832+00:00",
+    "published": "2026-04-14T17:45:34+00:00"
+  },
+  "https://github.com/dropseed/plain": {
+    "title": "Show HN: Plain – The full-stack Python framework designed for humans and agents",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-14T19:02:26.398832+00:00",
+    "published": "2026-04-14T17:43:17+00:00"
+  },
+  "https://www.phoronix.com/review/ubuntu-2604-strix-point": {
+    "title": "Ubuntu 26.04 Delivers Great Performance Improvements For AMD Strix Point, Especially For RDNA 3.5 Graphics",
+    "source": "Phoronix",
+    "first_seen": "2026-04-14T19:02:26.398832+00:00",
+    "published": "2026-04-14T17:22:37+00:00"
+  },
+  "https://blog.google/products-and-platforms/products/chrome/skills-in-chrome": {
+    "title": "Turn your best AI prompts into one-click tools in Chrome",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-14T19:02:26.398832+00:00",
+    "published": "2026-04-14T17:09:43+00:00"
+  },
+  "https://lantian.pub/en/article/modify-computer/modify-filezilla-workaround-bambu-3d-printer-ftp-issue.lantian": {
+    "title": "Modifying FileZilla to Workaround Bambu 3D Printer's FTP Issue",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-14T19:02:26.398832+00:00",
+    "published": "2026-04-14T17:06:49+00:00"
+  },
+  "https://medium.com/airbnb-engineering/privacy-first-connections-empowering-social-experiences-at-airbnb-d7dec59ef960?source=rss----53c7c27702d5---4": {
+    "title": "Privacy-first connections: Empowering social experiences at Airbnb",
+    "source": "Airbnb Engineering",
+    "first_seen": "2026-04-14T19:02:26.398832+00:00",
+    "published": "2026-04-14T17:01:01+00:00"
+  },
+  "https://thenewstack.io/gemini-chrome-saved-prompts": {
+    "title": "Google’s Gemini in Chrome now lets you save prompts as “skills”",
+    "source": "The New Stack",
+    "first_seen": "2026-04-14T19:02:26.398832+00:00",
+    "published": "2026-04-14T17:00:00+00:00"
+  },
+  "https://bandaancha.eu/articulos/telefonica-consigue-bloqueos-ips-11731": {
+    "title": "Spain to expand internet blocks to tennis, golf, movies broadcasting times",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-14T19:02:26.398832+00:00",
+    "published": "2026-04-14T16:59:09+00:00"
+  },
+  "https://aws.amazon.com/blogs/containers/deploying-model-context-protocol-mcp-servers-on-amazon-ecs": {
+    "title": "Deploying Model Context Protocol (MCP) servers on Amazon ECS",
+    "source": "AWS Containers Blog",
+    "first_seen": "2026-04-14T19:02:26.398832+00:00",
+    "published": "2026-04-14T16:55:37+00:00"
+  },
+  "https://code.claude.com/docs/en/routines": {
+    "title": "Claude Code Routines",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-14T19:02:26.398832+00:00",
+    "published": "2026-04-14T16:54:33+00:00"
+  },
+  "https://aws.amazon.com/blogs/containers/navigating-enterprise-networking-challenges-with-amazon-eks-auto-mode": {
+    "title": "Navigating enterprise networking challenges with Amazon EKS Auto Mode",
+    "source": "AWS Containers Blog",
+    "first_seen": "2026-04-14T19:02:26.398832+00:00",
+    "published": "2026-04-14T16:51:50+00:00"
+  },
+  "https://developer.nvidia.com/blog/building-custom-atomistic-simulation-workflows-for-chemistry-and-materials-science-with-nvidia-alchemi-toolkit": {
+    "title": "Building Custom Atomistic Simulation Workflows for Chemistry and Materials Science with NVIDIA ALCHEMI Toolkit",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-04-14T19:02:26.398832+00:00",
+    "published": "2026-04-14T16:30:00+00:00"
+  },
+  "https://kb.databasedesignbook.com/posts/5nf": {
+    "title": "5NF and Database Design",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-14T19:02:26.398832+00:00",
+    "published": "2026-04-14T16:22:49+00:00"
+  },
+  "https://aws.amazon.com/blogs/compute/aws-outposts-monitoring-and-reporting-a-comprehensive-amazon-eventbridge-solution": {
+    "title": "AWS Outposts monitoring and reporting: A comprehensive Amazon EventBridge solution",
+    "source": "AWS Compute Blog",
+    "first_seen": "2026-04-14T19:02:26.398832+00:00",
+    "published": "2026-04-14T16:18:12+00:00"
+  },
+  "https://kelet.ai": {
+    "title": "Show HN: Kelet – Root Cause Analysis agent for your LLM apps",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-14T19:02:26.398832+00:00",
+    "published": "2026-04-14T16:16:51+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/improving-storage-with-additional-storage-volumes-in-amazon-rds-for-sql-server": {
+    "title": "Improving storage with additional storage volumes in Amazon RDS for SQL Server",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-04-14T19:02:26.398832+00:00",
+    "published": "2026-04-14T16:16:39+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/accelerate-database-migration-to-amazon-aurora-dsql-with-kiro-and-amazon-bedrock-agentcore": {
+    "title": "Accelerate database migration to Amazon Aurora DSQL with Kiro and Amazon Bedrock AgentCore",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-04-14T19:02:26.398832+00:00",
+    "published": "2026-04-14T16:15:36+00:00"
+  },
+  "https://www.schneier.com/blog/archives/2026/04/upcoming-speaking-engagements-55.html": {
+    "title": "Upcoming Speaking Engagements",
+    "source": "Schneier on Security",
+    "first_seen": "2026-04-14T19:02:26.398832+00:00",
+    "published": "2026-04-14T16:01:47+00:00"
+  },
+  "https://newsletter.pragmaticengineer.com/p/the-impact-of-ai-on-software-engineers-2026": {
+    "title": "The impact of AI on software engineers in 2026: key trends",
+    "source": "The Pragmatic Engineer",
+    "first_seen": "2026-04-14T19:02:26.398832+00:00",
+    "published": "2026-04-14T16:01:02+00:00"
+  },
+  "https://thenewstack.io/kumo-ai-foundation-models": {
+    "title": "Kumo’s new foundation model replaces months of data science engineering with plain-English queries",
+    "source": "The New Stack",
+    "first_seen": "2026-04-14T19:02:26.398832+00:00",
+    "published": "2026-04-14T16:01:00+00:00"
+  },
+  "https://developer.nvidia.com/blog/nvidia-nvbandwidth-your-essential-tool-for-measuring-gpu-interconnect-and-memory-performance": {
+    "title": "NVIDIA NVbandwidth: Your Essential Tool for Measuring GPU Interconnect and Memory Performance",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-04-14T19:02:26.398832+00:00",
+    "published": "2026-04-14T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/data-analytics/using-bigquery-graph-with-kineviz-graphxr": {
+    "title": "Scaling unstructured enterprise knowledge with BigQuery Graph, and Kineviz GraphXR",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-04-14T19:02:26.398832+00:00",
+    "published": "2026-04-14T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/data-analytics/the-unified-graph-solution-with-spanner-graph-and-bigquery-graph": {
+    "title": "From operational to analytical: The unified Spanner Graph and BigQuery Graph solution",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-04-14T19:02:26.398832+00:00",
+    "published": "2026-04-14T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/data-analytics/introducing-bigquery-graph": {
+    "title": "Introducing BigQuery Graph: Unlock hidden relationships in your data",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-04-14T19:02:26.398832+00:00",
+    "published": "2026-04-14T16:00:00+00:00"
+  },
+  "https://adele.pages.casa/md/blog/the-fediverse-deserves-a-dumb-graphical-client.md": {
+    "title": "The Fediverse deserves a dumb graphical client",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-14T19:02:26.398832+00:00",
+    "published": "2026-04-14T15:42:48+00:00"
+  },
+  "https://github.com/yantrikos/yantrikdb-server": {
+    "title": "Show HN: A memory database that forgets, consolidates, and detects contradiction",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-14T19:02:26.398832+00:00",
+    "published": "2026-04-14T15:41:01+00:00"
+  },
+  "https://github.com/ginlix-ai/langalpha": {
+    "title": "Show HN: LangAlpha – what if Claude Code was built for Wall Street?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-14T19:02:26.398832+00:00",
+    "published": "2026-04-14T14:48:46+00:00"
+  },
+  "https://www.databricks.com/blog/8-ai-and-data-trends-shaping-financial-services-2026": {
+    "title": "8 AI and data trends shaping financial services in 2026",
+    "source": "Databricks Blog",
+    "first_seen": "2026-04-14T19:02:26.398832+00:00",
+    "published": "2026-04-14T12:20:18+00:00"
+  },
+  "https://www.databricks.com/blog/building-real-time-product-search-databricks": {
+    "title": "Building Real-Time Product Search on Databricks",
+    "source": "Databricks Blog",
+    "first_seen": "2026-04-14T19:02:26.398832+00:00",
+    "published": "2026-04-14T10:17:11+00:00"
+  },
+  "https://ziglang.org/news/0.16.0-released": {
+    "title": "0.16.0 Released",
+    "source": "Zig Lang",
+    "first_seen": "2026-04-14T19:02:26.398832+00:00",
+    "published": "2026-04-14T00:00:00+00:00"
+  },
+  "https://www.elastic.co/blog/real-time-geospatial-intelligence-elastic": {
+    "title": "Unlocking real-time geospatial intelligence with Elastic",
+    "source": "Elastic Blog",
+    "first_seen": "2026-04-14T19:02:26.398832+00:00",
+    "published": "2026-04-14T00:00:00+00:00"
+  },
+  "https://www.elastic.co/blog/cloud-serverless-recap-2025": {
+    "title": "Elastic Cloud Serverless: Our worldwide expansion continues",
+    "source": "Elastic Blog",
+    "first_seen": "2026-04-14T19:02:26.398832+00:00",
+    "published": "2026-04-14T00:00:00+00:00"
   }
 }
