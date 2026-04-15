@@ -444,8 +444,13 @@ def render_articles(items: list[NewsItem], now: datetime) -> str:
             f"{html_escape(it.title)}</a>{jira_html}"
         )
         lines.append("          </h2>")
+        pub_iso = html_escape(it.published.isoformat()) if it.published else ""
+        scraped_iso = html_escape(it.first_seen.isoformat()) if it.first_seen else ""
         lines.append(
-            f'          <p class="news-date">{pub_html}{scraped_html}</p>'
+            f'          <p class="news-date"'
+            f' data-published="{pub_iso}"'
+            f' data-scraped="{scraped_iso}"'
+            f'>{pub_html}{scraped_html}</p>'
         )
         lines.append("        </article>")
     return "\n".join(lines)

@@ -1132,5 +1132,39 @@ I'll try the recipe on one of my internal services and see if the new inference 
       </section>
     </main>
   </div>
+<script>
+(function () {
+  function relTime(iso) {
+    if (!iso) return null;
+    var secs = Math.floor((Date.now() - new Date(iso).getTime()) / 1000);
+    if (secs < 60) return 'just now';
+    var m = Math.floor(secs / 60);
+    if (m < 60) return m + ' minute' + (m !== 1 ? 's' : '') + ' ago';
+    var h = Math.floor(m / 60);
+    if (h < 48) return h + ' hour' + (h !== 1 ? 's' : '') + ' ago';
+    var d = Math.floor(h / 24);
+    if (d < 14) return d + ' day' + (d !== 1 ? 's' : '') + ' ago';
+    if (d < 60) { var w = Math.floor(d / 7); return w + ' week' + (w !== 1 ? 's' : '') + ' ago'; }
+    var mo = Math.floor(d / 30);
+    if (mo < 24) return mo + ' month' + (mo !== 1 ? 's' : '') + ' ago';
+    var y = Math.floor(d / 365);
+    return y + ' year' + (y !== 1 ? 's' : '') + ' ago';
+  }
+
+  function updateDates() {
+    document.querySelectorAll('.news-date[data-published]').forEach(function (el) {
+      var pub = relTime(el.dataset.published);
+      var scraped = relTime(el.dataset.scraped);
+      var parts = [];
+      if (pub) parts.push('Published: ' + pub);
+      if (scraped) parts.push('Scraped: ' + scraped);
+      if (parts.length) el.textContent = parts.join(' \u00b7 ');
+    });
+  }
+
+  updateDates();
+  setInterval(updateDates, 60000);
+})();
+</script>
 </body>
 </html>
