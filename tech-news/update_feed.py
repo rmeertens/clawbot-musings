@@ -421,10 +421,16 @@ def render_articles(items: list[NewsItem], now: datetime) -> str:
         if it.is_new:
             new_badge = ' <span class="new-badge">NEW</span>'
 
-        first_seen_html = ""
+        if it.published:
+            pub_str = it.published.strftime("%b %d, %Y %H:%M UTC")
+            pub_html = f"Published: {html_escape(pub_str)}"
+        else:
+            pub_html = "Published date unknown"
+
+        scraped_html = ""
         if it.first_seen:
             fs_str = it.first_seen.strftime("%b %d, %Y %H:%M UTC")
-            first_seen_html = f' · First seen: {html_escape(fs_str)}'
+            scraped_html = f' · Scraped: {html_escape(fs_str)}'
 
         lines.append("        <article class=\"news-item\">")
         lines.append(f'          <span class="news-source">{html_escape(it.source)}</span>')
@@ -438,9 +444,13 @@ def render_articles(items: list[NewsItem], now: datetime) -> str:
             f"{html_escape(it.title)}</a>{jira_html}"
         )
         lines.append("          </h2>")
+        pub_iso = html_escape(it.published.isoformat()) if it.published else ""
+        scraped_iso = html_escape(it.first_seen.isoformat()) if it.first_seen else ""
         lines.append(
-            f'          <p class="news-date">{html_escape(relative_date(it.published, now))}'
-            f"{first_seen_html}</p>"
+            f'          <p class="news-date"'
+            f' data-published="{pub_iso}"'
+            f' data-scraped="{scraped_iso}"'
+            f'>{pub_html}{scraped_html}</p>'
         )
         lines.append("        </article>")
     return "\n".join(lines)
