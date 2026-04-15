@@ -3214,5 +3214,401 @@
     "source": "Grafana Blog",
     "first_seen": "2026-04-15T13:01:06.591191+00:00",
     "published": "2026-04-14T14:52:57+00:00"
+  },
+  "https://thenewstack.io/openai-agents-sdk-sandboxes": {
+    "title": "OpenAI’s Agents SDK separates the harness from the compute",
+    "source": "The New Stack",
+    "first_seen": "2026-04-15T19:01:18.052411+00:00",
+    "published": "2026-04-15T18:48:52+00:00"
+  },
+  "https://www.404media.co/thomson-reuters-fired-worker-for-speaking-out-about-ice-former-employee-says": {
+    "title": "Thomson Reuters Fired Worker for Speaking Out About ICE, Former Employee Says",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-15T19:01:18.052411+00:00",
+    "published": "2026-04-15T18:44:40+00:00"
+  },
+  "https://lwn.net/Articles/1067771": {
+    "title": "FSF clarifies its stance on AGPLv3 additional terms",
+    "source": "LWN.net",
+    "first_seen": "2026-04-15T19:01:18.052411+00:00",
+    "published": "2026-04-15T18:30:55+00:00"
+  },
+  "https://heidenstedt.org/posts/2026/ai-assisted-cognition-endangers-human-development": {
+    "title": "AI-Assisted Cognition Endangers Human Development",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-15T19:01:18.052411+00:00",
+    "published": "2026-04-15T18:16:50+00:00"
+  },
+  "https://www.semafor.com/article/04/15/2026/kalshi-ceo-tarek-mansour-expects-us-doj-to-prosecute-insider-trading-cases": {
+    "title": "Kalshi CEO expects US DOJ to prosecute insider trading cases",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-15T19:01:18.052411+00:00",
+    "published": "2026-04-15T18:11:24+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.1-Enabled-Intel-FRED": {
+    "title": "Linux 7.1 Is A Big Win For Intel Panther Lake With FRED Now Enabled By Default",
+    "source": "Phoronix",
+    "first_seen": "2026-04-15T19:01:18.052411+00:00",
+    "published": "2026-04-15T18:05:00+00:00"
+  },
+  "https://www.eff.org/deeplinks/2026/04/google-broke-its-promise-me-now-ice-has-my-data": {
+    "title": "Google Broke Its Promise to Me. Now ICE Has My Data",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-15T19:01:18.052411+00:00",
+    "published": "2026-04-15T17:44:26+00:00"
+  },
+  "https://thenewstack.io/claude-code-and-the-rise-of-personal-software": {
+    "title": "Claude Code and the rise of personal software",
+    "source": "The New Stack",
+    "first_seen": "2026-04-15T19:01:18.052411+00:00",
+    "published": "2026-04-15T17:30:00+00:00"
+  },
+  "https://simonwillison.net/2026/Apr/15/john-gruber": {
+    "title": "Quoting John Gruber",
+    "source": "Simon Willison",
+    "first_seen": "2026-04-15T19:01:18.052411+00:00",
+    "published": "2026-04-15T17:13:57+00:00"
+  },
+  "https://simonwillison.net/2026/Apr/15/gemini-31-flash-tts": {
+    "title": "Gemini 3.1 Flash TTS",
+    "source": "Simon Willison",
+    "first_seen": "2026-04-15T19:01:18.052411+00:00",
+    "published": "2026-04-15T17:13:14+00:00"
+  },
+  "https://seqpu.com/CPUsArentDead": {
+    "title": "CPUs Aren't Dead. Gemma2B Out Scored GPT-3.5 Turbo on Test That Made It Famous",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-15T19:01:18.052411+00:00",
+    "published": "2026-04-15T17:07:36+00:00"
+  },
+  "https://www.ycombinator.com/companies/adaptional/jobs/k7W6ge9-founding-engineer": {
+    "title": "Adaptional (YC S25) Is Hiring Founding AI Engineers",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-15T19:01:18.052411+00:00",
+    "published": "2026-04-15T17:00:56+00:00"
+  },
+  "https://www.phoronix.com/review/intel-arc-pro-b70": {
+    "title": "Intel Arc Pro B70 Open-Source Linux Performance Against NVIDIA RTX & AMD Radeon AI PRO",
+    "source": "Phoronix",
+    "first_seen": "2026-04-15T19:01:18.052411+00:00",
+    "published": "2026-04-15T17:00:27+00:00"
+  },
+  "https://github.blog/ai-and-ml/github-copilot/build-a-personal-organization-command-center-with-github-copilot-cli": {
+    "title": "Build a personal organization command center with GitHub Copilot CLI",
+    "source": "GitHub Blog",
+    "first_seen": "2026-04-15T19:01:18.052411+00:00",
+    "published": "2026-04-15T17:00:00+00:00"
+  },
+  "https://wherethefuckdidmytaxesgo.com": {
+    "title": "Where did my taxes go?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-15T19:01:18.052411+00:00",
+    "published": "2026-04-15T16:57:37+00:00"
+  },
+  "https://www.androidauthority.com/tiny-e-reader-diy-3657661": {
+    "title": "The tiniest e-reader in the world, and you can build one yourself",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-15T19:01:18.052411+00:00",
+    "published": "2026-04-15T16:53:16+00:00"
+  },
+  "https://devblogs.microsoft.com/dotnet/pin-clustering-in-dotnet-maui-maps": {
+    "title": "Pin Clustering in .NET MAUI Maps",
+    "source": "MS .NET Blog",
+    "first_seen": "2026-04-15T19:01:18.052411+00:00",
+    "published": "2026-04-15T16:45:00+00:00"
+  },
+  "https://simonwillison.net/2026/Apr/15/gemini-flash-tts": {
+    "title": "Gemini 3.1 Flash TTS",
+    "source": "Simon Willison",
+    "first_seen": "2026-04-15T19:01:18.052411+00:00",
+    "published": "2026-04-15T16:41:46+00:00"
+  },
+  "https://deepmind.google/blog/gemini-3-1-flash-tts-the-next-generation-of-expressive-ai-speech": {
+    "title": "Gemini 3.1 Flash TTS: the next generation of expressive AI speech",
+    "source": "DeepMind Blog",
+    "first_seen": "2026-04-15T19:01:18.052411+00:00",
+    "published": "2026-04-15T16:03:19+00:00"
+  },
+  "https://medium.com/pinterest-engineering/finding-zombies-in-our-systems-a-real-world-story-of-cpu-bottlenecks-ea4722e552eb?source=rss----4c5a5f6279b6---4": {
+    "title": "Finding zombies in our systems: A real-world story of CPU bottlenecks",
+    "source": "Pinterest Engineering",
+    "first_seen": "2026-04-15T19:01:18.052411+00:00",
+    "published": "2026-04-15T16:01:04+00:00"
+  },
+  "https://www.databricks.com/blog/ai-gateway-how-connect-agents-external-mcps-securely": {
+    "title": "AI Gateway: How to Connect Agents to External MCPs Securely",
+    "source": "Databricks Blog",
+    "first_seen": "2026-04-15T19:01:18.052411+00:00",
+    "published": "2026-04-15T16:00:50+00:00"
+  },
+  "https://www.databricks.com/blog/ai-gateway-governance-layer-agentic-ai": {
+    "title": "AI Gateway: A Governance Layer for Agentic AI",
+    "source": "Databricks Blog",
+    "first_seen": "2026-04-15T19:01:18.052411+00:00",
+    "published": "2026-04-15T16:00:19+00:00"
+  },
+  "https://thenewstack.io/data-stack-consolidation-risks": {
+    "title": "What engineering leaders get wrong about data stack consolidation",
+    "source": "The New Stack",
+    "first_seen": "2026-04-15T19:01:18.052411+00:00",
+    "published": "2026-04-15T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/topics/customers/cool-stuff-google-cloud-customers-built-monthly-round-up": {
+    "title": "Cool stuff Google Cloud customers built, April edition: BMW big on SLMs, MLB’s Scout Insights AI, personalized resort experiences",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-04-15T19:01:18.052411+00:00",
+    "published": "2026-04-15T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-how-cisos-can-pursue-technical-and-cultural-resilience-q-a": {
+    "title": "Cloud CISO Perspectives: How CISOs can pursue technical and cultural resilience (Q&A)",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-04-15T19:01:18.052411+00:00",
+    "published": "2026-04-15T16:00:00+00:00"
+  },
+  "https://github.com/saffron-health/libretto": {
+    "title": "Show HN: Libretto – Making AI browser automations deterministic",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-15T19:01:18.052411+00:00",
+    "published": "2026-04-15T15:57:54+00:00"
+  },
+  "https://www.strix.ai/blog/cal-com-is-closing-its-code-due-to-ai-threats": {
+    "title": "Open Source Isn't Dead. Cal.com Just Learned the Wrong Lesson",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-15T19:01:18.052411+00:00",
+    "published": "2026-04-15T15:43:37+00:00"
+  },
+  "https://simonwillison.net/2026/Apr/15/kyle-kingsbury": {
+    "title": "Quoting Kyle Kingsbury",
+    "source": "Simon Willison",
+    "first_seen": "2026-04-15T19:01:18.052411+00:00",
+    "published": "2026-04-15T15:36:02+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/create-rich-custom-tooltips-in-amazon-quick-sight": {
+    "title": "Create rich, custom tooltips in Amazon Quick Sight",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-04-15T19:01:18.052411+00:00",
+    "published": "2026-04-15T15:22:53+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/accelerating-decode-heavy-llm-inference-with-speculative-decoding-on-aws-trainium-and-vllm": {
+    "title": "Accelerating decode-heavy LLM inference with speculative decoding on AWS Trainium and vLLM",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-04-15T19:01:18.052411+00:00",
+    "published": "2026-04-15T15:20:58+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/rede-mater-dei-de-saude-monitoring-ai-agents-in-the-revenue-cycle-with-amazon-bedrock-agentcore": {
+    "title": "Rede Mater Dei de Saúde: Monitoring AI agents in the revenue cycle with Amazon Bedrock AgentCore",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-04-15T19:01:18.052411+00:00",
+    "published": "2026-04-15T15:15:23+00:00"
+  },
+  "https://devblogs.microsoft.com/devops/one-click-security-scanning-and-org-wide-alert-triage-come-to-advanced-security": {
+    "title": "One-click security scanning and org-wide alert triage come to Advanced Security",
+    "source": "MS DevOps Blog",
+    "first_seen": "2026-04-15T19:01:18.052411+00:00",
+    "published": "2026-04-15T15:06:53+00:00"
+  },
+  "https://thenewstack.io/postgres-iceberg-cdc-benchmarks": {
+    "title": "Postgres to Iceberg in 13 minutes: How Supermetal compares to Flink, Kafka Connect, and Spark",
+    "source": "The New Stack",
+    "first_seen": "2026-04-15T19:01:18.052411+00:00",
+    "published": "2026-04-15T15:00:00+00:00"
+  },
+  "https://github.blog/news-insights/policy-news-and-insights/developer-policy-update-intermediary-liability-copyright-and-transparency": {
+    "title": "Developer policy update: Intermediary liability, copyright, and transparency",
+    "source": "GitHub Blog",
+    "first_seen": "2026-04-15T19:01:18.052411+00:00",
+    "published": "2026-04-15T15:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/ai-machine-learning/gemini-3-1-flash-tts-on-google-cloud": {
+    "title": "Guide to prompting Gemini 3.1 Flash TTS (text-to-speech)",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-04-15T19:01:18.052411+00:00",
+    "published": "2026-04-15T15:00:00+00:00"
+  },
+  "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-tts": {
+    "title": "Gemini 3.1 Flash TTS: the next generation of expressive AI speech",
+    "source": "Google AI Blog",
+    "first_seen": "2026-04-15T19:01:18.052411+00:00",
+    "published": "2026-04-15T15:00:00+00:00"
+  },
+  "https://thenewstack.io/cal-com-codebase-security-ai": {
+    "title": "Cal.com goes private: A security reckoning for open source",
+    "source": "The New Stack",
+    "first_seen": "2026-04-15T19:01:18.052411+00:00",
+    "published": "2026-04-15T14:25:00+00:00"
+  },
+  "https://www.phoronix.com/news/Mesa-26.1-rc1-Released": {
+    "title": "Mesa 26.1-rc1 Released For Testing With Many New Vulkan Extensions & Optimizations",
+    "source": "Phoronix",
+    "first_seen": "2026-04-15T19:01:18.052411+00:00",
+    "published": "2026-04-15T14:24:30+00:00"
+  },
+  "https://www.phoronix.com/news/Fedora-45-x86-64-v3-Proposal": {
+    "title": "Fedora 45 To Consider Building x86_64-v3 Packages",
+    "source": "Phoronix",
+    "first_seen": "2026-04-15T19:01:18.052411+00:00",
+    "published": "2026-04-15T14:05:57+00:00"
+  },
+  "https://tailscale.com/blog/tailscale-rs-rust-tsnet-library-preview": {
+    "title": "Meet tailscale-rs, our new Rust library preview",
+    "source": "Tailscale Blog",
+    "first_seen": "2026-04-15T19:01:18.052411+00:00",
+    "published": "2026-04-15T14:00:00+00:00"
+  },
+  "https://stackoverflow.blog/2026/04/15/human-input-needed-take-our-survey-on-ai-agents": {
+    "title": "Human input needed: take our survey on AI agents",
+    "source": "Stack Overflow Blog",
+    "first_seen": "2026-04-15T19:01:18.052411+00:00",
+    "published": "2026-04-15T14:00:00+00:00"
+  },
+  "https://realpython.com/python-variables": {
+    "title": "Variables in Python: Usage and Best Practices",
+    "source": "Real Python",
+    "first_seen": "2026-04-15T19:01:18.052411+00:00",
+    "published": "2026-04-15T14:00:00+00:00"
+  },
+  "https://lwn.net/Articles/1067007": {
+    "title": "[$] Forking Vim to avoid LLM-generated code",
+    "source": "LWN.net",
+    "first_seen": "2026-04-15T19:01:18.052411+00:00",
+    "published": "2026-04-15T13:51:41+00:00"
+  },
+  "https://aphyr.com/posts/419-the-future-of-everything-is-lies-i-guess-new-jobs": {
+    "title": "The Future of Everything Is Lies, I Guess: New Jobs",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-15T19:01:18.052411+00:00",
+    "published": "2026-04-15T13:34:11+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-Sched-QoS-v0.1": {
+    "title": "Sched QoS For Linux Aims To Improve Scheduling & Inspired In Part By Apple's QoS Classes",
+    "source": "Phoronix",
+    "first_seen": "2026-04-15T19:01:18.052411+00:00",
+    "published": "2026-04-15T13:18:20+00:00"
+  },
+  "https://wchambliss.wordpress.com/2026/03/03/god-sleeps-in-the-minerals": {
+    "title": "God Sleeps in the Minerals",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-15T19:01:18.052411+00:00",
+    "published": "2026-04-15T13:08:10+00:00"
+  },
+  "https://lwn.net/Articles/1067718": {
+    "title": "Security updates for Wednesday",
+    "source": "LWN.net",
+    "first_seen": "2026-04-15T19:01:18.052411+00:00",
+    "published": "2026-04-15T13:06:49+00:00"
+  },
+  "https://thenewstack.io/cloud-database-complacency-research": {
+    "title": "Why “good enough” cloud databases are becoming a business risk",
+    "source": "The New Stack",
+    "first_seen": "2026-04-15T19:01:18.052411+00:00",
+    "published": "2026-04-15T13:00:00+00:00"
+  },
+  "https://stackoverflow.blog/2026/04/15/why-ai-hasn-t-replaced-human-expertise": {
+    "title": "Why AI hasn't replaced human expertise—and what that means for your SaaS stack",
+    "source": "Stack Overflow Blog",
+    "first_seen": "2026-04-15T19:01:18.052411+00:00",
+    "published": "2026-04-15T13:00:00+00:00"
+  },
+  "https://blog.cloudflare.com/workflows-v2": {
+    "title": "Rearchitecting the Workflows control plane for the agentic era",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-04-15T19:01:18.052411+00:00",
+    "published": "2026-04-15T13:00:00+00:00"
+  },
+  "https://blog.cloudflare.com/voice-agents": {
+    "title": "Add voice to your agent",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-04-15T19:01:18.052411+00:00",
+    "published": "2026-04-15T13:00:00+00:00"
+  },
+  "https://blog.cloudflare.com/registrar-api-beta": {
+    "title": "Register domains wherever you build: Cloudflare Registrar API now in beta",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-04-15T19:01:18.052411+00:00",
+    "published": "2026-04-15T13:00:00+00:00"
+  },
+  "https://blog.cloudflare.com/project-think": {
+    "title": "Project Think: building the next generation of AI agents on Cloudflare",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-04-15T19:01:18.052411+00:00",
+    "published": "2026-04-15T13:00:00+00:00"
+  },
+  "https://blog.cloudflare.com/introducing-agent-lee": {
+    "title": "Introducing Agent Lee - a new interface to the Cloudflare stack",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-04-15T19:01:18.052411+00:00",
+    "published": "2026-04-15T13:00:00+00:00"
+  },
+  "https://blog.cloudflare.com/browser-run-for-ai-agents": {
+    "title": "Browser Run: give your agents a browser",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-04-15T19:01:18.052411+00:00",
+    "published": "2026-04-15T13:00:00+00:00"
+  },
+  "https://tracksuccession.com/explore": {
+    "title": "Show HN: Every CEO and CFO change at US public companies, live from SEC",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-15T19:01:18.052411+00:00",
+    "published": "2026-04-15T12:51:04+00:00"
+  },
+  "https://www.dbpro.app/blog/do-you-even-need-a-database": {
+    "title": "Do you even need a database?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-15T19:01:18.052411+00:00",
+    "published": "2026-04-15T12:26:11+00:00"
+  },
+  "https://www.manchester.ac.uk/about/news/back-to-basics-approach-can-match-or-outperform-ai": {
+    "title": "Study: Back-to-basics approach can match or outperform AI in language analysis",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-15T19:01:18.052411+00:00",
+    "published": "2026-04-15T12:21:47+00:00"
+  },
+  "https://huggingface.co/blog/ibm-research/vakra-benchmark-analysis": {
+    "title": "Inside VAKRA: Reasoning, Tool Use, and Failure Modes of Agents",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-04-15T19:01:18.052411+00:00",
+    "published": "2026-04-15T12:07:25+00:00"
+  },
+  "https://openai.com/index/the-next-evolution-of-the-agents-sdk": {
+    "title": "The next evolution of the Agents SDK",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-04-15T19:01:18.052411+00:00",
+    "published": "2026-04-15T10:00:00+00:00"
+  },
+  "https://torrentfreak.com/annas-archive-loses-322-million-spotify-piracy-case-without-a-fight": {
+    "title": "Anna's Archive loses $322M Spotify piracy case without a fight",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-15T19:01:18.052411+00:00",
+    "published": "2026-04-15T08:05:18+00:00"
+  },
+  "https://simonwillison.net/2026/Apr/15/datasette-ports": {
+    "title": "datasette-ports 0.3",
+    "source": "Simon Willison",
+    "first_seen": "2026-04-15T19:01:18.052411+00:00",
+    "published": "2026-04-15T02:50:57+00:00"
+  },
+  "https://www.elastic.co/blog/rethinking-financial-crime-investigation": {
+    "title": "After the alert: Rethinking how we investigate financial crime",
+    "source": "Elastic Blog",
+    "first_seen": "2026-04-15T19:01:18.052411+00:00",
+    "published": "2026-04-15T00:00:00+00:00"
+  },
+  "https://www.elastic.co/blog/managed-security-service-providers": {
+    "title": "Forward-looking MSSPs are moving to Elastic Security",
+    "source": "Elastic Blog",
+    "first_seen": "2026-04-15T19:01:18.052411+00:00",
+    "published": "2026-04-15T00:00:00+00:00"
+  },
+  "https://mitchellh.com/writing/simdutf-no-libcxx": {
+    "title": "Simdutf Can Now Be Used Without libc++ or libc++abi",
+    "source": "Mitchell Hashimoto",
+    "first_seen": "2026-04-15T19:01:18.052411+00:00",
+    "published": "2026-04-15T00:00:00+00:00"
+  },
+  "https://blog.sentry.io/native-crash-postmortems-via-android-tombstones": {
+    "title": "Grave improvements: Native crash postmortems via Android tombstones",
+    "source": "Sentry Blog",
+    "first_seen": "2026-04-15T19:01:18.052411+00:00",
+    "published": "2026-04-15T00:00:00+00:00"
   }
 }
