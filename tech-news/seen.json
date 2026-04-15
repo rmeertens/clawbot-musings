@@ -2956,5 +2956,263 @@
     "source": "Elastic Blog",
     "first_seen": "2026-04-14T19:02:26.398832+00:00",
     "published": "2026-04-14T00:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.1-clone3": {
+    "title": "Linux 7.1 Adds New Child Auto-Reap & PIDFD Auto-Kill Flags For clone3()",
+    "source": "Phoronix",
+    "first_seen": "2026-04-15T13:01:06.591191+00:00",
+    "published": "2026-04-15T12:45:48+00:00"
+  },
+  "https://www.tigerdata.com/blog/how-timescaledb-outperforms-clickhouse-mongodb-logtides-observability-platform": {
+    "title": "How TimescaleDB Outperforms ClickHouse and MongoDB for LogTide's Observability Platform",
+    "source": "Timescale Blog",
+    "first_seen": "2026-04-15T13:01:06.591191+00:00",
+    "published": "2026-04-15T12:24:18+00:00"
+  },
+  "https://www.ycombinator.com/companies/proliferate/jobs/L3copvK-founding-engineer": {
+    "title": "Proliferate (YC S25) Is Hiring Founding Engineers",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-15T13:01:06.591191+00:00",
+    "published": "2026-04-15T12:00:44+00:00"
+  },
+  "https://thenewstack.io/securing-ai-agent-systems": {
+    "title": "Agents are rewriting the rules of security. Here’s what engineering needs to know.",
+    "source": "The New Stack",
+    "first_seen": "2026-04-15T13:01:06.591191+00:00",
+    "published": "2026-04-15T12:00:00+00:00"
+  },
+  "https://realpython.com/quizzes/python-solid-principles": {
+    "title": "Quiz: Design and Guidance: Object-Oriented Programming in Python",
+    "source": "Real Python",
+    "first_seen": "2026-04-15T13:01:06.591191+00:00",
+    "published": "2026-04-15T12:00:00+00:00"
+  },
+  "https://gothamist.com/news/here-comes-the-sun-new-bill-would-let-new-yorkers-hang-solar-panels-from-windows": {
+    "title": "New bill would let New Yorkers hang solar panels from windows",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-15T13:01:06.591191+00:00",
+    "published": "2026-04-15T11:58:28+00:00"
+  },
+  "https://thenewstack.io/ai-code-qa-bottleneck": {
+    "title": "When AI writes 100K lines of code, QA becomes the whole job",
+    "source": "The New Stack",
+    "first_seen": "2026-04-15T13:01:06.591191+00:00",
+    "published": "2026-04-15T11:00:00+00:00"
+  },
+  "https://www.schneier.com/blog/archives/2026/04/defense-in-depth-medieval-style.html": {
+    "title": "Defense in Depth, Medieval Style",
+    "source": "Schneier on Security",
+    "first_seen": "2026-04-15T13:01:06.591191+00:00",
+    "published": "2026-04-15T10:47:55+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.1-EDAC": {
+    "title": "AMD EDAC Driver In Linux 7.1 Adds Support For Zen 3 Rembrandt Hardware With ECC",
+    "source": "Phoronix",
+    "first_seen": "2026-04-15T13:01:06.591191+00:00",
+    "published": "2026-04-15T10:33:57+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.1-x86-asm": {
+    "title": "Linux 7.1 Gets Rid Of Some Unnecessary Memory Clobbers",
+    "source": "Phoronix",
+    "first_seen": "2026-04-15T13:01:06.591191+00:00",
+    "published": "2026-04-15T10:25:28+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.1-exFAT": {
+    "title": "exFAT For Linux 7.1 Helps Reduce File Fragmentation, Fixes",
+    "source": "Phoronix",
+    "first_seen": "2026-04-15T13:01:06.591191+00:00",
+    "published": "2026-04-15T10:12:47+00:00"
+  },
+  "https://stratechery.com/2026/amazon-buys-globalstar-delta-to-add-leo-the-apple-angle": {
+    "title": "Amazon Buys Globalstar, Delta to Add Leo, The Apple Angle",
+    "source": "Stratechery",
+    "first_seen": "2026-04-15T13:01:06.591191+00:00",
+    "published": "2026-04-15T10:00:00+00:00"
+  },
+  "https://prog21.dadgum.com/30.html": {
+    "title": "Want to Write a Compiler? Just Read These Two Papers (2008)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-15T13:01:06.591191+00:00",
+    "published": "2026-04-15T09:41:19+00:00"
+  },
+  "https://huggingface.co/blog/Hcompany/holotab": {
+    "title": "Meet HoloTab by HCompany. Your AI browser companion.",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-04-15T13:01:06.591191+00:00",
+    "published": "2026-04-15T09:25:20+00:00"
+  },
+  "https://warped3.substack.com/p/direct-win32-api-weird-shaped-windows": {
+    "title": "Direct Win32 API, Weird-Shaped Windows, and Why They Mostly Disappeared",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-15T13:01:06.591191+00:00",
+    "published": "2026-04-15T09:24:31+00:00"
+  },
+  "https://super-memory.com/articles/sleep.htm": {
+    "title": "Good Sleep, Good Learning (2012)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-15T13:01:06.591191+00:00",
+    "published": "2026-04-15T09:11:18+00:00"
+  },
+  "https://github.com/steipete/wacli": {
+    "title": "Wacli – WhatsApp CLI: sync, search, send",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-15T13:01:06.591191+00:00",
+    "published": "2026-04-15T07:04:45+00:00"
+  },
+  "https://www.ycombinator.com/companies/mdalgorithms-inc/jobs/LVODKN7-growth-marketer-for-a-rapidly-growing-consumer-ai-healthcare-startup": {
+    "title": "MDalgorithms (AI Healthcare) – Hiring Growth Marketer – Remote – $80K-$140K",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-15T13:01:06.591191+00:00",
+    "published": "2026-04-15T07:00:18+00:00"
+  },
+  "https://www.businesswire.com/news/home/20260414237496/en/Amazon-to-Acquire-Globalstar-and-Expand-Amazon-Leo-Satellite-Network": {
+    "title": "Amazon to acquire Globalstar and expand Amazon Leo satellite network",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-15T13:01:06.591191+00:00",
+    "published": "2026-04-15T05:54:29+00:00"
+  },
+  "https://www.gizmoweek.com/gemma-4-runs-iphone": {
+    "title": "Google Gemma 4 Runs Natively on iPhone with Full Offline AI Inference",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-15T13:01:06.591191+00:00",
+    "published": "2026-04-15T05:19:06+00:00"
+  },
+  "https://iczelia.net/posts/e16-20-year-old-bug": {
+    "title": "Fixing a 20-year-old bug in Enlightenment E16",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-15T13:01:06.591191+00:00",
+    "published": "2026-04-15T04:47:00+00:00"
+  },
+  "https://calpaterson.com/deps.html": {
+    "title": "Dependency cooldowns turn you into a free-rider",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-15T13:01:06.591191+00:00",
+    "published": "2026-04-15T02:03:12+00:00"
+  },
+  "https://simonwillison.net/2026/Apr/15/juicy-main": {
+    "title": "Zig 0.16.0 release notes: \"Juicy Main\"",
+    "source": "Simon Willison",
+    "first_seen": "2026-04-15T13:01:06.591191+00:00",
+    "published": "2026-04-15T01:59:21+00:00"
+  },
+  "https://www.stylewarning.com/posts/not-all-elementary": {
+    "title": "Not all elementary functions can be expressed with exp-minus-log",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-15T13:01:06.591191+00:00",
+    "published": "2026-04-15T01:59:18+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.1-Begins-Removing-i486": {
+    "title": "Linus Torvalds Merged The Code Beginning To Remove Intel 486 CPU Support In Linux 7.1",
+    "source": "Phoronix",
+    "first_seen": "2026-04-15T13:01:06.591191+00:00",
+    "published": "2026-04-15T00:14:12+00:00"
+  },
+  "https://simonwillison.net/2026/Apr/14/replace-token-based-csrf": {
+    "title": "datasette PR #2689: Replace token-based CSRF with Sec-Fetch-Site header protection",
+    "source": "Simon Willison",
+    "first_seen": "2026-04-15T13:01:06.591191+00:00",
+    "published": "2026-04-14T23:58:53+00:00"
+  },
+  "https://aws.amazon.com/blogs/aws/aws-interconnect-is-now-generally-available-with-a-new-option-to-simplify-last-mile-connectivity": {
+    "title": "AWS Interconnect is now generally available, with a new option to simplify last-mile connectivity",
+    "source": "AWS Blog",
+    "first_seen": "2026-04-15T13:01:06.591191+00:00",
+    "published": "2026-04-14T23:54:47+00:00"
+  },
+  "https://www.phoronix.com/news/AMD-ROCm-7.2.2": {
+    "title": "AMD ROCm 7.2.2 Brings Optimization Guide For Ryzen AI / RDNA 3.5 Hardware",
+    "source": "Phoronix",
+    "first_seen": "2026-04-15T13:01:06.591191+00:00",
+    "published": "2026-04-14T22:57:54+00:00"
+  },
+  "https://thenewstack.io/agentic-ai-observability-auditing": {
+    "title": "Why observability platforms are becoming AI auditing tools",
+    "source": "The New Stack",
+    "first_seen": "2026-04-15T13:01:06.591191+00:00",
+    "published": "2026-04-14T22:55:01+00:00"
+  },
+  "https://aws.amazon.com/blogs/security/secure-ai-agent-access-patterns-to-aws-resources-using-model-context-protocol": {
+    "title": "Secure AI agent access patterns to AWS resources using Model Context Protocol",
+    "source": "AWS Security Blog",
+    "first_seen": "2026-04-15T13:01:06.591191+00:00",
+    "published": "2026-04-14T22:52:51+00:00"
+  },
+  "https://stopflock.com": {
+    "title": "Stop Flock",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-15T13:01:06.591191+00:00",
+    "published": "2026-04-14T21:56:05+00:00"
+  },
+  "https://www.docker.com/blog/why-we-chose-the-harder-path-docker-hardened-images-one-year-later": {
+    "title": "Why We Chose the Harder Path: Docker Hardened Images, One Year Later",
+    "source": "Docker Blog",
+    "first_seen": "2026-04-15T13:01:06.591191+00:00",
+    "published": "2026-04-14T21:48:03+00:00"
+  },
+  "https://krebsonsecurity.com/2026/04/patch-tuesday-april-2026-edition": {
+    "title": "Patch Tuesday, April 2026 Edition",
+    "source": "Krebs on Security",
+    "first_seen": "2026-04-15T13:01:06.591191+00:00",
+    "published": "2026-04-14T21:47:59+00:00"
+  },
+  "https://thenewstack.io/claude-code-desktop-redesign": {
+    "title": "Anthropic’s redesigned Claude Code desktop app lets you burn through tokens even faster",
+    "source": "The New Stack",
+    "first_seen": "2026-04-15T13:01:06.591191+00:00",
+    "published": "2026-04-14T21:43:48+00:00"
+  },
+  "https://simonwillison.net/2026/Apr/14/trusted-access-openai": {
+    "title": "Trusted access for the next era of cyber defense",
+    "source": "Simon Willison",
+    "first_seen": "2026-04-15T13:01:06.591191+00:00",
+    "published": "2026-04-14T21:23:59+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.1-VFS-Kino-32-bit": {
+    "title": "Patches For Linux 7.1 May Have Negative Impact On 32-bit Systems",
+    "source": "Phoronix",
+    "first_seen": "2026-04-15T13:01:06.591191+00:00",
+    "published": "2026-04-14T20:21:30+00:00"
+  },
+  "https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-april-2026-servicing-updates": {
+    "title": ".NET and .NET Framework April 2026 servicing releases updates",
+    "source": "MS .NET Blog",
+    "first_seen": "2026-04-15T13:01:06.591191+00:00",
+    "published": "2026-04-14T19:49:00+00:00"
+  },
+  "https://simonwillison.net/2026/Apr/14/cybersecurity-proof-of-work": {
+    "title": "Cybersecurity Looks Like Proof of Work Now",
+    "source": "Simon Willison",
+    "first_seen": "2026-04-15T13:01:06.591191+00:00",
+    "published": "2026-04-14T19:41:48+00:00"
+  },
+  "https://devblogs.microsoft.com/dotnet/dotnet-11-preview-3": {
+    "title": ".NET 11 Preview 3 is now available!",
+    "source": "MS .NET Blog",
+    "first_seen": "2026-04-15T13:01:06.591191+00:00",
+    "published": "2026-04-14T19:30:00+00:00"
+  },
+  "https://devblogs.microsoft.com/devops/april-patches-for-azure-devops-server": {
+    "title": "April Patches for Azure DevOps Server",
+    "source": "MS DevOps Blog",
+    "first_seen": "2026-04-15T13:01:06.591191+00:00",
+    "published": "2026-04-14T19:18:22+00:00"
+  },
+  "https://www.phoronix.com/news/Linus-Rejects-Linux-7.1": {
+    "title": "Linus Torvalds Rejects Performance Fix \"Hack\" & Kconfig \"Terrible Things\" For Linux 7.1",
+    "source": "Phoronix",
+    "first_seen": "2026-04-15T13:01:06.591191+00:00",
+    "published": "2026-04-14T19:08:04+00:00"
+  },
+  "https://grafana.com/blog/grafanacon-2026-in-barcelona-what-not-to-miss": {
+    "title": "Your guide to GrafanaCON 2026 in Barcelona",
+    "source": "Grafana Blog",
+    "first_seen": "2026-04-15T13:01:06.591191+00:00",
+    "published": "2026-04-14T18:03:46+00:00"
+  },
+  "https://grafana.com/blog/grafana-alerting-respond-faster-and-get-situational-awareness-with-alert-enrichment-in-grafana-cloud": {
+    "title": "Grafana Alerting: Respond faster and get situational awareness with alert enrichment in Grafana Cloud",
+    "source": "Grafana Blog",
+    "first_seen": "2026-04-15T13:01:06.591191+00:00",
+    "published": "2026-04-14T14:52:57+00:00"
   }
 }
