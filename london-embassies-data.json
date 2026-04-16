@@ -9,1178 +9,2018 @@
     {
       "country": "Albania",
       "address": "33 St George's Drive, SW1V 4DG",
-      "lat": 51.490667,
-      "lng": -0.144028,
-      "type": "Embassy"
+      "lat": 51.4907087,
+      "lng": -0.1439643,
+      "type": "Embassy",
+      "facts": [
+        "In 1967 Enver Hoxha declared Albania the world's first atheist state, banning religious practice until the 1990s.",
+        "The Albanian language is its own branch of Indo-European, not closely related to its neighbours' languages.",
+        "Britain sheltered Albania's exiled King Zog in the 1930s; London was a hub for Albanian royalist diplomacy in exile."
+      ]
     },
     {
       "country": "Algeria",
       "address": "1-3 Riding House Street, W1W 7DR",
-      "lat": 51.518222,
-      "lng": -0.142722,
-      "type": "Embassy"
+      "lat": 51.5183013,
+      "lng": -0.1425973,
+      "type": "Embassy",
+      "facts": [
+        "Algeria is Africa's largest country by land area and was French Algeria until independence after a long war in 1962.",
+        "The ancient Numidian and Roman city of Timgad in Algeria is a remarkably preserved Roman grid town.",
+        "During WWII the Allies landed in Algeria (Operation Torch); Algiers briefly hosted Free French political activity."
+      ]
     },
     {
       "country": "Angola",
       "address": "22 Dorset Street, W1U 6QY",
-      "lat": 51.51925,
-      "lng": -0.158028,
-      "type": "Embassy"
+      "lat": 51.5193721,
+      "lng": -0.1580044,
+      "type": "Embassy",
+      "facts": [
+        "Angola was a Portuguese colony for centuries and gained independence in 1975 after a long liberation struggle.",
+        "The country has vast offshore oil reserves in the South Atlantic that dominate its economy.",
+        "Cuban troops fought alongside Angolan forces during the Cold War–era civil conflict."
+      ]
     },
     {
       "country": "Antigua and Barbuda",
       "address": "45 Crawford Place, W1H 4LP",
-      "lat": 51.518917,
-      "lng": -0.165194,
-      "type": "Embassy"
+      "lat": 51.5189362,
+      "lng": -0.1651037,
+      "type": "Embassy",
+      "facts": [
+        "The nation is a Commonwealth realm with the British monarch as head of state and English common-law roots.",
+        "Nelson's Dockyard in Antigua is a UNESCO site named for Horatio Nelson, who was stationed there.",
+        "Barbuda was devastated by Hurricane Irma in 2017, briefly emptying the island of residents."
+      ]
     },
     {
       "country": "Argentina",
       "address": "65 Brook Street, W1K 4AH",
-      "lat": 51.512472,
-      "lng": -0.14875,
-      "type": "Embassy"
+      "lat": 51.512283,
+      "lng": -0.1486868,
+      "type": "Embassy",
+      "facts": [
+        "Argentina and the UK fought the 1982 Falklands War over the South Atlantic islands Argentina calls Malvinas.",
+        "Buenos Aires grew rich in the late 19th century on beef and grain exports—the 'Paris of South America' era.",
+        "Tango, born in Buenos Aires port districts, blends European immigrant and Afro-Argentine influences."
+      ]
     },
     {
       "country": "Armenia",
       "address": "25A Cheniston Gardens, W8 6TG",
-      "lat": 51.499,
-      "lng": -0.193,
-      "type": "Embassy"
+      "lat": 51.4987608,
+      "lng": -0.1927045,
+      "type": "Embassy",
+      "facts": [
+        "Armenia was the first state to adopt Christianity as its religion, traditionally dated to AD 301.",
+        "Mount Ararat, symbol of Armenia, lies just across the border in Turkey but dominates Armenian iconography.",
+        "The Armenian diaspora is large worldwide; London hosts a long-established Armenian community and church life."
+      ]
     },
     {
       "country": "Australia",
-      "address": "Australia House, Strand",
-      "lat": 51.512889,
-      "lng": -0.115722,
-      "type": "High Commission"
+      "address": "Australia House, Strand, WC2B 4LA",
+      "lat": 51.5137,
+      "lng": -0.1172,
+      "type": "High Commission",
+      "facts": [
+        "Australia began as British penal colonies; the First Fleet arrived at Sydney Cove in 1788.",
+        "Canberra was chosen as the capital to settle rivalry between Sydney and Melbourne.",
+        "ANZAC ties with Britain were forged in WWI at Gallipoli and remain central to Australian national memory."
+      ]
     },
     {
       "country": "Austria",
       "address": "18 Belgrave Square, SW1X 8PZ",
-      "lat": 51.4985,
-      "lng": -0.154694,
-      "type": "Embassy"
+      "lat": 51.4986376,
+      "lng": -0.1543736,
+      "type": "Embassy",
+      "facts": [
+        "The Habsburg monarchy ruled much of Central Europe from Vienna until the empire collapsed in 1918.",
+        "Austria declared permanent neutrality in 1955 as a condition of Allied occupation ending.",
+        "The Congress of Vienna (1814–15) redrew Europe's map after Napoleon, with Britain as a key negotiator."
+      ]
     },
     {
       "country": "Azerbaijan",
       "address": "66 Holland Park, W11 3RS",
-      "lat": 51.5064077,
-      "lng": -0.2068935,
-      "type": "Embassy"
+      "lat": 51.5064428,
+      "lng": -0.206943,
+      "type": "Embassy",
+      "facts": [
+        "Baku sits on the Caspian Sea and has been an oil centre since the 19th-century boom.",
+        "The disputed Nagorno-Karabakh region drove wars with Armenia; a 2020 conflict shifted control sharply.",
+        "Azerbaijan blends Turkic language, Shi'a-majority Islam, and Soviet-era secular habits."
+      ]
     },
     {
       "country": "Bahamas",
       "address": "10 Chesterfield Street, W1J 5JL",
-      "lat": 51.507167,
-      "lng": -0.148611,
-      "type": "High Commission"
+      "lat": 51.507146,
+      "lng": -0.1486432,
+      "type": "High Commission",
+      "facts": [
+        "The Bahamas became independent from the UK in 1973 but remains a Commonwealth realm.",
+        "Christopher Columbus made landfall in the Bahamian archipelago in 1492.",
+        "The islands' shallow banks and reefs made them a haven for pirates in the early 1700s."
+      ]
     },
     {
       "country": "Bahrain",
-      "address": "30 Belgrave Square",
-      "lat": 51.4985,
-      "lng": -0.1527,
-      "type": "Embassy"
+      "address": "30 Belgrave Square, SW1X 8QB",
+      "lat": 51.4984093,
+      "lng": -0.1524489,
+      "type": "Embassy",
+      "facts": [
+        "Bahrain is a small island monarchy in the Gulf, linked to Saudi Arabia by the King Fahd Causeway.",
+        "Pearling once made Bahrain rich before oil; UNESCO lists historic pearling sites.",
+        "Britain signed treaties with Gulf rulers in the 19th century; Bahrain was a British protectorate until 1971."
+      ]
     },
     {
       "country": "Bangladesh",
-      "address": "28 Queen's Gate",
-      "lat": 51.4995,
-      "lng": -0.1789,
-      "type": "High Commission"
+      "address": "28 Queen's Gate, SW7 5JA",
+      "lat": 51.4985629,
+      "lng": -0.18012,
+      "type": "High Commission",
+      "facts": [
+        "Bangladesh emerged from the 1971 Liberation War when East Pakistan broke from West Pakistan.",
+        "The Ganges–Brahmaputra delta is among the world's largest and most densely populated river systems.",
+        "The British East India Company's Bengal Presidency was a core of colonial trade and administration."
+      ]
     },
     {
       "country": "Barbados",
       "address": "1 Great Russell Street, WC1B 3JY",
-      "lat": 51.5171,
-      "lng": -0.1308,
-      "type": "High Commission"
+      "lat": 51.5170382,
+      "lng": -0.1305481,
+      "type": "High Commission",
+      "facts": [
+        "Barbados became a republic in 2021, replacing the British monarch with a Barbadian president as head of state.",
+        "Sugar plantations worked by enslaved Africans shaped the island's economy and society for centuries.",
+        "The island is the easternmost of the Caribbean Lesser Antilles, exposed to Atlantic swells."
+      ]
     },
     {
       "country": "Belarus",
-      "address": "6 Kensington Court",
-      "lat": 51.5008,
-      "lng": -0.1898,
-      "type": "Embassy"
+      "address": "6 Kensington Court, W8 5DL",
+      "lat": 51.5015985,
+      "lng": -0.1868033,
+      "type": "Embassy",
+      "facts": [
+        "Minsk was heavily rebuilt in Stalinist style after WWII destruction; wide avenues define the capital.",
+        "Belarus borders three EU states and Russia, placing it at the centre of post-Soviet geopolitics.",
+        "The Grand Duchy of Lithuania once included much of today's Belarus, with Polish-Lithuanian Commonwealth ties."
+      ]
     },
     {
       "country": "Belgium",
-      "address": "17 Grosvenor Crescent",
+      "address": "17 Grosvenor Crescent, SW1X 7EE",
       "lat": 51.5009157,
       "lng": -0.1532086,
-      "type": "Embassy"
+      "type": "Embassy",
+      "facts": [
+        "Belgium was created in 1830 as an independent buffer state, with British diplomacy supporting neutrality early on.",
+        "Brussels hosts the EU and NATO headquarters, making Belgium a hub of European governance.",
+        "Flemish (Dutch) and French divide the country linguistically, with a small German-speaking community."
+      ]
     },
     {
       "country": "Belize",
-      "address": "45 Crawford Place",
+      "address": "45 Crawford Place, W1H 4LQ",
       "lat": 51.5189362,
       "lng": -0.1651037,
-      "type": "High Commission"
+      "type": "High Commission",
+      "facts": [
+        "Belize is the only Central American country where English is the official language—a British colonial legacy.",
+        "The Belize Barrier Reef is the hemisphere's longest after Australia's and is UNESCO-listed.",
+        "Guatemala long claimed Belizean territory; the dispute was settled by ICJ referral in recent years."
+      ]
     },
     {
       "country": "Bolivia",
-      "address": "106 Eaton Square",
+      "address": "106 Eaton Square, SW1W 9AE",
       "lat": 51.4971121,
       "lng": -0.1511277,
-      "type": "Embassy"
+      "type": "Embassy",
+      "facts": [
+        "Bolivia is landlocked today after losing coastal territory to Chile in the War of the Pacific (1879–84).",
+        "La Paz sits in a high Andean basin; the administrative capital Sucre lies at lower elevation.",
+        "Silver from Potosí funded the Spanish Empire and reshaped global trade in the colonial era."
+      ]
     },
     {
       "country": "Bosnia and Herzegovina",
-      "address": "5-7 Lexham Gardens",
+      "address": "5-7 Lexham Gardens, W8 5JJ",
       "lat": 51.495266,
       "lng": -0.1901351,
-      "type": "Embassy"
+      "type": "Embassy",
+      "facts": [
+        "The 1914 assassination in Sarajevo of Archduke Franz Ferdinand helped trigger World War I.",
+        "The Dayton Agreement (1995) ended the Bosnian War and created a complex two-entity federation.",
+        "Medieval Bosnia saw the Bosnian Church and later Ottoman rule, leaving diverse religious heritage."
+      ]
     },
     {
       "country": "Botswana",
-      "address": "6 Stratford Pl",
+      "address": "6 Stratford Pl, W1C 1AY",
       "lat": 51.5150446,
       "lng": -0.149033,
-      "type": "High Commission"
+      "type": "High Commission",
+      "facts": [
+        "Botswana has been one of Africa's most stable democracies since independence from Britain in 1966.",
+        "The Okavango Delta inland floodplain is one of the planet's great wildlife wetlands.",
+        "De Beers built its diamond empire partly on Botswanan mines, with revenue shared via state partnership."
+      ]
     },
     {
       "country": "Brazil",
-      "address": "14/16 Cockspur Street",
+      "address": "14/16 Cockspur Street, SW1Y 5BL",
       "lat": 51.5074697,
       "lng": -0.1307969,
-      "type": "Embassy"
+      "type": "Embassy",
+      "facts": [
+        "Brazil is the only Portuguese-speaking country in the Americas, a legacy of the Portuguese Empire.",
+        "The Amazon rainforest covers roughly half of Brazil and is critical to global climate and biodiversity.",
+        "The UK and Brazil traded heavily in the 19th century—Brazilian coffee and British manufactures crossed the Atlantic."
+      ]
     },
     {
       "country": "Brunei",
-      "address": "19-20 Belgrave Square",
+      "address": "19-20 Belgrave Square, SW1X 8QB",
       "lat": 51.4986794,
       "lng": -0.152603,
-      "type": "High Commission"
+      "type": "High Commission",
+      "facts": [
+        "Brunei is a tiny, oil-rich sultanate on Borneo ruled by a long-standing monarchy under Islamic law.",
+        "The 19th-century 'White Rajahs' of neighbouring Sarawak bordered Brunei's shrinking realm.",
+        "Bandar Seri Begawan is known for golden-domed mosques and water villages (kampong ayer)."
+      ]
     },
     {
       "country": "Bulgaria",
-      "address": "186–188 Queen's Gate",
+      "address": "186–188 Queen's Gate, SW7 5EZ",
       "lat": 51.4998986,
       "lng": -0.1796481,
-      "type": "Embassy"
+      "type": "Embassy",
+      "facts": [
+        "The Cyrillic alphabet spread partly through medieval Bulgaria—Cyrillic is a UNESCO intangible heritage item.",
+        "Bulgaria joined the EU in 2007 after post-communist reforms.",
+        "The Rose Valley produces much of the world's rose oil used in perfumes."
+      ]
     },
     {
       "country": "Burundi",
-      "address": "58–59 Trafalgar Square",
-      "lat": 51.5072,
-      "lng": -0.1283,
-      "type": "Embassy"
+      "address": "58–59 Trafalgar Square, WC2N 5DX",
+      "lat": 51.5072499,
+      "lng": -0.1282648,
+      "type": "Embassy",
+      "facts": [
+        "Burundi and Rwanda share Hutu and Tutsi communities and a painful history of ethnic violence.",
+        "Bujumbura on Lake Tanganyika was the colonial capital; political capital moved inland to Gitega.",
+        "German then Belgian rule under a League of Nations mandate shaped colonial borders and administration."
+      ]
     },
     {
       "country": "Cambodia",
-      "address": "64 Brondesbury Park",
+      "address": "64 Brondesbury Park, NW10 3QE",
       "lat": 51.5360349,
       "lng": -0.2244441,
-      "type": "Embassy"
+      "type": "Embassy",
+      "facts": [
+        "Angkor Wat, built as a Hindu temple, is the world's largest religious monument by land area.",
+        "The Khmer Rouge regime (1975–79) devastated Cambodia; the country still bears deep scars.",
+        "France ruled Cambodia as part of French Indochina until independence in 1953."
+      ]
     },
     {
       "country": "Cameroon",
-      "address": "84 Holland Park",
+      "address": "84 Holland Park, W11 3SB",
       "lat": 51.5055616,
       "lng": -0.2090524,
-      "type": "High Commission"
+      "type": "High Commission",
+      "facts": [
+        "Cameroon blends Anglophone and Francophone regions after German, British, and French colonial phases.",
+        "Mount Cameroon is one of Africa's largest active volcanoes, rising straight from the Gulf of Guinea.",
+        "Wildlife ranges from rainforest gorillas to savanna elephants along a strong north–south ecological gradient."
+      ]
     },
     {
       "country": "Canada",
-      "address": "Trafalgar Square (Canada House)",
+      "address": "Canada House, Trafalgar Square, SW1Y 5BJ",
       "lat": 51.5079,
       "lng": -0.1295,
-      "type": "High Commission"
+      "type": "High Commission",
+      "facts": [
+        "Canada is a constitutional monarchy with the British monarch as head of state and Westminster-style parliament.",
+        "The world's longest undefended border runs between Canada and the United States.",
+        "Newfoundland joined Canada in 1949; Quebec's French-speaking identity reflects French colonial roots."
+      ]
     },
     {
       "country": "Chile",
-      "address": "37-41 Old Queen Street",
+      "address": "37-41 Old Queen Street, SW1H 9AJ",
       "lat": 51.500689,
       "lng": -0.1313867,
-      "type": "Embassy"
+      "type": "Embassy",
+      "facts": [
+        "Chile is thousands of kilometres long but narrow—Atacama Desert in the north, Patagonian fjords in the south.",
+        "Salvador Allende's 1973 overthrow led to Pinochet's long military rule with lasting political effects.",
+        "Nitrate from northern Chile was strategic for explosives and fertilizers before synthetic substitutes."
+      ]
     },
     {
       "country": "China",
       "address": "49-51 Portland Place, W1B 1JL",
-      "lat": 51.52102,
-      "lng": -0.14548,
-      "type": "Embassy"
+      "lat": 51.5210465,
+      "lng": -0.1460189,
+      "type": "Embassy",
+      "facts": [
+        "The Great Wall was built over centuries to defend northern frontiers; surviving Ming sections are iconic.",
+        "Britain fought the Opium Wars in the 19th century, forcing treaty ports and ceding Hong Kong until 1997.",
+        "China's high-speed rail network is the world's largest by mileage, knitting megacities together."
+      ]
     },
     {
       "country": "Colombia",
-      "address": "3 Hans Crescent",
+      "address": "3 Hans Crescent, SW1X 0LS",
       "lat": 51.4989827,
       "lng": -0.161333,
-      "type": "Embassy"
+      "type": "Embassy",
+      "facts": [
+        "Bogotá sits high on a plateau in the Andes, giving it mild weather despite its tropical latitude.",
+        "Gabriel García Márquez's magical realism drew deeply on Caribbean Colombian culture.",
+        "The 2016 peace accord with the FARC aimed to end decades of internal armed conflict."
+      ]
     },
     {
       "country": "Costa Rica",
-      "address": "23 Woodstock St",
+      "address": "23 Woodstock St, W1C 2AT",
       "lat": 51.5137548,
       "lng": -0.147229,
-      "type": "Embassy"
+      "type": "Embassy",
+      "facts": [
+        "Costa Rica abolished its army in 1949, investing instead in education and health.",
+        "Cloud forests like Monteverde host astonishing biodiversity on misty mountain ridges.",
+        "British influence included banana company enclaves and Caribbean coast Afro-Costa Rican communities."
+      ]
     },
     {
       "country": "Croatia",
-      "address": "21 Conway Street",
+      "address": "21 Conway Street, W1T 6BN",
       "lat": 51.5232326,
       "lng": -0.1412939,
-      "type": "Embassy"
+      "type": "Embassy",
+      "facts": [
+        "Dubrovnik was the independent merchant republic of Ragusa, a major Adriatic trading power.",
+        "Croatia fought a war of independence in the 1990s as Yugoslavia dissolved.",
+        "The Dalmatian coast's islands and Roman ruins draw millions of visitors each summer."
+      ]
     },
     {
       "country": "Cuba",
-      "address": "167 High Holborn",
+      "address": "167 High Holborn, WC1V 6PA",
       "lat": 51.5161771,
       "lng": -0.1254292,
-      "type": "Embassy"
+      "type": "Embassy",
+      "facts": [
+        "The 1959 revolution brought Fidel Castro to power and reshaped Cuba's relationship with the United States.",
+        "Old Havana's Spanish colonial core is a UNESCO World Heritage site.",
+        "The Spanish-American War ended Spanish rule; the US held Guantánamo Bay under a long-term lease."
+      ]
     },
     {
       "country": "Cyprus",
-      "address": "13 St James's Square",
+      "address": "13 St James's Square, SW1Y 4LH",
       "lat": 51.5075499,
       "lng": -0.1366492,
-      "type": "High Commission"
+      "type": "High Commission",
+      "facts": [
+        "Cyprus gained independence from Britain in 1960 after colonial rule since 1878 (with interruptions).",
+        "The island is divided between the Republic of Cyprus and the Turkish-backed north since 1974.",
+        "Aphrodite's mythical birthplace is marked at Petra tou Romiou on the south coast."
+      ]
     },
     {
       "country": "Czech Republic",
-      "address": "26-30 Kensington Palace Gardens",
+      "address": "26-30 Kensington Palace Gardens, W8 4QY",
       "lat": 51.5094029,
       "lng": -0.1934959,
-      "type": "Embassy"
+      "type": "Embassy",
+      "facts": [
+        "Prague's Charles University, founded 1348, is one of Europe's oldest universities.",
+        "The Velvet Revolution of 1989 ended communist rule peacefully in what was then Czechoslovakia.",
+        "Czechoslovakia was carved out of the Austro-Hungarian Empire after World War I, with strong British wartime ties to exiles."
+      ]
     },
     {
       "country": "Côte d'Ivoire",
-      "address": "2 Upper Belgrave Street",
+      "address": "2 Upper Belgrave Street, SW1X 8AD",
       "lat": 51.4983912,
       "lng": -0.150837,
-      "type": "Embassy"
+      "type": "Embassy",
+      "facts": [
+        "Abidjan is West Africa's economic hub though the political capital is Yamoussoukro.",
+        "The country became independent from France in 1960 under Félix Houphouët-Boigny's long leadership.",
+        "Ivory Coast (French name) reflects historic elephant ivory trade along forest routes."
+      ]
     },
     {
       "country": "Democratic Republic of the Congo",
-      "address": "281 Gray's Inn Road",
+      "address": "281 Gray's Inn Road, WC1X 8QF",
       "lat": 51.5296531,
       "lng": -0.1202912,
-      "type": "Embassy"
+      "type": "Embassy",
+      "facts": [
+        "The Congo River is among the world's largest by discharge and drains a vast central African basin.",
+        "The Belgian Congo under Leopold II became infamous for rubber extraction and brutal exploitation.",
+        "UN peacekeeping, including UK contributions, has operated amid recurring eastern instability."
+      ]
     },
     {
       "country": "Denmark",
-      "address": "55 Sloane Street",
+      "address": "55 Sloane Street, SW1X 9QB",
       "lat": 51.4979081,
       "lng": -0.1595066,
-      "type": "Embassy"
+      "type": "Embassy",
+      "facts": [
+        "Greenland and the Faroe Islands remain autonomous territories within the Danish Realm.",
+        "The Viking Age linked Danish seafarers to Britain—Danelaw settlements shaped English place names.",
+        "Copenhagen's cycling infrastructure and design culture are global references for livable cities."
+      ]
     },
     {
       "country": "Dominica",
-      "address": "1 Collingham Gardens",
+      "address": "1 Collingham Gardens, SW5 0HW",
       "lat": 51.4913234,
       "lng": -0.187078,
-      "type": "High Commission"
+      "type": "High Commission",
+      "facts": [
+        "Dominica is called the 'Nature Island' for rainforests, hot springs, and the boiling Lake hike.",
+        "It is not the Dominican Republic—Dominica is smaller, English-speaking, and between Guadeloupe and Martinique.",
+        "Kalinago (Carib) communities remain more prominent here than on many Caribbean islands."
+      ]
     },
     {
       "country": "Dominican Republic",
-      "address": "81 Cromwell Road",
+      "address": "81 Cromwell Road, SW7 5RN",
       "lat": 51.4949318,
       "lng": -0.1819954,
-      "type": "Embassy"
+      "type": "Embassy",
+      "facts": [
+        "The DR shares Hispaniola with Haiti; colonial Santo Domingo claims the Americas' oldest European city layout.",
+        "Merengue and bachata music genres are central to Dominican cultural identity.",
+        "Trujillo's dictatorship (1930–61) was one of the Caribbean's harshest autocracies."
+      ]
     },
     {
       "country": "Ecuador",
-      "address": "3 Hans Crescent",
+      "address": "3 Hans Crescent, SW1X 0LS",
       "lat": 51.4989827,
       "lng": -0.161333,
-      "type": "Embassy"
+      "type": "Embassy",
+      "facts": [
+        "The equator runs through Ecuador—monuments near Quito mark the line (with slight survey quirks).",
+        "The Galápagos Islands, part of Ecuador, inspired Darwin's theory of evolution by natural selection.",
+        "Quito is one of the world's highest capitals, tucked in an Andean valley beneath volcanic peaks."
+      ]
     },
     {
       "country": "Egypt",
-      "address": "26 South Street",
+      "address": "26 South Street, W1K 1JB",
       "lat": 51.507983,
       "lng": -0.1519677,
-      "type": "Embassy"
+      "type": "Embassy",
+      "facts": [
+        "The Suez Canal, opened in 1869, links Europe and Asia; the 1956 crisis drew in Britain, France, and Israel.",
+        "Pharaonic monuments from Giza to Luxor anchor one of history's longest continuous civilizations.",
+        "British occupation ran from 1882 until gradual independence; the 1922 kingdom kept British influence for years."
+      ]
     },
     {
       "country": "El Salvador",
-      "address": "8 Dorset Square",
+      "address": "8 Dorset Square, NW1 6QB",
       "lat": 51.5233651,
       "lng": -0.1602105,
-      "type": "Embassy"
+      "type": "Embassy",
+      "facts": [
+        "El Salvador is Central America's smallest country but among its most densely populated.",
+        "The 1980s civil war killed tens of thousands; a 1992 peace accord ended the fighting.",
+        "Bitcoin was adopted as legal tender in 2021—a controversial monetary experiment."
+      ]
     },
     {
       "country": "Equatorial Guinea",
       "address": "13 Park Place, St James's",
-      "lat": 51.507,
-      "lng": -0.1381,
-      "type": "Embassy"
+      "lat": 51.5063473,
+      "lng": -0.1400873,
+      "type": "Embassy",
+      "facts": [
+        "Malabo, the capital, sits on Bioko island off the mainland, a legacy of Spanish colonial geography.",
+        "Oil wealth contrasts with persistent inequality and limited political pluralism.",
+        "Spanish is the official language—rare in sub-Saharan Africa outside former Spanish territories."
+      ]
     },
     {
       "country": "Eritrea",
-      "address": "96 White Lion Street",
+      "address": "96 White Lion Street, N1 9PF",
       "lat": 51.5329325,
       "lng": -0.1073147,
-      "type": "Embassy"
+      "type": "Embassy",
+      "facts": [
+        "Eritrea fought a 30-year war to secede from Ethiopia, gaining independence in 1993 after a federation failed.",
+        "Massawa and Asmara reflect Italian colonial architecture—Asmara is a UNESCO modernist site.",
+        "The Red Sea coast made Eritrea strategically important to empires and Cold War rivals."
+      ]
     },
     {
       "country": "Estonia",
-      "address": "44 Queen's Gate Terrace",
+      "address": "44 Queen's Gate Terrace, SW7 5PR",
       "lat": 51.4988557,
       "lng": -0.1828055,
-      "type": "Embassy"
+      "type": "Embassy",
+      "facts": [
+        "Estonia restored independence in 1991 as the USSR dissolved; the Singing Revolution used mass song festivals.",
+        "Tallinn's medieval Old Town is among Europe's best-preserved Hanseatic cores.",
+        "The country is a digital-government pioneer—e-residency and online voting are signature policies."
+      ]
     },
     {
       "country": "Eswatini",
-      "address": "20 Buckingham Gate",
+      "address": "20 Buckingham Gate, SW1E 6DY",
       "lat": 51.4995081,
       "lng": -0.1400273,
-      "type": "High Commission"
+      "type": "High Commission",
+      "facts": [
+        "Eswatini (formerly Swaziland) is one of the world's last absolute monarchies in Africa.",
+        "The king renamed the country in 2018 to reflect the Swazi nation.",
+        "British protectorate status ended at independence in 1968; English remains an official language."
+      ]
     },
     {
       "country": "Ethiopia",
-      "address": "17 Princes Gate",
+      "address": "17 Princes Gate, SW7 1PZ",
       "lat": 51.5014554,
       "lng": -0.1724973,
-      "type": "Embassy"
+      "type": "Embassy",
+      "facts": [
+        "Ethiopia was never colonised in the Scramble for Africa—Italy's occupation (1936–41) was reversed.",
+        "Lucy, the famous Australopithecus fossil, was found in Ethiopia's Afar region.",
+        "The Ethiopian Orthodox Church claims ancient roots linking to early Christianity in the Horn."
+      ]
     },
     {
       "country": "Fiji",
-      "address": "34 Hyde Park Gate",
+      "address": "34 Hyde Park Gate, SW7 5DN",
       "lat": 51.5007691,
       "lng": -0.1817173,
-      "type": "High Commission"
+      "type": "High Commission",
+      "facts": [
+        "Fiji's iTaukei (indigenous) culture and large Indian-Fijian community reflect colonial labour migration.",
+        "Britain ceded Fiji in 1970; the Great Council of Chiefs once played a formal role under the constitution.",
+        "Some 300 islands span Melanesia and Polynesia culturally, with rugby as a national passion."
+      ]
     },
     {
       "country": "Finland",
-      "address": "38 Chesham Place",
+      "address": "38 Chesham Place, SW1X 8SB",
       "lat": 51.4975415,
       "lng": -0.1542545,
-      "type": "Embassy"
+      "type": "Embassy",
+      "facts": [
+        "Finland fought the Winter War (1939–40) against Soviet invasion, becoming a symbol of stubborn resistance.",
+        "Sauna culture is UNESCO-listed; lakes and forests define the national landscape.",
+        "The UK fought alongside Finland's neighbour Sweden in the Napoleonic era, while Finland was later part of Russia until 1917."
+      ]
     },
     {
       "country": "France",
-      "address": "58 Knightsbridge",
+      "address": "58 Knightsbridge, SW1X 7JT",
       "lat": 51.5024864,
       "lng": -0.1580587,
-      "type": "Embassy"
+      "type": "Embassy",
+      "facts": [
+        "The Channel Tunnel (1994) physically links France and the UK beneath the English Channel.",
+        "The French Revolution reshaped global politics; its ideals still echo in rights-based discourse.",
+        "Louisiana Purchase territory once belonged to France, shaping North America's map before U.S. expansion."
+      ]
     },
     {
       "country": "Gabon",
-      "address": "27 Elvaston Place",
-      "lat": 51.4957,
-      "lng": -0.1825,
-      "type": "Embassy"
+      "address": "27 Elvaston Place, SW7 5QG",
+      "lat": 51.4976452,
+      "lng": -0.1809025,
+      "type": "Embassy",
+      "facts": [
+        "Gabon is heavily forested; national parks protect lowland gorillas and forest elephants.",
+        "It gained independence from France in 1960; Omar Bongo ruled for over four decades.",
+        "Libreville was founded by freed people—its name means 'free town' in French."
+      ]
     },
     {
       "country": "Gambia",
-      "address": "92 Ledbury Road",
+      "address": "92 Ledbury Road, W11 2AJ",
       "lat": 51.5161635,
       "lng": -0.1994625,
-      "type": "High Commission"
+      "type": "High Commission",
+      "facts": [
+        "The Gambia is a thin enclave along the Gambia River, surrounded by Senegal except at the coast.",
+        "James Island (Kunta Kinteh Island) was a key Atlantic slave-trade site, now a memorial UNESCO site.",
+        "British colonial rule ended at independence in 1965; the country briefly left the Commonwealth in 2013 before rejoining."
+      ]
     },
     {
       "country": "Georgia",
-      "address": "20 St. George's Square",
+      "address": "20 St. George's Square, SW1V 2HP",
       "lat": 51.4887581,
       "lng": -0.1359401,
-      "type": "Embassy"
+      "type": "Embassy",
+      "facts": [
+        "Georgia claims to be the birthplace of wine—archaeological evidence of early viniculture is famous.",
+        "The Caucasus Mountains divide Europe and Asia; Georgia sits on ancient Silk Road routes.",
+        "The UK supports Georgia's Euro-Atlantic aspirations and territorial integrity after the 2008 Russia conflict."
+      ]
     },
     {
       "country": "Germany",
-      "address": "23 Belgrave Square",
+      "address": "23 Belgrave Square, SW1X 8PZ",
       "lat": 51.4980128,
       "lng": -0.1544759,
-      "type": "Embassy"
+      "type": "Embassy",
+      "facts": [
+        "German unification in 1871 created a new great power in Central Europe under Prussian leadership.",
+        "Berlin's Wall (1961–89) symbolised the Cold War; its fall in 1989 preceded rapid reunification.",
+        "The UK and Germany are major EU trading partners despite Brexit shifting the institutional framework."
+      ]
     },
     {
       "country": "Ghana",
-      "address": "13 Belgrave Square",
+      "address": "13 Belgrave Square, SW1X 8PP",
       "lat": 51.4987995,
       "lng": -0.1553176,
-      "type": "High Commission"
+      "type": "High Commission",
+      "facts": [
+        "Ghana was the first sub-Saharan African colony to gain independence, in 1957 under Kwame Nkrumah.",
+        "Medieval Ghana is unrelated geographically—modern Ghana took the name as a Pan-African symbol.",
+        "Gold Coast trade drew European forts; Cape Coast Castle held enslaved people before the Middle Passage."
+      ]
     },
     {
       "country": "Greece",
       "address": "1A Holland Park",
       "lat": 51.5052905,
       "lng": -0.2043895,
-      "type": "Embassy"
+      "type": "Embassy",
+      "facts": [
+        "Ancient Athens incubated democracy, philosophy, and drama that still shape Western thought.",
+        "Greece fought a war of independence in the 1820s; British philhellenes and loans aided the cause.",
+        "Thousands of islands dot the Aegean and Ionian seas, each with distinct local traditions."
+      ]
     },
     {
       "country": "Grenada",
-      "address": "45 Bedford Row",
+      "address": "45 Bedford Row, WC1V 6JF",
       "lat": 51.5188899,
       "lng": -0.1157057,
-      "type": "High Commission"
+      "type": "High Commission",
+      "facts": [
+        "The 1983 U.S.-led invasion followed a coup and concerned Cold War powers—including UK unease over precedents.",
+        "Grenada is the 'Isle of Spice' for nutmeg and mace production.",
+        "Hurricane Ivan in 2004 devastated nutmeg groves, reshaping the rural economy for years."
+      ]
     },
     {
       "country": "Guatemala",
       "address": "105A Westbourne Grove",
       "lat": 51.5150656,
       "lng": -0.1935013,
-      "type": "Embassy"
+      "type": "Embassy",
+      "facts": [
+        "Tikal's Maya pyramids rise above the Petén rainforest—one of the classic civilization's great city-states.",
+        "A 36-year internal conflict ended in 1996; truth commissions documented mass atrocities against Indigenous Maya.",
+        "Lake Atitlán sits in a volcanic caldera ringed by Maya towns and steep peaks."
+      ]
     },
     {
       "country": "Guinea",
-      "address": "239 Old Marylebone Road",
+      "address": "239 Old Marylebone Road, NW1 5EQ",
       "lat": 51.5185318,
       "lng": -0.1663117,
-      "type": "Embassy"
+      "type": "Embassy",
+      "facts": [
+        "Guinea was the first French West African colony to vote for independence, under Sékou Touré in 1958.",
+        "The country holds major bauxite reserves, feeding global aluminium supply chains.",
+        "Mount Nimba, shared with Côte d'Ivoire, is a biodiversity hotspot with unique endemic species."
+      ]
     },
     {
       "country": "Guyana",
-      "address": "3 Palace Court",
+      "address": "3 Palace Court, W2 4LP",
       "lat": 51.5101393,
       "lng": -0.1919687,
-      "type": "High Commission"
+      "type": "High Commission",
+      "facts": [
+        "Guyana is South America's only English-speaking mainland country and the continent's only Commonwealth realm.",
+        "Kaieteur Falls on the Potaro River is one of the world's highest single-drop waterfalls by volume.",
+        "The 1899 Paris arbitration settled the border with Venezuela, a settlement Venezuela still disputes rhetorically."
+      ]
     },
     {
       "country": "Haiti",
-      "address": "21 Bloomsbury Way",
+      "address": "21 Bloomsbury Way, WC1A 2TH",
       "lat": 51.517964,
       "lng": -0.1228425,
-      "type": "Embassy"
+      "type": "Embassy",
+      "facts": [
+        "Haiti was the first independent nation in Latin America and the Caribbean, and the world's first Black-led republic, after its 1804 revolution against France.",
+        "The Citadelle Laferrière, a mountaintop fortress built after independence, is a UNESCO World Heritage site and symbol of Haitian resistance.",
+        "Britain briefly occupied parts of Haiti during the Napoleonic Wars era; today the UK maintains diplomatic relations through its embassy in Santo Domingo covering Haiti."
+      ]
     },
     {
       "country": "Holy See",
-      "address": "54 Parkside",
+      "address": "54 Parkside, SW19 5NE",
       "lat": 51.4360689,
       "lng": -0.2239319,
-      "type": "Embassy"
+      "type": "Embassy",
+      "facts": [
+        "The Holy See is the sovereign entity governing Vatican City and conducts diplomacy as a distinct subject of international law, not merely as a religious office.",
+        "It maintains diplomatic relations with the United Kingdom, which exchanged full ambassadorial-level ties in the 1980s after centuries of complex history.",
+        "St. Peter's Basilica sits on a site linked to early Christian Rome; the Vatican Library holds manuscripts spanning over a millennium of European and global history."
+      ]
     },
     {
       "country": "Honduras",
-      "address": "136 Baker Street",
-      "lat": 51.5224,
-      "lng": -0.1568,
-      "type": "Embassy"
+      "address": "136 Baker Street, W1U 6SA",
+      "lat": 51.5219416,
+      "lng": -0.1571514,
+      "type": "Embassy",
+      "facts": [
+        "Honduras is named after the deep waters (\"honduras\") Spanish explorers encountered off its Caribbean coast.",
+        "The ancient Maya city of Copán, in western Honduras, is renowned for its sculpted stelae and hieroglyphic stairway.",
+        "The UK is a trading partner and supports development and governance projects through its embassy in Guatemala City, which covers Honduras."
+      ]
     },
     {
       "country": "Hungary",
-      "address": "35 Eaton Place",
+      "address": "35 Eaton Place, SW1X 8BY",
       "lat": 51.4972713,
       "lng": -0.1527801,
-      "type": "Embassy"
+      "type": "Embassy",
+      "facts": [
+        "Hungary's Parliament building on the Danube in Budapest is one of Europe's largest legislative structures and a neo-Gothic landmark.",
+        "The 1956 Hungarian Uprising against Soviet rule became a defining Cold War moment; refugees were welcomed in several Western countries, including the UK.",
+        "Hungarian is a Finno-Ugric language unrelated to its Slavic, Germanic, or Romance neighbors, reflecting distinct migration history."
+      ]
     },
     {
       "country": "Iceland",
       "address": "2A Hans Street",
-      "lat": 51.4978,
-      "lng": -0.1594,
-      "type": "Embassy"
+      "lat": 51.497635,
+      "lng": -0.1595259,
+      "type": "Embassy",
+      "facts": [
+        "Iceland's Althing, founded in 930 CE, is often cited as one of the world's oldest surviving parliaments.",
+        "The island sits on the Mid-Atlantic Ridge, making it a hotspot for volcanoes, geysers, and geothermal power.",
+        "During the Second World War British forces occupied Iceland to deny it to Axis powers, shaping Iceland's path toward independence from Denmark."
+      ]
     },
     {
       "country": "India",
-      "address": "India House",
-      "lat": 51.5125,
-      "lng": -0.1183,
-      "type": "High Commission"
+      "address": "India House, Aldwych, WC2B 4NA",
+      "lat": 51.5131,
+      "lng": -0.1179,
+      "type": "High Commission",
+      "facts": [
+        "The British East India Company and later the Crown ruled much of the subcontinent until independence and partition in 1947.",
+        "India is the world's most populous country and has dozens of officially recognized languages, with Hindi and English prominent at the national level.",
+        "The Himalayas form India's northern frontier and include Kanchenjunga, among the world's highest peaks, on the border with Nepal."
+      ]
     },
     {
       "country": "Indonesia",
-      "address": "30 Great Peter Street",
+      "address": "30 Great Peter Street, SW1P 3LN",
       "lat": 51.4969379,
       "lng": -0.1274904,
-      "type": "Embassy"
+      "type": "Embassy",
+      "facts": [
+        "Indonesia is the world's largest archipelagic state, straddling the equator across more than 17,000 islands.",
+        "It was a Dutch colony until 1945; the UK briefly administered parts of Java and Sumatra after Japanese occupation in the post-war transition.",
+        "Borneo, Java, Sulawesi, and Sumatra anchor enormous biodiversity, including orangutans and the Wallace Line biogeographic divide."
+      ]
     },
     {
       "country": "Iran",
       "address": "16 Prince's Gate, SW7 1PT",
-      "lat": 51.50153,
-      "lng": -0.17231,
-      "type": "Embassy"
+      "lat": 51.5015,
+      "lng": -0.1723,
+      "type": "Embassy",
+      "facts": [
+        "Persia was a major empire for millennia; Reza Shah and later his son reshaped the modern state, renamed Iran in 1935.",
+        "The 1979 revolution replaced the monarchy with an Islamic republic, transforming Iran's domestic and foreign policy.",
+        "Ancient Persepolis near Shiraz preserves monumental Achaemenid ruins from the era of Cyrus and Darius."
+      ]
     },
     {
       "country": "Iraq",
-      "address": "21 Queen's Gate",
+      "address": "21 Queen's Gate, SW7 2ET",
       "lat": 51.5016666,
       "lng": -0.1802533,
-      "type": "Embassy"
+      "type": "Embassy",
+      "facts": [
+        "Mesopotamia—\"land between the rivers\"—saw the rise of Sumer, Babylon, and Assyria, often called the cradle of writing and cities.",
+        "Britain held a League of Nations mandate over Iraq after World War I, shaping borders and institutions before independence in 1932.",
+        "The Tigris and Euphrates define Iraq's geography from Kurdish highlands in the north to marshlands and deserts in the south."
+      ]
     },
     {
       "country": "Ireland",
-      "address": "17 Grosvenor Place",
+      "address": "17 Grosvenor Place, SW1X 7HR",
       "lat": 51.5003811,
       "lng": -0.149893,
-      "type": "Embassy"
+      "type": "Embassy",
+      "facts": [
+        "Ireland gained independence from the UK in stages; Northern Ireland remained in the United Kingdom, defining the island's modern partition.",
+        "The Good Friday Agreement (1998) helped end much of the Troubles and established complex North–South and British–Irish institutions.",
+        "Ireland is the only EU member with a land border with the UK, a focus of Brexit negotiations."
+      ]
     },
     {
       "country": "Israel",
       "address": "2 Palace Green, W8 4QB",
-      "lat": 51.503056,
-      "lng": -0.189444,
-      "type": "Embassy"
+      "lat": 51.5031949,
+      "lng": -0.1896411,
+      "type": "Embassy",
+      "facts": [
+        "Israel was established in 1948 following a UN partition plan and war, with borders and status contested regionally ever since.",
+        "Jerusalem hosts sites sacred to Judaism, Christianity, and Islam, making the city's governance a focal point of diplomacy.",
+        "The UK held the Palestine Mandate after World War I, and British policy in the mandate period still shapes historical narratives today."
+      ]
     },
     {
       "country": "Italy",
-      "address": "14 Three Kings Yard",
+      "address": "14 Three Kings Yard, W1K 4EH",
       "lat": 51.5119155,
       "lng": -0.1493019,
-      "type": "Embassy"
+      "type": "Embassy",
+      "facts": [
+        "Rome was the heart of an empire that left law, roads, and language across Europe; Italy unified as a nation-state only in the 19th century.",
+        "Venice and Genoa were maritime republics whose trade networks linked the Mediterranean to Northern Europe for centuries.",
+        "The UK and Italy were allies in both world wars—on opposite sides in the first and the same side in the second after Italy's 1943 armistice and split."
+      ]
     },
     {
       "country": "Jamaica",
-      "address": "1-2 Prince Consort Road",
+      "address": "1-2 Prince Consort Road, SW7 2BP",
       "lat": 51.5001708,
       "lng": -0.1749031,
-      "type": "High Commission"
+      "type": "High Commission",
+      "facts": [
+        "Jamaica became independent from the United Kingdom in 1962 but remains a Commonwealth realm with the British monarch as head of state.",
+        "The island's Blue Mountains produce renowned coffee, while its music—notably reggae—became globally influential.",
+        "Spanish Town and Port Royal reflect layers of colonial history before British rule solidified Jamaica as a major sugar colony."
+      ]
     },
     {
       "country": "Japan",
-      "address": "101–104 Piccadilly",
+      "address": "101–104 Piccadilly, W1J 7JT",
       "lat": 51.5052847,
       "lng": -0.1461224,
-      "type": "Embassy"
+      "type": "Embassy",
+      "facts": [
+        "Japan remained largely closed to foreigners during the Tokugawa shogunate until U.S. Commodore Perry's 1853 expedition helped end isolation.",
+        "The UK was Japan's ally from 1902 to 1923 under the Anglo-Japanese Alliance, a landmark Asian–European pact.",
+        "Japan is an archipelago on the Pacific Ring of Fire, experiencing frequent earthquakes and nurturing a rich Shinto and Buddhist cultural heritage."
+      ]
     },
     {
       "country": "Jordan",
-      "address": "6 Upper Phillimore Gardens",
+      "address": "6 Upper Phillimore Gardens, W8 7HA",
       "lat": 51.5020385,
       "lng": -0.197812,
-      "type": "Embassy"
+      "type": "Embassy",
+      "facts": [
+        "The Hashemite Kingdom emerged from post-Ottoman diplomacy; Transjordan gained independence with British ties before evolving into today's Jordan.",
+        "Petra, carved into rose-red sandstone by the Nabataeans, draws visitors from around the world and is a UNESCO World Heritage site.",
+        "Jordan hosts large numbers of Palestinian and Syrian refugees, placing humanitarian and diplomatic issues at the center of state policy."
+      ]
     },
     {
       "country": "Kazakhstan",
       "address": "125 Pall Mall, SW1Y 5EA",
-      "lat": 51.507528,
-      "lng": -0.130972,
-      "type": "Embassy"
+      "lat": 51.5074679,
+      "lng": -0.130983,
+      "type": "Embassy",
+      "facts": [
+        "Kazakhstan is the world's largest landlocked country and spans Central Asia from the Caspian steppe toward the Altai mountains.",
+        "It inherited the Soviet space launch complex at Baikonur, still central to Russian crewed spaceflight.",
+        "Nomadic horse culture and the Silk Road history shaped Kazakh identity before Russian expansion and later Soviet rule."
+      ]
     },
     {
       "country": "Kenya",
-      "address": "45 Portland Place",
+      "address": "45 Portland Place, W1B 1QH",
       "lat": 51.5206652,
       "lng": -0.1457766,
-      "type": "High Commission"
+      "type": "High Commission",
+      "facts": [
+        "Kenya's highlands and Great Rift Valley cradle early hominin fossils that rewrote understanding of human evolution.",
+        "It gained independence from Britain in 1963; English remains widely used in government and business alongside Swahili.",
+        "Maasai Mara and other reserves anchor East Africa's safari tourism and transboundary wildlife conservation."
+      ]
     },
     {
       "country": "Kosovo",
-      "address": "8 John Street",
+      "address": "8 John Street, WC1N 2ES",
       "lat": 51.5219505,
       "lng": -0.1150064,
-      "type": "Embassy"
+      "type": "Embassy",
+      "facts": [
+        "Kosovo declared independence from Serbia in 2008; recognition remains divided among UN member states, including five EU members that do not recognize it.",
+        "Medieval Serbian Orthodox monasteries in Kosovo are UNESCO-listed, reflecting contested historical narratives.",
+        "The UK was a leading NATO participant in the 1999 Kosovo campaign and recognizes Kosovo's independence."
+      ]
     },
     {
       "country": "Kuwait",
-      "address": "2 Albert Gate",
-      "lat": 51.5025733,
-      "lng": -0.158515,
-      "type": "Embassy"
+      "address": "2 Albert Gate, SW1X 7JU",
+      "lat": 51.5026335,
+      "lng": -0.1584799,
+      "type": "Embassy",
+      "facts": [
+        "Kuwait's oil wealth transformed a small Gulf sheikhdom into one of the world's highest per-capita income states.",
+        "Iraq's 1990 invasion led to the Gulf War; British forces were major contributors to the US-led coalition that liberated Kuwait.",
+        "Before oil, pearling and trade across the Gulf shaped Kuwaiti society and ties to India and Britain."
+      ]
     },
     {
       "country": "Kyrgyzstan",
-      "address": "119 Crawford Street",
-      "lat": 51.5201,
-      "lng": -0.1637,
-      "type": "Embassy"
+      "address": "119 Crawford Street, W1U 6BZ",
+      "lat": 51.5198762,
+      "lng": -0.1583855,
+      "type": "Embassy",
+      "facts": [
+        "Kyrgyzstan is mountainous Kyrgyz Ala-Too country, with Issyk-Kul—one of the world's largest alpine lakes—a centerpiece of its geography.",
+        "The Epic of Manas, among the longest oral epics, remains central to Kyrgyz cultural identity.",
+        "It gained independence with the Soviet collapse in 1991 and has navigated between Russian influence and broader diplomatic partnerships."
+      ]
     },
     {
       "country": "Laos",
-      "address": "49 Porchester Terrace",
+      "address": "49 Porchester Terrace, W2 3TS",
       "lat": 51.5133026,
       "lng": -0.1843449,
-      "type": "Embassy"
+      "type": "Embassy",
+      "facts": [
+        "Laos is the only landlocked country in Southeast Asia; the Mekong River is its lifeline for transport and agriculture.",
+        "The Plain of Jars holds thousands of ancient stone jars whose origins are still studied by archaeologists.",
+        "During the Vietnam War era, Laos was heavily bombed in covert campaigns; unexploded ordnance clearance continues today."
+      ]
     },
     {
       "country": "Latvia",
-      "address": "45 Nottingham Place",
+      "address": "45 Nottingham Place, W1U 5LY",
       "lat": 51.5223836,
       "lng": -0.1535203,
-      "type": "Embassy"
+      "type": "Embassy",
+      "facts": [
+        "Riga's art nouveau architecture is among Europe's finest, reflecting prosperity before World War I in the Baltic provinces.",
+        "Latvia was independent between the wars, annexed by the USSR in 1940, and regained independence in 1991 as the Soviet Union dissolved.",
+        "It joined NATO and the EU in 2004, anchoring its security and economy in Western institutions alongside Estonia and Lithuania."
+      ]
     },
     {
       "country": "Lebanon",
       "address": "21 Kensington Palace Gardens, W8 4QN",
       "lat": 51.507896,
       "lng": -0.1921977,
-      "type": "Embassy"
+      "type": "Embassy",
+      "facts": [
+        "Beirut was long called the \"Paris of the Middle East\" for its cosmopolitan culture before civil war and recurring crises reshaped the city.",
+        "Lebanon's confessional political system allocates offices among religious communities, a legacy of French mandate-era arrangements.",
+        "Cedars of Lebanon appear in ancient texts; today small groves survive as national symbols on the flag."
+      ]
     },
     {
       "country": "Lesotho",
-      "address": "7 Chesham Place",
+      "address": "7 Chesham Place, SW1X 8HN",
       "lat": 51.4977249,
       "lng": -0.1554895,
-      "type": "Embassy"
+      "type": "Embassy",
+      "facts": [
+        "Lesotho is an enclave entirely inside South Africa, one of the world's few true enclave states.",
+        "Its mountainous terrain helped the Basuto people preserve autonomy during the Mfecane and colonial era.",
+        "It was Basutoland under British protection before independence in 1966; the UK still supports development through aid and Commonwealth ties."
+      ]
     },
     {
       "country": "Liberia",
-      "address": "23 Fitzroy Square",
+      "address": "23 Fitzroy Square, W1T 6EW",
       "lat": 51.5228702,
       "lng": -0.1409189,
-      "type": "Embassy"
+      "type": "Embassy",
+      "facts": [
+        "Liberia was founded in the 19th century with support from the American Colonization Society as a home for free African Americans and recaptured persons.",
+        "Its capital Monrovia honors U.S. President James Monroe; English is the official language.",
+        "Firestone's rubber plantations linked Liberia to American industry for decades, shaping its economy and politics."
+      ]
     },
     {
       "country": "Libya",
-      "address": "15 Knightsbridge",
+      "address": "15 Knightsbridge, SW1X 7LY",
       "lat": 51.5023233,
       "lng": -0.1540217,
-      "type": "Embassy"
+      "type": "Embassy",
+      "facts": [
+        "Ancient Tripolitania and Cyrenaica were Roman and later Byzantine provinces; Leptis Magna preserves spectacular ruins on the coast.",
+        "Italy colonized Libya until World War II; Britain administered Tripolitania and Cyrenaica in the post-war transition.",
+        "Oil transformed Libya after independence in 1951; the 2011 uprising ended decades of Qadhafi's rule."
+      ]
     },
     {
       "country": "Lithuania",
-      "address": "2 Bessborough Gardens",
+      "address": "2 Bessborough Gardens, SW1V 2JE",
       "lat": 51.4895463,
       "lng": -0.1308278,
-      "type": "Embassy"
+      "type": "Embassy",
+      "facts": [
+        "The Grand Duchy of Lithuania once stretched from the Baltic deep into today's Belarus and Ukraine, forming a major medieval power with Poland.",
+        "Vilnius boasts a baroque old town and was a center of Jewish learning before the Holocaust erased most of that community.",
+        "Lithuania was the first Soviet republic to declare independence in 1990, helping trigger the USSR's dissolution."
+      ]
     },
     {
       "country": "Luxembourg",
-      "address": "27 Wilton Crescent",
+      "address": "27 Wilton Crescent, SW1X 8SD",
       "lat": 51.5010405,
       "lng": -0.1545547,
-      "type": "Embassy"
+      "type": "Embassy",
+      "facts": [
+        "Luxembourg is a founding member of what became the EU and hosts several EU institutions and agencies.",
+        "Fortress Luxembourg earned the nickname \"Gibraltar of the North\" before late-19th-century dismantling of fortifications.",
+        "It is a constitutional monarchy with a Grand Duke; steel and then finance built its modern prosperity."
+      ]
     },
     {
       "country": "Madagascar",
-      "address": "One Knightsbridge Green",
-      "lat": 51.5005,
-      "lng": -0.1672,
-      "type": "Embassy"
+      "address": "One Knightsbridge Green, SW1X 7QN",
+      "lat": 51.5008419,
+      "lng": -0.162792,
+      "type": "Embassy",
+      "facts": [
+        "Madagascar broke from Africa and India geologically long ago, evolving unique lemurs and baobabs found nowhere else naturally.",
+        "Malagasy culture blends Austronesian settlement from across the Indian Ocean with African influences.",
+        "France ruled Madagascar as a colony until independence in 1960; the UK trades and partners on conservation and development."
+      ]
     },
     {
       "country": "Malawi",
-      "address": "36 John Street",
+      "address": "36 John Street, WC1N 2AT",
       "lat": 51.5215018,
       "lng": -0.1151684,
-      "type": "High Commission"
+      "type": "High Commission",
+      "facts": [
+        "Lake Malawi—Africa's third-largest lake—defines the country's eastern border and extraordinary freshwater biodiversity.",
+        "It was Nyasaland under British colonial rule before independence in 1964 led by Hastings Banda.",
+        "The country is long and narrow, with highlands separating the lake from Mozambique and Zambia."
+      ]
     },
     {
       "country": "Malaysia",
-      "address": "45 Belgrave Square",
+      "address": "45 Belgrave Square, SW1X 8QT",
       "lat": 51.5001059,
       "lng": -0.1525063,
-      "type": "High Commission"
+      "type": "High Commission",
+      "facts": [
+        "Malaysia combines peninsular states with Sabah and Sarawak on Borneo, separated by the South China Sea.",
+        "British Malaya and later Malaysia shaped parliamentary institutions; the UK remains an important trade and education partner.",
+        "The Strait of Malacca is one of the world's busiest shipping channels, flanking Malaysia's west coast."
+      ]
     },
     {
       "country": "Maldives",
-      "address": "22 Nottingham Place",
+      "address": "22 Nottingham Place, W1U 5NJ",
       "lat": 51.5216044,
       "lng": -0.1528081,
-      "type": "High Commission"
+      "type": "High Commission",
+      "facts": [
+        "The Maldives is Asia's smallest country by land area, spread across coral atolls in the Indian Ocean.",
+        "Its highest natural point is only about two meters above sea level, making sea-level rise an existential diplomatic issue.",
+        "It was a British protectorate until 1965 and is now a Muslim-majority republic heavily reliant on tourism and fishing."
+      ]
     },
     {
       "country": "Malta",
-      "address": "36-38 Piccadilly",
+      "address": "36-38 Piccadilly, W1J 0DW",
       "lat": 51.5090876,
       "lng": -0.1373314,
-      "type": "High Commission"
+      "type": "High Commission",
+      "facts": [
+        "Malta's strategic position in the Mediterranean led to centuries of rule by knights, France, and Britain before independence in 1964.",
+        "The George Cross was awarded collectively to Malta for bravery under siege in World War II; it appears on the national flag.",
+        "Maltese is a Semitic language written in Latin script, reflecting Arab and European layers of history."
+      ]
     },
     {
       "country": "Mauritania",
-      "address": "Carlyle House, 235–237 Vauxhall Bridge Road",
+      "address": "Carlyle House, 235–237 Vauxhall Bridge Road, SW1V 1EJ",
       "lat": 51.4939129,
       "lng": -0.1407391,
-      "type": "Embassy"
+      "type": "Embassy",
+      "facts": [
+        "Much of Mauritania lies in the Sahara; ancient caravan routes crossed its sands linking West Africa to the Mediterranean.",
+        "It was the last country globally to abolish slavery legally, though forced labor and descent-based servitude remain human rights concerns.",
+        "Nouakchott, the capital, grew rapidly from a village after independence from France in 1960."
+      ]
     },
     {
       "country": "Mauritius",
-      "address": "32/33 Elvaston Place",
+      "address": "32/33 Elvaston Place, SW7 5QG",
       "lat": 51.4975629,
       "lng": -0.1817773,
-      "type": "High Commission"
+      "type": "High Commission",
+      "facts": [
+        "Mauritius was uninhabited before European arrival; Dutch, French, and British rule shaped a diverse, multilingual society.",
+        "The dodo, extinct by the late 17th century, was endemic to Mauritius and became an icon of human-caused extinction.",
+        "The UK retains the Chagos Archipelago as the British Indian Ocean Territory—a long-running sovereignty dispute with Mauritius."
+      ]
     },
     {
       "country": "Mexico",
-      "address": "16 St. George Street",
+      "address": "16 St. George Street, W1S 1FW",
       "lat": 51.5130401,
       "lng": -0.1436978,
-      "type": "Embassy"
+      "type": "Embassy",
+      "facts": [
+        "Mexico's War of Independence ended Spanish rule in 1821; the 1846–48 war with the U.S. redrew North American borders.",
+        "It is extraordinarily biodiverse, bridging temperate and tropical zones from Sonoran deserts to Chiapas rainforests.",
+        "The UK and Mexico maintain strong trade ties; London was Latin America's first bond market for independent Mexico in the 1820s."
+      ]
     },
     {
       "country": "Moldova",
-      "address": "55 Catherine Place",
+      "address": "55 Catherine Place, SW1E 6DY",
       "lat": 51.4992672,
       "lng": -0.1402871,
-      "type": "Embassy"
+      "type": "Embassy",
+      "facts": [
+        "Moldova sits between Romania and Ukraine; Romanian is the official language, reflecting shared history with Moldavia west of the Prut.",
+        "Transnistria broke away in a 1990s conflict and hosts Russian troops, freezing a \"frozen conflict\" on the Dniester.",
+        "Wine cellars in Mileștii Mici hold some of the world's largest underground wine collections."
+      ]
     },
     {
       "country": "Monaco",
-      "address": "7 Upper Grosvenor Street",
+      "address": "7 Upper Grosvenor Street, W1K 2LX",
       "lat": 51.5106468,
       "lng": -0.1537147,
-      "type": "Embassy"
+      "type": "Embassy",
+      "facts": [
+        "Monaco is a tiny city-state on the French Riviera, ruled almost continuously by the Grimaldi family since the 13th century.",
+        "It is densely built on steep terrain and known for the Grand Prix circuit threading its streets.",
+        "The UK and Monaco cooperate on tax information exchange and financial regulation within broader European frameworks."
+      ]
     },
     {
       "country": "Mongolia",
-      "address": "7-8 Kensington Court",
+      "address": "7-8 Kensington Court, SW5 9QN",
       "lat": 51.4941691,
       "lng": -0.1988928,
-      "type": "Embassy"
+      "type": "Embassy",
+      "facts": [
+        "The Mongol Empire under Genghis Khan and his successors became the largest contiguous land empire in history.",
+        "Mongolia is landlocked between Russia and China, with vast steppes sustaining nomadic pastoral traditions.",
+        "Outer Mongolia was under Qing rule, then Soviet influence; it became a multiparty democracy in the 1990s."
+      ]
     },
     {
       "country": "Montenegro",
-      "address": "47 De Vere Gardens",
+      "address": "47 De Vere Gardens, W8 5AW",
       "lat": 51.4997272,
       "lng": -0.1846905,
-      "type": "Embassy"
+      "type": "Embassy",
+      "facts": [
+        "Montenegro resisted full Ottoman incorporation for centuries and was recognized as independent at the Congress of Berlin in 1878.",
+        "Its Adriatic coast includes medieval Kotor, a UNESCO-listed bay ringed by mountains.",
+        "It peacefully separated from Serbia in 2006 and joined NATO in 2017, pursuing EU membership."
+      ]
     },
     {
       "country": "Morocco",
-      "address": "49 Queen's Gate Gardens",
+      "address": "49 Queen's Gate Gardens, SW7 5NE",
       "lat": 51.4958195,
       "lng": -0.1822521,
-      "type": "Embassy"
+      "type": "Embassy",
+      "facts": [
+        "Morocco spans the Atlas Mountains, the Sahara, and both Atlantic and Mediterranean coastlines, near the Strait of Gibraltar.",
+        "It was a French and Spanish protectorate before independence in 1956; Western Sahara remains disputed internationally.",
+        "The UK and Morocco have centuries of diplomatic contact, including treaties on trade and piracy in earlier eras."
+      ]
     },
     {
       "country": "Mozambique",
-      "address": "21 Fitzroy Square",
+      "address": "21 Fitzroy Square, W1T 6EL",
       "lat": 51.5229683,
       "lng": -0.1410261,
-      "type": "High Commission"
+      "type": "High Commission",
+      "facts": [
+        "Mozambique's long Indian Ocean coast made it a hub in the Indian Ocean trade and later Portuguese colonial rule.",
+        "It gained independence in 1975; a long civil war ended with a 1992 peace deal brokered partly with international support.",
+        "The UK is a development partner and investor, particularly in energy and extractives."
+      ]
     },
     {
       "country": "Myanmar",
       "address": "19A Charles Street, W1J 5DX",
       "lat": 51.5075954,
       "lng": -0.1482205,
-      "type": "Embassy"
+      "type": "Embassy",
+      "facts": [
+        "Bagan's plain holds thousands of Buddhist temples built when Burmese kingdoms flourished along the Irrawaddy.",
+        "Britain annexed Burma in stages during the 19th century; independence came in 1948.",
+        "The 2021 military coup reversed a decade of partial opening, triggering widespread resistance and international sanctions."
+      ]
     },
     {
       "country": "Namibia",
-      "address": "6 Chandos Street",
+      "address": "6 Chandos Street, W1G 9DS",
       "lat": 51.5184169,
       "lng": -0.1448242,
-      "type": "High Commission"
+      "type": "High Commission",
+      "facts": [
+        "The Namib Desert is among the world's oldest; the Skeleton Coast is notorious for fog and shipwrecks.",
+        "Germany colonized the area before South African rule under a League of Nations mandate; independence arrived in 1990 after a long liberation struggle.",
+        "The UK supported Namibian independence diplomatically through the UN and Commonwealth engagement."
+      ]
     },
     {
       "country": "Nepal",
       "address": "12a Kensington Palace Gardens",
       "lat": 51.5074577,
       "lng": -0.190598,
-      "type": "Embassy"
+      "type": "Embassy",
+      "facts": [
+        "Nepal is home to eight of the world's fourteen 8,000-meter peaks, including Everest on its border with China.",
+        "It was never colonized, though the Anglo-Nepalese War led to a treaty shaping its relations with British India.",
+        "The Kathmandu Valley's Newar architecture and Hindu-Buddhist heritage anchor its UNESCO sites."
+      ]
     },
     {
       "country": "Netherlands",
-      "address": "38 Hyde Park Gate",
+      "address": "38 Hyde Park Gate, SW7 5DP",
       "lat": 51.5009828,
       "lng": -0.1822443,
-      "type": "Embassy"
+      "type": "Embassy",
+      "facts": [
+        "The Dutch Republic was a 17th-century maritime and financial powerhouse whose merchants and fleets reached Asia, Africa, and the Americas.",
+        "Much of the country lies below sea level, defended by dikes, pumps, and centuries of reclaimed polders.",
+        "William of Orange became King of England, Scotland, and Ireland in 1689, tying Dutch and British crowns in the Glorious Revolution."
+      ]
     },
     {
       "country": "New Zealand",
-      "address": "80 Haymarket",
-      "lat": 51.5077,
-      "lng": -0.1318,
-      "type": "High Commission"
+      "address": "New Zealand House, 80 Haymarket, SW1Y 4TQ",
+      "lat": 51.508,
+      "lng": -0.1322,
+      "type": "High Commission",
+      "facts": [
+        "The Treaty of Waitangi (1840) between Māori chiefs and the British Crown remains central to New Zealand law and politics.",
+        "New Zealand was the first country to grant women the right to vote in national elections, in 1893.",
+        "Its isolation fostered unique wildlife—kiwi, kākāpō, and tuatara—before human settlement and introduced species reshaped ecosystems."
+      ]
     },
     {
       "country": "Nigeria",
-      "address": "9 Northumberland Avenue",
+      "address": "9 Northumberland Avenue, WC2N 5BX",
       "lat": 51.5067279,
       "lng": -0.1252198,
-      "type": "High Commission"
+      "type": "High Commission",
+      "facts": [
+        "Nigeria unites hundreds of ethnic groups; Hausa-Fulani, Yoruba, and Igbo are the largest, with English as the official language from British colonial rule.",
+        "It gained independence in 1960; the 1967–70 Biafran civil war killed hundreds of thousands and still shapes politics.",
+        "Nollywood is one of the world's largest film industries by output, exporting African stories globally."
+      ]
     },
     {
       "country": "North Korea",
       "address": "73 Gunnersbury Avenue, W5 4LP",
-      "lat": 51.5031,
-      "lng": -0.28915,
-      "type": "Embassy"
+      "lat": 51.503139,
+      "lng": -0.2892386,
+      "type": "Embassy",
+      "facts": [
+        "Korea was divided after World War II; the DPRK was proclaimed in 1948 under Kim Il-sung with Soviet backing.",
+        "The 1950–53 Korean War ended in an armistice, not a peace treaty, leaving a heavily fortified border with South Korea.",
+        "The UK established diplomatic relations in 2000 but maintains critical human rights reporting and non-proliferation concerns."
+      ]
     },
     {
       "country": "North Macedonia",
-      "address": "64-65 Vincent Square",
+      "address": "64-65 Vincent Square, SW1P 2NU",
       "lat": 51.493339,
       "lng": -0.1370433,
-      "type": "Embassy"
+      "type": "Embassy",
+      "facts": [
+        "The country renamed itself North Macedonia in 2019 to resolve a decades-long dispute with Greece over the name \"Macedonia.\"",
+        "Ohrid on Lake Ohrid hosts Byzantine churches and is a UNESCO site shared with Albania.",
+        "Alexander the Great's ancient kingdom lies mostly in Greece; modern North Macedonia traces Slavic settlement from the medieval period."
+      ]
     },
     {
       "country": "Norway",
-      "address": "25 Belgrave Square",
-      "lat": 51.4985,
-      "lng": -0.1534,
-      "type": "Embassy"
+      "address": "25 Belgrave Square, SW1X 8QD",
+      "lat": 51.4980755,
+      "lng": -0.152978,
+      "type": "Embassy",
+      "facts": [
+        "The Viking Age saw Norse seafarers reach Iceland, Greenland, and briefly North America long before Columbus.",
+        "Norway dissolved its union with Sweden peacefully in 1905 and later resisted Nazi occupation with help from the UK government in exile.",
+        "Its fjords, oil fund sovereign wealth, and Arctic coastline make it a key NATO member with a long maritime tradition."
+      ]
     },
     {
       "country": "Oman",
-      "address": "167 Queen's Gate",
+      "address": "167 Queen's Gate, SW7 5HD",
       "lat": 51.4974203,
       "lng": -0.1788901,
-      "type": "Embassy"
+      "type": "Embassy",
+      "facts": [
+        "Oman built a maritime empire stretching to East Africa; Zanzibar was long tied to Omani rule before separation.",
+        "The UK had a close treaty relationship with the Sultanate for much of the 20th century, including military cooperation.",
+        "Muscat sits between mountains and sea; frankincense from Dhofar linked Oman to ancient trade routes."
+      ]
     },
     {
       "country": "Pakistan",
-      "address": "35–36 Lowndes Square",
-      "lat": 51.5013254,
-      "lng": -0.1588549,
-      "type": "High Commission"
+      "address": "35–36 Lowndes Square, SW1X 9EZ",
+      "lat": 51.5013342,
+      "lng": -0.1585478,
+      "type": "High Commission",
+      "facts": [
+        "Pakistan emerged from the 1947 partition of British India, one of the largest mass migrations in history amid horrific violence.",
+        "It controls part of Kashmir disputed with India; both countries are nuclear-armed, raising stakes for diplomacy.",
+        "The Indus Valley civilization sites of Mohenjo-daro and Harappa lie mainly in Pakistan's south."
+      ]
     },
     {
       "country": "Palestine",
-      "address": "5 Galena Road",
-      "lat": 51.49,
+      "address": "5 Galena Road, W6 0LT",
+      "lat": 51.4936,
       "lng": -0.215,
-      "type": "Embassy"
+      "type": "Embassy",
+      "facts": [
+        "The British Mandate for Palestine (1920–48) set the stage for competing Jewish and Arab national claims.",
+        "Palestinian aspirations are represented by the PLO and, since 2012, non-member observer state status at the UN.",
+        "Jerusalem, Gaza, and the West Bank are focal points of Israeli–Palestinian negotiations and international law debates."
+      ]
     },
     {
       "country": "Panama",
-      "address": "40 Hertford Street",
+      "address": "40 Hertford Street, W1J 7RT",
       "lat": 51.5058086,
       "lng": -0.1485004,
-      "type": "Embassy"
+      "type": "Embassy",
+      "facts": [
+        "The Panama Canal, opened by the U.S. in 1914, was transferred to Panama in 1999 and remains a linchpin of global shipping.",
+        "Panama broke from Colombia in 1903 with U.S. support, enabling canal treaty negotiations.",
+        "The UK uses the canal for trade and has financial and maritime links through London's role in shipping services."
+      ]
     },
     {
       "country": "Papua New Guinea",
-      "address": "14 Waterloo Place",
+      "address": "14 Waterloo Place, SW1Y 4AR",
       "lat": 51.5074847,
       "lng": -0.1332672,
-      "type": "High Commission"
+      "type": "High Commission",
+      "facts": [
+        "PNG occupies the eastern half of New Guinea plus islands; it is among the world's most linguistically diverse countries.",
+        "It was administered by Australia under a UN trusteeship after Japanese occupation in World War II.",
+        "Highland agriculture developed taro and sweet potato cultures independently for millennia before outside contact."
+      ]
     },
     {
       "country": "Paraguay",
-      "address": "81 Cromwell Road",
+      "address": "81 Cromwell Road, SW7 5RN",
       "lat": 51.4949318,
       "lng": -0.1819954,
-      "type": "Embassy"
+      "type": "Embassy",
+      "facts": [
+        "Paraguay fought the devastating War of the Triple Alliance (1864–70) against Brazil, Argentina, and Uruguay, losing huge swaths of population.",
+        "It is one of two landlocked countries in South America (with Bolivia) and relies on river systems for trade.",
+        "Guaraní is an official language alongside Spanish, rare in the Americas for indigenous co-official status at national level."
+      ]
     },
     {
       "country": "Peru",
       "address": "15 Buckingham Gate London",
       "lat": 51.4997766,
       "lng": -0.1405737,
-      "type": "Embassy"
+      "type": "Embassy",
+      "facts": [
+        "The Inca Empire united the Andes before Spanish conquest; Machu Picchu symbolizes its engineering and terrace agriculture.",
+        "Peru was the center of Spain's silver wealth extracted from Potosí's orbit and Cerro de Pasco mines.",
+        "British investment built key Peruvian railways in the 19th century to move guano and minerals to the coast."
+      ]
     },
     {
       "country": "Philippines",
-      "address": "6-11 Suffolk Street",
+      "address": "6-11 Suffolk Street, SW1Y 4HG",
       "lat": 51.5086102,
       "lng": -0.1306614,
-      "type": "Embassy"
+      "type": "Embassy",
+      "facts": [
+        "The Philippines was a Spanish colony for over 300 years, then U.S. territory until independence in 1946.",
+        "It is an archipelago of over 7,000 islands on the Pacific Ring of Fire, exposed to typhoons and earthquakes.",
+        "The UK and Philippines cooperate on maritime security, trade, and development in the Indo-Pacific."
+      ]
     },
     {
       "country": "Poland",
-      "address": "47 Portland Place",
+      "address": "47 Portland Place, W1B 1JH",
       "lat": 51.5207567,
       "lng": -0.1458203,
-      "type": "Embassy"
+      "type": "Embassy",
+      "facts": [
+        "The Polish-Lithuanian Commonwealth was once Europe's largest state before partitions erased Poland from the map for 123 years.",
+        "Britain pledged to defend Poland in 1939, entering World War II when Germany invaded; Polish pilots fought in the Battle of Britain.",
+        "Solidarity's 1980s strikes helped undermine communist rule, contributing to the 1989 revolutions in Eastern Europe."
+      ]
     },
     {
       "country": "Portugal",
-      "address": "11 Belgrave Square",
+      "address": "11 Belgrave Square, SW1X 8PP",
       "lat": 51.4995802,
       "lng": -0.1552093,
-      "type": "Embassy"
+      "type": "Embassy",
+      "facts": [
+        "Portugal's 15th–16th-century navigators opened sea routes to India, Brazil, and beyond, launching the global Portuguese empire.",
+        "The Anglo-Portuguese Alliance, dating to the 14th century, is often cited as the oldest still-standing diplomatic alliance.",
+        "Lisbon's 1755 earthquake, tsunami, and fires reshaped urban planning and European thought about natural disasters."
+      ]
     },
     {
       "country": "Qatar",
-      "address": "1 South Audley Street",
+      "address": "1 South Audley Street, W1K 1NB",
       "lat": 51.5070218,
       "lng": -0.1504298,
-      "type": "Embassy"
+      "type": "Embassy",
+      "facts": [
+        "Once a pearling economy, Qatar became the world's largest LNG exporter and hosted the first FIFA World Cup in the Arab world in 2022.",
+        "The UK and Qatar have long-standing defence and trade ties, including joint exercises and major Qatari investment in British assets.",
+        "Al Jazeera, founded in Doha in 1996, reshaped Arabic-language news and global perceptions of the Gulf."
+      ]
     },
     {
       "country": "Republic of the Congo",
-      "address": "101 New Street Hill",
-      "lat": 51.4220936,
-      "lng": 0.0238943,
-      "type": "Embassy"
+      "address": "101 New Street Hill, Bromley, BR1 5EY",
+      "lat": 51.4221,
+      "lng": 0.0239,
+      "type": "Embassy",
+      "facts": [
+        "Brazzaville faces Kinshasa across the Congo River—two national capitals closer than almost any other pair worldwide.",
+        "French is the official language, a legacy of colonial rule that still shapes education, law, and regional diplomacy.",
+        "Dense rainforests cover much of the country, hosting lowland gorillas and critical carbon stocks for the planet."
+      ]
     },
     {
       "country": "Romania",
-      "address": "4 Palace Green",
+      "address": "4 Palace Green, W8 4QD",
       "lat": 51.5039791,
       "lng": -0.190042,
-      "type": "Embassy"
+      "type": "Embassy",
+      "facts": [
+        "The 1878 Congress of Berlin recognised Romanian independence; Romania sided with the Allies in both world wars after shifting alliances in WWI.",
+        "Transylvania's castles and Saxon fortified churches blend Hungarian, German, and Romanian heritage across the Carpathians.",
+        "Romania is home to much of the Danube Delta, one of Europe's largest wetlands and a UNESCO biosphere reserve."
+      ]
     },
     {
       "country": "Russia",
       "address": "6-7 Kensington Palace Gardens, W8 4QP",
-      "lat": 51.507806,
-      "lng": -0.190944,
-      "type": "Embassy"
+      "lat": 51.5094964,
+      "lng": -0.1918781,
+      "type": "Embassy",
+      "facts": [
+        "Spanning eleven time zones, Russia is by far the world's largest country by land area.",
+        "The Great Northern War and Napoleonic campaigns cemented Russia as a European great power; the UK often balanced against or allied with it in shifting coalitions.",
+        "Lake Baikal holds about one-fifth of the world's unfrozen fresh surface water and is Earth's deepest lake."
+      ]
     },
     {
       "country": "Rwanda",
-      "address": "120-122 Seymour Place",
+      "address": "120-122 Seymour Place, W1H 1NR",
       "lat": 51.5201245,
       "lng": -0.1633601,
-      "type": "High Commission"
+      "type": "High Commission",
+      "facts": [
+        "Rwanda is one of Africa's most densely populated mainland countries, with steep green hills terraced for farming.",
+        "Kinyarwanda, French, English, and Swahili reflect layered colonial and regional history in public life.",
+        "Gorilla tourism in the Virunga foothills funds conservation and has helped rebuild Rwanda's global image after the 1994 genocide."
+      ]
     },
     {
       "country": "Saint Kitts and Nevis",
-      "address": "10 Kensington Ct.",
+      "address": "10 Kensington Ct., W8 5DL",
       "lat": 51.5013389,
       "lng": -0.1869024,
-      "type": "High Commission"
+      "type": "High Commission",
+      "facts": [
+        "The Federation is the Western Hemisphere's smallest sovereign state by land area and the only one named for two islands.",
+        "Sugar plantations shaped its economy for centuries; independence from the UK came in 1983 within the Commonwealth.",
+        "The narrow channel between the islands is nicknamed 'The Narrows' and was once bridged by a carrying trade in enslaved people—today it hosts a scenic ferry."
+      ]
     },
     {
       "country": "Saint Lucia",
-      "address": "1 Collingham Gardens",
+      "address": "1 Collingham Gardens, SW5 0HW",
       "lat": 51.4913234,
       "lng": -0.187078,
-      "type": "High Commission"
+      "type": "High Commission",
+      "facts": [
+        "The Pitons—two volcanic spires—are a UNESCO World Heritage Site and emblem of the island.",
+        "Saint Lucia changed hands between France and Britain fourteen times before British rule stabilised; French Creole culture endures.",
+        "The island is a leading Eastern Caribbean cruise and yachting hub, with a strong banana and now tourism economy."
+      ]
     },
     {
       "country": "Saint Vincent and the Grenadines",
-      "address": "10 Kensington Ct.",
+      "address": "10 Kensington Ct., W8 5DL",
       "lat": 51.5013389,
       "lng": -0.1869024,
-      "type": "High Commission"
+      "type": "High Commission",
+      "facts": [
+        "The nation is an archipelago of one main island and dozens of smaller Grenadines, including exclusive resort islets.",
+        "La Soufrière volcano on Saint Vincent erupted as recently as 2021, displacing thousands and coating farmland in ash.",
+        "The UK granted independence in 1979; the country remains a Commonwealth realm with the British monarch as head of state."
+      ]
     },
     {
       "country": "Saudi Arabia",
-      "address": "30 Charles Street",
+      "address": "30 Charles Street, W1J 5DX",
       "lat": 51.5072885,
       "lng": -0.1479214,
-      "type": "Embassy"
+      "type": "Embassy",
+      "facts": [
+        "The kingdom contains Islam's two holiest cities, Mecca and Medina, drawing millions of pilgrims annually.",
+        "Aramco's 2019 IPO was among the largest ever, underscoring oil's centrality to state finances and global energy markets.",
+        "Vision 2030 aims to diversify beyond hydrocarbons with megaprojects like NEOM and expanded tourism visas."
+      ]
     },
     {
       "country": "Senegal",
-      "address": "47 Bedford Row",
-      "lat": 51.5199923,
-      "lng": -0.1161192,
-      "type": "Embassy"
+      "address": "47 Bedford Row, WC1R 4LL",
+      "lat": 51.5191681,
+      "lng": -0.1156166,
+      "type": "Embassy",
+      "facts": [
+        "Dakar hosted the final of the transatlantic slave trade era at Gorée Island, now a memorial visited by world leaders.",
+        "Senegal is often cited as one of West Africa's most stable democracies, with peaceful power transfers.",
+        "The UK has growing trade and security cooperation with Senegal, including maritime and development partnerships."
+      ]
     },
     {
       "country": "Serbia",
-      "address": "28 Belgrave Square",
+      "address": "28 Belgrave Square, SW1X 8QB",
       "lat": 51.498281,
       "lng": -0.1526398,
-      "type": "Embassy"
+      "type": "Embassy",
+      "facts": [
+        "Belgrade sits where the Sava meets the Danube, a strategic crossroads contested since Roman Singidunum.",
+        "Serbia was the largest republic in Yugoslavia; the wars of the 1990s and Kosovo's 2008 declaration still shape diplomacy.",
+        "Serbian Orthodox monasteries like Studenica and Gračanica are UNESCO-listed medieval masterpieces."
+      ]
     },
     {
       "country": "Seychelles",
-      "address": "130-132 Buckingham Palace Road",
-      "lat": 51.4981871,
-      "lng": -0.1440037,
-      "type": "High Commission"
+      "address": "130-132 Buckingham Palace Road, SW1W 0DT",
+      "lat": 51.4949336,
+      "lng": -0.1461932,
+      "type": "High Commission",
+      "facts": [
+        "This Indian Ocean archipelago has the smallest population of any African UN member state.",
+        "Aldabra, one of the world's largest raised coral atolls, hosts giant tortoises and is a UNESCO site.",
+        "The UK ceded the islands to independence in 1976; Creole, French, and English reflect layered colonial history."
+      ]
     },
     {
       "country": "Sierra Leone",
-      "address": "41 Eagle Street",
+      "address": "41 Eagle Street, WC1R 4AT",
       "lat": 51.5189171,
       "lng": -0.1174267,
-      "type": "High Commission"
+      "type": "High Commission",
+      "facts": [
+        "Freetown was founded as a haven for liberated Africans and Black Loyalists from Nova Scotia, giving Sierra Leone a unique diaspora origin story.",
+        "Blood diamonds fuelled a brutal civil war (1991–2002); the Kimberley Process emerged partly in response.",
+        "Tacugama Chimpanzee Sanctuary near Freetown protects endangered primates in misty Western Area forests."
+      ]
     },
     {
       "country": "Singapore",
-      "address": "9 Wilton Crescent",
+      "address": "9 Wilton Crescent, SW1X 8SP",
       "lat": 51.500252,
       "lng": -0.156469,
-      "type": "High Commission"
+      "type": "High Commission",
+      "facts": [
+        "Expelled from Malaysia in 1965, Singapore built a global hub port and air bridge with few natural resources.",
+        "English is a lingua franca alongside Mandarin, Malay, and Tamil—legacy of British rule and multicultural policy.",
+        "The UK and Singapore maintain a strong defence arrangement and deep financial and legal ties in the Commonwealth tradition."
+      ]
     },
     {
       "country": "Slovakia",
-      "address": "25 Kensington Palace Gardens",
+      "address": "25 Kensington Palace Gardens, W2 4LW",
       "lat": 51.5092686,
       "lng": -0.1929077,
-      "type": "Embassy"
+      "type": "Embassy",
+      "facts": [
+        "Bratislava uniquely borders two countries—Austria and Hungary—making it a compact Central European capital.",
+        "The peaceful 1993 'Velvet Divorce' split Czechoslovakia; Slovakia joined the EU and NATO in 2004.",
+        "The High Tatras offer Slovakia's highest peaks and alpine lakes between Poland and Ukraine."
+      ]
     },
     {
       "country": "Slovenia",
-      "address": "17 Dartmouth Street",
+      "address": "17 Dartmouth Street, SW1H 9NB",
       "lat": 51.5001315,
       "lng": -0.1320213,
-      "type": "Embassy"
+      "type": "Embassy",
+      "facts": [
+        "Lake Bled's island church and cliffside castle are icons of a country smaller than Wales but packed with Alps and karst.",
+        "Slovenia was the wealthiest Yugoslav republic and the first to secede in 1991 after a brief conflict.",
+        "The UK was among early recognisers of Slovenian independence and is now a close EU partner."
+      ]
     },
     {
       "country": "Somalia",
-      "address": "259-269 Old Marylebone Road",
+      "address": "259-269 Old Marylebone Road, W1H 4AD",
       "lat": 51.5202706,
       "lng": -0.1655847,
-      "type": "Embassy"
+      "type": "Embassy",
+      "facts": [
+        "Ancient city-states on the Somali coast traded frankincense and myrrh with Rome, Persia, and India.",
+        "The failed 1993 UN humanitarian mission in Mogadishu became a turning point in Western military intervention doctrine.",
+        "Somalia has Africa's longest coastline on the Indian Ocean and Gulf of Aden, central to piracy debates in the 2000s."
+      ]
     },
     {
       "country": "South Africa",
-      "address": "South Africa House",
-      "lat": 51.5082,
-      "lng": -0.1269,
-      "type": "High Commission"
+      "address": "South Africa House, Trafalgar Square, WC2N 5DP",
+      "lat": 51.5075,
+      "lng": -0.1278,
+      "type": "High Commission",
+      "facts": [
+        "The Union of South Africa (1910) united British colonies and Boer republics; apartheid ended with democratic elections in 1994.",
+        "The UK is South Africa's largest European investor and a major source of tourists to Cape Town and the wine lands.",
+        "The Cape Floral Region is one of the world's biodiversity hotspots, with thousands of plant species found nowhere else."
+      ]
     },
     {
       "country": "South Korea",
       "address": "60 Buckingham Gate, SW1E 6AJ",
-      "lat": 51.498028,
-      "lng": -0.136583,
-      "type": "Embassy"
+      "lat": 51.4985148,
+      "lng": -0.1366641,
+      "type": "Embassy",
+      "facts": [
+        "The 1953 armistice left Korea divided; the Demilitarized Zone is both a tense border and an accidental nature reserve.",
+        "From post-war ruin, South Korea became a semiconductor, shipbuilding, and pop-culture powerhouse (the 'Korean Wave').",
+        "British forces fought under UN command in the Korean War; today the UK and ROK cooperate on trade and security in the Indo-Pacific."
+      ]
     },
     {
       "country": "South Sudan",
-      "address": "22-25 Portman Close",
+      "address": "22-25 Portman Close, W1H 6DB",
       "lat": 51.5168902,
       "lng": -0.1563257,
-      "type": "Embassy"
+      "type": "Embassy",
+      "facts": [
+        "South Sudan became the world's newest country in 2011 after Africa's longest civil war, yet conflict has persisted.",
+        "The Sudd is one of Earth's largest wetlands, a vast seasonal swamp on the White Nile vital for pastoralists and wildlife.",
+        "Juba lies near the equator but sits on a plateau—nights can be surprisingly cool for the tropics."
+      ]
     },
     {
       "country": "Spain",
-      "address": "39 Chesham Place",
-      "lat": 51.4999,
-      "lng": -0.1563,
-      "type": "Embassy"
+      "address": "39 Chesham Place, SW1X 8SB",
+      "lat": 51.4976427,
+      "lng": -0.1536746,
+      "type": "Embassy",
+      "facts": [
+        "The 1492 fall of Granada ended centuries of Al-Andalus rule and launched an age of global Spanish empire.",
+        "The UK still holds Gibraltar at the strait's mouth—a sovereignty issue that has flared across EU and NATO cooperation.",
+        "Spain is the EU's second-largest country by area and receives more international tourists than almost any other state."
+      ]
     },
     {
       "country": "Sri Lanka",
-      "address": "13 Hyde Park Gardens",
+      "address": "13 Hyde Park Gardens, W2 2NU",
       "lat": 51.512787,
       "lng": -0.170849,
-      "type": "High Commission"
+      "type": "High Commission",
+      "facts": [
+        "Ancient Anuradhapura and Polonnaruwa were Buddhist civilisation centres; colonial Portuguese, Dutch, and British layers followed.",
+        "Ceylon tea became a British plantation staple; independence in 1948 retained Commonwealth ties.",
+        "Sri Lanka's biodiversity includes elephants, leopards, and Sinharaja rainforest—a UNESCO site in the island's wet zone."
+      ]
     },
     {
       "country": "Sudan",
-      "address": "3 Cleveland Row, London",
+      "address": "3 Cleveland Row, London, SW1A 1DD",
       "lat": 51.5048678,
       "lng": -0.1386287,
-      "type": "Embassy"
+      "type": "Embassy",
+      "facts": [
+        "Khartoum sits at the confluence of the White and Blue Niles, a historic trade and imperial choke point.",
+        "Anglo-Egyptian condominium rule (1899–1956) shaped Sudan's north–south dynamics long before South Sudan's secession.",
+        "Pyramids at Meroë rival Egypt's in number, relics of the Kingdom of Kush along the Nile."
+      ]
     },
     {
       "country": "Sweden",
-      "address": "11 Montagu Place",
-      "lat": 51.5193,
-      "lng": -0.1576,
-      "type": "Embassy"
+      "address": "11 Montagu Place, W1H 2AL",
+      "lat": 51.5189286,
+      "lng": -0.1602537,
+      "type": "Embassy",
+      "facts": [
+        "The 17th-century Swedish Empire stretched around the Baltic until defeats to Russia reshaped the map.",
+        "Sweden has not fought a war since 1814, pursuing armed neutrality before joining NATO in 2024.",
+        "Stockholm's archipelago has tens of thousands of islands, a defining feature of Swedish summer life."
+      ]
     },
     {
       "country": "Switzerland",
-      "address": "16/18 Montagu Place",
+      "address": "16/18 Montagu Place, W1H 2BQ",
       "lat": 51.5184448,
       "lng": -0.1605901,
-      "type": "Embassy"
+      "type": "Embassy",
+      "facts": [
+        "Permanent neutrality and banking secrecy made Switzerland a diplomatic venue—the League of Nations and many UN agencies sit in Geneva.",
+        "The Alps cover about three-fifths of the country, with iconic peaks like the Matterhorn straddling the Italian border.",
+        "The UK and Switzerland negotiate bespoke trade arrangements outside the EU single market."
+      ]
     },
     {
       "country": "Syria",
-      "address": "8 Belgrave Square",
+      "address": "8 Belgrave Square, SW1X 8PH",
       "lat": 51.4998149,
       "lng": -0.1549089,
-      "type": "Embassy"
+      "type": "Embassy",
+      "facts": [
+        "Damascus is among the world's oldest continuously inhabited cities, with layers from Aramaean to Ottoman rule.",
+        "The French Mandate drew borders that later shaped Lebanon and Syria's modern state.",
+        "Palmyra's ruins in the desert once linked Roman and Persian worlds—tragically damaged during recent war."
+      ]
     },
     {
       "country": "Tajikistan",
-      "address": "110 Clarendon Road",
-      "lat": 51.5093,
-      "lng": -0.2048,
-      "type": "Embassy"
+      "address": "110 Clarendon Road, W11 2HR",
+      "lat": 51.5132052,
+      "lng": -0.2111799,
+      "type": "Embassy",
+      "facts": [
+        "Over ninety percent of Tajikistan is mountainous; the Pamirs host remote communities and epic trekking routes.",
+        "It was the poorest Soviet republic; civil war after independence devastated infrastructure in the 1990s.",
+        "Persian culture persists in Tajik, unlike Turkic neighbours—Samarkand and Bukhara historically tied the region together."
+      ]
     },
     {
       "country": "Tanzania",
-      "address": "3 Stratford Place",
+      "address": "3 Stratford Place, W1C 1AS",
       "lat": 51.5147605,
       "lng": -0.148864,
-      "type": "High Commission"
+      "type": "High Commission",
+      "facts": [
+        "Tanganyika and Zanzibar merged in 1964 to form Tanzania; Julius Nyerere championed African socialism and Swahili nation-building.",
+        "Serengeti migrations and Kilimanjaro make Tanzania a flagship safari and climbing destination.",
+        "The UK was the colonial power in Tanganyika; Dar es Salaam remains the largest Swahili-speaking city."
+      ]
     },
     {
       "country": "Thailand",
-      "address": "29–30 Queen's Gate",
+      "address": "29–30 Queen's Gate, SW7 5JB",
       "lat": 51.4984418,
       "lng": -0.1801125,
-      "type": "Embassy"
+      "type": "Embassy",
+      "facts": [
+        "Siam was never colonised, navigating British and French imperial pressure through skillful diplomacy and border adjustments.",
+        "Bangkok's Grand Palace and Buddhist temples contrast with a modern manufacturing hub—the 'Detroit of Asia' for vehicles.",
+        "Southern isthmus rainforests and Andaman islands anchor tourism alongside the historic kingdom of Ayutthaya."
+      ]
     },
     {
       "country": "Timor-Leste",
-      "address": "83 Victoria Street",
+      "address": "83 Victoria Street, SW1H 0HW",
       "lat": 51.4983,
       "lng": -0.1378,
-      "type": "Embassy"
+      "type": "Embassy",
+      "facts": [
+        "A 1999 independence referendum ended Indonesian rule; UN peacekeepers—including UK personnel—helped stabilise the transition.",
+        "Tetum and Portuguese are official, reflecting resistance-era identity and Portuguese colonial history.",
+        "Oil and gas in the Timor Sea fund the state but raise questions about long-term sustainability after fields peak."
+      ]
     },
     {
       "country": "Togo",
-      "address": "Units 3, 7 & 8 Lysander Mews, Archway",
+      "address": "Units 3, 7 & 8 Lysander Mews, Archway, N19 3QP",
       "lat": 51.568,
       "lng": -0.1365,
-      "type": "High Commission"
+      "type": "High Commission",
+      "facts": [
+        "Lomé became a major West African port under German, then French rule; Togo gained independence from France in 1960.",
+        "The country is narrow north–south, stretching from Atlantic beaches to savanna highlands near Burkina Faso.",
+        "The UK had little direct colonial rule here but trades with Togo through EU–ACP frameworks and Commonwealth West African links."
+      ]
     },
     {
       "country": "Tonga",
-      "address": "36 Molyneux Street",
+      "address": "36 Molyneux Street, W1H 5BQ",
       "lat": 51.518125,
       "lng": -0.1642938,
-      "type": "High Commission"
+      "type": "High Commission",
+      "facts": [
+        "Tonga was never fully colonised; it became a protected state and unique Pacific kingdom with a hereditary nobility.",
+        "The 2022 Hunga Tonga–Hunga Ha'apai eruption was one of the largest atmospheric explosions in the satellite era.",
+        "The UK was the protecting power until 1970; Tonga remains a Commonwealth member with close ties to New Zealand and Australia."
+      ]
     },
     {
       "country": "Trinidad and Tobago",
-      "address": "42 Belgrave Square",
+      "address": "42 Belgrave Square, SW1X 8NT",
       "lat": 51.4998437,
       "lng": -0.1520781,
-      "type": "High Commission"
+      "type": "High Commission",
+      "facts": [
+        "The southernmost Caribbean nation sits near Venezuela's coast; its energy wealth funds Carnival and steelpan culture.",
+        "Indentured South Asian labour after slavery created one of the hemisphere's most diverse populations.",
+        "Independence from the UK came in 1962; the country is a republic within the Commonwealth."
+      ]
     },
     {
       "country": "Tunisia",
-      "address": "29 Prince's Gate",
+      "address": "29 Prince's Gate, SW7 1QG",
       "lat": 51.5008,
       "lng": -0.1743,
-      "type": "Embassy"
+      "type": "Embassy",
+      "facts": [
+        "Ancient Carthage rivalled Rome until the Punic Wars; Roman ruins at El Djem include a colossal amphitheatre.",
+        "The 2011 Jasmine Revolution sparked the Arab Spring, ousting a long-ruling autocrat.",
+        "The UK supported Tunisian transition with aid and trade; the Medina of Tunis is a UNESCO maze of souks and mosques."
+      ]
     },
     {
       "country": "Turkey",
-      "address": "43 Belgrave Square",
+      "address": "43 Belgrave Square, SW1X 8PA",
       "lat": 51.4999381,
       "lng": -0.1522424,
-      "type": "Embassy"
+      "type": "Embassy",
+      "facts": [
+        "Istanbul straddles Europe and Asia across the Bosporus, successor to Byzantine Constantinople and Ottoman grandeur.",
+        "The UK fought Turkey at Gallipoli in WWI but later partnered in NATO; EU accession talks stalled for years.",
+        "Göbekli Tepe predates Stonehenge by millennia, rewriting assumptions about the origins of monumental religion."
+      ]
     },
     {
       "country": "Turkmenistan",
-      "address": "131 Holland Park Avenue",
+      "address": "131 Holland Park Avenue, W11 4UT",
       "lat": 51.5058337,
       "lng": -0.2096164,
-      "type": "Embassy"
+      "type": "Embassy",
+      "facts": [
+        "The Karakum Desert covers most of the country; the Darvaza gas crater has burned since a 1971 Soviet drilling mishap.",
+        "Ashgabat's white marble facades and Guinness records reflect an eccentric post-Soviet personality cult.",
+        "Ancient Merv was one of Islam's greatest cities until Mongol devastation—now a UNESCO archaeological park."
+      ]
     },
     {
       "country": "Uganda",
-      "address": "58–59 Trafalgar Square",
+      "address": "58–59 Trafalgar Square, WC2N 5DX",
       "lat": 51.5072499,
       "lng": -0.1282648,
-      "type": "High Commission"
+      "type": "High Commission",
+      "facts": [
+        "Winston Churchill called Uganda the 'pearl of Africa' for its lakes, gorillas, and equatorial highlands.",
+        "Idi Amin expelled the Asian community in 1972, many of whom resettled in the UK and reshaped British multiculturalism.",
+        "Lake Victoria—the continent's largest—touches Uganda, Kenya, and Tanzania."
+      ]
     },
     {
       "country": "Ukraine",
       "address": "60 Holland Park, W11 3SJ",
-      "lat": 51.5061,
-      "lng": -0.2082,
-      "type": "Embassy"
+      "lat": 51.506106,
+      "lng": -0.2081693,
+      "type": "Embassy",
+      "facts": [
+        "Kyivan Rus linked Vikings to Byzantium; Ukrainian identity reasserted itself through centuries of Polish, Russian, and Soviet rule.",
+        "The UK has been a leading military supporter after Russia's 2022 full-scale invasion, training soldiers and supplying equipment.",
+        "Chernobyl's 1986 disaster in northern Ukraine became a global symbol of nuclear risk and Soviet secrecy."
+      ]
     },
     {
       "country": "United Arab Emirates",
-      "address": "1-2 Grosvenor Cres",
-      "lat": 51.5017346,
-      "lng": -0.1528527,
-      "type": "Embassy"
+      "address": "1-2 Grosvenor Cres, SW1X 7EE",
+      "lat": 51.5007803,
+      "lng": -0.1535515,
+      "type": "Embassy",
+      "facts": [
+        "Seven emirates federated in 1971 as British protection ended; Abu Dhabi holds most oil, Dubai pivoted to trade and tourism.",
+        "The Burj Khalifa and palm-shaped islands showcase rapid desert urbanisation.",
+        "The UK maintains extensive defence cooperation, including basing and joint exercises in the Gulf."
+      ]
     },
     {
       "country": "United States",
       "address": "33 Nine Elms Lane, SW11 7US",
-      "lat": 51.4826,
-      "lng": -0.1317,
-      "type": "Embassy"
+      "lat": 51.4825798,
+      "lng": -0.1322293,
+      "type": "Embassy",
+      "facts": [
+        "The 1787 Constitution created a federal republic that grew from thirteen Atlantic colonies to a continent-spanning power.",
+        "The 'Special Relationship' with the UK—codified in WWII alliance—anchors NATO intelligence and nuclear cooperation.",
+        "Yellowstone, established in 1872, was the world's first national park."
+      ]
     },
     {
       "country": "Uruguay",
-      "address": "150 Brompton Road",
+      "address": "150 Brompton Road, SW3 1HW",
       "lat": 51.4984678,
       "lng": -0.1664579,
-      "type": "Embassy"
+      "type": "Embassy",
+      "facts": [
+        "Montevideo's art-deco and beef culture earned Uruguay the nickname 'Switzerland of South America' for stability and welfare.",
+        "It hosted the first FIFA World Cup final in 1930 and won twice in the tournament's early decades.",
+        "The UK once sought influence on the Plata estuary; today trade ties run through Mercosur and investment in services."
+      ]
     },
     {
       "country": "Uzbekistan",
-      "address": "41 Holland Park",
+      "address": "41 Holland Park, W11 3RP",
       "lat": 51.5064699,
       "lng": -0.205146,
-      "type": "Embassy"
+      "type": "Embassy",
+      "facts": [
+        "Samarkand's Registan was a Silk Road jewel; Timur (Tamerlane) built an empire from Central Asia to Anatolia.",
+        "Double landlocked, Uzbekistan ships goods overland through neighbours to reach seas.",
+        "Cotton monoculture under the Soviets drained the Aral Sea, one of history's worst environmental catastrophes."
+      ]
     },
     {
       "country": "Venezuela",
-      "address": "1 Cromwell Road",
+      "address": "1 Cromwell Road, SW7 2HW",
       "lat": 51.4959,
       "lng": -0.1756,
-      "type": "Embassy"
+      "type": "Embassy",
+      "facts": [
+        "Lake Maracaibo's lightning storms produce the 'Catatumbo lightning' phenomenon, visible many nights a year.",
+        "Oil wealth funded ambitious social programmes and, later, economic crisis under sanctions and mismanagement.",
+        "Simón Bolívar liberated much of Spanish South America; his legacy still polarises Venezuelan politics."
+      ]
     },
     {
       "country": "Vietnam",
-      "address": "12-14 Victoria Road",
+      "address": "12-14 Victoria Road, W8 5AB",
       "lat": 51.5003247,
       "lng": -0.1861492,
-      "type": "Embassy"
+      "type": "Embassy",
+      "facts": [
+        "French Indochina and U.S. intervention left scars; Đổi Mới reforms since 1986 turned Vietnam into a manufacturing export hub.",
+        "Ha Long Bay's limestone karsts are a UNESCO icon of northern coastline.",
+        "The UK and Vietnam upgraded ties with a strategic partnership in the 2010s, linking development and education."
+      ]
     },
     {
       "country": "Yemen",
-      "address": "57 Cromwell Road",
+      "address": "57 Cromwell Road, SW7 2ED",
       "lat": 51.4950672,
       "lng": -0.1786613,
-      "type": "Embassy"
+      "type": "Embassy",
+      "facts": [
+        "Sheba's legendary queen ties to Yemeni highland kingdoms that monopolised frankincense routes.",
+        "Sanaa's old city of tower houses is a UNESCO site in a nation shattered by civil war and humanitarian crisis.",
+        "Aden was a British protectorate hub until 1967; the UK still engages diplomatically on Red Sea security."
+      ]
     },
     {
       "country": "Zambia",
-      "address": "2 Palace Gate",
+      "address": "2 Palace Gate, W8 5NJ",
       "lat": 51.5007505,
       "lng": -0.1836722,
-      "type": "High Commission"
+      "type": "High Commission",
+      "facts": [
+        "Victoria Falls—Mosi-oa-Tunya—straddles Zambia and Zimbabwe on the Zambezi, one of Earth's great waterfalls.",
+        "Copper built the economy; independence in 1964 brought Kenneth Kaunda's non-aligned leadership.",
+        "The UK is a development and mining investment partner and shares Commonwealth institutions with Zambia."
+      ]
     },
     {
       "country": "Zimbabwe",
       "address": "429 Strand, WC2R 0JR",
-      "lat": 51.5096,
-      "lng": -0.124,
-      "type": "High Commission"
+      "lat": 51.5096547,
+      "lng": -0.1240785,
+      "type": "High Commission",
+      "facts": [
+        "Great Zimbabwe's stone ruins testify to a medieval trade empire linked to Indian Ocean commerce.",
+        "Rhodesia's UDI (1965) led to a long guerrilla war; Zimbabwe emerged independent in 1980 with Robert Mugabe's long rule.",
+        "Hyperinflation in the late 2000s made Zimbabwe a textbook case in monetary collapse before dollarisation and reforms."
+      ]
     }
   ]
 }

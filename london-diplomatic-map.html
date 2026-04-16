@@ -249,6 +249,67 @@
       margin-left: 0.5rem;
     }
 
+    .embassy-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+      gap: 1.25rem;
+      margin: 2rem 0;
+    }
+    .embassy-card {
+      background: rgba(255,255,255,0.04);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 1.25rem;
+      transition: border-color 0.2s, transform 0.2s;
+    }
+    .embassy-card:hover {
+      border-color: rgba(139,92,246,0.4);
+      transform: translateY(-2px);
+    }
+    .embassy-card.card-highlight {
+      border-color: rgba(139,92,246,0.8);
+      box-shadow: 0 0 20px rgba(139,92,246,0.15);
+    }
+    .embassy-card-header {
+      display: flex;
+      align-items: center;
+      gap: 0.6rem;
+      margin-bottom: 0.75rem;
+    }
+    .embassy-card-title { flex: 1; }
+    .embassy-card-title h3 {
+      font-size: 1rem;
+      font-weight: 700;
+      margin: 0 0 0.15rem;
+    }
+    .embassy-card-title .embassy-address {
+      font-size: 0.72rem;
+      color: var(--muted);
+    }
+    .facts-list {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+      display: flex;
+      flex-direction: column;
+      gap: 0.5rem;
+    }
+    .facts-list li {
+      font-size: 0.82rem;
+      line-height: 1.5;
+      color: #d1d5db;
+      padding-left: 1rem;
+      position: relative;
+    }
+    .facts-list li::before {
+      content: "▸";
+      position: absolute;
+      left: 0;
+      color: var(--accent);
+      font-size: 0.65rem;
+      top: 0.2rem;
+    }
+
     .leaflet-popup-content-wrapper {
       border-radius: 10px !important;
     }
@@ -258,6 +319,7 @@
       #diplomatic-map { height: 400px; }
       .controls { flex-direction: column; }
       .search-box { min-width: 100%; }
+      .embassy-grid { grid-template-columns: 1fr; }
     }
   </style>
 </head>
@@ -299,6 +361,10 @@
           <div class="stat-value" id="stat-areas">0</div>
           <div class="stat-label">London Areas</div>
         </div>
+        <div class="stat-box">
+          <div class="stat-value" id="stat-facts">504</div>
+          <div class="stat-label">Fun Facts</div>
+        </div>
       </div>
 
       <div class="source-box">
@@ -328,9 +394,9 @@
       <div id="diplomatic-map"></div>
 
       <h2 class="section-title">Complete List <span class="count-badge" id="visible-count">168</span></h2>
-      <p class="section-sub">Click any row to highlight it on the map. Click column headers to sort.</p>
+      <p class="section-sub">Click any row to highlight it on the map and jump to its facts card. Click column headers to sort.</p>
 
-      <div class="embassy-table-wrap" style="max-height: 600px; overflow-y: auto;">
+      <div class="embassy-table-wrap" style="max-height: 500px; overflow-y: auto;">
         <table class="embassy-table" id="embassy-table">
           <thead>
             <tr>
@@ -342,6 +408,10 @@
           <tbody id="embassy-tbody"></tbody>
         </table>
       </div>
+
+      <h2 class="section-title">Embassies &amp; Fun Facts</h2>
+      <p class="section-sub">Three facts per country — history, diplomacy, geography, and cultural curiosities.</p>
+      <div class="embassy-grid" id="embassy-grid"></div>
 
       <hr style="margin:3rem 0; border:none; border-top:1px solid var(--border);">
       <p style="font-size:0.85rem; color:var(--muted); font-style:italic;">
@@ -371,6 +441,7 @@ function init(embassies) {
     if (m) areas.add(m[0]);
   });
 
+  document.getElementById('stat-total').textContent = embassies.length;
   document.getElementById('stat-embassies').textContent = embassyCount;
   document.getElementById('stat-hc').textContent = hcCount;
   document.getElementById('stat-areas').textContent = areas.size;
@@ -396,22 +467,60 @@ function init(embassies) {
       popupAnchor: [0, -8]
     });
 
+    const firstFact = (e.facts && e.facts[0]) ? `<div style="font-size:0.72rem;color:#888;margin-top:6px;border-top:1px solid #eee;padding-top:5px;">▸ ${e.facts[0]}</div>` : '';
     const marker = L.marker([e.lat, e.lng], { icon }).addTo(map);
     marker.bindPopup(`
-      <div style="font-family:Inter,sans-serif;min-width:200px;">
+      <div style="font-family:Inter,sans-serif;min-width:220px;max-width:300px;">
         <div style="font-weight:700;font-size:1rem;margin-bottom:4px;">${e.country}</div>
         <div style="font-size:0.78rem;color:#666;margin-bottom:6px;">${e.address}</div>
         <span style="font-size:0.72rem;padding:2px 6px;border-radius:4px;font-weight:600;
           background:${isHC ? 'rgba(34,197,94,0.15)' : 'rgba(139,92,246,0.15)'};
           color:${isHC ? '#16a34a' : '#7c3aed'};">${e.type}</span>
+        ${firstFact}
       </div>
-    `);
-    marker.on('click', () => highlightRow(e.country));
+    `, { maxWidth: 300 });
+    marker.on('click', () => {
+      highlightRow(e.country);
+      scrollToCard(e.country);
+    });
     markers[e.country] = marker;
   });
 
   const bounds = L.latLngBounds(embassies.filter(e => e.lat && e.lng).map(e => [e.lat, e.lng]));
   map.fitBounds(bounds, { padding: [30, 30] });
+
+  // Build embassy fact cards
+  const grid = document.getElementById('embassy-grid');
+  embassies.forEach(e => {
+    const isHC = e.type === 'High Commission';
+    const typeClass = isHC ? 'type-high-commission' : 'type-embassy';
+    const card = document.createElement('div');
+    card.className = 'embassy-card';
+    card.id = `card-${e.country.replace(/[^a-zA-Z0-9]/g, '-')}`;
+    const factsHTML = (e.facts && e.facts.length)
+      ? `<ul class="facts-list">${e.facts.map(f => `<li>${f}</li>`).join('')}</ul>`
+      : '';
+    card.innerHTML = `
+      <div class="embassy-card-header">
+        <div class="embassy-card-title">
+          <h3>${e.country}</h3>
+          <div class="embassy-address">${e.address}</div>
+        </div>
+        <span class="embassy-type-badge ${typeClass}">${e.type}</span>
+      </div>
+      ${factsHTML}
+    `;
+    card.style.cursor = 'pointer';
+    card.addEventListener('click', () => {
+      const marker = markers[e.country];
+      if (marker) {
+        map.setView(marker.getLatLng(), 16, { animate: true });
+        marker.openPopup();
+        highlightMarker(e.country);
+      }
+    });
+    grid.appendChild(card);
+  });
 
   const tbody = document.getElementById('embassy-tbody');
   let sortCol = 'country';
@@ -419,8 +528,8 @@ function init(embassies) {
   let filter = 'all';
   let searchTerm = '';
 
-  function renderTable() {
-    let filtered = embassies.filter(e => {
+  function getFiltered() {
+    return embassies.filter(e => {
       if (filter !== 'all' && e.type !== filter) return false;
       if (searchTerm) {
         const s = searchTerm.toLowerCase();
@@ -428,6 +537,10 @@ function init(embassies) {
       }
       return true;
     });
+  }
+
+  function renderTable() {
+    let filtered = getFiltered();
 
     filtered.sort((a, b) => {
       const va = a[sortCol] || '';
@@ -457,17 +570,24 @@ function init(embassies) {
           highlightMarker(country);
         }
         highlightRow(country);
+        scrollToCard(country);
       });
     });
 
     // Update map markers visibility
+    const filteredSet = new Set(filtered.map(e => e.country));
     Object.entries(markers).forEach(([country, marker]) => {
-      const visible = filtered.some(e => e.country === country);
-      if (visible) {
+      if (filteredSet.has(country)) {
         if (!map.hasLayer(marker)) map.addLayer(marker);
       } else {
         if (map.hasLayer(marker)) map.removeLayer(marker);
       }
+    });
+
+    // Update card visibility
+    embassies.forEach(e => {
+      const card = document.getElementById(`card-${e.country.replace(/[^a-zA-Z0-9]/g, '-')}`);
+      if (card) card.style.display = filteredSet.has(e.country) ? '' : 'none';
     });
   }
 
@@ -476,7 +596,15 @@ function init(embassies) {
     const row = tbody.querySelector(`tr[data-country="${country}"]`);
     if (row) {
       row.classList.add('highlight');
-      row.scrollIntoView({ behavior: 'smooth', block: 'center' });
+    }
+  }
+
+  function scrollToCard(country) {
+    const card = document.getElementById(`card-${country.replace(/[^a-zA-Z0-9]/g, '-')}`);
+    if (card) {
+      card.scrollIntoView({ behavior: 'smooth', block: 'center' });
+      card.classList.add('card-highlight');
+      setTimeout(() => card.classList.remove('card-highlight'), 2000);
     }
   }
 
@@ -504,13 +632,11 @@ function init(embassies) {
     }
   }
 
-  // Search
   document.getElementById('search').addEventListener('input', e => {
     searchTerm = e.target.value;
     renderTable();
   });
 
-  // Filter buttons
   document.querySelectorAll('.filter-btn').forEach(btn => {
     btn.addEventListener('click', () => {
       document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
@@ -520,7 +646,6 @@ function init(embassies) {
     });
   });
 
-  // Sort headers
   document.querySelectorAll('.embassy-table th').forEach(th => {
     th.addEventListener('click', () => {
       const col = th.dataset.col;
