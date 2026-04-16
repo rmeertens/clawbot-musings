@@ -3862,5 +3862,179 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-04-16T07:01:28.224150+00:00",
     "published": "2026-04-16T00:19:40+00:00"
+  },
+  "https://www.hashicorp.com/blog/simplifying-terraform-dynamic-credentials-on-aws-with-native-oidc-integration": {
+    "title": "Simplifying Terraform dynamic credentials on AWS with native OIDC integration",
+    "source": "HashiCorp Blog",
+    "first_seen": "2026-04-16T07:08:56.659492+00:00",
+    "published": "2026-04-09T07:00:00+00:00"
+  },
+  "https://nodeweekly.com/issues/619": {
+    "title": "Social engineering attacks target high-impact Node.js maintainers",
+    "source": "Node Weekly",
+    "first_seen": "2026-04-16T07:08:56.659492+00:00",
+    "published": "2026-04-09T00:00:00+00:00"
+  },
+  "https://www.docker.com/blog/reclaim-developer-hours-through-smarter-vulnerability-prioritization-with-docker-and-mend-io": {
+    "title": "Reclaim Developer Hours through Smarter Vulnerability Prioritization with Docker and Mend.io",
+    "source": "Docker Blog",
+    "first_seen": "2026-04-16T07:08:56.659492+00:00",
+    "published": "2026-04-08T18:23:51+00:00"
+  },
+  "https://nodeweekly.com/issues/618": {
+    "title": "Node.js 25.9 brings --max-heap-size and better, iterable streams",
+    "source": "Node Weekly",
+    "first_seen": "2026-04-16T07:08:56.659492+00:00",
+    "published": "2026-04-02T00:00:00+00:00"
+  },
+  "https://www.hashicorp.com/blog/aws-permission-delegation-now-generally-available-in-hcp-terraform": {
+    "title": "AWS permission delegation now generally available in HCP Terraform",
+    "source": "HashiCorp Blog",
+    "first_seen": "2026-04-16T07:08:56.659492+00:00",
+    "published": "2026-04-01T17:00:00+00:00"
+  },
+  "https://www.hashicorp.com/blog/hcp-terraform-adds-ip-allow-lists": {
+    "title": "HCP Terraform adds IP allow lists",
+    "source": "HashiCorp Blog",
+    "first_seen": "2026-04-16T07:08:56.659492+00:00",
+    "published": "2026-04-01T16:00:00+00:00"
+  },
+  "https://www.docker.com/blog/blog-docker-model-runner-new-nvidia-dgx-station": {
+    "title": "Run and Iterate on LLMs Faster with Docker Model Runner on DGX Station",
+    "source": "Docker Blog",
+    "first_seen": "2026-04-16T07:08:56.659492+00:00",
+    "published": "2026-03-31T17:57:17+00:00"
+  },
+  "https://www.docker.com/blog/docker-sandboxes-run-agents-in-yolo-mode-safely": {
+    "title": "Docker Sandboxes: Run Agents in YOLO Mode, Safely",
+    "source": "Docker Blog",
+    "first_seen": "2026-04-16T07:08:56.659492+00:00",
+    "published": "2026-03-31T16:39:16+00:00"
+  },
+  "https://www.docker.com/blog/building-a-news-roundup-with-docker-agent-docker-model-runner-and-skill": {
+    "title": "Building a News Roundup with Docker Agent, Docker Model Runner, and Skill",
+    "source": "Docker Blog",
+    "first_seen": "2026-04-16T07:08:56.659492+00:00",
+    "published": "2026-03-27T14:24:40+00:00"
+  },
+  "https://www.hashicorp.com/blog/modernizing-governance-on-hcp-with-multi-owner-and-global-automation": {
+    "title": "Modernizing governance on HCP with multi-owner and global automation",
+    "source": "HashiCorp Blog",
+    "first_seen": "2026-04-16T07:08:56.659492+00:00",
+    "published": "2026-03-27T07:12:00+00:00"
+  },
+  "https://www.hashicorp.com/blog/lab3-accelerates-cloud-modernization-with-hashicorp-powered-unified-workflows": {
+    "title": "LAB3 accelerates cloud modernization with HashiCorp-powered unified workflows",
+    "source": "HashiCorp Blog",
+    "first_seen": "2026-04-16T07:08:56.659492+00:00",
+    "published": "2026-03-26T17:00:00+00:00"
+  },
+  "https://nodeweekly.com/issues/617": {
+    "title": "How TypeScript 6.0 affects Node developers",
+    "source": "Node Weekly",
+    "first_seen": "2026-04-16T07:08:56.659492+00:00",
+    "published": "2026-03-26T00:00:00+00:00"
+  },
+  "https://www.docker.com/blog/trivy-supply-chain-compromise-what-docker-hub-users-should-know": {
+    "title": "Trivy supply chain compromise: What Docker Hub users should know",
+    "source": "Docker Blog",
+    "first_seen": "2026-04-16T07:08:56.659492+00:00",
+    "published": "2026-03-23T23:25:14+00:00"
+  },
+  "https://www.hashicorp.com/blog/agentic-runtime-security-solving-agentic-ai-identity-and-access-gaps": {
+    "title": "Agentic runtime security: Solving agentic AI identity and access gaps",
+    "source": "HashiCorp Blog",
+    "first_seen": "2026-04-16T07:08:56.659492+00:00",
+    "published": "2026-03-20T20:30:00+00:00"
+  },
+  "https://nodeweekly.com/issues/616": {
+    "title": "Petition calls for ban on AI-generated code in Node.js core",
+    "source": "Node Weekly",
+    "first_seen": "2026-04-16T07:08:56.659492+00:00",
+    "published": "2026-03-19T00:00:00+00:00"
+  },
+  "https://www.hashicorp.com/blog/hcp-vault-dedicated-now-available-in-additional-aws-and-azure-regions": {
+    "title": "HCP Vault Dedicated now available in additional AWS and Azure regions",
+    "source": "HashiCorp Blog",
+    "first_seen": "2026-04-16T07:08:56.659492+00:00",
+    "published": "2026-03-10T16:00:00+00:00"
+  },
+  "https://www.hashicorp.com/blog/adopting-hashicorp-vaults-transit-engine-high-performance-envelope-encryption-ariso-ai": {
+    "title": "High-performance envelope encryption at Ariso.ai with Vault",
+    "source": "HashiCorp Blog",
+    "first_seen": "2026-04-16T07:08:56.659492+00:00",
+    "published": "2026-03-05T23:00:00+00:00"
+  },
+  "https://www.hashicorp.com/blog/everything-as-code-for-your-security-lifecycle": {
+    "title": "Everything as code for your security lifecycle",
+    "source": "HashiCorp Blog",
+    "first_seen": "2026-04-16T07:08:56.659492+00:00",
+    "published": "2026-02-27T17:00:00+00:00"
+  },
+  "https://www.hashicorp.com/blog/building-day-2-ops-guardrails-with-terraform-and-packer": {
+    "title": "Building Day 2 ops guardrails with Terraform and Packer",
+    "source": "HashiCorp Blog",
+    "first_seen": "2026-04-16T07:08:56.659492+00:00",
+    "published": "2026-02-26T20:00:00+00:00"
+  },
+  "https://www.hashicorp.com/blog/secure-remote-access-without-the-portal-tax-boundary-vs-other-vendors": {
+    "title": "Secure remote access without the ‘portal tax’: Boundary vs other vendors",
+    "source": "HashiCorp Blog",
+    "first_seen": "2026-04-16T07:08:56.659492+00:00",
+    "published": "2026-02-25T17:00:00+00:00"
+  },
+  "https://www.hashicorp.com/blog/terraform-enterprise-12-upgrades-workflows-visibility-and-brownfield-migration": {
+    "title": "Terraform Enterprise 1.2 upgrades workflows, visibility, and brownfield migration",
+    "source": "HashiCorp Blog",
+    "first_seen": "2026-04-16T07:08:56.659492+00:00",
+    "published": "2026-02-24T17:00:00+00:00"
+  },
+  "https://www.hashicorp.com/blog/saving-banks-from-technical-debt-how-atruvia-built-secure-self-service-infrastructure": {
+    "title": "Saving banks from technical debt: How Atruvia built secure, self-service infrastructure",
+    "source": "HashiCorp Blog",
+    "first_seen": "2026-04-16T07:08:56.659492+00:00",
+    "published": "2026-02-19T17:00:00+00:00"
+  },
+  "https://www.hashicorp.com/blog/how-benchling-saved-8000-hours-by-changing-how-it-used-terraform": {
+    "title": "How Benchling saved 8,000 hours by changing how it used Terraform",
+    "source": "HashiCorp Blog",
+    "first_seen": "2026-04-16T07:08:56.659492+00:00",
+    "published": "2026-02-18T18:00:00+00:00"
+  },
+  "https://www.hashicorp.com/blog/hcp-packer-adds-sbom-vulnerability-scanning": {
+    "title": "HCP Packer adds SBOM vulnerability scanning",
+    "source": "HashiCorp Blog",
+    "first_seen": "2026-04-16T07:08:56.659492+00:00",
+    "published": "2026-02-17T18:45:00+00:00"
+  },
+  "https://www.hashicorp.com/blog/vault-radar-2025-recap-expanding-visibility-deepening-integration-simplifying-security": {
+    "title": "Vault Radar 2025 recap: Expanding visibility, deepening integration, and simplifying security",
+    "source": "HashiCorp Blog",
+    "first_seen": "2026-04-16T07:08:56.659492+00:00",
+    "published": "2026-02-16T16:00:00+00:00"
+  },
+  "https://www.hashicorp.com/blog/vault-certificates-secrets-inventory-reporting-visibility-audit-readiness": {
+    "title": "Vault certificates and secrets inventory reporting: Improve visibility and audit readiness",
+    "source": "HashiCorp Blog",
+    "first_seen": "2026-04-16T07:08:56.659492+00:00",
+    "published": "2026-02-13T17:00:00+00:00"
+  },
+  "https://www.hashicorp.com/blog/securing-modern-workloads-with-hashicorp-vault-and-wif": {
+    "title": "Securing modern workloads with HashiCorp Vault and WIF",
+    "source": "HashiCorp Blog",
+    "first_seen": "2026-04-16T07:08:56.659492+00:00",
+    "published": "2026-02-12T17:00:00+00:00"
+  },
+  "https://www.hashicorp.com/blog/how-world-bank-manages-hybrid-cloud-complexity-with-terraform": {
+    "title": "How World Bank manages hybrid cloud complexity with Terraform",
+    "source": "HashiCorp Blog",
+    "first_seen": "2026-04-16T07:08:56.659492+00:00",
+    "published": "2026-02-10T17:00:00+00:00"
+  },
+  "https://www.hashicorp.com/blog/how-duke-energy-enforces-cloud-security-at-scale-with-terraform-vault-6-lessons": {
+    "title": "How Duke Energy enforces cloud security at scale with Terraform & Vault, and 6 lessons",
+    "source": "HashiCorp Blog",
+    "first_seen": "2026-04-16T07:08:56.659492+00:00",
+    "published": "2026-02-09T17:00:00+00:00"
   }
 }
