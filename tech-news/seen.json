@@ -3610,5 +3610,257 @@
     "source": "Sentry Blog",
     "first_seen": "2026-04-15T19:01:18.052411+00:00",
     "published": "2026-04-15T00:00:00+00:00"
+  },
+  "https://lwn.net/Articles/1066922": {
+    "title": "[$] LWN.net Weekly Edition for April 16, 2026",
+    "source": "LWN.net",
+    "first_seen": "2026-04-16T01:01:48.266881+00:00",
+    "published": "2026-04-16T00:52:23+00:00"
+  },
+  "https://www.phoronix.com/news/AMDGPU-DC-Power-Module": {
+    "title": "AMD Linux Graphics Driver Introducing \"Power Module\" To Better Match Windows Behavior",
+    "source": "Phoronix",
+    "first_seen": "2026-04-16T01:01:48.266881+00:00",
+    "published": "2026-04-16T00:48:14+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.1-Sheaves-Performance": {
+    "title": "Linux 7.1 Delivers Performance Regression Fix For Sheaves",
+    "source": "Phoronix",
+    "first_seen": "2026-04-16T01:01:48.266881+00:00",
+    "published": "2026-04-16T00:28:28+00:00"
+  },
+  "https://simonwillison.net/2026/Apr/16/datasette-io-preview": {
+    "title": "datasette.io news preview",
+    "source": "Simon Willison",
+    "first_seen": "2026-04-16T01:01:48.266881+00:00",
+    "published": "2026-04-16T00:18:03+00:00"
+  },
+  "https://simonwillison.net/2026/Apr/15/datasette-export-database": {
+    "title": "datasette-export-database 0.3a1",
+    "source": "Simon Willison",
+    "first_seen": "2026-04-16T01:01:48.266881+00:00",
+    "published": "2026-04-15T23:52:35+00:00"
+  },
+  "https://zenodo.org/records/19600206": {
+    "title": "The Universal Constraint Engine: Neuromorphic Computing Without Neural Networks",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-16T01:01:48.266881+00:00",
+    "published": "2026-04-15T23:42:06+00:00"
+  },
+  "https://www.theverge.com/streaming/912898/youtube-shorts-feed-limit-zero-minutes": {
+    "title": "YouTube now lets you turn off Shorts",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-16T01:01:48.266881+00:00",
+    "published": "2026-04-15T23:36:56+00:00"
+  },
+  "https://simonwillison.net/2026/Apr/15/datasette": {
+    "title": "datasette 1.0a27",
+    "source": "Simon Willison",
+    "first_seen": "2026-04-16T01:01:48.266881+00:00",
+    "published": "2026-04-15T23:16:34+00:00"
+  },
+  "https://thenewstack.io/google-axion-kubernetes-arm": {
+    "title": "A year in, Google wants its Axion processors to feel like a scheduling decision",
+    "source": "The New Stack",
+    "first_seen": "2026-04-16T01:01:48.266881+00:00",
+    "published": "2026-04-15T22:41:08+00:00"
+  },
+  "https://blog.replit.com/viral-videos-replit-animation": {
+    "title": "Making scroll-stopping videos with Replit Animation",
+    "source": "Replit Blog",
+    "first_seen": "2026-04-16T01:01:48.266881+00:00",
+    "published": "2026-04-15T22:41:04+00:00"
+  },
+  "https://theleo.zone/posts/pager": {
+    "title": "I made a terminal pager",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-16T01:01:48.266881+00:00",
+    "published": "2026-04-15T22:27:54+00:00"
+  },
+  "https://www.bbc.com/news/technology-39576394": {
+    "title": "Ohio prison inmates 'built computers and hid them in ceiling (2017)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-16T01:01:48.266881+00:00",
+    "published": "2026-04-15T22:05:44+00:00"
+  },
+  "https://www.mcdonalds.co.jp/en/menu/burger": {
+    "title": "The buns in McDonald's Japan's burger photos are all slightly askew",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-16T01:01:48.266881+00:00",
+    "published": "2026-04-15T21:48:18+00:00"
+  },
+  "https://pythonhosted.org/hackernews-cli/commands.html": {
+    "title": "Hacker News CLI",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-16T01:01:48.266881+00:00",
+    "published": "2026-04-15T21:35:38+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/getting-started-with-apache-iceberg-write-support-in-amazon-redshift-part-2": {
+    "title": "Getting started with Apache Iceberg write support in Amazon Redshift – Part 2",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-04-16T01:01:48.266881+00:00",
+    "published": "2026-04-15T21:29:36+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/get-to-insights-faster-using-notebooks-in-amazon-sagemaker-unified-studio": {
+    "title": "Get to insights faster using Notebooks in Amazon SageMaker Unified Studio",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-04-16T01:01:48.266881+00:00",
+    "published": "2026-04-15T21:24:36+00:00"
+  },
+  "https://www.phoronix.com/news/SDL-Says-No-To-AI-LLMs": {
+    "title": "SDL Adds Policy To Forbid LLM/AI Generated Code Contributions",
+    "source": "Phoronix",
+    "first_seen": "2026-04-16T01:01:48.266881+00:00",
+    "published": "2026-04-15T21:24:26+00:00"
+  },
+  "https://chatgpt.com/apps/spreadsheets": {
+    "title": "ChatGPT for Excel",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-16T01:01:48.266881+00:00",
+    "published": "2026-04-15T21:21:05+00:00"
+  },
+  "https://github.com/gastownhall/gastown/issues/3649": {
+    "title": "Does Gas Town 'steal' usage from users' LLM credits to improve itself?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-16T01:01:48.266881+00:00",
+    "published": "2026-04-15T20:49:48+00:00"
+  },
+  "https://thenewstack.io/gemini-app-macos-launch": {
+    "title": "Google Gemini Mac app debuts to end the clunky hunt for browser tabs",
+    "source": "The New Stack",
+    "first_seen": "2026-04-16T01:01:48.266881+00:00",
+    "published": "2026-04-15T20:13:11+00:00"
+  },
+  "https://openbindings.com/blog/one-interface-every-protocol": {
+    "title": "One interface, every protocol",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-16T01:01:48.266881+00:00",
+    "published": "2026-04-15T19:56:36+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.1-WQ": {
+    "title": "WQ_AFFN_CACHE_SHARD Merged For Linux 7.1: Significant Win For CPUs With Many Cores Per LLC",
+    "source": "Phoronix",
+    "first_seen": "2026-04-16T01:01:48.266881+00:00",
+    "published": "2026-04-15T19:55:33+00:00"
+  },
+  "http://tinycorelinux.net/5.x/armv6/releases/README": {
+    "title": "PiCore - Raspberry Pi Port of Tiny Core Linux",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-16T01:01:48.266881+00:00",
+    "published": "2026-04-15T19:45:47+00:00"
+  },
+  "https://www.phoronix.com/news/Archinstall-4.2": {
+    "title": "Arch Linux's Archinstall 4.2 Fixes Botched Disk Encryption Security",
+    "source": "Phoronix",
+    "first_seen": "2026-04-16T01:01:48.266881+00:00",
+    "published": "2026-04-15T19:22:37+00:00"
+  },
+  "https://news.ycombinator.com/item?id=47783940": {
+    "title": "Ask HN: Who is using OpenClaw?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-16T01:01:48.266881+00:00",
+    "published": "2026-04-15T19:22:10+00:00"
+  },
+  "https://www.bloomberg.com/news/articles/2026-04-15/live-nation-illegally-monopolized-ticketing-market-jury-finds": {
+    "title": "Live Nation illegally monopolized ticketing market, jury finds",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-16T01:01:48.266881+00:00",
+    "published": "2026-04-15T19:06:39+00:00"
+  },
+  "https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-mac-os": {
+    "title": "The Gemini app is now on Mac",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-16T01:01:48.266881+00:00",
+    "published": "2026-04-15T17:25:52+00:00"
+  },
+  "https://medicalxpress.com/news/2026-04-crispr-bold-silencing-syndrome-extra.html": {
+    "title": "CRISPR takes important step toward silencing Down syndrome’s extra chromosome",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-16T01:01:48.266881+00:00",
+    "published": "2026-04-15T16:19:48+00:00"
+  },
+  "https://cal.com/blog/cal-com-goes-closed-source-why": {
+    "title": "Cal.com is going closed source",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-16T01:01:48.266881+00:00",
+    "published": "2026-04-15T15:26:46+00:00"
+  },
+  "https://cloud.google.com/blog/topics/threat-intelligence/europe-data-leak-landscape": {
+    "title": "The German Cyber Criminal Überfall: Shifts in Europe's Data Leak Landscape",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-04-16T01:01:48.266881+00:00",
+    "published": "2026-04-15T14:00:00+00:00"
+  },
+  "https://www.cncf.io/blog/2026/04/15/how-to-measure-the-roi-of-developer-tools": {
+    "title": "How To Measure the ROI of Developer Tools",
+    "source": "CNCF Blog",
+    "first_seen": "2026-04-16T07:01:28.224150+00:00",
+    "published": "2026-04-16T05:28:45+00:00"
+  },
+  "https://www.chalkbeat.org/2026/04/09/sal-khan-reflects-on-ai-in-schools-and-khanmigo": {
+    "title": "Sal Khan's AI revolution hasn't happened yet",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-16T07:01:28.224150+00:00",
+    "published": "2026-04-16T05:05:44+00:00"
+  },
+  "https://medium.com/airbnb-engineering/building-a-high-volume-metrics-pipeline-with-opentelemetry-and-vmagent-c714d6910b45": {
+    "title": "Moving a large-scale metrics pipeline from StatsD to OpenTelemetry / Prometheus",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-16T07:01:28.224150+00:00",
+    "published": "2026-04-16T05:01:05+00:00"
+  },
+  "https://www.tokyodev.com/articles/a-look-into-navidial-japan-s-legacy-phone-service": {
+    "title": "A Look into NaviDial, Japan's Legacy Phone Service",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-16T07:01:28.224150+00:00",
+    "published": "2026-04-16T04:22:56+00:00"
+  },
+  "https://darkbloom.dev": {
+    "title": "Darkbloom – Private inference on idle Macs",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-16T07:01:28.224150+00:00",
+    "published": "2026-04-16T04:06:39+00:00"
+  },
+  "https://github.com/Nightmare-Eclipse/RedSun": {
+    "title": "RedSun: System user access on Win 11/10 and Server with the April 2026 Update",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-16T07:01:28.224150+00:00",
+    "published": "2026-04-16T03:54:21+00:00"
+  },
+  "https://daedal.io/@thomzane/116410863009847575": {
+    "title": "FSF trying to contact Google about spammer sending 10k+ mails from Gmail account",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-16T07:01:28.224150+00:00",
+    "published": "2026-04-16T03:44:38+00:00"
+  },
+  "https://aschmann.net/AmEng": {
+    "title": "North American English Dialects",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-16T07:01:28.224150+00:00",
+    "published": "2026-04-16T03:38:45+00:00"
+  },
+  "https://sleepingrobots.com/dreams/stop-using-ollama": {
+    "title": "Stop Using Ollama",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-16T07:01:28.224150+00:00",
+    "published": "2026-04-16T03:35:11+00:00"
+  },
+  "https://github.com/SethPyle376/hiraeth": {
+    "title": "Show HN: Hiraeth – AWS Emulator",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-16T07:01:28.224150+00:00",
+    "published": "2026-04-16T02:28:18+00:00"
+  },
+  "https://spectrum.ieee.org/iran-internet-blackout-satellite-tv": {
+    "title": "Stealth signals are bypassing Iran’s internet blackout",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-16T07:01:28.224150+00:00",
+    "published": "2026-04-16T02:16:50+00:00"
+  },
+  "https://github.com/macOS26/Agent": {
+    "title": "Agent - Native Mac OS X coding ide/harness",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-16T07:01:28.224150+00:00",
+    "published": "2026-04-16T00:19:40+00:00"
   }
 }
