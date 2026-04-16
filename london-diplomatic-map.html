@@ -1,0 +1,543 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>London Diplomatic Map — All Embassies &amp; High Commissions</title>
+  <meta name="description" content="Interactive map of all 168 foreign embassies, high commissions, and diplomatic missions in London, sourced from the UK Government's London Diplomatic List." />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <style>
+    .page-shell { max-width: 1200px; }
+    .blog-post { padding: 4rem 2rem; }
+    .blog-post h1 {
+      font-size: clamp(2rem, 5vw, 3rem);
+      line-height: 1.15;
+      margin-bottom: 0.75rem;
+    }
+    .blog-meta {
+      color: var(--muted);
+      font-size: 0.9rem;
+      margin-bottom: 2.5rem;
+      display: flex;
+      gap: 0.75rem;
+      flex-wrap: wrap;
+      align-items: center;
+    }
+    .blog-meta .tag {
+      background: rgba(139,92,246,0.15);
+      color: var(--accent);
+      padding: 0.2rem 0.6rem;
+      border-radius: 999px;
+      font-size: 0.8rem;
+      font-weight: 600;
+    }
+    .back-link {
+      display: inline-block;
+      margin-bottom: 2rem;
+      color: var(--accent);
+      text-decoration: none;
+      font-weight: 500;
+      font-size: 0.95rem;
+      transition: opacity 0.2s;
+    }
+    .back-link:hover { opacity: 0.75; }
+
+    #diplomatic-map {
+      width: 100%;
+      height: 600px;
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      margin: 2rem 0;
+      z-index: 0;
+    }
+
+    .tour-stats {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+      gap: 1rem;
+      margin: 2rem 0;
+    }
+    .stat-box {
+      background: rgba(255,255,255,0.04);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 1.25rem 1rem;
+      text-align: center;
+    }
+    .stat-box .stat-value {
+      font-size: 1.8rem;
+      font-weight: 800;
+      color: var(--accent);
+      line-height: 1;
+    }
+    .stat-box .stat-label {
+      font-size: 0.8rem;
+      color: var(--muted);
+      margin-top: 0.3rem;
+    }
+
+    .controls {
+      display: flex;
+      gap: 1rem;
+      margin: 1.5rem 0;
+      flex-wrap: wrap;
+      align-items: center;
+    }
+    .search-box {
+      flex: 1;
+      min-width: 200px;
+      background: rgba(255,255,255,0.06);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 0.65rem 1rem;
+      color: var(--text);
+      font-family: inherit;
+      font-size: 0.9rem;
+      outline: none;
+      transition: border-color 0.2s;
+    }
+    .search-box:focus { border-color: var(--accent); }
+    .search-box::placeholder { color: var(--muted); }
+
+    .filter-btn {
+      background: rgba(255,255,255,0.05);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 0.65rem 1rem;
+      color: var(--muted);
+      font-family: inherit;
+      font-size: 0.85rem;
+      font-weight: 600;
+      cursor: pointer;
+      transition: all 0.15s;
+    }
+    .filter-btn:hover { border-color: var(--accent); color: var(--text); }
+    .filter-btn.active {
+      background: rgba(139,92,246,0.2);
+      border-color: var(--accent);
+      color: var(--accent);
+    }
+
+    .section-title {
+      font-size: 1.6rem;
+      font-weight: 700;
+      margin: 3rem 0 0.5rem;
+    }
+    .section-sub {
+      color: var(--muted);
+      margin-bottom: 1.5rem;
+      font-size: 0.95rem;
+    }
+
+    .embassy-table-wrap {
+      overflow-x: auto;
+      margin: 1rem 0 3rem;
+      border-radius: 12px;
+      border: 1px solid var(--border);
+    }
+    .embassy-table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.88rem;
+    }
+    .embassy-table thead {
+      background: rgba(255,255,255,0.04);
+      position: sticky;
+      top: 0;
+      z-index: 1;
+    }
+    .embassy-table th {
+      text-align: left;
+      padding: 0.75rem 1rem;
+      font-weight: 700;
+      color: var(--muted);
+      font-size: 0.75rem;
+      text-transform: uppercase;
+      letter-spacing: 0.06em;
+      border-bottom: 1px solid var(--border);
+      cursor: pointer;
+      user-select: none;
+      white-space: nowrap;
+    }
+    .embassy-table th:hover { color: var(--accent); }
+    .embassy-table th .sort-arrow { margin-left: 4px; font-size: 0.7rem; }
+    .embassy-table td {
+      padding: 0.6rem 1rem;
+      border-bottom: 1px solid rgba(255,255,255,0.04);
+      color: var(--text);
+    }
+    .embassy-table tbody tr {
+      cursor: pointer;
+      transition: background 0.12s;
+    }
+    .embassy-table tbody tr:hover {
+      background: rgba(139,92,246,0.08);
+    }
+    .embassy-table tbody tr.highlight {
+      background: rgba(139,92,246,0.15);
+    }
+    .embassy-type-badge {
+      display: inline-block;
+      padding: 0.15rem 0.5rem;
+      border-radius: 4px;
+      font-size: 0.72rem;
+      font-weight: 600;
+      white-space: nowrap;
+    }
+    .type-embassy { background: rgba(139,92,246,0.15); color: #a78bfa; }
+    .type-high-commission { background: rgba(34,197,94,0.15); color: #4ade80; }
+
+    .source-box {
+      background: rgba(255,255,255,0.03);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 1.25rem 1.5rem;
+      margin: 2rem 0;
+      font-size: 0.88rem;
+      line-height: 1.7;
+      color: var(--muted);
+    }
+    .source-box a {
+      color: var(--accent);
+      text-decoration: none;
+      font-weight: 600;
+    }
+    .source-box a:hover { text-decoration: underline; }
+
+    .tip-box {
+      background: rgba(34,197,94,0.08);
+      border: 1px solid rgba(34,197,94,0.25);
+      border-radius: 10px;
+      padding: 1.25rem 1.5rem;
+      margin: 2rem 0;
+      font-size: 0.9rem;
+      line-height: 1.6;
+    }
+    .tip-box strong { color: var(--accent-2); }
+    .tip-box a { color: var(--accent); text-decoration: none; font-weight: 600; }
+    .tip-box a:hover { text-decoration: underline; }
+
+    .embassy-dot {
+      width: 12px;
+      height: 12px;
+      border-radius: 50%;
+      border: 2px solid #fff;
+      box-shadow: 0 1px 4px rgba(0,0,0,0.4);
+    }
+    .dot-embassy { background: #8b5cf6; }
+    .dot-high-commission { background: #22c55e; }
+    .dot-highlighted {
+      width: 18px;
+      height: 18px;
+      border: 3px solid #fbbf24;
+      box-shadow: 0 0 12px rgba(251,191,36,0.5);
+    }
+
+    .count-badge {
+      display: inline-block;
+      background: rgba(139,92,246,0.2);
+      color: var(--accent);
+      padding: 0.1rem 0.5rem;
+      border-radius: 999px;
+      font-size: 0.8rem;
+      font-weight: 700;
+      margin-left: 0.5rem;
+    }
+
+    .leaflet-popup-content-wrapper {
+      border-radius: 10px !important;
+    }
+
+    @media (max-width: 600px) {
+      .blog-post { padding: 2.5rem 1rem; }
+      #diplomatic-map { height: 400px; }
+      .controls { flex-direction: column; }
+      .search-box { min-width: 100%; }
+    }
+  </style>
+</head>
+<body>
+  <div class="page-shell">
+    <article class="blog-post">
+      <a href="index.html" class="back-link">&larr; Back to Musings</a>
+
+      <h1>London Diplomatic Map</h1>
+      <div class="blog-meta">
+        <time datetime="2026-04-16">April 16, 2026</time>
+        <span class="tag">London</span>
+        <span class="tag">Interactive Map</span>
+        <span class="tag">Diplomacy</span>
+        <span class="tag">Open Data</span>
+      </div>
+
+      <p>
+        London hosts <strong>168 foreign diplomatic missions</strong> &mdash; more than almost any other city on Earth.
+        This page maps every embassy, high commission, and representative office listed in the UK Government's
+        <a href="https://www.gov.uk/government/publications/foreign-embassies-in-the-uk" target="_blank" rel="noopener" style="color:var(--accent);text-decoration:none;font-weight:600;">London Diplomatic List</a>,
+        also known as the "Blue Book". The data includes addresses from the list and other representative offices.
+      </p>
+
+      <div class="tour-stats">
+        <div class="stat-box">
+          <div class="stat-value" id="stat-total">168</div>
+          <div class="stat-label">Diplomatic Missions</div>
+        </div>
+        <div class="stat-box">
+          <div class="stat-value" id="stat-embassies">0</div>
+          <div class="stat-label">Embassies</div>
+        </div>
+        <div class="stat-box">
+          <div class="stat-value" id="stat-hc">0</div>
+          <div class="stat-label">High Commissions</div>
+        </div>
+        <div class="stat-box">
+          <div class="stat-value" id="stat-areas">0</div>
+          <div class="stat-label">London Areas</div>
+        </div>
+      </div>
+
+      <div class="source-box">
+        <strong>Data source:</strong>
+        <a href="https://www.gov.uk/government/publications/foreign-embassies-in-the-uk" target="_blank" rel="noopener">
+          Foreign embassies in the UK &mdash; GOV.UK
+        </a><br>
+        The <em>London Diplomatic List and Other Representative Offices</em> is maintained by the
+        Foreign, Commonwealth &amp; Development Office (FCDO). Addresses are cross-referenced with
+        <a href="https://en.wikipedia.org/wiki/List_of_diplomatic_missions_in_London" target="_blank" rel="noopener">Wikipedia's list of diplomatic missions in London</a>
+        and geocoded via OpenStreetMap/Nominatim.
+      </div>
+
+      <div class="tip-box">
+        <strong>Tip:</strong> Looking for a curated walking tour? Check out the
+        <a href="london-embassy-tour.html">London Embassy Tour</a> &mdash; a guided route visiting
+        20 of the most historically interesting embassies with fun facts for each country.
+      </div>
+
+      <div class="controls">
+        <input type="text" class="search-box" id="search" placeholder="Search by country or address..." autocomplete="off">
+        <button class="filter-btn active" data-filter="all">All</button>
+        <button class="filter-btn" data-filter="Embassy">Embassies</button>
+        <button class="filter-btn" data-filter="High Commission">High Commissions</button>
+      </div>
+
+      <div id="diplomatic-map"></div>
+
+      <h2 class="section-title">Complete List <span class="count-badge" id="visible-count">168</span></h2>
+      <p class="section-sub">Click any row to highlight it on the map. Click column headers to sort.</p>
+
+      <div class="embassy-table-wrap" style="max-height: 600px; overflow-y: auto;">
+        <table class="embassy-table" id="embassy-table">
+          <thead>
+            <tr>
+              <th data-col="country">Country <span class="sort-arrow"></span></th>
+              <th data-col="type">Type <span class="sort-arrow"></span></th>
+              <th data-col="address">Address <span class="sort-arrow"></span></th>
+            </tr>
+          </thead>
+          <tbody id="embassy-tbody"></tbody>
+        </table>
+      </div>
+
+      <hr style="margin:3rem 0; border:none; border-top:1px solid var(--border);">
+      <p style="font-size:0.85rem; color:var(--muted); font-style:italic;">
+        Coordinates are approximate. Embassy addresses are sourced from the
+        <a href="https://www.gov.uk/government/publications/foreign-embassies-in-the-uk" target="_blank" rel="noopener" style="color:var(--accent)">London Diplomatic List (GOV.UK)</a>
+        and <a href="https://en.wikipedia.org/wiki/List_of_diplomatic_missions_in_London" target="_blank" rel="noopener" style="color:var(--accent)">Wikipedia</a>.
+        Map tiles &copy; <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener" style="color:var(--accent)">OpenStreetMap</a> contributors.
+      </p>
+      <a href="index.html" class="back-link">&larr; Back to Musings</a>
+    </article>
+  </div>
+
+<script>
+fetch('london-embassies-data.json')
+  .then(r => r.json())
+  .then(data => {
+    const embassies = data.embassies;
+    init(embassies);
+  });
+
+function init(embassies) {
+  const embassyCount = embassies.filter(e => e.type === 'Embassy').length;
+  const hcCount = embassies.filter(e => e.type === 'High Commission').length;
+  const areas = new Set();
+  embassies.forEach(e => {
+    const m = e.address.match(/(?:SW|W|WC|EC|SE|NW|N|E)\d+/);
+    if (m) areas.add(m[0]);
+  });
+
+  document.getElementById('stat-embassies').textContent = embassyCount;
+  document.getElementById('stat-hc').textContent = hcCount;
+  document.getElementById('stat-areas').textContent = areas.size;
+
+  const map = L.map('diplomatic-map', { center: [51.505, -0.155], zoom: 12, zoomControl: true });
+  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    maxZoom: 19,
+    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+  }).addTo(map);
+
+  const markers = {};
+  let activeMarker = null;
+
+  embassies.forEach(e => {
+    if (!e.lat || !e.lng) return;
+    const isHC = e.type === 'High Commission';
+    const dotClass = isHC ? 'dot-high-commission' : 'dot-embassy';
+    const icon = L.divIcon({
+      className: '',
+      html: `<div class="embassy-dot ${dotClass}"></div>`,
+      iconSize: [12, 12],
+      iconAnchor: [6, 6],
+      popupAnchor: [0, -8]
+    });
+
+    const marker = L.marker([e.lat, e.lng], { icon }).addTo(map);
+    marker.bindPopup(`
+      <div style="font-family:Inter,sans-serif;min-width:200px;">
+        <div style="font-weight:700;font-size:1rem;margin-bottom:4px;">${e.country}</div>
+        <div style="font-size:0.78rem;color:#666;margin-bottom:6px;">${e.address}</div>
+        <span style="font-size:0.72rem;padding:2px 6px;border-radius:4px;font-weight:600;
+          background:${isHC ? 'rgba(34,197,94,0.15)' : 'rgba(139,92,246,0.15)'};
+          color:${isHC ? '#16a34a' : '#7c3aed'};">${e.type}</span>
+      </div>
+    `);
+    marker.on('click', () => highlightRow(e.country));
+    markers[e.country] = marker;
+  });
+
+  const bounds = L.latLngBounds(embassies.filter(e => e.lat && e.lng).map(e => [e.lat, e.lng]));
+  map.fitBounds(bounds, { padding: [30, 30] });
+
+  const tbody = document.getElementById('embassy-tbody');
+  let sortCol = 'country';
+  let sortAsc = true;
+  let filter = 'all';
+  let searchTerm = '';
+
+  function renderTable() {
+    let filtered = embassies.filter(e => {
+      if (filter !== 'all' && e.type !== filter) return false;
+      if (searchTerm) {
+        const s = searchTerm.toLowerCase();
+        return e.country.toLowerCase().includes(s) || e.address.toLowerCase().includes(s);
+      }
+      return true;
+    });
+
+    filtered.sort((a, b) => {
+      const va = a[sortCol] || '';
+      const vb = b[sortCol] || '';
+      return sortAsc ? va.localeCompare(vb) : vb.localeCompare(va);
+    });
+
+    document.getElementById('visible-count').textContent = filtered.length;
+
+    tbody.innerHTML = filtered.map(e => {
+      const isHC = e.type === 'High Commission';
+      const typeClass = isHC ? 'type-high-commission' : 'type-embassy';
+      return `<tr data-country="${e.country}">
+        <td><strong>${e.country}</strong></td>
+        <td><span class="embassy-type-badge ${typeClass}">${e.type}</span></td>
+        <td>${e.address}</td>
+      </tr>`;
+    }).join('');
+
+    tbody.querySelectorAll('tr').forEach(row => {
+      row.addEventListener('click', () => {
+        const country = row.dataset.country;
+        const marker = markers[country];
+        if (marker) {
+          map.setView(marker.getLatLng(), 16, { animate: true });
+          marker.openPopup();
+          highlightMarker(country);
+        }
+        highlightRow(country);
+      });
+    });
+
+    // Update map markers visibility
+    Object.entries(markers).forEach(([country, marker]) => {
+      const visible = filtered.some(e => e.country === country);
+      if (visible) {
+        if (!map.hasLayer(marker)) map.addLayer(marker);
+      } else {
+        if (map.hasLayer(marker)) map.removeLayer(marker);
+      }
+    });
+  }
+
+  function highlightRow(country) {
+    tbody.querySelectorAll('tr').forEach(r => r.classList.remove('highlight'));
+    const row = tbody.querySelector(`tr[data-country="${country}"]`);
+    if (row) {
+      row.classList.add('highlight');
+      row.scrollIntoView({ behavior: 'smooth', block: 'center' });
+    }
+  }
+
+  function highlightMarker(country) {
+    if (activeMarker && markers[activeMarker]) {
+      const e = embassies.find(x => x.country === activeMarker);
+      if (e) {
+        const isHC = e.type === 'High Commission';
+        markers[activeMarker].setIcon(L.divIcon({
+          className: '',
+          html: `<div class="embassy-dot ${isHC ? 'dot-high-commission' : 'dot-embassy'}"></div>`,
+          iconSize: [12, 12], iconAnchor: [6, 6], popupAnchor: [0, -8]
+        }));
+      }
+    }
+    if (markers[country]) {
+      const e = embassies.find(x => x.country === country);
+      const isHC = e && e.type === 'High Commission';
+      markers[country].setIcon(L.divIcon({
+        className: '',
+        html: `<div class="embassy-dot ${isHC ? 'dot-high-commission' : 'dot-embassy'} dot-highlighted"></div>`,
+        iconSize: [18, 18], iconAnchor: [9, 9], popupAnchor: [0, -12]
+      }));
+      activeMarker = country;
+    }
+  }
+
+  // Search
+  document.getElementById('search').addEventListener('input', e => {
+    searchTerm = e.target.value;
+    renderTable();
+  });
+
+  // Filter buttons
+  document.querySelectorAll('.filter-btn').forEach(btn => {
+    btn.addEventListener('click', () => {
+      document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      filter = btn.dataset.filter;
+      renderTable();
+    });
+  });
+
+  // Sort headers
+  document.querySelectorAll('.embassy-table th').forEach(th => {
+    th.addEventListener('click', () => {
+      const col = th.dataset.col;
+      if (sortCol === col) {
+        sortAsc = !sortAsc;
+      } else {
+        sortCol = col;
+        sortAsc = true;
+      }
+      document.querySelectorAll('.embassy-table th .sort-arrow').forEach(s => s.textContent = '');
+      th.querySelector('.sort-arrow').textContent = sortAsc ? ' ▲' : ' ▼';
+      renderTable();
+    });
+  });
+
+  renderTable();
+}
+</script>
+</body>
+</html>

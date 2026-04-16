@@ -1,190 +1,903 @@
 {
-  "note": "Comprehensive list of countries checked for London embassy presence. Status: 'confirmed' = verified embassy/high commission in London, 'none' = no diplomatic mission found, 'pending' = not yet checked.",
+  "note": "Updated from the London Diplomatic List (GOV.UK) and Wikipedia. See london-embassies-data.json for full data.",
   "last_updated": "2026-04-16",
   "countries": [
-    { "name": "Afghanistan", "status": "pending" },
-    { "name": "Albania", "status": "pending" },
-    { "name": "Algeria", "status": "pending" },
-    { "name": "Andorra", "status": "pending" },
-    { "name": "Angola", "status": "pending" },
-    { "name": "Antigua and Barbuda", "status": "pending" },
-    { "name": "Argentina", "status": "pending" },
-    { "name": "Armenia", "status": "pending" },
-    { "name": "Australia", "status": "confirmed", "note": "Already in tour (stop 4)" },
-    { "name": "Austria", "status": "pending" },
-    { "name": "Azerbaijan", "status": "pending" },
-    { "name": "Bahamas", "status": "pending" },
-    { "name": "Bahrain", "status": "pending" },
-    { "name": "Bangladesh", "status": "pending" },
-    { "name": "Barbados", "status": "pending" },
-    { "name": "Belarus", "status": "pending" },
-    { "name": "Belgium", "status": "pending" },
-    { "name": "Belize", "status": "pending" },
-    { "name": "Benin", "status": "pending" },
-    { "name": "Bhutan", "status": "pending" },
-    { "name": "Bolivia", "status": "pending" },
-    { "name": "Bosnia and Herzegovina", "status": "pending" },
-    { "name": "Botswana", "status": "pending" },
-    { "name": "Brazil", "status": "pending" },
-    { "name": "Brunei", "status": "pending" },
-    { "name": "Bulgaria", "status": "pending" },
-    { "name": "Burkina Faso", "status": "pending" },
-    { "name": "Burundi", "status": "pending" },
-    { "name": "Cabo Verde", "status": "pending" },
-    { "name": "Cambodia", "status": "pending" },
-    { "name": "Cameroon", "status": "pending" },
-    { "name": "Canada", "status": "confirmed", "note": "Already in tour (stop 1)" },
-    { "name": "Central African Republic", "status": "pending" },
-    { "name": "Chad", "status": "pending" },
-    { "name": "Chile", "status": "pending" },
-    { "name": "China", "status": "confirmed", "note": "Already in tour (stop 9)" },
-    { "name": "Colombia", "status": "pending" },
-    { "name": "Comoros", "status": "pending" },
-    { "name": "Congo (Democratic Republic)", "status": "pending" },
-    { "name": "Congo (Republic)", "status": "pending" },
-    { "name": "Costa Rica", "status": "pending" },
-    { "name": "Côte d'Ivoire", "status": "pending" },
-    { "name": "Croatia", "status": "pending" },
-    { "name": "Cuba", "status": "pending" },
-    { "name": "Cyprus", "status": "pending" },
-    { "name": "Czech Republic", "status": "pending" },
-    { "name": "Denmark", "status": "pending" },
-    { "name": "Djibouti", "status": "pending" },
-    { "name": "Dominica", "status": "pending" },
-    { "name": "Dominican Republic", "status": "pending" },
-    { "name": "Ecuador", "status": "pending" },
-    { "name": "Egypt", "status": "pending" },
-    { "name": "El Salvador", "status": "pending" },
-    { "name": "Equatorial Guinea", "status": "pending" },
-    { "name": "Eritrea", "status": "pending" },
-    { "name": "Estonia", "status": "pending" },
-    { "name": "Eswatini", "status": "pending" },
-    { "name": "Ethiopia", "status": "pending" },
-    { "name": "Fiji", "status": "pending" },
-    { "name": "Finland", "status": "pending" },
-    { "name": "France", "status": "confirmed", "note": "Already in tour (stop 16)" },
-    { "name": "Gabon", "status": "pending" },
-    { "name": "Gambia", "status": "pending" },
-    { "name": "Georgia", "status": "pending" },
-    { "name": "Germany", "status": "confirmed", "note": "Already in tour (stop 11)" },
-    { "name": "Ghana", "status": "pending" },
-    { "name": "Greece", "status": "pending" },
-    { "name": "Grenada", "status": "pending" },
-    { "name": "Guatemala", "status": "pending" },
-    { "name": "Guinea", "status": "pending" },
-    { "name": "Guinea-Bissau", "status": "pending" },
-    { "name": "Guyana", "status": "pending" },
-    { "name": "Haiti", "status": "pending" },
-    { "name": "Honduras", "status": "pending" },
-    { "name": "Hungary", "status": "pending" },
-    { "name": "Iceland", "status": "pending" },
-    { "name": "India", "status": "confirmed", "note": "Already in tour (stop 5)" },
-    { "name": "Indonesia", "status": "pending" },
-    { "name": "Iran", "status": "pending" },
-    { "name": "Iraq", "status": "pending" },
-    { "name": "Ireland", "status": "confirmed", "note": "Already in tour (stop 14)" },
-    { "name": "Israel", "status": "confirmed", "note": "Already in tour (stop 18)" },
-    { "name": "Italy", "status": "confirmed", "note": "Already in tour (stop 8)" },
-    { "name": "Jamaica", "status": "pending" },
-    { "name": "Japan", "status": "confirmed", "note": "Already in tour (stop 6)" },
-    { "name": "Jordan", "status": "pending" },
-    { "name": "Kazakhstan", "status": "pending" },
-    { "name": "Kenya", "status": "pending" },
-    { "name": "Kosovo", "status": "pending" },
-    { "name": "Kuwait", "status": "pending" },
-    { "name": "Kyrgyzstan", "status": "pending" },
-    { "name": "Laos", "status": "pending" },
-    { "name": "Latvia", "status": "pending" },
-    { "name": "Lebanon", "status": "pending" },
-    { "name": "Lesotho", "status": "pending" },
-    { "name": "Liberia", "status": "pending" },
-    { "name": "Libya", "status": "pending" },
-    { "name": "Liechtenstein", "status": "pending" },
-    { "name": "Lithuania", "status": "pending" },
-    { "name": "Luxembourg", "status": "pending" },
-    { "name": "Madagascar", "status": "pending" },
-    { "name": "Malawi", "status": "pending" },
-    { "name": "Malaysia", "status": "pending" },
-    { "name": "Maldives", "status": "pending" },
-    { "name": "Mali", "status": "pending" },
-    { "name": "Malta", "status": "pending" },
-    { "name": "Mauritania", "status": "pending" },
-    { "name": "Mauritius", "status": "pending" },
-    { "name": "Mexico", "status": "pending" },
-    { "name": "Moldova", "status": "pending" },
-    { "name": "Monaco", "status": "pending" },
-    { "name": "Mongolia", "status": "pending" },
-    { "name": "Montenegro", "status": "pending" },
-    { "name": "Morocco", "status": "pending" },
-    { "name": "Mozambique", "status": "pending" },
-    { "name": "Myanmar", "status": "pending" },
-    { "name": "Namibia", "status": "pending" },
-    { "name": "Nepal", "status": "pending" },
-    { "name": "Netherlands", "status": "confirmed", "note": "Already in tour (stop 17)" },
-    { "name": "New Zealand", "status": "confirmed", "note": "Already in tour (stop 3)" },
-    { "name": "Nicaragua", "status": "pending" },
-    { "name": "Niger", "status": "pending" },
-    { "name": "Nigeria", "status": "pending" },
-    { "name": "North Korea", "status": "pending" },
-    { "name": "North Macedonia", "status": "pending" },
-    { "name": "Norway", "status": "pending" },
-    { "name": "Oman", "status": "pending" },
-    { "name": "Pakistan", "status": "confirmed", "note": "Already in tour (stop 15)" },
-    { "name": "Panama", "status": "pending" },
-    { "name": "Papua New Guinea", "status": "pending" },
-    { "name": "Paraguay", "status": "pending" },
-    { "name": "Peru", "status": "pending" },
-    { "name": "Philippines", "status": "pending" },
-    { "name": "Poland", "status": "pending" },
-    { "name": "Portugal", "status": "pending" },
-    { "name": "Qatar", "status": "pending" },
-    { "name": "Romania", "status": "pending" },
-    { "name": "Russia", "status": "confirmed", "note": "Already in tour (stop 19)" },
-    { "name": "Rwanda", "status": "pending" },
-    { "name": "Saint Kitts and Nevis", "status": "pending" },
-    { "name": "Saint Lucia", "status": "pending" },
-    { "name": "Saint Vincent and the Grenadines", "status": "pending" },
-    { "name": "Samoa", "status": "pending" },
-    { "name": "Saudi Arabia", "status": "confirmed", "note": "Already in tour (stop 7)" },
-    { "name": "Senegal", "status": "pending" },
-    { "name": "Serbia", "status": "pending" },
-    { "name": "Sierra Leone", "status": "pending" },
-    { "name": "Singapore", "status": "pending" },
-    { "name": "Slovakia", "status": "pending" },
-    { "name": "Slovenia", "status": "pending" },
-    { "name": "Solomon Islands", "status": "pending" },
-    { "name": "Somalia", "status": "pending" },
-    { "name": "South Africa", "status": "confirmed", "note": "Already in tour (stop 2)" },
-    { "name": "South Korea", "status": "pending" },
-    { "name": "South Sudan", "status": "pending" },
-    { "name": "Spain", "status": "confirmed", "note": "Already in tour (stop 13)" },
-    { "name": "Sri Lanka", "status": "pending" },
-    { "name": "Sudan", "status": "pending" },
-    { "name": "Sweden", "status": "pending" },
-    { "name": "Switzerland", "status": "confirmed", "note": "Already in tour (stop 10)" },
-    { "name": "Syria", "status": "pending" },
-    { "name": "Taiwan", "status": "pending" },
-    { "name": "Tajikistan", "status": "pending" },
-    { "name": "Tanzania", "status": "pending" },
-    { "name": "Thailand", "status": "pending" },
-    { "name": "Timor-Leste", "status": "pending" },
-    { "name": "Togo", "status": "pending" },
-    { "name": "Tonga", "status": "pending" },
-    { "name": "Trinidad and Tobago", "status": "pending" },
-    { "name": "Tunisia", "status": "pending" },
-    { "name": "Turkey", "status": "confirmed", "note": "Already in tour (stop 12)" },
-    { "name": "Turkmenistan", "status": "pending" },
-    { "name": "Uganda", "status": "pending" },
-    { "name": "Ukraine", "status": "pending" },
-    { "name": "United Arab Emirates", "status": "pending" },
-    { "name": "United States", "status": "confirmed", "note": "Already in tour (stop 20)" },
-    { "name": "Uruguay", "status": "pending" },
-    { "name": "Uzbekistan", "status": "pending" },
-    { "name": "Vanuatu", "status": "pending" },
-    { "name": "Venezuela", "status": "pending" },
-    { "name": "Vietnam", "status": "pending" },
-    { "name": "Yemen", "status": "pending" },
-    { "name": "Zambia", "status": "pending" },
-    { "name": "Zimbabwe", "status": "pending" }
+    {
+      "name": "Afghanistan",
+      "status": "pending"
+    },
+    {
+      "name": "Albania",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "Algeria",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "Andorra",
+      "status": "pending"
+    },
+    {
+      "name": "Angola",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "Antigua and Barbuda",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "Argentina",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "Armenia",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "Australia",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "Austria",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "Azerbaijan",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "Bahamas",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "Bahrain",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "Bangladesh",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "Barbados",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "Belarus",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "Belgium",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "Belize",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "Benin",
+      "status": "pending"
+    },
+    {
+      "name": "Bhutan",
+      "status": "pending"
+    },
+    {
+      "name": "Bolivia",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "Bosnia and Herzegovina",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "Botswana",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "Brazil",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "Brunei",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "Bulgaria",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "Burkina Faso",
+      "status": "pending"
+    },
+    {
+      "name": "Burundi",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "Cabo Verde",
+      "status": "pending"
+    },
+    {
+      "name": "Cambodia",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "Cameroon",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "Canada",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "Central African Republic",
+      "status": "pending"
+    },
+    {
+      "name": "Chad",
+      "status": "pending"
+    },
+    {
+      "name": "Chile",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "China",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "Colombia",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "Comoros",
+      "status": "pending"
+    },
+    {
+      "name": "Congo (Democratic Republic)",
+      "status": "pending"
+    },
+    {
+      "name": "Congo (Republic)",
+      "status": "confirmed",
+      "note": "Listed as Republic of the Congo"
+    },
+    {
+      "name": "Costa Rica",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "Côte d'Ivoire",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "Croatia",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "Cuba",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "Cyprus",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "Czech Republic",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "Denmark",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "Djibouti",
+      "status": "pending"
+    },
+    {
+      "name": "Dominica",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "Dominican Republic",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "Ecuador",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "Egypt",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "El Salvador",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "Equatorial Guinea",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "Eritrea",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "Estonia",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "Eswatini",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "Ethiopia",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "Fiji",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "Finland",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "France",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "Gabon",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "Gambia",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "Georgia",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "Germany",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "Ghana",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "Greece",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "Grenada",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "Guatemala",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "Guinea",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "Guinea-Bissau",
+      "status": "pending"
+    },
+    {
+      "name": "Guyana",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "Haiti",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "Honduras",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "Hungary",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "Iceland",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "India",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "Indonesia",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "Iran",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "Iraq",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "Ireland",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "Israel",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "Italy",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "Jamaica",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "Japan",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "Jordan",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "Kazakhstan",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "Kenya",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "Kosovo",
+      "status": "pending"
+    },
+    {
+      "name": "Kuwait",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "Kyrgyzstan",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "Laos",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "Latvia",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "Lebanon",
+      "status": "pending"
+    },
+    {
+      "name": "Lesotho",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "Liberia",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "Libya",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "Liechtenstein",
+      "status": "pending"
+    },
+    {
+      "name": "Lithuania",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "Luxembourg",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "Madagascar",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "Malawi",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "Malaysia",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "Maldives",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "Mali",
+      "status": "pending"
+    },
+    {
+      "name": "Malta",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "Mauritania",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "Mauritius",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "Mexico",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "Moldova",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "Monaco",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "Mongolia",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "Montenegro",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "Morocco",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "Mozambique",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "Myanmar",
+      "status": "pending"
+    },
+    {
+      "name": "Namibia",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "Nepal",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "Netherlands",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "New Zealand",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "Nicaragua",
+      "status": "pending"
+    },
+    {
+      "name": "Niger",
+      "status": "pending"
+    },
+    {
+      "name": "Nigeria",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "North Korea",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "North Macedonia",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "Norway",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "Oman",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "Pakistan",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "Panama",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "Papua New Guinea",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "Paraguay",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "Peru",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "Philippines",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "Poland",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "Portugal",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "Qatar",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "Romania",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "Russia",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "Rwanda",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "Saint Kitts and Nevis",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "Saint Lucia",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "Saint Vincent and the Grenadines",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "Samoa",
+      "status": "pending"
+    },
+    {
+      "name": "Saudi Arabia",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "Senegal",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "Serbia",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "Sierra Leone",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "Singapore",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "Slovakia",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "Slovenia",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "Solomon Islands",
+      "status": "pending"
+    },
+    {
+      "name": "Somalia",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "South Africa",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "South Korea",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "South Sudan",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "Spain",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "Sri Lanka",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "Sudan",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "Sweden",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "Switzerland",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "Syria",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "Taiwan",
+      "status": "pending"
+    },
+    {
+      "name": "Tajikistan",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "Tanzania",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "Thailand",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "Timor-Leste",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "Togo",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "Tonga",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "Trinidad and Tobago",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "Tunisia",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "Turkey",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "Turkmenistan",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "Uganda",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "Ukraine",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "United Arab Emirates",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "United States",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "Uruguay",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "Uzbekistan",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "Vanuatu",
+      "status": "pending"
+    },
+    {
+      "name": "Venezuela",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "Vietnam",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "Yemen",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "Zambia",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    },
+    {
+      "name": "Zimbabwe",
+      "status": "confirmed",
+      "note": "Listed in diplomatic map"
+    }
   ]
 }

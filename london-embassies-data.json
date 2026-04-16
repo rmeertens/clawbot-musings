@@ -1,0 +1,1186 @@
+{
+  "title": "London Diplomatic List",
+  "description": "Foreign embassies, high commissions, and diplomatic missions in London",
+  "source": "https://www.gov.uk/government/publications/foreign-embassies-in-the-uk",
+  "source_name": "UK Foreign, Commonwealth & Development Office — London Diplomatic List",
+  "last_updated": "2026-04-16",
+  "total": 168,
+  "embassies": [
+    {
+      "country": "Albania",
+      "address": "33 St George's Drive, SW1V 4DG",
+      "lat": 51.490667,
+      "lng": -0.144028,
+      "type": "Embassy"
+    },
+    {
+      "country": "Algeria",
+      "address": "1-3 Riding House Street, W1W 7DR",
+      "lat": 51.518222,
+      "lng": -0.142722,
+      "type": "Embassy"
+    },
+    {
+      "country": "Angola",
+      "address": "22 Dorset Street, W1U 6QY",
+      "lat": 51.51925,
+      "lng": -0.158028,
+      "type": "Embassy"
+    },
+    {
+      "country": "Antigua and Barbuda",
+      "address": "45 Crawford Place, W1H 4LP",
+      "lat": 51.518917,
+      "lng": -0.165194,
+      "type": "Embassy"
+    },
+    {
+      "country": "Argentina",
+      "address": "65 Brook Street, W1K 4AH",
+      "lat": 51.512472,
+      "lng": -0.14875,
+      "type": "Embassy"
+    },
+    {
+      "country": "Armenia",
+      "address": "25A Cheniston Gardens, W8 6TG",
+      "lat": 51.499,
+      "lng": -0.193,
+      "type": "Embassy"
+    },
+    {
+      "country": "Australia",
+      "address": "Australia House, Strand",
+      "lat": 51.512889,
+      "lng": -0.115722,
+      "type": "High Commission"
+    },
+    {
+      "country": "Austria",
+      "address": "18 Belgrave Square, SW1X 8PZ",
+      "lat": 51.4985,
+      "lng": -0.154694,
+      "type": "Embassy"
+    },
+    {
+      "country": "Azerbaijan",
+      "address": "66 Holland Park, W11 3RS",
+      "lat": 51.5064077,
+      "lng": -0.2068935,
+      "type": "Embassy"
+    },
+    {
+      "country": "Bahamas",
+      "address": "10 Chesterfield Street, W1J 5JL",
+      "lat": 51.507167,
+      "lng": -0.148611,
+      "type": "High Commission"
+    },
+    {
+      "country": "Bahrain",
+      "address": "30 Belgrave Square",
+      "lat": 51.4985,
+      "lng": -0.1527,
+      "type": "Embassy"
+    },
+    {
+      "country": "Bangladesh",
+      "address": "28 Queen's Gate",
+      "lat": 51.4995,
+      "lng": -0.1789,
+      "type": "High Commission"
+    },
+    {
+      "country": "Barbados",
+      "address": "1 Great Russell Street, WC1B 3JY",
+      "lat": 51.5171,
+      "lng": -0.1308,
+      "type": "High Commission"
+    },
+    {
+      "country": "Belarus",
+      "address": "6 Kensington Court",
+      "lat": 51.5008,
+      "lng": -0.1898,
+      "type": "Embassy"
+    },
+    {
+      "country": "Belgium",
+      "address": "17 Grosvenor Crescent",
+      "lat": 51.5009157,
+      "lng": -0.1532086,
+      "type": "Embassy"
+    },
+    {
+      "country": "Belize",
+      "address": "45 Crawford Place",
+      "lat": 51.5189362,
+      "lng": -0.1651037,
+      "type": "High Commission"
+    },
+    {
+      "country": "Bolivia",
+      "address": "106 Eaton Square",
+      "lat": 51.4971121,
+      "lng": -0.1511277,
+      "type": "Embassy"
+    },
+    {
+      "country": "Bosnia and Herzegovina",
+      "address": "5-7 Lexham Gardens",
+      "lat": 51.495266,
+      "lng": -0.1901351,
+      "type": "Embassy"
+    },
+    {
+      "country": "Botswana",
+      "address": "6 Stratford Pl",
+      "lat": 51.5150446,
+      "lng": -0.149033,
+      "type": "High Commission"
+    },
+    {
+      "country": "Brazil",
+      "address": "14/16 Cockspur Street",
+      "lat": 51.5074697,
+      "lng": -0.1307969,
+      "type": "Embassy"
+    },
+    {
+      "country": "Brunei",
+      "address": "19-20 Belgrave Square",
+      "lat": 51.4986794,
+      "lng": -0.152603,
+      "type": "High Commission"
+    },
+    {
+      "country": "Bulgaria",
+      "address": "186–188 Queen's Gate",
+      "lat": 51.4998986,
+      "lng": -0.1796481,
+      "type": "Embassy"
+    },
+    {
+      "country": "Burundi",
+      "address": "58–59 Trafalgar Square",
+      "lat": 51.5072,
+      "lng": -0.1283,
+      "type": "Embassy"
+    },
+    {
+      "country": "Cambodia",
+      "address": "64 Brondesbury Park",
+      "lat": 51.5360349,
+      "lng": -0.2244441,
+      "type": "Embassy"
+    },
+    {
+      "country": "Cameroon",
+      "address": "84 Holland Park",
+      "lat": 51.5055616,
+      "lng": -0.2090524,
+      "type": "High Commission"
+    },
+    {
+      "country": "Canada",
+      "address": "Trafalgar Square (Canada House)",
+      "lat": 51.5079,
+      "lng": -0.1295,
+      "type": "High Commission"
+    },
+    {
+      "country": "Chile",
+      "address": "37-41 Old Queen Street",
+      "lat": 51.500689,
+      "lng": -0.1313867,
+      "type": "Embassy"
+    },
+    {
+      "country": "China",
+      "address": "49-51 Portland Place, W1B 1JL",
+      "lat": 51.52102,
+      "lng": -0.14548,
+      "type": "Embassy"
+    },
+    {
+      "country": "Colombia",
+      "address": "3 Hans Crescent",
+      "lat": 51.4989827,
+      "lng": -0.161333,
+      "type": "Embassy"
+    },
+    {
+      "country": "Costa Rica",
+      "address": "23 Woodstock St",
+      "lat": 51.5137548,
+      "lng": -0.147229,
+      "type": "Embassy"
+    },
+    {
+      "country": "Croatia",
+      "address": "21 Conway Street",
+      "lat": 51.5232326,
+      "lng": -0.1412939,
+      "type": "Embassy"
+    },
+    {
+      "country": "Cuba",
+      "address": "167 High Holborn",
+      "lat": 51.5161771,
+      "lng": -0.1254292,
+      "type": "Embassy"
+    },
+    {
+      "country": "Cyprus",
+      "address": "13 St James's Square",
+      "lat": 51.5075499,
+      "lng": -0.1366492,
+      "type": "High Commission"
+    },
+    {
+      "country": "Czech Republic",
+      "address": "26-30 Kensington Palace Gardens",
+      "lat": 51.5094029,
+      "lng": -0.1934959,
+      "type": "Embassy"
+    },
+    {
+      "country": "Côte d'Ivoire",
+      "address": "2 Upper Belgrave Street",
+      "lat": 51.4983912,
+      "lng": -0.150837,
+      "type": "Embassy"
+    },
+    {
+      "country": "Democratic Republic of the Congo",
+      "address": "281 Gray's Inn Road",
+      "lat": 51.5296531,
+      "lng": -0.1202912,
+      "type": "Embassy"
+    },
+    {
+      "country": "Denmark",
+      "address": "55 Sloane Street",
+      "lat": 51.4979081,
+      "lng": -0.1595066,
+      "type": "Embassy"
+    },
+    {
+      "country": "Dominica",
+      "address": "1 Collingham Gardens",
+      "lat": 51.4913234,
+      "lng": -0.187078,
+      "type": "High Commission"
+    },
+    {
+      "country": "Dominican Republic",
+      "address": "81 Cromwell Road",
+      "lat": 51.4949318,
+      "lng": -0.1819954,
+      "type": "Embassy"
+    },
+    {
+      "country": "Ecuador",
+      "address": "3 Hans Crescent",
+      "lat": 51.4989827,
+      "lng": -0.161333,
+      "type": "Embassy"
+    },
+    {
+      "country": "Egypt",
+      "address": "26 South Street",
+      "lat": 51.507983,
+      "lng": -0.1519677,
+      "type": "Embassy"
+    },
+    {
+      "country": "El Salvador",
+      "address": "8 Dorset Square",
+      "lat": 51.5233651,
+      "lng": -0.1602105,
+      "type": "Embassy"
+    },
+    {
+      "country": "Equatorial Guinea",
+      "address": "13 Park Place, St James's",
+      "lat": 51.507,
+      "lng": -0.1381,
+      "type": "Embassy"
+    },
+    {
+      "country": "Eritrea",
+      "address": "96 White Lion Street",
+      "lat": 51.5329325,
+      "lng": -0.1073147,
+      "type": "Embassy"
+    },
+    {
+      "country": "Estonia",
+      "address": "44 Queen's Gate Terrace",
+      "lat": 51.4988557,
+      "lng": -0.1828055,
+      "type": "Embassy"
+    },
+    {
+      "country": "Eswatini",
+      "address": "20 Buckingham Gate",
+      "lat": 51.4995081,
+      "lng": -0.1400273,
+      "type": "High Commission"
+    },
+    {
+      "country": "Ethiopia",
+      "address": "17 Princes Gate",
+      "lat": 51.5014554,
+      "lng": -0.1724973,
+      "type": "Embassy"
+    },
+    {
+      "country": "Fiji",
+      "address": "34 Hyde Park Gate",
+      "lat": 51.5007691,
+      "lng": -0.1817173,
+      "type": "High Commission"
+    },
+    {
+      "country": "Finland",
+      "address": "38 Chesham Place",
+      "lat": 51.4975415,
+      "lng": -0.1542545,
+      "type": "Embassy"
+    },
+    {
+      "country": "France",
+      "address": "58 Knightsbridge",
+      "lat": 51.5024864,
+      "lng": -0.1580587,
+      "type": "Embassy"
+    },
+    {
+      "country": "Gabon",
+      "address": "27 Elvaston Place",
+      "lat": 51.4957,
+      "lng": -0.1825,
+      "type": "Embassy"
+    },
+    {
+      "country": "Gambia",
+      "address": "92 Ledbury Road",
+      "lat": 51.5161635,
+      "lng": -0.1994625,
+      "type": "High Commission"
+    },
+    {
+      "country": "Georgia",
+      "address": "20 St. George's Square",
+      "lat": 51.4887581,
+      "lng": -0.1359401,
+      "type": "Embassy"
+    },
+    {
+      "country": "Germany",
+      "address": "23 Belgrave Square",
+      "lat": 51.4980128,
+      "lng": -0.1544759,
+      "type": "Embassy"
+    },
+    {
+      "country": "Ghana",
+      "address": "13 Belgrave Square",
+      "lat": 51.4987995,
+      "lng": -0.1553176,
+      "type": "High Commission"
+    },
+    {
+      "country": "Greece",
+      "address": "1A Holland Park",
+      "lat": 51.5052905,
+      "lng": -0.2043895,
+      "type": "Embassy"
+    },
+    {
+      "country": "Grenada",
+      "address": "45 Bedford Row",
+      "lat": 51.5188899,
+      "lng": -0.1157057,
+      "type": "High Commission"
+    },
+    {
+      "country": "Guatemala",
+      "address": "105A Westbourne Grove",
+      "lat": 51.5150656,
+      "lng": -0.1935013,
+      "type": "Embassy"
+    },
+    {
+      "country": "Guinea",
+      "address": "239 Old Marylebone Road",
+      "lat": 51.5185318,
+      "lng": -0.1663117,
+      "type": "Embassy"
+    },
+    {
+      "country": "Guyana",
+      "address": "3 Palace Court",
+      "lat": 51.5101393,
+      "lng": -0.1919687,
+      "type": "High Commission"
+    },
+    {
+      "country": "Haiti",
+      "address": "21 Bloomsbury Way",
+      "lat": 51.517964,
+      "lng": -0.1228425,
+      "type": "Embassy"
+    },
+    {
+      "country": "Holy See",
+      "address": "54 Parkside",
+      "lat": 51.4360689,
+      "lng": -0.2239319,
+      "type": "Embassy"
+    },
+    {
+      "country": "Honduras",
+      "address": "136 Baker Street",
+      "lat": 51.5224,
+      "lng": -0.1568,
+      "type": "Embassy"
+    },
+    {
+      "country": "Hungary",
+      "address": "35 Eaton Place",
+      "lat": 51.4972713,
+      "lng": -0.1527801,
+      "type": "Embassy"
+    },
+    {
+      "country": "Iceland",
+      "address": "2A Hans Street",
+      "lat": 51.4978,
+      "lng": -0.1594,
+      "type": "Embassy"
+    },
+    {
+      "country": "India",
+      "address": "India House",
+      "lat": 51.5125,
+      "lng": -0.1183,
+      "type": "High Commission"
+    },
+    {
+      "country": "Indonesia",
+      "address": "30 Great Peter Street",
+      "lat": 51.4969379,
+      "lng": -0.1274904,
+      "type": "Embassy"
+    },
+    {
+      "country": "Iran",
+      "address": "16 Prince's Gate, SW7 1PT",
+      "lat": 51.50153,
+      "lng": -0.17231,
+      "type": "Embassy"
+    },
+    {
+      "country": "Iraq",
+      "address": "21 Queen's Gate",
+      "lat": 51.5016666,
+      "lng": -0.1802533,
+      "type": "Embassy"
+    },
+    {
+      "country": "Ireland",
+      "address": "17 Grosvenor Place",
+      "lat": 51.5003811,
+      "lng": -0.149893,
+      "type": "Embassy"
+    },
+    {
+      "country": "Israel",
+      "address": "2 Palace Green, W8 4QB",
+      "lat": 51.503056,
+      "lng": -0.189444,
+      "type": "Embassy"
+    },
+    {
+      "country": "Italy",
+      "address": "14 Three Kings Yard",
+      "lat": 51.5119155,
+      "lng": -0.1493019,
+      "type": "Embassy"
+    },
+    {
+      "country": "Jamaica",
+      "address": "1-2 Prince Consort Road",
+      "lat": 51.5001708,
+      "lng": -0.1749031,
+      "type": "High Commission"
+    },
+    {
+      "country": "Japan",
+      "address": "101–104 Piccadilly",
+      "lat": 51.5052847,
+      "lng": -0.1461224,
+      "type": "Embassy"
+    },
+    {
+      "country": "Jordan",
+      "address": "6 Upper Phillimore Gardens",
+      "lat": 51.5020385,
+      "lng": -0.197812,
+      "type": "Embassy"
+    },
+    {
+      "country": "Kazakhstan",
+      "address": "125 Pall Mall, SW1Y 5EA",
+      "lat": 51.507528,
+      "lng": -0.130972,
+      "type": "Embassy"
+    },
+    {
+      "country": "Kenya",
+      "address": "45 Portland Place",
+      "lat": 51.5206652,
+      "lng": -0.1457766,
+      "type": "High Commission"
+    },
+    {
+      "country": "Kosovo",
+      "address": "8 John Street",
+      "lat": 51.5219505,
+      "lng": -0.1150064,
+      "type": "Embassy"
+    },
+    {
+      "country": "Kuwait",
+      "address": "2 Albert Gate",
+      "lat": 51.5025733,
+      "lng": -0.158515,
+      "type": "Embassy"
+    },
+    {
+      "country": "Kyrgyzstan",
+      "address": "119 Crawford Street",
+      "lat": 51.5201,
+      "lng": -0.1637,
+      "type": "Embassy"
+    },
+    {
+      "country": "Laos",
+      "address": "49 Porchester Terrace",
+      "lat": 51.5133026,
+      "lng": -0.1843449,
+      "type": "Embassy"
+    },
+    {
+      "country": "Latvia",
+      "address": "45 Nottingham Place",
+      "lat": 51.5223836,
+      "lng": -0.1535203,
+      "type": "Embassy"
+    },
+    {
+      "country": "Lebanon",
+      "address": "21 Kensington Palace Gardens, W8 4QN",
+      "lat": 51.507896,
+      "lng": -0.1921977,
+      "type": "Embassy"
+    },
+    {
+      "country": "Lesotho",
+      "address": "7 Chesham Place",
+      "lat": 51.4977249,
+      "lng": -0.1554895,
+      "type": "Embassy"
+    },
+    {
+      "country": "Liberia",
+      "address": "23 Fitzroy Square",
+      "lat": 51.5228702,
+      "lng": -0.1409189,
+      "type": "Embassy"
+    },
+    {
+      "country": "Libya",
+      "address": "15 Knightsbridge",
+      "lat": 51.5023233,
+      "lng": -0.1540217,
+      "type": "Embassy"
+    },
+    {
+      "country": "Lithuania",
+      "address": "2 Bessborough Gardens",
+      "lat": 51.4895463,
+      "lng": -0.1308278,
+      "type": "Embassy"
+    },
+    {
+      "country": "Luxembourg",
+      "address": "27 Wilton Crescent",
+      "lat": 51.5010405,
+      "lng": -0.1545547,
+      "type": "Embassy"
+    },
+    {
+      "country": "Madagascar",
+      "address": "One Knightsbridge Green",
+      "lat": 51.5005,
+      "lng": -0.1672,
+      "type": "Embassy"
+    },
+    {
+      "country": "Malawi",
+      "address": "36 John Street",
+      "lat": 51.5215018,
+      "lng": -0.1151684,
+      "type": "High Commission"
+    },
+    {
+      "country": "Malaysia",
+      "address": "45 Belgrave Square",
+      "lat": 51.5001059,
+      "lng": -0.1525063,
+      "type": "High Commission"
+    },
+    {
+      "country": "Maldives",
+      "address": "22 Nottingham Place",
+      "lat": 51.5216044,
+      "lng": -0.1528081,
+      "type": "High Commission"
+    },
+    {
+      "country": "Malta",
+      "address": "36-38 Piccadilly",
+      "lat": 51.5090876,
+      "lng": -0.1373314,
+      "type": "High Commission"
+    },
+    {
+      "country": "Mauritania",
+      "address": "Carlyle House, 235–237 Vauxhall Bridge Road",
+      "lat": 51.4939129,
+      "lng": -0.1407391,
+      "type": "Embassy"
+    },
+    {
+      "country": "Mauritius",
+      "address": "32/33 Elvaston Place",
+      "lat": 51.4975629,
+      "lng": -0.1817773,
+      "type": "High Commission"
+    },
+    {
+      "country": "Mexico",
+      "address": "16 St. George Street",
+      "lat": 51.5130401,
+      "lng": -0.1436978,
+      "type": "Embassy"
+    },
+    {
+      "country": "Moldova",
+      "address": "55 Catherine Place",
+      "lat": 51.4992672,
+      "lng": -0.1402871,
+      "type": "Embassy"
+    },
+    {
+      "country": "Monaco",
+      "address": "7 Upper Grosvenor Street",
+      "lat": 51.5106468,
+      "lng": -0.1537147,
+      "type": "Embassy"
+    },
+    {
+      "country": "Mongolia",
+      "address": "7-8 Kensington Court",
+      "lat": 51.4941691,
+      "lng": -0.1988928,
+      "type": "Embassy"
+    },
+    {
+      "country": "Montenegro",
+      "address": "47 De Vere Gardens",
+      "lat": 51.4997272,
+      "lng": -0.1846905,
+      "type": "Embassy"
+    },
+    {
+      "country": "Morocco",
+      "address": "49 Queen's Gate Gardens",
+      "lat": 51.4958195,
+      "lng": -0.1822521,
+      "type": "Embassy"
+    },
+    {
+      "country": "Mozambique",
+      "address": "21 Fitzroy Square",
+      "lat": 51.5229683,
+      "lng": -0.1410261,
+      "type": "High Commission"
+    },
+    {
+      "country": "Myanmar",
+      "address": "19A Charles Street, W1J 5DX",
+      "lat": 51.5075954,
+      "lng": -0.1482205,
+      "type": "Embassy"
+    },
+    {
+      "country": "Namibia",
+      "address": "6 Chandos Street",
+      "lat": 51.5184169,
+      "lng": -0.1448242,
+      "type": "High Commission"
+    },
+    {
+      "country": "Nepal",
+      "address": "12a Kensington Palace Gardens",
+      "lat": 51.5074577,
+      "lng": -0.190598,
+      "type": "Embassy"
+    },
+    {
+      "country": "Netherlands",
+      "address": "38 Hyde Park Gate",
+      "lat": 51.5009828,
+      "lng": -0.1822443,
+      "type": "Embassy"
+    },
+    {
+      "country": "New Zealand",
+      "address": "80 Haymarket",
+      "lat": 51.5077,
+      "lng": -0.1318,
+      "type": "High Commission"
+    },
+    {
+      "country": "Nigeria",
+      "address": "9 Northumberland Avenue",
+      "lat": 51.5067279,
+      "lng": -0.1252198,
+      "type": "High Commission"
+    },
+    {
+      "country": "North Korea",
+      "address": "73 Gunnersbury Avenue, W5 4LP",
+      "lat": 51.5031,
+      "lng": -0.28915,
+      "type": "Embassy"
+    },
+    {
+      "country": "North Macedonia",
+      "address": "64-65 Vincent Square",
+      "lat": 51.493339,
+      "lng": -0.1370433,
+      "type": "Embassy"
+    },
+    {
+      "country": "Norway",
+      "address": "25 Belgrave Square",
+      "lat": 51.4985,
+      "lng": -0.1534,
+      "type": "Embassy"
+    },
+    {
+      "country": "Oman",
+      "address": "167 Queen's Gate",
+      "lat": 51.4974203,
+      "lng": -0.1788901,
+      "type": "Embassy"
+    },
+    {
+      "country": "Pakistan",
+      "address": "35–36 Lowndes Square",
+      "lat": 51.5013254,
+      "lng": -0.1588549,
+      "type": "High Commission"
+    },
+    {
+      "country": "Palestine",
+      "address": "5 Galena Road",
+      "lat": 51.49,
+      "lng": -0.215,
+      "type": "Embassy"
+    },
+    {
+      "country": "Panama",
+      "address": "40 Hertford Street",
+      "lat": 51.5058086,
+      "lng": -0.1485004,
+      "type": "Embassy"
+    },
+    {
+      "country": "Papua New Guinea",
+      "address": "14 Waterloo Place",
+      "lat": 51.5074847,
+      "lng": -0.1332672,
+      "type": "High Commission"
+    },
+    {
+      "country": "Paraguay",
+      "address": "81 Cromwell Road",
+      "lat": 51.4949318,
+      "lng": -0.1819954,
+      "type": "Embassy"
+    },
+    {
+      "country": "Peru",
+      "address": "15 Buckingham Gate London",
+      "lat": 51.4997766,
+      "lng": -0.1405737,
+      "type": "Embassy"
+    },
+    {
+      "country": "Philippines",
+      "address": "6-11 Suffolk Street",
+      "lat": 51.5086102,
+      "lng": -0.1306614,
+      "type": "Embassy"
+    },
+    {
+      "country": "Poland",
+      "address": "47 Portland Place",
+      "lat": 51.5207567,
+      "lng": -0.1458203,
+      "type": "Embassy"
+    },
+    {
+      "country": "Portugal",
+      "address": "11 Belgrave Square",
+      "lat": 51.4995802,
+      "lng": -0.1552093,
+      "type": "Embassy"
+    },
+    {
+      "country": "Qatar",
+      "address": "1 South Audley Street",
+      "lat": 51.5070218,
+      "lng": -0.1504298,
+      "type": "Embassy"
+    },
+    {
+      "country": "Republic of the Congo",
+      "address": "101 New Street Hill",
+      "lat": 51.4220936,
+      "lng": 0.0238943,
+      "type": "Embassy"
+    },
+    {
+      "country": "Romania",
+      "address": "4 Palace Green",
+      "lat": 51.5039791,
+      "lng": -0.190042,
+      "type": "Embassy"
+    },
+    {
+      "country": "Russia",
+      "address": "6-7 Kensington Palace Gardens, W8 4QP",
+      "lat": 51.507806,
+      "lng": -0.190944,
+      "type": "Embassy"
+    },
+    {
+      "country": "Rwanda",
+      "address": "120-122 Seymour Place",
+      "lat": 51.5201245,
+      "lng": -0.1633601,
+      "type": "High Commission"
+    },
+    {
+      "country": "Saint Kitts and Nevis",
+      "address": "10 Kensington Ct.",
+      "lat": 51.5013389,
+      "lng": -0.1869024,
+      "type": "High Commission"
+    },
+    {
+      "country": "Saint Lucia",
+      "address": "1 Collingham Gardens",
+      "lat": 51.4913234,
+      "lng": -0.187078,
+      "type": "High Commission"
+    },
+    {
+      "country": "Saint Vincent and the Grenadines",
+      "address": "10 Kensington Ct.",
+      "lat": 51.5013389,
+      "lng": -0.1869024,
+      "type": "High Commission"
+    },
+    {
+      "country": "Saudi Arabia",
+      "address": "30 Charles Street",
+      "lat": 51.5072885,
+      "lng": -0.1479214,
+      "type": "Embassy"
+    },
+    {
+      "country": "Senegal",
+      "address": "47 Bedford Row",
+      "lat": 51.5199923,
+      "lng": -0.1161192,
+      "type": "Embassy"
+    },
+    {
+      "country": "Serbia",
+      "address": "28 Belgrave Square",
+      "lat": 51.498281,
+      "lng": -0.1526398,
+      "type": "Embassy"
+    },
+    {
+      "country": "Seychelles",
+      "address": "130-132 Buckingham Palace Road",
+      "lat": 51.4981871,
+      "lng": -0.1440037,
+      "type": "High Commission"
+    },
+    {
+      "country": "Sierra Leone",
+      "address": "41 Eagle Street",
+      "lat": 51.5189171,
+      "lng": -0.1174267,
+      "type": "High Commission"
+    },
+    {
+      "country": "Singapore",
+      "address": "9 Wilton Crescent",
+      "lat": 51.500252,
+      "lng": -0.156469,
+      "type": "High Commission"
+    },
+    {
+      "country": "Slovakia",
+      "address": "25 Kensington Palace Gardens",
+      "lat": 51.5092686,
+      "lng": -0.1929077,
+      "type": "Embassy"
+    },
+    {
+      "country": "Slovenia",
+      "address": "17 Dartmouth Street",
+      "lat": 51.5001315,
+      "lng": -0.1320213,
+      "type": "Embassy"
+    },
+    {
+      "country": "Somalia",
+      "address": "259-269 Old Marylebone Road",
+      "lat": 51.5202706,
+      "lng": -0.1655847,
+      "type": "Embassy"
+    },
+    {
+      "country": "South Africa",
+      "address": "South Africa House",
+      "lat": 51.5082,
+      "lng": -0.1269,
+      "type": "High Commission"
+    },
+    {
+      "country": "South Korea",
+      "address": "60 Buckingham Gate, SW1E 6AJ",
+      "lat": 51.498028,
+      "lng": -0.136583,
+      "type": "Embassy"
+    },
+    {
+      "country": "South Sudan",
+      "address": "22-25 Portman Close",
+      "lat": 51.5168902,
+      "lng": -0.1563257,
+      "type": "Embassy"
+    },
+    {
+      "country": "Spain",
+      "address": "39 Chesham Place",
+      "lat": 51.4999,
+      "lng": -0.1563,
+      "type": "Embassy"
+    },
+    {
+      "country": "Sri Lanka",
+      "address": "13 Hyde Park Gardens",
+      "lat": 51.512787,
+      "lng": -0.170849,
+      "type": "High Commission"
+    },
+    {
+      "country": "Sudan",
+      "address": "3 Cleveland Row, London",
+      "lat": 51.5048678,
+      "lng": -0.1386287,
+      "type": "Embassy"
+    },
+    {
+      "country": "Sweden",
+      "address": "11 Montagu Place",
+      "lat": 51.5193,
+      "lng": -0.1576,
+      "type": "Embassy"
+    },
+    {
+      "country": "Switzerland",
+      "address": "16/18 Montagu Place",
+      "lat": 51.5184448,
+      "lng": -0.1605901,
+      "type": "Embassy"
+    },
+    {
+      "country": "Syria",
+      "address": "8 Belgrave Square",
+      "lat": 51.4998149,
+      "lng": -0.1549089,
+      "type": "Embassy"
+    },
+    {
+      "country": "Tajikistan",
+      "address": "110 Clarendon Road",
+      "lat": 51.5093,
+      "lng": -0.2048,
+      "type": "Embassy"
+    },
+    {
+      "country": "Tanzania",
+      "address": "3 Stratford Place",
+      "lat": 51.5147605,
+      "lng": -0.148864,
+      "type": "High Commission"
+    },
+    {
+      "country": "Thailand",
+      "address": "29–30 Queen's Gate",
+      "lat": 51.4984418,
+      "lng": -0.1801125,
+      "type": "Embassy"
+    },
+    {
+      "country": "Timor-Leste",
+      "address": "83 Victoria Street",
+      "lat": 51.4983,
+      "lng": -0.1378,
+      "type": "Embassy"
+    },
+    {
+      "country": "Togo",
+      "address": "Units 3, 7 & 8 Lysander Mews, Archway",
+      "lat": 51.568,
+      "lng": -0.1365,
+      "type": "High Commission"
+    },
+    {
+      "country": "Tonga",
+      "address": "36 Molyneux Street",
+      "lat": 51.518125,
+      "lng": -0.1642938,
+      "type": "High Commission"
+    },
+    {
+      "country": "Trinidad and Tobago",
+      "address": "42 Belgrave Square",
+      "lat": 51.4998437,
+      "lng": -0.1520781,
+      "type": "High Commission"
+    },
+    {
+      "country": "Tunisia",
+      "address": "29 Prince's Gate",
+      "lat": 51.5008,
+      "lng": -0.1743,
+      "type": "Embassy"
+    },
+    {
+      "country": "Turkey",
+      "address": "43 Belgrave Square",
+      "lat": 51.4999381,
+      "lng": -0.1522424,
+      "type": "Embassy"
+    },
+    {
+      "country": "Turkmenistan",
+      "address": "131 Holland Park Avenue",
+      "lat": 51.5058337,
+      "lng": -0.2096164,
+      "type": "Embassy"
+    },
+    {
+      "country": "Uganda",
+      "address": "58–59 Trafalgar Square",
+      "lat": 51.5072499,
+      "lng": -0.1282648,
+      "type": "High Commission"
+    },
+    {
+      "country": "Ukraine",
+      "address": "60 Holland Park, W11 3SJ",
+      "lat": 51.5061,
+      "lng": -0.2082,
+      "type": "Embassy"
+    },
+    {
+      "country": "United Arab Emirates",
+      "address": "1-2 Grosvenor Cres",
+      "lat": 51.5017346,
+      "lng": -0.1528527,
+      "type": "Embassy"
+    },
+    {
+      "country": "United States",
+      "address": "33 Nine Elms Lane, SW11 7US",
+      "lat": 51.4826,
+      "lng": -0.1317,
+      "type": "Embassy"
+    },
+    {
+      "country": "Uruguay",
+      "address": "150 Brompton Road",
+      "lat": 51.4984678,
+      "lng": -0.1664579,
+      "type": "Embassy"
+    },
+    {
+      "country": "Uzbekistan",
+      "address": "41 Holland Park",
+      "lat": 51.5064699,
+      "lng": -0.205146,
+      "type": "Embassy"
+    },
+    {
+      "country": "Venezuela",
+      "address": "1 Cromwell Road",
+      "lat": 51.4959,
+      "lng": -0.1756,
+      "type": "Embassy"
+    },
+    {
+      "country": "Vietnam",
+      "address": "12-14 Victoria Road",
+      "lat": 51.5003247,
+      "lng": -0.1861492,
+      "type": "Embassy"
+    },
+    {
+      "country": "Yemen",
+      "address": "57 Cromwell Road",
+      "lat": 51.4950672,
+      "lng": -0.1786613,
+      "type": "Embassy"
+    },
+    {
+      "country": "Zambia",
+      "address": "2 Palace Gate",
+      "lat": 51.5007505,
+      "lng": -0.1836722,
+      "type": "High Commission"
+    },
+    {
+      "country": "Zimbabwe",
+      "address": "429 Strand, WC2R 0JR",
+      "lat": 51.5096,
+      "lng": -0.124,
+      "type": "High Commission"
+    }
+  ]
+}
