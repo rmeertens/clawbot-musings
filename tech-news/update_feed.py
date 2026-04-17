@@ -32,12 +32,15 @@ REPO_ROOT = SCRIPT_DIR.parent
 FEEDS_PATH = SCRIPT_DIR / "feeds.json"
 OUTPUT_HTML = SCRIPT_DIR / "index.html"
 SEEN_PATH = SCRIPT_DIR / "seen.json"
+SUMMARIES_PATH = SCRIPT_DIR / "summaries.json"
 
 USER_AGENT = "ClawbotMusings-TechNews/1.0 (+https://github.com/clawbot-musings)"
 FETCH_TIMEOUT_SEC = 30
 MAX_ITEMS = 100
 JIRA_DELAY_SEC = 0.12
 FETCH_WORKERS = 16
+CLAUDE_MODEL = "claude-haiku-4-5-20251001"
+CLAUDE_DELAY_SEC = 0.3
 
 PRIORITY_LABEL = {
     "very-high": "Very High",
@@ -197,6 +200,9 @@ class NewsItem:
     jira_key: str | None = None
     first_seen: datetime | None = None
     is_new: bool = False
+    summary: str | None = None
+    infoq_relevant: bool | None = None
+    infoq_reason: str | None = None
 
 
 @dataclass
@@ -403,6 +409,116 @@ def apply_seen_history(
     return new_count, len(items) - new_count
 
 
+def load_summaries() -> dict[str, dict[str, Any]]:
+    if not SUMMARIES_PATH.is_file():
+        return {}
+    try:
+        return json.loads(SUMMARIES_PATH.read_text(encoding="utf-8"))
+    except (json.JSONDecodeError, OSError):
+        return {}
+
+
+def save_summaries(summaries: dict[str, dict[str, Any]]) -> None:
+    SUMMARIES_PATH.write_text(
+        json.dumps(summaries, indent=2, ensure_ascii=False) + "\n",
+        encoding="utf-8",
+    )
+
+
+def fetch_article_text(url: str, max_chars: int = 4000) -> str:
+    try:
+        req = urllib.request.Request(
+            url,
+            headers={
+                "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36",
+                "Accept": "text/html,application/xhtml+xml,*/*;q=0.9",
+                "Accept-Encoding": "identity",
+            },
+        )
+        with _SHARED_OPENER.open(req, timeout=15) as resp:
+            raw = _maybe_decompress(resp.read())
+            text = strip_html_tags(raw.decode("utf-8", errors="replace"))
+            return re.sub(r"\s+", " ", text).strip()[:max_chars]
+    except Exception:
+        return ""
+
+
+def claude_summarize(item: NewsItem, article_text: str) -> dict[str, Any]:
+    api_key = os.getenv("ANTHROPIC_API_KEY", "")
+    if not api_key:
+        return {}
+    content_block = f"Title: {item.title}\nSource: {item.source}"
+    if article_text:
+        content_block += f"\n\nArticle excerpt:\n{article_text}"
+    payload = json.dumps({
+        "model": CLAUDE_MODEL,
+        "max_tokens": 256,
+        "messages": [{
+            "role": "user",
+            "content": (
+                "Analyze this tech article for an InfoQ software developer audience.\n\n"
+                f"{content_block}\n\n"
+                "Respond with ONLY a JSON object (no markdown, no extra text):\n"
+                '{"summary": "<two sentences summarizing the article>", '
+                '"infoq_relevant": <true or false>, '
+                '"reason": "<one sentence on why or why not this suits InfoQ software developers>"}'
+            ),
+        }],
+    }).encode()
+    req = urllib.request.Request(
+        "https://api.anthropic.com/v1/messages",
+        data=payload,
+        headers={
+            "x-api-key": api_key,
+            "anthropic-version": "2023-06-01",
+            "content-type": "application/json",
+        },
+        method="POST",
+    )
+    ctx = ssl.create_default_context()
+    try:
+        with urllib.request.urlopen(req, timeout=30, context=ctx) as resp:
+            data = json.loads(resp.read().decode())
+            text = data["content"][0]["text"].strip()
+            m = re.search(r"\{.*\}", text, re.DOTALL)
+            if m:
+                return json.loads(m.group())
+    except Exception:
+        pass
+    return {}
+
+
+def apply_summaries(items: list[NewsItem]) -> int:
+    """Fetch and cache Claude summaries for new items. Returns count of new summaries generated."""
+    api_key = os.getenv("ANTHROPIC_API_KEY", "")
+    summaries = load_summaries()
+    generated = 0
+
+    for it in items:
+        key = normalize_url(it.link)
+        if not key:
+            continue
+        cached = summaries.get(key)
+        if cached:
+            it.summary = cached.get("summary")
+            it.infoq_relevant = cached.get("infoq_relevant")
+            it.infoq_reason = cached.get("reason")
+        elif it.is_new and api_key:
+            article_text = fetch_article_text(it.link)
+            result = claude_summarize(it, article_text)
+            if result:
+                it.summary = result.get("summary")
+                it.infoq_relevant = result.get("infoq_relevant")
+                it.infoq_reason = result.get("reason")
+                summaries[key] = result
+                generated += 1
+            time.sleep(CLAUDE_DELAY_SEC)
+
+    if generated:
+        save_summaries(summaries)
+    return generated
+
+
 def render_articles(items: list[NewsItem], now: datetime) -> str:
     jira_domain = (os.getenv("JIRA_DOMAIN") or "").strip().rstrip("/")
     lines: list[str] = []
@@ -452,6 +568,23 @@ def render_articles(items: list[NewsItem], now: datetime) -> str:
             f' data-scraped="{scraped_iso}"'
             f'>{pub_html}{scraped_html}</p>'
         )
+        if it.summary:
+            badge_cls = "infoq-yes" if it.infoq_relevant else "infoq-no"
+            badge_txt = "YES" if it.infoq_relevant else "NO"
+            lines.append('          <div class="news-enrichment">')
+            lines.append(
+                f'            <p class="news-summary"><span class="label">Summary</span>'
+                f"{html_escape(it.summary)}</p>"
+            )
+            lines.append('            <p class="news-infoq">')
+            lines.append('              <span class="label">InfoQ Relevance</span>')
+            lines.append(f'              <span class="infoq-badge {badge_cls}">{badge_txt}</span>')
+            if it.infoq_reason:
+                lines.append(
+                    f'              <span class="news-infoq-reason">{html_escape(it.infoq_reason)}</span>'
+                )
+            lines.append('            </p>')
+            lines.append('          </div>')
         lines.append("        </article>")
     return "\n".join(lines)
 
@@ -545,6 +678,8 @@ def main() -> int:
 
     new_count, seen_count = apply_seen_history(merged, now)
 
+    summary_count = apply_summaries(merged)
+
     if jira_env_ready():
         for it in merged:
             key = jira_ticket_for_item(it)
@@ -580,7 +715,8 @@ def main() -> int:
     seen_total = len(load_seen())
     print(
         f"Wrote {len(merged)} items to {OUTPUT_HTML} "
-        f"({new_count} new, {seen_count} seen before, {seen_total} total tracked) "
+        f"({new_count} new, {seen_count} seen before, {seen_total} total tracked, "
+        f"{summary_count} summaries generated) "
         f"[{fetch_elapsed:.1f}s fetch, {len(sources)} sources]",
         flush=True,
     )
