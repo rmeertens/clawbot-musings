@@ -4774,5 +4774,209 @@
     "source": "Google Cloud Blog",
     "first_seen": "2026-04-17T13:01:49.554062+00:00",
     "published": "2026-04-16T16:00:00+00:00"
+  },
+  "https://www.tigerdata.com/blog/ignition-and-timescaledb-perfect-pairing": {
+    "title": "Ignition and TimescaleDB: the Perfect Pairing",
+    "source": "Timescale Blog",
+    "first_seen": "2026-04-17T16:46:49.690368+00:00",
+    "published": "2026-04-17T16:41:35+00:00"
+  },
+  "https://aws.amazon.com/blogs/security/transform-security-logs-into-ocsf-format-using-a-configuration-driven-etl-solution": {
+    "title": "Transform security logs into OCSF format using a configuration-driven ETL solution",
+    "source": "AWS Security Blog",
+    "first_seen": "2026-04-17T16:46:49.690368+00:00",
+    "published": "2026-04-17T16:30:57+00:00"
+  },
+  "https://huggingface.co/blog/nvidia/nemotron-ocr-v2": {
+    "title": "Building a Fast Multilingual OCR Model with Synthetic Data",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-04-17T16:46:49.690368+00:00",
+    "published": "2026-04-17T16:17:55+00:00"
+  },
+  "https://pytorch.org/blog/optimizing-effective-training-time-for-metas-internal-recommendation-ranking-workloads": {
+    "title": "Optimizing Effective Training Time for Meta’s Internal Recommendation/Ranking Workloads",
+    "source": "PyTorch Blog",
+    "first_seen": "2026-04-17T16:46:49.690368+00:00",
+    "published": "2026-04-17T16:00:18+00:00"
+  },
+  "https://github.blog/news-insights/company-news/bringing-more-transparency-to-githubs-status-page": {
+    "title": "Bringing more transparency to GitHub’s status page",
+    "source": "GitHub Blog",
+    "first_seen": "2026-04-17T16:46:49.690368+00:00",
+    "published": "2026-04-17T16:00:00+00:00"
+  },
+  "https://lwn.net/Articles/1066156": {
+    "title": "[$] A more efficient implementation of Shor's algorithm",
+    "source": "LWN.net",
+    "first_seen": "2026-04-17T16:46:49.690368+00:00",
+    "published": "2026-04-17T15:53:30+00:00"
+  },
+  "https://nasaforce.gov": {
+    "title": "NASA Force",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-17T16:46:49.690368+00:00",
+    "published": "2026-04-17T15:47:41+00:00"
+  },
+  "https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you": {
+    "title": "Claude Opus 4.7 costs 20–30% more per session",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-17T16:46:49.690368+00:00",
+    "published": "2026-04-17T15:29:36+00:00"
+  },
+  "https://risky.biz/risky-bulletin-nist-gives-up-enriching-most-cves": {
+    "title": "NIST gives up enriching most CVEs",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-17T16:46:49.690368+00:00",
+    "published": "2026-04-17T15:09:14+00:00"
+  },
+  "https://www.anthropic.com/news/claude-design-anthropic-labs": {
+    "title": "Claude Design",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-17T16:46:49.690368+00:00",
+    "published": "2026-04-17T15:04:09+00:00"
+  },
+  "https://www.databricks.com/blog/introducing-genie-agent-mode": {
+    "title": "Introducing Genie Agent Mode",
+    "source": "Databricks Blog",
+    "first_seen": "2026-04-17T16:46:49.690368+00:00",
+    "published": "2026-04-17T15:00:59+00:00"
+  },
+  "https://www.databricks.com/blog/governing-coding-agent-sprawl-databricks-ai-gateway": {
+    "title": "Governing Coding Agent Sprawl with Databricks AI Gateway",
+    "source": "Databricks Blog",
+    "first_seen": "2026-04-17T16:46:49.690368+00:00",
+    "published": "2026-04-17T15:00:36+00:00"
+  },
+  "https://developer.nvidia.com/blog/accelerate-clean-modular-nuclear-reactor-design-with-ai-physics": {
+    "title": "Accelerate Clean, Modular, Nuclear Reactor Design with AI Physics",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-04-17T16:46:49.690368+00:00",
+    "published": "2026-04-17T15:00:00+00:00"
+  },
+  "https://www.phoronix.com/review/ubuntu-2604-xe2-lunar-lake": {
+    "title": "Intel Xe2 Lunar Lake Linux Graphics Performance Up ~17% Over Past Year",
+    "source": "Phoronix",
+    "first_seen": "2026-04-17T16:46:49.690368+00:00",
+    "published": "2026-04-17T14:52:00+00:00"
+  },
+  "https://www.thehistoryblog.com/archives/75848": {
+    "title": "Middle schooler finds coin from Troy in Berlin",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-17T16:46:49.690368+00:00",
+    "published": "2026-04-17T14:41:49+00:00"
+  },
+  "https://www.iceye.com/open-data-initiative": {
+    "title": "Iceye Open Data",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-17T16:46:49.690368+00:00",
+    "published": "2026-04-17T14:37:16+00:00"
+  },
+  "https://blog.healthchecks.io/2026/04/healthchecks-io-now-uses-self-hosted-object-storage": {
+    "title": "Healthchecks.io Now Uses Self-Hosted Object Storage",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-17T16:46:49.690368+00:00",
+    "published": "2026-04-17T14:29:11+00:00"
+  },
+  "https://www.lawfaremedia.org/article/it-is-time-to-ban-the-sale-of-precise-geolocation": {
+    "title": "It Is Time to Ban the Sale of Precise Geolocation",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-17T16:46:49.690368+00:00",
+    "published": "2026-04-17T14:25:46+00:00"
+  },
+  "https://thenewstack.io/escape-break-fix-trap": {
+    "title": "3 steps to escaping the “break-fix” trap",
+    "source": "The New Stack",
+    "first_seen": "2026-04-17T16:46:49.690368+00:00",
+    "published": "2026-04-17T14:00:00+00:00"
+  },
+  "https://blog.google/products-and-platforms/products/search/summer-travel-tips-google-search-ai": {
+    "title": "7 ways to travel smarter this summer, with help from Google",
+    "source": "Google AI Blog",
+    "first_seen": "2026-04-17T16:46:49.690368+00:00",
+    "published": "2026-04-17T14:00:00+00:00"
+  },
+  "https://isitagentready.com": {
+    "title": "Scan your website to see how ready it is for AI agents",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-17T16:46:49.690368+00:00",
+    "published": "2026-04-17T13:55:25+00:00"
+  },
+  "https://www.phoronix.com/news/AMD-RDNA4m-RADV-ACO": {
+    "title": "Valve Developer Lands RADV/ACO Changes For AMD's GFX11.7 / RDNA 4m",
+    "source": "Phoronix",
+    "first_seen": "2026-04-17T16:46:49.690368+00:00",
+    "published": "2026-04-17T13:48:00+00:00"
+  },
+  "https://lwn.net/Articles/1067029": {
+    "title": "[$] The 7.0 scheduler regression that wasn't",
+    "source": "LWN.net",
+    "first_seen": "2026-04-17T16:46:49.690368+00:00",
+    "published": "2026-04-17T13:34:00+00:00"
+  },
+  "https://lwn.net/Articles/1068400": {
+    "title": "Security updates for Friday",
+    "source": "LWN.net",
+    "first_seen": "2026-04-17T16:46:49.690368+00:00",
+    "published": "2026-04-17T13:33:38+00:00"
+  },
+  "https://blog.cloudflare.com/agent-readiness": {
+    "title": "Introducing the Agent Readiness score. Is your site agent-ready?",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-04-17T16:46:49.690368+00:00",
+    "published": "2026-04-17T13:05:00+00:00"
+  },
+  "https://blog.cloudflare.com/shared-dictionaries": {
+    "title": "Shared Dictionaries: compression that keeps up with the agentic web",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-04-17T16:46:49.690368+00:00",
+    "published": "2026-04-17T13:02:00+00:00"
+  },
+  "https://thenewstack.io/postgres-nvme-s3-storage": {
+    "title": "Why Postgres wants NVMe on the hot path, and S3 everywhere else",
+    "source": "The New Stack",
+    "first_seen": "2026-04-17T16:46:49.690368+00:00",
+    "published": "2026-04-17T13:00:00+00:00"
+  },
+  "https://blog.cloudflare.com/unweight-tensor-compression": {
+    "title": "Unweight: how we compressed an LLM 22% without sacrificing quality",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-04-17T16:46:49.690368+00:00",
+    "published": "2026-04-17T13:00:00+00:00"
+  },
+  "https://blog.cloudflare.com/network-performance-agents-week": {
+    "title": "Agents Week: network performance update",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-04-17T16:46:49.690368+00:00",
+    "published": "2026-04-17T13:00:00+00:00"
+  },
+  "https://blog.cloudflare.com/introducing-agent-memory": {
+    "title": "Agents that remember: introducing Agent Memory",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-04-17T16:46:49.690368+00:00",
+    "published": "2026-04-17T13:00:00+00:00"
+  },
+  "https://blog.cloudflare.com/flagship": {
+    "title": "Introducing Flagship: feature flags built for the age of AI",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-04-17T16:46:49.690368+00:00",
+    "published": "2026-04-17T13:00:00+00:00"
+  },
+  "https://blog.cloudflare.com/ai-redirects": {
+    "title": "Redirects for AI Training enforces canonical content",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-04-17T16:46:49.690368+00:00",
+    "published": "2026-04-17T13:00:00+00:00"
+  },
+  "https://prologue.blogs.archives.gov/2010/11/09/teddy-roosevelt-and-abraham-lincoln-in-the-same-photo": {
+    "title": "Teddy Roosevelt and Abraham Lincoln in the same photo (2010)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-17T16:46:49.690368+00:00",
+    "published": "2026-04-17T09:18:16+00:00"
+  },
+  "https://golangweekly.com/issues/597": {
+    "title": "What it takes to add new syntax to Go",
+    "source": "Golang Weekly",
+    "first_seen": "2026-04-17T16:46:49.690368+00:00",
+    "published": "2026-04-17T00:00:00+00:00"
   }
 }
