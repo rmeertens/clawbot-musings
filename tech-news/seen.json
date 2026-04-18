@@ -5224,5 +5224,41 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-04-18T02:06:44.751320+00:00",
     "published": "2026-04-17T15:15:24+00:00"
+  },
+  "https://abuseofnotation.github.io/category-theory-illustrated/04_order": {
+    "title": "Category Theory Illustrated – Orders",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-18T09:14:01.422807+00:00",
+    "published": "2026-04-18T06:40:47+00:00"
+  },
+  "https://amiga.lychesis.net": {
+    "title": "Amiga Graphics",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-18T09:14:01.422807+00:00",
+    "published": "2026-04-18T06:20:04+00:00"
+  },
+  "https://runxiyu.org/comp/doubleslash": {
+    "title": "It is incorrect to \"normalize\" // in HTTP URL paths",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-18T09:14:01.422807+00:00",
+    "published": "2026-04-18T05:47:10+00:00"
+  },
+  "https://simonwillison.net/guides/agentic-engineering-patterns/adding-a-new-content-type": {
+    "title": "Adding a new content type to my blog-to-newsletter tool",
+    "source": "Simon Willison",
+    "first_seen": "2026-04-18T09:14:01.422807+00:00",
+    "published": "2026-04-18T03:15:36+00:00"
+  },
+  "https://victorpoughon.github.io/interval-calculator": {
+    "title": "Show HN: I made a calculator that works over disjoint sets of intervals",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-18T09:14:01.422807+00:00",
+    "published": "2026-04-18T01:15:43+00:00"
+  },
+  "https://marcosmagueta.com/blog/casus-belli-engineering": {
+    "title": "Casus Belli Engineering",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-18T09:14:01.422807+00:00",
+    "published": "2026-04-18T01:14:02+00:00"
   }
 }
