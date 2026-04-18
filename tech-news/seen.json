@@ -5188,5 +5188,41 @@
     "source": "Databricks Blog",
     "first_seen": "2026-04-17T23:07:34.407106+00:00",
     "published": "2026-04-17T05:20:11+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.1-New-NTFS-Driver": {
+    "title": "The \"NTFS Resurrection\" Has Occurred For Linux 7.1",
+    "source": "Phoronix",
+    "first_seen": "2026-04-18T02:06:44.751320+00:00",
+    "published": "2026-04-18T00:57:44+00:00"
+  },
+  "https://www.phoronix.com/news/AMD-FP-DSS-Zen-1-Bug": {
+    "title": "AMD FP-DSS Security Bug For Zen 1 CPUs Made Public, Linux Kernel Patched",
+    "source": "Phoronix",
+    "first_seen": "2026-04-18T02:06:44.751320+00:00",
+    "published": "2026-04-18T00:35:23+00:00"
+  },
+  "https://www.phoronix.com/news/Wine-11.7-Released": {
+    "title": "Wine 11.7 Brings VBScript Fixes, DirectSound 7.1 Channel Support",
+    "source": "Phoronix",
+    "first_seen": "2026-04-18T02:06:44.751320+00:00",
+    "published": "2026-04-18T00:24:56+00:00"
+  },
+  "https://arxiv.org/abs/2603.23532": {
+    "title": "Generating Hierarchical JSON Representations of Scientific Sentences Using LLMs",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-18T02:06:44.751320+00:00",
+    "published": "2026-04-18T00:17:23+00:00"
+  },
+  "https://simonwillison.net/2026/Apr/17/pycon-us-2026": {
+    "title": "Join us at PyCon US 2026 in Long Beach - we have new AI and security tracks this year",
+    "source": "Simon Willison",
+    "first_seen": "2026-04-18T02:06:44.751320+00:00",
+    "published": "2026-04-17T23:59:03+00:00"
+  },
+  "https://awnist.com/slop-cop": {
+    "title": "Slop Cop",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-18T02:06:44.751320+00:00",
+    "published": "2026-04-17T15:15:24+00:00"
   }
 }
