@@ -5320,5 +5320,131 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-04-18T15:11:18.955021+00:00",
     "published": "2026-04-18T03:44:54+00:00"
+  },
+  "https://texascooppower.com/the-astonishing-ride-of-the-abernathy-boys": {
+    "title": "Young sons of U.S. marshal ride horseback from Oklahoma to New York (2018)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-18T21:07:48.028788+00:00",
+    "published": "2026-04-18T19:19:50+00:00"
+  },
+  "https://samhenri.gold/blog/20260418-claude-design": {
+    "title": "Thoughts and feelings around Claude Design",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-18T21:07:48.028788+00:00",
+    "published": "2026-04-18T19:19:24+00:00"
+  },
+  "https://www.phoronix.com/news/GhostBSD-26.1-R15.0p2": {
+    "title": "GhostBSD 26.1 Now Based On FreeBSD 15.0, Switches to XLibre X Server",
+    "source": "Phoronix",
+    "first_seen": "2026-04-18T21:07:48.028788+00:00",
+    "published": "2026-04-18T19:15:53+00:00"
+  },
+  "https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons": {
+    "title": "College instructor turns to typewriters to curb AI-written work",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-18T21:07:48.028788+00:00",
+    "published": "2026-04-18T19:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/AMD-2026-New-SMCA-Bank-Types": {
+    "title": "Linux 7.1 Adds New AMD SMCA Bank Types, Presumably For Upcoming EPYC Venice",
+    "source": "Phoronix",
+    "first_seen": "2026-04-18T21:07:48.028788+00:00",
+    "published": "2026-04-18T18:41:23+00:00"
+  },
+  "https://www.phoronix.com/news/WireGuard-For-Windows-1.0": {
+    "title": "WireGuard For Windows Reaches v1.0",
+    "source": "Phoronix",
+    "first_seen": "2026-04-18T21:07:48.028788+00:00",
+    "published": "2026-04-18T17:40:05+00:00"
+  },
+  "https://www.johndcook.com/blog/2026/04/17/fp4": {
+    "title": "4-bit floating point FP4",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-18T21:07:48.028788+00:00",
+    "published": "2026-04-18T17:21:02+00:00"
+  },
+  "https://spectrum.ieee.org/state-of-ai-index-2026": {
+    "title": "Graphs that explain the state of AI in 2026",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-18T21:07:48.028788+00:00",
+    "published": "2026-04-18T17:12:44+00:00"
+  },
+  "https://up.codes/careers?utm_source=HN": {
+    "title": "UpCodes (YC S17) is hiring SDRs to help make construction more productive",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-18T21:07:48.028788+00:00",
+    "published": "2026-04-18T17:01:56+00:00"
+  },
+  "https://github.com/NikolayS/pgque": {
+    "title": "PgQue: Zero-Bloat Postgres Queue",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-18T21:07:48.028788+00:00",
+    "published": "2026-04-18T16:50:46+00:00"
+  },
+  "https://thenewstack.io/ai-agent-harness-pricing-split": {
+    "title": "Anthropic, OpenAI, Google, and Microsoft agree that the harness is the product. They disagree on the price.",
+    "source": "The New Stack",
+    "first_seen": "2026-04-18T21:07:48.028788+00:00",
+    "published": "2026-04-18T16:40:04+00:00"
+  },
+  "https://apps.npr.org/plant-hardiness-garden-map": {
+    "title": "The USDA's gardening zones have shifted. (Interactive app and map) (2024)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-18T21:07:48.028788+00:00",
+    "published": "2026-04-18T16:31:25+00:00"
+  },
+  "https://www.righto.com/2026/04/B-52-star-tracker-angle-computer.html": {
+    "title": "The electromechanical angle computer inside the B-52 bomber's star tracker",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-18T21:07:48.028788+00:00",
+    "published": "2026-04-18T16:26:47+00:00"
+  },
+  "https://tokens.billchambers.me/leaderboard": {
+    "title": "Opus 4.7 to 4.6 Inflation is ~45%",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-18T21:07:48.028788+00:00",
+    "published": "2026-04-18T16:05:43+00:00"
+  },
+  "https://lwn.net/Articles/1068473": {
+    "title": "Seven stable kernels for Saturday",
+    "source": "LWN.net",
+    "first_seen": "2026-04-18T21:07:48.028788+00:00",
+    "published": "2026-04-18T15:48:08+00:00"
+  },
+  "https://blog.bytebytego.com/p/ep211-how-the-jvm-works": {
+    "title": "EP211: How the JVM Works",
+    "source": "ByteByteGo",
+    "first_seen": "2026-04-18T21:07:48.028788+00:00",
+    "published": "2026-04-18T15:30:39+00:00"
+  },
+  "https://github.com/drasimwagan/mdv": {
+    "title": "Show HN: MDV – a Markdown superset for docs, dashboards, and slides with data",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-18T21:07:48.028788+00:00",
+    "published": "2026-04-18T15:24:39+00:00"
+  },
+  "https://www.fuzix.org": {
+    "title": "Fuzix OS",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-18T21:07:48.028788+00:00",
+    "published": "2026-04-18T15:24:18+00:00"
+  },
+  "https://bigthink.com/mind-behavior/the-quiet-disappearance-of-the-free-range-childhood": {
+    "title": "The quiet disappearance of the free-range childhood",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-18T21:07:48.028788+00:00",
+    "published": "2026-04-18T11:43:57+00:00"
+  },
+  "https://ziglang.org/news/core-team-spotlight-alexrp": {
+    "title": "Core Team Member Spotlight: Alex Rønne Petersen",
+    "source": "Zig Lang",
+    "first_seen": "2026-04-18T21:07:48.028788+00:00",
+    "published": "2026-04-18T00:00:00+00:00"
+  },
+  "https://www.rtrvr.ai/blog/ai-subroutines-zero-token-deterministic-automation": {
+    "title": "Show HN: AI Subroutines – Run automation scripts inside your browser tab",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-18T21:07:48.028788+00:00",
+    "published": "2026-04-17T21:03:18+00:00"
   }
 }
