@@ -5716,5 +5716,89 @@
     "source": "Simon Willison",
     "first_seen": "2026-04-19T09:14:43.344368+00:00",
     "published": "2026-04-18T12:25:00+00:00"
+  },
+  "https://daverupert.com/2026/04/more-talk-less-grok": {
+    "title": "When moving fast, talking is the first thing to break",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-19T15:11:45.639281+00:00",
+    "published": "2026-04-19T14:34:38+00:00"
+  },
+  "https://www.therepository.email/matt-mullenweg-overrules-core-committers-to-put-akismet-on-wordpress-7-0s-connectors-screen": {
+    "title": "Matt Mullenweg Overrules Core Committers; Puts Akismet on WP 7's Connector List",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-19T15:11:45.639281+00:00",
+    "published": "2026-04-19T14:24:04+00:00"
+  },
+  "https://vercel.com/kb/bulletin/vercel-april-2026-security-incident": {
+    "title": "Vercel April 2026 security incident",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-19T15:11:45.639281+00:00",
+    "published": "2026-04-19T14:14:38+00:00"
+  },
+  "https://www.theverge.com/tech/913765/adobe-rivals-free-creative-software-app-updates": {
+    "title": "The creative software industry has declared war on Adobe",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-19T15:11:45.639281+00:00",
+    "published": "2026-04-19T14:05:49+00:00"
+  },
+  "https://thenewstack.io/smartbear-swagger-ai-api-management": {
+    "title": "SmartBear’s Swagger update targets the API drift problem AI coding tools created",
+    "source": "The New Stack",
+    "first_seen": "2026-04-19T15:11:45.639281+00:00",
+    "published": "2026-04-19T14:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/AMD-Harvested-GPUs-Linux": {
+    "title": "Valve Developer Further Improves Old AMD GPUs: HD 7870 XT Finally Working On Linux",
+    "source": "Phoronix",
+    "first_seen": "2026-04-19T15:11:45.639281+00:00",
+    "published": "2026-04-19T13:25:50+00:00"
+  },
+  "https://www.lbc.co.uk/article/dubai-police-spied-private-whatsapp-5HjdXwr_2": {
+    "title": "Airline worker arrested after sharing photos of bomb damage in WhatsApp group",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-19T15:11:45.639281+00:00",
+    "published": "2026-04-19T13:13:09+00:00"
+  },
+  "https://teamchong.github.io/turboquant-wasm/draw.html": {
+    "title": "Show HN: Prompt-to-Excalidraw demo with Gemma 4 E2B in the browser (3.1GB)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-19T15:11:45.639281+00:00",
+    "published": "2026-04-19T11:17:27+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.1-Sound": {
+    "title": "Linux 7.1 Sound Code Adds Bus Keepers: Aiming For Better Apple Silicon Support",
+    "source": "Phoronix",
+    "first_seen": "2026-04-19T15:11:45.639281+00:00",
+    "published": "2026-04-19T11:07:21+00:00"
+  },
+  "https://www.phoronix.com/news/CachyOS-Super-Charged-Linux-7.0": {
+    "title": "CachyOS Rolls Out A Super-Charged Linux 7.0 Kernel",
+    "source": "Phoronix",
+    "first_seen": "2026-04-19T15:11:45.639281+00:00",
+    "published": "2026-04-19T10:44:05+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.1-Crypto-QAT-Zstd": {
+    "title": "Intel QAT Zstd, QAT Gen6 Improvements Merged For Linux 7.1",
+    "source": "Phoronix",
+    "first_seen": "2026-04-19T15:11:45.639281+00:00",
+    "published": "2026-04-19T10:30:00+00:00"
+  },
+  "https://news.ycombinator.com/item?id=47822940": {
+    "title": "Ask HN: How did you land your first projects as a solo engineer/consultant?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-19T15:11:45.639281+00:00",
+    "published": "2026-04-19T09:17:12+00:00"
+  },
+  "https://en.algorithmica.org/hpc/algorithms/gcd": {
+    "title": "Binary GCD",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-19T15:11:45.639281+00:00",
+    "published": "2026-04-19T08:33:38+00:00"
+  },
+  "https://madhadron.com/programming/seven_ur_languages.html": {
+    "title": "The seven programming ur-languages (2022)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-19T15:11:45.639281+00:00",
+    "published": "2026-04-19T07:38:08+00:00"
   }
 }
