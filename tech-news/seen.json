@@ -5446,5 +5446,203 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-04-18T21:07:48.028788+00:00",
     "published": "2026-04-17T21:03:18+00:00"
+  },
+  "https://www.hashicorp.com/blog/agentic-ai-changes-the-shape-of-trust": {
+    "title": "Agentic AI changes the shape of trust",
+    "source": "HashiCorp Blog",
+    "first_seen": "2026-04-19T08:17:25.658058+00:00",
+    "published": "2026-04-15T15:45:00+00:00"
+  },
+  "https://www.hashicorp.com/blog/vault-enterprise-20-modernizes-identity-security-at-scale": {
+    "title": "Vault Enterprise 2.0 modernizes identity security at scale",
+    "source": "HashiCorp Blog",
+    "first_seen": "2026-04-19T08:17:25.658058+00:00",
+    "published": "2026-04-14T05:09:00+00:00"
+  },
+  "https://golangweekly.com/issues/596": {
+    "title": "Calling Rust libraries from Go without Cgo",
+    "source": "Golang Weekly",
+    "first_seen": "2026-04-19T08:17:25.658058+00:00",
+    "published": "2026-04-10T00:00:00+00:00"
+  },
+  "https://blog.sentry.io/sample-ai-traces-at-100-percent-without-sampling-everything": {
+    "title": "Sample AI traces at 100% without sampling everything",
+    "source": "Sentry Blog",
+    "first_seen": "2026-04-19T08:17:25.658058+00:00",
+    "published": "2026-04-09T00:00:00+00:00"
+  },
+  "https://blog.sentry.io/ai-agent-observability-developers-guide-to-agent-monitoring": {
+    "title": "AI agent observability: The developer's guide to agent monitoring",
+    "source": "Sentry Blog",
+    "first_seen": "2026-04-19T08:17:25.658058+00:00",
+    "published": "2026-04-07T00:00:00+00:00"
+  },
+  "https://blog.sentry.io/send-your-existing-opentelemetry-traces": {
+    "title": "Send your existing OpenTelemetry traces to Sentry",
+    "source": "Sentry Blog",
+    "first_seen": "2026-04-19T08:17:25.658058+00:00",
+    "published": "2026-04-02T00:00:00+00:00"
+  },
+  "https://blog.sentry.io/logging-in-next-js-is-hard-but-it-doesnt-have-to-be": {
+    "title": "Logging in Next.js is hard (But it doesn't have to be)",
+    "source": "Sentry Blog",
+    "first_seen": "2026-04-19T08:17:25.658058+00:00",
+    "published": "2026-03-30T00:00:00+00:00"
+  },
+  "https://golangweekly.com/issues/595": {
+    "title": "The Go gopher's many distant cousins",
+    "source": "Golang Weekly",
+    "first_seen": "2026-04-19T08:17:25.658058+00:00",
+    "published": "2026-03-27T00:00:00+00:00"
+  },
+  "https://blog.sentry.io/next-js-observability-gaps-how-to-close-them": {
+    "title": "Next.js observability gaps and how to close them",
+    "source": "Sentry Blog",
+    "first_seen": "2026-04-19T08:17:25.658058+00:00",
+    "published": "2026-03-24T00:00:00+00:00"
+  },
+  "https://golangweekly.com/issues/594": {
+    "title": "templUI brings shadcn-style components to Go and templ",
+    "source": "Golang Weekly",
+    "first_seen": "2026-04-19T08:17:25.658058+00:00",
+    "published": "2026-03-20T00:00:00+00:00"
+  },
+  "https://blog.sentry.io/seer-fixes-seer-debugging-agent": {
+    "title": "Seer fixes Seer: How Seer pointed us toward a bug and helped fix an outage",
+    "source": "Sentry Blog",
+    "first_seen": "2026-04-19T08:17:25.658058+00:00",
+    "published": "2026-03-20T00:00:00+00:00"
+  },
+  "https://blog.sentry.io/overdue-for-a-sentry-sdk-upgrade": {
+    "title": "You're probably overdue for a Sentry SDK upgrade",
+    "source": "Sentry Blog",
+    "first_seen": "2026-04-19T08:17:25.658058+00:00",
+    "published": "2026-03-19T00:00:00+00:00"
+  },
+  "https://blog.sentry.io/fair-source-software-in-the-ai-age": {
+    "title": "Fair Source Software in the AI age",
+    "source": "Sentry Blog",
+    "first_seen": "2026-04-19T08:17:25.658058+00:00",
+    "published": "2026-03-17T00:00:00+00:00"
+  },
+  "https://blog.sentry.io/javascript-logging-library-definitive-guide": {
+    "title": "Choosing a JavaScript logging library: The 2026 definitive guide",
+    "source": "Sentry Blog",
+    "first_seen": "2026-04-19T08:17:25.658058+00:00",
+    "published": "2026-03-16T00:00:00+00:00"
+  },
+  "https://blog.sentry.io/structured-logging-opentelemetry": {
+    "title": "Routing OpenTelemetry logs to Sentry using OTLP",
+    "source": "Sentry Blog",
+    "first_seen": "2026-04-19T08:17:25.658058+00:00",
+    "published": "2026-03-05T00:00:00+00:00"
+  },
+  "https://blog.sentry.io/react-native-sdk-8-is-here": {
+    "title": "React Native SDK 8.0.0 is here",
+    "source": "Sentry Blog",
+    "first_seen": "2026-04-19T08:17:25.658058+00:00",
+    "published": "2026-02-19T00:00:00+00:00"
+  },
+  "https://blog.sentry.io/setting-up-next-js-source-maps-sentry": {
+    "title": "From random chunks to real code — wiring up Next.js source maps in Sentry",
+    "source": "Sentry Blog",
+    "first_seen": "2026-04-19T08:17:25.658058+00:00",
+    "published": "2026-02-17T00:00:00+00:00"
+  },
+  "https://blog.sentry.io/ai-driven-caching-strategies-instrumentation": {
+    "title": "AI-driven caching strategies and instrumentation",
+    "source": "Sentry Blog",
+    "first_seen": "2026-04-19T08:17:25.658058+00:00",
+    "published": "2026-02-13T00:00:00+00:00"
+  },
+  "https://blog.sentry.io/sentry-acquires-xcodebuildmcp": {
+    "title": "Sentry acquires XcodeBuildMCP",
+    "source": "Sentry Blog",
+    "first_seen": "2026-04-19T08:17:25.658058+00:00",
+    "published": "2026-02-11T00:00:00+00:00"
+  },
+  "https://blog.sentry.io/size-analysis-generally-available": {
+    "title": "Size Analysis is generally available in Sentry",
+    "source": "Sentry Blog",
+    "first_seen": "2026-04-19T08:17:25.658058+00:00",
+    "published": "2026-02-10T00:00:00+00:00"
+  },
+  "https://blog.sentry.io/sampling-strategy-sentry": {
+    "title": "Watching everything is watching nothing: Sampling strategy for Sentry",
+    "source": "Sentry Blog",
+    "first_seen": "2026-04-19T08:17:25.658058+00:00",
+    "published": "2026-02-02T00:00:00+00:00"
+  },
+  "https://blog.sentry.io/turbopack-support-next-js-sdk": {
+    "title": "Less code, faster builds, same telemetry: Turbopack support for the Next.js SDK",
+    "source": "Sentry Blog",
+    "first_seen": "2026-04-19T08:17:25.658058+00:00",
+    "published": "2026-01-29T00:00:00+00:00"
+  },
+  "https://blog.sentry.io/log-drains-now-available": {
+    "title": "Log Drains now available: Bringing your platform logs directly into Sentry",
+    "source": "Sentry Blog",
+    "first_seen": "2026-04-19T08:17:25.658058+00:00",
+    "published": "2026-01-28T08:00:00+00:00"
+  },
+  "https://blog.sentry.io/seer-debug-with-ai-at-every-stage-of-development": {
+    "title": "Seer: debug with AI at every stage of development",
+    "source": "Sentry Blog",
+    "first_seen": "2026-04-19T08:17:25.658058+00:00",
+    "published": "2026-01-27T00:00:00+00:00"
+  },
+  "https://blog.sentry.io/monitoring-microservices-distributed-systems-with-sentry": {
+    "title": "Monitoring microservices and distributed systems with Sentry",
+    "source": "Sentry Blog",
+    "first_seen": "2026-04-19T08:17:25.658058+00:00",
+    "published": "2026-01-22T01:00:00+00:00"
+  },
+  "https://blog.sentry.io/green-dashboards-red-flags": {
+    "title": "Green dashboards, red flags",
+    "source": "Sentry Blog",
+    "first_seen": "2026-04-19T08:17:25.658058+00:00",
+    "published": "2026-01-21T00:00:00+00:00"
+  },
+  "https://blog.sentry.io/paginating-large-datasets-in-production-why-offset-fails-and-cursors-win": {
+    "title": "Paginating large datasets in production: Why OFFSET fails and cursors win",
+    "source": "Sentry Blog",
+    "first_seen": "2026-04-19T08:17:25.658058+00:00",
+    "published": "2026-01-15T00:00:00+00:00"
+  },
+  "https://blog.sentry.io/logging-react-native-with-sentry": {
+    "title": "Logging in React Native with Sentry",
+    "source": "Sentry Blog",
+    "first_seen": "2026-04-19T08:17:25.658058+00:00",
+    "published": "2026-01-14T00:00:00+00:00"
+  },
+  "https://blog.sentry.io/not-everything-that-breaks-is-an-error-a-logs-and-next-js-story": {
+    "title": "Not everything that breaks is an error: a Logs and Next.js story",
+    "source": "Sentry Blog",
+    "first_seen": "2026-04-19T08:17:25.658058+00:00",
+    "published": "2026-01-13T00:00:00+00:00"
+  },
+  "https://blog.sentry.io/meet-sentrys-2025-fall-interns": {
+    "title": "Meet Sentry’s 2025 Fall Interns",
+    "source": "Sentry Blog",
+    "first_seen": "2026-04-19T08:17:25.658058+00:00",
+    "published": "2026-01-12T00:00:00+00:00"
+  },
+  "https://blog.sentry.io/introducing-gaming-console-support-logs-user-feedback-unity": {
+    "title": "Unity SDK 4.0.0: Console support, logs, user feedback and more",
+    "source": "Sentry Blog",
+    "first_seen": "2026-04-19T08:17:25.658058+00:00",
+    "published": "2026-01-08T00:00:00+00:00"
+  },
+  "https://blog.sentry.io/trace-connected-structured-logging-with-logtape-and-sentry": {
+    "title": "Trace-connected structured logging with LogTape and Sentry",
+    "source": "Sentry Blog",
+    "first_seen": "2026-04-19T08:17:25.658058+00:00",
+    "published": "2026-01-07T00:00:00+00:00"
+  },
+  "https://blog.sentry.io/another-year-another-750-000-to-open-source-maintainers": {
+    "title": "Another year, another $750,000 to Open Source maintainers",
+    "source": "Sentry Blog",
+    "first_seen": "2026-04-19T08:17:25.658058+00:00",
+    "published": "2026-01-06T00:00:00+00:00"
   }
 }
