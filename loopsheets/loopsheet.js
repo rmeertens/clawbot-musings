@@ -8,9 +8,19 @@
 //     ...
 //   }
 //   song = [
-//     { tag, title, meta, bars: [["red", "blue"], ...], lyrics: [{ span, text, silent? }, ...] },
+//     {
+//       tag, title, meta,
+//       bars: [
+//         { loops: ["red","blue"], text: "lyric for this bar", silent?: false, colSpan?: 1 },
+//         ...
+//       ],
+//     },
 //     ...
 //   ]
+//
+// Each bar holds its own slice of text and lists the loops active during that bar.
+// A bar with colSpan: N occupies N grid cells AND counts as N bars for playback timing —
+// handy for stage directions ("record 4 bars of percussion") or long-held vocal moments.
 
 const LOOP_COLOR_VAR = {
   red:    "var(--loop-red)",
@@ -73,49 +83,54 @@ function renderSong(song, mountEl) {
       <p class="meta">${escapeHtml(section.meta)}</p>
     `;
 
-    let barCursor = 0;
-    section.lyrics.forEach((line) => {
-      const lineEl = document.createElement("div");
-      lineEl.className = "lyric-line";
-      lineEl.style.setProperty("--bars", line.span);
+    const barsEl = document.createElement("div");
+    barsEl.className = "bars";
 
-      const barsEl = document.createElement("div");
-      barsEl.className = "bars";
+    let barCursor = 1;
+    section.bars.forEach((bar) => {
+      const span = Math.max(1, bar.colSpan || 1);
+      const fromBar = barCursor;
+      const toBar = barCursor + span - 1;
+      const numLabel = span > 1 ? `${fromBar}–${toBar}` : `${fromBar}`;
 
-      for (let b = 0; b < line.span; b++) {
-        const bar = section.bars[barCursor] || [];
-        const barEl = document.createElement("div");
-        barEl.className = "bar";
-        barEl.dataset.section = sIdx;
-        barEl.dataset.bar = barCursor + 1;
-        barEl.innerHTML = `
-          <span class="bar-num">bar ${barCursor + 1}</span>
-          <div class="dots">
-            ${bar.map((id) => `<span class="dot" style="--loop-color: ${LOOP_COLOR_VAR[id]}" title="${escapeHtml(LOOP_LABEL[id])}"></span>`).join("")}
-          </div>
-        `;
-        barsEl.appendChild(barEl);
-        allBarEls.push({ el: barEl, sectionTag: section.tag, barNum: barCursor + 1 });
-        barCursor++;
-      }
+      const stripes = (bar.loops || []).map((id) =>
+        `<span class="stripe" style="--loop-color: ${LOOP_COLOR_VAR[id]}" title="${escapeHtml(LOOP_LABEL[id] || "")} — ${escapeHtml((loopsLookup && loopsLookup[id] && loopsLookup[id].name) || "")}"></span>`
+      ).join("");
 
-      const text = document.createElement("p");
-      if (line.silent) {
-        text.innerHTML = `<span class="silent">${escapeHtml(line.text)}</span>`;
-      } else {
-        text.textContent = line.text;
-      }
+      const text = bar.text || "";
+      const textHtml = bar.silent
+        ? `<span class="silent">${escapeHtml(text)}</span>`
+        : escapeHtml(text);
 
-      lineEl.appendChild(barsEl);
-      lineEl.appendChild(text);
-      sec.appendChild(lineEl);
+      const barEl = document.createElement("div");
+      barEl.className = "bar" + (text.trim() === "" ? " empty" : "");
+      barEl.dataset.section = sIdx;
+      barEl.dataset.bar = fromBar;
+      if (span > 1) barEl.style.gridColumn = `span ${span}`;
+      barEl.innerHTML = `
+        <span class="bar-num">${numLabel}</span>
+        <div class="stripes">${stripes}</div>
+        <p class="text">${textHtml}</p>
+      `;
+
+      barsEl.appendChild(barEl);
+      allBarEls.push({
+        el: barEl,
+        sectionTag: section.tag,
+        fromBar, toBar, span,
+      });
+      barCursor += span;
     });
 
+    sec.appendChild(barsEl);
     mountEl.appendChild(sec);
   });
 
   return allBarEls;
 }
+
+// Shared state used by renderSong for stripe tooltips
+let loopsLookup = null;
 
 function setupPlayer(allBarEls, defaultBpm) {
   const playBtn = document.getElementById("playBtn");
@@ -127,28 +142,40 @@ function setupPlayer(allBarEls, defaultBpm) {
   bpm.value = defaultBpm;
   bpmLabel.textContent = `${defaultBpm} BPM`;
 
+  const totalBars = allBarEls.reduce((acc, b) => acc + b.span, 0);
   const initLabel = allBarEls.length
-    ? `${allBarEls[0].sectionTag} · bar ${allBarEls[0].barNum}`
+    ? `${allBarEls[0].sectionTag} · bar ${allBarEls[0].fromBar}`
     : "—";
   nowPlaying.textContent = initLabel;
 
   let timer = null;
-  let idx = 0;
+  let barIdx = 0; // position in bar-units (not array-units) across whole song
 
-  function highlight(i) {
-    allBarEls.forEach((b, j) => b.el.classList.toggle("active", i === j));
-    if (allBarEls[i]) {
-      const b = allBarEls[i];
-      nowPlaying.textContent = `${b.sectionTag} · bar ${b.barNum}`;
-      b.el.scrollIntoView({ block: "center", behavior: "smooth" });
+  function findBarEl(barIndex) {
+    let cum = 0;
+    for (const b of allBarEls) {
+      if (barIndex >= cum && barIndex < cum + b.span) return { b, relBar: barIndex - cum };
+      cum += b.span;
+    }
+    return null;
+  }
+
+  function highlight(barIndex) {
+    allBarEls.forEach((b) => b.el.classList.remove("active"));
+    const hit = findBarEl(barIndex);
+    if (hit) {
+      hit.b.el.classList.add("active");
+      const n = hit.b.fromBar + hit.relBar;
+      nowPlaying.textContent = `${hit.b.sectionTag} · bar ${n}`;
+      hit.b.el.scrollIntoView({ block: "center", behavior: "smooth" });
     }
   }
 
   function barMs() { return (60 / Number(bpm.value)) * 4 * 1000; }
 
   function tick() {
-    highlight(idx);
-    idx = (idx + 1) % allBarEls.length;
+    highlight(barIdx);
+    barIdx = (barIdx + 1) % totalBars;
     timer = setTimeout(tick, barMs());
   }
 
@@ -166,7 +193,7 @@ function setupPlayer(allBarEls, defaultBpm) {
   stopBtn.addEventListener("click", () => {
     clearTimeout(timer);
     timer = null;
-    idx = 0;
+    barIdx = 0;
     playBtn.textContent = "▶ Play";
     allBarEls.forEach((b) => b.el.classList.remove("active"));
     nowPlaying.textContent = initLabel;
@@ -177,12 +204,25 @@ function setupPlayer(allBarEls, defaultBpm) {
   });
 }
 
-// Convenience helper: repeat a layer set across N bars.
-function rep(n, layers) {
-  return Array.from({ length: n }, () => [...layers]);
+// Convenience helpers for song data:
+
+// One bar. `text` defaults to "" for instrumental/silent bars.
+function b(loops, text = "", opts = {}) {
+  return { loops: [...loops], text, ...opts };
+}
+
+// N identical bars (same loops, same text — often empty for pure build sections).
+function rep(n, loops, text = "") {
+  return Array.from({ length: n }, () => ({ loops: [...loops], text }));
+}
+
+// One bar that visually spans several (for multi-bar stage directions).
+function span(n, loops, text, opts = {}) {
+  return { loops: [...loops], text, colSpan: n, ...opts };
 }
 
 function renderLoopsheet({ loops, song, defaultBpm }) {
+  loopsLookup = loops;
   renderLoopLibrary(loops, document.getElementById("loopLibrary"));
   renderLegend(loops, document.getElementById("legend"));
   const allBarEls = renderSong(song, document.getElementById("songRoot"));

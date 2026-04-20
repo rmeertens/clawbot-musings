@@ -29,7 +29,7 @@
         <h2>How to read this loopsheet</h2>
         <ol>
           <li><b>Learn the loops first.</b> Each card below is a short repeating bar with its own colour. Practise them alone until the timing feels comfortable.</li>
-          <li><b>Read the song top-to-bottom.</b> Each line of lyrics has a row of small bars above it. The coloured squares in each bar are the loops that should be running at that moment.</li>
+          <li><b>Read the song bar by bar.</b> Each box is one bar of music. The coloured stripes along the top show which loops should be running; the line underneath is the lyric sung over that bar.</li>
           <li><b>Stack and drop on the down-beat.</b> When a new colour appears, punch that loop in. When a colour disappears, mute it.</li>
           <li><b>Hit play below to follow along</b> — the active bar lights up so you don't lose your place.</li>
         </ol>
@@ -60,9 +60,10 @@
 
       <h2 class="section-title">The song</h2>
       <p class="section-lead">
-        Lyrics are kept as structural placeholders so this stays a song-<i>map</i> rather than a
-        lyric sheet. The melodic vocal hook in the chorus is the thing the whole song hangs on —
-        that's marked but not transcribed.
+        Each box is one bar. Coloured stripes along the top show which loops are running; the
+        line underneath is the lyric sung over that bar. Lyrics are kept as structural
+        placeholders — the melodic vocal hook in the chorus is the thing the whole song hangs on,
+        marked but not transcribed.
       </p>
       <div class="legend" id="legend"></div>
       <div id="songRoot"></div>
@@ -123,105 +124,115 @@
         title: "Stack it before you sing",
         meta: "8 bars · kick \u2192 snap \u2192 hook \u2192 bass",
         bars: [
-          ...rep(2, ["red"]),
-          ...rep(2, ["red", "blue"]),
-          ...rep(2, ["red", "blue", "green"]),
-          ...rep(2, ["red", "blue", "green", "yellow"]),
-        ],
-        lyrics: [
-          { span: 2, text: "(record the beatbox kick — 2 bars, then loop)", silent: true },
-          { span: 2, text: "(add the snap on 2 and 4)", silent: true },
-          { span: 2, text: "(sing the melodic hook over the chord cycle)", silent: true },
-          { span: 2, text: "(record the bass pulse on the root of each chord)", silent: true },
+          span(2, ["red"], "(beatbox the kick — 2 bars, then loop)", { silent: true }),
+          span(2, ["red", "blue"], "(add the snap on 2 and 4)", { silent: true }),
+          span(2, ["red", "blue", "green"], "(sing the melodic hook over the chord cycle)", { silent: true }),
+          span(2, ["red", "blue", "green", "yellow"], "(record the bass pulse on the root of each chord)", { silent: true }),
         ],
       },
       {
         tag: "Verse 1",
         title: "Talky, conversational",
         meta: "8 bars · loop runs underneath, vocal live and rhythmic",
-        bars: rep(8, ["red", "blue", "green", "yellow"]),
-        lyrics: [
-          { span: 2, text: "[verse 1, line 1 — quick syllables on the off-beats]" },
-          { span: 2, text: "[verse 1, line 2]" },
-          { span: 2, text: "[verse 1, line 3]" },
-          { span: 2, text: "[verse 1, line 4]" },
+        bars: [
+          b(["red", "blue", "green", "yellow"], "[verse 1, line 1 —"),
+          b(["red", "blue", "green", "yellow"], "quick off-beats]"),
+          b(["red", "blue", "green", "yellow"], "[verse 1, line 2]"),
+          b(["red", "blue", "green", "yellow"], "[continues…]"),
+          b(["red", "blue", "green", "yellow"], "[verse 1, line 3]"),
+          b(["red", "blue", "green", "yellow"], "[continues…]"),
+          b(["red", "blue", "green", "yellow"], "[verse 1, line 4]"),
+          b(["red", "blue", "green", "yellow"], "[into pre-chorus…]"),
         ],
       },
       {
         tag: "Pre-chorus",
         title: "Lift the dynamics",
         meta: "4 bars · drop the bass to leave room — vocal climbs",
-        bars: rep(4, ["red", "blue", "green"]),
-        lyrics: [
-          { span: 2, text: "[pre-chorus, line 1 — vocal rises]" },
-          { span: 2, text: "[pre-chorus, line 2 — sets up the drop]" },
+        bars: [
+          b(["red", "blue", "green"], "[pre-chorus line 1 —"),
+          b(["red", "blue", "green"], "vocal rises]"),
+          b(["red", "blue", "green"], "[pre-chorus line 2 —"),
+          b(["red", "blue", "green"], "sets up the drop]"),
         ],
       },
       {
         tag: "Chorus 1",
         title: "Everything in",
         meta: "8 bars · kick + snap + hook + bass + muted strums",
-        bars: rep(8, ["red", "blue", "green", "yellow", "purple"]),
-        lyrics: [
-          { span: 2, text: "[chorus, line 1 — title hook]" },
-          { span: 2, text: "[chorus, line 2]" },
-          { span: 2, text: "(melodic hook returns — sing over the loop of itself)", silent: true },
-          { span: 2, text: "[chorus, line 4 — landing on the B]" },
+        bars: [
+          b(["red", "blue", "green", "yellow", "purple"], "[chorus line 1 —"),
+          b(["red", "blue", "green", "yellow", "purple"], "the title hook]"),
+          b(["red", "blue", "green", "yellow", "purple"], "[chorus line 2]"),
+          b(["red", "blue", "green", "yellow", "purple"], "[continues…]"),
+          b(["red", "blue", "green", "yellow", "purple"], "(melodic hook —", { silent: true }),
+          b(["red", "blue", "green", "yellow", "purple"], "sing over itself)", { silent: true }),
+          b(["red", "blue", "green", "yellow", "purple"], "[chorus line 4]"),
+          b(["red", "blue", "green", "yellow", "purple"], "[land on the B]"),
         ],
       },
       {
         tag: "Verse 2",
         title: "Same loop, new lyric",
         meta: "8 bars · keep all loops running",
-        bars: rep(8, ["red", "blue", "green", "yellow", "purple"]),
-        lyrics: [
-          { span: 2, text: "[verse 2, line 1]" },
-          { span: 2, text: "[verse 2, line 2]" },
-          { span: 2, text: "[verse 2, line 3]" },
-          { span: 2, text: "[verse 2, line 4]" },
+        bars: [
+          b(["red", "blue", "green", "yellow", "purple"], "[verse 2, line 1]"),
+          b(["red", "blue", "green", "yellow", "purple"], "[continues…]"),
+          b(["red", "blue", "green", "yellow", "purple"], "[verse 2, line 2]"),
+          b(["red", "blue", "green", "yellow", "purple"], "[continues…]"),
+          b(["red", "blue", "green", "yellow", "purple"], "[verse 2, line 3]"),
+          b(["red", "blue", "green", "yellow", "purple"], "[continues…]"),
+          b(["red", "blue", "green", "yellow", "purple"], "[verse 2, line 4]"),
+          b(["red", "blue", "green", "yellow", "purple"], "[continues…]"),
         ],
       },
       {
         tag: "Pre-chorus",
         title: "Lift again",
         meta: "4 bars · drop the strums for the lift",
-        bars: rep(4, ["red", "blue", "green", "yellow"]),
-        lyrics: [
-          { span: 2, text: "[pre-chorus, line 1]" },
-          { span: 2, text: "[pre-chorus, line 2]" },
+        bars: [
+          b(["red", "blue", "green", "yellow"], "[pre-chorus line 1]"),
+          b(["red", "blue", "green", "yellow"], "[continues…]"),
+          b(["red", "blue", "green", "yellow"], "[pre-chorus line 2]"),
+          b(["red", "blue", "green", "yellow"], "[continues…]"),
         ],
       },
       {
         tag: "Chorus 2",
         title: "Add the claps",
         meta: "8 bars · all six loops stacked",
-        bars: rep(8, ["red", "blue", "green", "yellow", "purple", "orange"]),
-        lyrics: [
-          { span: 2, text: "[chorus, line 1]" },
-          { span: 2, text: "[chorus, line 2]" },
-          { span: 2, text: "(melodic hook)", silent: true },
-          { span: 2, text: "[chorus, line 4]" },
+        bars: [
+          b(["red", "blue", "green", "yellow", "purple", "orange"], "[chorus line 1]"),
+          b(["red", "blue", "green", "yellow", "purple", "orange"], "[continues…]"),
+          b(["red", "blue", "green", "yellow", "purple", "orange"], "[chorus line 2]"),
+          b(["red", "blue", "green", "yellow", "purple", "orange"], "[continues…]"),
+          b(["red", "blue", "green", "yellow", "purple", "orange"], "(melodic hook)", { silent: true }),
+          b(["red", "blue", "green", "yellow", "purple", "orange"], "(hook continues)", { silent: true }),
+          b(["red", "blue", "green", "yellow", "purple", "orange"], "[chorus line 4]"),
+          b(["red", "blue", "green", "yellow", "purple", "orange"], "[continues…]"),
         ],
       },
       {
         tag: "Bridge / drop",
         title: "Strip back to the hook",
         meta: "4 bars · mute kick, snap, bass, strums — leave just the hook & claps",
-        bars: rep(4, ["green", "orange"]),
-        lyrics: [
-          { span: 4, text: "(audience-clap moment — let them sing the melodic hook back)", silent: true },
+        bars: [
+          span(4, ["green", "orange"], "(audience-clap moment — let them sing the melodic hook back)", { silent: true }),
         ],
       },
       {
         tag: "Final chorus",
         title: "Punch everything back in",
         meta: "8 bars · all loops on the down-beat",
-        bars: rep(8, ["red", "blue", "green", "yellow", "purple", "orange"]),
-        lyrics: [
-          { span: 2, text: "[chorus, line 1 — full force]" },
-          { span: 2, text: "[chorus, line 2]" },
-          { span: 2, text: "(melodic hook, full room)", silent: true },
-          { span: 2, text: "[chorus, line 4]" },
+        bars: [
+          b(["red", "blue", "green", "yellow", "purple", "orange"], "[chorus line 1 —"),
+          b(["red", "blue", "green", "yellow", "purple", "orange"], "full force]"),
+          b(["red", "blue", "green", "yellow", "purple", "orange"], "[chorus line 2]"),
+          b(["red", "blue", "green", "yellow", "purple", "orange"], "[continues…]"),
+          b(["red", "blue", "green", "yellow", "purple", "orange"], "(melodic hook —", { silent: true }),
+          b(["red", "blue", "green", "yellow", "purple", "orange"], "full room)", { silent: true }),
+          b(["red", "blue", "green", "yellow", "purple", "orange"], "[chorus line 4]"),
+          b(["red", "blue", "green", "yellow", "purple", "orange"], "[continues…]"),
         ],
       },
       {
@@ -229,14 +240,10 @@
         title: "Peel the layers off",
         meta: "4 bars · mute one loop per bar — end on the hook",
         bars: [
-          ["red", "blue", "green", "yellow", "purple"],
-          ["red", "blue", "green", "yellow"],
-          ["red", "blue", "green"],
-          ["green"],
-        ],
-        lyrics: [
-          { span: 2, text: "(melodic hook fading)", silent: true },
-          { span: 2, text: "(stop the loop pedal)", silent: true },
+          b(["red", "blue", "green", "yellow", "purple"], "(drop the claps)", { silent: true }),
+          b(["red", "blue", "green", "yellow"], "(drop the strums)", { silent: true }),
+          b(["red", "blue", "green"], "(drop the bass)", { silent: true }),
+          b(["green"], "(just the hook — stop.)", { silent: true }),
         ],
       },
     ];
