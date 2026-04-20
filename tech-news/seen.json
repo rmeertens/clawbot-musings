@@ -5872,5 +5872,137 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-04-19T21:08:52.451644+00:00",
     "published": "2026-04-19T14:14:38+00:00"
+  },
+  "https://www.databricks.com/blog/mercedes-benz-builds-cross-cloud-data-mesh-delta-sharing-and-intelligent-replication-cutting": {
+    "title": "Mercedes-Benz Builds a Cross-Cloud Data Mesh with Delta Sharing and Intelligent Replication, Cutting Costs by 66%",
+    "source": "Databricks Blog",
+    "first_seen": "2026-04-20T09:32:35.321058+00:00",
+    "published": "2026-04-20T10:18:20+00:00"
+  },
+  "https://www.politico.eu/article/eu-brussels-launched-age-checking-app-hackers-say-took-them-2-minutes-break-it": {
+    "title": "Brussels launched an age checking app. Hackers took 2 minutes to break it",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-20T09:32:35.321058+00:00",
+    "published": "2026-04-20T08:49:22+00:00"
+  },
+  "https://awesomeagents.ai/news/github-fake-stars-investigation": {
+    "title": "GitHub's Fake Star Economy",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-20T09:32:35.321058+00:00",
+    "published": "2026-04-20T08:26:52+00:00"
+  },
+  "https://www.flyingpenguin.com/build-an-openclaw-free-secure-always-on-local-ai-agent": {
+    "title": "OpenClaw isn't fooling me. I remember MS-DOS",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-20T09:32:35.321058+00:00",
+    "published": "2026-04-20T07:49:48+00:00"
+  },
+  "https://www.databricks.com/blog/what-is-a-transactional-database": {
+    "title": "What Is a Transactional Database?",
+    "source": "Databricks Blog",
+    "first_seen": "2026-04-20T09:32:35.321058+00:00",
+    "published": "2026-04-20T07:30:46+00:00"
+  },
+  "https://electrek.co/2026/04/19/iea-solar-overtakes-all-energy-sources-in-a-major-global-first": {
+    "title": "IEA: Solar overtakes all energy sources in a major global first",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-20T09:32:35.321058+00:00",
+    "published": "2026-04-20T07:19:27+00:00"
+  },
+  "https://www.sciencealert.com/how-long-poop-stays-in-your-body-may-impact-your-health-study-finds": {
+    "title": "How Long Poop Stays in Your Body May Impact Your Health, Study Finds",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-20T09:32:35.321058+00:00",
+    "published": "2026-04-20T07:07:30+00:00"
+  },
+  "https://stripe.dev/blog/payment-api-design": {
+    "title": "Stripe's Payment APIs: the first 10 years (2020)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-20T09:32:35.321058+00:00",
+    "published": "2026-04-20T05:05:43+00:00"
+  },
+  "https://github.com/esutcu/planb-lpm": {
+    "title": "A cache-friendly IPv6 LPM with AVX-512 (linearized B+-tree, real BGP benchmarks)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-20T09:32:35.321058+00:00",
+    "published": "2026-04-20T03:24:21+00:00"
+  },
+  "https://simonwillison.net/2026/Apr/20/datasette-sql": {
+    "title": "SQL functions in Google Sheets to fetch data from Datasette",
+    "source": "Simon Willison",
+    "first_seen": "2026-04-20T09:32:35.321058+00:00",
+    "published": "2026-04-20T02:33:58+00:00"
+  },
+  "https://simonwillison.net/2026/Apr/20/claude-token-counts": {
+    "title": "Claude Token Counter, now with model comparisons",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-20T09:32:35.321058+00:00",
+    "published": "2026-04-20T00:56:40+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.1-HID": {
+    "title": "New Lenovo Legion Go Drivers & More Sony HID Device Support In Linux 7.1",
+    "source": "Phoronix",
+    "first_seen": "2026-04-20T09:32:35.321058+00:00",
+    "published": "2026-04-20T00:42:18+00:00"
+  },
+  "https://github.com/shivampkumar/trellis-mac": {
+    "title": "Show HN: Run TRELLIS.2 Image-to-3D generation natively on Apple Silicon",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-20T09:32:35.321058+00:00",
+    "published": "2026-04-20T00:07:16+00:00"
+  },
+  "https://www.swiss-ai.org": {
+    "title": "Swiss AI Initiative (2023)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-20T09:32:35.321058+00:00",
+    "published": "2026-04-19T22:58:35+00:00"
+  },
+  "https://mxmap.ch": {
+    "title": "2,100 Swiss municipalities showing which provider handles their official email",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-20T09:32:35.321058+00:00",
+    "published": "2026-04-19T22:55:47+00:00"
+  },
+  "https://www.phoronix.com/news/GIMP-3.2.4-Released": {
+    "title": "GIMP 3.2.4 Released With A Fix For Its XCF Code That Has Existed Since 1999",
+    "source": "Phoronix",
+    "first_seen": "2026-04-20T09:32:35.321058+00:00",
+    "published": "2026-04-19T22:45:44+00:00"
+  },
+  "https://simonwillison.net/2026/Apr/19/headless-everything": {
+    "title": "Headless everything for personal AI",
+    "source": "Simon Willison",
+    "first_seen": "2026-04-20T09:32:35.321058+00:00",
+    "published": "2026-04-19T21:46:38+00:00"
+  },
+  "https://ashley.rolfmore.com/stop-trying-to-engineer-your-way-out-of-listening-to-people": {
+    "title": "Stop trying to engineer your way out of listening to people",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-20T09:32:35.321058+00:00",
+    "published": "2026-04-19T20:09:09+00:00"
+  },
+  "https://www.sciencedetective.org/scientific-datasets-are-riddled-with-copy-paste-errors": {
+    "title": "Scientific datasets are riddled with copy-paste errors",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-20T09:32:35.321058+00:00",
+    "published": "2026-04-19T19:18:57+00:00"
+  },
+  "https://cssence.com/2024/six-levels-of-dark-mode": {
+    "title": "Six Levels of Dark Mode (2024)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-20T09:32:35.321058+00:00",
+    "published": "2026-04-19T18:36:00+00:00"
+  },
+  "https://www.pcgamer.com/games/world-of-warcraft/turtle-wow-classic-server-announces-shutdown-after-blizzard-wins-injunction": {
+    "title": "Turtle WoW classic server announces shutdown after Blizzard wins injunction",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-20T09:32:35.321058+00:00",
+    "published": "2026-04-19T15:48:40+00:00"
+  },
+  "https://www.legalnomads.com/fish-sauce": {
+    "title": "A Brief History of Fish Sauce",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-20T09:32:35.321058+00:00",
+    "published": "2026-04-19T08:32:53+00:00"
   }
 }
