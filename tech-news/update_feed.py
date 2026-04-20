@@ -35,9 +35,12 @@ SEEN_PATH = SCRIPT_DIR / "seen.json"
 
 USER_AGENT = "ClawbotMusings-TechNews/1.0 (+https://github.com/clawbot-musings)"
 FETCH_TIMEOUT_SEC = 30
+ARTICLE_FETCH_TIMEOUT_SEC = 15
 MAX_ITEMS = 100
 JIRA_DELAY_SEC = 0.12
 FETCH_WORKERS = 16
+SUMMARIZE_WORKERS = 4
+ARTICLE_TEXT_LIMIT = 3000  # chars sent to Claude for summarization
 
 PRIORITY_LABEL = {
     "very-high": "Very High",
@@ -197,6 +200,7 @@ class NewsItem:
     jira_key: str | None = None
     first_seen: datetime | None = None
     is_new: bool = False
+    summary: str | None = None
 
 
 @dataclass
@@ -354,6 +358,96 @@ def jira_ticket_for_item(item: NewsItem) -> str | None:
     return None
 
 
+def fetch_article_text(url: str) -> str:
+    """Fetch an article page and return stripped plain text, capped at ARTICLE_TEXT_LIMIT chars."""
+    try:
+        req = urllib.request.Request(
+            url,
+            headers={
+                "User-Agent": "Mozilla/5.0 (compatible; ClawbotMusings/1.0)",
+                "Accept": "text/html,*/*",
+                "Accept-Encoding": "identity",
+            },
+        )
+        with _SHARED_OPENER.open(req, timeout=ARTICLE_FETCH_TIMEOUT_SEC) as resp:
+            raw = _maybe_decompress(resp.read())
+        text = raw.decode("utf-8", errors="replace")
+        text = re.sub(r"<script[^>]*>.*?</script>", " ", text, flags=re.DOTALL | re.IGNORECASE)
+        text = re.sub(r"<style[^>]*>.*?</style>", " ", text, flags=re.DOTALL | re.IGNORECASE)
+        text = strip_html_tags(text)
+        text = re.sub(r"\s+", " ", text).strip()
+        return text[:ARTICLE_TEXT_LIMIT]
+    except Exception:
+        return ""
+
+
+def summarize_with_claude(title: str, article_text: str) -> str | None:
+    """Call Claude API to produce a 2-sentence InfoQ developer relevance summary."""
+    api_key = os.getenv("ANTHROPIC_API_KEY", "").strip()
+    if not api_key:
+        return None
+    if not article_text:
+        article_text = f"(no article text available; title: {title})"
+    payload = {
+        "model": "claude-haiku-4-5-20251001",
+        "max_tokens": 120,
+        "messages": [
+            {
+                "role": "user",
+                "content": (
+                    f"Article title: {title}\n\n"
+                    f"Article excerpt:\n{article_text}\n\n"
+                    "Write exactly 2 sentences assessing whether this article is interesting "
+                    "for InfoQ software developers. Focus on practical relevance to software "
+                    "engineering, architecture, AI/ML, or developer productivity."
+                ),
+            }
+        ],
+    }
+    data = json.dumps(payload).encode()
+    req = urllib.request.Request(
+        "https://api.anthropic.com/v1/messages",
+        data=data,
+        headers={
+            "x-api-key": api_key,
+            "anthropic-version": "2023-06-01",
+            "content-type": "application/json",
+        },
+        method="POST",
+    )
+    ctx = ssl.create_default_context()
+    try:
+        with urllib.request.urlopen(req, timeout=30, context=ctx) as resp:
+            result = json.loads(resp.read().decode())
+        return result["content"][0]["text"].strip()
+    except Exception:
+        return None
+
+
+def summarize_new_items(items: list[NewsItem], seen: dict[str, dict[str, str]]) -> None:
+    """Fetch article pages and generate Claude summaries for new items; updates items in-place."""
+    if not os.getenv("ANTHROPIC_API_KEY", "").strip():
+        return
+
+    new_items = [it for it in items if it.is_new]
+    if not new_items:
+        return
+
+    print(f"Summarizing {len(new_items)} new articles via Claude API...", flush=True)
+
+    def _summarize_one(it: NewsItem) -> None:
+        text = fetch_article_text(it.link)
+        summary = summarize_with_claude(it.title, text)
+        if summary:
+            it.summary = summary
+            key = normalize_url(it.link)
+            if key in seen:
+                seen[key]["summary"] = summary
+
+    with concurrent.futures.ThreadPoolExecutor(max_workers=SUMMARIZE_WORKERS) as pool:
+        list(pool.map(_summarize_one, new_items))
+
+
 def load_seen() -> dict[str, dict[str, str]]:
     """Load the URL→metadata history from seen.json."""
     if not SEEN_PATH.is_file():
@@ -398,6 +492,7 @@ def apply_seen_history(
             it.is_new = False
             fs = parse_iso_date(entry.get("first_seen"))
             it.first_seen = fs or now
+            it.summary = entry.get("summary") or None
 
     save_seen(seen)
     return new_count, len(items) - new_count
@@ -452,6 +547,11 @@ def render_articles(items: list[NewsItem], now: datetime) -> str:
             f' data-scraped="{scraped_iso}"'
             f'>{pub_html}{scraped_html}</p>'
         )
+        if it.summary:
+            lines.append('          <p class="news-summary">')
+            lines.append('            <span class="label">InfoQ Relevance</span>')
+            lines.append(f"            {html_escape(it.summary)}")
+            lines.append("          </p>")
         lines.append("        </article>")
     return "\n".join(lines)
 
@@ -544,6 +644,10 @@ def main() -> int:
     now = datetime.now(timezone.utc)
 
     new_count, seen_count = apply_seen_history(merged, now)
+    if os.getenv("ANTHROPIC_API_KEY", "").strip():
+        seen = load_seen()
+        summarize_new_items(merged, seen)
+        save_seen(seen)
 
     if jira_env_ready():
         for it in merged:

@@ -19,12 +19,16 @@ jobs:
         with:
           python-version: "3.12"
 
+      - name: Install dependencies
+        run: pip install anthropic
+
       - name: Fetch feeds and update tech-news/index.html
         env:
           JIRA_DOMAIN: ${{ vars.JIRA_DOMAIN }}
           JIRA_USER_EMAIL: ${{ secrets.JIRA_USER_EMAIL }}
           JIRA_API_TOKEN: ${{ secrets.JIRA_API_TOKEN }}
           JIRA_PROJECT_KEY: ${{ vars.JIRA_PROJECT_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: python tech-news/update_feed.py
 
       - name: Commit if changed
