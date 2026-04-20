@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Loopsheets — KT Tunstall, "Black Horse and the Cherry Tree"</title>
+  <meta name="description" content="A colour-coded loop sheet for KT Tunstall's iconic loop pedal song 'Black Horse and the Cherry Tree' — introduce each loop, then follow the colours above the lyrics." />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../styles.css" />
+  <link rel="stylesheet" href="loopsheet.css" />
+</head>
+<body>
+  <div class="page-shell">
+    <header class="post-header">
+      <a class="back-link" href="./">← back to all loopsheets</a>
+      <h1>"Black Horse and the Cherry Tree" — KT Tunstall</h1>
+      <p class="subtitle">
+        The song that put loop pedals on prime-time TV. On <i>Later… with Jools Holland</i> in 2004
+        KT Tunstall built it live with an Akai E2 Headrush — body percussion first, then a low-string
+        riff, then the "Woo hoo!" hook, then she sang over the top. This sheet turns that build into
+        a colour map.
+      </p>
+    </header>
+
+    <main>
+      <section class="how-to-card card">
+        <h2>How to read this loopsheet</h2>
+        <ol>
+          <li><b>Learn the loops first.</b> Each card below is a short repeating bar with its own colour. Practise them alone until the timing feels comfortable.</li>
+          <li><b>Read the song top-to-bottom.</b> Each line of lyrics has a row of small bars above it. The coloured squares in each bar are the loops that should be running at that moment.</li>
+          <li><b>Stack and drop on the down-beat.</b> When a new colour appears, punch that loop in. When a colour disappears, mute it.</li>
+          <li><b>Hit play below to follow along</b> — the active bar lights up so you don't lose your place.</li>
+        </ol>
+      </section>
+
+      <h2 class="section-title">The loop library</h2>
+      <p class="section-lead">
+        Six little bars, key of E minor, around 110 BPM. Loops 1–3 are exactly what KT records on
+        stage. Loops 4–6 are optional layers if you have a band — drums, piano, or extra hands —
+        to fill the song out.
+      </p>
+      <div id="loopLibrary" class="loop-grid"></div>
+
+      <section class="player card" id="player">
+        <div class="controls">
+          <button id="playBtn" type="button">▶ Play</button>
+          <button id="stopBtn" class="ghost" type="button">■ Stop</button>
+        </div>
+        <div class="tempo">
+          <label for="bpm">Tempo</label>
+          <input id="bpm" type="range" min="60" max="160" value="110" />
+          <span id="bpmLabel">110 BPM</span>
+        </div>
+        <div class="now-playing">
+          <span>Now: </span><b id="nowPlaying">—</b>
+        </div>
+      </section>
+
+      <h2 class="section-title">The song</h2>
+      <p class="section-lead">
+        Read top to bottom, left to right. Verse and chorus body lines are placeholders — singing
+        along is on you. The "Woo hoo!" hook is laid out verbatim because it <i>is</i> the song.
+      </p>
+      <div class="legend" id="legend"></div>
+      <div id="songRoot"></div>
+
+      <p class="footer-note card">
+        Loop structure inspired by KT Tunstall's live performance of
+        <i>Black Horse and the Cherry Tree</i> on <i>Later… with Jools Holland</i>, 2004.
+        Lyrics belong to KT Tunstall — grab a copy of <i>Eye to the Telescope</i> and sing
+        along over the loops. <br />
+        <a href="./">← all loopsheets</a>
+      </p>
+    </main>
+  </div>
+
+  <script src="loopsheet.js"></script>
+  <script>
+    const LOOPS = {
+      red: {
+        name: "Body percussion",
+        instrument: "Acoustic guitar body · 4 bars · 110 BPM",
+        how: "Slap the soundboard near the bridge for the kick, tap your fingertips on the upper bout for the snare. The very first loop KT records — counted in by tapping the body before she's strummed a note.",
+        notation: "SLAP  o . . . o . . .\nTAP   . . o . . . o .",
+      },
+      blue: {
+        name: "Low-string riff",
+        instrument: "Acoustic guitar · 2 bars (loop ×2)",
+        how: "The descending hook on the low strings — open E, open D, the C and B on the A string. Palm-mute it lightly so it sits under everything else.",
+        notation: "e|---------------|\nB|---------------|\nG|---------------|\nD|------0--------|\nA|---------3--2--|\nE|--0------------|",
+      },
+      green: {
+        name: "\u201CWoo hoo!\u201D hook",
+        instrument: "Voice into loop pedal · 2 bars",
+        how: "The signature call — a short whoop on the off-beats of bar 1, then again in bar 2. Sing it once, overdub a harmony a fourth above on the second pass for that wall-of-vocals feel.",
+        notation: "| .  woo  .  hoo | .  woo  .  hoo |",
+      },
+      yellow: {
+        name: "Chord strums",
+        instrument: "Acoustic guitar · 4 bars",
+        how: "Down-up strums on the open chords — Em throughout the verse, lifting to G / D / A in the chorus. Bring this in only when you start singing live over the loops.",
+        notation: "| Em        | Em        |\n| G   D   A | G   D   A |\n  \u2193 \u2191 \u2193 \u2191     \u2193 \u2191 \u2193 \u2191",
+      },
+      purple: {
+        name: "Piano stabs",
+        instrument: "Piano (band-version layer) · 4 bars",
+        how: "Optional — for a fuller arrangement. Hit Em / G / D / A as short staccato chords on beat 1 of each bar. Adds bite without crowding the riff.",
+        notation: "| Em  | G   | D   | A   |\n  o.    o.    o.    o.",
+      },
+      orange: {
+        name: "Stomp & clap",
+        instrument: "Foot stomp + claps · 4 bars",
+        how: "If you have an audience, get them clapping on 2 and 4. Otherwise loop a stomp box for the kick and your own claps for the snare. Bring it in for the final chorus.",
+        notation: "STOMP  o . . . o . . .\nCLAP   . . o . . . o .",
+      },
+    };
+
+    const SONG = [
+      {
+        tag: "Loop build",
+        title: "Stack it on stage",
+        meta: "12 bars · KT records each loop in front of the audience",
+        bars: [
+          ...rep(4, ["red"]),
+          ...rep(4, ["red", "blue"]),
+          ...rep(4, ["red", "blue", "green"]),
+        ],
+        lyrics: [
+          { span: 4, text: "(slap the body — record 4 bars of percussion, hit the loop pedal)", silent: true },
+          { span: 4, text: "(now play the low-string riff over the loop, punch it in)", silent: true },
+          { span: 4, text: "(record the \u201CWoo hoo!\u201D hook over two passes — second one in harmony)", silent: true },
+        ],
+      },
+      {
+        tag: "Verse 1",
+        title: "Sing over the loop",
+        meta: "8 bars · all three loops underneath, vocal live on top",
+        bars: rep(8, ["red", "blue", "green"]),
+        lyrics: [
+          { span: 2, text: "[verse 1, line 1 — sung live over the loop]" },
+          { span: 2, text: "[verse 1, line 2]" },
+          { span: 2, text: "[verse 1, line 3]" },
+          { span: 2, text: "[verse 1, line 4 — leading into the chorus]" },
+        ],
+      },
+      {
+        tag: "Chorus 1",
+        title: "Open chords kick in",
+        meta: "8 bars · bring in the strums — Em \u2192 G \u2192 D \u2192 A",
+        bars: rep(8, ["red", "blue", "green", "yellow"]),
+        lyrics: [
+          { span: 2, text: "[chorus, line 1 — the title hook]" },
+          { span: 2, text: "[chorus, line 2]" },
+          { span: 2, text: "(\u201CWoo hoo!\u201D over the chords)" , silent: true },
+          { span: 2, text: "[chorus, line 4 — landing back on Em]" },
+        ],
+      },
+      {
+        tag: "Verse 2",
+        title: "Same loop, new lyric",
+        meta: "8 bars · drop the strums again, let the riff breathe",
+        bars: rep(8, ["red", "blue", "green"]),
+        lyrics: [
+          { span: 2, text: "[verse 2, line 1]" },
+          { span: 2, text: "[verse 2, line 2]" },
+          { span: 2, text: "[verse 2, line 3]" },
+          { span: 2, text: "[verse 2, line 4]" },
+        ],
+      },
+      {
+        tag: "Chorus 2",
+        title: "Strums + piano",
+        meta: "8 bars · add the piano stabs if you have a band",
+        bars: rep(8, ["red", "blue", "green", "yellow", "purple"]),
+        lyrics: [
+          { span: 2, text: "[chorus, line 1]" },
+          { span: 2, text: "[chorus, line 2]" },
+          { span: 2, text: "(\u201CWoo hoo!\u201D again)", silent: true },
+          { span: 2, text: "[chorus, line 4]" },
+        ],
+      },
+      {
+        tag: "Breakdown",
+        title: "Pull the rug",
+        meta: "4 bars · mute everything except the body percussion",
+        bars: rep(4, ["red"]),
+        lyrics: [
+          { span: 4, text: "(let the audience clap on 2 and 4 — call & response over just the percussion)", silent: true },
+        ],
+      },
+      {
+        tag: "Final chorus",
+        title: "All loops, stomp on top",
+        meta: "8 bars · everything returns on the down-beat, plus stomp & clap",
+        bars: rep(8, ["red", "blue", "green", "yellow", "purple", "orange"]),
+        lyrics: [
+          { span: 2, text: "[chorus, line 1 — full force]" },
+          { span: 2, text: "[chorus, line 2]" },
+          { span: 2, text: "(\u201CWoo hoo!\u201D, full room)", silent: true },
+          { span: 2, text: "(\u201CWoo hoo!\u201D, again)", silent: true },
+        ],
+      },
+      {
+        tag: "Outro",
+        title: "Peel the layers off",
+        meta: "4 bars · mute one loop per bar — end on the riff alone",
+        bars: [
+          ["red", "blue", "green", "yellow", "orange"],
+          ["red", "blue", "green", "orange"],
+          ["red", "blue", "green"],
+          ["blue"],
+        ],
+        lyrics: [
+          { span: 2, text: "(one last \u201CWoo hoo!\u201D)", silent: true },
+          { span: 2, text: "(stop the loop pedal — silence)", silent: true },
+        ],
+      },
+    ];
+
+    renderLoopsheet({ loops: LOOPS, song: SONG, defaultBpm: 110 });
+  </script>
+</body>
+</html>
