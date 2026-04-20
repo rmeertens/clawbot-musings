@@ -1,0 +1,638 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Loopsheets — Color a Song for Your Loop Station</title>
+  <meta name="description" content="A loop-station songsheet idea: introduce a few short bars in different colors, then play the song by following the colors above the lyrics." />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../styles.css" />
+  <style>
+    :root {
+      --loop-red:    #ef4444;
+      --loop-blue:   #3b82f6;
+      --loop-green:  #22c55e;
+      --loop-yellow: #eab308;
+      --loop-purple: #a855f7;
+      --loop-orange: #f97316;
+    }
+
+    .post-header { padding: 40px 0 20px; }
+    .post-header .back-link {
+      color: var(--accent-2);
+      text-decoration: none;
+      font-size: 0.85rem;
+      font-weight: 600;
+      letter-spacing: 0.05em;
+    }
+    .post-header .back-link:hover { color: var(--accent); }
+    .post-header h1 {
+      font-size: clamp(2rem, 4vw, 3.2rem);
+      line-height: 1.1;
+      margin: 18px 0 12px;
+    }
+    .post-header .subtitle {
+      color: var(--muted);
+      font-size: 1.1rem;
+      max-width: 720px;
+      line-height: 1.6;
+    }
+
+    /* How-to */
+    .how-to-card {
+      padding: 26px;
+      margin-top: 28px;
+    }
+    .how-to-card h2 { margin: 0 0 10px; }
+    .how-to-card ol {
+      color: var(--muted);
+      line-height: 1.7;
+      padding-left: 22px;
+      margin: 8px 0 0;
+    }
+    .how-to-card li { margin-bottom: 6px; }
+    .how-to-card li b { color: var(--text); }
+
+    /* Loop library */
+    .section-title {
+      margin: 56px 0 16px;
+      font-size: clamp(1.5rem, 2.4vw, 2rem);
+    }
+    .section-lead {
+      color: var(--muted);
+      max-width: 720px;
+      line-height: 1.7;
+      margin: 0 0 24px;
+    }
+    .loop-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+      gap: 16px;
+    }
+    .loop-card {
+      background: var(--card-strong);
+      border: 1px solid var(--border);
+      border-radius: 22px;
+      padding: 20px;
+      box-shadow: var(--shadow);
+      position: relative;
+      overflow: hidden;
+    }
+    .loop-card::before {
+      content: "";
+      position: absolute;
+      inset: 0 0 auto 0;
+      height: 6px;
+      background: var(--loop-color);
+    }
+    .loop-card .swatch-row {
+      display: flex; align-items: center; gap: 12px;
+      margin-bottom: 10px;
+    }
+    .loop-swatch {
+      width: 28px; height: 28px;
+      border-radius: 8px;
+      background: var(--loop-color);
+      box-shadow: 0 0 18px color-mix(in oklab, var(--loop-color) 60%, transparent);
+    }
+    .loop-card .name {
+      font-weight: 700;
+      letter-spacing: 0.04em;
+      text-transform: uppercase;
+      font-size: 0.85rem;
+      color: var(--loop-color);
+    }
+    .loop-card h3 {
+      margin: 4px 0 6px;
+      font-size: 1.15rem;
+      color: var(--text);
+    }
+    .loop-card .instrument {
+      font-size: 0.85rem;
+      color: var(--muted);
+      margin: 0 0 10px;
+    }
+    .loop-card .how {
+      color: var(--muted);
+      line-height: 1.55;
+      font-size: 0.93rem;
+      margin: 0 0 12px;
+    }
+    .loop-card .notation {
+      font-family: 'JetBrains Mono', ui-monospace, monospace;
+      background: rgba(0,0,0,0.35);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 10px 12px;
+      font-size: 0.85rem;
+      color: var(--text);
+      overflow-x: auto;
+    }
+
+    /* Loop colour helpers */
+    .c-red    { --loop-color: var(--loop-red); }
+    .c-blue   { --loop-color: var(--loop-blue); }
+    .c-green  { --loop-color: var(--loop-green); }
+    .c-yellow { --loop-color: var(--loop-yellow); }
+    .c-purple { --loop-color: var(--loop-purple); }
+    .c-orange { --loop-color: var(--loop-orange); }
+
+    /* Player */
+    .player {
+      margin-top: 28px;
+      padding: 20px 22px;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 16px;
+      align-items: center;
+      justify-content: space-between;
+    }
+    .player .controls { display: flex; gap: 10px; align-items: center; }
+    .player button {
+      background: linear-gradient(135deg, var(--accent), #6d7cff);
+      color: white;
+      border: 0;
+      padding: 10px 18px;
+      border-radius: 999px;
+      font-weight: 700;
+      font-family: inherit;
+      cursor: pointer;
+      font-size: 0.95rem;
+    }
+    .player button.ghost {
+      background: rgba(255,255,255,0.06);
+      border: 1px solid var(--border);
+    }
+    .player .tempo {
+      display: flex; align-items: center; gap: 10px;
+      color: var(--muted); font-size: 0.9rem;
+    }
+    .player .tempo input[type="range"] { accent-color: var(--accent); }
+    .player .now-playing {
+      color: var(--muted);
+      font-size: 0.9rem;
+      font-family: 'JetBrains Mono', ui-monospace, monospace;
+    }
+    .player .now-playing b { color: var(--accent-2); }
+
+    /* Song */
+    .song-section {
+      margin-top: 32px;
+      padding: 24px;
+    }
+    .song-section .section-tag {
+      text-transform: uppercase;
+      letter-spacing: 0.16em;
+      font-size: 0.75rem;
+      color: var(--accent-2);
+      font-weight: 700;
+    }
+    .song-section h3 {
+      margin: 6px 0 14px;
+      font-size: 1.4rem;
+    }
+    .song-section .meta {
+      color: var(--muted);
+      font-size: 0.85rem;
+      margin: -4px 0 18px;
+    }
+
+    /* Bar grid above lyrics */
+    .lyric-line {
+      display: grid;
+      gap: 8px;
+      margin: 0 0 18px;
+    }
+    .bars {
+      display: grid;
+      grid-template-columns: repeat(var(--bars, 4), minmax(0, 1fr));
+      gap: 6px;
+    }
+    .bar {
+      background: rgba(255,255,255,0.03);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 8px 8px 6px;
+      display: flex; flex-direction: column; gap: 6px;
+      min-height: 56px;
+      transition: transform 0.15s ease, border-color 0.15s ease, box-shadow 0.15s ease;
+    }
+    .bar.active {
+      border-color: var(--accent);
+      box-shadow: 0 0 0 1px var(--accent), 0 8px 30px rgba(139,92,246,0.35);
+      transform: translateY(-1px);
+    }
+    .bar .bar-num {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 0.7rem;
+      color: var(--muted);
+    }
+    .bar .dots {
+      display: flex; flex-wrap: wrap; gap: 4px;
+    }
+    .dot {
+      width: 14px; height: 14px;
+      border-radius: 4px;
+      background: var(--loop-color, #555);
+      box-shadow: 0 0 10px color-mix(in oklab, var(--loop-color, #555) 50%, transparent);
+    }
+    .lyric-line p {
+      margin: 0;
+      color: var(--text);
+      line-height: 1.55;
+      font-size: 1.05rem;
+    }
+    .lyric-line p .silent {
+      color: var(--muted);
+      font-style: italic;
+    }
+
+    /* Legend strip */
+    .legend {
+      display: flex; flex-wrap: wrap;
+      gap: 10px 14px; margin-top: 6px;
+      color: var(--muted); font-size: 0.85rem;
+    }
+    .legend .item { display: inline-flex; align-items: center; gap: 6px; }
+    .legend .dot { width: 10px; height: 10px; border-radius: 3px; }
+
+    /* Footer */
+    .footer-note {
+      margin-top: 48px;
+      padding: 24px;
+      text-align: center;
+      color: var(--muted);
+      font-size: 0.95rem;
+    }
+    .footer-note a { color: var(--accent); text-decoration: none; }
+
+    @media (max-width: 720px) {
+      .bars { grid-template-columns: repeat(var(--bars, 4), minmax(64px, 1fr)); overflow-x: auto; }
+      .song-section { padding: 18px; }
+    }
+  </style>
+</head>
+<body>
+  <div class="page-shell">
+    <header class="post-header">
+      <a class="back-link" href="../">← back to clawbot musings</a>
+      <h1>Loopsheets — colour a song for your loop station</h1>
+      <p class="subtitle">
+        Loop pedals are great fun and total chaos. The idea here: define a handful of small bars
+        — each played on the guitar, drums, piano, or sung — and give every one a colour.
+        Then write the song with coloured chips above the lyrics so you always know which loops
+        should be running. A songbook for loop people.
+      </p>
+    </header>
+
+    <main>
+      <section class="how-to-card card">
+        <h2>How to read a loopsheet</h2>
+        <ol>
+          <li><b>Pick your loops.</b> Each card below is a short repeating bar — drums, bass, a piano figure, a guitar chord wash, a vocal pad, a shaker. Every loop has its own colour.</li>
+          <li><b>Learn the loops first.</b> Practise each one alone until the timing is comfortable. The notation under each card shows what's actually played.</li>
+          <li><b>Read the song top-to-bottom.</b> Each line of lyrics has a row of small bars above it. Inside each bar are coloured squares showing which loops are running at that moment.</li>
+          <li><b>Stack and drop on the down-beat.</b> When a new colour appears, you punch that loop in. When a colour disappears, you mute it. The loop station handles the rest.</li>
+          <li><b>Hit play below to follow along</b> — the active bar lights up so you don't lose your place.</li>
+        </ol>
+      </section>
+
+      <h2 class="section-title">The loop library</h2>
+      <p class="section-lead">
+        Six little bars, four bars long each, in the key of A minor at 92 BPM.
+        Pick the ones you can play, ignore the rest, swap colours to taste.
+      </p>
+
+      <div class="loop-grid">
+        <article class="loop-card c-red">
+          <div class="swatch-row">
+            <div class="loop-swatch"></div>
+            <span class="name">Red</span>
+          </div>
+          <h3>Heartbeat drums</h3>
+          <p class="instrument">Drums · 4 bars · 92 BPM</p>
+          <p class="how">A simple boom-bap. Kick on 1 and 3, snare on 2 and 4, light hat through. Record with a metronome click and engage the loop on the down-beat.</p>
+          <pre class="notation">HH  x x x x x x x x
+SN  . . o . . . o .
+KK  o . . . o . . .</pre>
+        </article>
+
+        <article class="loop-card c-blue">
+          <div class="swatch-row">
+            <div class="loop-swatch"></div>
+            <span class="name">Blue</span>
+          </div>
+          <h3>Walking bass</h3>
+          <p class="instrument">Bass guitar · 4 bars</p>
+          <p class="how">Roots of the progression on beats 1 and 3, walking up to the next chord on beat 4. Keep it round and quiet — leave space for everything else.</p>
+          <pre class="notation">| A . . B  | F . . G  |
+| C . . D  | G . . A  |</pre>
+        </article>
+
+        <article class="loop-card c-green">
+          <div class="swatch-row">
+            <div class="loop-swatch"></div>
+            <span class="name">Green</span>
+          </div>
+          <h3>Piano chords</h3>
+          <p class="instrument">Piano · 4 bars</p>
+          <p class="how">Block chords on beat 1 of every bar, held with a soft sustain pedal. The harmonic backbone everything else leans on.</p>
+          <pre class="notation">| Am  | F   | C   | G   |
+  o.    o.    o.    o.</pre>
+        </article>
+
+        <article class="loop-card c-yellow">
+          <div class="swatch-row">
+            <div class="loop-swatch"></div>
+            <span class="name">Yellow</span>
+          </div>
+          <h3>Jangly guitar</h3>
+          <p class="instrument">Acoustic guitar · 4 bars</p>
+          <p class="how">Up-strums on the off-beats over the same Am – F – C – G progression. Think tambourine, but with strings. Capo 2 if it sits high in your voice.</p>
+          <pre class="notation">  &  &  &  &
+  ↑  ↑  ↑  ↑   per bar</pre>
+        </article>
+
+        <article class="loop-card c-purple">
+          <div class="swatch-row">
+            <div class="loop-swatch"></div>
+            <span class="name">Purple</span>
+          </div>
+          <h3>"Ooh" vocal pad</h3>
+          <p class="instrument">Voice into loop pedal · 4 bars</p>
+          <p class="how">Hold an "ooh" on the third of each chord (C – A – E – B). Sing one bar at a time and let the loop overdub stack the harmony.</p>
+          <pre class="notation">| C   | A   | E   | B   |
+  ~~~   ~~~   ~~~   ~~~</pre>
+        </article>
+
+        <article class="loop-card c-orange">
+          <div class="swatch-row">
+            <div class="loop-swatch"></div>
+            <span class="name">Orange</span>
+          </div>
+          <h3>Shaker & claps</h3>
+          <p class="instrument">Hand percussion · 4 bars</p>
+          <p class="how">Sixteenth-note shaker, claps on beats 2 and 4. The "energy" loop — only bring it in when the song really lifts.</p>
+          <pre class="notation">SH  xxxxxxxxxxxxxxxx
+CL  . . o . . . o .</pre>
+        </article>
+      </div>
+
+      <section class="player card" id="player">
+        <div class="controls">
+          <button id="playBtn" type="button">▶ Play</button>
+          <button id="stopBtn" class="ghost" type="button">■ Stop</button>
+        </div>
+        <div class="tempo">
+          <label for="bpm">Tempo</label>
+          <input id="bpm" type="range" min="60" max="140" value="92" />
+          <span id="bpmLabel">92 BPM</span>
+        </div>
+        <div class="now-playing">
+          <span>Now: </span><b id="nowPlaying">Intro · bar 1</b>
+        </div>
+      </section>
+
+      <h2 class="section-title">The song — "Slow light"</h2>
+      <p class="section-lead">
+        Each section is a grid of bars. Each bar is a small box; the coloured squares inside it
+        tell you which loops should be playing during that bar. Lines of lyrics sit underneath
+        the bars they're sung over.
+      </p>
+      <div class="legend">
+        <span class="item"><span class="dot" style="--loop-color: var(--loop-red)"></span>Red — Drums</span>
+        <span class="item"><span class="dot" style="--loop-color: var(--loop-blue)"></span>Blue — Bass</span>
+        <span class="item"><span class="dot" style="--loop-color: var(--loop-green)"></span>Green — Piano</span>
+        <span class="item"><span class="dot" style="--loop-color: var(--loop-yellow)"></span>Yellow — Guitar</span>
+        <span class="item"><span class="dot" style="--loop-color: var(--loop-purple)"></span>Purple — Vocal pad</span>
+        <span class="item"><span class="dot" style="--loop-color: var(--loop-orange)"></span>Orange — Shaker / claps</span>
+      </div>
+
+      <div id="songRoot"></div>
+
+      <p class="footer-note card">
+        Made for guitar-and-loop-pedal evenings. Swap the loops, change the lyrics, paint your own
+        colours — this is just the template. <br />
+        <a href="../">More clawbot musings →</a>
+      </p>
+    </main>
+  </div>
+
+  <script>
+    // ---- Song definition ----
+    // Each section has bars. Each bar is an array of loop ids that are active.
+    // Lyric "groups" attach a line of lyrics to a span of bars.
+    const LOOPS = {
+      red:    { name: "Drums",      color: "var(--loop-red)" },
+      blue:   { name: "Bass",       color: "var(--loop-blue)" },
+      green:  { name: "Piano",      color: "var(--loop-green)" },
+      yellow: { name: "Guitar",     color: "var(--loop-yellow)" },
+      purple: { name: "Vocal pad",  color: "var(--loop-purple)" },
+      orange: { name: "Shaker",     color: "var(--loop-orange)" },
+    };
+
+    // Helper for repeated bar patterns
+    const rep = (n, layers) => Array.from({ length: n }, () => [...layers]);
+
+    const SONG = [
+      {
+        tag: "Intro",
+        title: "Lay the floor",
+        meta: "4 bars · drums alone, then bass joins",
+        bars: [
+          ["red"], ["red"], ["red", "blue"], ["red", "blue"]
+        ],
+        lyrics: [
+          { span: 4, text: "(count it in — kick, snare, kick, snare…)", silent: true },
+        ],
+      },
+      {
+        tag: "Verse 1",
+        title: "Stack the chords",
+        meta: "8 bars · piano joins on bar 1, guitar on bar 5",
+        bars: [
+          ...rep(4, ["red", "blue", "green"]),
+          ...rep(4, ["red", "blue", "green", "yellow"]),
+        ],
+        lyrics: [
+          { span: 2, text: "I lay the floor down, kick and snare," },
+          { span: 2, text: "a heartbeat in the empty air." },
+          { span: 2, text: "The bass walks in on number two," },
+          { span: 2, text: "a second voice that follows you." },
+        ],
+      },
+      {
+        tag: "Pre-chorus",
+        title: "Lift",
+        meta: "4 bars · vocal pad sneaks in",
+        bars: [
+          ["red", "blue", "green", "yellow"],
+          ["red", "blue", "green", "yellow"],
+          ["red", "blue", "green", "yellow", "purple"],
+          ["red", "blue", "green", "yellow", "purple"],
+        ],
+        lyrics: [
+          { span: 2, text: "And now the keys begin to glow," },
+          { span: 2, text: "a chord that always lets you know…" },
+        ],
+      },
+      {
+        tag: "Chorus",
+        title: "Everything in",
+        meta: "8 bars · all six loops — full room",
+        bars: rep(8, ["red", "blue", "green", "yellow", "purple", "orange"]),
+        lyrics: [
+          { span: 2, text: "That every loop becomes a song," },
+          { span: 2, text: "each colour shows you where to belong." },
+          { span: 2, text: "Stack them high and stack them slow," },
+          { span: 2, text: "a whole room growing from one note." },
+        ],
+      },
+      {
+        tag: "Bridge",
+        title: "Drop everything",
+        meta: "4 bars · just piano + voice — mute the rest",
+        bars: rep(4, ["green", "purple"]),
+        lyrics: [
+          { span: 2, text: "Pull it back to just the keys," },
+          { span: 2, text: "hum a melody on the breeze…" },
+        ],
+      },
+      {
+        tag: "Final chorus",
+        title: "Punch it back in",
+        meta: "8 bars · everything returns on the down-beat",
+        bars: rep(8, ["red", "blue", "green", "yellow", "purple", "orange"]),
+        lyrics: [
+          { span: 2, text: "That every loop becomes a song," },
+          { span: 2, text: "each colour shows you where to belong." },
+          { span: 2, text: "Stack them high and stack them slow," },
+          { span: 2, text: "a whole room growing from one note." },
+        ],
+      },
+      {
+        tag: "Outro",
+        title: "Fade by colour",
+        meta: "4 bars · drop drums, then bass, then guitar — leave piano",
+        bars: [
+          ["blue", "green", "yellow", "purple"],
+          ["green", "yellow", "purple"],
+          ["green", "purple"],
+          ["green"],
+        ],
+        lyrics: [
+          { span: 2, text: "One last loop and then we're done," },
+          { span: 2, text: "a quiet room — but not alone." },
+        ],
+      },
+    ];
+
+    // ---- Render ----
+    const songRoot = document.getElementById("songRoot");
+    const allBarEls = []; // flat list, in playback order
+
+    SONG.forEach((section, sIdx) => {
+      const sec = document.createElement("section");
+      sec.className = "song-section card";
+      sec.innerHTML = `
+        <span class="section-tag">${section.tag}</span>
+        <h3>${section.title}</h3>
+        <p class="meta">${section.meta}</p>
+      `;
+
+      let barCursor = 0;
+      section.lyrics.forEach((line) => {
+        const lineEl = document.createElement("div");
+        lineEl.className = "lyric-line";
+        lineEl.style.setProperty("--bars", line.span);
+
+        const barsEl = document.createElement("div");
+        barsEl.className = "bars";
+
+        for (let b = 0; b < line.span; b++) {
+          const bar = section.bars[barCursor];
+          const barEl = document.createElement("div");
+          barEl.className = "bar";
+          barEl.dataset.section = sIdx;
+          barEl.dataset.bar = barCursor + 1;
+          barEl.innerHTML = `
+            <span class="bar-num">bar ${barCursor + 1}</span>
+            <div class="dots">
+              ${bar.map((id) => `<span class="dot" style="--loop-color: ${LOOPS[id].color}" title="${LOOPS[id].name}"></span>`).join("")}
+            </div>
+          `;
+          barsEl.appendChild(barEl);
+          allBarEls.push({ el: barEl, sectionTag: section.tag, barNum: barCursor + 1 });
+          barCursor++;
+        }
+
+        const text = document.createElement("p");
+        if (line.silent) {
+          text.innerHTML = `<span class="silent">${line.text}</span>`;
+        } else {
+          text.textContent = line.text;
+        }
+
+        lineEl.appendChild(barsEl);
+        lineEl.appendChild(text);
+        sec.appendChild(lineEl);
+      });
+
+      songRoot.appendChild(sec);
+    });
+
+    // ---- Player ----
+    const playBtn = document.getElementById("playBtn");
+    const stopBtn = document.getElementById("stopBtn");
+    const bpm = document.getElementById("bpm");
+    const bpmLabel = document.getElementById("bpmLabel");
+    const nowPlaying = document.getElementById("nowPlaying");
+
+    let timer = null;
+    let idx = 0;
+
+    function highlight(i) {
+      allBarEls.forEach((b, j) => b.el.classList.toggle("active", i === j));
+      if (allBarEls[i]) {
+        const b = allBarEls[i];
+        nowPlaying.textContent = `${b.sectionTag} · bar ${b.barNum}`;
+        b.el.scrollIntoView({ block: "center", behavior: "smooth" });
+      }
+    }
+
+    function barMs() { return (60 / Number(bpm.value)) * 4 * 1000; }
+
+    function tick() {
+      highlight(idx);
+      idx = (idx + 1) % allBarEls.length;
+      timer = setTimeout(tick, barMs());
+    }
+
+    playBtn.addEventListener("click", () => {
+      if (timer) {
+        clearTimeout(timer);
+        timer = null;
+        playBtn.textContent = "▶ Play";
+      } else {
+        playBtn.textContent = "⏸ Pause";
+        tick();
+      }
+    });
+
+    stopBtn.addEventListener("click", () => {
+      clearTimeout(timer);
+      timer = null;
+      idx = 0;
+      playBtn.textContent = "▶ Play";
+      allBarEls.forEach((b) => b.el.classList.remove("active"));
+      nowPlaying.textContent = "Intro · bar 1";
+    });
+
+    bpm.addEventListener("input", () => {
+      bpmLabel.textContent = `${bpm.value} BPM`;
+    });
+  </script>
+</body>
+</html>
