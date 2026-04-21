@@ -6960,5 +6960,131 @@
     "source": "Simon Willison",
     "first_seen": "2026-04-21T15:26:17.978272+00:00",
     "published": "2026-04-20T18:00:26+00:00"
+  },
+  "https://cloud.google.com/blog/topics/public-sector/building-the-foundation-for-ai-across-the-public-sector-through-our-partner-ecosystem": {
+    "title": "Building the foundation for AI across the public sector through our partner ecosystem",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-04-21T17:06:47.691509+00:00",
+    "published": "2026-04-21T19:00:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/end-to-end-lineage-with-dvc-and-amazon-sagemaker-ai-mlflow-apps": {
+    "title": "End-to-end lineage with DVC and Amazon SageMaker AI MLflow apps",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-04-21T17:06:47.691509+00:00",
+    "published": "2026-04-21T16:43:03+00:00"
+  },
+  "https://research.google/blog/reasoningbank-enabling-agents-to-learn-from-experience": {
+    "title": "ReasoningBank: Enabling agents to learn from experience",
+    "source": "Google Research",
+    "first_seen": "2026-04-21T17:06:47.691509+00:00",
+    "published": "2026-04-21T16:42:22+00:00"
+  },
+  "https://www.phoronix.com/news/AlmaLinux-Age-Verification-Laws": {
+    "title": "AlmaLinux Comments On California Age Verification Law",
+    "source": "Phoronix",
+    "first_seen": "2026-04-21T17:06:47.691509+00:00",
+    "published": "2026-04-21T16:40:18+00:00"
+  },
+  "https://simonwillison.net/2026/Apr/21/andreas-pahlsson-notini": {
+    "title": "Quoting Andreas Påhlsson-Notini",
+    "source": "Simon Willison",
+    "first_seen": "2026-04-21T17:06:47.691509+00:00",
+    "published": "2026-04-21T16:39:33+00:00"
+  },
+  "https://aws.amazon.com/blogs/architecture/real-time-analytics-oldcastle-integrates-infor-with-amazon-aurora-and-amazon-quick-sight": {
+    "title": "Real-time analytics: Oldcastle integrates Infor with Amazon Aurora and Amazon Quick Sight",
+    "source": "AWS Architecture Blog",
+    "first_seen": "2026-04-21T17:06:47.691509+00:00",
+    "published": "2026-04-21T16:37:12+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/configure-a-custom-domain-name-for-your-amazon-msk-cluster-enabled-with-iam-authentication": {
+    "title": "Configure a custom domain name for your Amazon MSK cluster enabled with IAM authentication",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-04-21T17:06:47.691509+00:00",
+    "published": "2026-04-21T16:33:29+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/rings-billion-scale-semantic-video-search-with-amazon-rds-for-postgresql-and-pgvector": {
+    "title": "Ring’s Billion-Scale Semantic Video Search with Amazon RDS for PostgreSQL and pgvector",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-04-21T17:06:47.691509+00:00",
+    "published": "2026-04-21T16:24:33+00:00"
+  },
+  "https://charlielabs.ai": {
+    "title": "Show HN: Daemons – we pivoted from building agents to cleaning up after them",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-21T17:06:47.691509+00:00",
+    "published": "2026-04-21T16:16:41+00:00"
+  },
+  "https://engineering.fb.com/2026/04/21/ml-applications/modernizing-the-facebook-groups-search-to-unlock-the-power-of-community-knowledge": {
+    "title": "Modernizing the Facebook Groups Search to Unlock the Power of Community Knowledge",
+    "source": "Meta Engineering",
+    "first_seen": "2026-04-21T17:06:47.691509+00:00",
+    "published": "2026-04-21T16:00:19+00:00"
+  },
+  "https://cloud.google.com/blog/topics/developers-practitioners/join-our-next26-developer-livestreams": {
+    "title": "From keynote to the terminal: Join our Next ‘26 developer livestreams",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-04-21T17:06:47.691509+00:00",
+    "published": "2026-04-21T16:00:00+00:00"
+  },
+  "https://simonwillison.net/2026/Apr/21/scosman": {
+    "title": "scosman/pelicans_riding_bicycles",
+    "source": "Simon Willison",
+    "first_seen": "2026-04-21T17:06:47.691509+00:00",
+    "published": "2026-04-21T15:54:43+00:00"
+  },
+  "https://github.com/Yus314/kasane": {
+    "title": "Kasane: New drop-in Kakoune front end with GPU rendering and WASM Plugins",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-21T17:06:47.691509+00:00",
+    "published": "2026-04-21T15:53:22+00:00"
+  },
+  "https://www.phoronix.com/news/NTFS-3G-Driver-2026": {
+    "title": "NTFS-3G FUSE Driver Sees First New Release In Four Years",
+    "source": "Phoronix",
+    "first_seen": "2026-04-21T17:06:47.691509+00:00",
+    "published": "2026-04-21T15:41:57+00:00"
+  },
+  "https://blog.bytebytego.com/p/how-doordash-launches-a-new-country": {
+    "title": "How DoorDash Launches a New Country in One Week",
+    "source": "ByteByteGo",
+    "first_seen": "2026-04-21T17:06:47.691509+00:00",
+    "published": "2026-04-21T15:30:21+00:00"
+  },
+  "https://discuss.grapheneos.org/d/34369-original-grapheneos-responses-to-wired-fact-checker": {
+    "title": "Original GrapheneOS responses to WIRED fact checker",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-21T17:06:47.691509+00:00",
+    "published": "2026-04-21T15:04:24+00:00"
+  },
+  "https://www.redpanda.com/blog/shadow-linking-disaster-recovery-replication-made-easy": {
+    "title": "Me and my shadow (link!): Disaster recovery replication made easy",
+    "source": "Redpanda Blog",
+    "first_seen": "2026-04-21T17:06:47.691509+00:00",
+    "published": "2026-04-21T00:00:00+00:00"
+  },
+  "https://blog.sentry.io/observability-with-tracing-channels": {
+    "title": "No more monkey-patching: Better observability with tracing channels",
+    "source": "Sentry Blog",
+    "first_seen": "2026-04-21T17:06:47.691509+00:00",
+    "published": "2026-04-21T00:00:00+00:00"
+  },
+  "https://mattstromawn.com/writing/expansion-artifacts": {
+    "title": "Expansion Artifacts",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-21T17:06:47.691509+00:00",
+    "published": "2026-04-20T18:38:22+00:00"
+  },
+  "https://thepointmag.com/criticism/a-history-of-erasures": {
+    "title": "A History of Erasures Learning to Write Like Leylâ Erbil",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-21T17:06:47.691509+00:00",
+    "published": "2026-04-20T17:39:40+00:00"
+  },
+  "https://phys.org/news/2026-04-colorado-river-geological-million-years.html": {
+    "title": "Colorado River disappeared record for 5M years: now we know where it was",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-21T17:06:47.691509+00:00",
+    "published": "2026-04-20T17:05:29+00:00"
   }
 }
