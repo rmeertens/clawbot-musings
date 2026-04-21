@@ -223,6 +223,27 @@
 
     [hidden] { display: none !important; }
 
+    .heic-help {
+      margin-top: 12px;
+      padding: 14px 16px;
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      background: rgba(0, 0, 0, 0.18);
+      color: var(--muted);
+    }
+    .heic-help summary {
+      cursor: pointer;
+      font-weight: 600;
+      color: var(--text);
+    }
+    .heic-help p, .heic-help li { color: var(--muted); line-height: 1.65; }
+    .heic-help code {
+      background: rgba(255, 255, 255, 0.08);
+      padding: 1px 6px;
+      border-radius: 4px;
+      font-size: 0.9em;
+    }
+
     footer {
       margin-top: 40px;
       color: var(--muted);
@@ -254,11 +275,8 @@
           <li>Refresh the page and it's gone. Close the tab and it's gone.</li>
           <li>You can even save this page (Ctrl+S / ⌘+S) and use it fully offline.</li>
           <li>
-            <strong>One transparent exception:</strong> if you upload a <code>.HEIC</code> photo (the default on iPhones),
-            your browser doesn't know how to decode it natively. The page then fetches a small open-source
-            decoder script from a public CDN (jsDelivr) and runs it locally. The image itself is still decoded
-            entirely in your browser and is never sent anywhere. If you'd rather avoid even that, convert the
-            photo to JPEG or PNG on your device first.
+            This page deliberately pulls in <em>zero</em> third-party scripts at runtime — not even for things
+            like HEIC decoding — so there is no CDN that could be compromised to attack your copy of the page.
           </li>
         </ul>
         <p style="margin-bottom: 0;">
@@ -295,14 +313,82 @@
         </p>
       </section>
 
+      <section class="card">
+        <h2>What about the UK?</h2>
+        <p>
+          UK consumer guidance on identity-document safety is spread across three main bodies, and — unlike
+          the Dutch sources — none of them publish a step-by-step "how to redact your passport copy"
+          procedure. Their advice leans heavily on prevention, reporting, and protective registration:
+        </p>
+        <ul>
+          <li>
+            <a href="https://ico.org.uk/for-the-public/identity-theft/" target="_blank" rel="noopener">Information Commissioner's Office (ICO) — Identity theft</a>:
+            the UK regulator's consumer page. It explains the warning signs and what to do if you think your
+            personal data has been compromised, and advises reporting lost or stolen ID documents to the
+            issuing body.
+          </li>
+          <li>
+            <a href="https://www.actionfraud.police.uk/a-z-of-fraud/identity-fraud-and-identity-theft" target="_blank" rel="noopener">Action Fraud — Identity fraud and identity theft</a>:
+            the UK's national reporting centre for fraud. Recommends keeping personal documents locked away,
+            destroying anything with your name on it before binning it, and reporting lost or stolen passports
+            to HM Passport Office.
+          </li>
+          <li>
+            <a href="https://www.cifas.org.uk/services/identity-protection" target="_blank" rel="noopener">Cifas — Identity protection</a>:
+            the UK's fraud-prevention service. You can pay a small fee for <em>Protective Registration</em>
+            so that any credit or account applications in your name get extra checks.
+          </li>
+        </ul>
+        <p style="margin-bottom: 0;">
+          The underlying principle is the same in every country: share the minimum, to the minimum number of
+          people, for the minimum time, and keep a record of who you sent it to. Redacting what a recipient
+          doesn't strictly need, and stamping the copy with its purpose, travels well across jurisdictions —
+          even if only the Dutch government happens to spell it out in that much detail.
+        </p>
+      </section>
+
       <section class="card tool">
         <h2>1. Add your passport or ID</h2>
         <p class="hint">Choose a file from your device or take a photo with your camera. Both options keep the image entirely in this browser.</p>
 
         <label class="file-drop" id="drop">
           <input type="file" id="file" accept="image/*,.heic,.heif,image/heic,image/heif" />
-          <span id="drop-label">Drop an image here or click to choose a file (JPEG, PNG, HEIC…)</span>
+          <span id="drop-label">Drop an image here or click to choose a file (JPEG or PNG)</span>
         </label>
+
+        <details id="heic-help" class="heic-help">
+          <summary>Got a <code>.HEIC</code> photo from an iPhone? How to convert it first</summary>
+          <p>
+            HEIC is Apple's default photo format. This tool deliberately does not bundle a HEIC decoder,
+            because any third-party decoder loaded at runtime would be a supply-chain risk for a page that
+            handles your passport. Here's how to convert HEIC to JPEG locally on common platforms:
+          </p>
+          <ul>
+            <li>
+              <strong>iPhone / iPad</strong> — simplest: open Settings → Camera → Formats → pick
+              <em>Most Compatible</em>, then retake the photo; new photos will be JPEG. For an existing
+              HEIC, open the photo in the Files app, long-press it, choose Share → <em>Save to Files</em>
+              with the "JPEG" option, or use the built-in <em>Convert Image</em> action in the Shortcuts
+              app.
+            </li>
+            <li>
+              <strong>macOS</strong> — double-click the HEIC to open in Preview, then File → Export… → set
+              Format to JPEG.
+            </li>
+            <li>
+              <strong>Windows 10/11</strong> — install Microsoft's free "HEIF Image Extensions" from the
+              Microsoft Store, then open the file in Photos and choose "Save as" → JPEG.
+            </li>
+            <li>
+              <strong>Android</strong> — most Androids already save photos as JPEG. If you received a HEIC,
+              open it in Google Photos → menu → "Save as" / "Export".
+            </li>
+          </ul>
+          <p style="margin-bottom: 0;">
+            Please <strong>avoid online HEIC converters</strong> for this — uploading your passport to a
+            random conversion service defeats the point of this tool.
+          </p>
+        </details>
 
         <div class="upload-row">
           <button type="button" id="start-camera">📷 Take a photo with my camera</button>
@@ -344,7 +430,7 @@
           <div class="actions">
             <button type="button" id="undo">Undo last blackout</button>
             <button type="button" id="clear-blackouts" class="danger">Clear all blackouts</button>
-            <button type="button" id="download" class="primary">⬇ Download watermarked copy</button>
+            <button type="button" id="download" class="primary">⬇ Download watermarked copy (JPEG)</button>
           </div>
           <p class="hint" style="margin-top: 12px;">
             Tip: the watermark updates live as you type. Make the purpose specific (who it's for, what it's for)
@@ -421,9 +507,6 @@
         if (f) loadFile(f);
       });
 
-      const HEIC_LIB_URL = 'https://cdn.jsdelivr.net/npm/heic2any@0.0.4/dist/heic2any.min.js';
-      let heicLibPromise = null;
-
       function isHeicFile(file) {
         const type = (file.type || '').toLowerCase();
         if (type === 'image/heic' || type === 'image/heif' ||
@@ -432,36 +515,14 @@
         return name.endsWith('.heic') || name.endsWith('.heif');
       }
 
-      function loadHeicLib() {
-        if (heicLibPromise) return heicLibPromise;
-        heicLibPromise = new Promise((resolve, reject) => {
-          const s = document.createElement('script');
-          s.src = HEIC_LIB_URL;
-          s.crossOrigin = 'anonymous';
-          s.referrerPolicy = 'no-referrer';
-          s.onload = () => {
-            if (typeof window.heic2any === 'function') resolve(window.heic2any);
-            else reject(new Error('HEIC decoder did not initialise'));
-          };
-          s.onerror = () => reject(new Error('Could not fetch the HEIC decoder (offline?)'));
-          document.head.appendChild(s);
-        });
-        return heicLibPromise;
-      }
-
-      async function loadFile(file) {
+      function loadFile(file) {
         if (isHeicFile(file)) {
-          dropLabel.textContent = 'Decoding HEIC image locally… this can take a few seconds.';
-          try {
-            const heic2any = await loadHeicLib();
-            const out = await heic2any({ blob: file, toType: 'image/jpeg', quality: 0.95 });
-            const blob = Array.isArray(out) ? out[0] : out;
-            const base = (file.name || 'photo').replace(/\.(heic|heif)$/i, '');
-            file = new File([blob], base + '.jpg', { type: 'image/jpeg' });
-          } catch (err) {
-            dropLabel.textContent = 'Could not decode that HEIC file: ' + err.message;
-            return;
-          }
+          dropLabel.textContent =
+            'HEIC files can\'t be decoded safely in the browser without a third-party library. ' +
+            'Please convert the photo to JPEG or PNG first — see the instructions below.';
+          const help = document.getElementById('heic-help');
+          if (help) help.open = true;
+          return;
         }
         if (!file.type || !file.type.startsWith('image/')) {
           dropLabel.textContent = 'That file is not an image. Try again.';
@@ -598,17 +659,25 @@
       // --- Download ---
       dlBtn.addEventListener('click', () => {
         if (!image) return;
-        canvas.toBlob(blob => {
+        // Flatten onto a white background so the JPEG (no alpha) looks right.
+        const flat = document.createElement('canvas');
+        flat.width = canvas.width;
+        flat.height = canvas.height;
+        const fctx = flat.getContext('2d');
+        fctx.fillStyle = '#ffffff';
+        fctx.fillRect(0, 0, flat.width, flat.height);
+        fctx.drawImage(canvas, 0, 0);
+        flat.toBlob(blob => {
           if (!blob) return;
           const url = URL.createObjectURL(blob);
           const a = document.createElement('a');
           a.href = url;
-          a.download = 'id-copy-watermarked.png';
+          a.download = 'id-copy-watermarked.jpg';
           document.body.appendChild(a);
           a.click();
           a.remove();
           setTimeout(() => URL.revokeObjectURL(url), 2000);
-        }, 'image/png');
+        }, 'image/jpeg', 0.85);
       });
 
       // --- Rendering ---
