@@ -7086,5 +7086,173 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-04-21T17:06:47.691509+00:00",
     "published": "2026-04-20T17:05:29+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-Old-Network-AI": {
+    "title": "Linux May Drop Old Network Drivers Now That AI-Driven Bug Reports Are Causing A Burden",
+    "source": "Phoronix",
+    "first_seen": "2026-04-21T20:08:04.699720+00:00",
+    "published": "2026-04-21T19:45:52+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/from-developer-desks-to-the-whole-organization-running-claude-cowork-in-amazon-bedrock": {
+    "title": "From developer desks to the whole organization: Running Claude Cowork in Amazon Bedrock",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-04-21T20:08:04.699720+00:00",
+    "published": "2026-04-21T19:13:49+00:00"
+  },
+  "https://blog.replit.com/google-cloud-partner-award-winner": {
+    "title": "Replit Wins 2026 Google Cloud Partner of the Year Award",
+    "source": "Replit Blog",
+    "first_seen": "2026-04-21T20:08:04.699720+00:00",
+    "published": "2026-04-21T19:05:00+00:00"
+  },
+  "https://cloud.google.com/blog/topics/partners/2026-partners-of-the-year-winners-next26": {
+    "title": "Announcing our 2026 Google Cloud Partners of the Year",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-04-21T20:08:04.699720+00:00",
+    "published": "2026-04-21T19:00:00+00:00"
+  },
+  "https://openai.com/live": {
+    "title": "OpenAI Livestream",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-21T20:08:04.699720+00:00",
+    "published": "2026-04-21T18:50:00+00:00"
+  },
+  "https://devblogs.microsoft.com/dotnet/dotnet-10-0-7-oob-security-update": {
+    "title": ".NET 10.0.7 Out-of-Band Security Update",
+    "source": "MS .NET Blog",
+    "first_seen": "2026-04-21T20:08:04.699720+00:00",
+    "published": "2026-04-21T18:48:34+00:00"
+  },
+  "https://thenewstack.io/aks-edge-ai-agents": {
+    "title": "Why Microsoft is betting on temporary identities to stop autonomous agents from going rogue",
+    "source": "The New Stack",
+    "first_seen": "2026-04-21T20:08:04.699720+00:00",
+    "published": "2026-04-21T18:45:51+00:00"
+  },
+  "https://lwn.net/Articles/1068861": {
+    "title": "Fedora Verified: a proposal to recognize Fedora contributor status",
+    "source": "LWN.net",
+    "first_seen": "2026-04-21T20:08:04.699720+00:00",
+    "published": "2026-04-21T18:35:16+00:00"
+  },
+  "https://devblogs.microsoft.com/typescript/announcing-typescript-7-0-beta": {
+    "title": "Announcing TypeScript 7.0 Beta",
+    "source": "MS TypeScript Blog",
+    "first_seen": "2026-04-21T20:08:04.699720+00:00",
+    "published": "2026-04-21T18:24:17+00:00"
+  },
+  "https://www.phoronix.com/news/Framework-Laptop-13-Pro": {
+    "title": "Framework Computer Announces The Framework Laptop 13 Pro",
+    "source": "Phoronix",
+    "first_seen": "2026-04-21T20:08:04.699720+00:00",
+    "published": "2026-04-21T18:15:01+00:00"
+  },
+  "https://www.phoronix.com/news/FW-OCuLink-Dev-Kit-Preview": {
+    "title": "Framework Previews The OCuLink Dev Kit",
+    "source": "Phoronix",
+    "first_seen": "2026-04-21T20:08:04.699720+00:00",
+    "published": "2026-04-21T18:15:00+00:00"
+  },
+  "https://blog.replit.com/meet-replit-security-agent": {
+    "title": "Meet Replit Security Agent",
+    "source": "Replit Blog",
+    "first_seen": "2026-04-21T20:08:04.699720+00:00",
+    "published": "2026-04-21T18:02:07+00:00"
+  },
+  "https://frame.work/laptop13pro": {
+    "title": "Framework Laptop 13 Pro",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-21T20:08:04.699720+00:00",
+    "published": "2026-04-21T18:00:34+00:00"
+  },
+  "https://github.com/calcom/cal.diy": {
+    "title": "Cal.diy: open-source community edition of cal.com",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-21T20:08:04.699720+00:00",
+    "published": "2026-04-21T17:58:21+00:00"
+  },
+  "https://economictimes.indiatimes.com/tech/technology/meta-to-start-capturing-employee-mouse-movements-keystrokes-for-ai-training-data/articleshow/130422612.cms?from=mdr": {
+    "title": "Meta capturing employee mouse movements, keystrokes for AI training data",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-21T20:08:04.699720+00:00",
+    "published": "2026-04-21T17:40:39+00:00"
+  },
+  "https://britannica11.org": {
+    "title": "Britannica11.org – a structured edition of the 1911 Encyclopædia Britannica",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-21T20:08:04.699720+00:00",
+    "published": "2026-04-21T17:33:50+00:00"
+  },
+  "https://thenewstack.io/anthropic-amazon-aws-investment": {
+    "title": "Amazon and Anthropic deepen AI ties with a $100B AWS commitment",
+    "source": "The New Stack",
+    "first_seen": "2026-04-21T20:08:04.699720+00:00",
+    "published": "2026-04-21T17:15:53+00:00"
+  },
+  "https://www.trendmicro.com/en_us/research/26/d/vercel-breach-oauth-supply-chain.html": {
+    "title": "The Vercel breach: OAuth attack exposes risk in platform environment variables",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-21T20:08:04.699720+00:00",
+    "published": "2026-04-21T17:14:35+00:00"
+  },
+  "https://github.com/Arc1011/KernelUNO": {
+    "title": "Ibuilt a tiny Unix‑like 'OS' with shell and filesystem for Arduino UNO (2KB RAM)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-21T20:08:04.699720+00:00",
+    "published": "2026-04-21T17:14:26+00:00"
+  },
+  "https://www.ycombinator.com/companies/trellis-ai/jobs/SvzJaTH-member-of-technical-staff-product-engineering-full-time": {
+    "title": "Trellis AI (YC W24) Is hiring engineers to build self-improving agents",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-21T20:08:04.699720+00:00",
+    "published": "2026-04-21T17:01:15+00:00"
+  },
+  "https://medium.com/airbnb-engineering/building-a-fault-tolerant-metrics-storage-system-at-airbnb-26a01a6e7017?source=rss----53c7c27702d5---4": {
+    "title": "Building a fault-tolerant metrics storage system at Airbnb",
+    "source": "Airbnb Engineering",
+    "first_seen": "2026-04-21T20:08:04.699720+00:00",
+    "published": "2026-04-21T17:01:06+00:00"
+  },
+  "https://cheesemap.netlify.app": {
+    "title": "A Periodic Map of Cheese",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-21T20:08:04.699720+00:00",
+    "published": "2026-04-21T16:31:21+00:00"
+  },
+  "https://www.hashicorp.com/blog/from-80-days-to-5-how-banco-bradesco-accelerated-digital-product-delivery-with-hc": {
+    "title": "From 80 days to 5: How Banco Bradesco accelerated digital product delivery with HCP Terraform",
+    "source": "HashiCorp Blog",
+    "first_seen": "2026-04-21T20:08:04.699720+00:00",
+    "published": "2026-04-21T16:00:00+00:00"
+  },
+  "https://grafana.com/blog/pyroscope-2-0-release": {
+    "title": "Introducing Pyroscope 2.0: faster, more cost-effective continuous profiling at scale",
+    "source": "Grafana Blog",
+    "first_seen": "2026-04-21T20:08:04.699720+00:00",
+    "published": "2026-04-21T07:20:39+00:00"
+  },
+  "https://grafana.com/blog/o11y-bench-open-benchmark-for-observability-agents": {
+    "title": "Introducing o11y-bench: an open benchmark for AI agents running observability workflows",
+    "source": "Grafana Blog",
+    "first_seen": "2026-04-21T20:08:04.699720+00:00",
+    "published": "2026-04-21T06:43:10+00:00"
+  },
+  "https://blog.replit.com/defense-in-depth-how-replit-secures-every-layer-of-the-vibe-coding-stack": {
+    "title": "Defense in Depth: How Replit Secures Every Layer of the Vibe Coding Stack",
+    "source": "Replit Blog",
+    "first_seen": "2026-04-21T20:08:04.699720+00:00",
+    "published": "2026-04-21T03:00:43+00:00"
+  },
+  "https://www.elastic.co/blog/elastic-wins-fifth-google-cloud-partner-of-the-year": {
+    "title": "Elastic wins fifth Google Cloud Partner of the Year award",
+    "source": "Elastic Blog",
+    "first_seen": "2026-04-21T20:08:04.699720+00:00",
+    "published": "2026-04-21T00:00:00+00:00"
+  },
+  "https://planetscale.com/blog/approaches-to-tenancy-in-postgres": {
+    "title": "Approaches to tenancy in Postgres",
+    "source": "PlanetScale Blog",
+    "first_seen": "2026-04-21T20:08:04.699720+00:00",
+    "published": "2026-04-21T00:00:00+00:00"
   }
 }
