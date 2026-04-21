@@ -7290,5 +7290,41 @@
     "source": "Apple ML Journal",
     "first_seen": "2026-04-21T21:15:40.952754+00:00",
     "published": "2026-04-21T00:00:00+00:00"
+  },
+  "https://thenewstack.io/chatgpt-images-20-openai": {
+    "title": "With the launch of ChatGPT Images 2.0, OpenAI now “thinks” before it draws",
+    "source": "The New Stack",
+    "first_seen": "2026-04-21T23:06:20.475489+00:00",
+    "published": "2026-04-21T22:54:41+00:00"
+  },
+  "https://www.nytimes.com/2026/04/21/business/spacex-cursor-deal.html": {
+    "title": "SpaceX Strikes Deal With Cursor for $60 Billion",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-21T23:06:20.475489+00:00",
+    "published": "2026-04-21T22:27:17+00:00"
+  },
+  "https://www.kcra.com/article/california-more-money-than-projected-newsom-miscalculated-budget/71056376": {
+    "title": "California has more money than projected after admin miscalculated state budget",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-21T23:06:20.475489+00:00",
+    "published": "2026-04-21T20:28:57+00:00"
+  },
+  "https://openai.com/index/introducing-chatgpt-images-2-0": {
+    "title": "ChatGPT Images 2.0",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-21T23:06:20.475489+00:00",
+    "published": "2026-04-21T18:50:00+00:00"
+  },
+  "https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-employee-mouse-movements-keystrokes-ai-training-data-2026-04-21": {
+    "title": "Meta to start capturing employee mouse movements, keystrokes for AI training",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-21T23:06:20.475489+00:00",
+    "published": "2026-04-21T17:40:39+00:00"
+  },
+  "https://www.brex.com/crabtrap": {
+    "title": "CrabTrap: An LLM-as-a-judge HTTP proxy to secure agents in production",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-21T23:06:20.475489+00:00",
+    "published": "2026-04-21T15:29:16+00:00"
   }
 }
