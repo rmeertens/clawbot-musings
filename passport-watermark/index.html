@@ -235,12 +235,11 @@
 <body>
   <div class="page-shell">
     <header class="hero">
-      <p class="eyebrow">inspired by KopieID</p>
+      <p class="eyebrow">based on official Dutch government advice</p>
       <h1>Passport Watermark &amp; Blackout Tool</h1>
       <p class="hero-copy">
         Upload or photograph a scan of your passport or ID card, black out the personal details you don't want
-        to share, and stamp a diagonal watermark with the purpose and date. Built in the spirit of the Dutch
-        government's <strong>KopieID</strong> app — but done entirely in your browser.
+        to share, and stamp a diagonal watermark with the purpose and date — done entirely in your browser.
       </p>
       <a class="back" href="../">← Back to Clawbot Musings</a>
     </header>
@@ -254,6 +253,13 @@
           <li>Nothing is saved — not in cookies, not in localStorage, not anywhere.</li>
           <li>Refresh the page and it's gone. Close the tab and it's gone.</li>
           <li>You can even save this page (Ctrl+S / ⌘+S) and use it fully offline.</li>
+          <li>
+            <strong>One transparent exception:</strong> if you upload a <code>.HEIC</code> photo (the default on iPhones),
+            your browser doesn't know how to decode it natively. The page then fetches a small open-source
+            decoder script from a public CDN (jsDelivr) and runs it locally. The image itself is still decoded
+            entirely in your browser and is never sent anywhere. If you'd rather avoid even that, convert the
+            photo to JPEG or PNG on your device first.
+          </li>
         </ul>
         <p style="margin-bottom: 0;">
           This matters because a photo of your ID is sensitive data: it contains your full name, date of birth,
@@ -263,19 +269,29 @@
       </section>
 
       <section class="card">
-        <h2>What KopieID does (and why)</h2>
+        <h2>What the Dutch government recommends</h2>
         <p>
-          KopieID is a free app from the Dutch Ministry of the Interior. Its advice, which this tool implements,
-          is simple:
+          Two official sources give consistent advice for sharing a copy of a Dutch ID document:
+          <a href="https://www.rijksoverheid.nl/onderwerpen/identiteitsfraude/vraag-en-antwoord/fraude-voorkomen-met-kopie-id-bewijs" target="_blank" rel="noopener">Rijksoverheid</a>
+          (the central government portal) and the
+          <a href="https://www.autoriteitpersoonsgegevens.nl/nl/onderwerpen/identificatie/identiteitsbewijs" target="_blank" rel="noopener">Autoriteit Persoonsgegevens</a>
+          (the Dutch Data Protection Authority). In short:
         </p>
         <ul>
-          <li><strong>Black out</strong> the personal details the recipient doesn't strictly need — especially your BSN (citizen service number), document number, and the machine-readable zone (MRZ) at the bottom.</li>
-          <li><strong>Write the purpose</strong> of the copy directly on the image so it can't be reused for something else.</li>
-          <li><strong>Write the date</strong> so anyone looking at it later knows when it was made.</li>
-          <li><strong>Add a diagonal watermark</strong> across the document so a scan of a scan is still clearly a single-purpose copy.</li>
+          <li>Make your <strong>BSN</strong> (burgerservicenummer / citizen service number) unreadable on the copy — <em>including</em> in the machine-readable digits at the bottom of the document.</li>
+          <li>You are allowed to black out your <strong>passport photo</strong> and <strong>signature</strong> too.</li>
+          <li>Write on the copy that it is a <strong>copy</strong>, and for whom / for what product or purpose the copy is intended.</li>
+          <li>Write on the copy the <strong>date</strong> on which you're giving the copy away.</li>
         </ul>
+        <p>
+          The Autoriteit Persoonsgegevens is explicit that some organisations — for example telecom providers
+          and car rental companies — are not even allowed to process your BSN and passport photo, and must
+          block them out themselves if they make a copy.
+        </p>
         <p style="margin-bottom: 0;">
-          Important: always keep your own record of who you sent a copy to, so if it ever leaks you know where it came from.
+          Good to know: for Dutch passports and ID cards issued from <strong>2 August 2021</strong> onwards, the BSN is no
+          longer printed on the front of the document at all — it's encoded in a QR code on the back, so a plain
+          scan of the front no longer exposes it. Older documents still print the BSN and need it blacked out.
         </p>
       </section>
 
@@ -284,8 +300,8 @@
         <p class="hint">Choose a file from your device or take a photo with your camera. Both options keep the image entirely in this browser.</p>
 
         <label class="file-drop" id="drop">
-          <input type="file" id="file" accept="image/*" />
-          <span id="drop-label">Drop an image here or click to choose a file</span>
+          <input type="file" id="file" accept="image/*,.heic,.heif,image/heic,image/heif" />
+          <span id="drop-label">Drop an image here or click to choose a file (JPEG, PNG, HEIC…)</span>
         </label>
 
         <div class="upload-row">
@@ -348,8 +364,11 @@
       </section>
 
       <footer>
-        Built as a KopieID-style companion for clawbot-musings. No data is collected.
-        View the source of this page to verify — it's a single HTML file with no external scripts.
+        A small clawbot-musings experiment that follows the advice of
+        <a href="https://www.rijksoverheid.nl/onderwerpen/identiteitsfraude/vraag-en-antwoord/fraude-voorkomen-met-kopie-id-bewijs" target="_blank" rel="noopener">Rijksoverheid</a>
+        and the
+        <a href="https://www.autoriteitpersoonsgegevens.nl/nl/onderwerpen/identificatie/identiteitsbewijs" target="_blank" rel="noopener">Autoriteit Persoonsgegevens</a>.
+        No data is collected — view source to verify.
       </footer>
     </main>
   </div>
@@ -402,8 +421,49 @@
         if (f) loadFile(f);
       });
 
-      function loadFile(file) {
-        if (!file.type.startsWith('image/')) {
+      const HEIC_LIB_URL = 'https://cdn.jsdelivr.net/npm/heic2any@0.0.4/dist/heic2any.min.js';
+      let heicLibPromise = null;
+
+      function isHeicFile(file) {
+        const type = (file.type || '').toLowerCase();
+        if (type === 'image/heic' || type === 'image/heif' ||
+            type === 'image/heic-sequence' || type === 'image/heif-sequence') return true;
+        const name = (file.name || '').toLowerCase();
+        return name.endsWith('.heic') || name.endsWith('.heif');
+      }
+
+      function loadHeicLib() {
+        if (heicLibPromise) return heicLibPromise;
+        heicLibPromise = new Promise((resolve, reject) => {
+          const s = document.createElement('script');
+          s.src = HEIC_LIB_URL;
+          s.crossOrigin = 'anonymous';
+          s.referrerPolicy = 'no-referrer';
+          s.onload = () => {
+            if (typeof window.heic2any === 'function') resolve(window.heic2any);
+            else reject(new Error('HEIC decoder did not initialise'));
+          };
+          s.onerror = () => reject(new Error('Could not fetch the HEIC decoder (offline?)'));
+          document.head.appendChild(s);
+        });
+        return heicLibPromise;
+      }
+
+      async function loadFile(file) {
+        if (isHeicFile(file)) {
+          dropLabel.textContent = 'Decoding HEIC image locally… this can take a few seconds.';
+          try {
+            const heic2any = await loadHeicLib();
+            const out = await heic2any({ blob: file, toType: 'image/jpeg', quality: 0.95 });
+            const blob = Array.isArray(out) ? out[0] : out;
+            const base = (file.name || 'photo').replace(/\.(heic|heif)$/i, '');
+            file = new File([blob], base + '.jpg', { type: 'image/jpeg' });
+          } catch (err) {
+            dropLabel.textContent = 'Could not decode that HEIC file: ' + err.message;
+            return;
+          }
+        }
+        if (!file.type || !file.type.startsWith('image/')) {
           dropLabel.textContent = 'That file is not an image. Try again.';
           return;
         }
