@@ -6750,5 +6750,215 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-04-21T11:08:05.141746+00:00",
     "published": "2026-04-21T10:33:24+00:00"
+  },
+  "https://www.cncf.io/blog/2026/04/21/auto-diagnosing-kubernetes-alerts-with-holmesgpt-and-cncf-tools": {
+    "title": "Auto-diagnosing Kubernetes alerts with HolmesGPT and CNCF tools",
+    "source": "CNCF Blog",
+    "first_seen": "2026-04-21T15:26:17.978272+00:00",
+    "published": "2026-04-21T15:06:09+00:00"
+  },
+  "https://cloud.google.com/blog/topics/training-certifications/gear-up-to-get-the-most-out-of-ai-learning-at-google-cloud-next26": {
+    "title": "GEAR up to get the most out of AI learning at Google Cloud Next ‘26",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-04-21T15:26:17.978272+00:00",
+    "published": "2026-04-21T15:00:00+00:00"
+  },
+  "https://krebsonsecurity.com/2026/04/scattered-spider-member-tylerb-pleads-guilty": {
+    "title": "‘Scattered Spider’ Member ‘Tylerb’ Pleads Guilty",
+    "source": "Krebs on Security",
+    "first_seen": "2026-04-21T15:26:17.978272+00:00",
+    "published": "2026-04-21T14:53:59+00:00"
+  },
+  "https://e360.yale.edu/digest/great-white-sharks-climate": {
+    "title": "As Oceans Warm, Great White Sharks Are Overheating",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-21T15:26:17.978272+00:00",
+    "published": "2026-04-21T14:48:55+00:00"
+  },
+  "https://www.wired.com/story/ai-generated-maga-girls": {
+    "title": "Scammer Used an AI-Generated MAGA Girl to Grift 'Super Dumb' Men",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-21T15:26:17.978272+00:00",
+    "published": "2026-04-21T14:41:36+00:00"
+  },
+  "https://martinfowler.com/fragments/2026-04-21.html": {
+    "title": "Fragments: April 21",
+    "source": "Martin Fowler",
+    "first_seen": "2026-04-21T15:26:17.978272+00:00",
+    "published": "2026-04-21T14:34:00+00:00"
+  },
+  "https://blog.google/products/ads-commerce/ads-advisor-google-ads": {
+    "title": "3 new ways Ads Advisor is making Google Ads safer and faster",
+    "source": "Google AI Blog",
+    "first_seen": "2026-04-21T15:26:17.978272+00:00",
+    "published": "2026-04-21T14:30:00+00:00"
+  },
+  "https://www.fusionenergybase.com/fusion-power-plant-simulator": {
+    "title": "Fusion Power Plant Simulator",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-21T15:26:17.978272+00:00",
+    "published": "2026-04-21T14:26:52+00:00"
+  },
+  "https://lwn.net/Articles/1067234": {
+    "title": "[$] Using LLMs to find Python C-extension bugs",
+    "source": "LWN.net",
+    "first_seen": "2026-04-21T15:26:17.978272+00:00",
+    "published": "2026-04-21T14:24:53+00:00"
+  },
+  "https://lwn.net/Articles/1068839": {
+    "title": "Firefox 150 released",
+    "source": "LWN.net",
+    "first_seen": "2026-04-21T15:26:17.978272+00:00",
+    "published": "2026-04-21T14:22:43+00:00"
+  },
+  "https://www.worseonpurpose.com/p/your-favorite-brands-got-worse-on-purpose": {
+    "title": "Your favorite brands got worse on purpose",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-21T15:26:17.978272+00:00",
+    "published": "2026-04-21T14:19:49+00:00"
+  },
+  "https://devblogs.microsoft.com/devops/azure-devops-mcp-server-april-update": {
+    "title": "Azure DevOps MCP Server April Update",
+    "source": "MS DevOps Blog",
+    "first_seen": "2026-04-21T15:26:17.978272+00:00",
+    "published": "2026-04-21T14:12:23+00:00"
+  },
+  "https://github.com/ENTERPILOT/GOModel": {
+    "title": "Show HN: GoModel – an open-source AI gateway in Go; 44x lighter than LiteLLM",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-21T15:26:17.978272+00:00",
+    "published": "2026-04-21T14:11:53+00:00"
+  },
+  "https://realpython.com/courses/leverage-openais-api-in-your-python-projects": {
+    "title": "Leverage OpenAI's API in Your Python Projects",
+    "source": "Real Python",
+    "first_seen": "2026-04-21T15:26:17.978272+00:00",
+    "published": "2026-04-21T14:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/topics/developers-practitioners/introducing-the-builders-hub-from-the-google-developer-program": {
+    "title": "Introducing the Builders Hub from the Google Developer Program",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-04-21T15:26:17.978272+00:00",
+    "published": "2026-04-21T13:26:00+00:00"
+  },
+  "https://www.universetoday.com/articles/the-vera-c-rubin-observatory-has-discovered-11000-new-asteroids-and-its-barely-even-started": {
+    "title": "Vera C. Rubin Observatory has Discovered 11,000 New Asteroids",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-21T15:26:17.978272+00:00",
+    "published": "2026-04-21T13:24:34+00:00"
+  },
+  "https://techcrunch.com/2026/04/20/anthropic-takes-5b-from-amazon-and-pledges-100b-in-cloud-spending-in-return": {
+    "title": "Anthropic takes $5B from Amazon and pledges $100B in cloud spending in return",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-21T15:26:17.978272+00:00",
+    "published": "2026-04-21T13:08:25+00:00"
+  },
+  "https://lwn.net/Articles/1068830": {
+    "title": "Security updates for Tuesday",
+    "source": "LWN.net",
+    "first_seen": "2026-04-21T15:26:17.978272+00:00",
+    "published": "2026-04-21T13:06:08+00:00"
+  },
+  "https://www.tindie.com": {
+    "title": "Tindie store under \"scheduled maintenance\" for days",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-21T15:26:17.978272+00:00",
+    "published": "2026-04-21T13:02:00+00:00"
+  },
+  "https://www.phoronix.com/review/amd-ryzen-9950x3d2-linux": {
+    "title": "AMD Ryzen 9 9950X3D2 Benchmarks: The Best Desktop Performance For Linux Developers, Creators",
+    "source": "Phoronix",
+    "first_seen": "2026-04-21T15:26:17.978272+00:00",
+    "published": "2026-04-21T13:00:00+00:00"
+  },
+  "https://www.databricks.com/blog/real-time-decisioning-ai-agents-why-you-need-customer-context-layer-first": {
+    "title": "Real-Time Decisioning for AI Agents: Why you Need a Customer Context Layer First",
+    "source": "Databricks Blog",
+    "first_seen": "2026-04-21T15:26:17.978272+00:00",
+    "published": "2026-04-21T13:00:00+00:00"
+  },
+  "https://thenewstack.io/fix-developer-burnout-outages": {
+    "title": "Why only 37% of developers trust AI for incident response",
+    "source": "The New Stack",
+    "first_seen": "2026-04-21T15:26:17.978272+00:00",
+    "published": "2026-04-21T13:00:00+00:00"
+  },
+  "https://blog.cloudflare.com/past-bots-and-humans": {
+    "title": "Moving past bots vs. humans",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-04-21T15:26:17.978272+00:00",
+    "published": "2026-04-21T13:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/Intel-IRDMA-Gen4-Linux-7.1": {
+    "title": "Intel IRDMA Driver Adds Support For GEN4 Hardware In Linux 7.1",
+    "source": "Phoronix",
+    "first_seen": "2026-04-21T15:26:17.978272+00:00",
+    "published": "2026-04-21T12:55:28+00:00"
+  },
+  "https://newsletter.pragmaticengineer.com/p/learnings-from-conducting-1000-interviews": {
+    "title": "Learnings from conducting ~1,000 interviews at Amazon",
+    "source": "The Pragmatic Engineer",
+    "first_seen": "2026-04-21T15:26:17.978272+00:00",
+    "published": "2026-04-21T12:49:16+00:00"
+  },
+  "https://www.phoronix.com/news/RADV-Default-Host-Image-Copy": {
+    "title": "RADV Driver Enables Host Image Copy By Default For RDNA2 & Newer",
+    "source": "Phoronix",
+    "first_seen": "2026-04-21T15:26:17.978272+00:00",
+    "published": "2026-04-21T12:24:59+00:00"
+  },
+  "https://realpython.com/quizzes/uv-vs-pip-python": {
+    "title": "Quiz: uv vs pip: Python Packaging and Dependency Management",
+    "source": "Real Python",
+    "first_seen": "2026-04-21T15:26:17.978272+00:00",
+    "published": "2026-04-21T12:00:00+00:00"
+  },
+  "https://realpython.com/quizzes/leverage-openais-api-in-your-python-projects": {
+    "title": "Quiz: Leverage OpenAI's API in Your Python Projects",
+    "source": "Real Python",
+    "first_seen": "2026-04-21T15:26:17.978272+00:00",
+    "published": "2026-04-21T12:00:00+00:00"
+  },
+  "https://vidstudio.app/video-editor": {
+    "title": "Show HN: VidStudio, a browser based video editor that doesn't upload your files",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-21T15:26:17.978272+00:00",
+    "published": "2026-04-21T11:58:16+00:00"
+  },
+  "https://lawsofsoftwareengineering.com": {
+    "title": "Laws of Software Engineering",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-21T15:26:17.978272+00:00",
+    "published": "2026-04-21T11:04:56+00:00"
+  },
+  "https://fsfe.org/news/2026/news-20260420-01.html": {
+    "title": "Apple ignores DMA interoperability requests and contradicts own documentation",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-21T15:26:17.978272+00:00",
+    "published": "2026-04-21T10:57:53+00:00"
+  },
+  "https://nial.se/blog/less-human-ai-agents-please": {
+    "title": "Less human AI agents, please",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-21T15:26:17.978272+00:00",
+    "published": "2026-04-21T06:58:08+00:00"
+  },
+  "https://openai.com/index/scaling-codex-to-enterprises-worldwide": {
+    "title": "Scaling Codex to enterprises worldwide",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-04-21T15:26:17.978272+00:00",
+    "published": "2026-04-21T00:00:00+00:00"
+  },
+  "https://huggingface.co/blog/cybersecurity-openness": {
+    "title": "AI and the Future of Cybersecurity: Why Openness Matters",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-04-21T15:26:17.978272+00:00",
+    "published": "2026-04-21T00:00:00+00:00"
+  },
+  "https://simonwillison.net/2026/Apr/20/llm-openrouter": {
+    "title": "llm-openrouter 0.6",
+    "source": "Simon Willison",
+    "first_seen": "2026-04-21T15:26:17.978272+00:00",
+    "published": "2026-04-20T18:00:26+00:00"
   }
 }
