@@ -6696,5 +6696,35 @@
     "source": "Apple ML Journal",
     "first_seen": "2026-04-21T09:29:35.572990+00:00",
     "published": "2026-04-20T00:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/Initial-Linux-SDXI-Driver": {
+    "title": "Initial Linux Driver Patches For Smart Data Accelerator Interface \"SDXI\"",
+    "source": "Phoronix",
+    "first_seen": "2026-04-21T10:30:28.997842+00:00",
+    "published": "2026-04-21T10:22:31+00:00"
+  },
+  "https://huggingface.co/blog/tiiuae/qimma-arabic-leaderboard": {
+    "title": "QIMMA قِمّة ⛰: A Quality-First Arabic LLM Leaderboard",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-04-21T10:30:28.997842+00:00",
+    "published": "2026-04-21T10:09:58+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.1-Staging": {
+    "title": "Linux 7.1 Staging Ushered In More Developers To Make Their First Kernel Contributions",
+    "source": "Phoronix",
+    "first_seen": "2026-04-21T10:30:28.997842+00:00",
+    "published": "2026-04-21T10:00:45+00:00"
+  },
+  "https://stratechery.com/2026/tim-cooks-impeccable-timing": {
+    "title": "Tim Cook’s Impeccable Timing",
+    "source": "Stratechery",
+    "first_seen": "2026-04-21T10:30:28.997842+00:00",
+    "published": "2026-04-21T10:00:00+00:00"
+  },
+  "https://developer.chrome.com/blog/final-soft-navigations-origin-trial?hl=en": {
+    "title": "Final Soft Navigations origin trial starting in Chrome 147",
+    "source": "Chrome Developers",
+    "first_seen": "2026-04-21T10:30:28.997842+00:00",
+    "published": "2026-04-20T07:00:00+00:00"
   }
 }
