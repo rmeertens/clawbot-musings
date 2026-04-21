@@ -6504,5 +6504,197 @@
     "source": "matklad",
     "first_seen": "2026-04-20T21:13:55.901760+00:00",
     "published": "2026-04-20T00:00:00+00:00"
+  },
+  "https://opentelemetry.io/blog/2026/devex-skyscanner": {
+    "title": "How Skyscanner scales OpenTelemetry: managing collectors across 24 production clusters",
+    "source": "OpenTelemetry Blog",
+    "first_seen": "2026-04-21T09:29:35.572990+00:00",
+    "published": "2026-04-21T07:54:19+00:00"
+  },
+  "https://stackoverflow.blog/2026/04/21/we-still-need-developer-communities": {
+    "title": "We still need developer communities",
+    "source": "Stack Overflow Blog",
+    "first_seen": "2026-04-21T09:29:35.572990+00:00",
+    "published": "2026-04-21T07:40:00+00:00"
+  },
+  "https://grafana.com/blog/ai-observability-for-agents-in-grafana-cloud": {
+    "title": "AI Observability in Grafana Cloud: A complete solution for monitoring your agentic workloads",
+    "source": "Grafana Blog",
+    "first_seen": "2026-04-21T09:29:35.572990+00:00",
+    "published": "2026-04-21T06:35:04+00:00"
+  },
+  "https://grafana.com/blog/grafana-assistant-everywhere": {
+    "title": "Grafana Assistant everywhere: Customize and connect to the AI agent to fit your specific needs",
+    "source": "Grafana Blog",
+    "first_seen": "2026-04-21T09:29:35.572990+00:00",
+    "published": "2026-04-21T06:35:03+00:00"
+  },
+  "https://grafana.com/blog/grafana-13-release-all-the-latest-features": {
+    "title": "Grafana 13 release: get value from your data faster, manage operations at scale, and more!",
+    "source": "Grafana Blog",
+    "first_seen": "2026-04-21T09:29:35.572990+00:00",
+    "published": "2026-04-21T06:35:03+00:00"
+  },
+  "https://grafana.com/blog/grafana-labs-acquires-logline": {
+    "title": "Grafana Labs acquires Logline to accelerate needle-in-the-haystack log queries",
+    "source": "Grafana Blog",
+    "first_seen": "2026-04-21T09:29:35.572990+00:00",
+    "published": "2026-04-21T06:35:02+00:00"
+  },
+  "https://grafana.com/blog/grafanacon-2026-announcements": {
+    "title": "GrafanaCON 2026 announcements: A guide to all the latest news from Grafana Labs",
+    "source": "Grafana Blog",
+    "first_seen": "2026-04-21T09:29:35.572990+00:00",
+    "published": "2026-04-21T06:31:40+00:00"
+  },
+  "https://grafana.com/blog/grafana-marketplace-pilot": {
+    "title": "An early look at the Grafana Marketplace: Expanding the big tent",
+    "source": "Grafana Blog",
+    "first_seen": "2026-04-21T09:29:35.572990+00:00",
+    "published": "2026-04-21T06:30:02+00:00"
+  },
+  "https://luke.hsiao.dev/blog/changesets-polyglot-monorepo": {
+    "title": "Using Changesets in a polyglot monorepo",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-21T09:29:35.572990+00:00",
+    "published": "2026-04-21T06:25:50+00:00"
+  },
+  "https://icv2.com/articles/news/view/62176/r-i-p-louis-zocchi-the-godfather-dice": {
+    "title": "Louis Zocchi, inventor of the d100, has died",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-21T09:29:35.572990+00:00",
+    "published": "2026-04-21T06:19:15+00:00"
+  },
+  "https://aadamjacobscollection.org": {
+    "title": "A mad undertaking: An undefinitive guide to the Aadam Jacobs collection",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-21T09:29:35.572990+00:00",
+    "published": "2026-04-21T06:12:41+00:00"
+  },
+  "https://thenewstack.io/suse-nvidia-ai-factory": {
+    "title": "SUSE and Nvidia reveal a turnkey AI factory for sovereign enterprise workloads",
+    "source": "The New Stack",
+    "first_seen": "2026-04-21T09:29:35.572990+00:00",
+    "published": "2026-04-21T06:00:00+00:00"
+  },
+  "https://www.brunogavranovic.com/posts/2026-04-20-types-and-neural-networks.html": {
+    "title": "Types and Neural Networks",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-21T09:29:35.572990+00:00",
+    "published": "2026-04-21T05:59:53+00:00"
+  },
+  "https://www.science.org/content/article/cocaine-pollution-gives-salmon-wanderlust": {
+    "title": "Salmon exposed to cocaine and its main byproduct roam more widely",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-21T09:29:35.572990+00:00",
+    "published": "2026-04-21T05:27:35+00:00"
+  },
+  "https://longwoodgardens.org/blog/2023-05-17/beauty-bonsai-styles": {
+    "title": "The Beauty of Bonsai Styles",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-21T09:29:35.572990+00:00",
+    "published": "2026-04-21T04:31:30+00:00"
+  },
+  "https://webmatrices.com/post/how-a-roblox-cheat-and-one-ai-tool-brought-down-vercel-s-entire-platform": {
+    "title": "A Roblox cheat and one AI tool brought down Vercel's platform",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-21T09:29:35.572990+00:00",
+    "published": "2026-04-21T04:12:12+00:00"
+  },
+  "https://docs.openclaw.ai/providers/anthropic": {
+    "title": "Anthropic says OpenClaw-style Claude CLI usage is allowed again",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-21T09:29:35.572990+00:00",
+    "published": "2026-04-21T03:43:03+00:00"
+  },
+  "https://zef-lang.dev/implementation": {
+    "title": "How to make a fast dynamic language interpreter",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-21T09:29:35.572990+00:00",
+    "published": "2026-04-21T00:48:07+00:00"
+  },
+  "https://huggingface.co/blog/nvidia/build-korean-agents-with-nemotron-personas": {
+    "title": "How to Ground a Korean AI Agent in Real Demographics with Synthetic Personas",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-04-21T09:29:35.572990+00:00",
+    "published": "2026-04-21T00:40:10+00:00"
+  },
+  "https://www.phoronix.com/news/AMD-GAIA-Import-Export-Agent": {
+    "title": "AMD's GAIA Makes It Easier To Import/Export Custom AI Agents Across PCs",
+    "source": "Phoronix",
+    "first_seen": "2026-04-21T09:29:35.572990+00:00",
+    "published": "2026-04-21T00:36:00+00:00"
+  },
+  "https://www.phoronix.com/news/HarfBuzz-14.2-Released": {
+    "title": "HarfBuzz Continues Improving Its New GPU-Accelerated Text Shaping Library",
+    "source": "Phoronix",
+    "first_seen": "2026-04-21T09:29:35.572990+00:00",
+    "published": "2026-04-21T00:23:56+00:00"
+  },
+  "https://developer.nvidia.com/blog/maximizing-memory-efficiency-to-run-bigger-models-on-nvidia-jetson": {
+    "title": "Maximizing Memory Efficiency to Run Bigger Models on NVIDIA Jetson",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-04-21T09:29:35.572990+00:00",
+    "published": "2026-04-20T23:01:04+00:00"
+  },
+  "https://developer.nvidia.com/blog/run-high-throughput-reinforcement-learning-training-with-end-to-end-fp8-precision": {
+    "title": "Run High-Throughput Reinforcement Learning Training with End-to-End FP8 Precision",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-04-21T09:29:35.572990+00:00",
+    "published": "2026-04-20T22:52:15+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/aurora-serverless-faster-performance-enhanced-scaling-and-still-scales-down-to-zero": {
+    "title": "Aurora Serverless: Faster performance, enhanced scaling, and still scales down to zero",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-04-21T09:29:35.572990+00:00",
+    "published": "2026-04-20T21:57:29+00:00"
+  },
+  "https://ccs.getmonero.org/ideas": {
+    "title": "Monero Community Crowdfunding System",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-21T09:29:35.572990+00:00",
+    "published": "2026-04-20T21:33:15+00:00"
+  },
+  "https://isaaccorbrey.com/notes/jujutsu-megamerges-for-fun-and-profit": {
+    "title": "Jujutsu megamerges for fun and profit",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-21T09:29:35.572990+00:00",
+    "published": "2026-04-20T21:32:10+00:00"
+  },
+  "https://www.tigerdata.com/blog/write-amplification-in-postgres-the-3-4x-tax-on-every-insert": {
+    "title": "Write Amplification in Postgres: The 3-4x Tax on Every Insert",
+    "source": "Timescale Blog",
+    "first_seen": "2026-04-21T09:29:35.572990+00:00",
+    "published": "2026-04-20T21:31:25+00:00"
+  },
+  "https://github.com/gizmo64k/soulplayer-c64": {
+    "title": "Soul Player C64 – A real transformer running on a 1 MHz Commodore 64",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-21T09:29:35.572990+00:00",
+    "published": "2026-04-20T19:51:07+00:00"
+  },
+  "https://mediator.ai": {
+    "title": "Show HN: Mediator.ai – Using Nash bargaining and LLMs to systematize fairness",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-21T09:29:35.572990+00:00",
+    "published": "2026-04-20T15:07:04+00:00"
+  },
+  "http://mnt.stanleylieber.com/reform": {
+    "title": "MNT Reform is an open hardware laptop, designed and assembled in Germany",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-21T09:29:35.572990+00:00",
+    "published": "2026-04-20T14:14:52+00:00"
+  },
+  "http://bair.berkeley.edu/blog/2026/04/20/grasp": {
+    "title": "Gradient-based Planning for World Models at Longer Horizons",
+    "source": "BAIR Blog",
+    "first_seen": "2026-04-21T09:29:35.572990+00:00",
+    "published": "2026-04-20T09:00:00+00:00"
+  },
+  "https://machinelearning.apple.com/research/what-do-your-logits-know": {
+    "title": "What Do Your Logits Know? (The Answer May Surprise You!)",
+    "source": "Apple ML Journal",
+    "first_seen": "2026-04-21T09:29:35.572990+00:00",
+    "published": "2026-04-20T00:00:00+00:00"
   }
 }
