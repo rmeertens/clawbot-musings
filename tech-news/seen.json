@@ -6726,5 +6726,29 @@
     "source": "Chrome Developers",
     "first_seen": "2026-04-21T10:30:28.997842+00:00",
     "published": "2026-04-20T07:00:00+00:00"
+  },
+  "https://www.schneier.com/blog/archives/2026/04/mexican-surveillance-company.html": {
+    "title": "Mexican Surveillance Company",
+    "source": "Schneier on Security",
+    "first_seen": "2026-04-21T11:08:05.141746+00:00",
+    "published": "2026-04-21T11:04:59+00:00"
+  },
+  "https://thenewstack.io/open-vsx-managed-registry": {
+    "title": "Eclsipse Foundation offers enterprise-grade open source alternative to Microsoft’s VS Code Marketplace",
+    "source": "The New Stack",
+    "first_seen": "2026-04-21T11:08:05.141746+00:00",
+    "published": "2026-04-21T11:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.1-Arm-C1-Pro-Fix": {
+    "title": "Linux 7.1 Lands Workaround For Arm C1-Pro Erratum",
+    "source": "Phoronix",
+    "first_seen": "2026-04-21T11:08:05.141746+00:00",
+    "published": "2026-04-21T10:35:16+00:00"
+  },
+  "https://codemix.com/graph": {
+    "title": "A type-safe, realtime collaborative Graph Database in a CRDT",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-21T11:08:05.141746+00:00",
+    "published": "2026-04-21T10:33:24+00:00"
   }
 }
