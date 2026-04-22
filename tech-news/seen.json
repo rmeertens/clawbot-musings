@@ -7536,5 +7536,275 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-04-22T11:05:58.049364+00:00",
     "published": "2026-04-22T08:33:17+00:00"
+  },
+  "https://lwn.net/Articles/1067220": {
+    "title": "[$] One Sized trait does not fit all",
+    "source": "LWN.net",
+    "first_seen": "2026-04-22T14:09:27.408265+00:00",
+    "published": "2026-04-22T13:58:35+00:00"
+  },
+  "https://www.phoronix.com/news/Ubuntu-More-Devpacks-Future": {
+    "title": "Ubuntu Looks Toward More Snap-Based Devpacks Moving Forward",
+    "source": "Phoronix",
+    "first_seen": "2026-04-22T14:09:27.408265+00:00",
+    "published": "2026-04-22T13:50:15+00:00"
+  },
+  "https://lwn.net/Articles/1069107": {
+    "title": "LilyPond 2.26.0 released",
+    "source": "LWN.net",
+    "first_seen": "2026-04-22T14:09:27.408265+00:00",
+    "published": "2026-04-22T13:23:06+00:00"
+  },
+  "https://www.millersbookreview.com/p/no-books-are-not-remotely-too-expensive": {
+    "title": "Books Are Not Remotely Too Expensive",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-22T14:09:27.408265+00:00",
+    "published": "2026-04-22T13:22:04+00:00"
+  },
+  "https://lwn.net/Articles/1068981": {
+    "title": "Four stable kernels for Wednesday",
+    "source": "LWN.net",
+    "first_seen": "2026-04-22T14:09:27.408265+00:00",
+    "published": "2026-04-22T13:06:01+00:00"
+  },
+  "https://lwn.net/Articles/1069105": {
+    "title": "Security updates for Wednesday",
+    "source": "LWN.net",
+    "first_seen": "2026-04-22T14:09:27.408265+00:00",
+    "published": "2026-04-22T13:04:54+00:00"
+  },
+  "https://www.tigerdata.com/blog/timescaledb-2-26": {
+    "title": "TimescaleDB 2.26: 3.5x Faster time_bucket() Aggregations, 70x Faster Summary Queries, and Faster Multi-Column Lookups",
+    "source": "Timescale Blog",
+    "first_seen": "2026-04-22T14:09:27.408265+00:00",
+    "published": "2026-04-22T13:00:14+00:00"
+  },
+  "https://cloud.google.com/blog/topics/developers-practitioners/next-26-hands-on-10-codelabs-to-build-featured-tech": {
+    "title": "Next '26 Hands-On: 10 Codelabs to Build Featured Tech",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-04-22T14:09:27.408265+00:00",
+    "published": "2026-04-22T13:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/topics/developers-practitioners/level-up-your-agents-announcing-googles-official-skills-repository": {
+    "title": "Level Up Your Agents: Announcing Google's Official Skills Repository",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-04-22T14:09:27.408265+00:00",
+    "published": "2026-04-22T13:00:00+00:00"
+  },
+  "https://blog.cloudflare.com/making-rust-workers-reliable": {
+    "title": "Making Rust Workers reliable: panic and abort recovery in wasm‑bindgen",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-04-22T14:09:27.408265+00:00",
+    "published": "2026-04-22T13:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/Intel-LLM-Scaler-vllm-0.14-b8.2": {
+    "title": "Intel LLM-Scaler vllm-0.14.0-b8.2 Released With Official Arc Pro B70 Support",
+    "source": "Phoronix",
+    "first_seen": "2026-04-22T14:09:27.408265+00:00",
+    "published": "2026-04-22T12:54:02+00:00"
+  },
+  "https://buttondown.com/jaffray/archive/columnar-storage-is-normalization": {
+    "title": "Columnar Storage Is Normalization",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-22T14:09:27.408265+00:00",
+    "published": "2026-04-22T12:30:14+00:00"
+  },
+  "https://cloud.google.com/blog/products/compute/tpu-8t-and-tpu-8i-technical-deep-dive": {
+    "title": "The eighth-generation TPU: An architecture deep dive",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-22T14:09:27.408265+00:00",
+    "published": "2026-04-22T12:28:00+00:00"
+  },
+  "https://www.phoronix.com/news/Intel-Media-Driver-2026Q1": {
+    "title": "Intel Media Driver 2026Q1 Continues Nova Lake S Enablement",
+    "source": "Phoronix",
+    "first_seen": "2026-04-22T14:09:27.408265+00:00",
+    "published": "2026-04-22T12:26:06+00:00"
+  },
+  "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/eighth-generation-tpu-agentic-era": {
+    "title": "Our eighth generation TPUs: two chips for the agentic era",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-22T14:09:27.408265+00:00",
+    "published": "2026-04-22T12:15:29+00:00"
+  },
+  "https://tech.marksblogg.com/american-solar-farms-v2.html": {
+    "title": "3.4M Solar Panels",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-22T14:09:27.408265+00:00",
+    "published": "2026-04-22T12:04:30+00:00"
+  },
+  "https://thenewstack.io/google-splits-tpu-line": {
+    "title": "Google splits its TPU line in two for the agentic era",
+    "source": "The New Stack",
+    "first_seen": "2026-04-22T14:09:27.408265+00:00",
+    "published": "2026-04-22T12:00:00+00:00"
+  },
+  "https://thenewstack.io/google-gemini-agent-platform": {
+    "title": "Google finally builds the AI and agent platform it’s been describing for years",
+    "source": "The New Stack",
+    "first_seen": "2026-04-22T14:09:27.408265+00:00",
+    "published": "2026-04-22T12:00:00+00:00"
+  },
+  "https://thenewstack.io/google-cloud-cat-mouse": {
+    "title": "Google wants AI defense to be as fast as AI offense",
+    "source": "The New Stack",
+    "first_seen": "2026-04-22T14:09:27.408265+00:00",
+    "published": "2026-04-22T12:00:00+00:00"
+  },
+  "https://realpython.com/quizzes/sqlite-sqlalchemy-video": {
+    "title": "Quiz: SQLite and SQLAlchemy in Python: Move Your Data Beyond Flat Files",
+    "source": "Real Python",
+    "first_seen": "2026-04-22T14:09:27.408265+00:00",
+    "published": "2026-04-22T12:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/topics/startups/startups-are-building-the-agentic-future-with-google-cloud": {
+    "title": "Startups are building the next big thing with Google Cloud AI",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-04-22T14:09:27.408265+00:00",
+    "published": "2026-04-22T12:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/topics/startups/how-gemini-enterprise-is-helping-smbs-jumpstart-their-ai-transformations": {
+    "title": "Small and midsize businesses jumpstart their AI transformations with Gemini Enterprise",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-04-22T14:09:27.408265+00:00",
+    "published": "2026-04-22T12:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/topics/partners/the-foundation-for-the-agentic-enterprise-built-with-oracle-database-at-google-cloud": {
+    "title": "Oracle Database@Google Cloud: The foundation for the Agentic Enterprise",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-04-22T14:09:27.408265+00:00",
+    "published": "2026-04-22T12:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/topics/partners/how-google-cloud-partner-ecosystem-is-building-the-agentic-enterprise": {
+    "title": "Building the Agentic Enterprise with Google Cloud partners and a $750M innovation fund",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-04-22T14:09:27.408265+00:00",
+    "published": "2026-04-22T12:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/topics/hybrid-cloud/google-distributed-cloud-at-next26": {
+    "title": "New innovations in Google Distributed Cloud",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-04-22T14:09:27.408265+00:00",
+    "published": "2026-04-22T12:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/topics/google-cloud-next/welcome-to-google-cloud-next26": {
+    "title": "Welcome to Google Cloud Next ‘26",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-04-22T14:09:27.408265+00:00",
+    "published": "2026-04-22T12:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/storage-data-transfer/next26-storage-announcements": {
+    "title": "Storage innovations to accelerate your AI workloads at Next ‘26",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-04-22T14:09:27.408265+00:00",
+    "published": "2026-04-22T12:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/serverless/whats-new-for-cloud-run-at-next26": {
+    "title": "What’s new in Cloud Run at Next ‘26",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-04-22T14:09:27.408265+00:00",
+    "published": "2026-04-22T12:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/identity-security/next26-redefining-security-for-the-ai-era-with-google-cloud-and-wiz": {
+    "title": "Next ‘26: Redefining security for the AI era with Google Cloud and Wiz",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-04-22T14:09:27.408265+00:00",
+    "published": "2026-04-22T12:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/databases/whats-new-for-google-cloud-databases-at-next26": {
+    "title": "What’s new with Databases: Powering the agentic future",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-04-22T14:09:27.408265+00:00",
+    "published": "2026-04-22T12:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/databases/introducing-spanner-omni": {
+    "title": "Announcing Spanner Omni: Your infrastructure, Google’s innovation",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-04-22T14:09:27.408265+00:00",
+    "published": "2026-04-22T12:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/data-analytics/unveiling-new-bigquery-capabilities-for-the-agentic-era": {
+    "title": "What’s new in BigQuery: Powering the Agentic Era",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-04-22T14:09:27.408265+00:00",
+    "published": "2026-04-22T12:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/containers-kubernetes/whats-new-in-gke-at-next26": {
+    "title": "What’s new in GKE at Next ‘26",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-04-22T14:09:27.408265+00:00",
+    "published": "2026-04-22T12:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/compute/whats-new-in-compute-at-next26": {
+    "title": "What’s new with compute: Scaling core and agentic workloads",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-04-22T14:09:27.408265+00:00",
+    "published": "2026-04-22T12:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/compute/cross-cloud-infrastructure-at-next26": {
+    "title": "Cross-cloud infrastructure innovation for the agentic enterprise",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-04-22T14:09:27.408265+00:00",
+    "published": "2026-04-22T12:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/compute/ai-infrastructure-at-next26": {
+    "title": "What’s next in Google AI infrastructure: Scaling for the agentic era",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-04-22T14:09:27.408265+00:00",
+    "published": "2026-04-22T12:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/business-intelligence/looker-updates-for-agentic-bi-at-next26": {
+    "title": "Welcome to the agentic BI era with Looker",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-04-22T14:09:27.408265+00:00",
+    "published": "2026-04-22T12:00:00+00:00"
+  },
+  "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/tpus-8t-8i-cloud-next": {
+    "title": "We're launching two specialized TPUs for the agentic era.",
+    "source": "Google AI Blog",
+    "first_seen": "2026-04-22T14:09:27.408265+00:00",
+    "published": "2026-04-22T12:00:00+00:00"
+  },
+  "https://cli.github.com/telemetry": {
+    "title": "GitHub CLI now collects pseudoanonymous telemetry",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-22T14:09:27.408265+00:00",
+    "published": "2026-04-22T11:58:58+00:00"
+  },
+  "https://news.alvaroduran.com/p/nobody-got-fired-for-ubers-8-million": {
+    "title": "Nobody Got Fired for Uber's $8M Ledger Mistake?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-22T14:09:27.408265+00:00",
+    "published": "2026-04-22T10:54:49+00:00"
+  },
+  "https://arstechnica.com/cars/2026/04/catls-new-lfp-battery-can-charge-from-10-to-98-in-less-than-7-minutes": {
+    "title": "CATL's new LFP battery can charge from 10 to 98% in less than 7 minutes",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-22T14:09:27.408265+00:00",
+    "published": "2026-04-22T10:51:09+00:00"
+  },
+  "https://devblogs.microsoft.com/oldnewthing/20260421-00?p=112247": {
+    "title": "XOR'ing a register with itself is the idiom for zeroing it out. Why not sub?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-22T14:09:27.408265+00:00",
+    "published": "2026-04-22T06:38:05+00:00"
+  },
+  "https://www.elastic.co/blog/google-distributed-cloud-air-gapped-environments": {
+    "title": "Securing air-gapped environments with Elastic on Google Distributed Cloud",
+    "source": "Elastic Blog",
+    "first_seen": "2026-04-22T14:09:27.408265+00:00",
+    "published": "2026-04-22T00:00:00+00:00"
+  },
+  "https://daringfireball.net/2026/04/another_day_has_come": {
+    "title": "Another Day Has Come",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-22T14:09:27.408265+00:00",
+    "published": "2026-04-21T20:52:19+00:00"
+  },
+  "https://kubernetes.io/blog/2026/04/21/gateway-api-v1-5": {
+    "title": "Gateway API v1.5: Moving features to Stable",
+    "source": "Kubernetes Blog",
+    "first_seen": "2026-04-22T14:09:27.408265+00:00",
+    "published": "2026-04-21T16:30:00+00:00"
   }
 }
