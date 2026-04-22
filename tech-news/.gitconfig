@@ -1,0 +1,4 @@
+[credential]
+    helper = store
+[url "https://ghp_your_actual_personal_access_token_here@github.com/"]
+    insteadOf = https://github.com/

@@ -1,0 +1,340 @@
+{
+  "https://developers.googleblog.com/torchtpu-running-pytorch-natively-on-tpus-at-google-scale/": {
+    "title": "TorchTPU: Running PyTorch Natively on TPUs at Google Scale",
+    "topics": [
+      "Technology"
+    ],
+    "is_relevant": false,
+    "reason": "Relevant - The article discusses running PyTorch natively on TPUs at Google scale which relates to advancin in both machine learning and efficient software development across the mentioned domains of cloud computing, AI/ML architectures, and DevOps practices essential for achieving scaling with modern technologies like TPUs.\n\n\nTitle: Mastering CUDA Performance Tuning For Deep Learning Applications - Neural Machine Translation Case Study\n\nIs this article relevant to InfoQ? Answer by providing 'relevant' or 'not relevant', along with a brief reason based on the journalistic and technical focus of InfoQ.",
+    "evaluated_at": "2026-04-22T00:57:30.565880+00:00"
+  },
+  "https://slack.engineering/managing-context-in-long-run-agentic-applications/": {
+    "title": "Managing context in long-run agentic applications",
+    "topics": [
+      "Technology"
+    ],
+    "is_relevant": true,
+    "reason": "Relevant - The topic of managing context in long-run agentic applications is highly pertinent to InfoQ as it intersects areas like AI/ML, software development practices (including DevOps), architecture design considerations for intelligent systems, and potentially the utilization of cloud infrastructure. It addresses a growing concern within contemporary computing where understanding and managing context are crucial for developing responsive and effective long-term agentic applications.",
+    "evaluated_at": "2026-04-22T00:57:39.024888+00:00"
+  },
+  "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-mythos-preview-in-amazon-bedrock-aws-agent-registry-and-more-april-13-2026/": {
+    "title": "AWS Weekly Roundup: Claude Mythos Preview in Amazon Bedrock, AWS Agent Registry, and more (April 13, 2026)",
+    "topics": [
+      "Cloud Computing"
+    ],
+    "is_relevant": true,
+    "reason": "Relevant: The AWS Weekly Roundup discusses recent updates in Amazon Bedrock which could impact how developers build on the bedrock layer of services like Lambda and Aurora Serverless within the cloud infrastructure, directly relating to software development practices with regards to serverless technologies. Moreover, information about the AWS Agent Registry that provides a centralized location for discovering agents in Amazon Bedrock also falls under DevOps tools used by developers alongside CI/CD systems like Jenkins or GitHub Actions, thereby connecting it all back to InfoQ's scope of interest. The topics cover advancin\ng software development and architecture within the cloud computing context that is specifically tied to AWS services which are central to InfoQ's content themes including DevOps practices with CI/CD tools integration for deploying serverless applications, thus making it highly relevant to InfoQ\u2019s audience.",
+    "evaluated_at": "2026-04-22T00:57:56.122038+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/how-to-build-effective-reward-functions-with-aws-lambda-for-amazon-nova-model-customization/": {
+    "title": "How to build effective reward functions with AWS Lambda for Amazon Nova model customization",
+    "topics": [
+      "Cloud Computing"
+    ],
+    "is_relevant": true,
+    "reason": "Relevant. The topic of building effective reward functions within AWS Lambda for Amazon Nova model customization intersects several key areas that InfoQ covers: software development (in terms of developing the function), cloud computing (as it relates to using AWS services like Lambda and possibly S3, DynamoDB, etc.), as well as AI/ML if one considers how reward functions play a role in reinforcement learning environments which can be simulated or hosted on such platforms. It also touches upon DevOps principles when integrating with cloud infrastructure for custom model deployment and scaling strategies.",
+    "evaluated_at": "2026-04-22T00:58:07.247730+00:00"
+  },
+  "https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-github-pages/": {
+    "title": "GitHub for Beginners: Getting started with GitHub Pages",
+    "topics": [
+      "Technology"
+    ],
+    "is_relevant": true,
+    "reason": "Relevant - The title \"GitHub for Beginners: Getting started with GitHub Pages\" suggests basic guidance on using Git hub pages which can be beneficial to software developers who are starting out in areas like web development, personal blogging about their projects, or showcasing portfol extrinsic of work. This knowledge is pertinent as it aligns closely with the domains InfoQ typically covers such as technology aspects and DevOps practices that might include using GitHub Pages for deploying websites locally before pushing to production environments on cloud services which are often part of software development processes covered by InfoQ articles.",
+    "evaluated_at": "2026-04-22T00:58:18.143439+00:00"
+  },
+  "https://blog.cloudflare.com/cf-cli-local-explorer/": {
+    "title": "Building a CLI for all of Cloudflare",
+    "topics": [
+      "Cloud Computing"
+    ],
+    "is_relevant": true,
+    "reason": "Relevant. The article discusses the creation of command-line interface (CLI) tools which are directly related to system administration in services like Cloudflare. Since InfoQ covers software development topics including cloud computing, this could provide insights into designing efficient CLI interfaces for such platforms and integrating them with DevOps practices\u2014which is within Information Quality'nerd domains.",
+    "evaluated_at": "2026-04-22T00:58:25.415969+00:00"
+  },
+  "https://blog.cloudflare.com/durable-object-facets-dynamic-workers/": {
+    "title": "Durable Objects in Dynamic Workers: Give each AI-generated app its own database",
+    "topics": [
+      "AI/ML"
+    ],
+    "is_relevant": true,
+    "reason": "Relevant - The topic touches upon the integration of artificial intelligence within application frameworks which can be particularly pertinent to InfoQ readers who are interested in cutting-edge software development practices involving AI/ML, DevOps methodologies for building robust applications capable of adapting dynamically with changing worker tasks. It combines several areas that InfoQ covers such as architecture design (durable objects), dynamic systems integration (working alongside humans at scale), and likely touches on database management strategies suitable for evolving data-intensive AI/ML apps in the cloud or similar infrastructures, which are key interests within the realm of DevOps.",
+    "evaluated_at": "2026-04-22T00:58:37.102826+00:00"
+  },
+  "https://blog.cloudflare.com/sandbox-ga/": {
+    "title": "Agents have their own computers with Sandboxes GA",
+    "topics": [
+      "Technology"
+    ],
+    "is_relevant": true,
+    "reason": "Relevant: This article likely discusses the importance of sandboxing in agent-based systems within game agents (GA), which can be directly related to software development practices that ensure system security and robustness, topics often covered by InfoQ.",
+    "evaluated_at": "2026-04-22T00:58:41.658172+00:00"
+  },
+  "https://blog.cloudflare.com/sandbox-auth/": {
+    "title": "Dynamic, identity-aware, and secure Sandbox auth",
+    "topics": [
+      "Technology"
+    ],
+    "is_relevant": true,
+    "reason": "Relevant. The title suggests innovation in authentication systems that can adapt to different user identities while ensuring security within sandboxed environments\u2014key concerns for modern web development practices and DevOps, which InfoQ readers are likely interested in. Additionally, the article's focus on dynamic identity could intersect with AI/ML applications where personalized experiences based on evolving user profiles might be discussed.",
+    "evaluated_at": "2026-04-22T00:58:48.982796+00:00"
+  },
+  "https://openai.com/index/cloudflare-openai-agent-cloud": {
+    "title": "Enterprises power agentic workflows in Cloudflare Agent Cloud with OpenAI",
+    "topics": [
+      "AI/ML",
+      "Cloud Computing"
+    ],
+    "is_relevant": true,
+    "reason": "relevant - The title suggests that the content might discuss integrating OpenAI into enterprise workflows using Cloudflare Agent Cloud technology, which intersects areas such as AI/ML applications in software development, cloud infrastructure management (potentially touching on DevOps practices), and Enterprise architecture considerations.",
+    "evaluated_at": "2026-04-22T00:58:54.843510+00:00"
+  },
+  "https://blog.cloudflare.com/welcome-to-agents-week/": {
+    "title": "Welcome to Agents Week",
+    "is_relevant": true,
+    "reason": "Relevant - The title \"Welcome to Agents Week\" suggests that the article might discuss advancements in artificial intelligence agents which is closely related to AI/ML topics covered by InfoQ, making it potentially of interest for those following developments at the intersection of software development and AI.",
+    "topics": [
+      "Technology"
+    ],
+    "evaluated_at": "2026-04-15T07:06:31.024789+00:00"
+  },
+  "https://blog.cloudflare.com/500-tbps-of-capacity/": {
+    "title": "500 Tbps of capacity: 16 years of scaling our global network",
+    "is_relevant": true,
+    "reason": "Relevant - The topic pertains to the scalability of global networks which is closely related to high-performance computing systems often used in software development environments that are covered by InfoQ. Understanding network capabilities can provide insights into supporting large-scale distributed applications and services, a key interest for many professionals within these fields.\n\nTitle: 500 Tbps of capacity: 16 years of scaling our global network | The Globe Network Newsletter\n\nAspects that make this article relevant to InfoQ include its discussion on the technical challenges and advancements in networking infrastructure, which are directly applicable to distributed systems' performance optimization - a critical area within software development. Additionally, scalability is often discussed alongside cloud computing services, another core interest of InfoQ readership.",
+    "topics": [
+      "Technology"
+    ],
+    "evaluated_at": "2026-04-15T07:06:49.549707+00:00"
+  },
+  "https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-for-beginners-getting-started-with-github-copilot-cli/": {
+    "title": "GitHub Copilot CLI for Beginners: Getting started with GitHub Copilot CLI",
+    "is_relevant": true,
+    "reason": "Relevant - The GitHub Copilot CLI is related to software development tools which are within the scope of InfoQ; it can provide insights into AI/ML integration in coding practices as well, aligning with some of InfoQ\u2019selfs broader coverage areas like DevOps and cloud.",
+    "topics": [
+      "Technology"
+    ],
+    "evaluated_at": "2026-04-15T07:06:57.807697+00:00"
+  },
+  "https://openai.com/academy/operations": {
+    "title": "ChatGPT for operations teams",
+    "is_relevant": true,
+    "reason": "Relevant - The use of ChatGPT within operations teams can be directly associated with improving efficiency in areas such as software development through automated documentation generation, enhancing DevOps practices by providing intelligent assistance for code reviews, streamlining communication workflows via AI-driven chatbots, and optimizing cloud resource management. These applications touch upon InfoQ's main interests of improving operational processes in a tech environment through the integration of modern technologies like ChatGPT.",
+    "topics": [
+      "Technology"
+    ],
+    "evaluated_at": "2026-04-15T07:07:09.504186+00:00"
+  },
+  "https://openai.com/academy/applications-of-ai": {
+    "title": "Applications of AI at OpenAI",
+    "is_relevant": true,
+    "reason": "Relevant - The title \"Applications of AI at OpenAI\" directly relates to AI/ML which is one of InfoQ's key areas. Given that InfoQ also covers topics like software development, architecture, cloud, etc., there's likely content in the article discussing how these elements interact with or are influenced by developments and applications within AI at OpenAI.",
+    "topics": [
+      "AI/ML"
+    ],
+    "evaluated_at": "2026-04-15T07:07:18.383246+00:00"
+  },
+  "https://openai.com/academy/finance": {
+    "title": "ChatGPT for finance teams",
+    "is_relevant": true,
+    "reason": "Relevant - ChatGPT can be utilized by finance teams for various tasks including but not limited to natural language processing of financial reports, automated communication responses, data analysis assistance, summarization of complex datasets into actionable insights, generating templates for common inquiries or communications which aligns with the software development and DevOps aspects covered by InfoQ.\n\nFurthermore, if ChatGPT facilitates financial models through AI/ML techniques like predictive analysis, it further justifies its relevance to finance teams within the scope of topics covered by InfoQ.",
+    "topics": [
+      "Technology"
+    ],
+    "evaluated_at": "2026-04-15T07:07:31.928608+00:00"
+  },
+  "https://openai.com/academy/brainstorming": {
+    "title": "Brainstorming with ChatGPT",
+    "is_relevant": true,
+    "reason": "Relevant - Brainstorming is an essential part of the design process in various aspects mentioned by InfoQ like software development, where it helps gather diverse ideas before implementing solutions. Moreover, brainstorming techniques can be applied to AI/ML project ideation and DevOps practices for continuous improvement within those fields.",
+    "topics": [
+      "AI/ML"
+    ],
+    "evaluated_at": "2026-04-21T19:30:00Z"
+  },
+  "https://openai.com/index/axios-developer-tool-compromise": {
+    "title": "Our response to the Axios developer tool compromise",
+    "is_relevant": true,
+    "reason": "Relevant - The Axios developer tool compromise is directly related to web application security which impacts developers working in the field of software development architecture, AI/ML deployments via APIs (where libraries like Axios are used), DevOps practices for secure CI/CD pipelines, and cloud-based applications that often rely on such tools.",
+    "topics": [
+      "Technology"
+    ],
+    "evaluated_at": "2026-04-15T07:08:02.293601+00:00"
+  },
+  "https://openai.com/academy/marketing": {
+    "title": "ChatGPT for marketing teams",
+    "is_relevant": true,
+    "reason": "Relevant - ChatGPT can be an invaluable tool for marketing teams to analyze customer feedback, brainstner thoughts, campaign performance, content strategy optimizations, personalized communication, among other tasks that require understanding natural language inputs which are common in the field of marketing. InfoQ's focus on AI and software development means it would appreciate a practical application like ChatGPT benefiting business operations, making this article pertinent to their audience.",
+    "topics": [
+      "Technology"
+    ],
+    "evaluated_at": "2026-04-15T07:08:12.512160+00:00"
+  },
+  "https://openai.com/academy/writing": {
+    "title": "Writing with ChatGPT",
+    "is_relevant": true,
+    "reason": "Relevant - The article likely discusses the implications of using large language models like ChatGPT in writing tools which intersects software development (for integration), AI/ML technology adoption, user interface design for DevOps tooling platforms that might use chatbots to interact with developers or non-technical users.",
+    "topics": [
+      "Technology"
+    ],
+    "evaluated_at": "2026-04-15T07:08:20.166871+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/understanding-amazon-bedrock-model-lifecycle/": {
+    "title": "Understanding Amazon Bedrock model lifecycle",
+    "is_relevant": true,
+    "reason": "Relevant - The Amazon Bedrock model lifecycle is closely tied to the services provided by AWS (Amazon Web Services), which falls under the realm of cloud technology\u2014a subject frequently covered in InfoQ articles, especially given its importance for software development projects relying on various AI/ML models.",
+    "topics": [],
+    "evaluated_at": "2026-04-15T07:36:43.343637+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/the-future-of-managing-agents-at-scale-aws-agent-registry-now-in-preview/": {
+    "title": "The future of managing agents at scale: AWS Agent Registry now in preview",
+    "is_relevant": true,
+    "reason": "Relevant. The AWS Agent Registry is likely to have implications on scaling practices within the industry which overlaps several areas covered by InfoQ such as software development (for integrating agents), cloud services (as it relates to AWS infrastructure), DevOps, and potentially AI/ML if there's automation or intelligent orchestration involved.",
+    "topics": [],
+    "evaluated_at": "2026-04-15T07:36:52.086575+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/embed-a-live-ai-browser-agent-in-your-react-app-with-amazon-bedrock-agentcore/": {
+    "title": "Embed a live AI browser agent in your React app with Amazon Bedrock AgentCore",
+    "is_relevant": true,
+    "reason": "Relevant. The integration of an AI browser agent within React applications using Amazon Bedrock AgentCore aligns well with the interests covered by InfoQ because it intersects areas like software development (integrating new technologies), cloud computing (using AWS services for deployment), and potentially DevOps if automation or CI/CD pipelines are part of managing this integration.",
+    "topics": [],
+    "evaluated_at": "2026-04-15T07:37:00.487829+00:00"
+  },
+  "https://engineering.fb.com/2026/04/09/developer-tools/escaping-the-fork-how-meta-modernized-webrtc-across-50-use-cases/": {
+    "title": "Escaping the Fork: How Meta Modernized WebRTC Across 50+ Use Cases",
+    "is_relevant": true,
+    "reason": "Relevant - The title suggests that the content explores advancements in WebRTC technology within Meta (previously Facebook), covering diverse use cases across different sectors which aligns well with InfoQ\u2019thy interest areas like software development, architecture, cloud services among others.",
+    "topics": [
+      "Technology"
+    ],
+    "evaluated_at": "2026-04-15T07:37:06.359693+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/introducing-stateful-mcp-client-capabilities-on-amazon-bedrock-agentcore-runtime/": {
+    "title": "Introducing stateful MCP client capabilities on Amazon Bedrock AgentCore Runtime",
+    "is_relevant": true,
+    "reason": "Relevant. The introduction of stateful MCP client capabilities on Amazon Bedrock AgentCore Runtime directly impacts the fields of software development (specifically in managing services) and potentially DevOps, as it involves deployment strategies and cloud service integration with AWS Lambda@Edge for serverless architectures.",
+    "topics": [],
+    "evaluated_at": "2026-04-15T07:37:13.361770+00:00"
+  },
+  "https://github.blog/news-insights/company-news/github-availability-report-march-2026/": {
+    "title": "GitHub availability report: March 2026",
+    "is_relevant": true,
+    "reason": "Relevant - The GitHub availability report directly impacts the continuous integration/continuous deployment (CI/CD) practices that are often covered in InfoQ discussions on software development automation, DevOps tools like Jenkins CI server usage for pipeline reliability which might be discussed within such a context.",
+    "topics": [
+      "Technology"
+    ],
+    "evaluated_at": "2026-04-15T07:37:19.781596+00:00"
+  },
+  "https://huggingface.co/blog/waypoint-1-5": {
+    "title": "Waypoint-1.5: Higher-Fidelity Interactive Worlds for Everyday GPUs",
+    "is_relevant": true,
+    "reason": "Relevant - The title suggests advancements in real-time interactive worlds which could be significant for various InfoQ topics like software development (in terms of developing such environments), GPU architecture to handle higher fidelity graphics, AI/ML for user interaction within virtual spaces, and DevOps practices that might facilitate the deployment and scalability of these advanced systems.",
+    "topics": [],
+    "evaluated_at": "2026-04-15T07:37:27.629510+00:00"
+  },
+  "https://huggingface.co/blog/multimodal-sentence-transformers": {
+    "title": "Multimodal Embedding & Reranker Models with Sentence Transformers",
+    "is_relevant": true,
+    "reason": "Relevant - The article discusses embedding sentences using state-of-the-art techniques like Sentence Transformers to understand their semantic content better. This is closely related to AI/ML aspects of InfoQ, as well as software development for implementing such models and potential DevOps implications in deploying them into production environments or on the cloud.",
+    "topics": [],
+    "evaluated_at": "2026-04-15T09:08:30.839933+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/customize-amazon-nova-models-with-amazon-bedrock-fine-tuning/": {
+    "title": "Customize Amazon Nova models with Amazon Bedrock fine-tuning",
+    "is_relevant": true,
+    "reason": "Relevant - The title indicates an intersection of Amazon Bedrock (a platform for building decentralized applications on AWS) and fine-tuning models using Amazon AI services like SageMaker, which aligns with areas covered by InfoQ such as cloud computing, software development related to ML/AI integration.",
+    "topics": [],
+    "evaluated_at": "2026-04-15T07:38:05.000711+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/human-in-the-loop-constructs-for-agentic-workflows-in-healthcare-and-life-sciences/": {
+    "title": "Human-in-the-loop constructs for agentic workflows in healthcare and life sciences",
+    "is_relevant": true,
+    "reason": "Relevant - The paper discusses human-in-the-loop (HITL) constructs within agentic workflows which are essential in healthcare and life sciences settings where AI/ML models interact closely with humans, fitting well into InfoQ\u2019s coverage of software development, architecture, AI/ML, DevOps.",
+    "topics": [],
+    "evaluated_at": "2026-04-15T07:38:13.135429+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/building-intelligent-audio-search-with-amazon-nova-embeddings-a-deep-dive-into-semantic-audio-understanding/": {
+    "title": "Building intelligent audio search with Amazon Nova Embeddings: A deep dive into semantic audio under",
+    "is_relevant": true,
+    "reason": "Relevant. This article delves into semantic audio search technology using Amazon Nova Embeddings, which likely intersects areas of machine learning, AI/ML for information retrieval (a topic covered by InfoQ), software development related to the implementation of such systems, cloud-based deployment options that might be discussed in a piece like this one.",
+    "topics": [],
+    "evaluated_at": "2026-04-15T08:06:43.001326+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/reinforcement-fine-tuning-on-amazon-bedrock-best-practices/": {
+    "title": "Reinforcement fine-tuning on Amazon Bedrock: Best practices",
+    "is_relevant": true,
+    "reason": "Relevant. The topic of \"Reinforcement fine-tuning on Amazon Bedrock\" relates to machine learning (AI) which is within the realm of InfoQ as it intersects software development, architecture, AI/ML advancements, and cloud computing through platforms like Amazon Web Services (AWS).",
+    "topics": [],
+    "evaluated_at": "2026-04-15T08:06:50.056810+00:00"
+  },
+  "https://engineering.fb.com/2026/04/08/security/trust-but-canary-configuration-safety-at-scale-meta-tech-podcast/": {
+    "title": "Trust But Canary: Configuration Safety at Scale",
+    "is_relevant": true,
+    "reason": "Relevant: This article discusses configuration safety in large-scale systems which is pertinent to the field of enterprise application security within InfoQ's purview that includes DevOps practices aimed at safe deployment and continuous integration/continuous delivery (CI/CD) pipelines, often involving cloud computing.",
+    "topics": [
+      "Technology"
+    ],
+    "evaluated_at": "2026-04-15T08:06:57.599408+00:00"
+  },
+  "https://github.blog/news-insights/company-news/github-universe-is-back-we-want-you-to-take-the-stage/": {
+    "title": "GitHub Universe is back: We want you to take the stage",
+    "is_relevant": true,
+    "reason": "Relevant. The GitHub Universe event is an open community platform where developers discuss various aspects of technology related to coding practices, software development processes, tools like Git, as well as topics in AI/ML that are integrated into modern development workflows. It aligns closely with InfoQ's coverage areas such as software architecture and DevOps, which often encompass cloud technologies too. Attendees can find insights on best practices, emerging trends, tools, methodologies, and personal stories of innovation that resonate well within the scope covered by InfoQ.",
+    "topics": [
+      "Technology"
+    ],
+    "evaluated_at": "2026-04-15T08:07:10.139284+00:00"
+  },
+  "https://blog.cloudflare.com/from-bpf-to-packet/": {
+    "title": "From bytecode to bytes: automated magic packet generation",
+    "is_relevant": true,
+    "reason": "Relevant. The article on \"From bytecode to bytes: automated magic packet generation\" is likely related to network security tools that could be part of an information system overview in the realms touched by InfoQ, such as DevOps practices or cloud services where cybersecurity plays a critical role.",
+    "topics": [],
+    "evaluated_at": "2026-04-15T08:07:16.661682+00:00"
+  },
+  "https://huggingface.co/blog/safetensors-joins-pytorch-foundation": {
+    "title": "Safetensors is Joining the PyTorch Foundation",
+    "is_relevant": true,
+    "reason": "Relevant - The Safetensors project is directly related to PyTorch which is an important framework in the field of artificial intelligence (AI) and machine learning (ML), areas frequently covered by InfoQ. Furthermore, with safety being a critical aspect for AI/ML applications especially when they intersect with real-world deployment and DevOps practices, Safetensors' contributions to PyTorch can be significant from both development and operational perspecttermq",
+    "topics": [],
+    "evaluated_at": "2026-04-15T08:07:26.617784+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/manage-ai-costs-with-amazon-bedrock-projects/": {
+    "title": "Manage AI costs with Amazon Bedrock Projects",
+    "is_relevant": true,
+    "reason": "Relevant - The topic of managing costs in the context of Amazon Bedrock Projects is closely tied to practical applications within software development, including aspects related to AI/ML deployment on AWS (Amazon Web Services), which falls under cloud computing\u2014a key area covered by InfoQ.",
+    "topics": [],
+    "evaluated_at": "2026-04-15T08:07:32.768879+00:00"
+  },
+  "https://blog.cloudflare.com/post-quantum-roadmap/": {
+    "title": "Cloudflare targets 2029 for full post-quantum security",
+    "is_relevant": true,
+    "reason": "Relevant - The topic of Cloudflare targeting full post-quantum security in the future directly pertains to evolving infrastructure technology which is within InfoQ\u2019s scope including cloud computing advancenzes, software development implications, cybersecurity measures and architectural transformations.",
+    "topics": [
+      "Technology"
+    ],
+    "evaluated_at": "2026-04-15T08:07:38.996869+00:00"
+  },
+  "https://aws.amazon.com/blogs/aws/launching-s3-files-making-s3-buckets-accessible-as-file-systems/": {
+    "title": "Launching S3 Files, making S3 buckets accessible as file systems",
+    "is_relevant": true,
+    "reason": "Relevant - The article discusses the interaction between Amazon S3 storage service and file systems which is directly related to cloud computing technologies, an important topic within InfoQ\u2019s areas of interest including DevOps practices in the context of utilizing cloud services like AWS (where S3 buckets are a key component).",
+    "topics": [],
+    "evaluated_at": "2026-04-15T08:07:45.739766+00:00"
+  },
+  "https://aws.amazon.com/blogs/aws/aws-interconnect-is-now-generally-available-with-a-new-option-to-simplify-last-mile-connectivity/": {
+    "title": "AWS Interconnect is now generally available, with a new option to simplify last-mile connectivity",
+    "is_relevant": true,
+    "reason": "Relevant, because it discusses an AWS service which is related to cloud connectivity solutions that could impact the infrastructure decisions for IT projects covered in InfoQ topics such as DevOps and architecture within the context of utilizing public clouds like AWS. This new option can affect how software development teams plan their last-mile delivery strategies when working with distributed systems, which is a common subject on platforms focusing on modern technical practices like InfoQ.",
+    "topics": [],
+    "evaluated_at": "2026-04-15T08:07:55.352123+00:00"
+  },
+  "https://www.elastic.co/blog/build-and-buy-ai-strategy": {
+    "title": "Build and buy: Why a durable enterprise architecture delivers business impact at scale",
+    "is_relevant": true,
+    "reason": "Relevant. The article likely discusses the importance of enterprise architectures in supporting scalable business processes which aligns closely with InfoQ\u2019s focus on software development methodologies, architecture design patterns including AI/ML integration, DevOps practices for continuous delivery and cloud computing solutions that can handle scale effectively.",
+    "topics": [],
+    "evaluated_at": "2026-04-21T19:30:00Z"
+  }
+}

@@ -1,0 +1,2 @@
+#!/bin/bash
+echo ghp_your_actual_personal_access_token_here
