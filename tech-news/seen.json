@@ -7428,5 +7428,59 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-04-22T05:04:52.997237+00:00",
     "published": "2026-04-21T10:19:49+00:00"
+  },
+  "https://news.ycombinator.com/item?id=47861009": {
+    "title": "Ask HN: Why Opus4.6 was silently removed from Claude Code?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-22T09:28:54.888298+00:00",
+    "published": "2026-04-22T09:09:27+00:00"
+  },
+  "https://www.databricks.com/blog/stop-hand-coding-change-data-capture-pipelines": {
+    "title": "Stop Hand-Coding Change Data Capture Pipelines",
+    "source": "Databricks Blog",
+    "first_seen": "2026-04-22T09:28:54.888298+00:00",
+    "published": "2026-04-22T08:00:00+00:00"
+  },
+  "https://www.databricks.com/blog/multimodal-data-integration-production-architectures-healthcare-ai": {
+    "title": "Multimodal Data Integration: Production Architectures for Healthcare AI",
+    "source": "Databricks Blog",
+    "first_seen": "2026-04-22T09:28:54.888298+00:00",
+    "published": "2026-04-22T08:00:00+00:00"
+  },
+  "https://thenewstack.io/groundcover-ai-observability-agents": {
+    "title": "Groundcover eyes visibility gap in agentic AI monitoring by targeting multi-step workflows",
+    "source": "The New Stack",
+    "first_seen": "2026-04-22T09:28:54.888298+00:00",
+    "published": "2026-04-22T07:00:00+00:00"
+  },
+  "https://lwn.net/Articles/1068928": {
+    "title": "Kernel code removals driven by LLM-created security reports",
+    "source": "LWN.net",
+    "first_seen": "2026-04-22T09:28:54.888298+00:00",
+    "published": "2026-04-22T06:56:14+00:00"
+  },
+  "https://lwn.net/Articles/1068906": {
+    "title": "Firefox: The zero-days are numbered",
+    "source": "LWN.net",
+    "first_seen": "2026-04-22T09:28:54.888298+00:00",
+    "published": "2026-04-22T06:23:40+00:00"
+  },
+  "https://simonwillison.net/2026/Apr/22/bobby-holley": {
+    "title": "Quoting Bobby Holley",
+    "source": "Simon Willison",
+    "first_seen": "2026-04-22T09:28:54.888298+00:00",
+    "published": "2026-04-22T05:40:56+00:00"
+  },
+  "https://causality.blog/essays/what-async-promised": {
+    "title": "What Async Promised and What It Delivered",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-22T09:28:54.888298+00:00",
+    "published": "2026-04-22T05:28:58+00:00"
+  },
+  "https://github.com/justrach/kuri": {
+    "title": "Kuri – Zig based agent-browser alternative",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-22T09:28:54.888298+00:00",
+    "published": "2026-04-22T02:15:38+00:00"
   }
 }
