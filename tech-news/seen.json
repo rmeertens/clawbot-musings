@@ -7806,5 +7806,89 @@
     "source": "Kubernetes Blog",
     "first_seen": "2026-04-22T14:09:27.408265+00:00",
     "published": "2026-04-21T16:30:00+00:00"
+  },
+  "https://lwn.net/Articles/1068692": {
+    "title": "[$] Dependency-cooldown discussions warm up",
+    "source": "LWN.net",
+    "first_seen": "2026-04-22T15:25:49.179538+00:00",
+    "published": "2026-04-22T15:21:01+00:00"
+  },
+  "https://blog.alcazarsec.com/tech/posts/best-time-to-post-on-hacker-news": {
+    "title": "The best time to post on Hacker News",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-22T15:25:49.179538+00:00",
+    "published": "2026-04-22T14:56:47+00:00"
+  },
+  "https://duckdb.org/2026/04/13/announcing-duckdb-152": {
+    "title": "DuckDB 1.5.2 – SQL database that runs on laptop, server, in the browser",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-22T15:25:49.179538+00:00",
+    "published": "2026-04-22T14:49:02+00:00"
+  },
+  "https://www.adriankrebs.ch/blog/design-slop": {
+    "title": "Show HN submissions tripled and are now mostly vibe-coded",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-22T15:25:49.179538+00:00",
+    "published": "2026-04-22T14:44:32+00:00"
+  },
+  "https://devblogs.microsoft.com/devops/actual-result-azure-test-plans": {
+    "title": "Public Preview: Actual Result for Manual Tests in Azure Test Plans",
+    "source": "MS DevOps Blog",
+    "first_seen": "2026-04-22T15:25:49.179538+00:00",
+    "published": "2026-04-22T14:35:35+00:00"
+  },
+  "https://www.phoronix.com/news/KMSCON-9.3.4-Released": {
+    "title": "KMSCON Continues Improving For VT Terminal Emulator In User-Space",
+    "source": "Phoronix",
+    "first_seen": "2026-04-22T15:25:49.179538+00:00",
+    "published": "2026-04-22T14:26:15+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.1-Networking": {
+    "title": "Many Great Networking Improvements Arrive In Linux 7.1",
+    "source": "Phoronix",
+    "first_seen": "2026-04-22T15:25:49.179538+00:00",
+    "published": "2026-04-22T14:11:06+00:00"
+  },
+  "https://realpython.com/altair-python": {
+    "title": "Altair: Declarative Charts With Python",
+    "source": "Real Python",
+    "first_seen": "2026-04-22T15:25:49.179538+00:00",
+    "published": "2026-04-22T14:00:00+00:00"
+  },
+  "https://www.psu.edu/news/earth-and-mineral-sciences/story/treetops-glowing-during-storms-captured-film-first-time": {
+    "title": "Treetops glowing during storms captured on film for first time",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-22T15:25:49.179538+00:00",
+    "published": "2026-04-22T13:28:40+00:00"
+  },
+  "https://qwen.ai/blog?id=qwen3.6-27b": {
+    "title": "Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-22T15:25:49.179538+00:00",
+    "published": "2026-04-22T13:19:58+00:00"
+  },
+  "https://cloud.google.com/blog/products/data-analytics/whats-new-in-the-agentic-data-cloud": {
+    "title": "What’s new in the Agentic Data Cloud: Powering the System of Action",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-04-22T15:25:49.179538+00:00",
+    "published": "2026-04-22T12:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/data-analytics/the-future-of-data-lakehouse-for-the-agentic-era": {
+    "title": "The future of data lakehouse: Open and interoperable for the agentic era",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-04-22T15:25:49.179538+00:00",
+    "published": "2026-04-22T12:00:00+00:00"
+  },
+  "https://openai.com/index/introducing-openai-privacy-filter": {
+    "title": "Introducing OpenAI Privacy Filter",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-04-22T15:25:49.179538+00:00",
+    "published": "2026-04-22T00:00:00+00:00"
+  },
+  "https://azure.microsoft.com/en-us/blog/introducing-azure-accelerate-for-databases-modernize-your-data-for-ai-with-experts-and-investments": {
+    "title": "Introducing Azure Accelerate for Databases: Modernize your data for AI with experts and investments",
+    "source": "Azure Blog",
+    "first_seen": "2026-04-22T15:25:49.179538+00:00",
+    "published": "2026-04-22T00:00:00+00:00"
   }
 }
