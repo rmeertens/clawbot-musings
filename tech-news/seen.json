@@ -7890,5 +7890,131 @@
     "source": "Azure Blog",
     "first_seen": "2026-04-22T15:25:49.179538+00:00",
     "published": "2026-04-22T00:00:00+00:00"
+  },
+  "https://simonwillison.net/2026/Apr/22/qwen36-27b": {
+    "title": "Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model",
+    "source": "Simon Willison",
+    "first_seen": "2026-04-22T17:04:48.874453+00:00",
+    "published": "2026-04-22T16:45:23+00:00"
+  },
+  "https://aws.amazon.com/blogs/security/a-technical-walkthrough-of-multicloud-full-stack-security-using-aws-security-hub-extended": {
+    "title": "A technical walkthrough of multicloud full-stack security using AWS Security Hub Extended",
+    "source": "AWS Security Blog",
+    "first_seen": "2026-04-22T17:04:48.874453+00:00",
+    "published": "2026-04-22T16:31:11+00:00"
+  },
+  "https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price": {
+    "title": "Alberta Startup Sells No-Tech Tractors for Half Price",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-22T17:04:48.874453+00:00",
+    "published": "2026-04-22T16:29:25+00:00"
+  },
+  "https://www.forever-wars.com/the-tech-oligarchs-republic": {
+    "title": "The Tech Oligarch's Republic",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-22T17:04:48.874453+00:00",
+    "published": "2026-04-22T16:26:41+00:00"
+  },
+  "https://www.phoronix.com/news/Ubuntu-Rust-Coreutils-Audit": {
+    "title": "Ubuntu Rust Coreutils Audit Revealed 113 Issues, Ubuntu 26.10 Aims For \"100% Rust Coreutils\"",
+    "source": "Phoronix",
+    "first_seen": "2026-04-22T17:04:48.874453+00:00",
+    "published": "2026-04-22T16:21:09+00:00"
+  },
+  "https://newsletter.pragmaticengineer.com/p/designing-data-intensive-applications": {
+    "title": "Designing Data-intensive Applications with Martin Kleppmann",
+    "source": "The Pragmatic Engineer",
+    "first_seen": "2026-04-22T17:04:48.874453+00:00",
+    "published": "2026-04-22T16:19:26+00:00"
+  },
+  "https://github.com/besimple-oss/broccoli": {
+    "title": "Show HN: Broccoli, one shot coding agent on the cloud",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-22T17:04:48.874453+00:00",
+    "published": "2026-04-22T16:09:56+00:00"
+  },
+  "https://www.nytimes.com/2026/04/22/science/988-youth-suicides-decline.html": {
+    "title": "Youth Suicides Declined After Creation of National Hotline",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-22T17:04:48.874453+00:00",
+    "published": "2026-04-22T16:07:56+00:00"
+  },
+  "https://gizmodo.com/sam-altmans-creepy-eyeball-scanning-company-gets-in-bed-with-zoom-and-tinder-2000748013": {
+    "title": "Sam Altman's Creepy Eyeball-Scanning Company Gets in Bed with Zoom and Tinder",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-22T17:04:48.874453+00:00",
+    "published": "2026-04-22T16:00:01+00:00"
+  },
+  "https://www.hashicorp.com/blog/terraform-adds-pre-written-sentinel-policies-for-iso-27001": {
+    "title": "Terraform adds pre-written Sentinel policies for ISO 27001",
+    "source": "HashiCorp Blog",
+    "first_seen": "2026-04-22T17:04:48.874453+00:00",
+    "published": "2026-04-22T16:00:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/company-wise-memory-in-amazon-bedrock-with-amazon-neptune-and-mem0": {
+    "title": "Company-wise memory in Amazon Bedrock with Amazon Neptune and Mem0",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-04-22T17:04:48.874453+00:00",
+    "published": "2026-04-22T15:56:24+00:00"
+  },
+  "https://www.phoronix.com/news/GCC-16.1-Coming-Soon": {
+    "title": "GCC 16 Compiler Nearly Ready For Release With Zen 6, AVX10.2, APX & Algol 68",
+    "source": "Phoronix",
+    "first_seen": "2026-04-22T17:04:48.874453+00:00",
+    "published": "2026-04-22T15:53:15+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/using-apache-sedona-with-aws-glue-to-process-billions-of-daily-points-from-a-geospatial-dataset": {
+    "title": "Using Apache Sedona with AWS Glue to process billions of daily points from a geospatial dataset",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-04-22T17:04:48.874453+00:00",
+    "published": "2026-04-22T15:42:28+00:00"
+  },
+  "https://huggingface.co/blog/nvidia/gemma4": {
+    "title": "Gemma 4 VLA Demo on Jetson Orin Nano Super",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-04-22T17:04:48.874453+00:00",
+    "published": "2026-04-22T15:40:50+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/aws-purpose-built-database-recovery-a-guide-to-business-continuity-and-disaster-recovery-strategies": {
+    "title": "AWS purpose-built database recovery: A guide to business continuity and disaster recovery strategies",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-04-22T17:04:48.874453+00:00",
+    "published": "2026-04-22T15:38:17+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/analyzing-your-data-catalog-query-sagemaker-catalog-metadata-with-sql": {
+    "title": "Analyzing your data catalog: Query SageMaker Catalog metadata with SQL",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-04-22T17:04:48.874453+00:00",
+    "published": "2026-04-22T15:37:38+00:00"
+  },
+  "https://aws.amazon.com/blogs/architecture/pacific-enables-multi-tenant-sovereign-product-carbon-footprint-exchange-on-the-catena-x-data-space-using-aws": {
+    "title": "PACIFIC enables multi-tenant, sovereign product carbon footprint exchange on the Catena-X data space using AWS",
+    "source": "AWS Architecture Blog",
+    "first_seen": "2026-04-22T17:04:48.874453+00:00",
+    "published": "2026-04-22T15:33:54+00:00"
+  },
+  "https://www.phoronix.com/news/FreeBSD-Q1-2026-Progress": {
+    "title": "FreeBSD Working On Intel FRED Support, Laptop Improvements Continue",
+    "source": "Phoronix",
+    "first_seen": "2026-04-22T17:04:48.874453+00:00",
+    "published": "2026-04-22T15:30:03+00:00"
+  },
+  "https://cloud.google.com/blog/products/data-analytics/introducing-the-google-cloud-knowledge-catalog": {
+    "title": "Introducing the Google Cloud Knowledge Catalog",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-04-22T17:04:48.874453+00:00",
+    "published": "2026-04-22T12:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/ai-machine-learning/introducing-gemini-enterprise-agent-platform": {
+    "title": "Introducing Gemini Enterprise Agent Platform, powering the next wave of agents",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-04-22T17:04:48.874453+00:00",
+    "published": "2026-04-22T12:00:00+00:00"
+  },
+  "https://openai.com/index/speeding-up-agentic-workflows-with-websockets": {
+    "title": "Speeding up agentic workflows with WebSockets in the Responses API",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-04-22T17:04:48.874453+00:00",
+    "published": "2026-04-22T10:00:00+00:00"
   }
 }
