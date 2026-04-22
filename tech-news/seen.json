@@ -7326,5 +7326,71 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-04-21T23:06:20.475489+00:00",
     "published": "2026-04-21T15:29:16+00:00"
+  },
+  "https://arstechnica.com/science/2026/04/global-growth-in-solar-the-largest-ever-observed-for-any-source": {
+    "title": "Global growth in solar \"the largest ever observed for any source\"",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-22T02:06:56.477505+00:00",
+    "published": "2026-04-22T01:25:04+00:00"
+  },
+  "https://www.kpbs.org/news/economy/2026/03/27/san-diego-rents-declined-more-than-19-of-nations-top-20-markets-following-surge-in-supply": {
+    "title": "San Diego rents declined more than 19 of 20 top US markets after surge in supply",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-22T02:06:56.477505+00:00",
+    "published": "2026-04-22T01:21:09+00:00"
+  },
+  "https://news.ycombinator.com/item?id=47857461": {
+    "title": "I'm Sick of AI Everything",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-22T02:06:56.477505+00:00",
+    "published": "2026-04-22T01:19:30+00:00"
+  },
+  "https://www.phoronix.com/news/F2FS-Linux-7.1": {
+    "title": "F2FS, EXT4 & XFS Focus On Fixes For Linux 7.1",
+    "source": "Phoronix",
+    "first_seen": "2026-04-22T02:06:56.477505+00:00",
+    "published": "2026-04-22T00:48:48+00:00"
+  },
+  "https://thenewstack.io/anthropic-claude-code-limits": {
+    "title": "Anthropic is thinking about removing Claude Code from its cheapest plan",
+    "source": "The New Stack",
+    "first_seen": "2026-04-22T02:06:56.477505+00:00",
+    "published": "2026-04-22T00:28:09+00:00"
+  },
+  "https://engineering.grab.com/ios": {
+    "title": "Record, generate, run: AI-powered UI test generation for iOS",
+    "source": "Grab Tech",
+    "first_seen": "2026-04-22T02:06:56.477505+00:00",
+    "published": "2026-04-22T00:23:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/security/winter-2025-soc-1-report-is-now-available-with-184-services-in-scope": {
+    "title": "Winter 2025 SOC 1 report is now available with 184 services in scope",
+    "source": "AWS Security Blog",
+    "first_seen": "2026-04-22T02:06:56.477505+00:00",
+    "published": "2026-04-22T00:12:21+00:00"
+  },
+  "https://luminousmen.substack.com/p/drunk-post-things-ive-learned-as": {
+    "title": "Drunk Post: Things I've Learned as a Senior Engineer",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-22T02:06:56.477505+00:00",
+    "published": "2026-04-21T23:53:45+00:00"
+  },
+  "https://thenewstack.io/github-copilot-signups-paused": {
+    "title": "GitHub pauses Copilot sign-ups as AI coding drives up compute demand",
+    "source": "The New Stack",
+    "first_seen": "2026-04-22T02:06:56.477505+00:00",
+    "published": "2026-04-21T23:03:22+00:00"
+  },
+  "https://twitter.com/spacex/status/2046713419978453374": {
+    "title": "SpaceX says it has agreement to acquire Cursor for $60B",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-22T02:06:56.477505+00:00",
+    "published": "2026-04-21T22:13:18+00:00"
+  },
+  "https://www.openalmanac.org": {
+    "title": "Show HN: Almanac MCP, turn Claude Code into a Deep Research agent",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-22T02:06:56.477505+00:00",
+    "published": "2026-04-21T22:12:41+00:00"
   }
 }
