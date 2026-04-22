@@ -8016,5 +8016,203 @@
     "source": "OpenAI Blog",
     "first_seen": "2026-04-22T17:04:48.874453+00:00",
     "published": "2026-04-22T10:00:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/cost-effective-multilingual-audio-transcription-at-scale-with-parakeet-tdt-and-aws-batch": {
+    "title": "Cost-effective multilingual audio transcription at scale with Parakeet-TDT and AWS Batch",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-04-22T21:15:24.693291+00:00",
+    "published": "2026-04-22T21:05:01+00:00"
+  },
+  "https://developer.nvidia.com/blog/scaling-the-ai-ready-data-center-with-nvidia-rtx-pro-4500-blackwell-server-edition-and-nvidia-vgpu-20": {
+    "title": "Scaling the AI-Ready Data Center with NVIDIA RTX PRO 4500 Blackwell Server Edition and NVIDIA vGPU 20",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-04-22T21:15:24.693291+00:00",
+    "published": "2026-04-22T20:30:00+00:00"
+  },
+  "https://www.phoronix.com/news/Intel-Ends-OSS-Evangelism-Repos": {
+    "title": "Intel Ends Open Ecosystem Community/Evangelism, Archives Other Open-Source Projects",
+    "source": "Phoronix",
+    "first_seen": "2026-04-22T21:15:24.693291+00:00",
+    "published": "2026-04-22T20:28:32+00:00"
+  },
+  "https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones": {
+    "title": "Apple fixes bug that cops used to extract deleted chat messages from iPhones",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-22T21:15:24.693291+00:00",
+    "published": "2026-04-22T20:27:31+00:00"
+  },
+  "https://www.theguardian.com/books/2026/apr/20/the-illuminated-man-by-christopher-priest-and-nina-allan-review-an-unconventional-portrait-of-jg-ballard": {
+    "title": "The Illuminated Man: an unconventional portrait of JG Ballard",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-22T21:15:24.693291+00:00",
+    "published": "2026-04-22T20:24:05+00:00"
+  },
+  "https://developer.nvidia.com/blog/advancing-emerging-optimizers-for-accelerated-llm-training-with-nvidia-megatron": {
+    "title": "Advancing Emerging Optimizers for Accelerated LLM Training with NVIDIA Megatron",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-04-22T21:15:24.693291+00:00",
+    "published": "2026-04-22T20:01:03+00:00"
+  },
+  "https://engineering.atspotify.com/2026/4/background-coding-agents-dataset-migrations-honk-part-4": {
+    "title": "Background Coding Agents: Supercharging Downstream Consumer Dataset Migrations (Honk, Part 4)",
+    "source": "Spotify Engineering",
+    "first_seen": "2026-04-22T21:15:24.693291+00:00",
+    "published": "2026-04-22T19:39:08+00:00"
+  },
+  "https://www.anthropocenemagazine.org/2025/04/new-study-compares-growing-corn-for-energy-to-solar-production-its-no-contest": {
+    "title": "New study compares growing corn for energy to solar production. It's no contest",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-22T21:15:24.693291+00:00",
+    "published": "2026-04-22T19:21:46+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-ai-now-supports-optimized-generative-ai-inference-recommendations": {
+    "title": "Amazon SageMaker AI now supports optimized generative AI inference recommendations",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-04-22T21:15:24.693291+00:00",
+    "published": "2026-04-22T19:15:08+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/get-to-your-first-working-agent-in-minutes-announcing-new-features-in-amazon-bedrock-agentcore": {
+    "title": "Get to your first working agent in minutes: Announcing new features in Amazon Bedrock AgentCore",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-04-22T21:15:24.693291+00:00",
+    "published": "2026-04-22T19:13:56+00:00"
+  },
+  "https://www.nationsreportcard.gov/highlights/ltt/2023": {
+    "title": "Scores decline again for 13-year-old students in reading and mathematics",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-22T21:15:24.693291+00:00",
+    "published": "2026-04-22T18:57:20+00:00"
+  },
+  "https://thenewstack.io/spacex-cursor-ai-deal": {
+    "title": "The SpaceX-Cursor deal is a gutsy Hail Mary that could work",
+    "source": "The New Stack",
+    "first_seen": "2026-04-22T21:15:24.693291+00:00",
+    "published": "2026-04-22T18:43:06+00:00"
+  },
+  "https://kubernetes.io/blog/2026/04/22/breaking-changes-in-selinux-volume-labeling": {
+    "title": "SELinux Volume Label Changes goes GA (and likely implications in v1.37)",
+    "source": "Kubernetes Blog",
+    "first_seen": "2026-04-22T21:15:24.693291+00:00",
+    "published": "2026-04-22T18:35:00+00:00"
+  },
+  "https://www.databricks.com/blog/how-conversational-analytics-removes-bi-bottleneck": {
+    "title": "How conversational analytics removes the BI bottleneck",
+    "source": "Databricks Blog",
+    "first_seen": "2026-04-22T21:15:24.693291+00:00",
+    "published": "2026-04-22T18:30:00+00:00"
+  },
+  "https://devblogs.microsoft.com/devops/optimizing-git-policy-management-at-scale": {
+    "title": "Optimizing Git policy management at scale",
+    "source": "MS DevOps Blog",
+    "first_seen": "2026-04-22T21:15:24.693291+00:00",
+    "published": "2026-04-22T18:20:18+00:00"
+  },
+  "https://thenewstack.io/mcp-summit-aws-bedrock": {
+    "title": "How AWS Bedrock is shaping Model Context Protocol",
+    "source": "The New Stack",
+    "first_seen": "2026-04-22T21:15:24.693291+00:00",
+    "published": "2026-04-22T18:07:44+00:00"
+  },
+  "https://flipbook.page": {
+    "title": "Website streamed live directly from a model",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-22T21:15:24.693291+00:00",
+    "published": "2026-04-22T18:01:18+00:00"
+  },
+  "https://www.databricks.com/blog/how-transform-document-activation-workflows-genie-and-agent-bricks": {
+    "title": "How to transform document activation workflows with Genie and Agent Bricks",
+    "source": "Databricks Blog",
+    "first_seen": "2026-04-22T21:15:24.693291+00:00",
+    "published": "2026-04-22T17:58:43+00:00"
+  },
+  "https://thenewstack.io/accenture-wavemaker-ai-modernization": {
+    "title": "Why Accenture and WaveMaker are betting on agentic AI to close a $3 billion software gap",
+    "source": "The New Stack",
+    "first_seen": "2026-04-22T21:15:24.693291+00:00",
+    "published": "2026-04-22T17:55:52+00:00"
+  },
+  "https://nrehiew.github.io/blog/minimal_editing": {
+    "title": "Over-editing refers to a model modifying code beyond what is necessary",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-22T21:15:24.693291+00:00",
+    "published": "2026-04-22T17:51:17+00:00"
+  },
+  "https://thenewstack.io/roo-code-cloud-ides-ai-coding": {
+    "title": "Roo Code pivots to cloud-based agent, says IDEs aren’t the future of coding",
+    "source": "The New Stack",
+    "first_seen": "2026-04-22T21:15:24.693291+00:00",
+    "published": "2026-04-22T17:49:07+00:00"
+  },
+  "https://openai.com/index/introducing-workspace-agents-in-chatgpt": {
+    "title": "Workspace Agents in ChatGPT",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-22T21:15:24.693291+00:00",
+    "published": "2026-04-22T17:47:07+00:00"
+  },
+  "https://zed.dev/blog/parallel-agents": {
+    "title": "Parallel Agents in Zed",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-22T21:15:24.693291+00:00",
+    "published": "2026-04-22T17:38:57+00:00"
+  },
+  "https://fingerprint.com/blog/firefox-tor-indexeddb-privacy-vulnerability": {
+    "title": "We found a stable Firefox identifier linking all your private Tor identities",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-22T21:15:24.693291+00:00",
+    "published": "2026-04-22T17:35:03+00:00"
+  },
+  "https://lpeproject.org/blog/surveillance-pricing-exploiting-information-asymmetries": {
+    "title": "Surveillance Pricing: Exploiting Information Asymmetries",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-22T21:15:24.693291+00:00",
+    "published": "2026-04-22T17:13:19+00:00"
+  },
+  "https://research.google/blog/its-all-about-the-angle-your-photos-re-composed": {
+    "title": "It's all about the angle: Your photos, re-composed",
+    "source": "Google Research",
+    "first_seen": "2026-04-22T21:15:24.693291+00:00",
+    "published": "2026-04-22T17:00:00+00:00"
+  },
+  "https://blog.replit.com/auto-protect": {
+    "title": "Introducing Replit Auto-Protect",
+    "source": "Replit Blog",
+    "first_seen": "2026-04-22T21:15:24.693291+00:00",
+    "published": "2026-04-22T16:15:00+00:00"
+  },
+  "https://www.reuters.com/sports/ping-pong-robot-ace-makes-history-by-beating-top-level-human-players-2026-04-22": {
+    "title": "Ping-pong robot beats top-level human players",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-22T21:15:24.693291+00:00",
+    "published": "2026-04-22T15:13:48+00:00"
+  },
+  "https://www.databricks.com/blog/beyond-spreadsheet-how-databricks-delivering-modern-cfo-financial-services": {
+    "title": "Beyond the spreadsheet: how Databricks is delivering the modern CFO in Financial Services",
+    "source": "Databricks Blog",
+    "first_seen": "2026-04-22T21:15:24.693291+00:00",
+    "published": "2026-04-22T13:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/networking/whats-new-in-cloud-networking-at-next26": {
+    "title": "What’s new with the Cross-Cloud Network at Next ‘26",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-04-22T21:15:24.693291+00:00",
+    "published": "2026-04-22T12:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/databases/unify-analytical-and-operational-data-for-ai": {
+    "title": "Converging operational and analytical data for AI transformation",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-04-22T21:15:24.693291+00:00",
+    "published": "2026-04-22T12:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/application-development/gemini-cloud-assist-at-next26": {
+    "title": "Gemini Cloud Assist: Proactive cloud operations that work for you, even before you ask",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-04-22T21:15:24.693291+00:00",
+    "published": "2026-04-22T12:00:00+00:00"
+  },
+  "https://openai.com/academy/workspace-agents": {
+    "title": "Workspace agents",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-04-22T21:15:24.693291+00:00",
+    "published": "2026-04-22T10:00:00+00:00"
   }
 }
