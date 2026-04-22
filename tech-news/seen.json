@@ -7482,5 +7482,59 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-04-22T09:28:54.888298+00:00",
     "published": "2026-04-22T02:15:38+00:00"
+  },
+  "https://www.allthingsdistributed.com/2026/04/the-invisible-engineering-behind-lambdas-network.html?utm_campaign=inbound&utm_source=rss": {
+    "title": "The invisible engineering behind Lambda’s network",
+    "source": "All Things Distributed",
+    "first_seen": "2026-04-22T11:05:58.049364+00:00",
+    "published": "2026-04-22T14:00:00+00:00"
+  },
+  "https://www.schneier.com/blog/archives/2026/04/ice-uses-graphite-spyware.html": {
+    "title": "ICE Uses Graphite Spyware",
+    "source": "Schneier on Security",
+    "first_seen": "2026-04-22T11:05:58.049364+00:00",
+    "published": "2026-04-22T11:02:25+00:00"
+  },
+  "https://www.phoronix.com/news/Ghostty-Ubuntu-26.04": {
+    "title": "Ghostty OpenGL-Accelerated Terminal Available On Ubuntu 26.04 LTS",
+    "source": "Phoronix",
+    "first_seen": "2026-04-22T11:05:58.049364+00:00",
+    "published": "2026-04-22T10:27:40+00:00"
+  },
+  "https://www.phoronix.com/news/QEMU-11.0-Released": {
+    "title": "QEMU 11.0 Released With CET Virtualization Support, Native Nitro Enclaves",
+    "source": "Phoronix",
+    "first_seen": "2026-04-22T11:05:58.049364+00:00",
+    "published": "2026-04-22T10:14:38+00:00"
+  },
+  "https://stratechery.com/2026/john-ternus-and-apples-hardware-defined-future-spacexai-and-cursor": {
+    "title": "John Ternus and Apple’s Hardware-Defined Future, SpaceXAI and Cursor",
+    "source": "Stratechery",
+    "first_seen": "2026-04-22T11:05:58.049364+00:00",
+    "published": "2026-04-22T10:00:00+00:00"
+  },
+  "https://social.hails.org/@hailey/116446826733136456": {
+    "title": "Windows 9x Subsystem for Linux",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-22T11:05:58.049364+00:00",
+    "published": "2026-04-22T09:52:52+00:00"
+  },
+  "https://perthirtysix.com/how-the-heck-does-gps-work": {
+    "title": "How the Heck Does GPS Work?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-22T11:05:58.049364+00:00",
+    "published": "2026-04-22T09:22:05+00:00"
+  },
+  "https://www.businessinsider.com/meta-new-ai-tool-tracks-staff-activity-sparks-concern-2026-4": {
+    "title": "Meta employees are up in arms over a mandatory program to train AI on their",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-22T11:05:58.049364+00:00",
+    "published": "2026-04-22T09:02:46+00:00"
+  },
+  "https://www.theregister.com/2026/04/22/meta_employee_surveillance_software": {
+    "title": "Irony as Meta staff unhappy about running surveillance software on work PCs",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-22T11:05:58.049364+00:00",
+    "published": "2026-04-22T08:33:17+00:00"
   }
 }
