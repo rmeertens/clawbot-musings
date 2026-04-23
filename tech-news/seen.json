@@ -3614,7 +3614,8 @@
     "title": "Grave improvements: Native crash postmortems via Android tombstones",
     "source": "Sentry Blog",
     "first_seen": "2026-04-15T19:01:18.052411+00:00",
-    "published": "2026-04-15T00:00:00+00:00"
+    "published": "2026-04-15T00:00:00+00:00",
+    "summary": "This article presents significant architectural insights into handling native crash reporting on Android, particularly relevant for teams building production mobile applications. The implementation details—such as generalizing history dispatch infrastructure, merging duplicate events between NDK and tombstone integrations, and streaming JSON parsing to avoid memory spikes—offer valuable patterns for managing complex SDK architectures that must integrate multiple crash-reporting mechanisms."
   },
   "https://lwn.net/Articles/1066922": {
     "title": "[$] LWN.net Weekly Edition for April 16, 2026",
@@ -4576,7 +4577,8 @@
     "title": "Debugging multi-agent AI: When the failure is in the space between agents",
     "source": "Sentry Blog",
     "first_seen": "2026-04-16T20:32:46.981357+00:00",
-    "published": "2026-04-16T00:00:00+00:00"
+    "published": "2026-04-16T00:00:00+00:00",
+    "summary": "This article is highly relevant for developers building AI systems, as it addresses critical debugging challenges when multiple agents interact—a scenario increasingly common in modern applications but rarely covered in depth. The practical walkthrough demonstrating how weak tool outputs from one agent silently corrupted downstream synthesis, combined with concrete observability recommendations, provides immediately actionable guidance for engineers implementing multi-agent architectures."
   },
   "https://blog.rust-lang.org/2026/04/16/Rust-1.95.0": {
     "title": "Announcing Rust 1.95.0",
@@ -5505,25 +5507,29 @@
     "title": "Sample AI traces at 100% without sampling everything",
     "source": "Sentry Blog",
     "first_seen": "2026-04-19T08:17:25.658058+00:00",
-    "published": "2026-04-09T00:00:00+00:00"
+    "published": "2026-04-09T00:00:00+00:00",
+    "summary": "This article offers practical guidance for developers building AI agents, addressing a critical observability gap: agent runs are span trees and sampling is all-or-nothing, meaning partial trace loss prevents effective debugging of non-deterministic LLM behaviors. The cost analysis demonstrating that observability spans cost fractions of a cent while LLM calls cost orders of magnitude more provides concrete justification for 100% sampling on AI routes, making this directly relevant to teams implementing production AI systems."
   },
   "https://blog.sentry.io/ai-agent-observability-developers-guide-to-agent-monitoring": {
     "title": "AI agent observability: The developer's guide to agent monitoring",
     "source": "Sentry Blog",
     "first_seen": "2026-04-19T08:17:25.658058+00:00",
-    "published": "2026-04-07T00:00:00+00:00"
+    "published": "2026-04-07T00:00:00+00:00",
+    "summary": "This article offers substantial practical value for engineers building AI systems, providing concrete guidance on implementing agent observability using OpenTelemetry standards and demonstrating how to instrument LLM applications with minimal code. The emphasis on distributed tracing that connects agent spans to full-stack context—errors, performance, and logs—addresses a real architectural gap in existing monitoring approaches for agentic workflows."
   },
   "https://blog.sentry.io/send-your-existing-opentelemetry-traces": {
     "title": "Send your existing OpenTelemetry traces to Sentry",
     "source": "Sentry Blog",
     "first_seen": "2026-04-19T08:17:25.658058+00:00",
-    "published": "2026-04-02T00:00:00+00:00"
+    "published": "2026-04-02T00:00:00+00:00",
+    "summary": "This article is highly relevant for developers already invested in OpenTelemetry, as it demonstrates how to leverage existing instrumentation without vendor lock-in by simply configuring two environment variables to send traces to Sentry's OTLP endpoint. The practical walkthrough and comparison between OTLP and native SDK approaches provides actionable guidance for teams weighing observability solutions, though current beta limitations around span events and array attributes may impact some use cases."
   },
   "https://blog.sentry.io/logging-in-next-js-is-hard-but-it-doesnt-have-to-be": {
     "title": "Logging in Next.js is hard (But it doesn't have to be)",
     "source": "Sentry Blog",
     "first_seen": "2026-04-19T08:17:25.658058+00:00",
-    "published": "2026-03-30T00:00:00+00:00"
+    "published": "2026-03-30T00:00:00+00:00",
+    "summary": "This article is highly relevant for full-stack developers working with Next.js, as it addresses a critical architectural challenge: a typical Next.js deployment can execute code in up to three different runtimes—Edge, Node.js, and the browser—requiring unified logging across these environments. The practical guidance on implementing trace-connected structured logging using either LogTape or Sentry's native logger directly improves observability and debugging efficiency in production systems."
   },
   "https://golangweekly.com/issues/595": {
     "title": "The Go gopher's many distant cousins",
@@ -5536,7 +5542,8 @@
     "title": "Next.js observability gaps and how to close them",
     "source": "Sentry Blog",
     "first_seen": "2026-04-19T08:17:25.658058+00:00",
-    "published": "2026-03-24T00:00:00+00:00"
+    "published": "2026-03-24T00:00:00+00:00",
+    "summary": "This article offers substantial practical value for engineers building Next.js applications, addressing critical observability gaps that commonly emerge in production environments through concrete instrumentation patterns like server action wrapping and database integration setup. The content bridges important architectural concerns—spanning distributed tracing across client/server/edge runtimes, AI cost attribution, and ORM query visibility—that directly impact deployment debugging efficiency and system monitoring comprehensiveness."
   },
   "https://golangweekly.com/issues/594": {
     "title": "templUI brings shadcn-style components to Go and templ",
@@ -5549,133 +5556,155 @@
     "title": "Seer fixes Seer: How Seer pointed us toward a bug and helped fix an outage",
     "source": "Sentry Blog",
     "first_seen": "2026-04-19T08:17:25.658058+00:00",
-    "published": "2026-03-20T00:00:00+00:00"
+    "published": "2026-03-20T00:00:00+00:00",
+    "summary": "This article offers valuable insights into circuit breaker failures and distributed system resilience, demonstrating how latency optimizations can have failure modes worse than having no optimization at all when they ignore reserved capacity. The case study provides actionable lessons for engineers managing multi-region LLM deployments, illustrating the critical gap between infrastructure provisioning and application-level awareness that can amplify upstream incidents into total outages."
   },
   "https://blog.sentry.io/overdue-for-a-sentry-sdk-upgrade": {
     "title": "You're probably overdue for a Sentry SDK upgrade",
     "source": "Sentry Blog",
     "first_seen": "2026-04-19T08:17:25.658058+00:00",
-    "published": "2026-03-19T00:00:00+00:00"
+    "published": "2026-03-19T00:00:00+00:00",
+    "summary": "This article is highly relevant for software engineers managing observability infrastructure, as it catalogs substantial capability expansions in the Sentry SDK across major versions—from session replay and structured logging to AI monitoring—that directly impact debugging efficiency and production visibility. The practical upgrade guidance, including automated migration via AI agent skills and detailed breaking-change documentation, addresses a common pain point: roughly half of all Sentry JavaScript SDK installs are still on v8 or older."
   },
   "https://blog.sentry.io/fair-source-software-in-the-ai-age": {
     "title": "Fair Source Software in the AI age",
     "source": "Sentry Blog",
     "first_seen": "2026-04-19T08:17:25.658058+00:00",
-    "published": "2026-03-17T00:00:00+00:00"
+    "published": "2026-03-17T00:00:00+00:00",
+    "summary": "This article is highly relevant for developers navigating licensing decisions in the AI era, as it clearly explains how LLM-generated code challenges traditional copyright protections and why Fair Source's contract-based enforcement mechanism remains viable. The practical insight that you cannot use clones of Fair Source software to compete with the original regardless of AI involvement provides actionable guidance for teams choosing between open source and fair source licensing models."
   },
   "https://blog.sentry.io/javascript-logging-library-definitive-guide": {
     "title": "Choosing a JavaScript logging library: The 2026 definitive guide",
     "source": "Sentry Blog",
     "first_seen": "2026-04-19T08:17:25.658058+00:00",
-    "published": "2026-03-16T00:00:00+00:00"
+    "published": "2026-03-16T00:00:00+00:00",
+    "summary": "This guide offers practical value for developers selecting logging infrastructure by comparing four major JavaScript libraries with concrete metrics like bundle size and performance benchmarks. The article's emphasis on trace-connected logging integration with observability platforms addresses a genuine engineering need for debugging distributed systems effectively."
   },
   "https://blog.sentry.io/structured-logging-opentelemetry": {
     "title": "Routing OpenTelemetry logs to Sentry using OTLP",
     "source": "Sentry Blog",
     "first_seen": "2026-04-19T08:17:25.658058+00:00",
-    "published": "2026-03-05T00:00:00+00:00"
+    "published": "2026-03-05T00:00:00+00:00",
+    "summary": "This article offers practical value for developers already invested in OpenTelemetry instrumentation, demonstrating how to route logs to Sentry with just two environment variables without reworking existing code. The guide's applicability is somewhat narrow, as it explicitly acknowledges that the native Sentry SDK is probably the better call for new projects, limiting its relevance to those with existing OpenTelemetry implementations."
   },
   "https://blog.sentry.io/react-native-sdk-8-is-here": {
     "title": "React Native SDK 8.0.0 is here",
     "source": "Sentry Blog",
     "first_seen": "2026-04-19T08:17:25.658058+00:00",
-    "published": "2026-02-19T00:00:00+00:00"
+    "published": "2026-02-19T00:00:00+00:00",
+    "summary": "This release will likely appeal to React Native developers managing production applications, as the app start error capture with native initialization feature addresses a previously difficult problem of monitoring crashes during the critical early app lifecycle phase. The mandatory minimum version bumps to iOS 15+ and Android Gradle Plugin 7.4+ represent standard maintenance that engineers should plan for, though the straightforward migration path described minimizes upgrade friction for most teams."
   },
   "https://blog.sentry.io/setting-up-next-js-source-maps-sentry": {
     "title": "From random chunks to real code — wiring up Next.js source maps in Sentry",
     "source": "Sentry Blog",
     "first_seen": "2026-04-19T08:17:25.658058+00:00",
-    "published": "2026-02-17T00:00:00+00:00"
+    "published": "2026-02-17T00:00:00+00:00",
+    "summary": "This article is highly relevant for full-stack developers managing Next.js applications in production, as it explains a critical debugging workflow that directly impacts error visibility and developer productivity. The practical guidance on connecting minified bundle chunks back to source code through Sentry's source map integration addresses a real pain point that affects both development efficiency and production issue resolution."
   },
   "https://blog.sentry.io/ai-driven-caching-strategies-instrumentation": {
     "title": "AI-driven caching strategies and instrumentation",
     "source": "Sentry Blog",
     "first_seen": "2026-04-19T08:17:25.658058+00:00",
-    "published": "2026-02-13T00:00:00+00:00"
+    "published": "2026-02-13T00:00:00+00:00",
+    "summary": "This article offers highly practical guidance for production systems, providing developers with concrete strategies for identifying caching opportunities using observability metrics and implementing instrumentation through code examples. The focus on cache miss rate monitoring as a regression detector and AI-assisted expansion decisions addresses real operational challenges that teams face when scaling applications beyond MVP stage."
   },
   "https://blog.sentry.io/sentry-acquires-xcodebuildmcp": {
     "title": "Sentry acquires XcodeBuildMCP",
     "source": "Sentry Blog",
     "first_seen": "2026-04-19T08:17:25.658058+00:00",
-    "published": "2026-02-11T00:00:00+00:00"
+    "published": "2026-02-11T00:00:00+00:00",
+    "summary": "This acquisition is highly relevant for developers working with AI-assisted development tools, as XcodeBuildMCP enables AI agents to build, test, and debug native iOS and macOS apps, addressing a significant gap in agentic workflows for Apple platforms. The tool's capabilities—including automated testing, debugging, and simulator interaction—directly enhance developer productivity by allowing AI agents to autonomously iterate and verify changes rather than constantly requiring human intervention."
   },
   "https://blog.sentry.io/size-analysis-generally-available": {
     "title": "Size Analysis is generally available in Sentry",
     "source": "Sentry Blog",
     "first_seen": "2026-04-19T08:17:25.658058+00:00",
-    "published": "2026-02-10T00:00:00+00:00"
+    "published": "2026-02-10T00:00:00+00:00",
+    "summary": "Size Analysis is highly relevant for mobile developers managing app performance, as it provides automated monitoring in CI pipelines to catch incremental bloat before it becomes costly to address. The tool's Insights feature that identifies duplicate files and unoptimized assets offers practical, actionable optimization opportunities that directly impact user experience and app store distribution costs."
   },
   "https://blog.sentry.io/sampling-strategy-sentry": {
     "title": "Watching everything is watching nothing: Sampling strategy for Sentry",
     "source": "Sentry Blog",
     "first_seen": "2026-04-19T08:17:25.658058+00:00",
-    "published": "2026-02-02T00:00:00+00:00"
+    "published": "2026-02-02T00:00:00+00:00",
+    "summary": "This article is highly relevant for production engineers managing large-scale applications, offering practical strategies for optimizing observability costs through intelligent sampling rather than blanket data collection. The concrete examples of configuring tracesSampler functions and custom useSessionReplay hooks provide immediately applicable patterns for developers seeking to prioritize high-resolution data where things are critical or changing fast."
   },
   "https://blog.sentry.io/turbopack-support-next-js-sdk": {
     "title": "Less code, faster builds, same telemetry: Turbopack support for the Next.js SDK",
     "source": "Sentry Blog",
     "first_seen": "2026-04-19T08:17:25.658058+00:00",
-    "published": "2026-01-29T00:00:00+00:00"
+    "published": "2026-01-29T00:00:00+00:00",
+    "summary": "This article demonstrates significant architectural value for developers: Sentry's shift from bundler-dependent instrumentation to leveraging OpenTelemetry represents a broader industry pattern where frameworks standardize telemetry interfaces rather than vendors maintaining custom build plugins. The practical impact is substantial—reducing instrumentation code by 90% while achieving 3x faster builds shows how embracing framework-native capabilities can improve both developer experience and application performance."
   },
   "https://blog.sentry.io/log-drains-now-available": {
     "title": "Log Drains now available: Bringing your platform logs directly into Sentry",
     "source": "Sentry Blog",
     "first_seen": "2026-04-19T08:17:25.658058+00:00",
-    "published": "2026-01-28T08:00:00+00:00"
+    "published": "2026-01-28T08:00:00+00:00",
+    "summary": "Log drains offer practical value for engineering teams by enabling platform logs to automatically flow into Sentry without code changes, streamlining debugging across Vercel, Cloudflare, and Supabase. The feature addresses real developer pain points by consolidating observability across application and infrastructure layers, reducing context-switching during incident investigation."
   },
   "https://blog.sentry.io/seer-debug-with-ai-at-every-stage-of-development": {
     "title": "Seer: debug with AI at every stage of development",
     "source": "Sentry Blog",
     "first_seen": "2026-04-19T08:17:25.658058+00:00",
-    "published": "2026-01-27T00:00:00+00:00"
+    "published": "2026-01-27T00:00:00+00:00",
+    "summary": "This article presents practical value for engineering teams managing debugging workflows across development stages, as Seer enables developers to catch and resolve issues during development rather than in code review or production through integrated AI analysis of production telemetry. The shift-left approach and flat-rate pricing model directly address productivity concerns, though the emphasis on Sentry-specific tooling and GitHub integration may limit appeal to teams using alternative observability or version control platforms."
   },
   "https://blog.sentry.io/monitoring-microservices-distributed-systems-with-sentry": {
     "title": "Monitoring microservices and distributed systems with Sentry",
     "source": "Sentry Blog",
     "first_seen": "2026-04-19T08:17:25.658058+00:00",
-    "published": "2026-01-22T01:00:00+00:00"
+    "published": "2026-01-22T01:00:00+00:00",
+    "summary": "This article provides highly practical guidance for engineering teams managing distributed systems, demonstrating how to use Sentry tracing and logging to follow a request end to end across multiple microservices. The hands-on example with accompanying Docker-based code makes it immediately actionable for developers seeking to implement comprehensive observability in their architectures."
   },
   "https://blog.sentry.io/green-dashboards-red-flags": {
     "title": "Green dashboards, red flags",
     "source": "Sentry Blog",
     "first_seen": "2026-04-19T08:17:25.658058+00:00",
-    "published": "2026-01-21T00:00:00+00:00"
+    "published": "2026-01-21T00:00:00+00:00",
+    "summary": "This article presents a valuable perspective shift for engineering teams by challenging the assumption that infrastructure health metrics guarantee user satisfaction—a practical concern directly relevant to software architecture and observability strategies. The concrete examples of money moments and end-to-end monitoring approaches offer actionable guidance for developers and architects seeking to prioritize user-facing outcomes over traditional dashboard metrics."
   },
   "https://blog.sentry.io/paginating-large-datasets-in-production-why-offset-fails-and-cursors-win": {
     "title": "Paginating large datasets in production: Why OFFSET fails and cursors win",
     "source": "Sentry Blog",
     "first_seen": "2026-04-19T08:17:25.658058+00:00",
-    "published": "2026-01-15T00:00:00+00:00"
+    "published": "2026-01-15T00:00:00+00:00",
+    "summary": "This article is highly relevant for backend engineers dealing with scalability challenges, as it demonstrates how a fundamental pagination pattern choice directly impacts system performance at scale. The practical walkthrough of diagnosing and fixing slow database queries using monitoring tools—from identifying the problem through offset-based pagination to implementing indexed cursor-based pagination—provides actionable guidance that most production systems eventually encounter."
   },
   "https://blog.sentry.io/logging-react-native-with-sentry": {
     "title": "Logging in React Native with Sentry",
     "source": "Sentry Blog",
     "first_seen": "2026-04-19T08:17:25.658058+00:00",
-    "published": "2026-01-14T00:00:00+00:00"
+    "published": "2026-01-14T00:00:00+00:00",
+    "summary": "This guide delivers substantial practical value by demonstrating how to instrument React Native applications with structured logging and correlation tools, directly addressing the common engineering challenge of effective observability. The article's concrete examples—from implementing the Sentry logger API to debugging a real multi-tier application issue through log analysis—provide immediately applicable patterns that improve incident response and reduce mean-time-to-resolution in production systems."
   },
   "https://blog.sentry.io/not-everything-that-breaks-is-an-error-a-logs-and-next-js-story": {
     "title": "Not everything that breaks is an error: a Logs and Next.js story",
     "source": "Sentry Blog",
     "first_seen": "2026-04-19T08:17:25.658058+00:00",
-    "published": "2026-01-13T00:00:00+00:00"
+    "published": "2026-01-13T00:00:00+00:00",
+    "summary": "This article demonstrates practical value for software engineers by illustrating how logs provide context that stack traces cannot when debugging browser-specific production issues, particularly relevant for full-stack Next.js developers. The real-world case study of identifying a bot-detection false positive through structured logging and high-cardinality attributes offers actionable insights for improving observability practices in production applications."
   },
   "https://blog.sentry.io/meet-sentrys-2025-fall-interns": {
     "title": "Meet Sentry’s 2025 Fall Interns",
     "source": "Sentry Blog",
     "first_seen": "2026-04-19T08:17:25.658058+00:00",
-    "published": "2026-01-12T00:00:00+00:00"
+    "published": "2026-01-12T00:00:00+00:00",
+    "summary": "This article lacks technical depth for InfoQ readers, focusing instead on intern experiences and company culture rather than software engineering insights or architectural decisions. While the interns' work on Session Replay and observability features is relevant to developer tools, the piece provides no detailed technical implementation details or lessons applicable to broader engineering practices."
   },
   "https://blog.sentry.io/introducing-gaming-console-support-logs-user-feedback-unity": {
     "title": "Unity SDK 4.0.0: Console support, logs, user feedback and more",
     "source": "Sentry Blog",
     "first_seen": "2026-04-19T08:17:25.658058+00:00",
-    "published": "2026-01-08T00:00:00+00:00"
+    "published": "2026-01-08T00:00:00+00:00",
+    "summary": "This release offers meaningful value for game developers managing multi-platform deployments, as native support for Xbox and PlayStation with full stack traces and proper C# line numbers streamlines debugging across console ecosystems. The structured logging and user feedback features address practical pain points in production game monitoring, though the update's primary relevance is limited to the gaming development niche rather than broader software engineering practices."
   },
   "https://blog.sentry.io/trace-connected-structured-logging-with-logtape-and-sentry": {
     "title": "Trace-connected structured logging with LogTape and Sentry",
     "source": "Sentry Blog",
     "first_seen": "2026-04-19T08:17:25.658058+00:00",
-    "published": "2026-01-07T00:00:00+00:00"
+    "published": "2026-01-07T00:00:00+00:00",
+    "summary": "This article offers substantial practical value by demonstrating how to implement trace-connected structured logging in production JavaScript applications, moving beyond basic console.log debugging to queryable, high-cardinality logs that integrate with distributed tracing. The combination of LogTape with Sentry enables developers to transform logs into an internal analytics engine, providing concrete patterns for reducing noise while improving observability across full-stack systems."
   },
   "https://blog.sentry.io/another-year-another-750-000-to-open-source-maintainers": {
     "title": "Another year, another $750,000 to Open Source maintainers",
@@ -7067,7 +7096,8 @@
     "title": "No more monkey-patching: Better observability with tracing channels",
     "source": "Sentry Blog",
     "first_seen": "2026-04-21T17:06:47.691509+00:00",
-    "published": "2026-04-21T00:00:00+00:00"
+    "published": "2026-04-21T00:00:00+00:00",
+    "summary": "This article is highly relevant for backend JavaScript developers seeking to understand emerging observability patterns, as it addresses the fundamental flaw of current instrumentation approaches by proposing that libraries proactively expose their internal operations through standardized diagnostics channels rather than brittle monkey-patching workarounds. The practical significance extends to architecture decisions, since adopting Tracing Channels eliminates the need for invasive runtime instrumentation hooks and enables universal JS observability across Node.js, Bun, and Deno ecosystems."
   },
   "https://mattstromawn.com/writing/expansion-artifacts": {
     "title": "Expansion Artifacts",
