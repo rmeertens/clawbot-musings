@@ -8598,5 +8598,113 @@
     "source": "Databricks Blog",
     "first_seen": "2026-04-23T15:31:46.131454+00:00",
     "published": "2026-04-23T10:26:45+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/amazon-quick-for-marketing-from-scattered-data-to-strategic-action": {
+    "title": "Amazon Quick for marketing: From scattered data to strategic action",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-04-23T17:10:57.120756+00:00",
+    "published": "2026-04-23T17:05:17+00:00"
+  },
+  "https://thenewstack.io/solving-ai-productivity-gap": {
+    "title": "Only 5% of firms are seeing AI ROI.  Our May 7 live event will explain how to change those metrics.",
+    "source": "The New Stack",
+    "first_seen": "2026-04-23T17:10:57.120756+00:00",
+    "published": "2026-04-23T17:04:54+00:00"
+  },
+  "https://newsletter.pragmaticengineer.com/p/the-pulse-ai-token-spending-out-of": {
+    "title": "The Pulse: AI token spending out of control – what’s next?",
+    "source": "The Pragmatic Engineer",
+    "first_seen": "2026-04-23T17:10:57.120756+00:00",
+    "published": "2026-04-23T16:51:01+00:00"
+  },
+  "https://www.phoronix.com/news/Ubuntu-26.04-LTS": {
+    "title": "Ubuntu 26.04 LTS Now Available & Powered By Linux 7.0",
+    "source": "Phoronix",
+    "first_seen": "2026-04-23T17:10:57.120756+00:00",
+    "published": "2026-04-23T16:32:25+00:00"
+  },
+  "https://www.phoronix.com/news/Godot-4.7-With-HDR": {
+    "title": "Godot 4.7 Will Finally Have HDR Output, Including On Linux With Wayland",
+    "source": "Phoronix",
+    "first_seen": "2026-04-23T17:10:57.120756+00:00",
+    "published": "2026-04-23T16:25:54+00:00"
+  },
+  "https://www.githubstatus.com/incidents/myrbk7jvvs6p": {
+    "title": "Incident with Multple GitHub Services",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-23T17:10:57.120756+00:00",
+    "published": "2026-04-23T16:21:55+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/applying-multimodal-biological-foundation-models-across-therapeutics-and-patient-care": {
+    "title": "Applying multimodal biological foundation models across therapeutics and patient care",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-04-23T17:10:57.120756+00:00",
+    "published": "2026-04-23T16:17:29+00:00"
+  },
+  "https://www.derekthompson.org/p/if-americas-so-rich-howd-it-get-so": {
+    "title": "If America's So Rich, How'd It Get So Sad?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-23T17:10:57.120756+00:00",
+    "published": "2026-04-23T16:05:30+00:00"
+  },
+  "https://techcrunch.com/2026/04/22/france-confirms-data-breach-at-government-agency-that-manages-citizens-ids": {
+    "title": "France confirms data breach at government agency that manages citizens' IDs",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-23T17:10:57.120756+00:00",
+    "published": "2026-04-23T15:59:55+00:00"
+  },
+  "https://www.docker.com/blog/trivy-kics-and-the-shape-of-supply-chain-attacks-so-far-in-2026": {
+    "title": "Trivy, KICS, and the shape of supply chain attacks so far in 2026",
+    "source": "Docker Blog",
+    "first_seen": "2026-04-23T17:10:57.120756+00:00",
+    "published": "2026-04-23T15:32:00+00:00"
+  },
+  "https://blog.bytebytego.com/p/b-trees-vs-lsm-trees-comparison-and": {
+    "title": "B-Trees vs LSM Trees: Comparison and Trade-Offs",
+    "source": "ByteByteGo",
+    "first_seen": "2026-04-23T17:10:57.120756+00:00",
+    "published": "2026-04-23T15:30:59+00:00"
+  },
+  "https://nyc.streetsblog.org/2026/04/23/to-protect-and-swerve-nypd-cop-has-527-speeding-tickets-yet-remains-on-the-force": {
+    "title": "To Protect and Swerve: NYPD Cop Has 547 Speeding Tickets",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-23T17:10:57.120756+00:00",
+    "published": "2026-04-23T15:08:54+00:00"
+  },
+  "https://piccalil.li/blog/the-end-of-responsive-images": {
+    "title": "The end of responsive images",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-23T17:10:57.120756+00:00",
+    "published": "2026-04-23T13:17:55+00:00"
+  },
+  "https://www.hashicorp.com/blog/bridging-the-trust-gap-unified-public-ca-orchestration-with-ibm-vault": {
+    "title": "Bridging the trust gap: Unified public CA orchestration with IBM Vault",
+    "source": "HashiCorp Blog",
+    "first_seen": "2026-04-23T17:10:57.120756+00:00",
+    "published": "2026-04-23T07:09:00+00:00"
+  },
+  "https://machinelearning.apple.com/research/large-scale-rnns": {
+    "title": "ParaRNN: Large-Scale Nonlinear RNNs, Trainable in Parallel",
+    "source": "Apple ML Journal",
+    "first_seen": "2026-04-23T17:10:57.120756+00:00",
+    "published": "2026-04-23T00:00:00+00:00"
+  },
+  "https://blog.sentry.io/scaling-observability-for-multi-agent-ai-systems": {
+    "title": "When agents orchestrate agents, who's watching?",
+    "source": "Sentry Blog",
+    "first_seen": "2026-04-23T17:10:57.120756+00:00",
+    "published": "2026-04-23T00:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/ai-machine-learning/partner-built-agents-available-in-gemini-enterprise": {
+    "title": "Enabling the agentic enterprise: business and industry agents arrive in Gemini Enterprise",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-04-23T17:10:57.120756+00:00",
+    "published": "2026-04-22T21:00:00+00:00"
+  },
+  "https://www.hashicorp.com/blog/faster-threat-detection-with-boundary-session-recording-auditbeat": {
+    "title": "Faster threat detection with Boundary session recording + Auditbeat",
+    "source": "HashiCorp Blog",
+    "first_seen": "2026-04-23T17:10:57.120756+00:00",
+    "published": "2026-04-22T19:00:00+00:00"
   }
 }
