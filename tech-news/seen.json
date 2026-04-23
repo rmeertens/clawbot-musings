@@ -8556,5 +8556,47 @@
     "source": "Node Weekly",
     "first_seen": "2026-04-23T14:05:58.491189+00:00",
     "published": "2026-04-23T00:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/Ubuntu-Server-26.04-HWE-OEM": {
+    "title": "Ubuntu Server 26.04 LTS Will Now Automatically Install HWE/OEM Kernel Packages",
+    "source": "Phoronix",
+    "first_seen": "2026-04-23T15:31:46.131454+00:00",
+    "published": "2026-04-23T15:23:57+00:00"
+  },
+  "https://www.phoronix.com/review/amd-ryzen-9950x3d2-benchmarks": {
+    "title": "Exploring The Workloads Where The AMD Ryzen 9 9950X3D2 Makes A Lot Of Sense",
+    "source": "Phoronix",
+    "first_seen": "2026-04-23T15:31:46.131454+00:00",
+    "published": "2026-04-23T15:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/System76-Thelio-Major-2026": {
+    "title": "System76 Thelio Major Workstation Updated For Better Thermals, More Performance",
+    "source": "Phoronix",
+    "first_seen": "2026-04-23T15:31:46.131454+00:00",
+    "published": "2026-04-23T14:49:16+00:00"
+  },
+  "https://socket.dev/blog/bitwarden-cli-compromised": {
+    "title": "Bitwarden CLI Compromised in Ongoing Checkmarx Supply Chain Campaign",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-23T15:31:46.131454+00:00",
+    "published": "2026-04-23T14:17:08+00:00"
+  },
+  "https://cloud.google.com/blog/topics/threat-intelligence/unc6692-social-engineering-custom-malware": {
+    "title": "Snow Flurries: How UNC6692 Employed Social Engineering to Deploy a Custom Malware Suite",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-04-23T15:31:46.131454+00:00",
+    "published": "2026-04-23T14:00:00+00:00"
+  },
+  "https://www.tigerdata.com/blog/how-embodied-carbon-observatory-separates-grid-improvement-real-decarbonization-tiger-data": {
+    "title": "From 6 Seconds to Under 100ms: How the Embodied Carbon Observatory Separates Grid Improvement From Real Decarbonization With Tiger Data",
+    "source": "Timescale Blog",
+    "first_seen": "2026-04-23T15:31:46.131454+00:00",
+    "published": "2026-04-23T13:00:00+00:00"
+  },
+  "https://www.databricks.com/blog/announcing-public-preview-lakeflow-designer": {
+    "title": "Announcing the Public Preview of Lakeflow Designer",
+    "source": "Databricks Blog",
+    "first_seen": "2026-04-23T15:31:46.131454+00:00",
+    "published": "2026-04-23T10:26:45+00:00"
   }
 }
