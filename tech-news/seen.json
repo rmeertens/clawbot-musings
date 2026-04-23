@@ -8418,5 +8418,53 @@
     "source": "Elastic Blog",
     "first_seen": "2026-04-23T11:08:45.643709+00:00",
     "published": "2026-04-23T00:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/OpenBLAS-0.3.33-Released": {
+    "title": "OpenBLAS 0.3.33 Released With Automatic \"BIGNUMA\" For More Than 256 CPU Cores",
+    "source": "Phoronix",
+    "first_seen": "2026-04-23T12:25:37.607302+00:00",
+    "published": "2026-04-23T12:23:09+00:00"
+  },
+  "https://jiga.io/about-us": {
+    "title": "Jiga (YC W21) Is Hiring",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-23T12:25:37.607302+00:00",
+    "published": "2026-04-23T12:02:44+00:00"
+  },
+  "https://www.construction-physics.com/p/construction-costs-rarely-fall": {
+    "title": "Construction Costs Rarely Fall",
+    "source": "Construction Physics",
+    "first_seen": "2026-04-23T12:25:37.607302+00:00",
+    "published": "2026-04-23T12:02:35+00:00"
+  },
+  "https://blog.trailofbits.com/2026/04/23/trailmark-turns-code-into-graphs": {
+    "title": "Trailmark turns code into graphs",
+    "source": "Trail of Bits",
+    "first_seen": "2026-04-23T12:25:37.607302+00:00",
+    "published": "2026-04-23T12:00:00+00:00"
+  },
+  "https://github.com/russellromney/honker": {
+    "title": "Show HN: Honker – Postgres NOTIFY/LISTEN Semantics for SQLite",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-23T12:25:37.607302+00:00",
+    "published": "2026-04-23T11:53:11+00:00"
+  },
+  "https://hisorty.app": {
+    "title": "Show HN: Built a daily game where you sort historical events chronologically",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-23T12:25:37.607302+00:00",
+    "published": "2026-04-23T10:14:46+00:00"
+  },
+  "https://ar-ms.me/thoughts/c-compiler-1-zig": {
+    "title": "Writing a C Compiler, in Zig",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-23T12:25:37.607302+00:00",
+    "published": "2026-04-23T09:20:47+00:00"
+  },
+  "https://buttondown.com/blog/x400-vs-smtp-email": {
+    "title": "Email could have been X.400 times better",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-23T12:25:37.607302+00:00",
+    "published": "2026-04-23T08:10:09+00:00"
   }
 }
