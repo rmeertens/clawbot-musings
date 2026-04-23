@@ -8370,5 +8370,53 @@
     "source": "Google AI Blog",
     "first_seen": "2026-04-23T09:30:04.778437+00:00",
     "published": "2026-04-23T09:00:00+00:00"
+  },
+  "https://www.schneier.com/blog/archives/2026/04/fbi-extracts-deleted-signal-messages-from-iphone-notification-database.html": {
+    "title": "FBI Extracts Deleted Signal Messages from iPhone Notification Database",
+    "source": "Schneier on Security",
+    "first_seen": "2026-04-23T11:08:45.643709+00:00",
+    "published": "2026-04-23T11:05:42+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.1-USB": {
+    "title": "Many USB Improvements & New Hardware Merged For Linux 7.1",
+    "source": "Phoronix",
+    "first_seen": "2026-04-23T11:08:45.643709+00:00",
+    "published": "2026-04-23T10:28:45+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.1-MFD": {
+    "title": "Linux 7.1 Lands The Apple SMC Power Driver For Reporting Battery Metrics On MacBooks",
+    "source": "Phoronix",
+    "first_seen": "2026-04-23T11:08:45.643709+00:00",
+    "published": "2026-04-23T10:12:52+00:00"
+  },
+  "https://stratechery.com/2026/an-interview-with-google-cloud-ceo-thomas-kurian-about-the-agentic-moment": {
+    "title": "An Interview with Google Cloud CEO Thomas Kurian About the Agentic Moment",
+    "source": "Stratechery",
+    "first_seen": "2026-04-23T11:08:45.643709+00:00",
+    "published": "2026-04-23T10:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/FreeRDP-3.25-Released": {
+    "title": "FreeRDP 3.25 Adds Experimental AV1 Support",
+    "source": "Phoronix",
+    "first_seen": "2026-04-23T11:08:45.643709+00:00",
+    "published": "2026-04-23T09:56:35+00:00"
+  },
+  "https://craigmod.com/essays/ipad_neo": {
+    "title": "MacBook Neo and How the iPad Should Be",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-23T11:08:45.643709+00:00",
+    "published": "2026-04-23T04:40:31+00:00"
+  },
+  "https://david.alvarezrosa.com/posts/fundamental-theorem-of-calculus": {
+    "title": "Fundamental Theorem of Calculus",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-23T11:08:45.643709+00:00",
+    "published": "2026-04-23T01:09:56+00:00"
+  },
+  "https://www.elastic.co/blog/google-axion-arm-instances-elastic-cloud-hosted": {
+    "title": "Google Axion instances now available on Elastic Cloud Hosted",
+    "source": "Elastic Blog",
+    "first_seen": "2026-04-23T11:08:45.643709+00:00",
+    "published": "2026-04-23T00:00:00+00:00"
   }
 }
