@@ -8466,5 +8466,95 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-04-23T12:25:37.607302+00:00",
     "published": "2026-04-23T08:10:09+00:00"
+  },
+  "https://stackoverflow.blog/2026/04/23/black-box-ai-drift-ai-tools-are-making-design-decisions-nobody-asked-for": {
+    "title": "Black box AI drift: AI tools are making design decisions nobody asked for",
+    "source": "Stack Overflow Blog",
+    "first_seen": "2026-04-23T14:05:58.491189+00:00",
+    "published": "2026-04-23T14:00:00+00:00"
+  },
+  "https://neon.com/blog/agents-grew-up-so-did-our-docs": {
+    "title": "Agents grew up, so did our docs",
+    "source": "Neon Blog",
+    "first_seen": "2026-04-23T14:05:58.491189+00:00",
+    "published": "2026-04-23T13:47:50+00:00"
+  },
+  "https://lwn.net/Articles/1068686": {
+    "title": "[$] Famfs, FUSE, and BPF",
+    "source": "LWN.net",
+    "first_seen": "2026-04-23T14:05:58.491189+00:00",
+    "published": "2026-04-23T13:44:23+00:00"
+  },
+  "https://www.bbc.com/news/articles/cdxd0xxp0jko": {
+    "title": "Trump administration reclassifies cannabis as less dangerous",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-23T14:05:58.491189+00:00",
+    "published": "2026-04-23T13:37:48+00:00"
+  },
+  "https://www.cncf.io/blog/2026/04/23/from-ingress-nginx-to-higress-migrating-60-resources-in-30-minutes-with-ai": {
+    "title": "From Ingress NGINX to Higress: migrating 60+ resources in 30 minutes with AI",
+    "source": "CNCF Blog",
+    "first_seen": "2026-04-23T14:05:58.491189+00:00",
+    "published": "2026-04-23T13:37:18+00:00"
+  },
+  "https://simonwillison.net/2026/Apr/23/maggie-appleton": {
+    "title": "Quoting Maggie Appleton",
+    "source": "Simon Willison",
+    "first_seen": "2026-04-23T14:05:58.491189+00:00",
+    "published": "2026-04-23T13:35:37+00:00"
+  },
+  "https://www.phoronix.com/news/Ubuntu-26.04-With-ROCm": {
+    "title": "Ubuntu 26.04 Allows \"sudo apt install rocm\" But It's Months Out-Of-Date",
+    "source": "Phoronix",
+    "first_seen": "2026-04-23T14:05:58.491189+00:00",
+    "published": "2026-04-23T13:28:21+00:00"
+  },
+  "https://aws.amazon.com/blogs/architecture/modernizing-kyc-with-aws-serverless-solutions-and-agentic-ai-for-financial-services": {
+    "title": "Modernizing KYC with AWS serverless solutions and agentic AI for financial services",
+    "source": "AWS Architecture Blog",
+    "first_seen": "2026-04-23T14:05:58.491189+00:00",
+    "published": "2026-04-23T13:20:43+00:00"
+  },
+  "https://lwn.net/Articles/1069356": {
+    "title": "Security updates for Thursday",
+    "source": "LWN.net",
+    "first_seen": "2026-04-23T14:05:58.491189+00:00",
+    "published": "2026-04-23T13:11:54+00:00"
+  },
+  "https://tailscale.com/blog/aperture-public-beta": {
+    "title": "Aperture beta: better controls for the AI agent era",
+    "source": "Tailscale Blog",
+    "first_seen": "2026-04-23T14:05:58.491189+00:00",
+    "published": "2026-04-23T13:00:00+00:00"
+  },
+  "https://thenewstack.io/claude-opus-47-flaky-performance": {
+    "title": "AI shrinkflation: Why Anthropic’s Claude Opus 4.7 may be less capable than the model it replaced",
+    "source": "The New Stack",
+    "first_seen": "2026-04-23T14:05:58.491189+00:00",
+    "published": "2026-04-23T12:52:54+00:00"
+  },
+  "https://github.com/raysan5/raylib/releases/tag/6.0": {
+    "title": "Raylib v6.0",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-23T14:05:58.491189+00:00",
+    "published": "2026-04-23T12:16:16+00:00"
+  },
+  "https://techcrunch.com/2026/04/23/surveillance-vendors-caught-abusing-access-to-telcos-to-track-peoples-phone-locations-researchers-say": {
+    "title": "Surveillance vendors caught abusing access to telcos to track people's locations",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-23T14:05:58.491189+00:00",
+    "published": "2026-04-23T12:12:03+00:00"
+  },
+  "https://shkspr.mobi/blog/2026/04/sneaky-spam-in-conversational-replies-to-blog-posts": {
+    "title": "Sneaky spam in conversational replies to blog posts",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-23T14:05:58.491189+00:00",
+    "published": "2026-04-23T11:50:25+00:00"
+  },
+  "https://nodeweekly.com/issues/621": {
+    "title": "Playwright's exciting new page.screencast API",
+    "source": "Node Weekly",
+    "first_seen": "2026-04-23T14:05:58.491189+00:00",
+    "published": "2026-04-23T00:00:00+00:00"
   }
 }
