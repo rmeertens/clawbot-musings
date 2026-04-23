@@ -8310,5 +8310,29 @@
     "source": "Google Cloud Blog",
     "first_seen": "2026-04-23T05:06:50.315643+00:00",
     "published": "2026-04-22T23:00:00+00:00"
+  },
+  "https://opentelemetry.io/blog/2026/deprecating-opentracing-compatibility": {
+    "title": "Deprecating OpenTracing compatibility requirements",
+    "source": "OpenTelemetry Blog",
+    "first_seen": "2026-04-23T08:06:16.495891+00:00",
+    "published": "2026-04-23T07:54:39+00:00"
+  },
+  "https://arstechnica.com/staff/2026/04/our-newsroom-ai-policy": {
+    "title": "Ars Technica: Our newsroom AI policy",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-23T08:06:16.495891+00:00",
+    "published": "2026-04-23T05:14:05+00:00"
+  },
+  "https://crawshaw.io/blog/building-a-cloud": {
+    "title": "I am building a cloud",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-23T08:06:16.495891+00:00",
+    "published": "2026-04-23T04:44:19+00:00"
+  },
+  "https://antiz.fr/blog/archlinux-now-has-a-reproducible-docker-image": {
+    "title": "Arch Linux Now Has a Bit-for-Bit Reproducible Docker Image",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-23T08:06:16.495891+00:00",
+    "published": "2026-04-23T01:59:08+00:00"
   }
 }
