@@ -8706,5 +8706,185 @@
     "source": "HashiCorp Blog",
     "first_seen": "2026-04-23T17:10:57.120756+00:00",
     "published": "2026-04-22T19:00:00+00:00"
+  },
+  "https://webkit.org/blog/17934/release-notes-for-safari-technology-preview-242": {
+    "title": "Release Notes for Safari Technology Preview 242",
+    "source": "WebKit Blog",
+    "first_seen": "2026-04-23T20:08:28.694054+00:00",
+    "published": "2026-04-23T20:04:50+00:00"
+  },
+  "https://www.phoronix.com/news/Solaris-11.4-Less-Updates": {
+    "title": "Oracle To Reduce The Frequency Of Solaris 11.4 Updates",
+    "source": "Phoronix",
+    "first_seen": "2026-04-23T20:08:28.694054+00:00",
+    "published": "2026-04-23T20:03:59+00:00"
+  },
+  "https://simonwillison.net/2026/Apr/23/gpt-5-5": {
+    "title": "A pelican for GPT-5.5 via the semi-official Codex backdoor API",
+    "source": "Simon Willison",
+    "first_seen": "2026-04-23T20:08:28.694054+00:00",
+    "published": "2026-04-23T19:59:47+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/best-practices-and-architecture-patterns-for-cross-account-sharing-in-oracle-databaseaws": {
+    "title": "Best practices and architecture patterns for cross-account sharing in Oracle Database@AWS",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-04-23T20:08:28.694054+00:00",
+    "published": "2026-04-23T19:51:13+00:00"
+  },
+  "https://www.bbc.com/news/articles/c9d4zgnqpqeo": {
+    "title": "Girl, 10, finds rare Mexican axolotl under Welsh bridge",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-23T20:08:28.694054+00:00",
+    "published": "2026-04-23T19:09:40+00:00"
+  },
+  "https://techcrunch.com/2026/04/23/meta-job-cuts-10-percent-8000-employees": {
+    "title": "Meta to cut 10% of jobs, or 8k employees",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-23T20:08:28.694054+00:00",
+    "published": "2026-04-23T18:55:32+00:00"
+  },
+  "https://thenewstack.io/openai-shared-workspace-agents": {
+    "title": "OpenAI debuts always-on agents to end the friction of manual team handoffs",
+    "source": "The New Stack",
+    "first_seen": "2026-04-23T20:08:28.694054+00:00",
+    "published": "2026-04-23T18:39:57+00:00"
+  },
+  "https://lwn.net/Articles/1069399": {
+    "title": "Ubuntu 26.04 LTS released",
+    "source": "LWN.net",
+    "first_seen": "2026-04-23T20:08:28.694054+00:00",
+    "published": "2026-04-23T18:16:00+00:00"
+  },
+  "https://skyandtelescope.org/astronomy-news/astronomers-find-the-edge-of-the-milky-way": {
+    "title": "Astronomers Find the Edge of the Milky Way",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-23T20:08:28.694054+00:00",
+    "published": "2026-04-23T18:11:29+00:00"
+  },
+  "https://thenewstack.io/openai-launches-gpt-5-5-calling-it-a-new-class-of-intelligence": {
+    "title": "OpenAI launches GPT-5.5, calling it “a new class of intelligence”",
+    "source": "The New Stack",
+    "first_seen": "2026-04-23T20:08:28.694054+00:00",
+    "published": "2026-04-23T18:04:44+00:00"
+  },
+  "https://openai.com/index/introducing-gpt-5-5": {
+    "title": "GPT-5.5",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-23T20:08:28.694054+00:00",
+    "published": "2026-04-23T18:01:39+00:00"
+  },
+  "https://www.anthropic.com/engineering/april-23-postmortem": {
+    "title": "An update on recent Claude Code quality reports",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-23T20:08:28.694054+00:00",
+    "published": "2026-04-23T17:48:38+00:00"
+  },
+  "https://thenewstack.io/kyverno-cncf-graduation-interview": {
+    "title": "Jim Bugwadia on why finding a Kubernetes problem is only half the battle for Kyverno users",
+    "source": "The New Stack",
+    "first_seen": "2026-04-23T20:08:28.694054+00:00",
+    "published": "2026-04-23T17:48:08+00:00"
+  },
+  "https://www.theverge.com/podcast/917029/software-brain-ai-backlash-databases-automation": {
+    "title": "People Do Not Yearn for Automation",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-23T20:08:28.694054+00:00",
+    "published": "2026-04-23T17:36:23+00:00"
+  },
+  "https://www.wired.com/story/palantir-employees-are-starting-to-wonder-if-theyre-the-bad-guys": {
+    "title": "Palantir employees are starting to wonder if they're the bad guys",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-23T20:08:28.694054+00:00",
+    "published": "2026-04-23T17:30:05+00:00"
+  },
+  "https://devblogs.microsoft.com/dotnet/whats-new-for-dotnet-in-ubuntu-2604": {
+    "title": "What’s new for .NET in Ubuntu 26.04",
+    "source": "MS .NET Blog",
+    "first_seen": "2026-04-23T20:08:28.694054+00:00",
+    "published": "2026-04-23T17:25:00+00:00"
+  },
+  "https://www.telegraph.co.uk/business/2026/04/23/hairdryer-used-trick-weather-sensor-34000-polymarket-bet": {
+    "title": "'Hairdryer used to trick weather sensor' to win Polymarket bet",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-23T20:08:28.694054+00:00",
+    "published": "2026-04-23T17:01:01+00:00"
+  },
+  "https://blog.meshcore.io/2026/04/23/the-split": {
+    "title": "MeshCore development team splits over trademark dispute and AI-generated code",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-23T20:08:28.694054+00:00",
+    "published": "2026-04-23T16:55:13+00:00"
+  },
+  "https://www.bleepingcomputer.com/news/security/french-govt-agency-confirms-breach-as-hacker-offers-to-sell-data": {
+    "title": "French government agency confirms breach as hacker offers to sell data",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-23T20:08:28.694054+00:00",
+    "published": "2026-04-23T15:59:55+00:00"
+  },
+  "https://tenphi.me/blog/why-i-spent-years-trying-to-make-css-states-predictable": {
+    "title": "I spent years trying to make CSS states predictable",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-23T20:08:28.694054+00:00",
+    "published": "2026-04-23T12:37:18+00:00"
+  },
+  "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/what-is-a-tpu": {
+    "title": "Here’s how our TPUs power increasingly demanding AI workloads.",
+    "source": "Google AI Blog",
+    "first_seen": "2026-04-23T20:08:28.694054+00:00",
+    "published": "2026-04-23T12:00:00+00:00"
+  },
+  "https://openai.com/index/gpt-5-5-system-card": {
+    "title": "GPT-5.5 System Card",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-04-23T20:08:28.694054+00:00",
+    "published": "2026-04-23T11:00:00+00:00"
+  },
+  "https://openai.com/academy/working-with-codex": {
+    "title": "Working with Codex",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-04-23T20:08:28.694054+00:00",
+    "published": "2026-04-23T10:00:00+00:00"
+  },
+  "https://openai.com/academy/what-is-codex": {
+    "title": "What is Codex?",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-04-23T20:08:28.694054+00:00",
+    "published": "2026-04-23T10:00:00+00:00"
+  },
+  "https://openai.com/academy/top-10-use-cases-codex-for-work": {
+    "title": "Top 10 uses for Codex at work",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-04-23T20:08:28.694054+00:00",
+    "published": "2026-04-23T10:00:00+00:00"
+  },
+  "https://openai.com/academy/codex-settings": {
+    "title": "Codex settings",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-04-23T20:08:28.694054+00:00",
+    "published": "2026-04-23T10:00:00+00:00"
+  },
+  "https://openai.com/academy/codex-plugins-and-skills": {
+    "title": "Plugins and skills",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-04-23T20:08:28.694054+00:00",
+    "published": "2026-04-23T10:00:00+00:00"
+  },
+  "https://openai.com/academy/codex-how-to-start": {
+    "title": "How to get started with Codex",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-04-23T20:08:28.694054+00:00",
+    "published": "2026-04-23T10:00:00+00:00"
+  },
+  "https://openai.com/academy/codex-automations": {
+    "title": "Automations",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-04-23T20:08:28.694054+00:00",
+    "published": "2026-04-23T10:00:00+00:00"
+  },
+  "https://openai.com/index/gpt-5-5-bio-bug-bounty": {
+    "title": "GPT-5.5 Bio Bug Bounty",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-04-23T20:08:28.694054+00:00",
+    "published": "2026-04-23T00:00:00+00:00"
   }
 }
