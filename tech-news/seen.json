@@ -9102,5 +9102,35 @@
     "source": "Hugging Face Blog",
     "first_seen": "2026-04-24T09:30:19.680207+00:00",
     "published": "2026-04-23T00:00:00+00:00"
+  },
+  "https://www.schneier.com/blog/archives/2026/04/hiding-bluetooth-trackers-in-mail.html": {
+    "title": "Hiding Bluetooth Trackers in Mail",
+    "source": "Schneier on Security",
+    "first_seen": "2026-04-24T11:05:21.213505+00:00",
+    "published": "2026-04-24T11:01:03+00:00"
+  },
+  "https://devblogs.microsoft.com/devops/axios-npm-supply-chain-compromise-guidance-for-azure-pipelines-customers": {
+    "title": "Axios npm Supply Chain Compromise – Guidance for Azure Pipelines Customers",
+    "source": "MS DevOps Blog",
+    "first_seen": "2026-04-24T11:05:21.213505+00:00",
+    "published": "2026-04-24T10:40:43+00:00"
+  },
+  "https://www.phoronix.com/news/Arm-C1-Ultra-Sched-LLVM-Clang": {
+    "title": "Arm C1-Ultra Scheduling Model Merged For LLVM/Clang 23",
+    "source": "Phoronix",
+    "first_seen": "2026-04-24T11:05:21.213505+00:00",
+    "published": "2026-04-24T10:23:53+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.1-PR-Remove-Old-Net": {
+    "title": "Pull Request For Linux To Remove Old Network Drivers, ISDN Subsystem Due To AI/LLM Noise",
+    "source": "Phoronix",
+    "first_seen": "2026-04-24T11:05:21.213505+00:00",
+    "published": "2026-04-24T10:08:51+00:00"
+  },
+  "https://www.bbc.com/news/articles/c4gx1n0dl9no": {
+    "title": "S. Korea police arrest man over AI image of runaway wolf that misled authorities",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-24T11:05:21.213505+00:00",
+    "published": "2026-04-24T09:17:57+00:00"
   }
 }
