@@ -9036,5 +9036,11 @@
     "source": "Google Cloud Blog",
     "first_seen": "2026-04-24T05:09:56.895259+00:00",
     "published": "2026-04-23T13:00:00+00:00"
+  },
+  "https://www.hashicorp.com/blog/from-zero-trust-to-continuous-trust-securing-autonomous-ai-systems": {
+    "title": "From zero trust to continuous trust: Securing autonomous AI systems",
+    "source": "HashiCorp Blog",
+    "first_seen": "2026-04-24T08:02:41.542702+00:00",
+    "published": "2026-04-22T05:00:00+00:00"
   }
 }
