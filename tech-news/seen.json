@@ -9330,5 +9330,71 @@
     "source": "Azure Blog",
     "first_seen": "2026-04-24T15:24:03.310522+00:00",
     "published": "2026-04-23T22:00:00+00:00"
+  },
+  "https://stratechery.com/2026/he-came-he-saw-he-cooked": {
+    "title": "2026.17: He Came, He Saw, He Cooked",
+    "source": "Stratechery",
+    "first_seen": "2026-04-24T17:05:29.517703+00:00",
+    "published": "2026-04-24T17:00:00+00:00"
+  },
+  "https://thenewstack.io/leanstral-formal-verification-code": {
+    "title": "Mistral’s Leanstral wants to kill off human-in-the-loop code checks, but is it blowing in the wind?",
+    "source": "The New Stack",
+    "first_seen": "2026-04-24T17:05:29.517703+00:00",
+    "published": "2026-04-24T16:04:18+00:00"
+  },
+  "https://nickyreinert.de/en/2026/2026-04-24-claude-critics": {
+    "title": "I Cancelled Claude: Token Issues, Declining Quality, and Poor Support",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-24T17:05:29.517703+00:00",
+    "published": "2026-04-24T15:59:19+00:00"
+  },
+  "https://www.kalzumeus.com/2009/09/05/desktop-aps-versus-web-apps": {
+    "title": "Why I'm Done Making Desktop Applications (2009)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-24T17:05:29.517703+00:00",
+    "published": "2026-04-24T15:44:03+00:00"
+  },
+  "https://neon.com/blog/introducing-organization-spending-limits": {
+    "title": "Introducing Organization Spending Limits",
+    "source": "Neon Blog",
+    "first_seen": "2026-04-24T17:05:29.517703+00:00",
+    "published": "2026-04-24T15:24:44+00:00"
+  },
+  "https://www.404media.co/delusion-using-chatgpt-gemini-claude-grok-safety-ai-psychosis-study": {
+    "title": "Researchers Simulated a Delusional User to Test Chatbot Safety",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-24T17:05:29.517703+00:00",
+    "published": "2026-04-24T14:55:34+00:00"
+  },
+  "https://github.com/browser-use/browser-harness": {
+    "title": "Show HN: Browser Harness – Gives LLM freedom to complete any browser task",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-24T17:05:29.517703+00:00",
+    "published": "2026-04-24T14:31:38+00:00"
+  },
+  "https://arxiv.org/abs/2604.18799": {
+    "title": "Machine Learning Reveals Unknown Transient Phenomena in Historic Images",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-24T17:05:29.517703+00:00",
+    "published": "2026-04-24T14:01:43+00:00"
+  },
+  "https://github.com/RivoLink/leaf": {
+    "title": "Show HN: leaf – a terminal Markdown previewer with a GUI-like experience",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-24T17:05:29.517703+00:00",
+    "published": "2026-04-24T10:54:26+00:00"
+  },
+  "https://developer.chrome.com/blog/manifest-localization?hl=en": {
+    "title": "Localization support for web app manifests",
+    "source": "Chrome Developers",
+    "first_seen": "2026-04-24T17:05:29.517703+00:00",
+    "published": "2026-04-24T07:00:00+00:00"
+  },
+  "https://discord.com/blog/measure-less-to-learn-more-using-fewer-higher-quality-metrics-to-capture-what-matters": {
+    "title": "Measure Less to Learn More: Using Fewer, Higher-quality Metrics to Capture What Matters",
+    "source": "Discord Engineering",
+    "first_seen": "2026-04-24T17:05:29.517703+00:00",
+    "published": "2026-04-24T00:00:00+00:00"
   }
 }
