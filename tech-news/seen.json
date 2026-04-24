@@ -9042,5 +9042,65 @@
     "source": "HashiCorp Blog",
     "first_seen": "2026-04-24T08:02:41.542702+00:00",
     "published": "2026-04-22T05:00:00+00:00"
+  },
+  "https://github.com/matz/spinel": {
+    "title": "Spinel: Ruby AOT Native Compiler",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-24T09:30:19.680207+00:00",
+    "published": "2026-04-24T08:28:47+00:00"
+  },
+  "https://www.cambra.dev/blog/announcement": {
+    "title": "Composition Shouldn't be this Hard",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-24T09:30:19.680207+00:00",
+    "published": "2026-04-24T07:22:31+00:00"
+  },
+  "https://ynarwal.github.io/how-llms-work": {
+    "title": "Show HN: How LLMs Work – Interactive visual guide based on Karpathy's lecture",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-24T09:30:19.680207+00:00",
+    "published": "2026-04-24T06:48:53+00:00"
+  },
+  "https://github.com/NV404/gova": {
+    "title": "Show HN: Gova – The declarative GUI framework for Go",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-24T09:30:19.680207+00:00",
+    "published": "2026-04-24T06:16:47+00:00"
+  },
+  "https://simonwillison.net/2026/Apr/24/deepseek-v4": {
+    "title": "DeepSeek V4 - almost on the frontier, a fraction of the price",
+    "source": "Simon Willison",
+    "first_seen": "2026-04-24T09:30:19.680207+00:00",
+    "published": "2026-04-24T06:01:04+00:00"
+  },
+  "https://mceglowski.substack.com/p/why-not-venus": {
+    "title": "Why Not Venus?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-24T09:30:19.680207+00:00",
+    "published": "2026-04-24T05:01:10+00:00"
+  },
+  "https://felixbarbalet.com/familiarity-is-the-enemy": {
+    "title": "Familiarity is the enemy: On why Enterprise systems have failed for 60 years",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-24T09:30:19.680207+00:00",
+    "published": "2026-04-24T04:48:54+00:00"
+  },
+  "https://simonwillison.net/2026/Apr/24/milliseconds": {
+    "title": "Millisecond Converter",
+    "source": "Simon Willison",
+    "first_seen": "2026-04-24T09:30:19.680207+00:00",
+    "published": "2026-04-24T04:23:11+00:00"
+  },
+  "https://simonwillison.net/2026/Apr/23/llm-openai-via-codex": {
+    "title": "llm-openai-via-codex 0.1a0",
+    "source": "Simon Willison",
+    "first_seen": "2026-04-24T09:30:19.680207+00:00",
+    "published": "2026-04-23T19:22:29+00:00"
+  },
+  "https://huggingface.co/blog/transformersjs-chrome-extension": {
+    "title": "How to Use Transformers.js in a Chrome Extension",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-04-24T09:30:19.680207+00:00",
+    "published": "2026-04-23T00:00:00+00:00"
   }
 }
