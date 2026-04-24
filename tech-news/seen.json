@@ -9396,5 +9396,125 @@
     "source": "Discord Engineering",
     "first_seen": "2026-04-24T17:05:29.517703+00:00",
     "published": "2026-04-24T00:00:00+00:00"
+  },
+  "https://hhh.hn/rodecaster-duo-fw": {
+    "title": "My audio interface has SSH enabled by default",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-24T20:08:25.215029+00:00",
+    "published": "2026-04-24T19:30:46+00:00"
+  },
+  "https://blogs.loc.gov/picturethis/2026/04/the-classic-american-diner": {
+    "title": "The Classic American Diner",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-24T20:08:25.215029+00:00",
+    "published": "2026-04-24T19:01:09+00:00"
+  },
+  "https://cloud.google.com/blog/topics/google-cloud-next/google-cloud-next-2026-wrap-up": {
+    "title": "260 things we announced at Google Cloud Next '26 – a recap",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-04-24T20:08:25.215029+00:00",
+    "published": "2026-04-24T19:00:00+00:00"
+  },
+  "https://blog.google/products-and-platforms/products/gemini/gemini-spring-cleaning-tips": {
+    "title": "8 Gemini tips for organizing your space (and life)",
+    "source": "Google AI Blog",
+    "first_seen": "2026-04-24T20:08:25.215029+00:00",
+    "published": "2026-04-24T19:00:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/security/protecting-your-secrets-from-tomorrows-quantum-risks": {
+    "title": "Protecting your secrets from tomorrow’s quantum risks",
+    "source": "AWS Security Blog",
+    "first_seen": "2026-04-24T20:08:25.215029+00:00",
+    "published": "2026-04-24T18:53:29+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.1-Removes-Old-Net": {
+    "title": "Farewell ISDN, Ham Radio & Old Network Drivers: Linus Torvalds Merges 138k L.O.C. Removal",
+    "source": "Phoronix",
+    "first_seen": "2026-04-24T20:08:25.215029+00:00",
+    "published": "2026-04-24T18:49:00+00:00"
+  },
+  "https://viewfromthewing.com/san-francisco-airport-removed-90-minutes-of-daily-noise-travelers-say-it-changed-everything": {
+    "title": "SFO Quiet Airport (2025)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-24T20:08:25.215029+00:00",
+    "published": "2026-04-24T18:29:53+00:00"
+  },
+  "https://developers.openai.com/api/docs/changelog": {
+    "title": "OpenAI releases GPT-5.5 and GPT-5.5 Pro in the API",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-24T20:08:25.215029+00:00",
+    "published": "2026-04-24T18:23:32+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/building-workforce-ai-agents-with-visier-and-amazon-quick": {
+    "title": "Building Workforce AI Agents with Visier and Amazon Quick",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-04-24T20:08:25.215029+00:00",
+    "published": "2026-04-24T18:04:20+00:00"
+  },
+  "https://github.com/delta-hq/cc-canary": {
+    "title": "CC-Canary: Detect early signs of regressions in Claude Code",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-24T20:08:25.215029+00:00",
+    "published": "2026-04-24T17:53:37+00:00"
+  },
+  "https://evdc.me/blog/css-query": {
+    "title": "CSS as a Query Language",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-24T20:08:25.215029+00:00",
+    "published": "2026-04-24T17:39:37+00:00"
+  },
+  "https://www.phoronix.com/news/GCC-Working-Group-AI-Policy": {
+    "title": "GCC Establishes Working Group To Decide On AI/LLM Policy",
+    "source": "Phoronix",
+    "first_seen": "2026-04-24T20:08:25.215029+00:00",
+    "published": "2026-04-24T17:17:55+00:00"
+  },
+  "https://electrek.co/2026/04/23/tesla-tsla-quietly-discloses-2-billion-ai-hardware-acquisition-10q": {
+    "title": "Tesla (TSLA) discloses $2B AI hardware company acquisition buried",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-24T20:08:25.215029+00:00",
+    "published": "2026-04-24T16:51:46+00:00"
+  },
+  "https://www.recurse.com/blog/192-redesigning-the-recurse-center-application": {
+    "title": "Redesigning the Recurse Center application to inspire curious programmers",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-24T20:08:25.215029+00:00",
+    "published": "2026-04-24T16:45:10+00:00"
+  },
+  "https://github.com/libsdl-org/SDL/pull/15377": {
+    "title": "SDL Now Supports DOS",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-24T20:08:25.215029+00:00",
+    "published": "2026-04-24T16:20:15+00:00"
+  },
+  "https://gigazine.net/gsc_news/en/20260424-filco-diatec": {
+    "title": "Diatec, known for its mechanical keyboard brand FILCO, has ceased operations",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-24T20:08:25.215029+00:00",
+    "published": "2026-04-24T16:16:49+00:00"
+  },
+  "https://buttondown.com/maiht3k/archive/why-you-should-refuse-to-let-your-doctor-record": {
+    "title": "Refuse to let your doctor record you",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-24T20:08:25.215029+00:00",
+    "published": "2026-04-24T15:48:16+00:00"
+  },
+  "https://www.databricks.com/blog/operational-databases": {
+    "title": "Operational databases: How they work and when to use them",
+    "source": "Databricks Blog",
+    "first_seen": "2026-04-24T20:08:25.215029+00:00",
+    "published": "2026-04-24T07:11:13+00:00"
+  },
+  "https://machinelearning.apple.com/research/long-term-motion-embeddings": {
+    "title": "Learning Long-Term Motion Embeddings for Efficient Kinematics Generation",
+    "source": "Apple ML Journal",
+    "first_seen": "2026-04-24T20:08:25.215029+00:00",
+    "published": "2026-04-24T00:00:00+00:00"
+  },
+  "https://kubernetes.io/blog/2026/04/23/kubernetes-v1-36-userns-ga": {
+    "title": "Kubernetes v1.36: User Namespaces in Kubernetes are finally GA",
+    "source": "Kubernetes Blog",
+    "first_seen": "2026-04-24T20:08:25.215029+00:00",
+    "published": "2026-04-23T18:35:00+00:00"
   }
 }
