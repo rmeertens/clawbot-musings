@@ -9132,5 +9132,137 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-04-24T11:05:21.213505+00:00",
     "published": "2026-04-24T09:17:57+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.1-x86-Platform-Drivers": {
+    "title": "Many Intel & AMD Laptop Improvements Merged For Linux 7.1",
+    "source": "Phoronix",
+    "first_seen": "2026-04-24T14:05:34.967146+00:00",
+    "published": "2026-04-24T14:00:00+00:00"
+  },
+  "https://lwn.net/Articles/1069552": {
+    "title": "GnuPG 2.5.19 released",
+    "source": "LWN.net",
+    "first_seen": "2026-04-24T14:05:34.967146+00:00",
+    "published": "2026-04-24T13:43:11+00:00"
+  },
+  "https://www.phoronix.com/news/AMD-SBI-EPYC-Venice": {
+    "title": "AMD SBI Driver Preps For EPYC Venice With Linux 7.1",
+    "source": "Phoronix",
+    "first_seen": "2026-04-24T14:05:34.967146+00:00",
+    "published": "2026-04-24T13:43:04+00:00"
+  },
+  "https://thenewstack.io/vectors-tensors-ai-search-explained": {
+    "title": "Vectors gave us AI search, tensors are going to make it smarter",
+    "source": "The New Stack",
+    "first_seen": "2026-04-24T14:05:34.967146+00:00",
+    "published": "2026-04-24T13:42:03+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.1-Input": {
+    "title": "Linux 7.1 Removes Drivers For Long Obsolete Input Hardware: Bye Bus Mouse Support",
+    "source": "Phoronix",
+    "first_seen": "2026-04-24T14:05:34.967146+00:00",
+    "published": "2026-04-24T13:22:30+00:00"
+  },
+  "https://lwn.net/Articles/1064861": {
+    "title": "[$] On pages and folios",
+    "source": "LWN.net",
+    "first_seen": "2026-04-24T14:05:34.967146+00:00",
+    "published": "2026-04-24T13:08:51+00:00"
+  },
+  "https://lwn.net/Articles/1069549": {
+    "title": "Security updates for Friday",
+    "source": "LWN.net",
+    "first_seen": "2026-04-24T14:05:34.967146+00:00",
+    "published": "2026-04-24T13:08:09+00:00"
+  },
+  "https://thenewstack.io/openai-chatgpt-gpt-5-5-security": {
+    "title": "“Mythos-like hacking, open to all”: Industry reacts to OpenAI’s GPT 5.5",
+    "source": "The New Stack",
+    "first_seen": "2026-04-24T14:05:34.967146+00:00",
+    "published": "2026-04-24T12:49:34+00:00"
+  },
+  "https://www.tigerdata.com/blog/balance-relational-purity-speed-high-frequency-systems": {
+    "title": "Balance Relational Purity and Speed in High Frequency Systems",
+    "source": "Timescale Blog",
+    "first_seen": "2026-04-24T14:05:34.967146+00:00",
+    "published": "2026-04-24T12:41:52+00:00"
+  },
+  "https://orchidfiles.com/stigma-is-a-tax-on-every-operational-decision": {
+    "title": "The operating cost of adult and gambling startups",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-24T14:05:34.967146+00:00",
+    "published": "2026-04-24T12:27:18+00:00"
+  },
+  "https://thenewstack.io/cursor-chainguard-agentic-ai-secure": {
+    "title": "Cursor and Chainguard partner to lock down the AI agent supply chain",
+    "source": "The New Stack",
+    "first_seen": "2026-04-24T14:05:34.967146+00:00",
+    "published": "2026-04-24T12:00:00+00:00"
+  },
+  "https://thenewstack.io/claude-cloud-native-validation": {
+    "title": "Why Claude needs a real environment to validate cloud-native code",
+    "source": "The New Stack",
+    "first_seen": "2026-04-24T14:05:34.967146+00:00",
+    "published": "2026-04-24T12:00:00+00:00"
+  },
+  "https://realpython.com/quizzes/ai-coding-agents-guide": {
+    "title": "Quiz: AI Coding Agents Guide: A Map of the Four Workflow Types",
+    "source": "Real Python",
+    "first_seen": "2026-04-24T14:05:34.967146+00:00",
+    "published": "2026-04-24T12:00:00+00:00"
+  },
+  "https://realpython.com/podcasts/rpp/292": {
+    "title": "The Real Python Podcast – Episode #292: Becoming a Better Python Developer Through Learning Rust",
+    "source": "Real Python",
+    "first_seen": "2026-04-24T14:05:34.967146+00:00",
+    "published": "2026-04-24T12:00:00+00:00"
+  },
+  "https://dynomight.net/aspartame": {
+    "title": "Aspartame is not that bad?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-24T14:05:34.967146+00:00",
+    "published": "2026-04-24T11:58:39+00:00"
+  },
+  "https://www.os2museum.com/wp/learn-something-old-every-day-part-xx-8087-emulation-on-8086-systems": {
+    "title": "8087 Emulation on 8086 Systems",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-24T14:05:34.967146+00:00",
+    "published": "2026-04-24T11:27:14+00:00"
+  },
+  "https://www.bmj.com/content/393/bmj.s781": {
+    "title": "UK Biobank leak: Health details of 500 000 people are offered for sale",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-24T14:05:34.967146+00:00",
+    "published": "2026-04-24T11:09:36+00:00"
+  },
+  "https://github.com/AndrewVos/endless-toil": {
+    "title": "Hear your agent suffer through your code",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-24T14:05:34.967146+00:00",
+    "published": "2026-04-24T10:58:45+00:00"
+  },
+  "https://nate.leaflet.pub/3mk4xkaxobc2p": {
+    "title": "How to be anti-social – a guide to incoherent and isolating social experiences",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-24T14:05:34.967146+00:00",
+    "published": "2026-04-24T10:48:14+00:00"
+  },
+  "https://jeroen.github.io/notes/webassembly-tar": {
+    "title": "Mounting tar archives as a filesystem in WebAssembly",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-24T14:05:34.967146+00:00",
+    "published": "2026-04-24T10:13:26+00:00"
+  },
+  "https://huggingface.co/blog/deepseekv4": {
+    "title": "DeepSeek-V4: a million-token context that agents can actually use",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-04-24T14:05:34.967146+00:00",
+    "published": "2026-04-24T00:00:00+00:00"
+  },
+  "https://golangweekly.com/issues/598": {
+    "title": "TinyGo can now compile the TypeScript compiler",
+    "source": "Golang Weekly",
+    "first_seen": "2026-04-24T14:05:34.967146+00:00",
+    "published": "2026-04-24T00:00:00+00:00"
   }
 }
