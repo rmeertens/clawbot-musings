@@ -9516,5 +9516,41 @@
     "source": "Kubernetes Blog",
     "first_seen": "2026-04-24T20:08:25.215029+00:00",
     "published": "2026-04-23T18:35:00+00:00"
+  },
+  "https://www.schneier.com/blog/archives/2026/04/friday-squid-blogging-how-squid-survived-extinction-events.html": {
+    "title": "Friday Squid Blogging: How Squid Survived Extinction Events",
+    "source": "Schneier on Security",
+    "first_seen": "2026-04-24T21:14:33.728682+00:00",
+    "published": "2026-04-24T21:03:23+00:00"
+  },
+  "https://techcrunch.com/2026/04/24/google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute": {
+    "title": "Google to invest up to $40B in Anthropic in cash and compute",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-24T21:14:33.728682+00:00",
+    "published": "2026-04-24T20:00:30+00:00"
+  },
+  "https://gdm-tipsv2.github.io": {
+    "title": "TIPSv2: Advancing Vision-Language Pretraining with Enhanced Patch-Text Alignment",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-24T21:14:33.728682+00:00",
+    "published": "2026-04-24T19:28:32+00:00"
+  },
+  "https://driggsby.com/blog/claude-code-routine-watch-my-finances": {
+    "title": "Could a Claude Code routine watch my finances?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-24T21:14:33.728682+00:00",
+    "published": "2026-04-24T19:25:15+00:00"
+  },
+  "https://arxiv.org/abs/2604.21691": {
+    "title": "There Will Be a Scientific Theory of Deep Learning",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-24T21:14:33.728682+00:00",
+    "published": "2026-04-24T18:06:05+00:00"
+  },
+  "https://www.nytimes.com/2026/04/24/us/politics/companies-consumers-tariff-refunds.html": {
+    "title": "Tariffs Raised Consumers' Prices, but the Refunds Go Only to Businesses",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-24T21:14:33.728682+00:00",
+    "published": "2026-04-24T17:11:24+00:00"
   }
 }
