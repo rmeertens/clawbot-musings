@@ -9264,5 +9264,71 @@
     "source": "Golang Weekly",
     "first_seen": "2026-04-24T14:05:34.967146+00:00",
     "published": "2026-04-24T00:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/Fwupd-2.1.2-Released": {
+    "title": "Fwupd 2.1.2 Brings Support For Firmware Updates On More Hardware",
+    "source": "Phoronix",
+    "first_seen": "2026-04-24T15:24:03.310522+00:00",
+    "published": "2026-04-24T15:12:00+00:00"
+  },
+  "https://tante.cc/2026/04/21/ai-as-a-fascist-artifact": {
+    "title": "AI as a Fascist Artifact",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-24T15:24:03.310522+00:00",
+    "published": "2026-04-24T15:05:08+00:00"
+  },
+  "https://developer.nvidia.com/blog/federated-learning-without-the-refactoring-overhead-using-nvidia-flare": {
+    "title": "Federated Learning Without the Refactoring Overhead Using NVIDIA FLARE",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-04-24T15:24:03.310522+00:00",
+    "published": "2026-04-24T15:00:00+00:00"
+  },
+  "https://www.bloomberg.com/news/articles/2026-04-24/norway-wants-kids-to-be-kids-with-social-media-ban-for-under-16s": {
+    "title": "Norway Set to Become Latest Country to Ban Social Media for Under 16s",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-24T15:24:03.310522+00:00",
+    "published": "2026-04-24T14:45:10+00:00"
+  },
+  "https://www.phoronix.com/review/linux-71-early-benchmarks": {
+    "title": "Linux 7.1 Is Performing Well Overall In Early Benchmarks",
+    "source": "Phoronix",
+    "first_seen": "2026-04-24T15:24:03.310522+00:00",
+    "published": "2026-04-24T14:43:00+00:00"
+  },
+  "https://arxiv.org/abs/2604.20817": {
+    "title": "Different Language Models Learn Similar Number Representations",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-24T15:24:03.310522+00:00",
+    "published": "2026-04-24T14:34:23+00:00"
+  },
+  "https://tailscale.com/blog/april-26-product-update": {
+    "title": "This month at Tailscale for April 2026",
+    "source": "Tailscale Blog",
+    "first_seen": "2026-04-24T15:24:03.310522+00:00",
+    "published": "2026-04-24T14:30:00+00:00"
+  },
+  "https://kevinlynagh.com/newsletter/2026_04_overthinking": {
+    "title": "Sabotaging projects by overthinking, scope creep, and structural diffing",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-24T15:24:03.310522+00:00",
+    "published": "2026-04-24T14:28:52+00:00"
+  },
+  "https://medium.com/@affirmtechnology/how-affirm-retooled-its-engineering-organization-for-agentic-software-development-in-one-week-1fd35268fde6": {
+    "title": "Affirm Retooled for Agentic Software Development in One Week",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-24T15:24:03.310522+00:00",
+    "published": "2026-04-24T13:50:15+00:00"
+  },
+  "https://atomicapp.ai": {
+    "title": "Show HN: Atomic – Local-first, AI-augmented personal knowledge base",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-24T15:24:03.310522+00:00",
+    "published": "2026-04-24T12:07:30+00:00"
+  },
+  "https://azure.microsoft.com/en-us/blog/openais-gpt-5-5-in-microsoft-foundry-frontier-intelligence-on-an-enterprise-ready-platform": {
+    "title": "OpenAI’s GPT-5.5 in Microsoft Foundry: Frontier intelligence on an enterprise ready platform",
+    "source": "Azure Blog",
+    "first_seen": "2026-04-24T15:24:03.310522+00:00",
+    "published": "2026-04-23T22:00:00+00:00"
   }
 }
