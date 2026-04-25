@@ -9606,5 +9606,47 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-04-24T23:09:49.235373+00:00",
     "published": "2026-04-24T16:04:41+00:00"
+  },
+  "https://www.databricks.com/blog/model-risk-management-2026-bankers-guide-revised-interagency-guidance": {
+    "title": "Model Risk Management in 2026: A Banker’s Guide to the Revised Interagency Guidance",
+    "source": "Databricks Blog",
+    "first_seen": "2026-04-25T02:05:52.863799+00:00",
+    "published": "2026-04-25T00:44:08+00:00"
+  },
+  "https://www.ncregister.com/commentaries/schnell-repairing-the-ruins": {
+    "title": "Education must go beyond the mere production of words",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-25T02:05:52.863799+00:00",
+    "published": "2026-04-25T00:11:43+00:00"
+  },
+  "https://simonwillison.net/2026/Apr/24/llm": {
+    "title": "llm 0.31",
+    "source": "Simon Willison",
+    "first_seen": "2026-04-25T02:05:52.863799+00:00",
+    "published": "2026-04-24T23:35:07+00:00"
+  },
+  "https://developer.nvidia.com/blog/build-with-deepseek-v4-using-nvidia-blackwell-and-gpu-accelerated-endpoints": {
+    "title": "Build with DeepSeek V4 Using NVIDIA Blackwell and GPU-Accelerated Endpoints",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-04-25T02:05:52.863799+00:00",
+    "published": "2026-04-24T23:29:56+00:00"
+  },
+  "https://alanyahya.com/writing/bull-case-graph-dbs-law": {
+    "title": "The bull case for graph DBs in law",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-25T02:05:52.863799+00:00",
+    "published": "2026-04-24T23:24:56+00:00"
+  },
+  "https://leontrolski.github.io/alt.html": {
+    "title": "Generalised plusequals",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-25T02:05:52.863799+00:00",
+    "published": "2026-04-24T21:34:25+00:00"
+  },
+  "https://deno.com/blog/fresh-2.3": {
+    "title": "Fresh 2.3: Zero JS by default, View Transitions, and Temporal support",
+    "source": "Deno Blog",
+    "first_seen": "2026-04-25T02:05:52.863799+00:00",
+    "published": "2026-04-24T15:00:00+00:00"
   }
 }
