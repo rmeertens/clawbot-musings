@@ -9842,5 +9842,95 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-04-25T15:12:20.446113+00:00",
     "published": "2026-04-25T11:10:41+00:00"
+  },
+  "https://www.phoronix.com/news/LACT-0.9-Released": {
+    "title": "LACT 0.9 Released With UI Updates, Voltage-Frequency Curve Editor For NVIDIA",
+    "source": "Phoronix",
+    "first_seen": "2026-04-25T21:09:48.796110+00:00",
+    "published": "2026-04-25T20:10:30+00:00"
+  },
+  "https://www.youtube.com/watch?v=1sd26pWhfmg": {
+    "title": "Nicholas Carlini – Black-hat LLMs [video]",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-25T21:09:48.796110+00:00",
+    "published": "2026-04-25T20:04:37+00:00"
+  },
+  "https://www.theatlantic.com/ideas/2026/04/stanford-students-power/686920": {
+    "title": "The Stanford Freshmen Who Want to Rule the World",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-25T21:09:48.796110+00:00",
+    "published": "2026-04-25T19:51:46+00:00"
+  },
+  "https://oilprice.com/Alternative-Energy/Geothermal-Energy/Americas-Geothermal-Breakthrough-Could-Unlock-a-150-Gigawatt-Energy-Revolution.html": {
+    "title": "America's Geothermal Breakthrough Could Unlock a 150-Gigawatt Energy Revolution",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-25T21:09:48.796110+00:00",
+    "published": "2026-04-25T19:38:55+00:00"
+  },
+  "https://getkloak.io": {
+    "title": "Show HN: Kloak, A secret manager that keeps K8s workload away from secrets",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-25T21:09:48.796110+00:00",
+    "published": "2026-04-25T19:03:01+00:00"
+  },
+  "https://milletsalliance.org": {
+    "title": "North American Millets Alliance(2023)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-25T21:09:48.796110+00:00",
+    "published": "2026-04-25T17:49:13+00:00"
+  },
+  "https://coalton-lang.github.io/mine": {
+    "title": "Mine, an IDE for Coalton and Common Lisp",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-25T21:09:48.796110+00:00",
+    "published": "2026-04-25T17:47:02+00:00"
+  },
+  "https://dl.ndl.go.jp/pid/1899550/1/11": {
+    "title": "Hokusai and Tesselations",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-25T21:09:48.796110+00:00",
+    "published": "2026-04-25T17:21:22+00:00"
+  },
+  "https://blog.happyfellow.dev/simulacrum-of-knowledge-work": {
+    "title": "Simulacrum of Knowledge Work",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-25T21:09:48.796110+00:00",
+    "published": "2026-04-25T17:20:34+00:00"
+  },
+  "https://www.phoronix.com/news/Niri-26.04-Released": {
+    "title": "Niri 26.04 Wayland Compositor Adds Much Sought After Blur Support",
+    "source": "Phoronix",
+    "first_seen": "2026-04-25T21:09:48.796110+00:00",
+    "published": "2026-04-25T16:59:00+00:00"
+  },
+  "https://simonwillison.net/2026/Apr/25/why-are-you-like-this": {
+    "title": "WHY ARE YOU LIKE THIS",
+    "source": "Simon Willison",
+    "first_seen": "2026-04-25T21:09:48.796110+00:00",
+    "published": "2026-04-25T16:44:01+00:00"
+  },
+  "https://blog.matthewbrunelle.com/its-ok-to-use-coding-assistance-tools-to-revive-the-projects-you-never-were-going-to-finish": {
+    "title": "Using coding assistance tools to revive projects you never were going to finish",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-25T21:09:48.796110+00:00",
+    "published": "2026-04-25T16:11:50+00:00"
+  },
+  "https://thenewstack.io/jaeger-v2-ai-observability": {
+    "title": "Jaeger adopts OpenTelemetry at its core to solve the AI agent observability gap",
+    "source": "The New Stack",
+    "first_seen": "2026-04-25T21:09:48.796110+00:00",
+    "published": "2026-04-25T16:00:00+00:00"
+  },
+  "https://github.com/niri-wm/niri/releases/tag/v26.04": {
+    "title": "Niri 26.04: Scrollable-tiling Wayland compositor",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-25T21:09:48.796110+00:00",
+    "published": "2026-04-25T15:59:15+00:00"
+  },
+  "https://blog.bytebytego.com/p/ep212-data-warehouse-vs-data-lake": {
+    "title": "EP212: Data Warehouse vs Data Lake vs Data Mesh",
+    "source": "ByteByteGo",
+    "first_seen": "2026-04-25T21:09:48.796110+00:00",
+    "published": "2026-04-25T15:30:59+00:00"
   }
 }
