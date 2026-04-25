@@ -9714,5 +9714,19 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-04-25T08:04:58.677509+00:00",
     "published": "2026-04-24T03:01:21+00:00"
+  },
+  "https://blog.sentry.io/building-type-safe-metrics-api-in-swift-part-ii": {
+    "title": "Building Type-Safe Metrics API in Swift: Part II",
+    "source": "Sentry Blog",
+    "first_seen": "2026-04-25T08:25:20.565625+00:00",
+    "published": "2026-02-09T10:00:00+00:00",
+    "summary": "This follow-up details how to eliminate silent runtime failures by constraining attribute value types via Swift's protocol-based 'union types' and generic constraints, embodying the principle of making incorrect usage a compile-time error. Developers building SDKs or frameworks in any statically-typed language will find the techniques around protocol extensions and type erasure broadly applicable beyond the Swift ecosystem."
+  },
+  "https://blog.sentry.io/building-type-safe-metrics-api-in-swift-part-i": {
+    "title": "Building Type-Safe Metrics API in Swift: Part I",
+    "source": "Sentry Blog",
+    "first_seen": "2026-04-25T08:25:20.565625+00:00",
+    "published": "2026-02-09T09:00:00+00:00",
+    "summary": "This article walks through designing a type-safe metrics API in Sentry's Cocoa SDK using Swift protocol-oriented patterns—enums with associated values, ExpressibleByStringLiteral, and RawRepresentable—to enforce compile-time safety and minimize breaking changes. It's relevant for InfoQ developers building Swift frameworks or SDKs, and offers transferable API design principles for anyone crafting type-safe interfaces in statically-typed languages."
   }
 }
