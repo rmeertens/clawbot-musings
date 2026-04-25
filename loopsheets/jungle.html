@@ -1,0 +1,241 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Loopsheets — Tash Sultana, "Jungle"</title>
+  <meta name="description" content="A colour-coded loop sheet for Tash Sultana's 'Jungle' — the bedroom-loop performance that went viral and turned a one-person band into an arena act." />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../styles.css" />
+  <link rel="stylesheet" href="loopsheet.css" />
+</head>
+<body>
+  <div class="page-shell">
+    <header class="post-header">
+      <a class="back-link" href="./">← back to all loopsheets</a>
+      <h1>"Jungle" — Tash Sultana</h1>
+      <p class="subtitle">
+        A bedroom loop session that went viral in 2016 and turned a one-person band into a
+        festival headliner. Tash builds the whole groove alone — bass note, tapped guitar,
+        beats, "ooh"s — using a Boss RC-505 station, then plays a long fluid solo over the top.
+        This sheet is the map of that build.
+      </p>
+    </header>
+
+    <main>
+      <section class="how-to-card card">
+        <h2>How to read this loopsheet</h2>
+        <ol>
+          <li><b>Learn the loops first.</b> Each card below is a short repeating bar with its own colour. Practise them alone until the timing feels comfortable.</li>
+          <li><b>Read the song bar by bar.</b> Each box is one bar of music. The coloured stripes along the top show which loops should be running; the line underneath is the lyric sung over that bar.</li>
+          <li><b>Stack and drop on the down-beat.</b> When a new colour appears, punch that loop in. When a colour disappears, mute it.</li>
+          <li><b>Hit play below to follow along</b> — the active bar lights up so you don't lose your place.</li>
+        </ol>
+      </section>
+
+      <h2 class="section-title">The loop library</h2>
+      <p class="section-lead">
+        Six loops, key of B minor, around 95 BPM. The whole arrangement leans on the
+        tapped-guitar ostinato — get that locked in first and the rest falls into place.
+      </p>
+      <div id="loopLibrary" class="loop-grid"></div>
+
+      <section class="player card" id="player">
+        <div class="controls">
+          <button id="playBtn" type="button">▶ Play</button>
+          <button id="stopBtn" class="ghost" type="button">■ Stop</button>
+        </div>
+        <div class="tempo">
+          <label for="bpm">Tempo</label>
+          <input id="bpm" type="range" min="60" max="160" value="95" />
+          <span id="bpmLabel">95 BPM</span>
+        </div>
+        <div class="now-playing">
+          <span>Now: </span><b id="nowPlaying">—</b>
+        </div>
+      </section>
+
+      <h2 class="section-title">The song</h2>
+      <p class="section-lead">
+        Each box is one bar. Coloured stripes along the top show which loops are running; the
+        line underneath is the lyric sung over that bar. The big feature of <i>Jungle</i> is the
+        long instrumental jam — that's its own 16-bar section below.
+      </p>
+      <div class="legend" id="legend"></div>
+      <div id="songRoot"></div>
+
+      <p class="footer-note card">
+        Loop structure inspired by Tash Sultana's bedroom-session and live performances of
+        <i>Jungle</i> (2016). Lyrics belong to Tash Sultana — go watch the original Live Bedroom
+        Sessions video, then sing along over the loops. <br />
+        <a href="./">← all loopsheets</a>
+      </p>
+    </main>
+  </div>
+
+  <script src="loopsheet.js"></script>
+  <script>
+    const LOOPS = {
+      red: {
+        name: "Drum-pad kick",
+        instrument: "Pad / sampler · 2 bars · 95 BPM",
+        how: "Boom-bap on a sample pad — kick on 1 and the &-of-2, snare on 3. Tash triggers this from a Roland SPD-style pad next to the loop station.",
+        notation: "K   o . . . . k . .\nS   . . . . o . . .",
+      },
+      blue: {
+        name: "Bass note pulse",
+        instrument: "Bass on guitar (or octave-down pedal) · 2 bars",
+        how: "Low B held under the whole groove, with a quick walk-up to D on beat 4 of bar 2. Round, sub-y tone.",
+        notation: "B . . . B . . . B . . . B . D D",
+      },
+      green: {
+        name: "Tapped guitar riff",
+        instrument: "Electric guitar (two-hand tap) · 2 bars",
+        how: "The signature ostinato. Right-hand index taps the high notes, left hand frets the lower ones — bouncing between the 12th and 14th frets on the high E and B strings. Ringing, bell-like.",
+        notation: "e|--12-15-12-14-12-15-12-14-|\nB|--12----12----12----12----|",
+      },
+      yellow: {
+        name: "Funk chord stabs",
+        instrument: "Electric guitar (clean, palm-muted) · 2 bars",
+        how: "Syncopated 16th-note Bm7 stabs on the off-beats. Wet plate reverb, very short. Brings the funk on the second verse.",
+        notation: "  . a . a . a . a . a . a . a . a\n   (\u201Cchk\u201D on every \u201Ca\u201D)",
+      },
+      purple: {
+        name: "Vocal \u201Coohs\u201D",
+        instrument: "Voice into loop pedal · 4 bars",
+        how: "Three-part \u201Cooh\u201D pad on Bm \u2013 D \u2013 G \u2013 A. Sing one part per pass, overdub the harmonies. Sets the dreamy backdrop the solo floats over.",
+        notation: "| Bm  | D   | G   | A   |\n  ~~~   ~~~   ~~~   ~~~",
+      },
+      orange: {
+        name: "Hi-hat / shaker",
+        instrument: "Shaker or open-hat pad · 2 bars",
+        how: "Steady 16th-notes through the bar, accented on every other &. Adds the forward drive that makes the chorus feel relentless.",
+        notation: "x x x X x x x X x x x X x x x X",
+      },
+    };
+
+    const SONG = [
+      {
+        tag: "Loop build",
+        title: "One person, six layers",
+        meta: "10 bars · bass \u2192 tapped riff \u2192 kick \u2192 ooh pad",
+        bars: [
+          span(2, ["blue"], "(record the bass pulse — 2 bars, then loop)", { silent: true }),
+          span(2, ["blue", "green"], "(layer the tapped riff over the bass)", { silent: true }),
+          span(2, ["blue", "green", "red"], "(punch in the drum-pad kick on the down-beat)", { silent: true }),
+          span(4, ["blue", "green", "red", "purple"], "(overdub three passes of \u201Cooh\u201D harmonies)", { silent: true }),
+        ],
+      },
+      {
+        tag: "Verse 1",
+        title: "Sing over the groove",
+        meta: "8 bars · loop runs underneath, vocal live and laid-back",
+        bars: [
+          b(["blue", "green", "red", "purple"], "[verse 1, line 1 —"),
+          b(["blue", "green", "red", "purple"], "long held syllables]"),
+          b(["blue", "green", "red", "purple"], "[verse 1, line 2]"),
+          b(["blue", "green", "red", "purple"], "[continues…]"),
+          b(["blue", "green", "red", "purple"], "[verse 1, line 3]"),
+          b(["blue", "green", "red", "purple"], "[continues…]"),
+          b(["blue", "green", "red", "purple"], "[verse 1, line 4]"),
+          b(["blue", "green", "red", "purple"], "[into the chorus…]"),
+        ],
+      },
+      {
+        tag: "Chorus 1",
+        title: "Add the hat",
+        meta: "8 bars · bring in the shaker/hi-hat for forward drive",
+        bars: [
+          b(["blue", "green", "red", "purple", "orange"], "[chorus line 1 —"),
+          b(["blue", "green", "red", "purple", "orange"], "title hook]"),
+          b(["blue", "green", "red", "purple", "orange"], "[chorus line 2]"),
+          b(["blue", "green", "red", "purple", "orange"], "[continues…]"),
+          b(["blue", "green", "red", "purple", "orange"], "[chorus line 3]"),
+          b(["blue", "green", "red", "purple", "orange"], "[continues…]"),
+          b(["blue", "green", "red", "purple", "orange"], "[chorus line 4 —"),
+          b(["blue", "green", "red", "purple", "orange"], "back to Bm]"),
+        ],
+      },
+      {
+        tag: "Verse 2",
+        title: "Add the funk stabs",
+        meta: "8 bars · drop the hat, bring in the chord stabs",
+        bars: [
+          b(["blue", "green", "red", "purple", "yellow"], "[verse 2, line 1]"),
+          b(["blue", "green", "red", "purple", "yellow"], "[continues…]"),
+          b(["blue", "green", "red", "purple", "yellow"], "[verse 2, line 2]"),
+          b(["blue", "green", "red", "purple", "yellow"], "[continues…]"),
+          b(["blue", "green", "red", "purple", "yellow"], "[verse 2, line 3]"),
+          b(["blue", "green", "red", "purple", "yellow"], "[continues…]"),
+          b(["blue", "green", "red", "purple", "yellow"], "[verse 2, line 4]"),
+          b(["blue", "green", "red", "purple", "yellow"], "[continues…]"),
+        ],
+      },
+      {
+        tag: "Chorus 2",
+        title: "Everything in",
+        meta: "8 bars · all six loops stacked — full Tash",
+        bars: [
+          b(["red", "blue", "green", "yellow", "purple", "orange"], "[chorus line 1]"),
+          b(["red", "blue", "green", "yellow", "purple", "orange"], "[continues…]"),
+          b(["red", "blue", "green", "yellow", "purple", "orange"], "[chorus line 2]"),
+          b(["red", "blue", "green", "yellow", "purple", "orange"], "[continues…]"),
+          b(["red", "blue", "green", "yellow", "purple", "orange"], "[chorus line 3]"),
+          b(["red", "blue", "green", "yellow", "purple", "orange"], "[continues…]"),
+          b(["red", "blue", "green", "yellow", "purple", "orange"], "[chorus line 4]"),
+          b(["red", "blue", "green", "yellow", "purple", "orange"], "[continues…]"),
+        ],
+      },
+      {
+        tag: "Solo jam",
+        title: "Play over your own band",
+        meta: "16 bars · improvise on lead guitar over the full loop — the famous bit",
+        bars: [
+          span(4, ["red", "blue", "green", "yellow", "purple", "orange"], "(start sparse — single notes around the high B and D)", { silent: true }),
+          span(4, ["red", "blue", "green", "yellow", "purple", "orange"], "(climb into bends and slides — wah half-cocked)", { silent: true }),
+          span(4, ["red", "blue", "green", "yellow", "purple", "orange"], "(double-time picking — let it scream)", { silent: true }),
+          span(4, ["red", "blue", "green", "yellow", "purple", "orange"], "(land it on a long held note over the Bm)", { silent: true }),
+        ],
+      },
+      {
+        tag: "Breakdown",
+        title: "Drop to bass + ooh",
+        meta: "4 bars · mute everything except the bass and the vocal pad",
+        bars: [
+          span(4, ["blue", "purple"], "(quiet moment — let the room breathe before the final chorus)", { silent: true }),
+        ],
+      },
+      {
+        tag: "Final chorus",
+        title: "Punch the loops back in",
+        meta: "8 bars · everything returns on the down-beat",
+        bars: [
+          b(["red", "blue", "green", "yellow", "purple", "orange"], "[chorus line 1 —"),
+          b(["red", "blue", "green", "yellow", "purple", "orange"], "full force]"),
+          b(["red", "blue", "green", "yellow", "purple", "orange"], "[chorus line 2]"),
+          b(["red", "blue", "green", "yellow", "purple", "orange"], "[continues…]"),
+          b(["red", "blue", "green", "yellow", "purple", "orange"], "[chorus line 3]"),
+          b(["red", "blue", "green", "yellow", "purple", "orange"], "[continues…]"),
+          b(["red", "blue", "green", "yellow", "purple", "orange"], "[chorus line 4]"),
+          b(["red", "blue", "green", "yellow", "purple", "orange"], "[continues…]"),
+        ],
+      },
+      {
+        tag: "Outro",
+        title: "Peel the layers off",
+        meta: "4 bars · mute one loop per bar — end on the tapped riff",
+        bars: [
+          b(["red", "blue", "green", "yellow", "purple", "orange"], "(drop the yellow stabs)", { silent: true }),
+          b(["blue", "green", "purple", "orange"], "(drop the kick)", { silent: true }),
+          b(["blue", "green", "purple"], "(drop the hi-hat)", { silent: true }),
+          b(["green"], "(just the tapped riff — stop.)", { silent: true }),
+        ],
+      },
+    ];
+
+    renderLoopsheet({ loops: LOOPS, song: SONG, defaultBpm: 95 });
+  </script>
+</body>
+</html>

@@ -1,0 +1,1050 @@
+point_id,lat,lon,mode,duration_min,status,legs,n_journeys,queried_at
+0,51.372434,-0.16745,cycle,88.0,ok,cycle,1,2026-03-16T08:46:01.958026
+0,51.372434,-0.16745,transit,81.0,ok,walking -> bus -> tube -> tube -> bus -> walking,3,2026-03-16T08:46:03.640901
+1,51.372434,-0.16456,cycle,89.0,ok,cycle,1,2026-03-16T08:46:05.931566
+1,51.372434,-0.16456,transit,79.0,ok,walking -> national-rail -> walking -> bus -> walking,3,2026-03-16T08:46:07.623202
+2,51.372434,-0.161671,cycle,88.0,ok,cycle,1,2026-03-16T08:46:14.114432
+2,51.372434,-0.161671,transit,78.0,ok,walking -> bus -> national-rail -> walking -> bus -> walking,3,2026-03-16T08:46:18.797094
+3,51.372434,-0.158782,cycle,89.0,ok,cycle,1,2026-03-16T08:46:25.923140
+3,51.372434,-0.158782,transit,82.0,ok,walking -> national-rail -> walking -> bus -> walking,3,2026-03-16T08:46:27.717172
+4,51.372434,-0.155893,cycle,91.0,ok,cycle,1,2026-03-16T08:46:31.855682
+4,51.372434,-0.155893,transit,88.0,ok,walking -> bus -> national-rail -> walking -> bus -> walking,3,2026-03-16T08:46:36.840030
+3,51.372434,-0.158782,transit,,"error: HTTPSConnectionPool(host='api.tfl.gov.uk', port=443): Max retries exceeded with url: /journey/journeyresults/51.5503,-0.127/to/51.372434,-0.158782?mode=tube%2Cbus%2Coverground%2Cdlr%2Celizabeth-line%2Ctram%2Cnational-rail&date=20260316&time=0900&timeIs=departing (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1032)')))",,,2026-03-16T08:47:06.838188
+15,51.372434,-0.124111,cycle,89,ok,cycle,1,2026-03-16T08:47:07.651853
+15,51.372434,-0.124111,transit,91,ok,walking -> bus -> national-rail -> national-rail -> walking -> tram -> walking,3,2026-03-16T08:47:13.327375
+16,51.372434,-0.121221,cycle,88,ok,cycle,1,2026-03-16T08:47:19.104069
+16,51.372434,-0.121221,transit,86,ok,walking -> bus -> national-rail -> national-rail -> walking -> tram -> walking,3,2026-03-16T08:47:24.890625
+17,51.372434,-0.118332,cycle,87,ok,cycle,1,2026-03-16T08:47:31.158409
+17,51.372434,-0.118332,transit,82,ok,walking -> bus -> national-rail -> national-rail -> bus -> walking,3,2026-03-16T08:47:35.828403
+18,51.372434,-0.115443,cycle,87,ok,cycle,1,2026-03-16T08:47:42.196526
+18,51.372434,-0.115443,transit,80,ok,walking -> bus -> national-rail -> national-rail -> walking -> tram -> walking,3,2026-03-16T08:47:48.806946
+19,51.372434,-0.112554,cycle,85,ok,cycle,1,2026-03-16T08:47:55.445622
+19,51.372434,-0.112554,transit,78,ok,walking -> bus -> national-rail -> national-rail -> walking -> tram -> walking,3,2026-03-16T08:48:00.411594
+20,51.372434,-0.109664,cycle,84,ok,cycle,1,2026-03-16T08:48:06.254016
+4,51.372434,-0.155893,cycle,,"error: HTTPSConnectionPool(host='api.tfl.gov.uk', port=443): Max retries exceeded with url: /journey/journeyresults/51.5503,-0.127/to/51.372434,-0.155893?mode=cycle&date=20260316&time=0900&timeIs=departing&cyclePreference=AllTheWay (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1032)')))",,,2026-03-16T08:48:08.612461
+20,51.372434,-0.109664,transit,76,ok,walking -> bus -> national-rail -> national-rail -> bus -> walking,3,2026-03-16T08:48:11.390368
+21,51.372434,-0.106775,cycle,84,ok,cycle,1,2026-03-16T08:48:17.188023
+21,51.372434,-0.106775,transit,74,ok,walking -> bus -> national-rail -> national-rail -> walking -> tram -> walking,3,2026-03-16T08:48:22.450804
+22,51.372434,-0.103886,cycle,84,ok,cycle,1,2026-03-16T08:48:30.662687
+22,51.372434,-0.103886,transit,73,ok,walking -> bus -> national-rail -> national-rail -> bus -> walking,3,2026-03-16T08:48:35.612411
+23,51.372434,-0.100997,cycle,84,ok,cycle,1,2026-03-16T08:48:40.992133
+23,51.372434,-0.100997,transit,70,ok,walking -> bus -> national-rail -> national-rail -> walking,3,2026-03-16T08:48:45.778180
+24,51.372434,-0.098107,cycle,84,ok,cycle,1,2026-03-16T08:48:51.368615
+24,51.372434,-0.098107,transit,67,ok,walking -> bus -> national-rail -> national-rail -> bus -> walking,3,2026-03-16T08:48:55.943399
+25,51.372434,-0.095218,cycle,84,ok,cycle,1,2026-03-16T08:49:02.416316
+25,51.372434,-0.095218,transit,66,ok,walking -> bus -> national-rail -> national-rail -> walking,3,2026-03-16T08:49:06.709269
+4,51.372434,-0.155893,transit,,"error: HTTPSConnectionPool(host='api.tfl.gov.uk', port=443): Max retries exceeded with url: /journey/journeyresults/51.5503,-0.127/to/51.372434,-0.155893?mode=tube%2Cbus%2Coverground%2Cdlr%2Celizabeth-line%2Ctram%2Cnational-rail&date=20260316&time=0900&timeIs=departing (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1032)')))",,,2026-03-16T08:49:10.329870
+26,51.372434,-0.092329,cycle,84,ok,cycle,1,2026-03-16T08:49:12.808764
+26,51.372434,-0.092329,transit,65,ok,walking -> bus -> national-rail -> national-rail -> walking,3,2026-03-16T08:49:17.463702
+27,51.372434,-0.08944,cycle,84,ok,cycle,1,2026-03-16T08:49:23.524042
+27,51.372434,-0.08944,transit,65,ok,walking -> bus -> national-rail -> national-rail -> walking,3,2026-03-16T08:49:27.778219
+28,51.372434,-0.08655,cycle,85,ok,cycle,1,2026-03-16T08:49:34.068394
+28,51.372434,-0.08655,transit,67,ok,walking -> bus -> national-rail -> national-rail -> bus -> walking,3,2026-03-16T08:49:38.428438
+29,51.374231,-0.181896,cycle,88,ok,cycle,1,2026-03-16T08:49:44.343891
+29,51.374231,-0.181896,transit,82,ok,walking -> bus -> tube -> tube -> bus -> walking,3,2026-03-16T08:49:48.654975
+30,51.374231,-0.179007,cycle,88,ok,cycle,1,2026-03-16T08:49:54.571158
+30,51.374231,-0.179007,transit,78,ok,walking -> bus -> tube -> tube -> bus -> walking,3,2026-03-16T08:49:58.555958
+31,51.374231,-0.176117,cycle,88,ok,cycle,1,2026-03-16T08:50:04.963871
+31,51.374231,-0.176117,transit,79,ok,walking -> bus -> tube -> tube -> bus -> walking,3,2026-03-16T08:50:09.240202
+32,51.374231,-0.173228,cycle,88,ok,cycle,1,2026-03-16T08:50:15.586929
+32,51.374231,-0.173228,transit,81,ok,walking -> bus -> tube -> tube -> bus -> walking,3,2026-03-16T08:50:20.155801
+33,51.374231,-0.170339,cycle,87,ok,cycle,1,2026-03-16T08:50:25.947506
+33,51.374231,-0.170339,transit,80,ok,walking -> bus -> tube -> tube -> bus -> walking,3,2026-03-16T08:50:30.358656
+34,51.374231,-0.16745,cycle,89,ok,cycle,1,2026-03-16T08:50:36.714480
+34,51.374231,-0.16745,transit,82,ok,walking -> national-rail -> walking -> bus -> walking,3,2026-03-16T08:50:41.391764
+35,51.374231,-0.16456,cycle,89,ok,cycle,1,2026-03-16T08:50:47.673935
+35,51.374231,-0.16456,transit,79,ok,walking -> national-rail -> walking -> bus -> walking,3,2026-03-16T08:50:51.874967
+36,51.374231,-0.161671,cycle,88,ok,cycle,1,2026-03-16T08:50:57.698730
+36,51.374231,-0.161671,transit,78,ok,walking -> national-rail -> walking -> bus -> walking,3,2026-03-16T08:51:02.493731
+37,51.374231,-0.158782,cycle,93,ok,cycle,1,2026-03-16T08:51:10.053055
+37,51.374231,-0.158782,transit,86,ok,walking -> national-rail -> walking -> bus -> walking,3,2026-03-16T08:51:15.655974
+38,51.374231,-0.155893,cycle,87,ok,cycle,1,2026-03-16T08:51:21.480719
+38,51.374231,-0.155893,transit,80,ok,walking -> national-rail -> walking,3,2026-03-16T08:51:26.286114
+39,51.374231,-0.153003,cycle,87,ok,cycle,1,2026-03-16T08:51:33.821222
+39,51.374231,-0.153003,transit,80,ok,walking -> national-rail -> walking,3,2026-03-16T08:51:38.454698
+40,51.374231,-0.150114,cycle,87,ok,cycle,1,2026-03-16T08:51:45.664366
+40,51.374231,-0.150114,transit,78,ok,walking -> national-rail -> walking,3,2026-03-16T08:51:50.041358
+41,51.374231,-0.147225,cycle,88,ok,cycle,1,2026-03-16T08:51:56.659203
+41,51.374231,-0.147225,transit,82,ok,walking -> national-rail -> walking,3,2026-03-16T08:52:01.565300
+42,51.374231,-0.144336,cycle,89,ok,cycle,1,2026-03-16T08:52:08.333504
+42,51.374231,-0.144336,transit,84,ok,walking -> national-rail -> walking,3,2026-03-16T08:52:13.166022
+43,51.374231,-0.141446,cycle,90,ok,cycle,1,2026-03-16T08:52:19.414526
+43,51.374231,-0.141446,transit,90,ok,walking -> national-rail -> walking,3,2026-03-16T08:52:24.307024
+44,51.374231,-0.138557,cycle,92,ok,cycle,1,2026-03-16T08:52:32.559938
+44,51.374231,-0.138557,transit,91,ok,walking -> national-rail -> walking,3,2026-03-16T08:52:37.539887
+45,51.374231,-0.135668,cycle,91,ok,cycle,1,2026-03-16T08:52:44.133227
+45,51.374231,-0.135668,transit,96,ok,walking -> national-rail -> bus -> walking,3,2026-03-16T08:52:50.624579
+46,51.374231,-0.132779,cycle,91,ok,cycle,1,2026-03-16T08:52:56.831034
+46,51.374231,-0.132779,transit,93,ok,walking -> national-rail -> bus -> walking,3,2026-03-16T08:53:02.257108
+47,51.374231,-0.129889,cycle,89,ok,cycle,1,2026-03-16T08:53:08.672995
+47,51.374231,-0.129889,transit,91,ok,walking -> national-rail -> bus -> walking,3,2026-03-16T08:53:14.590883
+48,51.374231,-0.127,cycle,91,ok,cycle,1,2026-03-16T08:53:21.458924
+48,51.374231,-0.127,transit,91,ok,walking -> bus -> walking -> national-rail -> walking -> tram -> walking,3,2026-03-16T08:53:28.113583
+49,51.374231,-0.124111,cycle,91,ok,cycle,1,2026-03-16T08:53:34.603475
+49,51.374231,-0.124111,transit,90,ok,walking -> bus -> walking -> national-rail -> walking -> tram -> walking,3,2026-03-16T08:53:39.353555
+50,51.374231,-0.121221,cycle,88,ok,cycle,1,2026-03-16T08:53:45.431417
+50,51.374231,-0.121221,transit,86,ok,walking -> bus -> walking -> national-rail -> walking -> tram -> walking,3,2026-03-16T08:53:51.964241
+51,51.374231,-0.118332,cycle,87,ok,cycle,1,2026-03-16T08:53:58.175398
+51,51.374231,-0.118332,transit,84,ok,walking -> bus -> walking -> national-rail -> walking -> tram -> walking,3,2026-03-16T08:54:03.121656
+52,51.374231,-0.115443,cycle,86,ok,cycle,1,2026-03-16T08:54:09.238700
+52,51.374231,-0.115443,transit,80,ok,walking -> bus -> walking -> national-rail -> walking -> tram -> walking,3,2026-03-16T08:54:13.939418
+53,51.374231,-0.112554,cycle,86,ok,cycle,1,2026-03-16T08:54:21.910710
+53,51.374231,-0.112554,transit,79,ok,walking -> bus -> walking -> national-rail -> walking -> tram -> walking,3,2026-03-16T08:54:27.670438
+54,51.374231,-0.109664,cycle,85,ok,cycle,1,2026-03-16T08:54:34.985604
+54,51.374231,-0.109664,transit,79,ok,walking -> national-rail -> national-rail -> walking -> tram -> walking,3,2026-03-16T08:54:39.977902
+55,51.374231,-0.106775,cycle,84,ok,cycle,1,2026-03-16T08:54:46.759199
+55,51.374231,-0.106775,transit,75,ok,walking -> national-rail -> national-rail -> walking -> tram -> walking,3,2026-03-16T08:54:53.526731
+56,51.374231,-0.103886,cycle,83,ok,cycle,1,2026-03-16T08:54:58.848909
+56,51.374231,-0.103886,transit,73,ok,walking -> national-rail -> national-rail -> walking -> tram -> walking,3,2026-03-16T08:55:04.852163
+57,51.374231,-0.100997,cycle,83,ok,cycle,1,2026-03-16T08:55:10.362752
+57,51.374231,-0.100997,transit,67,ok,walking -> national-rail -> national-rail -> bus -> walking,3,2026-03-16T08:55:15.804358
+58,51.374231,-0.098107,cycle,83,ok,cycle,1,2026-03-16T08:55:23.857565
+58,51.374231,-0.098107,transit,66,ok,walking -> national-rail -> national-rail -> bus -> walking,3,2026-03-16T08:55:28.720511
+59,51.374231,-0.095218,cycle,83,ok,cycle,1,2026-03-16T08:55:34.077217
+59,51.374231,-0.095218,transit,63,ok,walking -> national-rail -> national-rail -> walking,3,2026-03-16T08:55:40.496604
+60,51.374231,-0.092329,cycle,84,ok,cycle,1,2026-03-16T08:55:46.625559
+60,51.374231,-0.092329,transit,62,ok,walking -> national-rail -> national-rail -> walking,3,2026-03-16T08:55:51.721758
+61,51.374231,-0.08944,cycle,83,ok,cycle,1,2026-03-16T08:55:58.043124
+61,51.374231,-0.08944,transit,64,ok,walking -> national-rail -> national-rail -> walking,3,2026-03-16T08:56:01.925873
+62,51.374231,-0.08655,cycle,84,ok,cycle,1,2026-03-16T08:56:08.557391
+62,51.374231,-0.08655,transit,67,ok,walking -> national-rail -> national-rail -> bus -> walking,3,2026-03-16T08:56:13.114512
+63,51.374231,-0.083661,cycle,84,ok,cycle,1,2026-03-16T08:56:20.452867
+63,51.374231,-0.083661,transit,68,ok,walking -> national-rail -> national-rail -> bus -> walking,3,2026-03-16T08:56:25.105675
+64,51.374231,-0.080772,cycle,85,ok,cycle,1,2026-03-16T08:56:35.250550
+64,51.374231,-0.080772,transit,72,ok,walking -> national-rail -> national-rail -> bus -> walking,3,2026-03-16T08:56:41.011522
+65,51.374231,-0.077883,cycle,85,ok,cycle,1,2026-03-16T08:56:46.931152
+65,51.374231,-0.077883,transit,70,ok,walking -> national-rail -> national-rail -> bus -> walking,3,2026-03-16T08:56:51.521895
+66,51.374231,-0.074993,cycle,88,ok,cycle,1,2026-03-16T08:56:57.465284
+66,51.374231,-0.074993,transit,70,ok,walking -> national-rail -> national-rail -> bus -> walking,3,2026-03-16T08:57:02.022821
+67,51.374231,-0.072104,cycle,84,ok,cycle,1,2026-03-16T08:57:10.420589
+67,51.374231,-0.072104,transit,70,ok,walking -> national-rail -> national-rail -> bus -> walking,3,2026-03-16T08:57:15.134367
+68,51.376028,-0.196342,cycle,91,ok,cycle,1,2026-03-16T08:57:22.070738
+68,51.376028,-0.196342,transit,82,ok,walking -> bus -> tube -> tube -> bus -> walking,3,2026-03-16T08:57:27.130235
+69,51.376028,-0.193453,cycle,87,ok,cycle,1,2026-03-16T08:57:35.313846
+69,51.376028,-0.193453,transit,75,ok,walking -> bus -> tube -> tube -> bus -> walking,3,2026-03-16T08:57:40.173637
+70,51.376028,-0.190564,cycle,88,ok,cycle,1,2026-03-16T08:57:47.027218
+70,51.376028,-0.190564,transit,78,ok,walking -> bus -> tube -> tube -> bus -> walking,3,2026-03-16T08:57:51.325666
+71,51.376028,-0.187675,cycle,87,ok,cycle,1,2026-03-16T08:57:57.180450
+71,51.376028,-0.187675,transit,83,ok,walking -> bus -> tube -> tube -> bus -> walking,3,2026-03-16T08:58:02.107505
+72,51.376028,-0.184785,cycle,87,ok,cycle,1,2026-03-16T08:58:08.541266
+72,51.376028,-0.184785,transit,88,ok,walking -> bus -> tube -> tube -> bus -> walking,3,2026-03-16T08:58:15.380616
+73,51.376028,-0.181896,cycle,87,ok,cycle,1,2026-03-16T08:58:21.165222
+73,51.376028,-0.181896,transit,79,ok,walking -> bus -> tube -> tube -> bus -> walking,3,2026-03-16T08:58:27.142436
+74,51.376028,-0.179007,cycle,88,ok,cycle,1,2026-03-16T08:58:33.304608
+74,51.376028,-0.179007,transit,77,ok,walking -> bus -> tube -> tube -> bus -> walking,3,2026-03-16T08:58:39.009991
+75,51.376028,-0.176117,cycle,87,ok,cycle,1,2026-03-16T08:58:45.618561
+75,51.376028,-0.176117,transit,77,ok,walking -> bus -> tube -> tube -> bus -> walking,3,2026-03-16T08:58:50.986983
+76,51.376028,-0.173228,cycle,88,ok,cycle,1,2026-03-16T08:58:54.261549
+76,51.376028,-0.173228,transit,82,ok,walking -> bus -> national-rail -> walking -> bus -> walking,3,2026-03-16T08:58:58.560168
+77,51.376028,-0.170339,cycle,87,ok,cycle,1,2026-03-16T08:59:03.966895
+77,51.376028,-0.170339,transit,78,ok,walking -> bus -> tube -> tube -> bus -> walking,3,2026-03-16T08:59:08.444800
+78,51.376028,-0.16745,cycle,87,ok,cycle,1,2026-03-16T08:59:15.115210
+78,51.376028,-0.16745,transit,80,ok,walking -> bus -> tube -> tube -> bus -> walking,3,2026-03-16T08:59:18.430062
+79,51.376028,-0.16456,cycle,89,ok,cycle,1,2026-03-16T08:59:24.973902
+79,51.376028,-0.16456,transit,77,ok,walking -> bus -> national-rail -> walking -> bus -> walking,3,2026-03-16T08:59:28.971894
+80,51.376028,-0.161671,cycle,87,ok,cycle,1,2026-03-16T08:59:35.447919
+80,51.376028,-0.161671,transit,73,ok,walking -> bus -> national-rail -> walking -> bus -> walking,3,2026-03-16T08:59:40.851896
+81,51.376028,-0.158782,cycle,87,ok,cycle,1,2026-03-16T08:59:47.647976
+81,51.376028,-0.158782,transit,74,ok,walking -> bus -> national-rail -> walking -> bus -> walking,3,2026-03-16T08:59:50.992585
+82,51.376028,-0.155893,cycle,86,ok,cycle,1,2026-03-16T08:59:56.368653
+82,51.376028,-0.155893,transit,72,ok,walking -> bus -> national-rail -> walking,3,2026-03-16T09:00:01.230068
+83,51.376028,-0.153003,cycle,86,ok,cycle,1,2026-03-16T09:00:08.599434
+83,51.376028,-0.153003,transit,70,ok,walking -> bus -> national-rail -> walking,3,2026-03-16T09:00:13.983422
+84,51.376028,-0.150114,cycle,88,ok,cycle,1,2026-03-16T09:00:20.258693
+84,51.376028,-0.150114,transit,73,ok,walking -> bus -> national-rail -> walking,3,2026-03-16T09:00:25.241712
+85,51.376028,-0.147225,cycle,89,ok,cycle,1,2026-03-16T09:00:32.557313
+85,51.376028,-0.147225,transit,76,ok,walking -> bus -> national-rail -> walking,3,2026-03-16T09:00:37.459475
+86,51.376028,-0.144336,cycle,,http_500,,,2026-03-16T09:01:55.756770
+86,51.376028,-0.144336,transit,82,ok,walking -> bus -> national-rail -> walking,3,2026-03-16T09:02:01.894444
+87,51.376028,-0.141446,cycle,93,ok,cycle,1,2026-03-16T09:02:09.328284
+87,51.376028,-0.141446,transit,82,ok,walking -> bus -> national-rail -> walking,3,2026-03-16T09:02:14.115038
+88,51.376028,-0.138557,cycle,93,ok,cycle,1,2026-03-16T09:02:21.945098
+88,51.376028,-0.138557,transit,83,ok,walking -> bus -> national-rail -> walking,3,2026-03-16T09:02:27.188182
+89,51.376028,-0.135668,cycle,88,ok,cycle,1,2026-03-16T09:02:34.182737
+89,51.376028,-0.135668,transit,87,ok,walking -> bus -> national-rail -> bus -> walking,3,2026-03-16T09:02:39.754623
+90,51.376028,-0.132779,cycle,88,ok,cycle,1,2026-03-16T09:02:46.345080
+90,51.376028,-0.132779,transit,85,ok,walking -> bus -> national-rail -> bus -> walking,3,2026-03-16T09:02:51.464054
+91,51.376028,-0.129889,cycle,89,ok,cycle,1,2026-03-16T09:02:57.526595
+91,51.376028,-0.129889,transit,85,ok,walking -> bus -> national-rail -> bus -> walking,3,2026-03-16T09:03:04.038725
+92,51.376028,-0.127,cycle,90,ok,cycle,1,2026-03-16T09:03:10.113413
+92,51.376028,-0.127,transit,84,ok,walking -> bus -> national-rail -> bus -> walking,3,2026-03-16T09:03:15.006980
+93,51.376028,-0.124111,cycle,91,ok,cycle,1,2026-03-16T09:03:21.196617
+93,51.376028,-0.124111,transit,86,ok,walking -> bus -> national-rail -> bus -> walking,3,2026-03-16T09:03:26.556280
+94,51.376028,-0.121221,cycle,91,ok,cycle,1,2026-03-16T09:03:33.812455
+94,51.376028,-0.121221,transit,81,ok,walking -> bus -> national-rail -> tram -> walking,3,2026-03-16T09:03:38.141095
+95,51.376028,-0.118332,cycle,87,ok,cycle,1,2026-03-16T09:03:44.601740
+95,51.376028,-0.118332,transit,79,ok,walking -> bus -> national-rail -> tram -> walking,3,2026-03-16T09:03:49.550653
+96,51.376028,-0.115443,cycle,84,ok,cycle,1,2026-03-16T09:03:55.219657
+96,51.376028,-0.115443,transit,85,ok,walking -> bus -> walking -> national-rail -> national-rail -> walking,3,2026-03-16T09:03:59.624500
+97,51.376028,-0.112554,cycle,84,ok,cycle,1,2026-03-16T09:04:06.867428
+97,51.376028,-0.112554,transit,85,ok,walking -> bus -> walking -> national-rail -> national-rail -> walking,3,2026-03-16T09:04:13.133061
+98,51.376028,-0.109664,cycle,83,ok,cycle,1,2026-03-16T09:04:18.811682
+98,51.376028,-0.109664,transit,79,ok,walking -> bus -> walking -> national-rail -> national-rail -> walking,3,2026-03-16T09:04:24.435332
+99,51.376028,-0.106775,cycle,82,ok,cycle,1,2026-03-16T09:04:30.994734
+99,51.376028,-0.106775,transit,75,ok,walking -> bus -> walking -> national-rail -> national-rail -> walking,3,2026-03-16T09:04:35.725753
+100,51.376028,-0.103886,cycle,82,ok,cycle,1,2026-03-16T09:04:41.939276
+100,51.376028,-0.103886,transit,73,ok,walking -> bus -> walking -> national-rail -> national-rail -> walking,3,2026-03-16T09:04:47.322000
+101,51.376028,-0.100997,cycle,82,ok,cycle,1,2026-03-16T09:04:53.358642
+101,51.376028,-0.100997,transit,72,ok,walking -> bus -> walking -> tube -> tube -> national-rail -> bus -> walking,3,2026-03-16T09:05:25.374940
+102,51.376028,-0.098107,cycle,82,ok,cycle,1,2026-03-16T09:05:32.039229
+102,51.376028,-0.098107,transit,68,ok,walking -> bus -> walking -> tube -> tube -> national-rail -> bus -> walking,3,2026-03-16T09:05:33.717775
+103,51.376028,-0.095218,cycle,82,ok,cycle,1,2026-03-16T09:05:35.413783
+103,51.376028,-0.095218,transit,63,ok,walking -> bus -> walking -> bus -> national-rail -> walking,3,2026-03-16T09:05:39.958814
+104,51.376028,-0.092329,cycle,85,ok,cycle,1,2026-03-16T09:05:46.441237
+104,51.376028,-0.092329,transit,65,ok,walking -> bus -> walking -> national-rail -> walking,3,2026-03-16T09:05:50.716210
+105,51.376028,-0.08944,cycle,83,ok,cycle,1,2026-03-16T09:05:56.106499
+105,51.376028,-0.08944,transit,69,ok,walking -> bus -> walking -> national-rail -> walking,3,2026-03-16T09:06:01.420809
+106,51.376028,-0.08655,cycle,84,ok,cycle,1,2026-03-16T09:06:07.307984
+106,51.376028,-0.08655,transit,69,ok,walking -> bus -> walking -> national-rail -> bus -> walking,3,2026-03-16T09:06:12.257697
+107,51.376028,-0.083661,cycle,84,ok,cycle,1,2026-03-16T09:06:18.821352
+107,51.376028,-0.083661,transit,70,ok,walking -> bus -> walking -> tube -> tube -> national-rail -> bus -> walking,3,2026-03-16T09:06:24.212437
+108,51.376028,-0.080772,cycle,84,ok,cycle,1,2026-03-16T09:06:29.690928
+108,51.376028,-0.080772,transit,71,ok,walking -> bus -> walking -> tube -> tube -> national-rail -> bus -> walking,3,2026-03-16T09:06:33.900805
+109,51.376028,-0.077883,cycle,84,ok,cycle,1,2026-03-16T09:06:40.793722
+109,51.376028,-0.077883,transit,68,ok,walking -> bus -> walking -> national-rail -> bus -> walking,3,2026-03-16T09:06:45.271973
+110,51.376028,-0.074993,cycle,89,ok,cycle,1,2026-03-16T09:06:52.419789
+110,51.376028,-0.074993,transit,70,ok,walking -> bus -> walking -> national-rail -> bus -> walking,3,2026-03-16T09:06:55.415507
+111,51.376028,-0.072104,cycle,83,ok,cycle,1,2026-03-16T09:07:01.495253
+111,51.376028,-0.072104,transit,72,ok,walking -> bus -> walking -> national-rail -> bus -> walking,3,2026-03-16T09:07:06.013912
+112,51.376028,-0.069215,cycle,83,ok,cycle,1,2026-03-16T09:07:12.742909
+112,51.376028,-0.069215,transit,72,ok,walking -> bus -> walking -> national-rail -> bus -> walking,3,2026-03-16T09:07:16.857537
+113,51.376028,-0.066325,cycle,83,ok,cycle,1,2026-03-16T09:07:22.095273
+113,51.376028,-0.066325,transit,71,ok,walking -> bus -> walking -> national-rail -> bus -> walking,3,2026-03-16T09:07:29.524256
+114,51.376028,-0.063436,cycle,82,ok,cycle,1,2026-03-16T09:07:35.119435
+114,51.376028,-0.063436,transit,71,ok,walking -> bus -> walking -> national-rail -> bus -> walking,3,2026-03-16T09:07:40.040628
+115,51.376028,-0.060547,cycle,83,ok,cycle,1,2026-03-16T09:07:46.892466
+115,51.376028,-0.060547,transit,71,ok,walking -> bus -> walking -> national-rail -> bus -> walking,3,2026-03-16T09:07:51.429584
+116,51.376028,-0.057658,cycle,83,ok,cycle,1,2026-03-16T09:07:58.224939
+116,51.376028,-0.057658,transit,72,ok,walking -> bus -> walking -> national-rail -> bus -> walking,3,2026-03-16T09:08:03.237852
+117,51.377824,-0.20501,cycle,89,ok,cycle,1,2026-03-16T09:08:09.219761
+117,51.377824,-0.20501,transit,79,ok,walking -> bus -> tube -> walking -> bus -> walking,3,2026-03-16T09:08:13.675186
+118,51.377824,-0.202121,cycle,89,ok,cycle,1,2026-03-16T09:08:20.417906
+118,51.377824,-0.202121,transit,77,ok,walking -> bus -> tube -> walking -> bus -> walking,3,2026-03-16T09:08:55.021477
+119,51.377824,-0.199232,cycle,88,ok,cycle,1,2026-03-16T09:09:01.734426
+119,51.377824,-0.199232,transit,77,ok,walking -> bus -> tube -> walking -> bus -> walking,3,2026-03-16T09:09:03.235803
+120,51.377824,-0.196342,cycle,89,ok,cycle,1,2026-03-16T09:09:04.857361
+120,51.377824,-0.196342,transit,80,ok,walking -> bus -> tube -> walking -> bus -> walking,3,2026-03-16T09:09:08.851534
+121,51.377824,-0.193453,cycle,87,ok,cycle,1,2026-03-16T09:09:16.172168
+121,51.377824,-0.193453,transit,75,ok,walking -> bus -> tube -> tube -> bus -> walking,3,2026-03-16T09:09:20.182921
+122,51.377824,-0.190564,cycle,87,ok,cycle,1,2026-03-16T09:09:27.125157
+122,51.377824,-0.190564,transit,75,ok,walking -> bus -> tube -> tube -> bus -> walking,3,2026-03-16T09:09:31.457343
+123,51.377824,-0.187675,cycle,88,ok,cycle,1,2026-03-16T09:09:37.956791
+123,51.377824,-0.187675,transit,81,ok,walking -> bus -> tube -> tube -> bus -> walking,3,2026-03-16T09:09:42.268441
+124,51.377824,-0.184785,cycle,86,ok,cycle,1,2026-03-16T09:09:47.821408
+124,51.377824,-0.184785,transit,81,ok,walking -> bus -> tube -> tube -> bus -> walking,3,2026-03-16T09:09:51.819090
+125,51.377824,-0.181896,cycle,87,ok,cycle,1,2026-03-16T09:09:53.509566
+125,51.377824,-0.181896,transit,77,ok,walking -> bus -> tube -> tube -> bus -> walking,3,2026-03-16T09:09:55.044744
+126,51.377824,-0.179007,cycle,86,ok,cycle,1,2026-03-16T09:10:01.378343
+126,51.377824,-0.179007,transit,75,ok,walking -> bus -> walking -> tube -> tube -> bus -> walking,3,2026-03-16T09:10:03.002576
+127,51.377824,-0.176117,cycle,86,ok,cycle,1,2026-03-16T09:10:08.661278
+127,51.377824,-0.176117,transit,77,ok,walking -> bus -> tube -> tube -> bus -> walking,3,2026-03-16T09:10:10.448201
+128,51.377824,-0.173228,cycle,86,ok,cycle,1,2026-03-16T09:10:17.580874
+128,51.377824,-0.173228,transit,79,ok,walking -> bus -> tube -> bus -> walking,3,2026-03-16T09:10:22.427859
+129,51.377824,-0.170339,cycle,86,ok,cycle,1,2026-03-16T09:10:28.054741
+129,51.377824,-0.170339,transit,76,ok,walking -> bus -> tube -> bus -> walking,3,2026-03-16T09:10:32.752720
+130,51.377824,-0.16745,cycle,86,ok,cycle,1,2026-03-16T09:10:35.022255
+130,51.377824,-0.16745,transit,75,ok,walking -> bus -> tube -> bus -> walking,3,2026-03-16T09:10:39.848421
+131,51.377824,-0.16456,cycle,86,ok,cycle,1,2026-03-16T09:10:45.792359
+131,51.377824,-0.16456,transit,77,ok,walking -> bus -> tube -> bus -> walking,3,2026-03-16T09:10:50.136790
+132,51.377824,-0.161671,cycle,86,ok,cycle,1,2026-03-16T09:10:56.659817
+132,51.377824,-0.161671,transit,74,ok,walking -> national-rail -> walking -> bus -> walking,3,2026-03-16T09:11:00.838535
+133,51.377824,-0.158782,cycle,86,ok,cycle,1,2026-03-16T09:11:06.501411
+133,51.377824,-0.158782,transit,72,ok,walking -> national-rail -> walking -> bus -> walking,3,2026-03-16T09:11:10.958182
+134,51.377824,-0.155893,cycle,86,ok,cycle,1,2026-03-16T09:11:17.017409
+134,51.377824,-0.155893,transit,70,ok,walking -> national-rail -> walking,3,2026-03-16T09:11:21.319697
+135,51.377824,-0.153003,cycle,88,ok,cycle,1,2026-03-16T09:11:27.239729
+135,51.377824,-0.153003,transit,77,ok,walking -> national-rail -> walking,3,2026-03-16T09:11:33.010073
+136,51.377824,-0.150114,cycle,88,ok,cycle,1,2026-03-16T09:11:39.328349
+136,51.377824,-0.150114,transit,77,ok,walking -> national-rail -> walking,3,2026-03-16T09:11:44.305613
+137,51.377824,-0.147225,cycle,90,ok,cycle,1,2026-03-16T09:11:51.323541
+137,51.377824,-0.147225,transit,78,ok,walking -> national-rail -> walking,3,2026-03-16T09:11:55.100977
+138,51.377824,-0.144336,cycle,,http_500,,,2026-03-16T09:13:14.301953
+138,51.377824,-0.144336,transit,79,ok,walking -> national-rail -> walking,3,2026-03-16T09:13:18.298678
+139,51.377824,-0.141446,cycle,,http_500,,,2026-03-16T09:14:36.983341
+139,51.377824,-0.141446,transit,84,ok,walking -> national-rail -> walking,3,2026-03-16T09:14:41.031957
+140,51.377824,-0.138557,cycle,93,ok,cycle,1,2026-03-16T09:14:49.138085
+140,51.377824,-0.138557,transit,84,ok,walking -> national-rail -> walking,3,2026-03-16T09:14:54.270469
+141,51.377824,-0.135668,cycle,,http_503,,,2026-03-16T09:15:57.345908
+141,51.377824,-0.135668,transit,90,ok,walking -> national-rail -> bus -> walking,3,2026-03-16T09:16:02.093964
+142,51.377824,-0.132779,cycle,88,ok,cycle,1,2026-03-16T09:16:07.284342
+142,51.377824,-0.132779,transit,90,ok,walking -> national-rail -> bus -> walking,3,2026-03-16T09:16:11.951309
+143,51.377824,-0.129889,cycle,88,ok,cycle,1,2026-03-16T09:16:17.695830
+143,51.377824,-0.129889,transit,92,ok,walking -> national-rail -> tram -> walking,3,2026-03-16T09:16:22.442216
+144,51.377824,-0.127,cycle,90,ok,cycle,1,2026-03-16T09:16:27.870411
+144,51.377824,-0.127,transit,82,ok,walking -> national-rail -> bus -> walking,3,2026-03-16T09:16:32.881244
+145,51.377824,-0.124111,cycle,90,ok,cycle,1,2026-03-16T09:16:39.180195
+145,51.377824,-0.124111,transit,83,ok,walking -> national-rail -> tram -> walking,3,2026-03-16T09:16:44.192480
+146,51.377824,-0.121221,cycle,92,ok,cycle,1,2026-03-16T09:16:50.037054
+146,51.377824,-0.121221,transit,83,ok,walking -> national-rail -> tram -> walking,3,2026-03-16T09:16:54.857423
+147,51.377824,-0.118332,cycle,84,ok,cycle,1,2026-03-16T09:17:00.673536
+147,51.377824,-0.118332,transit,77,ok,walking -> bus -> tube -> tube -> national-rail -> walking -> tram -> walking,3,2026-03-16T09:17:06.047626
+148,51.377824,-0.115443,cycle,83,ok,cycle,1,2026-03-16T09:17:11.597459
+148,51.377824,-0.115443,transit,82,ok,walking -> bus -> walking -> bus -> national-rail -> national-rail -> walking,3,2026-03-16T09:17:16.186941
+149,51.377824,-0.112554,cycle,84,ok,cycle,1,2026-03-16T09:17:22.505962
+149,51.377824,-0.112554,transit,83,ok,walking -> bus -> walking -> bus -> national-rail -> national-rail -> walking,3,2026-03-16T09:17:27.865491
+150,51.377824,-0.109664,cycle,82,ok,cycle,1,2026-03-16T09:17:34.090221
+150,51.377824,-0.109664,transit,76,ok,walking -> bus -> walking -> bus -> national-rail -> national-rail -> walking,3,2026-03-16T09:17:39.301901
+151,51.377824,-0.106775,cycle,82,ok,cycle,1,2026-03-16T09:17:45.946428
+151,51.377824,-0.106775,transit,71,ok,walking -> bus -> walking -> bus -> national-rail -> national-rail -> walking,3,2026-03-16T09:17:50.738244
+152,51.377824,-0.103886,cycle,81,ok,cycle,1,2026-03-16T09:17:56.971615
+152,51.377824,-0.103886,transit,69,ok,walking -> bus -> walking -> bus -> national-rail -> national-rail -> walking,3,2026-03-16T09:18:01.847808
+153,51.377824,-0.100997,cycle,81,ok,cycle,1,2026-03-16T09:18:07.037358
+153,51.377824,-0.100997,transit,70,ok,walking -> bus -> walking -> bus -> national-rail -> national-rail -> walking,3,2026-03-16T09:18:13.284215
+154,51.377824,-0.098107,cycle,82,ok,cycle,1,2026-03-16T09:18:19.999954
+154,51.377824,-0.098107,transit,71,ok,walking -> bus -> walking -> bus -> national-rail -> walking,3,2026-03-16T09:18:24.260389
+155,51.377824,-0.095218,cycle,81,ok,cycle,1,2026-03-16T09:18:30.447756
+155,51.377824,-0.095218,transit,68,ok,walking -> bus -> walking -> bus -> national-rail -> walking,3,2026-03-16T09:18:34.603963
+156,51.377824,-0.092329,cycle,86,ok,cycle,1,2026-03-16T09:18:42.087122
+156,51.377824,-0.092329,transit,65,ok,walking -> bus -> walking -> bus -> national-rail -> walking,3,2026-03-16T09:18:46.196181
+157,51.377824,-0.08944,cycle,83,ok,cycle,1,2026-03-16T09:18:52.167368
+157,51.377824,-0.08944,transit,69,ok,walking -> bus -> walking -> bus -> national-rail -> walking,3,2026-03-16T09:18:56.921453
+158,51.377824,-0.08655,cycle,83,ok,cycle,1,2026-03-16T09:19:03.537666
+158,51.377824,-0.08655,transit,72,ok,walking -> bus -> walking -> bus -> national-rail -> walking,3,2026-03-16T09:19:07.820653
+159,51.377824,-0.083661,cycle,83,ok,cycle,1,2026-03-16T09:19:13.960908
+159,51.377824,-0.083661,transit,71,ok,walking -> bus -> walking -> tube -> tube -> national-rail -> bus -> walking,3,2026-03-16T09:19:19.210742
+160,51.377824,-0.080772,cycle,83,ok,cycle,1,2026-03-16T09:19:24.918308
+160,51.377824,-0.080772,transit,73,ok,walking -> bus -> walking -> bus -> national-rail -> bus -> walking,3,2026-03-16T09:19:29.413878
+161,51.377824,-0.077883,cycle,84,ok,cycle,1,2026-03-16T09:19:35.154938
+161,51.377824,-0.077883,transit,71,ok,walking -> bus -> walking -> bus -> national-rail -> bus -> walking,3,2026-03-16T09:19:40.381028
+162,51.377824,-0.074993,cycle,85,ok,cycle,1,2026-03-16T09:19:46.003850
+162,51.377824,-0.074993,transit,73,ok,walking -> bus -> walking -> tube -> tube -> national-rail -> bus -> walking,3,2026-03-16T09:19:50.142194
+163,51.377824,-0.072104,cycle,82,ok,cycle,1,2026-03-16T09:19:56.036385
+163,51.377824,-0.072104,transit,75,ok,walking -> bus -> walking -> tube -> tube -> national-rail -> bus -> walking,3,2026-03-16T09:20:00.314320
+164,51.377824,-0.069215,cycle,82,ok,cycle,1,2026-03-16T09:20:08.379106
+164,51.377824,-0.069215,transit,72,ok,walking -> bus -> national-rail -> national-rail -> bus -> walking,3,2026-03-16T09:20:13.544420
+165,51.377824,-0.066325,cycle,82,ok,cycle,1,2026-03-16T09:20:19.940530
+165,51.377824,-0.066325,transit,72,ok,walking -> bus -> national-rail -> national-rail -> bus -> walking,3,2026-03-16T09:20:23.969437
+166,51.377824,-0.063436,cycle,81,ok,cycle,1,2026-03-16T09:20:29.658208
+166,51.377824,-0.063436,transit,73,ok,walking -> bus -> national-rail -> national-rail -> bus -> walking,3,2026-03-16T09:20:33.301931
+167,51.377824,-0.060547,cycle,82,ok,cycle,1,2026-03-16T09:20:39.031491
+167,51.377824,-0.060547,transit,71,ok,walking -> bus -> national-rail -> national-rail -> bus -> walking,3,2026-03-16T09:20:40.599732
+168,51.377824,-0.057658,cycle,82,ok,cycle,1,2026-03-16T09:20:46.842369
+168,51.377824,-0.057658,transit,72,ok,walking -> bus -> national-rail -> national-rail -> bus -> walking,3,2026-03-16T09:20:49.872596
+169,51.377824,-0.054768,cycle,83,ok,cycle,1,2026-03-16T09:20:57.683955
+169,51.377824,-0.054768,transit,75,ok,walking -> bus -> national-rail -> national-rail -> bus -> walking,3,2026-03-16T09:21:02.879222
+170,51.377824,-0.051879,cycle,84,ok,cycle,1,2026-03-16T09:21:06.383260
+170,51.377824,-0.051879,transit,81,ok,walking -> bus -> national-rail -> national-rail -> bus -> walking,3,2026-03-16T09:21:09.735683
+171,51.377824,-0.04899,cycle,84,ok,cycle,1,2026-03-16T09:21:15.732003
+171,51.377824,-0.04899,transit,76,ok,walking -> bus -> national-rail -> national-rail -> bus -> walking,3,2026-03-16T09:21:18.884597
+172,51.379621,-0.216567,cycle,92,ok,cycle,1,2026-03-16T09:21:25.913422
+172,51.379621,-0.216567,transit,75,ok,walking -> bus -> tube -> tube -> walking -> bus -> walking,3,2026-03-16T09:21:29.158768
+173,51.379621,-0.213678,cycle,90,ok,cycle,1,2026-03-16T09:21:35.234717
+173,51.379621,-0.213678,transit,79,ok,walking -> bus -> tube -> tube -> walking -> bus -> walking,3,2026-03-16T09:21:39.665544
+174,51.379621,-0.210789,cycle,92,ok,cycle,1,2026-03-16T09:21:46.649264
+174,51.379621,-0.210789,transit,81,ok,walking -> bus -> tube -> tube -> walking -> bus -> walking,3,2026-03-16T09:21:50.287603
+175,51.379621,-0.207899,cycle,90,ok,cycle,1,2026-03-16T09:21:56.249408
+175,51.379621,-0.207899,transit,80,ok,walking -> bus -> tube -> tube -> tube -> walking -> bus -> walking,3,2026-03-16T09:21:59.928824
+176,51.379621,-0.20501,cycle,89,ok,cycle,1,2026-03-16T09:22:06.764165
+176,51.379621,-0.20501,transit,78,ok,walking -> bus -> tube -> walking -> bus -> walking,3,2026-03-16T09:22:10.896258
+177,51.379621,-0.202121,cycle,88,ok,cycle,1,2026-03-16T09:22:18.274375
+177,51.379621,-0.202121,transit,74,ok,walking -> bus -> tube -> walking -> bus -> walking,3,2026-03-16T09:22:22.833755
+178,51.379621,-0.199232,cycle,88,ok,cycle,1,2026-03-16T09:22:29.029282
+178,51.379621,-0.199232,transit,76,ok,walking -> bus -> tube -> walking -> bus -> walking,3,2026-03-16T09:22:34.138518
+179,51.379621,-0.196342,cycle,89,ok,cycle,1,2026-03-16T09:22:40.612777
+179,51.379621,-0.196342,transit,82,ok,walking -> bus -> tube -> tube -> tube -> walking -> bus -> walking,3,2026-03-16T09:22:44.152051
+180,51.379621,-0.193453,cycle,87,ok,cycle,1,2026-03-16T09:22:49.530774
+180,51.379621,-0.193453,transit,77,ok,walking -> bus -> tube -> tube -> bus -> walking,3,2026-03-16T09:22:53.856735
+181,51.379621,-0.190564,cycle,86,ok,cycle,1,2026-03-16T09:23:00.358987
+181,51.379621,-0.190564,transit,77,ok,walking -> bus -> tube -> tube -> bus -> walking,3,2026-03-16T09:23:04.531129
+182,51.379621,-0.187675,cycle,86,ok,cycle,1,2026-03-16T09:23:09.908753
+182,51.379621,-0.187675,transit,78,ok,walking -> bus -> tube -> tube -> tube -> bus -> walking,3,2026-03-16T09:23:13.913243
+183,51.379621,-0.184785,cycle,86,ok,cycle,1,2026-03-16T09:23:19.623940
+183,51.379621,-0.184785,transit,75,ok,walking -> bus -> tube -> tube -> bus -> walking,3,2026-03-16T09:23:23.719036
+184,51.379621,-0.181896,cycle,86,ok,cycle,1,2026-03-16T09:23:29.665707
+184,51.379621,-0.181896,transit,74,ok,walking -> bus -> tube -> tube -> tube -> bus -> walking,3,2026-03-16T09:23:34.358001
+185,51.379621,-0.179007,cycle,86,ok,cycle,1,2026-03-16T09:23:40.423298
+185,51.379621,-0.179007,transit,77,ok,walking -> bus -> tube -> tube -> tube -> bus -> walking,3,2026-03-16T09:23:45.741206
+186,51.379621,-0.176117,cycle,86,ok,cycle,1,2026-03-16T09:23:51.375951
+186,51.379621,-0.176117,transit,78,ok,walking -> bus -> tube -> tube -> tube -> bus -> walking,3,2026-03-16T09:23:55.696198
+187,51.379621,-0.173228,cycle,85,ok,cycle,1,2026-03-16T09:24:02.535113
+187,51.379621,-0.173228,transit,78,ok,walking -> bus -> tube -> tube -> tube -> bus -> walking,3,2026-03-16T09:24:05.737691
+188,51.379621,-0.170339,cycle,86,ok,cycle,1,2026-03-16T09:24:11.600761
+188,51.379621,-0.170339,transit,80,ok,walking -> bus -> tube -> tube -> tube -> bus -> walking,3,2026-03-16T09:24:17.142464
+189,51.379621,-0.16745,cycle,86,ok,cycle,1,2026-03-16T09:24:22.541630
+189,51.379621,-0.16745,transit,80,ok,walking -> bus -> tube -> tube -> bus -> walking,3,2026-03-16T09:24:26.084222
+190,51.379621,-0.16456,cycle,85,ok,cycle,1,2026-03-16T09:24:31.415932
+190,51.379621,-0.16456,transit,79,ok,walking -> national-rail -> walking -> bus -> walking,3,2026-03-16T09:24:36.534358
+191,51.379621,-0.161671,cycle,86,ok,cycle,1,2026-03-16T09:24:42.463450
+191,51.379621,-0.161671,transit,78,ok,walking -> bus -> tube -> tube -> tube -> bus -> walking,3,2026-03-16T09:24:46.681343
+192,51.379621,-0.158782,cycle,85,ok,cycle,1,2026-03-16T09:24:52.082528
+192,51.379621,-0.158782,transit,74,ok,walking -> national-rail -> walking,3,2026-03-16T09:24:57.200276
+193,51.379621,-0.155893,cycle,85,ok,cycle,1,2026-03-16T09:25:03.460276
+193,51.379621,-0.155893,transit,71,ok,walking -> national-rail -> walking,3,2026-03-16T09:25:08.405890
+194,51.379621,-0.153003,cycle,87,ok,cycle,1,2026-03-16T09:25:14.727033
+194,51.379621,-0.153003,transit,73,ok,walking -> national-rail -> walking,3,2026-03-16T09:25:19.943664
+195,51.379621,-0.150114,cycle,89,ok,cycle,1,2026-03-16T09:25:25.815150
+195,51.379621,-0.150114,transit,75,ok,walking -> national-rail -> walking,3,2026-03-16T09:25:30.421713
+196,51.379621,-0.147225,cycle,89,ok,cycle,1,2026-03-16T09:25:36.028670
+196,51.379621,-0.147225,transit,76,ok,walking -> bus -> national-rail -> walking,3,2026-03-16T09:25:40.799264
+197,51.379621,-0.144336,cycle,91,ok,cycle,1,2026-03-16T09:25:47.722914
+197,51.379621,-0.144336,transit,80,ok,walking -> national-rail -> walking,3,2026-03-16T09:25:52.415828
+198,51.379621,-0.141446,cycle,93,ok,cycle,1,2026-03-16T09:25:59.229536
+198,51.379621,-0.141446,transit,84,ok,walking -> national-rail -> walking,3,2026-03-16T09:26:04.463497
+199,51.379621,-0.138557,cycle,87,ok,cycle,1,2026-03-16T09:26:10.913029
+199,51.379621,-0.138557,transit,83,ok,walking -> national-rail -> tram -> walking,3,2026-03-16T09:26:15.226020
+200,51.379621,-0.135668,cycle,87,ok,cycle,1,2026-03-16T09:26:21.559429
+200,51.379621,-0.135668,transit,86,ok,walking -> national-rail -> tram -> walking,3,2026-03-16T09:26:27.321479
+201,51.379621,-0.132779,cycle,87,ok,cycle,1,2026-03-16T09:26:32.583079
+201,51.379621,-0.132779,transit,87,ok,walking -> national-rail -> tram -> walking,3,2026-03-16T09:26:38.042773
+202,51.379621,-0.129889,cycle,88,ok,cycle,1,2026-03-16T09:26:44.787581
+202,51.379621,-0.129889,transit,91,ok,walking -> national-rail -> tram -> walking,3,2026-03-16T09:26:49.724273
+203,51.379621,-0.127,cycle,91,ok,cycle,1,2026-03-16T09:26:56.451375
+203,51.379621,-0.127,transit,83,ok,walking -> national-rail -> tram -> walking,3,2026-03-16T09:27:01.277848
+204,51.379621,-0.124111,cycle,90,ok,cycle,1,2026-03-16T09:27:06.855664
+204,51.379621,-0.124111,transit,83,ok,walking -> national-rail -> tram -> walking,3,2026-03-16T09:27:11.208705
+205,51.379621,-0.121221,cycle,89,ok,cycle,1,2026-03-16T09:27:17.361080
+205,51.379621,-0.121221,transit,79,ok,walking -> national-rail -> tram -> walking,3,2026-03-16T09:27:24.590611
+206,51.379621,-0.118332,cycle,83,ok,cycle,1,2026-03-16T09:27:30.184820
+206,51.379621,-0.118332,transit,81,ok,walking -> national-rail -> tram -> walking,3,2026-03-16T09:27:33.883376
+207,51.379621,-0.115443,cycle,82,ok,cycle,1,2026-03-16T09:27:39.569592
+207,51.379621,-0.115443,transit,83,ok,walking -> bus -> walking -> bus -> national-rail -> national-rail -> walking,3,2026-03-16T09:27:44.380729
+208,51.379621,-0.112554,cycle,81,ok,cycle,1,2026-03-16T09:27:50.167838
+208,51.379621,-0.112554,transit,79,ok,walking -> bus -> walking -> bus -> national-rail -> national-rail -> walking,3,2026-03-16T09:27:55.167068
+209,51.379621,-0.109664,cycle,82,ok,cycle,1,2026-03-16T09:28:00.693449
+209,51.379621,-0.109664,transit,76,ok,walking -> bus -> walking -> bus -> national-rail -> national-rail -> walking,3,2026-03-16T09:28:05.395916
+210,51.379621,-0.106775,cycle,81,ok,cycle,1,2026-03-16T09:28:10.926620
+210,51.379621,-0.106775,transit,72,ok,walking -> bus -> walking -> bus -> national-rail -> national-rail -> walking,3,2026-03-16T09:28:16.549155
+211,51.379621,-0.103886,cycle,81,ok,cycle,1,2026-03-16T09:28:22.229376
+211,51.379621,-0.103886,transit,70,ok,walking -> bus -> walking -> bus -> national-rail -> national-rail -> walking,3,2026-03-16T09:28:27.038942
+212,51.379621,-0.100997,cycle,81,ok,cycle,1,2026-03-16T09:28:33.905894
+212,51.379621,-0.100997,transit,69,ok,walking -> bus -> walking -> bus -> national-rail -> national-rail -> walking,3,2026-03-16T09:28:37.647981
+213,51.379621,-0.098107,cycle,81,ok,cycle,1,2026-03-16T09:28:43.355313
+213,51.379621,-0.098107,transit,72,ok,walking -> bus -> walking -> bus -> national-rail -> national-rail -> walking,3,2026-03-16T09:28:47.999082
+214,51.379621,-0.095218,cycle,80,ok,cycle,1,2026-03-16T09:28:54.048112
+214,51.379621,-0.095218,transit,72,ok,walking -> bus -> walking -> bus -> national-rail -> walking,3,2026-03-16T09:28:58.644610
+215,51.379621,-0.092329,cycle,81,ok,cycle,1,2026-03-16T09:29:04.288649
+215,51.379621,-0.092329,transit,74,ok,walking -> bus -> walking -> bus -> national-rail -> walking,3,2026-03-16T09:29:08.559237
+216,51.379621,-0.08944,cycle,81,ok,cycle,1,2026-03-16T09:29:16.084397
+216,51.379621,-0.08944,transit,68,ok,walking -> bus -> walking -> national-rail -> walking -> bus -> walking,3,2026-03-16T09:29:18.905271
+217,51.379621,-0.08655,cycle,82,ok,cycle,1,2026-03-16T09:29:25.108276
+217,51.379621,-0.08655,transit,74,ok,walking -> bus -> walking -> bus -> national-rail -> walking -> bus -> walking,3,2026-03-16T09:29:30.217757
+218,51.379621,-0.083661,cycle,82,ok,cycle,1,2026-03-16T09:29:35.739847
+218,51.379621,-0.083661,transit,71,ok,walking -> bus -> walking -> national-rail -> walking -> bus -> walking,3,2026-03-16T09:29:40.516762
+219,51.379621,-0.080772,cycle,83,ok,cycle,1,2026-03-16T09:29:47.685057
+219,51.379621,-0.080772,transit,76,ok,walking -> bus -> walking -> tube -> tube -> national-rail -> walking -> bus -> walking,3,2026-03-16T09:29:52.891546
+220,51.379621,-0.077883,cycle,84,ok,cycle,1,2026-03-16T09:29:58.357961
+220,51.379621,-0.077883,transit,73,ok,walking -> bus -> walking -> national-rail -> walking -> bus -> walking,3,2026-03-16T09:30:02.682346
+221,51.379621,-0.074993,cycle,82,ok,cycle,1,2026-03-16T09:30:09.901116
+221,51.379621,-0.074993,transit,73,ok,walking -> bus -> walking -> bus -> national-rail -> bus -> walking,3,2026-03-16T09:30:15.315774
+222,51.379621,-0.072104,cycle,82,ok,cycle,1,2026-03-16T09:30:21.673188
+222,51.379621,-0.072104,transit,72,ok,walking -> national-rail -> national-rail -> bus -> walking,3,2026-03-16T09:30:27.519767
+223,51.379621,-0.069215,cycle,81,ok,cycle,1,2026-03-16T09:30:29.064669
+223,51.379621,-0.069215,transit,75,ok,walking -> national-rail -> national-rail -> bus -> walking,3,2026-03-16T09:30:31.945279
+224,51.379621,-0.066325,cycle,81,ok,cycle,1,2026-03-16T09:30:38.381450
+224,51.379621,-0.066325,transit,76,ok,walking -> national-rail -> national-rail -> bus -> walking,3,2026-03-16T09:30:41.549224
+225,51.379621,-0.063436,cycle,81,ok,cycle,1,2026-03-16T09:30:49.066683
+225,51.379621,-0.063436,transit,75,ok,walking -> national-rail -> national-rail -> bus -> walking,3,2026-03-16T09:30:53.561922
+226,51.379621,-0.060547,cycle,81,ok,cycle,1,2026-03-16T09:30:59.519940
+226,51.379621,-0.060547,transit,75,ok,walking -> national-rail -> national-rail -> bus -> walking,3,2026-03-16T09:31:04.165988
+227,51.379621,-0.057658,cycle,85,ok,cycle,1,2026-03-16T09:31:09.284655
+227,51.379621,-0.057658,transit,76,ok,walking -> national-rail -> national-rail -> bus -> walking,3,2026-03-16T09:31:13.801710
+228,51.379621,-0.054768,cycle,84,ok,cycle,1,2026-03-16T09:31:19.638352
+228,51.379621,-0.054768,transit,78,ok,walking -> national-rail -> national-rail -> bus -> walking,3,2026-03-16T09:31:24.414652
+229,51.379621,-0.051879,cycle,84,ok,cycle,1,2026-03-16T09:31:30.109965
+229,51.379621,-0.051879,transit,80,ok,walking -> national-rail -> national-rail -> bus -> walking,3,2026-03-16T09:31:34.797700
+230,51.379621,-0.04899,cycle,85,ok,cycle,1,2026-03-16T09:31:40.988116
+230,51.379621,-0.04899,transit,81,ok,walking -> national-rail -> national-rail -> bus -> walking,3,2026-03-16T09:31:46.480889
+231,51.379621,-0.046101,cycle,83,ok,cycle,1,2026-03-16T09:31:52.632103
+231,51.379621,-0.046101,transit,90,ok,walking -> bus -> national-rail -> national-rail -> bus -> walking,3,2026-03-16T09:31:57.059939
+232,51.379621,-0.043211,cycle,82,ok,cycle,1,2026-03-16T09:32:03.658787
+232,51.379621,-0.043211,transit,83,ok,walking -> bus -> national-rail -> national-rail -> bus -> walking,3,2026-03-16T09:32:08.465297
+233,51.379621,-0.040322,cycle,82,ok,cycle,1,2026-03-16T09:32:14.989828
+233,51.379621,-0.040322,transit,85,ok,walking -> national-rail -> national-rail -> bus -> walking,3,2026-03-16T09:32:19.454298
+234,51.379621,-0.037433,cycle,84,ok,cycle,1,2026-03-16T09:32:26.641150
+234,51.379621,-0.037433,transit,80,ok,walking -> national-rail -> national-rail -> bus -> walking,3,2026-03-16T09:32:31.344628
+235,51.381417,-0.225235,cycle,93,ok,cycle,1,2026-03-16T09:32:37.923513
+235,51.381417,-0.225235,transit,84,ok,walking -> bus -> tube -> tube -> walking -> bus -> walking,3,2026-03-16T09:32:42.458403
+236,51.381417,-0.222346,cycle,93,ok,cycle,1,2026-03-16T09:32:48.906594
+236,51.381417,-0.222346,transit,83,ok,walking -> bus -> tube -> tube -> walking -> bus -> walking,3,2026-03-16T09:32:53.366559
+237,51.381417,-0.219456,cycle,92,ok,cycle,1,2026-03-16T09:32:59.486813
+237,51.381417,-0.219456,transit,78,ok,walking -> bus -> tube -> walking -> bus -> walking,3,2026-03-16T09:33:06.813157
+238,51.381417,-0.216567,cycle,91,ok,cycle,1,2026-03-16T09:33:13.440658
+238,51.381417,-0.216567,transit,75,ok,walking -> bus -> tube -> tube -> walking -> bus -> walking,3,2026-03-16T09:33:18.809571
+239,51.381417,-0.213678,cycle,91,ok,cycle,1,2026-03-16T09:33:25.033932
+239,51.381417,-0.213678,transit,82,ok,walking -> bus -> walking -> tube -> tube -> tube -> walking -> bus -> walking,3,2026-03-16T09:33:29.481715
+240,51.381417,-0.210789,cycle,90,ok,cycle,1,2026-03-16T09:33:34.826418
+240,51.381417,-0.210789,transit,83,ok,walking -> bus -> walking -> tube -> tube -> tube -> walking -> bus -> walking,3,2026-03-16T09:33:39.449572
+241,51.381417,-0.207899,cycle,90,ok,cycle,1,2026-03-16T09:33:45.518360
+241,51.381417,-0.207899,transit,81,ok,walking -> bus -> walking -> tube -> tube -> tube -> walking -> bus -> walking,3,2026-03-16T09:33:49.856242
+242,51.381417,-0.20501,cycle,89,ok,cycle,1,2026-03-16T09:33:56.580339
+242,51.381417,-0.20501,transit,77,ok,walking -> bus -> walking -> tube -> tube -> tube -> walking -> bus -> walking,3,2026-03-16T09:34:00.785349
+243,51.381417,-0.202121,cycle,89,ok,cycle,1,2026-03-16T09:34:07.313644
+243,51.381417,-0.202121,transit,78,ok,walking -> bus -> walking -> tube -> tube -> tube -> walking -> bus -> walking,3,2026-03-16T09:34:11.722399
+244,51.381417,-0.199232,cycle,87,ok,cycle,1,2026-03-16T09:34:18.164939
+244,51.381417,-0.199232,transit,81,ok,walking -> bus -> walking -> tube -> tube -> tube -> walking -> bus -> walking,3,2026-03-16T09:34:23.451242
+245,51.381417,-0.196342,cycle,86,ok,cycle,1,2026-03-16T09:34:33.045242
+245,51.381417,-0.196342,transit,79,ok,walking -> bus -> walking -> tube -> tube -> tube -> bus -> walking,3,2026-03-16T09:34:37.856063
+246,51.381417,-0.193453,cycle,88,ok,cycle,1,2026-03-16T09:34:45.889807
+246,51.381417,-0.193453,transit,78,ok,walking -> bus -> walking -> tube -> tube -> tube -> walking -> bus -> walking,3,2026-03-16T09:34:50.316591
+247,51.381417,-0.190564,cycle,86,ok,cycle,1,2026-03-16T09:34:55.601785
+247,51.381417,-0.190564,transit,76,ok,walking -> bus -> walking -> tube -> tube -> tube -> walking -> bus -> walking,3,2026-03-16T09:34:59.769538
+248,51.381417,-0.187675,cycle,85,ok,cycle,1,2026-03-16T09:35:05.909550
+248,51.381417,-0.187675,transit,75,ok,walking -> bus -> walking -> tube -> tube -> tube -> bus -> walking,3,2026-03-16T09:35:10.434138
+249,51.381417,-0.184785,cycle,85,ok,cycle,1,2026-03-16T09:35:16.327759
+249,51.381417,-0.184785,transit,75,ok,walking -> bus -> walking -> tube -> tube -> tube -> bus -> walking,3,2026-03-16T09:35:20.450641
+250,51.381417,-0.181896,cycle,85,ok,cycle,1,2026-03-16T09:35:25.884525
+250,51.381417,-0.181896,transit,74,ok,walking -> bus -> walking -> tube -> tube -> tube -> bus -> walking,3,2026-03-16T09:35:30.271481
+251,51.381417,-0.179007,cycle,85,ok,cycle,1,2026-03-16T09:35:35.789579
+251,51.381417,-0.179007,transit,77,ok,walking -> bus -> walking -> tube -> tube -> tube -> bus -> walking,3,2026-03-16T09:35:40.226883
+252,51.381417,-0.176117,cycle,85,ok,cycle,1,2026-03-16T09:35:46.350583
+252,51.381417,-0.176117,transit,79,ok,walking -> bus -> tube -> tube -> bus -> walking,3,2026-03-16T09:35:50.974680
+253,51.381417,-0.173228,cycle,84,ok,cycle,1,2026-03-16T09:35:57.564348
+253,51.381417,-0.173228,transit,77,ok,walking -> bus -> tube -> tube -> bus -> walking,3,2026-03-16T09:36:02.479405
+254,51.381417,-0.170339,cycle,86,ok,cycle,1,2026-03-16T09:36:08.793721
+254,51.381417,-0.170339,transit,80,ok,walking -> bus -> tube -> tube -> bus -> walking,3,2026-03-16T09:36:13.327686
+255,51.381417,-0.16745,cycle,85,ok,cycle,1,2026-03-16T09:36:18.943353
+255,51.381417,-0.16745,transit,80,ok,walking -> bus -> walking -> tube -> tube -> tube -> bus -> walking,3,2026-03-16T09:36:23.426863
+256,51.381417,-0.16456,cycle,85,ok,cycle,1,2026-03-16T09:36:29.168320
+256,51.381417,-0.16456,transit,82,ok,walking -> bus -> walking -> tube -> tube -> tube -> bus -> walking,3,2026-03-16T09:36:35.345006
+257,51.381417,-0.161671,cycle,86,ok,cycle,1,2026-03-16T09:36:40.261086
+257,51.381417,-0.161671,transit,83,ok,walking -> national-rail -> walking,3,2026-03-16T09:36:45.679393
+258,51.381417,-0.158782,cycle,85,ok,cycle,1,2026-03-16T09:36:51.337089
+258,51.381417,-0.158782,transit,78,ok,walking -> national-rail -> walking,3,2026-03-16T09:36:56.933585
+259,51.381417,-0.155893,cycle,85,ok,cycle,1,2026-03-16T09:37:02.766948
+259,51.381417,-0.155893,transit,74,ok,walking -> national-rail -> walking,3,2026-03-16T09:37:08.103994
+260,51.381417,-0.153003,cycle,91,ok,cycle,1,2026-03-16T09:37:13.953525
+260,51.381417,-0.153003,transit,77,ok,walking -> national-rail -> walking,3,2026-03-16T09:37:18.532696
+261,51.381417,-0.150114,cycle,91,ok,cycle,1,2026-03-16T09:37:24.746709
+261,51.381417,-0.150114,transit,77,ok,walking -> national-rail -> walking,3,2026-03-16T09:37:29.611457
+262,51.381417,-0.147225,cycle,89,ok,cycle,1,2026-03-16T09:37:35.079591
+262,51.381417,-0.147225,transit,75,ok,walking -> national-rail -> walking,3,2026-03-16T09:37:40.275094
+263,51.381417,-0.144336,cycle,,http_404,,,2026-03-16T09:39:11.695701
+263,51.381417,-0.144336,transit,81,ok,walking -> national-rail -> tram -> walking,3,2026-03-16T09:39:16.320027
+264,51.381417,-0.141446,cycle,,http_404,,,2026-03-16T09:40:36.069835
+264,51.381417,-0.141446,transit,81,ok,walking -> national-rail -> tram -> walking,3,2026-03-16T09:40:40.386861
+265,51.381417,-0.138557,cycle,85,ok,cycle,1,2026-03-16T09:40:46.023862
+265,51.381417,-0.138557,transit,83,ok,walking -> national-rail -> tram -> walking,3,2026-03-16T09:40:50.758127
+266,51.381417,-0.135668,cycle,86,ok,cycle,1,2026-03-16T09:40:58.895793
+266,51.381417,-0.135668,transit,86,ok,walking -> national-rail -> tram -> walking,3,2026-03-16T09:41:03.976685
+267,51.381417,-0.132779,cycle,87,ok,cycle,1,2026-03-16T09:41:11.457607
+267,51.381417,-0.132779,transit,91,ok,walking -> national-rail -> tram -> walking,3,2026-03-16T09:41:15.856694
+268,51.381417,-0.129889,cycle,88,ok,cycle,1,2026-03-16T09:41:22.654093
+268,51.381417,-0.129889,transit,81,ok,walking -> national-rail -> tram -> walking,3,2026-03-16T09:41:29.756157
+269,51.381417,-0.127,cycle,91,ok,cycle,1,2026-03-16T09:41:35.968269
+269,51.381417,-0.127,transit,79,ok,walking -> national-rail -> tram -> walking,3,2026-03-16T09:41:40.225059
+270,51.381417,-0.124111,cycle,90,ok,cycle,1,2026-03-16T09:41:46.484413
+270,51.381417,-0.124111,transit,77,ok,walking -> national-rail -> tram -> walking,3,2026-03-16T09:41:52.097198
+271,51.381417,-0.121221,cycle,83,ok,cycle,1,2026-03-16T09:42:00.063623
+271,51.381417,-0.121221,transit,79,ok,walking -> national-rail -> tram -> walking,3,2026-03-16T09:42:05.119127
+272,51.381417,-0.118332,cycle,82,ok,cycle,1,2026-03-16T09:42:10.954500
+272,51.381417,-0.118332,transit,84,ok,walking -> national-rail -> tram -> walking,3,2026-03-16T09:42:48.420356
+273,51.381417,-0.115443,cycle,81,ok,cycle,1,2026-03-16T09:42:54.664870
+273,51.381417,-0.115443,transit,83,ok,walking -> national-rail -> national-rail -> bus -> walking,3,2026-03-16T09:43:00.450990
+274,51.381417,-0.112554,cycle,80,ok,cycle,1,2026-03-16T09:43:06.646044
+274,51.381417,-0.112554,transit,82,ok,walking -> national-rail -> national-rail -> bus -> walking,3,2026-03-16T09:43:10.187666
+275,51.381417,-0.109664,cycle,80,ok,cycle,1,2026-03-16T09:43:15.714059
+275,51.381417,-0.109664,transit,78,ok,walking -> national-rail -> national-rail -> bus -> walking,3,2026-03-16T09:43:20.124901
+276,51.381417,-0.106775,cycle,80,ok,cycle,1,2026-03-16T09:43:26.358283
+276,51.381417,-0.106775,transit,74,ok,walking -> national-rail -> national-rail -> bus -> walking,3,2026-03-16T09:43:31.476829
+277,51.381417,-0.103886,cycle,81,ok,cycle,1,2026-03-16T09:43:38.228445
+277,51.381417,-0.103886,transit,73,ok,walking -> national-rail -> national-rail -> bus -> walking,3,2026-03-16T09:43:43.195206
+278,51.381417,-0.100997,cycle,80,ok,cycle,1,2026-03-16T09:43:49.955167
+278,51.381417,-0.100997,transit,75,ok,walking -> bus -> walking -> national-rail -> national-rail -> walking,3,2026-03-16T09:43:54.269558
+279,51.381417,-0.098107,cycle,80,ok,cycle,1,2026-03-16T09:43:59.787249
+279,51.381417,-0.098107,transit,72,ok,walking -> national-rail -> national-rail -> bus -> bus -> walking,3,2026-03-16T09:44:04.340971
+280,51.381417,-0.095218,cycle,80,ok,cycle,1,2026-03-16T09:44:10.950295
+280,51.381417,-0.095218,transit,73,ok,walking -> national-rail -> national-rail -> walking,3,2026-03-16T09:44:16.295308
+281,51.381417,-0.092329,cycle,80,ok,cycle,1,2026-03-16T09:44:21.669067
+281,51.381417,-0.092329,transit,69,ok,walking -> national-rail -> national-rail -> walking,3,2026-03-16T09:44:27.454089
+282,51.381417,-0.08944,cycle,81,ok,cycle,1,2026-03-16T09:44:33.174748
+282,51.381417,-0.08944,transit,70,ok,walking -> national-rail -> national-rail -> walking,3,2026-03-16T09:44:38.261154
+283,51.381417,-0.08655,cycle,82,ok,cycle,1,2026-03-16T09:44:46.024566
+283,51.381417,-0.08655,transit,71,ok,walking -> national-rail -> national-rail -> walking -> bus -> walking,3,2026-03-16T09:44:47.546755
+284,51.381417,-0.083661,cycle,82,ok,cycle,1,2026-03-16T09:44:52.803974
+284,51.381417,-0.083661,transit,73,ok,walking -> national-rail -> national-rail -> walking -> bus -> walking,3,2026-03-16T09:44:58.064315
+285,51.381417,-0.080772,cycle,82,ok,cycle,1,2026-03-16T09:45:03.605556
+285,51.381417,-0.080772,transit,74,ok,walking -> national-rail -> national-rail -> bus -> walking,3,2026-03-16T09:45:09.547903
+286,51.381417,-0.077883,cycle,82,ok,cycle,1,2026-03-16T09:45:15.987766
+286,51.381417,-0.077883,transit,77,ok,walking -> national-rail -> national-rail -> bus -> walking,3,2026-03-16T09:45:20.706074
+287,51.381417,-0.074993,cycle,82,ok,cycle,1,2026-03-16T09:45:26.267424
+287,51.381417,-0.074993,transit,74,ok,walking -> national-rail -> national-rail -> bus -> walking,3,2026-03-16T09:45:31.123814
+288,51.381417,-0.072104,cycle,80,ok,cycle,1,2026-03-16T09:45:36.835038
+288,51.381417,-0.072104,transit,71,ok,walking -> national-rail -> national-rail -> bus -> walking,3,2026-03-16T09:45:41.211142
+289,51.381417,-0.069215,cycle,81,ok,cycle,1,2026-03-16T09:45:46.547258
+289,51.381417,-0.069215,transit,74,ok,walking -> bus -> walking -> national-rail -> bus -> walking,3,2026-03-16T09:45:51.457700
+290,51.381417,-0.066325,cycle,80,ok,cycle,1,2026-03-16T09:45:56.944315
+290,51.381417,-0.066325,transit,76,ok,walking -> national-rail -> national-rail -> bus -> walking,3,2026-03-16T09:46:01.771554
+291,51.381417,-0.063436,cycle,80,ok,cycle,1,2026-03-16T09:46:07.987051
+291,51.381417,-0.063436,transit,76,ok,walking -> bus -> walking -> national-rail -> bus -> walking,3,2026-03-16T09:46:11.925898
+292,51.381417,-0.060547,cycle,81,ok,cycle,1,2026-03-16T09:46:17.166180
+292,51.381417,-0.060547,transit,79,ok,walking -> national-rail -> national-rail -> bus -> walking,3,2026-03-16T09:46:22.306331
+293,51.381417,-0.057658,cycle,82,ok,cycle,1,2026-03-16T09:46:27.769080
+293,51.381417,-0.057658,transit,79,ok,walking -> national-rail -> national-rail -> bus -> walking,3,2026-03-16T09:46:32.442661
+294,51.381417,-0.054768,cycle,84,ok,cycle,1,2026-03-16T09:46:38.353128
+294,51.381417,-0.054768,transit,80,ok,walking -> national-rail -> national-rail -> bus -> walking,3,2026-03-16T09:46:43.369268
+295,51.381417,-0.051879,cycle,85,ok,cycle,1,2026-03-16T09:46:49.159567
+295,51.381417,-0.051879,transit,83,ok,walking -> national-rail -> national-rail -> bus -> walking,3,2026-03-16T09:46:54.295341
+296,51.381417,-0.04899,cycle,85,ok,cycle,1,2026-03-16T09:47:00.554196
+296,51.381417,-0.04899,transit,79,ok,walking -> national-rail -> national-rail -> bus -> walking,3,2026-03-16T09:47:05.790632
+297,51.381417,-0.046101,cycle,82,ok,cycle,1,2026-03-16T09:47:11.449431
+297,51.381417,-0.046101,transit,86,ok,walking -> bus -> walking -> tube -> national-rail -> walking -> bus -> walking,3,2026-03-16T09:47:16.402176
+298,51.381417,-0.043211,cycle,82,ok,cycle,1,2026-03-16T09:47:22.611866
+298,51.381417,-0.043211,transit,84,ok,walking -> bus -> walking -> tube -> national-rail -> walking -> bus -> walking,3,2026-03-16T09:47:27.622363
+299,51.381417,-0.040322,cycle,82,ok,cycle,1,2026-03-16T09:47:33.103526
+299,51.381417,-0.040322,transit,82,ok,walking -> national-rail -> national-rail -> bus -> walking,3,2026-03-16T09:47:38.846435
+300,51.381417,-0.037433,cycle,83,ok,cycle,1,2026-03-16T09:47:44.310597
+300,51.381417,-0.037433,transit,81,ok,walking -> national-rail -> national-rail -> bus -> walking,3,2026-03-16T09:47:50.259539
+301,51.381417,-0.034544,cycle,85,ok,cycle,1,2026-03-16T09:47:56.248871
+301,51.381417,-0.034544,transit,87,ok,walking -> national-rail -> national-rail -> bus -> walking,3,2026-03-16T09:48:03.664435
+302,51.381417,-0.031654,cycle,86,ok,cycle,1,2026-03-16T09:48:09.604088
+302,51.381417,-0.031654,transit,86,ok,walking -> national-rail -> national-rail -> bus -> walking,3,2026-03-16T09:48:16.053926
+303,51.381417,-0.028765,cycle,85,ok,cycle,1,2026-03-16T09:48:22.971809
+303,51.381417,-0.028765,transit,82,ok,walking -> national-rail -> national-rail -> bus -> walking,3,2026-03-16T09:48:29.234225
+304,51.383214,-0.231013,cycle,93,ok,cycle,1,2026-03-16T09:48:37.061054
+304,51.383214,-0.231013,transit,89,ok,walking -> bus -> tube -> national-rail -> bus -> walking,3,2026-03-16T09:48:42.503674
+305,51.383214,-0.228124,cycle,94,ok,cycle,1,2026-03-16T09:48:48.900492
+305,51.383214,-0.228124,transit,81,ok,walking -> bus -> tube -> tube -> walking -> bus -> walking,3,2026-03-16T09:48:54.372734
+306,51.383214,-0.225235,cycle,93,ok,cycle,1,2026-03-16T09:48:57.908286
+306,51.383214,-0.225235,transit,80,ok,walking -> bus -> tube -> tube -> walking -> bus -> walking,3,2026-03-16T09:49:03.104788
+307,51.383214,-0.222346,cycle,95,ok,cycle,1,2026-03-16T09:49:10.286822
+307,51.383214,-0.222346,transit,75,ok,walking -> bus -> tube -> tube -> walking -> bus -> walking,3,2026-03-16T09:49:15.739047
+308,51.383214,-0.219456,cycle,93,ok,cycle,1,2026-03-16T09:49:22.491571
+308,51.383214,-0.219456,transit,75,ok,walking -> bus -> tube -> tube -> walking -> bus -> walking,3,2026-03-16T09:49:28.180978
+309,51.383214,-0.216567,cycle,92,ok,cycle,1,2026-03-16T09:49:33.973997
+309,51.383214,-0.216567,transit,75,ok,walking -> bus -> tube -> tube -> walking -> bus -> walking,3,2026-03-16T09:49:39.258174
+310,51.383214,-0.213678,cycle,91,ok,cycle,1,2026-03-16T09:49:46.462112
+310,51.383214,-0.213678,transit,73,ok,walking -> bus -> tube -> tube -> walking -> bus -> walking,3,2026-03-16T09:49:51.008147
+311,51.383214,-0.210789,cycle,91,ok,cycle,1,2026-03-16T09:49:57.346139
+311,51.383214,-0.210789,transit,76,ok,walking -> bus -> tube -> tube -> walking -> bus -> walking,3,2026-03-16T09:50:02.211419
+312,51.383214,-0.207899,cycle,89,ok,cycle,1,2026-03-16T09:50:07.771440
+312,51.383214,-0.207899,transit,77,ok,walking -> bus -> tube -> tube -> walking -> bus -> walking,3,2026-03-16T09:50:12.217711
+313,51.383214,-0.20501,cycle,88,ok,cycle,1,2026-03-16T09:50:18.674766
+313,51.383214,-0.20501,transit,72,ok,walking -> bus -> tube -> tube -> walking -> bus -> walking,3,2026-03-16T09:50:23.274704
+314,51.383214,-0.202121,cycle,88,ok,cycle,1,2026-03-16T09:50:29.555080
+314,51.383214,-0.202121,transit,77,ok,walking -> bus -> tube -> tube -> walking -> bus -> walking,3,2026-03-16T09:50:34.174084
+315,51.383214,-0.199232,cycle,88,ok,cycle,1,2026-03-16T09:50:41.053091
+315,51.383214,-0.199232,transit,77,ok,walking -> bus -> walking -> tube -> tube -> walking -> bus -> walking,3,2026-03-16T09:50:45.682871
+316,51.383214,-0.196342,cycle,87,ok,cycle,1,2026-03-16T09:50:52.645208
+316,51.383214,-0.196342,transit,80,ok,walking -> bus -> walking -> tube -> tube -> bus -> walking,3,2026-03-16T09:50:56.939644
+317,51.383214,-0.193453,cycle,86,ok,cycle,1,2026-03-16T09:51:02.634215
+317,51.383214,-0.193453,transit,76,ok,walking -> bus -> walking -> tube -> tube -> walking -> bus -> walking,3,2026-03-16T09:51:06.874342
+318,51.383214,-0.190564,cycle,85,ok,cycle,1,2026-03-16T09:51:12.122817
+318,51.383214,-0.190564,transit,73,ok,walking -> bus -> walking -> tube -> tube -> walking -> bus -> walking,3,2026-03-16T09:51:16.487325
+319,51.383214,-0.187675,cycle,85,ok,cycle,1,2026-03-16T09:51:22.189302
+319,51.383214,-0.187675,transit,72,ok,walking -> bus -> walking -> tube -> tube -> bus -> walking,3,2026-03-16T09:51:29.432012
+320,51.383214,-0.184785,cycle,84,ok,cycle,1,2026-03-16T09:51:36.030382
+320,51.383214,-0.184785,transit,75,ok,walking -> bus -> walking -> tube -> tube -> bus -> walking,3,2026-03-16T09:51:40.579181
+321,51.383214,-0.181896,cycle,84,ok,cycle,1,2026-03-16T09:51:46.033261
+321,51.383214,-0.181896,transit,78,ok,walking -> bus -> walking -> tube -> tube -> bus -> walking,3,2026-03-16T09:51:50.807541
+322,51.383214,-0.179007,cycle,84,ok,cycle,1,2026-03-16T09:51:56.382039
+322,51.383214,-0.179007,transit,78,ok,walking -> bus -> tube -> tube -> bus -> walking,3,2026-03-16T09:52:00.963321
+323,51.383214,-0.176117,cycle,84,ok,cycle,1,2026-03-16T09:52:07.762769
+323,51.383214,-0.176117,transit,76,ok,walking -> bus -> tube -> tube -> bus -> walking,3,2026-03-16T09:52:11.692741
+324,51.383214,-0.173228,cycle,84,ok,cycle,1,2026-03-16T09:52:18.083472
+324,51.383214,-0.173228,transit,73,ok,walking -> bus -> tube -> tube -> bus -> walking,3,2026-03-16T09:52:23.885206
+325,51.383214,-0.170339,cycle,84,ok,cycle,1,2026-03-16T09:52:31.135597
+325,51.383214,-0.170339,transit,77,ok,walking -> bus -> tube -> tube -> bus -> walking,3,2026-03-16T09:52:36.007271
+326,51.383214,-0.16745,cycle,84,ok,cycle,1,2026-03-16T09:52:41.844870
+326,51.383214,-0.16745,transit,81,ok,walking -> bus -> tube -> tube -> bus -> walking,3,2026-03-16T09:52:46.846807
+327,51.383214,-0.16456,cycle,84,ok,cycle,1,2026-03-16T09:52:52.608930
+327,51.383214,-0.16456,transit,84,ok,walking -> bus -> tube -> tube -> bus -> walking,3,2026-03-16T09:52:57.170484
+328,51.383214,-0.161671,cycle,84,ok,cycle,1,2026-03-16T09:53:02.995868
+328,51.383214,-0.161671,transit,82,ok,walking -> national-rail -> walking,3,2026-03-16T09:53:05.927953
+329,51.383214,-0.158782,cycle,83,ok,cycle,1,2026-03-16T09:53:10.996070
+329,51.383214,-0.158782,transit,76,ok,walking -> national-rail -> walking,3,2026-03-16T09:53:16.298961
+330,51.383214,-0.155893,cycle,85,ok,cycle,1,2026-03-16T09:53:22.711355
+330,51.383214,-0.155893,transit,76,ok,walking -> national-rail -> walking,3,2026-03-16T09:53:27.684342
+331,51.383214,-0.153003,cycle,91,ok,cycle,1,2026-03-16T09:53:34.199821
+331,51.383214,-0.153003,transit,83,ok,walking -> national-rail -> walking,3,2026-03-16T09:53:38.957728
+332,51.383214,-0.150114,cycle,89,ok,cycle,1,2026-03-16T09:53:45.506876
+332,51.383214,-0.150114,transit,84,ok,walking -> national-rail -> walking,3,2026-03-16T09:53:50.539114
+333,51.383214,-0.147225,cycle,,http_404,,,2026-03-16T09:55:23.707489
+333,51.383214,-0.147225,transit,85,ok,walking -> national-rail -> walking,3,2026-03-16T09:55:25.321734
+334,51.383214,-0.144336,cycle,,http_404,,,2026-03-16T09:56:58.425642
+334,51.383214,-0.144336,transit,83,ok,walking -> national-rail -> tram -> walking,3,2026-03-16T09:57:04.493037
+335,51.383214,-0.141446,cycle,,http_404,,,2026-03-16T09:58:27.089507
+335,51.383214,-0.141446,transit,84,ok,walking -> national-rail -> tram -> walking,3,2026-03-16T09:58:32.540656
+336,51.383214,-0.138557,cycle,87,ok,cycle,1,2026-03-16T09:58:38.176893
+336,51.383214,-0.138557,transit,84,ok,walking -> national-rail -> tram -> walking,3,2026-03-16T09:58:44.453242
+337,51.383214,-0.135668,cycle,88,ok,cycle,1,2026-03-16T09:58:49.893777
+337,51.383214,-0.135668,transit,84,ok,walking -> national-rail -> national-rail -> walking -> tram -> walking,3,2026-03-16T09:58:54.451535
+338,51.383214,-0.132779,cycle,88,ok,cycle,1,2026-03-16T09:59:00.709626
+338,51.383214,-0.132779,transit,80,ok,walking -> national-rail -> national-rail -> walking -> tram -> walking,3,2026-03-16T09:59:05.554026
+339,51.383214,-0.129889,cycle,87,ok,cycle,1,2026-03-16T09:59:12.103979
+339,51.383214,-0.129889,transit,81,ok,walking -> national-rail -> national-rail -> walking -> tram -> walking,3,2026-03-16T09:59:16.667177
+340,51.383214,-0.127,cycle,90,ok,cycle,1,2026-03-16T09:59:22.318249
+340,51.383214,-0.127,transit,80,ok,walking -> national-rail -> national-rail -> walking -> tram -> walking,3,2026-03-16T09:59:27.428588
+341,51.383214,-0.124111,cycle,84,ok,cycle,1,2026-03-16T09:59:34.013512
+341,51.383214,-0.124111,transit,81,ok,walking -> national-rail -> national-rail -> walking -> tram -> walking,3,2026-03-16T09:59:38.431628
+342,51.383214,-0.121221,cycle,83,ok,cycle,1,2026-03-16T09:59:44.706921
+342,51.383214,-0.121221,transit,76,ok,walking -> national-rail -> national-rail -> walking -> tram -> walking,3,2026-03-16T09:59:49.708780
+343,51.383214,-0.118332,cycle,81,ok,cycle,1,2026-03-16T09:59:54.982049
+343,51.383214,-0.118332,transit,80,ok,walking -> national-rail -> national-rail -> walking -> tram -> walking,3,2026-03-16T09:59:59.628918
+344,51.383214,-0.115443,cycle,80,ok,cycle,1,2026-03-16T10:00:07.237658
+344,51.383214,-0.115443,transit,82,ok,walking -> national-rail -> national-rail -> bus -> bus -> walking,3,2026-03-16T10:00:11.616399
+345,51.383214,-0.112554,cycle,80,ok,cycle,1,2026-03-16T10:00:17.285510
+345,51.383214,-0.112554,transit,76,ok,walking -> national-rail -> national-rail -> bus -> walking,3,2026-03-16T10:00:23.997171
+346,51.383214,-0.109664,cycle,79,ok,cycle,1,2026-03-16T10:00:29.599095
+346,51.383214,-0.109664,transit,77,ok,walking -> national-rail -> national-rail -> bus -> walking,3,2026-03-16T10:00:34.764971
+347,51.383214,-0.106775,cycle,79,ok,cycle,1,2026-03-16T10:00:41.306801
+347,51.383214,-0.106775,transit,75,ok,walking -> national-rail -> national-rail -> bus -> walking,3,2026-03-16T10:00:46.137587
+348,51.383214,-0.103886,cycle,80,ok,cycle,1,2026-03-16T10:00:52.327268
+348,51.383214,-0.103886,transit,77,ok,walking -> national-rail -> national-rail -> bus -> bus -> walking,3,2026-03-16T10:00:57.246941
+349,51.383214,-0.100997,cycle,79,ok,cycle,1,2026-03-16T10:01:02.887516
+349,51.383214,-0.100997,transit,73,ok,walking -> national-rail -> national-rail -> bus -> bus -> walking,3,2026-03-16T10:01:08.503002
+350,51.383214,-0.098107,cycle,78,ok,cycle,1,2026-03-16T10:01:14.318418
+350,51.383214,-0.098107,transit,73,ok,walking -> national-rail -> national-rail -> bus -> bus -> walking,3,2026-03-16T10:01:19.519128
+351,51.383214,-0.095218,cycle,79,ok,cycle,1,2026-03-16T10:01:30.484100
+351,51.383214,-0.095218,transit,74,ok,walking -> national-rail -> national-rail -> walking,3,2026-03-16T10:01:35.417258
+352,51.383214,-0.092329,cycle,80,ok,cycle,1,2026-03-16T10:01:39.441801
+352,51.383214,-0.092329,transit,74,ok,walking -> national-rail -> national-rail -> walking,3,2026-03-16T10:01:44.033161
+353,51.383214,-0.08944,cycle,79,ok,cycle,1,2026-03-16T10:01:49.297524
+353,51.383214,-0.08944,transit,76,ok,walking -> national-rail -> national-rail -> walking,3,2026-03-16T10:01:54.170053
+354,51.383214,-0.08655,cycle,81,ok,cycle,1,2026-03-16T10:01:59.622280
+354,51.383214,-0.08655,transit,72,ok,walking -> national-rail -> national-rail -> walking -> bus -> walking,3,2026-03-16T10:02:07.781036
+355,51.383214,-0.083661,cycle,81,ok,cycle,1,2026-03-16T10:02:12.732565
+355,51.383214,-0.083661,transit,70,ok,walking -> national-rail -> national-rail -> walking -> bus -> walking,3,2026-03-16T10:02:16.819637
+356,51.383214,-0.080772,cycle,81,ok,cycle,1,2026-03-16T10:02:22.627458
+356,51.383214,-0.080772,transit,71,ok,walking -> national-rail -> national-rail -> walking -> bus -> walking,3,2026-03-16T10:02:28.614758
+357,51.383214,-0.077883,cycle,82,ok,cycle,1,2026-03-16T10:02:34.327452
+357,51.383214,-0.077883,transit,72,ok,walking -> national-rail -> national-rail -> walking -> bus -> walking,3,2026-03-16T10:02:39.918256
+358,51.383214,-0.074993,cycle,81,ok,cycle,1,2026-03-16T10:02:45.812116
+358,51.383214,-0.074993,transit,73,ok,walking -> national-rail -> national-rail -> walking -> bus -> walking,3,2026-03-16T10:02:50.793819
+359,51.383214,-0.072104,cycle,80,ok,cycle,1,2026-03-16T10:02:55.984943
+359,51.383214,-0.072104,transit,73,ok,walking -> national-rail -> national-rail -> bus -> walking,3,2026-03-16T10:03:03.359713
+360,51.383214,-0.069215,cycle,80,ok,cycle,1,2026-03-16T10:03:08.803650
+360,51.383214,-0.069215,transit,74,ok,walking -> bus -> walking -> national-rail -> bus -> walking,3,2026-03-16T10:03:13.837042
+361,51.383214,-0.066325,cycle,79,ok,cycle,1,2026-03-16T10:03:19.520732
+361,51.383214,-0.066325,transit,70,ok,walking -> bus -> walking -> national-rail -> bus -> walking,3,2026-03-16T10:03:24.916932
+362,51.383214,-0.063436,cycle,80,ok,cycle,1,2026-03-16T10:03:31.652901
+362,51.383214,-0.063436,transit,72,ok,walking -> bus -> walking -> national-rail -> bus -> walking,3,2026-03-16T10:03:37.105899
+363,51.383214,-0.060547,cycle,80,ok,cycle,1,2026-03-16T10:03:42.214650
+363,51.383214,-0.060547,transit,73,ok,walking -> bus -> walking -> national-rail -> bus -> walking,3,2026-03-16T10:03:47.408722
+364,51.383214,-0.057658,cycle,83,ok,cycle,1,2026-03-16T10:03:53.359405
+364,51.383214,-0.057658,transit,85,ok,walking -> national-rail -> national-rail -> bus -> walking,3,2026-03-16T10:03:59.926030
+365,51.383214,-0.054768,cycle,81,ok,cycle,1,2026-03-16T10:04:06.369281
+365,51.383214,-0.054768,transit,80,ok,walking -> bus -> walking -> national-rail -> bus -> walking,3,2026-03-16T10:04:11.143394
+366,51.383214,-0.051879,cycle,82,ok,cycle,1,2026-03-16T10:04:16.932743
+366,51.383214,-0.051879,transit,82,ok,walking -> bus -> walking -> national-rail -> bus -> walking,3,2026-03-16T10:04:21.634933
+367,51.383214,-0.04899,cycle,82,ok,cycle,1,2026-03-16T10:04:27.020161
+367,51.383214,-0.04899,transit,86,ok,walking -> bus -> walking -> national-rail -> bus -> walking,3,2026-03-16T10:04:32.038706
+368,51.383214,-0.046101,cycle,81,ok,cycle,1,2026-03-16T10:04:37.511929
+368,51.383214,-0.046101,transit,85,ok,walking -> bus -> walking -> tube -> national-rail -> walking -> bus -> walking,3,2026-03-16T10:04:42.168199
+369,51.383214,-0.043211,cycle,81,ok,cycle,1,2026-03-16T10:04:47.729949
+369,51.383214,-0.043211,transit,84,ok,walking -> bus -> walking -> tube -> national-rail -> walking -> bus -> walking,3,2026-03-16T10:04:52.631178
+370,51.383214,-0.040322,cycle,81,ok,cycle,1,2026-03-16T10:04:58.084895
+370,51.383214,-0.040322,transit,84,ok,walking -> bus -> walking -> tube -> national-rail -> walking -> bus -> walking,3,2026-03-16T10:05:04.138731
+371,51.383214,-0.037433,cycle,82,ok,cycle,1,2026-03-16T10:05:15.568522
+371,51.383214,-0.037433,transit,85,ok,walking -> bus -> walking -> tube -> national-rail -> walking -> bus -> walking,3,2026-03-16T10:05:24.300360
+372,51.383214,-0.034544,cycle,86,ok,cycle,1,2026-03-16T10:05:30.190514
+372,51.383214,-0.034544,transit,83,ok,walking -> national-rail -> national-rail -> bus -> walking,3,2026-03-16T10:05:36.652742
+373,51.383214,-0.031654,cycle,85,ok,cycle,1,2026-03-16T10:05:42.406056
+373,51.383214,-0.031654,transit,86,ok,walking -> national-rail -> national-rail -> bus -> walking,3,2026-03-16T10:05:50.060674
+374,51.383214,-0.028765,cycle,85,ok,cycle,1,2026-03-16T10:05:55.611488
+374,51.383214,-0.028765,transit,83,ok,walking -> national-rail -> national-rail -> bus -> walking,3,2026-03-16T10:06:02.982100
+375,51.383214,-0.025876,cycle,82,ok,cycle,1,2026-03-16T10:06:12.608499
+375,51.383214,-0.025876,transit,81,ok,walking -> national-rail -> national-rail -> bus -> walking,3,2026-03-16T10:06:18.483550
+376,51.383214,-0.022987,cycle,86,ok,cycle,1,2026-03-16T10:06:28.204921
+376,51.383214,-0.022987,transit,86,ok,walking -> bus -> walking -> tube -> national-rail -> bus -> walking,3,2026-03-16T10:06:33.208026
+377,51.385011,-0.239681,cycle,92,ok,cycle,1,2026-03-16T10:06:39.386797
+377,51.385011,-0.239681,transit,83,ok,walking -> bus -> tube -> national-rail -> walking,3,2026-03-16T10:06:43.976553
+378,51.385011,-0.236792,cycle,92,ok,cycle,1,2026-03-16T10:06:50.083293
+378,51.385011,-0.236792,transit,86,ok,walking -> bus -> tube -> national-rail -> walking,3,2026-03-16T10:06:55.109127
+379,51.385011,-0.233903,cycle,94,ok,cycle,1,2026-03-16T10:07:01.054761
+379,51.385011,-0.233903,transit,89,ok,walking -> bus -> tube -> national-rail -> walking,3,2026-03-16T10:07:07.796734
+380,51.385011,-0.231013,cycle,94,ok,cycle,1,2026-03-16T10:07:11.905738
+380,51.385011,-0.231013,transit,90,ok,walking -> bus -> tube -> tube -> walking -> bus -> walking,3,2026-03-16T10:07:17.337396
+381,51.385011,-0.228124,cycle,93,ok,cycle,1,2026-03-16T10:07:23.848159
+381,51.385011,-0.228124,transit,83,ok,walking -> bus -> tube -> tube -> walking -> bus -> walking,3,2026-03-16T10:07:27.670854
+382,51.385011,-0.225235,cycle,93,ok,cycle,1,2026-03-16T10:07:34.102760
+382,51.385011,-0.225235,transit,80,ok,walking -> bus -> tube -> tube -> walking -> bus -> walking,3,2026-03-16T10:07:38.772673
+383,51.385011,-0.222346,cycle,92,ok,cycle,1,2026-03-16T10:07:45.474436
+383,51.385011,-0.222346,transit,82,ok,walking -> bus -> tube -> tube -> walking -> bus -> walking,3,2026-03-16T10:07:48.546199
+384,51.385011,-0.219456,cycle,92,ok,cycle,1,2026-03-16T10:07:54.946512
+384,51.385011,-0.219456,transit,81,ok,walking -> bus -> tube -> national-rail -> bus -> walking,3,2026-03-16T10:07:59.615297
+385,51.385011,-0.216567,cycle,95,ok,cycle,1,2026-03-16T10:08:06.686084
+385,51.385011,-0.216567,transit,81,ok,walking -> bus -> tube -> tube -> walking -> bus -> walking,3,2026-03-16T10:08:11.418531
+386,51.385011,-0.213678,cycle,91,ok,cycle,1,2026-03-16T10:08:17.655333
+386,51.385011,-0.213678,transit,76,ok,walking -> bus -> walking -> tube -> tube -> walking -> bus -> walking,3,2026-03-16T10:08:22.290274
+387,51.385011,-0.210789,cycle,90,ok,cycle,1,2026-03-16T10:08:31.898146
+387,51.385011,-0.210789,transit,72,ok,walking -> bus -> tube -> tube -> walking -> bus -> walking,3,2026-03-16T10:08:33.610053
+388,51.385011,-0.207899,cycle,90,ok,cycle,1,2026-03-16T10:08:39.274842
+388,51.385011,-0.207899,transit,75,ok,walking -> bus -> tube -> tube -> walking -> bus -> walking,3,2026-03-16T10:08:43.854371
+389,51.385011,-0.20501,cycle,89,ok,cycle,1,2026-03-16T10:08:50.403455
+389,51.385011,-0.20501,transit,78,ok,walking -> bus -> tube -> tube -> walking -> bus -> walking,3,2026-03-16T10:08:58.600227
+390,51.385011,-0.202121,cycle,87,ok,cycle,1,2026-03-16T10:09:04.900434
+390,51.385011,-0.202121,transit,77,ok,walking -> bus -> tube -> tube -> walking -> bus -> walking,3,2026-03-16T10:09:09.433248
+391,51.385011,-0.199232,cycle,87,ok,cycle,1,2026-03-16T10:09:15.057073
+391,51.385011,-0.199232,transit,77,ok,walking -> bus -> walking -> tube -> tube -> bus -> walking,3,2026-03-16T10:09:20.166549
+392,51.385011,-0.196342,cycle,87,ok,cycle,1,2026-03-16T10:09:26.343811
+392,51.385011,-0.196342,transit,77,ok,walking -> bus -> walking -> tube -> tube -> bus -> walking,3,2026-03-16T10:09:31.037797
+393,51.385011,-0.193453,cycle,85,ok,cycle,1,2026-03-16T10:09:36.210811
+393,51.385011,-0.193453,transit,74,ok,walking -> bus -> walking -> tube -> tube -> walking -> bus -> walking,3,2026-03-16T10:09:40.722246
+394,51.385011,-0.190564,cycle,85,ok,cycle,1,2026-03-16T10:09:46.722659
+394,51.385011,-0.190564,transit,73,ok,walking -> bus -> walking -> tube -> tube -> walking -> bus -> walking,3,2026-03-16T10:09:51.758969
+395,51.385011,-0.187675,cycle,85,ok,cycle,1,2026-03-16T10:09:57.926746
+395,51.385011,-0.187675,transit,74,ok,walking -> bus -> walking -> tube -> tube -> bus -> walking,3,2026-03-16T10:10:02.504948
+396,51.385011,-0.184785,cycle,84,ok,cycle,1,2026-03-16T10:10:08.531546
+396,51.385011,-0.184785,transit,74,ok,walking -> bus -> walking -> tube -> tube -> bus -> walking,3,2026-03-16T10:10:12.950784
+397,51.385011,-0.181896,cycle,84,ok,cycle,1,2026-03-16T10:10:19.013902
+397,51.385011,-0.181896,transit,72,ok,walking -> bus -> walking -> tube -> tube -> bus -> walking,3,2026-03-16T10:10:24.100426
+398,51.385011,-0.179007,cycle,83,ok,cycle,1,2026-03-16T10:10:29.573985
+398,51.385011,-0.179007,transit,70,ok,walking -> bus -> walking -> tube -> tube -> bus -> walking,3,2026-03-16T10:10:34.264361
+399,51.385011,-0.176117,cycle,84,ok,cycle,1,2026-03-16T10:10:40.182379
+399,51.385011,-0.176117,transit,71,ok,walking -> bus -> walking -> tube -> tube -> bus -> walking,3,2026-03-16T10:10:45.157377
+400,51.385011,-0.173228,cycle,83,ok,cycle,1,2026-03-16T10:10:51.185119
+400,51.385011,-0.173228,transit,73,ok,walking -> bus -> walking -> tube -> tube -> bus -> walking,3,2026-03-16T10:10:55.878448
+401,51.385011,-0.170339,cycle,84,ok,cycle,1,2026-03-16T10:11:01.159767
+401,51.385011,-0.170339,transit,75,ok,walking -> bus -> walking -> tube -> tube -> bus -> walking,3,2026-03-16T10:11:06.209649
+402,51.385011,-0.16745,cycle,84,ok,cycle,1,2026-03-16T10:11:11.769562
+402,51.385011,-0.16745,transit,85,ok,walking -> bus -> walking -> tube -> tube -> bus -> walking,3,2026-03-16T10:11:16.523974
+403,51.385011,-0.16456,cycle,83,ok,cycle,1,2026-03-16T10:11:22.162284
+403,51.385011,-0.16456,transit,83,ok,walking -> bus -> walking -> tube -> tube -> bus -> walking,3,2026-03-16T10:11:27.075010
+404,51.385011,-0.161671,cycle,83,ok,cycle,1,2026-03-16T10:11:34.434869
+404,51.385011,-0.161671,transit,82,ok,walking -> national-rail -> walking,3,2026-03-16T10:11:39.923376
+405,51.385011,-0.158782,cycle,83,ok,cycle,1,2026-03-16T10:11:45.807587
+405,51.385011,-0.158782,transit,80,ok,walking -> national-rail -> walking,3,2026-03-16T10:11:51.385808
+406,51.385011,-0.155893,cycle,86,ok,cycle,1,2026-03-16T10:11:58.624831
+406,51.385011,-0.155893,transit,81,ok,walking -> national-rail -> walking,3,2026-03-16T10:12:03.929079
+407,51.385011,-0.153003,cycle,89,ok,cycle,1,2026-03-16T10:12:08.846601
+407,51.385011,-0.153003,transit,84,ok,walking -> national-rail -> walking,3,2026-03-16T10:12:14.636522
+408,51.385011,-0.150114,cycle,90,ok,cycle,1,2026-03-16T10:12:21.907279
+408,51.385011,-0.150114,transit,84,ok,walking -> national-rail -> walking,3,2026-03-16T10:12:27.537239
+409,51.385011,-0.147225,cycle,,http_404,,,2026-03-16T10:13:45.344096
+409,51.385011,-0.147225,transit,79,ok,walking -> national-rail -> tram -> walking,3,2026-03-16T10:13:50.382603
+410,51.385011,-0.144336,cycle,,http_404,,,2026-03-16T10:15:23.907484
+410,51.385011,-0.144336,transit,76,ok,walking -> national-rail -> tram -> walking,3,2026-03-16T10:15:29.654216
+411,51.385011,-0.141446,cycle,,http_404,,,2026-03-16T10:17:01.951151
+411,51.385011,-0.141446,transit,83,ok,walking -> national-rail -> tram -> walking,3,2026-03-16T10:17:08.248349
+412,51.385011,-0.138557,cycle,87,ok,cycle,1,2026-03-16T10:17:14.396863
+412,51.385011,-0.138557,transit,77,ok,walking -> national-rail -> tram -> walking,3,2026-03-16T10:17:20.057056
+413,51.385011,-0.135668,cycle,88,ok,cycle,1,2026-03-16T10:17:25.756943
+413,51.385011,-0.135668,transit,80,ok,walking -> national-rail -> tram -> walking,3,2026-03-16T10:17:29.724476
+414,51.385011,-0.132779,cycle,88,ok,cycle,1,2026-03-16T10:17:35.640111
+414,51.385011,-0.132779,transit,76,ok,walking -> national-rail -> tram -> walking,3,2026-03-16T10:17:38.992971
+415,51.385011,-0.129889,cycle,89,ok,cycle,1,2026-03-16T10:17:44.864203
+415,51.385011,-0.129889,transit,72,ok,walking -> national-rail -> tram -> walking,3,2026-03-16T10:17:47.907661
+416,51.385011,-0.127,cycle,88,ok,cycle,1,2026-03-16T10:17:53.612061
+416,51.385011,-0.127,transit,73,ok,walking -> national-rail -> tram -> walking,3,2026-03-16T10:17:56.847522
+417,51.385011,-0.124111,cycle,82,ok,cycle,1,2026-03-16T10:18:02.434445
+417,51.385011,-0.124111,transit,78,ok,walking -> national-rail -> tram -> walking,3,2026-03-16T10:18:06.509830
+418,51.385011,-0.121221,cycle,81,ok,cycle,1,2026-03-16T10:18:12.582105
+418,51.385011,-0.121221,transit,77,ok,walking -> bus -> walking -> national-rail -> overground -> walking -> bus -> walking,3,2026-03-16T10:18:15.887366
+419,51.385011,-0.118332,cycle,80,ok,cycle,1,2026-03-16T10:18:21.489006
+419,51.385011,-0.118332,transit,79,ok,walking -> bus -> walking -> national-rail -> overground -> walking -> bus -> walking,3,2026-03-16T10:18:26.329772
+420,51.385011,-0.115443,cycle,80,ok,cycle,1,2026-03-16T10:18:31.663485
+420,51.385011,-0.115443,transit,77,ok,walking -> bus -> walking -> national-rail -> overground -> walking -> bus -> walking,3,2026-03-16T10:18:37.143710
+421,51.385011,-0.112554,cycle,79,ok,cycle,1,2026-03-16T10:18:42.324281
+421,51.385011,-0.112554,transit,75,ok,walking -> bus -> walking -> national-rail -> overground -> bus -> walking,3,2026-03-16T10:18:47.228549
+422,51.385011,-0.109664,cycle,79,ok,cycle,1,2026-03-16T10:18:52.444001
+422,51.385011,-0.109664,transit,71,ok,walking -> bus -> walking -> national-rail -> overground -> bus -> walking,3,2026-03-16T10:18:57.159693
+423,51.385011,-0.106775,cycle,79,ok,cycle,1,2026-03-16T10:19:02.576583
+423,51.385011,-0.106775,transit,72,ok,walking -> bus -> walking -> national-rail -> overground -> bus -> walking,3,2026-03-16T10:19:05.979189
+424,51.385011,-0.103886,cycle,79,ok,cycle,1,2026-03-16T10:19:11.766147
+424,51.385011,-0.103886,transit,75,ok,walking -> bus -> walking -> national-rail -> overground -> walking,3,2026-03-16T10:19:15.360213
+425,51.385011,-0.100997,cycle,79,ok,cycle,1,2026-03-16T10:19:21.217537
+425,51.385011,-0.100997,transit,75,ok,walking -> bus -> walking -> national-rail -> overground -> walking,3,2026-03-16T10:19:24.825205
+426,51.385011,-0.098107,cycle,78,ok,cycle,1,2026-03-16T10:19:30.277145
+426,51.385011,-0.098107,transit,75,ok,walking -> bus -> walking -> national-rail -> bus -> bus -> walking,3,2026-03-16T10:19:34.076028
+427,51.385011,-0.095218,cycle,78,ok,cycle,1,2026-03-16T10:19:39.656744
+427,51.385011,-0.095218,transit,76,ok,walking -> bus -> walking -> national-rail -> bus -> bus -> walking,3,2026-03-16T10:19:42.975368
+428,51.385011,-0.092329,cycle,78,ok,cycle,1,2026-03-16T10:19:48.399376
+428,51.385011,-0.092329,transit,76,ok,walking -> bus -> walking -> national-rail -> walking,3,2026-03-16T10:19:52.618298
+429,51.385011,-0.08944,cycle,78,ok,cycle,1,2026-03-16T10:19:58.977618
+429,51.385011,-0.08944,transit,76,ok,walking -> bus -> walking -> national-rail -> walking -> bus -> walking,3,2026-03-16T10:20:02.395223
+430,51.385011,-0.08655,cycle,80,ok,cycle,1,2026-03-16T10:20:07.539256
+430,51.385011,-0.08655,transit,69,ok,walking -> bus -> walking -> national-rail -> walking -> bus -> walking,3,2026-03-16T10:20:10.947448
+431,51.385011,-0.083661,cycle,80,ok,cycle,1,2026-03-16T10:20:18.952880
+431,51.385011,-0.083661,transit,70,ok,walking -> national-rail -> national-rail -> walking -> bus -> walking,3,2026-03-16T10:20:21.546103
+432,51.385011,-0.080772,cycle,80,ok,cycle,1,2026-03-16T10:20:26.808310
+432,51.385011,-0.080772,transit,73,ok,walking -> bus -> walking -> national-rail -> walking -> bus -> walking,3,2026-03-16T10:20:30.944681
+433,51.385011,-0.077883,cycle,81,ok,cycle,1,2026-03-16T10:20:36.525508
+433,51.385011,-0.077883,transit,71,ok,walking -> national-rail -> national-rail -> walking -> bus -> walking,3,2026-03-16T10:20:41.453022
+434,51.385011,-0.074993,cycle,80,ok,cycle,1,2026-03-16T10:20:51.723175
+434,51.385011,-0.074993,transit,71,ok,walking -> bus -> walking -> national-rail -> walking -> bus -> walking,3,2026-03-16T10:20:56.630997
+435,51.385011,-0.072104,cycle,81,ok,cycle,1,2026-03-16T10:21:04.305478
+435,51.385011,-0.072104,transit,74,ok,walking -> bus -> walking -> national-rail -> walking -> bus -> walking,3,2026-03-16T10:21:07.712923
+436,51.385011,-0.069215,cycle,80,ok,cycle,1,2026-03-16T10:21:14.300680
+436,51.385011,-0.069215,transit,73,ok,walking -> bus -> walking -> national-rail -> bus -> walking,3,2026-03-16T10:21:17.639512
+437,51.385011,-0.066325,cycle,81,ok,cycle,1,2026-03-16T10:21:22.871492
+437,51.385011,-0.066325,transit,72,ok,walking -> bus -> walking -> national-rail -> bus -> walking,3,2026-03-16T10:21:26.032430
+438,51.385011,-0.063436,cycle,78,ok,cycle,1,2026-03-16T10:21:27.828396
+438,51.385011,-0.063436,transit,68,ok,walking -> bus -> walking -> national-rail -> bus -> walking,3,2026-03-16T10:21:31.349721
+439,51.385011,-0.060547,cycle,80,ok,cycle,1,2026-03-16T10:21:37.600157
+439,51.385011,-0.060547,transit,72,ok,walking -> bus -> walking -> national-rail -> bus -> walking,3,2026-03-16T10:21:42.545117
+440,51.385011,-0.057658,cycle,80,ok,cycle,1,2026-03-16T10:21:48.051929
+440,51.385011,-0.057658,transit,76,ok,walking -> bus -> walking -> national-rail -> bus -> walking,3,2026-03-16T10:21:54.776814
+441,51.385011,-0.054768,cycle,82,ok,cycle,1,2026-03-16T10:22:03.222821
+441,51.385011,-0.054768,transit,78,ok,walking -> bus -> walking -> national-rail -> bus -> walking,3,2026-03-16T10:22:06.502844
+442,51.385011,-0.051879,cycle,85,ok,cycle,1,2026-03-16T10:22:13.171520
+442,51.385011,-0.051879,transit,83,ok,walking -> bus -> walking -> national-rail -> bus -> walking,3,2026-03-16T10:22:17.645158
+443,51.385011,-0.04899,cycle,81,ok,cycle,1,2026-03-16T10:22:23.534047
+443,51.385011,-0.04899,transit,86,ok,walking -> bus -> walking -> tube -> national-rail -> walking -> bus -> walking,3,2026-03-16T10:22:25.198724
+444,51.385011,-0.046101,cycle,80,ok,cycle,1,2026-03-16T10:22:30.733194
+444,51.385011,-0.046101,transit,83,ok,walking -> bus -> walking -> tube -> national-rail -> walking -> bus -> walking,3,2026-03-16T10:22:35.367305
+445,51.385011,-0.043211,cycle,81,ok,cycle,1,2026-03-16T10:22:41.516284
+445,51.385011,-0.043211,transit,83,ok,walking -> bus -> walking -> tube -> national-rail -> walking -> bus -> walking,3,2026-03-16T10:22:46.860078
+446,51.385011,-0.040322,cycle,80,ok,cycle,1,2026-03-16T10:22:53.617918
+446,51.385011,-0.040322,transit,86,ok,walking -> bus -> walking -> tube -> national-rail -> walking -> bus -> walking,3,2026-03-16T10:22:57.186214
+447,51.385011,-0.037433,cycle,81,ok,cycle,1,2026-03-16T10:23:02.292104
+447,51.385011,-0.037433,transit,87,ok,walking -> bus -> walking -> tube -> national-rail -> walking -> bus -> walking,3,2026-03-16T10:23:07.327058
+448,51.385011,-0.034544,cycle,87,ok,cycle,1,2026-03-16T10:23:13.636334
+448,51.385011,-0.034544,transit,89,ok,walking -> bus -> walking -> national-rail -> bus -> walking,3,2026-03-16T10:23:19.872763
+449,51.385011,-0.031654,cycle,86,ok,cycle,1,2026-03-16T10:23:26.078408
+449,51.385011,-0.031654,transit,86,ok,walking -> bus -> walking -> national-rail -> bus -> walking,3,2026-03-16T10:23:31.643214
+450,51.385011,-0.028765,cycle,87,ok,cycle,1,2026-03-16T10:23:39.813771
+450,51.385011,-0.028765,transit,85,ok,walking -> bus -> walking -> tube -> national-rail -> bus -> walking,3,2026-03-16T10:23:44.415471
+451,51.385011,-0.025876,cycle,82,ok,cycle,1,2026-03-16T10:23:50.211838
+451,51.385011,-0.025876,transit,82,ok,walking -> bus -> walking -> tube -> national-rail -> bus -> walking,3,2026-03-16T10:23:54.935745
+452,51.385011,-0.022987,cycle,83,ok,cycle,1,2026-03-16T10:24:02.054299
+452,51.385011,-0.022987,transit,82,ok,walking -> bus -> walking -> tube -> national-rail -> bus -> walking,3,2026-03-16T10:24:08.247824
+453,51.385011,-0.020097,cycle,82,ok,cycle,1,2026-03-16T10:24:14.251251
+453,51.385011,-0.020097,transit,77,ok,walking -> bus -> walking -> tube -> national-rail -> bus -> walking,3,2026-03-16T10:24:20.503107
+454,51.385011,-0.017208,cycle,83,ok,cycle,1,2026-03-16T10:24:26.355328
+454,51.385011,-0.017208,transit,86,ok,walking -> bus -> walking -> national-rail -> bus -> walking,3,2026-03-16T10:24:29.452770
+455,51.385011,-0.014319,cycle,89,ok,cycle,1,2026-03-16T10:24:35.345423
+455,51.385011,-0.014319,transit,84,ok,walking -> bus -> walking -> tube -> tube -> national-rail -> bus -> walking,3,2026-03-16T10:24:40.956188
+456,51.386807,-0.24546,cycle,100,ok,cycle,1,2026-03-16T10:24:49.608966
+456,51.386807,-0.24546,transit,83,ok,walking -> bus -> walking -> tube -> national-rail -> bus -> walking,3,2026-03-16T10:24:54.679341
+457,51.386807,-0.24257,cycle,92,ok,cycle,1,2026-03-16T10:25:00.960653
+457,51.386807,-0.24257,transit,86,ok,walking -> bus -> tube -> national-rail -> walking,3,2026-03-16T10:25:07.198784
+458,51.386807,-0.239681,cycle,92,ok,cycle,1,2026-03-16T10:25:12.946632
+458,51.386807,-0.239681,transit,86,ok,walking -> bus -> tube -> national-rail -> walking,3,2026-03-16T10:25:17.491991
+459,51.386807,-0.236792,cycle,91,ok,cycle,1,2026-03-16T10:25:23.797904
+459,51.386807,-0.236792,transit,81,ok,walking -> bus -> tube -> national-rail -> walking,3,2026-03-16T10:25:28.681171
+460,51.386807,-0.233903,cycle,94,ok,cycle,1,2026-03-16T10:25:36.443725
+460,51.386807,-0.233903,transit,86,ok,walking -> bus -> tube -> tube -> walking -> bus -> walking,3,2026-03-16T10:25:41.056829
+461,51.386807,-0.231013,cycle,92,ok,cycle,1,2026-03-16T10:25:47.360388
+461,51.386807,-0.231013,transit,76,ok,walking -> bus -> tube -> tube -> walking -> bus -> walking,3,2026-03-16T10:25:51.768542
+462,51.386807,-0.228124,cycle,92,ok,cycle,1,2026-03-16T10:25:57.856367
+462,51.386807,-0.228124,transit,75,ok,walking -> bus -> tube -> tube -> walking -> bus -> walking,3,2026-03-16T10:26:02.717310
+463,51.386807,-0.225235,cycle,91,ok,cycle,1,2026-03-16T10:26:09.068286
+463,51.386807,-0.225235,transit,72,ok,walking -> bus -> tube -> tube -> walking -> bus -> walking,3,2026-03-16T10:26:13.898499
+464,51.386807,-0.222346,cycle,91,ok,cycle,1,2026-03-16T10:26:19.849059
+464,51.386807,-0.222346,transit,76,ok,walking -> bus -> tube -> tube -> walking -> bus -> walking,3,2026-03-16T10:26:25.259852
+465,51.386807,-0.219456,cycle,91,ok,cycle,1,2026-03-16T10:26:31.271901
+465,51.386807,-0.219456,transit,81,ok,walking -> bus -> tube -> tube -> walking -> bus -> walking,3,2026-03-16T10:26:36.302848
+466,51.386807,-0.216567,cycle,93,ok,cycle,1,2026-03-16T10:26:43.697343
+466,51.386807,-0.216567,transit,81,ok,walking -> bus -> walking -> tube -> tube -> tube -> walking -> bus -> walking,3,2026-03-16T10:26:48.619470
+467,51.386807,-0.213678,cycle,92,ok,cycle,1,2026-03-16T10:26:56.916039
+467,51.386807,-0.213678,transit,77,ok,walking -> bus -> tube -> tube -> walking -> bus -> walking,3,2026-03-16T10:27:01.644713
+468,51.386807,-0.210789,cycle,90,ok,cycle,1,2026-03-16T10:27:08.373994
+468,51.386807,-0.210789,transit,74,ok,walking -> bus -> walking -> tube -> tube -> tube -> walking -> bus -> walking,3,2026-03-16T10:27:13.699608
+469,51.386807,-0.207899,cycle,89,ok,cycle,1,2026-03-16T10:27:20.987063
+469,51.386807,-0.207899,transit,74,ok,walking -> bus -> walking -> tube -> tube -> tube -> walking -> bus -> walking,3,2026-03-16T10:27:25.734860
+470,51.386807,-0.20501,cycle,89,ok,cycle,1,2026-03-16T10:27:31.204553
+470,51.386807,-0.20501,transit,76,ok,walking -> bus -> walking -> tube -> tube -> tube -> walking -> bus -> walking,3,2026-03-16T10:27:36.305791
+471,51.386807,-0.202121,cycle,90,ok,cycle,1,2026-03-16T10:27:43.010124
+471,51.386807,-0.202121,transit,72,ok,walking -> bus -> tube -> tube -> walking -> bus -> walking,3,2026-03-16T10:27:47.682606
+472,51.386807,-0.199232,cycle,87,ok,cycle,1,2026-03-16T10:27:53.946760
+472,51.386807,-0.199232,transit,73,ok,walking -> bus -> tube -> tube -> walking -> bus -> walking,3,2026-03-16T10:27:57.637491
+473,51.386807,-0.196342,cycle,86,ok,cycle,1,2026-03-16T10:28:03.018530
+473,51.386807,-0.196342,transit,74,ok,walking -> bus -> walking -> tube -> tube -> bus -> walking,3,2026-03-16T10:28:07.877269
+474,51.386807,-0.193453,cycle,85,ok,cycle,1,2026-03-16T10:28:15.050848
+474,51.386807,-0.193453,transit,72,ok,walking -> bus -> tube -> tube -> walking -> bus -> walking,3,2026-03-16T10:28:20.144872
+475,51.386807,-0.190564,cycle,85,ok,cycle,1,2026-03-16T10:28:26.128092
+475,51.386807,-0.190564,transit,72,ok,walking -> bus -> walking -> tube -> tube -> bus -> walking,3,2026-03-16T10:28:31.145741
+476,51.386807,-0.187675,cycle,83,ok,cycle,1,2026-03-16T10:28:37.154082
+476,51.386807,-0.187675,transit,71,ok,walking -> bus -> walking -> tube -> tube -> bus -> walking,3,2026-03-16T10:28:42.653862
+477,51.386807,-0.184785,cycle,83,ok,cycle,1,2026-03-16T10:28:48.606735
+477,51.386807,-0.184785,transit,71,ok,walking -> bus -> walking -> tube -> tube -> bus -> walking,3,2026-03-16T10:28:53.392881
+478,51.386807,-0.181896,cycle,83,ok,cycle,1,2026-03-16T10:28:59.451683
+478,51.386807,-0.181896,transit,73,ok,walking -> bus -> walking -> tube -> tube -> bus -> walking,3,2026-03-16T10:29:08.237022
+479,51.386807,-0.179007,cycle,84,ok,cycle,1,2026-03-16T10:29:16.532675
+479,51.386807,-0.179007,transit,68,ok,walking -> bus -> walking -> tube -> tube -> bus -> walking,3,2026-03-16T10:29:21.412218
+480,51.386807,-0.176117,cycle,82,ok,cycle,1,2026-03-16T10:29:26.262099
+480,51.386807,-0.176117,transit,71,ok,walking -> bus -> walking -> tube -> tube -> bus -> walking,3,2026-03-16T10:29:31.994117
+481,51.386807,-0.173228,cycle,83,ok,cycle,1,2026-03-16T10:29:36.980132
+481,51.386807,-0.173228,transit,75,ok,walking -> bus -> walking -> tube -> tube -> bus -> walking,3,2026-03-16T10:29:41.684403
+482,51.386807,-0.170339,cycle,83,ok,cycle,1,2026-03-16T10:29:48.341938
+482,51.386807,-0.170339,transit,78,ok,walking -> bus -> walking -> tube -> tube -> bus -> walking,3,2026-03-16T10:29:53.639641
+483,51.386807,-0.16745,cycle,84,ok,cycle,1,2026-03-16T10:29:59.361570
+483,51.386807,-0.16745,transit,81,ok,walking -> bus -> walking -> tube -> tube -> bus -> walking,3,2026-03-16T10:30:04.250930
+484,51.386807,-0.16456,cycle,83,ok,cycle,1,2026-03-16T10:30:11.360994
+484,51.386807,-0.16456,transit,83,ok,walking -> bus -> walking -> tube -> tube -> bus -> walking,3,2026-03-16T10:30:16.892594
+485,51.386807,-0.161671,cycle,82,ok,cycle,1,2026-03-16T10:30:23.353340
+485,51.386807,-0.161671,transit,80,ok,walking -> national-rail -> walking,3,2026-03-16T10:30:27.127882
+486,51.386807,-0.158782,cycle,82,ok,cycle,1,2026-03-16T10:30:32.981447
+486,51.386807,-0.158782,transit,78,ok,walking -> national-rail -> bus -> walking,3,2026-03-16T10:30:38.265917
+487,51.386807,-0.155893,cycle,85,ok,cycle,1,2026-03-16T10:30:45.494338
+487,51.386807,-0.155893,transit,81,ok,walking -> bus -> tube -> tube -> walking -> bus -> bus -> walking,3,2026-03-16T10:30:51.459009
+488,51.386807,-0.153003,cycle,88,ok,cycle,1,2026-03-16T10:30:57.538395
+488,51.386807,-0.153003,transit,82,ok,walking -> national-rail -> walking,3,2026-03-16T10:31:02.704367
+489,51.386807,-0.150114,cycle,88,ok,cycle,1,2026-03-16T10:31:08.842059
+489,51.386807,-0.150114,transit,86,ok,walking -> national-rail -> tram -> walking,3,2026-03-16T10:31:13.258350
+490,51.386807,-0.147225,cycle,87,ok,cycle,1,2026-03-16T10:31:19.720563
+490,51.386807,-0.147225,transit,84,ok,walking -> national-rail -> tram -> walking,3,2026-03-16T10:31:24.693488
+491,51.386807,-0.144336,cycle,,http_404,,,2026-03-16T10:32:58.710670
+491,51.386807,-0.144336,transit,81,ok,walking -> national-rail -> tram -> walking,3,2026-03-16T10:33:04.177777
+492,51.386807,-0.141446,cycle,,http_404,,,2026-03-16T10:34:46.608728
+492,51.386807,-0.141446,transit,78,ok,walking -> national-rail -> tram -> walking,3,2026-03-16T10:34:52.761956
+493,51.386807,-0.138557,cycle,86,ok,cycle,1,2026-03-16T10:34:59.434994
+493,51.386807,-0.138557,transit,81,ok,walking -> national-rail -> tram -> walking,3,2026-03-16T10:35:05.433537
+494,51.386807,-0.135668,cycle,87,ok,cycle,1,2026-03-16T10:35:13.864372
+494,51.386807,-0.135668,transit,82,ok,walking -> bus -> walking -> national-rail -> walking -> tram -> walking,3,2026-03-16T10:35:19.838057
+495,51.386807,-0.132779,cycle,88,ok,cycle,1,2026-03-16T10:35:24.932885
+495,51.386807,-0.132779,transit,83,ok,walking -> bus -> walking -> national-rail -> walking -> tram -> walking,3,2026-03-16T10:35:30.703359
+496,51.386807,-0.129889,cycle,87,ok,cycle,1,2026-03-16T10:35:36.275184
+496,51.386807,-0.129889,transit,78,ok,walking -> bus -> walking -> national-rail -> walking -> tram -> walking,3,2026-03-16T10:35:41.261012
+497,51.386807,-0.127,cycle,87,ok,cycle,1,2026-03-16T10:35:47.308461
+497,51.386807,-0.127,transit,79,ok,walking -> bus -> walking -> national-rail -> walking -> tram -> walking,3,2026-03-16T10:35:52.602940
+498,51.386807,-0.124111,cycle,82,ok,cycle,1,2026-03-16T10:35:58.283603
+498,51.386807,-0.124111,transit,77,ok,walking -> bus -> walking -> national-rail -> overground -> walking -> bus -> walking,3,2026-03-16T10:36:03.850448
+499,51.386807,-0.121221,cycle,82,ok,cycle,1,2026-03-16T10:36:10.495450
+499,51.386807,-0.121221,transit,76,ok,walking -> bus -> walking -> national-rail -> overground -> walking -> bus -> walking,3,2026-03-16T10:36:16.219930
+500,51.386807,-0.118332,cycle,80,ok,cycle,1,2026-03-16T10:36:21.798011
+500,51.386807,-0.118332,transit,78,ok,walking -> bus -> walking -> national-rail -> overground -> walking -> bus -> walking,3,2026-03-16T10:36:26.643249
+501,51.386807,-0.115443,cycle,79,ok,cycle,1,2026-03-16T10:36:31.663145
+501,51.386807,-0.115443,transit,75,ok,walking -> bus -> walking -> national-rail -> overground -> bus -> walking,3,2026-03-16T10:36:38.114768
+502,51.386807,-0.112554,cycle,79,ok,cycle,1,2026-03-16T10:36:43.994408
+502,51.386807,-0.112554,transit,72,ok,walking -> bus -> walking -> national-rail -> overground -> bus -> walking,3,2026-03-16T10:36:49.013688
+503,51.386807,-0.109664,cycle,78,ok,cycle,1,2026-03-16T10:36:57.715256
+503,51.386807,-0.109664,transit,71,ok,walking -> bus -> walking -> national-rail -> overground -> bus -> walking,3,2026-03-16T10:37:03.372190
+504,51.386807,-0.106775,cycle,78,ok,cycle,1,2026-03-16T10:37:09.882230
+504,51.386807,-0.106775,transit,73,ok,walking -> bus -> walking -> national-rail -> overground -> bus -> walking,3,2026-03-16T10:37:16.531924
+505,51.386807,-0.103886,cycle,78,ok,cycle,1,2026-03-16T10:37:22.298089
+505,51.386807,-0.103886,transit,75,ok,walking -> bus -> walking -> national-rail -> overground -> bus -> walking,3,2026-03-16T10:37:28.628365
+506,51.386807,-0.100997,cycle,78,ok,cycle,1,2026-03-16T10:37:35.067049
+506,51.386807,-0.100997,transit,75,ok,walking -> bus -> walking -> national-rail -> walking -> bus -> walking,3,2026-03-16T10:37:40.572904
+507,51.386807,-0.098107,cycle,77,ok,cycle,1,2026-03-16T10:37:48.454207
+507,51.386807,-0.098107,transit,72,ok,walking -> bus -> walking -> national-rail -> walking -> bus -> walking,3,2026-03-16T10:37:54.471494
+508,51.386807,-0.095218,cycle,77,ok,cycle,1,2026-03-16T10:38:02.661433
+508,51.386807,-0.095218,transit,71,ok,walking -> bus -> walking -> national-rail -> walking -> bus -> walking,3,2026-03-16T10:38:08.450000
+509,51.386807,-0.092329,cycle,78,ok,cycle,1,2026-03-16T10:38:14.175122
+509,51.386807,-0.092329,transit,72,ok,walking -> bus -> walking -> national-rail -> walking -> bus -> walking,3,2026-03-16T10:38:17.737457
+510,51.386807,-0.08944,cycle,78,ok,cycle,1,2026-03-16T10:38:19.771494
+510,51.386807,-0.08944,transit,72,ok,walking -> bus -> walking -> national-rail -> walking -> bus -> walking,3,2026-03-16T10:38:24.783497
+511,51.386807,-0.08655,cycle,78,ok,cycle,1,2026-03-16T10:38:30.359686
+511,51.386807,-0.08655,transit,73,ok,walking -> bus -> walking -> national-rail -> walking -> bus -> walking,3,2026-03-16T10:38:36.427105
+512,51.386807,-0.083661,cycle,80,ok,cycle,1,2026-03-16T10:38:42.652617
+512,51.386807,-0.083661,transit,75,ok,walking -> bus -> walking -> national-rail -> walking -> bus -> walking,3,2026-03-16T10:38:48.062602
+513,51.386807,-0.080772,cycle,79,ok,cycle,1,2026-03-16T10:38:54.340448
+513,51.386807,-0.080772,transit,72,ok,walking -> bus -> walking -> national-rail -> walking -> bus -> walking,3,2026-03-16T10:38:59.556294
+514,51.386807,-0.077883,cycle,79,ok,cycle,1,2026-03-16T10:39:05.296479
+514,51.386807,-0.077883,transit,74,ok,walking -> bus -> walking -> national-rail -> walking -> bus -> walking,3,2026-03-16T10:39:13.906423
+515,51.386807,-0.074993,cycle,80,ok,cycle,1,2026-03-16T10:39:20.394372
+515,51.386807,-0.074993,transit,73,ok,walking -> bus -> walking -> national-rail -> walking,3,2026-03-16T10:39:25.599521
+516,51.386807,-0.072104,cycle,78,ok,cycle,1,2026-03-16T10:39:31.421301
+516,51.386807,-0.072104,transit,72,ok,walking -> bus -> walking -> national-rail -> walking -> bus -> walking,3,2026-03-16T10:39:37.561355
+517,51.386807,-0.069215,cycle,78,ok,cycle,1,2026-03-16T10:39:43.037805
+517,51.386807,-0.069215,transit,71,ok,walking -> bus -> walking -> national-rail -> walking -> bus -> walking,3,2026-03-16T10:39:47.650012
+518,51.386807,-0.066325,cycle,78,ok,cycle,1,2026-03-16T10:39:50.601663
+518,51.386807,-0.066325,transit,69,ok,walking -> bus -> walking -> national-rail -> bus -> walking,3,2026-03-16T10:39:54.149136
+519,51.386807,-0.063436,cycle,78,ok,cycle,1,2026-03-16T10:39:59.718888
+519,51.386807,-0.063436,transit,69,ok,walking -> bus -> walking -> national-rail -> bus -> walking,3,2026-03-16T10:40:03.164723
+520,51.386807,-0.060547,cycle,79,ok,cycle,1,2026-03-16T10:40:08.530076
+520,51.386807,-0.060547,transit,73,ok,walking -> bus -> walking -> national-rail -> bus -> walking,3,2026-03-16T10:40:14.092197
+521,51.386807,-0.057658,cycle,80,ok,cycle,1,2026-03-16T10:40:19.690179
+521,51.386807,-0.057658,transit,76,ok,walking -> bus -> walking -> national-rail -> bus -> walking,3,2026-03-16T10:40:25.467472
+522,51.386807,-0.054768,cycle,82,ok,cycle,1,2026-03-16T10:40:31.752854
+522,51.386807,-0.054768,transit,79,ok,walking -> bus -> walking -> national-rail -> bus -> walking,3,2026-03-16T10:40:35.086581
+523,51.386807,-0.051879,cycle,80,ok,cycle,1,2026-03-16T10:40:40.982704
+523,51.386807,-0.051879,transit,86,ok,walking -> bus -> walking -> tube -> national-rail -> walking -> bus -> walking,3,2026-03-16T10:40:46.574082
+524,51.386807,-0.04899,cycle,80,ok,cycle,1,2026-03-16T10:40:52.445151
+524,51.386807,-0.04899,transit,86,ok,walking -> bus -> walking -> tube -> national-rail -> walking -> bus -> walking,3,2026-03-16T10:40:57.440451
+525,51.386807,-0.046101,cycle,80,ok,cycle,1,2026-03-16T10:41:01.902762
+525,51.386807,-0.046101,transit,84,ok,walking -> bus -> walking -> tube -> national-rail -> walking -> bus -> walking,3,2026-03-16T10:41:08.207802
+526,51.386807,-0.043211,cycle,80,ok,cycle,1,2026-03-16T10:41:14.122603
+526,51.386807,-0.043211,transit,84,ok,walking -> bus -> walking -> tube -> national-rail -> walking -> bus -> walking,3,2026-03-16T10:41:20.986486
+527,51.386807,-0.040322,cycle,80,ok,cycle,1,2026-03-16T10:41:27.739589
+527,51.386807,-0.040322,transit,88,ok,walking -> bus -> walking -> tube -> national-rail -> walking -> bus -> walking,3,2026-03-16T10:41:33.327120
+528,51.386807,-0.037433,cycle,80,ok,cycle,1,2026-03-16T10:41:39.086822
+528,51.386807,-0.037433,transit,91,ok,walking -> bus -> walking -> tube -> national-rail -> walking -> bus -> walking,3,2026-03-16T10:41:44.707387
+529,51.386807,-0.034544,cycle,88,ok,cycle,1,2026-03-16T10:41:51.118703
+529,51.386807,-0.034544,transit,91,ok,walking -> bus -> walking -> national-rail -> bus -> walking,3,2026-03-16T10:41:56.057452
+530,51.386807,-0.031654,cycle,90,ok,cycle,1,2026-03-16T10:42:02.913640
+530,51.386807,-0.031654,transit,93,ok,walking -> bus -> walking -> tube -> national-rail -> walking,3,2026-03-16T10:42:07.572161
+531,51.386807,-0.028765,cycle,86,ok,cycle,1,2026-03-16T10:42:14.698835
+531,51.386807,-0.028765,transit,90,ok,walking -> bus -> walking -> tube -> national-rail -> walking,3,2026-03-16T10:42:20.251849
+532,51.386807,-0.025876,cycle,81,ok,cycle,1,2026-03-16T10:42:25.561553
+532,51.386807,-0.025876,transit,81,ok,walking -> bus -> walking -> tube -> national-rail -> bus -> walking,3,2026-03-16T10:42:30.253644
