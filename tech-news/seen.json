@@ -9648,5 +9648,53 @@
     "source": "Deno Blog",
     "first_seen": "2026-04-25T02:05:52.863799+00:00",
     "published": "2026-04-24T15:00:00+00:00"
+  },
+  "https://www.asc.ox.ac.uk/sites/default/files/2025-10/General%202025.pdf": {
+    "title": "Oxford All Souls College General Examination [pdf]",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-25T05:05:28.804255+00:00",
+    "published": "2026-04-25T04:36:27+00:00"
+  },
+  "https://github.com/magiblot/tvision": {
+    "title": "Turbo Vision 2.0 – a modern port",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-25T05:05:28.804255+00:00",
+    "published": "2026-04-25T04:18:01+00:00"
+  },
+  "https://simonwillison.net/2026/Apr/25/gpt-5-5-prompting-guide": {
+    "title": "GPT-5.5 prompting guide",
+    "source": "Simon Willison",
+    "first_seen": "2026-04-25T05:05:28.804255+00:00",
+    "published": "2026-04-25T04:13:36+00:00"
+  },
+  "https://github.com/vinhnx/VTCode": {
+    "title": "Show HN: VT Code – Rust TUI coding agent with multi-provider support",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-25T05:05:28.804255+00:00",
+    "published": "2026-04-25T03:17:19+00:00"
+  },
+  "https://itsfoss.com/news/firefox-ships-brave-adblock-engine": {
+    "title": "Firefox Has Integrated Brave's Adblock Engine",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-25T05:05:28.804255+00:00",
+    "published": "2026-04-25T01:47:33+00:00"
+  },
+  "https://www.blender.org/user-stories/cosmology-with-geometry-nodes": {
+    "title": "(Blender) Cosmology with Geometry Nodes",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-25T05:05:28.804255+00:00",
+    "published": "2026-04-25T01:08:14+00:00"
+  },
+  "https://unsung.aresluna.org/plain-text-has-been-around-for-decades-and-its-here-to-stay": {
+    "title": "\"Plain text has been around for decades and it's here to stay.\" – Unsung",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-25T05:05:28.804255+00:00",
+    "published": "2026-04-25T01:03:09+00:00"
+  },
+  "https://github.com/yuvadm/quantumslop/blob/25ad2e76ae58baa96f6219742459407db9dd17f5/URANDOM_DEMO.md": {
+    "title": "Replace IBM Quantum back end with /dev/urandom",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-25T05:05:28.804255+00:00",
+    "published": "2026-04-25T00:58:38+00:00"
   }
 }
