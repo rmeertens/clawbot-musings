@@ -9734,5 +9734,35 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-04-25T09:15:49.930331+00:00",
     "published": "2026-04-25T08:53:53+00:00"
+  },
+  "https://www.phoronix.com/news/LoongArch-Linux-7.1": {
+    "title": "LoongArch Improvements Land In Linux 7.1",
+    "source": "Phoronix",
+    "first_seen": "2026-04-25T11:06:35.133759+00:00",
+    "published": "2026-04-25T10:54:00+00:00"
+  },
+  "https://www.phoronix.com/news/Godot-4.7-Beta": {
+    "title": "Godot 4.7 Reaches Beta With HDR Output, Ray-Tracing Improvements & Editor Enhancements",
+    "source": "Phoronix",
+    "first_seen": "2026-04-25T11:06:35.133759+00:00",
+    "published": "2026-04-25T10:42:54+00:00"
+  },
+  "https://www.phoronix.com/news/KDE-Plasma-6.7-Intel-Overlay": {
+    "title": "KDE Plasma 6.7 Enables Overlay Planes For Intel Graphics, More Performance/Efficiency",
+    "source": "Phoronix",
+    "first_seen": "2026-04-25T11:06:35.133759+00:00",
+    "published": "2026-04-25T10:25:53+00:00"
+  },
+  "https://thenewstack.io/openai-workspace-agents-gpt-5-5": {
+    "title": "The real story from OpenAI’s big week is Workspace Agents, not GPT-5.5",
+    "source": "The New Stack",
+    "first_seen": "2026-04-25T11:06:35.133759+00:00",
+    "published": "2026-04-25T10:14:00+00:00"
+  },
+  "https://support.apple.com/guide/security/escrow-security-for-icloud-keychain-sec3e341e75d/web": {
+    "title": "Escrow Security for iCloud Keychain",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-25T11:06:35.133759+00:00",
+    "published": "2026-04-25T06:56:23+00:00"
   }
 }
