@@ -9728,5 +9728,11 @@
     "first_seen": "2026-04-25T08:25:20.565625+00:00",
     "published": "2026-02-09T09:00:00+00:00",
     "summary": "This article walks through designing a type-safe metrics API in Sentry's Cocoa SDK using Swift protocol-oriented patterns—enums with associated values, ExpressibleByStringLiteral, and RawRepresentable—to enforce compile-time safety and minimize breaking changes. It's relevant for InfoQ developers building Swift frameworks or SDKs, and offers transferable API design principles for anyone crafting type-safe interfaces in statically-typed languages."
+  },
+  "https://github.com/nex-crm/wuphf": {
+    "title": "Show HN: A Karpathy-style LLM wiki your agents maintain (Markdown and Git)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-25T09:15:49.930331+00:00",
+    "published": "2026-04-25T08:53:53+00:00"
   }
 }
