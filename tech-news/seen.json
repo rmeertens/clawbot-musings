@@ -9764,5 +9764,59 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-04-25T11:06:35.133759+00:00",
     "published": "2026-04-25T06:56:23+00:00"
+  },
+  "https://www.phoronix.com/news/MS-Azure-Linux-Fedora-Based": {
+    "title": "Microsoft Reportedly Looking At Rebasing Azure Linux On Fedora",
+    "source": "Phoronix",
+    "first_seen": "2026-04-25T14:05:30.900149+00:00",
+    "published": "2026-04-25T13:53:02+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.1-More-Sound": {
+    "title": "Linux 7.1 Brings Audio Support For The Line6 POD HD PRO & NexiGo N930W Webcam",
+    "source": "Phoronix",
+    "first_seen": "2026-04-25T14:05:30.900149+00:00",
+    "published": "2026-04-25T13:30:11+00:00"
+  },
+  "https://simonwillison.net/2026/Apr/25/romain-huet": {
+    "title": "Quoting Romain Huet",
+    "source": "Simon Willison",
+    "first_seen": "2026-04-25T14:05:30.900149+00:00",
+    "published": "2026-04-25T12:06:55+00:00"
+  },
+  "https://www.phoronix.com/news/New-NTFS-Driver-Fixes-Linux-7.1": {
+    "title": "New NTFS Driver Sees A Number Of Fixes Ahead Of Linux 7.1-rc1",
+    "source": "Phoronix",
+    "first_seen": "2026-04-25T14:05:30.900149+00:00",
+    "published": "2026-04-25T11:26:00+00:00"
+  },
+  "https://victortaelin.github.io/lambench": {
+    "title": "Lambda Calculus Benchmark for AI",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-25T14:05:30.900149+00:00",
+    "published": "2026-04-25T11:16:23+00:00"
+  },
+  "https://www.phoronix.com/news/Fedora-44-Next-Week": {
+    "title": "Fedora 44 Releasing Next Week",
+    "source": "Phoronix",
+    "first_seen": "2026-04-25T14:05:30.900149+00:00",
+    "published": "2026-04-25T11:08:26+00:00"
+  },
+  "https://blisscast.wordpress.com/2026/04/21/windows-2-gui-wonderland-12a": {
+    "title": "Only One Side Will Be the True Successor to MS-DOS – Windows 2.x",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-25T14:05:30.900149+00:00",
+    "published": "2026-04-25T11:03:15+00:00"
+  },
+  "https://github.com/nakagami/grdpwasm": {
+    "title": "A web-based RDP client built with Go WebAssembly and grdp",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-25T14:05:30.900149+00:00",
+    "published": "2026-04-25T10:59:29+00:00"
+  },
+  "https://github.com/MartinGalway/C64_music": {
+    "title": "Martin Galway's music source files from 1980's Commodore 64 games",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-25T14:05:30.900149+00:00",
+    "published": "2026-04-25T10:46:14+00:00"
   }
 }
