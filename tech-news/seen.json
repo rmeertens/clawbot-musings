@@ -10028,5 +10028,83 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-04-26T09:17:25.375796+00:00",
     "published": "2026-04-24T03:41:09+00:00"
+  },
+  "https://thenewstack.io/multi-cloud-blind-spots": {
+    "title": "The one Slack message that proved our elite engineering team was flying blind",
+    "source": "The New Stack",
+    "first_seen": "2026-04-26T15:12:50.646548+00:00",
+    "published": "2026-04-26T15:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-Kernel-Nearly-40M": {
+    "title": "The Linux Kernel Tree About To Hit 40 Million Lines, AMD Driver Above 6 Million Lines",
+    "source": "Phoronix",
+    "first_seen": "2026-04-26T15:12:50.646548+00:00",
+    "published": "2026-04-26T14:48:14+00:00"
+  },
+  "https://thenewstack.io/build-video-search-vespa": {
+    "title": "How to find and unlock the data hidden within videos",
+    "source": "The New Stack",
+    "first_seen": "2026-04-26T15:12:50.646548+00:00",
+    "published": "2026-04-26T14:00:00+00:00"
+  },
+  "https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified": {
+    "title": "Why SWE-bench Verified no longer measures frontier coding capabilities",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-26T15:12:50.646548+00:00",
+    "published": "2026-04-26T13:58:13+00:00"
+  },
+  "https://thenewstack.io/cursors-agents-window-vs-claude-code": {
+    "title": "The debugging wars: Cursor 3 takes aim at Claude Code’s agentic edge",
+    "source": "The New Stack",
+    "first_seen": "2026-04-26T15:12:50.646548+00:00",
+    "published": "2026-04-26T13:00:00+00:00"
+  },
+  "https://archive.fosdem.org/2025/schedule/event/fosdem-2025-5479-raiders-of-the-lost-hard-drive": {
+    "title": "QNX on the Commodore 900 – Raiders of the lost hard drive [video]",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-26T15:12:50.646548+00:00",
+    "published": "2026-04-26T12:55:53+00:00"
+  },
+  "https://www.cnn.com/2026/04/21/us/deaths-disappearances-scientists-investigation": {
+    "title": "At least 10 people tied to sensitive US research have died or disappeared",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-26T15:12:50.646548+00:00",
+    "published": "2026-04-26T12:55:26+00:00"
+  },
+  "https://www.phoronix.com/news/Clanker-T1000-AMD-Ryzen-AI-Max": {
+    "title": "The New Linux Kernel AI Bot Uncovering Bugs Is A Local LLM On Framework Desktop + AMD Ryzen AI Max",
+    "source": "Phoronix",
+    "first_seen": "2026-04-26T15:12:50.646548+00:00",
+    "published": "2026-04-26T11:00:00+00:00"
+  },
+  "https://asahilinux.org/2026/04/progress-report-7-0": {
+    "title": "Asahi Linux Progress Linux 7.0",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-26T15:12:50.646548+00:00",
+    "published": "2026-04-26T10:50:32+00:00"
+  },
+  "https://www.phoronix.com/news/Apple-M3-Linux-Approach-Alpha": {
+    "title": "Apple M3 Support On Asahi Linux Is Approaching The Original Alpha Quality Of The M1",
+    "source": "Phoronix",
+    "first_seen": "2026-04-26T15:12:50.646548+00:00",
+    "published": "2026-04-26T10:40:44+00:00"
+  },
+  "https://www.phoronix.com/news/xf86-video-nv-2026": {
+    "title": "Legacy NVIDIA xf86-video-nv Driver Sees First Release In Years",
+    "source": "Phoronix",
+    "first_seen": "2026-04-26T15:12:50.646548+00:00",
+    "published": "2026-04-26T10:10:34+00:00"
+  },
+  "https://statecharts.dev": {
+    "title": "Statecharts: hierarchical state machines",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-26T15:12:50.646548+00:00",
+    "published": "2026-04-26T09:32:22+00:00"
+  },
+  "https://blog.cynthia.re/post/nintendo-switch-ethernet-switch": {
+    "title": "The Nintendo Switch Switch (2019)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-26T15:12:50.646548+00:00",
+    "published": "2026-04-24T18:33:35+00:00"
   }
 }
