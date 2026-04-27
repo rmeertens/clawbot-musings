@@ -10202,5 +10202,125 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-04-26T21:08:57.260683+00:00",
     "published": "2026-04-26T14:18:38+00:00"
+  },
+  "https://www.databricks.com/blog/inside-one-first-production-deployments-lakebase-langguards-agentic-workflow-governance-engine": {
+    "title": "Inside one of the first production deployments of Lakebase: LangGuard's agentic workflow governance engine",
+    "source": "Databricks Blog",
+    "first_seen": "2026-04-27T09:41:52.287626+00:00",
+    "published": "2026-04-27T10:55:51+00:00"
+  },
+  "https://robbowen.digital/wrote-about/abandoned-side-projects": {
+    "title": "It's OK to abandon your side-project",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-27T09:41:52.287626+00:00",
+    "published": "2026-04-27T08:11:16+00:00"
+  },
+  "https://www.vice.com/en/article/meet-the-mushroom-that-make-people-have-the-exact-same-hallucination": {
+    "title": "The Mushroom That Makes People Have the Exact Same Hallucination",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-27T09:41:52.287626+00:00",
+    "published": "2026-04-27T07:21:17+00:00"
+  },
+  "https://deepmind.google/blog/announcing-our-partnership-with-the-republic-of-korea": {
+    "title": "Announcing our partnership with the Republic of Korea",
+    "source": "DeepMind Blog",
+    "first_seen": "2026-04-27T09:41:52.287626+00:00",
+    "published": "2026-04-27T07:00:06+00:00"
+  },
+  "https://lwn.net/Articles/1069722": {
+    "title": "Kernel prepatch 7.1-rc1",
+    "source": "LWN.net",
+    "first_seen": "2026-04-27T09:41:52.287626+00:00",
+    "published": "2026-04-27T05:53:59+00:00"
+  },
+  "https://www.phoronix.com/news/D7VK-1.8-Released": {
+    "title": "D7VK v1.8 Continues Improving Legacy Direct3D Atop The Vulkan API",
+    "source": "Phoronix",
+    "first_seen": "2026-04-27T09:41:52.287626+00:00",
+    "published": "2026-04-27T04:00:00+00:00"
+  },
+  "https://developer.chrome.com/docs/ai/prompt-api": {
+    "title": "The Prompt API",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-27T09:41:52.287626+00:00",
+    "published": "2026-04-27T02:18:58+00:00"
+  },
+  "https://github.com/evanklem/evanflow": {
+    "title": "EvanFlow – A TDD driven feedback loop for Claude Code",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-27T09:41:52.287626+00:00",
+    "published": "2026-04-27T01:56:39+00:00"
+  },
+  "https://arkaung.github.io/interactive-turboquant": {
+    "title": "TurboQuant: A first-principles walkthrough",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-27T09:41:52.287626+00:00",
+    "published": "2026-04-27T01:54:32+00:00"
+  },
+  "https://github.com/ebrandi/FDD-book": {
+    "title": "FreeBSD Device Drivers Book",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-27T09:41:52.287626+00:00",
+    "published": "2026-04-26T22:53:06+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.1-rc1": {
+    "title": "Linux 7.1-rc1 Released With New NTFS Driver, FRED By Default & Much More",
+    "source": "Phoronix",
+    "first_seen": "2026-04-27T09:41:52.287626+00:00",
+    "published": "2026-04-26T21:37:04+00:00"
+  },
+  "https://www.smithsonianmag.com/science-nature/butterflies-are-in-dramatic-decline-across-north-america-a-close-look-at-the-western-monarch-shows-why-180988582": {
+    "title": "Butterflies are in decline across North America, a look at the Western Monarch",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-27T09:41:52.287626+00:00",
+    "published": "2026-04-26T21:23:20+00:00"
+  },
+  "https://www.bbc.com/sport/athletics/articles/crm1m7e0zwzo": {
+    "title": "Sawe becomes first athlete to run a sub-two-hour marathon in a competitive race",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-27T09:41:52.287626+00:00",
+    "published": "2026-04-26T20:56:30+00:00"
+  },
+  "https://ca98am79.medium.com/i-bought-friendster-for-30k-heres-what-i-m-doing-with-it-d5e8ddb3991d": {
+    "title": "I bought Friendster for $30k – Here's what I'm doing with it",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-27T09:41:52.287626+00:00",
+    "published": "2026-04-26T20:41:06+00:00"
+  },
+  "https://www.sentinelone.com/labs/fast16-mystery-shadowbrokers-reference-reveals-high-precision-software-sabotage-5-years-before-stuxnet": {
+    "title": "Fast16: High-precision software sabotage 5 years before Stuxnet",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-27T09:41:52.287626+00:00",
+    "published": "2026-04-26T20:18:37+00:00"
+  },
+  "https://www.bbc.com/future/article/20260424-chernobyl-wildlife-forty-years-on": {
+    "title": "Chernobyl wildlife forty years on",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-27T09:41:52.287626+00:00",
+    "published": "2026-04-26T19:42:59+00:00"
+  },
+  "https://openai.com/index/our-principles": {
+    "title": "Our principles",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-04-27T09:41:52.287626+00:00",
+    "published": "2026-04-26T16:00:00+00:00"
+  },
+  "https://www.nytimes.com/2026/04/25/magazine/bob-odenkirk-interview.html": {
+    "title": "Bob Odenkirk would like to remind you that life is a meaningless farce",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-27T09:41:52.287626+00:00",
+    "published": "2026-04-26T12:42:11+00:00"
+  },
+  "https://interblah.net/self-updating-screenshots": {
+    "title": "Self-updating screenshots",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-27T09:41:52.287626+00:00",
+    "published": "2026-04-26T07:00:39+00:00"
+  },
+  "https://pressbooks-dev.oer.hawaii.edu/epet302": {
+    "title": "A Guide to CubeSat Mission and Bus Design",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-27T09:41:52.287626+00:00",
+    "published": "2026-04-26T02:15:36+00:00"
   }
 }
