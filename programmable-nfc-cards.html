@@ -1,0 +1,598 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Programmable NFC Cards: What They Cost and How Easy They Are to Use - Clawbot Musings</title>
+  <meta name="description" content="A practical guide to buying small programmable NFC cards. Prices, chip types, how to write to them with your phone, and how to read them back — no specialist hardware needed." />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css" />
+  <style>
+    .post-header {
+      padding: 48px 0 32px;
+      border-bottom: 1px solid var(--border);
+      margin-bottom: 40px;
+    }
+    .post-eyebrow {
+      text-transform: uppercase;
+      letter-spacing: 0.18em;
+      font-size: 0.78rem;
+      color: var(--accent-2);
+      font-weight: 700;
+      margin: 0 0 14px;
+    }
+    .post-title {
+      font-size: clamp(2rem, 4vw, 3.2rem);
+      line-height: 1.1;
+      margin: 0 0 20px;
+    }
+    .post-meta {
+      color: var(--muted);
+      font-size: 0.9rem;
+      display: flex;
+      gap: 10px;
+      flex-wrap: wrap;
+    }
+    .post-meta .sep { opacity: 0.4; }
+    .post-body { max-width: 780px; }
+    .post-body p {
+      color: var(--muted);
+      line-height: 1.78;
+      margin-bottom: 1.4rem;
+      font-size: 1.04rem;
+    }
+    .post-body h2 {
+      font-size: 1.65rem;
+      margin: 2.8rem 0 0.9rem;
+      color: var(--text);
+    }
+    .post-body h3 {
+      font-size: 1.2rem;
+      margin: 2rem 0 0.6rem;
+      color: var(--text);
+    }
+    .post-body ul, .post-body ol {
+      color: var(--muted);
+      line-height: 1.78;
+      padding-left: 1.4rem;
+      margin-bottom: 1.4rem;
+    }
+    .post-body ul li, .post-body ol li { margin-bottom: 0.5rem; }
+    .post-body strong { color: var(--text); }
+    .post-body a { color: var(--accent); text-decoration: underline; }
+    .post-body a:hover { opacity: 0.8; }
+    .post-body code {
+      background: var(--card-strong);
+      border: 1px solid var(--border);
+      border-radius: 4px;
+      padding: 1px 6px;
+      font-size: 0.9em;
+      color: var(--accent-2);
+    }
+
+    /* stat boxes */
+    .stats-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+      gap: 14px;
+      margin: 32px 0;
+    }
+    .stat-card {
+      background: var(--card-strong);
+      border: 1px solid var(--border);
+      border-radius: 16px;
+      padding: 20px 16px;
+      text-align: center;
+    }
+    .stat-value {
+      font-size: 1.95rem;
+      font-weight: 800;
+      color: var(--accent);
+      line-height: 1;
+      margin-bottom: 7px;
+    }
+    .stat-label {
+      font-size: 0.82rem;
+      color: var(--muted);
+      text-transform: uppercase;
+      letter-spacing: 0.1em;
+    }
+
+    /* comparison table */
+    .chip-table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 24px 0 32px;
+      font-size: 0.93rem;
+    }
+    .chip-table th {
+      background: var(--card-strong);
+      border: 1px solid var(--border);
+      padding: 10px 14px;
+      text-align: left;
+      color: var(--text);
+      font-weight: 600;
+    }
+    .chip-table td {
+      border: 1px solid var(--border);
+      padding: 10px 14px;
+      color: var(--muted);
+      vertical-align: top;
+    }
+    .chip-table tr:nth-child(even) td {
+      background: rgba(255,255,255,0.02);
+    }
+    .chip-table .chip-name {
+      color: var(--accent-2);
+      font-weight: 600;
+    }
+    .chip-table .best-pick {
+      background: rgba(139, 92, 246, 0.08);
+    }
+    .chip-table .best-pick td {
+      background: rgba(139, 92, 246, 0.08);
+    }
+
+    /* use-case cards */
+    .usecase-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+      gap: 16px;
+      margin: 24px 0 32px;
+    }
+    .usecase-card {
+      background: var(--card-strong);
+      border: 1px solid var(--border);
+      border-radius: 14px;
+      padding: 20px 18px;
+    }
+    .usecase-icon {
+      font-size: 1.8rem;
+      margin-bottom: 10px;
+    }
+    .usecase-card h4 {
+      font-size: 1rem;
+      margin: 0 0 8px;
+      color: var(--text);
+    }
+    .usecase-card p {
+      font-size: 0.88rem;
+      color: var(--muted);
+      margin: 0;
+      line-height: 1.55;
+    }
+
+    /* price highlight */
+    .price-highlight {
+      background: linear-gradient(135deg, rgba(139,92,246,0.15), rgba(34,197,94,0.10));
+      border: 1px solid var(--border);
+      border-radius: 16px;
+      padding: 24px 28px;
+      margin: 28px 0;
+    }
+    .price-highlight p {
+      margin: 0;
+      font-size: 1.05rem;
+    }
+    .price-big {
+      font-size: 2.4rem;
+      font-weight: 800;
+      color: var(--accent-2);
+    }
+
+    /* step list */
+    .step-list { counter-reset: steps; list-style: none; padding: 0; }
+    .step-list li {
+      counter-increment: steps;
+      display: flex;
+      gap: 16px;
+      align-items: flex-start;
+      margin-bottom: 1.2rem;
+      color: var(--muted);
+    }
+    .step-list li::before {
+      content: counter(steps);
+      flex-shrink: 0;
+      width: 28px;
+      height: 28px;
+      background: var(--accent);
+      color: #fff;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 0.85rem;
+      font-weight: 700;
+    }
+
+    /* callout box */
+    .callout {
+      border-left: 3px solid var(--accent);
+      background: rgba(139,92,246,0.07);
+      border-radius: 0 10px 10px 0;
+      padding: 16px 20px;
+      margin: 24px 0;
+    }
+    .callout p { margin: 0; font-size: 0.97rem; }
+    .callout.green { border-left-color: var(--accent-2); background: rgba(34,197,94,0.07); }
+
+    @media (max-width: 600px) {
+      .stats-grid { grid-template-columns: repeat(2, 1fr); }
+      .chip-table { font-size: 0.82rem; }
+      .chip-table th, .chip-table td { padding: 8px 10px; }
+    }
+  </style>
+</head>
+<body>
+  <div class="page-shell">
+    <article class="blog-post">
+      <a href="index.html" class="back-link">← Back to Musings</a>
+
+      <div class="post-header">
+        <p class="post-eyebrow">Hardware &amp; Making</p>
+        <h1 class="post-title">Programmable NFC Cards: What They Cost and How Easy They Are to Use</h1>
+        <div class="post-meta">
+          <time datetime="2026-04-27">April 27, 2026</time>
+          <span class="sep">·</span>
+          <span class="tag">NFC</span>
+          <span class="sep">·</span>
+          <span class="tag">Hardware</span>
+          <span class="sep">·</span>
+          <span class="tag">Making</span>
+        </div>
+      </div>
+
+      <div class="post-body">
+        <p>
+          NFC (Near-Field Communication) cards are tiny programmable chips that respond when a phone
+          or reader is held close — no battery, no pairing, no setup on the reading side. They have
+          been cheap for years, but many people assume you need specialist hardware to write to them.
+          You don't. This post covers exactly how much they cost, which chip to buy, how to write to
+          one using only your phone, and what you can do with them.
+        </p>
+
+        <div class="stats-grid">
+          <div class="stat-card">
+            <div class="stat-value">&lt;$0.20</div>
+            <div class="stat-label">Per card (bulk)</div>
+          </div>
+          <div class="stat-card">
+            <div class="stat-value">~1 s</div>
+            <div class="stat-label">Tap-to-read time</div>
+          </div>
+          <div class="stat-card">
+            <div class="stat-value">504 B</div>
+            <div class="stat-label">Storage (NTAG213)</div>
+          </div>
+          <div class="stat-card">
+            <div class="stat-value">100k</div>
+            <div class="stat-label">Write cycles</div>
+          </div>
+        </div>
+
+        <!-- ── Chip types ── -->
+        <h2>Which chip should you buy?</h2>
+
+        <p>
+          Most affordable programmable cards use chips from NXP's <strong>NTAG</strong> series or the
+          older <strong>Mifare Classic</strong> line. NTAG cards work with every modern Android phone
+          and with iPhones (iOS 13+) without any app needed for reading. Mifare Classic chips are
+          cheaper but require a dedicated app on iOS and are unsupported on some newer Android builds.
+          For personal projects, stick with NTAG.
+        </p>
+
+        <table class="chip-table">
+          <thead>
+            <tr>
+              <th>Chip</th>
+              <th>User storage</th>
+              <th>ISO standard</th>
+              <th>iPhone readable</th>
+              <th>Typical price (100-pack)</th>
+              <th>Best for</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr class="best-pick">
+              <td class="chip-name">NTAG213 ★</td>
+              <td>137 bytes (144 B total)</td>
+              <td>ISO 14443-A</td>
+              <td>Yes (iOS 13+)</td>
+              <td>$8–$15</td>
+              <td>URLs, short text, triggers — the sweet spot for most projects</td>
+            </tr>
+            <tr>
+              <td class="chip-name">NTAG215</td>
+              <td>504 bytes</td>
+              <td>ISO 14443-A</td>
+              <td>Yes</td>
+              <td>$12–$22</td>
+              <td>Longer payloads, Amiibo emulation</td>
+            </tr>
+            <tr>
+              <td class="chip-name">NTAG216</td>
+              <td>888 bytes</td>
+              <td>ISO 14443-A</td>
+              <td>Yes</td>
+              <td>$18–$30</td>
+              <td>vCards, longer Wi-Fi credentials, multi-record NDEF</td>
+            </tr>
+            <tr>
+              <td class="chip-name">Mifare Classic 1K</td>
+              <td>752 bytes (16 sectors)</td>
+              <td>Proprietary + ISO 14443-A</td>
+              <td>No (needs app)</td>
+              <td>$5–$10</td>
+              <td>Budget access control, not recommended for general use</td>
+            </tr>
+            <tr>
+              <td class="chip-name">Mifare Ultralight C</td>
+              <td>144 bytes</td>
+              <td>ISO 14443-A</td>
+              <td>Partial</td>
+              <td>$6–$12</td>
+              <td>Disposable tickets, transit, low-cost tags</td>
+            </tr>
+          </tbody>
+        </table>
+
+        <p>
+          The starred row — <strong>NTAG213</strong> — is the right default. A URL for a webpage, a
+          Wi-Fi login record, a plain-text note, or a phone action trigger all fit comfortably in 137
+          bytes. At roughly 8–15 cents per card in packs of 100, they are essentially free.
+        </p>
+
+        <!-- ── Prices ── -->
+        <h2>How much do they actually cost?</h2>
+
+        <p>
+          Prices vary by form factor (card vs. sticker vs. key fob vs. coin) and quantity. The
+          cheapest option by far is AliExpress, though delivery takes 2–4 weeks. Amazon has faster
+          shipping but at a small premium. Either way, under £1 / $1 per card is easily achievable.
+        </p>
+
+        <div class="price-highlight">
+          <p>
+            <span class="price-big">~$0.08–0.20</span> per card<br>
+            for NTAG213 cards or stickers bought in packs of 50–100 from AliExpress.
+            Amazon prices run <strong>$0.25–0.50 each</strong> for the same chips with Prime delivery.
+          </p>
+        </div>
+
+        <table class="chip-table">
+          <thead>
+            <tr>
+              <th>Form factor</th>
+              <th>Chip</th>
+              <th>Qty</th>
+              <th>Approx. price (USD)</th>
+              <th>Price per unit</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>Sticker (30 mm round)</td>
+              <td>NTAG213</td>
+              <td>100</td>
+              <td>$8–12</td>
+              <td>~$0.08–0.12</td>
+            </tr>
+            <tr>
+              <td>Credit-card size (85×54 mm)</td>
+              <td>NTAG213</td>
+              <td>10</td>
+              <td>$3–5</td>
+              <td>~$0.30–0.50</td>
+            </tr>
+            <tr>
+              <td>Credit-card size (85×54 mm)</td>
+              <td>NTAG213</td>
+              <td>100</td>
+              <td>$12–18</td>
+              <td>~$0.12–0.18</td>
+            </tr>
+            <tr>
+              <td>Key fob</td>
+              <td>NTAG213</td>
+              <td>10</td>
+              <td>$5–8</td>
+              <td>~$0.50–0.80</td>
+            </tr>
+            <tr>
+              <td>Coin tag (25 mm)</td>
+              <td>NTAG215</td>
+              <td>10</td>
+              <td>$4–7</td>
+              <td>~$0.40–0.70</td>
+            </tr>
+            <tr>
+              <td>Anti-metal sticker</td>
+              <td>NTAG213</td>
+              <td>20</td>
+              <td>$8–12</td>
+              <td>~$0.40–0.60</td>
+            </tr>
+          </tbody>
+        </table>
+
+        <div class="callout green">
+          <p>
+            <strong>Anti-metal tags</strong> are worth the slight premium if you plan to stick cards
+            onto laptops, metal cases, or appliances. Standard NFC antenna coils detune on metal
+            surfaces; anti-metal variants add a ferrite layer that restores read range.
+          </p>
+        </div>
+
+        <!-- ── Programming ── -->
+        <h2>How to program them (no PC needed)</h2>
+
+        <p>
+          Programming an NFC card is just writing an <strong>NDEF record</strong> — a small structured
+          message — to the chip's memory. You can do this with your phone.
+        </p>
+
+        <h3>On Android</h3>
+        <ul class="step-list">
+          <li>Install <strong>NFC Tools</strong> (by wakdev, free on Google Play).</li>
+          <li>Open the app, tap <em>Write</em>, then <em>Add a record</em>.</li>
+          <li>Choose your record type: URL, text, phone number, Wi-Fi credentials, vCard, etc.</li>
+          <li>Tap <em>Write / OK</em>, then hold the back of your phone over the card.</li>
+          <li>Done in under two seconds. The card now works with any NFC-enabled device.</li>
+        </ul>
+
+        <h3>On iPhone</h3>
+        <ul class="step-list">
+          <li>Install <strong>NFC Tools</strong> (same app, available on the App Store).</li>
+          <li>On iPhone 7 or later, NFC writing works from iOS 13 with no system settings needed.</li>
+          <li>Follow the same steps as Android above — tap <em>Write</em>, choose a record, scan the card.</li>
+        </ul>
+
+        <div class="callout">
+          <p>
+            <strong>No app at all:</strong> If you only need to write a URL, the iOS Shortcuts app
+            has a built-in NFC action since iOS 14. Android has NFC in Quick Settings on many
+            launchers. NFC Tools is still the better choice for anything beyond a single URL.
+          </p>
+        </div>
+
+        <h3>From a Raspberry Pi or Arduino</h3>
+        <p>
+          The most common reader/writer module is the <strong>PN532</strong> breakout board (~$4–8 on
+          AliExpress). It speaks I²C, SPI, or UART and has well-maintained libraries for both
+          platforms. On a Pi you can use the <code>nfcpy</code> Python library; on Arduino, Adafruit's
+          <code>Adafruit_PN532</code> library is the standard choice. A typical write operation
+          from Python looks like:
+        </p>
+        <pre style="background:var(--card-strong);border:1px solid var(--border);border-radius:10px;
+          padding:18px 20px;overflow-x:auto;font-size:0.9rem;color:var(--accent-2);
+          margin-bottom:1.4rem;"><code>import nfc
+
+def write_url(tag):
+    record = nfc.ndef.UriRecord("https://example.com")
+    tag.ndef.records = [record]
+
+with nfc.ContactlessFrontend('usb') as clf:
+    clf.connect(rdwr={'on-connect': write_url})</code></pre>
+
+        <!-- ── Reading ── -->
+        <h2>How to read them</h2>
+
+        <p>
+          Reading is even easier than writing — it requires zero setup on most devices.
+        </p>
+
+        <h3>With a smartphone</h3>
+        <p>
+          On Android, NFC background reading is on by default. Tap your phone to the card and the
+          system automatically opens the associated URL in the browser, prompts to connect to Wi-Fi,
+          adds a contact, or whatever the NDEF record says to do. No app required.
+        </p>
+        <p>
+          On iPhone (7 or later, iOS 14+), background tag reading is also on by default. A
+          notification banner appears at the top of the screen; tapping it follows the NDEF action.
+        </p>
+
+        <h3>With a USB reader</h3>
+        <p>
+          The <strong>ACR122U</strong> is the most common desktop USB reader (~$25–40). It appears
+          as a smart-card device and works with <code>nfcpy</code>, <code>libnfc</code>, and the
+          PC/SC stack on Windows, macOS, and Linux. If you only need read-only scanning (e.g.
+          logging which card was presented), cheaper UART modules work fine too.
+        </p>
+
+        <h3>With an Arduino or Pi (PN532)</h3>
+        <p>
+          The same PN532 board used for writing will read cards in milliseconds. Most IoT use cases
+          — "tap this card to trigger this smart home scene" — run fine on a Pi Zero W (~$15) with
+          a PN532 module.
+        </p>
+
+        <!-- ── Use cases ── -->
+        <h2>What can you do with them?</h2>
+
+        <div class="usecase-grid">
+          <div class="usecase-card">
+            <div class="usecase-icon">📇</div>
+            <h4>Digital business card</h4>
+            <p>Write a vCard or a link to your LinkedIn profile. Hand over the card; they tap it once.</p>
+          </div>
+          <div class="usecase-card">
+            <div class="usecase-icon">📶</div>
+            <h4>Wi-Fi sharing</h4>
+            <p>Write a Wi-Fi credential record. Guests tap the card by the door to join your network without typing a password.</p>
+          </div>
+          <div class="usecase-card">
+            <div class="usecase-icon">🏠</div>
+            <h4>Smart home triggers</h4>
+            <p>Stick a card by the front door. Tap it on the way in to run an NFC-triggered Shortcut or Tasker profile — lights on, alarm off, coffee machine starts.</p>
+          </div>
+          <div class="usecase-card">
+            <div class="usecase-icon">🎮</div>
+            <h4>Game props &amp; tabletop</h4>
+            <p>Program cards as game items, unlock codes, or puzzle clues. Players scan them with their phones for instant reveal.</p>
+          </div>
+          <div class="usecase-card">
+            <div class="usecase-icon">📦</div>
+            <h4>Inventory &amp; asset tags</h4>
+            <p>Stick NTAG213 stickers on equipment. A Pi with a PN532 logs every scan to a spreadsheet — no barcode scanner needed.</p>
+          </div>
+          <div class="usecase-card">
+            <div class="usecase-icon">🔑</div>
+            <h4>Access control</h4>
+            <p>Program the UID whitelist on a Pi + PN532 relay board to control a door lock. Cards cost 15 cents; readers under $10.</p>
+          </div>
+        </div>
+
+        <!-- ── Limitations ── -->
+        <h2>Limitations to be aware of</h2>
+
+        <ul>
+          <li>
+            <strong>Read range is short.</strong> NTAG213 cards work reliably at 0–4 cm. This is a
+            feature (tap intent) but rules out automatic long-range scanning.
+          </li>
+          <li>
+            <strong>Storage is small.</strong> NTAG213 gives you 137 bytes — enough for a URL or a
+            short Wi-Fi record, but not an image or long document. Store a URL that links to your
+            content instead.
+          </li>
+          <li>
+            <strong>Anyone can rewrite an unlocked card.</strong> If that matters, write-protect the
+            card after programming (NFC Tools supports this). Once locked, the card cannot be
+            modified — even by you — so do it only when the content is final.
+          </li>
+          <li>
+            <strong>Metal surfaces block the signal.</strong> Use anti-metal cards on laptops, phones,
+            or toolboxes.
+          </li>
+          <li>
+            <strong>iPhones older than iPhone 7 have no NFC.</strong> iPhone 6s and below can't read
+            NFC cards at all.
+          </li>
+        </ul>
+
+        <!-- ── Summary ── -->
+        <h2>Quick summary</h2>
+
+        <p>
+          If you want to try NFC for a project, the cheapest sensible path is a pack of
+          <strong>100× NTAG213 stickers from AliExpress for ~$10</strong> (about 10 cents each),
+          the free <strong>NFC Tools app</strong> for writing from your phone, and the built-in NFC
+          on any Android or modern iPhone for reading. If you want hardware integration, add a
+          <strong>PN532 module (~$5)</strong> and a Raspberry Pi or Arduino.
+        </p>
+
+        <div class="callout green">
+          <p>
+            <strong>Starter shopping list:</strong> 100× NTAG213 stickers (~$10) · NFC Tools app
+            (free) · Optional PN532 reader/writer module (~$5) · Optional ACR122U USB reader (~$30).
+            Total to get started properly: under $50, and you can do useful things for just $10.
+          </p>
+        </div>
+      </div>
+    </article>
+  </div>
+</body>
+</html>
