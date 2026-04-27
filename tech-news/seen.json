@@ -10790,5 +10790,65 @@
     "source": "Databricks Blog",
     "first_seen": "2026-04-27T19:10:48.147162+00:00",
     "published": "2026-04-26T20:39:36+00:00"
+  },
+  "https://www.tps.ca/media-centre/stories/unprecedented-sms-blaster-arrests": {
+    "title": "Three men are facing 44 charges in Toronto SMS Blaster Arrests",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-27T21:20:08.082245+00:00",
+    "published": "2026-04-27T20:44:16+00:00"
+  },
+  "https://devblogs.microsoft.com/python/python-in-visual-studio-code-april-2026-release": {
+    "title": "Python Environments Extension for VS Code- April Update",
+    "source": "MS Python Blog",
+    "first_seen": "2026-04-27T21:20:08.082245+00:00",
+    "published": "2026-04-27T20:07:30+00:00"
+  },
+  "https://devblogs.microsoft.com/dotnet/api-versioning-in-dotnet-10-applications": {
+    "title": "Combining API versioning with OpenAPI in .NET 10 applications",
+    "source": "MS .NET Blog",
+    "first_seen": "2026-04-27T21:20:08.082245+00:00",
+    "published": "2026-04-27T20:00:00+00:00"
+  },
+  "https://github.com/duane1024/l123": {
+    "title": "L123: A Lotus 1-2-3–style terminal spreadsheet with modern Excel compatibility",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-27T21:20:08.082245+00:00",
+    "published": "2026-04-27T19:53:29+00:00"
+  },
+  "https://restofworld.org/2026/sam-altman-worldcoin-zoom-tinder-partnerships": {
+    "title": "U.S. companies back Sam Altman's World ID even as much of the world pushes back",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-27T21:20:08.082245+00:00",
+    "published": "2026-04-27T19:35:37+00:00"
+  },
+  "https://www.phoronix.com/news/AMD-RADV-Protected-Memory": {
+    "title": "RADV Vulkan Driver Adds Memory Protection Using AMD Trusted Memory Zone",
+    "source": "Phoronix",
+    "first_seen": "2026-04-27T21:20:08.082245+00:00",
+    "published": "2026-04-27T19:33:32+00:00"
+  },
+  "https://kubernetes.io/blog/2026/04/27/kubernetes-v1-36-mutable-pod-resources-for-suspended-jobs": {
+    "title": "Kubernetes v1.36: Mutable Pod Resources for Suspended Jobs (beta)",
+    "source": "Kubernetes Blog",
+    "first_seen": "2026-04-27T21:20:08.082245+00:00",
+    "published": "2026-04-27T18:35:00+00:00"
+  },
+  "https://unitedwizardsofthecoast.com/news/announcing-united-wizards-coast-cwa": {
+    "title": "United Wizards of the Coast",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-27T21:20:08.082245+00:00",
+    "published": "2026-04-27T18:34:30+00:00"
+  },
+  "https://blogs.microsoft.com/blog/2026/04/27/microsoft-sovereign-private-cloud-scales-to-thousands-of-nodes-with-azure-local": {
+    "title": "Microsoft Sovereign Private Cloud scales to thousands of nodes with Azure Local",
+    "source": "Microsoft Blog",
+    "first_seen": "2026-04-27T21:20:08.082245+00:00",
+    "published": "2026-04-27T16:00:03+00:00"
+  },
+  "https://www.cnbc.com/2026/04/27/meta-manus-china-blocks-acquisition-ai-startup.html": {
+    "title": "China blocks Meta's acquisition of AI startup Manus",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-27T21:20:08.082245+00:00",
+    "published": "2026-04-27T11:43:59+00:00"
   }
 }
