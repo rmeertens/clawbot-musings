@@ -10562,5 +10562,233 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-04-27T15:31:29.403266+00:00",
     "published": "2026-04-26T13:45:03+00:00"
+  },
+  "https://thenewstack.io/github-copilot-usage-billing": {
+    "title": "GitHub moves Copilot to usage-based billing as AI coding costs climb",
+    "source": "The New Stack",
+    "first_seen": "2026-04-27T19:10:48.147162+00:00",
+    "published": "2026-04-27T19:02:17+00:00"
+  },
+  "https://aws.amazon.com/blogs/security/how-to-develop-an-aws-security-hub-poc": {
+    "title": "Optimize security operations through an AWS Security Hub POC",
+    "source": "AWS Security Blog",
+    "first_seen": "2026-04-27T19:10:48.147162+00:00",
+    "published": "2026-04-27T18:55:44+00:00"
+  },
+  "https://thenewstack.io/thoughtworks-radar-agentic-ai": {
+    "title": "Why AI engineering needs old-school discipline",
+    "source": "The New Stack",
+    "first_seen": "2026-04-27T19:10:48.147162+00:00",
+    "published": "2026-04-27T18:53:33+00:00"
+  },
+  "https://lwn.net/Articles/1070010": {
+    "title": "pip 26.1 released",
+    "source": "LWN.net",
+    "first_seen": "2026-04-27T19:10:48.147162+00:00",
+    "published": "2026-04-27T18:45:33+00:00"
+  },
+  "https://simonwillison.net/2026/Apr/27/now-deceased-agi-clause": {
+    "title": "Tracking the history of the now-deceased OpenAI Microsoft AGI clause",
+    "source": "Simon Willison",
+    "first_seen": "2026-04-27T19:10:48.147162+00:00",
+    "published": "2026-04-27T18:38:17+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/migrate-to-apache-flink-2-2-on-amazon-managed-service-for-apache-flink": {
+    "title": "Migrate to Apache Flink 2.2 on Amazon Managed Service for Apache Flink",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-04-27T19:10:48.147162+00:00",
+    "published": "2026-04-27T17:57:34+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/automate-repetitive-tasks-with-amazon-quick-flows": {
+    "title": "Automate repetitive tasks with Amazon Quick Flows",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-04-27T19:10:48.147162+00:00",
+    "published": "2026-04-27T17:52:05+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/build-and-deploy-an-automatic-sync-solution-for-amazon-bedrock-knowledge-bases": {
+    "title": "Build and deploy an automatic sync solution for Amazon Bedrock Knowledge Bases",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-04-27T19:10:48.147162+00:00",
+    "published": "2026-04-27T17:51:41+00:00"
+  },
+  "https://zsnes.com": {
+    "title": "Super ZSNES – GPU Powered SNES Emulator",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-27T19:10:48.147162+00:00",
+    "published": "2026-04-27T17:50:10+00:00"
+  },
+  "https://aws.amazon.com/blogs/architecture/deloitte-optimizes-eks-environment-provisioning-and-achieves-89-faster-testing-environments-using-amazon-eks-and-vcluster": {
+    "title": "Deloitte optimizes EKS environment provisioning and achieves 89% faster testing environments using Amazon EKS and vCluster",
+    "source": "AWS Architecture Blog",
+    "first_seen": "2026-04-27T19:10:48.147162+00:00",
+    "published": "2026-04-27T17:47:34+00:00"
+  },
+  "https://github.com/Hanqaqa/Easyduino": {
+    "title": "Open-Source KiCad PCBs for Common Arduino, ESP32, RP2040 Boards",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-27T19:10:48.147162+00:00",
+    "published": "2026-04-27T17:45:02+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/dsql-sql-dialect-how-amazon-aurora-dsql-differs-from-single-instance-postgresql": {
+    "title": "DSQL SQL Dialect: How Amazon Aurora DSQL differs from single-instance PostgreSQL",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-04-27T19:10:48.147162+00:00",
+    "published": "2026-04-27T17:43:43+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/how-kajabi-optimized-costs-with-amazon-aurora-upgrades": {
+    "title": "How Kajabi optimized costs with Amazon Aurora upgrades",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-04-27T19:10:48.147162+00:00",
+    "published": "2026-04-27T17:42:35+00:00"
+  },
+  "https://www.githubstatus.com": {
+    "title": "GitHub is having issues now",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-27T19:10:48.147162+00:00",
+    "published": "2026-04-27T17:42:19+00:00"
+  },
+  "https://simonwillison.net/2026/Apr/27/speech-translation-in-google-meet-is-now-rolling-out-to-mobile-d": {
+    "title": "Speech translation in Google Meet is now rolling out to mobile devices",
+    "source": "Simon Willison",
+    "first_seen": "2026-04-27T19:10:48.147162+00:00",
+    "published": "2026-04-27T17:37:47+00:00"
+  },
+  "https://www.phoronix.com/news/Steam-Controller-4-May": {
+    "title": "Valve Confirms Steam Controller Release Date, $99 Price",
+    "source": "Phoronix",
+    "first_seen": "2026-04-27T19:10:48.147162+00:00",
+    "published": "2026-04-27T17:33:14+00:00"
+  },
+  "https://aws.amazon.com/blogs/containers/implement-spiffe-spire-authorization-on-amazon-eks": {
+    "title": "Implement SPIFFE/SPIRE authorization on Amazon EKS",
+    "source": "AWS Containers Blog",
+    "first_seen": "2026-04-27T19:10:48.147162+00:00",
+    "published": "2026-04-27T17:29:44+00:00"
+  },
+  "https://www.cbc.ca/news/politics/sovereign-wealth-fund-carney-major-projects-9.7178238": {
+    "title": "Canada's first sovereign wealth fund",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-27T19:10:48.147162+00:00",
+    "published": "2026-04-27T16:58:01+00:00"
+  },
+  "https://deepmind.google/blog/decoupled-diloco": {
+    "title": "Decoupled DiLoCo: Resilient, Distributed AI Training at Scale",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-27T19:10:48.147162+00:00",
+    "published": "2026-04-27T16:57:34+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/build-strands-agents-with-sagemaker-ai-models-and-mlflow": {
+    "title": "Build Strands Agents with SageMaker AI models and MLflow",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-04-27T19:10:48.147162+00:00",
+    "published": "2026-04-27T16:50:41+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/how-popsa-used-amazon-nova-to-inspire-customers-with-personalised-title-suggestions": {
+    "title": "How Popsa used Amazon Nova to inspire customers with personalised title suggestions",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-04-27T19:10:48.147162+00:00",
+    "published": "2026-04-27T16:45:37+00:00"
+  },
+  "https://lwn.net/Articles/1067785": {
+    "title": "[$] The rest of the 7.1 merge window",
+    "source": "LWN.net",
+    "first_seen": "2026-04-27T19:10:48.147162+00:00",
+    "published": "2026-04-27T16:39:30+00:00"
+  },
+  "https://thenewstack.io/vibe-coding-ceos-executives-ai-agents": {
+    "title": "“I was tired of explaining it to somebody who was supposed to build it for me”: Meet the executives vibe-coding their own tools.",
+    "source": "The New Stack",
+    "first_seen": "2026-04-27T19:10:48.147162+00:00",
+    "published": "2026-04-27T16:08:38+00:00"
+  },
+  "https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing": {
+    "title": "GitHub Copilot is moving to usage-based billing",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-27T19:10:48.147162+00:00",
+    "published": "2026-04-27T16:03:08+00:00"
+  },
+  "https://aws.amazon.com/blogs/security/can-i-do-that-with-policy-understanding-the-aws-service-authorization-reference": {
+    "title": "Can I do that with policy? Understanding the AWS Service Authorization Reference",
+    "source": "AWS Security Blog",
+    "first_seen": "2026-04-27T19:10:48.147162+00:00",
+    "published": "2026-04-27T16:01:46+00:00"
+  },
+  "https://medium.com/pinterest-engineering/from-clicks-to-conversions-architecting-shopping-conversion-candidate-generation-at-pinterest-04cae5e1455b?source=rss----4c5a5f6279b6---4": {
+    "title": "From Clicks to Conversions: Architecting Shopping Conversion Candidate Generation at Pinterest",
+    "source": "Pinterest Engineering",
+    "first_seen": "2026-04-27T19:10:48.147162+00:00",
+    "published": "2026-04-27T16:01:05+00:00"
+  },
+  "https://lwn.net/Articles/1069965": {
+    "title": "Four new stable kernels for Monday",
+    "source": "LWN.net",
+    "first_seen": "2026-04-27T19:10:48.147162+00:00",
+    "published": "2026-04-27T16:01:04+00:00"
+  },
+  "https://cloud.google.com/blog/products/data-analytics/google-earth-ai-models-and-datasets-in-bigquery": {
+    "title": "Mapping a smarter future with BigQuery and Google Earth AI models and datasets",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-04-27T19:10:48.147162+00:00",
+    "published": "2026-04-27T16:00:00+00:00"
+  },
+  "https://www.nytimes.com/2026/04/26/climate/supreme-court-bayer-monsanto-roundup-glyphosate.html": {
+    "title": "Supreme Court to Hear Arguments in Landmark Roundup Weedkiller Case",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-27T19:10:48.147162+00:00",
+    "published": "2026-04-27T15:45:13+00:00"
+  },
+  "https://eclecticlight.co/2026/04/23/networking-changes-coming-in-macos-27": {
+    "title": "Networking changes coming in macOS 27",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-27T19:10:48.147162+00:00",
+    "published": "2026-04-27T15:36:12+00:00"
+  },
+  "https://muffin.ink/blog/scratch-svg-sanitization": {
+    "title": "The woes of sanitizing SVGs",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-27T19:10:48.147162+00:00",
+    "published": "2026-04-27T15:31:36+00:00"
+  },
+  "https://blog.bytebytego.com/p/how-amazon-uses-llms-to-recommend": {
+    "title": "How Amazon Uses LLMs to Recommend Products",
+    "source": "ByteByteGo",
+    "first_seen": "2026-04-27T19:10:48.147162+00:00",
+    "published": "2026-04-27T15:30:57+00:00"
+  },
+  "https://www.nytimes.com/2026/04/27/us/politics/supreme-court-cell-data-geofence.html": {
+    "title": "US Supreme Court reviews police use of cell location data",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-27T19:10:48.147162+00:00",
+    "published": "2026-04-27T15:29:41+00:00"
+  },
+  "https://www.techzine.eu/news/infrastructure/140634/dutch-central-bank-chooses-lidl-for-european-cloud": {
+    "title": "Dutch central bank ditches AWS and chooses Lidl for European Cloud",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-27T19:10:48.147162+00:00",
+    "published": "2026-04-27T15:12:41+00:00"
+  },
+  "https://www.systalyze.com/utilyze": {
+    "title": "Show HN: Utilyze – an open source GPU monitoring tool more accurate than nvtop",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-27T19:10:48.147162+00:00",
+    "published": "2026-04-27T13:55:43+00:00"
+  },
+  "https://openai.com/index/open-source-codex-orchestration-symphony": {
+    "title": "An open-source spec for orchestration: Symphony",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-04-27T19:10:48.147162+00:00",
+    "published": "2026-04-27T00:00:00+00:00"
+  },
+  "https://openai.com/index/choco": {
+    "title": "Choco automates food distribution with AI agents",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-04-27T19:10:48.147162+00:00",
+    "published": "2026-04-27T00:00:00+00:00"
+  },
+  "https://www.databricks.com/blog/next-generation-databricks-genie": {
+    "title": "The next generation of Databricks Genie",
+    "source": "Databricks Blog",
+    "first_seen": "2026-04-27T19:10:48.147162+00:00",
+    "published": "2026-04-26T20:39:36+00:00"
   }
 }
