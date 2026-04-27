@@ -10322,5 +10322,245 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-04-27T09:41:52.287626+00:00",
     "published": "2026-04-26T02:15:36+00:00"
+  },
+  "https://www.phoronix.com/review/intel-core-ultra-5-250k-plus": {
+    "title": "Intel Core Ultra 5 250K Plus Provides Exceptional Value For Linux Users",
+    "source": "Phoronix",
+    "first_seen": "2026-04-27T15:31:29.403266+00:00",
+    "published": "2026-04-27T15:06:19+00:00"
+  },
+  "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-anthropic-meta-partnership-aws-lambda-s3-files-amazon-bedrock-agentcore-cli-and-more-april-27-2026": {
+    "title": "AWS Weekly Roundup: Anthropic & Meta partnership, AWS Lambda S3 Files, Amazon Bedrock AgentCore CLI, and more (April 27, 2026)",
+    "source": "AWS Blog",
+    "first_seen": "2026-04-27T15:31:29.403266+00:00",
+    "published": "2026-04-27T15:01:28+00:00"
+  },
+  "https://thenewstack.io/open-source-digital-autonomy": {
+    "title": "What the 2026 State of Open Source report reveals about digital autonomy",
+    "source": "The New Stack",
+    "first_seen": "2026-04-27T15:31:29.403266+00:00",
+    "published": "2026-04-27T15:00:00+00:00"
+  },
+  "https://lawrencecpaulson.github.io//2026/04/23/Why_not_Lean.html": {
+    "title": "\"Why not just use Lean?\"",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-27T15:31:29.403266+00:00",
+    "published": "2026-04-27T14:24:53+00:00"
+  },
+  "https://lwn.net/Articles/1069951": {
+    "title": "pgBackRest is no longer maintained",
+    "source": "LWN.net",
+    "first_seen": "2026-04-27T15:31:29.403266+00:00",
+    "published": "2026-04-27T14:06:38+00:00"
+  },
+  "https://thenewstack.io/postgres-ai-ground-truth": {
+    "title": "Why developers are betting on Postgres for AI",
+    "source": "The New Stack",
+    "first_seen": "2026-04-27T15:31:29.403266+00:00",
+    "published": "2026-04-27T14:00:00+00:00"
+  },
+  "https://realpython.com/conceptualize-python-fundamentals": {
+    "title": "How to Conceptualize Python Fundamentals for Greater Mastery",
+    "source": "Real Python",
+    "first_seen": "2026-04-27T15:31:29.403266+00:00",
+    "published": "2026-04-27T14:00:00+00:00"
+  },
+  "https://stackoverflow.blog/2026/04/27/welcome-to-the-find-out-stage-of-ai": {
+    "title": "Welcome to the “find out” stage of AI",
+    "source": "Stack Overflow Blog",
+    "first_seen": "2026-04-27T15:31:29.403266+00:00",
+    "published": "2026-04-27T13:56:07+00:00"
+  },
+  "https://lwn.net/Articles/1068409": {
+    "title": "[$] Zig explores structured concurrency",
+    "source": "LWN.net",
+    "first_seen": "2026-04-27T15:31:29.403266+00:00",
+    "published": "2026-04-27T13:52:05+00:00"
+  },
+  "https://lwn.net/Articles/1069944": {
+    "title": "The future of AI in Ubuntu",
+    "source": "LWN.net",
+    "first_seen": "2026-04-27T15:31:29.403266+00:00",
+    "published": "2026-04-27T13:50:36+00:00"
+  },
+  "https://lwn.net/Articles/1069939": {
+    "title": "Niri 26.04 released",
+    "source": "LWN.net",
+    "first_seen": "2026-04-27T15:31:29.403266+00:00",
+    "published": "2026-04-27T13:36:30+00:00"
+  },
+  "https://github.com/serverless-dna/tendril": {
+    "title": "Tendril – a self-extending agent that builds and registers its own tools",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-27T15:31:29.403266+00:00",
+    "published": "2026-04-27T13:34:48+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.1-ARM-RT": {
+    "title": "With Linux 7.1 The Mainline Kernel Now Supports Real-Time \"RT\" On ARM",
+    "source": "Phoronix",
+    "first_seen": "2026-04-27T15:31:29.403266+00:00",
+    "published": "2026-04-27T13:27:56+00:00"
+  },
+  "https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai": {
+    "title": "Microsoft to Stop Sharing Revenue with Main AI Partner OpenAI",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-27T15:31:29.403266+00:00",
+    "published": "2026-04-27T13:22:42+00:00"
+  },
+  "https://deploy.live/blog/running-local-llms-offline-on-a-ten-hour-flight": {
+    "title": "Running Local LLMs Offline on a Ten-Hour Flight",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-27T15:31:29.403266+00:00",
+    "published": "2026-04-27T13:05:59+00:00"
+  },
+  "https://lwn.net/Articles/1069938": {
+    "title": "Security updates for Monday",
+    "source": "LWN.net",
+    "first_seen": "2026-04-27T15:31:29.403266+00:00",
+    "published": "2026-04-27T13:04:54+00:00"
+  },
+  "https://blogs.microsoft.com/blog/2026/04/27/the-next-phase-of-the-microsoft-openai-partnership": {
+    "title": "The next phase of the Microsoft-OpenAI partnership",
+    "source": "Microsoft Blog",
+    "first_seen": "2026-04-27T15:31:29.403266+00:00",
+    "published": "2026-04-27T13:00:02+00:00"
+  },
+  "https://thenewstack.io/security-operational-maturity-scaling": {
+    "title": "Can your operations handle your security ambitions?",
+    "source": "The New Stack",
+    "first_seen": "2026-04-27T15:31:29.403266+00:00",
+    "published": "2026-04-27T13:00:00+00:00"
+  },
+  "https://lethain.com/early-late-stage-hypergrowth": {
+    "title": "Early and late-stage hypergrowth.",
+    "source": "Will Larson",
+    "first_seen": "2026-04-27T15:31:29.403266+00:00",
+    "published": "2026-04-27T13:00:00+00:00"
+  },
+  "https://blog.google/innovation-and-ai/technology/developers-tools/kaggle-genai-intensive-course-vibe-coding-june-2026": {
+    "title": "Join the new AI Agents Vibe Coding Course from Google and Kaggle",
+    "source": "Google AI Blog",
+    "first_seen": "2026-04-27T15:31:29.403266+00:00",
+    "published": "2026-04-27T13:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/XWayland-24.1.11-Released": {
+    "title": "XWayland 24.1.11 Brings Crash Fixes",
+    "source": "Phoronix",
+    "first_seen": "2026-04-27T15:31:29.403266+00:00",
+    "published": "2026-04-27T12:59:35+00:00"
+  },
+  "https://github.com/dirac-run/dirac": {
+    "title": "Show HN: OSS Agent I built topped the TerminalBench on Gemini-3-flash-preview",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-27T15:31:29.403266+00:00",
+    "published": "2026-04-27T12:35:55+00:00"
+  },
+  "https://thenewstack.io/paper-compute-agent-infrastructure": {
+    "title": "GitHub veteran Brian Douglas launches Paper Compute to fix AI agent infrastructure",
+    "source": "The New Stack",
+    "first_seen": "2026-04-27T15:31:29.403266+00:00",
+    "published": "2026-04-27T12:00:00+00:00"
+  },
+  "https://realpython.com/quizzes/python-all-attribute": {
+    "title": "Quiz: Python's __all__: Packages, Modules, and Wildcard Imports",
+    "source": "Real Python",
+    "first_seen": "2026-04-27T15:31:29.403266+00:00",
+    "published": "2026-04-27T12:00:00+00:00"
+  },
+  "https://github.com/garritfra/cell": {
+    "title": "Show HN: A terminal spreadsheet editor with Vim keybindings",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-27T15:31:29.403266+00:00",
+    "published": "2026-04-27T11:39:49+00:00"
+  },
+  "https://www.alexselimov.com/posts/men_who_stare_at_walls": {
+    "title": "Men Who Stare at Walls",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-27T15:31:29.403266+00:00",
+    "published": "2026-04-27T11:08:26+00:00"
+  },
+  "https://www.schneier.com/blog/archives/2026/04/medieval-encrypted-letter-decoded.html": {
+    "title": "Medieval Encrypted Letter Decoded",
+    "source": "Schneier on Security",
+    "first_seen": "2026-04-27T15:31:29.403266+00:00",
+    "published": "2026-04-27T11:04:41+00:00"
+  },
+  "https://www.cncf.io/blog/2026/04/27/kubernetes-for-platform-teams-leveraging-k0s-and-k0rdent": {
+    "title": "Kubernetes for platform teams: Leveraging k0s and k0rdent",
+    "source": "CNCF Blog",
+    "first_seen": "2026-04-27T15:31:29.403266+00:00",
+    "published": "2026-04-27T11:00:00+00:00"
+  },
+  "https://github.com/pgbackrest/pgbackrest": {
+    "title": "Pgbackrest is no longer being maintained",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-27T15:31:29.403266+00:00",
+    "published": "2026-04-27T10:56:34+00:00"
+  },
+  "https://www.phoronix.com/news/Ubuntu-AI-Features-2026": {
+    "title": "Ubuntu Linux Will Begin Landing AI Features Throughout The Next Year",
+    "source": "Phoronix",
+    "first_seen": "2026-04-27T15:31:29.403266+00:00",
+    "published": "2026-04-27T10:30:10+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.1-SoC-Slider-Utility": {
+    "title": "Linux 7.1 Adds SoC Slider Support To x86_energy_perf_policy Utility",
+    "source": "Phoronix",
+    "first_seen": "2026-04-27T15:31:29.403266+00:00",
+    "published": "2026-04-27T10:27:26+00:00"
+  },
+  "https://www.fda.gov/news-events/press-announcements/fda-approves-first-ever-gene-therapy-treatment-genetic-hearing-loss-under-national-priority-voucher": {
+    "title": "FDA Approves First-Ever Gene Therapy for Treatment of Genetic Hearing Loss",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-27T15:31:29.403266+00:00",
+    "published": "2026-04-27T10:15:17+00:00"
+  },
+  "https://www.phoronix.com/news/AMD-VPE-2.0-Mesa": {
+    "title": "AMD VPE 2.0 Support Merged For Mesa 26.2",
+    "source": "Phoronix",
+    "first_seen": "2026-04-27T15:31:29.403266+00:00",
+    "published": "2026-04-27T10:10:07+00:00"
+  },
+  "https://stratechery.com/2026/ai-hardware-meta-display-redefining-vr-and-ar": {
+    "title": "AI Hardware, Meta Display, Redefining VR and AR",
+    "source": "Stratechery",
+    "first_seen": "2026-04-27T15:31:29.403266+00:00",
+    "published": "2026-04-27T10:00:00+00:00"
+  },
+  "https://app.oravys.com/blog/mercor-breach-2026": {
+    "title": "4TB of voice samples just stolen from 40k AI contractors at Mercor",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-27T15:31:29.403266+00:00",
+    "published": "2026-04-27T09:57:10+00:00"
+  },
+  "https://quarkdown.com": {
+    "title": "Quarkdown – Markdown with Superpowers",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-27T15:31:29.403266+00:00",
+    "published": "2026-04-27T08:54:57+00:00"
+  },
+  "https://openai.com/index/next-phase-of-microsoft-partnership": {
+    "title": "The next phase of the Microsoft OpenAI partnership",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-04-27T15:31:29.403266+00:00",
+    "published": "2026-04-27T06:00:00+00:00"
+  },
+  "https://huggingface.co/blog/openai-privacy-filter-web-apps": {
+    "title": "How to build scalable web apps with OpenAI's Privacy Filter",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-04-27T15:31:29.403266+00:00",
+    "published": "2026-04-27T00:00:00+00:00"
+  },
+  "https://blog.sentry.io/two-years-without-cookies-on-the-site": {
+    "title": "Two years without cookies on the site, here's where we ended up",
+    "source": "Sentry Blog",
+    "first_seen": "2026-04-27T15:31:29.403266+00:00",
+    "published": "2026-04-27T00:00:00+00:00"
+  },
+  "https://theconsensus.dev/p/2026/04/26/branimir-lambov-from-ibm-on-cassandra.html": {
+    "title": "Branimir Lambov from IBM on Cassandra",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-27T15:31:29.403266+00:00",
+    "published": "2026-04-26T13:45:03+00:00"
   }
 }
