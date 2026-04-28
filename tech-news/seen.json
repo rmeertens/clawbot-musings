@@ -10934,5 +10934,35 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-04-28T03:06:06.527451+00:00",
     "published": "2026-04-27T21:55:48+00:00"
+  },
+  "https://stackoverflow.blog/2026/04/28/your-llm-issues-are-really-data-issues": {
+    "title": "Your LLM issues are really data issues",
+    "source": "Stack Overflow Blog",
+    "first_seen": "2026-04-28T07:10:51.856651+00:00",
+    "published": "2026-04-28T07:40:00+00:00"
+  },
+  "https://gtfobins.org": {
+    "title": "GTFOBins",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-28T07:10:51.856651+00:00",
+    "published": "2026-04-28T06:27:39+00:00"
+  },
+  "https://simonwillison.net/2026/Apr/28/pip-261": {
+    "title": "What's new in pip 26.1 - lockfiles and dependency cooldowns!",
+    "source": "Simon Willison",
+    "first_seen": "2026-04-28T07:10:51.856651+00:00",
+    "published": "2026-04-28T05:23:05+00:00"
+  },
+  "https://technology.robbyant.com/lingbot-map": {
+    "title": "LingBot-Map: Streaming 3D reconstruction with geometric context transformer",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-28T07:10:51.856651+00:00",
+    "published": "2026-04-28T03:27:40+00:00"
+  },
+  "https://cloud.google.com/blog/ko/products/compute/ai-infrastructure-at-next26": {
+    "title": "Google AI 인프라의 미래: 에이전틱 시대를 위한 확장",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-04-28T07:10:51.856651+00:00",
+    "published": "2026-04-28T01:00:00+00:00"
   }
 }
