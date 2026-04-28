@@ -11258,5 +11258,305 @@
     "source": "Elastic Blog",
     "first_seen": "2026-04-28T15:45:08.276699+00:00",
     "published": "2026-04-28T00:00:00+00:00"
+  },
+  "https://www.bbc.com/news/articles/c2eveyvgn9no": {
+    "title": "BP profits more than double as Iran war sends oil prices higher",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-28T21:21:16.969146+00:00",
+    "published": "2026-04-28T20:50:08+00:00"
+  },
+  "https://ron.stoner.com/How_I_Won_a_Championship_That_Doesnt_Exist": {
+    "title": "I Won a Championship That Doesn't Exist",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-28T21:21:16.969146+00:00",
+    "published": "2026-04-28T20:38:21+00:00"
+  },
+  "https://thenewstack.io/google-doesnt-care": {
+    "title": "“Developer loyalty is at zero right now”: Google doesn’t care which AI coding tool you use",
+    "source": "The New Stack",
+    "first_seen": "2026-04-28T21:21:16.969146+00:00",
+    "published": "2026-04-28T20:29:49+00:00"
+  },
+  "https://www.databricks.com/blog/operationalizing-ai-public-sector-fraud-prevention": {
+    "title": "Operationalizing AI for public sector fraud prevention",
+    "source": "Databricks Blog",
+    "first_seen": "2026-04-28T21:21:16.969146+00:00",
+    "published": "2026-04-28T20:00:00+00:00"
+  },
+  "https://mitchellh.com/writing/ghostty-leaving-github": {
+    "title": "Ghostty is leaving GitHub",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-28T21:21:16.969146+00:00",
+    "published": "2026-04-28T19:44:52+00:00"
+  },
+  "https://stratechery.com/2026/an-interview-with-openai-ceo-sam-altman-and-aws-ceo-matt-garman-about-bedrock-managed-agents": {
+    "title": "OpenAI models coming to Amazon Bedrock: Interview with OpenAI and AWS CEOs",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-28T21:21:16.969146+00:00",
+    "published": "2026-04-28T19:24:43+00:00"
+  },
+  "https://dyne.org/cjit": {
+    "title": "CJIT: C, Just in Time",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-28T21:21:16.969146+00:00",
+    "published": "2026-04-28T19:10:14+00:00"
+  },
+  "https://chrisnager.com/blog/doom-runs-in-chatgpt-and-claude": {
+    "title": "A playable DOOM MCP app",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-28T21:21:16.969146+00:00",
+    "published": "2026-04-28T19:08:47+00:00"
+  },
+  "https://www.databricks.com/blog/months-minutes-building-real-time-clinical-data-pipelines-natural-language": {
+    "title": "From months to minutes: Building real-time clinical data pipelines with natural language",
+    "source": "Databricks Blog",
+    "first_seen": "2026-04-28T21:21:16.969146+00:00",
+    "published": "2026-04-28T19:06:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/security/what-the-march-2026-threat-technique-catalog-update-means-for-your-aws-environment": {
+    "title": "What the March 2026 Threat Technique Catalog update means for your AWS environment",
+    "source": "AWS Security Blog",
+    "first_seen": "2026-04-28T21:21:16.969146+00:00",
+    "published": "2026-04-28T19:01:37+00:00"
+  },
+  "https://developer.nvidia.com/blog/scaling-biomolecular-modeling-using-context-parallelism-in-nvidia-bionemo": {
+    "title": "Scaling Biomolecular Modeling Using Context Parallelism in NVIDIA BioNeMo",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-04-28T21:21:16.969146+00:00",
+    "published": "2026-04-28T19:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/topics/public-sector/welcome-to-the-agentic-era-public-sector-highlights-and-reflections-from-next-26": {
+    "title": "Welcome to the agentic era: Public sector highlights and reflections from Next ‘26",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-04-28T21:21:16.969146+00:00",
+    "published": "2026-04-28T19:00:00+00:00"
+  },
+  "https://blog.angular.dev/back-from-baby-bonding-agents-building-blocks-and-the-future-of-ai-engineering-07c0afb816a3?source=rss----447683c3d9a3---4": {
+    "title": "Back from Baby Bonding: Agents, Building Blocks, and the Future of AI Engineering",
+    "source": "Angular Blog",
+    "first_seen": "2026-04-28T21:21:16.969146+00:00",
+    "published": "2026-04-28T18:56:45+00:00"
+  },
+  "https://lwn.net/Articles/1070213": {
+    "title": "Remembering Seth Nickell",
+    "source": "LWN.net",
+    "first_seen": "2026-04-28T21:21:16.969146+00:00",
+    "published": "2026-04-28T18:50:44+00:00"
+  },
+  "https://www.augmentcode.com/blog/how-to-write-good-agents-dot-md-files": {
+    "title": "A good AGENTS.md is a model upgrade. A bad one is worse than no docs at all",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-28T21:21:16.969146+00:00",
+    "published": "2026-04-28T18:26:53+00:00"
+  },
+  "https://aws.amazon.com/blogs/aws/top-announcements-of-the-whats-next-with-aws-2026": {
+    "title": "Top announcements of the What’s Next with AWS, 2026",
+    "source": "AWS Blog",
+    "first_seen": "2026-04-28T21:21:16.969146+00:00",
+    "published": "2026-04-28T18:11:39+00:00"
+  },
+  "https://thenewstack.io/broadcom-vcf-kubernetes-platform": {
+    "title": "Why Broadcom is betting on a private cloud comeback",
+    "source": "The New Stack",
+    "first_seen": "2026-04-28T21:21:16.969146+00:00",
+    "published": "2026-04-28T18:09:41+00:00"
+  },
+  "https://waymo.com/blog/shorts/waymo-in-portland": {
+    "title": "Waymo in Portland",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-28T21:21:16.969146+00:00",
+    "published": "2026-04-28T18:08:13+00:00"
+  },
+  "https://status.claude.com/incidents/9l93x2ht4s5w": {
+    "title": "Claude.ai unavailable and elevated errors on the API",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-28T21:21:16.969146+00:00",
+    "published": "2026-04-28T18:01:21+00:00"
+  },
+  "https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-markdown": {
+    "title": "GitHub for Beginners: Getting started with Markdown",
+    "source": "GitHub Blog",
+    "first_seen": "2026-04-28T21:21:16.969146+00:00",
+    "published": "2026-04-28T18:00:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/migrating-a-text-agent-to-a-voice-assistant-with-amazon-nova-2-sonic": {
+    "title": "Migrating a text agent to a voice assistant with Amazon Nova 2 Sonic",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-04-28T21:21:16.969146+00:00",
+    "published": "2026-04-28T17:46:55+00:00"
+  },
+  "https://blogs.microsoft.com/blog/2026/04/28/unlocking-human-ambition-to-drive-business-growth-with-ai": {
+    "title": "Unlocking human ambition to drive business growth with AI",
+    "source": "Microsoft Blog",
+    "first_seen": "2026-04-28T21:21:16.969146+00:00",
+    "published": "2026-04-28T17:34:47+00:00"
+  },
+  "https://thenewstack.io/sas-viya-mcp-governance": {
+    "title": "SAS opens its analytics engine to Claude, Copilot and any AI agent with Viya MCP Server",
+    "source": "The New Stack",
+    "first_seen": "2026-04-28T21:21:16.969146+00:00",
+    "published": "2026-04-28T17:29:49+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/unified-observability-in-amazon-opensearch-service-metrics-traces-and-ai-agent-debugging-in-a-single-interface": {
+    "title": "Unified observability in Amazon OpenSearch Service: metrics, traces, and AI agent debugging in a single interface",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-04-28T21:21:16.969146+00:00",
+    "published": "2026-04-28T17:29:01+00:00"
+  },
+  "https://github.com/warpdotdev/warp": {
+    "title": "Warp is now Open-Source",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-28T21:21:16.969146+00:00",
+    "published": "2026-04-28T17:09:41+00:00"
+  },
+  "https://devblogs.microsoft.com/dotnet/welcome-to-skia-sharp-40-preview1": {
+    "title": "Welcome to SkiaSharp 4.0 Preview 1",
+    "source": "MS .NET Blog",
+    "first_seen": "2026-04-28T21:21:16.969146+00:00",
+    "published": "2026-04-28T17:06:00+00:00"
+  },
+  "https://devblogs.microsoft.com/dotnet/high-performance-distributed-caching-dotnet-postgres-azure": {
+    "title": "High-Performance Distributed Caching with .NET and Postgres on Azure",
+    "source": "MS .NET Blog",
+    "first_seen": "2026-04-28T21:21:16.969146+00:00",
+    "published": "2026-04-28T17:05:00+00:00"
+  },
+  "https://medium.com/airbnb-engineering/skipper-building-airbnbs-embedded-workflow-engine-f6c34552146f?source=rss----53c7c27702d5---4": {
+    "title": "Skipper: Building Airbnb’s embedded workflow engine",
+    "source": "Airbnb Engineering",
+    "first_seen": "2026-04-28T21:21:16.969146+00:00",
+    "published": "2026-04-28T17:01:02+00:00"
+  },
+  "https://jobs.ashbyhq.com/infisical/782b9da8-20e1-48b2-919e-6c5430c58628": {
+    "title": "Infisical (YC W23) Is Hiring Full Stack Software Engineers (Remote)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-28T21:21:16.969146+00:00",
+    "published": "2026-04-28T17:00:06+00:00"
+  },
+  "https://thenewstack.io/json-schema-ai-reliability": {
+    "title": "Why JSON Schema matters more than ever in the age of generative AI",
+    "source": "The New Stack",
+    "first_seen": "2026-04-28T21:21:16.969146+00:00",
+    "published": "2026-04-28T17:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/ai-machine-learning/google-managed-mcp-servers-are-available-for-everyone": {
+    "title": "50+ fully managed MCP servers now available for Google Cloud services",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-04-28T21:21:16.969146+00:00",
+    "published": "2026-04-28T17:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/ARM64-On-s390-IBM-Z-v2": {
+    "title": "IBM Updates Linux Patches For Introducing ARM64 KVM Virtualization On s390",
+    "source": "Phoronix",
+    "first_seen": "2026-04-28T21:21:16.969146+00:00",
+    "published": "2026-04-28T16:54:39+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/nvidia-nemotron-3-nano-omni-model-now-available-on-amazon-sagemaker-jumpstart": {
+    "title": "NVIDIA Nemotron 3 Nano Omni model now available on Amazon SageMaker JumpStart",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-04-28T21:21:16.969146+00:00",
+    "published": "2026-04-28T16:40:34+00:00"
+  },
+  "https://aws.amazon.com/blogs/security/access-control-with-iam-identity-center-session-tags": {
+    "title": "Access control with IAM Identity Center session tags",
+    "source": "AWS Security Blog",
+    "first_seen": "2026-04-28T21:21:16.969146+00:00",
+    "published": "2026-04-28T16:33:06+00:00"
+  },
+  "https://poolside.ai/blog/laguna-a-deeper-dive": {
+    "title": "Laguna XS.2 and M.1",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-28T21:21:16.969146+00:00",
+    "published": "2026-04-28T16:17:55+00:00"
+  },
+  "https://www.wiz.io/blog/github-rce-vulnerability-cve-2026-3854": {
+    "title": "GitHub RCE Vulnerability: CVE-2026-3854 Breakdown",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-28T21:21:16.969146+00:00",
+    "published": "2026-04-28T16:15:43+00:00"
+  },
+  "https://aisle.com/blog/aisle-discovers-38-critical-security-vulnerabilities-in-healthcare-software-used-by-100000-providers": {
+    "title": "AISLE Discovers 38 CVEs in OpenEMR Healthcare Software",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-28T21:21:16.969146+00:00",
+    "published": "2026-04-28T16:06:01+00:00"
+  },
+  "https://github.com/trycua/cua": {
+    "title": "Show HN: Drive any macOS app in the background without stealing the cursor",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-28T21:21:16.969146+00:00",
+    "published": "2026-04-28T16:03:34+00:00"
+  },
+  "https://developer.nvidia.com/blog/nvidia-nemotron-3-nano-omni-powers-multimodal-agent-reasoning-in-a-single-efficient-open-model": {
+    "title": "NVIDIA Nemotron 3 Nano Omni Powers Multimodal Agent Reasoning in a Single Efficient Open Model",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-04-28T21:21:16.969146+00:00",
+    "published": "2026-04-28T16:01:12+00:00"
+  },
+  "https://thenewstack.io/sentrys-seer-agent-debug": {
+    "title": "Sentry’s Seer Agent lets developers debug production issues in natural language",
+    "source": "The New Stack",
+    "first_seen": "2026-04-28T21:21:16.969146+00:00",
+    "published": "2026-04-28T16:01:00+00:00"
+  },
+  "https://www.hashicorp.com/blog/turning-secret-detection-into-measurable-risk-reduction": {
+    "title": "Turning secret detection into measurable risk reduction",
+    "source": "HashiCorp Blog",
+    "first_seen": "2026-04-28T21:21:16.969146+00:00",
+    "published": "2026-04-28T16:00:00+00:00"
+  },
+  "https://opensource.microsoft.com/blog/2026/04/28/continuing-the-story-of-early-dos-development": {
+    "title": "Continuing the story of early DOS development",
+    "source": "Microsoft Open Source",
+    "first_seen": "2026-04-28T21:21:16.969146+00:00",
+    "published": "2026-04-28T16:00:00+00:00"
+  },
+  "https://blog.google/products-and-platforms/products/translate/fun-facts-google-translate-20-years": {
+    "title": "Celebrating 20 years of Google Translate: Fun facts, tips and new features to try",
+    "source": "Google AI Blog",
+    "first_seen": "2026-04-28T21:21:16.969146+00:00",
+    "published": "2026-04-28T16:00:00+00:00"
+  },
+  "https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence": {
+    "title": "Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-04-28T21:21:16.969146+00:00",
+    "published": "2026-04-28T15:58:57+00:00"
+  },
+  "https://www.warp.dev/blog/warp-is-now-open-source": {
+    "title": "Warp is now open-source",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-28T21:21:16.969146+00:00",
+    "published": "2026-04-28T15:58:30+00:00"
+  },
+  "https://deadline.com/2026/04/paramount-fcc-request-wbd-merger-middle-east-1236873732": {
+    "title": "FCC Funding Application Notes Paramount Will Be 49.5% Foreign-Owned Post-Merger",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-28T21:21:16.969146+00:00",
+    "published": "2026-04-28T15:54:21+00:00"
+  },
+  "https://keepandroidopen.org/en": {
+    "title": "Your phone is about to stop being yours",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-28T21:21:16.969146+00:00",
+    "published": "2026-04-28T15:21:00+00:00"
+  },
+  "https://grafana.com/blog/introducing-secrets-management-for-grafana-cloud-k6": {
+    "title": "Secure performance testing at scale: Introducing secrets management for Grafana Cloud k6",
+    "source": "Grafana Blog",
+    "first_seen": "2026-04-28T21:21:16.969146+00:00",
+    "published": "2026-04-28T14:47:13+00:00"
+  },
+  "https://cloud.google.com/blog/de/topics/offentlicher-sektor/google-cloud-und-das-bsi-c3a-framework-wie-wir-digitale-souveranitat-in-deutschland-konkret-machen": {
+    "title": "Google Cloud und das BSI C3A-Framework: Wie wir Digitale Souveränität in Deutschland konkret machen",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-04-28T21:21:16.969146+00:00",
+    "published": "2026-04-28T14:30:00+00:00"
+  },
+  "https://openai.com/index/openai-on-aws": {
+    "title": "OpenAI models, Codex, and Managed Agents come to AWS",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-04-28T21:21:16.969146+00:00",
+    "published": "2026-04-28T00:00:00+00:00"
   }
 }
