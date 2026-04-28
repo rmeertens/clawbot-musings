@@ -10874,5 +10874,65 @@
     "source": "OpenAI Blog",
     "first_seen": "2026-04-27T23:06:11.257328+00:00",
     "published": "2026-04-27T14:00:00+00:00"
+  },
+  "https://blog.bytebytego.com/p/how-stripe-detects-fraudulent-transactions": {
+    "title": "How Stripe Detects Fraudulent Transactions Within 100 ms",
+    "source": "ByteByteGo",
+    "first_seen": "2026-04-28T03:06:06.527451+00:00",
+    "published": "2026-04-28T03:03:50+00:00"
+  },
+  "https://simonwillison.net/2026/Apr/28/talkie": {
+    "title": "Introducing talkie: a 13B vintage language model from 1930",
+    "source": "Simon Willison",
+    "first_seen": "2026-04-28T03:06:06.527451+00:00",
+    "published": "2026-04-28T02:47:42+00:00"
+  },
+  "https://github.com/hpennington/agentswift": {
+    "title": "Show HN: AgentSwift – Open-source iOS builder agent",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-28T03:06:06.527451+00:00",
+    "published": "2026-04-28T01:14:31+00:00"
+  },
+  "https://gitperf.com": {
+    "title": "Ted Nyman – High Performance Git",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-28T03:06:06.527451+00:00",
+    "published": "2026-04-28T00:32:04+00:00"
+  },
+  "https://huggingface.co/blog/nvidia/raw2insights-adaptive-ultrasound-imaging": {
+    "title": "Adaptive Ultrasound Imaging with Physics-Informed NV-Raw2Insights-US AI",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-04-28T03:06:06.527451+00:00",
+    "published": "2026-04-28T00:28:13+00:00"
+  },
+  "https://www.phoronix.com/news/Stratis-Storage-3.9-Released": {
+    "title": "Red Hat's Stratis Storage 3.9 Released With Online Encryption/Decryption/Reencryption",
+    "source": "Phoronix",
+    "first_seen": "2026-04-28T03:06:06.527451+00:00",
+    "published": "2026-04-28T00:21:00+00:00"
+  },
+  "https://simonwillison.net/2026/Apr/27/vibevoice": {
+    "title": "microsoft/VibeVoice",
+    "source": "Simon Willison",
+    "first_seen": "2026-04-28T03:06:06.527451+00:00",
+    "published": "2026-04-27T23:46:56+00:00"
+  },
+  "https://www.databricks.com/blog/how-leading-tech-companies-are-killing-builders-tax-lakebase": {
+    "title": "How leading tech companies are killing the builder’s tax with Lakebase",
+    "source": "Databricks Blog",
+    "first_seen": "2026-04-28T03:06:06.527451+00:00",
+    "published": "2026-04-27T23:23:08+00:00"
+  },
+  "https://vivianvoss.net/blog/integrated-by-design-launch": {
+    "title": "Integrated by Design",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-28T03:06:06.527451+00:00",
+    "published": "2026-04-27T23:14:26+00:00"
+  },
+  "https://talkie-lm.com/introducing-talkie": {
+    "title": "Talkie: a 13B vintage language model from 1930",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-28T03:06:06.527451+00:00",
+    "published": "2026-04-27T21:55:48+00:00"
   }
 }
