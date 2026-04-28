@@ -11030,5 +11030,233 @@
     "source": "Phoronix",
     "first_seen": "2026-04-28T11:07:36.113640+00:00",
     "published": "2026-04-28T09:43:21+00:00"
+  },
+  "https://github.blog/security/securing-the-git-push-pipeline-responding-to-a-critical-remote-code-execution-vulnerability": {
+    "title": "Securing the git push pipeline: Responding to a critical remote code execution vulnerability",
+    "source": "GitHub Blog",
+    "first_seen": "2026-04-28T15:45:08.276699+00:00",
+    "published": "2026-04-28T15:30:00+00:00"
+  },
+  "https://www.phoronix.com/review/ubuntu-2604-windows-11": {
+    "title": "Ubuntu 26.04 LTS Leads Over Windows 11 In Creator Workstation Performance",
+    "source": "Phoronix",
+    "first_seen": "2026-04-28T15:45:08.276699+00:00",
+    "published": "2026-04-28T15:00:11+00:00"
+  },
+  "https://www.databricks.com/blog/agentic-data-engineering-genie-code-and-lakeflow": {
+    "title": "Agentic Data Engineering with Genie Code and Lakeflow",
+    "source": "Databricks Blog",
+    "first_seen": "2026-04-28T15:45:08.276699+00:00",
+    "published": "2026-04-28T15:00:00+00:00"
+  },
+  "https://thenewstack.io/netbox-labs-network-intent": {
+    "title": "From system of record to system of control: How NetBox Labs is making network engineers “masters of intent.”",
+    "source": "The New Stack",
+    "first_seen": "2026-04-28T15:45:08.276699+00:00",
+    "published": "2026-04-28T15:00:00+00:00"
+  },
+  "https://developer.nvidia.com/blog/24-7-simulation-loops-how-agentic-ai-keeps-subsurface-engineering-moving": {
+    "title": "24/7 Simulation Loops: How Agentic AI Keeps Subsurface Engineering Moving",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-04-28T15:45:08.276699+00:00",
+    "published": "2026-04-28T15:00:00+00:00"
+  },
+  "https://www.databricks.com/blog/snapchat-conversions-api-databricks-marketplace": {
+    "title": "Securely send first-party conversion signals with Snapchat Conversions API on Databricks Marketplace",
+    "source": "Databricks Blog",
+    "first_seen": "2026-04-28T15:45:08.276699+00:00",
+    "published": "2026-04-28T14:50:00+00:00"
+  },
+  "https://www.phoronix.com/news/AMD-Lemonade-10.3": {
+    "title": "AMD's Lemonade SDK 10.3 Now 10x Smaller By Getting Rid Of Electron",
+    "source": "Phoronix",
+    "first_seen": "2026-04-28T15:45:08.276699+00:00",
+    "published": "2026-04-28T14:35:15+00:00"
+  },
+  "https://lwn.net/Articles/1070198": {
+    "title": "Fedora Linux 44 has been released",
+    "source": "LWN.net",
+    "first_seen": "2026-04-28T15:45:08.276699+00:00",
+    "published": "2026-04-28T14:33:38+00:00"
+  },
+  "https://tailscale.com/blog/paperless-ngx-local-ai-document-search": {
+    "title": "Tailscale + Paperless-ngx: scan everything, expose nothing",
+    "source": "Tailscale Blog",
+    "first_seen": "2026-04-28T15:45:08.276699+00:00",
+    "published": "2026-04-28T14:30:00+00:00"
+  },
+  "https://newsletter.pragmaticengineer.com/p/ubuntu-and-ai": {
+    "title": "How will AI change operating systems? Part 1: Ubuntu and Linux",
+    "source": "The Pragmatic Engineer",
+    "first_seen": "2026-04-28T15:45:08.276699+00:00",
+    "published": "2026-04-28T14:25:18+00:00"
+  },
+  "https://opentelemetry.io/blog/2026/japanese-survey": {
+    "title": "OpenTelemetry Japanese Community Survey",
+    "source": "OpenTelemetry Blog",
+    "first_seen": "2026-04-28T15:45:08.276699+00:00",
+    "published": "2026-04-28T14:18:07+00:00"
+  },
+  "https://lwn.net/Articles/1069368": {
+    "title": "[$] Strawberry is ripe for managing music collections",
+    "source": "LWN.net",
+    "first_seen": "2026-04-28T15:45:08.276699+00:00",
+    "published": "2026-04-28T14:12:36+00:00"
+  },
+  "https://realpython.com/courses/testing-your-code-with-pythons-unittest": {
+    "title": "Testing Your Code With Python's unittest",
+    "source": "Real Python",
+    "first_seen": "2026-04-28T15:45:08.276699+00:00",
+    "published": "2026-04-28T14:00:00+00:00"
+  },
+  "https://lwn.net/Articles/1070185": {
+    "title": "In Memoriam: Tomáš Kalibera",
+    "source": "LWN.net",
+    "first_seen": "2026-04-28T15:45:08.276699+00:00",
+    "published": "2026-04-28T13:46:18+00:00"
+  },
+  "https://www.phoronix.com/news/Sovereign-Tech-Standards": {
+    "title": "Sovereign Tech Agency Launches New Initiative To Help Open Standards",
+    "source": "Phoronix",
+    "first_seen": "2026-04-28T15:45:08.276699+00:00",
+    "published": "2026-04-28T13:35:46+00:00"
+  },
+  "https://www.vice.com/en/article/openai-ceo-identity-verification-company-fake-bruno-mars-partnership-mistaken-identity": {
+    "title": "OpenAI CEO's Identity Verification Company Announced Fake Bruno Mars Partnership",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-28T15:45:08.276699+00:00",
+    "published": "2026-04-28T13:26:26+00:00"
+  },
+  "https://www.lumara-space.app": {
+    "title": "Show HN: Live Sun and Moon Dashboard with NASA Footage",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-28T15:45:08.276699+00:00",
+    "published": "2026-04-28T13:25:48+00:00"
+  },
+  "https://simonwillison.net/2026/Apr/28/matthew-yglesias": {
+    "title": "Quoting Matthew Yglesias",
+    "source": "Simon Willison",
+    "first_seen": "2026-04-28T15:45:08.276699+00:00",
+    "published": "2026-04-28T13:25:29+00:00"
+  },
+  "https://lwn.net/Articles/1070094": {
+    "title": "All FOSDEM 2026 videos are online",
+    "source": "LWN.net",
+    "first_seen": "2026-04-28T15:45:08.276699+00:00",
+    "published": "2026-04-28T13:18:41+00:00"
+  },
+  "https://www.reuters.com/markets/commodities/uae-says-it-quits-opec-opec-statement-2026-04-28": {
+    "title": "UAE Leaves OPEC and OPEC+",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-28T15:45:08.276699+00:00",
+    "published": "2026-04-28T13:13:54+00:00"
+  },
+  "https://www.phoronix.com/news/GCC-16-Error-Messages": {
+    "title": "GCC 16's Improved Error Messages, Experimental HTML Output",
+    "source": "Phoronix",
+    "first_seen": "2026-04-28T15:45:08.276699+00:00",
+    "published": "2026-04-28T13:13:01+00:00"
+  },
+  "https://lwn.net/Articles/1070184": {
+    "title": "Security updates for Tuesday",
+    "source": "LWN.net",
+    "first_seen": "2026-04-28T15:45:08.276699+00:00",
+    "published": "2026-04-28T13:11:40+00:00"
+  },
+  "https://www.ft.com/content/8c354f2d-3e66-47f1-aad4-9b4aa30e386d": {
+    "title": "UAE to leave OPEC in blow to oil cartel",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-28T15:45:08.276699+00:00",
+    "published": "2026-04-28T13:02:01+00:00"
+  },
+  "https://martinfowler.com/articles/structured-prompt-driven": {
+    "title": "Structured-Prompt-Driven Development (SPDD)",
+    "source": "Martin Fowler",
+    "first_seen": "2026-04-28T15:45:08.276699+00:00",
+    "published": "2026-04-28T13:02:00+00:00"
+  },
+  "https://thenewstack.io/terraform-state-infrastructure-drift": {
+    "title": "Why Terraform is green when your cloud is broken",
+    "source": "The New Stack",
+    "first_seen": "2026-04-28T15:45:08.276699+00:00",
+    "published": "2026-04-28T13:00:00+00:00"
+  },
+  "https://stackoverflow.blog/2026/04/28/turn-scattered-knowledge-into-trusted-intelligence": {
+    "title": "Turning scattered knowledge into trusted intelligence: Stack Internal 2026.3",
+    "source": "Stack Overflow Blog",
+    "first_seen": "2026-04-28T15:45:08.276699+00:00",
+    "published": "2026-04-28T13:00:00+00:00"
+  },
+  "https://blog.cloudflare.com/q1-2026-internet-disruption-summary": {
+    "title": "Shutdowns, power outages, and conflict: a review of Q1 2026 Internet disruptions",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-04-28T15:45:08.276699+00:00",
+    "published": "2026-04-28T13:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/Fedora-44-Released": {
+    "title": "Fedora 44 Released For Living On The Leading-Edge Of Linux Innovations",
+    "source": "Phoronix",
+    "first_seen": "2026-04-28T15:45:08.276699+00:00",
+    "published": "2026-04-28T12:31:32+00:00"
+  },
+  "https://thenewstack.io/lovelace-ai-context-engine-elemental-andrew-moore": {
+    "title": "Lovelace emerges from stealth with context engine that claims 1000x AI investigative power",
+    "source": "The New Stack",
+    "first_seen": "2026-04-28T15:45:08.276699+00:00",
+    "published": "2026-04-28T12:30:00+00:00"
+  },
+  "https://www.joshwcomeau.com/animation/scroll-driven-animations": {
+    "title": "Scroll-Driven Animations",
+    "source": "Josh W. Comeau",
+    "first_seen": "2026-04-28T15:45:08.276699+00:00",
+    "published": "2026-04-28T12:00:00+00:00"
+  },
+  "https://realpython.com/quizzes/testing-your-code-with-pythons-unittest": {
+    "title": "Quiz: Testing Your Code With Python's unittest",
+    "source": "Real Python",
+    "first_seen": "2026-04-28T15:45:08.276699+00:00",
+    "published": "2026-04-28T12:00:00+00:00"
+  },
+  "https://realpython.com/quizzes/codex-cli-video": {
+    "title": "Quiz: Use Codex CLI to Enhance Your Python Projects",
+    "source": "Real Python",
+    "first_seen": "2026-04-28T15:45:08.276699+00:00",
+    "published": "2026-04-28T12:00:00+00:00"
+  },
+  "https://github.com/microsoft/VibeVoice": {
+    "title": "Microsoft VibeVoice: Open-Source Frontier Voice AI",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-28T15:45:08.276699+00:00",
+    "published": "2026-04-28T11:56:04+00:00"
+  },
+  "https://github.com/localsend/localsend": {
+    "title": "Localsend: An open-source cross-platform alternative to AirDrop",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-28T15:45:08.276699+00:00",
+    "published": "2026-04-28T11:54:20+00:00"
+  },
+  "https://femtechdesigndesk.substack.com/p/your-period-tracking-app-has-been": {
+    "title": "Period tracking app has been yapping about your flow to Meta",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-28T15:45:08.276699+00:00",
+    "published": "2026-04-28T11:31:40+00:00"
+  },
+  "https://github.blog/changelog/2026-04-27-github-copilot-code-review-will-start-consuming-github-actions-minutes-on-june-1-2026": {
+    "title": "GitHub Copilot code review will start consuming GitHub Actions minutes",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-28T15:45:08.276699+00:00",
+    "published": "2026-04-28T09:01:05+00:00"
+  },
+  "https://blog.sentry.io/introducing-seer-agent": {
+    "title": "Introducing Seer Agent: The answer is already in Sentry. Now you can ask for it.",
+    "source": "Sentry Blog",
+    "first_seen": "2026-04-28T15:45:08.276699+00:00",
+    "published": "2026-04-28T07:00:00+00:00"
+  },
+  "https://www.elastic.co/blog/state-of-observability-2026-financial-services": {
+    "title": "State of Observability in Financial Services 2026: From implementation to business impact",
+    "source": "Elastic Blog",
+    "first_seen": "2026-04-28T15:45:08.276699+00:00",
+    "published": "2026-04-28T00:00:00+00:00"
   }
 }
