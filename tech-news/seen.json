@@ -10982,5 +10982,53 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-04-28T09:43:50.008651+00:00",
     "published": "2026-04-27T07:59:37+00:00"
+  },
+  "https://www.schneier.com/blog/archives/2026/04/what-anthropics-mythos-means-for-the-future-of-cybersecurity.html": {
+    "title": "What Anthropic’s Mythos Means for the Future of Cybersecurity",
+    "source": "Schneier on Security",
+    "first_seen": "2026-04-28T11:07:36.113640+00:00",
+    "published": "2026-04-28T11:06:44+00:00"
+  },
+  "https://www.phoronix.com/news/Proton-11.0-Beta-2": {
+    "title": "Proton 11.0 Beta 2 Updates VKD3D-Proton",
+    "source": "Phoronix",
+    "first_seen": "2026-04-28T11:07:36.113640+00:00",
+    "published": "2026-04-28T11:00:59+00:00"
+  },
+  "https://www.phoronix.com/news/Ubuntu-AI-Kill-Switch-Opt-In": {
+    "title": "Ubuntu's \"AI Kill Switch\" Is Achieved By Removing Snaps, Initially Opt-In",
+    "source": "Phoronix",
+    "first_seen": "2026-04-28T11:07:36.113640+00:00",
+    "published": "2026-04-28T10:25:00+00:00"
+  },
+  "https://www.theideasletter.org/essay/the-social-edge-of-intelligence": {
+    "title": "The Social Edge of Intellgience: Individual Gain, Collective Loss",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-28T11:07:36.113640+00:00",
+    "published": "2026-04-28T10:08:38+00:00"
+  },
+  "https://www.phoronix.com/news/AMDXDNA-Hardware-Sched-Quant": {
+    "title": "AMDXDNA Driver Preps Hardware Scheduler Time Quantum For Ryzen AI Multi-User Fairness",
+    "source": "Phoronix",
+    "first_seen": "2026-04-28T11:07:36.113640+00:00",
+    "published": "2026-04-28T10:06:00+00:00"
+  },
+  "https://github.blog/news-insights/company-news/an-update-on-github-availability": {
+    "title": "An Update on GitHub Availability",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-28T11:07:36.113640+00:00",
+    "published": "2026-04-28T10:05:03+00:00"
+  },
+  "https://www.phoronix.com/news/7-Zip-26.01": {
+    "title": "7-Zip 26.01 Now Allows Making Use Of Huge Pages On Linux For Faster Compression",
+    "source": "Phoronix",
+    "first_seen": "2026-04-28T11:07:36.113640+00:00",
+    "published": "2026-04-28T09:55:00+00:00"
+  },
+  "https://www.phoronix.com/news/WayVNC-0.10-Released": {
+    "title": "WayVNC 0.10 Released For Advancing This Leading VNC Server For Wayland",
+    "source": "Phoronix",
+    "first_seen": "2026-04-28T11:07:36.113640+00:00",
+    "published": "2026-04-28T09:43:21+00:00"
   }
 }
