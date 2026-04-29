@@ -12188,5 +12188,83 @@
     "source": "Discord Engineering",
     "first_seen": "2026-04-29T19:06:10.512204+00:00",
     "published": "2026-04-29T00:00:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/extracting-contract-insights-with-pwcs-ai-driven-annotation-on-aws": {
+    "title": "Extracting contract insights with PwC’s AI-driven annotation on AWS",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-04-29T21:21:18.373550+00:00",
+    "published": "2026-04-29T21:19:39+00:00"
+  },
+  "https://research.google/blog/four-ways-google-research-scientists-have-been-using-empirical-research-assistance": {
+    "title": "Four ways Google Research scientists have been using Empirical Research Assistance",
+    "source": "Google Research",
+    "first_seen": "2026-04-29T21:21:18.373550+00:00",
+    "published": "2026-04-29T21:07:29+00:00"
+  },
+  "https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-First-Quarter-2026-Results-2026-X-ge4Dm6bf/default.aspx": {
+    "title": "Alphabet Announces First Quarter 2026 Results",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-29T21:21:18.373550+00:00",
+    "published": "2026-04-29T20:20:58+00:00"
+  },
+  "https://www.foxnews.com/politics/pentagon-jumps-from-225m-55b-drones-cheap-attacks-overwhelm-us-defenses": {
+    "title": "Pentagon spending on drones jumps from $225M to $55B in one year",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-29T21:21:18.373550+00:00",
+    "published": "2026-04-29T20:03:51+00:00"
+  },
+  "https://kmph.com/news/local/california-high-speed-rail-price-tag-jumps-to-231b-nearly-seven-times-2008-estimate": {
+    "title": "California high-speed rail price tag jumps to $231B, nearly 7x 2008 estimate",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-29T21:21:18.373550+00:00",
+    "published": "2026-04-29T20:02:22+00:00"
+  },
+  "https://opentrafficmap.org": {
+    "title": "OpenTrafficMap",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-29T21:21:18.373550+00:00",
+    "published": "2026-04-29T19:49:30+00:00"
+  },
+  "https://jivx.com/kyoto-bloom": {
+    "title": "Kyoto cherry blossoms now bloom earlier than at any point in 1,200 years",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-29T21:21:18.373550+00:00",
+    "published": "2026-04-29T19:32:36+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/organizing-agents-memory-at-scale-namespace-design-patterns-in-agentcore-memory": {
+    "title": "Organizing Agents’ memory at scale: Namespace design patterns in AgentCore Memory",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-04-29T21:21:18.373550+00:00",
+    "published": "2026-04-29T19:31:54+00:00"
+  },
+  "https://aws.amazon.com/blogs/security/designing-trust-and-safety-into-amazon-bedrock-powered-applications": {
+    "title": "Designing trust and safety into Amazon Bedrock powered applications",
+    "source": "AWS Security Blog",
+    "first_seen": "2026-04-29T21:21:18.373550+00:00",
+    "published": "2026-04-29T19:27:33+00:00"
+  },
+  "https://devblogs.microsoft.com/dotnet/vs-test-is-removing-its-newtonsoft-json-dependency": {
+    "title": "VSTest is Removing its Newtonsoft.Json Dependency",
+    "source": "MS .NET Blog",
+    "first_seen": "2026-04-29T21:21:18.373550+00:00",
+    "published": "2026-04-29T17:05:00+00:00"
+  },
+  "https://blog.sentry.io/sentry-stripe-projects": {
+    "title": "Two commands to Sentry: now on Stripe Projects",
+    "source": "Sentry Blog",
+    "first_seen": "2026-04-29T21:21:18.373550+00:00",
+    "published": "2026-04-29T07:00:00+00:00"
+  },
+  "https://nuxt.com/blog/introducing-nuxt-agent": {
+    "title": "Introducing the Nuxt Agent",
+    "source": "Nuxt Blog",
+    "first_seen": "2026-04-29T21:21:18.373550+00:00",
+    "published": "2026-04-29T00:00:00+00:00"
+  },
+  "https://blog.sentry.io/perforce-integration-ga": {
+    "title": "Sentry's integration with Perforce is now generally available",
+    "source": "Sentry Blog",
+    "first_seen": "2026-04-29T21:21:18.373550+00:00",
+    "published": "2026-04-29T00:00:00+00:00"
   }
 }
