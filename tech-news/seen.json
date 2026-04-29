@@ -11558,5 +11558,125 @@
     "source": "OpenAI Blog",
     "first_seen": "2026-04-28T21:21:16.969146+00:00",
     "published": "2026-04-28T00:00:00+00:00"
+  },
+  "https://www.nldigitalgovernment.nl/news/soft-launch-for-government-open-source-code-platform": {
+    "title": "Soft launch of open-source code platform for government",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-29T09:38:50.300021+00:00",
+    "published": "2026-04-29T09:14:37+00:00"
+  },
+  "https://news.ycombinator.com/item?id=47945522": {
+    "title": "Tell HN: An update from the new Tindie team",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-29T09:38:50.300021+00:00",
+    "published": "2026-04-29T08:16:37+00:00"
+  },
+  "https://dl.acm.org/doi/abs/10.1145/3767295.3803591": {
+    "title": "Low-Compilation-Cost Register Allocation in LLVM-Based Binary Translation",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-29T09:38:50.300021+00:00",
+    "published": "2026-04-29T06:47:53+00:00"
+  },
+  "https://hardenedbsd.org/article/shawn-webb/2026-04-26/hardenedbsd-officially-radicle": {
+    "title": "HardenedBSD Is Now Officially on Radicle",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-29T09:38:50.300021+00:00",
+    "published": "2026-04-29T06:38:44+00:00"
+  },
+  "https://www.tigerdata.com/blog/optimization-vs-architecture-knowing-the-difference": {
+    "title": "Optimization vs. Architecture: Knowing the Difference",
+    "source": "Timescale Blog",
+    "first_seen": "2026-04-29T09:38:50.300021+00:00",
+    "published": "2026-04-29T02:21:18+00:00"
+  },
+  "https://corrode.dev/blog/bugs-rust-wont-catch": {
+    "title": "Bugs Rust won't catch",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-29T09:38:50.300021+00:00",
+    "published": "2026-04-29T02:19:11+00:00"
+  },
+  "https://www.frontporchrepublic.com/2025/09/when-the-internet-was-a-place": {
+    "title": "When the Internet Was a Place",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-29T09:38:50.300021+00:00",
+    "published": "2026-04-29T01:36:52+00:00"
+  },
+  "https://www.phoronix.com/news/AMD-Halo-Box-RGB-LED-Driver": {
+    "title": "AMD Introducing New Linux Driver For Their Halo Box: For Its RGB LED Light Bar",
+    "source": "Phoronix",
+    "first_seen": "2026-04-29T09:38:50.300021+00:00",
+    "published": "2026-04-29T00:49:05+00:00"
+  },
+  "https://www.phoronix.com/news/GameNetworkingSockets-1.5": {
+    "title": "Valve Updates GameNetworkingSockets After Nearly Four Year Hiatus",
+    "source": "Phoronix",
+    "first_seen": "2026-04-29T09:38:50.300021+00:00",
+    "published": "2026-04-29T00:22:50+00:00"
+  },
+  "https://github.com/anthropics/claude-code/issues/49363": {
+    "title": "Regression: malware reminder on every read still causes subagent refusals",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-29T09:38:50.300021+00:00",
+    "published": "2026-04-28T23:59:57+00:00"
+  },
+  "https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop": {
+    "title": "How ChatGPT serves ads",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-29T09:38:50.300021+00:00",
+    "published": "2026-04-28T23:54:14+00:00"
+  },
+  "https://www.lttlabs.com/articles/2026/04/11/apple-studio-display-xdr-display-testing-results": {
+    "title": "Apple CMF (Color-Matching Functions) 2026",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-29T09:38:50.300021+00:00",
+    "published": "2026-04-28T23:43:53+00:00"
+  },
+  "https://simonwillison.net/2026/Apr/28/openai-codex": {
+    "title": "Quoting OpenAI Codex base_instructions",
+    "source": "Simon Willison",
+    "first_seen": "2026-04-29T09:38:50.300021+00:00",
+    "published": "2026-04-28T22:02:53+00:00"
+  },
+  "https://www.databricks.com/blog/built-not-bolted-what-ai-native-actually-means-cybersecurity": {
+    "title": "Built In, Not Bolted On: What AI-Native Actually Means in Cybersecurity",
+    "source": "Databricks Blog",
+    "first_seen": "2026-04-29T09:38:50.300021+00:00",
+    "published": "2026-04-28T21:45:00+00:00"
+  },
+  "https://lucumr.pocoo.org/2026/4/28/before-github": {
+    "title": "Before GitHub",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-29T09:38:50.300021+00:00",
+    "published": "2026-04-28T21:17:40+00:00"
+  },
+  "https://grafana.com/blog/get-observability-in-the-terminal-for-you-and-your-agents-with-the-gcx-cli-tool": {
+    "title": "Get observability in the terminal, for you and your agents, with the gcx CLI tool",
+    "source": "Grafana Blog",
+    "first_seen": "2026-04-29T09:38:50.300021+00:00",
+    "published": "2026-04-28T19:54:52+00:00"
+  },
+  "https://kubernetes.io/blog/2026/04/28/kubernetes-v1-36-staleness-mitigation-for-controllers": {
+    "title": "Kubernetes v1.36: Staleness Mitigation and Observability for Controllers",
+    "source": "Kubernetes Blog",
+    "first_seen": "2026-04-29T09:38:50.300021+00:00",
+    "published": "2026-04-28T18:35:00+00:00"
+  },
+  "https://github.com/FeSens/auto-arch-tournament/blob/main/docs/auto-arch-tournament-blog-post.md": {
+    "title": "Show HN: Auto-Architecture: Karpathy's Loop, pointed at a CPU",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-29T09:38:50.300021+00:00",
+    "published": "2026-04-28T17:12:30+00:00"
+  },
+  "https://github.com/rocky-data/rocky": {
+    "title": "Show HN: Rocky – Rust SQL engine with branches, replay, column lineage",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-29T09:38:50.300021+00:00",
+    "published": "2026-04-28T14:35:59+00:00"
+  },
+  "https://developer.chrome.com/blog/cws-role-expansion-developer-dashboard?hl=en": {
+    "title": "Empower your team with expanded roles in the Developer Dashboard",
+    "source": "Chrome Developers",
+    "first_seen": "2026-04-29T09:38:50.300021+00:00",
+    "published": "2026-04-28T07:00:00+00:00"
   }
 }
