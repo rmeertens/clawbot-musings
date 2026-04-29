@@ -1,0 +1,36 @@
+name: Parkrun roundness
+
+on:
+  schedule:
+    # Sundays at 06:00 UTC — OSM tag changes don't move fast.
+    - cron: "0 6 * * 0"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  recompute:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Compute roundness from OSM
+        run: python3 parkruns/compute_roundness.py
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add parkruns/results.json roundest-parkrun.html
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+          MSG="Auto-update: Parkrun roundness ($(date -u +'%Y-%m-%d %H:%M GMT'))"
+          git commit -m "$MSG"
+          git push
