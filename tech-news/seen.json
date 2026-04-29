@@ -11954,5 +11954,239 @@
     "source": "OpenAI Blog",
     "first_seen": "2026-04-29T15:35:52.507349+00:00",
     "published": "2026-04-29T04:00:00+00:00"
+  },
+  "https://blog.cloudflare.com/agents-stripe-projects": {
+    "title": "Agents can now create Cloudflare accounts, buy domains, and deploy",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-04-29T19:06:10.512204+00:00",
+    "published": "2026-04-30T13:00:00+00:00"
+  },
+  "https://simonwillison.net/2026/Apr/29/llm": {
+    "title": "LLM 0.32a0  is a major backwards-compatible refactor",
+    "source": "Simon Willison",
+    "first_seen": "2026-04-29T19:06:10.512204+00:00",
+    "published": "2026-04-29T19:01:47+00:00"
+  },
+  "https://www.hashicorp.com/blog/managing-ssh-access-at-scale-with-hashicorp-vault-update": {
+    "title": "Managing SSH access at scale with HashiCorp Vault",
+    "source": "HashiCorp Blog",
+    "first_seen": "2026-04-29T19:06:10.512204+00:00",
+    "published": "2026-04-29T19:00:00+00:00"
+  },
+  "https://www.databricks.com/blog/companies-winning-ai-built-data-layer-first": {
+    "title": "Companies Winning with AI Built the Data Layer First",
+    "source": "Databricks Blog",
+    "first_seen": "2026-04-29T19:06:10.512204+00:00",
+    "published": "2026-04-29T19:00:00+00:00"
+  },
+  "https://github.com/anthropics/claude-code/issues/53262": {
+    "title": "Anthropic bug causes $200 extra charge, refuses refund",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-29T19:06:10.512204+00:00",
+    "published": "2026-04-29T18:54:31+00:00"
+  },
+  "https://thenewstack.io/strands-agents-tool-design": {
+    "title": "Cut AI token usage by 96%? Here’s how AWS Strands Agents does it.",
+    "source": "The New Stack",
+    "first_seen": "2026-04-29T19:06:10.512204+00:00",
+    "published": "2026-04-29T18:52:32+00:00"
+  },
+  "https://copy.fail": {
+    "title": "Copy Fail – CVE-2026-31431",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-29T19:06:10.512204+00:00",
+    "published": "2026-04-29T18:13:53+00:00"
+  },
+  "https://www.promptarmor.com/resources/ramps-sheets-ai-exfiltrates-financials": {
+    "title": "Ramp's Sheets AI Exfiltrates Financials",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-29T19:06:10.512204+00:00",
+    "published": "2026-04-29T17:44:21+00:00"
+  },
+  "https://www.phoronix.com/review/intel-lunar-lake-ubuntu-2604": {
+    "title": "The Intel Lunar Lake CPU Performance Gains On Linux Over The Past Year",
+    "source": "Phoronix",
+    "first_seen": "2026-04-29T19:06:10.512204+00:00",
+    "published": "2026-04-29T17:30:03+00:00"
+  },
+  "https://devblogs.microsoft.com/dotnet/governing-mcp-tool-calls-in-dotnet-with-the-agent-governance-toolkit": {
+    "title": "Governing MCP tool calls in .NET with the Agent Governance Toolkit",
+    "source": "MS .NET Blog",
+    "first_seen": "2026-04-29T19:06:10.512204+00:00",
+    "published": "2026-04-29T17:05:00+00:00"
+  },
+  "https://blog.replit.com/app-monitoring": {
+    "title": "Introducing Replit App Monitoring",
+    "source": "Replit Blog",
+    "first_seen": "2026-04-29T19:06:10.512204+00:00",
+    "published": "2026-04-29T17:00:00+00:00"
+  },
+  "https://lawsofux.com": {
+    "title": "Laws of UX",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-29T19:06:10.512204+00:00",
+    "published": "2026-04-29T16:58:13+00:00"
+  },
+  "https://www.heavybit.com/library/podcasts/third-loop/ep-3-give-it-a-name-why-software-needs-a-third-loop": {
+    "title": "Why Software Needs a Third Loop [audio]",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-29T19:06:10.512204+00:00",
+    "published": "2026-04-29T16:55:49+00:00"
+  },
+  "https://www.hfsresearch.com/research/fde-optional-ai-flywheel-spin": {
+    "title": "Rise of the Forward Deployed Engineer",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-29T19:06:10.512204+00:00",
+    "published": "2026-04-29T16:54:40+00:00"
+  },
+  "https://eclecticlight.co/2026/04/29/virtualisation-on-apple-silicon-macs-is-different": {
+    "title": "Virtualisation on Apple Silicon Macs is different",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-29T19:06:10.512204+00:00",
+    "published": "2026-04-29T16:51:38+00:00"
+  },
+  "https://www.theguardian.com/technology/2026/apr/29/maryland-grocery-stores-ban-surveillance-pricing": {
+    "title": "Maryland becomes first state to ban surveillance pricing in grocery stores",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-29T19:06:10.512204+00:00",
+    "published": "2026-04-29T16:50:01+00:00"
+  },
+  "https://lwn.net/Articles/1068704": {
+    "title": "[$] Python packaging council approved",
+    "source": "LWN.net",
+    "first_seen": "2026-04-29T19:06:10.512204+00:00",
+    "published": "2026-04-29T16:48:06+00:00"
+  },
+  "https://huggingface.co/blog/evaleval/eval-costs-bottleneck": {
+    "title": "AI evals are becoming the new compute bottleneck",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-04-29T19:06:10.512204+00:00",
+    "published": "2026-04-29T16:45:09+00:00"
+  },
+  "https://www.databricks.com/blog/rethinking-sql-etl-modern-data-platforms": {
+    "title": "Rethinking SQL ETL for modern data platforms",
+    "source": "Databricks Blog",
+    "first_seen": "2026-04-29T19:06:10.512204+00:00",
+    "published": "2026-04-29T16:45:00+00:00"
+  },
+  "https://thenewstack.io/anaconda-ai-outerbounds-python-metaflow": {
+    "title": "Anaconda acquires Outerbounds to rein in the buggy code AI agents keep shipping",
+    "source": "The New Stack",
+    "first_seen": "2026-04-29T19:06:10.512204+00:00",
+    "published": "2026-04-29T16:43:08+00:00"
+  },
+  "https://developer.nvidia.com/blog/powering-ai-factories-with-nvidia-enterprise-reference-architectures": {
+    "title": "Powering AI Factories with NVIDIA Enterprise Reference Architectures",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-04-29T19:06:10.512204+00:00",
+    "published": "2026-04-29T16:41:57+00:00"
+  },
+  "https://atproto.com": {
+    "title": "At Protocol: Building the Social Internet",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-29T19:06:10.512204+00:00",
+    "published": "2026-04-29T16:20:56+00:00"
+  },
+  "https://www.agwa.name/blog/post/fastcgi_is_the_better_protocol_for_reverse_proxies": {
+    "title": "FastCGI: 30 years old and still the better protocol for reverse proxies",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-29T19:06:10.512204+00:00",
+    "published": "2026-04-29T16:16:39+00:00"
+  },
+  "https://interfaze.ai/blog/introducing-structured-output-benchmark": {
+    "title": "Show HN: A new benchmark for testing LLMs for deterministic outputs",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-29T19:06:10.512204+00:00",
+    "published": "2026-04-29T16:01:51+00:00"
+  },
+  "https://cloud.google.com/blog/topics/startups/the-top-startup-announcement-from-next26": {
+    "title": "The founder’s AI foundation: The top announcements for startups from Next ‘26",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-04-29T19:06:10.512204+00:00",
+    "published": "2026-04-29T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/databases/how-ukg-taps-workforce-intelligence-with-the-agentic-data-cloud": {
+    "title": "UKG unlocks real-time workforce intelligence at scale with the Agentic Data Cloud",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-04-29T19:06:10.512204+00:00",
+    "published": "2026-04-29T16:00:00+00:00"
+  },
+  "https://x.com/GlennMeder/status/2049088498163216560": {
+    "title": "Online age verification is the hill to die on",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-29T19:06:10.512204+00:00",
+    "published": "2026-04-29T15:49:57+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.1-AI-Sched-Ext-Fixes": {
+    "title": "Linux's sched_ext Sees A Bunch Of Bug Fixes Following Increased AI Code Review",
+    "source": "Phoronix",
+    "first_seen": "2026-04-29T19:06:10.512204+00:00",
+    "published": "2026-04-29T15:47:50+00:00"
+  },
+  "https://www.chrisbrunet.com/p/third-editor-fired-in-elseviers-citation": {
+    "title": "Third Editor Fired in Elsevier's Citation Cartel Crackdown",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-29T19:06:10.512204+00:00",
+    "published": "2026-04-29T15:45:25+00:00"
+  },
+  "https://neal.fun/cursor-camp": {
+    "title": "Cursor Camp",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-29T19:06:10.512204+00:00",
+    "published": "2026-04-29T15:39:43+00:00"
+  },
+  "https://www.databricks.com/blog/databricks-and-stripe-projects-infrastructure-built-agents": {
+    "title": "Databricks and Stripe Projects: Infrastructure Built for Agents",
+    "source": "Databricks Blog",
+    "first_seen": "2026-04-29T19:06:10.512204+00:00",
+    "published": "2026-04-29T15:20:00+00:00"
+  },
+  "https://read.thecoder.cafe/p/linux-broke-postgresql": {
+    "title": "Linux 7.0 Broke PostgreSQL: The Preemption Regression Explained",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-29T19:06:10.512204+00:00",
+    "published": "2026-04-29T15:13:44+00:00"
+  },
+  "https://www.databricks.com/blog/agents-are-ready-your-architecture-probably-isnt": {
+    "title": "Agents are ready but your architecture probably isn't",
+    "source": "Databricks Blog",
+    "first_seen": "2026-04-29T19:06:10.512204+00:00",
+    "published": "2026-04-29T15:00:00+00:00"
+  },
+  "https://github.com/GliaX/Stethoscope": {
+    "title": "An open-source stethoscope that costs between $2.5 and $5 to produce",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-29T19:06:10.512204+00:00",
+    "published": "2026-04-29T14:47:31+00:00"
+  },
+  "https://www.youtube.com/watch?v=JNyuX1zoOgU": {
+    "title": "How to Build the Future: Demis Hassabis [video]",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-29T19:06:10.512204+00:00",
+    "published": "2026-04-29T14:05:42+00:00"
+  },
+  "https://www.elastic.co/blog/whole-of-state-cyber-defense": {
+    "title": "Whole-of-state cyber defense: How AI-driven security helps US states protect what matters most",
+    "source": "Elastic Blog",
+    "first_seen": "2026-04-29T19:06:10.512204+00:00",
+    "published": "2026-04-29T00:00:00+00:00"
+  },
+  "https://machinelearning.apple.com/research/adaptive-thinking": {
+    "title": "Adaptive Thinking: Large Language Models Know When to Think in Latent Space",
+    "source": "Apple ML Journal",
+    "first_seen": "2026-04-29T19:06:10.512204+00:00",
+    "published": "2026-04-29T00:00:00+00:00"
+  },
+  "https://huggingface.co/blog/inference-providers-deepinfra": {
+    "title": "DeepInfra on Hugging Face Inference Providers 🔥",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-04-29T19:06:10.512204+00:00",
+    "published": "2026-04-29T00:00:00+00:00"
+  },
+  "https://discord.com/blog/behind-the-scenes-of-the-3-25-26-voice-outage": {
+    "title": "You’ve Got (Too Much) Mail: Behind the Scenes of the 3/25/26 Voice Outage",
+    "source": "Discord Engineering",
+    "first_seen": "2026-04-29T19:06:10.512204+00:00",
+    "published": "2026-04-29T00:00:00+00:00"
   }
 }
