@@ -12728,5 +12728,263 @@
     "source": "Apple ML Journal",
     "first_seen": "2026-04-30T15:32:45.084204+00:00",
     "published": "2026-04-30T00:00:00+00:00"
+  },
+  "https://pytorch.org/blog/lightseek-smg": {
+    "title": "The Case for Disaggregating CPU from GPU in LLM Serving",
+    "source": "PyTorch Blog",
+    "first_seen": "2026-04-30T19:06:07.351550+00:00",
+    "published": "2026-04-30T18:56:36+00:00"
+  },
+  "https://www.databricks.com/blog/unlocking-sap-business-context-databricks-semantic-metadata-delta-sharing": {
+    "title": "Unlocking SAP Business Context in Databricks with Semantic Metadata Delta Sharing",
+    "source": "Databricks Blog",
+    "first_seen": "2026-04-30T19:06:07.351550+00:00",
+    "published": "2026-04-30T18:40:00+00:00"
+  },
+  "https://simonwillison.net/2026/Apr/30/rss-vibe-coded-apps": {
+    "title": "We need RSS for sharing abundant vibe-coded apps",
+    "source": "Simon Willison",
+    "first_seen": "2026-04-30T19:06:07.351550+00:00",
+    "published": "2026-04-30T18:38:48+00:00"
+  },
+  "https://thenewstack.io/production-ready-ai-platforms": {
+    "title": "A nine-point checklist for shipping production-ready AI",
+    "source": "The New Stack",
+    "first_seen": "2026-04-30T19:06:07.351550+00:00",
+    "published": "2026-04-30T18:00:00+00:00"
+  },
+  "https://lost-number.bearblog.dev/recovering-files-from-beyond-the-grave-using-photorec": {
+    "title": "Recovering files from beyond the grave using PhotoRec",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-30T19:06:07.351550+00:00",
+    "published": "2026-04-30T17:42:11+00:00"
+  },
+  "https://thenewstack.io/openai-aws-bedrock-integration": {
+    "title": "The OpenAI-Microsoft reset, decoded: Why AWS may come out ahead",
+    "source": "The New Stack",
+    "first_seen": "2026-04-30T19:06:07.351550+00:00",
+    "published": "2026-04-30T17:17:41+00:00"
+  },
+  "https://nickkossolapov.github.io/fame-boy/building-a-game-boy-emulator-in-fsharp": {
+    "title": "I built a Game Boy emulator in F#",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-30T19:06:07.351550+00:00",
+    "published": "2026-04-30T17:14:21+00:00"
+  },
+  "https://devblogs.microsoft.com/dotnet/building-ai-conference-app-dotnet-composable-stack": {
+    "title": "Building an AI-Powered Conference App with .NET’s Composable AI Stack",
+    "source": "MS .NET Blog",
+    "first_seen": "2026-04-30T19:06:07.351550+00:00",
+    "published": "2026-04-30T17:05:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/aws-generative-ai-model-agility-solution-a-comprehensive-guide-to-migrating-llms-for-generative-ai-production": {
+    "title": "AWS Generative AI Model Agility Solution: A comprehensive guide to migrating LLMs for generative AI production",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-04-30T19:06:07.351550+00:00",
+    "published": "2026-04-30T17:04:41+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/sun-finance-automates-id-extraction-and-fraud-detection-with-generative-ai-on-aws": {
+    "title": "Sun Finance automates ID extraction and fraud detection with generative AI on AWS",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-04-30T19:06:07.351550+00:00",
+    "published": "2026-04-30T17:00:45+00:00"
+  },
+  "https://thenewstack.io/anthropics-claude-security-beta": {
+    "title": "Anthropic’s Claude Security emerges from closed preview to scan your codebases for vulnerabilities",
+    "source": "The New Stack",
+    "first_seen": "2026-04-30T19:06:07.351550+00:00",
+    "published": "2026-04-30T17:00:00+00:00"
+  },
+  "https://developer.nvidia.com/blog/speed-up-unreal-engine-nne-inference-with-nvidia-tensorrt-for-rtx-runtime": {
+    "title": "Speed Up Unreal Engine NNE Inference with NVIDIA TensorRT for RTX Runtime",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-04-30T19:06:07.351550+00:00",
+    "published": "2026-04-30T17:00:00+00:00"
+  },
+  "https://developer.nvidia.com/blog/build-ai-powered-games-with-nvidia-dlss-4-5-rtx-and-unreal-engine-5": {
+    "title": "Build AI-Powered Games with NVIDIA DLSS 4.5, RTX, and Unreal Engine 5",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-04-30T19:06:07.351550+00:00",
+    "published": "2026-04-30T17:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-Mint-HWE-ISOs": {
+    "title": "Linux Mint To Begin Publishing HWE ISOs For Better Hardware Support",
+    "source": "Phoronix",
+    "first_seen": "2026-04-30T19:06:07.351550+00:00",
+    "published": "2026-04-30T16:53:57+00:00"
+  },
+  "https://github.com/kubereboot/kured": {
+    "title": "Kubereboot/Kured: Kubernetes Reboot Daemon",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-30T19:06:07.351550+00:00",
+    "published": "2026-04-30T16:53:44+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/unleashing-agentic-ai-analytics-on-amazon-sagemaker-with-amazon-athena-and-amazon-quick": {
+    "title": "Unleashing Agentic AI Analytics on Amazon SageMaker with Amazon Athena and Amazon Quick",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-04-30T19:06:07.351550+00:00",
+    "published": "2026-04-30T16:52:40+00:00"
+  },
+  "https://github.com/carlovalenti/TRiP": {
+    "title": "Show HN: TRiP – a complete transformer engine in C built from scratch just by me",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-30T19:06:07.351550+00:00",
+    "published": "2026-04-30T16:48:17+00:00"
+  },
+  "https://www.openwall.com/lists/oss-security/2026/04/30/10": {
+    "title": "CopyFail Was Not Disclosed to Distros",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-30T19:06:07.351550+00:00",
+    "published": "2026-04-30T16:43:47+00:00"
+  },
+  "https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine": {
+    "title": "How Mark Klein told the EFF about Room 641A [book excerpt]",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-30T19:06:07.351550+00:00",
+    "published": "2026-04-30T16:41:00+00:00"
+  },
+  "https://www.404media.co/rightscon-human-rights-conference-suddenly-postponed": {
+    "title": "Largest Digital Human Rights Conference Suddenly Canceled",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-30T19:06:07.351550+00:00",
+    "published": "2026-04-30T16:35:58+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/configuring-amazon-bedrock-agentcore-gateway-for-secure-access-to-private-resources": {
+    "title": "Configuring Amazon Bedrock AgentCore Gateway for secure access to private resources",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-04-30T19:06:07.351550+00:00",
+    "published": "2026-04-30T16:32:43+00:00"
+  },
+  "https://developer.nvidia.com/blog/how-to-build-run-and-scale-high-quality-creator-workflows-in-comfyui": {
+    "title": "How to Build, Run, and Scale High-Quality Creator Workflows in ComfyUI",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-04-30T19:06:07.351550+00:00",
+    "published": "2026-04-30T16:16:04+00:00"
+  },
+  "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training": {
+    "title": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-30T19:06:07.351550+00:00",
+    "published": "2026-04-30T16:09:26+00:00"
+  },
+  "https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-for-beginners-interactive-v-non-interactive-mode": {
+    "title": "GitHub Copilot CLI for Beginners: Interactive v. non-interactive mode",
+    "source": "GitHub Blog",
+    "first_seen": "2026-04-30T19:06:07.351550+00:00",
+    "published": "2026-04-30T16:09:02+00:00"
+  },
+  "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-next-26-why-we-re-multicloud-and-multi-ai": {
+    "title": "Cloud CISO Perspectives: At Next ‘26, why we’re multicloud and multi-AI",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-04-30T19:06:07.351550+00:00",
+    "published": "2026-04-30T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/ai-machine-learning/what-google-cloud-announced-in-ai-this-month": {
+    "title": "What Google Cloud announced in AI this month",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-04-30T19:06:07.351550+00:00",
+    "published": "2026-04-30T16:00:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/compute/serverless-icymi-q1-2026": {
+    "title": "Serverless ICYMI Q1 2026",
+    "source": "AWS Compute Blog",
+    "first_seen": "2026-04-30T19:06:07.351550+00:00",
+    "published": "2026-04-30T15:58:24+00:00"
+  },
+  "https://www.docker.com/blog/from-security-blocked-to-prod-ready-clickhouse-on-docker-hardened-images": {
+    "title": "From Security Blocked to Prod Ready: ClickHouse on Docker Hardened Images",
+    "source": "Docker Blog",
+    "first_seen": "2026-04-30T19:06:07.351550+00:00",
+    "published": "2026-04-30T15:55:07+00:00"
+  },
+  "https://developer.nvidia.com/blog/automating-gpu-kernel-translation-with-ai-agents-cutile-python-to-cutile-jl": {
+    "title": "Automating GPU Kernel Translation with AI Agents: cuTile Python to cuTile.jl",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-04-30T19:06:07.351550+00:00",
+    "published": "2026-04-30T15:54:38+00:00"
+  },
+  "https://www.databricks.com/blog/databricks-and-stitch-marketing-activation": {
+    "title": "The marketing activation gap has a fix: Databricks and Stitch partner to turn data infrastructure into marketing performance",
+    "source": "Databricks Blog",
+    "first_seen": "2026-04-30T19:06:07.351550+00:00",
+    "published": "2026-04-30T15:50:00+00:00"
+  },
+  "https://www.phoronix.com/review/cachyos-ubuntu-2604-fedora-44": {
+    "title": "CachyOS Linux Performance Leading Over Ubuntu 26.04 LTS, Fedora Workstation 44",
+    "source": "Phoronix",
+    "first_seen": "2026-04-30T19:06:07.351550+00:00",
+    "published": "2026-04-30T15:45:22+00:00"
+  },
+  "https://www.democrata.es/en/politics/congress-and-senate/congress-will-act-against-massive-ip-blockages-by-laliga": {
+    "title": "Spain's parliament will act against massive IP blockages by LaLiga",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-30T19:06:07.351550+00:00",
+    "published": "2026-04-30T15:31:40+00:00"
+  },
+  "https://blog.bytebytego.com/p/a-beginners-guide-to-kubernetes": {
+    "title": "A Beginner’s Guide to Kubernetes",
+    "source": "ByteByteGo",
+    "first_seen": "2026-04-30T19:06:07.351550+00:00",
+    "published": "2026-04-30T15:31:10+00:00"
+  },
+  "https://thereader.mitpress.mit.edu/the-1960s-art-school-experiment-that-redefined-creativity": {
+    "title": "A 1960s art school experiment that redefined creativity",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-30T19:06:07.351550+00:00",
+    "published": "2026-04-30T15:20:49+00:00"
+  },
+  "https://honker.dev": {
+    "title": "Durable queues, streams, pub/sub, and a cron scheduler – inside your SQLite file",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-30T19:06:07.351550+00:00",
+    "published": "2026-04-30T14:43:02+00:00"
+  },
+  "https://www.databricks.com/blog/alert-fatigue-business-risk": {
+    "title": "Alert Fatigue Is a Business Risk",
+    "source": "Databricks Blog",
+    "first_seen": "2026-04-30T19:06:07.351550+00:00",
+    "published": "2026-04-30T12:58:45+00:00"
+  },
+  "https://www.elastic.co/blog/elastic-stack-9-3-4-released": {
+    "title": "Elastic Stack 9.3.4 released",
+    "source": "Elastic Blog",
+    "first_seen": "2026-04-30T19:06:07.351550+00:00",
+    "published": "2026-04-30T00:00:00+00:00"
+  },
+  "https://www.elastic.co/blog/elastic-stack-8-19-15-released": {
+    "title": "Elastic Stack 8.19.15 released",
+    "source": "Elastic Blog",
+    "first_seen": "2026-04-30T19:06:07.351550+00:00",
+    "published": "2026-04-30T00:00:00+00:00"
+  },
+  "https://planetscale.com/blog/rls-sounds-great-until-it-isnt": {
+    "title": "RLS sounds great until it isn't",
+    "source": "PlanetScale Blog",
+    "first_seen": "2026-04-30T19:06:07.351550+00:00",
+    "published": "2026-04-30T00:00:00+00:00"
+  },
+  "https://openai.com/index/advanced-account-security": {
+    "title": "Introducing Advanced Account Security",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-04-30T19:06:07.351550+00:00",
+    "published": "2026-04-30T00:00:00+00:00"
+  },
+  "https://machinelearning.apple.com/research/starflow-v-video-modeling": {
+    "title": "STARFlow-V: End-to-End Video Generative Modeling with Normalizing Flows",
+    "source": "Apple ML Journal",
+    "first_seen": "2026-04-30T19:06:07.351550+00:00",
+    "published": "2026-04-30T00:00:00+00:00"
+  },
+  "https://astro.build/blog/astro-620": {
+    "title": "Astro 6.2",
+    "source": "Astro Blog",
+    "first_seen": "2026-04-30T19:06:07.351550+00:00",
+    "published": "2026-04-30T00:00:00+00:00"
+  },
+  "http://brooker.co.za/blog/2026/04/30/be-right.html": {
+    "title": "It's time to be right.",
+    "source": "Marc Brooker",
+    "first_seen": "2026-04-30T19:06:07.351550+00:00",
+    "published": "2026-04-30T00:00:00+00:00"
   }
 }
