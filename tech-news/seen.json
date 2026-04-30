@@ -12986,5 +12986,131 @@
     "source": "Marc Brooker",
     "first_seen": "2026-04-30T19:06:07.351550+00:00",
     "published": "2026-04-30T00:00:00+00:00"
+  },
+  "https://github.com/rootsecdev/cve_2026_31431": {
+    "title": "Patch Your Kernel NOW: 732byte Python rootkit, cracks all distros since 2017",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-30T21:19:13.739227+00:00",
+    "published": "2026-04-30T20:48:48+00:00"
+  },
+  "https://techcrunch.com/2026/04/30/hackers-are-actively-exploiting-a-bug-in-cpanel-used-by-millions-of-websites": {
+    "title": "Hackers are actively exploiting a bug in cPanel and WHM",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-30T21:19:13.739227+00:00",
+    "published": "2026-04-30T20:43:57+00:00"
+  },
+  "https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle": {
+    "title": "Rivian allows you to disable all internet connectivity",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-30T21:19:13.739227+00:00",
+    "published": "2026-04-30T20:27:22+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/reinforcement-fine-tuning-with-llm-as-a-judge": {
+    "title": "Reinforcement fine-tuning with LLM-as-a-judge",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-04-30T21:19:13.739227+00:00",
+    "published": "2026-04-30T20:07:25+00:00"
+  },
+  "https://theupsellgame.com": {
+    "title": "The upsell game – Vercel upselling tactics revealed",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-30T21:19:13.739227+00:00",
+    "published": "2026-04-30T20:02:35+00:00"
+  },
+  "https://www.wsj.com/politics/policy/senators-vote-to-ban-themselves-from-trading-on-prediction-markets-ae4535dd": {
+    "title": "U.S. Senators Vote to Ban Themselves from Trading on Prediction Markets",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-30T21:19:13.739227+00:00",
+    "published": "2026-04-30T19:42:33+00:00"
+  },
+  "https://404privacy.com/blog/linkedin-is-scanning-your-browser-extensions-this-is-how-they-use-the-data": {
+    "title": "LinkedIn scans for 6,278 extensions and encrypts the results into every request",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-30T21:19:13.739227+00:00",
+    "published": "2026-04-30T19:40:20+00:00"
+  },
+  "https://www.cncf.io/blog/2026/04/30/ai-sandboxing-is-having-its-kubernetes-moment": {
+    "title": "AI sandboxing is having its Kubernetes moment",
+    "source": "CNCF Blog",
+    "first_seen": "2026-04-30T21:19:13.739227+00:00",
+    "published": "2026-04-30T19:37:27+00:00"
+  },
+  "https://dustri.org/b/follow-up-to-carrot-disclosure-forgejo.html": {
+    "title": "Follow-up to Carrot disclosure: Forgejo",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-30T21:19:13.739227+00:00",
+    "published": "2026-04-30T19:22:55+00:00"
+  },
+  "https://aws.amazon.com/blogs/compute/enhancing-network-observability-with-new-aws-outposts-racks-lag-metrics": {
+    "title": "Enhancing network observability with new AWS Outposts racks LAG metrics",
+    "source": "AWS Compute Blog",
+    "first_seen": "2026-04-30T21:19:13.739227+00:00",
+    "published": "2026-04-30T19:14:52+00:00"
+  },
+  "https://www.dbos.dev/blog/benchmarking-workflow-execution-scalability-on-postgres": {
+    "title": "Does Postgres Scale?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-30T21:19:13.739227+00:00",
+    "published": "2026-04-30T18:45:22+00:00"
+  },
+  "https://contralabs.com/research/human-creativity-benchmark": {
+    "title": "The Human Creativity Benchmark – Evaluating Generative AI in Creative Work",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-30T21:19:13.739227+00:00",
+    "published": "2026-04-30T18:33:03+00:00"
+  },
+  "https://peterdohertys.website/blog-posts/full-text-search-w-duckdb.html": {
+    "title": "Full-Text Search with DuckDB",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-30T21:19:13.739227+00:00",
+    "published": "2026-04-30T18:14:18+00:00"
+  },
+  "https://grafana.com/blog/how-grafana-assistant-learns-your-infrastructure-before-you-even-ask": {
+    "title": "Faster fixes, less context sharing: how Grafana Assistant learns your infrastructure before you even ask",
+    "source": "Grafana Blog",
+    "first_seen": "2026-04-30T21:19:13.739227+00:00",
+    "published": "2026-04-30T17:59:49+00:00"
+  },
+  "https://www.derekthompson.org/p/why-do-richer-dads-spend-more-time": {
+    "title": "American Dads Became the Parents Their Fathers Never Were",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-30T21:19:13.739227+00:00",
+    "published": "2026-04-30T16:38:14+00:00"
+  },
+  "https://www.hashicorp.com/blog/spiffe-securing-the-identity-of-agentic-ai-and-non-human-actors": {
+    "title": "SPIFFE: Securing the identity of agentic AI and non-human actors",
+    "source": "HashiCorp Blog",
+    "first_seen": "2026-04-30T21:19:13.739227+00:00",
+    "published": "2026-04-30T16:00:00+00:00"
+  },
+  "https://www.hashicorp.com/blog/securing-the-last-mile-with-local-account-password-rotation": {
+    "title": "Securing the last mile with local account password rotation",
+    "source": "HashiCorp Blog",
+    "first_seen": "2026-04-30T21:19:13.739227+00:00",
+    "published": "2026-04-30T07:09:00+00:00"
+  },
+  "https://www.hashicorp.com/blog/announcing-the-new-partner-premier-tier-for-the-terraform-registry": {
+    "title": "Announcing the new Partner Premier tier for the Terraform Registry",
+    "source": "HashiCorp Blog",
+    "first_seen": "2026-04-30T21:19:13.739227+00:00",
+    "published": "2026-04-30T07:09:00+00:00"
+  },
+  "https://remix.run/blog/remix-3-beta-preview": {
+    "title": "Remix 3 Beta Preview",
+    "source": "Remix Blog",
+    "first_seen": "2026-04-30T21:19:13.739227+00:00",
+    "published": "2026-04-30T00:00:00+00:00"
+  },
+  "https://blog.rust-lang.org/2026/04/30/gsoc-2026-selected-projects": {
+    "title": "Announcing Google Summer of Code 2026 selected projects",
+    "source": "Rust Blog",
+    "first_seen": "2026-04-30T21:19:13.739227+00:00",
+    "published": "2026-04-30T00:00:00+00:00"
+  },
+  "https://astro.build/blog/whats-new-april-2026": {
+    "title": "What's new in Astro - April 2026",
+    "source": "Astro Blog",
+    "first_seen": "2026-04-30T21:19:13.739227+00:00",
+    "published": "2026-04-30T00:00:00+00:00"
   }
 }
