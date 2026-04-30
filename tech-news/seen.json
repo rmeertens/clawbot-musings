@@ -12506,5 +12506,227 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-04-30T11:07:58.946589+00:00",
     "published": "2026-04-30T07:52:12+00:00"
+  },
+  "https://stackoverflow.blog/2026/04/30/worst-coder-in-the-world-goes-agentic": {
+    "title": "The Worst Coder in the World goes agentic: building a leaderboard cracking AI",
+    "source": "Stack Overflow Blog",
+    "first_seen": "2026-04-30T15:32:45.084204+00:00",
+    "published": "2026-04-30T16:00:00+00:00"
+  },
+  "https://thenewstack.io/meta-abandons-llama-spark": {
+    "title": "Meta abandons open-source Llama for proprietary Muse Spark",
+    "source": "The New Stack",
+    "first_seen": "2026-04-30T15:32:45.084204+00:00",
+    "published": "2026-04-30T15:05:45+00:00"
+  },
+  "https://thenewstack.io/quickbase-pave-vibe-coding": {
+    "title": "Quickbase’s Pave targets vibe coding’s notorious 80% problem",
+    "source": "The New Stack",
+    "first_seen": "2026-04-30T15:32:45.084204+00:00",
+    "published": "2026-04-30T15:00:00+00:00"
+  },
+  "https://opensource.microsoft.com/blog/2026/04/30/postgresql-enters-its-ai-era-run-postgresql-like-a-pro-in-the-era-of-ai-and-rapid-growth": {
+    "title": "PostgreSQL enters its AI era: Run PostgreSQL like a pro in the era of AI and rapid growth",
+    "source": "Microsoft Open Source",
+    "first_seen": "2026-04-30T15:32:45.084204+00:00",
+    "published": "2026-04-30T15:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/AerynOS-April-2026-Update": {
+    "title": "AerynOS Updated With Linux 7.0, Gaming Optimized Kernel Flavor",
+    "source": "Phoronix",
+    "first_seen": "2026-04-30T15:32:45.084204+00:00",
+    "published": "2026-04-30T14:57:51+00:00"
+  },
+  "https://www.404media.co/japan-cardboard-drones-air-kamuy": {
+    "title": "Japan Is Building Cardboard Suicide Drones",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-30T15:32:45.084204+00:00",
+    "published": "2026-04-30T14:55:36+00:00"
+  },
+  "https://twitter.com/theo/status/2049645973350363168": {
+    "title": "Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\"",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-30T15:32:45.084204+00:00",
+    "published": "2026-04-30T14:36:58+00:00"
+  },
+  "https://www.theverge.com/ai-artificial-intelligence/920401/gen-z-ai": {
+    "title": "The More Young People Use AI, the More They Hate It",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-30T15:32:45.084204+00:00",
+    "published": "2026-04-30T14:34:36+00:00"
+  },
+  "https://newsletter.pragmaticengineer.com/p/the-pulse-github-breaks": {
+    "title": "The Pulse: AI load breaks GitHub – why not other vendors?",
+    "source": "The Pragmatic Engineer",
+    "first_seen": "2026-04-30T15:32:45.084204+00:00",
+    "published": "2026-04-30T14:23:43+00:00"
+  },
+  "https://krebsonsecurity.com/2026/04/anti-ddos-firm-heaped-attacks-on-brazilian-isps": {
+    "title": "Anti-DDoS Firm Heaped Attacks on Brazilian ISPs",
+    "source": "Krebs on Security",
+    "first_seen": "2026-04-30T15:32:45.084204+00:00",
+    "published": "2026-04-30T14:04:26+00:00"
+  },
+  "https://lwn.net/Articles/1070072": {
+    "title": "[$] Restartable sequences, TCMalloc, and Hyrum's Law",
+    "source": "LWN.net",
+    "first_seen": "2026-04-30T15:32:45.084204+00:00",
+    "published": "2026-04-30T14:01:09+00:00"
+  },
+  "https://blog.cloudflare.com/post-quantum-ipsec": {
+    "title": "Post-quantum encryption for Cloudflare IPsec is generally available",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-04-30T15:32:45.084204+00:00",
+    "published": "2026-04-30T14:00:00+00:00"
+  },
+  "https://www.construction-physics.com/p/how-an-oil-refinery-works": {
+    "title": "How an Oil Refinery Works",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-30T15:32:45.084204+00:00",
+    "published": "2026-04-30T13:54:20+00:00"
+  },
+  "https://markready.io/blog/fcc-accredited-test-labs-complete-guide": {
+    "title": "The FCC is about to ban 21% of its test labs today. I mapped them all",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-30T15:32:45.084204+00:00",
+    "published": "2026-04-30T13:45:10+00:00"
+  },
+  "https://lwn.net/Articles/1070649": {
+    "title": "GCC 16.1 released",
+    "source": "LWN.net",
+    "first_seen": "2026-04-30T15:32:45.084204+00:00",
+    "published": "2026-04-30T13:38:41+00:00"
+  },
+  "https://lwn.net/Articles/1070641": {
+    "title": "Seven new stable kernels for Thursday",
+    "source": "LWN.net",
+    "first_seen": "2026-04-30T15:32:45.084204+00:00",
+    "published": "2026-04-30T13:28:09+00:00"
+  },
+  "https://www.smithsonianmag.com/science-nature/the-science-behind-honeys-eternal-shelf-life-1218690": {
+    "title": "The Science Behind Honey's Eternal Shelf Life (2013)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-30T15:32:45.084204+00:00",
+    "published": "2026-04-30T13:15:04+00:00"
+  },
+  "https://www.bbc.com/news/articles/c5y7yvgy0w6o": {
+    "title": "Meta in row after workers who saw smart glasses users having sex lose jobs",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-30T15:32:45.084204+00:00",
+    "published": "2026-04-30T13:07:42+00:00"
+  },
+  "https://lwn.net/Articles/1070640": {
+    "title": "Security updates for Thursday",
+    "source": "LWN.net",
+    "first_seen": "2026-04-30T15:32:45.084204+00:00",
+    "published": "2026-04-30T13:06:01+00:00"
+  },
+  "https://bidprowl.com": {
+    "title": "I aggregated 28 US Government auction sites into one search",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-30T15:32:45.084204+00:00",
+    "published": "2026-04-30T12:24:53+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.1-rc1-Threadripper": {
+    "title": "Linux 7.1-rc1 Showing Off Some Wins On AMD Ryzen Threadripper",
+    "source": "Phoronix",
+    "first_seen": "2026-04-30T15:32:45.084204+00:00",
+    "published": "2026-04-30T12:23:00+00:00"
+  },
+  "https://dpa-international.com/general-news/urn:newsml:dpa.com:20090101:260430-930-14717": {
+    "title": "Belgium stops decommissioning nuclear power plants",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-30T15:32:45.084204+00:00",
+    "published": "2026-04-30T12:17:14+00:00"
+  },
+  "https://deepmind.google/blog/ai-co-clinician": {
+    "title": "Enabling a new model for healthcare with AI co-clinician",
+    "source": "DeepMind Blog",
+    "first_seen": "2026-04-30T15:32:45.084204+00:00",
+    "published": "2026-04-30T12:14:15+00:00"
+  },
+  "https://www.databricks.com/blog/backstage-lakebase": {
+    "title": "Backstage with Lakebase",
+    "source": "Databricks Blog",
+    "first_seen": "2026-04-30T15:32:45.084204+00:00",
+    "published": "2026-04-30T12:00:00+00:00"
+  },
+  "https://realpython.com/quizzes/python-for-data-analysis": {
+    "title": "Quiz: Using Python for Data Analysis",
+    "source": "Real Python",
+    "first_seen": "2026-04-30T15:32:45.084204+00:00",
+    "published": "2026-04-30T12:00:00+00:00"
+  },
+  "https://gcc.gnu.org/gcc-16/changes.html": {
+    "title": "GCC 16 has been released",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-30T15:32:45.084204+00:00",
+    "published": "2026-04-30T11:40:13+00:00"
+  },
+  "https://www.databricks.com/blog/shipping-faster-isnt-learning-faster": {
+    "title": "Shipping Faster isn’t Learning Faster",
+    "source": "Databricks Blog",
+    "first_seen": "2026-04-30T15:32:45.084204+00:00",
+    "published": "2026-04-30T11:07:42+00:00"
+  },
+  "https://www.databricks.com/blog/why-your-oee-dashboard-lying-you": {
+    "title": "Why Your OEE Dashboard Is Lying to You",
+    "source": "Databricks Blog",
+    "first_seen": "2026-04-30T15:32:45.084204+00:00",
+    "published": "2026-04-30T10:39:24+00:00"
+  },
+  "https://www.databricks.com/blog/turbine-tried-tell-you-it-was-failing": {
+    "title": "The Turbine That Tried to Tell You It Was Failing",
+    "source": "Databricks Blog",
+    "first_seen": "2026-04-30T15:32:45.084204+00:00",
+    "published": "2026-04-30T10:12:19+00:00"
+  },
+  "https://www.databricks.com/blog/predicting-readmissions-isnt-enough-acting-time": {
+    "title": "Predicting Readmissions Isn't Enough. Acting in Time Is.",
+    "source": "Databricks Blog",
+    "first_seen": "2026-04-30T15:32:45.084204+00:00",
+    "published": "2026-04-30T10:08:12+00:00"
+  },
+  "https://www.databricks.com/blog/clinical-trials-run-longer-they-have-thats-patient-problem": {
+    "title": "Clinical Trials Run Longer Than They Have To. That's a Patient Problem",
+    "source": "Databricks Blog",
+    "first_seen": "2026-04-30T15:32:45.084204+00:00",
+    "published": "2026-04-30T08:53:06+00:00"
+  },
+  "https://www.databricks.com/blog/network-quality-revenue-problem-not-technical-one": {
+    "title": "Network Quality Is a Revenue Problem, Not a Technical One",
+    "source": "Databricks Blog",
+    "first_seen": "2026-04-30T15:32:45.084204+00:00",
+    "published": "2026-04-30T08:41:32+00:00"
+  },
+  "https://www.databricks.com/blog/shelf-availability-starts-better-demand-visibility": {
+    "title": "Shelf Availability Starts with Better Demand Visibility",
+    "source": "Databricks Blog",
+    "first_seen": "2026-04-30T15:32:45.084204+00:00",
+    "published": "2026-04-30T08:34:23+00:00"
+  },
+  "https://www.databricks.com/blog/when-predicting-next-hit-requires-more-intuition": {
+    "title": "When Predicting the Next Hit Requires More Than Intuition",
+    "source": "Databricks Blog",
+    "first_seen": "2026-04-30T15:32:45.084204+00:00",
+    "published": "2026-04-30T07:50:10+00:00"
+  },
+  "https://www.elastic.co/blog/top-down-with-susan-chang": {
+    "title": "Built on patterns: How Susan Chang’s econometrics roots drive machine learning for security and her minimalist workspace",
+    "source": "Elastic Blog",
+    "first_seen": "2026-04-30T15:32:45.084204+00:00",
+    "published": "2026-04-30T00:00:00+00:00"
+  },
+  "https://nodeweekly.com/issues/622": {
+    "title": "pnpm 11.0, AVA 8.0, and a Node 26 delay",
+    "source": "Node Weekly",
+    "first_seen": "2026-04-30T15:32:45.084204+00:00",
+    "published": "2026-04-30T00:00:00+00:00"
+  },
+  "https://machinelearning.apple.com/research/sign-language-annotations": {
+    "title": "Bootstrapping Sign Language Annotations with Sign Language Models",
+    "source": "Apple ML Journal",
+    "first_seen": "2026-04-30T15:32:45.084204+00:00",
+    "published": "2026-04-30T00:00:00+00:00"
   }
 }
