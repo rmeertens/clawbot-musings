@@ -12398,5 +12398,59 @@
     "source": "Apple ML Journal",
     "first_seen": "2026-04-30T03:05:32.791136+00:00",
     "published": "2026-04-29T00:00:00+00:00"
+  },
+  "https://opentelemetry.io/blog/2026/introducing-the-ecosystem-explorer": {
+    "title": "Introducing the Ecosystem Explorer Project",
+    "source": "OpenTelemetry Blog",
+    "first_seen": "2026-04-30T09:38:20.449726+00:00",
+    "published": "2026-04-30T09:23:27+00:00"
+  },
+  "https://github.com/mozilla/standards-positions/issues/1213": {
+    "title": "Mozilla's Opposition to Chrome's Prompt API",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-30T09:38:20.449726+00:00",
+    "published": "2026-04-30T07:43:55+00:00"
+  },
+  "https://scottaaronson.blog?p=9718": {
+    "title": "Will you heed my warnings now?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-30T09:38:20.449726+00:00",
+    "published": "2026-04-30T06:30:30+00:00"
+  },
+  "https://wiki.haskell.org/Monad_tutorials_timeline": {
+    "title": "Monad Tutorials Timeline",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-30T09:38:20.449726+00:00",
+    "published": "2026-04-30T04:28:07+00:00"
+  },
+  "https://www.groundcover.com/blog/otel-normalizer-genai-part-1": {
+    "title": "Lessons from Building an OTel Normalizer for GenAI",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-30T09:38:20.449726+00:00",
+    "published": "2026-04-30T04:23:40+00:00"
+  },
+  "https://burrito.bio/essays/biology-is-a-burrito": {
+    "title": "Biology is a Burrito: A text- and visual-based journey through a living cell",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-30T09:38:20.449726+00:00",
+    "published": "2026-04-30T03:24:41+00:00"
+  },
+  "https://openai.com/index/where-the-goblins-came-from": {
+    "title": "Where the goblins came from",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-30T09:38:20.449726+00:00",
+    "published": "2026-04-30T03:21:04+00:00"
+  },
+  "https://github.com/cauchy221/Alignment-Whack-a-Mole-Code": {
+    "title": "Alignment whack-a-mole: Finetuning activates recall of copyrighted books in LLMs",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-30T09:38:20.449726+00:00",
+    "published": "2026-04-30T03:11:51+00:00"
+  },
+  "https://pure-systems.org/posts/2026-04-29-functional-programmers-need-to-take-a-look-at-zig.html": {
+    "title": "Functional programmers need to take a look at Zig",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-30T09:38:20.449726+00:00",
+    "published": "2026-04-30T03:11:33+00:00"
   }
 }
