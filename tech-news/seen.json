@@ -12452,5 +12452,59 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-04-30T09:38:20.449726+00:00",
     "published": "2026-04-30T03:11:33+00:00"
+  },
+  "https://www.phoronix.com/news/GCC-16.1-Released": {
+    "title": "GCC 16.1 Released With AMD Zen 6 Support, Algol 68 & Many C/C++ Improvements",
+    "source": "Phoronix",
+    "first_seen": "2026-04-30T11:07:58.946589+00:00",
+    "published": "2026-04-30T10:37:55+00:00"
+  },
+  "https://firethering.com/granite-4-1-ibm-open-source-model-family": {
+    "title": "Granite 4.1: IBM's 8B Model Matching 32B MoE",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-30T11:07:58.946589+00:00",
+    "published": "2026-04-30T10:31:17+00:00"
+  },
+  "https://www.phoronix.com/news/AMD-openSIL-AM5-USB": {
+    "title": "3mdeb Gets More Bits Of AMD openSIL & Coreboot Working On Ryzen AM5 Motherboard",
+    "source": "Phoronix",
+    "first_seen": "2026-04-30T11:07:58.946589+00:00",
+    "published": "2026-04-30T10:28:26+00:00"
+  },
+  "https://www.schneier.com/blog/archives/2026/04/fast16-malware.html": {
+    "title": "Fast16 Malware",
+    "source": "Schneier on Security",
+    "first_seen": "2026-04-30T11:07:58.946589+00:00",
+    "published": "2026-04-30T10:22:02+00:00"
+  },
+  "https://www.phoronix.com/news/Accelerated-Page-Migration-v4": {
+    "title": "AMD Posts Newest Linux Patches To Accelerate Page Migration For Better Performance",
+    "source": "Phoronix",
+    "first_seen": "2026-04-30T11:07:58.946589+00:00",
+    "published": "2026-04-30T10:12:00+00:00"
+  },
+  "https://stratechery.com/2026/amazon-earnings-trainium-and-commodity-markets-additional-amazon-notes": {
+    "title": "Amazon Earnings, Trainium and Commodity Markets, Additional Amazon Notes",
+    "source": "Stratechery",
+    "first_seen": "2026-04-30T11:07:58.946589+00:00",
+    "published": "2026-04-30T10:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/Servo-On-FreeBSD": {
+    "title": "Servo Browser Engine Seeing Progress On FreeBSD Support",
+    "source": "Phoronix",
+    "first_seen": "2026-04-30T11:07:58.946589+00:00",
+    "published": "2026-04-30T09:52:55+00:00"
+  },
+  "https://www.phoronix.com/news/ACPI-CPPC-v4-Linux": {
+    "title": "CPPC v4 Support Being Worked On NVIDIA For The Linux ACPI Driver",
+    "source": "Phoronix",
+    "first_seen": "2026-04-30T11:07:58.946589+00:00",
+    "published": "2026-04-30T09:45:28+00:00"
+  },
+  "https://datacenter.fm": {
+    "title": "DataCenter.FM – background noise app featuring the sound of the AI bubble",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-04-30T11:07:58.946589+00:00",
+    "published": "2026-04-30T07:52:12+00:00"
   }
 }
