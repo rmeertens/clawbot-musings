@@ -13112,5 +13112,29 @@
     "source": "Astro Blog",
     "first_seen": "2026-04-30T21:19:13.739227+00:00",
     "published": "2026-04-30T00:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/Shotcut-26.4-Released": {
+    "title": "Shotcut 26.4 Released With Timeline Improvements, Vulkan Accelerated Speech-To-Text",
+    "source": "Phoronix",
+    "first_seen": "2026-04-30T23:05:50.856669+00:00",
+    "published": "2026-04-30T21:29:42+00:00"
+  },
+  "https://simonwillison.net/2026/Apr/30/andrew-kelley": {
+    "title": "Quoting Andrew Kelley",
+    "source": "Simon Willison",
+    "first_seen": "2026-04-30T23:05:50.856669+00:00",
+    "published": "2026-04-30T21:24:55+00:00"
+  },
+  "https://machinelearning.apple.com/updates/apple-at-icassp-2026": {
+    "title": "International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2026",
+    "source": "Apple ML Journal",
+    "first_seen": "2026-04-30T23:05:50.856669+00:00",
+    "published": "2026-04-30T00:00:00+00:00"
+  },
+  "https://www.hashicorp.com/blog/secure-ssh-access-at-scale-with-hashicorp-vault-and-boundary": {
+    "title": "Secure SSH access at scale with HashiCorp Vault and Boundary",
+    "source": "HashiCorp Blog",
+    "first_seen": "2026-04-30T23:05:50.856669+00:00",
+    "published": "2026-04-29T19:00:00+00:00"
   }
 }
