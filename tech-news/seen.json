@@ -13220,5 +13220,35 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-05-01T07:07:19.941112+00:00",
     "published": "2026-05-01T06:20:33+00:00"
+  },
+  "https://docs.x.ai/developers/models/grok-4.3": {
+    "title": "Grok 4.3",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-01T09:30:51.001996+00:00",
+    "published": "2026-05-01T08:29:31+00:00"
+  },
+  "https://status.canonical.com": {
+    "title": "Canonical/Ubuntu have been under DDoS for more than 15h",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-01T09:30:51.001996+00:00",
+    "published": "2026-05-01T07:44:17+00:00"
+  },
+  "https://yadin.com/notes/toasted": {
+    "title": "It’s Toasted",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-01T09:30:51.001996+00:00",
+    "published": "2026-05-01T06:34:54+00:00"
+  },
+  "https://matduggan.com/if-i-could-make-my-own-github": {
+    "title": "If I Could Make My Own GitHub",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-01T09:30:51.001996+00:00",
+    "published": "2026-05-01T06:21:01+00:00"
+  },
+  "https://green.spacedino.net/your-biggest-vulnerability-is-your-shitty-compensation": {
+    "title": "Your Biggest Vulnerability is your Shitty Compensation",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-01T09:30:51.001996+00:00",
+    "published": "2026-05-01T03:53:44+00:00"
   }
 }
