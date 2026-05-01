@@ -13634,5 +13634,101 @@
     "source": "Apple ML Journal",
     "first_seen": "2026-05-01T19:06:23.817160+00:00",
     "published": "2026-05-01T00:00:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/security/security-posture-improvement-in-the-ai-era": {
+    "title": "Security posture improvement in the AI era",
+    "source": "AWS Security Blog",
+    "first_seen": "2026-05-01T21:14:36.854579+00:00",
+    "published": "2026-05-01T20:58:39+00:00"
+  },
+  "https://metin.nextc.org/posts/Credit_Cards_Are_Vulnerable_To_Brute_Force_Kind_Attacks.html": {
+    "title": "Credit cards are vulnerable to brute force attacks",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-01T21:14:36.854579+00:00",
+    "published": "2026-05-01T20:26:24+00:00"
+  },
+  "https://thenewstack.io/incredibuild-ai-agents-sandbox-coding": {
+    "title": "AI agents are running wild on developer machines. Incredibuild has a fix.",
+    "source": "The New Stack",
+    "first_seen": "2026-05-01T21:14:36.854579+00:00",
+    "published": "2026-05-01T20:21:31+00:00"
+  },
+  "https://thenewstack.io/does-ai-demand-kubernetes": {
+    "title": "Fresh data has us asking, does AI demand Kubernetes?",
+    "source": "The New Stack",
+    "first_seen": "2026-05-01T21:14:36.854579+00:00",
+    "published": "2026-05-01T20:18:11+00:00"
+  },
+  "https://thenewstack.io/suse-ai-infrastructure-kubernetes": {
+    "title": "How SUSE positions itself as the infrastructure layer for the AI era",
+    "source": "The New Stack",
+    "first_seen": "2026-05-01T21:14:36.854579+00:00",
+    "published": "2026-05-01T20:16:22+00:00"
+  },
+  "https://www.phoronix.com/news/Endeavour-OS-Titan-Neo": {
+    "title": "EndeavourOS \"Trtion\" To Ship New Desktop/WM Options, Titan Neo Brings Various Updates",
+    "source": "Phoronix",
+    "first_seen": "2026-05-01T21:14:36.854579+00:00",
+    "published": "2026-05-01T20:13:30+00:00"
+  },
+  "https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo": {
+    "title": "Ti-84 Evo",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-01T21:14:36.854579+00:00",
+    "published": "2026-05-01T20:06:59+00:00"
+  },
+  "https://aws.amazon.com/blogs/security/announcing-the-iso-310002018-risk-management-on-aws-compliance-guide": {
+    "title": "Announcing the ISO 31000:2018 Risk Management on AWS Compliance Guide",
+    "source": "AWS Security Blog",
+    "first_seen": "2026-05-01T21:14:36.854579+00:00",
+    "published": "2026-05-01T20:01:40+00:00"
+  },
+  "https://github.com/xodn348/destiny": {
+    "title": "Show HN: Destiny – Claude Code's fortune Teller skill",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-01T21:14:36.854579+00:00",
+    "published": "2026-05-01T19:56:18+00:00"
+  },
+  "https://simonwillison.net/2026/May/1/inat-sightings": {
+    "title": "iNaturalist Sightings",
+    "source": "Simon Willison",
+    "first_seen": "2026-05-01T21:14:36.854579+00:00",
+    "published": "2026-05-01T19:35:41+00:00"
+  },
+  "https://courses.joshwcomeau.com/wham/open-house/00-introduction": {
+    "title": "Whimsical Animations Course Open House",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-01T21:14:36.854579+00:00",
+    "published": "2026-05-01T19:35:39+00:00"
+  },
+  "https://lwn.net/Articles/1070864": {
+    "title": "Eden: NHS goes to war against open source",
+    "source": "LWN.net",
+    "first_seen": "2026-05-01T21:14:36.854579+00:00",
+    "published": "2026-05-01T19:27:18+00:00"
+  },
+  "https://arstechnica.com/security/2026/05/ubuntu-infrastructure-has-been-down-for-more-than-a-day": {
+    "title": "Ubuntu servers taken offline by \"sustained, cross-border attack\"",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-01T21:14:36.854579+00:00",
+    "published": "2026-05-01T19:14:41+00:00"
+  },
+  "https://github.com/microsoft/lib0xc": {
+    "title": "Lib0xc: A set of C standard library-adjacent APIs for safer systems programming",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-01T21:14:36.854579+00:00",
+    "published": "2026-05-01T19:10:56+00:00"
+  },
+  "https://thenewstack.io/ibm-bob-agentic-development": {
+    "title": "IBM Bob hits 80,000 developers with 45% productivity gains",
+    "source": "The New Stack",
+    "first_seen": "2026-05-01T21:14:36.854579+00:00",
+    "published": "2026-05-01T19:06:02+00:00"
+  },
+  "https://ews.kylemcdonald.net": {
+    "title": "Apocalypse Early Warning System",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-01T21:14:36.854579+00:00",
+    "published": "2026-05-01T16:21:23+00:00"
   }
 }
