@@ -13250,5 +13250,53 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-05-01T09:30:51.001996+00:00",
     "published": "2026-05-01T03:53:44+00:00"
+  },
+  "https://www.phoronix.com/news/Intel-More-Crescent-Island-7.2": {
+    "title": "Intel Making More GPU Driver Improvements For Crescent Island With Linux 7.2",
+    "source": "Phoronix",
+    "first_seen": "2026-05-01T11:06:55.977960+00:00",
+    "published": "2026-05-01T10:29:24+00:00"
+  },
+  "https://techcrunch.com/2026/04/30/after-dissing-anthropic-for-limiting-mythos-openai-restricts-access-to-cyber-too": {
+    "title": "After dissing Anthropic for limiting Mythos, OpenAI restricts access to Cyber",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-01T11:06:55.977960+00:00",
+    "published": "2026-05-01T10:28:12+00:00"
+  },
+  "https://www.phoronix.com/news/Mesa-Considering-Amber-2": {
+    "title": "Mesa Developers Consider Branching Off Some Older GPU Drivers - Including AMD R300/R600",
+    "source": "Phoronix",
+    "first_seen": "2026-05-01T11:06:55.977960+00:00",
+    "published": "2026-05-01T10:17:28+00:00"
+  },
+  "https://www.phoronix.com/news/April-2026-Highlights": {
+    "title": "Linux 7.0 Release, Age Verification Laws, Ryzen 9 9950X3D2 & Other April Happenings",
+    "source": "Phoronix",
+    "first_seen": "2026-05-01T11:06:55.977960+00:00",
+    "published": "2026-05-01T09:56:53+00:00"
+  },
+  "https://news.ycombinator.com/item?id=47972888": {
+    "title": "Show HN: Perfect Bluetooth MIDI for Windows",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-01T11:06:55.977960+00:00",
+    "published": "2026-05-01T09:52:15+00:00"
+  },
+  "https://skysedge.com/telecom/RUSP/index.html": {
+    "title": "The Rotary Un-Smartphone",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-01T11:06:55.977960+00:00",
+    "published": "2026-05-01T09:39:07+00:00"
+  },
+  "https://github.com/darrylmorley/whatcable": {
+    "title": "Show HN: WhatCable, a tiny menu bar app for inspecting USB-C cables",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-01T11:06:55.977960+00:00",
+    "published": "2026-05-01T08:43:45+00:00"
+  },
+  "https://svelte.dev/blog/whats-new-in-svelte-may-2026": {
+    "title": "What’s new in Svelte: May 2026",
+    "source": "Svelte Blog",
+    "first_seen": "2026-05-01T11:06:55.977960+00:00",
+    "published": "2026-05-01T00:00:00+00:00"
   }
 }
