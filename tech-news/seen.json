@@ -13136,5 +13136,89 @@
     "source": "HashiCorp Blog",
     "first_seen": "2026-04-30T23:05:50.856669+00:00",
     "published": "2026-04-29T19:00:00+00:00"
+  },
+  "https://github.com/kernalix7/winpodx": {
+    "title": "Show HN: Winpodx – run Windows apps on Linux as native windows",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-01T03:06:02.873332+00:00",
+    "published": "2026-05-01T02:23:43+00:00"
+  },
+  "https://openwarp.zerx.dev": {
+    "title": "OpenWarp",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-01T03:06:02.873332+00:00",
+    "published": "2026-05-01T02:10:46+00:00"
+  },
+  "https://fabiensanglard.net/snes_hearts": {
+    "title": "The Hearts of the Super Nintendo",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-01T03:06:02.873332+00:00",
+    "published": "2026-05-01T02:02:11+00:00"
+  },
+  "https://clawirc.com": {
+    "title": "ClawIRC – IRC Chat for Agents",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-01T03:06:02.873332+00:00",
+    "published": "2026-05-01T00:29:57+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.2-Initial-DRM-Misc-Next": {
+    "title": "Linux 7.2 To Set Default DRM Scheduler Priority To \"Fair\", New AIE4 Hardware In AMDXDNA",
+    "source": "Phoronix",
+    "first_seen": "2026-05-01T03:06:02.873332+00:00",
+    "published": "2026-05-01T00:26:59+00:00"
+  },
+  "https://blog.rust-lang.org/2026/05/01/nvptx-baseline-update": {
+    "title": "Raising the baseline for the `nvptx64-nvidia-cuda` target",
+    "source": "Rust Blog",
+    "first_seen": "2026-05-01T03:06:02.873332+00:00",
+    "published": "2026-05-01T00:00:00+00:00"
+  },
+  "https://simonwillison.net/2026/Apr/30/codex-goals": {
+    "title": "Codex CLI 0.128.0 adds /goal",
+    "source": "Simon Willison",
+    "first_seen": "2026-05-01T03:06:02.873332+00:00",
+    "published": "2026-04-30T23:23:17+00:00"
+  },
+  "https://simonwillison.net/2026/Apr/30/gpt-55-cyber-capabilities": {
+    "title": "Our evaluation of OpenAI's GPT-5.5 cyber capabilities",
+    "source": "Simon Willison",
+    "first_seen": "2026-05-01T03:06:02.873332+00:00",
+    "published": "2026-04-30T23:03:24+00:00"
+  },
+  "https://labs.watchtowr.com/the-internet-is-falling-down-falling-down-falling-down-cpanel-whm-authentication-bypass-cve-2026-41940": {
+    "title": "CPanel and WHM Authentication Bypass – CVE-2026-41940",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-01T03:06:02.873332+00:00",
+    "published": "2026-04-30T22:48:51+00:00"
+  },
+  "https://sciencex.com/news/2026-04-snowball-earth-stranger-climate.html": {
+    "title": "Snowball Earth may hide a far stranger climate cycle than anyone expected",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-01T03:06:02.873332+00:00",
+    "published": "2026-04-30T22:18:57+00:00"
+  },
+  "https://simplex.chat/blog/20260430-simplex-channels-v6-5-consortium-crowdfunding-freedom-of-speech.html": {
+    "title": "SimpleX Channels, SimpleX Network Consortium and Community Crowdfunding",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-01T03:06:02.873332+00:00",
+    "published": "2026-04-30T20:49:21+00:00"
+  },
+  "https://kubernetes.io/blog/2026/04/30/kubernetes-v1-36-inplace-pod-level-resources-beta": {
+    "title": "Kubernetes v1.36: In-Place Vertical Scaling for Pod-Level Resources Graduates to Beta",
+    "source": "Kubernetes Blog",
+    "first_seen": "2026-05-01T03:06:02.873332+00:00",
+    "published": "2026-04-30T18:35:00+00:00"
+  },
+  "https://stackoverflow.blog/2026/05/01/time-is-a-construct-but-it-can-break-your-software": {
+    "title": "Time is a construct but it can still break your software",
+    "source": "Stack Overflow Blog",
+    "first_seen": "2026-05-01T07:07:19.941112+00:00",
+    "published": "2026-05-01T07:40:00+00:00"
+  },
+  "https://www.macrumors.com/2026/04/30/mac-studio-mac-mini-constrained-months": {
+    "title": "Apple Says Mac Studio and Mac Mini Will Be in Short Supply for Months",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-01T07:07:19.941112+00:00",
+    "published": "2026-05-01T06:20:33+00:00"
   }
 }
