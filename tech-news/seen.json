@@ -13298,5 +13298,143 @@
     "source": "Svelte Blog",
     "first_seen": "2026-05-01T11:06:55.977960+00:00",
     "published": "2026-05-01T00:00:00+00:00"
+  },
+  "https://www.tigerdata.com/blog/how-sequential-uuidv7-boosts-ingestion-performance": {
+    "title": "How Sequential UUIDv7 Boosts Ingestion Performance",
+    "source": "Timescale Blog",
+    "first_seen": "2026-05-01T15:07:26.895535+00:00",
+    "published": "2026-05-01T14:56:08+00:00"
+  },
+  "https://www.ghost.charity": {
+    "title": "GhostBox – disposable little machines from the Global Free Tier.",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-01T15:07:26.895535+00:00",
+    "published": "2026-05-01T14:52:07+00:00"
+  },
+  "https://thenewstack.io/mistral-vibe-cloud-agents": {
+    "title": "Mistral, Europe’s answer to OpenAI and Anthropic, pushes its coding agents to the cloud",
+    "source": "The New Stack",
+    "first_seen": "2026-05-01T15:07:26.895535+00:00",
+    "published": "2026-05-01T14:46:14+00:00"
+  },
+  "https://www.phoronix.com/news/AMDGPU-HDMI-2.1-FRL-Patches": {
+    "title": "AMD Posts HDMI 2.1 FRL Patches For Their AMDGPU Linux Driver",
+    "source": "Phoronix",
+    "first_seen": "2026-05-01T15:07:26.895535+00:00",
+    "published": "2026-05-01T14:44:07+00:00"
+  },
+  "https://tailscale.com/blog/cleric-tsnet-automate-software-operations": {
+    "title": "How Cleric uses tsnet to securely automate software operations",
+    "source": "Tailscale Blog",
+    "first_seen": "2026-05-01T15:07:26.895535+00:00",
+    "published": "2026-05-01T14:00:00+00:00"
+  },
+  "https://stackoverflow.blog/2026/05/01/dispatches-from-o-reilly-fast-paths-and-slow-paths": {
+    "title": "Dispatches from O'Reilly: Fast Paths and Slow Paths",
+    "source": "Stack Overflow Blog",
+    "first_seen": "2026-05-01T15:07:26.895535+00:00",
+    "published": "2026-05-01T14:00:00+00:00"
+  },
+  "https://lwn.net/Articles/1068864": {
+    "title": "[$] Version-controlled databases using Prolly trees",
+    "source": "LWN.net",
+    "first_seen": "2026-05-01T15:07:26.895535+00:00",
+    "published": "2026-05-01T13:30:25+00:00"
+  },
+  "https://www.phoronix.com/news/ASUS-ROG-RAIKIRI-II-Linux": {
+    "title": "Linux Support Coming For The ASUS ROG RAIKIRI II: A $160 High-End Gaming Controller",
+    "source": "Phoronix",
+    "first_seen": "2026-05-01T15:07:26.895535+00:00",
+    "published": "2026-05-01T13:12:54+00:00"
+  },
+  "https://lwn.net/Articles/1070848": {
+    "title": "Security updates for Friday",
+    "source": "LWN.net",
+    "first_seen": "2026-05-01T15:07:26.895535+00:00",
+    "published": "2026-05-01T13:05:16+00:00"
+  },
+  "https://www.docker.com/blog/a-virtual-agent-team-at-docker-how-the-coding-agent-sandboxes-team-uses-a-fleet-of-agents-to-ship-faster": {
+    "title": "A Virtual Agent team at Docker: How the Coding Agent Sandboxes team uses a fleet of agents to ship faster",
+    "source": "Docker Blog",
+    "first_seen": "2026-05-01T15:07:26.895535+00:00",
+    "published": "2026-05-01T13:00:00+00:00"
+  },
+  "https://blog.cloudflare.com/dynamic-workflows": {
+    "title": "Introducing Dynamic Workflows: durable execution that follows the tenant",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-05-01T15:07:26.895535+00:00",
+    "published": "2026-05-01T13:00:00+00:00"
+  },
+  "https://thenewstack.io/cursor-sdk-harness": {
+    "title": "Cursor’s $60 billion bet is on the harness, not the model",
+    "source": "The New Stack",
+    "first_seen": "2026-05-01T15:07:26.895535+00:00",
+    "published": "2026-05-01T12:00:00+00:00"
+  },
+  "https://realpython.com/quizzes/factory-method-python": {
+    "title": "Quiz: The Factory Method Pattern and Its Implementation in Python",
+    "source": "Real Python",
+    "first_seen": "2026-05-01T15:07:26.895535+00:00",
+    "published": "2026-05-01T12:00:00+00:00"
+  },
+  "https://realpython.com/podcasts/rpp/293": {
+    "title": "The Real Python Podcast – Episode #293: Agentic Data Science Pair Programming With marimo pair",
+    "source": "Real Python",
+    "first_seen": "2026-05-01T15:07:26.895535+00:00",
+    "published": "2026-05-01T12:00:00+00:00"
+  },
+  "https://www.pagetable.com?p=1854": {
+    "title": "Running Adobe's 1991 PostScript Interpreter in the Browser",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-01T15:07:26.895535+00:00",
+    "published": "2026-05-01T11:58:11+00:00"
+  },
+  "https://www.jsoftware.com/papers/Dijkstra_Letter.htm": {
+    "title": "A Letter from Dijkstra on APL",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-01T15:07:26.895535+00:00",
+    "published": "2026-05-01T11:42:12+00:00"
+  },
+  "https://www.schneier.com/blog/archives/2026/05/a-ransomware-negotiator-was-working-for-a-ransomware-gang.html": {
+    "title": "A Ransomware Negotiator Was Working for a Ransomware Gang",
+    "source": "Schneier on Security",
+    "first_seen": "2026-05-01T15:07:26.895535+00:00",
+    "published": "2026-05-01T11:18:43+00:00"
+  },
+  "https://xcancel.com/aaronp613/status/2049986504617820551": {
+    "title": "Apple accidentally left Claude.md files Apple Support app",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-01T15:07:26.895535+00:00",
+    "published": "2026-05-01T11:08:32+00:00"
+  },
+  "https://websmith.studio/blog/your-website-is-not-for-you": {
+    "title": "Your Website Is Not for You",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-01T15:07:26.895535+00:00",
+    "published": "2026-05-01T11:08:20+00:00"
+  },
+  "https://github.com/intel/auto-round": {
+    "title": "Advanced Quantization Algorithm for LLMs",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-01T15:07:26.895535+00:00",
+    "published": "2026-05-01T09:10:02+00:00"
+  },
+  "https://lovable.dev/blog/hunting-networking-bugs-in-kubernetes": {
+    "title": "Our agent found a bug with WireGuard in Google Kubernetes Engine",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-01T15:07:26.895535+00:00",
+    "published": "2026-05-01T08:14:07+00:00"
+  },
+  "https://www.elastic.co/blog/5-shifts-driving-mission-outcomes": {
+    "title": "Rethinking public sector AI: 5 shifts driving mission outcomes",
+    "source": "Elastic Blog",
+    "first_seen": "2026-05-01T15:07:26.895535+00:00",
+    "published": "2026-05-01T00:00:00+00:00"
+  },
+  "https://golangweekly.com/issues/599": {
+    "title": "Three new Go proposals",
+    "source": "Golang Weekly",
+    "first_seen": "2026-05-01T15:07:26.895535+00:00",
+    "published": "2026-05-01T00:00:00+00:00"
   }
 }
