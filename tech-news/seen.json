@@ -13964,5 +13964,119 @@
     "source": "Kubernetes Blog",
     "first_seen": "2026-05-02T15:05:28.842371+00:00",
     "published": "2026-05-01T18:35:00+00:00"
+  },
+  "https://www.tigerdata.com/blog/postgres-extensions-cheat-sheet": {
+    "title": "Postgres Extensions Cheat Sheet: Replace 7 Databases With SQL",
+    "source": "Timescale Blog",
+    "first_seen": "2026-05-02T21:12:06.636482+00:00",
+    "published": "2026-05-02T20:47:24+00:00"
+  },
+  "https://www.phoronix.com/news/AMD-GAIA-0.17.5": {
+    "title": "AMD's GAIA Defaults To Better Model, Continued Improvements For Local AI",
+    "source": "Phoronix",
+    "first_seen": "2026-05-02T21:12:06.636482+00:00",
+    "published": "2026-05-02T20:19:39+00:00"
+  },
+  "https://github.com/microsoft/vscode/pull/310226": {
+    "title": "VS Code inserting 'Co-Authored-by Copilot' into commits regardless of usage",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-02T21:12:06.636482+00:00",
+    "published": "2026-05-02T19:57:26+00:00"
+  },
+  "https://c3-lang.org/blog/unsigned-sizes-a-five-year-mistake": {
+    "title": "Unsigned Sizes: A Five Year Mistake",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-02T21:12:06.636482+00:00",
+    "published": "2026-05-02T18:40:19+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.1-rc2-GPU-Driver-Fixes": {
+    "title": "Linux 7.1-rc2 Bringing Some More Improvements/Fixes For Older AMD GPUs",
+    "source": "Phoronix",
+    "first_seen": "2026-05-02T21:12:06.636482+00:00",
+    "published": "2026-05-02T18:16:02+00:00"
+  },
+  "https://nethack.org/v500/release.html": {
+    "title": "NetHack 5.0.0",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-02T21:12:06.636482+00:00",
+    "published": "2026-05-02T18:03:42+00:00"
+  },
+  "https://www.bbc.com/news/articles/clypjx3rg2go": {
+    "title": "California to begin ticketing driverless cars that violate traffic laws",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-02T21:12:06.636482+00:00",
+    "published": "2026-05-02T17:59:18+00:00"
+  },
+  "https://donottrack.sh": {
+    "title": "Do_not_track",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-02T21:12:06.636482+00:00",
+    "published": "2026-05-02T17:40:55+00:00"
+  },
+  "https://code.videolan.org/videolan/dav2d": {
+    "title": "Dav2d",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-02T21:12:06.636482+00:00",
+    "published": "2026-05-02T17:32:29+00:00"
+  },
+  "https://flueframework.com": {
+    "title": "Flue is a TypeScript framework for building the next generation of agents",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-02T21:12:06.636482+00:00",
+    "published": "2026-05-02T17:32:07+00:00"
+  },
+  "https://simonwillison.net/2026/May/2/sightings": {
+    "title": "Sightings",
+    "source": "Simon Willison",
+    "first_seen": "2026-05-02T21:12:06.636482+00:00",
+    "published": "2026-05-02T17:26:40+00:00"
+  },
+  "https://noahclements.com/Wahoo-Bolt-Hidden-Debug-Mode": {
+    "title": "Welcome to Hell Developer",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-02T21:12:06.636482+00:00",
+    "published": "2026-05-02T17:25:54+00:00"
+  },
+  "https://www.cnbc.com/2026/05/01/roblox-rblx-stock-child-safety-earnings.html": {
+    "title": "Roblox shares plummet 18% as child safety measures weigh on bookings",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-02T21:12:06.636482+00:00",
+    "published": "2026-05-02T17:10:18+00:00"
+  },
+  "https://www.phoronix.com/news/KDE-Linux-KMSCON-Experience": {
+    "title": "KDE Linux Now Using KMSCON For A Better VT Console Experience",
+    "source": "Phoronix",
+    "first_seen": "2026-05-02T21:12:06.636482+00:00",
+    "published": "2026-05-02T17:04:47+00:00"
+  },
+  "https://github.com/federico-busato/Modern-CPP-Programming": {
+    "title": "Modern C++ Programming: Busato",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-02T21:12:06.636482+00:00",
+    "published": "2026-05-02T16:40:29+00:00"
+  },
+  "https://thenewstack.io/opensearch-ai-data-layer": {
+    "title": "Inside OpenSearch’s bid to become the default AI data layer",
+    "source": "The New Stack",
+    "first_seen": "2026-05-02T21:12:06.636482+00:00",
+    "published": "2026-05-02T16:00:00+00:00"
+  },
+  "https://techcrunch.com/2026/05/01/uber-wants-to-turn-its-millions-of-drivers-into-a-sensor-grid-for-self-driving-companies": {
+    "title": "Uber wants to turn its drivers into a sensor grid for self-driving companies",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-02T21:12:06.636482+00:00",
+    "published": "2026-05-02T15:38:17+00:00"
+  },
+  "https://blog.bytebytego.com/p/ep213-mcp-vs-skills-clearly-explained": {
+    "title": "EP213: MCP vs Skills, Clearly Explained",
+    "source": "ByteByteGo",
+    "first_seen": "2026-05-02T21:12:06.636482+00:00",
+    "published": "2026-05-02T15:30:52+00:00"
+  },
+  "https://www.wsj.com/articles/americas-expanding-domestic-surveillance-08b73187": {
+    "title": "America's Expanding Domestic Surveillance",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-02T21:12:06.636482+00:00",
+    "published": "2026-05-02T15:02:13+00:00"
   }
 }
