@@ -13826,5 +13826,143 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-05-02T07:05:54.732914+00:00",
     "published": "2026-05-02T02:18:24+00:00"
+  },
+  "https://www.phoronix.com/news/Dav2d-Open-Source-AV2-Decode": {
+    "title": "VideoLAN Publishes Dav2d For Open-Source AV2 Decoder",
+    "source": "Phoronix",
+    "first_seen": "2026-05-02T11:07:32.934002+00:00",
+    "published": "2026-05-02T11:03:05+00:00"
+  },
+  "https://www.phoronix.com/news/FreeBSD-15.1-Beta-1": {
+    "title": "FreeBSD 15.1 Beta Released For Early Testing",
+    "source": "Phoronix",
+    "first_seen": "2026-05-02T11:07:32.934002+00:00",
+    "published": "2026-05-02T10:53:24+00:00"
+  },
+  "https://www.phoronix.com/news/NVIDIA-595.44.06-Vulkan-Beta": {
+    "title": "NVIDIA Ships Fixes For Descriptor Heaps, More Vulkan Performance Optimizations",
+    "source": "Phoronix",
+    "first_seen": "2026-05-02T11:07:32.934002+00:00",
+    "published": "2026-05-02T10:41:53+00:00"
+  },
+  "https://mljar.com": {
+    "title": "Show HN: Mljar Studio – local AI data analyst that saves analysis as notebooks",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-02T11:07:32.934002+00:00",
+    "published": "2026-05-02T10:21:31+00:00"
+  },
+  "https://www.phoronix.com/news/Plasma-6.6.5-Fixes-NVIDIA": {
+    "title": "KDE Plasma 6.6.5 Fixes Some NVIDIA Performance Issues, More Features Land For Plasma 6.7",
+    "source": "Phoronix",
+    "first_seen": "2026-05-02T11:07:32.934002+00:00",
+    "published": "2026-05-02T10:19:55+00:00"
+  },
+  "https://eclecticlight.co/2026/05/02/how-fast-is-a-macos-vm-and-how-small-could-it-be": {
+    "title": "How fast is a macOS VM, and how small could it be?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-02T11:07:32.934002+00:00",
+    "published": "2026-05-02T09:30:49+00:00"
+  },
+  "https://iesna.eu?wasm=skyglow_demo": {
+    "title": "Show HN: Browser-based light pollution simulator using real photometric data",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-02T11:07:32.934002+00:00",
+    "published": "2026-05-02T09:08:18+00:00"
+  },
+  "https://copilot.simplepdf.com?share=a7d00ad073c75a75d493228e6ff7b11eb3f2d945b6175913e87898ec96ca8076&form=w9&lang=en": {
+    "title": "Show HN: Filling PDF forms with AI using client-side tool calling",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-02T11:07:32.934002+00:00",
+    "published": "2026-05-02T08:54:27+00:00"
+  },
+  "https://snewpapers.com": {
+    "title": "Show HN: Large Scale Article Extract of Newspapers 1730s-1960s",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-02T11:07:32.934002+00:00",
+    "published": "2026-05-02T08:42:45+00:00"
+  },
+  "https://devblogs.microsoft.com/oldnewthing/20150417-00?p=44213": {
+    "title": "Why are there both TMP and TEMP environment variables? (2015)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-02T11:07:32.934002+00:00",
+    "published": "2026-05-02T08:23:23+00:00"
+  },
+  "https://github.com/Teaonly/SKILL.make": {
+    "title": "SKILL.make: Makefile Styled Skill File",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-02T11:07:32.934002+00:00",
+    "published": "2026-05-02T08:18:15+00:00"
+  },
+  "https://www.yahoo.com/news/articles/yemen-says-oil-tanker-hijacked-121710980.html": {
+    "title": "Oil tanker hijacked off Yemen, steers toward Somalia",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-02T15:05:28.842371+00:00",
+    "published": "2026-05-02T13:48:21+00:00"
+  },
+  "https://arxiv.org/abs/2406.11717": {
+    "title": "Refusal in Language Models Is Mediated by a Single Direction",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-02T15:05:28.842371+00:00",
+    "published": "2026-05-02T13:15:23+00:00"
+  },
+  "https://www.bettedangerous.com/p/russia-poisons-wikipedia": {
+    "title": "Russia Poisons Wikipedia",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-02T15:05:28.842371+00:00",
+    "published": "2026-05-02T13:07:50+00:00"
+  },
+  "https://32bits.substack.com/p/under-the-microscope-pyramid-unreleased": {
+    "title": "An unknown Sega Saturn project has come to light after 29 years",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-02T15:05:28.842371+00:00",
+    "published": "2026-05-02T12:39:52+00:00"
+  },
+  "https://thenewstack.io/ibm-bob-agentic-coding": {
+    "title": "“Like taking your Ferrari to buy milk”: IBM’s Neel Sundaresan on the case for Bob",
+    "source": "The New Stack",
+    "first_seen": "2026-05-02T15:05:28.842371+00:00",
+    "published": "2026-05-02T12:25:35+00:00"
+  },
+  "https://github.com/nexu-io/open-design": {
+    "title": "Open Design: Use Your Coding Agent as a Design Engine",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-02T15:05:28.842371+00:00",
+    "published": "2026-05-02T12:16:16+00:00"
+  },
+  "https://www.economist.com/obituary/2026/05/01/craig-venter-raced-to-decode-the-human-genome": {
+    "title": "Craig Venter of Human Genome Project Dies at 79",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-02T15:05:28.842371+00:00",
+    "published": "2026-05-02T12:08:51+00:00"
+  },
+  "https://www.construction-physics.com/p/reading-list-05022026": {
+    "title": "Reading List 05/02/2026",
+    "source": "Construction Physics",
+    "first_seen": "2026-05-02T15:05:28.842371+00:00",
+    "published": "2026-05-02T12:01:30+00:00"
+  },
+  "https://www.economist.com/science-and-technology/2022/10/21/becoming-a-father-shrinks-your-cerebrum": {
+    "title": "Becoming a father shrinks your cerebrum (2022)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-02T15:05:28.842371+00:00",
+    "published": "2026-05-02T11:45:17+00:00"
+  },
+  "https://www.wsj.com/business/deals/gamestop-preparing-offer-for-ebay-1678e6de": {
+    "title": "GameStop Preparing Offer for eBay",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-02T15:05:28.842371+00:00",
+    "published": "2026-05-02T10:55:25+00:00"
+  },
+  "https://jvns.ca/blog/2026/05/02/testing-vue-components-in-the-browser": {
+    "title": "Testing Vue components in the browser",
+    "source": "Julia Evans",
+    "first_seen": "2026-05-02T15:05:28.842371+00:00",
+    "published": "2026-05-02T00:00:00+00:00"
+  },
+  "https://kubernetes.io/blog/2026/05/01/kubernetes-v1-36-feature-pod-level-resource-managers-alpha": {
+    "title": "Kubernetes v1.36: Pod-Level Resource Managers (Alpha)",
+    "source": "Kubernetes Blog",
+    "first_seen": "2026-05-02T15:05:28.842371+00:00",
+    "published": "2026-05-01T18:35:00+00:00"
   }
 }
