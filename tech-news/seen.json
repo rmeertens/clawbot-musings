@@ -14204,5 +14204,35 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-05-03T09:27:48.565655+00:00",
     "published": "2026-05-02T08:37:39+00:00"
+  },
+  "https://www.phoronix.com/news/Turtle-Beach-WaveFront-SnR": {
+    "title": "Turtle Beach WaveFront ISA Sound Cards Seeing Suspend/Resume Support On Linux In 2026",
+    "source": "Phoronix",
+    "first_seen": "2026-05-03T11:05:16.471485+00:00",
+    "published": "2026-05-03T10:46:43+00:00"
+  },
+  "https://www.phoronix.com/news/More-RustConn-Features": {
+    "title": "The GNOME-Aligned RustConn Connection Manager Continues Piling On More Features",
+    "source": "Phoronix",
+    "first_seen": "2026-05-03T11:05:16.471485+00:00",
+    "published": "2026-05-03T10:29:14+00:00"
+  },
+  "https://www.phoronix.com/news/NTFS-Driver-Fixes-Linux-7.1-rc2": {
+    "title": "New NTFS Driver Sees More Fixes With Linux 7.1-rc2",
+    "source": "Phoronix",
+    "first_seen": "2026-05-03T11:05:16.471485+00:00",
+    "published": "2026-05-03T10:15:31+00:00"
+  },
+  "https://github.com/bring-shrubbery/ml-sharp-web": {
+    "title": "Show HN: Apple's Sharp Running in the Browser via ONNX Runtime Web",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-03T11:05:16.471485+00:00",
+    "published": "2026-05-03T09:14:56+00:00"
+  },
+  "https://retrocoding.net/windows-api-is-successful-cross-platform-api": {
+    "title": "Windows API is Successful Cross-Platform API (2024)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-03T11:05:16.471485+00:00",
+    "published": "2026-05-03T02:53:29+00:00"
   }
 }
