@@ -14168,5 +14168,41 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-05-03T03:07:49.767388+00:00",
     "published": "2026-05-02T22:03:15+00:00"
+  },
+  "https://www.python.org/downloads/release/pymanager-261": {
+    "title": "Executable installer will stop being released with Python 3.16",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-03T09:27:48.565655+00:00",
+    "published": "2026-05-03T07:25:20+00:00"
+  },
+  "https://acai.sh/blog/specsmaxxing": {
+    "title": "Specsmaxxing – On overcoming AI psychosis, and why I write specs in YAML",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-03T09:27:48.565655+00:00",
+    "published": "2026-05-03T06:33:38+00:00"
+  },
+  "https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge": {
+    "title": "Kimi K2.6 just beat Claude, GPT-5.5, and Gemini in a coding challenge",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-03T09:27:48.565655+00:00",
+    "published": "2026-05-03T04:05:28+00:00"
+  },
+  "https://fshot.org/techzone/the-algorithm-knows.php": {
+    "title": "AI, Intimacy, and the Data You Never Meant to Share",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-03T09:27:48.565655+00:00",
+    "published": "2026-05-03T02:42:43+00:00"
+  },
+  "https://www.newsonjapan.com/article/149075.php": {
+    "title": "Care homes and hotels in Japan shut as expansion strategy unravels",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-03T09:27:48.565655+00:00",
+    "published": "2026-05-03T01:38:38+00:00"
+  },
+  "https://agis.io/post/dabbling-in-erlang-a-minimal-introduction": {
+    "title": "Dabbling in Erlang, part 2: A minimal introduction (2013)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-03T09:27:48.565655+00:00",
+    "published": "2026-05-02T08:37:39+00:00"
   }
 }
