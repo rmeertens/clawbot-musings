@@ -14234,5 +14234,77 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-05-03T11:05:16.471485+00:00",
     "published": "2026-05-03T02:53:29+00:00"
+  },
+  "https://thenewstack.io/open-mainframe-enterprise-modernization": {
+    "title": "Mainframe modernization is no longer optional for the AI-driven enterprise",
+    "source": "The New Stack",
+    "first_seen": "2026-05-03T15:12:42.996000+00:00",
+    "published": "2026-05-03T15:00:00+00:00"
+  },
+  "https://www.reuters.com/legal/government/how-redistricting-supreme-court-have-cut-voters-out-us-house-races-2026-05-03": {
+    "title": "Redistricting and the Supreme Court have cut voters out of US House races",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-03T15:12:42.996000+00:00",
+    "published": "2026-05-03T14:48:32+00:00"
+  },
+  "https://www.drive.com.au/news/mercedes-benz-commits-to-bringing-back-phycial-buttons": {
+    "title": "Mercedes-Benz commits to bringing back physical buttons",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-03T15:12:42.996000+00:00",
+    "published": "2026-05-03T14:43:27+00:00"
+  },
+  "https://www.tomshardware.com/software/vpn/utah-becomes-first-us-state-to-target-vpn-use-with-age-verification-law": {
+    "title": "Utah to hold websites liable for users who mask their location with VPNs",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-03T15:12:42.996000+00:00",
+    "published": "2026-05-03T14:36:14+00:00"
+  },
+  "https://yusufaytas.com/breaking-up-with-wordpress-after-two-decades": {
+    "title": "Breaking Up with WordPress After Two Decades",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-03T15:12:42.996000+00:00",
+    "published": "2026-05-03T14:34:01+00:00"
+  },
+  "https://www.phoronix.com/news/ReactOS-Unified-ISO": {
+    "title": "ReactOS Introduces Unified Live/Install Media, New Storage Driver",
+    "source": "Phoronix",
+    "first_seen": "2026-05-03T15:12:42.996000+00:00",
+    "published": "2026-05-03T14:14:22+00:00"
+  },
+  "https://simpleobservability.com/docs/alert-driven-monitoring": {
+    "title": "Alert-Driven Monitoring",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-03T15:12:42.996000+00:00",
+    "published": "2026-05-03T14:02:23+00:00"
+  },
+  "https://cleantechnica.com/2026/04/29/the-petroleum-system-is-entering-its-volatile-decline-phase": {
+    "title": "The Petroleum System Is Entering Its Volatile Decline Phase",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-03T15:12:42.996000+00:00",
+    "published": "2026-05-03T13:50:41+00:00"
+  },
+  "https://www.phoronix.com/news/GSoC-2026-Exciting-Projects": {
+    "title": "Many Exciting Google Summer of Code 2026 Projects & A Lot Of AI",
+    "source": "Phoronix",
+    "first_seen": "2026-05-03T15:12:42.996000+00:00",
+    "published": "2026-05-03T13:23:00+00:00"
+  },
+  "https://github.com/Matheus-git/systemd-manager-tui": {
+    "title": "Systemd-manager-TUI: A TUI application for managing systemd services",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-03T15:12:42.996000+00:00",
+    "published": "2026-05-03T10:55:30+00:00"
+  },
+  "https://matklad.github.io/2026/05/03/zig-error-context.html": {
+    "title": "Minimal Viable Zig Error Contexts",
+    "source": "matklad",
+    "first_seen": "2026-05-03T15:12:42.996000+00:00",
+    "published": "2026-05-03T00:00:00+00:00"
+  },
+  "https://theconsensus.dev/p/2026/05/02/automating-hermitage.html": {
+    "title": "Automating Hermitage to see how transactions differ in MySQL and MariaDB",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-03T15:12:42.996000+00:00",
+    "published": "2026-05-02T20:16:27+00:00"
   }
 }
