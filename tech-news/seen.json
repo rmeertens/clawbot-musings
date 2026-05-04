@@ -14522,5 +14522,29 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-05-04T03:05:31.461946+00:00",
     "published": "2026-05-03T17:51:58+00:00"
+  },
+  "https://lwn.net/Articles/1070980": {
+    "title": "Kernel prepatch 7.1-rc2",
+    "source": "LWN.net",
+    "first_seen": "2026-05-04T07:05:57.819963+00:00",
+    "published": "2026-05-04T05:19:00+00:00"
+  },
+  "https://blog.jim-nielsen.com/2026/small-html-pages": {
+    "title": "Stitch Together Lots of Little HTML Pages with Navigations for Interactions",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-04T07:05:57.819963+00:00",
+    "published": "2026-05-04T04:43:36+00:00"
+  },
+  "https://devblogs.microsoft.com/python/introducing-apache-arrow-support-in-mssql-python": {
+    "title": "Introducing Apache Arrow Support in mssql-python",
+    "source": "MS Python Blog",
+    "first_seen": "2026-05-04T07:05:57.819963+00:00",
+    "published": "2026-05-04T04:33:00+00:00"
+  },
+  "https://www.firgelli.com/pages/humanoid-robot-actuators": {
+    "title": "Humanoid Robot Actuators",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-04T07:05:57.819963+00:00",
+    "published": "2026-05-04T03:42:09+00:00"
   }
 }
