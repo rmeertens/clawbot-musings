@@ -14774,5 +14774,257 @@
     "source": "Databricks Blog",
     "first_seen": "2026-05-04T15:35:56.474144+00:00",
     "published": "2026-05-01T14:58:02+00:00"
+  },
+  "https://twitter.com/L1v1ng0ffTh3L4N/status/2051308329880719730": {
+    "title": "Microsoft Edge stores all passwords in memory in clear text, even when unused",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-04T19:07:16.486592+00:00",
+    "published": "2026-05-04T18:22:42+00:00"
+  },
+  "https://geeksandgamers.com/remove-star-wars-sequel-trilogy": {
+    "title": "Rumor: Disney to Remove Star Wars Sequel Trilogy from Timeline",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-04T19:07:16.486592+00:00",
+    "published": "2026-05-04T18:20:00+00:00"
+  },
+  "https://www.theregister.com/2026/05/02/local_ai_coding_agents": {
+    "title": "Usage-based pricing killing your vibe, here's how to roll your own local AI",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-04T19:07:16.486592+00:00",
+    "published": "2026-05-04T18:19:04+00:00"
+  },
+  "https://aws.amazon.com/blogs/security/securing-open-proxies-in-your-aws-environment": {
+    "title": "Securing open proxies in your AWS environment",
+    "source": "AWS Security Blog",
+    "first_seen": "2026-05-04T19:07:16.486592+00:00",
+    "published": "2026-05-04T18:16:39+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/how-amazon-documentdb-on-aws-graviton4-r8g-instances-delivers-63-better-sysbench-benchmark-results": {
+    "title": "How Amazon DocumentDB on AWS Graviton4 R8g instances delivers 63% better Sysbench benchmark results",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-05-04T19:07:16.486592+00:00",
+    "published": "2026-05-04T18:11:39+00:00"
+  },
+  "https://www.taipeitimes.com/News/front/archives/2026/04/28/2003856358": {
+    "title": "Offenders sentenced up to 10 years for spying on TSMC",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-04T19:07:16.486592+00:00",
+    "published": "2026-05-04T18:04:33+00:00"
+  },
+  "https://cloud.google.com/blog/products/data-analytics/managed-apache-airflow-scaling-data-and-ai-workloads": {
+    "title": "Scaling data and AI with Managed Service for Apache Airflow",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-05-04T19:07:16.486592+00:00",
+    "published": "2026-05-04T18:00:00+00:00"
+  },
+  "https://simonwillison.net/2026/May/4/tre-python-binding": {
+    "title": "TRE Python binding — ReDoS robustness demo",
+    "source": "Simon Willison",
+    "first_seen": "2026-05-04T19:07:16.486592+00:00",
+    "published": "2026-05-04T17:52:00+00:00"
+  },
+  "https://www.strix.ai/blog/how-strix-found-zero-auth-vulnerability-dod-backed-startup": {
+    "title": "Securing a DoD Contractor: Finding a Multi-Tenant Authorization Vulnerability",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-04T19:07:16.486592+00:00",
+    "published": "2026-05-04T17:46:32+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/beyond-bi-how-the-dataset-qa-feature-of-amazon-quick-powers-the-next-generation-of-data-decisions": {
+    "title": "Beyond BI: How the Dataset Q&A feature of Amazon Quick powers the next generation of data decisions",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-05-04T19:07:16.486592+00:00",
+    "published": "2026-05-04T17:46:32+00:00"
+  },
+  "https://www.dayswithoutgithubincident.com": {
+    "title": "Days Without GitHub Incidents",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-04T19:07:16.486592+00:00",
+    "published": "2026-05-04T17:36:32+00:00"
+  },
+  "https://www.pv-magazine.com/2026/05/04/heat-pump-sales-rise-17-across-europe-in-q1-as-energy-prices-surge": {
+    "title": "Heat pump sales rise 17% across Europe in Q1 as energy prices surge",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-04T19:07:16.486592+00:00",
+    "published": "2026-05-04T17:35:15+00:00"
+  },
+  "https://www.space.com/entertainment/space-games/kitten-space-agency-is-the-spiritual-successor-to-kerbal-space-program-and-they-have-an-ex-spacex-engineer-on-the-team-interview": {
+    "title": "'Kitten Space Agency' Is the Spiritual Successor to 'Kerbal Space Program'",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-04T19:07:16.486592+00:00",
+    "published": "2026-05-04T17:33:48+00:00"
+  },
+  "https://www.b-list.org/weblog/2026/apr/09/llms": {
+    "title": "Let's Talk about LLMs",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-04T19:07:16.486592+00:00",
+    "published": "2026-05-04T17:29:39+00:00"
+  },
+  "https://www.bloomberg.com/news/features/2026-05-03/trillions-in-us-retirement-dollars-flow-into-opaque-trusts-that-rival-etfs": {
+    "title": "Trillions in Retirement Dollars Flow into Opaque Trusts",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-04T19:07:16.486592+00:00",
+    "published": "2026-05-04T17:21:44+00:00"
+  },
+  "https://techcrunch.com/2026/05/04/us-healthcare-marketplaces-shared-citizenship-and-race-data-with-ad-tech-giants": {
+    "title": "US healthcare marketplaces shared citizenship and race data with ad tech giants",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-04T19:07:16.486592+00:00",
+    "published": "2026-05-04T17:16:36+00:00"
+  },
+  "https://www.phoronix.com/news/Steam-Controller-Shipping": {
+    "title": "Valve's Steam Controller Now Shipping",
+    "source": "Phoronix",
+    "first_seen": "2026-05-04T19:07:16.486592+00:00",
+    "published": "2026-05-04T17:15:55+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/introducing-the-agent-performance-loop-agentcore-optimization-now-in-preview": {
+    "title": "Introducing the agent performance loop: AgentCore Optimization now in preview",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-05-04T19:07:16.486592+00:00",
+    "published": "2026-05-04T17:13:42+00:00"
+  },
+  "https://economist.com/by-invitation/2026/04/29/stop-big-tech-from-making-users-behave-in-ways-they-dont-want-to": {
+    "title": "Stop big tech from making users behave in ways they don't want to",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-04T19:07:16.486592+00:00",
+    "published": "2026-05-04T17:10:57+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/agent-guided-workflows-to-accelerate-model-customization-in-amazon-sagemaker-ai": {
+    "title": "Agent-guided workflows to accelerate model customization in Amazon SageMaker AI",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-05-04T19:07:16.486592+00:00",
+    "published": "2026-05-04T17:10:46+00:00"
+  },
+  "https://devblogs.microsoft.com/dotnet/microsoft-agent-framework-building-blocks-for-ai-part-3": {
+    "title": "Microsoft Agent Framework – Building Blocks for AI Part 3",
+    "source": "MS .NET Blog",
+    "first_seen": "2026-05-04T19:07:16.486592+00:00",
+    "published": "2026-05-04T17:06:22+00:00"
+  },
+  "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-whats-next-with-aws-2026-amazon-quick-openai-partnership-and-more-may-4-2026": {
+    "title": "AWS Weekly Roundup: What’s Next with AWS 2026, Amazon Quick, OpenAI partnership, and more (May 4, 2026)",
+    "source": "AWS Blog",
+    "first_seen": "2026-05-04T19:07:16.486592+00:00",
+    "published": "2026-05-04T17:05:41+00:00"
+  },
+  "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-april-2026": {
+    "title": "The latest AI news we announced in April 2026",
+    "source": "Google AI Blog",
+    "first_seen": "2026-05-04T19:07:16.486592+00:00",
+    "published": "2026-05-04T17:00:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/generate-dashboards-from-natural-language-prompts-in-amazon-quick": {
+    "title": "Generate dashboards from natural language prompts in Amazon Quick",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-05-04T19:07:16.486592+00:00",
+    "published": "2026-05-04T16:51:37+00:00"
+  },
+  "https://wwj.dev/posts/i-am-worried-about-bun": {
+    "title": "I am worried about Bun",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-04T19:07:16.486592+00:00",
+    "published": "2026-05-04T16:45:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/connect-to-amazon-rds-for-db2-from-your-laptop": {
+    "title": "Connect to Amazon RDS for Db2 from your laptop",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-05-04T19:07:16.486592+00:00",
+    "published": "2026-05-04T16:22:57+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/troubleshoot-amazon-rds-for-oracle-to-amazon-redshift-dms-migrations-with-aws-devops-agent": {
+    "title": "Troubleshoot Amazon RDS for Oracle to Amazon Redshift DMS migrations with AWS DevOps Agent",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-05-04T19:07:16.486592+00:00",
+    "published": "2026-05-04T16:21:53+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/from-data-lake-to-ai-ready-analytics-introducing-direct-query-with-s3-tables-in-amazon-quick": {
+    "title": "From data lake to AI-ready analytics: Introducing new data source with S3 Tables in Amazon Quick",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-05-04T19:07:16.486592+00:00",
+    "published": "2026-05-04T16:12:37+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/introducing-dataset-qa-expanding-natural-language-querying-for-structured-datasets-in-amazon-quick": {
+    "title": "Introducing Dataset Q&A: Expanding natural language querying for structured datasets in Amazon Quick",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-05-04T19:07:16.486592+00:00",
+    "published": "2026-05-04T16:08:12+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/capacity-aware-inference-automatic-instance-fallback-for-sagemaker-ai-endpoints": {
+    "title": "Capacity-aware inference: Automatic instance fallback for SageMaker AI endpoints",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-05-04T19:07:16.486592+00:00",
+    "published": "2026-05-04T16:05:02+00:00"
+  },
+  "https://thenewstack.io/openai-ory-identity-scale": {
+    "title": "How OpenAI scaled to 900 million weekly users with Ory",
+    "source": "The New Stack",
+    "first_seen": "2026-05-04T19:07:16.486592+00:00",
+    "published": "2026-05-04T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/databases/firestore-agentic-ai-search-and-mongodb-compatibility": {
+    "title": "Firestore at Next '26: Unlock agentic development, search and MongoDB compatibility",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-05-04T19:07:16.486592+00:00",
+    "published": "2026-05-04T16:00:00+00:00"
+  },
+  "https://simonwillison.net/2026/May/4/redis-array": {
+    "title": "Redis Array Playground",
+    "source": "Simon Willison",
+    "first_seen": "2026-05-04T19:07:16.486592+00:00",
+    "published": "2026-05-04T15:53:57+00:00"
+  },
+  "https://www.githubstatus.com/incidents/72q3n8yxthcy": {
+    "title": "GitHub Is Down",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-04T19:07:16.486592+00:00",
+    "published": "2026-05-04T15:53:21+00:00"
+  },
+  "https://globalnews.ca/news/11828244/alberta-voter-list-leak-public-safety-disaster": {
+    "title": "Alberta voter list leak is a potential public safety disaster",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-04T19:07:16.486592+00:00",
+    "published": "2026-05-04T15:47:27+00:00"
+  },
+  "https://www.nber.org/papers/w35117": {
+    "title": "Does Employment Slow Cognitive Decline? Evidence from Labor Market Shocks",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-04T19:07:16.486592+00:00",
+    "published": "2026-05-04T15:32:46+00:00"
+  },
+  "https://www.fuelinsight.co.uk": {
+    "title": "I tracked 7,700 UK petrol stations every 10 minutes for 3 months",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-04T19:07:16.486592+00:00",
+    "published": "2026-05-04T15:15:21+00:00"
+  },
+  "https://pomiferous.com": {
+    "title": "Pomiferous: The most extensive apples (pommes) database",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-04T19:07:16.486592+00:00",
+    "published": "2026-05-04T14:47:41+00:00"
+  },
+  "https://cloud.google.com/blog/products/chrome-enterprise/chrome-enterprise-introduces-new-integrations-for-healthcare": {
+    "title": "Chrome Enterprise introduces new integrations for healthcare",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-05-04T19:07:16.486592+00:00",
+    "published": "2026-05-04T10:48:00+00:00"
+  },
+  "https://www.elastic.co/blog/siem-readiness": {
+    "title": "Is your SIEM actually ready? A new way to find out",
+    "source": "Elastic Blog",
+    "first_seen": "2026-05-04T19:07:16.486592+00:00",
+    "published": "2026-05-04T00:00:00+00:00"
+  },
+  "https://openai.com/index/delivering-low-latency-voice-ai-at-scale": {
+    "title": "How OpenAI delivers low-latency voice AI at scale",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-05-04T19:07:16.486592+00:00",
+    "published": "2026-05-04T00:00:00+00:00"
+  },
+  "https://discord.com/blog/discord-patch-notes-may-4-2026": {
+    "title": "Discord Patch Notes: May 4, 2026",
+    "source": "Discord Engineering",
+    "first_seen": "2026-05-04T19:07:16.486592+00:00",
+    "published": "2026-05-04T00:00:00+00:00"
   }
 }
