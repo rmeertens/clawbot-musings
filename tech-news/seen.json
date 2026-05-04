@@ -15098,5 +15098,65 @@
     "source": "Python Insider",
     "first_seen": "2026-05-04T21:21:14.134986+00:00",
     "published": "2026-05-04T00:00:00+00:00"
+  },
+  "https://www.hashicorp.com/blog/mitigate-credential-exposure-in-windows-environments-with-boundary-and-vault": {
+    "title": "Mitigate credential exposure in Windows environments with Boundary and Vault",
+    "source": "HashiCorp Blog",
+    "first_seen": "2026-05-04T23:05:52.611665+00:00",
+    "published": "2026-05-14T07:09:00+00:00"
+  },
+  "https://simonwillison.net/2026/May/4/andy-masley": {
+    "title": "Quoting Andy Masley",
+    "source": "Simon Willison",
+    "first_seen": "2026-05-04T23:05:52.611665+00:00",
+    "published": "2026-05-04T22:51:09+00:00"
+  },
+  "https://simonwillison.net/2026/May/4/april-newsletter": {
+    "title": "April 2026 newsletter",
+    "source": "Simon Willison",
+    "first_seen": "2026-05-04T23:05:52.611665+00:00",
+    "published": "2026-05-04T22:38:36+00:00"
+  },
+  "https://addyosmani.com/blog/agent-skills": {
+    "title": "Agent Skills",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-04T23:05:52.611665+00:00",
+    "published": "2026-05-04T21:40:42+00:00"
+  },
+  "https://thenewstack.io/feedback-driven-ai-adoption": {
+    "title": "AI won’t speed up software delivery — nothing has",
+    "source": "The New Stack",
+    "first_seen": "2026-05-04T23:05:52.611665+00:00",
+    "published": "2026-05-04T21:38:28+00:00"
+  },
+  "https://www.theguardian.com/us-news/2026/may/04/new-orleans-sea-levels-relocation-climate-crisis": {
+    "title": "'Point of no return': New Orleans relocation must start now due to sea level",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-04T23:05:52.611665+00:00",
+    "published": "2026-05-04T21:25:55+00:00"
+  },
+  "https://www.pulitzer.org/prize-winners-by-year/2026": {
+    "title": "Pulitzer Prize Winners 2026",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-04T23:05:52.611665+00:00",
+    "published": "2026-05-04T21:14:38+00:00"
+  },
+  "https://arxiv.org/abs/2510.19315": {
+    "title": "Transformers Are Inherently Succinct",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-04T23:05:52.611665+00:00",
+    "published": "2026-05-04T20:03:08+00:00"
+  },
+  "https://www.hashicorp.com/blog/introducing-hcp-terraform-powered-by-infragraph-in-public-preview": {
+    "title": "Introducing HCP Terraform powered by Infragraph - now in public preview",
+    "source": "HashiCorp Blog",
+    "first_seen": "2026-05-04T23:05:52.611665+00:00",
+    "published": "2026-05-04T18:45:00+00:00"
+  },
+  "https://blog.google/innovation-and-ai/technology/developers-tools/event-driven-webhooks": {
+    "title": "Reduce friction and latency for long-running jobs with Webhooks in Gemini API",
+    "source": "Google AI Blog",
+    "first_seen": "2026-05-04T23:05:52.611665+00:00",
+    "published": "2026-05-04T15:30:00+00:00"
   }
 }
