@@ -14564,5 +14564,59 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-05-04T09:40:37.430095+00:00",
     "published": "2026-05-02T11:51:31+00:00"
+  },
+  "https://www.cncf.io/blog/2026/05/04/securing-github-actions-ci-dependencies-recipe-card": {
+    "title": "Securing GitHub Actions CI dependencies: Recipe card",
+    "source": "CNCF Blog",
+    "first_seen": "2026-05-04T11:05:48.318139+00:00",
+    "published": "2026-05-04T11:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-FS-Proliferation-Burden": {
+    "title": "Linux File-System Proliferation A Burden: Requirements Laid Out For Any Future File-Systems",
+    "source": "Phoronix",
+    "first_seen": "2026-05-04T11:05:48.318139+00:00",
+    "published": "2026-05-04T10:28:00+00:00"
+  },
+  "https://stratechery.com/2026/google-earnings-meta-earnings": {
+    "title": "Google Earnings, Meta Earnings",
+    "source": "Stratechery",
+    "first_seen": "2026-05-04T11:05:48.318139+00:00",
+    "published": "2026-05-04T10:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/AMD-GFX12.1-Mesa-Start": {
+    "title": "Mesa Begins Seeing Patch Activity For AMD GFX12.1 Graphics",
+    "source": "Phoronix",
+    "first_seen": "2026-05-04T11:05:48.318139+00:00",
+    "published": "2026-05-04T09:58:01+00:00"
+  },
+  "https://github.com/ruvnet/ruflo/blob/main/docs/USERGUIDE.md": {
+    "title": "Ruflo: Multi-agent AI orchestration for Claude Code",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-04T11:05:48.318139+00:00",
+    "published": "2026-05-04T09:52:38+00:00"
+  },
+  "https://www.schneier.com/blog/archives/2026/05/hacking-polymarket.html": {
+    "title": "Hacking Polymarket",
+    "source": "Schneier on Security",
+    "first_seen": "2026-05-04T11:05:48.318139+00:00",
+    "published": "2026-05-04T09:46:31+00:00"
+  },
+  "https://notepad-plus-plus.org/news/npp-trademark-infringement": {
+    "title": "Trademark violation: Fake Notepad++ for Mac",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-04T11:05:48.318139+00:00",
+    "published": "2026-05-04T09:40:06+00:00"
+  },
+  "https://www.bbc.co.uk/news/articles/cn0p8yled1do": {
+    "title": "GameStop makes $55.5B takeover offer for eBay",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-04T11:05:48.318139+00:00",
+    "published": "2026-05-04T09:31:12+00:00"
+  },
+  "https://www.youtube.com/watch?v=wr9YLGbhxng": {
+    "title": "World's biggest RC A380 [video]",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-04T11:05:48.318139+00:00",
+    "published": "2026-05-02T18:04:28+00:00"
   }
 }
