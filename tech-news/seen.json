@@ -14618,5 +14618,161 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-05-04T11:05:48.318139+00:00",
     "published": "2026-05-02T18:04:28+00:00"
+  },
+  "https://blog.bytebytego.com/p/connecting-llms-to-the-real-world": {
+    "title": "Connecting LLMs to the Real World: Tool Use, Function Calling, and MCP",
+    "source": "ByteByteGo",
+    "first_seen": "2026-05-04T15:35:56.474144+00:00",
+    "published": "2026-05-04T15:30:46+00:00"
+  },
+  "https://lwn.net/Articles/1071176": {
+    "title": "Alpine Linux systems currently offline",
+    "source": "LWN.net",
+    "first_seen": "2026-05-04T15:35:56.474144+00:00",
+    "published": "2026-05-04T15:20:32+00:00"
+  },
+  "https://www.ecopv-eu.com/en/blog-en/replaceable-smartphone-batteries-2027-eu-regulation": {
+    "title": "Removable batteries in smartphones will be mandatory in the EU starting in 2027",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-04T15:35:56.474144+00:00",
+    "published": "2026-05-04T15:10:41+00:00"
+  },
+  "https://thenewstack.io/ai-agent-telemetry-standardization": {
+    "title": "Arize AI and Google Cloud lay down standardized telemetry mandate to keep enterprise agents in check",
+    "source": "The New Stack",
+    "first_seen": "2026-05-04T15:35:56.474144+00:00",
+    "published": "2026-05-04T15:00:00+00:00"
+  },
+  "https://github.blog/open-source/register-now-for-openclaw-after-hours-github": {
+    "title": "Register now for OpenClaw: After Hours @ GitHub",
+    "source": "GitHub Blog",
+    "first_seen": "2026-05-04T15:35:56.474144+00:00",
+    "published": "2026-05-04T15:00:00+00:00"
+  },
+  "https://lwn.net/Articles/1070006": {
+    "title": "[$] Bug-monitoring expectations and Fedora GNOME packages",
+    "source": "LWN.net",
+    "first_seen": "2026-05-04T15:35:56.474144+00:00",
+    "published": "2026-05-04T14:59:29+00:00"
+  },
+  "https://lwn.net/Articles/1071175": {
+    "title": "NetHack 5.0.0 released",
+    "source": "LWN.net",
+    "first_seen": "2026-05-04T15:35:56.474144+00:00",
+    "published": "2026-05-04T14:58:36+00:00"
+  },
+  "https://www.phoronix.com/news/Omarchy-3.7-Released": {
+    "title": "Omarchy 3.7 Linux Distribution Overhauls Gaming Support, Adds Unified CLI",
+    "source": "Phoronix",
+    "first_seen": "2026-05-04T15:35:56.474144+00:00",
+    "published": "2026-05-04T14:55:45+00:00"
+  },
+  "https://thenewstack.io/palo-alto-portkey-ai-gateway": {
+    "title": "Palo Alto Networks bets $700M-class AI bet on Portkey gateway",
+    "source": "The New Stack",
+    "first_seen": "2026-05-04T15:35:56.474144+00:00",
+    "published": "2026-05-04T14:49:24+00:00"
+  },
+  "https://antirez.com/news/164": {
+    "title": "Redis array: short story of a long development process",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-04T15:35:56.474144+00:00",
+    "published": "2026-05-04T14:23:07+00:00"
+  },
+  "https://blog.alcazarsec.com/tech/posts/how-moneros-proof-of-work-works": {
+    "title": "How Monero's proof of work works",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-04T15:35:56.474144+00:00",
+    "published": "2026-05-04T14:10:50+00:00"
+  },
+  "https://thenewstack.io/agent-code-validation-bottleneck": {
+    "title": "The agent code explosion is here. We need to rethink our pipelines, fast.",
+    "source": "The New Stack",
+    "first_seen": "2026-05-04T15:35:56.474144+00:00",
+    "published": "2026-05-04T14:00:00+00:00"
+  },
+  "https://realpython.com/python-news-may-2026": {
+    "title": "A New Python Packaging Council and Other News for May 2026",
+    "source": "Real Python",
+    "first_seen": "2026-05-04T15:35:56.474144+00:00",
+    "published": "2026-05-04T14:00:00+00:00"
+  },
+  "https://www.phoronix.com/review/gcc-16-benchmarks": {
+    "title": "GCC 16 Compiler Delivering Some Decent Performance Gains Over GCC 15",
+    "source": "Phoronix",
+    "first_seen": "2026-05-04T15:35:56.474144+00:00",
+    "published": "2026-05-04T13:42:21+00:00"
+  },
+  "https://lwn.net/Articles/1071167": {
+    "title": "Security updates for Monday",
+    "source": "LWN.net",
+    "first_seen": "2026-05-04T15:35:56.474144+00:00",
+    "published": "2026-05-04T13:26:43+00:00"
+  },
+  "https://www.engadget.com/big-tech/someone-allegedly-used-a-hairdryer-to-rig-polymarket-weather-bets-155312411.html": {
+    "title": "Someone allegedly used a hairdryer to rig Polymarket weather bets",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-04T15:35:56.474144+00:00",
+    "published": "2026-05-04T13:13:52+00:00"
+  },
+  "https://www.phoronix.com/news/CachyOS-Better-Python-Perf": {
+    "title": "CachyOS Switches Python To Using Tail-Call Interpreter For 5~15% Better Performance",
+    "source": "Phoronix",
+    "first_seen": "2026-05-04T15:35:56.474144+00:00",
+    "published": "2026-05-04T13:12:11+00:00"
+  },
+  "https://github.com/pyinfra-dev/pyinfra/releases/tag/v3.8.0": {
+    "title": "PyInfra 3.8.0 Is Out",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-04T15:35:56.474144+00:00",
+    "published": "2026-05-04T12:53:46+00:00"
+  },
+  "https://www.science.org/content/article/newton-s-law-gravity-passes-its-biggest-test-ever": {
+    "title": "Newton's law of gravity passes its biggest test",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-04T15:35:56.474144+00:00",
+    "published": "2026-05-04T12:52:57+00:00"
+  },
+  "https://github.com/vivekg13186/Daisy-DAG": {
+    "title": "DAG Workflow Engine",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-04T15:35:56.474144+00:00",
+    "published": "2026-05-04T12:32:00+00:00"
+  },
+  "https://realpython.com/quizzes/python-sqlite-sqlalchemy": {
+    "title": "Quiz: Data Management With Python, SQLite, and SQLAlchemy",
+    "source": "Real Python",
+    "first_seen": "2026-05-04T15:35:56.474144+00:00",
+    "published": "2026-05-04T12:00:00+00:00"
+  },
+  "https://www.wsj.com/finance/investing/polymarket-kalshi-betting-profits-prediction-markets-eb23ac11": {
+    "title": "Why Almost Everyone Loses–Except a Few Sharks–On Prediction Markets",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-04T15:35:56.474144+00:00",
+    "published": "2026-05-04T11:49:16+00:00"
+  },
+  "https://thienantran.com/talking-to-35-strangers-at-the-gym": {
+    "title": "Talking to 35 Strangers at the Gym",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-04T15:35:56.474144+00:00",
+    "published": "2026-05-04T11:41:02+00:00"
+  },
+  "https://www.elastic.co/blog/how-it-leaders-measure-roi-of-agentic-ai-initiatives": {
+    "title": "How IT leaders can measure the ROI of agentic AI initiatives",
+    "source": "Elastic Blog",
+    "first_seen": "2026-05-04T15:35:56.474144+00:00",
+    "published": "2026-05-04T00:00:00+00:00"
+  },
+  "https://realpython.com/quizzes/revisit-python-fundamentals": {
+    "title": "Quiz: Revisit Python Fundamentals",
+    "source": "Real Python",
+    "first_seen": "2026-05-04T15:35:56.474144+00:00",
+    "published": "2026-05-03T12:00:00+00:00"
+  },
+  "https://www.databricks.com/blog/driving-budapest-forward-how-bkk-uses-databricks-transform-city-mobility": {
+    "title": "Driving Budapest Forward: How BKK Uses Databricks to Transform City Mobility",
+    "source": "Databricks Blog",
+    "first_seen": "2026-05-04T15:35:56.474144+00:00",
+    "published": "2026-05-01T14:58:02+00:00"
   }
 }
