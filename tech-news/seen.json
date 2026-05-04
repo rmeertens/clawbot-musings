@@ -15026,5 +15026,77 @@
     "source": "Discord Engineering",
     "first_seen": "2026-05-04T19:07:16.486592+00:00",
     "published": "2026-05-04T00:00:00+00:00"
+  },
+  "https://developer.nvidia.com/blog/optimize-supply-chain-decision-systems-using-nvidia-cuopt-agent-skills": {
+    "title": "Optimize Supply Chain Decision Systems Using NVIDIA cuOpt Agent Skills",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-05-04T21:21:14.134986+00:00",
+    "published": "2026-05-04T20:55:05+00:00"
+  },
+  "https://www.phoronix.com/news/NVIDIA-AutoFDO-Tool-For-GCC": {
+    "title": "NVIDIA Looking To Create New Tool For Generating AutoFDO Profiles For GCC",
+    "source": "Phoronix",
+    "first_seen": "2026-05-04T21:21:14.134986+00:00",
+    "published": "2026-05-04T20:29:29+00:00"
+  },
+  "https://stripe.dev/blog/formatting-an-entire-25-million-line-codebase-overnight-the-rubyfmt-story": {
+    "title": "Formatting a 25M-line codebase overnight",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-04T21:21:14.134986+00:00",
+    "published": "2026-05-04T20:11:53+00:00"
+  },
+  "https://www.phoronix.com/news/AMD-ROCm-7.2.3": {
+    "title": "ROCm 7.2.3 Brings Minor Updates, ROCm XIO Documentation",
+    "source": "Phoronix",
+    "first_seen": "2026-05-04T21:21:14.134986+00:00",
+    "published": "2026-05-04T19:55:42+00:00"
+  },
+  "https://www.databricks.com/blog/foundation-ai-scalability-one-team-one-platform-one-operating-model": {
+    "title": "The foundation of AI scalability: one team, one platform, one operating model",
+    "source": "Databricks Blog",
+    "first_seen": "2026-05-04T21:21:14.134986+00:00",
+    "published": "2026-05-04T19:00:00+00:00"
+  },
+  "https://eblong.com/infocom/visi/zork3": {
+    "title": "The Visible Zorker: Zork 3",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-04T21:21:14.134986+00:00",
+    "published": "2026-05-04T16:59:28+00:00"
+  },
+  "https://www.404media.co/literacy-in-future-technologies-artificial-intelligence-act-adam-schiff-mike-rounds": {
+    "title": "OpenAI, Google, and Microsoft Back Bill to Fund 'AI Literacy' in Schools",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-04T21:21:14.134986+00:00",
+    "published": "2026-05-04T16:21:38+00:00"
+  },
+  "https://sierra.ai/blog/better-customer-experiences-built-on-sierra": {
+    "title": "Sierra Raises $950M at $15B Valuation",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-04T21:21:14.134986+00:00",
+    "published": "2026-05-04T15:51:37+00:00"
+  },
+  "https://electrek.co/2026/05/02/tesla-1966-mustang-ev-conversion-full-self-driving": {
+    "title": "1966 Ford Mustang Converted into a Tesla with Working 'Full Self-Driving'",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-04T21:21:14.134986+00:00",
+    "published": "2026-05-04T15:22:53+00:00"
+  },
+  "https://jvns.ca/blog/2026/05/04/css-colour-palettes": {
+    "title": "Links to CSS colour palettes",
+    "source": "Julia Evans",
+    "first_seen": "2026-05-04T21:21:14.134986+00:00",
+    "published": "2026-05-04T00:00:00+00:00"
+  },
+  "https://blog.rust-lang.org/2026/05/04/outreachy-2026-may": {
+    "title": "Rust is participating in Outreachy",
+    "source": "Rust Blog",
+    "first_seen": "2026-05-04T21:21:14.134986+00:00",
+    "published": "2026-05-04T00:00:00+00:00"
+  },
+  "https://blog.python.org/2026/05/python-3145rc1": {
+    "title": "Python 3.14.5 release candidate",
+    "source": "Python Insider",
+    "first_seen": "2026-05-04T21:21:14.134986+00:00",
+    "published": "2026-05-04T00:00:00+00:00"
   }
 }
