@@ -15374,5 +15374,143 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-05-05T11:07:13.774132+00:00",
     "published": "2026-05-05T03:09:56+00:00"
+  },
+  "https://aws.amazon.com/blogs/security/five-ways-to-use-kiro-and-amazon-q-to-strengthen-your-security-posture": {
+    "title": "Five ways to use Kiro and Amazon Q to strengthen your security posture",
+    "source": "AWS Security Blog",
+    "first_seen": "2026-05-05T15:06:03.702380+00:00",
+    "published": "2026-05-05T15:00:07+00:00"
+  },
+  "https://lwn.net/Articles/1069954": {
+    "title": "[$] Hardware-assisted Arm VMs for s390",
+    "source": "LWN.net",
+    "first_seen": "2026-05-05T15:06:03.702380+00:00",
+    "published": "2026-05-05T14:52:45+00:00"
+  },
+  "https://www.phoronix.com/review/linux-71-features-changes": {
+    "title": "Linux 7.1 Features: New NTFS Driver, New Intel + AMD Hardware, Performance Optimizations & Modernization",
+    "source": "Phoronix",
+    "first_seen": "2026-05-05T15:06:03.702380+00:00",
+    "published": "2026-05-05T14:42:00+00:00"
+  },
+  "https://github.blog/open-source/maintainers/welcome-to-maintainer-month-celebrating-the-people-behind-the-code": {
+    "title": "Welcome to Maintainer Month: Celebrating the people behind the code",
+    "source": "GitHub Blog",
+    "first_seen": "2026-05-05T15:06:03.702380+00:00",
+    "published": "2026-05-05T14:30:00+00:00"
+  },
+  "https://muddy.jprs.me/posts/2026-05-03-the-best-is-over": {
+    "title": "The best is over: The fun has been optimized out of the Internet",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-05T15:06:03.702380+00:00",
+    "published": "2026-05-05T14:29:24+00:00"
+  },
+  "https://idiallo.com/blog/ai-didnt-delete-your-database-you-did": {
+    "title": "AI didn't delete your database, you did",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-05T15:06:03.702380+00:00",
+    "published": "2026-05-05T14:07:50+00:00"
+  },
+  "https://slack.engineering/from-ssh-to-rest-a-security-driven-modernization-of-slacks-emr-data-pipelines": {
+    "title": "From SSH to REST: A Security-Driven Modernization of Slack’s EMR Data Pipelines",
+    "source": "Slack Engineering",
+    "first_seen": "2026-05-05T15:06:03.702380+00:00",
+    "published": "2026-05-05T14:00:01+00:00"
+  },
+  "https://tailscale.com/blog/headlamp-oidc-login-tsidp-kubernetes": {
+    "title": "Fixing Headlamp OIDC login with Tailscale and tsidp",
+    "source": "Tailscale Blog",
+    "first_seen": "2026-05-05T15:06:03.702380+00:00",
+    "published": "2026-05-05T14:00:00+00:00"
+  },
+  "https://realpython.com/courses/use-codex-cli-enhance-your-python-projects": {
+    "title": "Use Codex CLI to Enhance Your Python Projects",
+    "source": "Real Python",
+    "first_seen": "2026-05-05T15:06:03.702380+00:00",
+    "published": "2026-05-05T14:00:00+00:00"
+  },
+  "https://zozo123.github.io/meta-harness-on-islo-page": {
+    "title": "Simple Meta-Harness on Islo.dev",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-05T15:06:03.702380+00:00",
+    "published": "2026-05-05T13:55:45+00:00"
+  },
+  "https://www.wsj.com/tech/ai/google-microsoft-and-xai-agree-to-share-early-ai-models-with-u-s-f95a88d1": {
+    "title": "Google, Microsoft and xAI Agree to Share Early AI Models with U.S.",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-05T15:06:03.702380+00:00",
+    "published": "2026-05-05T13:51:01+00:00"
+  },
+  "https://lwn.net/Articles/1071324": {
+    "title": "Security updates for Tuesday",
+    "source": "LWN.net",
+    "first_seen": "2026-05-05T15:06:03.702380+00:00",
+    "published": "2026-05-05T13:14:55+00:00"
+  },
+  "https://tooldirectory.ai/ai-graveyard": {
+    "title": "AI Product Graveyard",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-05T15:06:03.702380+00:00",
+    "published": "2026-05-05T13:00:47+00:00"
+  },
+  "https://www.docker.com/blog/blog-generate-images-locally-dmr-open-webui": {
+    "title": "Generate Images Locally with Docker Model Runner and Open WebUI",
+    "source": "Docker Blog",
+    "first_seen": "2026-05-05T15:06:03.702380+00:00",
+    "published": "2026-05-05T13:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/Intel-Mesa-26.2-Memory-Pressure": {
+    "title": "Intel Drivers With Mesa 26.2 Ready With Xe In Linux 7.1 To Better Handle vRAM Pressure",
+    "source": "Phoronix",
+    "first_seen": "2026-05-05T15:06:03.702380+00:00",
+    "published": "2026-05-05T12:57:41+00:00"
+  },
+  "https://walletwallet.alen.ro/blog/ios-27-wallet-create-pass": {
+    "title": "iOS 27 is adding a 'Create a Pass' button to Apple Wallet",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-05T15:06:03.702380+00:00",
+    "published": "2026-05-05T12:28:28+00:00"
+  },
+  "https://www.phoronix.com/news/Manjaro-26.1-Preview": {
+    "title": "Manjaro 26.1 Preview Released With GNOME 50, KDE Plasma 6.6 & Xfce 4.20 Options",
+    "source": "Phoronix",
+    "first_seen": "2026-05-05T15:06:03.702380+00:00",
+    "published": "2026-05-05T12:17:10+00:00"
+  },
+  "https://wordtrak.com/blog/2026-05-05-I-built-a-new-word-game": {
+    "title": "Show HN: I built a new word game, Wordtrak",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-05T15:06:03.702380+00:00",
+    "published": "2026-05-05T12:14:17+00:00"
+  },
+  "https://realpython.com/quizzes/python-application-layouts": {
+    "title": "Quiz: Python Application Layouts: A Reference",
+    "source": "Real Python",
+    "first_seen": "2026-05-05T15:06:03.702380+00:00",
+    "published": "2026-05-05T12:00:00+00:00"
+  },
+  "https://thenewstack.io/ai-agent-payment-protocols": {
+    "title": "AI agents need to spend money — Stripe and iWallet are building the rails",
+    "source": "The New Stack",
+    "first_seen": "2026-05-05T15:06:03.702380+00:00",
+    "published": "2026-05-05T11:43:29+00:00"
+  },
+  "https://www.phoronix.com/news/AMD-CPPC-HighestFreq": {
+    "title": "AMD Preps Linux For CPPC HighestFreq Feature Coming With Future ACPI Spec",
+    "source": "Phoronix",
+    "first_seen": "2026-05-05T15:06:03.702380+00:00",
+    "published": "2026-05-05T11:36:03+00:00"
+  },
+  "https://lwn.net/Articles/1071253": {
+    "title": "The retirement of the PHP license",
+    "source": "LWN.net",
+    "first_seen": "2026-05-05T15:06:03.702380+00:00",
+    "published": "2026-05-05T11:27:49+00:00"
+  },
+  "https://blog.trailofbits.com/2026/05/05/c/c-checklist-challenges-solved": {
+    "title": "C/C++ checklist challenges, solved",
+    "source": "Trail of Bits",
+    "first_seen": "2026-05-05T15:06:03.702380+00:00",
+    "published": "2026-05-05T11:00:00+00:00"
   }
 }
