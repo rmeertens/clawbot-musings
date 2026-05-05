@@ -15548,5 +15548,353 @@
     "source": "Microsoft Blog",
     "first_seen": "2026-05-05T15:31:43.331371+00:00",
     "published": "2026-05-05T10:00:01+00:00"
+  },
+  "https://cloud.google.com/blog/topics/public-sector/public-sector-momentum-and-mission-impact-at-google-cloud-next-26": {
+    "title": "Public sector momentum and mission impact at Google Cloud Next ‘26",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-05-05T21:19:01.933423+00:00",
+    "published": "2026-05-05T21:00:00+00:00"
+  },
+  "https://www.macrumors.com/2026/05/05/apple-mac-studio-mac-mini-ram-cuts": {
+    "title": "Apple Cuts More Mac Studio and Mac Mini RAM Options as Memory Shortage Worsens",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-05T21:19:01.933423+00:00",
+    "published": "2026-05-05T20:35:03+00:00"
+  },
+  "https://dnssec-analyzer.verisignlabs.com/nic.de": {
+    "title": ".de TLD offline due to DNSSEC?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-05T21:19:01.933423+00:00",
+    "published": "2026-05-05T20:16:35+00:00"
+  },
+  "https://www.phoronix.com/news/Intel-ANV-Descriptor-Heap-Merge": {
+    "title": "Intel's Vulkan Linux Driver Lands Experimental Support For Descriptor Heaps",
+    "source": "Phoronix",
+    "first_seen": "2026-05-05T21:19:01.933423+00:00",
+    "published": "2026-05-05T20:00:02+00:00"
+  },
+  "https://www.databricks.com/blog/10-trillion-samples-day-scaling-beyond-traditional-monitoring-infra-databricks": {
+    "title": "10 trillion samples a day: Scaling beyond traditional monitoring infra at Databricks",
+    "source": "Databricks Blog",
+    "first_seen": "2026-05-05T21:19:01.933423+00:00",
+    "published": "2026-05-05T19:30:03+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/amazon-aurora-dsql-for-global-scale-financial-transactions": {
+    "title": "Amazon Aurora DSQL for global-scale financial transactions",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-05-05T21:19:01.933423+00:00",
+    "published": "2026-05-05T19:27:27+00:00"
+  },
+  "https://thenewstack.io/amazon-coding-agents-developers": {
+    "title": "AI and Claude: The internal rebellion that changed Amazon’s rules",
+    "source": "The New Stack",
+    "first_seen": "2026-05-05T21:19:01.933423+00:00",
+    "published": "2026-05-05T19:27:25+00:00"
+  },
+  "https://thenewstack.io/openai-gpt-5-5-instant-launch": {
+    "title": "OpenAI rolls out GPT-5.5 Instant as default ChatGPT model, promises more accurate responses",
+    "source": "The New Stack",
+    "first_seen": "2026-05-05T21:19:01.933423+00:00",
+    "published": "2026-05-05T19:13:55+00:00"
+  },
+  "https://www.tigerdata.com/blog/the-autovacuum-tax": {
+    "title": "Autovacuum: The Tax You're Always Paying",
+    "source": "Timescale Blog",
+    "first_seen": "2026-05-05T21:19:01.933423+00:00",
+    "published": "2026-05-05T19:04:21+00:00"
+  },
+  "https://aws.amazon.com/blogs/security/introducing-ai-traffic-analysis-dashboards-for-aws-waf": {
+    "title": "Introducing AI traffic analysis dashboards for AWS WAF",
+    "source": "AWS Security Blog",
+    "first_seen": "2026-05-05T21:19:01.933423+00:00",
+    "published": "2026-05-05T18:56:54+00:00"
+  },
+  "https://www.phoronix.com/news/OpenCL-3.1-Same-Day-Rusticl": {
+    "title": "Rusticl Driver Ready To Go With OpenCL 3.1 Working On Radeon, Intel Iris & Zink/Vulkan",
+    "source": "Phoronix",
+    "first_seen": "2026-05-05T21:19:01.933423+00:00",
+    "published": "2026-05-05T18:28:31+00:00"
+  },
+  "https://www.sfgate.com/centralcoast/article/usda-aid-california-farmers-22240694.php": {
+    "title": "California farmers to destroy 420k peach trees following Del Monte bankruptcy",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-05T21:19:01.933423+00:00",
+    "published": "2026-05-05T18:13:47+00:00"
+  },
+  "https://paletteinspiration.com": {
+    "title": "Show HN: Explore color palettes inspired by 3000 master painter artworks",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-05T21:19:01.933423+00:00",
+    "published": "2026-05-05T18:13:14+00:00"
+  },
+  "https://variety.com/2026/digital/news/meta-ai-mark-zuckerberg-copyright-infringement-lawsuit-publishers-scott-turow-1236738383": {
+    "title": "Zuckerberg 'Personally Authorized and Encouraged' Meta's Copyright Infringement",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-05T21:19:01.933423+00:00",
+    "published": "2026-05-05T18:04:25+00:00"
+  },
+  "https://thenewstack.io/subquadratic-12-million-context-window": {
+    "title": "The context window has been shattered: Subquadratic debuts a 12-million-token window",
+    "source": "The New Stack",
+    "first_seen": "2026-05-05T21:19:01.933423+00:00",
+    "published": "2026-05-05T18:01:04+00:00"
+  },
+  "https://arxiv.org/abs/2604.26752": {
+    "title": "GLM-5V-Turbo: Toward a Native Foundation Model for Multimodal Agents",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-05T21:19:01.933423+00:00",
+    "published": "2026-05-05T17:52:31+00:00"
+  },
+  "https://www.nsa.gov/Cybersecurity/Quantum-Key-Distribution-QKD-and-Quantum-Cryptography-QC": {
+    "title": "Quantum Key Distribution (QKD) and Quantum Cryptography (QC)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-05T21:19:01.933423+00:00",
+    "published": "2026-05-05T17:38:17+00:00"
+  },
+  "https://devblogs.microsoft.com/oldnewthing/20260505-00?p=112298": {
+    "title": "IBM didn't want Microsoft to use the Tab key to move between dialog fields",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-05T21:19:01.933423+00:00",
+    "published": "2026-05-05T17:28:18+00:00"
+  },
+  "https://thenewstack.io/airbyte-agents-context-store": {
+    "title": "AI has a sprawling data problem. Airbyte has just  launched a tool to fix it.",
+    "source": "The New Stack",
+    "first_seen": "2026-05-05T21:19:01.933423+00:00",
+    "published": "2026-05-05T17:24:27+00:00"
+  },
+  "https://aws.amazon.com/blogs/aws/modernize-your-workflows-amazon-workspaces-now-gives-ai-agents-their-own-desktop-preview": {
+    "title": "Modernize your workflows: Amazon WorkSpaces now gives AI agents their own desktop (preview)",
+    "source": "AWS Blog",
+    "first_seen": "2026-05-05T21:19:01.933423+00:00",
+    "published": "2026-05-05T17:23:40+00:00"
+  },
+  "https://thenewstack.io/bun-developers-complaints-anthropic": {
+    "title": "“Real maturity problems”: Not every developer is thrilled with Bun after Anthropic acquisition",
+    "source": "The New Stack",
+    "first_seen": "2026-05-05T21:19:01.933423+00:00",
+    "published": "2026-05-05T17:03:03+00:00"
+  },
+  "https://medium.com/airbnb-engineering/monitoring-reliably-at-scale-ca6483040930?source=rss----53c7c27702d5---4": {
+    "title": "Monitoring reliably at scale",
+    "source": "Airbnb Engineering",
+    "first_seen": "2026-05-05T21:19:01.933423+00:00",
+    "published": "2026-05-05T17:01:01+00:00"
+  },
+  "https://www.databricks.com/blog/ai-success-starts-clean-data-not-just-better-models": {
+    "title": "AI success starts with clean data, not just better models",
+    "source": "Databricks Blog",
+    "first_seen": "2026-05-05T21:19:01.933423+00:00",
+    "published": "2026-05-05T17:00:00+00:00"
+  },
+  "https://pytorch.org/blog/in-kernel-broadcast-optimization-co-designing-kernels-for-recsys-inference": {
+    "title": "In-Kernel Broadcast Optimization: Co-Designing Kernels for RecSys Inference",
+    "source": "PyTorch Blog",
+    "first_seen": "2026-05-05T21:19:01.933423+00:00",
+    "published": "2026-05-05T16:56:32+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/how-hapag-lloyd-uses-amazon-bedrock-to-transform-customer-feedback-into-actionable-insights": {
+    "title": "How Hapag-Lloyd uses Amazon Bedrock to transform customer feedback into actionable insights",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-05-05T21:19:01.933423+00:00",
+    "published": "2026-05-05T16:55:42+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/streamlining-generative-ai-development-with-mlflow-v3-10-on-amazon-sagemaker-ai": {
+    "title": "Streamlining generative AI development with MLflow v3.10 on Amazon SageMaker AI",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-05-05T21:19:01.933423+00:00",
+    "published": "2026-05-05T16:55:18+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/introducing-os-level-actions-in-amazon-bedrock-agentcore-browser": {
+    "title": "Introducing OS Level Actions in Amazon Bedrock AgentCore Browser",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-05-05T21:19:01.933423+00:00",
+    "published": "2026-05-05T16:54:35+00:00"
+  },
+  "https://newsletter.pragmaticengineer.com/p/designing-data-intensive-applications-book-excerpt": {
+    "title": "Designing Data-Intensive Applications: The Cloud & Doing the Right Thing",
+    "source": "The Pragmatic Engineer",
+    "first_seen": "2026-05-05T21:19:01.933423+00:00",
+    "published": "2026-05-05T16:46:00+00:00"
+  },
+  "https://reflex.dev/blog/computer-use-is-45x-more-expensive-than-structured-apis": {
+    "title": "Computer Use is 45x more expensive than structured APIs",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-05T21:19:01.933423+00:00",
+    "published": "2026-05-05T16:34:48+00:00"
+  },
+  "https://martinfowler.com/fragments/2026-05-05.html": {
+    "title": "Fragments: May  5",
+    "source": "Martin Fowler",
+    "first_seen": "2026-05-05T21:19:01.933423+00:00",
+    "published": "2026-05-05T16:23:00+00:00"
+  },
+  "https://martinfowler.com/bliki/MythicalManMonth.html": {
+    "title": "Bliki: Mythical Man Month",
+    "source": "Martin Fowler",
+    "first_seen": "2026-05-05T21:19:01.933423+00:00",
+    "published": "2026-05-05T16:18:00+00:00"
+  },
+  "https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4": {
+    "title": "Accelerating Gemma 4: faster inference with multi-token prediction drafters",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-05T21:19:01.933423+00:00",
+    "published": "2026-05-05T16:14:17+00:00"
+  },
+  "https://kuber.studio/blog/Reflections/I%27m-Scared-About-Biological-Computing": {
+    "title": "I'm scared about biological computing",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-05T21:19:01.933423+00:00",
+    "published": "2026-05-05T16:03:06+00:00"
+  },
+  "https://developer.nvidia.com/blog/how-to-build-in-vehicle-ai-agents-with-nvidia-from-cloud-to-car": {
+    "title": "How to Build In-Vehicle AI Agents with NVIDIA: From Cloud to Car",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-05-05T21:19:01.933423+00:00",
+    "published": "2026-05-05T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/topics/developers-practitioners/five-guides-to-building-and-scaling-production-ready-ai-agents": {
+    "title": "Five must-have guides to move agents into production with Gemini Enterprise Agent Platform",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-05-05T21:19:01.933423+00:00",
+    "published": "2026-05-05T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/identity-security/introducing-agent-gateway-isv-ecosystem-for-security-and-governance": {
+    "title": "Introducing Agent Gateway ISV ecosystem for security and governance",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-05-05T21:19:01.933423+00:00",
+    "published": "2026-05-05T16:00:00+00:00"
+  },
+  "https://blog.google/innovation-and-ai/technology/ai/future-vision-film-competition-xprize": {
+    "title": "Google is partnering with XPRIZE and Range Media Partners on the $3.5 million Future Vision film competition.",
+    "source": "Google AI Blog",
+    "first_seen": "2026-05-05T21:19:01.933423+00:00",
+    "published": "2026-05-05T16:00:00+00:00"
+  },
+  "https://developer.nvidia.com/blog/building-for-the-rising-complexity-of-agentic-systems-with-extreme-co-design": {
+    "title": "Building for the Rising Complexity of Agentic Systems with Extreme Co-Design",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-05-05T21:19:01.933423+00:00",
+    "published": "2026-05-05T15:52:15+00:00"
+  },
+  "https://hacks.mozilla.org/2026/05/trustworthy-javascript-for-the-open-web": {
+    "title": "Trustworthy JavaScript for the Open Web",
+    "source": "Mozilla Hacks",
+    "first_seen": "2026-05-05T21:19:01.933423+00:00",
+    "published": "2026-05-05T15:49:11+00:00"
+  },
+  "https://www.youtube.com/watch?v=6JhK8iCQuqI": {
+    "title": "EEVblog: The 555 Timer is 55 years old [video]",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-05T21:19:01.933423+00:00",
+    "published": "2026-05-05T15:47:18+00:00"
+  },
+  "https://blog.bytebytego.com/p/how-instacart-built-a-search-for": {
+    "title": "How Instacart Built a Search for Billions of Products",
+    "source": "ByteByteGo",
+    "first_seen": "2026-05-05T21:19:01.933423+00:00",
+    "published": "2026-05-05T15:31:20+00:00"
+  },
+  "https://susam.net/inverse-laws-of-robotics.html": {
+    "title": "Three Inverse Laws of AI",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-05T21:19:01.933423+00:00",
+    "published": "2026-05-05T15:27:18+00:00"
+  },
+  "https://www.anthropic.com/news/finance-agents": {
+    "title": "Agents for financial services and insurance",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-05T21:19:01.933423+00:00",
+    "published": "2026-05-05T15:05:47+00:00"
+  },
+  "https://news.ycombinator.com/item?id=48023496": {
+    "title": "Show HN: Airbyte Agents – context for agents across multiple data sources",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-05T21:19:01.933423+00:00",
+    "published": "2026-05-05T15:03:18+00:00"
+  },
+  "https://cloud.google.com/blog/topics/developers-practitioners/cloud-engineers-ai-toolkit-sign-up-now-for-a-developer-workshop-near-you": {
+    "title": "Cloud Engineer’s AI Toolkit: Sign up Now for a Developer Workshop Near You!",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-05-05T21:19:01.933423+00:00",
+    "published": "2026-05-05T15:00:00+00:00"
+  },
+  "https://twitter.com/brian_armstrong/status/2051616759145185723": {
+    "title": "Today I've made the difficult decision to reduce the size of Coinbase by ~14%",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-05T21:19:01.933423+00:00",
+    "published": "2026-05-05T12:10:24+00:00"
+  },
+  "https://openai.com/index/gpt-5-5-instant-system-card": {
+    "title": "GPT-5.5 Instant System Card",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-05-05T21:19:01.933423+00:00",
+    "published": "2026-05-05T10:00:00+00:00"
+  },
+  "https://openai.com/index/gpt-5-5-instant": {
+    "title": "GPT-5.5 Instant: smarter, clearer, and more personalized",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-05-05T21:19:01.933423+00:00",
+    "published": "2026-05-05T10:00:00+00:00"
+  },
+  "https://developer.chrome.com/blog/new-in-devtools-148?hl=en": {
+    "title": "What's new in DevTools (Chrome 148)",
+    "source": "Chrome Developers",
+    "first_seen": "2026-05-05T21:19:01.933423+00:00",
+    "published": "2026-05-05T07:00:00+00:00"
+  },
+  "https://developer.chrome.com/blog/new-in-chrome-148?hl=en": {
+    "title": "New in Chrome 148",
+    "source": "Chrome Developers",
+    "first_seen": "2026-05-05T21:19:01.933423+00:00",
+    "published": "2026-05-05T07:00:00+00:00"
+  },
+  "https://simonwillison.net/2026/May/5/datasette-llm": {
+    "title": "datasette-llm 0.1a7",
+    "source": "Simon Willison",
+    "first_seen": "2026-05-05T21:19:01.933423+00:00",
+    "published": "2026-05-05T01:56:55+00:00"
+  },
+  "https://simonwillison.net/2026/May/5/llm-echo": {
+    "title": "llm-echo 0.5a0",
+    "source": "Simon Willison",
+    "first_seen": "2026-05-05T21:19:01.933423+00:00",
+    "published": "2026-05-05T01:31:54+00:00"
+  },
+  "https://www.elastic.co/blog/whats-new-elastic-9-4-0": {
+    "title": "Elastic 9.4: Workflows GA, Agent Builder updates, and Prometheus/PromQL support",
+    "source": "Elastic Blog",
+    "first_seen": "2026-05-05T21:19:01.933423+00:00",
+    "published": "2026-05-05T00:00:00+00:00"
+  },
+  "https://planetscale.com/blog/transparency-in-benchmarking": {
+    "title": "Transparency in benchmarking",
+    "source": "PlanetScale Blog",
+    "first_seen": "2026-05-05T21:19:01.933423+00:00",
+    "published": "2026-05-05T00:00:00+00:00"
+  },
+  "https://planetscale.com/blog/on-benchmarking": {
+    "title": "On benchmarking",
+    "source": "PlanetScale Blog",
+    "first_seen": "2026-05-05T21:19:01.933423+00:00",
+    "published": "2026-05-05T00:00:00+00:00"
+  },
+  "https://openai.com/index/new-ways-to-buy-chatgpt-ads": {
+    "title": "New ways to buy ChatGPT ads",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-05-05T21:19:01.933423+00:00",
+    "published": "2026-05-05T00:00:00+00:00"
+  },
+  "https://machinelearning.apple.com/research/stochastic-kv-routing": {
+    "title": "Stochastic KV Routing: Enabling Adaptive Depth-Wise Cache Sharing",
+    "source": "Apple ML Journal",
+    "first_seen": "2026-05-05T21:19:01.933423+00:00",
+    "published": "2026-05-05T00:00:00+00:00"
+  },
+  "https://blog.sentry.io/introducing-application-metrics": {
+    "title": "Introducing Application Metrics: Track the signal, see the spike, jump to the trace",
+    "source": "Sentry Blog",
+    "first_seen": "2026-05-05T21:19:01.933423+00:00",
+    "published": "2026-05-05T00:00:00+00:00"
   }
 }
