@@ -15326,5 +15326,53 @@
     "source": "Azure Blog",
     "first_seen": "2026-05-05T09:33:42.012131+00:00",
     "published": "2026-05-04T16:00:00+00:00"
+  },
+  "https://www.cncf.io/blog/2026/05/05/announcing-kyverno-release-1-18": {
+    "title": "Announcing Kyverno release 1.18!",
+    "source": "CNCF Blog",
+    "first_seen": "2026-05-05T11:07:13.774132+00:00",
+    "published": "2026-05-05T11:00:00+00:00"
+  },
+  "https://thenewstack.io/sprig-postgres-scylladb-migration": {
+    "title": "ScyllaDB cut Sprig’s read latency 4X after Redis and ClickHouse hit a wall",
+    "source": "The New Stack",
+    "first_seen": "2026-05-05T11:07:13.774132+00:00",
+    "published": "2026-05-05T11:00:00+00:00"
+  },
+  "https://www.schneier.com/blog/archives/2026/05/darksword-malware.html": {
+    "title": "DarkSword Malware",
+    "source": "Schneier on Security",
+    "first_seen": "2026-05-05T11:07:13.774132+00:00",
+    "published": "2026-05-05T10:42:03+00:00"
+  },
+  "https://www.phoronix.com/news/OpenCL-3.1-Released": {
+    "title": "OpenCL 3.1 Released To Bolster AI & HPC Workloads",
+    "source": "Phoronix",
+    "first_seen": "2026-05-05T11:07:13.774132+00:00",
+    "published": "2026-05-05T10:22:22+00:00"
+  },
+  "https://www.phoronix.com/news/Qt-QML-Profiler-AI-Agent": {
+    "title": "Qt's Latest AI Push Is Letting AI Agents Deal With Performance Profiling",
+    "source": "Phoronix",
+    "first_seen": "2026-05-05T11:07:13.774132+00:00",
+    "published": "2026-05-05T10:08:29+00:00"
+  },
+  "https://stratechery.com/2026/amazons-durability": {
+    "title": "Amazon’s Durability",
+    "source": "Stratechery",
+    "first_seen": "2026-05-05T11:07:13.774132+00:00",
+    "published": "2026-05-05T10:01:14+00:00"
+  },
+  "https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing": {
+    "title": "When everyone has AI and the company still learns nothing",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-05T11:07:13.774132+00:00",
+    "published": "2026-05-05T09:30:22+00:00"
+  },
+  "https://github.com/yattsu/biscuit": {
+    "title": "Biscuit",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-05T11:07:13.774132+00:00",
+    "published": "2026-05-05T03:09:56+00:00"
   }
 }
