@@ -15512,5 +15512,41 @@
     "source": "Trail of Bits",
     "first_seen": "2026-05-05T15:06:03.702380+00:00",
     "published": "2026-05-05T11:00:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/secure-ai-agents-with-amazon-bedrock-agentcore-identity-on-amazon-ecs": {
+    "title": "Secure AI agents with Amazon Bedrock AgentCore Identity on Amazon ECS",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-05-05T15:31:43.331371+00:00",
+    "published": "2026-05-05T15:27:30+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/intelligence-driven-message-defense-and-insights-using-amazon-bedrock": {
+    "title": "Intelligence-driven message defense and insights using Amazon Bedrock",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-05-05T15:31:43.331371+00:00",
+    "published": "2026-05-05T15:20:54+00:00"
+  },
+  "https://aws.amazon.com/blogs/containers/track-inter-az-and-nat-gateway-traffic-with-eks-container-network-observability": {
+    "title": "Track inter-AZ and NAT gateway traffic with EKS Container Network Observability",
+    "source": "AWS Containers Blog",
+    "first_seen": "2026-05-05T15:31:43.331371+00:00",
+    "published": "2026-05-05T15:18:25+00:00"
+  },
+  "https://github.com/aragossa/pii-shield": {
+    "title": "Show HN: A Mutating Webhook to automatically strip PII from K8s logs",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-05T15:31:43.331371+00:00",
+    "published": "2026-05-05T15:09:28+00:00"
+  },
+  "https://www.databricks.com/blog/how-nops-rebuilt-their-cloud-optimization-platform-databricks-lakebase-and-why-other-isvs": {
+    "title": "How nOps Rebuilt Their Cloud Optimization Platform on Databricks Lakebase, and Why Other ISVs Should Too",
+    "source": "Databricks Blog",
+    "first_seen": "2026-05-05T15:31:43.331371+00:00",
+    "published": "2026-05-05T15:00:00+00:00"
+  },
+  "https://blogs.microsoft.com/blog/2026/05/05/how-frontier-firms-are-rebuilding-the-operating-model-for-the-age-of-ai": {
+    "title": "How Frontier Firms are rebuilding the operating model for the age of AI",
+    "source": "Microsoft Blog",
+    "first_seen": "2026-05-05T15:31:43.331371+00:00",
+    "published": "2026-05-05T10:00:01+00:00"
   }
 }
