@@ -15158,5 +15158,65 @@
     "source": "Google AI Blog",
     "first_seen": "2026-05-04T23:05:52.611665+00:00",
     "published": "2026-05-04T15:30:00+00:00"
+  },
+  "https://margaretstorey.com/blog/2026/02/18/cognitive-debt-revisited": {
+    "title": "What I'm Hearing About Cognitive Debt (So Far)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-05T03:07:12.810299+00:00",
+    "published": "2026-05-05T02:08:21+00:00"
+  },
+  "https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5": {
+    "title": "Bun is being ported from Zig to Rust",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-05T03:07:12.810299+00:00",
+    "published": "2026-05-05T01:08:17+00:00"
+  },
+  "https://simonwillison.net/2026/May/5/john-gruber": {
+    "title": "Quoting John Gruber",
+    "source": "Simon Willison",
+    "first_seen": "2026-05-05T03:07:12.810299+00:00",
+    "published": "2026-05-05T00:46:29+00:00"
+  },
+  "https://www.phoronix.com/news/AlmaLinux-10.2-Beta": {
+    "title": "AlmaLinux 10.2 Beta Released With Legacy 32-bit Software Support",
+    "source": "Phoronix",
+    "first_seen": "2026-05-05T03:07:12.810299+00:00",
+    "published": "2026-05-05T00:24:52+00:00"
+  },
+  "https://daringfireball.net/2026/05/y_combinators_stake_in_openai": {
+    "title": "Y Combinator's Stake in OpenAI (0.6%)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-05T03:07:12.810299+00:00",
+    "published": "2026-05-05T00:09:01+00:00"
+  },
+  "https://simonwillison.net/2026/May/4/granite-41-3b-svg-pelican-gallery": {
+    "title": "Granite 4.1 3B SVG Pelican Gallery",
+    "source": "Simon Willison",
+    "first_seen": "2026-05-05T03:07:12.810299+00:00",
+    "published": "2026-05-04T23:49:24+00:00"
+  },
+  "https://github.com/SprintiQ-Incorporated/sprintiq": {
+    "title": "SprintiQ – open-source sprint planning for Claude Code",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-05T03:07:12.810299+00:00",
+    "published": "2026-05-04T22:52:48+00:00"
+  },
+  "https://www.os2museum.com/wp/when-networking-doesnt-work": {
+    "title": "When Networking Doesn't Work",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-05T03:07:12.810299+00:00",
+    "published": "2026-05-04T20:56:19+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/introducing-the-agent-quality-loop-agentcore-optimization-now-in-preview": {
+    "title": "Introducing the agent quality loop: AgentCore Optimization now in preview",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-05-05T03:07:12.810299+00:00",
+    "published": "2026-05-04T17:13:42+00:00"
+  },
+  "https://machinelearning.apple.com/research/portool-policy-optimization": {
+    "title": "PORTool: Importance-Aware Policy Optimization with Rewarded Tree for Multi-Tool-Integrated Reasoning",
+    "source": "Apple ML Journal",
+    "first_seen": "2026-05-05T03:07:12.810299+00:00",
+    "published": "2026-05-04T00:00:00+00:00"
   }
 }
