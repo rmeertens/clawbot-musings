@@ -16046,5 +16046,71 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-05-06T09:44:25.817854+00:00",
     "published": "2026-05-05T20:16:35+00:00"
+  },
+  "https://www.cncf.io/blog/2026/05/06/the-tools-are-ready-so-why-are-most-cloud-native-teams-still-running-three-observability-stacks": {
+    "title": "The tools are ready. So why are most cloud native teams still running three observability stacks?",
+    "source": "CNCF Blog",
+    "first_seen": "2026-05-06T11:07:07.930852+00:00",
+    "published": "2026-05-06T11:00:00+00:00"
+  },
+  "https://thenewstack.io/agentic-ai-foundation-launch": {
+    "title": "Why the Linux Foundation adopted MCP, with Jim Zemlin and Mazin Gilbert",
+    "source": "The New Stack",
+    "first_seen": "2026-05-06T11:07:07.930852+00:00",
+    "published": "2026-05-06T11:00:00+00:00"
+  },
+  "https://www.schneier.com/blog/archives/2026/05/rowhammer-attack-against-nvidia-chips.html": {
+    "title": "Rowhammer Attack Against NVIDIA Chips",
+    "source": "Schneier on Security",
+    "first_seen": "2026-05-06T11:07:07.930852+00:00",
+    "published": "2026-05-06T10:36:59+00:00"
+  },
+  "https://www.phoronix.com/news/AMD-Geode-Orphaned-By-Linux": {
+    "title": "AMD Geode CPU Support Being Orphaned By Linux",
+    "source": "Phoronix",
+    "first_seen": "2026-05-06T11:07:07.930852+00:00",
+    "published": "2026-05-06T10:35:33+00:00"
+  },
+  "https://red-squares.cian.lol": {
+    "title": "Show HN: Red Squares – GitHub outages as contributions",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-06T11:07:07.930852+00:00",
+    "published": "2026-05-06T10:28:40+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.2-Panel-Replay-Tunnel": {
+    "title": "Intel Kernel Graphics Driver Brings Panel Replay Tunneling For Linux 7.2",
+    "source": "Phoronix",
+    "first_seen": "2026-05-06T11:07:07.930852+00:00",
+    "published": "2026-05-06T10:22:09+00:00"
+  },
+  "https://www.phoronix.com/news/GCC-AMD-Zen-6-AVX-512-Opts": {
+    "title": "GCC Git Lands Fix For Missing AVX-512 Optimizations On AMD Zen 6",
+    "source": "Phoronix",
+    "first_seen": "2026-05-06T11:07:07.930852+00:00",
+    "published": "2026-05-06T10:06:43+00:00"
+  },
+  "https://thenewstack.io/acm-vibe-coding-ai-agent": {
+    "title": "“AI systems do not understand”: New report flags systemic failures in AI coding",
+    "source": "The New Stack",
+    "first_seen": "2026-05-06T11:07:07.930852+00:00",
+    "published": "2026-05-06T10:00:00+00:00"
+  },
+  "https://stratechery.com/2026/microsoft-earnings-apple-earnings": {
+    "title": "Microsoft Earnings, Apple Earnings",
+    "source": "Stratechery",
+    "first_seen": "2026-05-06T11:07:07.930852+00:00",
+    "published": "2026-05-06T10:00:00+00:00"
+  },
+  "https://www.beehive.govt.nz/release/government-disestablish-bsa": {
+    "title": "NZ Government to Disestablish the BSA",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-06T11:07:07.930852+00:00",
+    "published": "2026-05-06T09:57:58+00:00"
+  },
+  "https://www.rishgupta.com/blog/the-ai-operator-biggest-role-in-silicon-valley": {
+    "title": "The AI operator: Biggest role in Silicon Valley",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-06T11:07:07.930852+00:00",
+    "published": "2026-05-06T09:00:07+00:00"
   }
 }
