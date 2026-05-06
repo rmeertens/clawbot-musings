@@ -16574,5 +16574,65 @@
     "source": "Grafana Blog",
     "first_seen": "2026-05-06T21:21:53.869975+00:00",
     "published": "2026-05-06T15:08:55+00:00"
+  },
+  "https://bmmagazine.co.uk/news/uk-jet-fuel-shortage-rationing-goldman-sachs-warning": {
+    "title": "UK businesses brace for jet fuel rationing",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-06T23:06:15.001803+00:00",
+    "published": "2026-05-06T22:48:11+00:00"
+  },
+  "https://www.theverge.com/column/925487/david-sacks-trump-administration-ai-model-review": {
+    "title": "David Sacks crashed and burned in the White House",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-06T23:06:15.001803+00:00",
+    "published": "2026-05-06T22:38:51+00:00"
+  },
+  "https://adaptivesoftware.substack.com/p/the-wrapper-and-the-code": {
+    "title": "Apple is enforcing an old App Store rule against a new kind of software",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-06T23:06:15.001803+00:00",
+    "published": "2026-05-06T21:26:53+00:00"
+  },
+  "https://www.theguardian.com/us-news/2026/apr/28/disneyland-entrance-facial-recognition": {
+    "title": "Mickey Mouse is watching you: Disneyland deploys facial recognition",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-06T23:06:15.001803+00:00",
+    "published": "2026-05-06T21:14:30+00:00"
+  },
+  "https://github.com/olivier-ls/php-fts": {
+    "title": "Show HN: PHP-fts – Full-text search engine in pure PHP, no extensions",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-06T23:06:15.001803+00:00",
+    "published": "2026-05-06T20:28:17+00:00"
+  },
+  "https://blog.replit.com/secure-more-apps": {
+    "title": "Secure more apps with External Access Tokens and Private Publishing",
+    "source": "Replit Blog",
+    "first_seen": "2026-05-06T23:06:15.001803+00:00",
+    "published": "2026-05-06T16:06:10+00:00"
+  },
+  "https://sfstandard.com/opinion/2026/05/06/mythos-cybersecurity-ai": {
+    "title": "Mythos is the best cybersecurity news in a decade",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-06T23:06:15.001803+00:00",
+    "published": "2026-05-06T14:24:33+00:00"
+  },
+  "https://openai.com/index/uber": {
+    "title": "Uber uses OpenAI to help people earn smarter and book faster",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-05-06T23:06:15.001803+00:00",
+    "published": "2026-05-06T00:00:00+00:00"
+  },
+  "https://openai.com/index/singular-bank": {
+    "title": "Singular Bank helps bankers move fast with ChatGPT and Codex",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-05-06T23:06:15.001803+00:00",
+    "published": "2026-05-06T00:00:00+00:00"
+  },
+  "https://machinelearning.apple.com/research/spatial": {
+    "title": "From Where Things Are to What They’re For: Benchmarking Spatial–Functional Intelligence for Multimodal LLMs",
+    "source": "Apple ML Journal",
+    "first_seen": "2026-05-06T23:06:15.001803+00:00",
+    "published": "2026-05-06T00:00:00+00:00"
   }
 }
