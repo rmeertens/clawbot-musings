@@ -16280,5 +16280,203 @@
     "source": "OpenAI Blog",
     "first_seen": "2026-05-06T15:43:38.064411+00:00",
     "published": "2026-05-06T00:00:00+00:00"
+  },
+  "https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections": {
+    "title": "vLLM V0 to V1: Correctness Before Corrections in RL",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-05-06T19:07:11.644226+00:00",
+    "published": "2026-05-06T19:06:55+00:00"
+  },
+  "https://electrek.co/2026/05/05/byd-overtakes-tesla-kia-best-selling-ev-brand-key-overseas-markets": {
+    "title": "BYD overtakes Tesla and Kia as the best-selling EV brand in key overseas markets",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-06T19:07:11.644226+00:00",
+    "published": "2026-05-06T18:25:06+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.2-AMDGPU-Power-Mod": {
+    "title": "Linux 7.2 To Integrate The AMDGPU \"Power Module\" To Better Align With Windows",
+    "source": "Phoronix",
+    "first_seen": "2026-05-06T19:07:11.644226+00:00",
+    "published": "2026-05-06T17:30:00+00:00"
+  },
+  "https://www.sciencedirect.com/science/article/pii/S0022316626001902": {
+    "title": "Egg Intake and the Incidence of Alzheimer's Disease in Adventist Health Study-2",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-06T19:07:11.644226+00:00",
+    "published": "2026-05-06T17:23:49+00:00"
+  },
+  "https://jdx.dev/posts/2026-04-17-going-full-time-on-open-source": {
+    "title": "Going Full Time on Open Source",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-06T19:07:11.644226+00:00",
+    "published": "2026-05-06T17:22:49+00:00"
+  },
+  "https://blog.val.town/better-auth": {
+    "title": "From Supabase to Clerk to Better Auth",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-06T19:07:11.644226+00:00",
+    "published": "2026-05-06T17:19:34+00:00"
+  },
+  "https://www.engadget.com/2166113/chrome-downloads-a-4gb-ai-file-without-user-consent-researcher-alleges": {
+    "title": "Chrome downloads a 4GB AI file without user consent, researcher alleges",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-06T19:07:11.644226+00:00",
+    "published": "2026-05-06T17:14:23+00:00"
+  },
+  "https://aws.amazon.com/blogs/containers/cross-region-disaster-recovery-for-amazon-eks-using-aws-backup": {
+    "title": "Cross-Region disaster recovery for Amazon EKS using AWS Backup",
+    "source": "AWS Containers Blog",
+    "first_seen": "2026-05-06T19:07:11.644226+00:00",
+    "published": "2026-05-06T17:09:28+00:00"
+  },
+  "https://www.databricks.com/blog/rethinking-distributed-systems-serverless-performance-and-reliability": {
+    "title": "Rethinking Distributed Systems for Serverless Performance and Reliability",
+    "source": "Databricks Blog",
+    "first_seen": "2026-05-06T19:07:11.644226+00:00",
+    "published": "2026-05-06T17:05:00+00:00"
+  },
+  "https://devblogs.microsoft.com/dotnet/durable-workflows-in-microsoft-agent-framework": {
+    "title": "Durable Workflows in the Microsoft Agent Framework",
+    "source": "MS .NET Blog",
+    "first_seen": "2026-05-06T19:07:11.644226+00:00",
+    "published": "2026-05-06T17:00:00+00:00"
+  },
+  "https://blog.cloudflare.com/de-tld-outage-dnssec": {
+    "title": "When DNSSEC goes wrong: how we responded to the .de TLD outage",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-05-06T19:07:11.644226+00:00",
+    "published": "2026-05-06T17:00:00+00:00"
+  },
+  "https://www.latimes.com/environment/story/2026-04-26/colombia-hosts-talks-on-exiting-fossil-fuels-as-global-energy-crisis-deepens": {
+    "title": "Colombia hosts talks on exiting fossil fuels as global energy crisis deepens",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-06T19:07:11.644226+00:00",
+    "published": "2026-05-06T16:54:21+00:00"
+  },
+  "https://play.templatical.com": {
+    "title": "Show HN: I built an open-source email builder, alternative to Beefree/Unlayer",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-06T19:07:11.644226+00:00",
+    "published": "2026-05-06T16:20:00+00:00"
+  },
+  "https://nooneshappy.com/article/appearing-productive-in-the-workplace": {
+    "title": "Appearing Productive in the Workplace",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-06T19:07:11.644226+00:00",
+    "published": "2026-05-06T16:18:29+00:00"
+  },
+  "https://thenewstack.io/anthropic-managed-agents-dreaming-outcomes": {
+    "title": "Anthropic will let its managed agents dream",
+    "source": "The New Stack",
+    "first_seen": "2026-05-06T19:07:11.644226+00:00",
+    "published": "2026-05-06T16:15:00+00:00"
+  },
+  "https://thenewstack.io/servicenow-ai-governance-agents": {
+    "title": "Developers will use whatever AI coding tool they want. ServiceNow is building for that reality.",
+    "source": "The New Stack",
+    "first_seen": "2026-05-06T19:07:11.644226+00:00",
+    "published": "2026-05-06T16:01:00+00:00"
+  },
+  "https://www.phoronix.com/review/nvidia-nouveau-nvk-may2026": {
+    "title": "Nouveau vs. NVIDIA R595 Linux Driver For Workstation Graphics Performance",
+    "source": "Phoronix",
+    "first_seen": "2026-05-06T19:07:11.644226+00:00",
+    "published": "2026-05-06T16:00:00+00:00"
+  },
+  "https://thenewstack.io/atlassian-teamwork-graph-agents": {
+    "title": "Why Atlassian is letting Claude Code into its own data graph",
+    "source": "The New Stack",
+    "first_seen": "2026-05-06T19:07:11.644226+00:00",
+    "published": "2026-05-06T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/topics/startups/the-blueprint-doist-stream-of-consciousness-ai-task-list-creation": {
+    "title": "The Blueprint: Translating stream-of-conscious speech into responsive, actionable task lists",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-05-06T19:07:11.644226+00:00",
+    "published": "2026-05-06T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/topics/retail/how-breuninger-boosted-sales-with-its-be-your-own-model-ai": {
+    "title": "Fitting the future: How Breuninger boosted sales with its \"be your own model\" AI",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-05-06T19:07:11.644226+00:00",
+    "published": "2026-05-06T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/topics/developers-practitioners/6x-faster-migration-from-tensorflow-to-jax": {
+    "title": "Pioneering AI-assisted code migration: How Google achieved 6x faster migration from TensorFlow to JAX",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-05-06T19:07:11.644226+00:00",
+    "published": "2026-05-06T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/identity-security/whats-new-in-iam-security-governance-and-runtime-defense": {
+    "title": "What's new in IAM: Security, governance, and runtime defense",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-05-06T19:07:11.644226+00:00",
+    "published": "2026-05-06T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/identity-security/google-named-a-leader-in-the-2026-gartner-magic-quadrant-for-cyberthreat-intelligence-technologies": {
+    "title": "Google named a Leader in the 2026 Gartner® Magic Quadrant™ for Cyberthreat Intelligence Technologies",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-05-06T19:07:11.644226+00:00",
+    "published": "2026-05-06T16:00:00+00:00"
+  },
+  "https://blog.google/products-and-platforms/products/search/gardening-tips": {
+    "title": "5 gardening tips you can try right in Search",
+    "source": "Google AI Blog",
+    "first_seen": "2026-05-06T19:07:11.644226+00:00",
+    "published": "2026-05-06T16:00:00+00:00"
+  },
+  "https://tilde.run": {
+    "title": "Show HN: Tilde.run – Agent Sandbox with a Transactional, Versioned Filesystem",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-06T19:07:11.644226+00:00",
+    "published": "2026-05-06T15:58:34+00:00"
+  },
+  "https://simonwillison.net/2026/May/6/code-w-claude-2026": {
+    "title": "Live blog: Code w/ Claude 2026",
+    "source": "Simon Willison",
+    "first_seen": "2026-05-06T19:07:11.644226+00:00",
+    "published": "2026-05-06T15:58:27+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/build-streaming-applications-on-amazon-managed-service-for-apache-flink-with-ai-assisted-guidance": {
+    "title": "Build streaming applications on Amazon Managed Service for Apache Flink with AI-assisted guidance",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-05-06T19:07:11.644226+00:00",
+    "published": "2026-05-06T15:45:57+00:00"
+  },
+  "https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license": {
+    "title": "Valve releases Steam Controller CAD files under Creative Commons license",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-06T19:07:11.644226+00:00",
+    "published": "2026-05-06T15:44:13+00:00"
+  },
+  "https://blog.sentry.io/debugging-expo-react-native-sdk": {
+    "title": "Improved debugging for Expo apps with the React Native SDK",
+    "source": "Sentry Blog",
+    "first_seen": "2026-05-06T19:07:11.644226+00:00",
+    "published": "2026-05-06T09:00:00+00:00"
+  },
+  "https://cardcatalogforlife.substack.com/p/google-has-a-secret-reference-desk": {
+    "title": "Google tools for customizing searches",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-06T19:07:11.644226+00:00",
+    "published": "2026-05-06T04:40:19+00:00"
+  },
+  "https://www.elastic.co/blog/dell-ai-data-platform-nvidia": {
+    "title": "Elasticsearch 9.4 powers the next phase of the Elastic AI Ecosystem: Dell AI Data Platform with NVIDIA",
+    "source": "Elastic Blog",
+    "first_seen": "2026-05-06T19:07:11.644226+00:00",
+    "published": "2026-05-06T00:00:00+00:00"
+  },
+  "https://remix.run/blog/brand-new": {
+    "title": "A Brand New Remix",
+    "source": "Remix Blog",
+    "first_seen": "2026-05-06T19:07:11.644226+00:00",
+    "published": "2026-05-06T00:00:00+00:00"
+  },
+  "https://openai.com/index/introducing-chatgpt-futures-class-of-2026": {
+    "title": "Introducing ChatGPT Futures: Class of 2026",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-05-06T19:07:11.644226+00:00",
+    "published": "2026-05-06T00:00:00+00:00"
   }
 }
