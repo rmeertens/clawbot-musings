@@ -16478,5 +16478,101 @@
     "source": "OpenAI Blog",
     "first_seen": "2026-05-06T19:07:11.644226+00:00",
     "published": "2026-05-06T00:00:00+00:00"
+  },
+  "https://github.blog/ai-and-ml/generative-ai/validating-agentic-behavior-when-correct-isnt-deterministic": {
+    "title": "Validating agentic behavior when “correct” isn’t deterministic",
+    "source": "GitHub Blog",
+    "first_seen": "2026-05-06T21:21:53.869975+00:00",
+    "published": "2026-05-06T21:16:31+00:00"
+  },
+  "https://thenewstack.io/ai-agents-credential-crisis": {
+    "title": "How a Cursor AI agent wiped PocketOS’s production database in under 10 seconds",
+    "source": "The New Stack",
+    "first_seen": "2026-05-06T21:21:53.869975+00:00",
+    "published": "2026-05-06T20:50:31+00:00"
+  },
+  "https://www.phoronix.com/news/Mesa-26.1-Released": {
+    "title": "Mesa 26.1 Released With Many Improvements For Open-Source Vulkan Drivers",
+    "source": "Phoronix",
+    "first_seen": "2026-05-06T21:21:53.869975+00:00",
+    "published": "2026-05-06T20:03:03+00:00"
+  },
+  "https://arstechnica.com/science/2026/05/mits-virtual-violin-offers-luthiers-a-new-design-tool": {
+    "title": "MIT’s virtual violin offers luthiers a new design tool",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-06T21:21:53.869975+00:00",
+    "published": "2026-05-06T20:02:42+00:00"
+  },
+  "https://www.phoronix.com/news/PCIe-8.0-Draft-0.5": {
+    "title": "PCIe 8.0 Spec Draft 0.5 Released For 1TB/s Bi-Directional x16 Bandwidth",
+    "source": "Phoronix",
+    "first_seen": "2026-05-06T21:21:53.869975+00:00",
+    "published": "2026-05-06T19:53:11+00:00"
+  },
+  "https://thenewstack.io/ably-durable-sessions-ai": {
+    "title": "Why long-running AI agents break on HTTP and how Ably is fixing it",
+    "source": "The New Stack",
+    "first_seen": "2026-05-06T21:21:53.869975+00:00",
+    "published": "2026-05-06T19:48:35+00:00"
+  },
+  "https://aws.amazon.com/blogs/security/new-compliance-guide-available-iso-iec-420012023-on-aws": {
+    "title": "New compliance guide available: ISO/IEC 42001:2023 on AWS",
+    "source": "AWS Security Blog",
+    "first_seen": "2026-05-06T21:21:53.869975+00:00",
+    "published": "2026-05-06T19:39:19+00:00"
+  },
+  "https://inkscape.org/doc/release_notes/1.4.4/Inkscape_1.4.4.html": {
+    "title": "Inkscape 1.4.4",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-06T21:21:53.869975+00:00",
+    "published": "2026-05-06T19:33:25+00:00"
+  },
+  "https://stackoverflow.blog/2026/05/06/how-we-replaced-nginx-ingress-at-stack-overflow": {
+    "title": "How we replaced NGINX-Ingress at Stack Overflow",
+    "source": "Stack Overflow Blog",
+    "first_seen": "2026-05-06T21:21:53.869975+00:00",
+    "published": "2026-05-06T18:47:46+00:00"
+  },
+  "https://sander.ai/2026/05/06/flow-maps.html": {
+    "title": "Learning the Integral of a Diffusion Model",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-06T21:21:53.869975+00:00",
+    "published": "2026-05-06T18:46:27+00:00"
+  },
+  "https://proton.me/business/blog/introducing-proton-meet": {
+    "title": "Proton Meet",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-06T21:21:53.869975+00:00",
+    "published": "2026-05-06T18:19:49+00:00"
+  },
+  "https://yibo-fu.com/SoundOff-Low-cost-Passive-Ultrasound-Tags-for-Non-invasive-and-Non": {
+    "title": "SoundOff: Low-Cost Passive Ultrasound Tags",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-06T21:21:53.869975+00:00",
+    "published": "2026-05-06T17:13:54+00:00"
+  },
+  "https://www.tbray.org/ongoing/When/202x/2026/05/03/Life-During-Class-Wartime": {
+    "title": "Life During Class Wartime",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-06T21:21:53.869975+00:00",
+    "published": "2026-05-06T16:41:30+00:00"
+  },
+  "http://halupedia.com": {
+    "title": "Show HN: Hallucinopedia",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-06T21:21:53.869975+00:00",
+    "published": "2026-05-06T16:37:52+00:00"
+  },
+  "https://www.anthropic.com/news/higher-limits-spacex": {
+    "title": "Higher usage limits for Claude and a compute deal with SpaceX",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-06T21:21:53.869975+00:00",
+    "published": "2026-05-06T16:17:33+00:00"
+  },
+  "https://grafana.com/blog/troubleshoot-performance-issues-faster-with-the-new-grafana-assistant-integration-for-database-observability": {
+    "title": "Troubleshoot performance issues faster with the new Grafana Assistant integration for Database Observability",
+    "source": "Grafana Blog",
+    "first_seen": "2026-05-06T21:21:53.869975+00:00",
+    "published": "2026-05-06T15:08:55+00:00"
   }
 }
