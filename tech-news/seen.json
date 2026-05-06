@@ -15926,5 +15926,47 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-05-05T23:06:35.521939+00:00",
     "published": "2026-05-05T21:05:19+00:00"
+  },
+  "https://www.phoronix.com/news/Fedora-45-x86-64-v3-Undecided": {
+    "title": "Fedora Yet To Decide On x86_64-v3 Packages For Fedora Linux 45",
+    "source": "Phoronix",
+    "first_seen": "2026-05-06T03:06:28.134220+00:00",
+    "published": "2026-05-06T01:13:38+00:00"
+  },
+  "https://www.phoronix.com/news/Flatpak-1.17.7-Released": {
+    "title": "Flatpak 1.17.7 To Track The Age Of Configurations For Providing Much Better Performance",
+    "source": "Phoronix",
+    "first_seen": "2026-05-06T03:06:28.134220+00:00",
+    "published": "2026-05-06T00:35:32+00:00"
+  },
+  "https://simonwillison.net/2026/May/5/datasette-referrer-policy": {
+    "title": "datasette-referrer-policy 0.1",
+    "source": "Simon Willison",
+    "first_seen": "2026-05-06T03:06:28.134220+00:00",
+    "published": "2026-05-05T23:44:27+00:00"
+  },
+  "https://www.databricks.com/blog/ai-scaling-gap-hiding-digital-native-companies": {
+    "title": "The AI Scaling Gap Hiding in Digital Native Companies",
+    "source": "Databricks Blog",
+    "first_seen": "2026-05-06T03:06:28.134220+00:00",
+    "published": "2026-05-05T21:05:29+00:00"
+  },
+  "https://kubernetes.io/blog/2026/05/05/kubernetes-v1-36-declarative-validation-ga": {
+    "title": "Kubernetes v1.36: Declarative Validation Graduates to GA",
+    "source": "Kubernetes Blog",
+    "first_seen": "2026-05-06T03:06:28.134220+00:00",
+    "published": "2026-05-05T18:35:00+00:00"
+  },
+  "https://kubernetes.io/blog/2026/05/04/kubernetes-v1-36-manifest-based-admission-control": {
+    "title": "Kubernetes v1.36: Admission Policies That Can't Be Deleted",
+    "source": "Kubernetes Blog",
+    "first_seen": "2026-05-06T03:06:28.134220+00:00",
+    "published": "2026-05-04T18:35:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/introducing-agent-quality-optimization-in-agentcore-now-in-preview": {
+    "title": "Introducing agent quality optimization in AgentCore, now in preview",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-05-06T03:06:28.134220+00:00",
+    "published": "2026-05-04T17:13:42+00:00"
   }
 }
