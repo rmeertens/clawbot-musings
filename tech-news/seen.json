@@ -16112,5 +16112,173 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-05-06T11:07:07.930852+00:00",
     "published": "2026-05-06T09:00:07+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/migrating-tls-clients-managed-by-third-party-certificate-authorities-from-self-managed-apache-kafka-to-amazon-msk": {
+    "title": "Migrating TLS Clients managed by third-party Certificate Authorities from self-managed Apache Kafka to Amazon MSK",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-05-06T15:43:38.064411+00:00",
+    "published": "2026-05-06T15:41:21+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/cost-effective-deployment-of-vision-language-models-for-pet-behavior-detection-on-aws-inferentia2": {
+    "title": "Cost effective deployment of vision-language models for pet behavior detection on AWS Inferentia2",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-05-06T15:43:38.064411+00:00",
+    "published": "2026-05-06T15:37:08+00:00"
+  },
+  "https://aws.amazon.com/blogs/aws/the-aws-mcp-server-is-now-generally-available": {
+    "title": "The AWS MCP Server is now generally available",
+    "source": "AWS Blog",
+    "first_seen": "2026-05-06T15:43:38.064411+00:00",
+    "published": "2026-05-06T15:36:44+00:00"
+  },
+  "https://github.com/orgs/ProperDocs/discussions/33": {
+    "title": "Our Continuation of MkDocs",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-06T15:43:38.064411+00:00",
+    "published": "2026-05-06T15:19:25+00:00"
+  },
+  "https://www.cnn.com/2026/05/06/us/ted-turner-death": {
+    "title": "CNN founder Ted Turner, a pioneer of cable TV news, dies at 87",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-06T15:43:38.064411+00:00",
+    "published": "2026-05-06T14:56:37+00:00"
+  },
+  "https://lwn.net/Articles/1070698": {
+    "title": "[$] LLM-driven security reports disrupt coordinated disclosure",
+    "source": "LWN.net",
+    "first_seen": "2026-05-06T15:43:38.064411+00:00",
+    "published": "2026-05-06T14:56:20+00:00"
+  },
+  "https://thenewstack.io/kubernetes-user-namespace-security": {
+    "title": "Kubernetes finally lands user namespace support, but shared kernel problem remains",
+    "source": "The New Stack",
+    "first_seen": "2026-05-06T15:43:38.064411+00:00",
+    "published": "2026-05-06T14:50:05+00:00"
+  },
+  "https://thenewstack.io/pinecone-nexus-rag-obsolete": {
+    "title": "The company that made RAG mainstream is now betting against it",
+    "source": "The New Stack",
+    "first_seen": "2026-05-06T15:43:38.064411+00:00",
+    "published": "2026-05-06T14:40:50+00:00"
+  },
+  "https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering": {
+    "title": "Vibe coding and agentic engineering are getting closer than I'd like",
+    "source": "Simon Willison",
+    "first_seen": "2026-05-06T15:43:38.064411+00:00",
+    "published": "2026-05-06T14:24:08+00:00"
+  },
+  "https://thenewstack.io/php-performance-operational-planning": {
+    "title": "Why PHP performance keeps getting bumped from the roadmap",
+    "source": "The New Stack",
+    "first_seen": "2026-05-06T15:43:38.064411+00:00",
+    "published": "2026-05-06T14:00:00+00:00"
+  },
+  "https://realpython.com/build-a-chatbot-python-chatterbot": {
+    "title": "ChatterBot: Build a Chatbot With Python",
+    "source": "Real Python",
+    "first_seen": "2026-05-06T15:43:38.064411+00:00",
+    "published": "2026-05-06T14:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/Intel-ANV-Vulkan-DGC": {
+    "title": "Intel's Vulkan Linux Driver Now Supports Device Generated Commands \"DGC\"",
+    "source": "Phoronix",
+    "first_seen": "2026-05-06T15:43:38.064411+00:00",
+    "published": "2026-05-06T13:53:58+00:00"
+  },
+  "https://lwn.net/Articles/1071469": {
+    "title": "Incus 7.0 LTS released",
+    "source": "LWN.net",
+    "first_seen": "2026-05-06T15:43:38.064411+00:00",
+    "published": "2026-05-06T13:53:58+00:00"
+  },
+  "https://www.phoronix.com/news/Vulkan-SC-SDK": {
+    "title": "Vulkan SC SDK Released For Safety-Critical Graphics / Compute",
+    "source": "Phoronix",
+    "first_seen": "2026-05-06T15:43:38.064411+00:00",
+    "published": "2026-05-06T13:22:37+00:00"
+  },
+  "https://www.phoronix.com/news/Dell-Lenovo-Sponsoring-LVFS": {
+    "title": "Dell & Lenovo Now Sponsoring The Linux Vendor Firmware Service",
+    "source": "Phoronix",
+    "first_seen": "2026-05-06T15:43:38.064411+00:00",
+    "published": "2026-05-06T13:10:00+00:00"
+  },
+  "https://lwn.net/Articles/1071466": {
+    "title": "Security updates for Wednesday",
+    "source": "LWN.net",
+    "first_seen": "2026-05-06T15:43:38.064411+00:00",
+    "published": "2026-05-06T13:05:18+00:00"
+  },
+  "https://thenewstack.io/netease-fluid-llm-inference": {
+    "title": "How NetEase Games cut LLM cold starts from 42 minutes to 30 seconds",
+    "source": "The New Stack",
+    "first_seen": "2026-05-06T15:43:38.064411+00:00",
+    "published": "2026-05-06T13:00:00+00:00"
+  },
+  "https://github.com/sqliteai/adam": {
+    "title": "Show HN: Adam – An embeddable cross-platform AI agent library",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-06T15:43:38.064411+00:00",
+    "published": "2026-05-06T12:56:29+00:00"
+  },
+  "https://gizmodo.com/shrinkflation-is-quietly-making-all-gadgets-worse-2000754565": {
+    "title": "Shrinkflation Is Quietly Making All Gadgets Worse",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-06T15:43:38.064411+00:00",
+    "published": "2026-05-06T12:50:27+00:00"
+  },
+  "https://ruuda.nl/2026/deptool": {
+    "title": "Building the deployment tool I wish I had",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-06T15:43:38.064411+00:00",
+    "published": "2026-05-06T12:49:04+00:00"
+  },
+  "https://www.phoronix.com/news/VKD3D-Proton-3.0.1": {
+    "title": "VKD3D-Proton 3.0.1 Brings More Improvements For Direct3D 12 On Vulkan",
+    "source": "Phoronix",
+    "first_seen": "2026-05-06T15:43:38.064411+00:00",
+    "published": "2026-05-06T12:30:56+00:00"
+  },
+  "https://www.coveragecat.com/careers/engineering/fractional-growth-engineer": {
+    "title": "Cat (YC S22) Seeks Fractional Engineer to Build AI-Native Growth Toolkit",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-06T15:43:38.064411+00:00",
+    "published": "2026-05-06T12:00:24+00:00"
+  },
+  "https://realpython.com/quizzes/python-api": {
+    "title": "Quiz: Python & APIs: A Winning Combo for Reading Public Data",
+    "source": "Real Python",
+    "first_seen": "2026-05-06T15:43:38.064411+00:00",
+    "published": "2026-05-06T12:00:00+00:00"
+  },
+  "https://realpython.com/quizzes/opencode-guide": {
+    "title": "Quiz: How to Use OpenCode for AI-Assisted Python Coding",
+    "source": "Real Python",
+    "first_seen": "2026-05-06T15:43:38.064411+00:00",
+    "published": "2026-05-06T12:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/librocdxg-1.2-More-Ryzen-ROCm": {
+    "title": "AMD Expands ROCm Support On Windows WSL To More Ryzen Hardware",
+    "source": "Phoronix",
+    "first_seen": "2026-05-06T15:43:38.064411+00:00",
+    "published": "2026-05-06T11:43:33+00:00"
+  },
+  "https://catstret.ch/202605/srss-hipster202510": {
+    "title": "Setting up a Sun Ray server on OpenIndiana Hipster 2025.10",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-06T15:43:38.064411+00:00",
+    "published": "2026-05-06T10:53:52+00:00"
+  },
+  "https://www.elastic.co/blog/google-cloud-next-2026-recap": {
+    "title": "The agentic era: Elastic at Google Cloud Next 2026",
+    "source": "Elastic Blog",
+    "first_seen": "2026-05-06T15:43:38.064411+00:00",
+    "published": "2026-05-06T00:00:00+00:00"
+  },
+  "https://openai.com/index/introducing-b2b-signals": {
+    "title": "How frontier enterprises are building an AI advantage",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-05-06T15:43:38.064411+00:00",
+    "published": "2026-05-06T00:00:00+00:00"
   }
 }
