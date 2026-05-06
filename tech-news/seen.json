@@ -15968,5 +15968,83 @@
     "source": "AWS ML Blog",
     "first_seen": "2026-05-06T03:06:28.134220+00:00",
     "published": "2026-05-04T17:13:42+00:00"
+  },
+  "https://www.thoughtworks.com/insights/articles/agentic-journey-from-idea-to-product": {
+    "title": "The agentic journey from idea to product",
+    "source": "ThoughtWorks",
+    "first_seen": "2026-05-06T09:44:25.817854+00:00",
+    "published": "2026-05-08T00:00:00+00:00"
+  },
+  "https://www.terrygodier.com/the-boring-internet": {
+    "title": "The Boring Internet",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-06T09:44:25.817854+00:00",
+    "published": "2026-05-06T08:23:43+00:00"
+  },
+  "https://draxinar.github.io/articles/2026-05-01-uodemo-reverse-engineering.html": {
+    "title": "Reverse-engineering the 1998 Ultima Online demo server",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-06T09:44:25.817854+00:00",
+    "published": "2026-05-06T06:31:29+00:00"
+  },
+  "https://microsoft.github.io/bocpy": {
+    "title": "Behavior-Oriented Concurrency for Python",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-06T09:44:25.817854+00:00",
+    "published": "2026-05-06T05:34:48+00:00"
+  },
+  "https://katedaviesdesigns.com/2026/04/29/knitting-bullshit": {
+    "title": "Knitting bullshit",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-06T09:44:25.817854+00:00",
+    "published": "2026-05-06T05:13:58+00:00"
+  },
+  "https://yuanchuan.dev/multi-stroke-text-effect-in-css": {
+    "title": "Multi-stroke text effect in CSS",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-06T09:44:25.817854+00:00",
+    "published": "2026-05-06T04:43:25+00:00"
+  },
+  "https://investors.micron.com/news-releases/news-release-details/industry-leading-245tb-micron-6600-ion-data-center-ssd-now": {
+    "title": "245TB Micron 6600 ION Data Center SSD Now Shipping",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-06T09:44:25.817854+00:00",
+    "published": "2026-05-06T03:37:51+00:00"
+  },
+  "https://www.stripes.com/opinion/2026-04-23/stripes-former-ombudsman-pentagon-trying-to-silence-21465037.html": {
+    "title": "Ombudsman column: The Pentagon is trying to silence me",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-06T09:44:25.817854+00:00",
+    "published": "2026-05-06T03:24:49+00:00"
+  },
+  "https://us.starlabs.systems/pages/starfighter": {
+    "title": "StarFighter 16-Inch",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-06T09:44:25.817854+00:00",
+    "published": "2026-05-06T02:03:44+00:00"
+  },
+  "https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63": {
+    "title": "Telus Uses AI to Alter Call-Agent Accents",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-06T09:44:25.817854+00:00",
+    "published": "2026-05-06T01:38:44+00:00"
+  },
+  "https://openrss.org/blog/youtube-your-feeds-are-broken": {
+    "title": "YouTube, your RSS feeds are broken",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-06T09:44:25.817854+00:00",
+    "published": "2026-05-06T01:15:31+00:00"
+  },
+  "https://huggingface.co/blog/open-asr-leaderboard-private-data": {
+    "title": "Adding Benchmaxxer Repellant to the Open ASR Leaderboard",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-05-06T09:44:25.817854+00:00",
+    "published": "2026-05-06T00:00:00+00:00"
+  },
+  "https://status.denic.de/pages/incident/592577eab611ce1e0d00046f/69fa60ef9d12f5057a974f38": {
+    "title": "DNSSEC disruption affecting .de domains – Resolved",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-06T09:44:25.817854+00:00",
+    "published": "2026-05-05T20:16:35+00:00"
   }
 }
