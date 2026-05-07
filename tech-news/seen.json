@@ -16784,5 +16784,191 @@
     "source": "Astro Blog",
     "first_seen": "2026-05-07T09:48:39.020931+00:00",
     "published": "2026-05-07T00:00:00+00:00"
+  },
+  "https://www.schneier.com/blog/archives/2026/05/smart-glasses-for-the-authorities.html": {
+    "title": "Smart Glasses for the Authorities",
+    "source": "Schneier on Security",
+    "first_seen": "2026-05-07T11:08:54.599606+00:00",
+    "published": "2026-05-07T11:07:07+00:00"
+  },
+  "https://thenewstack.io/ai-coding-junior-developers": {
+    "title": "The introverts’ edge: How AI is leveling the developer floor",
+    "source": "The New Stack",
+    "first_seen": "2026-05-07T11:08:54.599606+00:00",
+    "published": "2026-05-07T11:00:00+00:00"
+  },
+  "https://openai.com/index/parloa": {
+    "title": "Parloa builds service agents customers want to talk to",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-05-07T11:08:54.599606+00:00",
+    "published": "2026-05-07T11:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/KDE-Plasma-Faster-WL-SHM": {
+    "title": "KDE Plasma 6.7 To Provide A Much Better Experience For CPU-Based Rendering",
+    "source": "Phoronix",
+    "first_seen": "2026-05-07T11:08:54.599606+00:00",
+    "published": "2026-05-07T10:29:02+00:00"
+  },
+  "https://www.phoronix.com/news/GCC-WASM-WebAssembly": {
+    "title": "New GCC Back-End Proposed For WebAssembly",
+    "source": "Phoronix",
+    "first_seen": "2026-05-07T11:08:54.599606+00:00",
+    "published": "2026-05-07T10:17:13+00:00"
+  },
+  "https://www.phoronix.com/news/AMD-Ryzen-AI-SR-IOV-VF": {
+    "title": "SR-IOV Support Appears To Be Coming For Next-Gen Ryzen AI NPUs",
+    "source": "Phoronix",
+    "first_seen": "2026-05-07T11:08:54.599606+00:00",
+    "published": "2026-05-07T10:06:17+00:00"
+  },
+  "https://stratechery.com/2026/an-interview-with-joanna-stern-about-living-with-ai": {
+    "title": "An Interview with Joanna Stern About Living With AI",
+    "source": "Stratechery",
+    "first_seen": "2026-05-07T11:08:54.599606+00:00",
+    "published": "2026-05-07T10:00:00+00:00"
+  },
+  "https://firethering.com/zaya1-8b-open-source-math-coding-model": {
+    "title": "ZAYA1-8B: An 8B Moe Model with 760M Active Params Matching DeepSeek-R1 on Math",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-07T11:08:54.599606+00:00",
+    "published": "2026-05-07T08:56:51+00:00"
+  },
+  "https://lwn.net/Articles/1070994": {
+    "title": "[$] A new era for memory-management maintainership",
+    "source": "LWN.net",
+    "first_seen": "2026-05-07T15:05:42.286868+00:00",
+    "published": "2026-05-07T14:42:35+00:00"
+  },
+  "https://www.phoronix.com/news/Flat-Image-Tree-1.0": {
+    "title": "Flattened Image Tree 1.0 Specification For Embedded Linux Systems",
+    "source": "Phoronix",
+    "first_seen": "2026-05-07T15:05:42.286868+00:00",
+    "published": "2026-05-07T14:26:24+00:00"
+  },
+  "https://lwn.net/Articles/1071703": {
+    "title": "An update on KDE's Union style engine",
+    "source": "LWN.net",
+    "first_seen": "2026-05-07T15:05:42.286868+00:00",
+    "published": "2026-05-07T14:10:52+00:00"
+  },
+  "https://www.not-ship.com/burning-man-moop": {
+    "title": "The map that keeps Burning Man honest",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-07T15:05:42.286868+00:00",
+    "published": "2026-05-07T14:06:10+00:00"
+  },
+  "https://www.nature.com/articles/d41586-026-00796-2": {
+    "title": "Child marriages plunged when girls stayed in school in Nigeria",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-07T15:05:42.286868+00:00",
+    "published": "2026-05-07T13:30:04+00:00"
+  },
+  "https://thenewstack.io/yugabyte-meko-ai-agent-state": {
+    "title": "With the launch of Meko, Yugabyte targets the data layer that’s breaking multi-agent AI systems",
+    "source": "The New Stack",
+    "first_seen": "2026-05-07T15:05:42.286868+00:00",
+    "published": "2026-05-07T13:30:00+00:00"
+  },
+  "https://blog.cloudflare.com/copy-fail-linux-vulnerability-mitigation": {
+    "title": "Cloudflare responded to the \"Copy Fail\" Linux vulnerability",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-07T15:05:42.286868+00:00",
+    "published": "2026-05-07T13:25:31+00:00"
+  },
+  "https://lwn.net/Articles/1071700": {
+    "title": "Security updates for Thursday",
+    "source": "LWN.net",
+    "first_seen": "2026-05-07T15:05:42.286868+00:00",
+    "published": "2026-05-07T13:10:37+00:00"
+  },
+  "https://www.phoronix.com/review/amd-instinct-mi350p": {
+    "title": "AMD Instinct MI350P: PCIe Add-In Card For High Performance Open-Source AI/Compute",
+    "source": "Phoronix",
+    "first_seen": "2026-05-07T15:05:42.286868+00:00",
+    "published": "2026-05-07T13:00:00+00:00"
+  },
+  "https://www.docker.com/blog/comparing-sandboxing-approaches-ai-agents": {
+    "title": "Comparing Different Approaches to Sandboxing",
+    "source": "Docker Blog",
+    "first_seen": "2026-05-07T15:05:42.286868+00:00",
+    "published": "2026-05-07T13:00:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/agents-that-transact-introducing-amazon-bedrock-agentcore-payments-built-with-coinbase-and-stripe": {
+    "title": "Agents that transact: Introducing Amazon Bedrock AgentCore payments, built with Coinbase and Stripe",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-05-07T15:05:42.286868+00:00",
+    "published": "2026-05-07T12:55:17+00:00"
+  },
+  "https://www.phoronix.com/news/AMD-Elan-Linux-Driver-Removal": {
+    "title": "Linux Drivers For The AMD Elan SoCs From The 1990s On Track For Retirement",
+    "source": "Phoronix",
+    "first_seen": "2026-05-07T15:05:42.286868+00:00",
+    "published": "2026-05-07T12:20:09+00:00"
+  },
+  "https://www.ycombinator.com/companies/governgpt/jobs/hRyltS0-backend-engineer-thinking-systems": {
+    "title": "GovernGPT (YC W24) Is Hiring Engineers to Build Thinking Systems in Montreal",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-07T15:05:42.286868+00:00",
+    "published": "2026-05-07T12:01:13+00:00"
+  },
+  "https://realpython.com/quizzes/qt-designer-python": {
+    "title": "Quiz: Qt Designer and Python: Build Your GUI Applications Faster",
+    "source": "Real Python",
+    "first_seen": "2026-05-07T15:05:42.286868+00:00",
+    "published": "2026-05-07T12:00:00+00:00"
+  },
+  "https://ofdollarsanddata.com/the-upper-middle-class-trap": {
+    "title": "The Upper Middle Class Trap",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-07T15:05:42.286868+00:00",
+    "published": "2026-05-07T11:51:59+00:00"
+  },
+  "https://www.tigerdata.com/blog/five-warning-signs-your-database-needs-different-architecture": {
+    "title": "Five Warning Signs Your Database Needs Different Architecture",
+    "source": "Timescale Blog",
+    "first_seen": "2026-05-07T15:05:42.286868+00:00",
+    "published": "2026-05-07T11:40:41+00:00"
+  },
+  "https://paulkrugman.substack.com/p/grand-theft-oil-futures": {
+    "title": "Grand Theft Oil Futures: Insider traders keep making a killing at our expense",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-07T15:05:42.286868+00:00",
+    "published": "2026-05-07T11:10:24+00:00"
+  },
+  "https://www.theregister.com/offbeat/2026/05/05/noyb-cries-foul-on-linkedin-withholding-profile-visitor-data/5225338": {
+    "title": "LinkedIn profile visitor lists belong to the people, says Noyb",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-07T15:05:42.286868+00:00",
+    "published": "2026-05-07T11:08:43+00:00"
+  },
+  "https://ahk.cardor.dev": {
+    "title": "Agent-harness-kit scaffolding for multi-agent workflows (MCP, provider-agnostic)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-07T15:05:42.286868+00:00",
+    "published": "2026-05-07T10:45:59+00:00"
+  },
+  "https://www.databricks.com/blog/mean-time-detect-data-access-problem": {
+    "title": "Mean Time to Detect Is a Data Access Problem",
+    "source": "Databricks Blog",
+    "first_seen": "2026-05-07T15:05:42.286868+00:00",
+    "published": "2026-05-07T09:45:32+00:00"
+  },
+  "https://www.elastic.co/blog/wp-engine-partnership": {
+    "title": "How one partnership powers search for over 2 million WP Engine users",
+    "source": "Elastic Blog",
+    "first_seen": "2026-05-07T15:05:42.286868+00:00",
+    "published": "2026-05-07T00:00:00+00:00"
+  },
+  "https://nodeweekly.com/issues/623": {
+    "title": "Node 26.0 ships Temporal; Node 26.1 brings FFI",
+    "source": "Node Weekly",
+    "first_seen": "2026-05-07T15:05:42.286868+00:00",
+    "published": "2026-05-07T00:00:00+00:00"
+  },
+  "https://deepmind.google/blog/alphaevolve-impact": {
+    "title": "AlphaEvolve: How our Gemini-powered coding agent is scaling impact across fields",
+    "source": "DeepMind Blog",
+    "first_seen": "2026-05-07T15:05:42.286868+00:00",
+    "published": "2026-05-06T10:43:49+00:00"
   }
 }
