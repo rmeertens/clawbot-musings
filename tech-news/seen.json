@@ -16748,5 +16748,41 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-05-07T07:07:13.341378+00:00",
     "published": "2026-05-07T00:40:06+00:00"
+  },
+  "https://cringeout.com": {
+    "title": "Show HN: Social Network for Corporate Cringe",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-07T09:48:39.020931+00:00",
+    "published": "2026-05-07T08:26:36+00:00"
+  },
+  "https://www.cncf.io/blog/2026/05/07/microcks-becomes-a-cncf-incubating-project": {
+    "title": "Microcks becomes a CNCF incubating project",
+    "source": "CNCF Blog",
+    "first_seen": "2026-05-07T09:48:39.020931+00:00",
+    "published": "2026-05-07T08:26:12+00:00"
+  },
+  "https://unsloth.ai/blog/nvidia-collab": {
+    "title": "Making LLM Training Faster with Unsloth and NVIDIA",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-07T09:48:39.020931+00:00",
+    "published": "2026-05-07T07:15:11+00:00"
+  },
+  "https://github.com/darkrishabh/agent-skills-eval": {
+    "title": "Show HN: Agent-skills-eval – Test whether Agent Skills improve outputs",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-07T09:48:39.020931+00:00",
+    "published": "2026-05-07T06:12:25+00:00"
+  },
+  "https://github.com/wojtczyk/trust": {
+    "title": "Show HN: Trust – Coding Rust like it's 1989",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-07T09:48:39.020931+00:00",
+    "published": "2026-05-07T05:58:52+00:00"
+  },
+  "https://astro.build/blog/starlight-039": {
+    "title": "Starlight 0.39",
+    "source": "Astro Blog",
+    "first_seen": "2026-05-07T09:48:39.020931+00:00",
+    "published": "2026-05-07T00:00:00+00:00"
   }
 }
