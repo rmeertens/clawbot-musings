@@ -17054,5 +17054,251 @@
     "source": "Astro Blog",
     "first_seen": "2026-05-07T15:44:36.142537+00:00",
     "published": "2026-05-07T00:00:00+00:00"
+  },
+  "https://github.blog/ai-and-ml/generative-ai/agent-pull-requests-are-everywhere-heres-how-to-review-them": {
+    "title": "Agent pull requests are everywhere. Here’s how to review them.",
+    "source": "GitHub Blog",
+    "first_seen": "2026-05-07T19:09:22.491453+00:00",
+    "published": "2026-05-07T19:00:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/security/icymi-april-2026-aws-security": {
+    "title": "ICYMI: April 2026 @AWS Security",
+    "source": "AWS Security Blog",
+    "first_seen": "2026-05-07T19:09:22.491453+00:00",
+    "published": "2026-05-07T18:52:59+00:00"
+  },
+  "https://cloud.google.com/blog/products/ai-machine-learning/gemini-3-1-flash-lite-is-now-generally-available": {
+    "title": "Gemini 3.1 Flash-Lite is now generally available on Gemini Enterprise Agent Platform",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-05-07T19:09:22.491453+00:00",
+    "published": "2026-05-07T18:00:00+00:00"
+  },
+  "https://simonwillison.net/2026/May/7/firefox-claude-mythos": {
+    "title": "Behind the Scenes Hardening Firefox with Claude Mythos Preview",
+    "source": "Simon Willison",
+    "first_seen": "2026-05-07T19:09:22.491453+00:00",
+    "published": "2026-05-07T17:56:25+00:00"
+  },
+  "https://www.anthropic.com/research/natural-language-autoencoders": {
+    "title": "Natural Language Autoencoders: Turning Claude's Thoughts into Text",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-07T19:09:22.491453+00:00",
+    "published": "2026-05-07T17:54:02+00:00"
+  },
+  "https://www.elciudadano.com/en/brazils-pix-payment-system-faces-pressure-from-visa-and-mastercard/04/04": {
+    "title": "Brazil's Pix Payment System Faces Pressure from Visa and Mastercard",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-07T19:09:22.491453+00:00",
+    "published": "2026-05-07T17:42:58+00:00"
+  },
+  "https://twitter.com/trevin/status/2051316002730991795": {
+    "title": "Principles for agent-native CLIs",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-07T19:09:22.491453+00:00",
+    "published": "2026-05-07T17:40:05+00:00"
+  },
+  "https://thenewstack.io/temporal-replay-2026-news": {
+    "title": "Temporal reveals a serverless option for its Durable Execution platform",
+    "source": "The New Stack",
+    "first_seen": "2026-05-07T19:09:22.491453+00:00",
+    "published": "2026-05-07T17:25:25+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/query-billion-scale-vectors-with-sql-integrating-amazon-s3-vectors-and-aurora-postgresql": {
+    "title": "Query billion-scale vectors with SQL: Integrating Amazon S3 Vectors and Aurora PostgreSQL",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-05-07T19:09:22.491453+00:00",
+    "published": "2026-05-07T17:23:51+00:00"
+  },
+  "https://thenewstack.io/openai-gpt-5-level-speech": {
+    "title": "OpenAI brings GPT-5-level reasoning to its speech models",
+    "source": "The New Stack",
+    "first_seen": "2026-05-07T19:09:22.491453+00:00",
+    "published": "2026-05-07T17:13:46+00:00"
+  },
+  "https://simonwillison.net/2026/May/7/xai-anthropic": {
+    "title": "Notes on the xAI/Anthropic data center deal",
+    "source": "Simon Willison",
+    "first_seen": "2026-05-07T19:09:22.491453+00:00",
+    "published": "2026-05-07T17:09:28+00:00"
+  },
+  "https://devblogs.microsoft.com/dotnet/copilot-studio-dotnet-10-migration": {
+    "title": "Copilot Studio gets faster with .NET 10 on WebAssembly",
+    "source": "MS .NET Blog",
+    "first_seen": "2026-05-07T19:09:22.491453+00:00",
+    "published": "2026-05-07T17:00:00+00:00"
+  },
+  "https://newsletter.pragmaticengineer.com/p/the-pulse-did-capacity-shortages": {
+    "title": "The Pulse: Did capacity shortages turn Anthropic hostile to devs?",
+    "source": "The Pragmatic Engineer",
+    "first_seen": "2026-05-07T19:09:22.491453+00:00",
+    "published": "2026-05-07T16:45:31+00:00"
+  },
+  "https://bsuh.bearblog.dev/agents-need-control-flow": {
+    "title": "Agents need control flow, not more prompts",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-07T19:09:22.491453+00:00",
+    "published": "2026-05-07T16:43:35+00:00"
+  },
+  "https://thenewstack.io/ai-observability-opentelemetry-webinar": {
+    "title": "Elastic architects reveal how to query observability data in plain English",
+    "source": "The New Stack",
+    "first_seen": "2026-05-07T19:09:22.491453+00:00",
+    "published": "2026-05-07T16:27:32+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/migrating-data-from-an-amazon-aurora-snapshot-into-amazon-aurora-dsql": {
+    "title": "Migrating data from an Amazon Aurora snapshot into Amazon Aurora DSQL",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-05-07T19:09:22.491453+00:00",
+    "published": "2026-05-07T16:19:48+00:00"
+  },
+  "https://aws.amazon.com/blogs/security/aws-achieves-sni-27017-sni-27018-and-sni-9001-certifications-for-the-aws-asia-pacific-jakarta-region": {
+    "title": "AWS achieves SNI 27017, SNI 27018, and SNI 9001 certifications for the AWS Asia Pacific (Jakarta) Region",
+    "source": "AWS Security Blog",
+    "first_seen": "2026-05-07T19:09:22.491453+00:00",
+    "published": "2026-05-07T16:03:47+00:00"
+  },
+  "https://www.phoronix.com/news/Realtek-RTL8159-Linux-7.2": {
+    "title": "Linux 7.2 To Support Realtek RTL8159 10GbE USB Ethernet",
+    "source": "Phoronix",
+    "first_seen": "2026-05-07T19:09:22.491453+00:00",
+    "published": "2026-05-07T16:03:15+00:00"
+  },
+  "https://developer.nvidia.com/blog/real-time-performance-monitoring-and-faster-debugging-with-nccl-inspector-and-prometheus": {
+    "title": "Real-Time Performance Monitoring and Faster Debugging with NCCL Inspector and Prometheus",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-05-07T19:09:22.491453+00:00",
+    "published": "2026-05-07T16:02:58+00:00"
+  },
+  "https://blog.johnozbay.com/i-left-apples-ecosystem-for-a-lenovo-chromebook-and-you-can-too.html": {
+    "title": "I switched from Mac to a Lenovo Chromebook",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-07T19:09:22.491453+00:00",
+    "published": "2026-05-07T16:01:24+00:00"
+  },
+  "https://cloud.google.com/blog/products/databases/scaling-real-time-performance-with-bigtable-in-memory-tier": {
+    "title": "New Bigtable in-memory tier for sub-millisecond read latency",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-05-07T19:09:22.491453+00:00",
+    "published": "2026-05-07T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/ai-machine-learning/how-basf-manages-thousands-of-supply-chain-decisions-with-alphaevolve": {
+    "title": "How BASF manages thousands of supply chain decisions with AlphaEvolve’s agentic algorithms",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-05-07T19:09:22.491453+00:00",
+    "published": "2026-05-07T16:00:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/secure-short-term-gpu-capacity-for-ml-workloads-with-ec2-capacity-blocks-for-ml-and-sagemaker-training-plans": {
+    "title": "Secure short-term GPU capacity for ML workloads with EC2 Capacity Blocks for ML and SageMaker training plans",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-05-07T19:09:22.491453+00:00",
+    "published": "2026-05-07T15:59:50+00:00"
+  },
+  "https://old.reddit.com/r/chrome/comments/1t5qayz/chrome_removes_claim_of_ondevice_al_not_sending": {
+    "title": "Chrome removes claim of On-device Al not sending data to Google Servers",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-07T19:09:22.491453+00:00",
+    "published": "2026-05-07T15:56:33+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/overcoming-reward-signal-challenges-verifiable-rewards-based-reinforcement-learning-with-grpo-on-sagemaker-ai": {
+    "title": "Overcoming reward signal challenges: Verifiable rewards-based reinforcement learning with GRPO on SageMaker AI",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-05-07T19:09:22.491453+00:00",
+    "published": "2026-05-07T15:53:30+00:00"
+  },
+  "https://github.com/antirez/ds4": {
+    "title": "DeepSeek 4 Flash local inference engine for Metal",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-07T19:09:22.491453+00:00",
+    "published": "2026-05-07T15:40:24+00:00"
+  },
+  "https://github.com/ReviewStage/stage-cli": {
+    "title": "Show HN: Stage CLI – an easier way of reading your AI generated changes locally",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-07T19:09:22.491453+00:00",
+    "published": "2026-05-07T15:38:36+00:00"
+  },
+  "https://www.ietf.org/archive/id/draft-gregoire-moq-msfts-00.html": {
+    "title": "MPEG-2 Transport Stream Packaging for Media over QUIC Transport",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-07T19:09:22.491453+00:00",
+    "published": "2026-05-07T14:32:25+00:00"
+  },
+  "https://www.nature.com/articles/d41586-026-00720-8": {
+    "title": "Child marriages plunged when girls stayed in school in Nigeria",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-07T19:09:22.491453+00:00",
+    "published": "2026-05-07T13:30:04+00:00"
+  },
+  "https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api": {
+    "title": "Advancing voice intelligence with new models in the API",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-05-07T19:09:22.491453+00:00",
+    "published": "2026-05-07T10:00:00+00:00"
+  },
+  "https://neon.com/blog/turning-off-fpw-for-faster-writes": {
+    "title": "Everyone gets faster writes: Turning off FPW on Neon",
+    "source": "Neon Blog",
+    "first_seen": "2026-05-07T19:09:22.491453+00:00",
+    "published": "2026-05-07T10:00:00+00:00"
+  },
+  "https://www.databricks.com/blog/first-party-audience-data-ad-sales-relationship-now": {
+    "title": "First-party audience data is the ad sales relationship now",
+    "source": "Databricks Blog",
+    "first_seen": "2026-05-07T19:09:22.491453+00:00",
+    "published": "2026-05-07T08:44:25+00:00"
+  },
+  "https://simonwillison.net/2026/May/7/github-repo-stats": {
+    "title": "GitHub Repo Stats",
+    "source": "Simon Willison",
+    "first_seen": "2026-05-07T19:09:22.491453+00:00",
+    "published": "2026-05-07T07:25:14+00:00"
+  },
+  "https://www.thoughtworks.com/insights/blog/generative-ai/github-copilot-me-evolution-partnership-coding-assistant": {
+    "title": "GitHub Copilot and me: The evolution of my partnership with a coding assistant",
+    "source": "ThoughtWorks",
+    "first_seen": "2026-05-07T19:09:22.491453+00:00",
+    "published": "2026-05-07T00:00:00+00:00"
+  },
+  "https://planetscale.com/blog/problem-solving-with-insights": {
+    "title": "Problem solving with PlanetScale Insights",
+    "source": "PlanetScale Blog",
+    "first_seen": "2026-05-07T19:09:22.491453+00:00",
+    "published": "2026-05-07T00:00:00+00:00"
+  },
+  "https://openai.com/index/testing-ads-in-chatgpt": {
+    "title": "Testing ads in ChatGPT",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-05-07T19:09:22.491453+00:00",
+    "published": "2026-05-07T00:00:00+00:00"
+  },
+  "https://openai.com/index/introducing-trusted-contact-in-chatgpt": {
+    "title": "Introducing Trusted Contact in ChatGPT",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-05-07T19:09:22.491453+00:00",
+    "published": "2026-05-07T00:00:00+00:00"
+  },
+  "https://machinelearning.apple.com/research/text-conditional-jepa-visual-representations": {
+    "title": "Text-Conditional JEPA for Learning Semantically Rich Visual Representations",
+    "source": "Apple ML Journal",
+    "first_seen": "2026-05-07T19:09:22.491453+00:00",
+    "published": "2026-05-07T00:00:00+00:00"
+  },
+  "https://machinelearning.apple.com/research/compression": {
+    "title": "What Matters in Practical Learned Image Compression",
+    "source": "Apple ML Journal",
+    "first_seen": "2026-05-07T19:09:22.491453+00:00",
+    "published": "2026-05-07T00:00:00+00:00"
+  },
+  "https://discord.com/blog/rust-shop-on-discord-launch-sale": {
+    "title": "Stock Up in the New Rust Shop! Enjoy a Discord-Only 20% Sale on Most Items until 5/21",
+    "source": "Discord Engineering",
+    "first_seen": "2026-05-07T19:09:22.491453+00:00",
+    "published": "2026-05-07T00:00:00+00:00"
+  },
+  "https://blog.python.org/2026/05/python-3150-beta-1": {
+    "title": "Python 3.15.0 beta 1 is here!",
+    "source": "Python Insider",
+    "first_seen": "2026-05-07T19:09:22.491453+00:00",
+    "published": "2026-05-07T00:00:00+00:00"
   }
 }
