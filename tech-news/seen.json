@@ -16712,5 +16712,41 @@
     "source": "Apple ML Journal",
     "first_seen": "2026-05-07T03:06:04.731103+00:00",
     "published": "2026-05-06T00:00:00+00:00"
+  },
+  "https://www.databricks.com/blog/why-talent-transformation-missing-focus-enterprise-ai": {
+    "title": "Why Talent Transformation Is the Missing Focus of Enterprise AI",
+    "source": "Databricks Blog",
+    "first_seen": "2026-05-07T07:07:13.341378+00:00",
+    "published": "2026-05-07T14:00:16+00:00"
+  },
+  "https://lwn.net/Articles/1071568": {
+    "title": "Three stable kernel updates",
+    "source": "LWN.net",
+    "first_seen": "2026-05-07T07:07:13.341378+00:00",
+    "published": "2026-05-07T06:36:28+00:00"
+  },
+  "https://jayakody2000lk.blogspot.com/2026/05/building-td4-4-bit-cpu.html": {
+    "title": "Building the TD4 4-Bit CPU",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-07T07:07:13.341378+00:00",
+    "published": "2026-05-07T04:25:43+00:00"
+  },
+  "https://arxiv.org/abs/2605.03546": {
+    "title": "ProgramBench: Can Language Models Rebuild Programs from Scratch?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-07T07:07:13.341378+00:00",
+    "published": "2026-05-07T03:46:15+00:00"
+  },
+  "https://aniket.foo/posts/20260505-netboot": {
+    "title": "Diskless Linux boot using ZFS, iSCSI and PXE",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-07T07:07:13.341378+00:00",
+    "published": "2026-05-07T03:13:24+00:00"
+  },
+  "https://shkspr.mobi/blog/2026/05/rss-feeds-send-me-more-traffic-than-google": {
+    "title": "RSS Feeds Send Me More Traffic Than Google",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-07T07:07:13.341378+00:00",
+    "published": "2026-05-07T00:40:06+00:00"
   }
 }
