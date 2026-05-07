@@ -17300,5 +17300,95 @@
     "source": "Python Insider",
     "first_seen": "2026-05-07T19:09:22.491453+00:00",
     "published": "2026-05-07T00:00:00+00:00"
+  },
+  "https://developer.nvidia.com/blog/achieving-peak-system-and-workload-efficiency-on-nvidia-gb200-nvl72-with-slurm-block-scheduling": {
+    "title": "Achieving Peak System and Workload Efficiency on NVIDIA GB200 NVL72 with Slurm Block Scheduling",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-05-07T21:18:27.634952+00:00",
+    "published": "2026-05-07T21:03:15+00:00"
+  },
+  "https://www.abc4.com/news/digital-exclusives/reporter-jj-nursery-utah-senator-jerry-stevenson-box-elder-county-data-center": {
+    "title": "Utah senator smacks ABC reporters phone out of hand amid Data Center controversy",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-07T21:18:27.634952+00:00",
+    "published": "2026-05-07T20:47:05+00:00"
+  },
+  "https://lwn.net/Articles/1071719": {
+    "title": "Dirty Frag: a zero-day universal Linux LPE",
+    "source": "LWN.net",
+    "first_seen": "2026-05-07T21:18:27.634952+00:00",
+    "published": "2026-05-07T20:25:43+00:00"
+  },
+  "https://blog.cloudflare.com/building-for-the-future": {
+    "title": "Building for the Future",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-07T21:18:27.634952+00:00",
+    "published": "2026-05-07T20:23:37+00:00"
+  },
+  "https://simonwillison.net/2026/May/7/llm-gemini": {
+    "title": "llm-gemini 0.31",
+    "source": "Simon Willison",
+    "first_seen": "2026-05-07T21:18:27.634952+00:00",
+    "published": "2026-05-07T19:57:06+00:00"
+  },
+  "https://www.openwall.com/lists/oss-security/2026/05/07/8": {
+    "title": "Dirtyfrag: Universal Linux LPE",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-07T21:18:27.634952+00:00",
+    "published": "2026-05-07T19:21:32+00:00"
+  },
+  "https://chosker.github.io/blog/colored-shadow-penumbra": {
+    "title": "Colored Shadow Penumbra",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-07T21:18:27.634952+00:00",
+    "published": "2026-05-07T19:04:30+00:00"
+  },
+  "https://simonwillison.net/2026/May/7/big-words": {
+    "title": "Big Words",
+    "source": "Simon Willison",
+    "first_seen": "2026-05-07T21:18:27.634952+00:00",
+    "published": "2026-05-07T18:47:09+00:00"
+  },
+  "https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities": {
+    "title": "AI slop is killing online communities",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-07T21:18:27.634952+00:00",
+    "published": "2026-05-07T18:46:25+00:00"
+  },
+  "https://github.com/pthom/imgui_bundle": {
+    "title": "Show HN: Full Python GUI apps in the browser – no JavaScript, no server",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-07T21:18:27.634952+00:00",
+    "published": "2026-05-07T17:36:26+00:00"
+  },
+  "https://grafana.com/blog/eliminate-noisy-log-lines-with-adaptive-logs-drop-rules": {
+    "title": "Eliminate noisy log lines with Adaptive Logs drop rules",
+    "source": "Grafana Blog",
+    "first_seen": "2026-05-07T21:18:27.634952+00:00",
+    "published": "2026-05-07T17:09:18+00:00"
+  },
+  "https://hacks.mozilla.org/2026/05/behind-the-scenes-hardening-firefox": {
+    "title": "Behind the Scenes Hardening Firefox with Claude Mythos Preview",
+    "source": "Mozilla Hacks",
+    "first_seen": "2026-05-07T21:18:27.634952+00:00",
+    "published": "2026-05-07T16:01:21+00:00"
+  },
+  "https://www.hashicorp.com/blog/ldap-secrets-management-now-available-in-ibm-vault-enterprise-20": {
+    "title": "LDAP secrets management now available in IBM Vault Enterprise 2.0",
+    "source": "HashiCorp Blog",
+    "first_seen": "2026-05-07T21:18:27.634952+00:00",
+    "published": "2026-05-07T16:00:00+00:00"
+  },
+  "https://www.databricks.com/blog/how-lakebase-architecture-delivers-5x-faster-postgres-writes": {
+    "title": "How lakebase architecture delivers 5x faster Postgres writes",
+    "source": "Databricks Blog",
+    "first_seen": "2026-05-07T21:18:27.634952+00:00",
+    "published": "2026-05-07T14:31:15+00:00"
+  },
+  "https://blog.sentry.io/fixing-javascript-observability": {
+    "title": "Fixing JavaScript observability, one library at a time",
+    "source": "Sentry Blog",
+    "first_seen": "2026-05-07T21:18:27.634952+00:00",
+    "published": "2026-05-07T00:00:00+00:00"
   }
 }
