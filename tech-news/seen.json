@@ -17390,5 +17390,71 @@
     "source": "Sentry Blog",
     "first_seen": "2026-05-07T21:18:27.634952+00:00",
     "published": "2026-05-07T00:00:00+00:00"
+  },
+  "https://github.blog/ai-and-ml/github-copilot/improving-token-efficiency-in-github-agentic-workflows": {
+    "title": "Improving token efficiency in GitHub Agentic Workflows",
+    "source": "GitHub Blog",
+    "first_seen": "2026-05-07T23:07:42.458747+00:00",
+    "published": "2026-05-07T23:00:00+00:00"
+  },
+  "https://www.theverge.com/tech/926458/canvas-shinyhunters-breach": {
+    "title": "Canvas (Instructure) LMS Down in Ongoing Ransomware Attack",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-07T23:07:42.458747+00:00",
+    "published": "2026-05-07T22:22:21+00:00"
+  },
+  "https://thenewstack.io/kubernetes-fleet-management-scale": {
+    "title": "How Microsoft is governing thousands of Kubernetes clusters without manual intervention",
+    "source": "The New Stack",
+    "first_seen": "2026-05-07T23:07:42.458747+00:00",
+    "published": "2026-05-07T22:07:21+00:00"
+  },
+  "https://webkit.org/blog/17953/release-notes-for-safari-technology-preview-243": {
+    "title": "Release Notes for Safari Technology Preview 243",
+    "source": "WebKit Blog",
+    "first_seen": "2026-05-07T23:07:42.458747+00:00",
+    "published": "2026-05-07T22:06:53+00:00"
+  },
+  "https://www.phoronix.com/news/AMD-K5-CPUs": {
+    "title": "AMD K5 CPUs The Latest To Be Retired With Linux's Aging & Stagnate Hardware Support",
+    "source": "Phoronix",
+    "first_seen": "2026-05-07T23:07:42.458747+00:00",
+    "published": "2026-05-07T21:44:11+00:00"
+  },
+  "https://developer.nvidia.com/blog/model-quantization-post-training-quantization-using-nvidia-model-optimizer": {
+    "title": "Model Quantization: Post-Training Quantization Using NVIDIA Model Optimizer",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-05-07T23:07:42.458747+00:00",
+    "published": "2026-05-07T21:18:06+00:00"
+  },
+  "https://www.citizen.co.za/news/home-affairs-officials-suspended-ai-hallucinations": {
+    "title": "Two Home Affairs officials suspended after AI 'hallucinations' found",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-07T23:07:42.458747+00:00",
+    "published": "2026-05-07T19:38:36+00:00"
+  },
+  "https://arstechnica.com/information-technology/2026/05/mozilla-says-271-vulnerabilities-found-by-mythos-have-almost-no-false-positives": {
+    "title": "Mozilla says 271 vulnerabilities found by Mythos and \"almost no false positives\"",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-07T23:07:42.458747+00:00",
+    "published": "2026-05-07T19:36:45+00:00"
+  },
+  "https://www.davesnider.com/posts/working-in-a-niche": {
+    "title": "Creating for a niche",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-07T23:07:42.458747+00:00",
+    "published": "2026-05-07T19:32:33+00:00"
+  },
+  "https://blog.replit.com/security-center": {
+    "title": "Security Center 2.0: Act on vulnerabilities in bulk across all your apps",
+    "source": "Replit Blog",
+    "first_seen": "2026-05-07T23:07:42.458747+00:00",
+    "published": "2026-05-07T17:00:00+00:00"
+  },
+  "https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber": {
+    "title": "Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-05-07T23:07:42.458747+00:00",
+    "published": "2026-05-07T13:00:00+00:00"
   }
 }
