@@ -16634,5 +16634,83 @@
     "source": "Apple ML Journal",
     "first_seen": "2026-05-06T23:06:15.001803+00:00",
     "published": "2026-05-06T00:00:00+00:00"
+  },
+  "https://permacomputing.net/principles": {
+    "title": "Permacomputing Principles",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-07T03:06:04.731103+00:00",
+    "published": "2026-05-07T02:18:23+00:00"
+  },
+  "https://www.vatican.va/latin/latin_index.html": {
+    "title": "The Vatican's Website in Latin",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-07T03:06:04.731103+00:00",
+    "published": "2026-05-07T01:26:03+00:00"
+  },
+  "https://engineering.grab.com/enchancing-flink-shadow-testing": {
+    "title": "Enhancing Flink Deployment with Shadow Testing",
+    "source": "Grab Tech",
+    "first_seen": "2026-05-07T03:06:04.731103+00:00",
+    "published": "2026-05-07T00:23:00+00:00"
+  },
+  "https://www.phoronix.com/news/Redox-OS-April-2026": {
+    "title": "Rust-Written Redox OS Sees Improvements For Running On Real Hardware",
+    "source": "Phoronix",
+    "first_seen": "2026-05-07T03:06:04.731103+00:00",
+    "published": "2026-05-07T00:22:57+00:00"
+  },
+  "https://lwn.net/Articles/1070466": {
+    "title": "[$] LWN.net Weekly Edition for May 7, 2026",
+    "source": "LWN.net",
+    "first_seen": "2026-05-07T03:06:04.731103+00:00",
+    "published": "2026-05-07T00:01:08+00:00"
+  },
+  "https://therecord.media/ADT-data-breach-cyberattack": {
+    "title": "ADT says customer data stolen in cyber intrusion",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-07T03:06:04.731103+00:00",
+    "published": "2026-05-06T23:51:05+00:00"
+  },
+  "https://www.phoronix.com/news/D7VK-1.9-Released": {
+    "title": "D7VK 1.9 Brings Some Hefty Performance Improvements",
+    "source": "Phoronix",
+    "first_seen": "2026-05-07T03:06:04.731103+00:00",
+    "published": "2026-05-06T23:43:51+00:00"
+  },
+  "https://sqlite.org/locrsf.html": {
+    "title": "SQLite Is a Library of Congress Recommended Storage Format",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-07T03:06:04.731103+00:00",
+    "published": "2026-05-06T21:58:43+00:00"
+  },
+  "https://www.stvn.sh/writing/programming-still-sucks-fqffhyp": {
+    "title": "Programming Still Sucks",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-07T03:06:04.731103+00:00",
+    "published": "2026-05-06T19:06:41+00:00"
+  },
+  "https://kubernetes.io/blog/2026/05/06/kubernetes-v1-36-server-side-sharded-list-and-watch": {
+    "title": "Kubernetes v1.36: Server-Side Sharded List and Watch",
+    "source": "Kubernetes Blog",
+    "first_seen": "2026-05-07T03:06:04.731103+00:00",
+    "published": "2026-05-06T18:35:00+00:00"
+  },
+  "https://www.elastic.co/blog/singapore-forge-the-future-hackathon-2026-recap": {
+    "title": "Takeaways from Elastic’s Forge the Future Hackathon 2026 in Singapore",
+    "source": "Elastic Blog",
+    "first_seen": "2026-05-07T03:06:04.731103+00:00",
+    "published": "2026-05-06T00:00:00+00:00"
+  },
+  "https://machinelearning.apple.com/research/specmd-expert-prefetching": {
+    "title": "SpecMD: A Comprehensive Study on Speculative Expert Prefetching",
+    "source": "Apple ML Journal",
+    "first_seen": "2026-05-07T03:06:04.731103+00:00",
+    "published": "2026-05-06T00:00:00+00:00"
+  },
+  "https://machinelearning.apple.com/research/normalizing-flows-iterative-denoising": {
+    "title": "Normalizing Flows with Iterative Denoising",
+    "source": "Apple ML Journal",
+    "first_seen": "2026-05-07T03:06:04.731103+00:00",
+    "published": "2026-05-06T00:00:00+00:00"
   }
 }
