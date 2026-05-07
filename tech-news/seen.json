@@ -16970,5 +16970,89 @@
     "source": "DeepMind Blog",
     "first_seen": "2026-05-07T15:05:42.286868+00:00",
     "published": "2026-05-06T10:43:49+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/announcing-valkey-9-0-for-amazon-elasticache": {
+    "title": "Announcing Valkey 9.0 for Amazon ElastiCache",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-05-07T15:44:36.142537+00:00",
+    "published": "2026-05-07T15:34:15+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/enhanced-search-for-amazon-elasticache": {
+    "title": "Full-text, exact-match, range, and hybrid search on Amazon ElastiCache",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-05-07T15:44:36.142537+00:00",
+    "published": "2026-05-07T15:32:37+00:00"
+  },
+  "https://blog.bytebytego.com/p/container-design-patterns-for-distributed": {
+    "title": "Container Design Patterns for Distributed Systems",
+    "source": "ByteByteGo",
+    "first_seen": "2026-05-07T15:44:36.142537+00:00",
+    "published": "2026-05-07T15:31:08+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/announcing-aggregations-on-amazon-elasticache": {
+    "title": "Announcing aggregations on Amazon ElastiCache",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-05-07T15:44:36.142537+00:00",
+    "published": "2026-05-07T15:30:56+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/valkey-turns-two": {
+    "title": "Valkey turns two",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-05-07T15:44:36.142537+00:00",
+    "published": "2026-05-07T15:29:56+00:00"
+  },
+  "https://thenewstack.io/openai-codex-claude-code": {
+    "title": "I tested the new OpenAI Codex features on a real Python codebase, and it’s the strongest Claude Code rival yet",
+    "source": "The New Stack",
+    "first_seen": "2026-05-07T15:44:36.142537+00:00",
+    "published": "2026-05-07T15:27:18+00:00"
+  },
+  "https://www.construction-physics.com/p/how-long-do-we-wait-for-new-inventions": {
+    "title": "How Long Do We Wait For New Inventions?",
+    "source": "Construction Physics",
+    "first_seen": "2026-05-07T15:44:36.142537+00:00",
+    "published": "2026-05-07T15:23:28+00:00"
+  },
+  "https://www.tomshardware.com/pc-components/motherboards/motherboard-sales-collapse-by-more-than-25-percent-as-chipmakers-strangle-enthusiast-pc-market-to-build-more-ai-chips-asus-projected-to-sell-5-million-fewer-boards-in-2025-gigabyte-msi-and-asrock-also-expected-to-see-reduced-sales-numbers": {
+    "title": "Motherboard sales are now collapsing amid unprecedented shortages fueled by AI",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-07T15:44:36.142537+00:00",
+    "published": "2026-05-07T15:23:23+00:00"
+  },
+  "https://www.phoronix.com/news/AMD-RadeonSI-MM-Reorganized": {
+    "title": "AMD RadeonSI Code Reorganized To Support Multimedia-Only Driver Builds",
+    "source": "Phoronix",
+    "first_seen": "2026-05-07T15:44:36.142537+00:00",
+    "published": "2026-05-07T15:21:04+00:00"
+  },
+  "https://tastecooking.com/i-want-to-live-like-costco-people": {
+    "title": "I Want to Live Like Costco People",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-07T15:44:36.142537+00:00",
+    "published": "2026-05-07T15:19:27+00:00"
+  },
+  "https://thenewstack.io/github-mcp-security-scanning": {
+    "title": "GitHub builds an immune system for AI coding agents running on MCP",
+    "source": "The New Stack",
+    "first_seen": "2026-05-07T15:44:36.142537+00:00",
+    "published": "2026-05-07T15:04:24+00:00"
+  },
+  "https://predr.ag/blog/the-self-cancelling-subscription": {
+    "title": "The Self-Cancelling Subscription",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-07T15:44:36.142537+00:00",
+    "published": "2026-05-07T14:15:16+00:00"
+  },
+  "https://www.databricks.com/blog/public-health-intelligence-shouldnt-require-data-scientist": {
+    "title": "Public Health Intelligence Shouldn't Require a Data Scientist",
+    "source": "Databricks Blog",
+    "first_seen": "2026-05-07T15:44:36.142537+00:00",
+    "published": "2026-05-07T10:35:53+00:00"
+  },
+  "https://astro.build/blog/astro-630": {
+    "title": "Astro 6.3",
+    "source": "Astro Blog",
+    "first_seen": "2026-05-07T15:44:36.142537+00:00",
+    "published": "2026-05-07T00:00:00+00:00"
   }
 }
