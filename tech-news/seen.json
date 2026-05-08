@@ -17456,5 +17456,113 @@
     "source": "OpenAI Blog",
     "first_seen": "2026-05-07T23:07:42.458747+00:00",
     "published": "2026-05-07T13:00:00+00:00"
+  },
+  "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/medqa": {
+    "title": "MedQA: Fine-Tuning a Clinical AI on AMD ROCm — No CUDA Required",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-05-08T09:29:29.661339+00:00",
+    "published": "2026-05-08T07:54:18+00:00"
+  },
+  "https://stackoverflow.blog/2026/05/08/ai-giveth-and-ai-taketh-cpu": {
+    "title": "AI giveth and AI taketh CPU",
+    "source": "Stack Overflow Blog",
+    "first_seen": "2026-05-08T09:29:29.661339+00:00",
+    "published": "2026-05-08T07:40:00+00:00"
+  },
+  "https://www.databricks.com/blog/why-telecom-churn-prediction-misses-intervention-window": {
+    "title": "Why telecom churn prediction misses the intervention window",
+    "source": "Databricks Blog",
+    "first_seen": "2026-05-08T09:29:29.661339+00:00",
+    "published": "2026-05-08T07:11:33+00:00"
+  },
+  "https://www.databricks.com/blog/growth-analytics-what-comes-after-growth-hacking": {
+    "title": "Growth Analytics Is What Comes After Growth Hacking",
+    "source": "Databricks Blog",
+    "first_seen": "2026-05-08T09:29:29.661339+00:00",
+    "published": "2026-05-08T07:11:18+00:00"
+  },
+  "https://www.databricks.com/blog/real-world-evidence-medical-affairs-who-can-actually-use-it": {
+    "title": "Real-world evidence for medical affairs: who can actually use it?",
+    "source": "Databricks Blog",
+    "first_seen": "2026-05-08T09:29:29.661339+00:00",
+    "published": "2026-05-08T07:11:15+00:00"
+  },
+  "https://www.databricks.com/blog/wealth-advisor-productivity-starts-client-conversation": {
+    "title": "Wealth advisor productivity starts with the client conversation",
+    "source": "Databricks Blog",
+    "first_seen": "2026-05-08T09:29:29.661339+00:00",
+    "published": "2026-05-08T07:11:00+00:00"
+  },
+  "https://clojurescript.org/news/2026-05-07-release": {
+    "title": "ClojureScript Gets Async/Await",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-08T09:29:29.661339+00:00",
+    "published": "2026-05-08T07:04:24+00:00"
+  },
+  "https://hantawatch.net": {
+    "title": "HantaWatch Real time hantavirus outbreak tracker",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-08T09:29:29.661339+00:00",
+    "published": "2026-05-08T05:24:24+00:00"
+  },
+  "https://github.com/graemeg/blaise": {
+    "title": "Blaise – A modern self-hosting zero-legacy Object Pascal compiler targeting QBE",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-08T09:29:29.661339+00:00",
+    "published": "2026-05-08T04:44:02+00:00"
+  },
+  "https://krebsonsecurity.com/2026/05/canvas-breach-disrupts-schools-colleges-nationwide": {
+    "title": "Canvas Breach Disrupts Schools & Colleges Nationwide",
+    "source": "Krebs on Security",
+    "first_seen": "2026-05-08T09:29:29.661339+00:00",
+    "published": "2026-05-08T02:58:46+00:00"
+  },
+  "https://www.phoronix.com/news/Dirty-Frag-Linux": {
+    "title": "Dirty Frag Vulnerability Made Public Early: Root Privilege On All Distributions",
+    "source": "Phoronix",
+    "first_seen": "2026-05-08T09:29:29.661339+00:00",
+    "published": "2026-05-08T00:08:32+00:00"
+  },
+  "https://github.com/robertdfrench/ifuncd-up": {
+    "title": "GNU IFUNC is the real culprit behind CVE-2024-3094",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-08T09:29:29.661339+00:00",
+    "published": "2026-05-08T00:03:38+00:00"
+  },
+  "https://www.cam.ac.uk/research/news/gambling-ads-on-social-media-reach-more-than-twice-as-many-men-as-women": {
+    "title": "Gambling ads on social media reach more than twice as many men as women: study",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-08T09:29:29.661339+00:00",
+    "published": "2026-05-07T23:17:03+00:00"
+  },
+  "https://www.bcm.edu/news/researchers-discover-advanced-language-processing-in-the-unconscious-human-brain": {
+    "title": "Plasticity and language in the anaesthetized human hippocampus",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-08T09:29:29.661339+00:00",
+    "published": "2026-05-07T23:06:44+00:00"
+  },
+  "https://xeiaso.net/blog/2026/abstain-from-install": {
+    "title": "Maybe you shouldn't install new software for a bit",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-08T09:29:29.661339+00:00",
+    "published": "2026-05-07T23:02:11+00:00"
+  },
+  "https://www.uchicagomedicine.org/forefront/research-and-discoveries-articles/nonprofit-hospitals-spend-billions-on-management-consultants": {
+    "title": "Nonprofit hospitals spend billions on consultants with no clear effect",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-08T09:29:29.661339+00:00",
+    "published": "2026-05-07T22:54:34+00:00"
+  },
+  "https://www.reuters.com/business/world-at-work/cloudflare-cut-over-1100-jobs-2026-05-07": {
+    "title": "Cloudflare to cut about 20% workforce",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-08T09:29:29.661339+00:00",
+    "published": "2026-05-07T20:23:37+00:00"
+  },
+  "https://kubernetes.io/blog/2026/05/07/kubernetes-v1-36-dra-136-updates": {
+    "title": "Kubernetes v1.36: More Drivers, New Features, and the Next Era of DRA",
+    "source": "Kubernetes Blog",
+    "first_seen": "2026-05-08T09:29:29.661339+00:00",
+    "published": "2026-05-07T18:35:00+00:00"
   }
 }
