@@ -17822,5 +17822,185 @@
     "source": "Golang Weekly",
     "first_seen": "2026-05-08T15:29:09.390746+00:00",
     "published": "2026-05-08T00:00:00+00:00"
+  },
+  "https://thenewstack.io/openai-codex-chrome-extension": {
+    "title": "OpenAI Codex arrives in the browser with new Chrome extension",
+    "source": "The New Stack",
+    "first_seen": "2026-05-08T19:06:38.060902+00:00",
+    "published": "2026-05-08T18:03:01+00:00"
+  },
+  "https://www.databricks.com/blog/addressing-hrs-widening-capacity-gap-ai": {
+    "title": "Addressing HR's widening capacity gap with AI",
+    "source": "Databricks Blog",
+    "first_seen": "2026-05-08T19:06:38.060902+00:00",
+    "published": "2026-05-08T18:00:00+00:00"
+  },
+  "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures": {
+    "title": "AI Is Breaking Two Vulnerability Cultures",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-08T19:06:38.060902+00:00",
+    "published": "2026-05-08T17:55:08+00:00"
+  },
+  "https://www.schneier.com/blog/archives/2026/05/insider-betting-on-polymarket.html": {
+    "title": "Insider Betting on Polymarket",
+    "source": "Schneier on Security",
+    "first_seen": "2026-05-08T19:06:38.060902+00:00",
+    "published": "2026-05-08T17:49:01+00:00"
+  },
+  "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/cybersecqwen-4b": {
+    "title": "CyberSecQwen-4B: Why Defensive Cyber Needs Small, Specialized, Locally-Runnable Models",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-05-08T19:06:38.060902+00:00",
+    "published": "2026-05-08T17:41:05+00:00"
+  },
+  "https://thenewstack.io/cursor-sdk-ai-agents": {
+    "title": "“Several known limitations”: Developers react to Cursor’s promising but still-moving SDK",
+    "source": "The New Stack",
+    "first_seen": "2026-05-08T19:06:38.060902+00:00",
+    "published": "2026-05-08T17:39:43+00:00"
+  },
+  "https://thenewstack.io/ai-agent-conference-startups": {
+    "title": "AI startups are scrambling to survive in big tech’s shadow",
+    "source": "The New Stack",
+    "first_seen": "2026-05-08T19:06:38.060902+00:00",
+    "published": "2026-05-08T17:26:10+00:00"
+  },
+  "https://www.reuters.com/business/apple-intel-have-reached-preliminary-chip-making-deal-wsj-reports-2026-05-08": {
+    "title": "Apple, Intel have reached preliminary chip-making deal",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-08T19:06:38.060902+00:00",
+    "published": "2026-05-08T17:25:21+00:00"
+  },
+  "https://www.techdirt.com/2026/05/08/court-to-doge-bros-asking-chatgpt-yo-is-this-dei-is-not-proper-legal-process-also-a-first-amendment-violation": {
+    "title": "Court to DOGE: Asking ChatGPT 'Is This DEI?' Is Not Proper Legal Process",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-08T19:06:38.060902+00:00",
+    "published": "2026-05-08T17:14:52+00:00"
+  },
+  "https://developer.nvidia.com/blog/improving-bash-generation-in-small-language-models-with-grammar-constrained-decoding": {
+    "title": "Improving Bash Generation in Small Language Models with Grammar-Constrained Decoding",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-05-08T19:06:38.060902+00:00",
+    "published": "2026-05-08T17:13:33+00:00"
+  },
+  "https://www.stroustrup.com/bs_faq2.html": {
+    "title": "Bjarne Stroustrup: How do I deal with memory leaks? (2022)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-08T19:06:38.060902+00:00",
+    "published": "2026-05-08T17:06:59+00:00"
+  },
+  "https://stratechery.com/2026/earning-spending": {
+    "title": "2026.19: Earning & Spending",
+    "source": "Stratechery",
+    "first_seen": "2026-05-08T19:06:38.060902+00:00",
+    "published": "2026-05-08T17:00:00+00:00"
+  },
+  "https://lwn.net/Articles/1071499": {
+    "title": "[$] Forgejo \"carrot disclosure\" raises security questions",
+    "source": "LWN.net",
+    "first_seen": "2026-05-08T19:06:38.060902+00:00",
+    "published": "2026-05-08T16:30:46+00:00"
+  },
+  "https://github.blog/news-insights/policy-news-and-insights/why-age-assurance-laws-matter-for-developers": {
+    "title": "Why age assurance laws matter for developers",
+    "source": "GitHub Blog",
+    "first_seen": "2026-05-08T19:06:38.060902+00:00",
+    "published": "2026-05-08T16:30:00+00:00"
+  },
+  "https://www.webdesignmuseum.org/flash-game-exhibitions/cartoon-network-flash-games": {
+    "title": "Cartoon Network Flash Games",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-08T19:06:38.060902+00:00",
+    "published": "2026-05-08T16:29:52+00:00"
+  },
+  "https://huggingface.co/blog/allenai/emo": {
+    "title": "EMO: Pretraining mixture of experts for emergent modularity",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-05-08T19:06:38.060902+00:00",
+    "published": "2026-05-08T16:03:50+00:00"
+  },
+  "https://cloud.google.com/blog/products/containers-kubernetes/gke-node-startup-gets-faster": {
+    "title": "With faster node startup for GKE, say goodbye to cold-start latency",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-05-08T19:06:38.060902+00:00",
+    "published": "2026-05-08T16:00:00+00:00"
+  },
+  "https://developer.nvidia.com/blog/streaming-tokens-and-tools-multi-turn-agentic-harness-support-in-nvidia-dynamo": {
+    "title": "Streaming Tokens and Tools: Multi-Turn Agentic Harness Support in NVIDIA Dynamo",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-05-08T19:06:38.060902+00:00",
+    "published": "2026-05-08T15:59:16+00:00"
+  },
+  "https://www.tigerdata.com/blog/how-relational-complexity-crushes-real-time-dashboards": {
+    "title": "How Relational Complexity Crushes Real-Time Dashboards",
+    "source": "Timescale Blog",
+    "first_seen": "2026-05-08T19:06:38.060902+00:00",
+    "published": "2026-05-08T15:33:00+00:00"
+  },
+  "https://blog.bytebytego.com/p/enrollment-ends-soon-become-an-ai": {
+    "title": "Become an AI Engineer | Enrollment Ends Soon",
+    "source": "ByteByteGo",
+    "first_seen": "2026-05-08T19:06:38.060902+00:00",
+    "published": "2026-05-08T15:31:40+00:00"
+  },
+  "https://www.databricks.com/blog/mcp-marketplace-brings-real-time-intelligence-agentic-applications": {
+    "title": "MCP Marketplace Brings Real-Time Intelligence to Agentic Applications",
+    "source": "Databricks Blog",
+    "first_seen": "2026-05-08T19:06:38.060902+00:00",
+    "published": "2026-05-08T15:18:00+00:00"
+  },
+  "https://btxx.org/posts/memory": {
+    "title": "Serving a website on a Raspberry Pi Zero running in RAM",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-08T19:06:38.060902+00:00",
+    "published": "2026-05-08T15:10:35+00:00"
+  },
+  "https://privatecaptcha.com/blog/google-cloud-fraud-defence-wei": {
+    "title": "Google Cloud Fraud Defence is just WEI repackaged",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-08T19:06:38.060902+00:00",
+    "published": "2026-05-08T13:56:10+00:00"
+  },
+  "https://www.war.gov/UFO": {
+    "title": "US Government releases first batch of UAP documents and videos",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-08T19:06:38.060902+00:00",
+    "published": "2026-05-08T12:10:25+00:00"
+  },
+  "https://www.bbc.com/news/articles/cp3pww9g0p5o": {
+    "title": "David Attenborough's 100th Birthday",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-08T19:06:38.060902+00:00",
+    "published": "2026-05-08T12:03:26+00:00"
+  },
+  "http://bair.berkeley.edu/blog/2026/05/08/adaptive-parallel-reasoning": {
+    "title": "Adaptive Parallel Reasoning: The Next Paradigm in Efficient Inference Scaling",
+    "source": "BAIR Blog",
+    "first_seen": "2026-05-08T19:06:38.060902+00:00",
+    "published": "2026-05-08T09:00:00+00:00"
+  },
+  "https://news.ycombinator.com/item?id=48060054": {
+    "title": "Ask HN: We just had an actual UUID v4 collision...",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-08T19:06:38.060902+00:00",
+    "published": "2026-05-08T07:57:14+00:00"
+  },
+  "https://mojolang.org": {
+    "title": "Mojo 1.0 Beta",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-08T19:06:38.060902+00:00",
+    "published": "2026-05-08T02:49:01+00:00"
+  },
+  "https://www.elastic.co/blog/generative-ai-logs-business-intelligence": {
+    "title": "Beyond debugging: How GenAI can turn logs into business intelligence",
+    "source": "Elastic Blog",
+    "first_seen": "2026-05-08T19:06:38.060902+00:00",
+    "published": "2026-05-08T00:00:00+00:00"
+  },
+  "https://blog.sentry.io/unreal-engine-performance-metrics": {
+    "title": "Monitor Unreal Engine Game Performance with Application Metrics",
+    "source": "Sentry Blog",
+    "first_seen": "2026-05-08T19:06:38.060902+00:00",
+    "published": "2026-05-08T00:00:00+00:00"
   }
 }
