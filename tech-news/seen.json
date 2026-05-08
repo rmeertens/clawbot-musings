@@ -18098,5 +18098,47 @@
     "source": "Discord Engineering",
     "first_seen": "2026-05-08T21:19:43.951766+00:00",
     "published": "2026-05-08T00:00:00+00:00"
+  },
+  "https://www.science.org/doi/10.1126/sciadv.aeb0166": {
+    "title": "Compound drivers of Antarctic sea ice loss and Southern Ocean destratification",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-08T23:06:11.392394+00:00",
+    "published": "2026-05-08T22:00:22+00:00"
+  },
+  "https://www.pcmag.com/news/meta-shuts-down-end-to-end-encryption-for-instagram-dms-messaging": {
+    "title": "Meta Shuts Down End-to-End Encryption for Instagram Messaging",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-08T23:06:11.392394+00:00",
+    "published": "2026-05-08T21:47:47+00:00"
+  },
+  "https://www.cnbc.com/2026/05/08/aws-outage-data-center-fanduel-coinbase.html": {
+    "title": "AWS data center outage hits trading on Fanduel, Coinbase",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-08T23:06:11.392394+00:00",
+    "published": "2026-05-08T21:37:45+00:00"
+  },
+  "https://ifanyonebuildsit.com": {
+    "title": "If Anyone Builds It, Everyone Dies",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-08T23:06:11.392394+00:00",
+    "published": "2026-05-08T21:29:13+00:00"
+  },
+  "https://flox.dev/blog/achieving-rapid-cve-remediation-in-an-era-of-escalating-vulnerabilities": {
+    "title": "Non-determinism is an issue with patching CVEs",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-08T23:06:11.392394+00:00",
+    "published": "2026-05-08T21:23:07+00:00"
+  },
+  "https://github.com/V4bel/dirtyfrag": {
+    "title": "Dirty Frag: Universal Linux LPE",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-08T23:06:11.392394+00:00",
+    "published": "2026-05-08T20:36:51+00:00"
+  },
+  "https://www.anthropic.com/research/teaching-claude-why": {
+    "title": "Teaching Claude Why",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-08T23:06:11.392394+00:00",
+    "published": "2026-05-08T17:59:41+00:00"
   }
 }
