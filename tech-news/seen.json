@@ -18002,5 +18002,101 @@
     "source": "Sentry Blog",
     "first_seen": "2026-05-08T19:06:38.060902+00:00",
     "published": "2026-05-08T00:00:00+00:00"
+  },
+  "https://www.databricks.com/blog/using-memalign-improve-evaluation-traditional-machine-learning-genie-code": {
+    "title": "Using MemAlign to Improve Evaluation of Traditional Machine Learning in Genie Code",
+    "source": "Databricks Blog",
+    "first_seen": "2026-05-08T21:19:43.951766+00:00",
+    "published": "2026-05-08T21:10:00+00:00"
+  },
+  "https://www.databricks.com/blog/how-superhuman-and-databricks-built-200k-qps-inference-platform-together": {
+    "title": "How Superhuman and Databricks built a 200K QPS inference platform together",
+    "source": "Databricks Blog",
+    "first_seen": "2026-05-08T21:19:43.951766+00:00",
+    "published": "2026-05-08T21:10:00+00:00"
+  },
+  "https://www.schneier.com/blog/archives/2026/05/friday-squid-blogging-giant-squid-live-in-the-waters-of-western-australia.html": {
+    "title": "Friday Squid Blogging: Giant Squid Live in the Waters of Western Australia",
+    "source": "Schneier on Security",
+    "first_seen": "2026-05-08T21:19:43.951766+00:00",
+    "published": "2026-05-08T21:03:28+00:00"
+  },
+  "https://www.mux.com/jobs": {
+    "title": "Mux (YC W16) Is Hiring",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-08T21:19:43.951766+00:00",
+    "published": "2026-05-08T21:02:32+00:00"
+  },
+  "https://simonwillison.net/2026/May/8/unreasonable-effectiveness-of-html": {
+    "title": "Using Claude Code: The Unreasonable Effectiveness of HTML",
+    "source": "Simon Willison",
+    "first_seen": "2026-05-08T21:19:43.951766+00:00",
+    "published": "2026-05-08T21:00:11+00:00"
+  },
+  "https://discordstatus.com": {
+    "title": "Discord Incident",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-08T21:19:43.951766+00:00",
+    "published": "2026-05-08T19:52:06+00:00"
+  },
+  "https://lwn.net/Articles/1071483": {
+    "title": "More stable kernels with partial Dirty Frag fixes",
+    "source": "LWN.net",
+    "first_seen": "2026-05-08T21:19:43.951766+00:00",
+    "published": "2026-05-08T19:50:34+00:00"
+  },
+  "https://theoffingmag.com/essay/roadside-attraction": {
+    "title": "Roadside Attraction",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-08T21:19:43.951766+00:00",
+    "published": "2026-05-08T19:43:04+00:00"
+  },
+  "https://ze3tar.github.io/post-zcrx.html": {
+    "title": "You gave me a u32. I gave you root. (io_uring ZCRX freelist LPE)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-08T21:19:43.951766+00:00",
+    "published": "2026-05-08T19:40:39+00:00"
+  },
+  "https://blog.pavementlink.ch/2026/05/07/my-first-corrupted-hard-drive-problem": {
+    "title": "My first in-prod corrupted hard drive problem",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-08T21:19:43.951766+00:00",
+    "published": "2026-05-08T19:35:36+00:00"
+  },
+  "https://medium.com/pinterest-engineering/enhancing-ad-relevance-integrating-real-time-context-into-sequential-recommender-models-bc3a2f9b682e?source=rss----4c5a5f6279b6---4": {
+    "title": "Enhancing Ad Relevance: Integrating Real-Time Context into Sequential Recommender Models",
+    "source": "Pinterest Engineering",
+    "first_seen": "2026-05-08T21:19:43.951766+00:00",
+    "published": "2026-05-08T19:01:00+00:00"
+  },
+  "https://www.poppastring.com/blog/what-we-lost-the-last-time-code-got-cheap": {
+    "title": "What we lost the last time code got cheap",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-08T21:19:43.951766+00:00",
+    "published": "2026-05-08T18:53:08+00:00"
+  },
+  "https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users": {
+    "title": "Google Broke reCAPTCHA for De-Googled Android Users",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-08T21:19:43.951766+00:00",
+    "published": "2026-05-08T18:45:58+00:00"
+  },
+  "https://www.getadb.com": {
+    "title": "Show HN: GETadb.com – every GET request creates a DB",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-08T21:19:43.951766+00:00",
+    "published": "2026-05-08T16:17:37+00:00"
+  },
+  "https://openai.com/index/running-codex-safely": {
+    "title": "Running Codex safely at OpenAI",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-05-08T21:19:43.951766+00:00",
+    "published": "2026-05-08T12:30:00+00:00"
+  },
+  "https://discord.com/blog/how-discord-automates-scylladb-clusters-at-scale": {
+    "title": "How Discord Automates ScyllaDB Clusters at Scale",
+    "source": "Discord Engineering",
+    "first_seen": "2026-05-08T21:19:43.951766+00:00",
+    "published": "2026-05-08T00:00:00+00:00"
   }
 }
