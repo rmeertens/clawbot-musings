@@ -18236,5 +18236,101 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-05-09T09:28:22.166122+00:00",
     "published": "2026-05-09T07:23:40+00:00"
+  },
+  "https://www.phoronix.com/news/FEX-2605-Released": {
+    "title": "FEX 2605 Brings Performance Improvements, Initial Snapdragon X2 Elite Fixes",
+    "source": "Phoronix",
+    "first_seen": "2026-05-09T11:07:10.869996+00:00",
+    "published": "2026-05-09T10:58:04+00:00"
+  },
+  "https://www.phoronix.com/news/Ubuntu-Touch-24.04-1.3": {
+    "title": "Ubuntu Touch 24.04-1.3 Improves Handling Of Desktop Apps, Other Fixes",
+    "source": "Phoronix",
+    "first_seen": "2026-05-09T11:07:10.869996+00:00",
+    "published": "2026-05-09T10:45:00+00:00"
+  },
+  "https://thenewstack.io/anthropic-elon-musk-cornered-sam-altman": {
+    "title": "How Anthropic and Elon Musk cornered Sam Altman this week",
+    "source": "The New Stack",
+    "first_seen": "2026-05-09T11:07:10.869996+00:00",
+    "published": "2026-05-09T10:22:00+00:00"
+  },
+  "https://www.phoronix.com/news/NVIDIA-VAAPI-Driver-0.0.17": {
+    "title": "NVIDIA-VAAPI-Driver 0.0.17 Fixes Support For GB10 Powered Systems",
+    "source": "Phoronix",
+    "first_seen": "2026-05-09T11:07:10.869996+00:00",
+    "published": "2026-05-09T10:19:14+00:00"
+  },
+  "https://www.phoronix.com/news/Intel-DMR-ACR-Linux-Enable": {
+    "title": "Linux Enables Auto Counter Reload \"ACR\" For Intel Xeon Diamond Rapids",
+    "source": "Phoronix",
+    "first_seen": "2026-05-09T11:07:10.869996+00:00",
+    "published": "2026-05-09T10:12:45+00:00"
+  },
+  "https://thenewstack.io/tanzu-platform-ai-ready": {
+    "title": "Tanzu Platform’s 15-year head start meets the AI moment",
+    "source": "The New Stack",
+    "first_seen": "2026-05-09T15:06:37.130591+00:00",
+    "published": "2026-05-09T15:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/Nocturne-1.0-GNOME-Music": {
+    "title": "Nocturne Is The Latest Music Player For GNOME To Hit v1.0",
+    "source": "Phoronix",
+    "first_seen": "2026-05-09T15:06:37.130591+00:00",
+    "published": "2026-05-09T14:24:04+00:00"
+  },
+  "https://reclaimthenet.org/the-fcc-wants-your-id-before-you-get-a-phone-number": {
+    "title": "The FCC Wants Your ID Before You Get a Phone Number",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-09T15:06:37.130591+00:00",
+    "published": "2026-05-09T14:18:13+00:00"
+  },
+  "https://www.phoronix.com/news/Hyprland-0.55-Wayland-Comp": {
+    "title": "Hyprland 0.55 Released With Lua-Based Configuration, User-Defined Layouts",
+    "source": "Phoronix",
+    "first_seen": "2026-05-09T15:06:37.130591+00:00",
+    "published": "2026-05-09T13:56:12+00:00"
+  },
+  "https://codeutopia.net/blog/2026/05/09/you-should-read-programming-as-theory-building": {
+    "title": "Read Programming as Theory Building",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-09T15:06:37.130591+00:00",
+    "published": "2026-05-09T13:31:53+00:00"
+  },
+  "https://www.construction-physics.com/p/reading-list-05092026": {
+    "title": "Reading List 05/09/2026",
+    "source": "Construction Physics",
+    "first_seen": "2026-05-09T15:06:37.130591+00:00",
+    "published": "2026-05-09T12:02:50+00:00"
+  },
+  "https://internetarchive.ch": {
+    "title": "Internet Archive Switzerland",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-09T15:06:37.130591+00:00",
+    "published": "2026-05-09T12:00:30+00:00"
+  },
+  "https://thenewstack.io/enterprise-ai-agent-adoption": {
+    "title": "Datadog and T-Mobile leaders reveal the reality of deploying AI agents in production",
+    "source": "The New Stack",
+    "first_seen": "2026-05-09T15:06:37.130591+00:00",
+    "published": "2026-05-09T12:00:00+00:00"
+  },
+  "https://dillo-browser.org/lab/web-fork": {
+    "title": "Forking the Web",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-09T15:06:37.130591+00:00",
+    "published": "2026-05-09T11:33:07+00:00"
+  },
+  "https://lwn.net/ml/all/20260507070547.2268452-1-sashal@kernel.org": {
+    "title": "Killswitch: Per-function short-circuit mitigation primitive",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-09T15:06:37.130591+00:00",
+    "published": "2026-05-09T09:14:05+00:00"
+  },
+  "https://arxiv.org/abs/2604.15597": {
+    "title": "LLMs Corrupt Your Documents When You Delegate",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-09T15:06:37.130591+00:00",
+    "published": "2026-05-09T08:44:34+00:00"
   }
 }
