@@ -18332,5 +18332,119 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-05-09T15:06:37.130591+00:00",
     "published": "2026-05-09T08:44:34+00:00"
+  },
+  "https://www.freebsd.org/security/advisories/FreeBSD-SA-26:13.exec.asc": {
+    "title": "FreeBSD: Local Privilege Escalation via Execve()",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-09T21:13:12.386428+00:00",
+    "published": "2026-05-09T20:31:21+00:00"
+  },
+  "https://undecidability.net/senior": {
+    "title": "I Caught the Car",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-09T21:13:12.386428+00:00",
+    "published": "2026-05-09T20:31:07+00:00"
+  },
+  "https://www.copahost.com/blog/dirty-frag-cve-2026-43284": {
+    "title": "\"Dirty Frag\" (CVE-2026-43284): The Second Linux Root Exploit in Eight Days",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-09T21:13:12.386428+00:00",
+    "published": "2026-05-09T18:59:49+00:00"
+  },
+  "https://www.phoronix.com/news/Azure-Linux-3.0.20260506": {
+    "title": "Microsoft Releases Azure Linux 3.0.20260506 With Many Security Fixes",
+    "source": "Phoronix",
+    "first_seen": "2026-05-09T21:13:12.386428+00:00",
+    "published": "2026-05-09T18:56:47+00:00"
+  },
+  "https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html": {
+    "title": "Meta's Embrace of A.I. Is Making Its Employees Miserable",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-09T21:13:12.386428+00:00",
+    "published": "2026-05-09T18:33:36+00:00"
+  },
+  "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/oncoagent-official-paper": {
+    "title": "\"OncoAgent: A Dual-Tier Multi-Agent Framework for Privacy-Preserving Oncology Clinical Decision Support\"",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-05-09T21:13:12.386428+00:00",
+    "published": "2026-05-09T18:09:28+00:00"
+  },
+  "https://zed.dev/theme-builder": {
+    "title": "Zed Editor Theme-Builder",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-09T21:13:12.386428+00:00",
+    "published": "2026-05-09T17:30:39+00:00"
+  },
+  "https://www.copahost.com/blog/cpanels-black-week-three-new-vulnerabilities-patched-after-ransomware-attack-on-44000-servers": {
+    "title": "CPanel's Black Week: 3 New Vulnerabilities Patched After Attack on 44k Servers",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-09T21:13:12.386428+00:00",
+    "published": "2026-05-09T17:06:46+00:00"
+  },
+  "https://chrismorgan.info/no-query-strings": {
+    "title": "I’ve banned query strings",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-09T21:13:12.386428+00:00",
+    "published": "2026-05-09T16:28:36+00:00"
+  },
+  "https://stoffelmpc.com/stoffel-blog/beaver-triples-tuples": {
+    "title": "Introduction to Beaver Triples",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-09T21:13:12.386428+00:00",
+    "published": "2026-05-09T16:02:38+00:00"
+  },
+  "https://blog.bytebytego.com/p/ep214-claude-code-vs-openclaw-5-design": {
+    "title": "EP214: Claude Code vs. OpenClaw: 5 Design Dimensions",
+    "source": "ByteByteGo",
+    "first_seen": "2026-05-09T21:13:12.386428+00:00",
+    "published": "2026-05-09T15:31:10+00:00"
+  },
+  "https://stonetools.ghost.io/pipedream-archimedes": {
+    "title": "PipeDream on the Acorn Archimedes",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-09T21:13:12.386428+00:00",
+    "published": "2026-05-09T15:01:16+00:00"
+  },
+  "https://blog.kronis.dev/blog/apple-is-increasing-my-cortisol-levels": {
+    "title": "Distributing Mac software is increasing my cortisol levels",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-09T21:13:12.386428+00:00",
+    "published": "2026-05-09T14:40:58+00:00"
+  },
+  "https://getspace.app/cli": {
+    "title": "Show HN: Create flashcards with Space CLI",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-09T21:13:12.386428+00:00",
+    "published": "2026-05-09T14:38:04+00:00"
+  },
+  "https://cyberinsider.com/grapheneos-fixes-android-vpn-leak-google-refused-to-patch": {
+    "title": "GrapheneOS fixes Android VPN leak Google refused to patch",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-09T21:13:12.386428+00:00",
+    "published": "2026-05-09T14:11:10+00:00"
+  },
+  "https://mochijs.com": {
+    "title": "Show HN: Mochi.js: bun-native high-fidelity browser automation library",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-09T21:13:12.386428+00:00",
+    "published": "2026-05-09T14:01:40+00:00"
+  },
+  "https://matduggan.com/the-intolerable-hypocrisy-of-cyberlibertarianism": {
+    "title": "The hypocrisy of cyberlibertarianism",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-09T21:13:12.386428+00:00",
+    "published": "2026-05-09T13:48:32+00:00"
+  },
+  "https://blog.archive.org/2026/05/06/internet-archive-switzerland-expanding-a-global-mission-to-preserve-knowledge": {
+    "title": "Internet Archive Switzerland",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-09T21:13:12.386428+00:00",
+    "published": "2026-05-09T12:00:30+00:00"
+  },
+  "https://twitter.com/jarredsumner/status/2053047748191232310": {
+    "title": "Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-09T21:13:12.386428+00:00",
+    "published": "2026-05-09T10:12:55+00:00"
   }
 }
