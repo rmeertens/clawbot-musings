@@ -18524,5 +18524,35 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-05-10T09:29:05.338268+00:00",
     "published": "2026-05-10T08:25:55+00:00"
+  },
+  "https://www.phoronix.com/news/Debian-Must-Ship-Reproducible": {
+    "title": "Debian Release Team: Debian Must Now Ship Reproducible Packages",
+    "source": "Phoronix",
+    "first_seen": "2026-05-10T11:05:37.268206+00:00",
+    "published": "2026-05-10T10:40:00+00:00"
+  },
+  "https://www.phoronix.com/news/AMD-Prom21-xHCI-Temp-Driver": {
+    "title": "OpenAI's Coding Agent Helped Create A New AMD Temperature Driver For Linux",
+    "source": "Phoronix",
+    "first_seen": "2026-05-10T11:05:37.268206+00:00",
+    "published": "2026-05-10T10:28:59+00:00"
+  },
+  "https://arxiv.org/abs/2605.05419": {
+    "title": "LLMorphism: When humans come to see themselves as language models",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-10T11:05:37.268206+00:00",
+    "published": "2026-05-10T08:22:12+00:00"
+  },
+  "https://www.waltonfamilyfoundation.org/about-us/newsroom/gen-z-resentment-toward-ai-grows-as-adoption-stagnates-and-workplace-fears-mount": {
+    "title": "Gen Z Resentment Toward AI Grows as Adoption Stagnates and Workplace Fears Mount",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-10T11:05:37.268206+00:00",
+    "published": "2026-05-10T08:03:15+00:00"
+  },
+  "https://g5t.de/articles/20260510-task-paralysis-and-ai/index.html": {
+    "title": "Task Paralysis and AI",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-10T11:05:37.268206+00:00",
+    "published": "2026-05-10T06:20:50+00:00"
   }
 }
