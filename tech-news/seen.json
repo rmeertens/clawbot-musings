@@ -18554,5 +18554,89 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-05-10T11:05:37.268206+00:00",
     "published": "2026-05-10T06:20:50+00:00"
+  },
+  "https://thenewstack.io/claude-word-excel-powerpoint-outlook-microsoft-office": {
+    "title": "Claude can now follow users across Outlook, Word, Excel, and PowerPoint",
+    "source": "The New Stack",
+    "first_seen": "2026-05-10T15:06:42.503185+00:00",
+    "published": "2026-05-10T15:00:00+00:00"
+  },
+  "https://www.tomshardware.com/3d-printing/louis-rossmann-tells-3d-printer-maker-bambu-lab-to-go-bleep-yourself-over-its-lawsuit-against-enthusiast-right-to-repair-advocate-offers-to-pay-the-legal-fees-for-a-threatened-orcaslicer-developer": {
+    "title": "Louis Rossmann tells 3D printer maker Bambu Lab to 'Go (Bleep) yourself'",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-10T15:06:42.503185+00:00",
+    "published": "2026-05-10T14:47:05+00:00"
+  },
+  "https://rarehistoricalphotos.com/weird-japanese-inventions": {
+    "title": "Chindogu: Weird and Useless Japanese Inventions",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-10T15:06:42.503185+00:00",
+    "published": "2026-05-10T14:32:39+00:00"
+  },
+  "https://thenewstack.io/cncf-projects-integration-production": {
+    "title": "Why Prometheus couldn’t see Cilium metrics at 2 a.m.",
+    "source": "The New Stack",
+    "first_seen": "2026-05-10T15:06:42.503185+00:00",
+    "published": "2026-05-10T14:00:00+00:00"
+  },
+  "https://github.com/Imbad0202/academic-research-skills": {
+    "title": "Academic Research Skills for Claude Code",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-10T15:06:42.503185+00:00",
+    "published": "2026-05-10T13:42:00+00:00"
+  },
+  "https://thenewstack.io/anthropic-public-bug-bounty": {
+    "title": "Anthropic puts the “myth” in Mythos with its HackerOne bug bounty program",
+    "source": "The New Stack",
+    "first_seen": "2026-05-10T15:06:42.503185+00:00",
+    "published": "2026-05-10T13:00:00+00:00"
+  },
+  "https://jobs.ashbyhq.com/9-mothers?utm_source=x8pZ4B3P3Q": {
+    "title": "9 Mothers (YC P26) Is Hiring",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-10T15:06:42.503185+00:00",
+    "published": "2026-05-10T12:00:11+00:00"
+  },
+  "https://thenewstack.io/arcjet-wafs-guards-ai-agents-security": {
+    "title": "The attack surface moved inside the agent. So did Arcjet.",
+    "source": "The New Stack",
+    "first_seen": "2026-05-10T15:06:42.503185+00:00",
+    "published": "2026-05-10T12:00:00+00:00"
+  },
+  "https://mathoverflow.net/questions/43690/whats-a-mathematician-to-do": {
+    "title": "What's a Mathematician to Do?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-10T15:06:42.503185+00:00",
+    "published": "2026-05-10T11:26:50+00:00"
+  },
+  "https://brennan.io/2026/05/09/pinball-and-escrow": {
+    "title": "Space Cadet Pinball on Linux",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-10T15:06:42.503185+00:00",
+    "published": "2026-05-10T11:22:02+00:00"
+  },
+  "https://www.phoronix.com/news/Axboe-60p-Faster-Per-Core-Perf": {
+    "title": "Axboe Hacking On New Linux Patches For 60% Increase To Per-Core I/O Performance",
+    "source": "Phoronix",
+    "first_seen": "2026-05-10T15:06:42.503185+00:00",
+    "published": "2026-05-10T11:13:33+00:00"
+  },
+  "https://til.andrew-quinn.me/posts/replacing-a-3-gb-sqlite-database-with-a-7-mb-fst-finite-state-trandsucer-binary": {
+    "title": "Replacing a 3 GB SQLite db with a 10 MB FST (finite state transducer) binary",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-10T15:06:42.503185+00:00",
+    "published": "2026-05-10T10:33:06+00:00"
+  },
+  "https://allendowney.github.io/ThinkLinearAlgebra/index.html": {
+    "title": "Think Linear Algebra (2023)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-10T15:06:42.503185+00:00",
+    "published": "2026-05-10T09:40:33+00:00"
+  },
+  "https://blog.python.org/2026/05/python-3145-is-out": {
+    "title": "Python 3.14.5 is out!",
+    "source": "Python Insider",
+    "first_seen": "2026-05-10T15:06:42.503185+00:00",
+    "published": "2026-05-10T00:00:00+00:00"
   }
 }
