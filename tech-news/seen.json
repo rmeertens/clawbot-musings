@@ -18776,5 +18776,53 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-05-10T23:05:23.173129+00:00",
     "published": "2026-05-10T21:16:58+00:00"
+  },
+  "https://www.openculture.com/2024/10/the-greatest-shot-in-television.html": {
+    "title": "The Greatest Shot in Television: James Burke Had One Chance to Nail This Scene",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-11T03:07:22.172965+00:00",
+    "published": "2026-05-11T02:43:34+00:00"
+  },
+  "https://blog.k10s.dev/im-going-back-to-writing-code-by-hand": {
+    "title": "I'm going back to writing code by hand",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-11T03:07:22.172965+00:00",
+    "published": "2026-05-11T01:23:51+00:00"
+  },
+  "https://simonwillison.net/2026/May/10/new-york-times-editors-note": {
+    "title": "Quoting New York Times Editors’ Note",
+    "source": "Simon Willison",
+    "first_seen": "2026-05-11T03:07:22.172965+00:00",
+    "published": "2026-05-10T23:58:49+00:00"
+  },
+  "https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs": {
+    "title": "An AI coding agent, used to write code, needs to reduce your maintenance costs",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-11T03:07:22.172965+00:00",
+    "published": "2026-05-10T23:39:55+00:00"
+  },
+  "https://kotaku.com/playstation-3-emulator-devs-politely-ask-that-people-stop-flooding-it-with-ai-code-pull-requests-2000694656": {
+    "title": "PS3 Emulator Devs Politely Ask That People Stop Flooding It with AI PRs",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-11T03:07:22.172965+00:00",
+    "published": "2026-05-10T23:36:48+00:00"
+  },
+  "https://lwn.net/Articles/1072100": {
+    "title": "Kernel prepatch 7.1-rc3",
+    "source": "LWN.net",
+    "first_seen": "2026-05-11T03:07:22.172965+00:00",
+    "published": "2026-05-10T23:23:10+00:00"
+  },
+  "https://jola.dev/posts/running-local-models-on-m4": {
+    "title": "Running local models on an M4 with 24GB memory",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-11T03:07:22.172965+00:00",
+    "published": "2026-05-10T23:09:10+00:00"
+  },
+  "https://dunkels.com/adam/claude-user-space-ip-stack-ping": {
+    "title": "How Fast Does Claude, Acting as a User Space IP Stack, Respond to Pings?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-11T03:07:22.172965+00:00",
+    "published": "2026-05-10T23:02:31+00:00"
   }
 }
