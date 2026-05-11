@@ -18890,5 +18890,23 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-05-11T10:10:38.546778+00:00",
     "published": "2026-05-09T14:49:48+00:00"
+  },
+  "https://www.schneier.com/blog/archives/2026/05/llms-and-text-in-text-steganography.html": {
+    "title": "LLMs and Text-in-Text Steganography",
+    "source": "Schneier on Security",
+    "first_seen": "2026-05-11T11:07:59.422045+00:00",
+    "published": "2026-05-11T11:04:29+00:00"
+  },
+  "https://www.cncf.io/blog/2026/05/11/how-to-get-engineering-time-back-from-kubernetes-upgrades": {
+    "title": "How to get engineering time back from Kubernetes upgrades",
+    "source": "CNCF Blog",
+    "first_seen": "2026-05-11T11:07:59.422045+00:00",
+    "published": "2026-05-11T11:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/AMD-Intel-NPU-Drivers-Power-7.2": {
+    "title": "AMD Ryzen AI & Intel NPU Drivers Adding New Power Features With Linux 7.2",
+    "source": "Phoronix",
+    "first_seen": "2026-05-11T11:07:59.422045+00:00",
+    "published": "2026-05-11T10:19:36+00:00"
   }
 }
