@@ -19280,5 +19280,101 @@
     "source": "Sentry Blog",
     "first_seen": "2026-05-11T19:06:06.111710+00:00",
     "published": "2026-05-11T09:00:00+00:00"
+  },
+  "https://www.databricks.com/blog/convergence-open-table-formats-and-open-catalogs-catalog-commits-generally-available": {
+    "title": "The Convergence of Open Table Formats and Open Catalogs: Catalog Commits is Generally Available",
+    "source": "Databricks Blog",
+    "first_seen": "2026-05-11T21:26:31.685761+00:00",
+    "published": "2026-05-11T22:00:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/amazon-aurora-dsql-connections-drivers-strings-and-best-practices": {
+    "title": "Amazon Aurora DSQL connections: Drivers, strings, and best practices",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-05-11T21:26:31.685761+00:00",
+    "published": "2026-05-11T20:48:43+00:00"
+  },
+  "https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055": {
+    "title": "If AI Writes Your Code, Why Use Python?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-11T21:26:31.685761+00:00",
+    "published": "2026-05-11T20:45:55+00:00"
+  },
+  "https://thenewstack.io/anthropics-claude-platform-comes-to-aws": {
+    "title": "Anthropic’s Claude Platform comes to AWS",
+    "source": "The New Stack",
+    "first_seen": "2026-05-11T21:26:31.685761+00:00",
+    "published": "2026-05-11T20:31:09+00:00"
+  },
+  "https://www.databricks.com/blog/unlocking-archives-turning-unstructured-documents-searchable-database-groundwater-discovery": {
+    "title": "Unlocking the Archives: Turning Unstructured Documents into a Searchable Database for Groundwater Discovery",
+    "source": "Databricks Blog",
+    "first_seen": "2026-05-11T21:26:31.685761+00:00",
+    "published": "2026-05-11T20:30:00+00:00"
+  },
+  "https://www.phoronix.com/news/Vulkan-1.4.351-Released": {
+    "title": "Vulkan 1.4.351 Brings Six New Extensions, Including A Ray-Tracing Improvement",
+    "source": "Phoronix",
+    "first_seen": "2026-05-11T21:26:31.685761+00:00",
+    "published": "2026-05-11T20:24:30+00:00"
+  },
+  "https://github.com/ab-613/opengravity": {
+    "title": "Show HN: OpenGravity – A zero-install, BYOK vanilla JS clone of Antigravity",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-11T21:26:31.685761+00:00",
+    "published": "2026-05-11T20:23:25+00:00"
+  },
+  "https://gilesorr.com/blog/linux-terminal-memory-usage.html": {
+    "title": "Linux Terminal Memory Usage",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-11T21:26:31.685761+00:00",
+    "published": "2026-05-11T19:49:39+00:00"
+  },
+  "https://simonwillison.net/2026/May/11/james-shore": {
+    "title": "Quoting James Shore",
+    "source": "Simon Willison",
+    "first_seen": "2026-05-11T21:26:31.685761+00:00",
+    "published": "2026-05-11T19:48:32+00:00"
+  },
+  "https://developer.nvidia.com/blog/introducing-nvidia-fleet-intelligence-for-real-time-gpu-fleet-visibility-and-optimization": {
+    "title": "Introducing NVIDIA Fleet Intelligence for Real-Time GPU Fleet Visibility and Optimization",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-05-11T21:26:31.685761+00:00",
+    "published": "2026-05-11T19:44:27+00:00"
+  },
+  "https://github.com/mamba-studio/TypedMemory": {
+    "title": "Library for fast mapping of Java records to native memory",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-11T21:26:31.685761+00:00",
+    "published": "2026-05-11T19:33:31+00:00"
+  },
+  "https://simonwillison.net/2026/May/11/zombie-internet": {
+    "title": "Your AI Use Is Breaking My Brain",
+    "source": "Simon Willison",
+    "first_seen": "2026-05-11T21:26:31.685761+00:00",
+    "published": "2026-05-11T19:21:27+00:00"
+  },
+  "https://cloud.google.com/blog/products/databases/database-center-improvements-from-next26": {
+    "title": "Meet the latest Database Center, now with Gemini-powered fleet intelligence",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-05-11T21:26:31.685761+00:00",
+    "published": "2026-05-11T19:00:00+00:00"
+  },
+  "https://stemcell.ucla.edu/news/ucla-discovers-first-stroke-rehabilitation-drug-repair-brain-damage": {
+    "title": "UCLA discovers first stroke rehabilitation drug to repair brain damage (2025)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-11T21:26:31.685761+00:00",
+    "published": "2026-05-11T17:53:08+00:00"
+  },
+  "https://en.globes.co.il/en/article-microsoft-israel-chief-leaves-amid-ethical-controversy-1001542602": {
+    "title": "Microsoft Israel chief leaves amid ethical controversy",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-11T21:26:31.685761+00:00",
+    "published": "2026-05-11T17:18:11+00:00"
+  },
+  "https://www.devas.life/what-a-japanese-cooking-principle-taught-me-about-overcoming-ai-fatigue": {
+    "title": "What a Japanese cooking principle taught me about overcoming AI fatigue",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-11T21:26:31.685761+00:00",
+    "published": "2026-05-11T11:07:10+00:00"
   }
 }
