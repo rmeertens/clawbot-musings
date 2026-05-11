@@ -18908,5 +18908,203 @@
     "source": "Phoronix",
     "first_seen": "2026-05-11T11:07:59.422045+00:00",
     "published": "2026-05-11T10:19:36+00:00"
+  },
+  "https://cloud.google.com/blog/topics/public-sector/architecting-a-resilient-scalable-and-secure-foundation-for-the-agentic-era": {
+    "title": "Architecting a resilient, scalable and secure foundation for the agentic era",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-05-11T15:59:22.386859+00:00",
+    "published": "2026-05-11T16:00:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/amazon-quick-accelerating-the-path-from-enterprise-data-to-ai-powered-decisions": {
+    "title": "Amazon Quick: Accelerating the path from enterprise data to AI-powered decisions",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-05-11T15:59:22.386859+00:00",
+    "published": "2026-05-11T15:56:33+00:00"
+  },
+  "https://simonwillison.net/2026/May/11/learning-on-the-shop-floor": {
+    "title": "Learning on the Shop floor",
+    "source": "Simon Willison",
+    "first_seen": "2026-05-11T15:59:22.386859+00:00",
+    "published": "2026-05-11T15:46:36+00:00"
+  },
+  "https://blog.bytebytego.com/p/how-pinterest-built-a-production": {
+    "title": "How Pinterest Built a Production MCP Ecosystem",
+    "source": "ByteByteGo",
+    "first_seen": "2026-05-11T15:59:22.386859+00:00",
+    "published": "2026-05-11T15:31:17+00:00"
+  },
+  "https://thenewstack.io/building-ai-native-systems": {
+    "title": "How AI-native systems are built",
+    "source": "The New Stack",
+    "first_seen": "2026-05-11T15:59:22.386859+00:00",
+    "published": "2026-05-11T15:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/GNOME-Help-Viewer-2026-Sandbox": {
+    "title": "GNOME's Help Viewer Updated Due To Flatpak Sandbox Escape Vulnerability",
+    "source": "Phoronix",
+    "first_seen": "2026-05-11T15:59:22.386859+00:00",
+    "published": "2026-05-11T14:36:29+00:00"
+  },
+  "https://lwn.net/Articles/1072325": {
+    "title": "Stenberg: Mythos finds a curl vulnerability",
+    "source": "LWN.net",
+    "first_seen": "2026-05-11T15:59:22.386859+00:00",
+    "published": "2026-05-11T14:35:53+00:00"
+  },
+  "https://www.seangoedecke.com/software-engineering-may-no-longer-be-a-lifetime-career": {
+    "title": "Software engineering may no longer be a lifetime career",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-11T15:59:22.386859+00:00",
+    "published": "2026-05-11T14:34:08+00:00"
+  },
+  "https://killedbyapple.theden.sh": {
+    "title": "Killed by Apple",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-11T15:59:22.386859+00:00",
+    "published": "2026-05-11T14:28:44+00:00"
+  },
+  "https://stackoverflow.blog/2026/05/11/introducing-the-heap-the-software-engineering-blog-for-everyone": {
+    "title": "Introducing the Heap, the software engineering blog for everyone",
+    "source": "Stack Overflow Blog",
+    "first_seen": "2026-05-11T15:59:22.386859+00:00",
+    "published": "2026-05-11T14:03:48+00:00"
+  },
+  "https://thenewstack.io/agent-memory-decay-contamination": {
+    "title": "Why your AI agent doesn’t actually remember anything",
+    "source": "The New Stack",
+    "first_seen": "2026-05-11T15:59:22.386859+00:00",
+    "published": "2026-05-11T14:00:00+00:00"
+  },
+  "https://realpython.com/python-flatten-list": {
+    "title": "How to Flatten a List of Lists in Python",
+    "source": "Real Python",
+    "first_seen": "2026-05-11T15:59:22.386859+00:00",
+    "published": "2026-05-11T14:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/topics/threat-intelligence/ai-vulnerability-exploitation-initial-access": {
+    "title": "GTIG AI Threat Tracker: Adversaries Leverage AI for Vulnerability Exploitation, Augmented Operations, and Initial Access",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-05-11T15:59:22.386859+00:00",
+    "published": "2026-05-11T14:00:00+00:00"
+  },
+  "https://stackoverflow.blog/2026/05/11/compile-time-map-and-compile-time-mutable-variable-with-c-26-reflection": {
+    "title": "Compile-Time Map and Compile-Time Mutable Variable with C++26 Reflection",
+    "source": "Stack Overflow Blog",
+    "first_seen": "2026-05-11T15:59:22.386859+00:00",
+    "published": "2026-05-11T13:55:00+00:00"
+  },
+  "https://lwn.net/Articles/1072311": {
+    "title": "Two stable kernels with Dirty Frag fixes",
+    "source": "LWN.net",
+    "first_seen": "2026-05-11T15:59:22.386859+00:00",
+    "published": "2026-05-11T13:35:31+00:00"
+  },
+  "https://lwn.net/Articles/1071484": {
+    "title": "[$] Providing 64KB base pages with 4KB kernels, two different ways",
+    "source": "LWN.net",
+    "first_seen": "2026-05-11T15:59:22.386859+00:00",
+    "published": "2026-05-11T13:35:25+00:00"
+  },
+  "https://lwn.net/Articles/1072314": {
+    "title": "Debian to require reproducible builds",
+    "source": "LWN.net",
+    "first_seen": "2026-05-11T15:59:22.386859+00:00",
+    "published": "2026-05-11T13:21:40+00:00"
+  },
+  "https://www.phoronix.com/news/Intel-IGC-2.34.4": {
+    "title": "Intel IGC 2.34.4 Compiler Brings Many Improvements",
+    "source": "Phoronix",
+    "first_seen": "2026-05-11T15:59:22.386859+00:00",
+    "published": "2026-05-11T13:20:00+00:00"
+  },
+  "https://openai.com/index/openai-launches-the-deployment-company": {
+    "title": "The OpenAI Deployment Company",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-11T15:59:22.386859+00:00",
+    "published": "2026-05-11T13:10:55+00:00"
+  },
+  "https://pypi.org/project/create-geocities-app": {
+    "title": "Create a 90s GeoCities style website in seconds (Python)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-11T15:59:22.386859+00:00",
+    "published": "2026-05-11T13:10:25+00:00"
+  },
+  "https://lwn.net/Articles/1072301": {
+    "title": "Security updates for Monday",
+    "source": "LWN.net",
+    "first_seen": "2026-05-11T15:59:22.386859+00:00",
+    "published": "2026-05-11T13:10:02+00:00"
+  },
+  "https://www.phoronix.com/news/F2FS-FSERROR": {
+    "title": "F2FS Preparing FSERROR Reporting Support",
+    "source": "Phoronix",
+    "first_seen": "2026-05-11T15:59:22.386859+00:00",
+    "published": "2026-05-11T12:26:47+00:00"
+  },
+  "https://realpython.com/quizzes/python-flatten-list": {
+    "title": "Quiz: How to Flatten a List of Lists in Python",
+    "source": "Real Python",
+    "first_seen": "2026-05-11T15:59:22.386859+00:00",
+    "published": "2026-05-11T12:00:00+00:00"
+  },
+  "https://english.elpais.com/economy-and-business/branded/2026-04-11/european-money-pours-into-palantir-over-100-asset-managers-and-banks-boost-their-investments-in-the-controversial-tech-company.html": {
+    "title": "European Money Pours into Palantir",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-11T15:59:22.386859+00:00",
+    "published": "2026-05-11T11:27:08+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.2-Switchtec-Gen6": {
+    "title": "Linux 7.2 To Add Support For Switchtec PCIe Gen6 Switches",
+    "source": "Phoronix",
+    "first_seen": "2026-05-11T15:59:22.386859+00:00",
+    "published": "2026-05-11T11:14:22+00:00"
+  },
+  "https://www.databricks.com/blog/predictive-quality-starts-where-defect-detection-stops": {
+    "title": "Predictive Quality Starts Where Defect Detection Stops",
+    "source": "Databricks Blog",
+    "first_seen": "2026-05-11T15:59:22.386859+00:00",
+    "published": "2026-05-11T11:11:52+00:00"
+  },
+  "https://www.databricks.com/blog/retail-markdown-optimization-reactive-markdowns-proactive": {
+    "title": "Retail markdown optimization: from reactive markdowns to proactive",
+    "source": "Databricks Blog",
+    "first_seen": "2026-05-11T15:59:22.386859+00:00",
+    "published": "2026-05-11T11:10:21+00:00"
+  },
+  "https://ratty-term.org": {
+    "title": "Ratty – A terminal emulator with inline 3D graphics",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-11T15:59:22.386859+00:00",
+    "published": "2026-05-11T10:13:04+00:00"
+  },
+  "https://www.nytimes.com/2026/05/09/business/dealbook/ai-notetakers-legal-risk.html": {
+    "title": "All Those A.I. Note Takers? They're Making Lawyers Nervous",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-11T15:59:22.386859+00:00",
+    "published": "2026-05-11T10:04:47+00:00"
+  },
+  "https://mipmip.org/advfamily/advfamily.html": {
+    "title": "The Adventure Family Tree",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-11T15:59:22.386859+00:00",
+    "published": "2026-05-11T08:16:32+00:00"
+  },
+  "https://discuss.privacyguides.net/t/google-account-registration-now-requires-sending-an-sms-via-phone-instead-of-receiving-an-sms/36082": {
+    "title": "Gmail registration now requires scanning a QR code and sending a text message",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-11T15:59:22.386859+00:00",
+    "published": "2026-05-11T07:26:54+00:00"
+  },
+  "https://discord.com/blog/nitro-rewards": {
+    "title": "Nitro Now Comes with Xbox Game Pass and New Benefits. Welcome to Nitro Rewards.",
+    "source": "Discord Engineering",
+    "first_seen": "2026-05-11T15:59:22.386859+00:00",
+    "published": "2026-05-11T00:00:00+00:00"
+  },
+  "https://discord.com/blog/beginners-guide-to-nitro": {
+    "title": "How to Use Nitro: A Beginner’s Guide to Discord’s Premium Subscription",
+    "source": "Discord Engineering",
+    "first_seen": "2026-05-11T15:59:22.386859+00:00",
+    "published": "2026-05-11T00:00:00+00:00"
   }
 }
