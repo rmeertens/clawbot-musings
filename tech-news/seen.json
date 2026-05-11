@@ -19106,5 +19106,179 @@
     "source": "Discord Engineering",
     "first_seen": "2026-05-11T15:59:22.386859+00:00",
     "published": "2026-05-11T00:00:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/how-to-use-streamlined-permissions-for-amazon-s3-tables-and-iceberg-materialized-views": {
+    "title": "How to use streamlined permissions for Amazon S3 Tables and Iceberg materialized views",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-05-11T19:06:06.111710+00:00",
+    "published": "2026-05-11T18:59:36+00:00"
+  },
+  "https://aws.amazon.com/blogs/architecture/choosing-between-single-or-multiple-organizations-in-aws-organizations": {
+    "title": "Choosing between single or multiple organizations in AWS Organizations",
+    "source": "AWS Architecture Blog",
+    "first_seen": "2026-05-11T19:06:06.111710+00:00",
+    "published": "2026-05-11T18:56:38+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/improve-dynamodb-analytics-with-aws-glue-zero-etl-schema-and-partition-controls": {
+    "title": "Improve DynamoDB analytics with AWS Glue zero-ETL schema and partition controls",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-05-11T19:06:06.111710+00:00",
+    "published": "2026-05-11T18:51:22+00:00"
+  },
+  "https://simonwillison.net/2026/May/11/llm-shebang": {
+    "title": "Using LLM in the shebang line of a script",
+    "source": "Simon Willison",
+    "first_seen": "2026-05-11T19:06:06.111710+00:00",
+    "published": "2026-05-11T18:48:57+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/how-to-build-a-cross-region-resilience-for-amazon-opensearch-service-with-amazon-msk": {
+    "title": "How to build a cross-Region resilience for Amazon OpenSearch Service with Amazon MSK",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-05-11T19:06:06.111710+00:00",
+    "published": "2026-05-11T18:46:43+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/introducing-claude-platform-on-aws-anthropics-native-platform-through-your-aws-account": {
+    "title": "Introducing Claude Platform on AWS: Anthropic’s native platform, through your AWS account",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-05-11T19:06:06.111710+00:00",
+    "published": "2026-05-11T18:43:03+00:00"
+  },
+  "https://www.flyingpenguin.com/can-someone-please-explain-whether-cloudflare-blackmailed-canonical": {
+    "title": "Can Someone Please Explain Whether Cloudflare Blackmailed Canonical?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-11T19:06:06.111710+00:00",
+    "published": "2026-05-11T18:12:38+00:00"
+  },
+  "https://aws.amazon.com/blogs/security/complimentary-virtual-training-get-hands-on-with-aws-security-services": {
+    "title": "Complimentary virtual training: Get hands-on with AWS Security Services",
+    "source": "AWS Security Blog",
+    "first_seen": "2026-05-11T19:06:06.111710+00:00",
+    "published": "2026-05-11T17:58:02+00:00"
+  },
+  "https://bild.ai/jobs": {
+    "title": "Bild AI (YC W25) Is Hiring Founding Product Engineers",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-11T19:06:06.111710+00:00",
+    "published": "2026-05-11T17:43:12+00:00"
+  },
+  "https://www.phoronix.com/news/HDMI-2.1-DSC-AMDGPU-FRL": {
+    "title": "HDMI 2.1 Display Stream Compression \"DSC\" Also Ready For AMDGPU Linux Driver",
+    "source": "Phoronix",
+    "first_seen": "2026-05-11T19:06:06.111710+00:00",
+    "published": "2026-05-11T17:30:00+00:00"
+  },
+  "https://thenewstack.io/anthropic-agentic-misalignment-claude": {
+    "title": "Anthropic trains Claude to resist blackmail & self-preservation behavior via agentic misalignment",
+    "source": "The New Stack",
+    "first_seen": "2026-05-11T19:06:06.111710+00:00",
+    "published": "2026-05-11T17:26:58+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/manufacturing-intelligence-with-amazon-nova-multimodal-embeddings": {
+    "title": "Manufacturing intelligence with Amazon Nova Multimodal Embeddings",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-05-11T19:06:06.111710+00:00",
+    "published": "2026-05-11T17:08:24+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/how-miro-uses-amazon-bedrock-to-boost-software-bug-routing-accuracy-and-improve-time-to-resolution-from-days-to-hours": {
+    "title": "How Miro uses Amazon Bedrock to boost software bug routing accuracy and improve time-to-resolution from days to hours",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-05-11T19:06:06.111710+00:00",
+    "published": "2026-05-11T17:03:00+00:00"
+  },
+  "https://webkit.org/blog/17938/webkit-features-for-safari-26-5": {
+    "title": "WebKit Features for Safari 26.5",
+    "source": "WebKit Blog",
+    "first_seen": "2026-05-11T19:06:06.111710+00:00",
+    "published": "2026-05-11T17:00:05+00:00"
+  },
+  "https://cloud.google.com/blog/products/storage-data-transfer/cloud-storage-rapid-turbocharges-object-storage-for-ai-analytics": {
+    "title": "Cloud Storage Rapid: Turbocharged object storage for AI and analytics",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-05-11T19:06:06.111710+00:00",
+    "published": "2026-05-11T17:00:00+00:00"
+  },
+  "https://www.phoronix.com/review/system76-thelio-major-9980x": {
+    "title": "Redesigned Thelio Major Elevates System76's All-AMD, Open-Source Linux Workstation",
+    "source": "Phoronix",
+    "first_seen": "2026-05-11T19:06:06.111710+00:00",
+    "published": "2026-05-11T16:40:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/compute/cluster-reliability-for-trillion-parameter-models-on-tpus": {
+    "title": "Cluster-level reliability for trillion-parameter models on TPUs",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-05-11T19:06:06.111710+00:00",
+    "published": "2026-05-11T16:30:00+00:00"
+  },
+  "https://stackoverflow.blog/2026/05/11/when-the-sensor-starts-thinking-snortml-agentic-ai-and-the-evolving-architecture-of-intrusion-detection": {
+    "title": "When the Sensor Starts Thinking: SnortML, Agentic AI, and the Evolving Architecture of Intrusion Detection",
+    "source": "Stack Overflow Blog",
+    "first_seen": "2026-05-11T19:06:06.111710+00:00",
+    "published": "2026-05-11T16:25:54+00:00"
+  },
+  "https://interfaze.ai/blog/interfaze-a-new-model-architecture-built-for-high-accuracy-at-scale": {
+    "title": "Interfaze: A new model architecture built for high accuracy at scale",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-11T19:06:06.111710+00:00",
+    "published": "2026-05-11T16:22:31+00:00"
+  },
+  "https://stackoverflow.blog/2026/05/11/oauth-2-0-device-flow-explained-for-engineers-especially-for-backend-engineers": {
+    "title": "OAuth 2.0 – Device flow explained for Engineers, especially for Backend Engineers",
+    "source": "Stack Overflow Blog",
+    "first_seen": "2026-05-11T19:06:06.111710+00:00",
+    "published": "2026-05-11T16:11:05+00:00"
+  },
+  "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-bedrock-agentcore-payments-agent-toolkit-for-aws-and-more-may-11-2026": {
+    "title": "AWS Weekly Roundup: Amazon Bedrock AgentCore payments, Agent Toolkit for AWS, and more (May 11, 2026)",
+    "source": "AWS Blog",
+    "first_seen": "2026-05-11T19:06:06.111710+00:00",
+    "published": "2026-05-11T16:08:26+00:00"
+  },
+  "https://andreaturchet.github.io/website/index.html": {
+    "title": "Show HN: TikTok but for Scientific Papers",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-11T19:06:06.111710+00:00",
+    "published": "2026-05-11T16:05:50+00:00"
+  },
+  "https://engineering.fb.com/2026/05/11/security/labyrinth-1-1-end-to-end-encrypted-e2ee-backups-more-reliable": {
+    "title": "Labyrinth 1.1: Making End-to-End Encrypted Backups Even More Reliable",
+    "source": "Meta Engineering",
+    "first_seen": "2026-05-11T19:06:06.111710+00:00",
+    "published": "2026-05-11T16:00:55+00:00"
+  },
+  "https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-oss-contributions": {
+    "title": "GitHub for Beginners: Getting started with OSS contributions",
+    "source": "GitHub Blog",
+    "first_seen": "2026-05-11T19:06:06.111710+00:00",
+    "published": "2026-05-11T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/databases/postgres-18-and-extended-support-for-legacy-versions-in-alloydb": {
+    "title": "Future-proof your data strategy: AlloyDB adds PostgreSQL 18 and new Extended Support",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-05-11T19:06:06.111710+00:00",
+    "published": "2026-05-11T16:00:00+00:00"
+  },
+  "https://nvlabs.github.io/cuda-oxide/index.html": {
+    "title": "CUDA-oxide: Nvidia's official Rust to CUDA compiler",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-11T19:06:06.111710+00:00",
+    "published": "2026-05-11T15:55:07+00:00"
+  },
+  "https://www.404media.co/ucf-ai-commencement-speaker-booed": {
+    "title": "Students Boo Commencement Speaker After She Calls AI Next Industrial Revolution",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-11T19:06:06.111710+00:00",
+    "published": "2026-05-11T15:53:23+00:00"
+  },
+  "https://blog.alcazarsec.com/posts/should-you-leave-red-herrings-about-yourself-online": {
+    "title": "Should you leave red herrings about yourself online?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-11T19:06:06.111710+00:00",
+    "published": "2026-05-11T15:39:37+00:00"
+  },
+  "https://blog.sentry.io/nextjs-supabase-observability": {
+    "title": "From vibe code to production-ready: observability for Next.js and Supabase apps",
+    "source": "Sentry Blog",
+    "first_seen": "2026-05-11T19:06:06.111710+00:00",
+    "published": "2026-05-11T09:00:00+00:00"
   }
 }
