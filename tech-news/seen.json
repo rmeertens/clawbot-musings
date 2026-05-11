@@ -18824,5 +18824,71 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-05-11T03:07:22.172965+00:00",
     "published": "2026-05-10T23:02:31+00:00"
+  },
+  "https://www.phoronix.com/news/Sculpt-OS-26.04": {
+    "title": "Sculpt OS 26.04 Can Finally Be Used To Self-Host For Developing/Building Genode",
+    "source": "Phoronix",
+    "first_seen": "2026-05-11T10:10:38.546778+00:00",
+    "published": "2026-05-11T10:01:51+00:00"
+  },
+  "https://stratechery.com/2026/the-inference-shift": {
+    "title": "The Inference Shift",
+    "source": "Stratechery",
+    "first_seen": "2026-05-11T10:10:38.546778+00:00",
+    "published": "2026-05-11T10:00:00+00:00"
+  },
+  "https://openai.com/index/openai-campus-network-student-club-interest-form": {
+    "title": "OpenAI Campus Network: Student club interest form",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-05-11T10:10:38.546778+00:00",
+    "published": "2026-05-11T10:00:00+00:00"
+  },
+  "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai": {
+    "title": "How enterprises are scaling AI",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-05-11T10:10:38.546778+00:00",
+    "published": "2026-05-11T10:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.0.6-Released": {
+    "title": "Linux 7.0.6 Released To Finish Mitigating the Dirty Frag Vulnerability",
+    "source": "Phoronix",
+    "first_seen": "2026-05-11T10:10:38.546778+00:00",
+    "published": "2026-05-11T09:51:03+00:00"
+  },
+  "https://daniel.haxx.se/blog/2026/05/11/mythos-finds-a-curl-vulnerability": {
+    "title": "Mythos Finds a Curl Vulnerability",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-11T10:10:38.546778+00:00",
+    "published": "2026-05-11T06:39:08+00:00"
+  },
+  "https://blog.google/products-and-platforms/products/search/ai-powered-google-finance-in-europe": {
+    "title": "The new AI-powered Google Finance is expanding to Europe.",
+    "source": "Google AI Blog",
+    "first_seen": "2026-05-11T10:10:38.546778+00:00",
+    "published": "2026-05-11T06:00:00+00:00"
+  },
+  "https://matt.might.net/articles/implementing-a-programming-language": {
+    "title": "7 lines of code, 3 minutes: Implement a programming language (2010)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-11T10:10:38.546778+00:00",
+    "published": "2026-05-11T04:34:40+00:00"
+  },
+  "https://github.com/adamjgmiller/adamsreview": {
+    "title": "Show HN: adamsreview – better multi-agent PR reviews for Claude Code",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-11T10:10:38.546778+00:00",
+    "published": "2026-05-11T02:06:29+00:00"
+  },
+  "https://roadlessread.com/views/ss-macwright": {
+    "title": "Shelf Source: Tom MacWright",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-11T10:10:38.546778+00:00",
+    "published": "2026-05-09T17:28:00+00:00"
+  },
+  "https://www.wsj.com/health/wellness/hearing-loss-walking-speed-iphone-study-c53c482a": {
+    "title": "Walking slower? Your ears, not your knees, might be the problem",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-11T10:10:38.546778+00:00",
+    "published": "2026-05-09T14:49:48+00:00"
   }
 }
