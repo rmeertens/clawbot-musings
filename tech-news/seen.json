@@ -19592,5 +19592,119 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-05-12T11:05:41.080434+00:00",
     "published": "2026-05-12T08:28:45+00:00"
+  },
+  "https://www.databricks.com/blog/how-cfos-consulting-can-recover-margin-databricks": {
+    "title": "How CFOs in consulting can recover margin with Databricks",
+    "source": "Databricks Blog",
+    "first_seen": "2026-05-12T15:08:21.103068+00:00",
+    "published": "2026-05-12T17:00:00+00:00"
+  },
+  "https://github.blog/ai-and-ml/github-copilot/dungeons-desktops-building-a-procedurally-generated-roguelike-with-github-copilot-cli": {
+    "title": "Dungeons & Desktops: Building a procedurally generated roguelike with GitHub Copilot CLI",
+    "source": "GitHub Blog",
+    "first_seen": "2026-05-12T15:08:21.103068+00:00",
+    "published": "2026-05-12T15:00:00+00:00"
+  },
+  "https://www.phoronix.com/review/intel-arc-pro-b70-four": {
+    "title": "Running Four Intel Graphics Cards Under Linux On Ubuntu 26.04",
+    "source": "Phoronix",
+    "first_seen": "2026-05-12T15:08:21.103068+00:00",
+    "published": "2026-05-12T14:00:00+00:00"
+  },
+  "https://thenewstack.io/serpapi-google-search-api": {
+    "title": "AI teams are spending months on web scrapers that SerpApi replaces with one API call",
+    "source": "The New Stack",
+    "first_seen": "2026-05-12T15:08:21.103068+00:00",
+    "published": "2026-05-12T14:00:00+00:00"
+  },
+  "https://realpython.com/courses/building-type-safe-llm-agents-with-pydantic-ai": {
+    "title": "Building Type-Safe LLM Agents With Pydantic AI",
+    "source": "Real Python",
+    "first_seen": "2026-05-12T15:08:21.103068+00:00",
+    "published": "2026-05-12T14:00:00+00:00"
+  },
+  "https://martinfowler.com/articles/what-is-code.html": {
+    "title": "What is Code",
+    "source": "Martin Fowler",
+    "first_seen": "2026-05-12T15:08:21.103068+00:00",
+    "published": "2026-05-12T13:30:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/architecture/building-hybrid-multi-tenant-architecture-for-stateful-services-on-aws": {
+    "title": "Building hybrid multi-tenant architecture for stateful services on AWS",
+    "source": "AWS Architecture Blog",
+    "first_seen": "2026-05-12T15:08:21.103068+00:00",
+    "published": "2026-05-12T13:26:49+00:00"
+  },
+  "https://lwn.net/Articles/1071716": {
+    "title": "[$] Scaling transparent huge pages to 1GB",
+    "source": "LWN.net",
+    "first_seen": "2026-05-12T15:08:21.103068+00:00",
+    "published": "2026-05-12T13:24:49+00:00"
+  },
+  "https://lwn.net/Articles/1072498": {
+    "title": "Security updates for Tuesday",
+    "source": "LWN.net",
+    "first_seen": "2026-05-12T15:08:21.103068+00:00",
+    "published": "2026-05-12T13:17:34+00:00"
+  },
+  "https://thenewstack.io/agentic-ai-spy-game": {
+    "title": "Living off the agent: The new tactic hijacking enterprise AI",
+    "source": "The New Stack",
+    "first_seen": "2026-05-12T15:08:21.103068+00:00",
+    "published": "2026-05-12T13:00:00+00:00"
+  },
+  "https://blog.cloudflare.com/quic-death-spiral-fix": {
+    "title": "When \"idle\" isn't idle: how a Linux kernel optimization became a QUIC bug",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-05-12T15:08:21.103068+00:00",
+    "published": "2026-05-12T13:00:00+00:00"
+  },
+  "https://thenewstack.io/sap-joule-studio-managed-agents": {
+    "title": "SAP launches managed Joule Studio with Cursor and Claude Code support",
+    "source": "The New Stack",
+    "first_seen": "2026-05-12T15:08:21.103068+00:00",
+    "published": "2026-05-12T12:30:00+00:00"
+  },
+  "https://thenewstack.io/sap-ai-agent-hub": {
+    "title": "SAP launches AI Agent Hub at Sapphire 2026 to tame vendor agent sprawl",
+    "source": "The New Stack",
+    "first_seen": "2026-05-12T15:08:21.103068+00:00",
+    "published": "2026-05-12T12:30:00+00:00"
+  },
+  "https://www.phoronix.com/news/ARCTIC-Fan-Controller-Linux-7.2": {
+    "title": "ARCTIC Fan Controller Driver Expected To Land In Linux 7.2",
+    "source": "Phoronix",
+    "first_seen": "2026-05-12T15:08:21.103068+00:00",
+    "published": "2026-05-12T12:27:02+00:00"
+  },
+  "https://thenewstack.io/agentic-cicd-audit-compliance-gap": {
+    "title": "As agentic dev tools boom, workflow auditability becomes the constraint",
+    "source": "The New Stack",
+    "first_seen": "2026-05-12T15:08:21.103068+00:00",
+    "published": "2026-05-12T12:00:00+00:00"
+  },
+  "https://realpython.com/quizzes/pydantic-ai-video": {
+    "title": "Quiz: Building Type-Safe LLM Agents With Pydantic AI",
+    "source": "Real Python",
+    "first_seen": "2026-05-12T15:08:21.103068+00:00",
+    "published": "2026-05-12T12:00:00+00:00"
+  },
+  "https://realpython.com/quizzes/legb-rule-python-scope": {
+    "title": "Quiz: The LEGB Rule & Understanding Python Scope",
+    "source": "Real Python",
+    "first_seen": "2026-05-12T15:08:21.103068+00:00",
+    "published": "2026-05-12T12:00:00+00:00"
+  },
+  "https://www.schneier.com/blog/archives/2026/05/copy-fail-linux-vulnerability.html": {
+    "title": "Copy.Fail Linux Vulnerability",
+    "source": "Schneier on Security",
+    "first_seen": "2026-05-12T15:08:21.103068+00:00",
+    "published": "2026-05-12T11:06:12+00:00"
+  },
+  "https://blog.trailofbits.com/2026/05/12/go-fuzzing-was-missing-half-the-toolkit.-we-forked-the-toolchain-to-fix-it.": {
+    "title": "Go fuzzing was missing half the toolkit. We forked the toolchain to fix it.",
+    "source": "Trail of Bits",
+    "first_seen": "2026-05-12T15:08:21.103068+00:00",
+    "published": "2026-05-12T11:00:00+00:00"
   }
 }
