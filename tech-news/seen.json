@@ -19430,5 +19430,59 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-05-11T23:06:41.993032+00:00",
     "published": "2026-05-11T13:20:14+00:00"
+  },
+  "https://fireflysentinel.github.io/posts/fake-building-claude-3000-lines": {
+    "title": "Fake building: Claude wrote 3k lines instead of import pywikibot",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-12T03:06:44.996012+00:00",
+    "published": "2026-05-12T02:22:04+00:00"
+  },
+  "https://claude.com/blog/claude-platform-on-aws": {
+    "title": "Claude Platform on AWS",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-12T03:06:44.996012+00:00",
+    "published": "2026-05-12T01:24:29+00:00"
+  },
+  "https://github.com/davmlaw/they_live_adblocker": {
+    "title": "They Live (1988) inspired Adblocker",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-12T03:06:44.996012+00:00",
+    "published": "2026-05-12T00:37:54+00:00"
+  },
+  "https://www.phoronix.com/news/R300g-Code-Cleanup-2026": {
+    "title": "Open-Source Radeon Driver For R300 Through R500 GPUs Sees Big Code Cleanup In 2026",
+    "source": "Phoronix",
+    "first_seen": "2026-05-12T03:06:44.996012+00:00",
+    "published": "2026-05-12T00:33:22+00:00"
+  },
+  "https://www.npmjs.com/package/@gkiely/safe-install": {
+    "title": "Show HN: Safe-install – safer NPM installs with trusted build dependencies",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-12T03:06:44.996012+00:00",
+    "published": "2026-05-12T00:30:10+00:00"
+  },
+  "https://simonwillison.net/2026/May/11/gitlab-act-2": {
+    "title": "Thoughts on GitLab's workforce reduction\" and \"structural and strategic decisions\"",
+    "source": "Simon Willison",
+    "first_seen": "2026-05-12T03:06:44.996012+00:00",
+    "published": "2026-05-11T23:58:55+00:00"
+  },
+  "https://huggingface.co/blog/amazon/foundation-model-building-blocks": {
+    "title": "Building Blocks for Foundation Model Training and Inference on AWS",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-05-12T03:06:44.996012+00:00",
+    "published": "2026-05-11T23:18:26+00:00"
+  },
+  "https://tanstack.com/blog/npm-supply-chain-compromise-postmortem": {
+    "title": "Postmortem: TanStack npm supply-chain compromise",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-12T03:06:44.996012+00:00",
+    "published": "2026-05-11T21:08:25+00:00"
+  },
+  "https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night": {
+    "title": "I let AI build a tool to help me figure out what was waking me up at night",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-12T03:06:44.996012+00:00",
+    "published": "2026-05-11T21:04:10+00:00"
   }
 }
