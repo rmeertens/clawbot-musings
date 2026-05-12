@@ -19484,5 +19484,41 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-05-12T03:06:44.996012+00:00",
     "published": "2026-05-11T21:04:10+00:00"
+  },
+  "https://stackoverflow.blog/2026/05/12/connecting-the-dots-for-accurate-ai": {
+    "title": "Connecting the dots for accurate AI",
+    "source": "Stack Overflow Blog",
+    "first_seen": "2026-05-12T07:06:00.496054+00:00",
+    "published": "2026-05-12T07:40:00+00:00"
+  },
+  "http://www.typewritten.org/Media": {
+    "title": "Screenshots of Old Desktop OSes",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-12T07:06:00.496054+00:00",
+    "published": "2026-05-12T05:11:24+00:00"
+  },
+  "https://openai.com/index/mrc-supercomputer-networking": {
+    "title": "Supercomputer networking to accelerate large scale AI training",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-12T07:06:00.496054+00:00",
+    "published": "2026-05-12T04:46:14+00:00"
+  },
+  "https://computer.rip/2026-05-09-extremely-low-frequencies.html": {
+    "title": "Extremely Low Frequencies",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-12T07:06:00.496054+00:00",
+    "published": "2026-05-12T03:59:35+00:00"
+  },
+  "https://eatonphil.com/bookclub.html": {
+    "title": "Software Internals Book Club",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-12T07:06:00.496054+00:00",
+    "published": "2026-05-12T02:28:11+00:00"
+  },
+  "https://www.cocoawithlove.com/blog/matrix-multiplications-swift.html": {
+    "title": "Training an LLM in Swift, Part 1: Taking matrix mult from Gflop/s to Tflop/s",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-12T07:06:00.496054+00:00",
+    "published": "2026-05-10T17:05:05+00:00"
   }
 }
