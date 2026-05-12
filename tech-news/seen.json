@@ -20126,5 +20126,71 @@
     "source": "Grafana Blog",
     "first_seen": "2026-05-12T21:26:35.261848+00:00",
     "published": "2026-05-12T16:46:59+00:00"
+  },
+  "https://www.databricks.com/blog/rise-sports-intelligence-how-lakehouse-turns-tracking-data-competitive-advantage": {
+    "title": "The Rise of Sports Intelligence: How the Lakehouse Turns Tracking Data into Competitive Advantage",
+    "source": "Databricks Blog",
+    "first_seen": "2026-05-12T23:05:48.423575+00:00",
+    "published": "2026-05-12T22:30:00+00:00"
+  },
+  "https://www.phoronix.com/news/OpenZFS-2.4.2-Released": {
+    "title": "OpenZFS 2.4.2 Released With Linux 7.0 Kernel Support, Many Bug Fixes",
+    "source": "Phoronix",
+    "first_seen": "2026-05-12T23:05:48.423575+00:00",
+    "published": "2026-05-12T22:28:56+00:00"
+  },
+  "https://devblogs.microsoft.com/dotnet/dotnet-11-preview-4": {
+    "title": ".NET 11 Preview 4 is now available!",
+    "source": "MS .NET Blog",
+    "first_seen": "2026-05-12T23:05:48.423575+00:00",
+    "published": "2026-05-12T22:25:49+00:00"
+  },
+  "https://simonwillison.net/2026/May/12/mitchell-hashimoto": {
+    "title": "Quoting Mitchell Hashimoto",
+    "source": "Simon Willison",
+    "first_seen": "2026-05-12T23:05:48.423575+00:00",
+    "published": "2026-05-12T22:21:51+00:00"
+  },
+  "https://github.com/FULU-Foundation/OrcaSlicer-bambulab": {
+    "title": "Restore full BambuNetwork support for Bambu Lab printers",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-12T23:05:48.423575+00:00",
+    "published": "2026-05-12T21:55:21+00:00"
+  },
+  "https://krebsonsecurity.com/2026/05/patch-tuesday-may-2026-edition": {
+    "title": "Patch Tuesday, May 2026 Edition",
+    "source": "Krebs on Security",
+    "first_seen": "2026-05-12T23:05:48.423575+00:00",
+    "published": "2026-05-12T21:46:45+00:00"
+  },
+  "https://aws.amazon.com/blogs/security/aws-security-agent-full-repository-code-scanning-feature-now-available-in-preview": {
+    "title": "AWS Security Agent full repository code scanning feature now available in preview",
+    "source": "AWS Security Blog",
+    "first_seen": "2026-05-12T23:05:48.423575+00:00",
+    "published": "2026-05-12T21:34:16+00:00"
+  },
+  "https://thebuild.com/blog/2026/05/12/snowflake-postgres-lakebase-horizondb-picking-the-lock-in-you-want": {
+    "title": "Snowflake Postgres, Lakebase, HorizonDB: Picking the Lock-In You Want",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-12T23:05:48.423575+00:00",
+    "published": "2026-05-12T19:45:02+00:00"
+  },
+  "https://openai.com/academy/how-finance-teams-use-codex": {
+    "title": "How finance teams use Codex",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-05-12T23:05:48.423575+00:00",
+    "published": "2026-05-12T15:00:00+00:00"
+  },
+  "https://openai.com/index/nvidia": {
+    "title": "How NVIDIA engineers and researchers build with Codex",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-05-12T23:05:48.423575+00:00",
+    "published": "2026-05-12T00:00:00+00:00"
+  },
+  "https://openai.com/index/autoscout24": {
+    "title": "AutoScout24 scales engineering with AI-powered workflows",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-05-12T23:05:48.423575+00:00",
+    "published": "2026-05-12T00:00:00+00:00"
   }
 }
