@@ -19784,5 +19784,281 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-05-12T15:48:25.828817+00:00",
     "published": "2026-05-11T21:24:36+00:00"
+  },
+  "https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-may-2026-servicing-updates": {
+    "title": ".NET and .NET Framework May 2026 servicing releases updates",
+    "source": "MS .NET Blog",
+    "first_seen": "2026-05-12T19:07:30.855327+00:00",
+    "published": "2026-05-12T18:36:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/containers/back-up-and-restore-your-amazon-eks-cluster-resources-using-velero": {
+    "title": "Back up and restore your Amazon EKS cluster resources using Velero",
+    "source": "AWS Containers Blog",
+    "first_seen": "2026-05-12T19:07:30.855327+00:00",
+    "published": "2026-05-12T18:19:57+00:00"
+  },
+  "https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2026q2/018471.html": {
+    "title": "CERT is releasing six CVEs for serious security vulnerabilities in dnsmasq",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-12T19:07:30.855327+00:00",
+    "published": "2026-05-12T18:12:28+00:00"
+  },
+  "https://github.com/cactus-compute/needle": {
+    "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-12T19:07:30.855327+00:00",
+    "published": "2026-05-12T18:03:11+00:00"
+  },
+  "https://www.docker.com/blog/docker-ai-governance-unlock-agent-autonomy-safely": {
+    "title": "Docker AI Governance: Unlock Agent Autonomy, Safely",
+    "source": "Docker Blog",
+    "first_seen": "2026-05-12T19:07:30.855327+00:00",
+    "published": "2026-05-12T18:00:09+00:00"
+  },
+  "https://developer.nvidia.com/blog/how-to-eliminate-pipeline-friction-in-ai-model-serving": {
+    "title": "How to Eliminate Pipeline Friction in AI Model Serving",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-05-12T19:07:30.855327+00:00",
+    "published": "2026-05-12T18:00:00+00:00"
+  },
+  "https://xbow.com/blog/dead-letter-cve-2026-45185-xbow-found-rce-exim": {
+    "title": "Dead.Letter (CVE-2026-45185) – How XBOW found an unauthenticated RCE on Exim",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-12T19:07:30.855327+00:00",
+    "published": "2026-05-12T17:52:34+00:00"
+  },
+  "https://www.phoronix.com/news/Patch-Tuesday-May-2026": {
+    "title": "AMD & Intel Roll Out New Linux Updates For Today's Patch Tuesday",
+    "source": "Phoronix",
+    "first_seen": "2026-05-12T19:07:30.855327+00:00",
+    "published": "2026-05-12T17:52:07+00:00"
+  },
+  "https://deepmind.google/blog/ai-pointer": {
+    "title": "Reimagining the mouse pointer for the AI era",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-12T19:07:30.855327+00:00",
+    "published": "2026-05-12T17:40:13+00:00"
+  },
+  "https://googlebook.google": {
+    "title": "Googlebook",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-12T19:07:30.855327+00:00",
+    "published": "2026-05-12T17:37:36+00:00"
+  },
+  "https://www.eff.org/deeplinks/2026/05/canadas-bill-c-22-repackaged-version-last-years-surveillance-nightmare": {
+    "title": "Canada’s Bill C-22 Is a Repackaged Version of Last Year’s Surveillance Nightmare",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-12T19:07:30.855327+00:00",
+    "published": "2026-05-12T17:35:58+00:00"
+  },
+  "https://github.blog/news-insights/company-news/github-copilot-individual-plans-introducing-flex-allotments-in-pro-and-pro-and-a-new-max-plan": {
+    "title": "GitHub Copilot individual plans: Introducing flex allotments in Pro and Pro+, and a new Max plan",
+    "source": "GitHub Blog",
+    "first_seen": "2026-05-12T19:07:30.855327+00:00",
+    "published": "2026-05-12T17:35:41+00:00"
+  },
+  "https://lwn.net/Articles/1072317": {
+    "title": "[$] Using dma-bufs for read and write operations",
+    "source": "LWN.net",
+    "first_seen": "2026-05-12T19:07:30.855327+00:00",
+    "published": "2026-05-12T17:25:31+00:00"
+  },
+  "https://thenewstack.io/mcp-api-governance-readiness": {
+    "title": "The API portal is the clearest signal of whether your company can handle AI agents",
+    "source": "The New Stack",
+    "first_seen": "2026-05-12T19:07:30.855327+00:00",
+    "published": "2026-05-12T17:23:52+00:00"
+  },
+  "https://www.phoronix.com/news/DXVK-NVAPI-0.9.2-Released": {
+    "title": "DXVK-NVAPI 0.9.2 Further Improves NVIDIA Integration For Steam Play Linux Gaming",
+    "source": "Phoronix",
+    "first_seen": "2026-05-12T19:07:30.855327+00:00",
+    "published": "2026-05-12T17:16:08+00:00"
+  },
+  "https://newsletter.pragmaticengineer.com/p/revisiting-no-silver-bullets-in-the": {
+    "title": "Revisiting “No Silver Bullets” in the age of AI",
+    "source": "The Pragmatic Engineer",
+    "first_seen": "2026-05-12T19:07:30.855327+00:00",
+    "published": "2026-05-12T17:10:28+00:00"
+  },
+  "https://www.hypercubic.ai/hopper": {
+    "title": "Show HN: Agentic interface for mainframes and COBOL",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-12T19:07:30.855327+00:00",
+    "published": "2026-05-12T17:10:22+00:00"
+  },
+  "https://www.phoronix.com/news/IBM-s390-Linux-Kernel-Rust": {
+    "title": "IBM s390 Is The Latest Architecture Seeing Rust Linux Kernel Support",
+    "source": "Phoronix",
+    "first_seen": "2026-05-12T19:07:30.855327+00:00",
+    "published": "2026-05-12T16:55:16+00:00"
+  },
+  "https://www.databricks.com/blog/announcing-native-lakehouse-sync": {
+    "title": "Announcing Native Lakehouse Sync",
+    "source": "Databricks Blog",
+    "first_seen": "2026-05-12T19:07:30.855327+00:00",
+    "published": "2026-05-12T16:52:00+00:00"
+  },
+  "https://www.lttlabs.com/articles/2026/05/12/ups-exploration": {
+    "title": "Testing UPS Output Waveforms",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-12T19:07:30.855327+00:00",
+    "published": "2026-05-12T16:50:59+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/how-amazon-finance-streamlines-regulatory-inquiries-by-using-generative-ai-on-aws": {
+    "title": "How Amazon Finance streamlines regulatory inquiries by using generative AI on AWS",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-05-12T19:07:30.855327+00:00",
+    "published": "2026-05-12T16:41:33+00:00"
+  },
+  "https://news.ycombinator.com/item?id=48110593": {
+    "title": "Show HN: Gigacatalyst – Extend your SaaS with an embedded AI builder",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-12T19:07:30.855327+00:00",
+    "published": "2026-05-12T16:32:54+00:00"
+  },
+  "https://arstechnica.com/ai/2026/05/amazon-employees-are-tokenmaxxing-due-to-pressure-to-use-ai-tools": {
+    "title": "Amazon employees are \"tokenmaxxing\" due to pressure to use AI tools",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-12T19:07:30.855327+00:00",
+    "published": "2026-05-12T16:29:21+00:00"
+  },
+  "https://stackoverflow.blog/2026/05/12/building-a-google-drive-sync-engine-that-survives-mv3-service-workers": {
+    "title": "Building a Google Drive Sync Engine that Survives MV3 Service Workers",
+    "source": "Stack Overflow Blog",
+    "first_seen": "2026-05-12T19:07:30.855327+00:00",
+    "published": "2026-05-12T16:20:21+00:00"
+  },
+  "https://thenewstack.io/ai-generation-who-cant-debug": {
+    "title": "AI is creating a generation of developers who can’t debug their own code",
+    "source": "The New Stack",
+    "first_seen": "2026-05-12T19:07:30.855327+00:00",
+    "published": "2026-05-12T16:16:29+00:00"
+  },
+  "https://aws.amazon.com/blogs/aws/amazon-redshift-introduces-aws-graviton-based-rg-instances-with-an-integrated-data-lake-query-engine": {
+    "title": "Amazon Redshift introduces AWS Graviton-based RG instances with an integrated data lake query engine",
+    "source": "AWS Blog",
+    "first_seen": "2026-05-12T19:07:30.855327+00:00",
+    "published": "2026-05-12T16:05:12+00:00"
+  },
+  "https://medium.com/pinterest-engineering/an-engineers-guide-to-better-ai-skills-implementing-a-testing-process-to-optimize-agent-a000c9c9abcd?source=rss----4c5a5f6279b6---4": {
+    "title": "An Engineer’s Guide to Better AI Skills: Implementing a Testing Process to Optimize Agent…",
+    "source": "Pinterest Engineering",
+    "first_seen": "2026-05-12T19:07:30.855327+00:00",
+    "published": "2026-05-12T16:01:00+00:00"
+  },
+  "https://engineering.fb.com/2026/05/12/data-infrastructure/migrating-data-ingestion-systems-at-meta-scale": {
+    "title": "Migrating Data Ingestion Systems at Meta Scale",
+    "source": "Meta Engineering",
+    "first_seen": "2026-05-12T19:07:30.855327+00:00",
+    "published": "2026-05-12T16:00:57+00:00"
+  },
+  "https://www.hashicorp.com/blog/announcing-native-ai-agent-support-in-hashicorp-vault": {
+    "title": "Announcing native AI agent support in HashiCorp Vault",
+    "source": "HashiCorp Blog",
+    "first_seen": "2026-05-12T19:07:30.855327+00:00",
+    "published": "2026-05-12T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/infrastructure/how-imgix-processes-8-billion-images-daily-with-g4-vms-powered-by-nvidia-blackwell": {
+    "title": "How Imgix processes 8 billion images daily with G4 VMs powered by NVIDIA Blackwell",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-05-12T19:07:30.855327+00:00",
+    "published": "2026-05-12T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/identity-security/beyond-source-code-the-files-ai-coding-agents-trust-and-attackers-exploit": {
+    "title": "Beyond source code: The files AI coding agents trust — and attackers exploit",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-05-12T19:07:30.855327+00:00",
+    "published": "2026-05-12T16:00:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/streamlined-monitoring-and-debugging-for-amazon-emr-on-ec2": {
+    "title": "Streamlined monitoring and debugging for Amazon EMR on EC2",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-05-12T19:07:30.855327+00:00",
+    "published": "2026-05-12T15:59:22+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/detect-and-resolve-hbase-inconsistencies-faster-with-ai-on-amazon-emr": {
+    "title": "Detect and resolve HBase inconsistencies faster with AI on Amazon EMR",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-05-12T19:07:30.855327+00:00",
+    "published": "2026-05-12T15:56:41+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/automate-schema-generation-for-intelligent-document-processing": {
+    "title": "Automate schema generation for intelligent document processing",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-05-12T19:07:30.855327+00:00",
+    "published": "2026-05-12T15:54:08+00:00"
+  },
+  "https://pytorch.org/blog/efficient-edge-ai-on-arm-cpus-and-npus": {
+    "title": "Efficient Edge AI on Arm CPUs and NPUs: Understanding ExecuTorch through Practical Labs",
+    "source": "PyTorch Blog",
+    "first_seen": "2026-05-12T19:07:30.855327+00:00",
+    "published": "2026-05-12T15:50:53+00:00"
+  },
+  "https://aws.amazon.com/blogs/containers/implement-centralized-observability-for-multi-account-amazon-eks": {
+    "title": "Implement centralized observability for multi-account Amazon EKS",
+    "source": "AWS Containers Blog",
+    "first_seen": "2026-05-12T19:07:30.855327+00:00",
+    "published": "2026-05-12T15:50:48+00:00"
+  },
+  "https://www.bloomberg.com/news/articles/2026-05-12/ebay-rejects-gamestop-s-56-billion-takeover-as-not-credible": {
+    "title": "eBay Rejects GameStop's $56B Takeover as Not Credible",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-12T19:07:30.855327+00:00",
+    "published": "2026-05-12T15:49:47+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/navigating-eu-ai-act-requirements-for-llm-fine-tuning-on-amazon-sagemaker-ai": {
+    "title": "Navigating EU AI Act requirements for LLM fine-tuning on Amazon SageMaker AI",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-05-12T19:07:30.855327+00:00",
+    "published": "2026-05-12T15:48:52+00:00"
+  },
+  "https://obsidian.md/blog/future-of-plugins": {
+    "title": "The Future of Obsidian Plugins",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-12T19:07:30.855327+00:00",
+    "published": "2026-05-12T15:45:54+00:00"
+  },
+  "https://voker.ai": {
+    "title": "Launch HN: Voker (YC S24) – Analytics for AI Agents",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-12T19:07:30.855327+00:00",
+    "published": "2026-05-12T15:45:20+00:00"
+  },
+  "https://www.nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise": {
+    "title": "Why senior developers fail to communicate their expertise",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-12T19:07:30.855327+00:00",
+    "published": "2026-05-12T15:08:40+00:00"
+  },
+  "https://www.databricks.com/blog/faster-queries-and-new-capabilities-open-source-databricks-jdbc-driver": {
+    "title": "Faster Queries and New Capabilities with the Open-Source Databricks JDBC Driver",
+    "source": "Databricks Blog",
+    "first_seen": "2026-05-12T19:07:30.855327+00:00",
+    "published": "2026-05-12T14:30:01+00:00"
+  },
+  "https://github.com/statewright/statewright": {
+    "title": "Show HN: Statewright – Visual state machines that make AI agents reliable",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-12T19:07:30.855327+00:00",
+    "published": "2026-05-12T14:24:55+00:00"
+  },
+  "https://www.hashicorp.com/blog/ibm-vault-2-0-adds-ui-enhancements-and-improved-reporting-visibility": {
+    "title": "IBM Vault 2.0 adds UI enhancements and improved reporting visibility",
+    "source": "HashiCorp Blog",
+    "first_seen": "2026-05-12T19:07:30.855327+00:00",
+    "published": "2026-05-12T04:12:00+00:00"
+  },
+  "https://www.redpanda.com/blog/5-predictions-about-agentic-ai-and-analytics-in-2026": {
+    "title": "5 predictions about agentic AI and analytics in 2026",
+    "source": "Redpanda Blog",
+    "first_seen": "2026-05-12T19:07:30.855327+00:00",
+    "published": "2026-05-12T00:00:00+00:00"
+  },
+  "https://openai.com/index/what-parameter-golf-taught-us": {
+    "title": "What Parameter Golf taught us about AI-assisted research",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-05-12T19:07:30.855327+00:00",
+    "published": "2026-05-12T00:00:00+00:00"
   }
 }
