@@ -19520,5 +19520,23 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-05-12T07:06:00.496054+00:00",
     "published": "2026-05-10T17:05:05+00:00"
+  },
+  "https://matklad.github.io/2026/05/12/software-architecture.html": {
+    "title": "Learning Software Architecture",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-12T09:51:29.170571+00:00",
+    "published": "2026-05-12T09:30:21+00:00"
+  },
+  "https://thenoisyroom.com": {
+    "title": "Toxicity on Social Media – The Noisy Room",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-12T09:51:29.170571+00:00",
+    "published": "2026-05-12T07:31:38+00:00"
+  },
+  "https://developer.chrome.com/blog/webauthn-immediate-ui?hl=en": {
+    "title": "Streamlined sign-in: Immediate UI mode is now available",
+    "source": "Chrome Developers",
+    "first_seen": "2026-05-12T09:51:29.170571+00:00",
+    "published": "2026-05-12T07:00:00+00:00"
   }
 }
