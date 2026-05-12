@@ -19706,5 +19706,83 @@
     "source": "Trail of Bits",
     "first_seen": "2026-05-12T15:08:21.103068+00:00",
     "published": "2026-05-12T11:00:00+00:00"
+  },
+  "https://blog.bytebytego.com/p/how-figma-upgraded-data-pipeline": {
+    "title": "How Figma Upgraded Data Pipeline from Multi-Day Latency to Real-Time",
+    "source": "ByteByteGo",
+    "first_seen": "2026-05-12T15:48:25.828817+00:00",
+    "published": "2026-05-12T15:31:03+00:00"
+  },
+  "https://thenewstack.io/red-hat-ai-maas": {
+    "title": "Red Hat is betting on AgentOps to close the gap between AI experiments and production",
+    "source": "The New Stack",
+    "first_seen": "2026-05-12T15:48:25.828817+00:00",
+    "published": "2026-05-12T15:23:52+00:00"
+  },
+  "https://aws.amazon.com/blogs/security/enabling-ai-sovereignty-on-aws": {
+    "title": "Enabling AI sovereignty on AWS",
+    "source": "AWS Security Blog",
+    "first_seen": "2026-05-12T15:48:25.828817+00:00",
+    "published": "2026-05-12T15:18:28+00:00"
+  },
+  "https://opentelemetry.io/blog/2026/blueprints-intro": {
+    "title": "Introducing OTel Blueprints and Reference Implementations",
+    "source": "OpenTelemetry Blog",
+    "first_seen": "2026-05-12T15:48:25.828817+00:00",
+    "published": "2026-05-12T15:04:58+00:00"
+  },
+  "https://www.databricks.com/blog/announcing-databricks-student-fellows": {
+    "title": "Announcing Databricks Student Fellows",
+    "source": "Databricks Blog",
+    "first_seen": "2026-05-12T15:48:25.828817+00:00",
+    "published": "2026-05-12T15:00:00+00:00"
+  },
+  "https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract": {
+    "title": "Bambu Lab is abusing the open source social contract",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-12T15:48:25.828817+00:00",
+    "published": "2026-05-12T14:54:41+00:00"
+  },
+  "https://blog.maximeheckel.com/posts/on-rendering-the-sky-sunsets-and-planets": {
+    "title": "Rendering the Sky, Sunsets, and Planets",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-12T15:48:25.828817+00:00",
+    "published": "2026-05-12T13:26:46+00:00"
+  },
+  "https://liquidream.itch.io/undune2": {
+    "title": "UnDUNE II",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-12T15:48:25.828817+00:00",
+    "published": "2026-05-12T12:38:45+00:00"
+  },
+  "https://www.ycombinator.com/companies/text-blaze/jobs/P4CCN62-the-blaze-no-ai-summer-internship": {
+    "title": "Text Blaze (YC W21) Is Hiring for a No-AI Summer Internship",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-12T15:48:25.828817+00:00",
+    "published": "2026-05-12T12:00:46+00:00"
+  },
+  "https://www.cnbc.com/2026/05/12/tiktok-instagram-social-media-addictive-eu-crack-down.html": {
+    "title": "EU to crack down on TikTok, Instagram's 'addictive design' targeting kids",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-12T15:48:25.828817+00:00",
+    "published": "2026-05-12T11:00:07+00:00"
+  },
+  "https://blog.coursera.org/coursera-and-udemy-are-now-one-company-creating-the-worlds-most-comprehensive-skills-platform": {
+    "title": "Coursera and Udemy are now one company",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-12T15:48:25.828817+00:00",
+    "published": "2026-05-12T10:37:44+00:00"
+  },
+  "https://news.ycombinator.com/item?id=48104663": {
+    "title": "A HN post with negative points – how?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-12T15:48:25.828817+00:00",
+    "published": "2026-05-12T10:29:24+00:00"
+  },
+  "https://poolside.ai/blog/through-the-looking-glass": {
+    "title": "Through the looking glass of benchmark hacking",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-12T15:48:25.828817+00:00",
+    "published": "2026-05-11T21:24:36+00:00"
   }
 }
