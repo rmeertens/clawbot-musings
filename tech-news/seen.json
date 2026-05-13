@@ -20300,5 +20300,47 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-05-13T09:52:23.828075+00:00",
     "published": "2026-05-13T07:11:17+00:00"
+  },
+  "https://www.schneier.com/blog/archives/2026/05/openais-gpt-5-5-is-as-good-as-mythos-at-finding-security-vulnerabilities.html": {
+    "title": "OpenAI’s GPT-5.5 is as Good as Mythos at Finding Security Vulnerabilities",
+    "source": "Schneier on Security",
+    "first_seen": "2026-05-13T11:06:31.027557+00:00",
+    "published": "2026-05-13T11:03:03+00:00"
+  },
+  "https://www.phoronix.com/news/Intel-Compute-26.18.38308.1": {
+    "title": "Intel Compute Runtime 26.18.38308.1 Brings More Xe3P Enableement, Nova Lake P Support",
+    "source": "Phoronix",
+    "first_seen": "2026-05-13T11:06:31.027557+00:00",
+    "published": "2026-05-13T11:01:09+00:00"
+  },
+  "https://www.docker.com/blog/nist-narrows-the-nvd-what-container-security-programs-should-reassess": {
+    "title": "NIST Narrows the NVD: What Container Security Programs Should Reassess",
+    "source": "Docker Blog",
+    "first_seen": "2026-05-13T11:06:31.027557+00:00",
+    "published": "2026-05-13T10:38:28+00:00"
+  },
+  "https://www.phoronix.com/news/Discord-Better-Linux-Client": {
+    "title": "Discord Taunts \"Year Of The Linux Desktop\" With Linux Client Improvements",
+    "source": "Phoronix",
+    "first_seen": "2026-05-13T11:06:31.027557+00:00",
+    "published": "2026-05-13T10:17:35+00:00"
+  },
+  "https://www.phoronix.com/news/NetBSD-11.0-RC4": {
+    "title": "NetBSD 11.0-RC4 Comes As Hopefully The Last Release Candidate",
+    "source": "Phoronix",
+    "first_seen": "2026-05-13T11:06:31.027557+00:00",
+    "published": "2026-05-13T10:06:56+00:00"
+  },
+  "https://stratechery.com/2026/the-deployment-company-back-to-the-70s-apple-and-intel": {
+    "title": "The Deployment Company, Back to the 70s, Apple and Intel",
+    "source": "Stratechery",
+    "first_seen": "2026-05-13T11:06:31.027557+00:00",
+    "published": "2026-05-13T10:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/Arm-Linux-FEAT-D128-Patches": {
+    "title": "Arm Preparing The Linux Kernel For 128-bit Page Table Entries \"FEAT_D128\"",
+    "source": "Phoronix",
+    "first_seen": "2026-05-13T11:06:31.027557+00:00",
+    "published": "2026-05-13T09:30:11+00:00"
   }
 }
