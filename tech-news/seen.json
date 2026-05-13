@@ -20498,5 +20498,71 @@
     "source": "Elastic Blog",
     "first_seen": "2026-05-13T15:08:07.158339+00:00",
     "published": "2026-05-13T00:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/topics/public-sector/smart-moves-building-resilient-transportation-systems-with-google-ai": {
+    "title": "Smart moves: Building resilient transportation systems with Google AI",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-05-13T15:51:25.323155+00:00",
+    "published": "2026-05-13T16:00:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/architecture/streaming-cloudwatch-metrics-to-vpc-based-opentelemetry-collectors-using-lambda": {
+    "title": "Streaming CloudWatch metrics to VPC-based OpenTelemetry collectors using Lambda",
+    "source": "AWS Architecture Blog",
+    "first_seen": "2026-05-13T15:51:25.323155+00:00",
+    "published": "2026-05-13T15:45:50+00:00"
+  },
+  "https://blog.bytebytego.com/p/high-performance-rate-limiting-at": {
+    "title": "High Performance Rate Limiting at Databricks",
+    "source": "ByteByteGo",
+    "first_seen": "2026-05-13T15:51:25.323155+00:00",
+    "published": "2026-05-13T15:30:35+00:00"
+  },
+  "https://thenewstack.io/red-hat-agentic-skills-repository": {
+    "title": "Red Hat’s skill packs give AI agents something a bigger model never could: 20 years of institutional memory",
+    "source": "The New Stack",
+    "first_seen": "2026-05-13T15:51:25.323155+00:00",
+    "published": "2026-05-13T15:27:37+00:00"
+  },
+  "https://kotaku.com/kickstarter-is-the-latest-platform-seemingly-forced-to-ban-adult-content-by-payment-processors-2000695648": {
+    "title": "Kickstarter Is Forced to Ban Adult Content by Payment Processors",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-13T15:51:25.323155+00:00",
+    "published": "2026-05-13T15:26:27+00:00"
+  },
+  "https://lwn.net/Articles/1072647": {
+    "title": "Yet another Dirty Frag type vulnerability: Fragnesia",
+    "source": "LWN.net",
+    "first_seen": "2026-05-13T15:51:25.323155+00:00",
+    "published": "2026-05-13T15:26:20+00:00"
+  },
+  "https://fortune.com/2026/05/12/lake-tahoe-data-center-49000-residents-power-source": {
+    "title": "50K Tahoe residents need power as utility eyes redirecting lines to data centers",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-13T15:51:25.323155+00:00",
+    "published": "2026-05-13T15:18:41+00:00"
+  },
+  "https://thenewstack.io/claude-code-agent-view": {
+    "title": "Anthropic’s Claude Code agent view is a better dashboard. So why aren’t developers convinced?",
+    "source": "The New Stack",
+    "first_seen": "2026-05-13T15:51:25.323155+00:00",
+    "published": "2026-05-13T15:13:43+00:00"
+  },
+  "https://kerkour.com/the-limits-of-rust": {
+    "title": "The limits of Rust, or why you should probably not follow Amazon and Cloudflare",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-13T15:51:25.323155+00:00",
+    "published": "2026-05-13T15:09:52+00:00"
+  },
+  "https://fredchan.org/blog/locality-domains-guide": {
+    "title": "Setting up a free *.city.state.us locality domain",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-13T15:51:25.323155+00:00",
+    "published": "2026-05-13T14:45:18+00:00"
+  },
+  "https://www.databricks.com/blog/abac-row-filtering-and-column-masking-policies-governed-tags-and-data-classification-are-now": {
+    "title": "ABAC row filtering and column masking policies, governed tags, and data classification are now generally available in Unity Catalog",
+    "source": "Databricks Blog",
+    "first_seen": "2026-05-13T15:51:25.323155+00:00",
+    "published": "2026-05-13T14:08:52+00:00"
   }
 }
