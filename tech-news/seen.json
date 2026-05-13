@@ -20564,5 +20564,317 @@
     "source": "Databricks Blog",
     "first_seen": "2026-05-13T15:51:25.323155+00:00",
     "published": "2026-05-13T14:08:52+00:00"
+  },
+  "https://devblogs.microsoft.com/dotnet/process-api-improvements-in-dotnet-11": {
+    "title": "Process API Improvements in .NET 11",
+    "source": "MS .NET Blog",
+    "first_seen": "2026-05-13T21:29:10.327961+00:00",
+    "published": "2026-05-13T21:00:00+00:00"
+  },
+  "https://thenewstack.io/minio-memkv-recompute-tax": {
+    "title": "MinIO’s MemKV promises 95% better GPU utilization by ending AI recompute tax",
+    "source": "The New Stack",
+    "first_seen": "2026-05-13T21:29:10.327961+00:00",
+    "published": "2026-05-13T20:27:46+00:00"
+  },
+  "https://www.theverge.com/tech/929091/meta-ai-threads-account-block": {
+    "title": "Meta won't let you block its AI account on Threads",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-13T21:29:10.327961+00:00",
+    "published": "2026-05-13T20:22:21+00:00"
+  },
+  "https://www.dailyprincetonian.com/article/2026/05/princeton-news-adpol-proctoring-in-person-examinations-passed-faculty-133-years-precedent": {
+    "title": "Princeton mandates proctoring in-person exams, upending 133 years of precedent",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-13T21:29:10.327961+00:00",
+    "published": "2026-05-13T20:12:16+00:00"
+  },
+  "https://bitplane.net/log/2026/05/rars": {
+    "title": "Rars: a Rust RAR implementation, mostly written by LLMs",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-13T21:29:10.327961+00:00",
+    "published": "2026-05-13T19:59:35+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/how-hoteltrader-cut-inter-az-cost-95-and-latency-by-49-with-valkey-glide-on-amazon-elasticache": {
+    "title": "How HotelTrader cut inter-AZ cost 95% and latency by 49% with Valkey GLIDE on Amazon ElastiCache",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-05-13T21:29:10.327961+00:00",
+    "published": "2026-05-13T19:50:39+00:00"
+  },
+  "https://www.sltrib.com/opinion/commentary/2026/05/12/just-days-tribune-reporting": {
+    "title": "Making the news available at no cost is a victory",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-13T21:29:10.327961+00:00",
+    "published": "2026-05-13T19:14:47+00:00"
+  },
+  "https://www.databricks.com/blog/data-quality-ai-strategy": {
+    "title": "Data quality is the AI strategy",
+    "source": "Databricks Blog",
+    "first_seen": "2026-05-13T21:29:10.327961+00:00",
+    "published": "2026-05-13T19:10:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/security/introducing-the-updated-aws-user-guide-to-governance-risk-and-compliance-for-responsible-ai-adoption": {
+    "title": "Introducing the updated AWS User Guide to Governance, Risk, and Compliance for Responsible AI Adoption",
+    "source": "AWS Security Blog",
+    "first_seen": "2026-05-13T21:29:10.327961+00:00",
+    "published": "2026-05-13T19:07:42+00:00"
+  },
+  "https://www.propublica.org/article/evicore-health-insurance-denials-cigna-unitedhealthcare-aetna-prior-authorizations": {
+    "title": "\"Not Medically Necessary\": Helping America's Health Insurers Deny Coverage",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-13T21:29:10.327961+00:00",
+    "published": "2026-05-13T19:01:54+00:00"
+  },
+  "https://www.databricks.com/blog/rosetta-stone-cps-clarotys-ai-powered-library": {
+    "title": "The Rosetta stone of CPS: Claroty’s AI-powered library",
+    "source": "Databricks Blog",
+    "first_seen": "2026-05-13T21:29:10.327961+00:00",
+    "published": "2026-05-13T19:00:00+00:00"
+  },
+  "https://pytorch.org/blog/pytorch-2-12-release-blog": {
+    "title": "PyTorch 2.12 Release Blog",
+    "source": "PyTorch Blog",
+    "first_seen": "2026-05-13T21:29:10.327961+00:00",
+    "published": "2026-05-13T18:36:29+00:00"
+  },
+  "https://kubernetes.io/blog/2026/05/13/kubernetes-v1-36-advancing-workload-aware-scheduling": {
+    "title": "Kubernetes v1.36: Advancing Workload-Aware Scheduling",
+    "source": "Kubernetes Blog",
+    "first_seen": "2026-05-13T21:29:10.327961+00:00",
+    "published": "2026-05-13T18:35:00+00:00"
+  },
+  "https://www.jdhodges.com/blog/macbook-neo-benchmarks-analysis": {
+    "title": "MacBook Neo Deep Dive: Benchmarks, Wafer Economics, and the 8GB Gamble",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-13T21:29:10.327961+00:00",
+    "published": "2026-05-13T18:30:51+00:00"
+  },
+  "https://www.databricks.com/blog/clinical-operations-intelligence-belongs-lakehouse": {
+    "title": "Clinical operations intelligence belongs on the Lakehouse",
+    "source": "Databricks Blog",
+    "first_seen": "2026-05-13T21:29:10.327961+00:00",
+    "published": "2026-05-13T18:30:00+00:00"
+  },
+  "https://andreafortuna.org/2026/05/13/amarcord": {
+    "title": "A sentimental tour of late 1990s and early 2000s hacking tools",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-13T21:29:10.327961+00:00",
+    "published": "2026-05-13T18:25:09+00:00"
+  },
+  "https://reactos.org": {
+    "title": "ReactOS",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-13T21:29:10.327961+00:00",
+    "published": "2026-05-13T18:20:22+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/build-financial-document-processing-with-pulse-ai-and-amazon-bedrock": {
+    "title": "Build financial document processing with Pulse AI and Amazon Bedrock",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-05-13T21:29:10.327961+00:00",
+    "published": "2026-05-13T18:00:06+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/build-real-time-voice-streaming-applications-with-amazon-nova-sonic-and-webrtc": {
+    "title": "Build real-time voice streaming applications with Amazon Nova Sonic and WebRTC",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-05-13T21:29:10.327961+00:00",
+    "published": "2026-05-13T17:46:19+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/zero-downtime-dynamodb-construct-migration-from-table-to-tablev2-with-cdk-orphan": {
+    "title": "Zero-downtime DynamoDB construct migration: from Table to TableV2 with cdk orphan",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-05-13T21:29:10.327961+00:00",
+    "published": "2026-05-13T17:44:02+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/securing-ai-agents-how-aws-and-cisco-ai-defense-scale-mcp-and-a2a-deployments": {
+    "title": "Securing AI agents: How AWS and Cisco AI Defense scale MCP and A2A deployments",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-05-13T21:29:10.327961+00:00",
+    "published": "2026-05-13T17:33:16+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/fine-tune-llm-with-databricks-unity-catalog-and-amazon-sagemaker-ai": {
+    "title": "Fine-tune LLM with Databricks Unity Catalog and Amazon SageMaker AI",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-05-13T21:29:10.327961+00:00",
+    "published": "2026-05-13T17:22:42+00:00"
+  },
+  "https://aws.amazon.com/blogs/containers/maximizing-value-with-amazon-eks-auto-mode-strategies-for-visibility-control-and-optimization": {
+    "title": "Maximizing value with Amazon EKS Auto Mode: Strategies for visibility, control, and optimization",
+    "source": "AWS Containers Blog",
+    "first_seen": "2026-05-13T21:29:10.327961+00:00",
+    "published": "2026-05-13T17:18:26+00:00"
+  },
+  "https://newsletter.pragmaticengineer.com/p/typescript-c-and-turbo-pascal-with": {
+    "title": "TypeScript, C# and Turbo Pascal with Anders Hejlsberg",
+    "source": "The Pragmatic Engineer",
+    "first_seen": "2026-05-13T21:29:10.327961+00:00",
+    "published": "2026-05-13T17:06:59+00:00"
+  },
+  "https://devblogs.microsoft.com/dotnet/dotnet-maui-moves-to-coreclr-in-dotnet-11": {
+    "title": ".NET MAUI Moves to CoreCLR in .NET 11",
+    "source": "MS .NET Blog",
+    "first_seen": "2026-05-13T21:29:10.327961+00:00",
+    "published": "2026-05-13T17:05:04+00:00"
+  },
+  "https://www.phoronix.com/news/Intel-ISSEI-Linux-Driver": {
+    "title": "Linux Driver Posted For Intel Silicon Security Engine Interface \"ISSEI\"",
+    "source": "Phoronix",
+    "first_seen": "2026-05-13T21:29:10.327961+00:00",
+    "published": "2026-05-13T17:03:00+00:00"
+  },
+  "https://medium.com/airbnb-engineering/viaduct-1-0-and-the-future-of-airbnbs-data-mesh-6bab4ec98b89?source=rss----53c7c27702d5---4": {
+    "title": "Viaduct 1.0 and the future of Airbnb’s data mesh",
+    "source": "Airbnb Engineering",
+    "first_seen": "2026-05-13T21:29:10.327961+00:00",
+    "published": "2026-05-13T17:01:01+00:00"
+  },
+  "https://cloud.google.com/blog/products/ai-machine-learning/google-named-a-leader-in-the-gartner-magic-quadrant": {
+    "title": "Google Named a Leader in the Gartner® Magic Quadrant™ for AI Application Development Platforms: Mid-cycle update",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-05-13T21:29:10.327961+00:00",
+    "published": "2026-05-13T17:00:00+00:00"
+  },
+  "https://www.tryardent.com": {
+    "title": "Launch HN: Ardent (YC P26) – Postgres sandboxes in seconds with zero migration",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-13T21:29:10.327961+00:00",
+    "published": "2026-05-13T16:54:03+00:00"
+  },
+  "https://developer.nvidia.com/blog/accelerated-x-ray-analysis-for-nanoscale-imaging-xani-of-novel-materials": {
+    "title": "Accelerated X-Ray Analysis for Nanoscale Imaging (XANI) of Novel Materials",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-05-13T21:29:10.327961+00:00",
+    "published": "2026-05-13T16:39:20+00:00"
+  },
+  "https://aws.amazon.com/blogs/security/pci-pin-and-p2pe-compliance-packages-for-aws-payment-cryptography-are-now-available": {
+    "title": "PCI PIN and P2PE compliance packages for AWS Payment Cryptography are now available",
+    "source": "AWS Security Blog",
+    "first_seen": "2026-05-13T21:29:10.327961+00:00",
+    "published": "2026-05-13T16:16:38+00:00"
+  },
+  "https://simonwillison.net/2026/May/13/boris-mann": {
+    "title": "Quoting Boris Mann",
+    "source": "Simon Willison",
+    "first_seen": "2026-05-13T21:29:10.327961+00:00",
+    "published": "2026-05-13T16:15:50+00:00"
+  },
+  "https://lwn.net/Articles/1071949": {
+    "title": "[$] Friction in Fedora over AI developer desktop initiative",
+    "source": "LWN.net",
+    "first_seen": "2026-05-13T21:29:10.327961+00:00",
+    "published": "2026-05-13T16:05:26+00:00"
+  },
+  "https://github.blog/open-source/gaming/dungeons-desktops-10-roguelikes-that-never-die-because-their-communities-wont-let-them": {
+    "title": "Dungeons & Desktops: 10 roguelikes that never die (because their communities won’t let them)",
+    "source": "GitHub Blog",
+    "first_seen": "2026-05-13T21:29:10.327961+00:00",
+    "published": "2026-05-13T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/media-entertainment/how-glance-turns-hours-of-video-into-mobile-ready-clips-with-ai": {
+    "title": "How Glance turns hours of video into mobile-ready clips with AI",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-05-13T21:29:10.327961+00:00",
+    "published": "2026-05-13T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/identity-security/why-cloud-infrastructure-is-the-foundation-for-digital-health-in-2026": {
+    "title": "The new era of SaMD: Why cloud infrastructure is the foundation for digital health in 2026",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-05-13T21:29:10.327961+00:00",
+    "published": "2026-05-13T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/data-analytics/more-than-100x-faster-and-cheaper-llm-powered-sql-queries-with-proxy-models": {
+    "title": "The power of LLMs on your data, more than two orders of magnitude faster and cheaper",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-05-13T21:29:10.327961+00:00",
+    "published": "2026-05-13T16:00:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/securing-client-confidentiality-at-scale-automated-data-discovery-and-governed-analytics-for-legal-workloads": {
+    "title": "Securing client confidentiality at scale: Automated data discovery and governed analytics for legal workloads",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-05-13T21:29:10.327961+00:00",
+    "published": "2026-05-13T15:57:14+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-Fragnesia": {
+    "title": "Fragnesia Made Public As Latest Linux Local Privilege Escalation Vulnerability",
+    "source": "Phoronix",
+    "first_seen": "2026-05-13T21:29:10.327961+00:00",
+    "published": "2026-05-13T15:52:22+00:00"
+  },
+  "https://grantmestrength.github.io/S100": {
+    "title": "S-100 Virtual Workbench",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-13T21:29:10.327961+00:00",
+    "published": "2026-05-13T15:52:00+00:00"
+  },
+  "https://ossresistance.com": {
+    "title": "Open Source Resistance: keep OSS alive on company time",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-13T21:29:10.327961+00:00",
+    "published": "2026-05-13T15:13:37+00:00"
+  },
+  "https://avkcode.github.io/blog/us-winning-ai-race.html": {
+    "title": "The US is winning the AI race where it matters most: commercialization",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-13T21:29:10.327961+00:00",
+    "published": "2026-05-13T13:53:53+00:00"
+  },
+  "https://github.com/composer/composer/security/advisories/GHSA-f9f8-rm49-7jv2": {
+    "title": "GitHub Actions issued GitHub_TOKEN disclosure in GitHub Actions logs",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-13T21:29:10.327961+00:00",
+    "published": "2026-05-13T11:26:33+00:00"
+  },
+  "https://cloud.google.com/blog/products/chrome-enterprise/our-continued-commitment-to-chromebooks-and-looking-ahead": {
+    "title": "Our continued commitment to Chromebooks, and looking ahead",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-05-13T21:29:10.327961+00:00",
+    "published": "2026-05-13T11:25:00+00:00"
+  },
+  "https://openai.com/index/building-codex-windows-sandbox": {
+    "title": "Building a safe, effective sandbox to enable Codex on Windows",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-05-13T21:29:10.327961+00:00",
+    "published": "2026-05-13T11:00:00+00:00"
+  },
+  "https://sockpuppet.org/blog/2026/05/12/emacsification": {
+    "title": "The Emacsification of Software",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-13T21:29:10.327961+00:00",
+    "published": "2026-05-13T07:06:14+00:00"
+  },
+  "https://www.elastic.co/blog/the-elasticsearch-agent-builder-hackathon": {
+    "title": "The Elasticsearch Agent Builder Hackathon",
+    "source": "Elastic Blog",
+    "first_seen": "2026-05-13T21:29:10.327961+00:00",
+    "published": "2026-05-13T00:00:00+00:00"
+  },
+  "https://www.elastic.co/blog/agent-builder-hackathon-pharos": {
+    "title": "PHAROS: 4 agents, 60 seconds, 1 missed drug safety signal away from disaster",
+    "source": "Elastic Blog",
+    "first_seen": "2026-05-13T21:29:10.327961+00:00",
+    "published": "2026-05-13T00:00:00+00:00"
+  },
+  "https://www.elastic.co/blog/agent-builder-hackathon-gauntlet": {
+    "title": "Gauntlet: What happens when your agent's tools fight back",
+    "source": "Elastic Blog",
+    "first_seen": "2026-05-13T21:29:10.327961+00:00",
+    "published": "2026-05-13T00:00:00+00:00"
+  },
+  "https://www.elastic.co/blog/agent-builder-hackathon-catching-invisible-errors": {
+    "title": "Catching invisible errors: How I built a duplicate detection agent for Kenya's HIV program",
+    "source": "Elastic Blog",
+    "first_seen": "2026-05-13T21:29:10.327961+00:00",
+    "published": "2026-05-13T00:00:00+00:00"
+  },
+  "https://discord.com/blog/celebrate-discords-11th-birthday-with-an-exclusive-set-of-emoji-and-wallpapers": {
+    "title": "Celebrate Discord’s 11th Birthday with an Exclusive Set of Emoji and Wallpapers",
+    "source": "Discord Engineering",
+    "first_seen": "2026-05-13T21:29:10.327961+00:00",
+    "published": "2026-05-13T00:00:00+00:00"
+  },
+  "https://arstechnica.com/tech-policy/2026/05/drop-database-what-not-to-do-after-losing-an-it-job": {
+    "title": "Twin brothers wipe 96 government databases minutes after being fired",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-13T21:29:10.327961+00:00",
+    "published": "2026-05-12T22:28:07+00:00"
   }
 }
