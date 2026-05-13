@@ -20342,5 +20342,161 @@
     "source": "Phoronix",
     "first_seen": "2026-05-13T11:06:31.027557+00:00",
     "published": "2026-05-13T09:30:11+00:00"
+  },
+  "https://thenewstack.io/openai-daybreak-anthropic-glasswing": {
+    "title": "OpenAI’s Daybreak and Anthropic’s Glasswing have nearly identical benchmarks — and 3 of the same partners",
+    "source": "The New Stack",
+    "first_seen": "2026-05-13T15:08:07.158339+00:00",
+    "published": "2026-05-13T15:04:04+00:00"
+  },
+  "https://developer.nvidia.com/blog/transform-video-into-instantly-searchable-actionable-intelligence-with-ai-agents-and-skills": {
+    "title": "Transform Video Into Instantly Searchable, Actionable Intelligence with AI Agents and Skills",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-05-13T15:08:07.158339+00:00",
+    "published": "2026-05-13T15:00:00+00:00"
+  },
+  "https://thenewstack.io/gpt55-instant-vs-gpt52-tested": {
+    "title": "I tested OpenAI’s three claims about GPT-5.5 Instant, and only one fully held up",
+    "source": "The New Stack",
+    "first_seen": "2026-05-13T15:08:07.158339+00:00",
+    "published": "2026-05-13T14:50:41+00:00"
+  },
+  "https://www.theatlantic.com/technology/2026/05/ai-backlash-data-centers-political-violence/687151": {
+    "title": "The AI Backlash Could Get Ugly",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-13T15:08:07.158339+00:00",
+    "published": "2026-05-13T14:44:41+00:00"
+  },
+  "https://lwn.net/Articles/1072367": {
+    "title": "[$] Managing pages outside of the direct map",
+    "source": "LWN.net",
+    "first_seen": "2026-05-13T15:08:07.158339+00:00",
+    "published": "2026-05-13T14:20:00+00:00"
+  },
+  "https://realpython.com/opencode-guide": {
+    "title": "How to Use OpenCode for AI-Assisted Python Coding",
+    "source": "Real Python",
+    "first_seen": "2026-05-13T15:08:07.158339+00:00",
+    "published": "2026-05-13T14:00:00+00:00"
+  },
+  "https://thenewstack.io/temporal-durable-execution-ai-workflows": {
+    "title": "Temporal hits 3,000 paying customers with its crash-proof workflow engine",
+    "source": "The New Stack",
+    "first_seen": "2026-05-13T15:08:07.158339+00:00",
+    "published": "2026-05-13T13:48:49+00:00"
+  },
+  "https://www.phoronix.com/review/gcc-16-vs-clang-22": {
+    "title": "GCC 16 Produces Faster Binaries Than GCC 15, Competitive Race With LLVM Clang 22",
+    "source": "Phoronix",
+    "first_seen": "2026-05-13T15:08:07.158339+00:00",
+    "published": "2026-05-13T13:45:00+00:00"
+  },
+  "https://lwn.net/Articles/1072333": {
+    "title": "[$] Revisiting mshare",
+    "source": "LWN.net",
+    "first_seen": "2026-05-13T15:08:07.158339+00:00",
+    "published": "2026-05-13T13:19:22+00:00"
+  },
+  "https://lwn.net/Articles/1072596": {
+    "title": "Security updates for Wednesday",
+    "source": "LWN.net",
+    "first_seen": "2026-05-13T15:08:07.158339+00:00",
+    "published": "2026-05-13T13:17:03+00:00"
+  },
+  "https://lwn.net/Articles/1072565": {
+    "title": "Sovereign Tech Fund invests in KDE",
+    "source": "LWN.net",
+    "first_seen": "2026-05-13T15:08:07.158339+00:00",
+    "published": "2026-05-13T13:09:08+00:00"
+  },
+  "https://engineering.fb.com/2026/05/13/ml-applications/reel-friends-building-social-discovery-that-scales-to-billions": {
+    "title": "Reel Friends: Building Social Discovery that Scales to Billions",
+    "source": "Meta Engineering",
+    "first_seen": "2026-05-13T15:08:07.158339+00:00",
+    "published": "2026-05-13T13:00:44+00:00"
+  },
+  "https://tailscale.com/blog/bambuddy-bambu-lab-3d-printer-access": {
+    "title": "Bambuddy: self-hosted 3D printing beyond the vendor cloud",
+    "source": "Tailscale Blog",
+    "first_seen": "2026-05-13T15:08:07.158339+00:00",
+    "published": "2026-05-13T13:00:30+00:00"
+  },
+  "https://thenewstack.io/kubernetes-yaml-management-scale": {
+    "title": "Cloud native application challenges: installing the walking skeleton",
+    "source": "The New Stack",
+    "first_seen": "2026-05-13T15:08:07.158339+00:00",
+    "published": "2026-05-13T13:00:00+00:00"
+  },
+  "https://thenewstack.io/engineering-team-skills-library": {
+    "title": "How to build a skills library for your engineering team",
+    "source": "The New Stack",
+    "first_seen": "2026-05-13T15:08:07.158339+00:00",
+    "published": "2026-05-13T13:00:00+00:00"
+  },
+  "https://thenewstack.io/cimento-human-risk-ai": {
+    "title": "Cimento emerges from stealth to secure the one thing no firewall can protect",
+    "source": "The New Stack",
+    "first_seen": "2026-05-13T15:08:07.158339+00:00",
+    "published": "2026-05-13T13:00:00+00:00"
+  },
+  "https://thenewstack.io/agent-harness-distributed-feedback-problem": {
+    "title": "Why agent harnesses fail inside cloud-native systems",
+    "source": "The New Stack",
+    "first_seen": "2026-05-13T15:08:07.158339+00:00",
+    "published": "2026-05-13T13:00:00+00:00"
+  },
+  "https://blog.cloudflare.com/browser-run-containers": {
+    "title": "Browser Run: now running on Cloudflare Containers, it’s faster and more scalable",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-05-13T15:08:07.158339+00:00",
+    "published": "2026-05-13T13:00:00+00:00"
+  },
+  "https://nltimes.nl/2026/05/13/dutch-suicide-prevention-hotline-shares-visitor-data-tech-companies": {
+    "title": "Dutch suicide prevention website shares data with tech companies without consent",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-13T15:08:07.158339+00:00",
+    "published": "2026-05-13T12:57:42+00:00"
+  },
+  "https://jorijn.com/en/blog/leaving-github-for-forgejo": {
+    "title": "Why I'm leaving GitHub for Forgejo",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-13T15:08:07.158339+00:00",
+    "published": "2026-05-13T12:54:00+00:00"
+  },
+  "https://www.ycombinator.com/companies/substrate/jobs/T2fMBhD-technical-success-manager": {
+    "title": "Substrate (YC S24) Is Hiring a Technical Success Manager",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-13T15:08:07.158339+00:00",
+    "published": "2026-05-13T12:00:30+00:00"
+  },
+  "https://thenewstack.io/enterprise-ai-model-customization": {
+    "title": "Why enterprise AI needs customization",
+    "source": "The New Stack",
+    "first_seen": "2026-05-13T15:08:07.158339+00:00",
+    "published": "2026-05-13T12:00:00+00:00"
+  },
+  "https://monokai.com/articles/how-i-moved-my-digital-stack-to-europe": {
+    "title": "I Moved My Digital Stack to Europe",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-13T15:08:07.158339+00:00",
+    "published": "2026-05-13T11:42:20+00:00"
+  },
+  "https://www.cncf.io/blog/2026/05/13/building-a-cloud-native-platform-from-the-ground-up-with-kairos-k0rdent-and-bindy": {
+    "title": "Building a cloud native platform from the ground up with Kairos, k0rdent, and bindy",
+    "source": "CNCF Blog",
+    "first_seen": "2026-05-13T15:08:07.158339+00:00",
+    "published": "2026-05-13T11:30:00+00:00"
+  },
+  "https://atalaykutlay.com/or-tools-cp-sat-for-scheduling-problems.html": {
+    "title": "Using OR-Tools CP-SAT for Scheduling Problems",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-13T15:08:07.158339+00:00",
+    "published": "2026-05-13T11:02:57+00:00"
+  },
+  "https://www.elastic.co/blog/elastic-stack-9-4-1-released": {
+    "title": "Elastic Stack 9.4.1 released",
+    "source": "Elastic Blog",
+    "first_seen": "2026-05-13T15:08:07.158339+00:00",
+    "published": "2026-05-13T00:00:00+00:00"
   }
 }
