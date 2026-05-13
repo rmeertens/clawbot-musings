@@ -20876,5 +20876,29 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-05-13T21:29:10.327961+00:00",
     "published": "2026-05-12T22:28:07+00:00"
+  },
+  "https://thenewstack.io/agentic-analytics-cost-squeeze": {
+    "title": "Fivetran’s CPO: Closed data stacks won’t survive the agent era",
+    "source": "The New Stack",
+    "first_seen": "2026-05-13T23:06:17.396606+00:00",
+    "published": "2026-05-13T22:15:28+00:00"
+  },
+  "https://aws.amazon.com/blogs/security/detecting-and-preventing-crypto-mining-in-your-aws-environment": {
+    "title": "Detecting and preventing crypto mining in your AWS environment",
+    "source": "AWS Security Blog",
+    "first_seen": "2026-05-13T23:06:17.396606+00:00",
+    "published": "2026-05-13T21:47:27+00:00"
+  },
+  "https://news.ycombinator.com/item?id=48128003": {
+    "title": "Tell HN: Dont use Claude Design, lost access to my projects after unsubscribing",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-13T23:06:17.396606+00:00",
+    "published": "2026-05-13T21:40:18+00:00"
+  },
+  "https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea": {
+    "title": "Medicare's new payment model is built for AI. Most of the tech world has no idea",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-13T23:06:17.396606+00:00",
+    "published": "2026-05-13T21:24:14+00:00"
   }
 }
