@@ -20900,5 +20900,59 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-05-13T23:06:17.396606+00:00",
     "published": "2026-05-13T21:24:14+00:00"
+  },
+  "https://lwn.net/Articles/1071535": {
+    "title": "[$] LWN.net Weekly Edition for May 14, 2026",
+    "source": "LWN.net",
+    "first_seen": "2026-05-14T03:07:22.453046+00:00",
+    "published": "2026-05-14T01:04:18+00:00"
+  },
+  "https://www.theregister.com/security/2026/05/13/disgruntled-researcher-releases-two-more-microsoft-zero-days/5239758": {
+    "title": "Mystery Microsoft bug leaker keeps the zero-days coming",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-14T03:07:22.453046+00:00",
+    "published": "2026-05-14T00:54:18+00:00"
+  },
+  "https://www.phoronix.com/news/AMD-DRM-Format-Modifiers-GCN": {
+    "title": "Older AMD GPUs Score Another Open-Source Driver Win From Valve: DRM Format Modifiers",
+    "source": "Phoronix",
+    "first_seen": "2026-05-14T03:07:22.453046+00:00",
+    "published": "2026-05-14T00:49:23+00:00"
+  },
+  "https://www.phoronix.com/news/Arm-Mali-G1-Pro-Mesa-26.2": {
+    "title": "Arm Mali G1 Pro Now Working With Open-Source PanVK & Panfrost Drivers",
+    "source": "Phoronix",
+    "first_seen": "2026-05-14T03:07:22.453046+00:00",
+    "published": "2026-05-14T00:45:09+00:00"
+  },
+  "http://www.scorch2000.com/web": {
+    "title": "Scorched Earth 2000 is back",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-14T03:07:22.453046+00:00",
+    "published": "2026-05-14T00:41:29+00:00"
+  },
+  "https://devblogs.microsoft.com/python/pycon-us-2026": {
+    "title": "PyCon US 2026",
+    "source": "MS Python Blog",
+    "first_seen": "2026-05-14T03:07:22.453046+00:00",
+    "published": "2026-05-14T00:18:13+00:00"
+  },
+  "https://simonwillison.net/2026/May/13/welcome-to-the-datasette-blog": {
+    "title": "Welcome to the Datasette blog",
+    "source": "Simon Willison",
+    "first_seen": "2026-05-14T03:07:22.453046+00:00",
+    "published": "2026-05-13T23:59:39+00:00"
+  },
+  "https://www.hashicorp.com/blog/new-in-terraform-115-dynamic-sources-variable-deprecation-and-more": {
+    "title": "New in Terraform 1.15: Dynamic sources, variable deprecation, and more",
+    "source": "HashiCorp Blog",
+    "first_seen": "2026-05-14T03:07:22.453046+00:00",
+    "published": "2026-05-13T16:00:00+00:00"
+  },
+  "https://github.com/monkeysee-ai/rotunda": {
+    "title": "Show HN: Rotunda - A browser built for agents with simulated typing",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-14T03:07:22.453046+00:00",
+    "published": "2026-05-13T13:44:01+00:00"
   }
 }
