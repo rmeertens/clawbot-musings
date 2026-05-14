@@ -21230,5 +21230,329 @@
     "source": "Hugging Face Blog",
     "first_seen": "2026-05-14T15:43:39.732985+00:00",
     "published": "2026-05-14T00:00:00+00:00"
+  },
+  "https://www.databricks.com/blog/expanded-interoperability-unity-catalog-open-apis": {
+    "title": "Expanded interoperability with Unity Catalog Open APIs",
+    "source": "Databricks Blog",
+    "first_seen": "2026-05-14T21:23:14.103994+00:00",
+    "published": "2026-05-14T21:30:00+00:00"
+  },
+  "https://www.ycombinator.com/companies/infracost/jobs/NzwUQ7c-senior-developer-advocate": {
+    "title": "Infracost (YC W21) Is Hiring Sr Dev Advocate to make agents cloud cost-aware",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-14T21:23:14.103994+00:00",
+    "published": "2026-05-14T21:00:37+00:00"
+  },
+  "https://aws.amazon.com/blogs/security/regional-routing-for-aws-access-portals-implementing-custom-vanity-domains-for-iam-identity-center": {
+    "title": "Regional routing for AWS access portals: Implementing custom vanity domains for IAM Identity Center",
+    "source": "AWS Security Blog",
+    "first_seen": "2026-05-14T21:23:14.103994+00:00",
+    "published": "2026-05-14T20:42:20+00:00"
+  },
+  "https://www.synacktiv.com/en/publications/exploiting-the-tesla-wall-connector-from-its-charge-port-connector-part-2-bypassing": {
+    "title": "Tesla Wall Connector bootloader bypasses the firmware downgrade ratchet",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-14T21:23:14.103994+00:00",
+    "published": "2026-05-14T20:41:48+00:00"
+  },
+  "https://twitter.com/tdietterich/status/2055000956144935055": {
+    "title": "New arXiv policy: 1-year ban for hallucinated references",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-14T21:23:14.103994+00:00",
+    "published": "2026-05-14T20:39:12+00:00"
+  },
+  "https://www.tigerdata.com/blog/the-true-cost-of-database-optimization-engineering-time": {
+    "title": "The True Cost of Database Optimization: Engineering Time",
+    "source": "Timescale Blog",
+    "first_seen": "2026-05-14T21:23:14.103994+00:00",
+    "published": "2026-05-14T20:36:27+00:00"
+  },
+  "https://xeiaso.net/notes/2026/amazonbot-respecting-robots-txt": {
+    "title": "Amazonbot is finally respecting robots.txt",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-14T21:23:14.103994+00:00",
+    "published": "2026-05-14T20:22:35+00:00"
+  },
+  "https://thenewstack.io/openai-codex-chatgpt-mobile": {
+    "title": "OpenAI brings Codex to the ChatGPT mobile app",
+    "source": "The New Stack",
+    "first_seen": "2026-05-14T21:23:14.103994+00:00",
+    "published": "2026-05-14T20:13:05+00:00"
+  },
+  "https://router.start9.com": {
+    "title": "RISC-V Router",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-14T21:23:14.103994+00:00",
+    "published": "2026-05-14T20:06:53+00:00"
+  },
+  "https://openai.com/index/work-with-codex-from-anywhere": {
+    "title": "Work with Codex from Anywhere",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-14T21:23:14.103994+00:00",
+    "published": "2026-05-14T20:06:14+00:00"
+  },
+  "https://developer.nvidia.com/blog/how-the-nvidia-vera-rubin-platform-is-solving-agentic-ais-scale-up-problem": {
+    "title": "How the NVIDIA Vera Rubin Platform is Solving Agentic AI’s Scale-Up Problem",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-05-14T21:23:14.103994+00:00",
+    "published": "2026-05-14T19:24:35+00:00"
+  },
+  "https://lwn.net/Articles/1072517": {
+    "title": "[$] Policy groups for memory management",
+    "source": "LWN.net",
+    "first_seen": "2026-05-14T21:23:14.103994+00:00",
+    "published": "2026-05-14T19:02:35+00:00"
+  },
+  "https://github.com/microsoft/microsoft-ui-xaml/discussions/11096": {
+    "title": "WinUI 3 Performance: A Leap Forward",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-14T21:23:14.103994+00:00",
+    "published": "2026-05-14T19:01:58+00:00"
+  },
+  "https://huggingface.co/blog/ibm-granite/granite-embedding-multilingual-r2": {
+    "title": "Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-05-14T21:23:14.103994+00:00",
+    "published": "2026-05-14T18:55:01+00:00"
+  },
+  "https://www.thenewcritic.com/p/the-great-zombification": {
+    "title": "The AI Zombification of Universities",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-14T21:23:14.103994+00:00",
+    "published": "2026-05-14T18:37:08+00:00"
+  },
+  "https://kubernetes.io/blog/2026/05/14/kubernetes-v1-36-deprecation-and-removal-of-service-externalips": {
+    "title": "Kubernetes v1.36: Deprecation and removal of Service ExternalIPs",
+    "source": "Kubernetes Blog",
+    "first_seen": "2026-05-14T21:23:14.103994+00:00",
+    "published": "2026-05-14T18:35:00+00:00"
+  },
+  "https://www.gsb.stanford.edu/insights/power-free-popsicle": {
+    "title": "The Power of a Free Popsicle (2018)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-14T21:23:14.103994+00:00",
+    "published": "2026-05-14T18:33:47+00:00"
+  },
+  "https://internals-for-interns.com/posts/linux-kernel-startup": {
+    "title": "Understanding the Linux Kernel: The Linux Kernel Startup",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-14T21:23:14.103994+00:00",
+    "published": "2026-05-14T18:25:10+00:00"
+  },
+  "https://blog.calif.io/p/first-public-kernel-memory-corruption": {
+    "title": "First public macOS kernel memory corruption exploit on Apple M5",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-14T21:23:14.103994+00:00",
+    "published": "2026-05-14T18:25:09+00:00"
+  },
+  "https://jpain.io/god-damn-ai-is-making-me-dumb": {
+    "title": "AI is making me dumb",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-14T21:23:14.103994+00:00",
+    "published": "2026-05-14T18:19:28+00:00"
+  },
+  "https://danieltan.weblog.lol/2026/05/you-dont-align-an-ai-you-align-with-it": {
+    "title": "You Don't Align an AI, You Align with It",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-14T21:23:14.103994+00:00",
+    "published": "2026-05-14T18:19:13+00:00"
+  },
+  "http://un0rick.cc/pic0rick": {
+    "title": "DIY open-source ultrasound hardware on the rp2040/rp2350",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-14T21:23:14.103994+00:00",
+    "published": "2026-05-14T18:01:17+00:00"
+  },
+  "https://www.phoronix.com/news/Plasma-6.7-Beta-Big-Screen": {
+    "title": "Plasma Big Screen Working Out Quite Well With Plasma 6.7 Beta",
+    "source": "Phoronix",
+    "first_seen": "2026-05-14T21:23:14.103994+00:00",
+    "published": "2026-05-14T17:32:26+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/improve-bot-accuracy-with-amazon-lex-assisted-nlu": {
+    "title": "Improve bot accuracy with Amazon Lex Assisted NLU",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-05-14T21:23:14.103994+00:00",
+    "published": "2026-05-14T17:28:44+00:00"
+  },
+  "https://thenewstack.io/conductor-cloud-ai-coding-agents": {
+    "title": "Cloud code: Conductor joins the rush toward remote coding agents",
+    "source": "The New Stack",
+    "first_seen": "2026-05-14T21:23:14.103994+00:00",
+    "published": "2026-05-14T17:24:20+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/real-time-voice-agents-with-stream-vision-agents-and-amazon-nova-2-sonic": {
+    "title": "Real-time voice agents with Stream Vision Agents and Amazon Nova 2 Sonic",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-05-14T21:23:14.103994+00:00",
+    "published": "2026-05-14T17:23:48+00:00"
+  },
+  "https://nobodywho.ooo/posts/whats-in-a-gguf": {
+    "title": "What's in a GGUF, besides the weights – and what's still missing?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-14T21:23:14.103994+00:00",
+    "published": "2026-05-14T17:21:49+00:00"
+  },
+  "https://thenewstack.io/gitlab-ai-agents-jevons-paradox": {
+    "title": "GitLab is betting a 19th-century economic theory will shape its AI era",
+    "source": "The New Stack",
+    "first_seen": "2026-05-14T21:23:14.103994+00:00",
+    "published": "2026-05-14T17:21:24+00:00"
+  },
+  "https://thenewstack.io/anthropic-agent-sdk-credits": {
+    "title": "Anthropic splits billing again: Agent SDK gets separate credit pools",
+    "source": "The New Stack",
+    "first_seen": "2026-05-14T21:23:14.103994+00:00",
+    "published": "2026-05-14T17:19:08+00:00"
+  },
+  "https://devblogs.microsoft.com/devops/may-patches-for-azure-devops-server-3": {
+    "title": "May Patches for Azure DevOps Server",
+    "source": "MS DevOps Blog",
+    "first_seen": "2026-05-14T21:23:14.103994+00:00",
+    "published": "2026-05-14T17:18:24+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/from-siloed-data-to-unified-insights-cross-account-athena-access-for-amazon-quick": {
+    "title": "From siloed data to unified insights: Cross-account Athena Access for Amazon Quick",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-05-14T21:23:14.103994+00:00",
+    "published": "2026-05-14T17:17:50+00:00"
+  },
+  "https://github.com/DepthFirstDisclosures/Nginx-Rift": {
+    "title": "New Nginx Exploit",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-14T21:23:14.103994+00:00",
+    "published": "2026-05-14T17:17:48+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/control-where-your-ai-agents-can-browse-with-chrome-enterprise-policies-on-amazon-bedrock-agentcore": {
+    "title": "Control where your AI agents can browse with Chrome enterprise policies on Amazon Bedrock AgentCore",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-05-14T21:23:14.103994+00:00",
+    "published": "2026-05-14T17:17:35+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/getting-started-with-change-data-capture-in-amazon-aurora-dsql": {
+    "title": "Getting started with Change Data Capture in Amazon Aurora DSQL",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-05-14T21:23:14.103994+00:00",
+    "published": "2026-05-14T17:13:52+00:00"
+  },
+  "https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4": {
+    "title": "Removing the modem and GPS from my 2024 RAV4 hybrid",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-14T21:23:14.103994+00:00",
+    "published": "2026-05-14T17:08:00+00:00"
+  },
+  "https://www.workatastartup.com/companies/terranox-ai": {
+    "title": "Terranox AI (YC W26) Is Hiring a Founding AI/ML Engineer and Summer AI/ML Intern",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-14T21:23:14.103994+00:00",
+    "published": "2026-05-14T17:01:16+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/optimize-amazon-s3-tables-queries-with-amazon-redshift": {
+    "title": "Optimize Amazon S3 Tables queries with Amazon Redshift",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-05-14T21:23:14.103994+00:00",
+    "published": "2026-05-14T16:58:31+00:00"
+  },
+  "https://www.phoronix.com/news/MSI-Claw-Configuration-Driver": {
+    "title": "MSI Claw Configuration Driver For Linux Coming Together With The Assistance Of AI",
+    "source": "Phoronix",
+    "first_seen": "2026-05-14T21:23:14.103994+00:00",
+    "published": "2026-05-14T16:24:19+00:00"
+  },
+  "https://icode4.coffee?p=1465": {
+    "title": "HDD Firmware Hacking",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-14T21:23:14.103994+00:00",
+    "published": "2026-05-14T16:19:29+00:00"
+  },
+  "https://aws.amazon.com/blogs/security/automating-post-quantum-cryptography-readiness-using-aws-config": {
+    "title": "Automating post-quantum cryptography readiness using AWS Config",
+    "source": "AWS Security Blog",
+    "first_seen": "2026-05-14T21:23:14.103994+00:00",
+    "published": "2026-05-14T16:18:20+00:00"
+  },
+  "https://newsletter.pragmaticengineer.com/p/the-pulse-forward-deployed-engineering": {
+    "title": "The Pulse: Forward deployed engineering heats up again",
+    "source": "The Pragmatic Engineer",
+    "first_seen": "2026-05-14T21:23:14.103994+00:00",
+    "published": "2026-05-14T16:09:57+00:00"
+  },
+  "https://www.schneier.com/blog/archives/2026/05/upcoming-speaking-engagements-56.html": {
+    "title": "Upcoming Speaking Engagements",
+    "source": "Schneier on Security",
+    "first_seen": "2026-05-14T21:23:14.103994+00:00",
+    "published": "2026-05-14T16:01:06+00:00"
+  },
+  "https://opensource.microsoft.com/blog/2026/05/14/conductor-deterministic-orchestration-for-multi-agent-ai-workflows": {
+    "title": "Conductor: Deterministic orchestration for multi-agent AI workflows",
+    "source": "Microsoft Open Source",
+    "first_seen": "2026-05-14T21:23:14.103994+00:00",
+    "published": "2026-05-14T16:00:00+00:00"
+  },
+  "https://github.blog/engineering/architecture-optimization/from-latency-to-instant-modernizing-github-issues-navigation-performance": {
+    "title": "From latency to instant: Modernizing GitHub Issues navigation performance",
+    "source": "GitHub Blog",
+    "first_seen": "2026-05-14T21:23:14.103994+00:00",
+    "published": "2026-05-14T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-how-google-wiz-changes-multicloud-strategy-for-cisos": {
+    "title": "Cloud CISO Perspectives: How Google + Wiz changes multicloud strategy for CISOs",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-05-14T21:23:14.103994+00:00",
+    "published": "2026-05-14T16:00:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/upgrade-strategies-for-amazon-rds-for-mysql-8-0-to-8-4": {
+    "title": "Upgrade strategies for Amazon RDS for MySQL 8.0 to 8.4",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-05-14T21:23:14.103994+00:00",
+    "published": "2026-05-14T15:57:59+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/best-practices-for-upgrading-amazon-rds-for-mysql-8-0-to-8-4-with-prechecks-blue-green-and-rollback": {
+    "title": "Best practices for upgrading Amazon RDS for MySQL 8.0 to 8.4 with prechecks, Blue/Green, and rollback",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-05-14T21:23:14.103994+00:00",
+    "published": "2026-05-14T15:57:52+00:00"
+  },
+  "https://scottjg.com/posts/2026-05-05-egpu-mac-gaming": {
+    "title": "RTX 5090 and M4 MacBook Air: Can It Game?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-14T21:23:14.103994+00:00",
+    "published": "2026-05-14T15:47:31+00:00"
+  },
+  "https://realpython.com/quizzes/cursor-vs-windsurf-python": {
+    "title": "Quiz: Cursor vs Windsurf: Which AI Code Editor Is Best for Python?",
+    "source": "Real Python",
+    "first_seen": "2026-05-14T21:23:14.103994+00:00",
+    "published": "2026-05-14T12:00:00+00:00"
+  },
+  "https://blog.sentry.io/dashboard-updates": {
+    "title": "New ways to agentically build and edit dashboards",
+    "source": "Sentry Blog",
+    "first_seen": "2026-05-14T21:23:14.103994+00:00",
+    "published": "2026-05-14T09:00:00+00:00"
+  },
+  "https://simonwillison.net/2026/May/14/datasette-ip-rate-limit": {
+    "title": "datasette-ip-rate-limit 0.1a0",
+    "source": "Simon Willison",
+    "first_seen": "2026-05-14T21:23:14.103994+00:00",
+    "published": "2026-05-14T04:10:23+00:00"
+  },
+  "https://planetscale.com/blog/database-egress": {
+    "title": "Egress problems and where to find them",
+    "source": "PlanetScale Blog",
+    "first_seen": "2026-05-14T21:23:14.103994+00:00",
+    "published": "2026-05-14T00:00:00+00:00"
+  },
+  "https://openai.com/index/chatgpt-recognize-context-in-sensitive-conversations": {
+    "title": "Helping ChatGPT better recognize context in sensitive conversations",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-05-14T21:23:14.103994+00:00",
+    "published": "2026-05-14T00:00:00+00:00"
+  },
+  "https://matklad.github.io/2026/05/14/catch-flakes-on-main.html": {
+    "title": "Catch Flakes On Main",
+    "source": "matklad",
+    "first_seen": "2026-05-14T21:23:14.103994+00:00",
+    "published": "2026-05-14T00:00:00+00:00"
   }
 }
