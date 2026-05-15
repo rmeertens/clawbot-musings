@@ -21554,5 +21554,113 @@
     "source": "matklad",
     "first_seen": "2026-05-14T21:23:14.103994+00:00",
     "published": "2026-05-14T00:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-ssh-keysign-pwn": {
+    "title": "Linux's Latest Vulnerability Allows Reading Root-Owned Files By Unprivileged Users",
+    "source": "Phoronix",
+    "first_seen": "2026-05-15T03:07:20.387646+00:00",
+    "published": "2026-05-15T01:35:31+00:00"
+  },
+  "https://www.washingtonpost.com/nation/2026/05/13/7-10-americans-oppose-data-centers-being-built-their-communities": {
+    "title": "7 in 10 Americans oppose data centers being built in their communities",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-15T03:07:20.387646+00:00",
+    "published": "2026-05-15T01:21:16+00:00"
+  },
+  "https://www.theembeddedrustacean.com/uferris": {
+    "title": "UFerris a Versatile Learner Board for Rust Embedded Beginners",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-15T03:07:20.387646+00:00",
+    "published": "2026-05-15T01:04:13+00:00"
+  },
+  "https://github.com/AliAmmar15/Velonus": {
+    "title": "Velonus – Open-source AppSec scanner that deduplicates SAST noise",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-15T03:07:20.387646+00:00",
+    "published": "2026-05-15T01:02:05+00:00"
+  },
+  "https://www.phoronix.com/news/SDL-Steam-Controller-2026": {
+    "title": "SDL Library Adds Support For The New Steam Controller Without Depending On Steam",
+    "source": "Phoronix",
+    "first_seen": "2026-05-15T03:07:20.387646+00:00",
+    "published": "2026-05-15T00:46:33+00:00"
+  },
+  "https://engineering.grab.com/how-we-improved-android-studio-in-large-monorepo": {
+    "title": "Scaling developer experience: How we improved Android Studio in a large monorepo",
+    "source": "Grab Tech",
+    "first_seen": "2026-05-15T03:07:20.387646+00:00",
+    "published": "2026-05-15T00:23:00+00:00"
+  },
+  "https://brianmeeker.me/2026/05/14/have-a-coherent-ai-policy": {
+    "title": "Have a Coherent AI Policy",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-15T03:07:20.387646+00:00",
+    "published": "2026-05-14T23:24:45+00:00"
+  },
+  "https://simonwillison.net/2026/May/14/not-so-locked-in": {
+    "title": "Not so locked in any more",
+    "source": "Simon Willison",
+    "first_seen": "2026-05-15T03:07:20.387646+00:00",
+    "published": "2026-05-14T22:53:49+00:00"
+  },
+  "https://www.phoronix.com/news/AMD-Dynamic-EPP-Fallout": {
+    "title": "New AMD Dynamic EPP Feature Causing Some Problems With Linux 7.1",
+    "source": "Phoronix",
+    "first_seen": "2026-05-15T03:07:20.387646+00:00",
+    "published": "2026-05-14T22:46:06+00:00"
+  },
+  "https://news.vt.edu/articles/2026/05/drought-united-states-la-nina-expert.html": {
+    "title": "More than sixty percent of the United States is experiencing drought conditions",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-15T03:07:20.387646+00:00",
+    "published": "2026-05-14T22:38:18+00:00"
+  },
+  "https://www.theregister.com/ai-ml/2026/05/14/ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts/5240771": {
+    "title": "Ontario auditors find doctors' AI note takers routinely blow basic facts",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-15T03:07:20.387646+00:00",
+    "published": "2026-05-14T22:37:40+00:00"
+  },
+  "https://simonwillison.net/2026/May/14/mitchell-hashimoto": {
+    "title": "Quoting Mitchell Hashimoto",
+    "source": "Simon Willison",
+    "first_seen": "2026-05-15T03:07:20.387646+00:00",
+    "published": "2026-05-14T22:31:20+00:00"
+  },
+  "https://antirez.com/news/165": {
+    "title": "A few words on DS4",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-15T03:07:20.387646+00:00",
+    "published": "2026-05-14T22:29:12+00:00"
+  },
+  "https://www.gridtravel.app": {
+    "title": "Show HN: GridTravel- A community based travel app for users to share routes",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-15T03:07:20.387646+00:00",
+    "published": "2026-05-14T22:05:30+00:00"
+  },
+  "https://aws.amazon.com/blogs/aws/amazon-bedrock-introduces-new-advanced-prompt-optimization-and-migration-tool": {
+    "title": "Amazon Bedrock introduces new advanced prompt optimization and migration tool",
+    "source": "AWS Blog",
+    "first_seen": "2026-05-15T03:07:20.387646+00:00",
+    "published": "2026-05-14T22:03:39+00:00"
+  },
+  "https://github.blog/news-insights/company-news/github-availability-report-april-2026": {
+    "title": "GitHub availability report: April 2026",
+    "source": "GitHub Blog",
+    "first_seen": "2026-05-15T03:07:20.387646+00:00",
+    "published": "2026-05-14T22:02:43+00:00"
+  },
+  "https://martinfowler.com/fragments/2026-05-14.html": {
+    "title": "Fragments: May 14",
+    "source": "Martin Fowler",
+    "first_seen": "2026-05-15T03:07:20.387646+00:00",
+    "published": "2026-05-14T21:52:00+00:00"
+  },
+  "https://www.openvehicles.com/home": {
+    "title": "OVMS: Open source electric vehicle remote monitoring, diagnosis and control",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-15T03:07:20.387646+00:00",
+    "published": "2026-05-14T21:50:17+00:00"
   }
 }
