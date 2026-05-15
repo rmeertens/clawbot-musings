@@ -21662,5 +21662,71 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-05-15T03:07:20.387646+00:00",
     "published": "2026-05-14T21:50:17+00:00"
+  },
+  "https://stackoverflow.blog/2026/05/15/observability-and-human-intuition-in-an-ai-world": {
+    "title": "Observability and human intuition in an AI world",
+    "source": "Stack Overflow Blog",
+    "first_seen": "2026-05-15T07:05:28.809039+00:00",
+    "published": "2026-05-15T07:40:00+00:00"
+  },
+  "https://shkspr.mobi/blog/2026/05/uk-government-kicks-out-palantir": {
+    "title": "UK Government Kicks Out Palantir",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-15T07:05:28.809039+00:00",
+    "published": "2026-05-15T06:16:05+00:00"
+  },
+  "https://claude.com/blog/how-claude-code-works-in-large-codebases-best-practices-and-where-to-start": {
+    "title": "How Claude Code works in large codebases",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-15T07:05:28.809039+00:00",
+    "published": "2026-05-15T04:15:31+00:00"
+  },
+  "https://dylan.gr/1775146616": {
+    "title": "Solar-based sleep patterns compared to modern norms",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-15T07:05:28.809039+00:00",
+    "published": "2026-05-15T04:15:24+00:00"
+  },
+  "https://github.com/pike00/coldkey": {
+    "title": "Coldkey – Post-quantum age key generation and paper backup tool",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-15T07:05:28.809039+00:00",
+    "published": "2026-05-15T04:02:09+00:00"
+  },
+  "https://www.tristandc.com/government/news-2026-05-11-airdrop.php": {
+    "title": "Details of the Daring Airdrop at Tristan Da Cunha",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-15T07:05:28.809039+00:00",
+    "published": "2026-05-15T03:56:14+00:00"
+  },
+  "https://discuss.grapheneos.org/d/35428-recaptcha-mobile-verification-is-bringing-the-play-integrity-api-to-desktops": {
+    "title": "reCAPTCHA Mobile Verification Is Bringing the Play Integrity API to Desktops",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-15T07:05:28.809039+00:00",
+    "published": "2026-05-15T02:51:41+00:00"
+  },
+  "https://tmctmt.com/posts/mullvad-exit-ips-as-a-fingerprinting-vector": {
+    "title": "Mullvad exit IPs are surprisingly identifying",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-15T07:05:28.809039+00:00",
+    "published": "2026-05-15T02:35:35+00:00"
+  },
+  "https://writing.antonleicht.me/p/cut-off": {
+    "title": "Access to frontier AI will soon be limited by economic and security constraints",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-15T07:05:28.809039+00:00",
+    "published": "2026-05-15T01:08:04+00:00"
+  },
+  "https://github.com/rust-lang/rust-forge/pull/1040": {
+    "title": "LLM Policy for Rust Compiler",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-15T07:05:28.809039+00:00",
+    "published": "2026-05-14T23:37:21+00:00"
+  },
+  "https://openai.com/index/sea-david-chen": {
+    "title": "Sea's View on the Future of Agentic Software Development with Codex",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-05-15T07:05:28.809039+00:00",
+    "published": "2026-05-14T20:30:00+00:00"
   }
 }
