@@ -22016,5 +22016,227 @@
     "source": "Chrome Developers",
     "first_seen": "2026-05-15T15:39:18.343308+00:00",
     "published": "2026-05-15T07:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.1-Kernel-Docs-AI-Bugs": {
+    "title": "Linux Kernel Adds Documentation For What Qualifies As A Security Bug, Responsible AI Use",
+    "source": "Phoronix",
+    "first_seen": "2026-05-15T21:20:47.815141+00:00",
+    "published": "2026-05-15T20:30:41+00:00"
+  },
+  "https://reclaimthenet.org/london-police-deploy-facial-recognition-at-protest-for-first-time": {
+    "title": "London Police Deploy Facial Recognition at Protest for First Time",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-15T21:20:47.815141+00:00",
+    "published": "2026-05-15T20:28:44+00:00"
+  },
+  "https://twitter.com/mitchellh/status/2055380239711457578": {
+    "title": "Mitchellh – I strongly believe there are entire companies now under AI psychosis",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-15T21:20:47.815141+00:00",
+    "published": "2026-05-15T20:26:47+00:00"
+  },
+  "https://www.thenational.scot/news/26055524.palantir-hired-30-senior-uk-government-officials": {
+    "title": "Palantir has hired more than 30 senior UK Government officials",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-15T21:20:47.815141+00:00",
+    "published": "2026-05-15T20:06:51+00:00"
+  },
+  "https://sciencedemonstrations.fas.harvard.edu/presentations/microscale-thermite-reaction": {
+    "title": "Microscale Thermite Reaction",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-15T21:20:47.815141+00:00",
+    "published": "2026-05-15T20:03:17+00:00"
+  },
+  "https://arstechnica.com/gaming/2026/05/bill-to-keep-online-games-playable-clears-key-hurdle-in-california": {
+    "title": "California bill would require patches or refunds when online games shut down",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-15T21:20:47.815141+00:00",
+    "published": "2026-05-15T19:48:48+00:00"
+  },
+  "https://fortune.com/2026/05/14/meta-data-center-tax-break-hyperion-louisiana": {
+    "title": "Meta to receive $3.3B in tax breaks for its $10B Louisiana data center",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-15T21:20:47.815141+00:00",
+    "published": "2026-05-15T19:32:34+00:00"
+  },
+  "https://www.nytimes.com/2026/05/15/us/kars4kids-advertising-banned-california.html": {
+    "title": "Judge Bars Kars4Kids from Broadcasting 'Misleading' Ads in California",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-15T21:20:47.815141+00:00",
+    "published": "2026-05-15T19:27:15+00:00"
+  },
+  "https://github.com/ThroatyMumbo/WinCE64": {
+    "title": "WinCE64 – Windows CE 2.11 for N64",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-15T21:20:47.815141+00:00",
+    "published": "2026-05-15T19:23:29+00:00"
+  },
+  "https://twitter.com/baseballot/status/2055309076209492208": {
+    "title": "ABC News has taken all FiveThirtyEight articles offline",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-15T21:20:47.815141+00:00",
+    "published": "2026-05-15T19:07:08+00:00"
+  },
+  "https://www.phoronix.com/news/Intel-Panther-Lake-R-Linux": {
+    "title": "Linux Patch Introduces Panther Lake R: Ruggedized Version Of Panther Lake",
+    "source": "Phoronix",
+    "first_seen": "2026-05-15T21:20:47.815141+00:00",
+    "published": "2026-05-15T18:55:43+00:00"
+  },
+  "https://genius.com/Pink-floyd-echoes-live-at-pompeii-lyrics": {
+    "title": "Echoes (Live at Pompeii)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-15T21:20:47.815141+00:00",
+    "published": "2026-05-15T18:43:59+00:00"
+  },
+  "https://blog.zulip.com/2026/05/15/announcing-zulip-foundation": {
+    "title": "The Zulip Foundation",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-15T21:20:47.815141+00:00",
+    "published": "2026-05-15T18:37:01+00:00"
+  },
+  "https://kubernetes.io/blog/2026/05/15/ccm-new-metric-route-sync-total": {
+    "title": "Kubernetes v1.36: New Metric for Route Sync in the Cloud Controller Manager",
+    "source": "Kubernetes Blog",
+    "first_seen": "2026-05-15T21:20:47.815141+00:00",
+    "published": "2026-05-15T18:35:00+00:00"
+  },
+  "https://www.cnbc.com/2026/05/12/waymo-recalls-3800-robotaxis-after-able-drive-into-standing-water.html": {
+    "title": "Waymo updates 3,800 robotaxis after they 'drive into standing water'",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-15T21:20:47.815141+00:00",
+    "published": "2026-05-15T18:00:43+00:00"
+  },
+  "https://lock.cmpxchg8b.com/umatrix.html": {
+    "title": "Building a UMatrix Replacement",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-15T21:20:47.815141+00:00",
+    "published": "2026-05-15T18:00:03+00:00"
+  },
+  "https://kubernetes.io/blog/2026/05/15/kubernetes-1-36-feature-mixed-version-proxy-beta": {
+    "title": "Kubernetes v1.36: Mixed Version Proxy Graduates to Beta",
+    "source": "Kubernetes Blog",
+    "first_seen": "2026-05-15T21:20:47.815141+00:00",
+    "published": "2026-05-15T18:00:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/security/the-aws-ai-security-framework-securing-ai-with-the-right-controls-at-the-right-layers-at-the-right-phases": {
+    "title": "The AWS AI Security Framework: Securing AI with the right controls, at the right layers, at the right phases",
+    "source": "AWS Security Blog",
+    "first_seen": "2026-05-15T21:20:47.815141+00:00",
+    "published": "2026-05-15T17:38:16+00:00"
+  },
+  "https://macdailynews.com/2026/05/15/u-s-doj-demands-apple-and-google-unmask-over-100000-users-of-popular-car-tinkering-app-in-emissions-crackdown": {
+    "title": "U.S. DOJ demands Apple and Google unmask over 100k users of car-tinkering app",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-15T21:20:47.815141+00:00",
+    "published": "2026-05-15T17:28:24+00:00"
+  },
+  "https://github.com/bahdotsh/feedr": {
+    "title": "Feedr v0.8.0 – a TUI RSS reader, now read the full article from your terminal",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-15T21:20:47.815141+00:00",
+    "published": "2026-05-15T17:22:53+00:00"
+  },
+  "https://github.com/gdevic/FPGA-Calculator": {
+    "title": "I designed a nibble-oriented CPU in Verilog to build a scientific calculator",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-15T21:20:47.815141+00:00",
+    "published": "2026-05-15T17:15:58+00:00"
+  },
+  "https://hightouch.com/careers": {
+    "title": "Hightouch (YC S19) Is Hiring",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-15T21:20:47.815141+00:00",
+    "published": "2026-05-15T17:01:15+00:00"
+  },
+  "https://stratechery.com/2026/shifting-alliances-in-a-changing-world": {
+    "title": "2026.20: Shifting Alliances in a Changing World",
+    "source": "Stratechery",
+    "first_seen": "2026-05-15T21:20:47.815141+00:00",
+    "published": "2026-05-15T17:00:00+00:00"
+  },
+  "https://thenewstack.io/kiro-requirements-analysis-automated-reasoning": {
+    "title": "AWS found bugs in 60% of software requirements. Its fix isn’t more AI — it’s a 50-year-old logic engine.",
+    "source": "The New Stack",
+    "first_seen": "2026-05-15T21:20:47.815141+00:00",
+    "published": "2026-05-15T16:26:02+00:00"
+  },
+  "https://www.gutenberg.org": {
+    "title": "Project Gutenberg – keeps getting better",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-15T21:20:47.815141+00:00",
+    "published": "2026-05-15T16:15:36+00:00"
+  },
+  "https://thenewstack.io/streaming-ai-energy-efficiency": {
+    "title": "The software fix that could shrink AI’s energy bill without new hardware",
+    "source": "The New Stack",
+    "first_seen": "2026-05-15T21:20:47.815141+00:00",
+    "published": "2026-05-15T16:00:00+00:00"
+  },
+  "https://github.blog/ai-and-ml/github-copilot/building-a-general-purpose-accessibility-agent-and-what-we-learned-in-the-process": {
+    "title": "Building a general-purpose accessibility agent—and what we learned in the process",
+    "source": "GitHub Blog",
+    "first_seen": "2026-05-15T21:20:47.815141+00:00",
+    "published": "2026-05-15T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/topics/developers-practitioners/winners-and-highlights-of-the-gemini-live-agent-challenge": {
+    "title": "Gemini Live Agent Challenge: Announcing the winners and highlights",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-05-15T21:20:47.815141+00:00",
+    "published": "2026-05-15T16:00:00+00:00"
+  },
+  "https://thenewstack.io/elastic-ai-soc-data-unification": {
+    "title": "Why AI is failing in the security operations center",
+    "source": "The New Stack",
+    "first_seen": "2026-05-15T21:20:47.815141+00:00",
+    "published": "2026-05-15T15:57:06+00:00"
+  },
+  "https://smorgasb.org/zenith-tech": {
+    "title": "Zenith: a live local-first fixed viewport planetarium",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-15T21:20:47.815141+00:00",
+    "published": "2026-05-15T15:45:11+00:00"
+  },
+  "https://github.com/neilsonnn/image-blaster": {
+    "title": "Image-blaster: Creates 3D environments, SFX, and meshes from a single image",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-15T21:20:47.815141+00:00",
+    "published": "2026-05-15T15:42:37+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/restrict-access-to-sensitive-documents-in-your-amazon-quick-knowledge-bases-for-amazon-s3": {
+    "title": "Restrict access to sensitive documents in your Amazon Quick knowledge bases for Amazon S3",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-05-15T21:20:47.815141+00:00",
+    "published": "2026-05-15T15:41:00+00:00"
+  },
+  "https://www.databricks.com/blog/pipelineiq-forward-looking-sales-intelligence-drives-action": {
+    "title": "PipelineIQ: Forward‑Looking Sales Intelligence That Drives Action",
+    "source": "Databricks Blog",
+    "first_seen": "2026-05-15T21:20:47.815141+00:00",
+    "published": "2026-05-15T14:50:22+00:00"
+  },
+  "https://cloud.google.com/blog/topics/threat-intelligence/blackfile-vishing-extortion-operation": {
+    "title": "Welcome to BlackFile: Inside a Vishing Extortion Operation",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-05-15T21:20:47.815141+00:00",
+    "published": "2026-05-15T14:00:00+00:00"
+  },
+  "https://simonwillison.net/2026/May/15/qr-code-generator": {
+    "title": "QR code generator",
+    "source": "Simon Willison",
+    "first_seen": "2026-05-15T21:20:47.815141+00:00",
+    "published": "2026-05-15T04:00:49+00:00"
+  },
+  "https://openai.com/index/personal-finance-chatgpt": {
+    "title": "A new personal finance experience in ChatGPT",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-05-15T21:20:47.815141+00:00",
+    "published": "2026-05-15T00:00:00+00:00"
+  },
+  "https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-": {
+    "title": "Moving away from Tailwind, and learning to structure my CSS",
+    "source": "Julia Evans",
+    "first_seen": "2026-05-15T21:20:47.815141+00:00",
+    "published": "2026-05-15T00:00:00+00:00"
   }
 }
