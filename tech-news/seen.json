@@ -21746,5 +21746,59 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-05-15T09:52:42.745817+00:00",
     "published": "2026-05-14T21:05:05+00:00"
+  },
+  "https://www.cncf.io/blog/2026/05/15/extending-ai-gateways-with-rust-custom-transformations-in-agentgateway-and-kgateway": {
+    "title": "Extending AI gateways with Rust: Custom transformations in agentgateway and kgateway",
+    "source": "CNCF Blog",
+    "first_seen": "2026-05-15T11:06:39.504148+00:00",
+    "published": "2026-05-15T11:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/Cloud-Hypervisor-52": {
+    "title": "Cloud Hypervisor 52 Now Supports Launching AMD SEV-SNP Confidential VMs With KVM",
+    "source": "Phoronix",
+    "first_seen": "2026-05-15T11:06:39.504148+00:00",
+    "published": "2026-05-15T10:30:00+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.1-rc4-HID": {
+    "title": "Linux 7.1 Supports Newer Logitech Bluetooth Keyboards, Malicious Input Hardware Sanitization",
+    "source": "Phoronix",
+    "first_seen": "2026-05-15T11:06:39.504148+00:00",
+    "published": "2026-05-15T10:18:38+00:00"
+  },
+  "https://www.phoronix.com/news/Vulkan-1.4.352-Released": {
+    "title": "Vulkan 1.4.352 Introduces VK_NV_cooperative_matrix_decode_vector",
+    "source": "Phoronix",
+    "first_seen": "2026-05-15T11:06:39.504148+00:00",
+    "published": "2026-05-15T10:07:26+00:00"
+  },
+  "https://www.bbc.co.uk/news/articles/ckgpyn30dp3o": {
+    "title": "Overseas fakers using AI videos to push a narrative of UK decline, BBC finds",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-15T11:06:39.504148+00:00",
+    "published": "2026-05-15T09:57:03+00:00"
+  },
+  "https://sive.rs/4d": {
+    "title": "Geography is four-dimensional",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-15T11:06:39.504148+00:00",
+    "published": "2026-05-15T09:47:28+00:00"
+  },
+  "https://relax.ai/docs": {
+    "title": "UK sovereign LLM inference",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-15T11:06:39.504148+00:00",
+    "published": "2026-05-15T09:27:26+00:00"
+  },
+  "https://github.com/Andyyyy64/whichllm": {
+    "title": "Show HN: Find the best local LLM for your hardware, ranked by benchmarks",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-15T11:06:39.504148+00:00",
+    "published": "2026-05-15T09:19:24+00:00"
+  },
+  "https://explorer.samismith.com": {
+    "title": "Explore Wikipedia Like a Windows XP Desktop",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-15T11:06:39.504148+00:00",
+    "published": "2026-05-15T08:45:36+00:00"
   }
 }
