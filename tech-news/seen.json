@@ -21800,5 +21800,215 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-05-15T11:06:39.504148+00:00",
     "published": "2026-05-15T08:45:36+00:00"
+  },
+  "https://stackoverflow.blog/2026/05/15/no-dumb-questions-cloud-computing": {
+    "title": "No Dumb Questions: What is cloud computing and why is everyone doing it?",
+    "source": "Stack Overflow Blog",
+    "first_seen": "2026-05-15T15:06:54.836161+00:00",
+    "published": "2026-05-15T16:00:00+00:00"
+  },
+  "https://blog.bytebytego.com/p/last-call-for-enrollment-become-an-a88": {
+    "title": "LAST CALL FOR ENROLLMENT: Become an AI Engineer - Cohort 6",
+    "source": "ByteByteGo",
+    "first_seen": "2026-05-15T15:06:54.836161+00:00",
+    "published": "2026-05-15T15:02:20+00:00"
+  },
+  "https://lwn.net/Articles/1072538": {
+    "title": "[$] Controlling memory-management with BPF",
+    "source": "LWN.net",
+    "first_seen": "2026-05-15T15:06:54.836161+00:00",
+    "published": "2026-05-15T14:54:56+00:00"
+  },
+  "https://www.tigerdata.com/blog/why-giant-in-clauses-slow-down-your-app": {
+    "title": "Why Giant IN Clauses Slow Down Your App",
+    "source": "Timescale Blog",
+    "first_seen": "2026-05-15T15:06:54.836161+00:00",
+    "published": "2026-05-15T14:34:25+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.0.8-Released": {
+    "title": "Linux 7.0.8 Released & LTS Kernels Updated For ssh-keysign-pwn",
+    "source": "Phoronix",
+    "first_seen": "2026-05-15T15:06:54.836161+00:00",
+    "published": "2026-05-15T14:10:18+00:00"
+  },
+  "https://brodzinski.com/2026/05/check-fcking-sources.html": {
+    "title": "Check Your Fucking Sources, People",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-15T15:06:54.836161+00:00",
+    "published": "2026-05-15T14:08:00+00:00"
+  },
+  "https://ascii.textfiles.com": {
+    "title": "ASCII by Jason Scott",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-15T15:06:54.836161+00:00",
+    "published": "2026-05-15T14:02:36+00:00"
+  },
+  "https://github.blog/security/raising-the-bar-quality-shared-responsibility-and-the-future-of-githubs-bug-bounty-program": {
+    "title": "Raising the bar: Quality, shared responsibility, and the future of GitHub’s bug bounty program",
+    "source": "GitHub Blog",
+    "first_seen": "2026-05-15T15:06:54.836161+00:00",
+    "published": "2026-05-15T14:00:00+00:00"
+  },
+  "https://projectzero.google/2026/05/pixel-10-exploit.html": {
+    "title": "A 0-click exploit chain for the Pixel 10",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-15T15:06:54.836161+00:00",
+    "published": "2026-05-15T13:39:54+00:00"
+  },
+  "https://lwn.net/Articles/1073060": {
+    "title": "Seven new stable kernels with patches for CVE-2026-46333",
+    "source": "LWN.net",
+    "first_seen": "2026-05-15T15:06:54.836161+00:00",
+    "published": "2026-05-15T13:34:24+00:00"
+  },
+  "https://turso.tech/blog/the-wonders-of-ai": {
+    "title": "The Wonders of AI: We Are Retiring Our Bug Bounty Program",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-15T15:06:54.836161+00:00",
+    "published": "2026-05-15T13:33:15+00:00"
+  },
+  "https://www.fastcompany.com/91541586/amazon-workers-pressured-to-up-ai-use-extraneous-tasks": {
+    "title": "Amazon workers under pressure to up their AI usage–so they're making up tasks",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-15T15:06:54.836161+00:00",
+    "published": "2026-05-15T13:28:55+00:00"
+  },
+  "https://lwn.net/Articles/1072531": {
+    "title": "[$] HugeTLB preservation over live update",
+    "source": "LWN.net",
+    "first_seen": "2026-05-15T15:06:54.836161+00:00",
+    "published": "2026-05-15T13:27:42+00:00"
+  },
+  "https://www.ams.org/government/DonohoPresentation06-28-17Final.pdf": {
+    "title": "High dimensional geometry is transforming the MRI industry(2017) [pdf]",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-15T15:06:54.836161+00:00",
+    "published": "2026-05-15T13:25:53+00:00"
+  },
+  "https://lwn.net/Articles/1073059": {
+    "title": "Security updates for Friday",
+    "source": "LWN.net",
+    "first_seen": "2026-05-15T15:06:54.836161+00:00",
+    "published": "2026-05-15T13:16:03+00:00"
+  },
+  "https://www.phoronix.com/review/zimacube-2": {
+    "title": "ZimaCube 2 Makes For A Nice Personal Cloud/NAS With Power Of Linux + Intel CPU",
+    "source": "Phoronix",
+    "first_seen": "2026-05-15T15:06:54.836161+00:00",
+    "published": "2026-05-15T13:15:36+00:00"
+  },
+  "https://www.revswap.ai": {
+    "title": "Trade Dollars with other startups. Book it as revenue",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-15T15:06:54.836161+00:00",
+    "published": "2026-05-15T13:05:29+00:00"
+  },
+  "https://www.docker.com/blog/create-custom-mcp-catalogs-and-profiles": {
+    "title": "Custom MCP Catalogs and Profiles: Advancing Enterprise MCP Adoption",
+    "source": "Docker Blog",
+    "first_seen": "2026-05-15T15:06:54.836161+00:00",
+    "published": "2026-05-15T13:00:00+00:00"
+  },
+  "https://thenewstack.io/agentic-ai-build-buy": {
+    "title": "The hidden cost of build vs. buy for agentic AI in regulated industries",
+    "source": "The New Stack",
+    "first_seen": "2026-05-15T15:06:54.836161+00:00",
+    "published": "2026-05-15T13:00:00+00:00"
+  },
+  "https://kingy.ai/ai/too-dangerous-to-release-or-just-too-expensive-the-real-reason-anthropic-is-hiding-its-most-powerful-ai": {
+    "title": "Too dangerous or just too expensive? The real reason Anthropic is hiding Mythos",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-15T15:06:54.836161+00:00",
+    "published": "2026-05-15T12:49:27+00:00"
+  },
+  "https://www.databricks.com/blog/backstage-lakebase-part-2": {
+    "title": "Backstage with Lakebase, part 2",
+    "source": "Databricks Blog",
+    "first_seen": "2026-05-15T15:06:54.836161+00:00",
+    "published": "2026-05-15T12:47:00+00:00"
+  },
+  "https://www.baldurbjarnason.com/2026/the-old-world-of-tech-is-dying": {
+    "title": "The old world of tech is dying and the new cannot be born",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-15T15:06:54.836161+00:00",
+    "published": "2026-05-15T12:29:47+00:00"
+  },
+  "https://www.worseonpurpose.com/p/your-power-tools-got-worse-on-purpose": {
+    "title": "Power Tools Got Worse on Purpose. Who Owns DeWalt, Craftsman, and Milwaukee?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-15T15:06:54.836161+00:00",
+    "published": "2026-05-15T12:15:16+00:00"
+  },
+  "https://www.phoronix.com/news/Rocky-Linux-Security-Repo": {
+    "title": "Rocky Linux Launches Optional Security Repository To Get Important Fixes Sooner",
+    "source": "Phoronix",
+    "first_seen": "2026-05-15T15:06:54.836161+00:00",
+    "published": "2026-05-15T12:15:15+00:00"
+  },
+  "https://radicle.dev": {
+    "title": "Radicle: Sovereign {code forge} built on Git",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-15T15:06:54.836161+00:00",
+    "published": "2026-05-15T12:07:55+00:00"
+  },
+  "https://signoz.io/careers": {
+    "title": "SigNoz (YC W21, open source Datadog) Is hiring for growth and engineering roles",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-15T15:06:54.836161+00:00",
+    "published": "2026-05-15T12:00:31+00:00"
+  },
+  "https://realpython.com/quizzes/python-array": {
+    "title": "Quiz: Python's Array: Working With Numeric Data Efficiently",
+    "source": "Real Python",
+    "first_seen": "2026-05-15T15:06:54.836161+00:00",
+    "published": "2026-05-15T12:00:00+00:00"
+  },
+  "https://realpython.com/podcasts/rpp/295": {
+    "title": "The Real Python Podcast – Episode #295: Agentic Architecture: Why Files Aren't Always Enough",
+    "source": "Real Python",
+    "first_seen": "2026-05-15T15:06:54.836161+00:00",
+    "published": "2026-05-15T12:00:00+00:00"
+  },
+  "https://www.metabase.com/blog/strip-mining-era-of-open-source-security": {
+    "title": "Welcome to the Strip Mining Era of OSS Security",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-15T15:06:54.836161+00:00",
+    "published": "2026-05-15T11:37:17+00:00"
+  },
+  "https://www.phoronix.com/news/Dasharo-Firmware-MZ33-AR1": {
+    "title": "Coreboot + AMD openSIL Powered Firmware Published For The Gigabyte MZ33-AR1",
+    "source": "Phoronix",
+    "first_seen": "2026-05-15T15:06:54.836161+00:00",
+    "published": "2026-05-15T11:17:47+00:00"
+  },
+  "https://www.schneier.com/blog/archives/2026/05/bypassing-on-camera-age-verification-checks.html": {
+    "title": "Bypassing On-Camera Age-Verification Checks",
+    "source": "Schneier on Security",
+    "first_seen": "2026-05-15T15:06:54.836161+00:00",
+    "published": "2026-05-15T11:06:32+00:00"
+  },
+  "https://gazagnaire.org/blog/2026-05-14-borealis.html": {
+    "title": "O(x)Caml in Space",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-15T15:06:54.836161+00:00",
+    "published": "2026-05-15T10:55:51+00:00"
+  },
+  "https://spectrum.ieee.org/steve-jobs-next-computer": {
+    "title": "Steve Jobs Next Computer: His Forgotten Exile Years",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-15T15:06:54.836161+00:00",
+    "published": "2026-05-15T10:34:58+00:00"
+  },
+  "https://github.com/aymanhs/nanotdb": {
+    "title": "NanoTDB – Golang Append-Only Time Series DB",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-15T15:06:54.836161+00:00",
+    "published": "2026-05-15T10:31:51+00:00"
+  },
+  "https://golangweekly.com/issues/601": {
+    "title": "Why Cilium vendors every Go module in 2026",
+    "source": "Golang Weekly",
+    "first_seen": "2026-05-15T15:06:54.836161+00:00",
+    "published": "2026-05-15T00:00:00+00:00"
   }
 }
