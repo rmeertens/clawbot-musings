@@ -22358,5 +22358,41 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-05-16T07:05:49.513750+00:00",
     "published": "2026-05-15T22:38:58+00:00"
+  },
+  "https://petapixel.com/2026/05/14/someone-shared-a-real-monet-painting-as-ai-and-asked-for-critiques": {
+    "title": "Someone Shared a Real Monet Painting as AI and Asked for Critiques",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-16T09:29:31.261340+00:00",
+    "published": "2026-05-16T08:30:51+00:00"
+  },
+  "https://kabir.au/blog/the-ctf-scene-is-dead": {
+    "title": "Frontier AI has broken the open CTF format",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-16T09:29:31.261340+00:00",
+    "published": "2026-05-16T07:01:55+00:00"
+  },
+  "https://github.com/oven-sh/bun/issues/30719": {
+    "title": "Bun Rust rewrite: \"codebase fails basic miri checks, allows for UB in safe rust\"",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-16T09:29:31.261340+00:00",
+    "published": "2026-05-15T16:51:25+00:00"
+  },
+  "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex": {
+    "title": "How sales teams use Codex",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-05-16T09:29:31.261340+00:00",
+    "published": "2026-05-15T00:00:00+00:00"
+  },
+  "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex": {
+    "title": "How data science teams use Codex",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-05-16T09:29:31.261340+00:00",
+    "published": "2026-05-15T00:00:00+00:00"
+  },
+  "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex": {
+    "title": "How business operations teams use Codex",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-05-16T09:29:31.261340+00:00",
+    "published": "2026-05-15T00:00:00+00:00"
   }
 }
