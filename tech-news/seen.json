@@ -22238,5 +22238,107 @@
     "source": "Julia Evans",
     "first_seen": "2026-05-15T21:20:47.815141+00:00",
     "published": "2026-05-15T00:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/ROCm-7.13-Released": {
+    "title": "AMD ROCm 7.13 Released With Instinct MI350P Support, More Ryzen AI APUs",
+    "source": "Phoronix",
+    "first_seen": "2026-05-16T03:06:43.092244+00:00",
+    "published": "2026-05-16T01:55:08+00:00"
+  },
+  "https://www.schneier.com/blog/archives/2026/05/friday-squid-blogging-bigfin-squid.html": {
+    "title": "Friday Squid Blogging: Bigfin Squid",
+    "source": "Schneier on Security",
+    "first_seen": "2026-05-16T03:06:43.092244+00:00",
+    "published": "2026-05-16T01:03:31+00:00"
+  },
+  "https://kevinpatel.xyz/posts/no-way-to-prevent-this": {
+    "title": "'No way to prevent this,' says only package manager where this regularly happens",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-16T03:06:43.092244+00:00",
+    "published": "2026-05-16T00:36:02+00:00"
+  },
+  "https://www.buchodi.com/i-broke-applovins-mediation-cipher-protocol": {
+    "title": "I broke AppLovin's mediation cipher protocol",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-16T03:06:43.092244+00:00",
+    "published": "2026-05-16T00:35:01+00:00"
+  },
+  "https://ljtn.github.io/epiq": {
+    "title": "Show HN: Epiq – Distributed Git based issue tracker TUI",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-16T03:06:43.092244+00:00",
+    "published": "2026-05-16T00:18:03+00:00"
+  },
+  "https://simonwillison.net/2026/May/15/inaturalist-clumper": {
+    "title": "inaturalist-clumper 0.1",
+    "source": "Simon Willison",
+    "first_seen": "2026-05-16T03:06:43.092244+00:00",
+    "published": "2026-05-15T23:53:11+00:00"
+  },
+  "https://dynomight.net/p2p-meth": {
+    "title": "The main thing about P2P meth is that there's so much of it (2021)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-16T03:06:43.092244+00:00",
+    "published": "2026-05-15T23:37:32+00:00"
+  },
+  "https://www.erlang.org/news/188": {
+    "title": "Erlang/OTP 29.0",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-16T03:06:43.092244+00:00",
+    "published": "2026-05-15T23:33:32+00:00"
+  },
+  "https://spectre-docs.pages.dev": {
+    "title": "Spectre Programming Language",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-16T03:06:43.092244+00:00",
+    "published": "2026-05-15T23:14:51+00:00"
+  },
+  "https://www.phoronix.com/news/Wine-11.9-Released": {
+    "title": "Wine 11.9 Released With Wayland Pointer Warp, Initial Support For System Threads",
+    "source": "Phoronix",
+    "first_seen": "2026-05-16T03:06:43.092244+00:00",
+    "published": "2026-05-15T22:52:39+00:00"
+  },
+  "https://thenewstack.io/block-goose-agentic-foundation": {
+    "title": "Why Block handed Goose to the Linux Foundation",
+    "source": "The New Stack",
+    "first_seen": "2026-05-16T03:06:43.092244+00:00",
+    "published": "2026-05-15T22:37:35+00:00"
+  },
+  "https://www.vldb.org/pvldb/vol19/p1469-lee.pdf": {
+    "title": "How to Write to SSDs [pdf]",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-16T03:06:43.092244+00:00",
+    "published": "2026-05-15T22:23:38+00:00"
+  },
+  "https://simonwillison.net/2026/May/15/sighting-361818285": {
+    "title": "Western Gull, Rock Pigeon",
+    "source": "Simon Willison",
+    "first_seen": "2026-05-16T03:06:43.092244+00:00",
+    "published": "2026-05-15T14:42:00+00:00"
+  },
+  "https://phoboslab.org/log/2026/05/n64-additive-blending": {
+    "title": "Additive Blending on the Nintendo 64",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-16T03:06:43.092244+00:00",
+    "published": "2026-05-15T14:39:51+00:00"
+  },
+  "https://simonwillison.net/2026/May/15/datasette-llm-limits": {
+    "title": "datasette-llm-limits 0.1a0",
+    "source": "Simon Willison",
+    "first_seen": "2026-05-16T03:06:43.092244+00:00",
+    "published": "2026-05-15T00:42:09+00:00"
+  },
+  "https://openai.com/index/databricks": {
+    "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-05-16T03:06:43.092244+00:00",
+    "published": "2026-05-15T00:00:00+00:00"
+  },
+  "https://www.databricks.com/blog/manual-autonomous-how-ai-agents-are-transforming-electric-grid-operations": {
+    "title": "From manual to autonomous: how AI agents are transforming electric grid operations",
+    "source": "Databricks Blog",
+    "first_seen": "2026-05-16T03:06:43.092244+00:00",
+    "published": "2026-05-14T20:58:50+00:00"
   }
 }
