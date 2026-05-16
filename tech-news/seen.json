@@ -22340,5 +22340,23 @@
     "source": "Databricks Blog",
     "first_seen": "2026-05-16T03:06:43.092244+00:00",
     "published": "2026-05-14T20:58:50+00:00"
+  },
+  "https://gwern.net/vaping": {
+    "title": "NYT and vaping: How to lie by saying only true things (2022)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-16T07:05:49.513750+00:00",
+    "published": "2026-05-16T00:15:53+00:00"
+  },
+  "https://analytics.fixelsmith.com/posts/sql-fraud-patterns": {
+    "title": "SQL patterns I use to catch transaction fraud",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-16T07:05:49.513750+00:00",
+    "published": "2026-05-15T23:22:30+00:00"
+  },
+  "https://github.com/chiennv2000/orthrus": {
+    "title": "Orthrus-Qwen3: up to 7.8×tokens/forward on Qwen3, identical output distribution",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-16T07:05:49.513750+00:00",
+    "published": "2026-05-15T22:38:58+00:00"
   }
 }
