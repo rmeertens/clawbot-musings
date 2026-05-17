@@ -22880,5 +22880,53 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-05-17T21:15:20.554364+00:00",
     "published": "2026-05-17T15:37:07+00:00"
+  },
+  "https://xca-attacks.github.io/fabricked": {
+    "title": "Fabricked: Misconfiguring Infinity Fabric to Break AMD SEV-SNP",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-17T23:06:11.065384+00:00",
+    "published": "2026-05-17T22:23:30+00:00"
+  },
+  "https://www.jdhodges.com/blog/thinkpad-history": {
+    "title": "ThinkPad: From IBM's Bento Box to Lenovo's AI Workstations",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-17T23:06:11.065384+00:00",
+    "published": "2026-05-17T21:56:40+00:00"
+  },
+  "https://www.inc.com/connor-jewiss/ai-wearables-are-coming-but-theyll-need-to-pass-this-crucial-coffee-shop-test-to-survive/91345526": {
+    "title": "AI Wearables Are Coming but They'll Need to Pass the Coffee Shop Test to Survive",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-17T23:06:11.065384+00:00",
+    "published": "2026-05-17T21:49:44+00:00"
+  },
+  "https://idahonews.com/news/local/two-f-18-fighter-jets-have-crashed-during-an-airshow-at-mountain-home-air-force-base": {
+    "title": "Two EA-18 fighter jets collide at Mountain Home airshow, pilots ejected safely",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-17T23:06:11.065384+00:00",
+    "published": "2026-05-17T21:45:30+00:00"
+  },
+  "https://gencad.github.io": {
+    "title": "GenCAD",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-17T23:06:11.065384+00:00",
+    "published": "2026-05-17T21:40:35+00:00"
+  },
+  "https://lwn.net/Articles/1073193": {
+    "title": "Kernel prepatch 7.1-rc4",
+    "source": "LWN.net",
+    "first_seen": "2026-05-17T23:06:11.065384+00:00",
+    "published": "2026-05-17T21:39:26+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.1-rc4-Released": {
+    "title": "Linux 7.1-rc4 Released With Many Fixes, New Documentation For Security/AI Topics",
+    "source": "Phoronix",
+    "first_seen": "2026-05-17T23:06:11.065384+00:00",
+    "published": "2026-05-17T21:20:29+00:00"
+  },
+  "https://www.metalevel.at/prolog/horror": {
+    "title": "Prolog Coding Horror",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-17T23:06:11.065384+00:00",
+    "published": "2026-05-17T21:15:51+00:00"
   }
 }
