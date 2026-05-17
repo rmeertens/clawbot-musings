@@ -22784,5 +22784,71 @@
     "source": "Phoronix",
     "first_seen": "2026-05-17T15:20:28.672291+00:00",
     "published": "2026-05-17T10:09:58+00:00"
+  },
+  "https://www.sciencedaily.com/releases/2026/05/260513221821.htm": {
+    "title": "Scientists \"bottle the sun\" with a liquid battery that stores solar energy",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-17T19:05:56.531275+00:00",
+    "published": "2026-05-17T18:42:35+00:00"
+  },
+  "https://blog.andymasley.com/p/the-ai-water-issue-is-fake": {
+    "title": "The AI water issue is fake",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-17T19:05:56.531275+00:00",
+    "published": "2026-05-17T18:35:18+00:00"
+  },
+  "https://lwn.net/Articles/1073161": {
+    "title": "Some weekend stable kernel updates",
+    "source": "LWN.net",
+    "first_seen": "2026-05-17T19:05:56.531275+00:00",
+    "published": "2026-05-17T17:43:12+00:00"
+  },
+  "https://www.osnews.com/story/144943/eu-weighs-restricting-use-of-us-cloud-platforms-to-process-sensitive-government-data": {
+    "title": "EU weighs restricting use of US cloud platforms to process sensitive gov data",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-17T19:05:56.531275+00:00",
+    "published": "2026-05-17T17:29:38+00:00"
+  },
+  "https://twitter.com/ryangrim/status/2055992439031185782": {
+    "title": "Meta deletes popular 1M follower account after Kuwaiti request",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-17T19:05:56.531275+00:00",
+    "published": "2026-05-17T17:10:48+00:00"
+  },
+  "https://movq.de/blog/postings/2026-05-05/1/POSTING-en.html": {
+    "title": "The occasional ECONNRESET",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-17T19:05:56.531275+00:00",
+    "published": "2026-05-17T17:09:36+00:00"
+  },
+  "https://stateofsurveillance.org/news/flock-cameras-destroyed-nationwide-ice-backlash-2026": {
+    "title": "Americans Are Smashing Flock Cameras",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-17T19:05:56.531275+00:00",
+    "published": "2026-05-17T17:09:15+00:00"
+  },
+  "https://opencivics-labs.github.io/dontsurveil.me/c22.html": {
+    "title": "Dontsurveil.me",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-17T19:05:56.531275+00:00",
+    "published": "2026-05-17T16:15:01+00:00"
+  },
+  "https://www.phoronix.com/news/Ubuntu-Concept-CIX-P1-CPU": {
+    "title": "Ubuntu Concept ISOs Published For CIX P1 AI CPU",
+    "source": "Phoronix",
+    "first_seen": "2026-05-17T19:05:56.531275+00:00",
+    "published": "2026-05-17T16:00:00+00:00"
+  },
+  "https://simonwillison.net/2026/May/17/gds-weighs-in": {
+    "title": "GDS weighs in on the NHS's decision to retreat from Open Source",
+    "source": "Simon Willison",
+    "first_seen": "2026-05-17T19:05:56.531275+00:00",
+    "published": "2026-05-17T15:59:41+00:00"
+  },
+  "https://xslang.org": {
+    "title": "XS: A programming language. Anywhere, anytime, by anyone",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-17T19:05:56.531275+00:00",
+    "published": "2026-05-17T14:48:23+00:00"
   }
 }
