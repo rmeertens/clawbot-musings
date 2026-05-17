@@ -22694,5 +22694,95 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-05-17T09:31:01.828314+00:00",
     "published": "2026-05-16T21:25:07+00:00"
+  },
+  "https://thenewstack.io/mac-mini-agent-infrastructure": {
+    "title": "The Mac mini just became infrastructure",
+    "source": "The New Stack",
+    "first_seen": "2026-05-17T15:20:28.672291+00:00",
+    "published": "2026-05-17T15:00:00+00:00"
+  },
+  "https://www.techspot.com/news/112410-security-researcher-microsoft-secretly-built-backdoor-bitlocker-releases.html": {
+    "title": "Security researcher says Microsoft built a Bitlocker backdoor, releases exploit",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-17T15:20:28.672291+00:00",
+    "published": "2026-05-17T13:42:30+00:00"
+  },
+  "https://www.nytimes.com/2026/05/17/world/africa/ebola-congo-uganda-who-public-health-emergency.html": {
+    "title": "WHO Declares Ebola Outbreak a Global Health Emergency",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-17T15:20:28.672291+00:00",
+    "published": "2026-05-17T13:22:14+00:00"
+  },
+  "https://github.com/tech4bot/rk3562deb": {
+    "title": "I turned a $80 RK3562 Android tablet into a Debian Linux workstation",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-17T15:20:28.672291+00:00",
+    "published": "2026-05-17T13:16:27+00:00"
+  },
+  "https://daringfireball.net/2026/05/ai_is_technology_not_a_product": {
+    "title": "AI is a technology not a product",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-17T15:20:28.672291+00:00",
+    "published": "2026-05-17T13:11:20+00:00"
+  },
+  "https://github.com/alternbits/awesome-cuda-books": {
+    "title": "CUDA Books",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-17T15:20:28.672291+00:00",
+    "published": "2026-05-17T12:52:06+00:00"
+  },
+  "https://github.com/ShurikenTrade/shuriken-skills": {
+    "title": "Agentic Trading with Safe Guardrails",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-17T15:20:28.672291+00:00",
+    "published": "2026-05-17T12:44:24+00:00"
+  },
+  "https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster": {
+    "title": "I don't think AI will make your processes go faster",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-17T15:20:28.672291+00:00",
+    "published": "2026-05-17T12:13:45+00:00"
+  },
+  "https://www.williamangel.net/blog/2026/05/17/offline-llm-energy-use.html": {
+    "title": "Apple Silicon costs more than OpenRouter",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-17T15:20:28.672291+00:00",
+    "published": "2026-05-17T12:09:23+00:00"
+  },
+  "https://www.bbc.com/future/article/20260514-how-hallucinogenic-ibogaine-helps-veterans-overcome-ptsd": {
+    "title": "Scientists believe ibogaine can help veterans overcome PTSD",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-17T15:20:28.672291+00:00",
+    "published": "2026-05-17T12:03:04+00:00"
+  },
+  "https://www.phoronix.com/news/Low-Latency-Layer": {
+    "title": "Open-Source \"low_latency_layer\" Brings Reflex & Anti-Lag 2 To AMD & Intel GPUs On Linux",
+    "source": "Phoronix",
+    "first_seen": "2026-05-17T15:20:28.672291+00:00",
+    "published": "2026-05-17T12:00:00+00:00"
+  },
+  "https://justsitandgrin.im/posts/native-all-the-way-until-you-need-text": {
+    "title": "Native all the way, until you need text",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-17T15:20:28.672291+00:00",
+    "published": "2026-05-17T11:49:46+00:00"
+  },
+  "https://www.thestateofbrand.com/news/ai-subscription-time-bomb": {
+    "title": "Every AI Subscription Is a Ticking Time Bomb for Enterprise",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-17T15:20:28.672291+00:00",
+    "published": "2026-05-17T11:49:31+00:00"
+  },
+  "https://www.phoronix.com/news/Adobe-Lightroom-CC-Linux": {
+    "title": "Claude Code Did The Heavy Lifting To Get Adobe Lightroom CC Running On Linux",
+    "source": "Phoronix",
+    "first_seen": "2026-05-17T15:20:28.672291+00:00",
+    "published": "2026-05-17T10:20:00+00:00"
+  },
+  "https://www.phoronix.com/news/FFmpeg-ProRes-RAW-Vulkan": {
+    "title": "FFmpeg Introduces Apple ProRes RAW Vulkan-Powered Video Acceleration",
+    "source": "Phoronix",
+    "first_seen": "2026-05-17T15:20:28.672291+00:00",
+    "published": "2026-05-17T10:09:58+00:00"
   }
 }
