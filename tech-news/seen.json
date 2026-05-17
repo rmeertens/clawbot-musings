@@ -22664,5 +22664,35 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-05-17T07:05:27.296734+00:00",
     "published": "2026-05-17T03:48:15+00:00"
+  },
+  "https://www.phoronix.com/news/Framework-Laptop-13-Pro-Audio": {
+    "title": "Panther Lake Powered Framework Laptop 13 Pro Sees Linux Microphone Fix",
+    "source": "Phoronix",
+    "first_seen": "2026-05-17T09:31:01.828314+00:00",
+    "published": "2026-05-17T09:10:00+00:00"
+  },
+  "https://www.phoronix.com/news/FluidX3D-3.7-Released": {
+    "title": "FluidX3D Lands A Big Speed-Up For This OpenCL CFD Software",
+    "source": "Phoronix",
+    "first_seen": "2026-05-17T09:31:01.828314+00:00",
+    "published": "2026-05-17T08:09:00+00:00"
+  },
+  "https://arnaud-carre.github.io/2026-05-15-ym-fast-emu": {
+    "title": "Playing Atari ST Music on the Amiga with Zero CPU",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-17T09:31:01.828314+00:00",
+    "published": "2026-05-17T08:00:04+00:00"
+  },
+  "https://blog.mozilla.org/netpolicy/2026/05/15/mozilla-to-uk-regulators-vpns-are-essential-privacy-and-security-tools-and-should-not-be-undermined": {
+    "title": "Mozilla to UK regulators: VPNs are essential privacy and security tools",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-17T09:31:01.828314+00:00",
+    "published": "2026-05-17T06:17:26+00:00"
+  },
+  "https://publicdomainreview.org/essay/twilight-of-the-velocipede": {
+    "title": "Twilight of the Velocipede: Typesetting Races Before the Age of Linotype",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-17T09:31:01.828314+00:00",
+    "published": "2026-05-16T21:25:07+00:00"
   }
 }
