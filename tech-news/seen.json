@@ -22640,5 +22640,29 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-05-17T03:05:57.560823+00:00",
     "published": "2026-05-16T22:45:16+00:00"
+  },
+  "https://github.com/nkzw-tech/codiff/releases": {
+    "title": "Show HN: Codiff, a local diff review tool",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-17T07:05:27.296734+00:00",
+    "published": "2026-05-17T05:30:14+00:00"
+  },
+  "https://electrek.co/2026/05/14/tesla-solar-roof-promise-vs-reality-pivot-panels": {
+    "title": "Tesla Solar Roof is on life support as it pivot to panels",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-17T07:05:27.296734+00:00",
+    "published": "2026-05-17T04:09:52+00:00"
+  },
+  "https://www.phoronix.com/news/FreeBSD-15.1-Beta-3": {
+    "title": "FreeBSD 15.1 Beta 3 Updates OpenZFS, Ensures Cloud Images Up-To-Date On First Boot",
+    "source": "Phoronix",
+    "first_seen": "2026-05-17T07:05:27.296734+00:00",
+    "published": "2026-05-17T04:00:00+00:00"
+  },
+  "https://twitter.com/grafana/status/2055827123236171827": {
+    "title": "Grafana Labs internal source code accessed",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-17T07:05:27.296734+00:00",
+    "published": "2026-05-17T03:48:15+00:00"
   }
 }
