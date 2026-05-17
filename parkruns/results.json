@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-10T06:49:49Z",
+  "generated_at": "2026-05-17T06:52:47Z",
   "count": 145,
   "results": [
     {
@@ -27,9 +27,9 @@
       "raw_name": "Brockwell Parkrun",
       "osm_type": "relation",
       "osm_id": 4784472,
-      "perimeter_m": 2778.9,
-      "area_m2": 414135.7,
-      "Q": 0.6739,
+      "perimeter_m": 2779.5,
+      "area_m2": 414101.7,
+      "Q": 0.6736,
       "rank": 3
     },
     {
