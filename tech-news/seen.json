@@ -23024,5 +23024,257 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-05-18T11:07:10.613139+00:00",
     "published": "2026-05-18T09:28:56+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/building-an-ai-powered-grid-investigation-agent-with-aurora-dsql-and-amazon-bedrock-agentcore": {
+    "title": "Building an AI-powered grid investigation agent with Aurora DSQL and Amazon Bedrock AgentCore",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-05-18T16:07:55.642638+00:00",
+    "published": "2026-05-18T16:06:01+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/improving-generative-ai-accuracy-with-vector-and-graph-search-hybrid-queries": {
+    "title": "Improving generative AI accuracy with vector and graph search hybrid queries",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-05-18T16:07:55.642638+00:00",
+    "published": "2026-05-18T16:03:10+00:00"
+  },
+  "https://huggingface.co/blog/nvidia/cosmos-fine-tuning-for-robot-video-generation": {
+    "title": "Fine-Tuning NVIDIA Cosmos Predict 2.5 with LoRA/DoRA for Robot Video Generation",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-05-18T16:07:55.642638+00:00",
+    "published": "2026-05-18T16:00:21+00:00"
+  },
+  "https://cloud.google.com/blog/topics/systems/how-google-does-it-fleet-wide-large-scale-ab-experimentation": {
+    "title": "How Google Does It: Fleet-wide, large-scale A/B experimentation",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-05-18T16:07:55.642638+00:00",
+    "published": "2026-05-18T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/data-analytics/building-an-agentic-data-layer-on-google-cloud-5-key-scenarios": {
+    "title": "Beyond the Query: 5 Scenarios Laying the Foundation for the Agentic Era",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-05-18T16:07:55.642638+00:00",
+    "published": "2026-05-18T16:00:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/compute/sharing-capacity-blocks-for-ml-across-your-aws-organization": {
+    "title": "Sharing Capacity Blocks for ML Across Your AWS Organization",
+    "source": "AWS Compute Blog",
+    "first_seen": "2026-05-18T16:07:55.642638+00:00",
+    "published": "2026-05-18T15:47:16+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/integrate-atlassian-confluence-cloud-with-amazon-quick": {
+    "title": "Integrate Atlassian Confluence Cloud with Amazon Quick",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-05-18T16:07:55.642638+00:00",
+    "published": "2026-05-18T15:37:55+00:00"
+  },
+  "https://blog.bytebytego.com/p/how-grab-is-using-ai-agents-to-boost": {
+    "title": "How Grab is Using AI Agents to Boost Team Productivity",
+    "source": "ByteByteGo",
+    "first_seen": "2026-05-18T16:07:55.642638+00:00",
+    "published": "2026-05-18T15:31:16+00:00"
+  },
+  "https://pytorch.org/blog/running-pytorch-models-on-apple-silicon-gpus-with-the-executorch-mlx-delegate": {
+    "title": "Running PyTorch Models on Apple Silicon GPUs with the ExecuTorch MLX Delegate",
+    "source": "PyTorch Blog",
+    "first_seen": "2026-05-18T16:07:55.642638+00:00",
+    "published": "2026-05-18T15:30:50+00:00"
+  },
+  "https://archestra.ai/blog/only-responsible-ai": {
+    "title": "We stopped AI bot spam in our GitHub repo using Git's –author flag",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-18T16:07:55.642638+00:00",
+    "published": "2026-05-18T15:24:19+00:00"
+  },
+  "https://huggingface.co/blog/PaddlePaddle/paddleocr-transformers": {
+    "title": "PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-05-18T16:07:55.642638+00:00",
+    "published": "2026-05-18T15:12:46+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/build-custom-code-based-evaluators-in-amazon-bedrock-agentcore": {
+    "title": "Build custom code-based evaluators in Amazon Bedrock AgentCore",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-05-18T16:07:55.642638+00:00",
+    "published": "2026-05-18T15:07:15+00:00"
+  },
+  "https://gadallon.substack.com/p/the-third-time-amazon-did-this-what": {
+    "title": "What “Amazon Supply Chain Services” Tells Us About What Amazon Is",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-18T16:07:55.642638+00:00",
+    "published": "2026-05-18T15:05:04+00:00"
+  },
+  "https://opensource.microsoft.com/blog/2026/05/18/from-open-source-to-agentic-systems-microsoft-at-open-source-summit-north-america-2026": {
+    "title": "From open source to agentic systems: Microsoft at Open Source Summit North America 2026",
+    "source": "Microsoft Open Source",
+    "first_seen": "2026-05-18T16:07:55.642638+00:00",
+    "published": "2026-05-18T15:00:00+00:00"
+  },
+  "https://www.wired.com/story/normie-vibe-code": {
+    "title": "I'm a Normie. Can Normies Vibe Code?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-18T16:07:55.642638+00:00",
+    "published": "2026-05-18T14:51:01+00:00"
+  },
+  "https://www.phoronix.com/review/linux-66-linux-71": {
+    "title": "Linux 6.6 LTS To Linux 7.1 Bechmarks: Performance Up 13% On AMD Threadripper Over Three Years",
+    "source": "Phoronix",
+    "first_seen": "2026-05-18T16:07:55.642638+00:00",
+    "published": "2026-05-18T14:30:00+00:00"
+  },
+  "https://github.com/2b2tplace/1m_release": {
+    "title": "1024000^2 Blocks, 2B2T Minecraft Server World Download Project, and Discoveries",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-18T16:07:55.642638+00:00",
+    "published": "2026-05-18T14:13:07+00:00"
+  },
+  "https://huggingface.co/blog/ibm-research/open-agent-leaderboard": {
+    "title": "The Open Agent Leaderboard",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-05-18T16:07:55.642638+00:00",
+    "published": "2026-05-18T14:12:58+00:00"
+  },
+  "https://www.nytimes.com/2026/05/18/world/americas/actually-democracy-dies-in-hr.html": {
+    "title": "Actually, Democracy Dies in H.R.",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-18T16:07:55.642638+00:00",
+    "published": "2026-05-18T14:04:26+00:00"
+  },
+  "https://realpython.com/python-built-in-functions": {
+    "title": "Python Built-in Functions: A Complete Guide",
+    "source": "Real Python",
+    "first_seen": "2026-05-18T16:07:55.642638+00:00",
+    "published": "2026-05-18T14:00:00+00:00"
+  },
+  "https://blog.cloudflare.com/cyber-frontier-models": {
+    "title": "Project Glasswing: what Mythos showed us",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-18T16:07:55.642638+00:00",
+    "published": "2026-05-18T13:37:11+00:00"
+  },
+  "https://github.com/zakirullin/files.md": {
+    "title": "Show HN: Files.md – Open-source alternative to Obsidian",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-18T16:07:55.642638+00:00",
+    "published": "2026-05-18T13:33:33+00:00"
+  },
+  "https://engineering.atspotify.com/2026/5/better-experiments-with-llm-evals-a-funnel-not-a-fork": {
+    "title": "Better Experiments with LLM Evals — A funnel, not a fork",
+    "source": "Spotify Engineering",
+    "first_seen": "2026-05-18T16:07:55.642638+00:00",
+    "published": "2026-05-18T13:27:23+00:00"
+  },
+  "https://www.404media.co/researchers-wanted-preschool-teachers-to-wear-cameras-to-train-ai": {
+    "title": "Researchers Wanted Preschool Teachers to Wear Cameras to Train AI",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-18T16:07:55.642638+00:00",
+    "published": "2026-05-18T13:26:34+00:00"
+  },
+  "https://lwn.net/Articles/1072657": {
+    "title": "[$] Swap tables, flash-friendly swap, swap_ops, and more",
+    "source": "LWN.net",
+    "first_seen": "2026-05-18T16:07:55.642638+00:00",
+    "published": "2026-05-18T13:16:04+00:00"
+  },
+  "https://www.bbc.co.uk/news/articles/cvg0yy3gp71o": {
+    "title": "'We mould trees to grow into the shape of chairs'",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-18T16:07:55.642638+00:00",
+    "published": "2026-05-18T13:01:18+00:00"
+  },
+  "https://www.docker.com/blog/ai-coding-agent-horror-stories-security-risks": {
+    "title": "Coding Agent Horror Stories: The Security Crisis Threatening Developer Infrastructure",
+    "source": "Docker Blog",
+    "first_seen": "2026-05-18T16:07:55.642638+00:00",
+    "published": "2026-05-18T13:00:00+00:00"
+  },
+  "https://lwn.net/Articles/1073356": {
+    "title": "Security updates for Monday",
+    "source": "LWN.net",
+    "first_seen": "2026-05-18T16:07:55.642638+00:00",
+    "published": "2026-05-18T12:59:35+00:00"
+  },
+  "https://www.theregister.com/ai-ml/2026/05/17/enough-with-the-ai-fomo-go-slow-mo-says-domo-cdo/5240840": {
+    "title": "Enough with the AI FOMO, go slow-mo, says Domo CDO",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-18T16:07:55.642638+00:00",
+    "published": "2026-05-18T12:49:54+00:00"
+  },
+  "https://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/6a0af5d0484fbf5fe9a7743e/1779103184855/2026-Spring-AI.pdf": {
+    "title": "AI eats the world (Spring 26) [pdf]",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-18T16:07:55.642638+00:00",
+    "published": "2026-05-18T12:49:28+00:00"
+  },
+  "https://www.phoronix.com/news/Firefox-151": {
+    "title": "Firefox 151 Now Available With Document Picture-in-Picture API",
+    "source": "Phoronix",
+    "first_seen": "2026-05-18T16:07:55.642638+00:00",
+    "published": "2026-05-18T12:46:34+00:00"
+  },
+  "https://www.theregister.com/security/2026/05/18/linus-torvalds-says-ai-powered-bug-hunters-have-made-linux-security-mailing-list-almost-entirely-unmanageable/5241633": {
+    "title": "Linux security mailing list 'almost unmanageable'",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-18T16:07:55.642638+00:00",
+    "published": "2026-05-18T12:20:50+00:00"
+  },
+  "https://www.plough.com/en/topics/faith/discipleship/when-kierkegaard-got-cancelled": {
+    "title": "When Kierkegaard Got Cancelled",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-18T16:07:55.642638+00:00",
+    "published": "2026-05-18T12:03:10+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-AF-ALF-Zero-Copy-Security": {
+    "title": "Linux AF_ALG Crypto Code Removing Zero-Copy Support Out Of Security Concerns",
+    "source": "Phoronix",
+    "first_seen": "2026-05-18T16:07:55.642638+00:00",
+    "published": "2026-05-18T12:00:00+00:00"
+  },
+  "https://www.databricks.com/blog/question-your-commercial-data-should-already-be-able-answer": {
+    "title": "The question your commercial data should already be able to answer",
+    "source": "Databricks Blog",
+    "first_seen": "2026-05-18T16:07:55.642638+00:00",
+    "published": "2026-05-18T12:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/Torvalds-AI-Tools-Can-Be-Great": {
+    "title": "Torvalds: AI Tools Great When Not Causing Unnecessary Pain & Pointless Make-Believe Work",
+    "source": "Phoronix",
+    "first_seen": "2026-05-18T16:07:55.642638+00:00",
+    "published": "2026-05-18T11:54:13+00:00"
+  },
+  "https://spectrum.ieee.org/voice-ai-audio-attacks": {
+    "title": "Voice AI Systems Are Vulnerable to Hidden Audio Attacks",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-18T16:07:55.642638+00:00",
+    "published": "2026-05-18T11:51:05+00:00"
+  },
+  "https://github.com/stephenlthorn/auto-identity-remove": {
+    "title": "Show HN: Auto-identity-remove – Automated data broker opt-out runner for macOS",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-18T16:07:55.642638+00:00",
+    "published": "2026-05-18T11:32:42+00:00"
+  },
+  "https://www.schneier.com/blog/archives/2026/05/zero-day-exploit-against-windows-bitlocker.html": {
+    "title": "Zero-Day Exploit Against Windows BitLocker",
+    "source": "Schneier on Security",
+    "first_seen": "2026-05-18T16:07:55.642638+00:00",
+    "published": "2026-05-18T11:08:13+00:00"
+  },
+  "https://lalitm.com/post/dont-answer-the-first-question": {
+    "title": "Don't answer the first question",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-18T16:07:55.642638+00:00",
+    "published": "2026-05-18T09:21:42+00:00"
+  },
+  "https://stackoverflow.blog/2026/05/18/what-the-ai-hype-gets-wrong": {
+    "title": "“You can't vibe code scale”: What the AI hype gets wrong about software engineering",
+    "source": "Stack Overflow Blog",
+    "first_seen": "2026-05-18T16:07:55.642638+00:00",
+    "published": "2026-05-18T07:40:00+00:00"
+  },
+  "https://matklad.github.io/2026/05/18/always-be-blaming.html": {
+    "title": "Always Be Blaming",
+    "source": "matklad",
+    "first_seen": "2026-05-18T16:07:55.642638+00:00",
+    "published": "2026-05-18T00:00:00+00:00"
   }
 }
