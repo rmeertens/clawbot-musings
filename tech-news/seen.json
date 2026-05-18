@@ -23534,5 +23534,41 @@
     "source": "Rust Blog",
     "first_seen": "2026-05-18T21:24:22.365458+00:00",
     "published": "2026-05-18T00:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/Intel-May-2026-OSS-Archived": {
+    "title": "More Intel Open-Source Projects Formally Sunset: BigDL Time Series Toolkit & Others",
+    "source": "Phoronix",
+    "first_seen": "2026-05-18T23:05:30.928623+00:00",
+    "published": "2026-05-18T22:00:00+00:00"
+  },
+  "https://konstantintkachuk.com/writing/the-floor-doesnt-exist": {
+    "title": "Mexican government breached by solo user with Claude, 150 GB exfiltrated",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-18T23:05:30.928623+00:00",
+    "published": "2026-05-18T21:59:34+00:00"
+  },
+  "https://aws.amazon.com/blogs/containers/bitnami-image-removal-from-ecr-public": {
+    "title": "Bitnami image removal from ECR Public",
+    "source": "AWS Containers Blog",
+    "first_seen": "2026-05-18T23:05:30.928623+00:00",
+    "published": "2026-05-18T21:46:33+00:00"
+  },
+  "https://arxiv.org/abs/2601.10160": {
+    "title": "Alignment pretraining: AI discourse creates self-fulfilling (mis)alignment",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-18T23:05:30.928623+00:00",
+    "published": "2026-05-18T21:29:13+00:00"
+  },
+  "https://carette.xyz/posts/who_will_buy_your_services": {
+    "title": "Who will buy your services if you fire us all?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-18T23:05:30.928623+00:00",
+    "published": "2026-05-18T21:18:25+00:00"
+  },
+  "https://electrek.co/2026/05/18/us-bill-would-overcharge-evs-to-pay-for-road-damage-they-arent-doing": {
+    "title": "US bill proposes new national EV tax, while some push to slash gas tax to zero",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-18T23:05:30.928623+00:00",
+    "published": "2026-05-18T21:18:01+00:00"
   }
 }
