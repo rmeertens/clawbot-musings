@@ -23450,5 +23450,89 @@
     "source": "Marc Brooker",
     "first_seen": "2026-05-18T19:06:21.731581+00:00",
     "published": "2026-05-18T00:00:00+00:00"
+  },
+  "https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github": {
+    "title": "CISA Admin Leaked AWS GovCloud Keys on Github",
+    "source": "Krebs on Security",
+    "first_seen": "2026-05-18T21:24:22.365458+00:00",
+    "published": "2026-05-18T20:48:21+00:00"
+  },
+  "https://matthewkosarek.xyz/posts/jetbrains": {
+    "title": "No More JetBrains Products for Me",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-18T21:24:22.365458+00:00",
+    "published": "2026-05-18T20:30:58+00:00"
+  },
+  "https://www.ftc.gov/news-events/news/press-releases/2026/05/shutterstock-pay-35-million-settle-ftc-allegations-over-illegal-subscription-cancellation-practices": {
+    "title": "Shutterstock to pay $35M over hard-to-cancel subscriptions",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-18T21:24:22.365458+00:00",
+    "published": "2026-05-18T19:50:09+00:00"
+  },
+  "https://www.phoronix.com/news/Intel-Xe-Multi-Crescent-Island": {
+    "title": "New Intel Xe Linux Graphics Driver Code Now Cites Multiple Crescent Island SKUs",
+    "source": "Phoronix",
+    "first_seen": "2026-05-18T21:24:22.365458+00:00",
+    "published": "2026-05-18T19:50:00+00:00"
+  },
+  "https://www.404media.co/the-fbi-wants-to-buy-nationwide-access-to-license-plate-readers": {
+    "title": "The FBI Wants to Buy Nationwide Access to License Plate Readers",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-18T21:24:22.365458+00:00",
+    "published": "2026-05-18T19:28:59+00:00"
+  },
+  "https://hyperpolyglot.org/lisp": {
+    "title": "Hyperpolyglot Lisp: Common Lisp, Racket, Clojure, Emacs Lisp",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-18T21:24:22.365458+00:00",
+    "published": "2026-05-18T19:27:25+00:00"
+  },
+  "https://thenewstack.io/google-remy-agent-infrastructure": {
+    "title": "Why Google’s Remy leaks have enterprise architects rethinking the AI stack",
+    "source": "The New Stack",
+    "first_seen": "2026-05-18T21:24:22.365458+00:00",
+    "published": "2026-05-18T19:22:18+00:00"
+  },
+  "https://www.advanced-research.net/180db": {
+    "title": "Show HN: We missed Winamp, so we built an audio player for macOS",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-18T21:24:22.365458+00:00",
+    "published": "2026-05-18T19:20:33+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/opensearch-agent-skills-bring-built-in-intelligence-to-your-agentic-ide": {
+    "title": "OpenSearch Agent Skills bring built-in intelligence to your agentic IDE",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-05-18T21:24:22.365458+00:00",
+    "published": "2026-05-18T19:15:11+00:00"
+  },
+  "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-transform-at-1-year-claude-platform-on-aws-ec2-m3-ultra-mac-instances-and-more-may-18-2026": {
+    "title": "AWS Weekly Roundup: AWS Transform at 1 year, Claude Platform on AWS, EC2 M3 Ultra Mac instances, and more (May 18, 2026)",
+    "source": "AWS Blog",
+    "first_seen": "2026-05-18T21:24:22.365458+00:00",
+    "published": "2026-05-18T19:13:20+00:00"
+  },
+  "https://loopmaster.xyz": {
+    "title": "loopmaster – Livecoding Music IDE",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-18T21:24:22.365458+00:00",
+    "published": "2026-05-18T18:44:03+00:00"
+  },
+  "https://andonlabs.com/blog/andon-fm": {
+    "title": "We let AIs run radio stations",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-18T21:24:22.365458+00:00",
+    "published": "2026-05-18T18:12:18+00:00"
+  },
+  "https://www.bloomberg.com/news/articles/2026-05-18/iran-starts-bitcoin-backed-shipping-insurance-for-hormuz-strait": {
+    "title": "Iran starts Bitcoin-backed ship insurance for Hormuz strait",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-18T21:24:22.365458+00:00",
+    "published": "2026-05-18T17:25:54+00:00"
+  },
+  "https://blog.rust-lang.org/2026/05/18/project-goals-2026-04": {
+    "title": "Project goals update — April 2026 (end of 2025H2)",
+    "source": "Rust Blog",
+    "first_seen": "2026-05-18T21:24:22.365458+00:00",
+    "published": "2026-05-18T00:00:00+00:00"
   }
 }
