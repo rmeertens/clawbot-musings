@@ -23276,5 +23276,179 @@
     "source": "matklad",
     "first_seen": "2026-05-18T16:07:55.642638+00:00",
     "published": "2026-05-18T00:00:00+00:00"
+  },
+  "https://thenewstack.io/github-bug-bounty-ai-slop": {
+    "title": "GitHub will start paying some bug bounty hunters in swag instead of cash",
+    "source": "The New Stack",
+    "first_seen": "2026-05-18T19:06:21.731581+00:00",
+    "published": "2026-05-18T19:01:47+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/how-smartsheet-built-real-time-dynamic-filtering-on-apache-flink-reducing-40k-month-in-messaging-costs": {
+    "title": "How Smartsheet built Real-time Dynamic Filtering on Apache Flink reducing $40K/month in messaging costs",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-05-18T19:06:21.731581+00:00",
+    "published": "2026-05-18T18:59:23+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/prompting-amazon-nova-2-for-content-moderation": {
+    "title": "Prompting Amazon Nova 2 for content moderation",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-05-18T19:06:21.731581+00:00",
+    "published": "2026-05-18T18:56:36+00:00"
+  },
+  "https://aws.amazon.com/blogs/containers/simplify-ai-infrastructure-for-aws-trainium-and-elastic-fabric-adapter-with-kubernetes-dynamic-resource-allocation": {
+    "title": "Simplify AI infrastructure for AWS Trainium and Elastic Fabric Adapter with Kubernetes Dynamic Resource Allocation",
+    "source": "AWS Containers Blog",
+    "first_seen": "2026-05-18T19:06:21.731581+00:00",
+    "published": "2026-05-18T18:56:30+00:00"
+  },
+  "https://thenewstack.io/ai-security-readiness-crisis": {
+    "title": "AI security readiness is now the No. 1 obstacle to adoption, Linux Foundation finds",
+    "source": "The New Stack",
+    "first_seen": "2026-05-18T19:06:21.731581+00:00",
+    "published": "2026-05-18T18:55:53+00:00"
+  },
+  "https://odyssey.ml/introducing-agora-1": {
+    "title": "Agora-1: The Multi-Agent World Model",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-18T19:06:21.731581+00:00",
+    "published": "2026-05-18T18:43:30+00:00"
+  },
+  "https://discuss.haiku-os.org/t/my-haiku-arm64-progress/19044?page=2": {
+    "title": "Haiku OS runs on M1 Macs now",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-18T19:06:21.731581+00:00",
+    "published": "2026-05-18T18:30:55+00:00"
+  },
+  "https://www.osnews.com/story/144985/haiku-os-runs-on-m1-macs-now": {
+    "title": "Haiku OS runs on M1 Macs now",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-18T19:06:21.731581+00:00",
+    "published": "2026-05-18T18:17:21+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.2-OPENAT2_REGULAR": {
+    "title": "Linux 7.2 Expected To Introduce \"OPENAT2_REGULAR\" To Avoid Tricking Secure Programs",
+    "source": "Phoronix",
+    "first_seen": "2026-05-18T19:06:21.731581+00:00",
+    "published": "2026-05-18T18:00:00+00:00"
+  },
+  "https://www.bbc.com/news/articles/cq6pz60p996o": {
+    "title": "At least 100 deaths reported in Ebola outbreak in DR Congo",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-18T19:06:21.731581+00:00",
+    "published": "2026-05-18T17:57:13+00:00"
+  },
+  "https://modal.com/blog/truly-serverless-gpus": {
+    "title": "Cutting inference cold starts by 40x with LP, FUSE, C/R, and CUDA-checkpoint",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-18T19:06:21.731581+00:00",
+    "published": "2026-05-18T17:56:26+00:00"
+  },
+  "https://www.cnn.com/2026/05/17/middleeast/iran-hormuz-undersea-cables-intl": {
+    "title": "Iran will impose fees on subsea internet cables in Strait of Hormuz",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-18T19:06:21.731581+00:00",
+    "published": "2026-05-18T17:55:55+00:00"
+  },
+  "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai": {
+    "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-18T19:06:21.731581+00:00",
+    "published": "2026-05-18T17:38:22+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/aderant-transforms-cloud-operations-with-amazon-quick": {
+    "title": "Aderant transforms cloud operations with Amazon Quick",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-05-18T19:06:21.731581+00:00",
+    "published": "2026-05-18T17:26:40+00:00"
+  },
+  "https://pytorch.org/blog/vllm-and-pytorch-work-together-to-improve-the-developer-experience-on-aarch64": {
+    "title": "vLLM and PyTorch Work Together to Improve the Developer Experience on aarch64",
+    "source": "PyTorch Blog",
+    "first_seen": "2026-05-18T19:06:21.731581+00:00",
+    "published": "2026-05-18T17:25:11+00:00"
+  },
+  "https://www.anthropic.com/news/anthropic-acquires-stainless": {
+    "title": "Anthropic acquires Stainless",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-18T19:06:21.731581+00:00",
+    "published": "2026-05-18T17:01:21+00:00"
+  },
+  "https://devblogs.microsoft.com/dotnet/nuget-package-pruning-in-dotnet-10": {
+    "title": "NuGet Package Pruning: Cleaner Dependencies and Actionable Vulnerability Reports",
+    "source": "MS .NET Blog",
+    "first_seen": "2026-05-18T19:06:21.731581+00:00",
+    "published": "2026-05-18T17:00:00+00:00"
+  },
+  "https://github.blog/news-insights/product-news/take-your-local-github-sessions-anywhere": {
+    "title": "Take your local GitHub sessions anywhere",
+    "source": "GitHub Blog",
+    "first_seen": "2026-05-18T19:06:21.731581+00:00",
+    "published": "2026-05-18T16:54:53+00:00"
+  },
+  "https://twitter.com/Alibaba_Qwen/status/2056403591464984753": {
+    "title": "Qwen 3.7 Preview",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-18T19:06:21.731581+00:00",
+    "published": "2026-05-18T16:24:11+00:00"
+  },
+  "https://stackoverflow.blog/2026/05/18/interviews-aren-t-about-you-sorry": {
+    "title": "Interviews Aren’t About You (Sorry)",
+    "source": "Stack Overflow Blog",
+    "first_seen": "2026-05-18T19:06:21.731581+00:00",
+    "published": "2026-05-18T16:02:44+00:00"
+  },
+  "https://cloud.google.com/blog/products/data-analytics/streaming-ai-news-from-next26": {
+    "title": "What we announced in streaming AI at Next ‘26",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-05-18T19:06:21.731581+00:00",
+    "published": "2026-05-18T16:00:00+00:00"
+  },
+  "https://github.com/InsForge/InsForge": {
+    "title": "Show HN: InsForge – Open-source Heroku for coding agents",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-18T19:06:21.731581+00:00",
+    "published": "2026-05-18T15:40:42+00:00"
+  },
+  "https://radleybalko.substack.com/p/truth-power-and-honest-journalism": {
+    "title": "Garry Tan, the CEO of YC, accused me of unethical reporting",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-18T19:06:21.731581+00:00",
+    "published": "2026-05-18T15:18:19+00:00"
+  },
+  "https://simonwillison.net/2026/May/18/sighting-362781627": {
+    "title": "Glaucous-winged Gull, Brown Pelican, Snowy Egret, Canada Goose",
+    "source": "Simon Willison",
+    "first_seen": "2026-05-18T19:06:21.731581+00:00",
+    "published": "2026-05-18T14:51:00+00:00"
+  },
+  "https://www.databricks.com/blog/announcing-databricks-analytics-engineer-learning-pathway": {
+    "title": "Announcing the Databricks analytics engineer learning pathway",
+    "source": "Databricks Blog",
+    "first_seen": "2026-05-18T19:06:21.731581+00:00",
+    "published": "2026-05-18T14:46:06+00:00"
+  },
+  "https://walkinglabs.github.io/learn-harness-engineering/en": {
+    "title": "Learn Harness Engineering",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-18T19:06:21.731581+00:00",
+    "published": "2026-05-18T12:17:04+00:00"
+  },
+  "https://openai.com/index/dell-codex-enterprise-partnership": {
+    "title": "OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-05-18T19:06:21.731581+00:00",
+    "published": "2026-05-18T10:00:00+00:00"
+  },
+  "https://discord.com/blog/every-voice-and-video-call-on-discord-is-now-end-to-end-encrypted": {
+    "title": "Every Voice and Video Call on Discord Is Now End-to-End Encrypted",
+    "source": "Discord Engineering",
+    "first_seen": "2026-05-18T19:06:21.731581+00:00",
+    "published": "2026-05-18T00:00:00+00:00"
+  },
+  "http://brooker.co.za/blog/2026/05/18/whats-easy-whats-hard.html": {
+    "title": "What's Easy Now? What's Hard Now?",
+    "source": "Marc Brooker",
+    "first_seen": "2026-05-18T19:06:21.731581+00:00",
+    "published": "2026-05-18T00:00:00+00:00"
   }
 }
