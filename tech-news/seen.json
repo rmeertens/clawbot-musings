@@ -24326,5 +24326,47 @@
     "source": "Chrome Developers",
     "first_seen": "2026-05-19T21:28:19.648544+00:00",
     "published": "2026-05-19T07:00:00+00:00"
+  },
+  "https://simonwillison.net/2026/May/19/gemini-35-flash": {
+    "title": "Gemini 3.5 Flash: more expensive, but Google plan to use it for everything",
+    "source": "Simon Willison",
+    "first_seen": "2026-05-19T23:08:10.183654+00:00",
+    "published": "2026-05-19T22:40:25+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/deploying-amazon-rds-for-db2-using-terraform": {
+    "title": "Deploying Amazon RDS for Db2 using Terraform",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-05-19T23:08:10.183654+00:00",
+    "published": "2026-05-19T22:30:49+00:00"
+  },
+  "https://github.com/wiltodelta/remove-ai-watermarks": {
+    "title": "Remove AI Watermarks",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-19T23:08:10.183654+00:00",
+    "published": "2026-05-19T22:30:31+00:00"
+  },
+  "https://aws.amazon.com/blogs/security/cirt-insights-how-to-help-prevent-unauthorized-account-removals-from-aws-organizations": {
+    "title": "CIRT insights: How to help prevent unauthorized account removals from AWS Organizations",
+    "source": "AWS Security Blog",
+    "first_seen": "2026-05-19T23:08:10.183654+00:00",
+    "published": "2026-05-19T21:34:25+00:00"
+  },
+  "https://www.databricks.com/blog/automate-data-kpi-monitoring-sql-alerts": {
+    "title": "Automate Data & KPI Monitoring with SQL Alerts",
+    "source": "Databricks Blog",
+    "first_seen": "2026-05-19T23:08:10.183654+00:00",
+    "published": "2026-05-19T21:04:41+00:00"
+  },
+  "https://azure.microsoft.com/en-us/blog/azure-files-entra-only-identities-advancing-cloud-native-identity-and-security": {
+    "title": "Azure Files Entra-Only identities: Advancing cloud-native identity and security",
+    "source": "Azure Blog",
+    "first_seen": "2026-05-19T23:08:10.183654+00:00",
+    "published": "2026-05-19T19:00:00+00:00"
+  },
+  "https://www.linusakesson.net/programming/tty/index.php": {
+    "title": "The TTY Demystified (2008)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-19T23:08:10.183654+00:00",
+    "published": "2026-05-19T18:40:19+00:00"
   }
 }
