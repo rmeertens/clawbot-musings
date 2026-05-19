@@ -23570,5 +23570,113 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-05-18T23:05:30.928623+00:00",
     "published": "2026-05-18T21:18:01+00:00"
+  },
+  "https://www.phoronix.com/news/Intel-Bartlett-Lake-P-State-7.2": {
+    "title": "Linux 7.2 Will Fix The Intel P-State Driver For The New Bartlett Lake CPUs",
+    "source": "Phoronix",
+    "first_seen": "2026-05-19T10:15:05.757349+00:00",
+    "published": "2026-05-19T10:00:00+00:00"
+  },
+  "https://stratechery.com/2026/personal-day-3": {
+    "title": "Personal Day",
+    "source": "Stratechery",
+    "first_seen": "2026-05-19T10:15:05.757349+00:00",
+    "published": "2026-05-19T10:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-Kernel-Untrusted-Data-API": {
+    "title": "The Linux Kernel Working On A Rust-Based Untrusted Data API",
+    "source": "Phoronix",
+    "first_seen": "2026-05-19T10:15:05.757349+00:00",
+    "published": "2026-05-19T08:00:00+00:00"
+  },
+  "https://stackoverflow.blog/2026/05/19/your-fridge-could-be-a-threat-to-national-security": {
+    "title": "Your fridge could be a threat to national security",
+    "source": "Stack Overflow Blog",
+    "first_seen": "2026-05-19T10:15:05.757349+00:00",
+    "published": "2026-05-19T07:40:00+00:00"
+  },
+  "https://safedep.io/mini-shai-hulud-strikes-again-314-npm-packages-compromised": {
+    "title": "Mini Shai-Hulud Strikes Again: 314 npm Packages Compromised",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-19T10:15:05.757349+00:00",
+    "published": "2026-05-19T05:04:49+00:00"
+  },
+  "https://pytorch.landscape2.io": {
+    "title": "PyTorch Landscape",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-19T10:15:05.757349+00:00",
+    "published": "2026-05-19T04:29:39+00:00"
+  },
+  "https://github.com/harmont-dev/hsrs": {
+    "title": "Show HN: Hsrs – Type-Safe Haskell Bindings Generator for Rust",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-19T10:15:05.757349+00:00",
+    "published": "2026-05-19T04:06:09+00:00"
+  },
+  "https://www.phoronix.com/news/OneXPlayer-Configuration-Drv": {
+    "title": "OneXPlayer Configuration Driver Destined For Linux 7.2",
+    "source": "Phoronix",
+    "first_seen": "2026-05-19T10:15:05.757349+00:00",
+    "published": "2026-05-19T04:00:00+00:00"
+  },
+  "https://www.llmcap.io": {
+    "title": "LLMCap – A proxy that hard-stops LLM API calls when you hit a dollar cap",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-19T10:15:05.757349+00:00",
+    "published": "2026-05-19T03:56:57+00:00"
+  },
+  "https://www.databricks.com/blog/how-deutsche-borse-built-generative-ai-tool-tackle-large-scale-migration-zeppelin-notebooks": {
+    "title": "How Deutsche Börse built a generative AI tool to tackle the large-scale migration of   Zeppelin notebooks to Databricks",
+    "source": "Databricks Blog",
+    "first_seen": "2026-05-19T10:15:05.757349+00:00",
+    "published": "2026-05-19T03:30:00+00:00"
+  },
+  "https://www.tuhs.org/pipermail/tuhs/2026-May/033748.html": {
+    "title": "Peter Neumann has died",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-19T10:15:05.757349+00:00",
+    "published": "2026-05-19T03:17:45+00:00"
+  },
+  "https://www.tuhs.org/pipermail/tuhs/2026-May/033750.html": {
+    "title": "Peter Salus has died",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-19T10:15:05.757349+00:00",
+    "published": "2026-05-19T02:56:42+00:00"
+  },
+  "https://simonwillison.net/2026/May/19/5-minute-llms": {
+    "title": "The last six months in LLMs in five minutes",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-19T10:15:05.757349+00:00",
+    "published": "2026-05-19T01:30:42+00:00"
+  },
+  "https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-first-encyclical-magnifica-humanitas.html": {
+    "title": "Pope Leo XIV’s first encyclical Magnifica humanitas to be published May 25",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-19T10:15:05.757349+00:00",
+    "published": "2026-05-18T23:18:10+00:00"
+  },
+  "https://clickclickclick.click": {
+    "title": "Click (2016)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-19T10:15:05.757349+00:00",
+    "published": "2026-05-18T23:03:02+00:00"
+  },
+  "https://cursor.com/blog/composer-2-5": {
+    "title": "Cursor Introduces Composer 2.5",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-19T10:15:05.757349+00:00",
+    "published": "2026-05-18T17:20:43+00:00"
+  },
+  "https://www.thesmallbow.com/p/consider-the-sister-2b94": {
+    "title": "Consider the Sister",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-19T10:15:05.757349+00:00",
+    "published": "2026-05-17T19:13:21+00:00"
+  },
+  "https://quuxplusone.github.io/blog/2021/02/15/devirtualization": {
+    "title": "When can the C++ compiler devirtualize a call?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-19T10:15:05.757349+00:00",
+    "published": "2026-05-17T08:58:31+00:00"
   }
 }
