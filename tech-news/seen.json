@@ -23996,5 +23996,251 @@
     "source": "Hugging Face Blog",
     "first_seen": "2026-05-19T16:04:47.704087+00:00",
     "published": "2026-05-19T00:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/topics/public-sector/the-agentic-era-architecting-the-blueprint-for-mission-impact-across-the-public-sector": {
+    "title": "The agentic era: Architecting the blueprint for mission impact across the public sector",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-05-19T19:08:04.724561+00:00",
+    "published": "2026-05-19T19:00:00+00:00"
+  },
+  "https://huggingface.co/blog/allenai/olmoearth-v1-1": {
+    "title": "OlmoEarth v1.1: A more efficient family of models",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-05-19T19:08:04.724561+00:00",
+    "published": "2026-05-19T18:38:09+00:00"
+  },
+  "https://www.phoronix.com/news/Fedora-Removing-Deepin": {
+    "title": "Fedora Retiring Its Deepin Desktop Packages",
+    "source": "Phoronix",
+    "first_seen": "2026-05-19T19:08:04.724561+00:00",
+    "published": "2026-05-19T18:30:31+00:00"
+  },
+  "https://www.obayashi.co.jp/en/kikan_obayashi/detail/kikan_64_project.html": {
+    "title": "Deciphering the Hashihara Castle Town Map",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-19T19:08:04.724561+00:00",
+    "published": "2026-05-19T18:04:58+00:00"
+  },
+  "https://techcrunch.com/2026/05/19/google-search-as-you-know-it-is-over": {
+    "title": "Google Search as you know it is over",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-19T19:08:04.724561+00:00",
+    "published": "2026-05-19T17:56:35+00:00"
+  },
+  "https://research.google/blog/empirical-research-assistance-era-from-nature-publication-to-catalyzing-computational-discovery": {
+    "title": "Empirical Research Assistance (ERA): From Nature publication to catalyzing Computational Discovery",
+    "source": "Google Research",
+    "first_seen": "2026-05-19T19:08:04.724561+00:00",
+    "published": "2026-05-19T17:52:00+00:00"
+  },
+  "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5": {
+    "title": "Gemini 3.5 Flash: frontier intelligence with action",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-19T19:08:04.724561+00:00",
+    "published": "2026-05-19T17:49:50+00:00"
+  },
+  "https://deepmind.google/models/gemini-omni": {
+    "title": "Gemini Omni",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-19T19:08:04.724561+00:00",
+    "published": "2026-05-19T17:46:19+00:00"
+  },
+  "https://thenewstack.io/googles-gemini-3-5-flash-beats-the-frontier-models": {
+    "title": "Google’s Gemini 3.5 Flash beats the frontier models",
+    "source": "The New Stack",
+    "first_seen": "2026-05-19T19:08:04.724561+00:00",
+    "published": "2026-05-19T17:45:00+00:00"
+  },
+  "https://thenewstack.io/google-gpt-and-claude-android-studio": {
+    "title": "Google now lets developers use GPT and Claude in Android Studio",
+    "source": "The New Stack",
+    "first_seen": "2026-05-19T19:08:04.724561+00:00",
+    "published": "2026-05-19T17:45:00+00:00"
+  },
+  "https://thenewstack.io/google-ai-ultra-pricing": {
+    "title": "Google launches $100 AI Ultra plan and cuts top tier to $200",
+    "source": "The New Stack",
+    "first_seen": "2026-05-19T19:08:04.724561+00:00",
+    "published": "2026-05-19T17:45:00+00:00"
+  },
+  "https://thenewstack.io/google-ai-studio-android-apps": {
+    "title": "Google now lets you vibe code native Android apps in AI Studio",
+    "source": "The New Stack",
+    "first_seen": "2026-05-19T19:08:04.724561+00:00",
+    "published": "2026-05-19T17:45:00+00:00"
+  },
+  "https://thenewstack.io/google-agent-ready-web": {
+    "title": "Google wants to make the web agent-ready",
+    "source": "The New Stack",
+    "first_seen": "2026-05-19T19:08:04.724561+00:00",
+    "published": "2026-05-19T17:45:00+00:00"
+  },
+  "https://cloud.google.com/blog/topics/developers-practitioners/io26-news-for-agent-developers-on-google-cloud": {
+    "title": "What Google I/O '26 means for developing agents on Google Cloud",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-05-19T19:08:04.724561+00:00",
+    "published": "2026-05-19T17:45:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/data-analytics/data-agent-kit-brings-data-skills-and-tools-to-your-ide-or-cli": {
+    "title": "The future of agentic development: Redefining the data practitioner lifecycle with Data Agent Kit",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-05-19T19:08:04.724561+00:00",
+    "published": "2026-05-19T17:45:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/ai-machine-learning/innovations-from-google-io-26-on-google-cloud": {
+    "title": "Everything Google Cloud customers need to know coming out of Google I/O",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-05-19T19:08:04.724561+00:00",
+    "published": "2026-05-19T17:45:00+00:00"
+  },
+  "https://blog.google/products-and-platforms/products/workspace/workspace-updates": {
+    "title": "New ways to create and get things done in Google Workspace",
+    "source": "Google AI Blog",
+    "first_seen": "2026-05-19T19:08:04.724561+00:00",
+    "published": "2026-05-19T17:45:00+00:00"
+  },
+  "https://blog.google/products-and-platforms/products/search/search-io-2026": {
+    "title": "A new era for AI Search",
+    "source": "Google AI Blog",
+    "first_seen": "2026-05-19T19:08:04.724561+00:00",
+    "published": "2026-05-19T17:45:00+00:00"
+  },
+  "https://blog.google/products-and-platforms/products/search/ai-mode-us-insights": {
+    "title": "How AI Mode is changing the way people search in the U.S.",
+    "source": "Google AI Blog",
+    "first_seen": "2026-05-19T19:08:04.724561+00:00",
+    "published": "2026-05-19T17:45:00+00:00"
+  },
+  "https://blog.google/products-and-platforms/products/google-one/google-ai-subscriptions": {
+    "title": "Everything new in our Google AI subscriptions, fresh from I/O 2026",
+    "source": "Google AI Blog",
+    "first_seen": "2026-05-19T19:08:04.724561+00:00",
+    "published": "2026-05-19T17:45:00+00:00"
+  },
+  "https://blog.google/innovation-and-ai/technology/developers-tools/google-io-2026-collection": {
+    "title": "I/O 2026",
+    "source": "Google AI Blog",
+    "first_seen": "2026-05-19T19:08:04.724561+00:00",
+    "published": "2026-05-19T17:45:00+00:00"
+  },
+  "https://blog.google/innovation-and-ai/sundar-pichai-io-2026": {
+    "title": "I/O 2026: Welcome to the agentic Gemini era",
+    "source": "Google AI Blog",
+    "first_seen": "2026-05-19T19:08:04.724561+00:00",
+    "published": "2026-05-19T17:45:00+00:00"
+  },
+  "https://forum.cursor.com/t/cloud-agents-broken-ii/161036": {
+    "title": "Cursor Cloud Agents Down",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-19T19:08:04.724561+00:00",
+    "published": "2026-05-19T17:37:19+00:00"
+  },
+  "https://opensource.microsoft.com/blog/2026/05/19/introducing-state-bench-a-benchmark-for-ai-agent-memory": {
+    "title": "Introducing STATE-Bench: A benchmark for AI agent memory",
+    "source": "Microsoft Open Source",
+    "first_seen": "2026-05-19T19:08:04.724561+00:00",
+    "published": "2026-05-19T17:30:00+00:00"
+  },
+  "https://io.google/2026": {
+    "title": "Google I/O",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-19T19:08:04.724561+00:00",
+    "published": "2026-05-19T17:01:25+00:00"
+  },
+  "https://medium.com/airbnb-engineering/scaling-airbnbs-identity-graph-with-a-unified-knowledge-graph-infrastructure-ebac467b7836?source=rss----53c7c27702d5---4": {
+    "title": "Scaling Airbnb’s identity graph with a unified knowledge graph infrastructure",
+    "source": "Airbnb Engineering",
+    "first_seen": "2026-05-19T19:08:04.724561+00:00",
+    "published": "2026-05-19T17:01:01+00:00"
+  },
+  "https://www.hashicorp.com/blog/azure-hub-and-spoke-generally-available-for-hcp-vault-dedicated": {
+    "title": "Azure hub-and-spoke generally available for HCP Vault Dedicated",
+    "source": "HashiCorp Blog",
+    "first_seen": "2026-05-19T19:08:04.724561+00:00",
+    "published": "2026-05-19T17:00:00+00:00"
+  },
+  "https://newsletter.pragmaticengineer.com/p/ai-impact-on-software-engineers-part-2": {
+    "title": "AI’s impact on software engineers in 2026: key trends, Part 2",
+    "source": "The Pragmatic Engineer",
+    "first_seen": "2026-05-19T19:08:04.724561+00:00",
+    "published": "2026-05-19T16:43:10+00:00"
+  },
+  "https://magazine.sebastianraschka.com/p/recent-developments-in-llm-architectures": {
+    "title": "KV Sharing, MHC, and Compressed Attention",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-19T19:08:04.724561+00:00",
+    "published": "2026-05-19T16:40:27+00:00"
+  },
+  "https://martinfowler.com/articles/sensors-for-coding-agents.html": {
+    "title": "Maintainability sensors for coding agents",
+    "source": "Martin Fowler",
+    "first_seen": "2026-05-19T19:08:04.724561+00:00",
+    "published": "2026-05-19T16:38:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/security/governing-infrastructure-as-code-using-pattern-based-policy-as-code": {
+    "title": "Governing infrastructure as code using pattern-based policy as code",
+    "source": "AWS Security Blog",
+    "first_seen": "2026-05-19T19:08:04.724561+00:00",
+    "published": "2026-05-19T16:15:31+00:00"
+  },
+  "https://lwn.net/Articles/1073579": {
+    "title": "Firefox 151.0 released",
+    "source": "LWN.net",
+    "first_seen": "2026-05-19T19:08:04.724561+00:00",
+    "published": "2026-05-19T16:10:38+00:00"
+  },
+  "https://www.databricks.com/blog/stop-rogue-ai-how-unity-catalog-secures-your-agent-actions": {
+    "title": "Stop rogue AI: How Unity Catalog secures your agent actions",
+    "source": "Databricks Blog",
+    "first_seen": "2026-05-19T19:08:04.724561+00:00",
+    "published": "2026-05-19T15:58:36+00:00"
+  },
+  "https://www.databricks.com/blog/why-ai-security-infrastructure-now-cmo-priority": {
+    "title": "Why AI Security Infrastructure is Now a CMO Priority",
+    "source": "Databricks Blog",
+    "first_seen": "2026-05-19T19:08:04.724561+00:00",
+    "published": "2026-05-19T15:33:00+00:00"
+  },
+  "https://www.databricks.com/blog/introducing-ai-spend-controls-unity-ai-gateway": {
+    "title": "Introducing AI spend controls with Unity AI Gateway",
+    "source": "Databricks Blog",
+    "first_seen": "2026-05-19T19:08:04.724561+00:00",
+    "published": "2026-05-19T14:04:00+00:00"
+  },
+  "https://www.databricks.com/blog/how-safeguard-ai-workloads-unity-ai-gateway-guardrails": {
+    "title": "How to safeguard AI workloads with Unity AI Gateway Guardrails",
+    "source": "Databricks Blog",
+    "first_seen": "2026-05-19T19:08:04.724561+00:00",
+    "published": "2026-05-19T13:53:57+00:00"
+  },
+  "https://www.databricks.com/blog/whats-new-unity-ai-gateway-service-policies-guardrails-observability-and-cost-controls-ai": {
+    "title": "What’s new in Unity AI Gateway: service policies, guardrails, observability, and cost controls for AI agents and MCPs",
+    "source": "Databricks Blog",
+    "first_seen": "2026-05-19T19:08:04.724561+00:00",
+    "published": "2026-05-19T13:46:13+00:00"
+  },
+  "https://openai.com/index/advancing-content-provenance": {
+    "title": "Advancing content provenance for a safer, more transparent AI ecosystem",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-05-19T19:08:04.724561+00:00",
+    "published": "2026-05-19T10:45:00+00:00"
+  },
+  "https://www.databricks.com/blog/memex-programmable-scratchpad-llm-agents": {
+    "title": "MemEx: A Programmable Scratchpad for LLM Agents",
+    "source": "Databricks Blog",
+    "first_seen": "2026-05-19T19:08:04.724561+00:00",
+    "published": "2026-05-19T09:01:42+00:00"
+  },
+  "https://developer.chrome.com/blog/html-in-canvas-origin-trial?hl=en": {
+    "title": "Introducing the HTML-in-Canvas API origin trial",
+    "source": "Chrome Developers",
+    "first_seen": "2026-05-19T19:08:04.724561+00:00",
+    "published": "2026-05-19T07:00:00+00:00"
+  },
+  "https://developer.chrome.com/blog/declarative-partial-updates?hl=en": {
+    "title": "Declarative partial updates",
+    "source": "Chrome Developers",
+    "first_seen": "2026-05-19T19:08:04.724561+00:00",
+    "published": "2026-05-19T07:00:00+00:00"
   }
 }
