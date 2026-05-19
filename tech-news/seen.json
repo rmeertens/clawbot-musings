@@ -23702,5 +23702,299 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-05-19T11:07:27.808509+00:00",
     "published": "2026-05-17T19:12:15+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/nine-entertainments-journey-achieving-98-cost-savings-with-amazon-elasticache-serverless-for-valkey": {
+    "title": "Nine Entertainment’s journey: Achieving 98% cost savings with Amazon ElastiCache Serverless for Valkey",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-05-19T16:04:47.704087+00:00",
+    "published": "2026-05-19T15:59:19+00:00"
+  },
+  "https://superlog.sh": {
+    "title": "Launch HN: Superlog (YC P26) – Observability that installs itself and fixes bugs",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-19T16:04:47.704087+00:00",
+    "published": "2026-05-19T15:54:06+00:00"
+  },
+  "https://virtualosmuseum.org": {
+    "title": "I've built a virtual museum with nearly every operating system you can think of",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-19T16:04:47.704087+00:00",
+    "published": "2026-05-19T15:53:38+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/automated-jdbc-query-caching-with-the-aws-advanced-jdbc-wrapper": {
+    "title": "Automated JDBC query caching with the AWS Advanced JDBC Wrapper",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-05-19T16:04:47.704087+00:00",
+    "published": "2026-05-19T15:53:24+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/a-systematic-approach-to-benchmarking-sql-processing-engines-on-aws": {
+    "title": "A systematic approach to benchmarking SQL processing engines on AWS",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-05-19T16:04:47.704087+00:00",
+    "published": "2026-05-19T15:44:02+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/build-petabyte-scale-synthetic-test-data-with-amazon-emr-on-ec2": {
+    "title": "Build petabyte-scale synthetic test data with Amazon EMR on EC2",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-05-19T16:04:47.704087+00:00",
+    "published": "2026-05-19T15:42:49+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/meet-amazon-redshift-rg-aws-graviton-based-instances-with-an-integrated-data-lake-query-engine-delivering-up-to-2-4x-better-performance-at-30-lower-price-than-ra3": {
+    "title": "Meet Amazon Redshift RG – AWS Graviton-based instances with an integrated data lake query engine delivering up to 2.4x better performance at 30% lower price than RA3",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-05-19T16:04:47.704087+00:00",
+    "published": "2026-05-19T15:38:08+00:00"
+  },
+  "https://blog.bytebytego.com/p/how-snapchat-serves-a-billion-predictions": {
+    "title": "How Snapchat Serves a Billion Predictions Per Second",
+    "source": "ByteByteGo",
+    "first_seen": "2026-05-19T16:04:47.704087+00:00",
+    "published": "2026-05-19T15:31:28+00:00"
+  },
+  "https://www.databricks.com/blog/databricks-context-engineer-associate-industrys-first-certification-reliable-ai-agent-systems": {
+    "title": "Databricks context engineer associate: the industry’s first certification for reliable AI agent systems",
+    "source": "Databricks Blog",
+    "first_seen": "2026-05-19T16:04:47.704087+00:00",
+    "published": "2026-05-19T15:30:00+00:00"
+  },
+  "https://www.gentoo.org/news/2026/05/19/copy-fail-fragnesia-vulnerabilities.html": {
+    "title": "Gentoo News: Copy Fail, Dirty Frag, and Fragnesia Kernel Vulnerabilities",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-19T16:04:47.704087+00:00",
+    "published": "2026-05-19T15:27:53+00:00"
+  },
+  "https://lwn.net/Articles/1072689": {
+    "title": "[$] openSUSE \"terms of site\" raise complaints about age restrictions",
+    "source": "LWN.net",
+    "first_seen": "2026-05-19T16:04:47.704087+00:00",
+    "published": "2026-05-19T15:27:08+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/scalable-voice-agent-design-with-amazon-nova-sonic-multi-agent-tools-and-session-segmentation": {
+    "title": "Scalable voice agent design with Amazon Nova Sonic: multi-agent, tools, and session segmentation",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-05-19T16:04:47.704087+00:00",
+    "published": "2026-05-19T15:26:37+00:00"
+  },
+  "https://www.phoronix.com/news/AMD-EPYC-8005-SKU-Table": {
+    "title": "AMD Announces The EPYC 8005 Series SKUs From 8 To 84 Cores",
+    "source": "Phoronix",
+    "first_seen": "2026-05-19T16:04:47.704087+00:00",
+    "published": "2026-05-19T15:25:38+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/extending-conversational-memory-in-kiro-cli-using-amazon-bedrock-agentcore-memory": {
+    "title": "Extending conversational memory in Kiro CLI using Amazon Bedrock AgentCore Memory",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-05-19T16:04:47.704087+00:00",
+    "published": "2026-05-19T15:23:22+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/accelerate-ml-feature-pipelines-with-new-capabilities-in-amazon-sagemaker-feature-store": {
+    "title": "Accelerate ML feature pipelines with new capabilities in Amazon SageMaker Feature Store",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-05-19T16:04:47.704087+00:00",
+    "published": "2026-05-19T15:20:33+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/implementing-programmatic-tool-calling-on-amazon-bedrock": {
+    "title": "Implementing programmatic tool calling on Amazon Bedrock",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-05-19T16:04:47.704087+00:00",
+    "published": "2026-05-19T15:17:00+00:00"
+  },
+  "https://thenewstack.io/valkey-91-cuts-memory": {
+    "title": "Valkey just had a 17x year. Its lead maintainer still doesn’t want Redis to die.",
+    "source": "The New Stack",
+    "first_seen": "2026-05-19T16:04:47.704087+00:00",
+    "published": "2026-05-19T15:14:16+00:00"
+  },
+  "https://aws.amazon.com/blogs/architecture/how-als-geoanalytics-litholens-revolutionizes-core-logging-through-machine-learning-with-amazon-eks": {
+    "title": "How ALS GeoAnalytics LITHOLENS ™ revolutionizes core logging through machine learning with Amazon EKS",
+    "source": "AWS Architecture Blog",
+    "first_seen": "2026-05-19T16:04:47.704087+00:00",
+    "published": "2026-05-19T15:09:36+00:00"
+  },
+  "https://twitter.com/karpathy/status/2056753169888334312": {
+    "title": "I’ve joined Anthropic",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-19T16:04:47.704087+00:00",
+    "published": "2026-05-19T15:07:45+00:00"
+  },
+  "https://aws.amazon.com/blogs/architecture/how-synthesia-optimizes-generative-ai-video-inference-on-amazon-ec2-g7e-instances": {
+    "title": "How Synthesia optimizes generative AI video inference on Amazon EC2 G7e instances",
+    "source": "AWS Architecture Blog",
+    "first_seen": "2026-05-19T16:04:47.704087+00:00",
+    "published": "2026-05-19T15:06:40+00:00"
+  },
+  "https://www.phoronix.com/news/OpenBSD-7.9-Released": {
+    "title": "OpenBSD 7.9 Released With Support For Up To 255 x86_64 CPU Cores, WiFi 6",
+    "source": "Phoronix",
+    "first_seen": "2026-05-19T16:04:47.704087+00:00",
+    "published": "2026-05-19T15:03:40+00:00"
+  },
+  "https://www.ox.ac.uk/news/2026-05-15-why-is-almost-everyone-right-handed-the-answer-may-lie-in-how-we-learned-to-walk": {
+    "title": "Why is almost everyone right-handed?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-19T16:04:47.704087+00:00",
+    "published": "2026-05-19T14:50:42+00:00"
+  },
+  "https://thenewstack.io/anthropic-mcp-tunnels-sandboxes": {
+    "title": "Anthropic debuts MCP tunnels and self-hosted sandboxes to lock down AI agent infrastructure",
+    "source": "The New Stack",
+    "first_seen": "2026-05-19T16:04:47.704087+00:00",
+    "published": "2026-05-19T14:31:23+00:00"
+  },
+  "https://lwn.net/Articles/1073395": {
+    "title": "[$] In search of faster this_cpu operations",
+    "source": "LWN.net",
+    "first_seen": "2026-05-19T16:04:47.704087+00:00",
+    "published": "2026-05-19T14:30:40+00:00"
+  },
+  "https://lwn.net/Articles/1072858": {
+    "title": "[$] What's brewing in CXL",
+    "source": "LWN.net",
+    "first_seen": "2026-05-19T16:04:47.704087+00:00",
+    "published": "2026-05-19T14:15:48+00:00"
+  },
+  "https://arstechnica.com/tech-policy/2026/05/iran-demands-big-tech-pay-fees-for-undersea-internet-cables-in-strait-of-hormuz": {
+    "title": "Iran demands Big Tech pay fees for undersea Internet cables in Strait of Hormuz",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-19T16:04:47.704087+00:00",
+    "published": "2026-05-19T14:12:35+00:00"
+  },
+  "https://setpose.com": {
+    "title": "Show HN: I made a 3D pose maker for artists",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-19T16:04:47.704087+00:00",
+    "published": "2026-05-19T14:04:19+00:00"
+  },
+  "https://thenewstack.io/rag-retrieval-scaling-architecture": {
+    "title": "Why production RAG systems give confident, wrong answers at scale",
+    "source": "The New Stack",
+    "first_seen": "2026-05-19T16:04:47.704087+00:00",
+    "published": "2026-05-19T14:00:00+00:00"
+  },
+  "https://tailscale.com/blog/tailscale-up-agenda-five-picks": {
+    "title": "Five TailscaleUp sessions I’d attend if I didn’t work here",
+    "source": "Tailscale Blog",
+    "first_seen": "2026-05-19T16:04:47.704087+00:00",
+    "published": "2026-05-19T14:00:00+00:00"
+  },
+  "https://realpython.com/courses/tapping-into-the-zen-of-python": {
+    "title": "Tapping Into the Zen of Python",
+    "source": "Real Python",
+    "first_seen": "2026-05-19T16:04:47.704087+00:00",
+    "published": "2026-05-19T14:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/Mageia-10-RC1": {
+    "title": "Mageia 10 RC1 Released With Newer Packages",
+    "source": "Phoronix",
+    "first_seen": "2026-05-19T16:04:47.704087+00:00",
+    "published": "2026-05-19T13:52:42+00:00"
+  },
+  "https://opentelemetry.io/blog/2026/security-legacy-environments": {
+    "title": "Applying OpenTelemetry Security Practices in Legacy Environments",
+    "source": "OpenTelemetry Blog",
+    "first_seen": "2026-05-19T16:04:47.704087+00:00",
+    "published": "2026-05-19T13:38:41+00:00"
+  },
+  "https://lwn.net/Articles/1072840": {
+    "title": "[$] Improving the per-CPU memory allocator",
+    "source": "LWN.net",
+    "first_seen": "2026-05-19T16:04:47.704087+00:00",
+    "published": "2026-05-19T13:27:28+00:00"
+  },
+  "https://lwn.net/Articles/1073542": {
+    "title": "Security updates for Tuesday",
+    "source": "LWN.net",
+    "first_seen": "2026-05-19T16:04:47.704087+00:00",
+    "published": "2026-05-19T13:24:00+00:00"
+  },
+  "https://www.openbsd.org/79.html": {
+    "title": "OpenBSD 7.9",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-19T16:04:47.704087+00:00",
+    "published": "2026-05-19T13:11:51+00:00"
+  },
+  "https://www.phoronix.com/news/Ubuntu-Core-26": {
+    "title": "Ubuntu Core 26 Released With Live Kernel Patching, Better OTA Updates",
+    "source": "Phoronix",
+    "first_seen": "2026-05-19T16:04:47.704087+00:00",
+    "published": "2026-05-19T13:01:36+00:00"
+  },
+  "https://thenewstack.io/steve-yegges-ai-agent-orchestration-project-gas-town-comes-to-the-cloud-and-brings-the-wasteland-with-it": {
+    "title": "Steve Yegge’s AI agent orchestration project Gas Town comes to the cloud — and brings the Wasteland with it",
+    "source": "The New Stack",
+    "first_seen": "2026-05-19T16:04:47.704087+00:00",
+    "published": "2026-05-19T13:00:00+00:00"
+  },
+  "https://blog.cloudflare.com/claude-managed-agents": {
+    "title": "Announcing Claude Managed Agents on Cloudflare",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-05-19T16:04:47.704087+00:00",
+    "published": "2026-05-19T13:00:00+00:00"
+  },
+  "https://en.wikipedia.org/wiki/Colonization_of_Venus": {
+    "title": "Colonization of Venus",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-19T16:04:47.704087+00:00",
+    "published": "2026-05-19T12:26:45+00:00"
+  },
+  "https://gizmodo.com/the-worst-leak-that-ive-witnessed-u-s-cybersecurity-agency-leaves-its-digital-keys-out-in-public-on-github-2000760330": {
+    "title": "U.S. Cybersecurity Agency Leaves Its Digital Keys Out in Public on GitHub",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-19T16:04:47.704087+00:00",
+    "published": "2026-05-19T12:24:55+00:00"
+  },
+  "https://lwn.net/Articles/1073470": {
+    "title": "pgBackRest will continue",
+    "source": "LWN.net",
+    "first_seen": "2026-05-19T16:04:47.704087+00:00",
+    "published": "2026-05-19T12:05:42+00:00"
+  },
+  "https://www.apple.com/newsroom/2026/05/apple-unveils-new-accessibility-features-and-updates-with-apple-intelligence": {
+    "title": "New accessibility features powered by Apple Intelligence",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-19T16:04:47.704087+00:00",
+    "published": "2026-05-19T12:04:18+00:00"
+  },
+  "https://thenewstack.io/pulumi-infrastructure-agent-era": {
+    "title": "Pulumi bets infrastructure’s next decade belongs to AI agents",
+    "source": "The New Stack",
+    "first_seen": "2026-05-19T16:04:47.704087+00:00",
+    "published": "2026-05-19T12:00:00+00:00"
+  },
+  "https://realpython.com/quizzes/tapping-into-the-zen-of-python": {
+    "title": "Quiz: Tapping Into the Zen of Python",
+    "source": "Real Python",
+    "first_seen": "2026-05-19T16:04:47.704087+00:00",
+    "published": "2026-05-19T12:00:00+00:00"
+  },
+  "https://realpython.com/quizzes/absolute-vs-relative-python-imports": {
+    "title": "Quiz: Absolute vs Relative Imports in Python",
+    "source": "Real Python",
+    "first_seen": "2026-05-19T16:04:47.704087+00:00",
+    "published": "2026-05-19T12:00:00+00:00"
+  },
+  "https://technicshistory.com/2026/05/19/an-apple-ii-for-teacher": {
+    "title": "An Apple (II) for Teacher",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-19T16:04:47.704087+00:00",
+    "published": "2026-05-19T00:25:50+00:00"
+  },
+  "https://www.redpanda.com/blog/cloud-topics-level-zero-garbage-collection": {
+    "title": "Cloud Topics: Level Zero garbage collection",
+    "source": "Redpanda Blog",
+    "first_seen": "2026-05-19T16:04:47.704087+00:00",
+    "published": "2026-05-19T00:00:00+00:00"
+  },
+  "https://www.elastic.co/blog/elasticsearch-platform-missing-piece-ai-stack": {
+    "title": "Why the Elasticsearch Platform is the missing piece in your AI stack",
+    "source": "Elastic Blog",
+    "first_seen": "2026-05-19T16:04:47.704087+00:00",
+    "published": "2026-05-19T00:00:00+00:00"
+  },
+  "https://huggingface.co/blog/ettin-reranker": {
+    "title": "Introducing the Ettin Reranker Family",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-05-19T16:04:47.704087+00:00",
+    "published": "2026-05-19T00:00:00+00:00"
   }
 }
