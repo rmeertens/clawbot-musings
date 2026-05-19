@@ -24242,5 +24242,89 @@
     "source": "Chrome Developers",
     "first_seen": "2026-05-19T19:08:04.724561+00:00",
     "published": "2026-05-19T07:00:00+00:00"
+  },
+  "https://thenewstack.io/andrej-karpathy-anthropic-pretraining": {
+    "title": "Anthropic hires OpenAI co-founder Andrej Karpathy to lead Claude pre-training research",
+    "source": "The New Stack",
+    "first_seen": "2026-05-19T21:28:19.648544+00:00",
+    "published": "2026-05-19T20:51:00+00:00"
+  },
+  "https://developer.nvidia.com/blog/mastering-agentic-techniques-ai-agent-evaluation": {
+    "title": "Mastering Agentic Techniques: AI Agent Evaluation",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-05-19T21:28:19.648544+00:00",
+    "published": "2026-05-19T20:00:00+00:00"
+  },
+  "https://www.autonocion.com/us/tesla-lithium-refinery-texas": {
+    "title": "Tesla's lithium refinery discharges 231,000 gallons of polluted wastewater a day",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-19T21:28:19.648544+00:00",
+    "published": "2026-05-19T19:52:49+00:00"
+  },
+  "https://www.databricks.com/blog/how-build-real-time-fraud-detection-using-spark-real-time-mode-and-lakebase": {
+    "title": "How to Build Real-Time Fraud Detection using Spark Real-Time Mode and Lakebase",
+    "source": "Databricks Blog",
+    "first_seen": "2026-05-19T21:28:19.648544+00:00",
+    "published": "2026-05-19T19:30:00+00:00"
+  },
+  "https://nesbitt.io/2026/05/19/dumb-ways-for-an-open-source-project-to-die.html": {
+    "title": "Dumb Ways for an Open Source Project to Die",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-19T21:28:19.648544+00:00",
+    "published": "2026-05-19T19:22:56+00:00"
+  },
+  "https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai": {
+    "title": "Mistral AI Acquires Emmi AI to Create the Leading AI Stack",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-19T21:28:19.648544+00:00",
+    "published": "2026-05-19T19:14:12+00:00"
+  },
+  "https://www.npr.org/2026/05/19/nx-s1-5821265/minnesota-ban-prediction-markets": {
+    "title": "Minnesota becomes first state to ban prediction markets",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-19T21:28:19.648544+00:00",
+    "published": "2026-05-19T19:13:26+00:00"
+  },
+  "https://www.databricks.com/blog/how-databricks-genie-improves-supply-chain-visibility-real-time-ai-analytics": {
+    "title": "How Databricks Genie improves supply chain visibility with real-time AI analytics",
+    "source": "Databricks Blog",
+    "first_seen": "2026-05-19T21:28:19.648544+00:00",
+    "published": "2026-05-19T19:08:59+00:00"
+  },
+  "https://www.docker.com/blog/meet-gordon-dockers-ai-agent-for-your-entire-container-workflow": {
+    "title": "Meet Gordon: Docker’s AI Agent For Your Entire Container Workflow",
+    "source": "Docker Blog",
+    "first_seen": "2026-05-19T21:28:19.648544+00:00",
+    "published": "2026-05-19T19:08:04+00:00"
+  },
+  "https://www.natesilver.net/p/disney-erased-fivethirtyeight": {
+    "title": "Disney erased FiveThirtyEight",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-19T21:28:19.648544+00:00",
+    "published": "2026-05-19T18:56:25+00:00"
+  },
+  "https://www.databricks.com/blog/cfos-guide-managing-value-based-care-financial-performance": {
+    "title": "A CFO’s guide to managing value-based care financial performance",
+    "source": "Databricks Blog",
+    "first_seen": "2026-05-19T21:28:19.648544+00:00",
+    "published": "2026-05-19T17:38:20+00:00"
+  },
+  "https://github.com/antoinezambelli/forge": {
+    "title": "Show HN: Forge – Guardrails take an 8B model from 53% to 99% on agentic tasks",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-19T21:28:19.648544+00:00",
+    "published": "2026-05-19T12:23:07+00:00"
+  },
+  "https://developer.chrome.com/blog/devtools-for-agents-v1?hl=en": {
+    "title": "Streamline your AI coding workflow with Chrome DevTools for agents 1.0",
+    "source": "Chrome Developers",
+    "first_seen": "2026-05-19T21:28:19.648544+00:00",
+    "published": "2026-05-19T07:00:00+00:00"
+  },
+  "https://developer.chrome.com/blog/chrome-at-io26?hl=en": {
+    "title": "15 updates from Google I/O 2026: Powering the agentic web with new capabilities, tools, and features in Chrome",
+    "source": "Chrome Developers",
+    "first_seen": "2026-05-19T21:28:19.648544+00:00",
+    "published": "2026-05-19T07:00:00+00:00"
   }
 }
