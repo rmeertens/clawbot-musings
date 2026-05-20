@@ -24914,5 +24914,143 @@
     "source": "OpenAI Blog",
     "first_seen": "2026-05-20T19:08:18.296352+00:00",
     "published": "2026-05-20T00:00:00+00:00"
+  },
+  "https://vmax.ai/team/populora-co-evolving-llm-populations-for-reasoning-self-play": {
+    "title": "PopuLoRA: Co-Evolving LLM Populations for Reasoning Self- Play",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-20T21:31:27.833843+00:00",
+    "published": "2026-05-20T21:11:55+00:00"
+  },
+  "https://thenewstack.io/nanoco-nanoclaw-sandboxed-agent": {
+    "title": "NanoCo bets the future of enterprise AI is one sandboxed agent per employee",
+    "source": "The New Stack",
+    "first_seen": "2026-05-20T21:31:27.833843+00:00",
+    "published": "2026-05-20T21:11:28+00:00"
+  },
+  "https://github.blog/security/investigating-unauthorized-access-to-githubs-internal-repositories": {
+    "title": "Investigating unauthorized access to GitHub’s internal repositories",
+    "source": "GitHub Blog",
+    "first_seen": "2026-05-20T21:31:27.833843+00:00",
+    "published": "2026-05-20T21:07:38+00:00"
+  },
+  "https://www.tbray.org/ongoing/When/202x/2026/05/19/Declining-America": {
+    "title": "Declining America",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-20T21:31:27.833843+00:00",
+    "published": "2026-05-20T20:58:09+00:00"
+  },
+  "https://aws.amazon.com/blogs/security/why-policy-in-amazon-bedrock-agentcore-chose-cedar-for-securing-agentic-workflows": {
+    "title": "Why Policy in Amazon Bedrock AgentCore chose Cedar for securing agentic workflows",
+    "source": "AWS Security Blog",
+    "first_seen": "2026-05-20T21:31:27.833843+00:00",
+    "published": "2026-05-20T20:56:03+00:00"
+  },
+  "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/missouri-programs": {
+    "title": "We’re announcing new community investments in Missouri.",
+    "source": "Google AI Blog",
+    "first_seen": "2026-05-20T21:31:27.833843+00:00",
+    "published": "2026-05-20T20:40:00+00:00"
+  },
+  "https://tldr.nettime.org/@tante/116605858023186072": {
+    "title": "In Yesterday's IO Keynote Google Declared War on the Remnants of the Web",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-20T21:31:27.833843+00:00",
+    "published": "2026-05-20T20:30:11+00:00"
+  },
+  "https://www.scientificamerican.com/article/spacex-punts-starship-v3-launch-to-may-21-as-investigation-opens-into-starbase-worker-death": {
+    "title": "SpaceX punts Starship launch as investigation opens into Starbase worker's death",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-20T21:31:27.833843+00:00",
+    "published": "2026-05-20T20:21:14+00:00"
+  },
+  "https://developer.nvidia.com/blog/mastering-agentic-techniques-ai-agent-customization": {
+    "title": "Mastering Agentic Techniques: AI Agent Customization",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-05-20T21:31:27.833843+00:00",
+    "published": "2026-05-20T20:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.2-Likely-CAS": {
+    "title": "The Very Exciting Cache Aware Scheduling Looks Like It Will Land For Linux 7.2",
+    "source": "Phoronix",
+    "first_seen": "2026-05-20T21:31:27.833843+00:00",
+    "published": "2026-05-20T19:44:10+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/best-practices-for-amazon-dynamodb-global-tables-part-3-validating-regional-resilience-with-aws-fault-injection-service": {
+    "title": "Best practices for Amazon DynamoDB Global Tables – Part 3: Validating regional resilience with AWS Fault Injection Service",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-05-20T21:31:27.833843+00:00",
+    "published": "2026-05-20T19:44:07+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/best-practices-for-amazon-dynamodb-global-tables-part-2-failover-strategies": {
+    "title": "Best practices for Amazon DynamoDB Global Tables – Part 2: Failover strategies",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-05-20T21:31:27.833843+00:00",
+    "published": "2026-05-20T19:43:38+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/best-practices-for-amazon-dynamodb-global-tables-part-1-operational-readiness": {
+    "title": "Best practices for Amazon DynamoDB Global Tables – Part 1: Operational readiness",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-05-20T21:31:27.833843+00:00",
+    "published": "2026-05-20T19:43:04+00:00"
+  },
+  "https://www.science.org/content/article/not-alive-not-dead-disembodied-human-brains-used-drug-testing": {
+    "title": "Not alive, but not dead: disembodied human brains used for drug testing",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-20T21:31:27.833843+00:00",
+    "published": "2026-05-20T19:38:25+00:00"
+  },
+  "https://blog.google/innovation-and-ai/technology/ai/google-io-2026-all-our-announcements": {
+    "title": "100 things we announced at I/O 2026",
+    "source": "Google AI Blog",
+    "first_seen": "2026-05-20T21:31:27.833843+00:00",
+    "published": "2026-05-20T19:30:00+00:00"
+  },
+  "https://nodejs.org/en/blog/release/v26.0.0": {
+    "title": "Node.js 26.0.0 (Now with Temporal)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-20T21:31:27.833843+00:00",
+    "published": "2026-05-20T18:48:30+00:00"
+  },
+  "https://docs.flipper.net/one/general/tech-specs": {
+    "title": "Flipper One Tech Specs",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-20T21:31:27.833843+00:00",
+    "published": "2026-05-20T18:33:56+00:00"
+  },
+  "https://www.usni.org/magazines/naval-history/2025/december/missile-genius-america-lost-and-china-gained": {
+    "title": "Qian Xuesen: The missile genius America lost and China gained (2025)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-20T21:31:27.833843+00:00",
+    "published": "2026-05-20T17:48:52+00:00"
+  },
+  "https://www.hashicorp.com/blog/encrypting-large-artifacts-and-streaming-workloads-with-vault": {
+    "title": "Encrypting large artifacts and streaming workloads with Vault",
+    "source": "HashiCorp Blog",
+    "first_seen": "2026-05-20T21:31:27.833843+00:00",
+    "published": "2026-05-20T17:00:00+00:00"
+  },
+  "https://github.com/mupt-ai/dari-docs": {
+    "title": "Show HN: Dari-docs – Optimize your docs using parallel coding agents",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-20T21:31:27.833843+00:00",
+    "published": "2026-05-20T16:53:07+00:00"
+  },
+  "https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension": {
+    "title": "GitHub confirms breach of 3,800 repos via malicious VSCode extension",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-20T21:31:27.833843+00:00",
+    "published": "2026-05-20T13:43:37+00:00"
+  },
+  "https://openai.com/index/ramp": {
+    "title": "How Ramp engineers accelerate code review with Codex",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-05-20T21:31:27.833843+00:00",
+    "published": "2026-05-20T00:00:00+00:00"
+  },
+  "http://brooker.co.za/blog/2026/05/20/hypothesis.html": {
+    "title": "Agentic software development hypothesis",
+    "source": "Marc Brooker",
+    "first_seen": "2026-05-20T21:31:27.833843+00:00",
+    "published": "2026-05-20T00:00:00+00:00"
   }
 }
