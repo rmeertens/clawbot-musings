@@ -24764,5 +24764,155 @@
     "source": "Elastic Blog",
     "first_seen": "2026-05-20T16:10:04.160129+00:00",
     "published": "2026-05-20T00:00:00+00:00"
+  },
+  "https://www.beyondplastics.org/press-releases/starbucks-cups-recyclable-report": {
+    "title": "None of Starbucks' 'Widely Recyclable' Cups Ended Up at a Recycling Facility",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-20T19:08:18.296352+00:00",
+    "published": "2026-05-20T18:50:59+00:00"
+  },
+  "https://newatlas.com/energy/cooling-copper-plates-data-center-energy-use": {
+    "title": "Cooling copper plates could slash data center energy use by 90%",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-20T19:08:18.296352+00:00",
+    "published": "2026-05-20T18:15:55+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/multimodal-evaluators-mllm-as-a-judge-for-image-to-text-tasks-in-strands-evals": {
+    "title": "Multimodal evaluators: MLLM-as-a-judge for image-to-text tasks in Strands Evals",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-05-20T19:08:18.296352+00:00",
+    "published": "2026-05-20T18:01:29+00:00"
+  },
+  "https://simonwillison.net/2026/May/20/tokens-per-second": {
+    "title": "How fast is 10 tokens per second really?",
+    "source": "Simon Willison",
+    "first_seen": "2026-05-20T19:08:18.296352+00:00",
+    "published": "2026-05-20T17:57:45+00:00"
+  },
+  "https://aws.amazon.com/blogs/security/aws-security-hub-extended-why-enterprise-security-products-should-sell-themselves": {
+    "title": "AWS Security Hub Extended: Why enterprise security products should sell themselves",
+    "source": "AWS Security Blog",
+    "first_seen": "2026-05-20T19:08:18.296352+00:00",
+    "published": "2026-05-20T17:32:58+00:00"
+  },
+  "https://aws.amazon.com/blogs/architecture/cyber-resilience-on-aws-a-reference-approach-for-recovery-from-ransomware-and-destructive-events": {
+    "title": "Cyber resilience on AWS: A reference approach for recovery from ransomware and destructive events",
+    "source": "AWS Architecture Blog",
+    "first_seen": "2026-05-20T19:08:18.296352+00:00",
+    "published": "2026-05-20T17:32:57+00:00"
+  },
+  "https://www.manton.org/2026/05/19/why-is-inkwell-stuck-in.html": {
+    "title": "Why is Inkwell stuck in review",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-20T19:08:18.296352+00:00",
+    "published": "2026-05-20T17:30:15+00:00"
+  },
+  "https://aws.amazon.com/blogs/containers/ai-powered-event-driven-amazon-eks-ami-updates-with-gitops": {
+    "title": "AI-powered event-driven Amazon EKS AMI updates with GitOps",
+    "source": "AWS Containers Blog",
+    "first_seen": "2026-05-20T19:08:18.296352+00:00",
+    "published": "2026-05-20T17:24:05+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/build-real-time-voice-applications-with-amazon-sagemaker-ai-and-vllm": {
+    "title": "Build real-time voice applications with Amazon SageMaker AI and vLLM",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-05-20T19:08:18.296352+00:00",
+    "published": "2026-05-20T17:10:17+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/introducing-extenddb-an-open-source-dynamodb-compatible-adapter-with-pluggable-storage-backends": {
+    "title": "Introducing ExtendDB: An open source DynamoDB-compatible adapter with pluggable storage backends",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-05-20T19:08:18.296352+00:00",
+    "published": "2026-05-20T16:54:00+00:00"
+  },
+  "https://news.ycombinator.com/item?id=48210590": {
+    "title": "Ask HN: Shouldn't Google need to give a public statement about Railway incident?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-20T19:08:18.296352+00:00",
+    "published": "2026-05-20T16:50:54+00:00"
+  },
+  "https://www.phoronix.com/news/Firefox-Nightly-New-Settings": {
+    "title": "Firefox 153 Nightly Rolls Out New Settings UI",
+    "source": "Phoronix",
+    "first_seen": "2026-05-20T19:08:18.296352+00:00",
+    "published": "2026-05-20T16:50:04+00:00"
+  },
+  "https://blog.google/innovation-and-ai/models-and-research/google-research/google-beam-group-meetings": {
+    "title": "A new experiment brings better group meetings to Google Beam",
+    "source": "Google AI Blog",
+    "first_seen": "2026-05-20T19:08:18.296352+00:00",
+    "published": "2026-05-20T16:45:00+00:00"
+  },
+  "https://www.reuters.com/world/middle-east/hormuz-closure-could-trigger-agrifood-shock-price-crisis-within-year-fao-warns-2026-05-20": {
+    "title": "Hormuz closure could trigger 'agrifood shock', price crisis within a year",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-20T19:08:18.296352+00:00",
+    "published": "2026-05-20T16:41:00+00:00"
+  },
+  "https://www.databricks.com/blog/unlock-seamless-and-cost-effective-marketing-campaigns-lakebase": {
+    "title": "Unlock seamless and cost-effective marketing campaigns with Lakebase",
+    "source": "Databricks Blog",
+    "first_seen": "2026-05-20T19:08:18.296352+00:00",
+    "published": "2026-05-20T16:30:00+00:00"
+  },
+  "https://twitter.com/pokemoncentral/status/2057123807404638250": {
+    "title": "Apparently Google hates us now",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-20T19:08:18.296352+00:00",
+    "published": "2026-05-20T16:27:25+00:00"
+  },
+  "https://newsletter.pragmaticengineer.com/p/why-rust-is-different-with-alice": {
+    "title": "Why Rust is different, with Alice Ryhl",
+    "source": "The Pragmatic Engineer",
+    "first_seen": "2026-05-20T19:08:18.296352+00:00",
+    "published": "2026-05-20T16:22:00+00:00"
+  },
+  "https://github.com/bytedance/Lance": {
+    "title": "Show HN: Lance – image/video generation and understanding in one model",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-20T19:08:18.296352+00:00",
+    "published": "2026-05-20T15:45:32+00:00"
+  },
+  "https://pvk.ca/Blog/2014/03/15/sbcl-the-ultimate-assembly-code-breadboard": {
+    "title": "SBCL: the ultimate assembly code breadboard (2014)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-20T19:08:18.296352+00:00",
+    "published": "2026-05-20T15:39:48+00:00"
+  },
+  "https://reubenbrooks.dev/blog/structural-backpressure-beats-smarter-agents": {
+    "title": "Formal Verification Gates for AI Coding Loops",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-20T19:08:18.296352+00:00",
+    "published": "2026-05-20T15:25:45+00:00"
+  },
+  "https://arxiv.org/abs/2605.17991": {
+    "title": "Stable Audio 3",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-20T19:08:18.296352+00:00",
+    "published": "2026-05-20T15:10:05+00:00"
+  },
+  "https://github.com/ueberdosis/hocuspocus": {
+    "title": "Show HN: Hocuspocus 4 – self-hosted Yjs collaboration backend",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-20T19:08:18.296352+00:00",
+    "published": "2026-05-20T14:51:00+00:00"
+  },
+  "https://www.databricks.com/blog/governing-ai-agents-scale-unity-catalog": {
+    "title": "Governing AI agents at scale with Unity Catalog",
+    "source": "Databricks Blog",
+    "first_seen": "2026-05-20T19:08:18.296352+00:00",
+    "published": "2026-05-20T12:41:42+00:00"
+  },
+  "https://blog.habets.se/2022/10/No-way-to-parse-integers-in-C.html": {
+    "title": "No way to parse integers in C (2022)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-20T19:08:18.296352+00:00",
+    "published": "2026-05-20T10:28:05+00:00"
+  },
+  "https://openai.com/index/model-disproves-discrete-geometry-conjecture": {
+    "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-05-20T19:08:18.296352+00:00",
+    "published": "2026-05-20T00:00:00+00:00"
   }
 }
