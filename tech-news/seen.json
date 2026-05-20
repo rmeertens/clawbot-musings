@@ -24554,5 +24554,215 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-05-20T11:07:56.395788+00:00",
     "published": "2026-05-20T09:09:40+00:00"
+  },
+  "https://developer.nvidia.com/blog/add-a-specialized-deep-research-skill-to-agent-harnesses": {
+    "title": "Add a Specialized Deep Research Skill to Agent Harnesses",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-05-20T16:10:04.160129+00:00",
+    "published": "2026-05-20T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/databases/urban-outfitters-moves-sterling-oms-to-alloydb-for-postgresql": {
+    "title": "Urban Outfitters achieves major cost savings by moving Sterling OMS to AlloyDB for PostgreSQL",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-05-20T16:10:04.160129+00:00",
+    "published": "2026-05-20T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/containers-kubernetes/bringing-you-agent-sandbox-on-gke-and-agent-substrate": {
+    "title": "Agent Sandbox on GKE is now available for everyone, and a first look at Agent Substrate",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-05-20T16:10:04.160129+00:00",
+    "published": "2026-05-20T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/ai-machine-learning/benchmark-llms-on-device-with-ai-edge-portal": {
+    "title": "Benchmark and optimize LLMs on-device with AI Edge Portal",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-05-20T16:10:04.160129+00:00",
+    "published": "2026-05-20T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/ai-machine-learning/agent-executor-googles-distributed-agent-runtime": {
+    "title": "Introducing Agent Executor, Google’s distributed Agent Runtime",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-05-20T16:10:04.160129+00:00",
+    "published": "2026-05-20T16:00:00+00:00"
+  },
+  "https://pytorch.org/blog/pytorch-docathon-2026-results": {
+    "title": "PyTorch Docathon 2026 Results in 150+ Merged Pull Requests",
+    "source": "PyTorch Blog",
+    "first_seen": "2026-05-20T16:10:04.160129+00:00",
+    "published": "2026-05-20T15:45:54+00:00"
+  },
+  "https://www.phoronix.com/review/spacemit-k3-pico-itx": {
+    "title": "Initial Benchmarks Of The SpacemiT K3 RVA23 RISC-V CPU With The K3 Pico-ITX",
+    "source": "Phoronix",
+    "first_seen": "2026-05-20T16:10:04.160129+00:00",
+    "published": "2026-05-20T15:43:25+00:00"
+  },
+  "https://simonwillison.net/2026/May/20/google-io": {
+    "title": "Google I/O, Gemini Spark, Antigravity",
+    "source": "Simon Willison",
+    "first_seen": "2026-05-20T16:10:04.160129+00:00",
+    "published": "2026-05-20T15:32:17+00:00"
+  },
+  "https://blog.bytebytego.com/p/how-netflix-is-using-multimodal-ai": {
+    "title": "How Netflix is Using Multimodal AI to Power Video Search",
+    "source": "ByteByteGo",
+    "first_seen": "2026-05-20T16:10:04.160129+00:00",
+    "published": "2026-05-20T15:31:07+00:00"
+  },
+  "https://thenewstack.io/ai-agents-knowledge-workers": {
+    "title": "Why six AI labs built the same product for knowledge workers in four months",
+    "source": "The New Stack",
+    "first_seen": "2026-05-20T16:10:04.160129+00:00",
+    "published": "2026-05-20T15:16:33+00:00"
+  },
+  "https://lithub.com/nobel-laureate-olga-tokarczuk-apparently-used-ai-to-write-her-latest-novel": {
+    "title": "Nobel laureate Olga Tokarczuk apparently used AI to write her latest novel",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-20T16:10:04.160129+00:00",
+    "published": "2026-05-20T15:10:43+00:00"
+  },
+  "https://github.com/shenli/distributed-system-testing": {
+    "title": "Testing distributed systems with AI agents",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-20T16:10:04.160129+00:00",
+    "published": "2026-05-20T14:40:42+00:00"
+  },
+  "https://www.fire.org/news/victory-tennessee-man-jailed-37-days-trump-meme-wins-835000-settlement-after-first-amendment": {
+    "title": "Victory: Tennessee man jailed 37 days for Trump meme wins $835,000 settlement",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-20T16:10:04.160129+00:00",
+    "published": "2026-05-20T14:30:47+00:00"
+  },
+  "https://www.phoronix.com/news/Intel-XMM6260-Modem-Linux": {
+    "title": "Patches Trying To Bring Mainline Linux Support For The Infineon/Intel XMM6260 Modem",
+    "source": "Phoronix",
+    "first_seen": "2026-05-20T16:10:04.160129+00:00",
+    "published": "2026-05-20T14:25:16+00:00"
+  },
+  "https://www.schneier.com/blog/archives/2026/05/on-ai-security.html": {
+    "title": "On AI Security",
+    "source": "Schneier on Security",
+    "first_seen": "2026-05-20T16:10:04.160129+00:00",
+    "published": "2026-05-20T14:21:20+00:00"
+  },
+  "https://tailscale.com/blog/aperture-cli-AI-experimentation": {
+    "title": "Introducing: Aperture CLI",
+    "source": "Tailscale Blog",
+    "first_seen": "2026-05-20T16:10:04.160129+00:00",
+    "published": "2026-05-20T14:15:00+00:00"
+  },
+  "https://realpython.com/claude-api-python": {
+    "title": "How to Use the Claude API in Python",
+    "source": "Real Python",
+    "first_seen": "2026-05-20T16:10:04.160129+00:00",
+    "published": "2026-05-20T14:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/Red-Hat-RHEL-10.2-RHEL-9.8": {
+    "title": "RHEL 10.2 Released With New AI Command Line Assistance",
+    "source": "Phoronix",
+    "first_seen": "2026-05-20T16:10:04.160129+00:00",
+    "published": "2026-05-20T13:51:42+00:00"
+  },
+  "https://danieltan.weblog.lol/2026/05/americas-greatest-strategic-blunder-the-imprisonment-of-qian-xuesen": {
+    "title": "America's Greatest Strategic Blunder: The Imprisonment of Qian Xuesen",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-20T16:10:04.160129+00:00",
+    "published": "2026-05-20T13:19:36+00:00"
+  },
+  "https://lwn.net/Articles/1072866": {
+    "title": "[$] What is to be done about MGLRU?",
+    "source": "LWN.net",
+    "first_seen": "2026-05-20T16:10:04.160129+00:00",
+    "published": "2026-05-20T13:14:51+00:00"
+  },
+  "https://lwn.net/Articles/1073713": {
+    "title": "Security updates for Wednesday",
+    "source": "LWN.net",
+    "first_seen": "2026-05-20T16:10:04.160129+00:00",
+    "published": "2026-05-20T13:04:17+00:00"
+  },
+  "https://www.lesnumeriques.com/banque-en-ligne/adieu-visa-et-mastercard-130-millions-d-europeens-basculent-vers-un-paiement-100-souverain-des-2026-n250918.html": {
+    "title": "Goodbye Visa and Mastercard: 130M Europeans switching to sovereign payment",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-20T16:10:04.160129+00:00",
+    "published": "2026-05-20T13:02:30+00:00"
+  },
+  "https://thenewstack.io/ai-code-wcag-accessibility": {
+    "title": "LLMs were trained on an inaccessible web — AudioEye data shows AI is still building one",
+    "source": "The New Stack",
+    "first_seen": "2026-05-20T16:10:04.160129+00:00",
+    "published": "2026-05-20T13:00:00+00:00"
+  },
+  "https://www.alqst.org/ar/posts/1190": {
+    "title": "Meta blocks human rights accounts from reaching audiences in Arabia and the UAE",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-20T16:10:04.160129+00:00",
+    "published": "2026-05-20T12:43:41+00:00"
+  },
+  "https://torrentfreak.com/annas-archive-hit-with-19-5m-default-judgment-and-global-domain-takedown-order": {
+    "title": "Anna's Archive Hit with $19.5M Default Judgment and Global Domain Takedown Order",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-20T16:10:04.160129+00:00",
+    "published": "2026-05-20T12:30:58+00:00"
+  },
+  "https://www.phoronix.com/news/Greg-KH-More-Rust-Linux": {
+    "title": "Greg KH Calls For More Rust Linux Developers",
+    "source": "Phoronix",
+    "first_seen": "2026-05-20T16:10:04.160129+00:00",
+    "published": "2026-05-20T12:29:00+00:00"
+  },
+  "https://spidermonkey.dev/blog/2026/05/20/saying-goodbye-to-asmjs.html": {
+    "title": "Saying Goodbye to Asm.js",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-20T16:10:04.160129+00:00",
+    "published": "2026-05-20T12:01:56+00:00"
+  },
+  "https://realpython.com/quizzes/claude-api-python": {
+    "title": "Quiz: How to Use the Claude API in Python",
+    "source": "Real Python",
+    "first_seen": "2026-05-20T16:10:04.160129+00:00",
+    "published": "2026-05-20T12:00:00+00:00"
+  },
+  "https://www.tomshardware.com/tech-industry/artificial-intelligence/college-students-drown-out-ai-praising-commencement-speeches-with-boos-deal-with-it-one-speaker-fires-back-as-students-heckle-positive-pitches-for-ais-role": {
+    "title": "College students drown out AI-praising commencement speeches with boos",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-20T16:10:04.160129+00:00",
+    "published": "2026-05-20T11:51:32+00:00"
+  },
+  "https://www.databricks.com/blog/how-telecom-cfos-can-make-smarter-network-capex-decisions-ai": {
+    "title": "How telecom CFOs can make smarter network capex decisions with AI",
+    "source": "Databricks Blog",
+    "first_seen": "2026-05-20T16:10:04.160129+00:00",
+    "published": "2026-05-20T11:26:14+00:00"
+  },
+  "https://www.bbc.com/future/article/20260519-google-tackles-attempts-to-hack-its-ai-results": {
+    "title": "Google's AI is being manipulated. The search giant is quietly fighting back",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-20T16:10:04.160129+00:00",
+    "published": "2026-05-20T10:57:09+00:00"
+  },
+  "https://mapofmetal.com": {
+    "title": "Map of Metal",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-20T16:10:04.160129+00:00",
+    "published": "2026-05-20T10:47:20+00:00"
+  },
+  "https://qwen.ai/blog?id=qwen3.7": {
+    "title": "Qwen3.7-Max: The Agent Frontier",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-20T16:10:04.160129+00:00",
+    "published": "2026-05-20T10:35:02+00:00"
+  },
+  "https://www.databricks.com/blog/how-databricks-genie-improves-retail-personalization": {
+    "title": "How Databricks Genie improves retail personalization",
+    "source": "Databricks Blog",
+    "first_seen": "2026-05-20T16:10:04.160129+00:00",
+    "published": "2026-05-20T08:57:23+00:00"
+  },
+  "https://www.elastic.co/blog/ai-index-report-insights-2026": {
+    "title": "Stanford’s AI Index Report 2026 meets the security reality in financial services",
+    "source": "Elastic Blog",
+    "first_seen": "2026-05-20T16:10:04.160129+00:00",
+    "published": "2026-05-20T00:00:00+00:00"
   }
 }
