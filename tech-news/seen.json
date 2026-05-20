@@ -24368,5 +24368,137 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-05-19T23:08:10.183654+00:00",
     "published": "2026-05-19T18:40:19+00:00"
+  },
+  "https://thenewstack.io/google-io-antigravity-codemender-ai-agentic": {
+    "title": "At Google I/O 2026, Antigravity gets a new job description",
+    "source": "The New Stack",
+    "first_seen": "2026-05-20T10:05:48.813845+00:00",
+    "published": "2026-05-20T10:00:00+00:00"
+  },
+  "https://stratechery.com/2026/google-i-o-world-models-i-o-spaghetti": {
+    "title": "Google I/O, World Models, I/O Spaghetti",
+    "source": "Stratechery",
+    "first_seen": "2026-05-20T10:05:48.813845+00:00",
+    "published": "2026-05-20T10:00:00+00:00"
+  },
+  "https://www.databricks.com/blog/databricks-good-and-virtue-foundation-partnering-connect-medical-volunteers-critical-health": {
+    "title": "Databricks for Good and Virtue Foundation: Partnering to Connect Medical Volunteers to Critical Health Services in 72 Countries",
+    "source": "Databricks Blog",
+    "first_seen": "2026-05-20T10:05:48.813845+00:00",
+    "published": "2026-05-20T08:55:29+00:00"
+  },
+  "https://grid.raster.finance/en/portfolio-analytics": {
+    "title": "Show HN: The AI Quant Desk for Onchain Finance",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-20T10:05:48.813845+00:00",
+    "published": "2026-05-20T08:49:20+00:00"
+  },
+  "https://blog.habets.se/2026/05/Everything-in-C-is-undefined-behavior.html": {
+    "title": "Everything in C is undefined behavior",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-20T10:05:48.813845+00:00",
+    "published": "2026-05-20T06:07:22+00:00"
+  },
+  "https://news.infomaniak.com/en/infomaniak-foundation-sovereign-cloud": {
+    "title": "Infomaniak transitions to a foundation model to protect user data privacy",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-20T10:05:48.813845+00:00",
+    "published": "2026-05-20T05:43:51+00:00"
+  },
+  "https://andlukyane.com//blog/minimax-m27-workflows": {
+    "title": "Testing MiniMax M2.7 via API on three real ML and coding workflows",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-20T10:05:48.813845+00:00",
+    "published": "2026-05-20T04:51:42+00:00"
+  },
+  "https://stackoverflow.blog/2026/05/20/pack-your-agentic-stack-in-slack": {
+    "title": "Pack your agentic stack in Slack",
+    "source": "Stack Overflow Blog",
+    "first_seen": "2026-05-20T10:05:48.813845+00:00",
+    "published": "2026-05-20T04:45:00+00:00"
+  },
+  "https://www.bbc.com/future/article/20260515-the-1950s-blunder-which-causes-mass-hay-fever-in-japan": {
+    "title": "Japan is gripped by mass allergies. A 1950s project is to blame",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-20T10:05:48.813845+00:00",
+    "published": "2026-05-20T01:43:06+00:00"
+  },
+  "https://fivethirtyeightindex.com": {
+    "title": "FiveThirtyEight articles on the Internet Archive",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-20T10:05:48.813845+00:00",
+    "published": "2026-05-20T01:34:19+00:00"
+  },
+  "https://www.phoronix.com/news/GTK4-For-Vim": {
+    "title": "Vim Merges GTK4 Toolkit Support, Co-Authored-By Claude",
+    "source": "Phoronix",
+    "first_seen": "2026-05-20T10:05:48.813845+00:00",
+    "published": "2026-05-20T00:26:29+00:00"
+  },
+  "https://blog.railway.com/p/incident-report-may-19-2026-gcp-account-outage": {
+    "title": "Incident Report: Railway Blocked by Google Cloud (Resolved)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-20T10:05:48.813845+00:00",
+    "published": "2026-05-20T00:23:54+00:00"
+  },
+  "https://twitter.com/github/status/2056884788179726685": {
+    "title": "GitHub is investigating unauthorized access to their internal repositories",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-20T10:05:48.813845+00:00",
+    "published": "2026-05-20T00:01:18+00:00"
+  },
+  "https://openai.com/index/the-next-phase-of-education-for-countries": {
+    "title": "The next phase of OpenAI’s Education for Countries",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-05-20T10:05:48.813845+00:00",
+    "published": "2026-05-20T00:00:00+00:00"
+  },
+  "https://simonwillison.net/2026/May/19/llm-gemini-2": {
+    "title": "llm-gemini 0.32",
+    "source": "Simon Willison",
+    "first_seen": "2026-05-20T10:05:48.813845+00:00",
+    "published": "2026-05-19T23:46:27+00:00"
+  },
+  "https://developer.nvidia.com/blog/nvidia-verified-agent-skills-provide-capability-governance-for-ai-agents": {
+    "title": "NVIDIA-Verified Agent Skills Provide Capability Governance for AI Agents",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-05-20T10:05:48.813845+00:00",
+    "published": "2026-05-19T23:40:45+00:00"
+  },
+  "https://simonwillison.net/2026/May/19/datasette-llm-accountant": {
+    "title": "datasette-llm-accountant 0.1a4",
+    "source": "Simon Willison",
+    "first_seen": "2026-05-20T10:05:48.813845+00:00",
+    "published": "2026-05-19T20:45:43+00:00"
+  },
+  "https://simonwillison.net/2026/May/19/llm-gemini": {
+    "title": "llm-gemini 0.32a0",
+    "source": "Simon Willison",
+    "first_seen": "2026-05-20T10:05:48.813845+00:00",
+    "published": "2026-05-19T20:36:23+00:00"
+  },
+  "https://openai.com/index/introducing-openai-for-singapore": {
+    "title": "Introducing OpenAI for Singapore",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-05-20T10:05:48.813845+00:00",
+    "published": "2026-05-19T20:30:00+00:00"
+  },
+  "https://simonwillison.net/2026/May/19/datasette-llm": {
+    "title": "datasette-llm 0.1a8",
+    "source": "Simon Willison",
+    "first_seen": "2026-05-20T10:05:48.813845+00:00",
+    "published": "2026-05-19T20:28:16+00:00"
+  },
+  "https://developers.googleblog.com/an-important-update-transitioning-gemini-cli-to-antigravity-cli": {
+    "title": "Gemini CLI will stop working from June 18, 2026",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-20T10:05:48.813845+00:00",
+    "published": "2026-05-19T18:03:10+00:00"
+  },
+  "https://xint.io/blog/copy-fail-pod-to-host": {
+    "title": "CopyFail: From Pod to Host",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-20T10:05:48.813845+00:00",
+    "published": "2026-05-19T17:25:33+00:00"
   }
 }
