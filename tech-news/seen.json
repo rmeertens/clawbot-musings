@@ -25100,5 +25100,119 @@
     "source": "Kubernetes Blog",
     "first_seen": "2026-05-20T23:05:41.236444+00:00",
     "published": "2026-05-20T00:00:00+00:00"
+  },
+  "https://www.databricks.com/blog/emissions-reporting-decarbonization-decisions": {
+    "title": "From emissions reporting to decarbonization decisions",
+    "source": "Databricks Blog",
+    "first_seen": "2026-05-21T10:13:11.004732+00:00",
+    "published": "2026-05-21T10:37:15+00:00"
+  },
+  "https://www.phoronix.com/news/Microsoft-Surface-Pro-9-Linux": {
+    "title": "New Patches Allow The Microsoft Surface Pro 9 5G To Be More Useful Under Linux",
+    "source": "Phoronix",
+    "first_seen": "2026-05-21T10:13:11.004732+00:00",
+    "published": "2026-05-21T10:01:08+00:00"
+  },
+  "https://stratechery.com/2026/an-interview-with-parallel-founder-parag-agarwal-about-valuing-content-on-the-agentic-web": {
+    "title": "An Interview with Parallel Founder Parag Agarwal About Valuing Content on the Agentic Web",
+    "source": "Stratechery",
+    "first_seen": "2026-05-21T10:13:11.004732+00:00",
+    "published": "2026-05-21T10:00:00+00:00"
+  },
+  "https://www.databricks.com/blog/youve-built-media-products-now-make-them-personalized": {
+    "title": "You’ve built the media products, now make them personalized",
+    "source": "Databricks Blog",
+    "first_seen": "2026-05-21T10:13:11.004732+00:00",
+    "published": "2026-05-21T09:56:44+00:00"
+  },
+  "https://www.databricks.com/blog/what-happened-what-will-happen": {
+    "title": "From \"What Happened?\" to \"What Will Happen?\"",
+    "source": "Databricks Blog",
+    "first_seen": "2026-05-21T10:13:11.004732+00:00",
+    "published": "2026-05-21T09:50:51+00:00"
+  },
+  "https://github.com/helvesec/rmux": {
+    "title": "Show HN: Rmux – A programmable terminal multiplexer with a Playwright-style SDK",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-21T10:13:11.004732+00:00",
+    "published": "2026-05-21T09:22:00+00:00"
+  },
+  "https://www.seangoedecke.com/the-o3-geoguessr-prompt-did-not-work": {
+    "title": "The famous O3 \"GeoGuessr\" prompt did not work",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-21T10:13:11.004732+00:00",
+    "published": "2026-05-21T08:52:45+00:00"
+  },
+  "https://www.ycombinator.com/companies/typewise/jobs/HmCzfBK-ai-growth-engineer": {
+    "title": "Typewise (YC S22) Is Hiring an AI Growth Engineer (Zurich or Remote)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-21T10:13:11.004732+00:00",
+    "published": "2026-05-21T08:01:53+00:00"
+  },
+  "https://vivaldi.com/blog/vivaldi-on-desktop-8-0": {
+    "title": "Vivaldi 8.0",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-21T10:13:11.004732+00:00",
+    "published": "2026-05-21T07:21:55+00:00"
+  },
+  "https://lwn.net/Articles/1072730": {
+    "title": "[$] LWN.net Weekly Edition for May 21, 2026",
+    "source": "LWN.net",
+    "first_seen": "2026-05-21T10:13:11.004732+00:00",
+    "published": "2026-05-21T02:27:57+00:00"
+  },
+  "https://discourse.haskell.org/t/haskell-foundation-2026-update/14136": {
+    "title": "Haskell Foundation 2026 Update",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-21T10:13:11.004732+00:00",
+    "published": "2026-05-21T02:13:23+00:00"
+  },
+  "https://cahootzcoops.com/blog/what-is-a-demand-coop": {
+    "title": "What is a Demand Coop",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-21T10:13:11.004732+00:00",
+    "published": "2026-05-21T01:20:52+00:00"
+  },
+  "https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai": {
+    "title": "Intuit to lay off over 3k employees to refocus on AI",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-21T10:13:11.004732+00:00",
+    "published": "2026-05-21T00:36:01+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/announcing-openai-compatible-api-support-for-amazon-sagemaker-ai-endpoints": {
+    "title": "Announcing OpenAI-compatible API support for Amazon SageMaker AI endpoints",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-05-21T10:13:11.004732+00:00",
+    "published": "2026-05-20T23:59:57+00:00"
+  },
+  "https://gwern.net/doc/design/typography/1980-knuth.pdf": {
+    "title": "The Letter S, by Donald Knuth (1980) [pdf]",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-21T10:13:11.004732+00:00",
+    "published": "2026-05-20T23:58:51+00:00"
+  },
+  "https://github.com/kageroumado/phosphene": {
+    "title": "Show HN: I reverse engineered Apple's video wallpapers",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-21T10:13:11.004732+00:00",
+    "published": "2026-05-20T23:54:06+00:00"
+  },
+  "https://dos.zone": {
+    "title": "DOS Zone",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-21T10:13:11.004732+00:00",
+    "published": "2026-05-20T22:53:27+00:00"
+  },
+  "https://twitter.com/nottombrown/status/2057194829986300375": {
+    "title": "Anthropic is expanding to Colossus2. Will use GB200",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-21T10:13:11.004732+00:00",
+    "published": "2026-05-20T20:55:52+00:00"
+  },
+  "https://www.wsj.com/tech/ai/openai-is-preparing-to-file-for-an-ipo-very-soon-0ec95af5": {
+    "title": "OpenAI Is Preparing to File for an IPO Soon",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-21T10:13:11.004732+00:00",
+    "published": "2026-05-20T16:24:42+00:00"
   }
 }
