@@ -25256,5 +25256,293 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-05-21T11:10:22.142489+00:00",
     "published": "2026-05-21T09:31:15+00:00"
+  },
+  "https://www.schneier.com/blog/archives/2026/05/macos-kernel-memory-corruption-exploit.html": {
+    "title": "macOS Kernel Memory Corruption Exploit",
+    "source": "Schneier on Security",
+    "first_seen": "2026-05-21T16:04:04.400691+00:00",
+    "published": "2026-05-21T16:03:37+00:00"
+  },
+  "https://medium.com/pinterest-engineering/making-user-sequence-data-more-cost-efficient-faster-and-easier-to-use-2a56a928cae1?source=rss----4c5a5f6279b6---4": {
+    "title": "Making User-Sequence Data More Cost-Efficient, Faster, and Easier to Use",
+    "source": "Pinterest Engineering",
+    "first_seen": "2026-05-21T16:04:04.400691+00:00",
+    "published": "2026-05-21T16:01:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/security/automating-identity-lifecycle-and-security-with-aws-directory-service-apis": {
+    "title": "Automating identity lifecycle and security with AWS Directory Service APIs",
+    "source": "AWS Security Blog",
+    "first_seen": "2026-05-21T16:04:04.400691+00:00",
+    "published": "2026-05-21T16:00:59+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/build-an-ai-powered-recruitment-assistant-using-amazon-bedrock": {
+    "title": "Build an AI-powered recruitment assistant using Amazon Bedrock",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-05-21T16:04:04.400691+00:00",
+    "published": "2026-05-21T16:00:30+00:00"
+  },
+  "https://github.blog/open-source/building-githubs-next-chapter-in-accessibility": {
+    "title": "Building GitHub’s next chapter in accessibility",
+    "source": "GitHub Blog",
+    "first_seen": "2026-05-21T16:04:04.400691+00:00",
+    "published": "2026-05-21T16:00:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/build-ai-powered-dashboard-automation-agents-with-nlp-on-amazon-bedrock-agentcore": {
+    "title": "Build AI-powered dashboard automation agents with NLP on Amazon Bedrock AgentCore",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-05-21T16:04:04.400691+00:00",
+    "published": "2026-05-21T15:55:29+00:00"
+  },
+  "https://replit.com/blog/enterprise-self-serve": {
+    "title": "Replit Enterprise, Now Self-Serve",
+    "source": "Replit Blog",
+    "first_seen": "2026-05-21T16:04:04.400691+00:00",
+    "published": "2026-05-21T15:45:00+00:00"
+  },
+  "https://www.phoronix.com/review/nvidia-rtx-pro-blackwell": {
+    "title": "NVIDIA RTX PRO Blackwell Performance Delivering Excellent Linux Performance",
+    "source": "Phoronix",
+    "first_seen": "2026-05-21T16:04:04.400691+00:00",
+    "published": "2026-05-21T15:43:43+00:00"
+  },
+  "https://blog.bytebytego.com/p/a-guide-to-async-patterns-in-api": {
+    "title": "A Guide to Async Patterns in API Design",
+    "source": "ByteByteGo",
+    "first_seen": "2026-05-21T16:04:04.400691+00:00",
+    "published": "2026-05-21T15:30:24+00:00"
+  },
+  "https://developer.nvidia.com/blog/building-token-metered-ai-services-on-telco-ai-factories": {
+    "title": "Building Token‑Metered AI Services on Telco AI Factories",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-05-21T16:04:04.400691+00:00",
+    "published": "2026-05-21T15:30:00+00:00"
+  },
+  "https://thenewstack.io/build-n8n-ai-workflow": {
+    "title": "How to build your first end-to-end AI workflow in n8n",
+    "source": "The New Stack",
+    "first_seen": "2026-05-21T16:04:04.400691+00:00",
+    "published": "2026-05-21T15:00:00+00:00"
+  },
+  "https://deno.com/blog/clawpatrol": {
+    "title": "Claw Patrol: an open-source security firewall for agents",
+    "source": "Deno Blog",
+    "first_seen": "2026-05-21T16:04:04.400691+00:00",
+    "published": "2026-05-21T15:00:00+00:00"
+  },
+  "https://lwn.net/Articles/1071973": {
+    "title": "[$] BPF support in GCC 16 and beyond",
+    "source": "LWN.net",
+    "first_seen": "2026-05-21T16:04:04.400691+00:00",
+    "published": "2026-05-21T14:52:28+00:00"
+  },
+  "https://www.bigfinish.com/news/v/michael-keating-1947-2026": {
+    "title": "Michael Keating has died",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-21T16:04:04.400691+00:00",
+    "published": "2026-05-21T14:31:33+00:00"
+  },
+  "https://thenewstack.io/ci-for-coding-agents": {
+    "title": "CI wasn’t built for coding agents. Here’s what comes next.",
+    "source": "The New Stack",
+    "first_seen": "2026-05-21T16:04:04.400691+00:00",
+    "published": "2026-05-21T14:30:00+00:00"
+  },
+  "https://www.osnews.com/story/145029/get-your-passwords-out-of-bitwarden-while-you-still-can": {
+    "title": "Get your passwords out of Bitwarden while you still can",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-21T16:04:04.400691+00:00",
+    "published": "2026-05-21T14:29:14+00:00"
+  },
+  "https://opentelemetry.io/blog/2026/otel-graduates": {
+    "title": "OpenTelemetry is a CNCF Graduated Project",
+    "source": "OpenTelemetry Blog",
+    "first_seen": "2026-05-21T16:04:04.400691+00:00",
+    "published": "2026-05-21T14:27:48+00:00"
+  },
+  "https://lwn.net/Articles/1073933": {
+    "title": "OpenBSD 7.9 released",
+    "source": "LWN.net",
+    "first_seen": "2026-05-21T16:04:04.400691+00:00",
+    "published": "2026-05-21T14:27:38+00:00"
+  },
+  "https://www.databricks.com/blog/transforming-industries-conversational-ai-partner-solutions-built-databricks-genie": {
+    "title": "Transforming industries with conversational AI: Partner solutions built on Databricks Genie",
+    "source": "Databricks Blog",
+    "first_seen": "2026-05-21T16:04:04.400691+00:00",
+    "published": "2026-05-21T14:25:00+00:00"
+  },
+  "https://stackoverflow.blog/2026/05/21/coding-agents-are-giving-everyone-decision-fatigue": {
+    "title": "Coding agents are giving everyone decision fatigue",
+    "source": "Stack Overflow Blog",
+    "first_seen": "2026-05-21T16:04:04.400691+00:00",
+    "published": "2026-05-21T14:19:27+00:00"
+  },
+  "https://www.cncf.io/blog/2026/05/21/aamchi-mumbai-a-kubecon-cloudnativecon-field-guide": {
+    "title": "Aamchi Mumbai: A KubeCon + CloudNativeCon field guide",
+    "source": "CNCF Blog",
+    "first_seen": "2026-05-21T16:04:04.400691+00:00",
+    "published": "2026-05-21T14:14:11+00:00"
+  },
+  "https://blog.simbastack.com/indexed-a-year-of-video-locally": {
+    "title": "Indexing a year of video locally on a 2021 MacBook with Gemma4-31B (50GB swap)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-21T16:04:04.400691+00:00",
+    "published": "2026-05-21T14:01:37+00:00"
+  },
+  "https://thenewstack.io/opentelemetry-hits-general-availability": {
+    "title": "After becoming cloud computing’s telemetry standard, OpenTelemetry graduates into the AI infrastructure era",
+    "source": "The New Stack",
+    "first_seen": "2026-05-21T16:04:04.400691+00:00",
+    "published": "2026-05-21T14:00:00+00:00"
+  },
+  "https://thenewstack.io/openssf-open-source-security-members": {
+    "title": "“Morally repugnant shortsightedness”: Why open source security leaders say companies must stop freeloading on maintainers",
+    "source": "The New Stack",
+    "first_seen": "2026-05-21T16:04:04.400691+00:00",
+    "published": "2026-05-21T14:00:00+00:00"
+  },
+  "https://thenewstack.io/docusign-mcp-agentic-agreements": {
+    "title": "Building the agentic agreement enterprise: How developers are unlocking agentic experiences with Docusign’s MCP server and platform",
+    "source": "The New Stack",
+    "first_seen": "2026-05-21T16:04:04.400691+00:00",
+    "published": "2026-05-21T13:53:29+00:00"
+  },
+  "https://www.0xsid.com/blog/antigravity-bait-n-switch": {
+    "title": "Google's Antigravity Bait and Switch",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-21T16:04:04.400691+00:00",
+    "published": "2026-05-21T13:50:59+00:00"
+  },
+  "https://www.phoronix.com/news/KMSCON-10.0-Released": {
+    "title": "KMSCON 10.0 Released With Natural Scrolling Option, Libseat VT Support",
+    "source": "Phoronix",
+    "first_seen": "2026-05-21T16:04:04.400691+00:00",
+    "published": "2026-05-21T13:45:29+00:00"
+  },
+  "https://axelk.ee/ai-is-just-unauthorised-plagiarism-at-a-bigger-scale": {
+    "title": "AI is just unauthorised plagiarism at a bigger scale",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-21T16:04:04.400691+00:00",
+    "published": "2026-05-21T13:38:12+00:00"
+  },
+  "https://lwn.net/Articles/1072881": {
+    "title": "[$] Support for private memory nodes",
+    "source": "LWN.net",
+    "first_seen": "2026-05-21T16:04:04.400691+00:00",
+    "published": "2026-05-21T13:22:05+00:00"
+  },
+  "https://lwn.net/Articles/1073860": {
+    "title": "Security updates for Thursday",
+    "source": "LWN.net",
+    "first_seen": "2026-05-21T16:04:04.400691+00:00",
+    "published": "2026-05-21T13:19:13+00:00"
+  },
+  "https://fabiensanglard.net/mtg/fun//index.html": {
+    "title": "Magic the Gathering format: Fun 40 (2025)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-21T16:04:04.400691+00:00",
+    "published": "2026-05-21T13:13:36+00:00"
+  },
+  "https://thenewstack.io/cut-ai-search-costs": {
+    "title": "Cut your AI search costs without sacrificing quality",
+    "source": "The New Stack",
+    "first_seen": "2026-05-21T16:04:04.400691+00:00",
+    "published": "2026-05-21T13:00:00+00:00"
+  },
+  "https://www.wired.com/story/a-bipartisan-amendment-would-end-police-license-plate-tracking-nationwide": {
+    "title": "A Bipartisan Amendment Would End Police License Plate Tracking Nationwide",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-21T16:04:04.400691+00:00",
+    "published": "2026-05-21T12:58:18+00:00"
+  },
+  "https://www.phoronix.com/news/AMDXDNA-Expandable-Heap": {
+    "title": "Ryzen AI AMDXDNA Driver Adding Expandable Heap Support With Linux 7.2",
+    "source": "Phoronix",
+    "first_seen": "2026-05-21T16:04:04.400691+00:00",
+    "published": "2026-05-21T12:57:06+00:00"
+  },
+  "https://news.ycombinator.com/item?id=48221896": {
+    "title": "Show HN: I Dedicated 4 Years to Mastering Offline Password Cracking",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-21T16:04:04.400691+00:00",
+    "published": "2026-05-21T12:56:37+00:00"
+  },
+  "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6443103": {
+    "title": "Who Wins and Who Loses in Prediction Markets? Evidence from Polymarket",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-21T16:04:04.400691+00:00",
+    "published": "2026-05-21T12:55:16+00:00"
+  },
+  "https://fatgid.io": {
+    "title": "FatGid: FreeBSD 14.x kernel local privilege escalation",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-21T16:04:04.400691+00:00",
+    "published": "2026-05-21T12:15:02+00:00"
+  },
+  "https://www.construction-physics.com/p/the-rise-of-build-to-rent-housing": {
+    "title": "The Rise of Build-to-Rent Housing",
+    "source": "Construction Physics",
+    "first_seen": "2026-05-21T16:04:04.400691+00:00",
+    "published": "2026-05-21T12:03:24+00:00"
+  },
+  "https://www.ycombinator.com/companies/cekura-ai/jobs/AiWwUxI-forward-deployed-engineer-us": {
+    "title": "Cekura (YC F24) Is Hiring",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-21T16:04:04.400691+00:00",
+    "published": "2026-05-21T12:00:20+00:00"
+  },
+  "https://realpython.com/quizzes/with-statement-python": {
+    "title": "Quiz: Context Managers and Using Python's with Statement",
+    "source": "Real Python",
+    "first_seen": "2026-05-21T16:04:04.400691+00:00",
+    "published": "2026-05-21T12:00:00+00:00"
+  },
+  "https://martinfowler.com/bliki/VibeCoding.html": {
+    "title": "Bliki: Vibe Coding",
+    "source": "Martin Fowler",
+    "first_seen": "2026-05-21T16:04:04.400691+00:00",
+    "published": "2026-05-21T11:49:00+00:00"
+  },
+  "https://blog.changs.co.uk/python-315-features-that-didnt-make-the-headlines.html": {
+    "title": "Python 3.15: features that didn't make the headlines",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-21T16:04:04.400691+00:00",
+    "published": "2026-05-21T11:10:11+00:00"
+  },
+  "https://blog.flipper.net/flipper-one-we-need-your-help": {
+    "title": "Flipper One – we need your help",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-21T16:04:04.400691+00:00",
+    "published": "2026-05-21T11:03:38+00:00"
+  },
+  "https://blogs.microsoft.com/blog/2026/05/21/from-ai-pilots-to-enterprise-impact-why-execution-is-the-new-differentiator": {
+    "title": "From AI pilots to enterprise impact: Why execution is the new differentiator",
+    "source": "Microsoft Blog",
+    "first_seen": "2026-05-21T16:04:04.400691+00:00",
+    "published": "2026-05-21T11:02:33+00:00"
+  },
+  "https://spectrum.ieee.org/trinity-nuclear-test": {
+    "title": "Lost Images from the 1945 Trinity Nuclear Test Restored",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-21T16:04:04.400691+00:00",
+    "published": "2026-05-21T11:02:26+00:00"
+  },
+  "https://spectrum.ieee.org/semiconductor-fabrication": {
+    "title": "IBM invented semiconductor manufacturing automation",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-21T16:04:04.400691+00:00",
+    "published": "2026-05-21T10:39:48+00:00"
+  },
+  "https://blog.sentry.io/product-analytics-you-already-have": {
+    "title": "The product analytics you already have",
+    "source": "Sentry Blog",
+    "first_seen": "2026-05-21T16:04:04.400691+00:00",
+    "published": "2026-05-21T09:00:00+00:00"
+  },
+  "https://www.elastic.co/blog/financial-services-ai-data-platform-strategy": {
+    "title": "The data platform bet: Why financial AI initiatives stall and how the winners scale",
+    "source": "Elastic Blog",
+    "first_seen": "2026-05-21T16:04:04.400691+00:00",
+    "published": "2026-05-21T00:00:00+00:00"
   }
 }
