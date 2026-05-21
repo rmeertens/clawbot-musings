@@ -25544,5 +25544,323 @@
     "source": "Elastic Blog",
     "first_seen": "2026-05-21T16:04:04.400691+00:00",
     "published": "2026-05-21T00:00:00+00:00"
+  },
+  "https://developer.chrome.com/blog/extensions-io-2026?hl=en": {
+    "title": "What's new in web extensions: I/O 2026 recap",
+    "source": "Chrome Developers",
+    "first_seen": "2026-05-21T21:29:00.079452+00:00",
+    "published": "2026-05-22T07:00:00+00:00"
+  },
+  "https://www.databricks.com/blog/how-security-teams-can-report-cyber-risk-boards": {
+    "title": "How security teams can report cyber risk to boards",
+    "source": "Databricks Blog",
+    "first_seen": "2026-05-21T21:29:00.079452+00:00",
+    "published": "2026-05-22T05:20:23+00:00"
+  },
+  "https://lwn.net/Articles/1073944": {
+    "title": "Vulnerabilities in various GTK-based PDF readers",
+    "source": "LWN.net",
+    "first_seen": "2026-05-21T21:29:00.079452+00:00",
+    "published": "2026-05-21T21:05:20+00:00"
+  },
+  "https://aws.amazon.com/blogs/security/aws-ky3p-report-now-available-for-third-party-supplier-due-diligence": {
+    "title": "AWS KY3P report now available for third-party supplier due diligence",
+    "source": "AWS Security Blog",
+    "first_seen": "2026-05-21T21:29:00.079452+00:00",
+    "published": "2026-05-21T19:58:03+00:00"
+  },
+  "https://www.phoronix.com/news/CHUWI-449-Notebook": {
+    "title": "CHUWI's $449 USD Wildcat Lake Laptop Should Work Fine With Linux",
+    "source": "Phoronix",
+    "first_seen": "2026-05-21T21:29:00.079452+00:00",
+    "published": "2026-05-21T19:53:17+00:00"
+  },
+  "https://simonwillison.net/2026/May/21/datasette-agent": {
+    "title": "Datasette Agent",
+    "source": "Simon Willison",
+    "first_seen": "2026-05-21T21:29:00.079452+00:00",
+    "published": "2026-05-21T19:52:19+00:00"
+  },
+  "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks": {
+    "title": "We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks",
+    "source": "DeepMind Blog",
+    "first_seen": "2026-05-21T21:29:00.079452+00:00",
+    "published": "2026-05-21T19:46:42+00:00"
+  },
+  "https://arxiv.org/abs/2605.12460": {
+    "title": "Multi-Stream LLMs: new paper on parallelizing/separating prompts, thinking, I/O",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-21T21:29:00.079452+00:00",
+    "published": "2026-05-21T19:37:26+00:00"
+  },
+  "https://veroniiiica.com/using-kagi-search-with-low-vision": {
+    "title": "Using Kagi Search with Low Vision",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-21T21:29:00.079452+00:00",
+    "published": "2026-05-21T19:32:16+00:00"
+  },
+  "https://www.phoronix.com/news/Intel-Nova-Lake-Graphics-SR-IOV": {
+    "title": "Linux 7.2 To Enable SR-IOV Support For Intel Nova Lake's Xe3P Graphics",
+    "source": "Phoronix",
+    "first_seen": "2026-05-21T21:29:00.079452+00:00",
+    "published": "2026-05-21T19:22:11+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/automate-deployment-of-data-and-ai-applications-with-amazon-sagemaker-unified-studio-ci-cd-cli": {
+    "title": "Automate deployment of data and AI applications with Amazon SageMaker Unified Studio CI/CD CLI",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-05-21T21:29:00.079452+00:00",
+    "published": "2026-05-21T19:13:50+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/intelligent-radiology-workflow-optimization-with-ai-agents-2": {
+    "title": "Intelligent radiology workflow optimization with AI agents",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-05-21T21:29:00.079452+00:00",
+    "published": "2026-05-21T19:11:09+00:00"
+  },
+  "https://crocidb.com/post/this-blog-ran-on-ubuntu-16-04-for-10-years-i-migrated-it-to-freebsd": {
+    "title": "Blog ran on Ubuntu 16.04 for 10 years. I migrated it to FreeBSD",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-21T21:29:00.079452+00:00",
+    "published": "2026-05-21T18:54:55+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/amazon-aurora-mysql-8-4-is-now-generally-available": {
+    "title": "Amazon Aurora MySQL 8.4 is now generally available",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-05-21T21:29:00.079452+00:00",
+    "published": "2026-05-21T18:41:41+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/knowing-when-new-open-source-database-engine-versions-release-on-amazon-aurora-and-amazon-rds": {
+    "title": "Knowing when new open source database engine versions release on Amazon Aurora and Amazon RDS",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-05-21T21:29:00.079452+00:00",
+    "published": "2026-05-21T18:36:46+00:00"
+  },
+  "https://developer.nvidia.com/blog/automating-and-optimizing-financial-signal-discovery-with-multi-agent-systems": {
+    "title": "Automating and Optimizing Financial Signal Discovery with Multi-Agent Systems",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-05-21T21:29:00.079452+00:00",
+    "published": "2026-05-21T18:31:56+00:00"
+  },
+  "https://www.barebones.com/products/bbedit/bbedit16.html": {
+    "title": "BBEdit 16",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-21T21:29:00.079452+00:00",
+    "published": "2026-05-21T18:21:37+00:00"
+  },
+  "https://simonwillison.net/2026/May/21/datasette-agent-sprites": {
+    "title": "datasette-agent-sprites 0.1a0",
+    "source": "Simon Willison",
+    "first_seen": "2026-05-21T21:29:00.079452+00:00",
+    "published": "2026-05-21T18:21:07+00:00"
+  },
+  "https://www.phoronix.com/news/SUSE-Agama-Installer-21": {
+    "title": "SUSE/openSUSE Agama Installer Now Warns For No-Desktop Installs, Supports systemd-boot",
+    "source": "Phoronix",
+    "first_seen": "2026-05-21T21:29:00.079452+00:00",
+    "published": "2026-05-21T18:07:50+00:00"
+  },
+  "https://www.thek6project.co.uk": {
+    "title": "Where are all the UK red telephone kiosks?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-21T21:29:00.079452+00:00",
+    "published": "2026-05-21T18:04:17+00:00"
+  },
+  "https://hacks.mozilla.org/2026/05/web-serial-support-in-firefox": {
+    "title": "Announcing Web Serial Support in Firefox",
+    "source": "Mozilla Hacks",
+    "first_seen": "2026-05-21T21:29:00.079452+00:00",
+    "published": "2026-05-21T18:00:05+00:00"
+  },
+  "https://github.blog/open-source/gaming/beyond-the-engine-10-open-source-projects-shaping-how-games-actually-get-made": {
+    "title": "Beyond the engine: 10 open source projects shaping how games actually get made",
+    "source": "GitHub Blog",
+    "first_seen": "2026-05-21T21:29:00.079452+00:00",
+    "published": "2026-05-21T18:00:00+00:00"
+  },
+  "https://developer.nvidia.com/blog/get-real-time-visibility-into-gpu-usage-across-kubernetes-clusters": {
+    "title": "Get Real-Time Visibility into GPU Usage Across Kubernetes Clusters",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-05-21T21:29:00.079452+00:00",
+    "published": "2026-05-21T18:00:00+00:00"
+  },
+  "https://prismreports.org/2026/05/20/seattle-shield-private-companies-surveillance": {
+    "title": "Seattle Shield, an intelligence-sharing network operated by the Seattle police",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-21T21:29:00.079452+00:00",
+    "published": "2026-05-21T17:55:58+00:00"
+  },
+  "https://thenewstack.io/kore-artemis-agent-platform": {
+    "title": "Kore counts down to Artemis, its moonshot for governable AI agents",
+    "source": "The New Stack",
+    "first_seen": "2026-05-21T21:29:00.079452+00:00",
+    "published": "2026-05-21T17:52:30+00:00"
+  },
+  "https://developer.nvidia.com/blog/unlock-exascale-performance-on-nvidia-gb200-nvl72-with-slurm-topology-aware-job-scheduling": {
+    "title": "Unlock Exascale Performance on NVIDIA GB200 NVL72 with Slurm Topology-Aware Job Scheduling",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-05-21T21:29:00.079452+00:00",
+    "published": "2026-05-21T17:32:56+00:00"
+  },
+  "https://discover.swns.com/2026/05/chewing-gum-restores-dads-taste-and-smell-years-after-covid": {
+    "title": "Chewing gum restores dad's taste and smell years after Covid",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-21T21:29:00.079452+00:00",
+    "published": "2026-05-21T17:14:56+00:00"
+  },
+  "https://devblogs.microsoft.com/dotnet/announcing-agent-governance-toolkit-mcp-extensions-for-dotnet": {
+    "title": "Announcing Agent Governance Toolkit MCP Extensions for .NET",
+    "source": "MS .NET Blog",
+    "first_seen": "2026-05-21T21:29:00.079452+00:00",
+    "published": "2026-05-21T17:05:00+00:00"
+  },
+  "https://newsletter.pragmaticengineer.com/p/the-pulse-antigravity-20-takes-ide": {
+    "title": "The Pulse: Antigravity 2.0 takes ‘IDE’ out of its new IDE",
+    "source": "The Pragmatic Engineer",
+    "first_seen": "2026-05-21T21:29:00.079452+00:00",
+    "published": "2026-05-21T17:01:39+00:00"
+  },
+  "https://news.ycombinator.com/item?id=48225852": {
+    "title": "ParadeDB (YC S23) Is Hiring Distributed Systems/Platform Engineers",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-21T21:29:00.079452+00:00",
+    "published": "2026-05-21T17:00:52+00:00"
+  },
+  "https://blog.cloudflare.com/casb-anthropic-integration": {
+    "title": "Announcing Claude Compliance API support with Cloudflare CASB",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-05-21T21:29:00.079452+00:00",
+    "published": "2026-05-21T17:00:00+00:00"
+  },
+  "https://www.niemanlab.org/2026/05/more-than-340-local-news-outlets-are-limiting-the-internet-archives-access-to-their-journalism": {
+    "title": "News outlets are limiting the Internet Archive’s access to their journalism",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-21T21:29:00.079452+00:00",
+    "published": "2026-05-21T16:59:27+00:00"
+  },
+  "https://news.ycombinator.com/item?id=48225596": {
+    "title": "Show HN: Agent.email – sign up via curl, claim with a human OTP",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-21T21:29:00.079452+00:00",
+    "published": "2026-05-21T16:42:34+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/integrating-aws-api-mcp-server-with-amazon-quick-suite-using-amazon-bedrock-agentcore-runtime": {
+    "title": "Integrating AWS API MCP Server with Amazon Quick using Amazon Bedrock AgentCore Runtime",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-05-21T21:29:00.079452+00:00",
+    "published": "2026-05-21T16:32:09+00:00"
+  },
+  "https://techcrunch.com/2026/05/21/waymo-pauses-atlanta-service-as-its-robotaxis-keep-driving-into-floods": {
+    "title": "Waymo pauses Atlanta service as its robotaxis keep driving into floods",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-21T21:29:00.079452+00:00",
+    "published": "2026-05-21T16:30:47+00:00"
+  },
+  "https://www.hollywoodreporter.com/music/music-industry-news/spotify-will-start-reserving-concert-tickets-for-superfans-1236603106": {
+    "title": "Spotify will start reserving concert tickets for fans",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-21T21:29:00.079452+00:00",
+    "published": "2026-05-21T16:26:58+00:00"
+  },
+  "https://valhovey.github.io/gaia-mary": {
+    "title": "Project Hail Mary – Stellar Navigation Chart",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-21T21:29:00.079452+00:00",
+    "published": "2026-05-21T16:23:11+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/building-multi-tenant-agents-with-amazon-bedrock-agentcore": {
+    "title": "Building multi-tenant agents with Amazon Bedrock AgentCore",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-05-21T21:29:00.079452+00:00",
+    "published": "2026-05-21T16:16:09+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/break-the-context-window-barrier-with-amazon-bedrock-agentcore": {
+    "title": "Break the context window barrier with Amazon Bedrock AgentCore",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-05-21T21:29:00.079452+00:00",
+    "published": "2026-05-21T16:08:54+00:00"
+  },
+  "https://devblogs.microsoft.com/dotnet/improving-csharp-memory-safety": {
+    "title": "Improving C# Memory Safety",
+    "source": "MS .NET Blog",
+    "first_seen": "2026-05-21T21:29:00.079452+00:00",
+    "published": "2026-05-21T16:08:00+00:00"
+  },
+  "https://www.runtm.com": {
+    "title": "Launch HN: Runtime (YC P26) – Sandboxed coding agents for everyone on a team",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-21T21:29:00.079452+00:00",
+    "published": "2026-05-21T16:07:13+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/build-ai-agents-for-business-intelligence-with-amazon-bedrock-agentcore": {
+    "title": "Build AI agents for business intelligence with Amazon Bedrock AgentCore",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-05-21T21:29:00.079452+00:00",
+    "published": "2026-05-21T16:04:17+00:00"
+  },
+  "https://dropbox.tech/machine-learning/introducing-nova-our-internal-platform-for-coding-agents": {
+    "title": "Introducing Nova, our internal platform for coding agents",
+    "source": "Dropbox Tech",
+    "first_seen": "2026-05-21T21:29:00.079452+00:00",
+    "published": "2026-05-21T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/topics/startups/startup-news-from-io-and-what-it-means-to-founders": {
+    "title": "The top announcements for startups from Google I/O ‘26",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-05-21T21:29:00.079452+00:00",
+    "published": "2026-05-21T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/databases/vibe-coded-ai-studio-apps-with-firestore-firebase-cloud-sql": {
+    "title": "AI Studio unlocks full-stack vibe coding with Cloud Run, Firebase, and Cloud SQL, no credit card required",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-05-21T21:29:00.079452+00:00",
+    "published": "2026-05-21T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/application-development/new-feature-flags-in-applifecycle-manager": {
+    "title": "Shipping features to production just got easier with new feature flags in AppLifecycle Manager",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-05-21T21:29:00.079452+00:00",
+    "published": "2026-05-21T16:00:00+00:00"
+  },
+  "https://www.calculators.de": {
+    "title": "Museum of Pocket Calculating Devices",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-21T21:29:00.079452+00:00",
+    "published": "2026-05-21T15:50:04+00:00"
+  },
+  "https://simonwillison.net/2026/May/21/datasette-agent-charts": {
+    "title": "datasette-agent-charts 0.1a2",
+    "source": "Simon Willison",
+    "first_seen": "2026-05-21T21:29:00.079452+00:00",
+    "published": "2026-05-21T15:15:58+00:00"
+  },
+  "https://simonwillison.net/2026/May/21/datasette-agent-2": {
+    "title": "datasette-agent 0.1a3",
+    "source": "Simon Willison",
+    "first_seen": "2026-05-21T21:29:00.079452+00:00",
+    "published": "2026-05-21T15:04:09+00:00"
+  },
+  "https://freenet.org": {
+    "title": "Show HN: Freenet, a peer-to-peer platform for decentralized apps",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-21T21:29:00.079452+00:00",
+    "published": "2026-05-21T14:34:57+00:00"
+  },
+  "https://openai.com/index/adventhealth": {
+    "title": "AdventHealth advances whole-person care with OpenAI",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-05-21T21:29:00.079452+00:00",
+    "published": "2026-05-21T12:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/topics/developers-practitioners/api-keys-are-open-secrets": {
+    "title": "Securing Your Gemini and Google API Keys",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-05-21T21:29:00.079452+00:00",
+    "published": "2026-05-21T10:19:00+00:00"
+  },
+  "https://developer.chrome.com/blog/new-in-chrome-io26?hl=en": {
+    "title": "New in Chrome at Google I/O 2026",
+    "source": "Chrome Developers",
+    "first_seen": "2026-05-21T21:29:00.079452+00:00",
+    "published": "2026-05-21T07:00:00+00:00"
   }
 }
