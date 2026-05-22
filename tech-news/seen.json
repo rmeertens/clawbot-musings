@@ -26348,5 +26348,89 @@
     "source": "Golang Weekly",
     "first_seen": "2026-05-22T19:06:17.079945+00:00",
     "published": "2026-05-22T00:00:00+00:00"
+  },
+  "https://www.schneier.com/blog/archives/2026/05/friday-squid-blogging-regulating-squid-fishing-in-the-south-pacific.html": {
+    "title": "Friday Squid Blogging: Regulating Squid Fishing in the South Pacific",
+    "source": "Schneier on Security",
+    "first_seen": "2026-05-22T21:23:31.028096+00:00",
+    "published": "2026-05-22T21:04:16+00:00"
+  },
+  "https://aws.amazon.com/blogs/compute/streamline-your-infrastructure-automating-ami-creation-with-kiro-cli-and-ec2-image-builder": {
+    "title": "Streamline your infrastructure: Automating AMI creation with Kiro CLI and EC2 Image Builder",
+    "source": "AWS Compute Blog",
+    "first_seen": "2026-05-22T21:23:31.028096+00:00",
+    "published": "2026-05-22T21:01:36+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/how-amazon-is-moving-to-integrate-catalogs-to-improve-data-discovery-with-amazon-sagemaker": {
+    "title": "How Amazon is moving to integrate catalogs to improve data discovery with Amazon SageMaker",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-05-22T21:23:31.028096+00:00",
+    "published": "2026-05-22T20:56:25+00:00"
+  },
+  "https://github.com/anomalyco/models.dev": {
+    "title": "Models.dev: open-source database of AI model specs, pricing, and capabilities",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-22T21:23:31.028096+00:00",
+    "published": "2026-05-22T20:26:07+00:00"
+  },
+  "https://pytorch.org/blog/join-the-pytorch-foundation-ambassador-program-a-global-network-of-community-leaders": {
+    "title": "Join the PyTorch Foundation Ambassador Program: A Global Network of Community Leaders",
+    "source": "PyTorch Blog",
+    "first_seen": "2026-05-22T21:23:31.028096+00:00",
+    "published": "2026-05-22T20:24:22+00:00"
+  },
+  "https://www.databricks.com/blog/accelerating-llm-inference-prompt-caching-open-source-models-databricks": {
+    "title": "Accelerating LLM Inference with Prompt Caching for Open‑Source Models on Databricks",
+    "source": "Databricks Blog",
+    "first_seen": "2026-05-22T21:23:31.028096+00:00",
+    "published": "2026-05-22T20:00:00+00:00"
+  },
+  "https://www.anthropic.com/research/glasswing-initial-update": {
+    "title": "Project Glasswing: An Initial Update",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-22T21:23:31.028096+00:00",
+    "published": "2026-05-22T19:31:45+00:00"
+  },
+  "https://www.databricks.com/blog/observability-any-agent-anywhere-production-ready-tracing-opentelemetry-unity-catalog": {
+    "title": "Observability for any agent, anywhere: Production-ready tracing with OpenTelemetry & Unity Catalog on Databricks",
+    "source": "Databricks Blog",
+    "first_seen": "2026-05-22T21:23:31.028096+00:00",
+    "published": "2026-05-22T19:20:00+00:00"
+  },
+  "https://arxiv.org/abs/2605.22001": {
+    "title": "Domain-Camouflaged Injection Attacks Evade Detection in Multi-Agent LLM Systems",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-22T21:23:31.028096+00:00",
+    "published": "2026-05-22T18:46:07+00:00"
+  },
+  "https://www.frontiersin.org/journals/sports-and-active-living/articles/10.3389/fspor.2026.1807791/full": {
+    "title": "A scoping review of bicycling interventions’ impacts on well-being",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-22T21:23:31.028096+00:00",
+    "published": "2026-05-22T18:12:28+00:00"
+  },
+  "https://github.com/razetime/ngn-k-tutorial/blob/main/12-thinking-in-k.md": {
+    "title": "Thinking in an array language (2022)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-22T21:23:31.028096+00:00",
+    "published": "2026-05-22T17:42:53+00:00"
+  },
+  "https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad": {
+    "title": "Microsoft starts canceling Claude Code licenses",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-22T21:23:31.028096+00:00",
+    "published": "2026-05-22T17:32:04+00:00"
+  },
+  "https://github.com/DataIntellectTech/TorQ": {
+    "title": "TorQ: Kdb+ Production Framework",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-22T21:23:31.028096+00:00",
+    "published": "2026-05-22T17:31:17+00:00"
+  },
+  "https://www.cringely.com": {
+    "title": "Robert X Cringely is back to blogging",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-22T21:23:31.028096+00:00",
+    "published": "2026-05-22T14:36:27+00:00"
   }
 }
