@@ -25862,5 +25862,59 @@
     "source": "Chrome Developers",
     "first_seen": "2026-05-21T21:29:00.079452+00:00",
     "published": "2026-05-21T07:00:00+00:00"
+  },
+  "https://mrmarket.bearblog.dev/it-is-time-to-build-a-new-internet": {
+    "title": "It is time to build a new internet",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-22T03:06:52.940766+00:00",
+    "published": "2026-05-22T02:19:53+00:00"
+  },
+  "https://qz.com/samsung-chip-workers-bonus-ai-profits-052126": {
+    "title": "Samsung chip workers will get an average $340k bonus as AI profits soar",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-22T03:06:52.940766+00:00",
+    "published": "2026-05-22T01:30:45+00:00"
+  },
+  "https://engineering.grab.com/one-click-data-ingestion-platform-with-apache-flink": {
+    "title": "The Hugo evolution: Engineering Grab's unified, one-click data ingestion platform with Apache Flink",
+    "source": "Grab Tech",
+    "first_seen": "2026-05-22T03:06:52.940766+00:00",
+    "published": "2026-05-22T00:23:00+00:00"
+  },
+  "https://zeroshot.bearblog.dev/google-is-shattering-under-its-own-weight-the-ibm-ification-of-google": {
+    "title": "The IBM-ification of Google?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-22T03:06:52.940766+00:00",
+    "published": "2026-05-21T23:30:10+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.1-Networking-Craziness": {
+    "title": "Today's Linux Networking Fixes: \"Craziness Continues With No End In Sight\"",
+    "source": "Phoronix",
+    "first_seen": "2026-05-22T03:06:52.940766+00:00",
+    "published": "2026-05-21T23:04:53+00:00"
+  },
+  "https://webkit.org/blog/17962/release-notes-for-safari-technology-preview-244": {
+    "title": "Release Notes for Safari Technology Preview 244",
+    "source": "WebKit Blog",
+    "first_seen": "2026-05-22T03:06:52.940766+00:00",
+    "published": "2026-05-21T23:00:26+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/amazon-nova-act-is-now-hipaa-eligible": {
+    "title": "Amazon Nova Act is now HIPAA eligible",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-05-22T03:06:52.940766+00:00",
+    "published": "2026-05-21T22:22:28+00:00"
+  },
+  "https://krebsonsecurity.com/2026/05/alleged-kimwolf-botmaster-dort-arrested-charged-in-u-s-and-canada": {
+    "title": "Alleged Kimwolf Botmaster ‘Dort’ Arrested, Charged in U.S. and Canada",
+    "source": "Krebs on Security",
+    "first_seen": "2026-05-22T03:06:52.940766+00:00",
+    "published": "2026-05-21T21:50:25+00:00"
+  },
+  "https://www.loopwerk.io/articles/2026/uv-ux-mess": {
+    "title": "Uv is fantastic, but its package management UX is a mess",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-22T03:06:52.940766+00:00",
+    "published": "2026-05-21T20:56:36+00:00"
   }
 }
