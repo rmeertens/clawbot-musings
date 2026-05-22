@@ -25916,5 +25916,53 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-05-22T03:06:52.940766+00:00",
     "published": "2026-05-21T20:56:36+00:00"
+  },
+  "https://www.phoronix.com/news/AMDGPU-Pipe-Reset-Support": {
+    "title": "Expanded Reset Support Coming For AMDGPU To Recover From More GPU Compute Hangs",
+    "source": "Phoronix",
+    "first_seen": "2026-05-22T10:03:19.787362+00:00",
+    "published": "2026-05-22T09:50:00+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.1-Sound-Many-Fixes": {
+    "title": "Linux Sound Subsystem Also Seeing Many Fixes Driven By AI/LLMs",
+    "source": "Phoronix",
+    "first_seen": "2026-05-22T10:03:19.787362+00:00",
+    "published": "2026-05-22T09:43:32+00:00"
+  },
+  "https://stackoverflow.blog/2026/05/22/breaking-your-ai-storage-bottlenecks": {
+    "title": "Breaking your AI storage bottlenecks",
+    "source": "Stack Overflow Blog",
+    "first_seen": "2026-05-22T10:03:19.787362+00:00",
+    "published": "2026-05-22T07:40:00+00:00"
+  },
+  "https://arxiv.org/abs/2605.19269": {
+    "title": "CODA: Rewriting Transformer Blocks as GEMM-Epilogue Programs",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-22T10:03:19.787362+00:00",
+    "published": "2026-05-22T04:54:33+00:00"
+  },
+  "https://simonwillison.net/2026/May/22/ftc-active-listening": {
+    "title": "FTC to Require Cox Media Group, Two Other Firms to Pay Nearly $1 Million to Settle Charges They Deceived Customers About “Active Listening” AI-Powered Marketing Service",
+    "source": "Simon Willison",
+    "first_seen": "2026-05-22T10:03:19.787362+00:00",
+    "published": "2026-05-22T04:48:32+00:00"
+  },
+  "https://slumber.lucaspickering.me": {
+    "title": "Slumber a TUI HTTP Client",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-22T10:03:19.787362+00:00",
+    "published": "2026-05-22T04:29:23+00:00"
+  },
+  "https://www.mathworks.com/company/aboutus/founders/clevemoler.html": {
+    "title": "Cleve Moler has died",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-22T10:03:19.787362+00:00",
+    "published": "2026-05-22T02:35:54+00:00"
+  },
+  "https://davidoks.blog/p/ai-is-killing-the-cheap-smartphone": {
+    "title": "The memory shortage is causing a repricing of consumer electronics",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-22T10:03:19.787362+00:00",
+    "published": "2026-05-21T21:55:56+00:00"
   }
 }
