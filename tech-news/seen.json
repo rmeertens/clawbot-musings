@@ -26228,5 +26228,125 @@
     "source": "OpenAI Blog",
     "first_seen": "2026-05-22T15:53:22.550944+00:00",
     "published": "2026-05-22T00:00:00+00:00"
+  },
+  "https://www.databricks.com/blog/pharma-launch-analytics-how-compress-first-90-days-and-win-three-years-follow": {
+    "title": "Pharma launch analytics: How to compress the first 90 days and win the three years that follow",
+    "source": "Databricks Blog",
+    "first_seen": "2026-05-22T19:06:17.079945+00:00",
+    "published": "2026-05-23T02:15:31+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.1-PM-Dynamic-EPP-Bart": {
+    "title": "Linux 7.1 Merges AMD Dynamic EPP Fixes, Intel Bartlett Lake Scaling Fix",
+    "source": "Phoronix",
+    "first_seen": "2026-05-22T19:06:17.079945+00:00",
+    "published": "2026-05-22T18:50:00+00:00"
+  },
+  "https://www.kanbots.dev": {
+    "title": "Open source Kanban desktop app that runs parallel agents on every card",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-22T19:06:17.079945+00:00",
+    "published": "2026-05-22T18:17:57+00:00"
+  },
+  "https://blog.google/innovation-and-ai/technology/ai/io-2026-dialogues-recap": {
+    "title": "Catch up on the Dialogues stage at Google I/O 2026.",
+    "source": "Google AI Blog",
+    "first_seen": "2026-05-22T19:06:17.079945+00:00",
+    "published": "2026-05-22T18:00:00+00:00"
+  },
+  "https://thenewstack.io/anthropic-openai-wall-street-ai-agents-developers": {
+    "title": "What Anthropic and OpenAI launched in 72 hours has Wall Street paying attention",
+    "source": "The New Stack",
+    "first_seen": "2026-05-22T19:06:17.079945+00:00",
+    "published": "2026-05-22T17:37:04+00:00"
+  },
+  "https://www.cbsnews.com/news/cbs-news-radio-last-day": {
+    "title": "CBS Radio signs off after nearly 100 years of broadcasting",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-22T19:06:17.079945+00:00",
+    "published": "2026-05-22T17:26:31+00:00"
+  },
+  "https://github.com/yt-dlp/yt-dlp/issues/16766": {
+    "title": "Yt-dlp – [Announcement] Bun support is now limited and deprecated",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-22T19:06:17.079945+00:00",
+    "published": "2026-05-22T17:24:12+00:00"
+  },
+  "https://stratechery.com/2026/the-data-center-veto": {
+    "title": "2026.21: The Data Center Veto",
+    "source": "Stratechery",
+    "first_seen": "2026-05-22T19:06:17.079945+00:00",
+    "published": "2026-05-22T17:12:32+00:00"
+  },
+  "https://www.1940airterminal.org/news/liquidation-of-simulators": {
+    "title": "1940 Air Terminal Museum Begins Liquidation",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-22T19:06:17.079945+00:00",
+    "published": "2026-05-22T17:05:32+00:00"
+  },
+  "https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak": {
+    "title": "Lawmakers Demand Answers as CISA Tries to Contain Data Leak",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-22T19:06:17.079945+00:00",
+    "published": "2026-05-22T16:54:31+00:00"
+  },
+  "https://www.phoronix.com/news/OpenCL-3.1.1-Released": {
+    "title": "OpenCL 3.1.1 Released To Address A Possible Performance Regression",
+    "source": "Phoronix",
+    "first_seen": "2026-05-22T19:06:17.079945+00:00",
+    "published": "2026-05-22T16:29:13+00:00"
+  },
+  "https://www.science.org/content/article/u-s-researchers-face-new-restrictions-publishing-foreign-collaborators": {
+    "title": "U.S. researchers face new restrictions on publishing with foreign collaborators",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-22T19:06:17.079945+00:00",
+    "published": "2026-05-22T16:23:08+00:00"
+  },
+  "https://case-trail.com/blog/ai-forensic-accounting-automation": {
+    "title": "Show HN: My dad is a forensic accountant. I automated ~62% of his job",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-22T19:06:17.079945+00:00",
+    "published": "2026-05-22T16:19:29+00:00"
+  },
+  "https://github.blog/ai-and-ml/github-copilot/github-recognized-as-a-leader-in-the-gartner-magic-quadrant-for-enterprise-ai-coding-agents-for-the-third-year-in-a-row": {
+    "title": "GitHub recognized as a Leader in the Gartner® Magic Quadrant™ for Enterprise AI Coding Agents for the third year in a row",
+    "source": "GitHub Blog",
+    "first_seen": "2026-05-22T19:06:17.079945+00:00",
+    "published": "2026-05-22T16:10:21+00:00"
+  },
+  "https://techcrunch.com/2026/05/22/trump-mobile-confirms-it-exposed-customers-personal-data-including-phone-numbers-and-home-addresses": {
+    "title": "Trump Mobile exposed customers' personal data",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-22T19:06:17.079945+00:00",
+    "published": "2026-05-22T16:00:35+00:00"
+  },
+  "https://developer.nvidia.com/blog/synthesize-realistic-3d-medical-images-at-scale-to-ship-pre-trained-models": {
+    "title": "Synthesize Realistic 3D Medical Images at Scale to Ship Pre‑Trained Models",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-05-22T19:06:17.079945+00:00",
+    "published": "2026-05-22T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/topics/startups/filling-the-gaps-in-dental-skills-with-specialized-agentic-ai": {
+    "title": "The Blueprint: How Movix fills a gap in dental skills with specialized agentic AI",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-05-22T19:06:17.079945+00:00",
+    "published": "2026-05-22T16:00:00+00:00"
+  },
+  "https://api-docs.deepseek.com/quick_start/pricing": {
+    "title": "DeepSeek makes the V4 Pro price discount permanent",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-22T19:06:17.079945+00:00",
+    "published": "2026-05-22T15:59:26+00:00"
+  },
+  "https://www.bbc.com/news/articles/cvgze8n5dxko": {
+    "title": "Alberta to hold referendum on whether to remain in Canada",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-22T19:06:17.079945+00:00",
+    "published": "2026-05-22T13:18:51+00:00"
+  },
+  "https://golangweekly.com/issues/602": {
+    "title": "pkg.go.dev gets an official API",
+    "source": "Golang Weekly",
+    "first_seen": "2026-05-22T19:06:17.079945+00:00",
+    "published": "2026-05-22T00:00:00+00:00"
   }
 }
