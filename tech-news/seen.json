@@ -26576,5 +26576,107 @@
     "source": "Phoronix",
     "first_seen": "2026-05-23T11:05:57.389379+00:00",
     "published": "2026-05-23T10:05:01+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-Mint-May-2026": {
+    "title": "Linux Mint Making Improvements To Its File Manager, Theme & Dialogs",
+    "source": "Phoronix",
+    "first_seen": "2026-05-23T15:21:15.723343+00:00",
+    "published": "2026-05-23T14:52:52+00:00"
+  },
+  "https://nand2mario.github.io/posts/2026/z386": {
+    "title": "z386: An Open-Source 80386 Built Around Original Microcode",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-23T15:21:15.723343+00:00",
+    "published": "2026-05-23T14:25:30+00:00"
+  },
+  "https://www.phoronix.com/news/Intel-EOL-OBS-Plugin-And-More": {
+    "title": "Intel's Latest Round Of Open-Source Projects Ended: OBS Studio Plugin, CVE Binary Tool & More",
+    "source": "Phoronix",
+    "first_seen": "2026-05-23T15:21:15.723343+00:00",
+    "published": "2026-05-23T14:15:18+00:00"
+  },
+  "https://this.weekinsecurity.com/oura-says-it-gets-government-demands-for-user-data-will-it-share-how-many": {
+    "title": "Oura says it gets government demands for user data. Will it share how many?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-23T15:21:15.723343+00:00",
+    "published": "2026-05-23T14:09:57+00:00"
+  },
+  "https://thenewstack.io/anthropic-stainless-sdk-acquisition": {
+    "title": "Anthropic’s $300M Stainless deal lands hardest on OpenAI and Google",
+    "source": "The New Stack",
+    "first_seen": "2026-05-23T15:21:15.723343+00:00",
+    "published": "2026-05-23T14:00:00+00:00"
+  },
+  "https://www.wired.com/story/security-news-this-week-fbi-license-plate-reader-real-time-access": {
+    "title": "The FBI Wants 'Near Real-Time' Access to US License Plate Readers",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-23T15:21:15.723343+00:00",
+    "published": "2026-05-23T13:57:02+00:00"
+  },
+  "https://lwn.net/Articles/1074117": {
+    "title": "A large set of stable kernel updates",
+    "source": "LWN.net",
+    "first_seen": "2026-05-23T15:21:15.723343+00:00",
+    "published": "2026-05-23T13:55:30+00:00"
+  },
+  "https://benmyers.dev/blog/on-the-dl": {
+    "title": "On The",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-23T15:21:15.723343+00:00",
+    "published": "2026-05-23T13:03:43+00:00"
+  },
+  "https://thenewstack.io/agentic-ai-data-governance": {
+    "title": "How MCP and synthetic data are reshaping compliance in the agentic era",
+    "source": "The New Stack",
+    "first_seen": "2026-05-23T15:21:15.723343+00:00",
+    "published": "2026-05-23T13:00:00+00:00"
+  },
+  "https://kk.org/cooltools/book-freak-210-the-art-of-money-getting": {
+    "title": "The Art of Money Getting",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-23T15:21:15.723343+00:00",
+    "published": "2026-05-23T12:48:02+00:00"
+  },
+  "https://www.mahl.me/blog/the-spell-that-wouldnt-leave": {
+    "title": "I Miss Terry Pratchett",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-23T15:21:15.723343+00:00",
+    "published": "2026-05-23T12:35:28+00:00"
+  },
+  "https://www.reenigne.org/blog/80386-microcode-disassembled": {
+    "title": "80386 Microcode Disassembled",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-23T15:21:15.723343+00:00",
+    "published": "2026-05-23T12:11:43+00:00"
+  },
+  "https://www.construction-physics.com/p/reading-list-052326": {
+    "title": "Reading List 05/23/26",
+    "source": "Construction Physics",
+    "first_seen": "2026-05-23T15:21:15.723343+00:00",
+    "published": "2026-05-23T12:02:39+00:00"
+  },
+  "https://twitter.com/i/status/2058064720553222567": {
+    "title": "Electrobun 2.0 will be decoupled from Bun due to the rust rewrite",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-23T15:21:15.723343+00:00",
+    "published": "2026-05-23T11:54:39+00:00"
+  },
+  "https://horace.io/brrr_intro.html": {
+    "title": "Making Deep Learning Go Brrrr from First Principles",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-23T15:21:15.723343+00:00",
+    "published": "2026-05-23T11:50:22+00:00"
+  },
+  "https://www.dutchnews.nl/2026/05/us-tech-firms-share-dutch-regulator-officials-names-with-senate": {
+    "title": "US tech firms share Dutch regulator officials' names with Senate",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-23T15:21:15.723343+00:00",
+    "published": "2026-05-23T10:57:14+00:00"
+  },
+  "https://olano.dev/blog/dangerously-skip": {
+    "title": "- -dangerously-skip-reading-code – olano.dev",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-23T15:21:15.723343+00:00",
+    "published": "2026-05-23T09:37:16+00:00"
   }
 }
