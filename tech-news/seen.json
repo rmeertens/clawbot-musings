@@ -26552,5 +26552,29 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-05-23T09:31:37.738355+00:00",
     "published": "2026-05-23T06:32:00+00:00"
+  },
+  "https://www.phoronix.com/news/AV2-Next-Week": {
+    "title": "AV2 Codec Looks Like It Will Be Officially Released Next Week",
+    "source": "Phoronix",
+    "first_seen": "2026-05-23T11:05:57.389379+00:00",
+    "published": "2026-05-23T10:38:18+00:00"
+  },
+  "https://www.phoronix.com/news/KDE-Plasma-6.8-Intel-Xe": {
+    "title": "KDE Plasma 6.8 To Support System Monitor With Intel Xe, Plasma 6.7 Sees More Crash Fixes",
+    "source": "Phoronix",
+    "first_seen": "2026-05-23T11:05:57.389379+00:00",
+    "published": "2026-05-23T10:26:44+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.1-rc5-Platform-Drivers": {
+    "title": "More ASUS & HP Laptops See Platform Driver Support For Linux 7.1-rc5",
+    "source": "Phoronix",
+    "first_seen": "2026-05-23T11:05:57.389379+00:00",
+    "published": "2026-05-23T10:17:00+00:00"
+  },
+  "https://www.phoronix.com/news/Open-Source-MoonRay-ASF": {
+    "title": "DreamWorks' Open-Source MoonRay Renderer Now Part Of The Academy Software Foundation",
+    "source": "Phoronix",
+    "first_seen": "2026-05-23T11:05:57.389379+00:00",
+    "published": "2026-05-23T10:05:01+00:00"
   }
 }
