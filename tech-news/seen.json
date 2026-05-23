@@ -26744,5 +26744,35 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-05-23T19:05:49.277478+00:00",
     "published": "2026-05-22T20:39:42+00:00"
+  },
+  "https://ironpeak.be/blog/bypassing-apple-mie": {
+    "title": "Pardon MIE?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-23T21:15:28.712384+00:00",
+    "published": "2026-05-23T20:36:42+00:00"
+  },
+  "https://simonwillison.net/2026/May/23/on-the-dl": {
+    "title": "On the",
+    "source": "Simon Willison",
+    "first_seen": "2026-05-23T21:15:28.712384+00:00",
+    "published": "2026-05-23T20:24:48+00:00"
+  },
+  "https://veronicaexplains.net/my-first-writerdeck": {
+    "title": "It's time to talk about my writerdeck",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-23T21:15:28.712384+00:00",
+    "published": "2026-05-23T18:45:37+00:00"
+  },
+  "https://azure.microsoft.com/en-us/blog/powering-multi-cluster-workloads-with-seamless-cross-cluster-networking-for-azure-kubernetes-fleet-manager": {
+    "title": "Powering multi-cluster workloads with seamless cross‑cluster networking for Azure Kubernetes Fleet Manager",
+    "source": "Azure Blog",
+    "first_seen": "2026-05-23T21:15:28.712384+00:00",
+    "published": "2026-05-22T17:00:00+00:00"
+  },
+  "https://azure.microsoft.com/en-us/blog/azure-netapp-files-for-eda-workloads-from-revolution-to-breakthrough-at-scale": {
+    "title": "Azure NetApp Files for EDA workloads: From revolution to breakthrough at scale",
+    "source": "Azure Blog",
+    "first_seen": "2026-05-23T21:15:28.712384+00:00",
+    "published": "2026-05-22T15:00:00+00:00"
   }
 }
