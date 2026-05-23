@@ -26462,5 +26462,71 @@
     "source": "OpenAI Blog",
     "first_seen": "2026-05-22T23:07:28.574067+00:00",
     "published": "2026-05-22T00:00:00+00:00"
+  },
+  "https://isaiprofitable.com": {
+    "title": "Is AI Profitable Yet?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-23T03:08:05.000644+00:00",
+    "published": "2026-05-23T02:10:38+00:00"
+  },
+  "https://www.phoronix.com/news/FreeBSD-15.1-RC1": {
+    "title": "FreeBSD 15.1-RC1 Released: Fixes With Now Seeing More AI-Discovered Security Issues",
+    "source": "Phoronix",
+    "first_seen": "2026-05-23T03:08:05.000644+00:00",
+    "published": "2026-05-23T00:52:22+00:00"
+  },
+  "https://www.databricks.com/blog/scaling-mhhs-how-octopus-energy-achieved-50x-cost-reduction-margin-data-engineering": {
+    "title": "Scaling for MHHS: how Octopus Energy achieved a 50x cost reduction in margin data engineering",
+    "source": "Databricks Blog",
+    "first_seen": "2026-05-23T03:08:05.000644+00:00",
+    "published": "2026-05-23T00:40:09+00:00"
+  },
+  "https://www.pcmag.com/news/kash-patels-apparel-site-is-trying-to-trick-visitors-into-installing-malware": {
+    "title": "FBI director's Based Apparel site has been spotted hosting a 'ClickFix' attack",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-23T03:08:05.000644+00:00",
+    "published": "2026-05-23T00:34:25+00:00"
+  },
+  "https://www.phoronix.com/news/GNOME-Commander-2.0": {
+    "title": "GNOME Commander 2.0 Released Following Rewrite In Rust & GTK4",
+    "source": "Phoronix",
+    "first_seen": "2026-05-23T03:08:05.000644+00:00",
+    "published": "2026-05-23T00:24:11+00:00"
+  },
+  "https://huggingface.co/blog/nvidia/nemotron-labs-diffusion": {
+    "title": "Towards Speed-of-Light Text Generation with Nemotron-Labs Diffusion Language Models",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-05-23T03:08:05.000644+00:00",
+    "published": "2026-05-23T00:02:03+00:00"
+  },
+  "https://www.nbcnews.com/now/video/spacex-successfully-launches-prototype-of-starship-rocket-263835205505": {
+    "title": "SpaceX launches Starship v3 rocket",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-23T03:08:05.000644+00:00",
+    "published": "2026-05-22T23:41:55+00:00"
+  },
+  "https://temertymedicine.utoronto.ca/news/how-decades-sleep-research-led-new-sleep-apnea-drug": {
+    "title": "Sleep research led to a new sleep apnea drug",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-23T03:08:05.000644+00:00",
+    "published": "2026-05-22T22:05:39+00:00"
+  },
+  "https://www.cringely.com/2026/05/21/im-writing-again": {
+    "title": "I’m writing again",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-23T03:08:05.000644+00:00",
+    "published": "2026-05-22T14:36:27+00:00"
+  },
+  "https://www.govexec.com/management/2026/05/white-house-ordering-agencies-place-its-new-app-all-employees-government-phones/413738": {
+    "title": "White House ordering agencies to place its new app on all employees' govt phones",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-23T07:09:15.471542+00:00",
+    "published": "2026-05-23T05:28:10+00:00"
+  },
+  "https://github.blog/changelog/2026-05-22-staged-publishing-and-new-install-time-controls-for-npm": {
+    "title": "Staged publishing and new install-time controls for npm",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-23T07:09:15.471542+00:00",
+    "published": "2026-05-22T19:49:57+00:00"
   }
 }
