@@ -27050,5 +27050,59 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-05-24T19:06:33.845377+00:00",
     "published": "2026-05-24T15:21:28+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.1-rc5-Released": {
+    "title": "Linux 7.1-rc5 Released With Fixes Ramping Up From AI Coding Agents",
+    "source": "Phoronix",
+    "first_seen": "2026-05-24T21:16:49.863103+00:00",
+    "published": "2026-05-24T20:51:21+00:00"
+  },
+  "https://www.ben-evans.com/benedictevans/2026/5/24/ai-job-exposure": {
+    "title": "Predicting AI job exposure",
+    "source": "Ben Evans",
+    "first_seen": "2026-05-24T21:16:49.863103+00:00",
+    "published": "2026-05-24T20:35:51+00:00"
+  },
+  "https://mimetra.com/blog/consciousness-fusion": {
+    "title": "Why Physical Reality Is a Collective Construction",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-24T21:16:49.863103+00:00",
+    "published": "2026-05-24T19:33:41+00:00"
+  },
+  "https://www.cbp.gov/document/directives/cbp-directive-no-3340-049b-border-search-electronic-devices": {
+    "title": "CBP Directive 3340-049B: Border Search of Electronic Devices",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-24T21:16:49.863103+00:00",
+    "published": "2026-05-24T19:12:46+00:00"
+  },
+  "https://scienceaim.com/australia-just-proved-the-four-day-work-week-works-here-is-what-the-data-actually-says": {
+    "title": "Australia Four-Day Work Week Study Data Shows Boosted Productivity",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-24T21:16:49.863103+00:00",
+    "published": "2026-05-24T18:56:09+00:00"
+  },
+  "https://ikesau.co/blog/defeating-git-rigour-fatigue-with-jujutsu": {
+    "title": "Defeating Git Rigour Fatigue with Jujutsu",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-24T21:16:49.863103+00:00",
+    "published": "2026-05-24T18:39:10+00:00"
+  },
+  "https://corrode.dev/learn/migration-guides/go-to-rust": {
+    "title": "Migrating from Go to Rust",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-24T21:16:49.863103+00:00",
+    "published": "2026-05-24T18:31:42+00:00"
+  },
+  "https://www.hollandtech.net/claude-is-not-your-architect": {
+    "title": "Claude is not your architect. Stop letting it pretend",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-24T21:16:49.863103+00:00",
+    "published": "2026-05-24T18:28:11+00:00"
+  },
+  "https://simonwillison.net/2026/May/24/usborne-mad-house": {
+    "title": "Mad House — Usborne Creepy Computer Games",
+    "source": "Simon Willison",
+    "first_seen": "2026-05-24T21:16:49.863103+00:00",
+    "published": "2026-05-24T17:14:11+00:00"
   }
 }
