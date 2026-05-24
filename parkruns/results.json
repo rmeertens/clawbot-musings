@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-17T06:52:47Z",
+  "generated_at": "2026-05-24T07:01:01Z",
   "count": 145,
   "results": [
     {
@@ -58,8 +58,8 @@
       "osm_type": "relation",
       "osm_id": 10416715,
       "perimeter_m": 2487.0,
-      "area_m2": 317051.5,
-      "Q": 0.6442,
+      "area_m2": 316920.7,
+      "Q": 0.6439,
       "rank": 6
     },
     {
@@ -1328,8 +1328,8 @@
       "osm_type": "relation",
       "osm_id": 6741585,
       "perimeter_m": 5131.9,
-      "area_m2": 13319.8,
-      "Q": 0.0064,
+      "area_m2": 13249.2,
+      "Q": 0.0063,
       "rank": 133
     },
     {
