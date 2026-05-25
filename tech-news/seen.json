@@ -27104,5 +27104,47 @@
     "source": "Simon Willison",
     "first_seen": "2026-05-24T21:16:49.863103+00:00",
     "published": "2026-05-24T17:14:11+00:00"
+  },
+  "https://simonwillison.net/2026/May/24/datasette": {
+    "title": "datasette 1.0a30",
+    "source": "Simon Willison",
+    "first_seen": "2026-05-25T03:07:38.431012+00:00",
+    "published": "2026-05-24T23:52:37+00:00"
+  },
+  "https://simonwillison.net/2026/May/24/datasette-agent": {
+    "title": "datasette-agent 0.1a4",
+    "source": "Simon Willison",
+    "first_seen": "2026-05-25T03:07:38.431012+00:00",
+    "published": "2026-05-24T23:19:34+00:00"
+  },
+  "https://lwn.net/Articles/1074172": {
+    "title": "Kernel prepatch 7.1-rc5",
+    "source": "LWN.net",
+    "first_seen": "2026-05-25T03:07:38.431012+00:00",
+    "published": "2026-05-24T22:59:14+00:00"
+  },
+  "https://simonwillison.net/2026/May/24/datasette-fixtures": {
+    "title": "datasette-fixtures 0.1a0",
+    "source": "Simon Willison",
+    "first_seen": "2026-05-25T03:07:38.431012+00:00",
+    "published": "2026-05-24T21:38:32+00:00"
+  },
+  "https://www.wired.com/story/a-fundamental-principle-of-aeronautical-engineering-has-been-overturned": {
+    "title": "A fundamental principle of aeronautical engineering has been overturned",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-25T03:07:38.431012+00:00",
+    "published": "2026-05-24T19:10:26+00:00"
+  },
+  "https://audiomass.co?multitrack=1": {
+    "title": "Show HN: Audiomass – a free, open-source multitrack audio editor for the web",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-25T03:07:38.431012+00:00",
+    "published": "2026-05-24T15:25:43+00:00"
+  },
+  "https://ohwr.org/projects/white-rabbit": {
+    "title": "White Rabbit – sub-nanosecond synchronization for large distributed systems",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-25T03:07:38.431012+00:00",
+    "published": "2026-05-23T08:38:44+00:00"
   }
 }
