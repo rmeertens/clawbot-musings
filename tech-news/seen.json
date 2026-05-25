@@ -27146,5 +27146,77 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-05-25T03:07:38.431012+00:00",
     "published": "2026-05-23T08:38:44+00:00"
+  },
+  "https://cloud.google.com/blog/topics/threat-intelligence/knowledgedeliver-viewstate-deserialization-vulnerability": {
+    "title": "Exploitation of KnowledgeDeliver via ViewState Deserialization Vulnerability",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-05-25T10:28:16.866680+00:00",
+    "published": "2026-05-25T14:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/topics/threat-intelligence/chinese-language-phishing-services": {
+    "title": "2 PhaaS 2 Furious: The Evolution of Chinese-language Phishing Services",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-05-25T10:28:16.866680+00:00",
+    "published": "2026-05-25T14:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-To-Drop-ARCnet-ISA-PCMCIA": {
+    "title": "Linux To Drop ARCnet Support For Old ISA & PCMCIA Hardware",
+    "source": "Phoronix",
+    "first_seen": "2026-05-25T10:28:16.866680+00:00",
+    "published": "2026-05-25T10:20:11+00:00"
+  },
+  "https://www.phoronix.com/news/Redis-8.8-Released": {
+    "title": "Redis 8.8 Released With New Array Data Structure, More Performance Optimizations",
+    "source": "Phoronix",
+    "first_seen": "2026-05-25T10:28:16.866680+00:00",
+    "published": "2026-05-25T10:05:44+00:00"
+  },
+  "https://www.phoronix.com/news/California-AB-1856": {
+    "title": "California's Age Verification Law May End Up Exempting Most Linux Distributions",
+    "source": "Phoronix",
+    "first_seen": "2026-05-25T10:28:16.866680+00:00",
+    "published": "2026-05-25T09:58:00+00:00"
+  },
+  "https://www.tinyvolt.com/geomatic": {
+    "title": "Show HN: Geomatic – a command-driven geometry studio enabled with autodiff",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-25T10:28:16.866680+00:00",
+    "published": "2026-05-25T08:25:00+00:00"
+  },
+  "https://www.atlasobscura.com/articles/blankets-summer-hot": {
+    "title": "Why Do We Sleep Under Blankets, Even on the Hottest Nights? (2017)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-25T10:28:16.866680+00:00",
+    "published": "2026-05-25T05:33:31+00:00"
+  },
+  "https://seriot.ch/computation/jira.html": {
+    "title": "Jira Is Turing-Complete",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-25T10:28:16.866680+00:00",
+    "published": "2026-05-25T03:54:14+00:00"
+  },
+  "https://geohot.github.io//blog/jekyll/update/2026/05/24/the-eternal-sloptember.html": {
+    "title": "The Eternal Sloptember",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-25T10:28:16.866680+00:00",
+    "published": "2026-05-25T03:47:24+00:00"
+  },
+  "https://blog.rust-lang.org/2026/05/25/cve-2026-5223": {
+    "title": "Security Advisory for Cargo (CVE-2026-5223)",
+    "source": "Rust Blog",
+    "first_seen": "2026-05-25T10:28:16.866680+00:00",
+    "published": "2026-05-25T00:00:00+00:00"
+  },
+  "https://blog.rust-lang.org/2026/05/25/cve-2026-5222": {
+    "title": "Security Advisory for Cargo (CVE-2026-5222)",
+    "source": "Rust Blog",
+    "first_seen": "2026-05-25T10:28:16.866680+00:00",
+    "published": "2026-05-25T00:00:00+00:00"
+  },
+  "https://lucumr.pocoo.org/2026/5/24/pi-oss": {
+    "title": "Building Pi with Pi",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-25T10:28:16.866680+00:00",
+    "published": "2026-05-24T17:22:48+00:00"
   }
 }
