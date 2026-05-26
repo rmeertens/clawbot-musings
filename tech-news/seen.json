@@ -28136,5 +28136,53 @@
     "source": "Elastic Blog",
     "first_seen": "2026-05-26T19:06:41.709909+00:00",
     "published": "2026-05-26T00:00:00+00:00"
+  },
+  "https://www.databricks.com/blog/ai-readiness-telecommunications": {
+    "title": "AI readiness in telecommunications",
+    "source": "Databricks Blog",
+    "first_seen": "2026-05-26T21:30:34.009753+00:00",
+    "published": "2026-05-26T21:00:00+00:00"
+  },
+  "https://medium.com/@jakeorlowitz/wikipedia-is-doing-the-capitalist-thing-56a393232943": {
+    "title": "Big Tech's Anti-Labor Playbook Has Come for Wikipedia",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-26T21:30:34.009753+00:00",
+    "published": "2026-05-26T20:33:24+00:00"
+  },
+  "https://www.phoronix.com/news/ANGLE-Merges-Wayland": {
+    "title": "Google's ANGLE Merges Wayland Support, Unblocking Chromium Embedded Framework On Wayland",
+    "source": "Phoronix",
+    "first_seen": "2026-05-26T21:30:34.009753+00:00",
+    "published": "2026-05-26T20:28:06+00:00"
+  },
+  "https://www.science.org/content/blog-post/methyl-methacrylate-tank": {
+    "title": "Chemistry behind the Garden Grove chemical tank",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-26T21:30:34.009753+00:00",
+    "published": "2026-05-26T19:25:16+00:00"
+  },
+  "https://www.tomshardware.com/video-games/console-gaming/modern-blu-ray-drives-can-now-rip-gamecube-wii-and-xbox-360-games-to-pc-third-party-firmware-unlocks-game-rips-from-physical-media-on-select-players": {
+    "title": "Modern Blu-ray drives can now rip GameCube, Wii, and Xbox 360 games to PC",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-26T21:30:34.009753+00:00",
+    "published": "2026-05-26T18:44:34+00:00"
+  },
+  "https://github.com/lwouis/alt-tab-macos/discussions/5533": {
+    "title": "AltTab.app makes free features paid, drops old releases",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-26T21:30:34.009753+00:00",
+    "published": "2026-05-26T18:01:35+00:00"
+  },
+  "https://sherwood.news/tech/stack-overflow-forum-dead-thanks-ai-but-companys-still-kicking-ai": {
+    "title": "Stack Overflow’s forum is dead but the company’s still kicking",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-26T21:30:34.009753+00:00",
+    "published": "2026-05-26T17:17:12+00:00"
+  },
+  "https://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function": {
+    "title": "What color is your function? (2015)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-26T21:30:34.009753+00:00",
+    "published": "2026-05-26T15:58:32+00:00"
   }
 }
