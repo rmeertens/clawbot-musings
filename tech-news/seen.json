@@ -27980,5 +27980,161 @@
     "source": "Simon Willison",
     "first_seen": "2026-05-26T16:16:02.560810+00:00",
     "published": "2026-05-25T23:08:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/security/welcoming-the-aws-customer-incident-response-team": {
+    "title": "Welcoming the AWS Customer Incident Response Team",
+    "source": "AWS Security Blog",
+    "first_seen": "2026-05-26T19:06:41.709909+00:00",
+    "published": "2026-05-26T19:04:17+00:00"
+  },
+  "https://newsletter.pragmaticengineer.com/p/state-of-the-job-market-2026": {
+    "title": "State of the software engineering job market in 2026",
+    "source": "The Pragmatic Engineer",
+    "first_seen": "2026-05-26T19:06:41.709909+00:00",
+    "published": "2026-05-26T18:10:59+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/automate-data-discovery-and-centralized-management-with-aws-glue-data-catalog": {
+    "title": "Automate data discovery and centralized management with AWS Glue Data Catalog",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-05-26T19:06:41.709909+00:00",
+    "published": "2026-05-26T17:59:57+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/preserving-custom-domain-names-for-amazon-rds-for-db2": {
+    "title": "Preserving custom domain names for Amazon RDS for Db2",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-05-26T19:06:41.709909+00:00",
+    "published": "2026-05-26T17:58:58+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/technical-deep-dive-agentcore-payments-and-innovation-in-agentic-commerce": {
+    "title": "Technical deep dive: AgentCore payments and innovation in agentic commerce",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-05-26T19:06:41.709909+00:00",
+    "published": "2026-05-26T17:57:18+00:00"
+  },
+  "https://lwn.net/Articles/1074534": {
+    "title": "Arias: Human proof for FOSS contributions",
+    "source": "LWN.net",
+    "first_seen": "2026-05-26T19:06:41.709909+00:00",
+    "published": "2026-05-26T17:50:35+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/build-highly-scalable-serverless-langgraph-multi-agent-systems-in-aws-with-amazon-bedrock-agentcore": {
+    "title": "Build highly scalable serverless LangGraph multi-agent systems in AWS with Amazon Bedrock AgentCore",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-05-26T19:06:41.709909+00:00",
+    "published": "2026-05-26T17:41:26+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/build-high-performance-generative-ai-systems-with-strands-agents-nvidia-nim-and-amazon-bedrock-agentcore": {
+    "title": "Build high-performance generative AI systems with Strands Agents, NVIDIA NIM, and Amazon Bedrock AgentCore",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-05-26T19:06:41.709909+00:00",
+    "published": "2026-05-26T17:39:46+00:00"
+  },
+  "https://thenewstack.io/gpt-5-5-android-bench": {
+    "title": "Google ranks the best AI for building Android apps, and the winner isn’t Gemini",
+    "source": "The New Stack",
+    "first_seen": "2026-05-26T19:06:41.709909+00:00",
+    "published": "2026-05-26T17:32:13+00:00"
+  },
+  "https://kubernetes.io/blog/2026/05/26/reconciling-unfixed-kubernetes-cves": {
+    "title": "Reconciling the Past: Correcting Records for Unfixed Kubernetes CVEs",
+    "source": "Kubernetes Blog",
+    "first_seen": "2026-05-26T19:06:41.709909+00:00",
+    "published": "2026-05-26T17:30:00+00:00"
+  },
+  "https://platform.xiaomimimo.com/docs/en-US/news/v2.5-price-update": {
+    "title": "Xiaomi MiMo-v2.5 Series API Permanent Price Reduction Up to 99%",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-26T19:06:41.709909+00:00",
+    "published": "2026-05-26T17:24:19+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/agentwatch-proactive-aws-monitoring-with-ambient-agents": {
+    "title": "AgentWatch: Proactive AWS monitoring with ambient agents",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-05-26T19:06:41.709909+00:00",
+    "published": "2026-05-26T17:22:48+00:00"
+  },
+  "https://wiert.me/2026/05/26/stack-overflows-forum-is-dead-thanks-to-ai-but-the-companys-still-kicking-thanks-to-ai-sherwood-news": {
+    "title": "Stack Overflow’s forum is dead but the company’s still kicking",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-26T19:06:41.709909+00:00",
+    "published": "2026-05-26T17:17:12+00:00"
+  },
+  "https://devblogs.microsoft.com/dotnet/doing-more-with-github-copilot": {
+    "title": "Doing More with GitHub Copilot as a .NET Developer",
+    "source": "MS .NET Blog",
+    "first_seen": "2026-05-26T19:06:41.709909+00:00",
+    "published": "2026-05-26T17:05:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/security/well-architected-best-practices-for-software-supply-chain-security": {
+    "title": "Well-architected best practices for software supply chain security",
+    "source": "AWS Security Blog",
+    "first_seen": "2026-05-26T19:06:41.709909+00:00",
+    "published": "2026-05-26T17:03:30+00:00"
+  },
+  "https://www.ycombinator.com/companies/sagecare/jobs/xtloH8r-senior-software-engineer": {
+    "title": "Sage Care (YC S24) Is Hiring Software Engineers",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-26T19:06:41.709909+00:00",
+    "published": "2026-05-26T17:00:40+00:00"
+  },
+  "https://thenewstack.io/google-antigravity-cli": {
+    "title": "Google pushes Pro, Ultra, and free users from open-source Gemini CLI to closed-source Antigravity CLI",
+    "source": "The New Stack",
+    "first_seen": "2026-05-26T19:06:41.709909+00:00",
+    "published": "2026-05-26T17:00:00+00:00"
+  },
+  "https://devblogs.microsoft.com/dotnet/dotnet-maui-material-3": {
+    "title": "Give Your .NET MAUI Android Apps a Material 3 Makeover",
+    "source": "MS .NET Blog",
+    "first_seen": "2026-05-26T19:06:41.709909+00:00",
+    "published": "2026-05-26T17:00:00+00:00"
+  },
+  "https://medium.com/wix-engineering/my-plan-is-the-source-of-truth-the-board-is-just-there-to-make-you-comfortable-2d04ce9754e9?source=rss----e239c562f907---4": {
+    "title": "My Plan Is the Source of Truth. The Board Is Just There to Make You Comfortable.",
+    "source": "Wix Engineering",
+    "first_seen": "2026-05-26T19:06:41.709909+00:00",
+    "published": "2026-05-26T16:33:52+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/from-idea-to-ai-app-creating-intelligent-research-assistants-with-strands": {
+    "title": "From idea to AI app: Creating intelligent research assistants with Strands",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-05-26T19:06:41.709909+00:00",
+    "published": "2026-05-26T16:28:08+00:00"
+  },
+  "https://ericturner.dev/posts/cost-of-home-ownership": {
+    "title": "The real cost of owning a home",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-26T19:06:41.709909+00:00",
+    "published": "2026-05-26T16:04:39+00:00"
+  },
+  "https://dynomight.net/crc-rates": {
+    "title": "Is \"colorectal cancer\" rising in \"young people\"?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-26T19:06:41.709909+00:00",
+    "published": "2026-05-26T16:00:21+00:00"
+  },
+  "https://www.reuters.com/business/world-at-work/uber-lyft-drivers-massachusetts-form-first-us-ride-share-union-2026-05-26": {
+    "title": "Uber, Lyft drivers in Massachusetts form first US ride-share union",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-26T19:06:41.709909+00:00",
+    "published": "2026-05-26T15:58:02+00:00"
+  },
+  "https://arxiv.org/abs/2605.26099": {
+    "title": "Language Models Need Sleep",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-26T19:06:41.709909+00:00",
+    "published": "2026-05-26T15:36:24+00:00"
+  },
+  "https://www.cnbc.com/2026/05/26/dropbox-ceo-drew-houston-ashraf-alkarmi.html": {
+    "title": "Dropbox CEO Drew Houston to step down",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-26T19:06:41.709909+00:00",
+    "published": "2026-05-26T13:18:33+00:00"
+  },
+  "https://www.elastic.co/blog/5-data-tech-stack-gaps-stalling-ai-agents": {
+    "title": "5 data foundation and technology stack gaps stalling your AI agents",
+    "source": "Elastic Blog",
+    "first_seen": "2026-05-26T19:06:41.709909+00:00",
+    "published": "2026-05-26T00:00:00+00:00"
   }
 }
