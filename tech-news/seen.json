@@ -27476,5 +27476,113 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-05-25T21:23:16.032039+00:00",
     "published": "2026-05-25T16:20:36+00:00"
+  },
+  "https://simonwillison.net/2026/May/26/corey-quinn": {
+    "title": "Quoting Corey Quinn",
+    "source": "Simon Willison",
+    "first_seen": "2026-05-26T03:06:38.911765+00:00",
+    "published": "2026-05-26T02:28:54+00:00"
+  },
+  "https://jsx.lol": {
+    "title": "Does Anybody Actually Like React?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-26T03:06:38.911765+00:00",
+    "published": "2026-05-26T01:55:15+00:00"
+  },
+  "https://secvant.com": {
+    "title": "Browser-based file encryption tool using WebCrypto",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-26T03:06:38.911765+00:00",
+    "published": "2026-05-26T01:45:33+00:00"
+  },
+  "https://www.newyorker.com/magazine/2026/06/01/our-warming-planet-is-a-petri-dish-for-new-and-deadly-microbes": {
+    "title": "Our Warming Planet Is a Petri Dish for New and Deadly Microbes",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-26T03:06:38.911765+00:00",
+    "published": "2026-05-26T00:50:14+00:00"
+  },
+  "https://www.urbanhonking.com/ideasfordozens/2012/06/24/designing-for-and-against-the-manufactured-normalcy-field/index.html": {
+    "title": "Designing for and against the manufactured normalcy field (2012)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-26T03:06:38.911765+00:00",
+    "published": "2026-05-26T00:36:17+00:00"
+  },
+  "https://teenage.engineering/products/tp-7": {
+    "title": "TP-7 Field Recorder",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-26T03:06:38.911765+00:00",
+    "published": "2026-05-26T00:27:43+00:00"
+  },
+  "https://www.phoronix.com/news/Labwc-0.20-Compositor": {
+    "title": "Labwc 0.20 Wayland Compositor Released With Numerous New Features",
+    "source": "Phoronix",
+    "first_seen": "2026-05-26T03:06:38.911765+00:00",
+    "published": "2026-05-26T00:22:50+00:00"
+  },
+  "https://simonwillison.net/2026/May/25/encyclical-on-ai": {
+    "title": "Notes on Pope Leo XIV's encyclical on AI",
+    "source": "Simon Willison",
+    "first_seen": "2026-05-26T03:06:38.911765+00:00",
+    "published": "2026-05-25T23:58:17+00:00"
+  },
+  "https://support.apple.com/en-us/127115": {
+    "title": "CVE-2026-28952: Apple macOS 26.5 Kernel Vuln found by Claude",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-26T03:06:38.911765+00:00",
+    "published": "2026-05-25T23:40:40+00:00"
+  },
+  "https://github.com/yugr/rust-slides": {
+    "title": "Performance of Rust Language [pdf]",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-26T03:06:38.911765+00:00",
+    "published": "2026-05-25T23:37:31+00:00"
+  },
+  "https://unix.foo/posts/nobody-cracks-open-a-programming-book": {
+    "title": "Nobody cracks open a programming book anymore",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-26T03:06:38.911765+00:00",
+    "published": "2026-05-25T23:21:57+00:00"
+  },
+  "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly": {
+    "title": "Using AI to write better code more slowly",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-26T03:06:38.911765+00:00",
+    "published": "2026-05-25T23:16:59+00:00"
+  },
+  "https://ente.com/blog/how-shamirs-secret-sharing-works": {
+    "title": "How Shamir's Secret Sharing Works",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-26T03:06:38.911765+00:00",
+    "published": "2026-05-25T22:37:24+00:00"
+  },
+  "https://www.apa.org/news/press/releases/2014/04/creativity-walk": {
+    "title": "Taking a walk may lead to more creativity than sitting, study finds (2014)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-26T03:06:38.911765+00:00",
+    "published": "2026-05-25T22:30:27+00:00"
+  },
+  "https://github.com/tantara/openbrief": {
+    "title": "Show HN: OpenBrief – Local-first video downloader/summarizer",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-26T03:06:38.911765+00:00",
+    "published": "2026-05-25T21:50:03+00:00"
+  },
+  "https://www.promptarmor.com/resources/microsoft-copilot-cowork-exfiltrates-files": {
+    "title": "Microsoft Copilot Cowork Exfiltrates Files",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-26T03:06:38.911765+00:00",
+    "published": "2026-05-25T21:45:57+00:00"
+  },
+  "https://lwn.net/Articles/1073583": {
+    "title": "[$] Reviewing kernel patches with LLMs",
+    "source": "LWN.net",
+    "first_seen": "2026-05-26T03:06:38.911765+00:00",
+    "published": "2026-05-25T21:27:22+00:00"
+  },
+  "https://thefrontpage.dev": {
+    "title": "Hacker News front page as a site",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-26T03:06:38.911765+00:00",
+    "published": "2026-05-25T20:12:29+00:00"
   }
 }
