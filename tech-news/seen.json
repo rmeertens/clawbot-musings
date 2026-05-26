@@ -27662,5 +27662,323 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-05-26T10:21:19.394503+00:00",
     "published": "2026-05-26T05:43:25+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/build-an-enterprise-observability-solution-for-amazon-quick": {
+    "title": "Build an enterprise observability solution for Amazon Quick",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-05-26T16:16:02.560810+00:00",
+    "published": "2026-05-26T16:09:06+00:00"
+  },
+  "https://developer.nvidia.com/blog/run-key-genomics-and-protein-folding-workloads-faster-with-nvidia-rtx-pro-4500-blackwell": {
+    "title": "Run Key Genomics and Protein Folding Workloads Faster with NVIDIA RTX PRO 4500 Blackwell",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-05-26T16:16:02.560810+00:00",
+    "published": "2026-05-26T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/networking/data-center-and-global-networks-built-for-ai-era": {
+    "title": "How we evolved Google’s global and data center networks for the AI era",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-05-26T16:16:02.560810+00:00",
+    "published": "2026-05-26T16:00:00+00:00"
+  },
+  "https://blog.sentry.io/agents-need-production-context": {
+    "title": "Your agent can't fix what it can't see",
+    "source": "Sentry Blog",
+    "first_seen": "2026-05-26T16:16:02.560810+00:00",
+    "published": "2026-05-26T16:00:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/transforming-professional-work-how-amazon-quick-turns-document-creation-from-hours-into-minutes": {
+    "title": "Transforming professional work: How Amazon Quick turns document creation from hours into minutes",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-05-26T16:16:02.560810+00:00",
+    "published": "2026-05-26T15:59:16+00:00"
+  },
+  "https://www.dw.com/en/germany-news-childfree-adults-to-pay-more-for-elder-care/live-77292208": {
+    "title": "Germany news: Childfree adults to pay more for elder care",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-26T16:16:02.560810+00:00",
+    "published": "2026-05-26T15:52:58+00:00"
+  },
+  "https://www.owlposting.com/p/the-ballad-of-tigit": {
+    "title": "The Ballad of TIGIT",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-26T16:16:02.560810+00:00",
+    "published": "2026-05-26T15:47:32+00:00"
+  },
+  "https://www.cncf.io/blog/2026/05/26/three-tag-leads-walk-into-the-toc": {
+    "title": "Three TAG leads walk into the TOC",
+    "source": "CNCF Blog",
+    "first_seen": "2026-05-26T16:16:02.560810+00:00",
+    "published": "2026-05-26T15:38:18+00:00"
+  },
+  "https://simonwillison.net/2026/May/26/copilot-cowork-exfiltrates-files": {
+    "title": "Microsoft Copilot Cowork Exfiltrates Files",
+    "source": "Simon Willison",
+    "first_seen": "2026-05-26T16:16:02.560810+00:00",
+    "published": "2026-05-26T15:36:48+00:00"
+  },
+  "https://www.thelocal.se/20260525/incredible-milestone-reached-as-sweden-becomes-a-smoke-free-country": {
+    "title": "'Incredible' milestone reached as Sweden becomes a smoke-free country",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-26T16:16:02.560810+00:00",
+    "published": "2026-05-26T15:34:04+00:00"
+  },
+  "https://blog.bytebytego.com/p/how-vercel-cut-build-wait-times-from": {
+    "title": "How Vercel Cut Build Wait Times From 90 Seconds To 5",
+    "source": "ByteByteGo",
+    "first_seen": "2026-05-26T16:16:02.560810+00:00",
+    "published": "2026-05-26T15:31:10+00:00"
+  },
+  "https://simonwillison.net/2026/May/26/paul-graham": {
+    "title": "Quoting Paul Graham",
+    "source": "Simon Willison",
+    "first_seen": "2026-05-26T16:16:02.560810+00:00",
+    "published": "2026-05-26T15:02:30+00:00"
+  },
+  "https://www.schneier.com/blog/archives/2026/05/identifying-people-using-wi-fi-routers.html": {
+    "title": "Identifying People Using Wi-Fi Routers",
+    "source": "Schneier on Security",
+    "first_seen": "2026-05-26T16:16:02.560810+00:00",
+    "published": "2026-05-26T15:02:06+00:00"
+  },
+  "https://www.minicor.com": {
+    "title": "Launch HN: Minicor (YC P26) – Windows desktop automations at scale",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-26T16:16:02.560810+00:00",
+    "published": "2026-05-26T14:57:27+00:00"
+  },
+  "https://thebestworstcase.substack.com/p/dont-subscribe-so-casually": {
+    "title": "Don't Subscribe So Casually",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-26T16:16:02.560810+00:00",
+    "published": "2026-05-26T14:50:25+00:00"
+  },
+  "https://www.intelligenceonline.com/europe-russia/2026/05/26/stockholm-poised-to-become-leading-european-geospatial-intel-player,110772386-eve": {
+    "title": "Stockholm poised to become leading European geospatial intel player",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-26T16:16:02.560810+00:00",
+    "published": "2026-05-26T14:44:31+00:00"
+  },
+  "https://www.tigerdata.com/blog/the-postgres-developers-guide-to-vector-index-tradeoffs": {
+    "title": "The Postgres Developer's Guide to Vector Index Tradeoffs",
+    "source": "Timescale Blog",
+    "first_seen": "2026-05-26T16:16:02.560810+00:00",
+    "published": "2026-05-26T14:23:55+00:00"
+  },
+  "https://www.phoronix.com/review/nvidia-vera-benchmarks": {
+    "title": "NVIDIA Vera CPU Benchmarks: Olympus Cores Delivering The Best Performance Ever Seen On ARM",
+    "source": "Phoronix",
+    "first_seen": "2026-05-26T16:16:02.560810+00:00",
+    "published": "2026-05-26T14:00:00+00:00"
+  },
+  "https://realpython.com/courses/connecting-llms-data-python-mcp-servers": {
+    "title": "Connecting LLMs to Your Data With Python MCP Servers",
+    "source": "Real Python",
+    "first_seen": "2026-05-26T16:16:02.560810+00:00",
+    "published": "2026-05-26T14:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/AlmaLinux-10.2-Released": {
+    "title": "AlmaLinux 10.2 Released For Latest Community-Driven RHEL 10.2 Experience",
+    "source": "Phoronix",
+    "first_seen": "2026-05-26T16:16:02.560810+00:00",
+    "published": "2026-05-26T13:58:58+00:00"
+  },
+  "https://www.phoronix.com/news/Pavona-Open-Source-Silicon": {
+    "title": "Pavona Aims To Provide A Certification-Ready, Open-Source Silicon Ecosystem",
+    "source": "Phoronix",
+    "first_seen": "2026-05-26T16:16:02.560810+00:00",
+    "published": "2026-05-26T13:51:45+00:00"
+  },
+  "https://retrogamecoders.com/overhead-camera-view": {
+    "title": "C64 Basic: Game Map Overhead \"Camera View\"",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-26T16:16:02.560810+00:00",
+    "published": "2026-05-26T13:47:39+00:00"
+  },
+  "https://lwn.net/Articles/1074449": {
+    "title": "Stenberg: The pressure",
+    "source": "LWN.net",
+    "first_seen": "2026-05-26T16:16:02.560810+00:00",
+    "published": "2026-05-26T13:40:57+00:00"
+  },
+  "https://www.phoronix.com/news/NVIDIA-610.43.02-Linux-Driver": {
+    "title": "NVIDIA 610.43.02 Linux Driver Released With Vulkan Improvements, DRM Color Pipeline API",
+    "source": "Phoronix",
+    "first_seen": "2026-05-26T16:16:02.560810+00:00",
+    "published": "2026-05-26T13:39:53+00:00"
+  },
+  "https://www.joshwcomeau.com/animation/css-vs-javascript": {
+    "title": "CSS vs. JavaScript",
+    "source": "Josh W. Comeau",
+    "first_seen": "2026-05-26T16:16:02.560810+00:00",
+    "published": "2026-05-26T13:30:00+00:00"
+  },
+  "https://pytorch.org/blog/tlx-block-attention-a-warp-specialized-blackwell-kernel-for-fixed-block-sparse-self-attention": {
+    "title": "TLX Block Attention: A Warp-Specialized Blackwell Kernel for Fixed-Block Sparse Self-Attention",
+    "source": "PyTorch Blog",
+    "first_seen": "2026-05-26T16:16:02.560810+00:00",
+    "published": "2026-05-26T13:26:13+00:00"
+  },
+  "https://lwn.net/Articles/1073407": {
+    "title": "[$] Better automatic management of transparent huge pages",
+    "source": "LWN.net",
+    "first_seen": "2026-05-26T16:16:02.560810+00:00",
+    "published": "2026-05-26T13:23:23+00:00"
+  },
+  "https://lwn.net/Articles/1074443": {
+    "title": "Security updates for Tuesday",
+    "source": "LWN.net",
+    "first_seen": "2026-05-26T16:16:02.560810+00:00",
+    "published": "2026-05-26T13:10:23+00:00"
+  },
+  "https://www.reuters.com/business/spain-blocks-prediction-markets-polymarket-kalshi-over-lack-gambling-licences-2026-05-26": {
+    "title": "Spain blocks prediction markets Polymarket, Kalshi over lack of gambling licence",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-26T16:16:02.560810+00:00",
+    "published": "2026-05-26T13:08:13+00:00"
+  },
+  "https://www.docker.com/blog/untrusted-autonomous-workload-ai-sandboxes": {
+    "title": "The Untrusted Autonomous Workload: How AI Coding Agents Reshape What Isolation Has to Do",
+    "source": "Docker Blog",
+    "first_seen": "2026-05-26T16:16:02.560810+00:00",
+    "published": "2026-05-26T13:00:00+00:00"
+  },
+  "https://www.signalbloom.ai/posts/outsourcing-plus-localai-will-soon-become-more-economical-vs-frontier-labs": {
+    "title": "Outsourcing plus LocalAI will soon become more economical vs. Frontier labs",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-26T16:16:02.560810+00:00",
+    "published": "2026-05-26T12:08:33+00:00"
+  },
+  "https://thenewstack.io/ai-spend-business-observability": {
+    "title": "Taming the agentic influx: a blueprint for AI business observability",
+    "source": "The New Stack",
+    "first_seen": "2026-05-26T16:16:02.560810+00:00",
+    "published": "2026-05-26T12:00:00+00:00"
+  },
+  "https://realpython.com/quizzes/test-your-python-apps": {
+    "title": "Quiz: Testing and Continuous Integration",
+    "source": "Real Python",
+    "first_seen": "2026-05-26T16:16:02.560810+00:00",
+    "published": "2026-05-26T12:00:00+00:00"
+  },
+  "https://realpython.com/quizzes/python-web-scraping": {
+    "title": "Quiz: Python Web Scraping",
+    "source": "Real Python",
+    "first_seen": "2026-05-26T16:16:02.560810+00:00",
+    "published": "2026-05-26T12:00:00+00:00"
+  },
+  "https://realpython.com/quizzes/python-mcp-video": {
+    "title": "Quiz: Connecting LLMs to Your Data With Python MCP Servers",
+    "source": "Real Python",
+    "first_seen": "2026-05-26T16:16:02.560810+00:00",
+    "published": "2026-05-26T12:00:00+00:00"
+  },
+  "https://realpython.com/quizzes/python-devops": {
+    "title": "Quiz: DevOps With Python",
+    "source": "Real Python",
+    "first_seen": "2026-05-26T16:16:02.560810+00:00",
+    "published": "2026-05-26T12:00:00+00:00"
+  },
+  "https://realpython.com/quizzes/python-control-flow-and-loops": {
+    "title": "Quiz: Python Control Flow and Loops",
+    "source": "Real Python",
+    "first_seen": "2026-05-26T16:16:02.560810+00:00",
+    "published": "2026-05-26T12:00:00+00:00"
+  },
+  "https://realpython.com/quizzes/input-output-operations-and-string-formatting": {
+    "title": "Quiz: I/O Operations and String Formatting",
+    "source": "Real Python",
+    "first_seen": "2026-05-26T16:16:02.560810+00:00",
+    "published": "2026-05-26T12:00:00+00:00"
+  },
+  "https://realpython.com/quizzes/functions-and-scopes": {
+    "title": "Quiz: Functions and Scopes",
+    "source": "Real Python",
+    "first_seen": "2026-05-26T16:16:02.560810+00:00",
+    "published": "2026-05-26T12:00:00+00:00"
+  },
+  "https://realpython.com/quizzes/files-and-file-streams-in-python": {
+    "title": "Quiz: Files and File Streams",
+    "source": "Real Python",
+    "first_seen": "2026-05-26T16:16:02.560810+00:00",
+    "published": "2026-05-26T12:00:00+00:00"
+  },
+  "https://realpython.com/quizzes/data-science-python-core-skills": {
+    "title": "Quiz: Data Science With Python Core Skills",
+    "source": "Real Python",
+    "first_seen": "2026-05-26T16:16:02.560810+00:00",
+    "published": "2026-05-26T12:00:00+00:00"
+  },
+  "https://realpython.com/quizzes/data-collection-storage": {
+    "title": "Quiz: Data Collection & Storage",
+    "source": "Real Python",
+    "first_seen": "2026-05-26T16:16:02.560810+00:00",
+    "published": "2026-05-26T12:00:00+00:00"
+  },
+  "https://vllm.ai/blog/2026-05-26-eagle-3-1": {
+    "title": "Eagle 3.1: Collaboration Between the EAGLE Team, vLLM Team, and TorchSpec Team",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-26T16:16:02.560810+00:00",
+    "published": "2026-05-26T11:46:10+00:00"
+  },
+  "https://www.politico.eu/article/netherlands-blocks-us-takeover-vital-digital-supplier": {
+    "title": "Netherlands blocks US takeover of vital digital supplier",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-26T16:16:02.560810+00:00",
+    "published": "2026-05-26T11:46:08+00:00"
+  },
+  "https://www.githubstatus.com?today": {
+    "title": "GitHub Actions down again today",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-26T16:16:02.560810+00:00",
+    "published": "2026-05-26T11:42:58+00:00"
+  },
+  "https://www.githubstatus.com/incidents/gnftqj9htp0g": {
+    "title": "Incident with Actions and Pages",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-26T16:16:02.560810+00:00",
+    "published": "2026-05-26T11:10:19+00:00"
+  },
+  "https://www.cncf.io/blog/2026/05/26/how-jaeger-is-evolving-to-trace-ai-agents-with-opentelemetry": {
+    "title": "How Jaeger is evolving to trace AI agents with OpenTelemetry",
+    "source": "CNCF Blog",
+    "first_seen": "2026-05-26T16:16:02.560810+00:00",
+    "published": "2026-05-26T11:00:00+00:00"
+  },
+  "https://thenewstack.io/agentic-development-cycle-framework": {
+    "title": "How the AC/DC framework helps teams govern AI coding agents",
+    "source": "The New Stack",
+    "first_seen": "2026-05-26T16:16:02.560810+00:00",
+    "published": "2026-05-26T11:00:00+00:00"
+  },
+  "https://www.theverge.com/transportation/937116/uber-ai-investment-hard-to-justify": {
+    "title": "Uber president says AI spending is getting 'harder to justify'",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-26T16:16:02.560810+00:00",
+    "published": "2026-05-26T10:01:39+00:00"
+  },
+  "https://ni5arga.com/blog/posts/hacking-cbse": {
+    "title": "Exposing Critical Vulnerabilities in CBSE's On-Screen Marking Portal",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-26T16:16:02.560810+00:00",
+    "published": "2026-05-26T09:43:40+00:00"
+  },
+  "https://developer.chrome.com/blog/build-new-features-using-built-in-ai-in-chrome-io2026?hl=en": {
+    "title": "Build new features using built-in AI in Chrome",
+    "source": "Chrome Developers",
+    "first_seen": "2026-05-26T16:16:02.560810+00:00",
+    "published": "2026-05-26T07:00:00+00:00"
+  },
+  "https://blog.janestreet.com/strace-ui-bonsai-term-and-the-tui-renaissance": {
+    "title": "strace-ui, Bonsai_term, and the TUI renaissance",
+    "source": "Jane Street Tech",
+    "first_seen": "2026-05-26T16:16:02.560810+00:00",
+    "published": "2026-05-26T00:00:00+00:00"
+  },
+  "https://simonwillison.net/2026/May/25/sighting-365297287": {
+    "title": "California Brown Pelican, Snowy Egret, California Sea Lion, Harbor Seal",
+    "source": "Simon Willison",
+    "first_seen": "2026-05-26T16:16:02.560810+00:00",
+    "published": "2026-05-25T23:08:00+00:00"
   }
 }
