@@ -28400,5 +28400,179 @@
     "source": "Databricks Blog",
     "first_seen": "2026-05-27T11:08:33.739250+00:00",
     "published": "2026-05-27T01:14:56+00:00"
+  },
+  "https://aws.amazon.com/blogs/compute/migrating-your-java-applications-to-aws-graviton-using-aws-transform-custom": {
+    "title": "Migrating your Java applications to AWS Graviton using AWS Transform custom",
+    "source": "AWS Compute Blog",
+    "first_seen": "2026-05-27T15:09:18.039292+00:00",
+    "published": "2026-05-27T15:04:10+00:00"
+  },
+  "https://lwn.net/Articles/1070746": {
+    "title": "Andrew Morton's 2004 OLS keynote",
+    "source": "LWN.net",
+    "first_seen": "2026-05-27T15:09:18.039292+00:00",
+    "published": "2026-05-27T14:35:03+00:00"
+  },
+  "https://brilliantmaps.com/cia-maps-1980s": {
+    "title": "Declassified CIA Cartography Maps from the 1980s",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-27T15:09:18.039292+00:00",
+    "published": "2026-05-27T14:21:20+00:00"
+  },
+  "https://martinfowler.com/articles/vibesec-reckoning.html": {
+    "title": "The VibeSec Reckoning",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-27T15:09:18.039292+00:00",
+    "published": "2026-05-27T14:09:44+00:00"
+  },
+  "https://www.schneier.com/blog/archives/2026/05/fbis-2025-internet-crime-report.html": {
+    "title": "FBI’s 2025 Internet Crime Report",
+    "source": "Schneier on Security",
+    "first_seen": "2026-05-27T15:09:18.039292+00:00",
+    "published": "2026-05-27T14:02:44+00:00"
+  },
+  "https://www.phoronix.com/review/cache-aware-scheduling-hedt": {
+    "title": "Cache Aware Scheduling Shows Nice Wins For AMD Zen 5 On PostgreSQL, Valkey, Network Performance",
+    "source": "Phoronix",
+    "first_seen": "2026-05-27T15:09:18.039292+00:00",
+    "published": "2026-05-27T14:00:28+00:00"
+  },
+  "https://stackoverflow.blog/2026/05/27/agents-on-a-leash-agentic-ai-remains-mostly-monitored-at-work": {
+    "title": "Agents on a leash: Agentic AI remains mostly single-agent and monitored at work",
+    "source": "Stack Overflow Blog",
+    "first_seen": "2026-05-27T15:09:18.039292+00:00",
+    "published": "2026-05-27T14:00:00+00:00"
+  },
+  "https://realpython.com/python-send-email": {
+    "title": "Sending Emails With Python",
+    "source": "Real Python",
+    "first_seen": "2026-05-27T15:09:18.039292+00:00",
+    "published": "2026-05-27T14:00:00+00:00"
+  },
+  "https://en.ilsole24ore.com/art/lombardy-introduces-increased-charges-of-up-to-200-per-cent-for-data-centre-construction-in-green-and-agricultural-areas-AI6Jp4ID": {
+    "title": "Italy region: +200% tax on datacenters built in green/agricultural areas",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-27T15:09:18.039292+00:00",
+    "published": "2026-05-27T13:52:48+00:00"
+  },
+  "https://lwn.net/Articles/1073418": {
+    "title": "[$] Further progress toward removing the page map count",
+    "source": "LWN.net",
+    "first_seen": "2026-05-27T15:09:18.039292+00:00",
+    "published": "2026-05-27T13:16:12+00:00"
+  },
+  "https://lwn.net/Articles/1074840": {
+    "title": "Security updates for Wednesday",
+    "source": "LWN.net",
+    "first_seen": "2026-05-27T15:09:18.039292+00:00",
+    "published": "2026-05-27T13:14:25+00:00"
+  },
+  "https://www.databricks.com/blog/announcing-lakebase-change-data-feed-cdf": {
+    "title": "Announcing Lakebase Change Data Feed (CDF)",
+    "source": "Databricks Blog",
+    "first_seen": "2026-05-27T15:09:18.039292+00:00",
+    "published": "2026-05-27T13:11:00+00:00"
+  },
+  "https://www.docker.com/blog/mitigating-cve-2026-31431-copy-fail-in-docker-engine": {
+    "title": "Mitigating CVE-2026-31431 (“Copy Fail”) in Docker Engine",
+    "source": "Docker Blog",
+    "first_seen": "2026-05-27T15:09:18.039292+00:00",
+    "published": "2026-05-27T13:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-x32-ABI-2026": {
+    "title": "Linux Developers Looking At Retiring The x32 ABI",
+    "source": "Phoronix",
+    "first_seen": "2026-05-27T15:09:18.039292+00:00",
+    "published": "2026-05-27T12:53:58+00:00"
+  },
+  "https://www.tigerdata.com/blog/how-apexanalytica-runs-building-telemetry-transactional-data-rag-on-single-postgres-instance": {
+    "title": "How ApexAnalytica Runs Building Telemetry, Transactional Data, and RAG on a Single Postgres Instance",
+    "source": "Timescale Blog",
+    "first_seen": "2026-05-27T15:09:18.039292+00:00",
+    "published": "2026-05-27T12:47:00+00:00"
+  },
+  "https://www.githubstatus.com/incidents/xy1tt3hs572m": {
+    "title": "Incident with Pull Requests, Issues, Git Operations and API Requests",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-27T15:09:18.039292+00:00",
+    "published": "2026-05-27T12:15:14+00:00"
+  },
+  "https://github.com/WilliamSmithEdward/xlide_vscode": {
+    "title": "XLIDE: VBA without excel",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-27T15:09:18.039292+00:00",
+    "published": "2026-05-27T12:08:18+00:00"
+  },
+  "https://rubbishtalk.com/economy/how-private-equity-bought-americas-essential-services": {
+    "title": "Private Equity Bought America's Essential Services",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-27T15:09:18.039292+00:00",
+    "published": "2026-05-27T12:00:53+00:00"
+  },
+  "https://thenewstack.io/context-lake-ai-agents": {
+    "title": "Why AI agents need a Context Lake",
+    "source": "The New Stack",
+    "first_seen": "2026-05-27T15:09:18.039292+00:00",
+    "published": "2026-05-27T12:00:00+00:00"
+  },
+  "https://realpython.com/quizzes/python-send-email-update": {
+    "title": "Quiz: Sending Emails With Python",
+    "source": "Real Python",
+    "first_seen": "2026-05-27T15:09:18.039292+00:00",
+    "published": "2026-05-27T12:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/identity-security/introducing-google-ai-threat-defense": {
+    "title": "Introducing Google AI Threat Defense to help you outpace the adversary",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-05-27T15:09:18.039292+00:00",
+    "published": "2026-05-27T12:00:00+00:00"
+  },
+  "https://orchidfiles.com/im-tired-of-ai-generated-answers": {
+    "title": "I'm Tired of Talking to AI",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-27T15:09:18.039292+00:00",
+    "published": "2026-05-27T10:43:25+00:00"
+  },
+  "https://github.com/golang/go/issues/77273": {
+    "title": "Go: Support for Generic Methods",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-27T15:09:18.039292+00:00",
+    "published": "2026-05-27T09:02:59+00:00"
+  },
+  "https://arxiv.org/abs/2605.22391": {
+    "title": "All of human cooking compressed into 2 megabytes",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-27T15:09:18.039292+00:00",
+    "published": "2026-05-27T08:14:40+00:00"
+  },
+  "https://openai.com/index/building-self-improving-tax-agents-with-codex": {
+    "title": "Building self-improving tax agents with Codex",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-05-27T15:09:18.039292+00:00",
+    "published": "2026-05-27T07:00:00+00:00"
+  },
+  "https://www.redpanda.com/blog/redpanda-sql-ga": {
+    "title": "Redpanda SQL is GA: the query engine that skips the pipeline",
+    "source": "Redpanda Blog",
+    "first_seen": "2026-05-27T15:09:18.039292+00:00",
+    "published": "2026-05-27T00:00:00+00:00"
+  },
+  "https://huggingface.co/blog/delta-weight-sync": {
+    "title": "Shipping a Trillion Parameters With a Hub Bucket: Delta Weight Sync in TRL",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-05-27T15:09:18.039292+00:00",
+    "published": "2026-05-27T00:00:00+00:00"
+  },
+  "https://realpython.com/quizzes/writing-pythonic-code": {
+    "title": "Quiz: Write More Pythonic Code",
+    "source": "Real Python",
+    "first_seen": "2026-05-27T15:09:18.039292+00:00",
+    "published": "2026-05-26T12:00:00+00:00"
+  },
+  "https://realpython.com/quizzes/object-oriented-programming-oop-python": {
+    "title": "Quiz: Object-Oriented Programming (OOP) in Python",
+    "source": "Real Python",
+    "first_seen": "2026-05-27T15:09:18.039292+00:00",
+    "published": "2026-05-26T12:00:00+00:00"
   }
 }
