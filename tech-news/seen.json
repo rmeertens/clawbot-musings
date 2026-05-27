@@ -28574,5 +28574,95 @@
     "source": "Real Python",
     "first_seen": "2026-05-27T15:09:18.039292+00:00",
     "published": "2026-05-26T12:00:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/aws/meet-our-newest-aws-heroes-may-2026": {
+    "title": "Meet Our Newest AWS Heroes – May 2026",
+    "source": "AWS Blog",
+    "first_seen": "2026-05-27T16:17:00.079765+00:00",
+    "published": "2026-05-27T16:15:05+00:00"
+  },
+  "https://newsletter.pragmaticengineer.com/p/opencode": {
+    "title": "Building OpenCode with Dax Raad",
+    "source": "The Pragmatic Engineer",
+    "first_seen": "2026-05-27T16:17:00.079765+00:00",
+    "published": "2026-05-27T16:07:30+00:00"
+  },
+  "https://lwn.net/Articles/1073420": {
+    "title": "[$] MOT: a tool to fight openwashing in AI",
+    "source": "LWN.net",
+    "first_seen": "2026-05-27T16:17:00.079765+00:00",
+    "published": "2026-05-27T15:52:01+00:00"
+  },
+  "https://pytorch.org/blog/up-to-580tps-new-speed-record-of-qwen3-5-397b-a17b-on-gpu-for-agentic-workloads-with-tokenspeed": {
+    "title": "Up to 580tps! New Speed Record of Qwen3.5-397B-A17B on GPU for Agentic Workloads with TokenSpeed",
+    "source": "PyTorch Blog",
+    "first_seen": "2026-05-27T16:17:00.079765+00:00",
+    "published": "2026-05-27T15:39:42+00:00"
+  },
+  "https://support.last.fm/t/last-fm-is-now-independent/118591": {
+    "title": "Last.fm is now independent",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-27T16:17:00.079765+00:00",
+    "published": "2026-05-27T15:36:09+00:00"
+  },
+  "https://blog.bytebytego.com/p/how-airtable-built-the-search-layer": {
+    "title": "How Airtable Built the Search Layer Behind Their AI Features",
+    "source": "ByteByteGo",
+    "first_seen": "2026-05-27T16:17:00.079765+00:00",
+    "published": "2026-05-27T15:30:43+00:00"
+  },
+  "https://thenewstack.io/managed-ai-agent-runtimes": {
+    "title": "With Google’s debut, the most important AI agent feature is now the most boring one",
+    "source": "The New Stack",
+    "first_seen": "2026-05-27T16:17:00.079765+00:00",
+    "published": "2026-05-27T15:18:38+00:00"
+  },
+  "https://www.databricks.com/blog/introducing-always-pricing-automatic-savings-databricks-lakebase": {
+    "title": "Introducing Always-On pricing: automatic savings for Databricks Lakebase",
+    "source": "Databricks Blog",
+    "first_seen": "2026-05-27T16:17:00.079765+00:00",
+    "published": "2026-05-27T15:15:00+00:00"
+  },
+  "https://www.databricks.com/blog/how-lakebase-architecture-stays-resilient-cloud-failures": {
+    "title": "How the lakebase architecture stays resilient to cloud failures",
+    "source": "Databricks Blog",
+    "first_seen": "2026-05-27T16:17:00.079765+00:00",
+    "published": "2026-05-27T15:15:00+00:00"
+  },
+  "https://help.delduca.org": {
+    "title": "Show HN: I made an emergency page for my family. You should too",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-27T16:17:00.079765+00:00",
+    "published": "2026-05-27T14:18:03+00:00"
+  },
+  "https://webflow.com/blog/evolving-webflow-for-the-agentic-web": {
+    "title": "Evolving Webflow for the Agentic Web",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-27T16:17:00.079765+00:00",
+    "published": "2026-05-27T14:02:38+00:00"
+  },
+  "https://neon.com/blog/resilience-to-failures-in-agentic-era": {
+    "title": "How Neon's lakebase architecture stays resilient to cloud failures",
+    "source": "Neon Blog",
+    "first_seen": "2026-05-27T16:17:00.079765+00:00",
+    "published": "2026-05-27T12:00:00+00:00"
+  },
+  "https://arxiv.org/abs/2605.27250": {
+    "title": "Atomically precise mechanosynthesis of carbon structures on hydrogenated Silicon",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-27T16:17:00.079765+00:00",
+    "published": "2026-05-27T11:25:30+00:00"
+  },
+  "https://huggingface.co/blog/local-reachy-mini-conversation": {
+    "title": "Reachy Mini goes fully local",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-05-27T16:17:00.079765+00:00",
+    "published": "2026-05-27T00:00:00+00:00"
+  },
+  "https://cceckman.com/writing/phloto": {
+    "title": "Phloto for My Photo Flow",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-27T16:17:00.079765+00:00",
+    "published": "2026-05-26T21:11:40+00:00"
   }
 }
