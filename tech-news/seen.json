@@ -28844,5 +28844,131 @@
     "source": "OpenAI Blog",
     "first_seen": "2026-05-27T19:07:53.614933+00:00",
     "published": "2026-05-27T00:00:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/process-financial-documents-using-amazon-bedrock-data-automation": {
+    "title": "Process financial documents using Amazon Bedrock Data Automation",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-05-27T21:33:35.164952+00:00",
+    "published": "2026-05-27T21:28:53+00:00"
+  },
+  "https://www.pcmag.com/news/iphones-running-ios-26-freeze-facetime-calls-when-theres-nudity": {
+    "title": "iPhones Running iOS 26 Are Freezing FaceTime Calls When They Detect Nudity",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-27T21:33:35.164952+00:00",
+    "published": "2026-05-27T20:53:47+00:00"
+  },
+  "https://z3ugma.github.io/2019/11/18/warm-up-your-macbook": {
+    "title": "How to Quickly Warm Up Your MacBook",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-27T21:33:35.164952+00:00",
+    "published": "2026-05-27T20:42:01+00:00"
+  },
+  "https://www.phoronix.com/news/NVIDIA-CUDA-13.3-Released": {
+    "title": "NVIDIA CUDA 13.3 Rolls Out CUDA Python 1.0, CUDA Tile For C++",
+    "source": "Phoronix",
+    "first_seen": "2026-05-27T21:33:35.164952+00:00",
+    "published": "2026-05-27T20:22:56+00:00"
+  },
+  "https://www.databricks.com/blog/reliable-llm-inference-scale": {
+    "title": "Reliable LLM Inference at Scale",
+    "source": "Databricks Blog",
+    "first_seen": "2026-05-27T21:33:35.164952+00:00",
+    "published": "2026-05-27T20:20:00+00:00"
+  },
+  "https://www.databricks.com/blog/bi-serving-pointers-maximizing-performance-and-tco": {
+    "title": "BI Serving Pointers; Maximizing for Performance and TCO",
+    "source": "Databricks Blog",
+    "first_seen": "2026-05-27T21:33:35.164952+00:00",
+    "published": "2026-05-27T20:15:00+00:00"
+  },
+  "https://thenewstack.io/snowflake-aws-6b-commitment": {
+    "title": "Snowflake commits $6B to AWS as it pushes deeper into AI",
+    "source": "The New Stack",
+    "first_seen": "2026-05-27T21:33:35.164952+00:00",
+    "published": "2026-05-27T20:10:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/building-ai-agents-for-business-support-using-amazon-bedrock-agentcore": {
+    "title": "Building AI agents for business support using Amazon Bedrock AgentCore",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-05-27T21:33:35.164952+00:00",
+    "published": "2026-05-27T20:06:34+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/from-data-overload-to-actionable-insights-how-verizon-connect-scaled-agentic-ai-to-100000-users": {
+    "title": "From data overload to actionable insights: How Verizon Connect scaled agentic AI to 100,000 users",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-05-27T21:33:35.164952+00:00",
+    "published": "2026-05-27T20:01:06+00:00"
+  },
+  "https://variety.com/2026/digital/news/youtube-ai-video-labels-automatic-detection-1236758865": {
+    "title": "YouTube to automatically label AI-generated videos",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-27T21:33:35.164952+00:00",
+    "published": "2026-05-27T20:00:51+00:00"
+  },
+  "https://developer.nvidia.com/blog/nvidia-blackwell-sets-stac-ai-record-for-llm-inference-in-finance": {
+    "title": "NVIDIA Blackwell Sets STAC-AI Record for LLM Inference in Finance",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-05-27T21:33:35.164952+00:00",
+    "published": "2026-05-27T20:00:00+00:00"
+  },
+  "https://sverre.me/blog/rust-on-kindle": {
+    "title": "Rust (and Slint) on a Jailbroken Kindle",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-27T21:33:35.164952+00:00",
+    "published": "2026-05-27T19:51:47+00:00"
+  },
+  "https://martinfowler.com/fragments/2026-05-27.html": {
+    "title": "Fragments: May 27",
+    "source": "Martin Fowler",
+    "first_seen": "2026-05-27T21:33:35.164952+00:00",
+    "published": "2026-05-27T19:40:00+00:00"
+  },
+  "https://lwn.net/Articles/1074907": {
+    "title": "Interview session with Jonathan Corbet",
+    "source": "LWN.net",
+    "first_seen": "2026-05-27T21:33:35.164952+00:00",
+    "published": "2026-05-27T19:32:12+00:00"
+  },
+  "https://2earth.github.io/website/20260525.html": {
+    "title": "On Labubu and the Hyperreal",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-27T21:33:35.164952+00:00",
+    "published": "2026-05-27T19:31:47+00:00"
+  },
+  "https://www.jacquescorbytuech.com/writing/what-apple-and-google-are-doing-your-push-notifications": {
+    "title": "What Apple and Google are doing to your push notifications",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-27T21:33:35.164952+00:00",
+    "published": "2026-05-27T19:24:10+00:00"
+  },
+  "https://thenewstack.io/motherduck-duckdb-mcp-collaboration": {
+    "title": "Why MotherDuck refuses to fork DuckDB",
+    "source": "The New Stack",
+    "first_seen": "2026-05-27T21:33:35.164952+00:00",
+    "published": "2026-05-27T19:10:52+00:00"
+  },
+  "https://pytorch.org/blog/why-is-pytorch-compile-so-fast-kernel-fusion": {
+    "title": "Why Is PyTorch Compile So Fast: Kernel Fusion",
+    "source": "PyTorch Blog",
+    "first_seen": "2026-05-27T21:33:35.164952+00:00",
+    "published": "2026-05-27T19:09:42+00:00"
+  },
+  "https://cloud.google.com/blog/topics/developers-practitioners/a-guide-to-ai-cold-starts-on-cloud-run": {
+    "title": "A Guide to AI Cold Starts on Cloud Run",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-05-27T21:33:35.164952+00:00",
+    "published": "2026-05-27T17:23:00+00:00"
+  },
+  "https://openai.com/index/warp": {
+    "title": "Warp’s big bet on building open source with GPT-5.5",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-05-27T21:33:35.164952+00:00",
+    "published": "2026-05-27T00:00:00+00:00"
+  },
+  "https://blog.sentry.io/sentry-opentelemetry-work-together": {
+    "title": "You don’t need to pick one: how Sentry and OpenTelemetry work together",
+    "source": "Sentry Blog",
+    "first_seen": "2026-05-27T21:33:35.164952+00:00",
+    "published": "2026-05-27T00:00:00+00:00"
   }
 }
