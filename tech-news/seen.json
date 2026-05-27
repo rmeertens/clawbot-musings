@@ -28184,5 +28184,119 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-05-26T21:30:34.009753+00:00",
     "published": "2026-05-26T15:58:32+00:00"
+  },
+  "https://www.sciencedaily.com/releases/2026/05/260526022018.htm": {
+    "title": "Scientists say they've reversed brain aging with a simple nasal spray",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-27T03:11:04.922596+00:00",
+    "published": "2026-05-27T01:52:16+00:00"
+  },
+  "https://pop.rdi.sh/where-does-next-token-prediction-leave-us": {
+    "title": "So, Where Does Next-Token Prediction Leave Us?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-27T03:11:04.922596+00:00",
+    "published": "2026-05-27T01:10:44+00:00"
+  },
+  "https://codeberg.org/lindenii/tunecat": {
+    "title": "Tunecat: Simple Internet Radio",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-27T03:11:04.922596+00:00",
+    "published": "2026-05-27T01:08:16+00:00"
+  },
+  "https://pytorch.org/blog/alibaba-cloud-joins-the-pytorch-foundation-as-a-platinum-member": {
+    "title": "Alibaba Cloud Joins the PyTorch Foundation as a Platinum Member",
+    "source": "PyTorch Blog",
+    "first_seen": "2026-05-27T03:11:04.922596+00:00",
+    "published": "2026-05-27T01:00:37+00:00"
+  },
+  "https://www.phoronix.com/news/ReactOS-On-ARM64-Experiment": {
+    "title": "ReactOS Now Running On ARM64 In Experimental Form",
+    "source": "Phoronix",
+    "first_seen": "2026-05-27T03:11:04.922596+00:00",
+    "published": "2026-05-27T00:54:02+00:00"
+  },
+  "https://www.gingerlime.com/2026/stripe-seem-friendly-to-friendly-fraud": {
+    "title": "Stripe is friendly to \"friendly fraud\"",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-27T03:11:04.922596+00:00",
+    "published": "2026-05-27T00:40:05+00:00"
+  },
+  "https://www.niemanlab.org/2026/05/erin-brockovich-made-a-map-to-track-data-centers-around-the-country": {
+    "title": "Erin Brockovich made a map to track data centers around the country",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-27T03:11:04.922596+00:00",
+    "published": "2026-05-27T00:36:03+00:00"
+  },
+  "https://www.rollingstone.com/music/music-news/sonny-rollins-jazz-legend-saxophone-colossus-dead-obit-1234715446": {
+    "title": "Sonny Rollins, Jazz's Saxophone Colossus and Greatest Improvisor, Dead at 95",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-27T03:11:04.922596+00:00",
+    "published": "2026-05-27T00:03:04+00:00"
+  },
+  "https://theaileverageweekly.com/posts/your-ai-tools-are-only-as-good-as-your-judgment-and-that-s-the-point.html": {
+    "title": "AI tools are only as good as your judgment",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-27T03:11:04.922596+00:00",
+    "published": "2026-05-27T00:00:35+00:00"
+  },
+  "https://www.alephic.com/sabotage": {
+    "title": "The OSS Sabotage Manual Became Corporate Best Practice",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-27T03:11:04.922596+00:00",
+    "published": "2026-05-26T23:55:10+00:00"
+  },
+  "https://simonwillison.net/2026/May/26/the-pressure": {
+    "title": "The pressure",
+    "source": "Simon Willison",
+    "first_seen": "2026-05-27T03:11:04.922596+00:00",
+    "published": "2026-05-26T23:48:45+00:00"
+  },
+  "https://developers.cloudflare.com/flagship": {
+    "title": "Cloudflare Flagship",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-27T03:11:04.922596+00:00",
+    "published": "2026-05-26T23:36:06+00:00"
+  },
+  "https://platform.xiaomimimo.com/docs/en-US/welcome": {
+    "title": "Xiaomi MiMo-v2.5 price drops 99% – AI pricing war",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-27T03:11:04.922596+00:00",
+    "published": "2026-05-26T23:02:59+00:00"
+  },
+  "https://developer.nvidia.com/blog/extract-more-kernel-performance-with-nvidia-compileiq-auto-tuning": {
+    "title": "Extract More Kernel Performance with NVIDIA CompileIQ Auto-Tuning",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-05-27T03:11:04.922596+00:00",
+    "published": "2026-05-26T22:08:56+00:00"
+  },
+  "https://xlii.space/eng/from-rust-to-ruby": {
+    "title": "From Rust to Ruby",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-27T03:11:04.922596+00:00",
+    "published": "2026-05-26T21:57:03+00:00"
+  },
+  "https://developer.nvidia.com/blog/develop-high-performance-gpu-kernels-in-cpp-with-nvidia-cuda-tile": {
+    "title": "Develop High-Performance GPU Kernels in C++ with NVIDIA CUDA Tile",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-05-27T03:11:04.922596+00:00",
+    "published": "2026-05-26T21:40:16+00:00"
+  },
+  "https://developer.nvidia.com/blog/nvidia-cuda-13-3-enhances-gpu-development-with-tile-programming-in-c-compiler-autotuning-and-python-updates": {
+    "title": "NVIDIA CUDA 13.3 Enhances GPU Development with Tile Programming in C++, Compiler Autotuning, and Python Updates",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-05-27T03:11:04.922596+00:00",
+    "published": "2026-05-26T21:39:17+00:00"
+  },
+  "https://tailscale.com/blog/bill-c22-canada": {
+    "title": "Canada’s Bill C-22 and the security cost of collecting more data",
+    "source": "Tailscale Blog",
+    "first_seen": "2026-05-27T03:11:04.922596+00:00",
+    "published": "2026-05-26T21:30:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/chrome-enterprise/new-study-securing-ai-in-the-browser-is-a-top-priority-for-it-leaders": {
+    "title": "New study: Securing AI in the browser is a top priority for IT Leaders",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-05-27T03:11:04.922596+00:00",
+    "published": "2026-05-26T11:20:00+00:00"
   }
 }
