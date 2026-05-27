@@ -28664,5 +28664,185 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-05-27T16:17:00.079765+00:00",
     "published": "2026-05-26T21:11:40+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/how-aws-smgs-uses-an-ai-powered-conversational-assistant-to-transform-business-management-with-amazon-bedrock-agentcore": {
+    "title": "How AWS SMGS uses an AI-powered conversational assistant to transform business management with Amazon Bedrock AgentCore",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-05-27T19:07:53.614933+00:00",
+    "published": "2026-05-27T18:51:45+00:00"
+  },
+  "https://thenewstack.io/claude-code-adhd": {
+    "title": "Researcher “gave Claude Code ‘ADHD’… and it thinks 2x better now.” Outside experts want more proof.",
+    "source": "The New Stack",
+    "first_seen": "2026-05-27T19:07:53.614933+00:00",
+    "published": "2026-05-27T18:29:45+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/how-buildkite-operates-test-analytics-at-massive-scale-with-amazon-msk-and-amazon-managed-service-for-apache-flink": {
+    "title": "How Buildkite Operates Test Analytics at Massive Scale with Amazon MSK and Amazon Managed Service for Apache Flink",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-05-27T19:07:53.614933+00:00",
+    "published": "2026-05-27T18:22:34+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/how-zynga-scaled-multi-warehouse-data-governance-with-amazon-redshift-federated-permissions": {
+    "title": "How Zynga scaled multi-warehouse data governance with Amazon Redshift federated permissions",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-05-27T19:07:53.614933+00:00",
+    "published": "2026-05-27T18:19:35+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/real-time-personalized-recommendations-with-amazon-sagemaker-and-amazon-managed-valkey": {
+    "title": "Real-time personalized recommendations with Amazon SageMaker and Amazon-managed Valkey",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-05-27T19:07:53.614933+00:00",
+    "published": "2026-05-27T18:17:03+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/optimize-costs-in-amazon-aurora": {
+    "title": "Optimize costs in Amazon Aurora",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-05-27T19:07:53.614933+00:00",
+    "published": "2026-05-27T18:15:50+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/powering-agentic-ai-sales-strategy-with-amazon-bedrock-agentcore": {
+    "title": "Powering agentic AI sales strategy with Amazon Bedrock AgentCore",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-05-27T19:07:53.614933+00:00",
+    "published": "2026-05-27T18:00:07+00:00"
+  },
+  "https://www.theverge.com/games/938340/valve-steam-deck-price-increase": {
+    "title": "Valve raises Steam Deck prices by more than $200",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-27T19:07:53.614933+00:00",
+    "published": "2026-05-27T17:58:47+00:00"
+  },
+  "https://arxiv.org/abs/2605.21779": {
+    "title": "Multi-Agent LLM System for Automated Vulnerability Discovery and Reproduction",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-27T19:07:53.614933+00:00",
+    "published": "2026-05-27T17:42:24+00:00"
+  },
+  "https://thenewstack.io/aikido-ai-agents-security": {
+    "title": "“There is no accountability”: AI coding agents are installing packages no one owns",
+    "source": "The New Stack",
+    "first_seen": "2026-05-27T19:07:53.614933+00:00",
+    "published": "2026-05-27T17:38:07+00:00"
+  },
+  "https://www.thran.uk/writ/hdid/2025/12/simcity-3k-in-4k.html": {
+    "title": "SimCity 3k in 4k (2025)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-27T19:07:53.614933+00:00",
+    "published": "2026-05-27T17:36:29+00:00"
+  },
+  "https://thenewstack.io/lanai-token-tuner-tokenmaxxing": {
+    "title": "“Tokenmaxxing is real, expensive & it’s spreading”: New tools emerge to stop AI budgets from exploding",
+    "source": "The New Stack",
+    "first_seen": "2026-05-27T19:07:53.614933+00:00",
+    "published": "2026-05-27T17:27:27+00:00"
+  },
+  "https://blog.cloudflare.com/iran-internet-partially-restored-may-2026": {
+    "title": "Iran's Internet is partially restored, Cloudflare Radar data shows",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-05-27T19:07:53.614933+00:00",
+    "published": "2026-05-27T17:25:00+00:00"
+  },
+  "https://brennan.day/gemini-gophers-and-fingers-oh-my-alternative-internets-beyond-https": {
+    "title": "Gemini, Gophers, and Fingers. Oh My Alternative Internets Beyond HTTPS",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-27T19:07:53.614933+00:00",
+    "published": "2026-05-27T17:24:25+00:00"
+  },
+  "https://huggingface.co/blog/ibm-research/itbench-aa": {
+    "title": "ITBench-AA: Frontier Models Score Below 50% on the First Benchmark for Agentic Enterprise IT Tasks — by Artificial Analysis and IBM",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-05-27T19:07:53.614933+00:00",
+    "published": "2026-05-27T17:20:29+00:00"
+  },
+  "https://www.phoronix.com/news/Ubuntu-26.10-With-Linux-7.2": {
+    "title": "Ubuntu 26.10 Planning To Ship With The Linux 7.2 Kernel",
+    "source": "Phoronix",
+    "first_seen": "2026-05-27T19:07:53.614933+00:00",
+    "published": "2026-05-27T17:05:24+00:00"
+  },
+  "https://www.ycombinator.com/companies/reflex/jobs": {
+    "title": "Reflex (YC W23) Is Hiring SWEs, Growth, and GTM Roles",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-27T19:07:53.614933+00:00",
+    "published": "2026-05-27T17:01:05+00:00"
+  },
+  "https://developer.nvidia.com/blog/whats-new-for-game-developers-in-nvidia-rtx-dlss-4-5-for-ue5-and-multilingual-ai-characters": {
+    "title": "What’s New for Game Developers in NVIDIA RTX: DLSS 4.5 for UE5 and Multilingual AI Characters",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-05-27T19:07:53.614933+00:00",
+    "published": "2026-05-27T16:59:58+00:00"
+  },
+  "https://www.phoronix.com/news/VKD3D-Proton-Descriptor-Heaps": {
+    "title": "VKD3D-Proton Merges Vulkan Descriptor Heap Support",
+    "source": "Phoronix",
+    "first_seen": "2026-05-27T19:07:53.614933+00:00",
+    "published": "2026-05-27T16:58:52+00:00"
+  },
+  "https://research.google/blog/private-analytics-via-zero-trust-aggregation": {
+    "title": "Private analytics via zero-trust aggregation",
+    "source": "Google Research",
+    "first_seen": "2026-05-27T19:07:53.614933+00:00",
+    "published": "2026-05-27T16:56:05+00:00"
+  },
+  "https://www.theguardian.com/world/2026/may/27/canada-sweden-saab-globaleye-aircraft": {
+    "title": "Canada to order military plane fleet from Sweden in shift from US suppliers",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-27T19:07:53.614933+00:00",
+    "published": "2026-05-27T16:53:25+00:00"
+  },
+  "https://simonwillison.net/2026/May/27/product-market-fit": {
+    "title": "I think Anthropic and OpenAI have found product-market fit",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-27T19:07:53.614933+00:00",
+    "published": "2026-05-27T16:39:13+00:00"
+  },
+  "https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode": {
+    "title": "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-27T19:07:53.614933+00:00",
+    "published": "2026-05-27T16:28:41+00:00"
+  },
+  "https://www.science.org/doi/10.1126/sciadv.aea5496?user_id=66c4bf745d78644b3aa57b08": {
+    "title": "Stress disrupts hippocampal integration of overlapping events, memory inference",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-27T19:07:53.614933+00:00",
+    "published": "2026-05-27T16:26:31+00:00"
+  },
+  "https://posthog.com/blog/training-ai-models": {
+    "title": "Training our own AI models",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-27T19:07:53.614933+00:00",
+    "published": "2026-05-27T16:08:42+00:00"
+  },
+  "https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis": {
+    "title": "Tech CEOs are apparently suffering from AI psychosis",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-27T19:07:53.614933+00:00",
+    "published": "2026-05-27T15:20:47+00:00"
+  },
+  "https://news.bloomberglaw.com/esg/corporations-have-the-right-to-vote-in-delaware-town-judge-says": {
+    "title": "Corporations can vote in some Delaware elections, judge says",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-27T19:07:53.614933+00:00",
+    "published": "2026-05-27T15:05:16+00:00"
+  },
+  "http://blog.tynemouthsoftware.co.uk/2019/10/how-the-zx80-works.html": {
+    "title": "How the ZX80 Works",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-27T19:07:53.614933+00:00",
+    "published": "2026-05-27T15:03:51+00:00"
+  },
+  "https://tinycld.org": {
+    "title": "Show HN: Open-source Workspace (mail,docs,spreadsheet,drive) web/iOS",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-27T19:07:53.614933+00:00",
+    "published": "2026-05-27T14:36:41+00:00"
+  },
+  "https://openai.com/index/election-safeguards-2026": {
+    "title": "Election information and safeguards in 2026",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-05-27T19:07:53.614933+00:00",
+    "published": "2026-05-27T00:00:00+00:00"
   }
 }
