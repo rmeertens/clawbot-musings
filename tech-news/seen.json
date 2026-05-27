@@ -28298,5 +28298,95 @@
     "source": "Google Cloud Blog",
     "first_seen": "2026-05-27T03:11:04.922596+00:00",
     "published": "2026-05-26T11:20:00+00:00"
+  },
+  "https://www.phoronix.com/news/Raspberry-Pi-Voltage-Inputs": {
+    "title": "Linux Driver To Expose Voltage Inputs For Raspberry Pi SBCs",
+    "source": "Phoronix",
+    "first_seen": "2026-05-27T10:22:08.858551+00:00",
+    "published": "2026-05-27T10:15:18+00:00"
+  },
+  "https://www.phoronix.com/news/Intel-TDX-Runtime-Update-7.2": {
+    "title": "Intel TDX Runtime Updates Looks Like It Will Land For Linux 7.2",
+    "source": "Phoronix",
+    "first_seen": "2026-05-27T10:22:08.858551+00:00",
+    "published": "2026-05-27T10:07:04+00:00"
+  },
+  "https://stratechery.com/2026/the-spacex-ipo-and-data-centers-in-space": {
+    "title": "The SpaceX IPO and Data Centers in Space",
+    "source": "Stratechery",
+    "first_seen": "2026-05-27T10:22:08.858551+00:00",
+    "published": "2026-05-27T10:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/Canonical-Ubuntu-Workshop": {
+    "title": "Canonical Releases Workshop As New Way Of Launching Development Environments",
+    "source": "Phoronix",
+    "first_seen": "2026-05-27T10:22:08.858551+00:00",
+    "published": "2026-05-27T09:56:14+00:00"
+  },
+  "https://miniscript.org/MiniMicro/index.html": {
+    "title": "Mini Micro Fantasy Computer",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-27T10:22:08.858551+00:00",
+    "published": "2026-05-27T09:56:02+00:00"
+  },
+  "https://www.unicode.org/versions/Unicode18.0.0": {
+    "title": "Unicode 18.0.0 Beta",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-27T10:22:08.858551+00:00",
+    "published": "2026-05-27T07:28:25+00:00"
+  },
+  "https://simonwillison.net/2026/May/27/kyle-ferrana": {
+    "title": "Quoting Kyle Ferrana",
+    "source": "Simon Willison",
+    "first_seen": "2026-05-27T10:22:08.858551+00:00",
+    "published": "2026-05-27T06:41:43+00:00"
+  },
+  "https://arps18.github.io/posts/claude-code-mastery": {
+    "title": "Claude Code as a Daily Driver: Claude.md, Skills, Subagents, Plugins, and MCPs",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-27T10:22:08.858551+00:00",
+    "published": "2026-05-27T05:13:39+00:00"
+  },
+  "https://github.com/craigmccaskill/posthorn": {
+    "title": "Show HN: Posthorn, self-hosted mail without the mail server",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-27T10:22:08.858551+00:00",
+    "published": "2026-05-27T04:26:26+00:00"
+  },
+  "https://tsduck.io": {
+    "title": "TSDuck: Open-source toolkit for MPEG-TS analysis and manipulation",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-27T10:22:08.858551+00:00",
+    "published": "2026-05-27T02:22:59+00:00"
+  },
+  "https://www.oliverio.dev/blog/the-worst-job-interview-i-had": {
+    "title": "The worst job interview I ever had",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-27T10:22:08.858551+00:00",
+    "published": "2026-05-26T20:11:49+00:00"
+  },
+  "https://thereader.mitpress.mit.edu/the-strange-melancholy-of-slaying-monsters": {
+    "title": "The Melancholy of Slaying Monsters",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-27T10:22:08.858551+00:00",
+    "published": "2026-05-26T19:25:13+00:00"
+  },
+  "https://padhye.org/raft-minority": {
+    "title": "Raft Consensus with a Minority of Nodes",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-27T10:22:08.858551+00:00",
+    "published": "2026-05-26T10:30:25+00:00"
+  },
+  "https://badhost.org": {
+    "title": "BadHost – CVE-2026-48710: Starlette Host-Header Auth Bypass",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-27T10:22:08.858551+00:00",
+    "published": "2026-05-26T09:07:18+00:00"
+  },
+  "https://bcantrill.dtrace.org/2026/05/25/a-portentous-reunion": {
+    "title": "A portentous reunion",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-27T10:22:08.858551+00:00",
+    "published": "2026-05-26T05:57:45+00:00"
   }
 }
