@@ -28970,5 +28970,35 @@
     "source": "Sentry Blog",
     "first_seen": "2026-05-27T21:33:35.164952+00:00",
     "published": "2026-05-27T00:00:00+00:00"
+  },
+  "https://www.ycombinator.com/companies/pelica/jobs/MDeC49o-machine-learning-engineer": {
+    "title": "Pelica (YC P25) Is Hiring",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-27T23:08:59.357720+00:00",
+    "published": "2026-05-27T22:52:15+00:00"
+  },
+  "https://radar.cloudflare.com/traffic/ir?dateRange=28d": {
+    "title": "Internet Traffic in Iran Increasing",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-27T23:08:59.357720+00:00",
+    "published": "2026-05-27T22:24:25+00:00"
+  },
+  "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators": {
+    "title": "YouTube to automatically label AI-generated videos",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-27T23:08:59.357720+00:00",
+    "published": "2026-05-27T20:00:51+00:00"
+  },
+  "https://www.jonaharagon.com/posts/im-getting-into-mesh-networks-meshtastic-meshcore-and-reticulum": {
+    "title": "I'm Getting into Mesh Networks (Meshtastic, MeshCore, and Reticulum)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-27T23:08:59.357720+00:00",
+    "published": "2026-05-27T19:52:49+00:00"
+  },
+  "https://openai.com/index/cisco": {
+    "title": "Cisco and OpenAI redefine enterprise engineering with Codex",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-05-27T23:08:59.357720+00:00",
+    "published": "2026-05-27T11:00:00+00:00"
   }
 }
