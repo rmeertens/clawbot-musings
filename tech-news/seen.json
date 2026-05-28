@@ -29366,5 +29366,203 @@
     "source": "Astro Blog",
     "first_seen": "2026-05-28T16:25:53.162080+00:00",
     "published": "2026-05-28T00:00:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/security/simplifying-policy-management-with-url-and-domain-category-filtering-on-aws-network-firewall": {
+    "title": "Simplifying policy management with URL and Domain Category filtering on AWS Network Firewall",
+    "source": "AWS Security Blog",
+    "first_seen": "2026-05-28T19:07:13.363801+00:00",
+    "published": "2026-05-28T18:57:13+00:00"
+  },
+  "https://www.sfgate.com/tech/article/new-google-ai-22279112.php": {
+    "title": "Google Hates You",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-28T19:07:13.363801+00:00",
+    "published": "2026-05-28T18:42:28+00:00"
+  },
+  "https://www.dbos.dev/blog/postgres-is-all-you-need-for-durable-execution": {
+    "title": "Just Use Postgres for Durable Workflows",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-28T19:07:13.363801+00:00",
+    "published": "2026-05-28T18:41:46+00:00"
+  },
+  "https://aws.amazon.com/blogs/aws/introducing-the-next-generation-of-amazon-opensearch-serverless-for-building-your-agentic-ai-applications": {
+    "title": "Introducing the next generation of Amazon OpenSearch Serverless for building your agentic AI applications",
+    "source": "AWS Blog",
+    "first_seen": "2026-05-28T19:07:13.363801+00:00",
+    "published": "2026-05-28T18:26:16+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/the-next-generation-of-amazon-opensearch-serverless-built-from-the-ground-up-for-agents": {
+    "title": "The next generation of Amazon OpenSearch Serverless: Built from the ground up for agents",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-05-28T19:07:13.363801+00:00",
+    "published": "2026-05-28T18:24:54+00:00"
+  },
+  "https://kristoff.it/blog/llms-at-zig-days": {
+    "title": "About LLMs at Zig Days",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-28T19:07:13.363801+00:00",
+    "published": "2026-05-28T18:20:34+00:00"
+  },
+  "https://github.blog/news-insights/company-news/still-a-developer-just-outside-our-latest-github-shop-collection-is-here": {
+    "title": "Still a developer. Just outside. Our latest GitHub Shop collection is here.",
+    "source": "GitHub Blog",
+    "first_seen": "2026-05-28T19:07:13.363801+00:00",
+    "published": "2026-05-28T18:18:43+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/build-a-test-suite-that-grows-with-your-agent-with-dataset-management-in-amazon-bedrock-agentcore": {
+    "title": "Build a test suite that grows with your agent with dataset management in Amazon Bedrock AgentCore",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-05-28T19:07:13.363801+00:00",
+    "published": "2026-05-28T18:10:47+00:00"
+  },
+  "https://www.anthropic.com/news/series-h": {
+    "title": "Anthropic raises $65B in Series H funding at $965B post-money valuation",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-28T19:07:13.363801+00:00",
+    "published": "2026-05-28T18:09:44+00:00"
+  },
+  "https://thenewstack.io/claude-opus-48-release": {
+    "title": "Claude Opus 4.8 is here: effort controls, dynamic workflows, cheaper fast mode, better honesty, less deception",
+    "source": "The New Stack",
+    "first_seen": "2026-05-28T19:07:13.363801+00:00",
+    "published": "2026-05-28T18:08:36+00:00"
+  },
+  "https://dropbox.tech/culture/beyond-code-generation-rethinking-engineering-productivity-in-the-age-of-ai-agents": {
+    "title": "Beyond code generation: rethinking engineering productivity in the age of AI agents",
+    "source": "Dropbox Tech",
+    "first_seen": "2026-05-28T19:07:13.363801+00:00",
+    "published": "2026-05-28T18:00:00+00:00"
+  },
+  "https://lwn.net/Articles/1075148": {
+    "title": "Górny: why Gentoo?",
+    "source": "LWN.net",
+    "first_seen": "2026-05-28T19:07:13.363801+00:00",
+    "published": "2026-05-28T17:58:12+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/claude-opus-4-8-is-now-available-on-aws": {
+    "title": "Claude Opus 4.8 is now available on AWS",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-05-28T19:07:13.363801+00:00",
+    "published": "2026-05-28T17:51:32+00:00"
+  },
+  "https://pluralistic.net/2026/05/28/we-live-in-a-society": {
+    "title": "Hold on for Dear Life",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-28T19:07:13.363801+00:00",
+    "published": "2026-05-28T17:51:14+00:00"
+  },
+  "https://bitburner-official.github.io": {
+    "title": "Bitburner, programming-based incremental game",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-28T19:07:13.363801+00:00",
+    "published": "2026-05-28T17:43:36+00:00"
+  },
+  "https://www.science.org/content/article/i-hated-writing-until-i-learned-there-s-science-it": {
+    "title": "I hated writing–until I learned there's a science to it(2024)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-28T19:07:13.363801+00:00",
+    "published": "2026-05-28T17:36:47+00:00"
+  },
+  "https://thenewstack.io/percona-20-oursql-foundation-rebrand": {
+    "title": "Percona celebrates 20th birthday with new foundation — and a goat cake",
+    "source": "The New Stack",
+    "first_seen": "2026-05-28T19:07:13.363801+00:00",
+    "published": "2026-05-28T17:14:33+00:00"
+  },
+  "https://ipvm.com/reports/bipartisan-alpr-amendment-killed": {
+    "title": "Legislation Killed Would Have Effectively Blocked Police LPR, Including Flock",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-28T19:07:13.363801+00:00",
+    "published": "2026-05-28T17:10:05+00:00"
+  },
+  "https://www.hashicorp.com/blog/scim-in-vault-standardizes-provisioning-in-platforms": {
+    "title": "SCIM in HashiCorp Vault standardizes provisioning in platforms",
+    "source": "HashiCorp Blog",
+    "first_seen": "2026-05-28T19:07:13.363801+00:00",
+    "published": "2026-05-28T17:00:00+00:00"
+  },
+  "https://newsletter.pragmaticengineer.com/p/the-pulse-a-trend-of-trying-to-cut": {
+    "title": "The Pulse: a trend of trying to cut back on AI spend within eng departments?",
+    "source": "The Pragmatic Engineer",
+    "first_seen": "2026-05-28T19:07:13.363801+00:00",
+    "published": "2026-05-28T16:57:38+00:00"
+  },
+  "https://claude.com/blog/introducing-dynamic-workflows-in-claude-code": {
+    "title": "Dynamic Workflows in Claude Code",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-28T19:07:13.363801+00:00",
+    "published": "2026-05-28T16:52:21+00:00"
+  },
+  "https://www.anthropic.com/news/claude-opus-4-8": {
+    "title": "Claude Opus 4.8",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-28T19:07:13.363801+00:00",
+    "published": "2026-05-28T16:49:14+00:00"
+  },
+  "https://www.lrb.co.uk/the-paper/v48/n10/david-runciman/trivial-pursuits": {
+    "title": "Trivial Pursuits",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-28T19:07:13.363801+00:00",
+    "published": "2026-05-28T16:43:24+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/automate-aml-alert-triage-with-amazon-quick-and-snowflake-cortex-ai": {
+    "title": "Automate AML alert triage with Amazon Quick and Snowflake Cortex AI",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-05-28T19:07:13.363801+00:00",
+    "published": "2026-05-28T16:41:07+00:00"
+  },
+  "https://thenewstack.io/forward-deployed-engineers-ai": {
+    "title": "Why OpenAI and Anthropic are hiring forward deployed engineer teams",
+    "source": "The New Stack",
+    "first_seen": "2026-05-28T19:07:13.363801+00:00",
+    "published": "2026-05-28T16:35:14+00:00"
+  },
+  "https://blog.bytebytego.com/p/must-know-failure-modes-in-distributed": {
+    "title": "Must-Know Failure Modes in Distributed Systems",
+    "source": "ByteByteGo",
+    "first_seen": "2026-05-28T19:07:13.363801+00:00",
+    "published": "2026-05-28T16:31:00+00:00"
+  },
+  "https://permanent-upper-crow.jasonwu.ink": {
+    "title": "The Permanent Upper Crow",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-28T19:07:13.363801+00:00",
+    "published": "2026-05-28T15:23:04+00:00"
+  },
+  "https://github.com/Kaelio/ktx": {
+    "title": "Show HN: Ktx – Open-source executable context layer for data agents",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-28T19:07:13.363801+00:00",
+    "published": "2026-05-28T15:05:06+00:00"
+  },
+  "https://github.com/BurntSushi/bttf": {
+    "title": "Bttf is a command line datetime Swiss army knife",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-28T19:07:13.363801+00:00",
+    "published": "2026-05-28T02:58:44+00:00"
+  },
+  "https://www.elastic.co/blog/elastic-stack-9-4-2-released": {
+    "title": "Elastic Stack 9.4.2 released",
+    "source": "Elastic Blog",
+    "first_seen": "2026-05-28T19:07:13.363801+00:00",
+    "published": "2026-05-28T00:00:00+00:00"
+  },
+  "https://www.elastic.co/blog/elastic-stack-9-3-5-released": {
+    "title": "Elastic Stack 9.3.5 released",
+    "source": "Elastic Blog",
+    "first_seen": "2026-05-28T19:07:13.363801+00:00",
+    "published": "2026-05-28T00:00:00+00:00"
+  },
+  "https://www.elastic.co/blog/elastic-stack-8-19-16-released": {
+    "title": "Elastic Stack 8.19.16 released",
+    "source": "Elastic Blog",
+    "first_seen": "2026-05-28T19:07:13.363801+00:00",
+    "published": "2026-05-28T00:00:00+00:00"
+  },
+  "https://discord.com/blog/official-discord-integrations-for-steal-a-brainrot-grow-a-garden-brookhaven-rp-and-more": {
+    "title": "Official Discord Integrations for Steal a Brainrot, Grow a Garden, Brookhaven RP, and more",
+    "source": "Discord Engineering",
+    "first_seen": "2026-05-28T19:07:13.363801+00:00",
+    "published": "2026-05-28T00:00:00+00:00"
   }
 }
