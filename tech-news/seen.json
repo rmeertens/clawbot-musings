@@ -29000,5 +29000,71 @@
     "source": "OpenAI Blog",
     "first_seen": "2026-05-27T23:08:59.357720+00:00",
     "published": "2026-05-27T11:00:00+00:00"
+  },
+  "https://www.ycombinator.com/companies/ramain/jobs/hqvmyKN-founding-gtm-engineer": {
+    "title": "RamAIn (YC W26) Is Hiring",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-28T03:07:25.898224+00:00",
+    "published": "2026-05-28T02:21:11+00:00"
+  },
+  "https://lwn.net/Articles/1073782": {
+    "title": "[$] LWN.net Weekly Edition for May 28, 2026",
+    "source": "LWN.net",
+    "first_seen": "2026-05-28T03:07:25.898224+00:00",
+    "published": "2026-05-28T01:04:49+00:00"
+  },
+  "https://www.cnbc.com/2026/05/27/google-employee-polymarket-insider-trading.html": {
+    "title": "Google employee charged with $1M Polymarket insider trading bet on search term",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-28T03:07:25.898224+00:00",
+    "published": "2026-05-28T00:49:58+00:00"
+  },
+  "https://mlsu.io/posts/day-off": {
+    "title": "Can we have the day off?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-28T03:07:25.898224+00:00",
+    "published": "2026-05-28T00:40:26+00:00"
+  },
+  "https://www.phoronix.com/news/Mesa-26.0.8-Released": {
+    "title": "Mesa 26.0.8 Released To End Out The Series",
+    "source": "Phoronix",
+    "first_seen": "2026-05-28T03:07:25.898224+00:00",
+    "published": "2026-05-28T00:30:21+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/guide-your-amazon-aurora-mysql-migration-with-kiro-powers": {
+    "title": "Guide your Amazon Aurora MySQL migration with Kiro powers",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-05-28T03:07:25.898224+00:00",
+    "published": "2026-05-28T00:15:41+00:00"
+  },
+  "https://simonwillison.net/2026/May/27/sqlite-agents": {
+    "title": "sqlite AGENTS.md",
+    "source": "Simon Willison",
+    "first_seen": "2026-05-28T03:07:25.898224+00:00",
+    "published": "2026-05-27T23:44:37+00:00"
+  },
+  "https://www.nytimes.com/2026/05/27/us/politics/fbi-arrest-cia-official-gold-bars.html": {
+    "title": "FBI Arrests CIA Official with $40M in Gold Bars in His Home",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-28T03:07:25.898224+00:00",
+    "published": "2026-05-27T23:23:29+00:00"
+  },
+  "https://developer.nvidia.com/blog/nvidia-dynamo-snapshot-fast-startup-for-inference-workloads-on-kubernetes": {
+    "title": "NVIDIA Dynamo Snapshot: Fast Startup for Inference Workloads on Kubernetes",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-05-28T03:07:25.898224+00:00",
+    "published": "2026-05-27T23:09:52+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/ai-native-full-stack-web-apps-with-vercel-and-aws-databases": {
+    "title": "AI-native, full-stack web apps with Vercel and AWS Databases",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-05-28T03:07:25.898224+00:00",
+    "published": "2026-05-27T23:08:16+00:00"
+  },
+  "https://www.elodin.systems/post/elodin-ai-grand-prix-race-sim-harness": {
+    "title": "Show HN: Open-Source AI Racing Harness",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-28T03:07:25.898224+00:00",
+    "published": "2026-05-27T20:37:42+00:00"
   }
 }
