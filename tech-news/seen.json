@@ -29684,5 +29684,29 @@
     "source": "Rust Blog",
     "first_seen": "2026-05-28T21:35:59.078992+00:00",
     "published": "2026-05-28T00:00:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/security/why-and-how-to-migrate-to-a-transit-gateway-attached-aws-network-firewall": {
+    "title": "Why and how to migrate to a Transit Gateway-attached AWS Network Firewall",
+    "source": "AWS Security Blog",
+    "first_seen": "2026-05-28T23:06:13.945488+00:00",
+    "published": "2026-05-28T22:44:17+00:00"
+  },
+  "https://lwn.net/Articles/1075180": {
+    "title": "Rust 1.96.0 released",
+    "source": "LWN.net",
+    "first_seen": "2026-05-28T23:06:13.945488+00:00",
+    "published": "2026-05-28T22:16:27+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/training-azerbaijani-language-models-on-amazon-sagemaker-ai": {
+    "title": "Training Azerbaijani language models on Amazon SageMaker AI",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-05-28T23:06:13.945488+00:00",
+    "published": "2026-05-28T21:54:06+00:00"
+  },
+  "https://www.databricks.com/blog/unity-catalog-and-next-era-apache-icebergtm": {
+    "title": "Unity Catalog and the next era of Apache Iceberg™",
+    "source": "Databricks Blog",
+    "first_seen": "2026-05-28T23:06:13.945488+00:00",
+    "published": "2026-05-28T18:58:09+00:00"
   }
 }
