@@ -29126,5 +29126,245 @@
     "source": "web.dev",
     "first_seen": "2026-05-28T10:24:11.622822+00:00",
     "published": "2026-05-27T07:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/topics/public-sector/how-the-university-of-central-oklahoma-is-using-ai-to-streamline-analysis-of-complex-criminal-cases": {
+    "title": "How the University of Central Oklahoma is using AI to streamline analysis of complex criminal cases",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-05-28T16:25:53.162080+00:00",
+    "published": "2026-05-28T19:00:00+00:00"
+  },
+  "https://stackoverflow.blog/2026/05/28/artisans-and-builders": {
+    "title": "In an AI world, the most valuable developers will be both artisans and builders",
+    "source": "Stack Overflow Blog",
+    "first_seen": "2026-05-28T16:25:53.162080+00:00",
+    "published": "2026-05-28T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/devops-sre/how-google-sre-is-using-agentic-ai-to-improve-operations": {
+    "title": "AI in SRE: Where and how Google is deploying agentic AI to improve operations",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-05-28T16:25:53.162080+00:00",
+    "published": "2026-05-28T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/data-analytics/ai-focused-innovations-in-dataflow": {
+    "title": "Evolving Dataflow to process massive datasets for machine learning",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-05-28T16:25:53.162080+00:00",
+    "published": "2026-05-28T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/application-development/app-centric-maintenance-visibility-in-unified-maintenance": {
+    "title": "Go from resource-level to business-level maintenance in Google Cloud",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-05-28T16:25:53.162080+00:00",
+    "published": "2026-05-28T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/ai-machine-learning/nano-banana-2-and-nano-banana-pro-are-generally-available": {
+    "title": "Nano Banana 2 and Nano Banana Pro are generally available, and already powering creative workflows",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-05-28T16:25:53.162080+00:00",
+    "published": "2026-05-28T16:00:00+00:00"
+  },
+  "https://tradecore.com/resources/blog/we-replaced-zendesk-in-48-hours": {
+    "title": "We replaced Zendesk",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-28T16:25:53.162080+00:00",
+    "published": "2026-05-28T15:42:25+00:00"
+  },
+  "https://www.phoronix.com/review/intel-b70-linux-gaming": {
+    "title": "Intel Arc Pro B70 BMG-G31 Linux Gaming Performance",
+    "source": "Phoronix",
+    "first_seen": "2026-05-28T16:25:53.162080+00:00",
+    "published": "2026-05-28T15:01:08+00:00"
+  },
+  "https://blog.google/innovation-and-ai/technology/ai/io-2026-keynote-moment-videos": {
+    "title": "Catch up on 12 major I/O 2026 moments",
+    "source": "Google AI Blog",
+    "first_seen": "2026-05-28T16:25:53.162080+00:00",
+    "published": "2026-05-28T15:00:00+00:00"
+  },
+  "https://github.com/creusot-rs/creusot/tree/master": {
+    "title": "Creusot helps you prove your Rust code is correct",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-28T16:25:53.162080+00:00",
+    "published": "2026-05-28T14:42:04+00:00"
+  },
+  "https://www.cnbc.com/2026/05/28/new-york-mamdani-pied-a-terre-tax-passes.html": {
+    "title": "New York Passes Tax on the Ultra-Wealthy",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-28T16:25:53.162080+00:00",
+    "published": "2026-05-28T14:37:51+00:00"
+  },
+  "https://lwn.net/Articles/1074557": {
+    "title": "[$] Policies for merging new filesystems",
+    "source": "LWN.net",
+    "first_seen": "2026-05-28T16:25:53.162080+00:00",
+    "published": "2026-05-28T14:29:19+00:00"
+  },
+  "https://www.phoronix.com/news/Arm-Metis-Agentic-AI-Security": {
+    "title": "Arm Announces Metis: Agentic AI Security Framework",
+    "source": "Phoronix",
+    "first_seen": "2026-05-28T16:25:53.162080+00:00",
+    "published": "2026-05-28T14:20:00+00:00"
+  },
+  "https://www.bbc.co.uk/news/articles/c1k2ydn1rz8o": {
+    "title": "EU fines Temu €200M for allowing sale of illegal products",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-28T16:25:53.162080+00:00",
+    "published": "2026-05-28T14:18:18+00:00"
+  },
+  "https://slack.engineering/slack-ai-the-path-to-multi-cloud": {
+    "title": "Slack AI: The Path to Multi-Cloud",
+    "source": "Slack Engineering",
+    "first_seen": "2026-05-28T16:25:53.162080+00:00",
+    "published": "2026-05-28T14:15:20+00:00"
+  },
+  "https://www.latimes.com/california/story/2026-05-27/uc-math-professors-demand-return-of-sat-for-stem-admissions": {
+    "title": "Citing 'severe' math deficits, UC faculty demand a return to SAT tests for STEM",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-28T16:25:53.162080+00:00",
+    "published": "2026-05-28T14:13:00+00:00"
+  },
+  "https://www.phoronix.com/news/QEMU-Patch-Allows-Some-AI": {
+    "title": "QEMU Shifting On AI Policy To Allow Some AI/LLM-Generated Contributions",
+    "source": "Phoronix",
+    "first_seen": "2026-05-28T16:25:53.162080+00:00",
+    "published": "2026-05-28T13:50:00+00:00"
+  },
+  "https://lwn.net/Articles/1075065": {
+    "title": "IBM's \"Project Lightwell\"",
+    "source": "LWN.net",
+    "first_seen": "2026-05-28T16:25:53.162080+00:00",
+    "published": "2026-05-28T13:30:09+00:00"
+  },
+  "https://www.phoronix.com/news/Qualcomm-Snapdragon-C": {
+    "title": "Qualcomm Snapdragon C Announced For $300+ Laptops",
+    "source": "Phoronix",
+    "first_seen": "2026-05-28T16:25:53.162080+00:00",
+    "published": "2026-05-28T13:23:33+00:00"
+  },
+  "https://www.phoronix.com/news/Intel-Arc-G-Series": {
+    "title": "Intel Arc G-Series Processors Announced For Handheld Gaming Devices",
+    "source": "Phoronix",
+    "first_seen": "2026-05-28T16:25:53.162080+00:00",
+    "published": "2026-05-28T13:16:39+00:00"
+  },
+  "https://lwn.net/Articles/1073425": {
+    "title": "[$] Separating memory descriptors from struct page",
+    "source": "LWN.net",
+    "first_seen": "2026-05-28T16:25:53.162080+00:00",
+    "published": "2026-05-28T13:09:45+00:00"
+  },
+  "https://www.phoronix.com/news/KDE-Plasma-6.7-Beta-2": {
+    "title": "KDE Plasma 6.7 Beta 2 Released With More Bug Fixes",
+    "source": "Phoronix",
+    "first_seen": "2026-05-28T16:25:53.162080+00:00",
+    "published": "2026-05-28T13:09:05+00:00"
+  },
+  "https://lwn.net/Articles/1075060": {
+    "title": "Security updates for Thursday",
+    "source": "LWN.net",
+    "first_seen": "2026-05-28T16:25:53.162080+00:00",
+    "published": "2026-05-28T13:05:05+00:00"
+  },
+  "https://llmgame.scalex.dev": {
+    "title": "Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-28T16:25:53.162080+00:00",
+    "published": "2026-05-28T13:02:00+00:00"
+  },
+  "https://thenewstack.io/automation-anywhere-enterpriseclaw-ai-agents": {
+    "title": "Claw-style AI agents are coming to the enterprise. The governance infrastructure is still catching up.",
+    "source": "The New Stack",
+    "first_seen": "2026-05-28T16:25:53.162080+00:00",
+    "published": "2026-05-28T13:00:00+00:00"
+  },
+  "https://blog.cloudflare.com/our-unified-data-platform": {
+    "title": "How we built Cloudflare's data platform and an AI agent on top of it",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-05-28T16:25:53.162080+00:00",
+    "published": "2026-05-28T13:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/R300-Gallium3D-No-TGSI-Part-1": {
+    "title": "24 Years After The ATI R300 Launched, Open-Source R300 Driver Continues With Big Rework",
+    "source": "Phoronix",
+    "first_seen": "2026-05-28T16:25:53.162080+00:00",
+    "published": "2026-05-28T12:23:50+00:00"
+  },
+  "https://lenz.io/research/llm-disagreement": {
+    "title": "Disagreement Among Frontier LLMs on Real-World Fact-Checks",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-28T16:25:53.162080+00:00",
+    "published": "2026-05-28T12:20:19+00:00"
+  },
+  "https://www.construction-physics.com/p/where-are-the-economies-of-scale": {
+    "title": "Where Are the Economies of Scale in Homebuilding?",
+    "source": "Construction Physics",
+    "first_seen": "2026-05-28T16:25:53.162080+00:00",
+    "published": "2026-05-28T12:03:26+00:00"
+  },
+  "https://thenewstack.io/ai-agent-identity-crisis": {
+    "title": "The agentic identity crisis: Why your security isn’t ready for the AI revolution",
+    "source": "The New Stack",
+    "first_seen": "2026-05-28T16:25:53.162080+00:00",
+    "published": "2026-05-28T12:00:00+00:00"
+  },
+  "https://realpython.com/quizzes/python-bnf-notation": {
+    "title": "Quiz: BNF Notation: Dive Deeper Into Python's Grammar",
+    "source": "Real Python",
+    "first_seen": "2026-05-28T16:25:53.162080+00:00",
+    "published": "2026-05-28T12:00:00+00:00"
+  },
+  "https://www.cncf.io/blog/2026/05/28/the-kubernetes-integration-tax-prometheus-cilium-and-production-reality": {
+    "title": "The Kubernetes integration tax: Prometheus, Cilium and production reality",
+    "source": "CNCF Blog",
+    "first_seen": "2026-05-28T16:25:53.162080+00:00",
+    "published": "2026-05-28T11:00:00+00:00"
+  },
+  "https://thenewstack.io/debugging-observable-ai-systems": {
+    "title": "Debugging the undebuggable: building observability into probabilistic AI systems",
+    "source": "The New Stack",
+    "first_seen": "2026-05-28T16:25:53.162080+00:00",
+    "published": "2026-05-28T11:00:00+00:00"
+  },
+  "https://itsfoss.com/news/amd-vivado-bait-and-switch-on-linux-users": {
+    "title": "AMD pulls a bait-and-switch on Linux users with Vivado licensing changes",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-28T16:25:53.162080+00:00",
+    "published": "2026-05-28T10:56:55+00:00"
+  },
+  "https://www.phoronix.com/news/Mesa-Arm-Mali-KRAID": {
+    "title": "KRAID Being Developed As New Compiler For Modern Arm Mali Graphics",
+    "source": "Phoronix",
+    "first_seen": "2026-05-28T16:25:53.162080+00:00",
+    "published": "2026-05-28T10:27:00+00:00"
+  },
+  "https://www.tigerdata.com/blog/unify-plant-floor-data-claude-code-timescaledb": {
+    "title": "Unify Your Plant-Floor Data with Claude Code and TimescaleDB",
+    "source": "Timescale Blog",
+    "first_seen": "2026-05-28T16:25:53.162080+00:00",
+    "published": "2026-05-28T10:00:00+00:00"
+  },
+  "https://blog.sentry.io/cut-build-times-delete-cms": {
+    "title": "How we cut build times by two-thirds by deleting our CMS",
+    "source": "Sentry Blog",
+    "first_seen": "2026-05-28T16:25:53.162080+00:00",
+    "published": "2026-05-28T09:00:00+00:00"
+  },
+  "https://openai.com/index/openai-frontier-governance-framework": {
+    "title": "OpenAI’s Frontier Governance Framework",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-05-28T16:25:53.162080+00:00",
+    "published": "2026-05-28T00:00:00+00:00"
+  },
+  "https://nodeweekly.com/issues/626": {
+    "title": "Deno hits 76% Node.js compatibility",
+    "source": "Node Weekly",
+    "first_seen": "2026-05-28T16:25:53.162080+00:00",
+    "published": "2026-05-28T00:00:00+00:00"
+  },
+  "https://astro.build/blog/astro-640": {
+    "title": "Astro 6.4",
+    "source": "Astro Blog",
+    "first_seen": "2026-05-28T16:25:53.162080+00:00",
+    "published": "2026-05-28T00:00:00+00:00"
   }
 }
