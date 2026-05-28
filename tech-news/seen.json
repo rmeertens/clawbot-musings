@@ -29078,5 +29078,53 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-05-28T07:06:31.255661+00:00",
     "published": "2026-05-27T23:31:13+00:00"
+  },
+  "https://www.phoronix.com/news/O3DE-26.04-Released": {
+    "title": "O3DE 26.05 Released With New Open Particle System, Other Engine Improvements",
+    "source": "Phoronix",
+    "first_seen": "2026-05-28T10:24:11.622822+00:00",
+    "published": "2026-05-28T10:11:09+00:00"
+  },
+  "https://www.phoronix.com/news/GTK-Snapping": {
+    "title": "GTK Introduces Snapping Feature For Better Fractional Scaling Experience",
+    "source": "Phoronix",
+    "first_seen": "2026-05-28T10:24:11.622822+00:00",
+    "published": "2026-05-28T10:01:55+00:00"
+  },
+  "https://stratechery.com/2026/an-interview-with-eric-seufert-about-models-and-ads-and-ais-upside-for-humanity": {
+    "title": "An Interview with Eric Seufert About Models and Ads, and AI’s Upside for Humanity",
+    "source": "Stratechery",
+    "first_seen": "2026-05-28T10:24:11.622822+00:00",
+    "published": "2026-05-28T10:00:00+00:00"
+  },
+  "https://www.inc.com/connor-jewiss/the-problem-with-the-ferrari-luce-ev-offers-a-lesson-for-every-leader/91351070": {
+    "title": "The Problem with the Ferrari Luce EV Offers a Lesson for Every Leader",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-28T10:24:11.622822+00:00",
+    "published": "2026-05-28T09:36:54+00:00"
+  },
+  "https://cloud.google.com/blog/topics/startups/meet-the-newest-cohort-of-our-mena-t-startup-accelerator": {
+    "title": "Announcing the newest cohort of the Google for Startups Accelerator: Middle East, North Africa & Turkey",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-05-28T10:24:11.622822+00:00",
+    "published": "2026-05-28T07:00:00+00:00"
+  },
+  "https://iisc.ac.in/a-eureka-machine-that-thinks-like-nature-and-explores-what-ai-cannot": {
+    "title": "A Eureka machine that thinks like nature and explores what AI cannot",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-28T10:24:11.622822+00:00",
+    "published": "2026-05-28T06:40:31+00:00"
+  },
+  "https://github.com/BurntSushi/biff": {
+    "title": "Biff is a command line datetime Swiss army knife",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-28T10:24:11.622822+00:00",
+    "published": "2026-05-28T02:58:44+00:00"
+  },
+  "https://web.dev/blog/baseline-digest-apr-2026?hl=en": {
+    "title": "April 2026 Baseline monthly digest",
+    "source": "web.dev",
+    "first_seen": "2026-05-28T10:24:11.622822+00:00",
+    "published": "2026-05-27T07:00:00+00:00"
   }
 }
