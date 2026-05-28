@@ -29564,5 +29564,125 @@
     "source": "Discord Engineering",
     "first_seen": "2026-05-28T19:07:13.363801+00:00",
     "published": "2026-05-28T00:00:00+00:00"
+  },
+  "https://research.google/blog/a-new-era-of-innovation-google-research-at-io-2026": {
+    "title": "A New Era of Innovation: Google Research at I/O 2026",
+    "source": "Google Research",
+    "first_seen": "2026-05-28T21:35:59.078992+00:00",
+    "published": "2026-05-28T20:58:00+00:00"
+  },
+  "https://news.ycombinator.com/item?id=48315206": {
+    "title": "Ask HN: Entrepreneurs, how long did it take you to succeed?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-28T21:35:59.078992+00:00",
+    "published": "2026-05-28T20:45:28+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/build-a-custom-portal-with-embedded-amazon-sagemaker-ai-mlflow-apps": {
+    "title": "Build a custom portal with embedded Amazon SageMaker AI MLflow Apps",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-05-28T21:35:59.078992+00:00",
+    "published": "2026-05-28T20:39:22+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/streamline-external-access-to-amazon-sagemaker-mlflow-using-a-rest-api-proxy": {
+    "title": "Streamline external access to Amazon SageMaker MLflow using a REST API proxy",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-05-28T21:35:59.078992+00:00",
+    "published": "2026-05-28T20:35:44+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/evaluating-deep-agents-using-langsmith-on-aws": {
+    "title": "Evaluating Deep Agents using LangSmith on AWS",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-05-28T21:35:59.078992+00:00",
+    "published": "2026-05-28T20:32:23+00:00"
+  },
+  "https://nick.winans.io/blog/nice-nano": {
+    "title": "I Made a Million Dollar Product from My Dorm Room (2025)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-28T21:35:59.078992+00:00",
+    "published": "2026-05-28T20:25:21+00:00"
+  },
+  "https://justine.lol/animus": {
+    "title": "Social Animus",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-28T21:35:59.078992+00:00",
+    "published": "2026-05-28T20:20:17+00:00"
+  },
+  "https://fortune.com/2026/05/26/sam-altman-dario-amodei-walking-back-ai-jobs-apocalypse-prophecies-ipo": {
+    "title": "Sam Altman and Dario Amodei are both walking back AI jobs apocalypse predictions",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-28T21:35:59.078992+00:00",
+    "published": "2026-05-28T19:43:14+00:00"
+  },
+  "https://www.databricks.com/blog/how-enterprise-leaders-are-scaling-ai-agents-across-their-organization": {
+    "title": "How enterprise leaders are scaling AI agents across their organization",
+    "source": "Databricks Blog",
+    "first_seen": "2026-05-28T21:35:59.078992+00:00",
+    "published": "2026-05-28T19:30:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/aws/introducing-the-next-generation-of-aws-resilience-hub-for-generative-ai-based-sre-resilience-journey": {
+    "title": "Introducing the next generation of AWS Resilience Hub for generative AI-based SRE resilience journey",
+    "source": "AWS Blog",
+    "first_seen": "2026-05-28T21:35:59.078992+00:00",
+    "published": "2026-05-28T19:29:55+00:00"
+  },
+  "https://mybricklog.com/blog/bricks-minifigs-corporate-stole-old-mans-200000-lego-collection": {
+    "title": "Bricks and Minifigs Stole a Man's $200k Lego Collection",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-28T21:35:59.078992+00:00",
+    "published": "2026-05-28T19:24:09+00:00"
+  },
+  "https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/tron-legacy": {
+    "title": "Nitpicking the shell history scene in 'Tron: Legacy'",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-28T21:35:59.078992+00:00",
+    "published": "2026-05-28T19:15:54+00:00"
+  },
+  "https://bookofjoe2.blogspot.com/2026/05/blog-post_27.html": {
+    "title": "Separate the Cord from the Device",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-28T21:35:59.078992+00:00",
+    "published": "2026-05-28T19:14:38+00:00"
+  },
+  "https://shvbsle.in/various-llm-smells": {
+    "title": "Various LLM Smells",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-28T21:35:59.078992+00:00",
+    "published": "2026-05-28T19:02:18+00:00"
+  },
+  "https://thenewstack.io/aws-opensearch-serverless-agentic-rebuild": {
+    "title": "Why AWS scrapped OpenSearch’s architecture to chase agent workloads",
+    "source": "The New Stack",
+    "first_seen": "2026-05-28T21:35:59.078992+00:00",
+    "published": "2026-05-28T18:30:00+00:00"
+  },
+  "https://www.matheusmoreira.com/articles/lone-lisp-heap": {
+    "title": "The Lone Lisp Heap",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-28T21:35:59.078992+00:00",
+    "published": "2026-05-28T18:16:20+00:00"
+  },
+  "https://github.com/enumura1/py-sql-cleaner": {
+    "title": "Show HN: Py-SQL-cleaner – format SQL embedded in Python strings",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-28T21:35:59.078992+00:00",
+    "published": "2026-05-28T17:30:29+00:00"
+  },
+  "https://github.com/bytecodealliance/endive": {
+    "title": "Endive: A JVM native WebAssembly runtime",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-28T21:35:59.078992+00:00",
+    "published": "2026-05-28T16:40:33+00:00"
+  },
+  "https://neon.com/blog/were-building-backends": {
+    "title": "We're building the boring backend for apps and agents",
+    "source": "Neon Blog",
+    "first_seen": "2026-05-28T21:35:59.078992+00:00",
+    "published": "2026-05-28T12:00:00+00:00"
+  },
+  "https://blog.rust-lang.org/2026/05/28/Rust-1.96.0": {
+    "title": "Announcing Rust 1.96.0",
+    "source": "Rust Blog",
+    "first_seen": "2026-05-28T21:35:59.078992+00:00",
+    "published": "2026-05-28T00:00:00+00:00"
   }
 }
