@@ -29708,5 +29708,95 @@
     "source": "Databricks Blog",
     "first_seen": "2026-05-28T23:06:13.945488+00:00",
     "published": "2026-05-28T18:58:09+00:00"
+  },
+  "https://simonwillison.net/2026/May/29/anthropic": {
+    "title": "Anthropic's run-rate revenue hits $47 billion",
+    "source": "Simon Willison",
+    "first_seen": "2026-05-29T03:07:47.054920+00:00",
+    "published": "2026-05-29T01:23:08+00:00"
+  },
+  "https://twitter.com/nasaspaceflight/status/2060164928472854821": {
+    "title": "Blue Origin's New Glenn blows up during static fire test",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-29T03:07:47.054920+00:00",
+    "published": "2026-05-29T01:16:38+00:00"
+  },
+  "https://www.phoronix.com/news/Intel-Directed-Pkg-Therm-Inter": {
+    "title": "Intel Sends Out Revised Linux Patches For Directed Package Thermal Interrupts",
+    "source": "Phoronix",
+    "first_seen": "2026-05-29T03:07:47.054920+00:00",
+    "published": "2026-05-29T00:51:33+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.2-Nouveau-GA100": {
+    "title": "Linux 7.2's Open-Source Nouveau Driver To Finally Support The NVIDIA GA100",
+    "source": "Phoronix",
+    "first_seen": "2026-05-29T03:07:47.054920+00:00",
+    "published": "2026-05-29T00:34:25+00:00"
+  },
+  "https://minimaxir.com/2026/05/openrouter-hy3": {
+    "title": "The mysterious Hy3 LLM is topping OpenRouter Model Rankings by a large margin",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-29T03:07:47.054920+00:00",
+    "published": "2026-05-29T00:09:35+00:00"
+  },
+  "https://developer.nvidia.com/blog/run-step-3-7-flash-on-nvidia-gpus-with-enterprise-ready-multimodal-ai": {
+    "title": "Run Step 3.7 Flash on NVIDIA GPUs with Enterprise-Ready Multimodal AI",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-05-29T03:07:47.054920+00:00",
+    "published": "2026-05-29T00:07:11+00:00"
+  },
+  "https://engineering.grab.com/evolving-documentation-strategy": {
+    "title": "From decentralized Docs-as-Code to a centralized repository: Evolving Grab's documentation strategy",
+    "source": "Grab Tech",
+    "first_seen": "2026-05-29T03:07:47.054920+00:00",
+    "published": "2026-05-29T00:00:00+00:00"
+  },
+  "https://simonwillison.net/2026/May/28/claude-opus-4-8": {
+    "title": "Claude Opus 4.8: \"a modest but tangible improvement\"",
+    "source": "Simon Willison",
+    "first_seen": "2026-05-29T03:07:47.054920+00:00",
+    "published": "2026-05-28T23:59:50+00:00"
+  },
+  "https://simonwillison.net/2026/May/28/llm-anthropic": {
+    "title": "llm-anthropic 0.25.1",
+    "source": "Simon Willison",
+    "first_seen": "2026-05-29T03:07:47.054920+00:00",
+    "published": "2026-05-28T23:54:56+00:00"
+  },
+  "https://sfstandard.com/2026/05/28/sf-startup-secretly-testing-robots-airbnbs-trashing-lawsuit-claims": {
+    "title": "SF startup is testing robots in Airbnbs, and trashing them, lawsuit claims",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-29T03:07:47.054920+00:00",
+    "published": "2026-05-28T23:42:47+00:00"
+  },
+  "https://discourse.nixos.org/t/garnix-is-shutting-down-not-oc/77895": {
+    "title": "Garnix (A Nix CI) is shutting down",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-29T03:07:47.054920+00:00",
+    "published": "2026-05-28T23:36:41+00:00"
+  },
+  "https://www.tft.io/the-silent-critic": {
+    "title": "The Silent Critic",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-29T03:07:47.054920+00:00",
+    "published": "2026-05-28T23:25:51+00:00"
+  },
+  "https://blogs.gentoo.org/mgorny/2026/05/28/why-gentoo": {
+    "title": "Why Gentoo?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-29T03:07:47.054920+00:00",
+    "published": "2026-05-28T21:47:22+00:00"
+  },
+  "https://www.tomshardware.com/tech-industry/cyber-security/microsofts-github-bans-security-researcher-who-posted-zero-day-windows-exploits-because-company-ruined-their-life-expert-claims-action-is-vindictive-and-promises-further-retaliation": {
+    "title": "GitHub bans security researcher who posted zero-day Windows exploits",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-29T03:07:47.054920+00:00",
+    "published": "2026-05-28T21:45:54+00:00"
+  },
+  "https://openai.com/index/endava": {
+    "title": "How Endava builds an agentic organization with Codex",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-05-29T03:07:47.054920+00:00",
+    "published": "2026-05-28T12:00:00+00:00"
   }
 }
