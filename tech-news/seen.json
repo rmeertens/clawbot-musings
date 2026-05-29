@@ -30338,5 +30338,53 @@
     "source": "OpenAI Blog",
     "first_seen": "2026-05-29T21:32:10.283985+00:00",
     "published": "2026-05-29T00:00:00+00:00"
+  },
+  "https://github.com/secluso/core": {
+    "title": "Show HN: Open-source private home security camera system (end-to-end encryption)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-29T23:07:31.730186+00:00",
+    "published": "2026-05-29T22:32:29+00:00"
+  },
+  "https://developer.nvidia.com/blog/dynosim-simulating-the-pareto-frontier": {
+    "title": "DynoSim: Simulating the Pareto Frontier",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-05-29T23:07:31.730186+00:00",
+    "published": "2026-05-29T22:31:03+00:00"
+  },
+  "https://lukasz.bromirski.net/post/bgp-w-labie-3": {
+    "title": "Free full BGP feed. IPv4 and IPv6",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-29T23:07:31.730186+00:00",
+    "published": "2026-05-29T22:21:58+00:00"
+  },
+  "https://www.phoronix.com/news/Wine-11.10-Released": {
+    "title": "Wine 11.10 Released With VKD3D 2.0, Improved VBScript Compatibility",
+    "source": "Phoronix",
+    "first_seen": "2026-05-29T23:07:31.730186+00:00",
+    "published": "2026-05-29T22:14:57+00:00"
+  },
+  "http://hypercritical.co/2026/05/29/ev-stupidity-checklist": {
+    "title": "EV Stupidity Checklist",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-29T23:07:31.730186+00:00",
+    "published": "2026-05-29T21:29:51+00:00"
+  },
+  "https://steve-yegge.medium.com/the-last-technical-interview-bc13ddcf4564": {
+    "title": "The Last Technical Interview",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-29T23:07:31.730186+00:00",
+    "published": "2026-05-29T19:58:56+00:00"
+  },
+  "https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning": {
+    "title": "Shift will clean homes for free to train future robots",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-29T23:07:31.730186+00:00",
+    "published": "2026-05-29T19:16:32+00:00"
+  },
+  "https://noperator.dev/posts/you-can-just-say-it": {
+    "title": "You can just say it",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-29T23:07:31.730186+00:00",
+    "published": "2026-05-29T15:54:28+00:00"
   }
 }
