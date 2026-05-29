@@ -29894,5 +29894,41 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-05-29T10:17:59.631652+00:00",
     "published": "2026-05-29T03:07:22+00:00"
+  },
+  "https://www.schneier.com/blog/archives/2026/05/chilling-effects.html": {
+    "title": "Chilling Effects",
+    "source": "Schneier on Security",
+    "first_seen": "2026-05-29T11:07:31.516522+00:00",
+    "published": "2026-05-29T11:02:22+00:00"
+  },
+  "https://www.cncf.io/blog/2026/05/29/building-a-cloud-native-internal-developer-platform-with-kubernetes-gitops-and-supply-chain-security": {
+    "title": "Building a cloud native internal developer platform with Kubernetes, GitOps, and supply chain security",
+    "source": "CNCF Blog",
+    "first_seen": "2026-05-29T11:07:31.516522+00:00",
+    "published": "2026-05-29T11:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/Intel-Graphics-Background-Color": {
+    "title": "Intel To Support DRM Background Color Property With Linux 7.2",
+    "source": "Phoronix",
+    "first_seen": "2026-05-29T11:07:31.516522+00:00",
+    "published": "2026-05-29T10:25:23+00:00"
+  },
+  "https://blog.kog.ai/real-time-llm-inference-on-standard-gpus-3-000-tokens-s-per-request": {
+    "title": "Real-time LLM Inference on Standard GPUs: 3k tokens/s per request",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-29T11:07:31.516522+00:00",
+    "published": "2026-05-29T09:47:23+00:00"
+  },
+  "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense": {
+    "title": "Strengthening societal resilience with Rosalind Biodefense",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-05-29T11:07:31.516522+00:00",
+    "published": "2026-05-29T03:00:00+00:00"
+  },
+  "https://huggingface.co/blog/torch-profiler": {
+    "title": "Profiling in PyTorch (Part 1): A Beginner's Guide to torch.profiler",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-05-29T11:07:31.516522+00:00",
+    "published": "2026-05-29T00:00:00+00:00"
   }
 }
