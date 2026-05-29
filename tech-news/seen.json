@@ -29858,5 +29858,41 @@
     "source": "OpenAI Blog",
     "first_seen": "2026-05-29T07:06:29.845032+00:00",
     "published": "2026-05-28T00:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/Fedora-45-Considering-PURL": {
+    "title": "Fedora 45 Considering Use Of PURL Metadata For Uniquely Identifying Software Packages",
+    "source": "Phoronix",
+    "first_seen": "2026-05-29T10:17:59.631652+00:00",
+    "published": "2026-05-29T10:01:25+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.2-Sandy-Bridge-iGFX-Fix": {
+    "title": "Linux 7.2 To Bring Graphics Driver Fix For Old Integrated Graphics On Intel Sandy Bridge",
+    "source": "Phoronix",
+    "first_seen": "2026-05-29T10:17:59.631652+00:00",
+    "published": "2026-05-29T09:46:31+00:00"
+  },
+  "https://www.phoronix.com/news/Radeon-Software-Linux-26.12": {
+    "title": "Radeon Software For Linux 26.12 Brings Ubuntu 26.04 Support",
+    "source": "Phoronix",
+    "first_seen": "2026-05-29T10:17:59.631652+00:00",
+    "published": "2026-05-29T09:32:35+00:00"
+  },
+  "https://github.com/robinostlund/homeassistant-volkswagencarnet/issues/967": {
+    "title": "Volkswagen blocks Home Assistant by requiring client assertion",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-29T10:17:59.631652+00:00",
+    "published": "2026-05-29T05:45:36+00:00"
+  },
+  "https://github.com/HeidiSQL/HeidiSQL": {
+    "title": "HeidiSQL – Lightweight MariaDB, MySQL, SQL Server, PostgreSQL and SQLite Manager",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-29T10:17:59.631652+00:00",
+    "published": "2026-05-29T03:14:39+00:00"
+  },
+  "https://fabiensanglard.net/compile_like_1997": {
+    "title": "Let's compile Quake like it's 1997",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-29T10:17:59.631652+00:00",
+    "published": "2026-05-29T03:07:22+00:00"
   }
 }
