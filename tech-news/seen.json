@@ -30182,5 +30182,161 @@
     "source": "Golang Weekly",
     "first_seen": "2026-05-29T16:15:10.037571+00:00",
     "published": "2026-05-29T00:00:00+00:00"
+  },
+  "https://www.schneier.com/blog/archives/2026/05/friday-squid-blogging-another-squid.html": {
+    "title": "Friday Squid Blogging: Another Squid",
+    "source": "Schneier on Security",
+    "first_seen": "2026-05-29T21:32:10.283985+00:00",
+    "published": "2026-05-29T21:05:33+00:00"
+  },
+  "https://dles.gg/blog/dles-gg-manifesto": {
+    "title": "Why I collect DLES",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-29T21:32:10.283985+00:00",
+    "published": "2026-05-29T20:40:38+00:00"
+  },
+  "https://characters.fastserial.com": {
+    "title": "A Trillion Characters",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-29T21:32:10.283985+00:00",
+    "published": "2026-05-29T20:32:56+00:00"
+  },
+  "https://www.cbc.ca/news/business/recession-gdp-may-2026-statscan-9.7216352": {
+    "title": "Canada in Technical Recession",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-29T21:32:10.283985+00:00",
+    "published": "2026-05-29T20:23:33+00:00"
+  },
+  "https://www.invenglobal.com/articles/22330/stop-killing-games-movement-gains-momentum-california-assembly-passes-game-protection-bill": {
+    "title": "The California State Assembly Has Passed the 'Protect Our Games Act'",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-29T21:32:10.283985+00:00",
+    "published": "2026-05-29T19:55:56+00:00"
+  },
+  "https://github.com/jmaczan/tiny-vllm": {
+    "title": "Show HN: Tiny-vLLM – high performance LLM inference engine in C++ and CUDA",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-29T21:32:10.283985+00:00",
+    "published": "2026-05-29T19:38:27+00:00"
+  },
+  "https://www.theregister.com/security/2026/05/28/microsoft-0-day-feud-escalates-as-researcher-threatens-another-windows-exploit-dump/5248085": {
+    "title": "Microsoft 0-day feud escalates as researcher threatens another exploit dump",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-29T21:32:10.283985+00:00",
+    "published": "2026-05-29T19:37:41+00:00"
+  },
+  "https://pierre.computer/writing/on-rendering-diffs": {
+    "title": "On Rendering Diffs",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-29T21:32:10.283985+00:00",
+    "published": "2026-05-29T19:04:54+00:00"
+  },
+  "https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz": {
+    "title": "Take our I/O 2026 quiz, vibe coded in Google AI Studio.",
+    "source": "Google AI Blog",
+    "first_seen": "2026-05-29T21:32:10.283985+00:00",
+    "published": "2026-05-29T19:00:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/containers/scaling-apache-starrocks-on-amazon-eks-with-keda-and-karpenter-for-enterprise-olap-workloads": {
+    "title": "Scaling StarRocks on Amazon EKS with KEDA and Karpenter for enterprise OLAP workloads",
+    "source": "AWS Containers Blog",
+    "first_seen": "2026-05-29T21:32:10.283985+00:00",
+    "published": "2026-05-29T18:57:30+00:00"
+  },
+  "https://www.phoronix.com/news/Fwupd-2.1.4-Released": {
+    "title": "Fwupd 2.1.4 Brings Many Fixes For Bugs Spotted By Anthrophic's Mythos, Firmware Update Support For Intel Arc Pro B65/B70",
+    "source": "Phoronix",
+    "first_seen": "2026-05-29T21:32:10.283985+00:00",
+    "published": "2026-05-29T18:41:41+00:00"
+  },
+  "https://www.phoronix.com/news/AMD-ROCm-7.2.4": {
+    "title": "AMD ROCm 7.2.4 Released With Performance & Stability Fixes",
+    "source": "Phoronix",
+    "first_seen": "2026-05-29T21:32:10.283985+00:00",
+    "published": "2026-05-29T18:34:14+00:00"
+  },
+  "https://rothko.joonas.wtf": {
+    "title": "Rothko for your current weather conditions",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-29T21:32:10.283985+00:00",
+    "published": "2026-05-29T18:31:52+00:00"
+  },
+  "https://www.databricks.com/blog/databricks-sigmod-2026": {
+    "title": "Databricks at SIGMOD 2026",
+    "source": "Databricks Blog",
+    "first_seen": "2026-05-29T21:32:10.283985+00:00",
+    "published": "2026-05-29T18:28:00+00:00"
+  },
+  "https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows": {
+    "title": "SQLite is all you need for durable workflows",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-29T21:32:10.283985+00:00",
+    "published": "2026-05-29T17:54:50+00:00"
+  },
+  "https://techcrunch.com/2026/05/27/robinhood-now-lets-your-ai-agents-trade-stocks": {
+    "title": "Robinhood now lets your AI agents trade stocks",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-29T21:32:10.283985+00:00",
+    "published": "2026-05-29T17:46:27+00:00"
+  },
+  "https://wellsoc.org/society-member-pages/anecdotes-of-wellington": {
+    "title": "Letter from the Duke of Wellington to the British Foreign Office (1809)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-29T21:32:10.283985+00:00",
+    "published": "2026-05-29T17:39:49+00:00"
+  },
+  "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-3-5-videos": {
+    "title": "9 demos of Gemini Omni and Gemini 3.5 in action",
+    "source": "Google AI Blog",
+    "first_seen": "2026-05-29T21:32:10.283985+00:00",
+    "published": "2026-05-29T17:30:00+00:00"
+  },
+  "https://stratechery.com/2026/luceing-their-mind": {
+    "title": "2026.22: Luceing Their Mind",
+    "source": "Stratechery",
+    "first_seen": "2026-05-29T21:32:10.283985+00:00",
+    "published": "2026-05-29T17:00:00+00:00"
+  },
+  "https://lwn.net/Articles/1070218": {
+    "title": "[$] A trademark dispute over MeshCore",
+    "source": "LWN.net",
+    "first_seen": "2026-05-29T21:32:10.283985+00:00",
+    "published": "2026-05-29T16:41:06+00:00"
+  },
+  "https://tvexplorer.live": {
+    "title": "Show HN: TV Explorer. Adding advanced UI to free online TV",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-29T21:32:10.283985+00:00",
+    "published": "2026-05-29T16:39:09+00:00"
+  },
+  "https://koenvangilst.nl/lab/mistral-ai-now-summit": {
+    "title": "Notes from the Mistral AI Now Summit in Paris",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-29T21:32:10.283985+00:00",
+    "published": "2026-05-29T16:22:01+00:00"
+  },
+  "https://www.liquid.ai/blog/lfm2-5-8b-a1b": {
+    "title": "Liquid AI reveals 8B-A1B MoE trained on 38T",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-29T21:32:10.283985+00:00",
+    "published": "2026-05-29T16:19:54+00:00"
+  },
+  "https://research.roundtable.ai/captchas-detect-ai": {
+    "title": "CAPTCHAs can still detect AI agents",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-29T21:32:10.283985+00:00",
+    "published": "2026-05-29T15:57:37+00:00"
+  },
+  "https://openai.com/index/braintrust": {
+    "title": "How Braintrust turns customer requests into code with Codex",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-05-29T21:32:10.283985+00:00",
+    "published": "2026-05-29T12:00:00+00:00"
+  },
+  "https://openai.com/index/trustworthy-third-party-evaluations-foundations": {
+    "title": "A shared playbook for trustworthy third party evaluations",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-05-29T21:32:10.283985+00:00",
+    "published": "2026-05-29T00:00:00+00:00"
   }
 }
