@@ -30386,5 +30386,59 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-05-29T23:07:31.730186+00:00",
     "published": "2026-05-29T15:54:28+00:00"
+  },
+  "https://www.phoronix.com/news/SteamOS-3.8.6-Beta": {
+    "title": "SteamOS 3.8.6 Beta Released With Initial Native Support For AMD HDMI VRR",
+    "source": "Phoronix",
+    "first_seen": "2026-05-30T03:06:21.677197+00:00",
+    "published": "2026-05-30T02:33:40+00:00"
+  },
+  "https://www.nippon.com/en/japan-data/h02783": {
+    "title": "Naphtha Shortages Having a Growing Impact in Japan",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-30T03:06:21.677197+00:00",
+    "published": "2026-05-30T02:20:40+00:00"
+  },
+  "https://www.scientificamerican.com/article/white-house-proposes-new-rules-giving-political-appointees-final-say-on-research-grants": {
+    "title": "WH proposes rules giving political appointees final approval on research grants",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-30T03:06:21.677197+00:00",
+    "published": "2026-05-30T01:39:52+00:00"
+  },
+  "https://www.phoronix.com/news/Ubuntu-26.10-Snapshot-1": {
+    "title": "Ubuntu 26.10 Snapshot 1 Released For Testing",
+    "source": "Phoronix",
+    "first_seen": "2026-05-30T03:06:21.677197+00:00",
+    "published": "2026-05-30T00:14:36+00:00"
+  },
+  "https://blog.emberjs.com/ember-released-7-0": {
+    "title": "Ember.js 7.0",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-30T03:06:21.677197+00:00",
+    "published": "2026-05-29T23:57:45+00:00"
+  },
+  "https://daringfireball.net/2026/05/what_is_a_dickover": {
+    "title": "What Is a Dickover?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-30T03:06:21.677197+00:00",
+    "published": "2026-05-29T23:54:22+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/comprehensive-observability-for-amazon-sagemaker-ai-llm-inference-from-gpu-utilization-to-llm-quality": {
+    "title": "Comprehensive observability for Amazon SageMaker AI LLM inference: From GPU utilization to LLM quality",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-05-30T03:06:21.677197+00:00",
+    "published": "2026-05-29T23:36:58+00:00"
+  },
+  "https://www.quandri.io/engineering-blog/mcp-is-dead": {
+    "title": "MCP is dead?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-30T03:06:21.677197+00:00",
+    "published": "2026-05-29T22:56:49+00:00"
+  },
+  "https://www.databricks.com/blog/enabling-evolutionary-database-development-database-branching-lakebase": {
+    "title": "Enabling Evolutionary Database Development: database branching with Lakebase",
+    "source": "Databricks Blog",
+    "first_seen": "2026-05-30T03:06:21.677197+00:00",
+    "published": "2026-05-29T22:04:37+00:00"
   }
 }
