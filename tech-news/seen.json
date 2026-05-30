@@ -30470,5 +30470,137 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-05-30T09:34:40.289478+00:00",
     "published": "2026-05-30T06:00:32+00:00"
+  },
+  "https://s-macke.github.io/VoxelSpace": {
+    "title": "Voxel Space",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-30T15:23:24.366752+00:00",
+    "published": "2026-05-30T14:25:50+00:00"
+  },
+  "https://www.phoronix.com/news/NixOS-26.05-Released": {
+    "title": "NixOS 26.05 Released With 20,442 New Packages, Stage 1 Now Based On systemd By Default",
+    "source": "Phoronix",
+    "first_seen": "2026-05-30T15:23:24.366752+00:00",
+    "published": "2026-05-30T14:05:39+00:00"
+  },
+  "https://news.northwestern.edu/stories/2026/05/memory-decline-after-menopause-linked-to-loss-of-estrogen-production-in-brain-tissue": {
+    "title": "Memory decline after menopause linked to loss of estrogen production in brain",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-30T15:23:24.366752+00:00",
+    "published": "2026-05-30T14:03:31+00:00"
+  },
+  "https://qazinform.com/news/anthropic-surpasses-openai-to-become-worlds-most-valuable-ai-startup": {
+    "title": "Anthropic surpasses OpenAI to become most valuable AI startup",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-30T15:23:24.366752+00:00",
+    "published": "2026-05-30T13:56:34+00:00"
+  },
+  "https://www.phoronix.com/news/More-AMDGPU-For-Linux-7.2": {
+    "title": "AMD Submits More Graphics Driver Changes For Linux 7.2",
+    "source": "Phoronix",
+    "first_seen": "2026-05-30T15:23:24.366752+00:00",
+    "published": "2026-05-30T13:39:15+00:00"
+  },
+  "https://thenewstack.io/frontier-llm-factcheck-disagreement": {
+    "title": "Why GPT-5.4, Claude, and Gemini can’t agree on basic, real-world facts",
+    "source": "The New Stack",
+    "first_seen": "2026-05-30T15:23:24.366752+00:00",
+    "published": "2026-05-30T13:11:27+00:00"
+  },
+  "https://thenewstack.io/replit-visa-ai-payments": {
+    "title": "Replit’s vibe coding platform just got a Visa-backed identity layer for AI agents — and it changes how agents spend money",
+    "source": "The New Stack",
+    "first_seen": "2026-05-30T15:23:24.366752+00:00",
+    "published": "2026-05-30T12:47:35+00:00"
+  },
+  "https://www.wsj.com/tech/ai/corporate-america-is-starting-to-ration-ai-as-cost-skyrockets-1eb99d7a": {
+    "title": "Corporate America Is Starting to Ration AI as Cost Skyrockets",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-30T15:23:24.366752+00:00",
+    "published": "2026-05-30T12:17:33+00:00"
+  },
+  "https://www.construction-physics.com/p/reading-list-053026": {
+    "title": "Reading List 05/30/26",
+    "source": "Construction Physics",
+    "first_seen": "2026-05-30T15:23:24.366752+00:00",
+    "published": "2026-05-30T12:02:52+00:00"
+  },
+  "https://arstechnica.com/science/2026/05/the-office-of-management-and-budget-tries-again-to-cripple-us-science": {
+    "title": "Proposed new US funding rules: We can cancel any grant at any time",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-30T15:23:24.366752+00:00",
+    "published": "2026-05-30T11:41:29+00:00"
+  },
+  "https://helios.southlondonscientific.com": {
+    "title": "Show HN: Helios – what plug-in solar could generate for any address in Britain",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-30T15:23:24.366752+00:00",
+    "published": "2026-05-30T11:08:37+00:00"
+  },
+  "https://github.com/kristapsdz/openrsync": {
+    "title": "Openrsync: An implementation of rsync, by the OpenBSD team",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-30T15:23:24.366752+00:00",
+    "published": "2026-05-30T10:51:48+00:00"
+  },
+  "https://www.phoronix.com/news/AMD-Expands-Zen-6-Family-Linux": {
+    "title": "AMD Expands The Range Of Zen 6 CPUs Detected By The Linux Kernel",
+    "source": "Phoronix",
+    "first_seen": "2026-05-30T15:23:24.366752+00:00",
+    "published": "2026-05-30T10:47:33+00:00"
+  },
+  "https://www.phoronix.com/news/G7-On-Open-Source-AI": {
+    "title": "G7 Agrees On Shared Language Around Open-Source AI, Open Weights AI",
+    "source": "Phoronix",
+    "first_seen": "2026-05-30T15:23:24.366752+00:00",
+    "published": "2026-05-30T10:44:13+00:00"
+  },
+  "https://www.economist.com/europe/2026/05/28/leos-first-encyclical-attacks-technological-messianism": {
+    "title": "Leo's first encyclical attacks technological messianism",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-30T15:23:24.366752+00:00",
+    "published": "2026-05-30T10:30:50+00:00"
+  },
+  "https://thenewstack.io/opus-4-8-claude-smarter-token-discipline-urgent": {
+    "title": "Opus 4.8 Made Claude Smarter. Token Discipline Got Urgent.",
+    "source": "The New Stack",
+    "first_seen": "2026-05-30T15:23:24.366752+00:00",
+    "published": "2026-05-30T10:27:00+00:00"
+  },
+  "https://www.phoronix.com/news/GNOME-Circle-No-AI-Slop": {
+    "title": "GNOME Circle Takes Stand Against AI Slop, Resources App Makes It Into GNOME Incubator",
+    "source": "Phoronix",
+    "first_seen": "2026-05-30T15:23:24.366752+00:00",
+    "published": "2026-05-30T10:12:08+00:00"
+  },
+  "https://www.phoronix.com/news/Plasma-6.7-Beta-2-Week": {
+    "title": "Plasma 6.6, 6.7 & 6.8 See Plenty Of Bug Fixing This Week",
+    "source": "Phoronix",
+    "first_seen": "2026-05-30T15:23:24.366752+00:00",
+    "published": "2026-05-30T09:57:13+00:00"
+  },
+  "https://pandoc-templates.org": {
+    "title": "Pandoc Templates",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-30T15:23:24.366752+00:00",
+    "published": "2026-05-30T09:56:42+00:00"
+  },
+  "https://www.phoronix.com/news/Genode-OS-26.05-Released": {
+    "title": "Genode OS 26.05 Released, Finishes Moving From GitHub To Codeberg",
+    "source": "Phoronix",
+    "first_seen": "2026-05-30T15:23:24.366752+00:00",
+    "published": "2026-05-30T09:46:11+00:00"
+  },
+  "https://ziglang.org/devlog/2026": {
+    "title": "Zig: Build System Reworked",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-30T15:23:24.366752+00:00",
+    "published": "2026-05-30T08:38:28+00:00"
+  },
+  "https://github.com/mplsllc/macsurf": {
+    "title": "Macsurf, \"modern\" web browser for macOS 9",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-30T15:23:24.366752+00:00",
+    "published": "2026-05-30T06:58:23+00:00"
   }
 }
