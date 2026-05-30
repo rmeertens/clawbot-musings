@@ -30440,5 +30440,11 @@
     "source": "Databricks Blog",
     "first_seen": "2026-05-30T03:06:21.677197+00:00",
     "published": "2026-05-29T22:04:37+00:00"
+  },
+  "https://www.perryts.com": {
+    "title": "Perry Compiles TypeScript directly to executables using SWC and LLVM",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-30T07:06:56.083156+00:00",
+    "published": "2026-05-30T03:14:25+00:00"
   }
 }
