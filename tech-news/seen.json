@@ -30674,5 +30674,77 @@
     "source": "Azure Blog",
     "first_seen": "2026-05-30T19:08:44.191348+00:00",
     "published": "2026-05-29T14:46:32+00:00"
+  },
+  "https://simonwillison.net/2026/May/30/pyodide-asgi-browser": {
+    "title": "Running Python ASGI apps in the browser via Pyodide + a service worker",
+    "source": "Simon Willison",
+    "first_seen": "2026-05-30T21:18:22.936374+00:00",
+    "published": "2026-05-30T21:02:16+00:00"
+  },
+  "https://github.com/arunkatherashala/Kore": {
+    "title": "Kore: Binary File Format Optimized for Modern Data Systems (Open Source)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-30T21:18:22.936374+00:00",
+    "published": "2026-05-30T20:54:22+00:00"
+  },
+  "https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat": {
+    "title": "Domain expertise has always been the real moat",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-30T21:18:22.936374+00:00",
+    "published": "2026-05-30T20:40:57+00:00"
+  },
+  "https://twilitrealm.dev": {
+    "title": "Dusklight – GC Twilight Princess Decompiled",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-30T21:18:22.936374+00:00",
+    "published": "2026-05-30T20:24:26+00:00"
+  },
+  "https://oxide.computer/blog/cosmo-sp": {
+    "title": "A disappearing Service Processor (2025)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-30T21:18:22.936374+00:00",
+    "published": "2026-05-30T20:05:21+00:00"
+  },
+  "https://remyhax.xyz/posts/reproducing-lawful-tls-wiretapping": {
+    "title": "Parallel Reconstruction of Lawful TLS Wiretapping",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-30T21:18:22.936374+00:00",
+    "published": "2026-05-30T19:47:36+00:00"
+  },
+  "https://lowendmac.com/2013/jef-raskin-the-visionary-behind-the-mac": {
+    "title": "Jef Raskin, the Visionary Behind the Mac (2013)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-30T21:18:22.936374+00:00",
+    "published": "2026-05-30T19:42:33+00:00"
+  },
+  "https://simonwillison.net/2026/May/30/retiring-from-tech-to-live-offline": {
+    "title": "I Am Retiring from Tech to Live Offline",
+    "source": "Simon Willison",
+    "first_seen": "2026-05-30T21:18:22.936374+00:00",
+    "published": "2026-05-30T19:39:08+00:00"
+  },
+  "https://ajin.im/is/building/omen.ops": {
+    "title": "Show HN: 500 years of Joseon court omens as an observability dashboard",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-30T21:18:22.936374+00:00",
+    "published": "2026-05-30T19:23:36+00:00"
+  },
+  "https://gptzero.me/investigations/ey": {
+    "title": "EY Canada published a cybersecurity report and most citations were hallucinated",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-30T21:18:22.936374+00:00",
+    "published": "2026-05-30T19:02:54+00:00"
+  },
+  "https://www.tonyrice.me/emotional-intelligence": {
+    "title": "We are constantly broadcasting emotional data",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-30T21:18:22.936374+00:00",
+    "published": "2026-05-30T18:19:44+00:00"
+  },
+  "https://newsroom.accenture.com/news/2026/accenture-to-acquire-ookla-to-strengthen-network-intelligence-and-experience-with-data-and-ai-for-enterprises": {
+    "title": "Accenture to acquire Ookla",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-30T21:18:22.936374+00:00",
+    "published": "2026-05-30T16:28:58+00:00"
   }
 }
