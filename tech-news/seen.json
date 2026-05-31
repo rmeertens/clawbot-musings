@@ -30770,5 +30770,47 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-05-30T23:05:32.215478+00:00",
     "published": "2026-05-30T19:05:29+00:00"
+  },
+  "https://simonwillison.net/2026/May/31/anthropic-run-rate": {
+    "title": "Quoting Karen Kwok for Reuters Breakingviews",
+    "source": "Simon Willison",
+    "first_seen": "2026-05-31T03:05:28.065137+00:00",
+    "published": "2026-05-31T01:48:12+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.1-rc6-USB": {
+    "title": "Various USB Quirks Merged Ahead Of Linux 7.1-rc6",
+    "source": "Phoronix",
+    "first_seen": "2026-05-31T03:05:28.065137+00:00",
+    "published": "2026-05-31T00:53:56+00:00"
+  },
+  "https://consumerrights.wiki/w/Microsoft_Office_2019_and_2021_for_Mac_view-only_conversion_(2026)": {
+    "title": "Microsoft degrades functionality of perpetually-licensed offline products",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-31T03:05:28.065137+00:00",
+    "published": "2026-05-30T23:26:13+00:00"
+  },
+  "https://brie.gay/cheese-paper": {
+    "title": "Cheese Paper: a text editor specifically designed for writing",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-31T03:05:28.065137+00:00",
+    "published": "2026-05-30T22:58:41+00:00"
+  },
+  "https://shantellsans.com/process": {
+    "title": "Shantell Sans",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-31T03:05:28.065137+00:00",
+    "published": "2026-05-30T22:06:38+00:00"
+  },
+  "https://av2.aomedia.org": {
+    "title": "The AV2 Video Standard Has Released (Final v1.0 Specification)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-31T03:05:28.065137+00:00",
+    "published": "2026-05-30T21:46:18+00:00"
+  },
+  "https://arxiv.org/abs/2605.29135": {
+    "title": "Rotary GPU: Exploring Local Execution for Large MoE Models Under Limited VRAM",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-31T03:05:28.065137+00:00",
+    "published": "2026-05-30T21:05:40+00:00"
   }
 }
