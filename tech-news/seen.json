@@ -31118,5 +31118,41 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-05-31T21:18:24.966926+00:00",
     "published": "2026-05-31T15:50:34+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.1-rc6-Released": {
+    "title": "Linux 7.1-rc6 Released Following Another \"Larger-Than-I'd-Wish-For Size\" Week",
+    "source": "Phoronix",
+    "first_seen": "2026-05-31T23:07:23.718105+00:00",
+    "published": "2026-05-31T22:39:55+00:00"
+  },
+  "https://mail.cyberneticforests.com/its-not-just-data-its-post-training": {
+    "title": "It's Not Just X. It's Y",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-31T23:07:23.718105+00:00",
+    "published": "2026-05-31T21:57:48+00:00"
+  },
+  "https://peninsulaforeveryone.org/blog/atherton-spent-145k-to-delay-caltrain-electrification-the-rest-of-us-paid-400-million-and-waited-3-extra-years": {
+    "title": "Atherton spent $145K to delay train electrification. The rest of us paid $400M",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-31T23:07:23.718105+00:00",
+    "published": "2026-05-31T21:55:33+00:00"
+  },
+  "https://arstechnica.com/health/2026/05/us-healthcare-still-stupidly-expensive-with-pathetic-outcomes-study-finds": {
+    "title": "US healthcare still stupidly expensive, with pathetic outcomes, study finds",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-31T23:07:23.718105+00:00",
+    "published": "2026-05-31T20:41:10+00:00"
+  },
+  "https://www.sciencedaily.com/releases/2026/05/260530053418.htm": {
+    "title": "New solar desalination breakthrough makes fresh water without toxic brine",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-31T23:07:23.718105+00:00",
+    "published": "2026-05-31T20:38:52+00:00"
+  },
+  "https://www.promptarmor.com/resources/gpt-for-google-sheets-data-exfiltration": {
+    "title": "ChatGPT for Google Sheets Exfiltrates Workbooks",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-31T23:07:23.718105+00:00",
+    "published": "2026-05-31T20:35:38+00:00"
   }
 }
