@@ -30992,5 +30992,95 @@
     "source": "Astro Blog",
     "first_seen": "2026-05-31T15:25:39.255820+00:00",
     "published": "2026-05-31T00:00:00+00:00"
+  },
+  "https://lwn.net/Articles/104185": {
+    "title": "Re: [PATCH] OOM_pardon, a.k.a. don't kill my xlock",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-31T19:08:59.190170+00:00",
+    "published": "2026-05-31T17:58:15+00:00"
+  },
+  "https://www.phoronix.com/news/KDE-Linux-May-2026": {
+    "title": "KDE Linux Prunes Its Insecure & Unused Software",
+    "source": "Phoronix",
+    "first_seen": "2026-05-31T19:08:59.190170+00:00",
+    "published": "2026-05-31T17:08:48+00:00"
+  },
+  "https://deflock.org": {
+    "title": "Deflock hits 100k ALPRs Mapped in USA",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-31T19:08:59.190170+00:00",
+    "published": "2026-05-31T17:04:10+00:00"
+  },
+  "https://thenewstack.io/nanoclaw-openclaw-agent-security": {
+    "title": "Gavriel Cohen found his own code inside OpenClaw, so he walked away",
+    "source": "The New Stack",
+    "first_seen": "2026-05-31T19:08:59.190170+00:00",
+    "published": "2026-05-31T17:00:00+00:00"
+  },
+  "https://darylcecile.net/notes/speed-of-prototyping-age-of-ai": {
+    "title": "The Speed of Prototyping in the Age of AI",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-31T19:08:59.190170+00:00",
+    "published": "2026-05-31T16:37:34+00:00"
+  },
+  "https://simonwillison.net/2026/May/31/the-solution-might-be-cancelling-my-ai-subscription": {
+    "title": "The solution might be cancelling my AI subscription",
+    "source": "Simon Willison",
+    "first_seen": "2026-05-31T19:08:59.190170+00:00",
+    "published": "2026-05-31T16:31:32+00:00"
+  },
+  "https://thesciverse.org/scientists-found-that-the-creatine-supplement-millions-take-for-muscle-gains-is-quietly-raising-brain-energy-levels-and-slowing-early-alzheimers-cognitive-decline-by-30": {
+    "title": "Creatine raise brain energy levels and slow Alzheimer's cognitive decline by 30%",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-31T19:08:59.190170+00:00",
+    "published": "2026-05-31T16:19:34+00:00"
+  },
+  "https://thenewstack.io/ai-retrieval-at-scale": {
+    "title": "AI retrieval at scale is becoming a systems problem, not a tooling problem",
+    "source": "The New Stack",
+    "first_seen": "2026-05-31T19:08:59.190170+00:00",
+    "published": "2026-05-31T16:00:00+00:00"
+  },
+  "https://github.com/MichalStrehovsky/chibil": {
+    "title": "Chibil: A C compiler targeting .NET IL",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-31T19:08:59.190170+00:00",
+    "published": "2026-05-31T15:46:32+00:00"
+  },
+  "https://www.theguardian.com/society/2026/may/31/daily-pill-daraxonrasib-double-survival-time-pancreatic-pancreas-cancer-clinical-trial": {
+    "title": "Daily pill can double survival time for deadliest cancer, trial shows",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-31T19:08:59.190170+00:00",
+    "published": "2026-05-31T15:43:29+00:00"
+  },
+  "https://prismml.com/news/bonsai-image-4b": {
+    "title": "1-Bit Bonsai Image 4B Image Generation for Local Devices",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-31T19:08:59.190170+00:00",
+    "published": "2026-05-31T15:04:52+00:00"
+  },
+  "https://justine.lol/rseq": {
+    "title": "Restartable Sequences",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-31T19:08:59.190170+00:00",
+    "published": "2026-05-31T14:38:48+00:00"
+  },
+  "https://hannesweissteiner.com/pdfs/frost.pdf": {
+    "title": "FROST: Fingerprinting Remotely using OPFS-based SSD Timing [pdf]",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-31T19:08:59.190170+00:00",
+    "published": "2026-05-31T14:10:36+00:00"
+  },
+  "https://simpleflying.com/united-airlines-767-returns-newark-bluetooth-name-alert": {
+    "title": "United Airlines 767 returns to Newark after Bluetooth name sparks alert",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-31T19:08:59.190170+00:00",
+    "published": "2026-05-31T12:41:19+00:00"
+  },
+  "https://www.lucasfcosta.com/blog/backpressure-is-all-you-need": {
+    "title": "Backpressure is all you need",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-31T19:08:59.190170+00:00",
+    "published": "2026-05-31T12:11:27+00:00"
   }
 }
