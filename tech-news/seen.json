@@ -30878,5 +30878,119 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-05-31T09:51:41.792506+00:00",
     "published": "2026-05-30T20:30:53+00:00"
+  },
+  "https://thenewstack.io/diy-platform-burnout-trap": {
+    "title": "The DIY platform trap that’s burning out engineering teams",
+    "source": "The New Stack",
+    "first_seen": "2026-05-31T15:25:39.255820+00:00",
+    "published": "2026-05-31T15:00:00+00:00"
+  },
+  "https://www.uncannymagazine.com/article/folding-beijing-2": {
+    "title": "Folding Beijing",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-31T15:25:39.255820+00:00",
+    "published": "2026-05-31T14:51:04+00:00"
+  },
+  "https://thoughts.hmmz.org/2026-05-31.html": {
+    "title": "The solution might be cancelling my AI subscription",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-31T15:25:39.255820+00:00",
+    "published": "2026-05-31T14:23:30+00:00"
+  },
+  "https://www.vox.com/future-perfect/489976/ai-successionism-transhumanism-posthumanism": {
+    "title": "The people who actually want AI to replace humanity",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-31T15:25:39.255820+00:00",
+    "published": "2026-05-31T14:20:12+00:00"
+  },
+  "https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting": {
+    "title": "Cloudflare Turnstile requiring fingerprintable WebGL",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-31T15:25:39.255820+00:00",
+    "published": "2026-05-31T14:13:20+00:00"
+  },
+  "https://thenewstack.io/cursor-jira-integration-test": {
+    "title": "I tested Cursor’s new Jira integration and it’s 5 stars, no notes. Here’s why.",
+    "source": "The New Stack",
+    "first_seen": "2026-05-31T15:25:39.255820+00:00",
+    "published": "2026-05-31T14:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.1-rc6-Input": {
+    "title": "Linux 7.1-rc6 To Support The ASUS ROG RAIKIRI II & Nova 2 Lite Controllers",
+    "source": "Phoronix",
+    "first_seen": "2026-05-31T15:25:39.255820+00:00",
+    "published": "2026-05-31T13:59:06+00:00"
+  },
+  "https://blog.tymscar.com/posts/v100localllm": {
+    "title": "I Put a Datacenter GPU in My Gaming PC for £200",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-31T15:25:39.255820+00:00",
+    "published": "2026-05-31T13:53:16+00:00"
+  },
+  "https://www.phoronix.com/news/RNDIS-Disable-Linux-2026-Patch": {
+    "title": "Linux Might Finally Disable The Microsoft RNDIS Protocol Drivers In 2026",
+    "source": "Phoronix",
+    "first_seen": "2026-05-31T15:25:39.255820+00:00",
+    "published": "2026-05-31T13:28:41+00:00"
+  },
+  "https://paulgraham.com/boss.html": {
+    "title": "You Weren't Meant to Have a Boss (2008)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-31T15:25:39.255820+00:00",
+    "published": "2026-05-31T12:49:03+00:00"
+  },
+  "https://kenforthewin.github.io/atomic-editor": {
+    "title": "Show HN: Atomic Editor – Obsidian-style live preview for CodeMirror 6",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-31T15:25:39.255820+00:00",
+    "published": "2026-05-31T12:32:54+00:00"
+  },
+  "https://jbkempf.com/blog/2026/dav2d": {
+    "title": "Dav2d",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-31T15:25:39.255820+00:00",
+    "published": "2026-05-31T11:44:45+00:00"
+  },
+  "https://www.phoronix.com/news/Wine-Staging-11.10-Released": {
+    "title": "Wine-Staging 11.10 Fixes 14 Year Old Bug, Also Fixes Issue Of Some Games Being Too Dark",
+    "source": "Phoronix",
+    "first_seen": "2026-05-31T15:25:39.255820+00:00",
+    "published": "2026-05-31T11:28:01+00:00"
+  },
+  "https://www.phoronix.com/news/Servo-0.2-Released": {
+    "title": "Servo 0.2 Released With Revamped Android Browser UI",
+    "source": "Phoronix",
+    "first_seen": "2026-05-31T15:25:39.255820+00:00",
+    "published": "2026-05-31T11:01:42+00:00"
+  },
+  "https://www.phoronix.com/news/Zrythm-2.0-Alpha": {
+    "title": "Zrythm 2.0 Alpha Released For Rewriting The Digital Audio Workstation In C++ & Qt/QML",
+    "source": "Phoronix",
+    "first_seen": "2026-05-31T15:25:39.255820+00:00",
+    "published": "2026-05-31T10:47:34+00:00"
+  },
+  "https://brandur.org/minimum-viable-unit": {
+    "title": "The Minimum Viable Unit of Saleable Software",
+    "source": "Brandur",
+    "first_seen": "2026-05-31T15:25:39.255820+00:00",
+    "published": "2026-05-31T10:41:38+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.1-Hide-Docs-clearcpuid": {
+    "title": "Linux 7.1-rc6 To Hide The Documentation On \"clearcpuid\" Feature",
+    "source": "Phoronix",
+    "first_seen": "2026-05-31T15:25:39.255820+00:00",
+    "published": "2026-05-31T10:29:18+00:00"
+  },
+  "https://www.phoronix.com/news/AV2-1.0-Specification-Released": {
+    "title": "AV2 v1.0 Specification Released For Next-Gen Video Coding",
+    "source": "Phoronix",
+    "first_seen": "2026-05-31T15:25:39.255820+00:00",
+    "published": "2026-05-31T10:17:02+00:00"
+  },
+  "https://astro.build/blog/whats-new-may-2026": {
+    "title": "What's new in Astro - May 2026",
+    "source": "Astro Blog",
+    "first_seen": "2026-05-31T15:25:39.255820+00:00",
+    "published": "2026-05-31T00:00:00+00:00"
   }
 }
