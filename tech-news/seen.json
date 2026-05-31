@@ -31082,5 +31082,41 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-05-31T19:08:59.190170+00:00",
     "published": "2026-05-31T12:11:27+00:00"
+  },
+  "https://svelte.dev/blog/whats-new-in-svelte-june-2026": {
+    "title": "What’s new in Svelte: June 2026",
+    "source": "Svelte Blog",
+    "first_seen": "2026-05-31T21:18:24.966926+00:00",
+    "published": "2026-06-01T00:00:00+00:00"
+  },
+  "https://variety.com/2026/film/box-office/backrooms-box-office-record-opening-weekend-obsession-jumps-star-wars-crumbles-1236763355": {
+    "title": "'Backrooms' Stuns with $81M Debut",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-31T21:18:24.966926+00:00",
+    "published": "2026-05-31T19:27:44+00:00"
+  },
+  "https://twitter.com/i/status/2060746160558543217": {
+    "title": "Codex just found a \"workaround\" of not having sudo on my PC",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-31T21:18:24.966926+00:00",
+    "published": "2026-05-31T18:57:48+00:00"
+  },
+  "https://github.com/viggy28/streambed": {
+    "title": "Show HN: Streambed – Stream Postgres to Iceberg on S3, Supports Postgres Wire",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-31T21:18:24.966926+00:00",
+    "published": "2026-05-31T18:43:05+00:00"
+  },
+  "https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans": {
+    "title": "Meta launches Instagram, Facebook, and WhatsApp subscriptions",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-31T21:18:24.966926+00:00",
+    "published": "2026-05-31T17:02:23+00:00"
+  },
+  "https://github.com/pewdiepie-archdaemon/odysseus": {
+    "title": "Odysseus – self-hosted AI workspace",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-05-31T21:18:24.966926+00:00",
+    "published": "2026-05-31T15:50:34+00:00"
   }
 }
