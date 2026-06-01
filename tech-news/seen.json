@@ -31628,5 +31628,233 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-06-01T16:49:06.522298+00:00",
     "published": "2026-06-01T07:06:21+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/transforming-rare-cancer-research-with-amazon-quick-integrating-biomedical-databases-for-breakthrough-discoveries": {
+    "title": "Transforming rare cancer research with Amazon Quick: Integrating biomedical databases for breakthrough discoveries",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-06-01T21:59:40.608722+00:00",
+    "published": "2026-06-01T21:54:16+00:00"
+  },
+  "https://aws.amazon.com/blogs/architecture/scaling-oncology-patient-support-how-new-york-cancer-and-blood-specialists-transformed-customer-experience-with-aws-and-pronetx-now-part-of-caylent": {
+    "title": "Scaling oncology patient support: How New York Cancer and Blood Specialists transformed customer experience with AWS and Pronetx, now part of Caylent",
+    "source": "AWS Architecture Blog",
+    "first_seen": "2026-06-01T21:59:40.608722+00:00",
+    "published": "2026-06-01T21:45:52+00:00"
+  },
+  "https://aws.amazon.com/blogs/aws/get-started-with-openai-gpt-5-5-gpt-5-4-models-and-codex-on-amazon-bedrock": {
+    "title": "Get started with OpenAI GPT-5.5, GPT-5.4 models, and Codex on Amazon Bedrock",
+    "source": "AWS Blog",
+    "first_seen": "2026-06-01T21:59:40.608722+00:00",
+    "published": "2026-06-01T21:33:28+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/openai-models-and-codex-on-amazon-bedrock-are-now-generally-available": {
+    "title": "OpenAI models and Codex on Amazon Bedrock are now generally available",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-06-01T21:59:40.608722+00:00",
+    "published": "2026-06-01T21:31:12+00:00"
+  },
+  "https://www.phoronix.com/news/Intel-Diamond-Rapids-EDAC-RRL": {
+    "title": "Intel Xeon Diamond Rapids EDAC Driver Changes Readied For Linux 7.2",
+    "source": "Phoronix",
+    "first_seen": "2026-06-01T21:59:40.608722+00:00",
+    "published": "2026-06-01T21:27:47+00:00"
+  },
+  "https://simonwillison.net/2026/Jun/1/hackers-simply-asked-meta-ai": {
+    "title": "Hackers Simply Asked Meta AI to Give Them Access to High-Profile Instagram Accounts. It Worked",
+    "source": "Simon Willison",
+    "first_seen": "2026-06-01T21:59:40.608722+00:00",
+    "published": "2026-06-01T21:14:47+00:00"
+  },
+  "https://thenewstack.io/cisco-frontier-ai-models-fail": {
+    "title": "OpenAI, Anthropic, Google, Amazon, and xAI all fail on type of attack, study finds",
+    "source": "The New Stack",
+    "first_seen": "2026-06-01T21:59:40.608722+00:00",
+    "published": "2026-06-01T21:01:11+00:00"
+  },
+  "https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-Proposed-80-Billion-Equity-Capital-Raise-to-Expand-AI-Infrastructure-and-Compute-2026-b0myAMewCa/default.aspx": {
+    "title": "Alphabet announces $80B equity capital raise to expand AI infra and compute",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-01T21:59:40.608722+00:00",
+    "published": "2026-06-01T20:55:15+00:00"
+  },
+  "https://lwn.net/Articles/1075832": {
+    "title": "Ombredanne: An AI agent ported our codebase from Python to Rust",
+    "source": "LWN.net",
+    "first_seen": "2026-06-01T21:59:40.608722+00:00",
+    "published": "2026-06-01T20:55:10+00:00"
+  },
+  "https://thenewstack.io/jetbrains-mellum2-open-source-coding-model": {
+    "title": "JetBrains open-sources Mellum2 to go where Claude Code can’t",
+    "source": "The New Stack",
+    "first_seen": "2026-06-01T21:59:40.608722+00:00",
+    "published": "2026-06-01T20:47:26+00:00"
+  },
+  "https://debug.com": {
+    "title": "Debug Project",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-01T21:59:40.608722+00:00",
+    "published": "2026-06-01T20:40:13+00:00"
+  },
+  "https://aws.amazon.com/blogs/compute/multi-region-event-driven-failover-architecture-with-amazon-eventbridge-and-route-53": {
+    "title": "Multi-Region event-driven failover architecture with Amazon EventBridge and Route 53",
+    "source": "AWS Compute Blog",
+    "first_seen": "2026-06-01T21:59:40.608722+00:00",
+    "published": "2026-06-01T19:10:44+00:00"
+  },
+  "https://lwn.net/Articles/1073762": {
+    "title": "[$] Representing the true signatures of kernel functions",
+    "source": "LWN.net",
+    "first_seen": "2026-06-01T21:59:40.608722+00:00",
+    "published": "2026-06-01T18:59:43+00:00"
+  },
+  "https://eblog.fly.dev/githubbad.html": {
+    "title": "GitHub and the crime against software",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-01T21:59:40.608722+00:00",
+    "published": "2026-06-01T18:54:55+00:00"
+  },
+  "https://www.gettextile.app": {
+    "title": "Show HN: Textile – A desktop app for weaving together bits of text",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-01T21:59:40.608722+00:00",
+    "published": "2026-06-01T18:54:12+00:00"
+  },
+  "https://discuss.grapheneos.org/d/36001-grapheneos-speech-services-version-2-released": {
+    "title": "GrapheneOS Speech Services version 2 released",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-01T21:59:40.608722+00:00",
+    "published": "2026-06-01T18:39:53+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/capture-data-lineage-of-amazon-emr-spark-jobs-into-amazon-sagemaker-unified-studio": {
+    "title": "Capture data lineage of Amazon EMR spark jobs into Amazon SageMaker Unified Studio",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-06-01T21:59:40.608722+00:00",
+    "published": "2026-06-01T18:37:47+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/extending-mcp-support-for-amazon-bedrock-agentcore-gateway-2": {
+    "title": "Extending MCP support for Amazon Bedrock AgentCore Gateway",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-06-01T21:59:40.608722+00:00",
+    "published": "2026-06-01T18:35:03+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/accelerating-developer-productivity-in-the-agentic-ai-era-with-amazon-aurora-postgresql": {
+    "title": "Accelerating developer productivity in the agentic AI era with Amazon Aurora PostgreSQL",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-06-01T21:59:40.608722+00:00",
+    "published": "2026-06-01T18:34:47+00:00"
+  },
+  "https://kubernetes.io/blog/2026/06/01/dashboard-to-headlamp": {
+    "title": "From Kubernetes Dashboard to Headlamp: Understanding the Transition",
+    "source": "Kubernetes Blog",
+    "first_seen": "2026-06-01T21:59:40.608722+00:00",
+    "published": "2026-06-01T18:00:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/secure-ai-agents-with-policy-and-lambda-interceptors-in-amazon-bedrock-agentcore-gateway": {
+    "title": "Secure AI agents with Policy and Lambda interceptors in Amazon Bedrock AgentCore gateway",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-06-01T21:59:40.608722+00:00",
+    "published": "2026-06-01T17:54:22+00:00"
+  },
+  "https://idlewords.com/talks/superintelligence.htm": {
+    "title": "Superintelligence: The Idea That Eats Smart People (2016)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-01T21:59:40.608722+00:00",
+    "published": "2026-06-01T17:43:07+00:00"
+  },
+  "https://lwn.net/Articles/1075806": {
+    "title": "Seven stable kernels for the first day of June",
+    "source": "LWN.net",
+    "first_seen": "2026-06-01T21:59:40.608722+00:00",
+    "published": "2026-06-01T17:38:56+00:00"
+  },
+  "https://30fps.net/pages/255-vs-256-division": {
+    "title": "Should you normalize RGB values by 255 or 256?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-01T21:59:40.608722+00:00",
+    "published": "2026-06-01T17:37:20+00:00"
+  },
+  "https://krebsonsecurity.com/2026/06/hackers-used-metas-ai-support-bot-to-seize-instagram-accounts": {
+    "title": "Hackers Used Meta’s AI Support Bot to Seize Instagram Accounts",
+    "source": "Krebs on Security",
+    "first_seen": "2026-06-01T21:59:40.608722+00:00",
+    "published": "2026-06-01T17:32:50+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/enable-safe-agentic-payments-with-built-in-guardrails-using-amazon-bedrock-agentcore-payments": {
+    "title": "Enable safe agentic payments with built-in guardrails using Amazon Bedrock AgentCore payments",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-06-01T21:59:40.608722+00:00",
+    "published": "2026-06-01T17:30:12+00:00"
+  },
+  "https://thenewstack.io/claude-code-vs-cursor-vs-codex-vs-antigravity-2026": {
+    "title": "Claude Code vs. Cursor vs. Codex vs. Antigravity — six months in",
+    "source": "The New Stack",
+    "first_seen": "2026-06-01T21:59:40.608722+00:00",
+    "published": "2026-06-01T17:20:57+00:00"
+  },
+  "https://blog.cloudflare.com/optimizing-core-unit-boot-time": {
+    "title": "How we reduced core unit boot time from hours to minutes",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-06-01T21:59:40.608722+00:00",
+    "published": "2026-06-01T16:53:39+00:00"
+  },
+  "https://www.schneier.com/blog/archives/2026/06/vulnerability-disclosure-in-the-age-of-ai.html": {
+    "title": "Vulnerability Disclosure in the Age of AI",
+    "source": "Schneier on Security",
+    "first_seen": "2026-06-01T21:59:40.608722+00:00",
+    "published": "2026-06-01T16:49:39+00:00"
+  },
+  "https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md": {
+    "title": "AI Agent Guidelines for CS336 at Stanford",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-01T21:59:40.608722+00:00",
+    "published": "2026-06-01T16:41:49+00:00"
+  },
+  "https://www.0xsid.com/blog/meta-account-takeover-fiasco": {
+    "title": "The newest Instagram “exploit” is the goofiest I've seen",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-01T21:59:40.608722+00:00",
+    "published": "2026-06-01T16:31:42+00:00"
+  },
+  "https://www.politico.com/news/2026/06/01/openai-hit-with-florida-lawsuit-00944215": {
+    "title": "Florida sues OpenAI and Sam Altman over AI risks",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-01T21:59:40.608722+00:00",
+    "published": "2026-06-01T16:02:04+00:00"
+  },
+  "https://blog.google/innovation-and-ai/technology/ai/io-2026-google-ai": {
+    "title": "How we used Gemini to build Google I/O 2026",
+    "source": "Google AI Blog",
+    "first_seen": "2026-06-01T21:59:40.608722+00:00",
+    "published": "2026-06-01T16:00:00+00:00"
+  },
+  "https://news.ycombinator.com/item?id=48357724": {
+    "title": "Ask HN: Who wants to be hired? (June 2026)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-01T21:59:40.608722+00:00",
+    "published": "2026-06-01T15:00:48+00:00"
+  },
+  "https://openai.com/index/stargate-michigan-data-center": {
+    "title": "Building the infrastructure for the Intelligence Age in Michigan",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-06-01T21:59:40.608722+00:00",
+    "published": "2026-06-01T12:00:00+00:00"
+  },
+  "https://neon.com/blog/more-data-transfer-on-paid-plans": {
+    "title": "We're including 5x more data transfer in all paid plans",
+    "source": "Neon Blog",
+    "first_seen": "2026-06-01T21:59:40.608722+00:00",
+    "published": "2026-06-01T12:00:00+00:00"
+  },
+  "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws": {
+    "title": "OpenAI frontier models and Codex are now available on AWS",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-06-01T21:59:40.608722+00:00",
+    "published": "2026-06-01T10:00:00+00:00"
+  },
+  "https://www.elastic.co/blog/scaling-ai-financial-services-governance-architecture": {
+    "title": "Scaling AI in financial services starts with governance and architecture",
+    "source": "Elastic Blog",
+    "first_seen": "2026-06-01T21:59:40.608722+00:00",
+    "published": "2026-06-01T00:00:00+00:00"
   }
 }
