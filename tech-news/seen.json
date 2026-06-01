@@ -31154,5 +31154,119 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-05-31T23:07:23.718105+00:00",
     "published": "2026-05-31T20:35:38+00:00"
+  },
+  "https://www.nvidia.com/en-us/products/rtx-spark": {
+    "title": "Nvidia RTX Spark",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-01T07:07:45.226075+00:00",
+    "published": "2026-06-01T05:24:40+00:00"
+  },
+  "https://developer.nvidia.com/blog/how-to-post-train-autonomous-vehicle-models-in-closed-loop-with-nvidia-alpamayo": {
+    "title": "How to Post-Train Autonomous Vehicle Models in Closed-Loop with NVIDIA Alpamayo",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-06-01T07:07:45.226075+00:00",
+    "published": "2026-06-01T04:49:15+00:00"
+  },
+  "https://simonwillison.net/2026/Jun/1/may-newsletter": {
+    "title": "May 2026 newsletter",
+    "source": "Simon Willison",
+    "first_seen": "2026-06-01T07:07:45.226075+00:00",
+    "published": "2026-06-01T04:45:00+00:00"
+  },
+  "https://huggingface.co/blog/nvidia/cosmos-3-for-physical-ai": {
+    "title": "Welcome NVIDIA Cosmos 3: The First Open Omni-model for Physical AI Reasoning and Action",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-06-01T07:07:45.226075+00:00",
+    "published": "2026-06-01T04:44:55+00:00"
+  },
+  "https://developer.nvidia.com/blog/develop-physical-ai-reasoning-world-and-action-models-with-nvidia-cosmos-3": {
+    "title": "Develop Physical AI Reasoning, World, and Action Models with NVIDIA Cosmos 3",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-06-01T07:07:45.226075+00:00",
+    "published": "2026-06-01T04:43:58+00:00"
+  },
+  "https://developer.nvidia.com/blog/advancing-ai-infrastructure-for-agentic-ai-with-nvidia-doca-in-silicon-security": {
+    "title": "Advancing AI Infrastructure for Agentic AI with NVIDIA DOCA In-Silicon Security",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-06-01T07:07:45.226075+00:00",
+    "published": "2026-06-01T04:21:42+00:00"
+  },
+  "https://www.quantamagazine.org/rubin-tracks-skyscraper-size-asteroids-failed-supernovas-and-interstellar-visitors-20260515": {
+    "title": "Rubin Tracks Skyscraper-Size Asteroids and Failed Supernovas",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-01T07:07:45.226075+00:00",
+    "published": "2026-06-01T04:08:02+00:00"
+  },
+  "https://www.phoronix.com/news/May-2026-Recap": {
+    "title": "AI-Driven Security Disclosures, NVIDIA Vera & Linux 7.1 Features That Made An Exciting May",
+    "source": "Phoronix",
+    "first_seen": "2026-06-01T07:07:45.226075+00:00",
+    "published": "2026-06-01T04:00:00+00:00"
+  },
+  "https://developer.nvidia.com/blog/nvidia-vera-cpu-sets-a-new-standard-for-agentic-workloads-in-ai-factories": {
+    "title": "NVIDIA Vera CPU Sets a New Standard for Agentic Workloads in AI Factories",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-06-01T07:07:45.226075+00:00",
+    "published": "2026-06-01T03:59:15+00:00"
+  },
+  "https://developer.nvidia.com/blog/nvidia-dsx-os-delivers-open-modular-software-for-operating-ai-factories-at-scale": {
+    "title": "NVIDIA DSX OS Delivers Open, Modular Software for Operating AI Factories at Scale",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-06-01T07:07:45.226075+00:00",
+    "published": "2026-06-01T03:36:52+00:00"
+  },
+  "https://lwn.net/Articles/1075575": {
+    "title": "Kernel prepatch 7.1-rc6",
+    "source": "LWN.net",
+    "first_seen": "2026-06-01T07:07:45.226075+00:00",
+    "published": "2026-06-01T03:26:17+00:00"
+  },
+  "https://www.phoronix.com/review/intel-xeon-6-plus-cri-e835": {
+    "title": "Intel Xeon 6+ & Intel Ethernet E835 Launch",
+    "source": "Phoronix",
+    "first_seen": "2026-06-01T07:07:45.226075+00:00",
+    "published": "2026-06-01T03:00:00+00:00"
+  },
+  "https://www.practicalengineering.management/p/shift-from-a-leader-follower-to-a": {
+    "title": "Shift from a leader-follower to a leader-leader approach",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-01T07:07:45.226075+00:00",
+    "published": "2026-06-01T02:03:03+00:00"
+  },
+  "https://www.phoronix.com/news/Dell-XPS-13-Wildcat-Lake": {
+    "title": "Dell Uses Intel Wildcat Lake To Deliver Their Cheapest XPS 13 Ever",
+    "source": "Phoronix",
+    "first_seen": "2026-06-01T07:07:45.226075+00:00",
+    "published": "2026-06-01T00:14:00+00:00"
+  },
+  "https://www.redpanda.com/blog/nvidia-ai-ecosystem": {
+    "title": "Real-time streaming for the agentic era with NVIDIA",
+    "source": "Redpanda Blog",
+    "first_seen": "2026-06-01T07:07:45.226075+00:00",
+    "published": "2026-06-01T00:00:00+00:00"
+  },
+  "https://www.phoronix.com/review/amd-rx-9070-gre-ryzen-ai-max-400": {
+    "title": "AMD Announces Radeon RX 9070 GRE, Ryzen AI Max PRO 400 Series",
+    "source": "Phoronix",
+    "first_seen": "2026-06-01T07:07:45.226075+00:00",
+    "published": "2026-06-01T00:00:00+00:00"
+  },
+  "https://simonwillison.net/2026/May/31/datasette": {
+    "title": "datasette 1.0a32",
+    "source": "Simon Willison",
+    "first_seen": "2026-06-01T07:07:45.226075+00:00",
+    "published": "2026-05-31T23:23:38+00:00"
+  },
+  "https://tylercipriani.com/blog/2026/05/28/chuwi-minibook-x": {
+    "title": "Chuwi Minibook X",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-01T07:07:45.226075+00:00",
+    "published": "2026-05-31T22:59:50+00:00"
+  },
+  "https://polypane.app/blog/using-safe-area-inset-to-build-mobile-safe-layouts": {
+    "title": "Using safe-area-inset to build mobile-safe layouts",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-01T07:07:45.226075+00:00",
+    "published": "2026-05-30T13:43:02+00:00"
   }
 }
