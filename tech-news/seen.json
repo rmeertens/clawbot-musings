@@ -31994,5 +31994,317 @@
     "source": "OpenAI Blog",
     "first_seen": "2026-06-02T10:29:49.155771+00:00",
     "published": "2026-06-01T17:00:00+00:00"
+  },
+  "https://www.docker.com/blog/how-to-secure-ai-agents": {
+    "title": "How to Secure AI Agents: A Practical Overview for Development Teams",
+    "source": "Docker Blog",
+    "first_seen": "2026-06-02T16:30:18.178469+00:00",
+    "published": "2026-06-02T16:11:02+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/announcing-durability-for-amazon-elasticache": {
+    "title": "Announcing durability for Amazon ElastiCache for Valkey",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-06-02T16:30:18.178469+00:00",
+    "published": "2026-06-02T16:01:06+00:00"
+  },
+  "https://aws.amazon.com/blogs/security/secure-multi-tenant-ai-agents-with-amazon-bedrock-agentcore-resource-based-policies": {
+    "title": "Secure multi-tenant AI agents with Amazon Bedrock AgentCore resource-based policies",
+    "source": "AWS Security Blog",
+    "first_seen": "2026-06-02T16:30:18.178469+00:00",
+    "published": "2026-06-02T16:00:11+00:00"
+  },
+  "https://thenewstack.io/openai-codex-knowledge-workers": {
+    "title": "OpenAI’s Codex adds new tools — Sites, Annotations, more plugins — for knowledge workers",
+    "source": "The New Stack",
+    "first_seen": "2026-06-02T16:30:18.178469+00:00",
+    "published": "2026-06-02T16:00:00+00:00"
+  },
+  "https://oxide.computer/blog/iddqd-unsafe": {
+    "title": "iddqd, or the hardest kind of unsafe Rust",
+    "source": "Oxide Computer",
+    "first_seen": "2026-06-02T16:30:18.178469+00:00",
+    "published": "2026-06-02T16:00:00+00:00"
+  },
+  "https://developer.nvidia.com/blog/deploy-self-evolving-agents-for-faster-more-secure-research-with-a-hermes-agent-and-nvidia-nemoclaw": {
+    "title": "Deploy Self-Evolving Agents for Faster, More Secure Research with a Hermes Agent and NVIDIA NemoClaw",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-06-02T16:30:18.178469+00:00",
+    "published": "2026-06-02T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/databases/introducing-spanner-graph-algorithms": {
+    "title": "Announcing Spanner Graph algorithms: Google-grade intelligence for connected data",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-06-02T16:30:18.178469+00:00",
+    "published": "2026-06-02T16:00:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/how-baz-improved-its-ai-agent-code-review-accuracy-using-amazon-bedrock-agentcore": {
+    "title": "How Baz improved its AI Agent Code Review accuracy using Amazon Bedrock AgentCore",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-06-02T16:30:18.178469+00:00",
+    "published": "2026-06-02T15:45:11+00:00"
+  },
+  "https://www.vox.com/future-perfect/490350/data-center-moratoria-ai-backlash": {
+    "title": "Americans don't know how to fight AI so they're fighting data centers",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-02T16:30:18.178469+00:00",
+    "published": "2026-06-02T15:32:06+00:00"
+  },
+  "https://tailscale.com/blog/funnel-fridge": {
+    "title": "Fixing my ridiculous fridge with a tiny Funnel site",
+    "source": "Tailscale Blog",
+    "first_seen": "2026-06-02T16:30:18.178469+00:00",
+    "published": "2026-06-02T15:30:00+00:00"
+  },
+  "https://thenewstack.io/github-copilot-token-billing": {
+    "title": "GitHub Copilot’s usage-based billing is live: Here’s what you need to know",
+    "source": "The New Stack",
+    "first_seen": "2026-06-02T16:30:18.178469+00:00",
+    "published": "2026-06-02T15:07:51+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/unlock-license-mobility-with-bring-your-own-media-on-fully-managed-amazon-rds-for-sql-server": {
+    "title": "Unlock license mobility with Bring Your Own Media on fully managed Amazon RDS for SQL Server",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-06-02T16:30:18.178469+00:00",
+    "published": "2026-06-02T15:07:24+00:00"
+  },
+  "https://www.bbc.com/news/articles/c152yvwjwkko": {
+    "title": "Meta repeatedly snubs EU body over Facebook and Instagram user bans",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-02T16:30:18.178469+00:00",
+    "published": "2026-06-02T15:03:43+00:00"
+  },
+  "https://www.phoronix.com/review/cachyos-linux-flavors": {
+    "title": "Benchmarking The Different CachyOS Linux Kernel Flavors",
+    "source": "Phoronix",
+    "first_seen": "2026-06-02T16:30:18.178469+00:00",
+    "published": "2026-06-02T14:40:00+00:00"
+  },
+  "https://www.databricks.com/blog/query-tags-context-your-warehouse-queries-have-been-missing": {
+    "title": "Query Tags: The Context Your Warehouse Queries Have Been Missing",
+    "source": "Databricks Blog",
+    "first_seen": "2026-06-02T16:30:18.178469+00:00",
+    "published": "2026-06-02T14:32:33+00:00"
+  },
+  "https://blog.bytebytego.com/p/a-practical-guide-to-becoming-an": {
+    "title": "A Practical Guide to Becoming an AI-Native Engineer",
+    "source": "ByteByteGo",
+    "first_seen": "2026-06-02T16:30:18.178469+00:00",
+    "published": "2026-06-02T14:31:47+00:00"
+  },
+  "https://www.phoronix.com/news/KDE-Plasma-Wayland-Ex-X11": {
+    "title": "KDE Plasma 6.8 Still Planning To End X11 Support, 95% Of Plasma 6.6 Users Are On Wayland",
+    "source": "Phoronix",
+    "first_seen": "2026-06-02T16:30:18.178469+00:00",
+    "published": "2026-06-02T14:24:32+00:00"
+  },
+  "https://blog.davidedmundson.co.uk/blog/596": {
+    "title": "Preparing for KDE Plasma's Last X11-Supported Release",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-02T16:30:18.178469+00:00",
+    "published": "2026-06-02T14:16:30+00:00"
+  },
+  "https://huggingface.co/blog/Hcompany/holo31": {
+    "title": "Holo3.1: Fast & Local Computer Use Agents",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-06-02T16:30:18.178469+00:00",
+    "published": "2026-06-02T14:13:23+00:00"
+  },
+  "https://aws.amazon.com/blogs/architecture/automating-contract-intelligence-with-doczy-ai-on-aws": {
+    "title": "Automating contract intelligence with Doczy.ai™ on AWS",
+    "source": "AWS Architecture Blog",
+    "first_seen": "2026-06-02T16:30:18.178469+00:00",
+    "published": "2026-06-02T14:06:32+00:00"
+  },
+  "https://realpython.com/courses/structuring-your-python-script": {
+    "title": "Structuring Your Python Script",
+    "source": "Real Python",
+    "first_seen": "2026-06-02T16:30:18.178469+00:00",
+    "published": "2026-06-02T14:00:00+00:00"
+  },
+  "https://www.tigerdata.com/blog/the-engineering-calendar-is-the-database-bill-nobody-tracks": {
+    "title": "The Engineering Calendar Is the Database Bill Nobody Tracks",
+    "source": "Timescale Blog",
+    "first_seen": "2026-06-02T16:30:18.178469+00:00",
+    "published": "2026-06-02T13:54:23+00:00"
+  },
+  "https://www.fidonet.org/inet92_Randy_Bush.txt": {
+    "title": "Fidonet: Technology, Use, Tools, and History (1993)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-02T16:30:18.178469+00:00",
+    "published": "2026-06-02T13:53:52+00:00"
+  },
+  "https://lwn.net/Articles/1074908": {
+    "title": "[$] Trying to make sense of package-manager metadata",
+    "source": "LWN.net",
+    "first_seen": "2026-06-02T16:30:18.178469+00:00",
+    "published": "2026-06-02T13:33:43+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-Kernel-TSC-Unconditional": {
+    "title": "The Linux Kernel Ready To Make TSC A Hard Requirement For x86 CPUs",
+    "source": "Phoronix",
+    "first_seen": "2026-06-02T16:30:18.178469+00:00",
+    "published": "2026-06-02T13:25:22+00:00"
+  },
+  "https://coveillance.org/a-walking-tour-of-surveillance-infrastructure-in-seattle": {
+    "title": "A walking tour of surveillance infrastructure in Seattle",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-02T16:30:18.178469+00:00",
+    "published": "2026-06-02T13:24:32+00:00"
+  },
+  "https://www.anthropic.com/news/expanding-project-glasswing": {
+    "title": "Expanding Project Glasswing",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-02T16:30:18.178469+00:00",
+    "published": "2026-06-02T13:15:14+00:00"
+  },
+  "https://lwn.net/Articles/1075967": {
+    "title": "Vim Classic 8.3 released",
+    "source": "LWN.net",
+    "first_seen": "2026-06-02T16:30:18.178469+00:00",
+    "published": "2026-06-02T13:13:37+00:00"
+  },
+  "https://lwn.net/Articles/1075966": {
+    "title": "Security updates for Tuesday",
+    "source": "LWN.net",
+    "first_seen": "2026-06-02T16:30:18.178469+00:00",
+    "published": "2026-06-02T13:06:02+00:00"
+  },
+  "https://www.phoronix.com/news/NVK-Mesh-Shaders-Merged": {
+    "title": "Open-Source NVIDIA Vulkan Driver \"NVK\" Merges Mesh Shader Support",
+    "source": "Phoronix",
+    "first_seen": "2026-06-02T16:30:18.178469+00:00",
+    "published": "2026-06-02T12:30:22+00:00"
+  },
+  "https://www.ycombinator.com/companies/great-question/jobs/J5TNvQH-ai-engineer-intern": {
+    "title": "Great Question (YC W21) Is Hiring Applied AI Interns",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-02T16:30:18.178469+00:00",
+    "published": "2026-06-02T12:01:04+00:00"
+  },
+  "https://www.mitmllc.com/blog/apple-rejected-my-dictation-app": {
+    "title": "Apple rejected my dictation app for using the accessibility API",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-02T16:30:18.178469+00:00",
+    "published": "2026-06-02T12:00:03+00:00"
+  },
+  "https://realpython.com/quizzes/structuring-your-python-script": {
+    "title": "Quiz: Structuring Your Python Script",
+    "source": "Real Python",
+    "first_seen": "2026-06-02T16:30:18.178469+00:00",
+    "published": "2026-06-02T12:00:00+00:00"
+  },
+  "https://realpython.com/quizzes/python-format-mini-language": {
+    "title": "Quiz: Python's Format Mini-Language for Tidy Strings",
+    "source": "Real Python",
+    "first_seen": "2026-06-02T16:30:18.178469+00:00",
+    "published": "2026-06-02T12:00:00+00:00"
+  },
+  "https://openai.com/index/travelers": {
+    "title": "Travelers deploys AI-powered claims countrywide with OpenAI",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-06-02T16:30:18.178469+00:00",
+    "published": "2026-06-02T12:00:00+00:00"
+  },
+  "https://www.schneier.com/blog/archives/2026/06/the-intersection-of-encryption-and-ai.html": {
+    "title": "The Intersection of Encryption and AI",
+    "source": "Schneier on Security",
+    "first_seen": "2026-06-02T16:30:18.178469+00:00",
+    "published": "2026-06-02T11:06:25+00:00"
+  },
+  "https://www.schneier.com/blog/archives/2026/06/microsoft-threatening-security-researcher.html": {
+    "title": "Microsoft Threatening Security Researcher",
+    "source": "Schneier on Security",
+    "first_seen": "2026-06-02T16:30:18.178469+00:00",
+    "published": "2026-06-02T11:00:42+00:00"
+  },
+  "https://www.cncf.io/blog/2026/06/02/mumbai-maha-mahotsav-kubecon-cloudnativecon-india-edition": {
+    "title": "Mumbai Maha Mahotsav – KubeCon + CloudNativeCon India edition",
+    "source": "CNCF Blog",
+    "first_seen": "2026-06-02T16:30:18.178469+00:00",
+    "published": "2026-06-02T11:00:00+00:00"
+  },
+  "https://www.cncf.io/blog/2026/06/02/cloud-native-is-now-ai-native-engineering-production-ready-ai": {
+    "title": "Cloud native is now AI-native: Engineering production-ready AI",
+    "source": "CNCF Blog",
+    "first_seen": "2026-06-02T16:30:18.178469+00:00",
+    "published": "2026-06-02T11:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/Mir-2.27-Released": {
+    "title": "Mir 2.27 Released With More Wayland Rust Code",
+    "source": "Phoronix",
+    "first_seen": "2026-06-02T16:30:18.178469+00:00",
+    "published": "2026-06-02T10:30:00+00:00"
+  },
+  "https://dan-webnotes.com/posts/2026-06-02-css-native-parallax-effect": {
+    "title": "CSS-Native Parallax Effect",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-02T16:30:18.178469+00:00",
+    "published": "2026-06-02T10:23:37+00:00"
+  },
+  "https://blog.adafruit.com": {
+    "title": "Adafruit Receives Demand Letter from Fenwick Legal Counsel on Behalf of Flux.ai",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-02T16:30:18.178469+00:00",
+    "published": "2026-06-02T10:00:56+00:00"
+  },
+  "https://seths.blog/2026/06/stop-ruining-it": {
+    "title": "Stop Ruining It",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-02T16:30:18.178469+00:00",
+    "published": "2026-06-02T09:52:42+00:00"
+  },
+  "https://blog.tjll.net/you-dont-love-systemd-timers-enough": {
+    "title": "You Don't Love Systemd Timers Enough",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-02T16:30:18.178469+00:00",
+    "published": "2026-06-02T09:34:11+00:00"
+  },
+  "https://eyeball.rory.codes": {
+    "title": "Show HN: Eyeball",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-02T16:30:18.178469+00:00",
+    "published": "2026-06-02T09:04:49+00:00"
+  },
+  "https://openai.com/index/codex-for-every-role-tool-workflow": {
+    "title": "Codex for every role, tool, and workflow",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-06-02T16:30:18.178469+00:00",
+    "published": "2026-06-02T09:00:00+00:00"
+  },
+  "https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership": {
+    "title": "Advancing youth safety and opportunity through global leadership",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-06-02T16:30:18.178469+00:00",
+    "published": "2026-06-02T07:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/topics/developers-practitioners/experimenting-with-tpus-gke-managed-dranet-and-multi-cluster-inference-gateway": {
+    "title": "Experimenting with TPUs, GKE Managed DRANET, and Multi-cluster Inference Gateway",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-06-02T16:30:18.178469+00:00",
+    "published": "2026-06-02T07:00:00+00:00"
+  },
+  "https://www.redpanda.com/blog/omninode-scale-ai-agent-workflows": {
+    "title": "How OmniNode uses Redpanda to scale AI agent workflows",
+    "source": "Redpanda Blog",
+    "first_seen": "2026-06-02T16:30:18.178469+00:00",
+    "published": "2026-06-02T00:00:00+00:00"
+  },
+  "https://www.elastic.co/blog/microsoft-build-2026-wrap-up": {
+    "title": "The essential Elastic 2026 wrap-up for Microsoft Build attendees and Azure developers",
+    "source": "Elastic Blog",
+    "first_seen": "2026-06-02T16:30:18.178469+00:00",
+    "published": "2026-06-02T00:00:00+00:00"
+  },
+  "https://www.elastic.co/blog/critical-infrastructure-protection-ai-era": {
+    "title": "Protecting critical infrastructure in the AI era: It starts with data",
+    "source": "Elastic Blog",
+    "first_seen": "2026-06-02T16:30:18.178469+00:00",
+    "published": "2026-06-02T00:00:00+00:00"
+  },
+  "https://blog.rust-lang.org/2026/06/02/launching-the-rust-foundation-maintainers-fund": {
+    "title": "Launching the Rust Foundation Maintainers Fund",
+    "source": "Rust Blog",
+    "first_seen": "2026-06-02T16:30:18.178469+00:00",
+    "published": "2026-06-02T00:00:00+00:00"
   }
 }
