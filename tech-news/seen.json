@@ -32306,5 +32306,257 @@
     "source": "Rust Blog",
     "first_seen": "2026-06-02T16:30:18.178469+00:00",
     "published": "2026-06-02T00:00:00+00:00"
+  },
+  "https://charity.wtf/2026/06/02/ai-enthusiasts-are-in-a-race-against-time-ai-skeptics-are-in-a-race-against-entropy-xpost": {
+    "title": "AI enthusiasts are in a race against time, AI skeptics are in a race against entropy (xpost)",
+    "source": "Charity Majors",
+    "first_seen": "2026-06-02T21:56:43.529078+00:00",
+    "published": "2026-06-02T21:33:32+00:00"
+  },
+  "https://www.lumafield.com/scan-of-the-month/byd": {
+    "title": "CT scans of BYD car parts",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-02T21:56:43.529078+00:00",
+    "published": "2026-06-02T20:30:08+00:00"
+  },
+  "https://www.acdw.net/clojure": {
+    "title": "My thoughts after using Clojure for about a month",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-02T21:56:43.529078+00:00",
+    "published": "2026-06-02T19:56:46+00:00"
+  },
+  "https://thenewstack.io/microsoft-build-2026-rayfin-replit-vibe-coding": {
+    "title": "Rayfin: Microsoft’s answer to the gap between vibe coding and enterprise production",
+    "source": "The New Stack",
+    "first_seen": "2026-06-02T21:56:43.529078+00:00",
+    "published": "2026-06-02T19:46:32+00:00"
+  },
+  "https://devblogs.microsoft.com/devops/azure-devops-and-github-journeying-into-the-ai-era": {
+    "title": "Azure DevOps and GitHub: Journeying into the AI Era",
+    "source": "MS DevOps Blog",
+    "first_seen": "2026-06-02T21:56:43.529078+00:00",
+    "published": "2026-06-02T19:41:20+00:00"
+  },
+  "https://thenewstack.io/microsoft-build-2026-data-fabric-horizondb-ai-agents": {
+    "title": "Microsoft bets the enterprise AI race will be won on data context, not model power",
+    "source": "The New Stack",
+    "first_seen": "2026-06-02T21:56:43.529078+00:00",
+    "published": "2026-06-02T19:40:55+00:00"
+  },
+  "https://blog.zgp.org/the-advertising-cartel-coming-to-your-web-browser": {
+    "title": "The advertising cartel coming to your web browser",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-02T21:56:43.529078+00:00",
+    "published": "2026-06-02T19:39:25+00:00"
+  },
+  "https://openrepair.org/open-data/open-standard": {
+    "title": "Open Repair Data Standard – Open Repair Alliance",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-02T21:56:43.529078+00:00",
+    "published": "2026-06-02T19:37:10+00:00"
+  },
+  "https://www.databricks.com/blog/beyond-parsing-x12-closing-gap-revenue-cycle-workflows-healthcare": {
+    "title": "Beyond parsing X12: Closing the gap for revenue cycle workflows in healthcare",
+    "source": "Databricks Blog",
+    "first_seen": "2026-06-02T21:56:43.529078+00:00",
+    "published": "2026-06-02T19:28:55+00:00"
+  },
+  "https://moddedbear.com/gmail-thinks-im-stupid-so-i-left": {
+    "title": "Gmail thinks I'm stupid, so I left",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-02T21:56:43.529078+00:00",
+    "published": "2026-06-02T19:27:40+00:00"
+  },
+  "https://www.phoronix.com/news/Microsoft-Intelligent-Terminal": {
+    "title": "Microsoft Announces Open-Source \"Intelligent Terminal\"",
+    "source": "Phoronix",
+    "first_seen": "2026-06-02T21:56:43.529078+00:00",
+    "published": "2026-06-02T19:18:22+00:00"
+  },
+  "https://hpcalcs.com/product/hp-16c-collectors-edition": {
+    "title": "HP re-releases classic computer science calculator: The HP-16C",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-02T21:56:43.529078+00:00",
+    "published": "2026-06-02T19:02:40+00:00"
+  },
+  "https://aws.amazon.com/blogs/security/identify-unused-aws-kms-keys-and-prevent-accidental-key-deletions": {
+    "title": "Identify unused AWS KMS keys and prevent accidental key deletions",
+    "source": "AWS Security Blog",
+    "first_seen": "2026-06-02T21:56:43.529078+00:00",
+    "published": "2026-06-02T19:01:54+00:00"
+  },
+  "https://blogs.microsoft.com/blog/2026/06/02/ai-alone-wont-change-your-business-the-system-running-it-will": {
+    "title": "AI alone won’t change your business. The system running it will.",
+    "source": "Microsoft Blog",
+    "first_seen": "2026-06-02T21:56:43.529078+00:00",
+    "published": "2026-06-02T19:00:13+00:00"
+  },
+  "https://developer.nvidia.com/blog/build-personal-ai-agents-on-windows-pcs-with-new-tools-from-microsoft-and-nvidia": {
+    "title": "Build Personal AI Agents on Windows PCs with New Tools from Microsoft and NVIDIA",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-06-02T21:56:43.529078+00:00",
+    "published": "2026-06-02T19:00:00+00:00"
+  },
+  "https://blogs.microsoft.com/blog/2026/06/02/microsoft-build-2026-be-yourself-at-work": {
+    "title": "Microsoft Build 2026: Be yourself at work",
+    "source": "Microsoft Blog",
+    "first_seen": "2026-06-02T21:56:43.529078+00:00",
+    "published": "2026-06-02T18:54:13+00:00"
+  },
+  "https://thenewstack.io/anthropic-glasswing-mythos-cybersecurity": {
+    "title": "“A successful attack could be catastrophic”: Anthropic gives more groups access to Claude Mythos",
+    "source": "The New Stack",
+    "first_seen": "2026-06-02T21:56:43.529078+00:00",
+    "published": "2026-06-02T18:51:14+00:00"
+  },
+  "https://news.ycombinator.com/item?id=48374528": {
+    "title": "Launch HN: Rudus (YC P26) – AI for concrete contractors",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-02T21:56:43.529078+00:00",
+    "published": "2026-06-02T18:51:09+00:00"
+  },
+  "https://microsoft.ai/news/introducingmai-code-1-flash": {
+    "title": "MAI-Code-1-Flash",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-02T21:56:43.529078+00:00",
+    "published": "2026-06-02T18:47:07+00:00"
+  },
+  "https://microsoft.ai/news/introducing-mai-thinking-1": {
+    "title": "MAI-Thinking-1",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-02T21:56:43.529078+00:00",
+    "published": "2026-06-02T18:39:34+00:00"
+  },
+  "https://lwn.net/Articles/1074919": {
+    "title": "[$] Caching for extended attributes",
+    "source": "LWN.net",
+    "first_seen": "2026-06-02T21:56:43.529078+00:00",
+    "published": "2026-06-02T18:35:52+00:00"
+  },
+  "https://www.computerworld.com/article/4180103/microsoft-unveils-scout-an-autonomous-ai-agent-built-on-openclaw.html": {
+    "title": "Microsoft announces Scout, an autonomous AI agent built on OpenClaw",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-02T21:56:43.529078+00:00",
+    "published": "2026-06-02T18:19:27+00:00"
+  },
+  "https://github.com/features/preview/github-app": {
+    "title": "GitHub Copilot App",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-02T21:56:43.529078+00:00",
+    "published": "2026-06-02T17:58:55+00:00"
+  },
+  "https://thenewstack.io/github-wants-developers-back": {
+    "title": "How GitHub plans to win developers back",
+    "source": "The New Stack",
+    "first_seen": "2026-06-02T21:56:43.529078+00:00",
+    "published": "2026-06-02T17:56:51+00:00"
+  },
+  "https://thenewstack.io/windows-11-developer-mode": {
+    "title": "Microsoft really, really, really wants developers to love Windows again",
+    "source": "The New Stack",
+    "first_seen": "2026-06-02T21:56:43.529078+00:00",
+    "published": "2026-06-02T17:56:49+00:00"
+  },
+  "https://thenewstack.io/microsoft-intelligent-terminal-ai-agents": {
+    "title": "With Intelligent Terminal, Microsoft is reinventing the Windows terminal",
+    "source": "The New Stack",
+    "first_seen": "2026-06-02T21:56:43.529078+00:00",
+    "published": "2026-06-02T17:56:47+00:00"
+  },
+  "https://thenewstack.io/microsoft-build-scout": {
+    "title": "Microsoft debuts “Scout” at Build, a new personal agent for work",
+    "source": "The New Stack",
+    "first_seen": "2026-06-02T21:56:43.529078+00:00",
+    "published": "2026-06-02T17:56:45+00:00"
+  },
+  "https://fergusfinn.com/blog/deepseek-v4-flash-mi300x": {
+    "title": "Bringing Up DeepSeek-V4-Flash on AMD MI300X",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-02T21:56:43.529078+00:00",
+    "published": "2026-06-02T17:52:48+00:00"
+  },
+  "https://github.com/s2-streamstore/replaya": {
+    "title": "Show HN: RePlaya – self-hosted browser session replay with live tailing",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-02T21:56:43.529078+00:00",
+    "published": "2026-06-02T17:40:15+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/the-art-and-science-of-hyperparameter-optimization-on-amazon-nova-forge": {
+    "title": "The art and science of hyperparameter optimization on Amazon Nova Forge",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-06-02T21:56:43.529078+00:00",
+    "published": "2026-06-02T17:39:03+00:00"
+  },
+  "https://c9x.me/compile/release/qbe-1.3.html": {
+    "title": "QBE – Compiler Backend – 1.3",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-02T21:56:43.529078+00:00",
+    "published": "2026-06-02T17:37:32+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/object-detection-with-amazon-nova-2-lite": {
+    "title": "Object detection with Amazon Nova 2 Lite",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-06-02T21:56:43.529078+00:00",
+    "published": "2026-06-02T17:31:11+00:00"
+  },
+  "https://github.blog/news-insights/product-news/github-copilot-app-the-agent-native-desktop-experience": {
+    "title": "GitHub Copilot app: The agent-native desktop experience",
+    "source": "GitHub Blog",
+    "first_seen": "2026-06-02T21:56:43.529078+00:00",
+    "published": "2026-06-02T17:30:03+00:00"
+  },
+  "https://medium.com/airbnb-engineering/when-history-fails-you-borrow-from-geography-915a72b91b5c?source=rss----53c7c27702d5---4": {
+    "title": "When history fails you, borrow from geography",
+    "source": "Airbnb Engineering",
+    "first_seen": "2026-06-02T21:56:43.529078+00:00",
+    "published": "2026-06-02T17:01:04+00:00"
+  },
+  "https://cloud.google.com/blog/topics/developers-practitioners/build-ai-agents-faster-with-gcs-google-cloud-storage-mcp-server": {
+    "title": "Connecting AI agents with unstructured data using Google Cloud Storage MCP Servers",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-06-02T21:56:43.529078+00:00",
+    "published": "2026-06-02T17:00:00+00:00"
+  },
+  "https://newsletter.pragmaticengineer.com/p/ideas-slow-down-to-speed-up-when": {
+    "title": "Ideas: slow down to speed up when working with AI agents",
+    "source": "The Pragmatic Engineer",
+    "first_seen": "2026-06-02T21:56:43.529078+00:00",
+    "published": "2026-06-02T16:42:23+00:00"
+  },
+  "https://www.politico.com/news/2026/06/02/trump-signs-downsized-ai-order-00946389": {
+    "title": "Trump signs downsized AI order after weeks of reversals",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-02T21:56:43.529078+00:00",
+    "published": "2026-06-02T16:40:16+00:00"
+  },
+  "https://www.kapa.ai/blog/how-we-index-images-for-rag": {
+    "title": "How we index images for RAG",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-02T21:56:43.529078+00:00",
+    "published": "2026-06-02T16:13:41+00:00"
+  },
+  "https://github.com/shiihaa-app/shiihaa-breath-detection": {
+    "title": "Show HN: Live breath detection and biofeedback from a phone microphone",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-02T21:56:43.529078+00:00",
+    "published": "2026-06-02T16:02:47+00:00"
+  },
+  "https://cloud.google.com/blog/products/data-analytics/optimize-iceberg-and-spark-workloads-with-gcs-analytics-core": {
+    "title": "Accelerating data lakes: Optimizing Apache Iceberg and Spark with gcs-analytics-core",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-06-02T21:56:43.529078+00:00",
+    "published": "2026-06-02T16:00:00+00:00"
+  },
+  "https://www.elastic.co/blog/liveperson-observability": {
+    "title": "How LivePerson optimized Logstash and Kafka performance on GCP through benchmarking",
+    "source": "Elastic Blog",
+    "first_seen": "2026-06-02T21:56:43.529078+00:00",
+    "published": "2026-06-02T00:00:00+00:00"
+  },
+  "https://blog.python.org/2026/06/python-3150-beta-2": {
+    "title": "Python 3.15.0 beta 2 is here!",
+    "source": "Python Insider",
+    "first_seen": "2026-06-02T21:56:43.529078+00:00",
+    "published": "2026-06-02T00:00:00+00:00"
   }
 }
