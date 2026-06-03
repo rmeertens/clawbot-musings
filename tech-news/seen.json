@@ -32714,5 +32714,275 @@
     "source": "Simon Willison",
     "first_seen": "2026-06-03T10:32:01.638691+00:00",
     "published": "2026-06-02T03:43:45+00:00"
+  },
+  "https://replit.com/blog/seo-agent": {
+    "title": "Meet Replit SEO Agent",
+    "source": "Replit Blog",
+    "first_seen": "2026-06-03T16:31:23.430764+00:00",
+    "published": "2026-06-03T20:01:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/reducing-container-cold-start-times-using-soci-index-on-dlami-and-dlc": {
+    "title": "Reducing container cold start times using SOCI index on DLAMI and DLC",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-06-03T16:31:23.430764+00:00",
+    "published": "2026-06-03T16:26:35+00:00"
+  },
+  "https://blog.angular.dev/announcing-angular-v22-c52bb83a4664?source=rss----447683c3d9a3---4": {
+    "title": "Announcing Angular v22",
+    "source": "Angular Blog",
+    "first_seen": "2026-06-03T16:31:23.430764+00:00",
+    "published": "2026-06-03T16:14:58+00:00"
+  },
+  "https://cloud.google.com/blog/products/data-analytics/serverless-managed-service-for-apache-spark-runtime-3-0-features": {
+    "title": "What’s new in serverless Managed Service for Apache Spark",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-06-03T16:31:23.430764+00:00",
+    "published": "2026-06-03T16:00:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/improve-your-agents-tool-calling-accuracy-with-sft-and-dpo-on-amazon-sagemaker-ai": {
+    "title": "Improve your agent’s tool-calling accuracy with SFT and DPO on Amazon SageMaker AI",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-06-03T16:31:23.430764+00:00",
+    "published": "2026-06-03T15:56:50+00:00"
+  },
+  "https://aws.amazon.com/blogs/architecture/building-highly-available-oracle-databases-with-amazon-fsx-for-netapp-ontap": {
+    "title": "Building highly available Oracle databases with Amazon FSx for NetApp ONTAP",
+    "source": "AWS Architecture Blog",
+    "first_seen": "2026-06-03T16:31:23.430764+00:00",
+    "published": "2026-06-03T15:51:22+00:00"
+  },
+  "https://engineering.atspotify.com/2026/6/code-with-claude-coding-is-no-longer-the-constraint": {
+    "title": "Coding Is No Longer the Constraint: Scaling Developer Experience to Teams and Agents at Spotify",
+    "source": "Spotify Engineering",
+    "first_seen": "2026-06-03T16:31:23.430764+00:00",
+    "published": "2026-06-03T15:50:18+00:00"
+  },
+  "https://www.phoronix.com/review/amd-epyc-8635p": {
+    "title": "AMD EPYC 8635P \"Sorano\" Benchmarks: Significant Upgrade Opportunity For EPYC 8004 Servers",
+    "source": "Phoronix",
+    "first_seen": "2026-06-03T16:31:23.430764+00:00",
+    "published": "2026-06-03T15:36:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/index-types-supported-in-amazon-aurora-postgresql-and-amazon-rds-for-postgresql-using-extensions-bloom-pg_trgm-and-pg_bigm": {
+    "title": "Index types supported in Amazon Aurora PostgreSQL and Amazon RDS for PostgreSQL using extensions (Bloom, pg_trgm, and pg_bigm)",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-06-03T16:31:23.430764+00:00",
+    "published": "2026-06-03T15:27:08+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/index-types-supported-in-amazon-aurora-postgresql-and-amazon-rds-for-postgresql-using-extensions-sp-gist-btree_gin-and-btree_gist": {
+    "title": "Index types supported in Amazon Aurora PostgreSQL and Amazon RDS for PostgreSQL using extensions (SP-GiST, Btree_Gin and Btree_Gist)",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-06-03T16:31:23.430764+00:00",
+    "published": "2026-06-03T15:26:19+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/migrating-data-from-oracle-to-amazon-aurora-dsql": {
+    "title": "Migrating data from Oracle to Amazon Aurora DSQL",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-06-03T16:31:23.430764+00:00",
+    "published": "2026-06-03T15:24:51+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/implementing-real-time-change-data-capture-with-debezium-for-amazon-aurora-postgresql-and-amazon-rds-for-postgresql": {
+    "title": "Implementing real-time change data capture with Debezium for Amazon Aurora PostgreSQL and Amazon RDS for PostgreSQL",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-06-03T16:31:23.430764+00:00",
+    "published": "2026-06-03T15:23:41+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/amazon-opensearch-service-mechanisms-to-secure-your-domain": {
+    "title": "Amazon OpenSearch Service: Mechanisms to secure your domain",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-06-03T16:31:23.430764+00:00",
+    "published": "2026-06-03T15:21:53+00:00"
+  },
+  "https://letsencrypt.org/2026/06/03/pq-certs": {
+    "title": "A Post-Quantum Future for Let's Encrypt",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-03T16:31:23.430764+00:00",
+    "published": "2026-06-03T15:06:09+00:00"
+  },
+  "https://pytorch.org/blog/using-muon-optimizer-with-deepspeed": {
+    "title": "Using Muon Optimizer with DeepSpeed",
+    "source": "PyTorch Blog",
+    "first_seen": "2026-06-03T16:31:23.430764+00:00",
+    "published": "2026-06-03T15:05:17+00:00"
+  },
+  "https://lwn.net/Articles/1075741": {
+    "title": "[$] Open-source security is not a solo activity",
+    "source": "LWN.net",
+    "first_seen": "2026-06-03T16:31:23.430764+00:00",
+    "published": "2026-06-03T15:02:35+00:00"
+  },
+  "https://blog.bytebytego.com/p/how-openai-built-its-data-agent": {
+    "title": "How OpenAI Built Its Data Agent",
+    "source": "ByteByteGo",
+    "first_seen": "2026-06-03T16:31:23.430764+00:00",
+    "published": "2026-06-03T14:50:27+00:00"
+  },
+  "https://www.blackmagicdesign.com/products/davinciresolve/whatsnew": {
+    "title": "DaVinci Resolve 21",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-03T16:31:23.430764+00:00",
+    "published": "2026-06-03T14:18:39+00:00"
+  },
+  "https://www.shopifystatus.com": {
+    "title": "Shopify Is Down",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-03T16:31:23.430764+00:00",
+    "published": "2026-06-03T14:00:08+00:00"
+  },
+  "https://realpython.com/github-copilot-code-review": {
+    "title": "How to Use GitHub Copilot Code Review in Pull Requests",
+    "source": "Real Python",
+    "first_seen": "2026-06-03T16:31:23.430764+00:00",
+    "published": "2026-06-03T14:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/GCC-FMV-Patches-APX-AVX10.2": {
+    "title": "Intel Preps GCC Function Multi-Versioning To Support APX & AVX10.2",
+    "source": "Phoronix",
+    "first_seen": "2026-06-03T16:31:23.430764+00:00",
+    "published": "2026-06-03T13:40:00+00:00"
+  },
+  "https://old.reddit.com/r/nextfuckinglevel/comments/1tvmcin/i_live_in_the_take_off_path_of_sfo_and_built_a": {
+    "title": "I built a ceiling projection mapping of the planes flying over my house",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-03T16:31:23.430764+00:00",
+    "published": "2026-06-03T13:33:00+00:00"
+  },
+  "https://lwn.net/Articles/1075067": {
+    "title": "[$] BPF in the agentic era",
+    "source": "LWN.net",
+    "first_seen": "2026-06-03T16:31:23.430764+00:00",
+    "published": "2026-06-03T13:14:39+00:00"
+  },
+  "https://github.com/yaodub/cast": {
+    "title": "Show HN: Tired of duct-taping access control into agent prompts. Here's the fix",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-03T16:31:23.430764+00:00",
+    "published": "2026-06-03T13:04:37+00:00"
+  },
+  "https://lwn.net/Articles/1076040": {
+    "title": "Tridgell: rsync and outrage",
+    "source": "LWN.net",
+    "first_seen": "2026-06-03T16:31:23.430764+00:00",
+    "published": "2026-06-03T13:00:46+00:00"
+  },
+  "https://blog.google/products-and-platforms/products/search/thrifting-tips": {
+    "title": "5 ways Google Search can level up your thrift and vintage shopping",
+    "source": "Google AI Blog",
+    "first_seen": "2026-06-03T16:31:23.430764+00:00",
+    "published": "2026-06-03T13:00:00+00:00"
+  },
+  "https://lwn.net/Articles/1076117": {
+    "title": "Security updates for Wednesday",
+    "source": "LWN.net",
+    "first_seen": "2026-06-03T16:31:23.430764+00:00",
+    "published": "2026-06-03T12:59:17+00:00"
+  },
+  "https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots": {
+    "title": "Direct Preference Optimization Beyond Chatbots",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-06-03T16:31:23.430764+00:00",
+    "published": "2026-06-03T12:55:11+00:00"
+  },
+  "https://www.tomshardware.com/pc-components/ddr5/32gb-of-ddr5-now-costs-usd375-minimum-ai-shortage-continues-to-squeeze-pc-building": {
+    "title": "32GB of DDR5 now costs $375 – AI shortage continues to squeeze PC building",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-03T16:31:23.430764+00:00",
+    "published": "2026-06-03T12:43:43+00:00"
+  },
+  "https://www.bbc.com/news/articles/c93x0k194yno": {
+    "title": "Meta workers can opt out of being tracked at work up to 30 min",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-03T16:31:23.430764+00:00",
+    "published": "2026-06-03T12:42:07+00:00"
+  },
+  "https://simonwillison.net/2026/Jun/3/uber-caps-usage": {
+    "title": "Uber Caps Usage of AI Tools Like Claude Code to Manage Costs",
+    "source": "Simon Willison",
+    "first_seen": "2026-06-03T16:31:23.430764+00:00",
+    "published": "2026-06-03T12:01:27+00:00"
+  },
+  "https://news.ycombinator.com/item?id=48382853": {
+    "title": "Piramidal (YC W24) – Software Engineers – NYC Onsite",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-03T16:31:23.430764+00:00",
+    "published": "2026-06-03T12:00:18+00:00"
+  },
+  "https://realpython.com/quizzes/github-copilot-code-review": {
+    "title": "Quiz: How to Use GitHub Copilot Code Review in Pull Requests",
+    "source": "Real Python",
+    "first_seen": "2026-06-03T16:31:23.430764+00:00",
+    "published": "2026-06-03T12:00:00+00:00"
+  },
+  "https://www.databricks.com/blog/cross-industry-technology-and-functional-genie-partner-solutions": {
+    "title": "Scaling Enterprise Conversational Intelligence: Cross-industry Technology and Functional Solutions Powered by Databricks Genie",
+    "source": "Databricks Blog",
+    "first_seen": "2026-06-03T16:31:23.430764+00:00",
+    "published": "2026-06-03T11:45:00+00:00"
+  },
+  "https://www.phoronix.com/news/Ubuntu-Newer-ROCm-SRUs": {
+    "title": "Ubuntu To Ship Newer AMD ROCm Updates Via SRUs",
+    "source": "Phoronix",
+    "first_seen": "2026-06-03T16:31:23.430764+00:00",
+    "published": "2026-06-03T11:44:04+00:00"
+  },
+  "https://www.schneier.com/blog/archives/2026/06/ai-used-to-decrypt-medieval-ciphers.html": {
+    "title": "AI Used to Decrypt Medieval Ciphers",
+    "source": "Schneier on Security",
+    "first_seen": "2026-06-03T16:31:23.430764+00:00",
+    "published": "2026-06-03T11:04:40+00:00"
+  },
+  "https://fzakaria.com/2026/06/01/every-byte-matters": {
+    "title": "Every Byte Matters",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-03T16:31:23.430764+00:00",
+    "published": "2026-06-03T11:04:04+00:00"
+  },
+  "https://blog.trailofbits.com/2026/06/03/the-sorry-state-of-skill-distribution": {
+    "title": "The sorry state of skill distribution",
+    "source": "Trail of Bits",
+    "first_seen": "2026-06-03T16:31:23.430764+00:00",
+    "published": "2026-06-03T11:00:00+00:00"
+  },
+  "https://blog.nns.ee/2026/06/03/katana-badusb": {
+    "title": "Hacking your PC using your speaker without ever touching it",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-03T16:31:23.430764+00:00",
+    "published": "2026-06-03T10:53:00+00:00"
+  },
+  "http://bryanhu.com/blog/posts/what-ive-learned-about-the-trombone": {
+    "title": "What I've learned about the trombone",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-03T16:31:23.430764+00:00",
+    "published": "2026-06-03T10:51:29+00:00"
+  },
+  "https://www.copetti.org/writings/consoles/playstation": {
+    "title": "PlayStation Architecture",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-03T16:31:23.430764+00:00",
+    "published": "2026-06-03T10:24:25+00:00"
+  },
+  "https://leidendeclaration.ai": {
+    "title": "Leiden Declaration on Artificial Intelligence and Mathematics",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-03T16:31:23.430764+00:00",
+    "published": "2026-06-03T06:33:27+00:00"
+  },
+  "https://medium.com/@kivancgunalp/i-found-a-bug-in-apples-fsck-hfs-here-s-how-i-tracked-it-down-edc782ce5cf9": {
+    "title": "I Found a Bug in Apple's Fsck_hfs",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-03T16:31:23.430764+00:00",
+    "published": "2026-06-03T00:59:19+00:00"
+  },
+  "https://www.elastic.co/blog/jesse-sladek-partnerships": {
+    "title": "The platform cycle has turned. Here’s how partners win it.",
+    "source": "Elastic Blog",
+    "first_seen": "2026-06-03T16:31:23.430764+00:00",
+    "published": "2026-06-03T00:00:00+00:00"
+  },
+  "https://huggingface.co/blog/adding-mcp-tools-to-reachy-mini": {
+    "title": "Adding MCP Tools to Reachy Mini",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-06-03T16:31:23.430764+00:00",
+    "published": "2026-06-03T00:00:00+00:00"
   }
 }
