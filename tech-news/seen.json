@@ -32558,5 +32558,161 @@
     "source": "Python Insider",
     "first_seen": "2026-06-02T21:56:43.529078+00:00",
     "published": "2026-06-02T00:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/Hopper-Blackwell-Nova-Closer": {
+    "title": "NVIDIA Hopper & Blackwell GPU Support Moves Closer For Open-Source Nova Driver",
+    "source": "Phoronix",
+    "first_seen": "2026-06-03T10:32:01.638691+00:00",
+    "published": "2026-06-03T10:26:01+00:00"
+  },
+  "https://www.phoronix.com/news/Intel-XPU-Manager-B65-B70": {
+    "title": "Intel XPU Manager Adds Support For Arc Pro B65 + Arc Pro B70",
+    "source": "Phoronix",
+    "first_seen": "2026-06-03T10:32:01.638691+00:00",
+    "published": "2026-06-03T10:17:16+00:00"
+  },
+  "https://stratechery.com/2026/the-nvidia-ai-pc-project-solara-microsoft-ai": {
+    "title": "The Nvidia AI PC, Project Solara, Microsoft AI",
+    "source": "Stratechery",
+    "first_seen": "2026-06-03T10:32:01.638691+00:00",
+    "published": "2026-06-03T10:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/MS-Coreutils-For-Windows": {
+    "title": "Microsoft Announces Coreutils For Windows: Derived From Rust Coreutils",
+    "source": "Phoronix",
+    "first_seen": "2026-06-03T10:32:01.638691+00:00",
+    "published": "2026-06-03T09:47:58+00:00"
+  },
+  "https://www.phoronix.com/news/KRAID-Merged-To-Mesa": {
+    "title": "New \"KRAID\" Compiler Merged To Mesa For Panfrost/PanVK Drivers",
+    "source": "Phoronix",
+    "first_seen": "2026-06-03T10:32:01.638691+00:00",
+    "published": "2026-06-03T09:44:02+00:00"
+  },
+  "https://46elks.com/blog/2026/05/29/an-amazing-time-for-programmers": {
+    "title": "It is an amazing time for programmers",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-03T10:32:01.638691+00:00",
+    "published": "2026-06-03T08:00:14+00:00"
+  },
+  "https://www.science.org/content/article/doubling-down-controversial-claims-microsoft-accelerates-quantum-computing-plans": {
+    "title": "Microsoft Doubles Down on Controversial Quantum Computing Claims",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-03T10:32:01.638691+00:00",
+    "published": "2026-06-03T06:04:36+00:00"
+  },
+  "https://alphapixeldev.com/recovering-eric-grahams-1987-amiga-juggler-raytracer-source-code": {
+    "title": "Recovering Eric Graham's 1987 Amiga Juggler raytracer source code",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-03T10:32:01.638691+00:00",
+    "published": "2026-06-03T05:49:31+00:00"
+  },
+  "https://research.ligo.bio/posts/unreasonable-redundancy-of-natural-protein-folds": {
+    "title": "The Unreasonable Redundancy of Nature's Protein Folds",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-03T10:32:01.638691+00:00",
+    "published": "2026-06-03T03:47:56+00:00"
+  },
+  "https://www.utoronto.ca/news/u-t-researchers-demonstrate-ai-worm-could-target-any-online-device": {
+    "title": "U of T researchers demonstrate AI worm could target any online device",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-03T10:32:01.638691+00:00",
+    "published": "2026-06-03T03:47:21+00:00"
+  },
+  "https://www.capstone-engine.org": {
+    "title": "Capstone – multi-platform, multi-architecture disassembly framework",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-03T10:32:01.638691+00:00",
+    "published": "2026-06-03T01:59:46+00:00"
+  },
+  "https://blog.roku.com/developer/roku-lt-os": {
+    "title": "Roku LT Operating System open source distribution",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-03T10:32:01.638691+00:00",
+    "published": "2026-06-03T01:13:38+00:00"
+  },
+  "https://www.phoronix.com/news/Steam-Snap-ARM64-Build-Stable": {
+    "title": "Canonical Now Considers Their Steam Snap For ARM64 To Be Stable",
+    "source": "Phoronix",
+    "first_seen": "2026-06-03T10:32:01.638691+00:00",
+    "published": "2026-06-03T00:50:48+00:00"
+  },
+  "https://www.phoronix.com/news/Marek-100p-Pixel-Throughput-Opt": {
+    "title": "Marek Olšák Scores Up To 100% Pixel Throughput Optimization For RADV Driver",
+    "source": "Phoronix",
+    "first_seen": "2026-06-03T10:32:01.638691+00:00",
+    "published": "2026-06-03T00:30:47+00:00"
+  },
+  "https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study": {
+    "title": "AI outperforms law professors in Stanford Law study",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-03T10:32:01.638691+00:00",
+    "published": "2026-06-02T23:43:12+00:00"
+  },
+  "https://discourse.julialang.org/t/pluto-1-0-release/137296": {
+    "title": "Pluto.jl 1.0 release – reactive notebook for Julia",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-03T10:32:01.638691+00:00",
+    "published": "2026-06-02T23:09:09+00:00"
+  },
+  "https://github.com/c0dejedi/nbd-vram": {
+    "title": "Use your Nvidia GPU's VRAM as swap space on Linux",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-03T10:32:01.638691+00:00",
+    "published": "2026-06-02T22:55:33+00:00"
+  },
+  "https://archaeologymag.com/2026/05/mohenjo-daro-grew-more-equal-over-time": {
+    "title": "4K years ago, Mohenjo-daro grew more equal over time",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-03T10:32:01.638691+00:00",
+    "published": "2026-06-02T22:22:34+00:00"
+  },
+  "https://simonwillison.net/2026/Jun/2/microsofts-new-models": {
+    "title": "Microsoft's new MAI models",
+    "source": "Simon Willison",
+    "first_seen": "2026-06-03T10:32:01.638691+00:00",
+    "published": "2026-06-02T22:21:52+00:00"
+  },
+  "https://simonwillison.net/2026/Jun/2/datasette-agent-micropython": {
+    "title": "datasette-agent-micropython 0.1a0",
+    "source": "Simon Willison",
+    "first_seen": "2026-06-03T10:32:01.638691+00:00",
+    "published": "2026-06-02T19:28:36+00:00"
+  },
+  "https://simonwillison.net/2026/Jun/2/micropython-wasm": {
+    "title": "micropython-wasm 0.1a1",
+    "source": "Simon Willison",
+    "first_seen": "2026-06-03T10:32:01.638691+00:00",
+    "published": "2026-06-02T19:20:47+00:00"
+  },
+  "https://handwritten.danieljanus.pl/2026-06-01-edsger.html": {
+    "title": "Show HN: Edsger – A handwritten Clojure REPL for the reMarkable 2",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-03T10:32:01.638691+00:00",
+    "published": "2026-06-02T18:52:52+00:00"
+  },
+  "https://simonwillison.net/2026/Jun/2/sighting-367841339": {
+    "title": "California Brown Pelican",
+    "source": "Simon Willison",
+    "first_seen": "2026-06-03T10:32:01.638691+00:00",
+    "published": "2026-06-02T18:17:03+00:00"
+  },
+  "https://developer.chrome.com/blog/new-in-devtools-149?hl=en": {
+    "title": "What's new in DevTools (Chrome 149)",
+    "source": "Chrome Developers",
+    "first_seen": "2026-06-03T10:32:01.638691+00:00",
+    "published": "2026-06-02T07:00:00+00:00"
+  },
+  "https://developer.chrome.com/blog/new-in-chrome-149?hl=en": {
+    "title": "New in Chrome 149",
+    "source": "Chrome Developers",
+    "first_seen": "2026-06-03T10:32:01.638691+00:00",
+    "published": "2026-06-02T07:00:00+00:00"
+  },
+  "https://simonwillison.net/2026/Jun/2/micropython-wasm-2": {
+    "title": "micropython-wasm 0.1a0",
+    "source": "Simon Willison",
+    "first_seen": "2026-06-03T10:32:01.638691+00:00",
+    "published": "2026-06-02T03:43:45+00:00"
   }
 }
