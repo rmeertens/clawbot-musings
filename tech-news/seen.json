@@ -32984,5 +32984,215 @@
     "source": "Hugging Face Blog",
     "first_seen": "2026-06-03T16:31:23.430764+00:00",
     "published": "2026-06-03T00:00:00+00:00"
+  },
+  "https://www.ableton.com/en/live/extensions": {
+    "title": "Ableton Extensions SDK",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-03T21:57:17.258362+00:00",
+    "published": "2026-06-03T20:39:34+00:00"
+  },
+  "https://github.com/zaydmulani09/mnemo": {
+    "title": "Show HN: Mnemo – local-first AI memory layer for any LLM (Rust, SQLite,petgraph)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-03T21:57:17.258362+00:00",
+    "published": "2026-06-03T20:32:10+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/schedule-notebook-runs-in-amazon-sagemaker-unified-studio": {
+    "title": "Schedule notebook runs in Amazon SageMaker Unified Studio",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-06-03T21:57:17.258362+00:00",
+    "published": "2026-06-03T20:19:11+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/how-to-build-self-driving-ai-operations-on-amazon-bedrock-at-scale": {
+    "title": "How to build self-driving AI operations on Amazon Bedrock at scale",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-06-03T21:57:17.258362+00:00",
+    "published": "2026-06-03T20:14:16+00:00"
+  },
+  "https://thenewstack.io/tokenomics-foundation": {
+    "title": "The AI cost crisis finally has a watchdog — just not the companies causing it",
+    "source": "The New Stack",
+    "first_seen": "2026-06-03T21:57:17.258362+00:00",
+    "published": "2026-06-03T20:10:39+00:00"
+  },
+  "https://lithub.com/the-man-who-reads-books-for-a-living-one-every-two-days": {
+    "title": "A Man Who Reads Books for a Living (One Every Two Days)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-03T21:57:17.258362+00:00",
+    "published": "2026-06-03T20:08:33+00:00"
+  },
+  "https://thenewstack.io/secure-ot-data-movement": {
+    "title": "How to get operational data off the factory floor without creating an IT breach",
+    "source": "The New Stack",
+    "first_seen": "2026-06-03T21:57:17.258362+00:00",
+    "published": "2026-06-03T19:55:06+00:00"
+  },
+  "https://github.com/tastyeffectco/sandboxes": {
+    "title": "Self-hosted dev sandboxes with preview URLs (Docker, Go, no K8s)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-03T21:57:17.258362+00:00",
+    "published": "2026-06-03T19:43:37+00:00"
+  },
+  "https://brume.aftertone.co": {
+    "title": "Brume is a 24-voice multi-timbral desktop synth for the CM5",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-03T21:57:17.258362+00:00",
+    "published": "2026-06-03T19:41:21+00:00"
+  },
+  "https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released": {
+    "title": "Elixir v1.20: Now a gradually typed language",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-03T21:57:17.258362+00:00",
+    "published": "2026-06-03T19:02:26+00:00"
+  },
+  "https://rootshell.is": {
+    "title": "Rootshell: A new E2EE email service hosted in Iceland",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-03T21:57:17.258362+00:00",
+    "published": "2026-06-03T18:58:05+00:00"
+  },
+  "https://thenewstack.io/why-cpus-still-matter-in-the-age-of-ai-agents": {
+    "title": "Why CPUs still matter in the age of AI agents",
+    "source": "The New Stack",
+    "first_seen": "2026-06-03T21:57:17.258362+00:00",
+    "published": "2026-06-03T18:54:02+00:00"
+  },
+  "https://www.phoronix.com/news/COSMIC-Epoch-1.0.15": {
+    "title": "COSMIC Now Implements Wayland Pointer Constraints For Better Gaming Experience",
+    "source": "Phoronix",
+    "first_seen": "2026-06-03T21:57:17.258362+00:00",
+    "published": "2026-06-03T18:53:39+00:00"
+  },
+  "https://devblogs.microsoft.com/devops/how-microsoft-is-migrating-repositories-to-github": {
+    "title": "How Microsoft is migrating repositories to GitHub",
+    "source": "MS DevOps Blog",
+    "first_seen": "2026-06-03T21:57:17.258362+00:00",
+    "published": "2026-06-03T18:48:27+00:00"
+  },
+  "https://research.google/blog/the-next-chapter-in-flood-resilience-open-sourcing-googles-hydrology-framework": {
+    "title": "The next chapter in flood resilience: Open sourcing Google’s hydrology framework",
+    "source": "Google Research",
+    "first_seen": "2026-06-03T21:57:17.258362+00:00",
+    "published": "2026-06-03T18:37:32+00:00"
+  },
+  "https://aws.amazon.com/blogs/architecture/align-your-architecture-backlog-with-tech-roadmap-prioritization-trp": {
+    "title": "Align your architecture backlog with Tech Roadmap Prioritization (TRP)",
+    "source": "AWS Architecture Blog",
+    "first_seen": "2026-06-03T21:57:17.258362+00:00",
+    "published": "2026-06-03T18:08:51+00:00"
+  },
+  "https://newsletter.pragmaticengineer.com/p/kubernetes-and-retiring-at-the-top": {
+    "title": "Kubernetes and retiring at the top with Kelsey Hightower",
+    "source": "The Pragmatic Engineer",
+    "first_seen": "2026-06-03T21:57:17.258362+00:00",
+    "published": "2026-06-03T17:59:17+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/fundamentals-large-tabular-model-nexus-is-now-available-on-amazon-sagemaker-jumpstart": {
+    "title": "Fundamental’s Large Tabular Model NEXUS is now available on Amazon SageMaker JumpStart",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-06-03T21:57:17.258362+00:00",
+    "published": "2026-06-03T17:55:37+00:00"
+  },
+  "https://nouvelles.umontreal.ca/en/article/2026/06/02/how-embryos-shape-their-limbs-a-key-discovery-of-genetic-brakes": {
+    "title": "Embryos shape their limbs: a key discovery of \"genetic brakes\"",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-03T21:57:17.258362+00:00",
+    "published": "2026-06-03T17:50:16+00:00"
+  },
+  "https://news.ycombinator.com/item?id=48387095": {
+    "title": "Launch HN: Hyper (YC P26) – Company brain to power agentic development",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-03T21:57:17.258362+00:00",
+    "published": "2026-06-03T17:39:53+00:00"
+  },
+  "https://github.com/duanebester/gooey": {
+    "title": "Gooey: A GPU-accelerated UI framework for Zig",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-03T21:57:17.258362+00:00",
+    "published": "2026-06-03T17:12:27+00:00"
+  },
+  "https://www.ycombinator.com/companies/skyvern/jobs/1qRTlVx-founding-developer-marketing-open-source-ai": {
+    "title": "Skyvern (YC S23) Is Hiring Open-Source Loving DevRel Engineers",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-03T21:57:17.258362+00:00",
+    "published": "2026-06-03T17:01:00+00:00"
+  },
+  "https://blog.cloudflare.com/enforce-first-as-bgp": {
+    "title": "Enforcing the First AS in BGP AS_PATHs",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-06-03T21:57:17.258362+00:00",
+    "published": "2026-06-03T17:00:00+00:00"
+  },
+  "https://blog.angular.dev/announcing-angular-v22-c52bb83a4664": {
+    "title": "Angular v22",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-03T21:57:17.258362+00:00",
+    "published": "2026-06-03T16:51:49+00:00"
+  },
+  "https://www.macrumors.com/2026/06/03/macbook-neo-production-doubled-says-kuo": {
+    "title": "MacBook Neo Is So Popular That Apple Doubled Production",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-03T21:57:17.258362+00:00",
+    "published": "2026-06-03T16:33:17+00:00"
+  },
+  "https://groupdiy.com/threads/the-new-ti-5532-chips-are-not-5532s-weve-used-for-decades.93707": {
+    "title": "New Texas Instruments 5532 chips are not the 5532s we’ve used for decades",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-03T21:57:17.258362+00:00",
+    "published": "2026-06-03T16:25:08+00:00"
+  },
+  "https://nutrepedia.com/en-us": {
+    "title": "Show HN: Nutrepedia – Nutrition info in 29 locales built with Clojure and Htmx",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-03T21:57:17.258362+00:00",
+    "published": "2026-06-03T16:24:46+00:00"
+  },
+  "https://www.espressif.com/en/products/socs/esp32-s31": {
+    "title": "ESP32-S31",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-03T21:57:17.258362+00:00",
+    "published": "2026-06-03T16:10:25+00:00"
+  },
+  "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b": {
+    "title": "Gemma 4 12B: A unified, encoder-free multimodal model",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-03T21:57:17.258362+00:00",
+    "published": "2026-06-03T16:04:42+00:00"
+  },
+  "https://burntsushi.net/encephalitis": {
+    "title": "I was recently diagnosed with anti-NMDA receptor encephalitis",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-03T21:57:17.258362+00:00",
+    "published": "2026-06-03T14:10:06+00:00"
+  },
+  "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind": {
+    "title": "Introducing new capabilities to GPT-Rosalind",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-06-03T21:57:17.258362+00:00",
+    "published": "2026-06-03T13:15:00+00:00"
+  },
+  "https://neon.com/blog/slop-fork-neon": {
+    "title": "I Slop Forked Neon. You Should Too.",
+    "source": "Neon Blog",
+    "first_seen": "2026-06-03T21:57:17.258362+00:00",
+    "published": "2026-06-03T12:00:00+00:00"
+  },
+  "https://openai.com/index/public-policy-agenda": {
+    "title": "OpenAI public policy agenda",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-06-03T21:57:17.258362+00:00",
+    "published": "2026-06-03T10:00:00+00:00"
+  },
+  "https://openai.com/index/frontier-safety-blueprint": {
+    "title": "A blueprint for democratic governance of frontier AI",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-06-03T21:57:17.258362+00:00",
+    "published": "2026-06-03T10:00:00+00:00"
+  },
+  "https://www.elastic.co/blog/data-gravity-in-cybersecurity": {
+    "title": "How to overcome data gravity and accelerate AI security in the SOC",
+    "source": "Elastic Blog",
+    "first_seen": "2026-06-03T21:57:17.258362+00:00",
+    "published": "2026-06-03T00:00:00+00:00"
   }
 }
