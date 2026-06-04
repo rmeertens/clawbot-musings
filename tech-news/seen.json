@@ -33194,5 +33194,131 @@
     "source": "Elastic Blog",
     "first_seen": "2026-06-03T21:57:17.258362+00:00",
     "published": "2026-06-03T00:00:00+00:00"
+  },
+  "https://openai.com/index/endava-frontiers": {
+    "title": "How Endava is redesigning software delivery around AI agents",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-06-04T10:15:51.842473+00:00",
+    "published": "2026-06-04T12:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/LLVM-Zstd-Compressed-Binaries": {
+    "title": "LLVM To Begin Offering Zstd-Compressed Binaries For \"Significantly Reduced\" Downloads",
+    "source": "Phoronix",
+    "first_seen": "2026-06-04T10:15:51.842473+00:00",
+    "published": "2026-06-04T10:06:11+00:00"
+  },
+  "https://stratechery.com/2026/an-interview-with-microsoft-ceo-satya-nadella-about-finding-core-competencies": {
+    "title": "An Interview with Microsoft CEO Satya Nadella About Finding Core Competencies",
+    "source": "Stratechery",
+    "first_seen": "2026-06-04T10:15:51.842473+00:00",
+    "published": "2026-06-04T10:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/Steam-Survey-May-2026": {
+    "title": "Steam Survey For May 2026 After Delay: Linux Just Under 4%",
+    "source": "Phoronix",
+    "first_seen": "2026-06-04T10:15:51.842473+00:00",
+    "published": "2026-06-04T09:38:00+00:00"
+  },
+  "https://uruky.com?il=en": {
+    "title": "Show HN: Uruky (EU-based Kagi alternative) now has Image Search and URL Rewrites",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-04T10:15:51.842473+00:00",
+    "published": "2026-06-04T08:56:10+00:00"
+  },
+  "https://aoav.org.uk/2026/military-experts-or-arms-industry-insiders-uk-media-fails-to-disclose-defence-sector-links-in-nearly-60-of-cases": {
+    "title": "UK media fails to disclose defence sector links in nearly 60% of cases",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-04T10:15:51.842473+00:00",
+    "published": "2026-06-04T08:45:36+00:00"
+  },
+  "https://www.phoronix.com/news/libinput-1.31.2-Security-Fix": {
+    "title": "Widely-Used libinput Updated Due To Arbitrary Root Code Execution",
+    "source": "Phoronix",
+    "first_seen": "2026-06-04T10:15:51.842473+00:00",
+    "published": "2026-06-04T01:46:34+00:00"
+  },
+  "https://lwn.net/Articles/1074950": {
+    "title": "[$] LWN.net Weekly Edition for June 4, 2026",
+    "source": "LWN.net",
+    "first_seen": "2026-06-04T10:15:51.842473+00:00",
+    "published": "2026-06-04T01:31:14+00:00"
+  },
+  "https://www.phoronix.com/news/3mdeb-June-B850-P-WiFI": {
+    "title": "3mdeb Keeps Making Progress On Their Coreboot + AMD openSIL Port To Ryzen MSI Board",
+    "source": "Phoronix",
+    "first_seen": "2026-06-04T10:15:51.842473+00:00",
+    "published": "2026-06-04T00:59:32+00:00"
+  },
+  "https://kasra.blog/blog/i-spent-1500-seeing-if-llms-could-hack-my-app": {
+    "title": "I built a vulnerable app and spent $1,500 seeing if LLMs could hack it",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-04T10:15:51.842473+00:00",
+    "published": "2026-06-04T00:56:32+00:00"
+  },
+  "https://dumb.co": {
+    "title": "Dumbphone 2",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-04T10:15:51.842473+00:00",
+    "published": "2026-06-04T00:41:09+00:00"
+  },
+  "https://www.anthropic.com/engineering/how-we-contain-claude": {
+    "title": "The ways we contain Claude across products",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-04T10:15:51.842473+00:00",
+    "published": "2026-06-04T00:27:52+00:00"
+  },
+  "https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html": {
+    "title": "Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-04T10:15:51.842473+00:00",
+    "published": "2026-06-04T00:18:02+00:00"
+  },
+  "https://maxleiter.com/blog/weights": {
+    "title": "They’re made out of weights",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-04T10:15:51.842473+00:00",
+    "published": "2026-06-03T23:37:18+00:00"
+  },
+  "https://www.cncf.io/blog/2026/06/03/inspektor-gadget-results-from-the-first-security-audit": {
+    "title": "Inspektor Gadget: Results from the first security audit",
+    "source": "CNCF Blog",
+    "first_seen": "2026-06-04T10:15:51.842473+00:00",
+    "published": "2026-06-03T23:01:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/aws/improve-your-application-resilience-with-amazon-cognito-multi-region-replication": {
+    "title": "Improve your application resilience with Amazon Cognito multi-Region replication",
+    "source": "AWS Blog",
+    "first_seen": "2026-06-04T10:15:51.842473+00:00",
+    "published": "2026-06-03T22:37:29+00:00"
+  },
+  "https://opensource.googleblog.com/2026/06/journey-to-jpeg-xl-how-open-source-experiments-shaped-the-future-of-image-coding.html": {
+    "title": "Journey to JPEG XL: open-source experiments shaped the future of image coding",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-04T10:15:51.842473+00:00",
+    "published": "2026-06-03T21:55:23+00:00"
+  },
+  "https://worrydream.com/refs/Lockhart_2002_-_A_Mathematician%27s_Lament.pdf": {
+    "title": "A Mathematician's Lament (2002) [pdf]",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-04T10:15:51.842473+00:00",
+    "published": "2026-06-03T21:32:10+00:00"
+  },
+  "https://www.databricks.com/blog/apache-spark-real-time-mode-gaming-better-way-do-real-time-sessionization": {
+    "title": "Apache Spark Real-Time Mode for Gaming: A Better Way to Do Real-Time Sessionization",
+    "source": "Databricks Blog",
+    "first_seen": "2026-06-04T10:15:51.842473+00:00",
+    "published": "2026-06-03T20:25:00+00:00"
+  },
+  "https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378": {
+    "title": "Artificial intelligence is not conscious – Ted Chiang",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-04T10:15:51.842473+00:00",
+    "published": "2026-06-03T17:51:37+00:00"
+  },
+  "https://openai.com/index/wasmer": {
+    "title": "How Wasmer used Codex to build a Node.js runtime for the edge",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-06-04T10:15:51.842473+00:00",
+    "published": "2026-06-03T12:00:00+00:00"
   }
 }
