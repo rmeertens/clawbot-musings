@@ -34112,5 +34112,149 @@
     "source": "Golang Weekly",
     "first_seen": "2026-06-05T15:58:25.926771+00:00",
     "published": "2026-06-05T00:00:00+00:00"
+  },
+  "https://elijahpotter.dev/articles/hacker-news-sans-AI": {
+    "title": "Hacker News, Sans AI",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-05T21:28:44.640447+00:00",
+    "published": "2026-06-05T20:38:40+00:00"
+  },
+  "https://www.phoronix.com/news/Ubuntu-26.10-Desktop-Features": {
+    "title": "Ubuntu 26.10 To Begin Laying Foundation For Context-Aware Desktop, Other New Features",
+    "source": "Phoronix",
+    "first_seen": "2026-06-05T21:28:44.640447+00:00",
+    "published": "2026-06-05T20:02:23+00:00"
+  },
+  "https://www.githubstatus.com/incidents/2nmfnbknhlnv": {
+    "title": "Accidentally deleted subscriptions for chat integrations (Slack and MS Teams)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-05T21:28:44.640447+00:00",
+    "published": "2026-06-05T19:15:36+00:00"
+  },
+  "https://aws.amazon.com/blogs/aws/try-the-new-console-experience-in-amazon-bedrock-optimized-for-anthropic-and-openai-compatible-apis": {
+    "title": "Try the new console experience in Amazon Bedrock, optimized for Anthropic- and OpenAI-compatible APIs",
+    "source": "AWS Blog",
+    "first_seen": "2026-06-05T21:28:44.640447+00:00",
+    "published": "2026-06-05T19:15:11+00:00"
+  },
+  "https://twitter.com/eastdakota/status/2062860530360959273": {
+    "title": "Three of our worst VC stories",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-05T21:28:44.640447+00:00",
+    "published": "2026-06-05T19:08:12+00:00"
+  },
+  "https://thenewstack.io/replit-shopify-storefront-integration": {
+    "title": "Replit shows how vibe coding is getting its own financial stack — and a path to profit",
+    "source": "The New Stack",
+    "first_seen": "2026-06-05T21:28:44.640447+00:00",
+    "published": "2026-06-05T19:03:28+00:00"
+  },
+  "https://thenewstack.io/cloudflare-voidzero-acquisition-vite": {
+    "title": "Cloudflare aqui-hires VoidZero: Did a piece of the open web just stabilize, or become more brittle?",
+    "source": "The New Stack",
+    "first_seen": "2026-06-05T21:28:44.640447+00:00",
+    "published": "2026-06-05T19:01:18+00:00"
+  },
+  "https://openreview.net/pdf?id=Yxz92UuPLQ": {
+    "title": "Transformers Are Inherently Succinct",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-05T21:28:44.640447+00:00",
+    "published": "2026-06-05T18:50:26+00:00"
+  },
+  "https://www.docker.com/blog/what-is-ai-governance": {
+    "title": "What is AI Governance? Frameworks, Principles, and Best Practices",
+    "source": "Docker Blog",
+    "first_seen": "2026-06-05T21:28:44.640447+00:00",
+    "published": "2026-06-05T18:39:35+00:00"
+  },
+  "https://aws.amazon.com/blogs/security/building-secure-b2c-applications-with-fine-grained-access-control-using-amazon-cognito-and-amazon-verified-permissions": {
+    "title": "Building secure B2C applications with fine-grained access control using Amazon Cognito and Amazon Verified Permissions",
+    "source": "AWS Security Blog",
+    "first_seen": "2026-06-05T21:28:44.640447+00:00",
+    "published": "2026-06-05T17:07:06+00:00"
+  },
+  "https://www.phoronix.com/news/CUDA-Oxide-0.2": {
+    "title": "CUDA-Oxide 0.2 Brings Early Improvements To Pure Rust CUDA Kernels",
+    "source": "Phoronix",
+    "first_seen": "2026-06-05T21:28:44.640447+00:00",
+    "published": "2026-06-05T17:06:55+00:00"
+  },
+  "https://stratechery.com/2026/power-shifts": {
+    "title": "2026.23: Power Shifts",
+    "source": "Stratechery",
+    "first_seen": "2026-06-05T21:28:44.640447+00:00",
+    "published": "2026-06-05T17:00:00+00:00"
+  },
+  "https://www.theregister.com/public-sector/2026/06/04/govuk-goes-dutch-on-payments-as-it-dumps-stripe/5250763": {
+    "title": "Gov.uk has replaced Stripe with Dutch provider Adyen",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-05T21:28:44.640447+00:00",
+    "published": "2026-06-05T16:55:30+00:00"
+  },
+  "https://github.com/icflorescu/mantine-datatable/discussions/813": {
+    "title": "Mantine-datatable (and others) compromised – owner account suspended",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-05T21:28:44.640447+00:00",
+    "published": "2026-06-05T16:39:57+00:00"
+  },
+  "https://news.ycombinator.com/item?id=48414869": {
+    "title": "Launch HN: General Instinct (YC P26) – Frontier models on edge devices",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-05T21:28:44.640447+00:00",
+    "published": "2026-06-05T16:33:00+00:00"
+  },
+  "https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4": {
+    "title": "Gemma 4 QAT models: Optimizing compression for mobile and laptop efficiency",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-05T21:28:44.640447+00:00",
+    "published": "2026-06-05T16:18:48+00:00"
+  },
+  "https://github.com/microsoft/pg_durable": {
+    "title": "pg_durable: Microsoft open sources in-database durable execution",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-05T21:28:44.640447+00:00",
+    "published": "2026-06-05T15:59:57+00:00"
+  },
+  "https://sumnerevans.com/posts/software-engineering/stop-using-conventional-commits": {
+    "title": "Conventional Commits encourages focus on the wrong things",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-05T21:28:44.640447+00:00",
+    "published": "2026-06-05T15:39:38+00:00"
+  },
+  "https://www.rochester.edu/newscenter/what-is-desalination-definition-ocean-water-704732": {
+    "title": "New method turns ocean water into drinking water, without waste",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-05T21:28:44.640447+00:00",
+    "published": "2026-06-05T15:04:03+00:00"
+  },
+  "https://www.economist.com/leaders/2026/06/04/indias-surprise-baby-bust-is-a-warning-to-the-world": {
+    "title": "India's surprise baby bust",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-05T21:28:44.640447+00:00",
+    "published": "2026-06-05T14:44:44+00:00"
+  },
+  "https://www.databricks.com/blog/enabling-evolutionary-database-development-database-branching-lakebase-part-2": {
+    "title": "Enabling Evolutionary Database Development: database branching with Lakebase, continued",
+    "source": "Databricks Blog",
+    "first_seen": "2026-06-05T21:28:44.640447+00:00",
+    "published": "2026-06-05T13:35:15+00:00"
+  },
+  "https://alexispurslane.github.io/rsync-analysis": {
+    "title": "Did Claude increase bugs in rsync?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-05T21:28:44.640447+00:00",
+    "published": "2026-06-05T12:43:33+00:00"
+  },
+  "https://research.google/blog/unlocking-dependable-responses-with-gemini-enterprise-agent-platforms-agentic-rag": {
+    "title": "Unlocking dependable responses with Gemini Enterprise Agent Platform’s Agentic RAG",
+    "source": "Google Research",
+    "first_seen": "2026-06-05T21:28:44.640447+00:00",
+    "published": "2026-06-05T11:26:00+00:00"
+  },
+  "https://blog.sentry.io/errors-traces-logs-metrics-when-to-reach-for-what": {
+    "title": "Errors, traces, logs, metrics: when to reach for what",
+    "source": "Sentry Blog",
+    "first_seen": "2026-06-05T21:28:44.640447+00:00",
+    "published": "2026-06-05T09:00:00+00:00"
   }
 }
