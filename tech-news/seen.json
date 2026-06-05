@@ -33938,5 +33938,179 @@
     "source": "HashiCorp Blog",
     "first_seen": "2026-06-05T10:19:42.321548+00:00",
     "published": "2026-06-04T07:09:00+00:00"
+  },
+  "https://news.ycombinator.com/item?id=48413629": {
+    "title": "Ask HN: What is your (AI) dev tech stack / workflow? (June 2026)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-05T15:58:25.926771+00:00",
+    "published": "2026-06-05T15:13:54+00:00"
+  },
+  "https://www.bbc.com/news/live/c4g44ew3g1kt": {
+    "title": "Astronauts on ISS told to shelter as repairs under way to fix air leaks",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-05T15:58:25.926771+00:00",
+    "published": "2026-06-05T15:00:31+00:00"
+  },
+  "https://scienceaim.com/new-york-just-passed-a-one-year-temporary-ban-on-data-centers": {
+    "title": "New York just passed a one-year temporary ban on data centers",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-05T15:58:25.926771+00:00",
+    "published": "2026-06-05T14:49:49+00:00"
+  },
+  "https://nltimes.nl/2026/06/05/dutch-govt-will-allow-european-company-operate-digid-platform": {
+    "title": "Dutch gov't will only allow European company to operate DigiD platform",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-05T15:58:25.926771+00:00",
+    "published": "2026-06-05T14:48:44+00:00"
+  },
+  "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026": {
+    "title": "The latest AI news we announced in May 2026",
+    "source": "Google AI Blog",
+    "first_seen": "2026-06-05T15:58:25.926771+00:00",
+    "published": "2026-06-05T14:45:00+00:00"
+  },
+  "https://fagnerbrack.com/technical-interviews-reject-the-wrong-engineers-a8e78ca04b2e": {
+    "title": "Technical Interviews Reject the Wrong Engineers",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-05T15:58:25.926771+00:00",
+    "published": "2026-06-05T14:39:02+00:00"
+  },
+  "https://www.jeffgeerling.com/blog/2026/i-tested-every-ip-kvm": {
+    "title": "I tested every IP KVM in my Homelab",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-05T15:58:25.926771+00:00",
+    "published": "2026-06-05T14:30:50+00:00"
+  },
+  "https://lwn.net/Articles/1076018": {
+    "title": "[$] Moving beyond fork() + exec()",
+    "source": "LWN.net",
+    "first_seen": "2026-06-05T15:58:25.926771+00:00",
+    "published": "2026-06-05T14:06:43+00:00"
+  },
+  "https://cloud.google.com/blog/topics/threat-intelligence/targeted-campaign-us-law-firms": {
+    "title": "Seeking Counsel: Ongoing Targeted Campaign Against US Law Firms",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-06-05T15:58:25.926771+00:00",
+    "published": "2026-06-05T14:00:00+00:00"
+  },
+  "https://www.phoronix.com/review/nvidia-vera-arm-server": {
+    "title": "ARM Linux Server Performance Up More Than 7x Geo Mean In 8 Years, As Much As 15x With NVIDIA Vera CPU",
+    "source": "Phoronix",
+    "first_seen": "2026-06-05T15:58:25.926771+00:00",
+    "published": "2026-06-05T13:44:00+00:00"
+  },
+  "https://www.phoronix.com/news/Vulkan-1.4.353": {
+    "title": "Vulkan 1.4.353 Released With Three New Extensions",
+    "source": "Phoronix",
+    "first_seen": "2026-06-05T15:58:25.926771+00:00",
+    "published": "2026-06-05T13:35:40+00:00"
+  },
+  "https://www.schneier.com/blog/archives/2026/06/ai-worm.html": {
+    "title": "AI Worm",
+    "source": "Schneier on Security",
+    "first_seen": "2026-06-05T15:58:25.926771+00:00",
+    "published": "2026-06-05T13:21:23+00:00"
+  },
+  "https://www.databricks.com/blog/data-ai-summit-2026-insiders-guide-financial-services-leaders": {
+    "title": "Data + AI Summit 2026: Insider’s Guide for Financial Services Leaders",
+    "source": "Databricks Blog",
+    "first_seen": "2026-06-05T15:58:25.926771+00:00",
+    "published": "2026-06-05T13:00:00+00:00"
+  },
+  "https://blog.cloudflare.com/ai-gateway-spend-limits": {
+    "title": "Your AI bill is out of control. Cloudflare can fix it now.",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-06-05T15:58:25.926771+00:00",
+    "published": "2026-06-05T13:00:00+00:00"
+  },
+  "https://lwn.net/Articles/1076526": {
+    "title": "Ruby's Bundler adds a cooldown feature",
+    "source": "LWN.net",
+    "first_seen": "2026-06-05T15:58:25.926771+00:00",
+    "published": "2026-06-05T12:57:00+00:00"
+  },
+  "https://lwn.net/Articles/1076605": {
+    "title": "Security updates for Friday",
+    "source": "LWN.net",
+    "first_seen": "2026-06-05T15:58:25.926771+00:00",
+    "published": "2026-06-05T12:56:47+00:00"
+  },
+  "https://www.tigerdata.com/blog/row-vs-columnar-storage-analytics-postgresql-scans": {
+    "title": "Row vs Columnar Storage for Analytics: Why PostgreSQL Scans Are Slower Than They Should Be",
+    "source": "Timescale Blog",
+    "first_seen": "2026-06-05T15:58:25.926771+00:00",
+    "published": "2026-06-05T12:48:04+00:00"
+  },
+  "https://blog.plover.com/2026/03/09": {
+    "title": "Programmers will document for Claude, but not for each other",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-05T15:58:25.926771+00:00",
+    "published": "2026-06-05T12:30:17+00:00"
+  },
+  "https://www.phoronix.com/news/SpacemiT-K1-K3-Linux-7.2": {
+    "title": "More SpacemiT K3 & K1 Support Landing In Upstream Linux 7.2",
+    "source": "Phoronix",
+    "first_seen": "2026-06-05T15:58:25.926771+00:00",
+    "published": "2026-06-05T12:16:46+00:00"
+  },
+  "https://nango.dev/careers": {
+    "title": "Nango (YC W23, dev infra) is hiring staff back end engineers",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-05T15:58:25.926771+00:00",
+    "published": "2026-06-05T12:00:18+00:00"
+  },
+  "https://realpython.com/podcasts/rpp/298": {
+    "title": "The Real Python Podcast – Episode #298: Reducing the Size of Python Docker Containers",
+    "source": "Real Python",
+    "first_seen": "2026-06-05T15:58:25.926771+00:00",
+    "published": "2026-06-05T12:00:00+00:00"
+  },
+  "https://simonwillison.net/2026/Jun/5/andreas-kling": {
+    "title": "Quoting Andreas Kling",
+    "source": "Simon Willison",
+    "first_seen": "2026-06-05T15:58:25.926771+00:00",
+    "published": "2026-06-05T11:10:05+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.2-DRM-Rust": {
+    "title": "NVIDIA's Nova Driver Continues Being Built Up In Linux 7.2 Along With Other DRM Rust Code",
+    "source": "Phoronix",
+    "first_seen": "2026-06-05T15:58:25.926771+00:00",
+    "published": "2026-06-05T10:56:00+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.2-AMDGPU-Non-4K": {
+    "title": "Linux 7.2 Continues Improving AMDGPU Support On POWER, ARM",
+    "source": "Phoronix",
+    "first_seen": "2026-06-05T15:58:25.926771+00:00",
+    "published": "2026-06-05T10:42:39+00:00"
+  },
+  "https://www.phoronix.com/news/GNOME-51-Drops-EGLStreams": {
+    "title": "GNOME 51 Retires Legacy NVIDIA Driver Support With Removing EGLStreams",
+    "source": "Phoronix",
+    "first_seen": "2026-06-05T15:58:25.926771+00:00",
+    "published": "2026-06-05T10:28:28+00:00"
+  },
+  "https://github.com/zdk/lowfat": {
+    "title": "Show HN: Lowfat – pluggable CLI filter that saved 91.8% of my LLM tokens",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-05T15:58:25.926771+00:00",
+    "published": "2026-06-05T09:10:42+00:00"
+  },
+  "https://www.boxofcables.dev/azure-linux-4-0-is-microsofts-first-general-purpose-linux": {
+    "title": "Azure Linux 4.0 is Microsoft's first general-purpose Linux",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-05T15:58:25.926771+00:00",
+    "published": "2026-06-05T03:14:28+00:00"
+  },
+  "https://www.elastic.co/blog/agentic-socs-public-sector-cybersecurity": {
+    "title": "Agentic SOCs: The public sector’s new AI cybersecurity defense",
+    "source": "Elastic Blog",
+    "first_seen": "2026-06-05T15:58:25.926771+00:00",
+    "published": "2026-06-05T00:00:00+00:00"
+  },
+  "https://golangweekly.com/issues/604": {
+    "title": "Go experiments, explained",
+    "source": "Golang Weekly",
+    "first_seen": "2026-06-05T15:58:25.926771+00:00",
+    "published": "2026-06-05T00:00:00+00:00"
   }
 }
