@@ -34346,5 +34346,131 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-06-06T09:37:54.369322+00:00",
     "published": "2026-06-05T12:56:44+00:00"
+  },
+  "https://thenewstack.io/snowflake-coco-agentic-enterprise": {
+    "title": "“Whoever builds the most joyous product wins”: The agent war begins",
+    "source": "The New Stack",
+    "first_seen": "2026-06-06T15:24:55.261509+00:00",
+    "published": "2026-06-06T15:00:00+00:00"
+  },
+  "https://lwn.net/SubscriberLink/1076018/16f01bbbb8e0d1f0": {
+    "title": "Moving beyond fork() + exec()",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-06T15:24:55.261509+00:00",
+    "published": "2026-06-06T14:34:20+00:00"
+  },
+  "https://arxiv.org/abs/2606.05818": {
+    "title": "Benchmarks in Leipzig",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-06T15:24:55.261509+00:00",
+    "published": "2026-06-06T14:00:52+00:00"
+  },
+  "https://thenewstack.io/netlify-agent-experience-engineers": {
+    "title": "Netlify CTO Dana Lawson: Writing code is no longer the job",
+    "source": "The New Stack",
+    "first_seen": "2026-06-06T15:24:55.261509+00:00",
+    "published": "2026-06-06T14:00:00+00:00"
+  },
+  "https://www.reuters.com/business/us-house-lawmakers-release-draft-bill-regulate-ai-2026-06-04": {
+    "title": "US House lawmakers release draft bill to prohibit state AI rules",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-06T15:24:55.261509+00:00",
+    "published": "2026-06-06T13:40:22+00:00"
+  },
+  "https://www.wsj.com/tech/ai/meta-keeps-delaying-the-release-of-its-new-ai-model-to-developers-f8569c8c": {
+    "title": "Meta Keeps Delaying the Release of Its New AI Model to Developers",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-06T15:24:55.261509+00:00",
+    "published": "2026-06-06T12:15:59+00:00"
+  },
+  "https://www.phoronix.com/news/OpenCV-5.0-Released": {
+    "title": "OpenCV 5.0 Released With Rewritten DNN Engine, Built-In LLM & VLM Support",
+    "source": "Phoronix",
+    "first_seen": "2026-06-06T15:24:55.261509+00:00",
+    "published": "2026-06-06T12:06:13+00:00"
+  },
+  "https://engelsbergideas.com/notebook/the-new-bibliomaniacs": {
+    "title": "The new bibliomaniacs",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-06T15:24:55.261509+00:00",
+    "published": "2026-06-06T12:03:21+00:00"
+  },
+  "https://www.construction-physics.com/p/reading-list-060626": {
+    "title": "Reading List 06/06/26",
+    "source": "Construction Physics",
+    "first_seen": "2026-06-06T15:24:55.261509+00:00",
+    "published": "2026-06-06T12:02:44+00:00"
+  },
+  "https://www.ycombinator.com/companies/mbodi-ai/jobs/WYAcNkX-founding-machine-learning-engineer": {
+    "title": "Mbodi AI (YC P25) Is Hiring Founding Machine Learning Engineer (Robotics)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-06T15:24:55.261509+00:00",
+    "published": "2026-06-06T12:00:56+00:00"
+  },
+  "https://www.phoronix.com/news/Valve-New-AMD-Anti-Lag": {
+    "title": "Valve Developer Posts New AMD Anti-Lag Implementation For RADV Driver",
+    "source": "Phoronix",
+    "first_seen": "2026-06-06T15:24:55.261509+00:00",
+    "published": "2026-06-06T11:15:00+00:00"
+  },
+  "https://pokeemerald.com": {
+    "title": "Pokemon Emerald Ported to WebAssembly (100k FPS)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-06T15:24:55.261509+00:00",
+    "published": "2026-06-06T11:12:58+00:00"
+  },
+  "https://www.phoronix.com/news/Vulkan-Ape-Driver": {
+    "title": "Ape: A New Vulkan Driver Written In The Zig Programming Language",
+    "source": "Phoronix",
+    "first_seen": "2026-06-06T15:24:55.261509+00:00",
+    "published": "2026-06-06T11:03:00+00:00"
+  },
+  "https://thenewstack.io/notebook-to-production-ai": {
+    "title": "From Jupyter Notebook to production: How to ship AI systems that actually work",
+    "source": "The New Stack",
+    "first_seen": "2026-06-06T15:24:55.261509+00:00",
+    "published": "2026-06-06T11:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/Plasma-6.8-Low-Battery-Full-S": {
+    "title": "KDE Plasma 6.8 Will Make Sure You Don't Miss Your Low Battery Notifications While Gaming",
+    "source": "Phoronix",
+    "first_seen": "2026-06-06T15:24:55.261509+00:00",
+    "published": "2026-06-06T10:55:07+00:00"
+  },
+  "https://microsoft.github.io/RustTraining/python-book": {
+    "title": "Introduction – Rust for Python Programmers",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-06T15:24:55.261509+00:00",
+    "published": "2026-06-06T10:52:25+00:00"
+  },
+  "https://www.phoronix.com/news/GNUtrition-2026": {
+    "title": "GNU Gets Back Into Nutrition Software After 14 Year Hiatus",
+    "source": "Phoronix",
+    "first_seen": "2026-06-06T15:24:55.261509+00:00",
+    "published": "2026-06-06T10:36:08+00:00"
+  },
+  "https://thenewstack.io/openclaw-cohens-ai-agent-accountability-problem": {
+    "title": "OpenClaw used Gavriel Cohen’s code and exposed the AI Agent accountability problem",
+    "source": "The New Stack",
+    "first_seen": "2026-06-06T15:24:55.261509+00:00",
+    "published": "2026-06-06T10:31:00+00:00"
+  },
+  "https://blog.includesecurity.com/2026/06/the-smart-tv-in-your-livingroom-is-a-node-in-the-aiscraping-economy": {
+    "title": "The Smart TV in Your LivingRoom Is a Node in the AIScraping Economy",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-06T15:24:55.261509+00:00",
+    "published": "2026-06-06T09:17:49+00:00"
+  },
+  "https://www.boxofcables.dev/azure-linux-desktop-a-build-2026-mashup-of-wslc-winui-reactor-and-azure-linux-4-0": {
+    "title": "Azure Linux Desktop",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-06T15:24:55.261509+00:00",
+    "published": "2026-06-06T07:42:25+00:00"
+  },
+  "https://www.youtube.com/watch?v=rJ2gQ5Md60U": {
+    "title": "Tribute to Jiro Yamada, Automotive Artist (1960-2025) [video]",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-06T15:24:55.261509+00:00",
+    "published": "2026-06-05T20:52:56+00:00"
   }
 }
