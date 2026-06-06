@@ -34256,5 +34256,95 @@
     "source": "Sentry Blog",
     "first_seen": "2026-06-05T21:28:44.640447+00:00",
     "published": "2026-06-05T09:00:00+00:00"
+  },
+  "https://discuss.grapheneos.org/d/36134-grapheneos-user-reported-to-authorities-for-using-grapheneos": {
+    "title": "GrapheneOS user reported to authorities for using GrapheneOS",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-06T09:37:54.369322+00:00",
+    "published": "2026-06-06T08:43:59+00:00"
+  },
+  "https://codeberg.org/ziglang/zig/commit/621844bde551ee1a9b8142d7d146d1fa804247a2": {
+    "title": "Zig Zen Update",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-06T09:37:54.369322+00:00",
+    "published": "2026-06-06T08:38:44+00:00"
+  },
+  "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms": {
+    "title": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-06T09:37:54.369322+00:00",
+    "published": "2026-06-06T04:38:36+00:00"
+  },
+  "https://simonwillison.net/2026/Jun/6/micropython-wasm": {
+    "title": "micropython-wasm 0.1a2",
+    "source": "Simon Willison",
+    "first_seen": "2026-06-06T09:37:54.369322+00:00",
+    "published": "2026-06-06T04:26:06+00:00"
+  },
+  "https://simonwillison.net/2026/Jun/6/micropython-in-a-sandbox": {
+    "title": "Running Python code in a sandbox with MicroPython and WASM",
+    "source": "Simon Willison",
+    "first_seen": "2026-06-06T09:37:54.369322+00:00",
+    "published": "2026-06-06T03:53:34+00:00"
+  },
+  "https://acoup.blog/2026/06/05/collections-pre-modern-armies-for-worldbuilders-part-i-why-they-fight": {
+    "title": "Pre-Modern Armies for Worldbuilders, Part I: Why They Fight",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-06T09:37:54.369322+00:00",
+    "published": "2026-06-06T03:41:32+00:00"
+  },
+  "https://help.openai.com/en/articles/20001061-lockdown-mode": {
+    "title": "Lockdown Mode",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-06T09:37:54.369322+00:00",
+    "published": "2026-06-06T03:36:15+00:00"
+  },
+  "https://devblogs.microsoft.com/oldnewthing/20260605-01?p=112391": {
+    "title": "The back cover of C++: The Language raises questions not answered by front cover",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-06T09:37:54.369322+00:00",
+    "published": "2026-06-06T03:23:47+00:00"
+  },
+  "https://news.ycombinator.com/item?id=48420827": {
+    "title": "Ask HN: Why is the HN crowd so anti-AI?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-06T09:37:54.369322+00:00",
+    "published": "2026-06-06T02:31:51+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.1-DRM-Change-Handle": {
+    "title": "Linux DRM Ioctl Developed By AMD Being Disabled Following Ongoing Security Issue",
+    "source": "Phoronix",
+    "first_seen": "2026-06-06T09:37:54.369322+00:00",
+    "published": "2026-06-06T00:52:00+00:00"
+  },
+  "https://salvagedcircuitry.com/sigma-45mm.html": {
+    "title": "The intracies of modern camera lens repair (2024)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-06T09:37:54.369322+00:00",
+    "published": "2026-06-06T00:33:26+00:00"
+  },
+  "https://simonwillison.net/2026/Jun/5/openai-help-lockdown-mode": {
+    "title": "OpenAI Help: Lockdown Mode",
+    "source": "Simon Willison",
+    "first_seen": "2026-06-06T09:37:54.369322+00:00",
+    "published": "2026-06-05T23:56:40+00:00"
+  },
+  "https://andersmurphy.com/2026/06/05/the-perils-of-uuid-primary-keys-in-sqlite.html": {
+    "title": "The perils of UUID primary keys in SQLite",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-06T09:37:54.369322+00:00",
+    "published": "2026-06-05T23:13:12+00:00"
+  },
+  "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim": {
+    "title": "Thousand Token Wood: shipping a multi-agent economy on a 3B model",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-06-06T09:37:54.369322+00:00",
+    "published": "2026-06-05T22:18:46+00:00"
+  },
+  "https://www.benthamsgaze.org/2026/06/02/the-quiet-numbers-station-decoding-nineteen-years-of-gps-cryptography": {
+    "title": "The Quiet Numbers Station: Decoding Nineteen Years of GPS Cryptography",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-06T09:37:54.369322+00:00",
+    "published": "2026-06-05T12:56:44+00:00"
   }
 }
