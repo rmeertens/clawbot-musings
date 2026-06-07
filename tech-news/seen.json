@@ -34652,5 +34652,113 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-06-07T09:59:23.849968+00:00",
     "published": "2026-06-05T18:20:06+00:00"
+  },
+  "https://thenewstack.io/microsoft-scout-openclaw-runtime": {
+    "title": "Microsoft just made the agent runtime free — and kept everything around it",
+    "source": "The New Stack",
+    "first_seen": "2026-06-07T15:28:13.678282+00:00",
+    "published": "2026-06-07T15:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/Firefox-Vulkan-Video-Merged": {
+    "title": "Firefox Merges Support For Vulkan Video Decoding",
+    "source": "Phoronix",
+    "first_seen": "2026-06-07T15:28:13.678282+00:00",
+    "published": "2026-06-07T14:55:06+00:00"
+  },
+  "https://leoveanu.com/2026-06-06-qwen3.7max": {
+    "title": "The OnlyFans Economy of American AI",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-07T15:28:13.678282+00:00",
+    "published": "2026-06-07T14:47:17+00:00"
+  },
+  "https://blog.podman.io/2025/10/podman-6-machine-usability-improvements": {
+    "title": "Podman 6: machine usability improvements",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-07T15:28:13.678282+00:00",
+    "published": "2026-06-07T14:01:27+00:00"
+  },
+  "https://www.phoronix.com/news/Wayland-Protocols-1.49": {
+    "title": "Wayland Protocols 1.49 Released With Improved Multi-GPU Support, Windows BT.2100",
+    "source": "Phoronix",
+    "first_seen": "2026-06-07T15:28:13.678282+00:00",
+    "published": "2026-06-07T13:32:00+00:00"
+  },
+  "https://github.com/anthropics/claude-code/issues/65697": {
+    "title": "Anthropic, please ship an official Claude Desktop for Linux",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-07T15:28:13.678282+00:00",
+    "published": "2026-06-07T13:06:52+00:00"
+  },
+  "https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do": {
+    "title": "LLMs are eroding my software engineering career and I don't know what to do",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-07T15:28:13.678282+00:00",
+    "published": "2026-06-07T12:49:29+00:00"
+  },
+  "https://9mothers.com/careers": {
+    "title": "9 Mothers (YC P26) Is Hiring",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-07T15:28:13.678282+00:00",
+    "published": "2026-06-07T12:00:40+00:00"
+  },
+  "https://andys.blog/the-best-relationships": {
+    "title": "The best relationships are all-encompassing.",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-07T15:28:13.678282+00:00",
+    "published": "2026-06-07T11:55:05+00:00"
+  },
+  "https://huggingface.co/blog/build-small-hackathon/sponsors-vouchers": {
+    "title": "Sponsors especially OPENAI CODEX voucher usage for codex - openAI challange",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-06-07T15:28:13.678282+00:00",
+    "published": "2026-06-07T11:38:54+00:00"
+  },
+  "https://github.com/devenjarvis/lathe": {
+    "title": "Show HN: Lathe – Use LLMs to learn a new domain, not skip past it",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-07T15:28:13.678282+00:00",
+    "published": "2026-06-07T11:16:46+00:00"
+  },
+  "https://www.phoronix.com/news/Flatten-The-Pick-v3": {
+    "title": "\"Flatten The Pick\" Linux Patches Progress For Better cgroup Scheduling While Linux Gaming",
+    "source": "Phoronix",
+    "first_seen": "2026-06-07T15:28:13.678282+00:00",
+    "published": "2026-06-07T11:06:15+00:00"
+  },
+  "https://www.phoronix.com/news/VK-Google-Timing-KHR-Display": {
+    "title": "Mesa 26.2 Lands VK_GOOGLE_display_timing Support For Direct Display Mode",
+    "source": "Phoronix",
+    "first_seen": "2026-06-07T15:28:13.678282+00:00",
+    "published": "2026-06-07T10:47:14+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.1-More-Zen-6-Models": {
+    "title": "Linux 7.1-rc7 Adding More AMD Zen 6 CPU Models",
+    "source": "Phoronix",
+    "first_seen": "2026-06-07T15:28:13.678282+00:00",
+    "published": "2026-06-07T10:32:09+00:00"
+  },
+  "https://www.phoronix.com/news/Broadcom-V3D-Some-Deprecations": {
+    "title": "Some Broadcom V3D Graphics Support On Path For Removed Over Lack Of Testing",
+    "source": "Phoronix",
+    "first_seen": "2026-06-07T15:28:13.678282+00:00",
+    "published": "2026-06-07T10:23:34+00:00"
+  },
+  "https://arxiv.org/abs/2606.04299": {
+    "title": "Efficient and Training-Free Single-Image Diffusion Models",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-07T15:28:13.678282+00:00",
+    "published": "2026-06-07T09:43:45+00:00"
+  },
+  "https://kyushu.dev": {
+    "title": "Show HN: Kyushu – A self-hostable WASM sandbox for JavaScript workers",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-07T15:28:13.678282+00:00",
+    "published": "2026-06-07T07:35:02+00:00"
+  },
+  "https://github.com/a-yiorgos/wambook": {
+    "title": "Warren's Abstract Machine: A Tutorial Reconstruction",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-07T15:28:13.678282+00:00",
+    "published": "2026-06-05T21:52:02+00:00"
   }
 }
