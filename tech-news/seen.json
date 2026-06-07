@@ -34562,5 +34562,95 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-06-06T21:20:11.275296+00:00",
     "published": "2026-06-06T11:46:15+00:00"
+  },
+  "https://www.ioccc.org/2025": {
+    "title": "The 29th International Obfuscated C Code Contest (IOCCC) 2025 Winners",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-07T09:59:23.849968+00:00",
+    "published": "2026-06-07T05:47:54+00:00"
+  },
+  "https://blog.janestreet.com/i-design-with-claude-code-more-than-figma-now-index": {
+    "title": "I design with Claude more than Figma now",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-07T09:59:23.849968+00:00",
+    "published": "2026-06-07T05:04:24+00:00"
+  },
+  "https://github.com/ValveSoftware/GameNetworkingSockets/issues/398": {
+    "title": "Valve P2P networking broken for more than 2 months",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-07T09:59:23.849968+00:00",
+    "published": "2026-06-07T03:21:52+00:00"
+  },
+  "https://knowablemagazine.org/content/article/technology/2026/cloned-polo-horses": {
+    "title": "Field of clones: How horse replicas came to dominate polo",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-07T09:59:23.849968+00:00",
+    "published": "2026-06-07T02:46:37+00:00"
+  },
+  "https://hyperallergic.com/how-liminalism-became-the-defining-aesthetic-of-our-time": {
+    "title": "How Liminalism Became the Defining Aesthetic of Our Time",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-07T09:59:23.849968+00:00",
+    "published": "2026-06-07T02:12:19+00:00"
+  },
+  "https://github.com/sauravrao637/oproxy": {
+    "title": "Show HN: Oproxy – inspect and modify network traffic from the browser",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-07T09:59:23.849968+00:00",
+    "published": "2026-06-07T02:11:29+00:00"
+  },
+  "https://arxiv.org/abs/2601.14470": {
+    "title": "Tokenomics: Quantifying Where Tokens Are Used in Agentic Software Engineering",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-07T09:59:23.849968+00:00",
+    "published": "2026-06-07T01:37:11+00:00"
+  },
+  "https://www.phoronix.com/news/FreeBSD_15.1-RC3-Released": {
+    "title": "FreeBSD 15.1 Delayed To Mid-June Due To Critical x86 Bug Fixes",
+    "source": "Phoronix",
+    "first_seen": "2026-06-07T09:59:23.849968+00:00",
+    "published": "2026-06-07T00:23:57+00:00"
+  },
+  "https://pdimagearchive.org": {
+    "title": "Public Domain Image Archive",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-07T09:59:23.849968+00:00",
+    "published": "2026-06-07T00:22:51+00:00"
+  },
+  "https://gwern.net/llm-catapult": {
+    "title": "Human-Like Neural Nets by Catapulting",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-07T09:59:23.849968+00:00",
+    "published": "2026-06-06T23:45:36+00:00"
+  },
+  "https://ataraxy-labs.github.io/sem": {
+    "title": "Sem: New primitive for code understanding – not LSPs, but entities on top of Git",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-07T09:59:23.849968+00:00",
+    "published": "2026-06-06T20:03:55+00:00"
+  },
+  "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim-v2": {
+    "title": "Five labs, five minds: building a multi-model finance drama on small models",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-06-07T09:59:23.849968+00:00",
+    "published": "2026-06-06T19:02:33+00:00"
+  },
+  "https://mashable.com/tech/motorola-wifi-routers-stop-working-motosync-plus-app-down": {
+    "title": "Motorola effectively bricked its entire line of WiFi routers without explanation",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-07T09:59:23.849968+00:00",
+    "published": "2026-06-06T14:43:53+00:00"
+  },
+  "https://www.cnbc.com/2026/06/05/google-to-pay-spacex-920-million-a-month-for-xai-compute-capacity.html": {
+    "title": "Google to pay SpaceX $920M a month for compute capacity at xAI data centers",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-07T09:59:23.849968+00:00",
+    "published": "2026-06-05T20:06:36+00:00"
+  },
+  "https://openai.com/index/harness-engineering": {
+    "title": "Harness engineering: Leveraging Codex in an agent-first world",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-07T09:59:23.849968+00:00",
+    "published": "2026-06-05T18:20:06+00:00"
   }
 }
