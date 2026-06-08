@@ -35240,5 +35240,269 @@
     "source": "Discord Engineering",
     "first_seen": "2026-06-08T16:23:01.265047+00:00",
     "published": "2026-06-08T00:00:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-byom-for-amazon-rds-for-sql-server-aws-iot-device-sdk-for-swift-and-more-june-8-2026": {
+    "title": "AWS Weekly Roundup: BYOM for Amazon RDS for SQL Server, AWS IoT Device SDK for Swift, and more (June 8, 2026)",
+    "source": "AWS Blog",
+    "first_seen": "2026-06-08T21:31:52.999144+00:00",
+    "published": "2026-06-08T21:27:12+00:00"
+  },
+  "https://aws.amazon.com/blogs/security/icymi-may-2026-aws-security": {
+    "title": "ICYMI: May 2026 @AWS Security",
+    "source": "AWS Security Blog",
+    "first_seen": "2026-06-08T21:31:52.999144+00:00",
+    "published": "2026-06-08T21:00:11+00:00"
+  },
+  "https://cognition.ai/blog/frontier-code": {
+    "title": "FrontierCode",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-08T21:31:52.999144+00:00",
+    "published": "2026-06-08T20:45:03+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/announcing-amazon-rds-for-db2-12-1-with-additional-community-edition": {
+    "title": "Announcing Amazon RDS for Db2 12.1 with additional community edition",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-06-08T21:31:52.999144+00:00",
+    "published": "2026-06-08T20:22:23+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/automate-oracle-pl-sql-to-postgresql-migration-with-amazon-bedrock-and-strands-agents": {
+    "title": "Automate Oracle PL/SQL to PostgreSQL migration with Amazon Bedrock and Strands Agents",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-06-08T21:31:52.999144+00:00",
+    "published": "2026-06-08T20:11:48+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/building-python-applications-with-sqlalchemy-and-aurora-dsql": {
+    "title": "Building Python applications with SQLAlchemy and Aurora DSQL",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-06-08T21:31:52.999144+00:00",
+    "published": "2026-06-08T20:10:39+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/oracle-databaseaws-decoded-determining-the-right-fit-for-your-oracle-workloads": {
+    "title": "Oracle Database@AWS decoded: Determining the right fit for your Oracle workloads",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-06-08T21:31:52.999144+00:00",
+    "published": "2026-06-08T20:09:36+00:00"
+  },
+  "https://www.docker.com/blog/software-supply-chain-security-best-practices": {
+    "title": "5 Software Supply Chain Security Best Practices for Development Teams",
+    "source": "Docker Blog",
+    "first_seen": "2026-06-08T21:31:52.999144+00:00",
+    "published": "2026-06-08T19:54:40+00:00"
+  },
+  "https://inavoyage.blogspot.com/2026/06/im-building-parallel-internet-and-its.html": {
+    "title": "I'm building a parallel internet, and it's called The Thinnernet",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-08T21:31:52.999144+00:00",
+    "published": "2026-06-08T19:45:04+00:00"
+  },
+  "https://signal.org/blog/pdfs/2026-06-08-uk-surveillance-is-not-safety.pdf": {
+    "title": "Surveillance Is Not Safety: A statement on the UK's latest threat to privacy [pdf]",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-08T21:31:52.999144+00:00",
+    "published": "2026-06-08T19:42:28+00:00"
+  },
+  "https://webkit.org/blog/17974/web-technology-sessions-at-wwdc26": {
+    "title": "Web Technology Sessions at WWDC26",
+    "source": "WebKit Blog",
+    "first_seen": "2026-06-08T21:31:52.999144+00:00",
+    "published": "2026-06-08T19:38:28+00:00"
+  },
+  "https://thenewstack.io/memory-constraint-virtualization-optimization": {
+    "title": "How AI is solving the memory crunch it created",
+    "source": "The New Stack",
+    "first_seen": "2026-06-08T21:31:52.999144+00:00",
+    "published": "2026-06-08T19:25:40+00:00"
+  },
+  "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture": {
+    "title": "Apple reveals new AI architecture built around Google Gemini models",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-08T21:31:52.999144+00:00",
+    "published": "2026-06-08T19:14:47+00:00"
+  },
+  "https://burrito.bio/essays/what-limits-a-cells-size": {
+    "title": "Why are cells small?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-08T21:31:52.999144+00:00",
+    "published": "2026-06-08T19:10:27+00:00"
+  },
+  "https://www.admin.ch/en/sustainability-initiative": {
+    "title": "Switzerland wil have a referendum to cap population at 10M",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-08T21:31:52.999144+00:00",
+    "published": "2026-06-08T19:09:48+00:00"
+  },
+  "https://thenewstack.io/azure-repos-github-migration": {
+    "title": "Microsoft’s pitch to enterprises: Ditch Azure Repos for GitHub, despite its rocky reliability record",
+    "source": "The New Stack",
+    "first_seen": "2026-06-08T21:31:52.999144+00:00",
+    "published": "2026-06-08T19:05:40+00:00"
+  },
+  "https://thenewstack.io/claude-code-dynamic-workflows-test": {
+    "title": "Claude Code’s biggest upgrade yet ran 5 agents at once — here’s what happened",
+    "source": "The New Stack",
+    "first_seen": "2026-06-08T21:31:52.999144+00:00",
+    "published": "2026-06-08T19:01:20+00:00"
+  },
+  "https://webkit.org/blog/17967/news-from-wwdc26-webkit-in-safari-27-beta": {
+    "title": "News from WWDC26: WebKit in Safari 27 beta",
+    "source": "WebKit Blog",
+    "first_seen": "2026-06-08T21:31:52.999144+00:00",
+    "published": "2026-06-08T19:00:34+00:00"
+  },
+  "https://developer.apple.com/documentation/coreai": {
+    "title": "Apple Core AI Framework",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-08T21:31:52.999144+00:00",
+    "published": "2026-06-08T18:47:38+00:00"
+  },
+  "https://news.ycombinator.com/item?id=48449187": {
+    "title": "Ask HN: What are tools you have made for yourself since the advent of AI?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-08T21:31:52.999144+00:00",
+    "published": "2026-06-08T18:22:39+00:00"
+  },
+  "https://developer.nvidia.com/blog/train-models-faster-with-jax-and-maxtext-using-nvfp4-on-nvidia-blackwell": {
+    "title": "Train Models Faster with JAX and MaxText Using NVFP4 on NVIDIA Blackwell",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-06-08T21:31:52.999144+00:00",
+    "published": "2026-06-08T18:18:06+00:00"
+  },
+  "https://www.apple.com/apple-intelligence": {
+    "title": "Siri AI",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-08T21:31:52.999144+00:00",
+    "published": "2026-06-08T18:17:53+00:00"
+  },
+  "https://www.databricks.com/blog/transforming-solar-and-wind-maintenance-reports-genie-and-ai-agents": {
+    "title": "Transforming solar and wind maintenance reports with Genie and AI agents",
+    "source": "Databricks Blog",
+    "first_seen": "2026-06-08T21:31:52.999144+00:00",
+    "published": "2026-06-08T18:15:00+00:00"
+  },
+  "https://www.phoronix.com/news/CachyOS-Bore-Without-Ananicy": {
+    "title": "Running CachyOS With The BORE Scheduler While Disabling Ananicy-CPP",
+    "source": "Phoronix",
+    "first_seen": "2026-06-08T21:31:52.999144+00:00",
+    "published": "2026-06-08T17:56:47+00:00"
+  },
+  "https://siraben.github.io/ti84p-re": {
+    "title": "Full Reverse Engineering of the TI-84 Plus Operating System",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-08T21:31:52.999144+00:00",
+    "published": "2026-06-08T17:41:33+00:00"
+  },
+  "https://thenewstack.io/anthropic-claude-cowork-promotion": {
+    "title": "Why Anthropic just doubled Claude Cowork limits at no charge",
+    "source": "The New Stack",
+    "first_seen": "2026-06-08T21:31:52.999144+00:00",
+    "published": "2026-06-08T17:35:05+00:00"
+  },
+  "https://thefoggiest.dev/2026/06/04/thunderbird-littering-my-home": {
+    "title": "Thunderbird Littering My Home",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-08T21:31:52.999144+00:00",
+    "published": "2026-06-08T17:31:34+00:00"
+  },
+  "https://news.ycombinator.com/item?id=48448313": {
+    "title": "Ask HN: Why hasn't there been a real competitor to Ticketmaster yet?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-08T21:31:52.999144+00:00",
+    "published": "2026-06-08T17:28:29+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/unlock-cost-savings-with-incremental-snapshot-billing-for-amazon-redshift-serverless-and-amazon-redshift-rg": {
+    "title": "Unlock cost savings with incremental snapshot billing for Amazon Redshift Serverless and Amazon Redshift RG",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-06-08T21:31:52.999144+00:00",
+    "published": "2026-06-08T17:24:53+00:00"
+  },
+  "https://devblogs.microsoft.com/dotnet/dotnet-at-microsoft-build-2026": {
+    "title": ".NET at Microsoft Build 2026: Must watch sessions",
+    "source": "MS .NET Blog",
+    "first_seen": "2026-06-08T21:31:52.999144+00:00",
+    "published": "2026-06-08T17:15:00+00:00"
+  },
+  "https://www.apple.com/apple-events/event-stream": {
+    "title": "Apple WWDC 2026",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-08T21:31:52.999144+00:00",
+    "published": "2026-06-08T17:14:24+00:00"
+  },
+  "https://techcrunch.com/2026/06/08/massachusetts-votes-to-pass-new-privacy-rights-bill-that-bans-sale-of-precise-location-data": {
+    "title": "Massachusetts bans sale of precise location data in new privacy rights bill",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-08T21:31:52.999144+00:00",
+    "published": "2026-06-08T17:07:33+00:00"
+  },
+  "https://www.schneier.com/blog/archives/2026/06/critical-zcash-vulnerability-found-and-fixed.html": {
+    "title": "Critical Zcash Vulnerability Found and Fixed",
+    "source": "Schneier on Security",
+    "first_seen": "2026-06-08T21:31:52.999144+00:00",
+    "published": "2026-06-08T17:06:53+00:00"
+  },
+  "https://lowtechguys.com/musicdecoy": {
+    "title": "Stop the Apple Music app from launching",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-08T21:31:52.999144+00:00",
+    "published": "2026-06-08T17:01:43+00:00"
+  },
+  "https://gitdot.io": {
+    "title": "Show HN: Gitdot – a better GitHub. Open-source, anti-AI, and written in Rust",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-08T21:31:52.999144+00:00",
+    "published": "2026-06-08T16:52:11+00:00"
+  },
+  "https://aws.amazon.com/blogs/compute/integrating-event-source-mappings-with-aws-lambda-tenant-isolation-mode": {
+    "title": "Integrating Event Source Mappings with AWS Lambda tenant isolation mode",
+    "source": "AWS Compute Blog",
+    "first_seen": "2026-06-08T21:31:52.999144+00:00",
+    "published": "2026-06-08T16:41:40+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/unlocking-ai-flexibility-in-europe-a-guide-to-cross-region-inference-for-eu-data-processing-and-model-access": {
+    "title": "Unlocking AI flexibility in Europe: A guide to cross-region inference for EU data processing and model access",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-06-08T21:31:52.999144+00:00",
+    "published": "2026-06-08T16:40:34+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/its-safe-to-close-your-laptop-now-hosting-coding-agents-on-amazon-bedrock-agentcore": {
+    "title": "It’s safe to close your laptop now: Hosting coding agents on Amazon Bedrock AgentCore",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-06-08T21:31:52.999144+00:00",
+    "published": "2026-06-08T16:35:02+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/better-decisions-at-scale-how-mathematical-optimization-delivers-where-intuition-fails": {
+    "title": "Better decisions at scale: How mathematical optimization delivers where intuition fails",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-06-08T21:31:52.999144+00:00",
+    "published": "2026-06-08T16:31:17+00:00"
+  },
+  "https://www.foodwatch.org/en/eu-banned-pesticides-found-in-rice-tea-and-spices": {
+    "title": "EU-banned pesticides found in rice, tea and spices",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-08T21:31:52.999144+00:00",
+    "published": "2026-06-08T15:59:04+00:00"
+  },
+  "https://martinalderson.com/posts/xais-new-rental-business": {
+    "title": "xAI is looking more like a datacentre REIT than a frontier lab",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-08T21:31:52.999144+00:00",
+    "published": "2026-06-08T15:13:43+00:00"
+  },
+  "https://openai.com/index/openai-submits-confidential-s-1": {
+    "title": "Confidential submission of draft S-1 to the SEC",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-06-08T21:31:52.999144+00:00",
+    "published": "2026-06-08T14:00:00+00:00"
+  },
+  "https://openai.com/index/built-to-benefit-everyone-our-plan": {
+    "title": "Built to benefit everyone: our plan",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-06-08T21:31:52.999144+00:00",
+    "published": "2026-06-08T01:30:00+00:00"
+  },
+  "https://openai.com/index/economic-research-exchange": {
+    "title": "Introducing the OpenAI Economic Research Exchange",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-06-08T21:31:52.999144+00:00",
+    "published": "2026-06-08T00:00:00+00:00"
   }
 }
