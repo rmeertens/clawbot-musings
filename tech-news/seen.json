@@ -36242,5 +36242,167 @@
     "source": "Elastic Blog",
     "first_seen": "2026-06-09T21:31:09.910573+00:00",
     "published": "2026-06-09T04:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/AMDGPU-DC-Preps-HDMI-Comp-Test": {
+    "title": "AMDGPU Linux Driver Preps For HDMI 2.1 Compliance Testing",
+    "source": "Phoronix",
+    "first_seen": "2026-06-10T10:23:36.440942+00:00",
+    "published": "2026-06-10T10:11:11+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.2-Preps-KVM-For-APX": {
+    "title": "Linux's KVM Preps For APX Support In VMs",
+    "source": "Phoronix",
+    "first_seen": "2026-06-10T10:23:36.440942+00:00",
+    "published": "2026-06-10T10:00:34+00:00"
+  },
+  "https://stratechery.com/2026/fable-5-anthropic-alignment-ai-tiers": {
+    "title": "Fable 5, Anthropic Alignment, AI Tiers",
+    "source": "Stratechery",
+    "first_seen": "2026-06-10T10:23:36.440942+00:00",
+    "published": "2026-06-10T10:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/RADV-INST-PREF-SIZE-RDNA3": {
+    "title": "RADV Driver Now Leveraging RDNA3+ Hardware Feature For Better Instruction Cache Prefetching",
+    "source": "Phoronix",
+    "first_seen": "2026-06-10T10:23:36.440942+00:00",
+    "published": "2026-06-10T09:49:50+00:00"
+  },
+  "https://github.com/react/react/pull/36173": {
+    "title": "Port React Compiler to Rust",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-10T10:23:36.440942+00:00",
+    "published": "2026-06-10T09:19:55+00:00"
+  },
+  "https://ecfr.eu/publication/home-alone-europeans-are-ready-to-defend-themselves": {
+    "title": "European sentiments towards the US hit an all-time low",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-10T10:23:36.440942+00:00",
+    "published": "2026-06-10T08:27:46+00:00"
+  },
+  "https://news.ycombinator.com/item?id=48473166": {
+    "title": "AWS Bedrock to require sharing data with Anthropic for Mythos and future models",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-10T10:23:36.440942+00:00",
+    "published": "2026-06-10T08:21:38+00:00"
+  },
+  "https://media.mercedes-benz.com/en/article/bebac2af-acdc-465a-9538-adb0bf3d8ccf": {
+    "title": "Mercedes‑Benz starts large‑scale production of electric axial flux motor",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-10T10:23:36.440942+00:00",
+    "published": "2026-06-10T07:44:49+00:00"
+  },
+  "https://webkit.org/blog/18098/introducing-the-field-guide-to-grid-lanes": {
+    "title": "Introducing the Field Guide to Grid Lanes",
+    "source": "WebKit Blog",
+    "first_seen": "2026-06-10T10:23:36.440942+00:00",
+    "published": "2026-06-10T07:30:35+00:00"
+  },
+  "https://www.ddmckinnon.com/2026/06/09/vibe-coding-my-way-to-a-healthy-family-introducing-gamow-labs": {
+    "title": "Vibe coding my way to a healthy family: Introducing Gamow Labs",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-10T10:23:36.440942+00:00",
+    "published": "2026-06-10T03:27:47+00:00"
+  },
+  "https://twitter.com/RichardSSutton/status/2061216087744946656": {
+    "title": "Rich Sutton on AI creativity and discovery",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-10T10:23:36.440942+00:00",
+    "published": "2026-06-10T02:25:24+00:00"
+  },
+  "https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers": {
+    "title": "German ruling declares Google liable for false answers in AI Overviews",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-10T10:23:36.440942+00:00",
+    "published": "2026-06-10T01:44:13+00:00"
+  },
+  "https://www.databricks.com/blog/modern-bsaaml-compliance-databricks": {
+    "title": "Modern BSA/AML compliance on Databricks",
+    "source": "Databricks Blog",
+    "first_seen": "2026-06-10T10:23:36.440942+00:00",
+    "published": "2026-06-10T00:45:01+00:00"
+  },
+  "https://simonwillison.net/2026/Jun/10/if-claude-fable-stops-helping-you": {
+    "title": "If Claude Fable stops helping you, you'll never know",
+    "source": "Simon Willison",
+    "first_seen": "2026-06-10T10:23:36.440942+00:00",
+    "published": "2026-06-10T00:37:25+00:00"
+  },
+  "https://www.phoronix.com/news/Arm-CPU-Critical-CVE-2025-10263": {
+    "title": "Linux Sees Patches For \"Critical\" Vulnerability Affecting Many Arm CPUs",
+    "source": "Phoronix",
+    "first_seen": "2026-06-10T10:23:36.440942+00:00",
+    "published": "2026-06-10T00:35:56+00:00"
+  },
+  "https://github.com/apple/container/blob/main/docs/container-machine.md": {
+    "title": "macOS Container Machines",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-10T10:23:36.440942+00:00",
+    "published": "2026-06-10T00:29:01+00:00"
+  },
+  "https://openai.com/index/lseg": {
+    "title": "From data to decisions: how LSEG is scaling trusted AI",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-06-10T10:23:36.440942+00:00",
+    "published": "2026-06-10T00:00:00+00:00"
+  },
+  "https://simonwillison.net/2026/Jun/9/claude-fable-5": {
+    "title": "Initial impressions of Claude Fable 5",
+    "source": "Simon Willison",
+    "first_seen": "2026-06-10T10:23:36.440942+00:00",
+    "published": "2026-06-09T23:59:54+00:00"
+  },
+  "https://blog.oscars.dev/posts/rip-software-hackathons-long-live-the-hardware-hackathon": {
+    "title": "RIP software hackathons. Long live the hardware hackathon",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-10T10:23:36.440942+00:00",
+    "published": "2026-06-09T22:35:57+00:00"
+  },
+  "https://simonwillison.net/2026/Jun/9/llm": {
+    "title": "llm 0.32a3",
+    "source": "Simon Willison",
+    "first_seen": "2026-06-10T10:23:36.440942+00:00",
+    "published": "2026-06-09T22:27:03+00:00"
+  },
+  "https://krebsonsecurity.com/2026/06/a-record-breaking-patch-tuesday-for-june-2026": {
+    "title": "A Record-Breaking Patch Tuesday for June 2026",
+    "source": "Krebs on Security",
+    "first_seen": "2026-06-10T10:23:36.440942+00:00",
+    "published": "2026-06-09T22:07:28+00:00"
+  },
+  "https://forestwalk.ai/blog/surprise-blacksmith-costs": {
+    "title": "Surprise, Pay $1000",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-10T10:23:36.440942+00:00",
+    "published": "2026-06-09T22:01:15+00:00"
+  },
+  "https://simonwillison.net/2026/Jun/9/agentsview-custom-model-price": {
+    "title": "Setting a custom price for a model in AgentsView",
+    "source": "Simon Willison",
+    "first_seen": "2026-06-10T10:23:36.440942+00:00",
+    "published": "2026-06-09T21:35:31+00:00"
+  },
+  "https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html": {
+    "title": "If Claude Fable stops helping you, you'll never know",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-10T10:23:36.440942+00:00",
+    "published": "2026-06-09T21:19:11+00:00"
+  },
+  "https://github.blog/changelog/2026-06-09-upcoming-breaking-changes-for-npm-v12": {
+    "title": "Upcoming breaking changes for npm v12",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-10T10:23:36.440942+00:00",
+    "published": "2026-06-09T21:01:00+00:00"
+  },
+  "https://blog.gitbutler.com/true-grit": {
+    "title": "Grit: Rewriting Git in Rust with agents",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-10T10:23:36.440942+00:00",
+    "published": "2026-06-09T19:58:21+00:00"
+  },
+  "https://azure.microsoft.com/en-us/blog/claude-fable-5-is-now-available-in-microsoft-foundry-powering-the-next-era-of-autonomous-agents": {
+    "title": "Claude Fable 5 available today in Microsoft Foundry: Powering the next era of autonomous agents",
+    "source": "Azure Blog",
+    "first_seen": "2026-06-10T10:23:36.440942+00:00",
+    "published": "2026-06-09T17:00:00+00:00"
   }
 }
