@@ -36404,5 +36404,275 @@
     "source": "Azure Blog",
     "first_seen": "2026-06-10T10:23:36.440942+00:00",
     "published": "2026-06-09T17:00:00+00:00"
+  },
+  "https://github.blog/ai-and-ml/github-copilot/give-github-copilot-cli-real-code-intelligence-with-language-servers": {
+    "title": "Give GitHub Copilot CLI real code intelligence with language servers",
+    "source": "GitHub Blog",
+    "first_seen": "2026-06-10T16:15:26.776033+00:00",
+    "published": "2026-06-10T16:00:00+00:00"
+  },
+  "https://www.gutenberg.org/files/27462/27462-h/27462-h.htm": {
+    "title": "The Last Evolution, by John W Campbell Jr. (1932)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-10T16:15:26.776033+00:00",
+    "published": "2026-06-10T15:57:03+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/choosing-the-right-workflow-orchestration-service-for-your-use-case-amazon-mwaa-and-aws-step-functions": {
+    "title": "Choosing the right workflow orchestration service for your use case: Amazon MWAA and AWS Step Functions",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-06-10T16:15:26.776033+00:00",
+    "published": "2026-06-10T15:32:13+00:00"
+  },
+  "https://www.githubstatus.com/incidents/fcj3088jg1wx": {
+    "title": "GitHub Authentication issues related to API requests",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-10T16:15:26.776033+00:00",
+    "published": "2026-06-10T15:29:52+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/real-time-cdc-from-aurora-postgresql-to-amazon-s3-tables-using-debezium-and-firehose": {
+    "title": "Real-time CDC from Aurora PostgreSQL to Amazon S3 Tables using Debezium and Firehose",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-06-10T16:15:26.776033+00:00",
+    "published": "2026-06-10T15:29:26+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/stop-hand-tuning-kernels-how-neuron-agentic-development-accelerates-aws-trainium-optimizations": {
+    "title": "Stop hand-tuning kernels: How Neuron Agentic Development accelerates AWS Trainium optimizations",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-06-10T16:15:26.776033+00:00",
+    "published": "2026-06-10T15:26:45+00:00"
+  },
+  "https://simonwillison.net/2026/Jun/10/jeremy-howard": {
+    "title": "Quoting Jeremy Howard",
+    "source": "Simon Willison",
+    "first_seen": "2026-06-10T16:15:26.776033+00:00",
+    "published": "2026-06-10T15:23:34+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/build-an-ai-powered-equipment-repair-assistant-using-amazon-bedrock-agentcore": {
+    "title": "Build an AI-Powered Equipment Repair Assistant Using Amazon Bedrock AgentCore",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-06-10T16:15:26.776033+00:00",
+    "published": "2026-06-10T15:21:35+00:00"
+  },
+  "https://p2claw.com/blog/2026-06-09-the-ipad-was-on-tailscale": {
+    "title": "The iPad was on Tailscale: a WebRTC debugging story",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-10T16:15:26.776033+00:00",
+    "published": "2026-06-10T15:13:16+00:00"
+  },
+  "https://www.bls.gov/news.release/cpi.nr0.htm": {
+    "title": "US Consumer Price Index up 4.2%",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-10T16:15:26.776033+00:00",
+    "published": "2026-06-10T15:10:40+00:00"
+  },
+  "https://aws.amazon.com/blogs/architecture/introducing-the-snowflake-and-aws-custom-lens-for-the-aws-well-architected-framework": {
+    "title": "Introducing the Snowflake and AWS Custom Lens for the AWS Well-Architected Framework",
+    "source": "AWS Architecture Blog",
+    "first_seen": "2026-06-10T16:15:26.776033+00:00",
+    "published": "2026-06-10T15:06:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/aws/now-available-amazon-ec2-m9g-and-m9gd-instances-powered-by-new-aws-graviton5-processors": {
+    "title": "Now available: Amazon EC2 M9g and M9gd instances powered by new AWS Graviton5 processors",
+    "source": "AWS Blog",
+    "first_seen": "2026-06-10T16:15:26.776033+00:00",
+    "published": "2026-06-10T15:04:30+00:00"
+  },
+  "https://blog.bytebytego.com/p/love-teaching-bytebytego-is-hiring": {
+    "title": "Love Teaching? ByteByteGo Is Hiring Part-Time AI & Engineering Instructors",
+    "source": "ByteByteGo",
+    "first_seen": "2026-06-10T16:15:26.776033+00:00",
+    "published": "2026-06-10T15:02:05+00:00"
+  },
+  "https://burr.apache.org": {
+    "title": "Apache Burr: Build reliable AI agents and applications",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-10T16:15:26.776033+00:00",
+    "published": "2026-06-10T15:01:06+00:00"
+  },
+  "https://developer.nvidia.com/blog/designing-production-ready-battery-energy-storage-systems-for-ai-factories": {
+    "title": "Designing Production-Ready Battery Energy Storage Systems for AI Factories",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-06-10T16:15:26.776033+00:00",
+    "published": "2026-06-10T15:00:00+00:00"
+  },
+  "https://news.ycombinator.com/item?id=48477135": {
+    "title": "AMA: I'm Eric Ries (The Lean Startup) & Author of New Bestseller Incorruptible",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-10T16:15:26.776033+00:00",
+    "published": "2026-06-10T14:47:52+00:00"
+  },
+  "https://www.phoronix.com/review/linux-71-arc-pro-b70": {
+    "title": "Intel Arc Pro B70 Showing Off Some Performance Wins With Linux 7.1",
+    "source": "Phoronix",
+    "first_seen": "2026-06-10T16:15:26.776033+00:00",
+    "published": "2026-06-10T14:46:00+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-Foundation-OpenSharing": {
+    "title": "Linux Foundation's Latest AI Effort Is Around AI Asset & Data Exchange",
+    "source": "Phoronix",
+    "first_seen": "2026-06-10T16:15:26.776033+00:00",
+    "published": "2026-06-10T14:39:40+00:00"
+  },
+  "https://lwn.net/Articles/1077035": {
+    "title": "[$] AI agent runs amok in Fedora and elsewhere",
+    "source": "LWN.net",
+    "first_seen": "2026-06-10T16:15:26.776033+00:00",
+    "published": "2026-06-10T14:35:25+00:00"
+  },
+  "https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen": {
+    "title": "Who Runs the Ransomware Group ‘The Gentlemen?’",
+    "source": "Krebs on Security",
+    "first_seen": "2026-06-10T16:15:26.776033+00:00",
+    "published": "2026-06-10T14:03:44+00:00"
+  },
+  "https://twitter.com/NikoMcCarty/status/2064686557400100884": {
+    "title": "Notes on DeepSeek",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-10T16:15:26.776033+00:00",
+    "published": "2026-06-10T14:03:40+00:00"
+  },
+  "https://lwn.net/Articles/1077379": {
+    "title": "Buildroot 2026.05 released",
+    "source": "LWN.net",
+    "first_seen": "2026-06-10T16:15:26.776033+00:00",
+    "published": "2026-06-10T14:03:16+00:00"
+  },
+  "https://pgdog.dev/blog/our-funding-announcement": {
+    "title": "PgDog is funded and coming to a database near you",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-10T16:15:26.776033+00:00",
+    "published": "2026-06-10T14:02:59+00:00"
+  },
+  "https://thenewstack.io/databricks-opensharing-ai-agents": {
+    "title": "Databricks wants to kill the “email me a file” problem for AI agent skills",
+    "source": "The New Stack",
+    "first_seen": "2026-06-10T16:15:26.776033+00:00",
+    "published": "2026-06-10T14:00:00+00:00"
+  },
+  "https://stackoverflow.blog/2026/06/10/announcing-stack-overflow-for-agents": {
+    "title": "Announcing Stack Overflow for Agents​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌​﻿‌​​﻿‍​​﻿‌﻿​﻿​‍‌‍​﻿‌‍​﻿​﻿‌​‌‍‌‍​‍﻿‌‌‍‌​‌‍‌​​﻿‌‍​﻿​‍​‍﻿‌​﻿‌​‌‍‌‌​﻿‌﻿‌‍​‍​‍﻿‌‌‍​‌‌‍​‌​﻿‌‍‌‍​‍​‍﻿‌‌‍​‍​﻿‍​‌‍‌​​﻿‌‍​﻿‍‌​﻿‍​​﻿‍​​﻿‍‌​﻿‌​‌‍​‍​﻿‌‌​﻿‌‍​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌​﻿‌​​﻿‍​​﻿‌﻿​﻿​‍‌‍​﻿‌‍​﻿​﻿‌​‌‍‌‍​‍﻿‌‌‍‌​‌‍‌​​﻿‌‍​﻿​‍​‍﻿‌​﻿‌​‌‍‌‌​﻿‌﻿‌‍​‍​‍﻿‌‌‍​‌‌‍​‌​﻿‌‍‌‍​‍​‍﻿‌‌‍​‍​﻿‍​‌‍‌​​﻿‌‍​﻿‍‌​﻿‍​​﻿‍​​﻿‍‌​﻿‌​‌‍​‍​﻿‌‌​﻿‌‍​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌",
+    "source": "Stack Overflow Blog",
+    "first_seen": "2026-06-10T16:15:26.776033+00:00",
+    "published": "2026-06-10T14:00:00+00:00"
+  },
+  "https://realpython.com/cursor-vs-windsurf-python": {
+    "title": "Cursor vs Windsurf: Which AI Code Editor Is Best for Python?",
+    "source": "Real Python",
+    "first_seen": "2026-06-10T16:15:26.776033+00:00",
+    "published": "2026-06-10T14:00:00+00:00"
+  },
+  "https://blue41.com/blog/how-we-helped-bunq-secure-their-financial-ai-assistant": {
+    "title": "A €0.01 bank transfer could compromise a banking AI agent",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-10T16:15:26.776033+00:00",
+    "published": "2026-06-10T13:39:11+00:00"
+  },
+  "https://www.phoronix.com/news/NVIDIA-Reduce-GCC-Bootstrap": {
+    "title": "NVIDIA Engineer Devises Patch To Significantly Reduce GCC Bootstrap Time",
+    "source": "Phoronix",
+    "first_seen": "2026-06-10T16:15:26.776033+00:00",
+    "published": "2026-06-10T13:30:32+00:00"
+  },
+  "https://danq.me/2026/06/09/fn-keys": {
+    "title": "I Hate (Most) Keyboard 'Fn' Keys",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-10T16:15:26.776033+00:00",
+    "published": "2026-06-10T13:22:52+00:00"
+  },
+  "https://news.ycombinator.com/item?id=48475871": {
+    "title": "Ask HN: Are most corporate SWE jobs performative?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-10T16:15:26.776033+00:00",
+    "published": "2026-06-10T13:18:34+00:00"
+  },
+  "https://www.tigerdata.com/blog/unified-namespace-historian-schema": {
+    "title": "A Unified Namespace Determines Your Historian Schema, Not the Other Way Around",
+    "source": "Timescale Blog",
+    "first_seen": "2026-06-10T16:15:26.776033+00:00",
+    "published": "2026-06-10T13:16:00+00:00"
+  },
+  "https://www.phoronix.com/news/CrOS-EC-Custom-Fan-Cuves": {
+    "title": "Linux's CrOS EC Driver To Support Custom Fan Curves - Useful For Framework Laptops",
+    "source": "Phoronix",
+    "first_seen": "2026-06-10T16:15:26.776033+00:00",
+    "published": "2026-06-10T13:12:12+00:00"
+  },
+  "https://lwn.net/Articles/1077362": {
+    "title": "Security updates for Wednesday",
+    "source": "LWN.net",
+    "first_seen": "2026-06-10T16:15:26.776033+00:00",
+    "published": "2026-06-10T13:09:28+00:00"
+  },
+  "https://engineering.atspotify.com/2026/6/encoding-your-domain-expert-the-context-layer-behind-spotifys-data-assistant": {
+    "title": "Encoding Your Domain Expert: The Context Layer Behind Spotify's Data Assistant",
+    "source": "Spotify Engineering",
+    "first_seen": "2026-06-10T16:15:26.776033+00:00",
+    "published": "2026-06-10T13:01:14+00:00"
+  },
+  "https://thenewstack.io/ramp-forward-deployed-engineers-applied-ai": {
+    "title": "Ramp bets forward deployed engineers can do what off-the-shelf finance AI can’t",
+    "source": "The New Stack",
+    "first_seen": "2026-06-10T16:15:26.776033+00:00",
+    "published": "2026-06-10T13:00:00+00:00"
+  },
+  "https://blog.cloudflare.com/private-origins-dns-routing": {
+    "title": "Route public traffic to private applications with Cloudflare",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-06-10T16:15:26.776033+00:00",
+    "published": "2026-06-10T13:00:00+00:00"
+  },
+  "https://mohkohn.co.uk/writing/html-first": {
+    "title": "Building an HTML-first site doubled our users overnight",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-10T16:15:26.776033+00:00",
+    "published": "2026-06-10T12:45:47+00:00"
+  },
+  "https://jivx.com/eki": {
+    "title": "All 9,300 Japanese train station, animated by the year it opened (1872–2026)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-10T16:15:26.776033+00:00",
+    "published": "2026-06-10T12:11:28+00:00"
+  },
+  "https://www.databricks.com/blog/announcing-databricks-storage-ecosystem-governing-enterprise-data-estate-wherever-it-lives": {
+    "title": "Announcing the Databricks storage ecosystem: Governing the enterprise data estate, wherever it lives",
+    "source": "Databricks Blog",
+    "first_seen": "2026-06-10T16:15:26.776033+00:00",
+    "published": "2026-06-10T12:03:00+00:00"
+  },
+  "https://www.schneier.com/blog/archives/2026/06/nso-group-hacking-whatsapp-despite-court-order.html": {
+    "title": "NSO Group Hacking WhatsApp Despite Court Order",
+    "source": "Schneier on Security",
+    "first_seen": "2026-06-10T16:15:26.776033+00:00",
+    "published": "2026-06-10T11:08:59+00:00"
+  },
+  "https://www.phoronix.com/news/KDE-KWin-Gaming-Latency-2026": {
+    "title": "KDE KWin Patches Aiming To Optimize Gaming Latency To Better Compete With Windows",
+    "source": "Phoronix",
+    "first_seen": "2026-06-10T16:15:26.776033+00:00",
+    "published": "2026-06-10T10:37:00+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-Firmware-AI-Coding-Agents": {
+    "title": "Linux Firmware Repository Preps For AI Coding Agents",
+    "source": "Phoronix",
+    "first_seen": "2026-06-10T16:15:26.776033+00:00",
+    "published": "2026-06-10T10:25:39+00:00"
+  },
+  "https://www.neowin.net/news/google-chrome-is-killing-all-ublock-origin-bypasses-microsoft-edge-opera-to-follow": {
+    "title": "Chrome is looking to permanently drop MV2 extension",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-10T16:15:26.776033+00:00",
+    "published": "2026-06-10T05:50:07+00:00"
+  },
+  "https://www.inverse.com/input/gaming/the-dirty-secret-that-makes-speedrunning-on-spongebob-a-lot-faster": {
+    "title": "Smudging the game disc to make speedrunning 'SpongeBob' faster",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-10T16:15:26.776033+00:00",
+    "published": "2026-06-10T02:25:05+00:00"
+  },
+  "https://discord.com/blog/game-on-discord-is-backing-the-next-generation-of-dutch-gaming-founders": {
+    "title": "Game On: Discord Is Backing the Next Generation of Dutch Gaming Founders",
+    "source": "Discord Engineering",
+    "first_seen": "2026-06-10T16:15:26.776033+00:00",
+    "published": "2026-06-10T00:00:00+00:00"
   }
 }
