@@ -37076,5 +37076,305 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-06-11T10:29:40.906244+00:00",
     "published": "2026-06-10T02:48:20+00:00"
+  },
+  "https://www.databricks.com/blog/geospatial-unbounded-spatial-sql-ga-aibi-maps-delta-sharing-and-iceberg-v3": {
+    "title": "Geospatial Unbounded: Spatial SQL GA with AI/BI Maps, Delta Sharing, and Iceberg v3",
+    "source": "Databricks Blog",
+    "first_seen": "2026-06-11T16:22:03.155719+00:00",
+    "published": "2026-06-11T17:06:38+00:00"
+  },
+  "https://www.phoronix.com/news/Git-2.55-rc0-Released": {
+    "title": "Git 2.55-rc0 Released With Rust Enabled By Default",
+    "source": "Phoronix",
+    "first_seen": "2026-06-11T16:22:03.155719+00:00",
+    "published": "2026-06-11T16:15:02+00:00"
+  },
+  "https://github.blog/security/making-secret-scanning-more-trustworthy-reducing-false-positives-at-scale": {
+    "title": "Making secret scanning more trustworthy: Reducing false positives at scale",
+    "source": "GitHub Blog",
+    "first_seen": "2026-06-11T16:22:03.155719+00:00",
+    "published": "2026-06-11T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/business-intelligence/dashboard-agents-in-looker": {
+    "title": "Transform dashboards into interactive data experiences with Looker agents",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-06-11T16:22:03.155719+00:00",
+    "published": "2026-06-11T16:00:00+00:00"
+  },
+  "https://devblogs.microsoft.com/devops/copilot-autofix-for-github-advanced-security-for-azure-devops": {
+    "title": "Copilot Autofix for GitHub Advanced Security for Azure DevOps",
+    "source": "MS DevOps Blog",
+    "first_seen": "2026-06-11T16:22:03.155719+00:00",
+    "published": "2026-06-11T15:54:32+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/evaluate-ai-agents-systematically-with-agent-evalkit": {
+    "title": "Evaluate AI agents systematically with Agent-EvalKit",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-06-11T16:22:03.155719+00:00",
+    "published": "2026-06-11T15:49:47+00:00"
+  },
+  "https://aws.amazon.com/blogs/compute/optimize-ec2-costs-with-aws-compute-optimizer-right-sizing": {
+    "title": "Optimize EC2 costs with AWS Compute Optimizer right sizing",
+    "source": "AWS Compute Blog",
+    "first_seen": "2026-06-11T16:22:03.155719+00:00",
+    "published": "2026-06-11T15:46:22+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/spot-trends-faster-sort-smarter-unlocking-sparklines-and-custom-sort-in-amazon-quick": {
+    "title": "Spot trends faster, sort smarter: Unlocking Sparklines and Custom Sort in Amazon Quick",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-06-11T16:22:03.155719+00:00",
+    "published": "2026-06-11T15:36:31+00:00"
+  },
+  "https://blog.bytebytego.com/p/must-know-deployment-strategies-from": {
+    "title": "Must- Know Deployment Strategies: From Big-Bang to Progressive Delivery",
+    "source": "ByteByteGo",
+    "first_seen": "2026-06-11T16:22:03.155719+00:00",
+    "published": "2026-06-11T15:31:29+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/building-ai-shopping-agent-using-amazon-bedrock-agentcore-runtime-and-amazon-opensearch-service": {
+    "title": "Building AI shopping agent using Amazon Bedrock AgentCore Runtime and Amazon OpenSearch Service",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-06-11T16:22:03.155719+00:00",
+    "published": "2026-06-11T15:27:16+00:00"
+  },
+  "https://www.youtube.com/watch?v=UfApUobqN8Y": {
+    "title": "The $15,000 AI Bill. Your $20 Subscription is a DELUSION [video]",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-11T16:22:03.155719+00:00",
+    "published": "2026-06-11T15:27:02+00:00"
+  },
+  "https://www.phoronix.com/review/ubuntu-2610-amd64v3": {
+    "title": "Benchmarking The Performance Benefits To Ubuntu 26.10 amd64v3 Packages",
+    "source": "Phoronix",
+    "first_seen": "2026-06-11T16:22:03.155719+00:00",
+    "published": "2026-06-11T15:24:24+00:00"
+  },
+  "https://github.com/icitry/FPS.cob": {
+    "title": "FPS.cob: A first person shooter in COBOL",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-11T16:22:03.155719+00:00",
+    "published": "2026-06-11T15:13:57+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/optimize-blueprint-extraction-accuracy-in-amazon-bedrock-data-automation": {
+    "title": "Optimize blueprint extraction accuracy in Amazon Bedrock Data Automation",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-06-11T16:22:03.155719+00:00",
+    "published": "2026-06-11T15:11:56+00:00"
+  },
+  "https://github.com/ory/talos/tree/master": {
+    "title": "Show HN: Open-source API Key server written in Go by Ory",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-11T16:22:03.155719+00:00",
+    "published": "2026-06-11T15:09:42+00:00"
+  },
+  "https://www.databricks.com/blog/empower-your-healthcare-agents-ready-use-mcp-databricks-marketplace": {
+    "title": "Empower your healthcare agents with ready-to-use MCP on Databricks Marketplace",
+    "source": "Databricks Blog",
+    "first_seen": "2026-06-11T16:22:03.155719+00:00",
+    "published": "2026-06-11T15:06:06+00:00"
+  },
+  "https://www.theatlantic.com/technology/2026/06/car-headlights-too-bright-adaptive-beams/687488": {
+    "title": "Driving in America Is Headlight Hell",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-11T16:22:03.155719+00:00",
+    "published": "2026-06-11T14:55:59+00:00"
+  },
+  "https://lwn.net/Articles/1077587": {
+    "title": "Homebrew 6.0.0 released",
+    "source": "LWN.net",
+    "first_seen": "2026-06-11T16:22:03.155719+00:00",
+    "published": "2026-06-11T14:49:37+00:00"
+  },
+  "https://www.databricks.com/blog/how-ecolab-rebuilt-retail-intelligence-databricks-and-anthropic-claude": {
+    "title": "How Ecolab rebuilt retail intelligence on Databricks and Anthropic Claude",
+    "source": "Databricks Blog",
+    "first_seen": "2026-06-11T16:22:03.155719+00:00",
+    "published": "2026-06-11T14:44:00+00:00"
+  },
+  "https://lwn.net/Articles/1077208": {
+    "title": "[$] Automatic mTHP creation in 7.2",
+    "source": "LWN.net",
+    "first_seen": "2026-06-11T16:22:03.155719+00:00",
+    "published": "2026-06-11T14:33:27+00:00"
+  },
+  "https://thenewstack.io/delegate-tickets-to-ai": {
+    "title": "How to delegate 40% of tickets to AI",
+    "source": "The New Stack",
+    "first_seen": "2026-06-11T16:22:03.155719+00:00",
+    "published": "2026-06-11T14:30:00+00:00"
+  },
+  "https://mimo.xiaomi.com/mimocode": {
+    "title": "MiMo Code Is Now Released and Open-Source",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-11T16:22:03.155719+00:00",
+    "published": "2026-06-11T14:27:19+00:00"
+  },
+  "https://nextcloud.com/blog/nextcloud-hub26-spring": {
+    "title": "Nextcloud Hub 26 Spring: Built together, designed for the future",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-11T16:22:03.155719+00:00",
+    "published": "2026-06-11T14:17:47+00:00"
+  },
+  "https://slack.engineering/agentic-testing-where-agents-fit-in-the-e2e-testing-stack": {
+    "title": "Agentic Testing: Where Agents Fit in the E2E Testing Stack",
+    "source": "Slack Engineering",
+    "first_seen": "2026-06-11T16:22:03.155719+00:00",
+    "published": "2026-06-11T14:15:28+00:00"
+  },
+  "https://www.heise.de/en/news/Euro-Office-First-version-of-the-open-source-web-office-is-here-11322160.html": {
+    "title": "Euro-Office: First version of the open-source web office is here",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-11T16:22:03.155719+00:00",
+    "published": "2026-06-11T14:06:43+00:00"
+  },
+  "https://mapcomplete.org": {
+    "title": "MapComplete – Contibute to OpenStreetMaps",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-11T16:22:03.155719+00:00",
+    "published": "2026-06-11T14:04:05+00:00"
+  },
+  "https://www.phoronix.com/news/Khronos-glTF-2.1-Released": {
+    "title": "Khronos Releases glTF 2.1 To Make This 3D Asset Standard Work Well For Large Scenes",
+    "source": "Phoronix",
+    "first_seen": "2026-06-11T16:22:03.155719+00:00",
+    "published": "2026-06-11T14:02:22+00:00"
+  },
+  "https://thenewstack.io/verifying-async-ai-agents": {
+    "title": "Agentic development hinges on verification. For cloud-native software, that is a runtime problem.",
+    "source": "The New Stack",
+    "first_seen": "2026-06-11T16:22:03.155719+00:00",
+    "published": "2026-06-11T14:00:00+00:00"
+  },
+  "https://thenewstack.io/agentic-ai-cloud-sovereignty": {
+    "title": "AI agents need infrastructure: Why Europe’s regional cloud strategy matters",
+    "source": "The New Stack",
+    "first_seen": "2026-06-11T16:22:03.155719+00:00",
+    "published": "2026-06-11T14:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/YSERVER-Rust-X11-Server": {
+    "title": "YSERVER: Modern X11 Server Written In Rust With The Help Of Claude Code",
+    "source": "Phoronix",
+    "first_seen": "2026-06-11T16:22:03.155719+00:00",
+    "published": "2026-06-11T13:46:11+00:00"
+  },
+  "https://www.bbc.com/news/videos/clyrvrde160o": {
+    "title": "US-Canada border library gets new Quebec-only entrance",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-11T16:22:03.155719+00:00",
+    "published": "2026-06-11T13:42:42+00:00"
+  },
+  "https://www.businessinsider.com/botsitting-ai-hidden-human-labor-at-work-2026-6": {
+    "title": "Workers are spending over 6 hours a week botsitting AI, fueling job frustration",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-11T16:22:03.155719+00:00",
+    "published": "2026-06-11T13:26:59+00:00"
+  },
+  "https://github.com/huggingface/open-r1": {
+    "title": "Open Reproduction of DeepSeek-R1",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-11T16:22:03.155719+00:00",
+    "published": "2026-06-11T13:14:31+00:00"
+  },
+  "https://lwn.net/Articles/1077536": {
+    "title": "Security updates for Thursday",
+    "source": "LWN.net",
+    "first_seen": "2026-06-11T16:22:03.155719+00:00",
+    "published": "2026-06-11T13:08:29+00:00"
+  },
+  "https://www.cncf.io/blog/2026/06/11/introducing-verifiable-execution-in-dapr-1-18": {
+    "title": "Introducing Verifiable Execution in Dapr 1.18",
+    "source": "CNCF Blog",
+    "first_seen": "2026-06-11T16:22:03.155719+00:00",
+    "published": "2026-06-11T13:00:00+00:00"
+  },
+  "https://thenewstack.io/deterministic-ai-spring-upgrades": {
+    "title": "Transform your AI coding agent into a deterministic Java Spring expert",
+    "source": "The New Stack",
+    "first_seen": "2026-06-11T16:22:03.155719+00:00",
+    "published": "2026-06-11T13:00:00+00:00"
+  },
+  "https://thenewstack.io/wearedevelopers-san-jose-expansion": {
+    "title": "WeAreDevelopers is coming to the US to give unsung developers a bigger voice",
+    "source": "The New Stack",
+    "first_seen": "2026-06-11T16:22:03.155719+00:00",
+    "published": "2026-06-11T12:42:08+00:00"
+  },
+  "https://curlewis.co.nz/posts/lines-of-code-got-a-better-publicist": {
+    "title": "Lines of Code Got a Better Publicist",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-11T16:22:03.155719+00:00",
+    "published": "2026-06-11T12:26:42+00:00"
+  },
+  "https://www.construction-physics.com/p/biological-evolution-and-information": {
+    "title": "Biological Evolution and Information Acquisition",
+    "source": "Construction Physics",
+    "first_seen": "2026-06-11T16:22:03.155719+00:00",
+    "published": "2026-06-11T12:01:31+00:00"
+  },
+  "https://www.docker.com/blog/docker-hardened-images-enhanced-vulnerability-scanning-with-docker-and-aikido": {
+    "title": "Docker Hardened Images enhanced vulnerability scanning with Docker and Aikido",
+    "source": "Docker Blog",
+    "first_seen": "2026-06-11T16:22:03.155719+00:00",
+    "published": "2026-06-11T12:00:00+00:00"
+  },
+  "https://thenewstack.io/ai-training-data-quality": {
+    "title": "Cleaner AI training data, fewer bugs: Sonar’s SonarSweep explained",
+    "source": "The New Stack",
+    "first_seen": "2026-06-11T16:22:03.155719+00:00",
+    "published": "2026-06-11T12:00:00+00:00"
+  },
+  "https://realpython.com/quizzes/python-serialize-data": {
+    "title": "Quiz: Serialize Your Data With Python",
+    "source": "Real Python",
+    "first_seen": "2026-06-11T16:22:03.155719+00:00",
+    "published": "2026-06-11T12:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/OpenJPH-0.28-Released": {
+    "title": "OpenJPH 0.28 Up To 1.9x Faster With New AVX2 Optimizations For High-Throughput JPEG2000",
+    "source": "Phoronix",
+    "first_seen": "2026-06-11T16:22:03.155719+00:00",
+    "published": "2026-06-11T11:27:04+00:00"
+  },
+  "https://www.schneier.com/blog/archives/2026/06/enhanced-license-plate-tracking.html": {
+    "title": "Enhanced License Plate Tracking",
+    "source": "Schneier on Security",
+    "first_seen": "2026-06-11T16:22:03.155719+00:00",
+    "published": "2026-06-11T11:01:19+00:00"
+  },
+  "https://www.databricks.com/blog/stop-building-data-products-start-building-data-services": {
+    "title": "Stop building data products. Start building data services.",
+    "source": "Databricks Blog",
+    "first_seen": "2026-06-11T16:22:03.155719+00:00",
+    "published": "2026-06-11T08:46:55+00:00"
+  },
+  "https://www.elastic.co/blog/m-26-14-memorandum": {
+    "title": "From M-21-31 to M-26-14: What US government agencies need to know now",
+    "source": "Elastic Blog",
+    "first_seen": "2026-06-11T16:22:03.155719+00:00",
+    "published": "2026-06-11T00:00:00+00:00"
+  },
+  "https://www.elastic.co/blog/agentic-compliance-skills": {
+    "title": "Compliance work is overdue for a new approach",
+    "source": "Elastic Blog",
+    "first_seen": "2026-06-11T16:22:03.155719+00:00",
+    "published": "2026-06-11T00:00:00+00:00"
+  },
+  "https://planetscale.com/blog/the-only-scalable-delete": {
+    "title": "The only scalable delete in Postgres is DROP TABLE",
+    "source": "PlanetScale Blog",
+    "first_seen": "2026-06-11T16:22:03.155719+00:00",
+    "published": "2026-06-11T00:00:00+00:00"
+  },
+  "https://nodeweekly.com/issues/628": {
+    "title": "npm install is (finally) getting safer",
+    "source": "Node Weekly",
+    "first_seen": "2026-06-11T16:22:03.155719+00:00",
+    "published": "2026-06-11T00:00:00+00:00"
+  },
+  "https://huggingface.co/blog/torch-mlp-fusion": {
+    "title": "Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-06-11T16:22:03.155719+00:00",
+    "published": "2026-06-11T00:00:00+00:00"
   }
 }
