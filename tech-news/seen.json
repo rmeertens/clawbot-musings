@@ -37376,5 +37376,263 @@
     "source": "Hugging Face Blog",
     "first_seen": "2026-06-11T16:22:03.155719+00:00",
     "published": "2026-06-11T00:00:00+00:00"
+  },
+  "https://dropbox.tech/security/dropbox-mcp-dash-design-code-security": {
+    "title": "How Dropbox uses MCP and Dash to close the design-to-code security gap",
+    "source": "Dropbox Tech",
+    "first_seen": "2026-06-11T21:38:02.252478+00:00",
+    "published": "2026-06-12T18:00:00+00:00"
+  },
+  "https://devblogs.microsoft.com/devops/june-patches-for-azure-devops-server-5": {
+    "title": "June Patches for Azure DevOps Server",
+    "source": "MS DevOps Blog",
+    "first_seen": "2026-06-11T21:38:02.252478+00:00",
+    "published": "2026-06-11T21:33:15+00:00"
+  },
+  "https://github.blog/news-insights/company-news/github-availability-report-may-2026": {
+    "title": "GitHub availability report: May 2026",
+    "source": "GitHub Blog",
+    "first_seen": "2026-06-11T21:38:02.252478+00:00",
+    "published": "2026-06-11T21:30:15+00:00"
+  },
+  "https://fablepool.com": {
+    "title": "Show HN: FablePool – pool money behind a prompt, and Fable builds it in public",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-11T21:38:02.252478+00:00",
+    "published": "2026-06-11T21:17:30+00:00"
+  },
+  "https://www.databricks.com/blog/forward-deployed-engineering-delivering-business-outcomes-ai": {
+    "title": "Forward Deployed Engineering: Delivering Business Outcomes with AI",
+    "source": "Databricks Blog",
+    "first_seen": "2026-06-11T21:38:02.252478+00:00",
+    "published": "2026-06-11T21:06:05+00:00"
+  },
+  "https://github.com/coder/boo": {
+    "title": "Show HN: Boo – screen-style terminal multiplexer built on libghostty",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-11T21:38:02.252478+00:00",
+    "published": "2026-06-11T20:52:26+00:00"
+  },
+  "https://thenewstack.io/chainguard-greyware-scanner-vibe-coding": {
+    "title": "“Don’t just grab random stuff off the internet”: What Chainguard found in 52,000 open-source packages",
+    "source": "The New Stack",
+    "first_seen": "2026-06-11T21:38:02.252478+00:00",
+    "published": "2026-06-11T20:38:54+00:00"
+  },
+  "https://newsletter.masilotti.com/p/i-stopped-tracking-my-time-now-i": {
+    "title": "I stopped tracking my time. Now I can't focus",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-11T21:38:02.252478+00:00",
+    "published": "2026-06-11T20:14:33+00:00"
+  },
+  "https://www.ssp.sh/brain/travel-where-you-are": {
+    "title": "Travel Locally, Where You Are",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-11T21:38:02.252478+00:00",
+    "published": "2026-06-11T20:08:26+00:00"
+  },
+  "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/virginia-community-investments": {
+    "title": "Our new community investments in Virginia support local jobs and expand energy affordability.",
+    "source": "Google AI Blog",
+    "first_seen": "2026-06-11T21:38:02.252478+00:00",
+    "published": "2026-06-11T20:00:00+00:00"
+  },
+  "https://www.kennethpayne.uk/p/shall-we-play-a-game": {
+    "title": "Shall we play a game? – LLMs use tactical nukes in 95% of simulations",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-11T21:38:02.252478+00:00",
+    "published": "2026-06-11T19:54:54+00:00"
+  },
+  "https://developer.nvidia.com/blog/one-click-multi-tenant-security-with-nvidia-quantum-infiniband": {
+    "title": "One-Click Multi-Tenant Security with  NVIDIA Quantum InfiniBand",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-06-11T21:38:02.252478+00:00",
+    "published": "2026-06-11T19:52:37+00:00"
+  },
+  "https://www.databricks.com/blog/ingesting-milky-way-petabyte-scale-zerobus-ingest": {
+    "title": "Ingesting the Milky Way: Petabyte-Scale with Zerobus Ingest",
+    "source": "Databricks Blog",
+    "first_seen": "2026-06-11T21:38:02.252478+00:00",
+    "published": "2026-06-11T19:45:26+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/provision-oracle-databaseaws-resources-using-terraform": {
+    "title": "Provision Oracle Database@AWS resources using Terraform",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-06-11T21:38:02.252478+00:00",
+    "published": "2026-06-11T19:43:18+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/extract-data-with-on-demand-and-batch-pipelines-dynamically": {
+    "title": "Extract Data with On-demand and Batch Pipelines Dynamically",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-06-11T21:38:02.252478+00:00",
+    "published": "2026-06-11T19:40:33+00:00"
+  },
+  "https://cloud.google.com/blog/products/identity-security/powering-the-next-era-of-confidential-ai": {
+    "title": "Powering the next era of Confidential AI",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-06-11T21:38:02.252478+00:00",
+    "published": "2026-06-11T19:30:00+00:00"
+  },
+  "https://www.databricks.com/blog/how-ergo-hestia-reduced-time-market-lakebase-and-mosaic-ai-model-serving": {
+    "title": "How ERGO Hestia reduced time-to-market with Lakebase and Mosaic AI Model Serving",
+    "source": "Databricks Blog",
+    "first_seen": "2026-06-11T21:38:02.252478+00:00",
+    "published": "2026-06-11T19:15:00+00:00"
+  },
+  "https://thenewstack.io/ai-junior-developer-hiring": {
+    "title": "“AI is disrupting everything”: Where do entry-level tech jobs go now?",
+    "source": "The New Stack",
+    "first_seen": "2026-06-11T21:38:02.252478+00:00",
+    "published": "2026-06-11T18:34:19+00:00"
+  },
+  "https://www.databricks.com/blog/welcoming-first-cohort-databricks-student-fellows": {
+    "title": "Welcoming the first cohort of Databricks student fellows",
+    "source": "Databricks Blog",
+    "first_seen": "2026-06-11T21:38:02.252478+00:00",
+    "published": "2026-06-11T18:00:00+00:00"
+  },
+  "https://thenewstack.io/lakefs-agentic-ai-sandbox": {
+    "title": "“The manual model breaks”: What happens when agents write to production data",
+    "source": "The New Stack",
+    "first_seen": "2026-06-11T21:38:02.252478+00:00",
+    "published": "2026-06-11T17:35:59+00:00"
+  },
+  "https://www.righto.com/2012/02/apple-didnt-revolutionize-power.html": {
+    "title": "Apple didn't revolutionize power supplies; new transistors did (2012)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-11T21:38:02.252478+00:00",
+    "published": "2026-06-11T17:35:19+00:00"
+  },
+  "https://www.phoronix.com/news/Mesa-26.2-Preps-AMD-GFX1156": {
+    "title": "Mesa 26.2 Preps For AMD GFX1156 For New, Post-Strix-Halo RDNA 3.5 Graphics",
+    "source": "Phoronix",
+    "first_seen": "2026-06-11T21:38:02.252478+00:00",
+    "published": "2026-06-11T17:34:14+00:00"
+  },
+  "https://rajitkhanna.com/agents": {
+    "title": "Building agents without harness engineering",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-11T21:38:02.252478+00:00",
+    "published": "2026-06-11T17:28:52+00:00"
+  },
+  "https://www.databricks.com/blog/azure-databricks-data-ai-summit-2026-featuring-industry-leaders-and-partners": {
+    "title": "Azure Databricks at Data + AI Summit 2026 featuring Industry Leaders and Partners",
+    "source": "Databricks Blog",
+    "first_seen": "2026-06-11T21:38:02.252478+00:00",
+    "published": "2026-06-11T17:00:16+00:00"
+  },
+  "https://www.hashicorp.com/blog/terraform-mcp-server-is-now-generally-available": {
+    "title": "Terraform MCP server is now generally available",
+    "source": "HashiCorp Blog",
+    "first_seen": "2026-06-11T21:38:02.252478+00:00",
+    "published": "2026-06-11T17:00:00+00:00"
+  },
+  "https://thenewstack.io/beyond-the-stack-trace": {
+    "title": "Beyond the stack trace: why AI requires a new debugging paradigm",
+    "source": "The New Stack",
+    "first_seen": "2026-06-11T21:38:02.252478+00:00",
+    "published": "2026-06-11T17:00:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/compute/build-rag-powered-ai-solutions-at-the-edge-with-aws-local-zones-and-outposts": {
+    "title": "Build RAG-powered AI solutions at the edge with AWS Local Zones and Outposts",
+    "source": "AWS Compute Blog",
+    "first_seen": "2026-06-11T21:38:02.252478+00:00",
+    "published": "2026-06-11T16:59:02+00:00"
+  },
+  "https://zed.dev/blog/introducing-deltadb": {
+    "title": "Software Is Made Between Commits",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-11T21:38:02.252478+00:00",
+    "published": "2026-06-11T16:28:24+00:00"
+  },
+  "https://newsletter.pragmaticengineer.com/p/did-anthropics-new-model-just-boost": {
+    "title": "The Pulse: Did Anthropic’s new model just boost rival Codex’s market share?",
+    "source": "The Pragmatic Engineer",
+    "first_seen": "2026-06-11T21:38:02.252478+00:00",
+    "published": "2026-06-11T16:26:58+00:00"
+  },
+  "https://www.theguardian.com/us-news/2026/jun/11/solar-energy-us-coal": {
+    "title": "Solar generates more energy in US than coal for first time",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-11T21:38:02.252478+00:00",
+    "published": "2026-06-11T16:10:05+00:00"
+  },
+  "https://waymo.com/blog/2026/06/waymo-premier": {
+    "title": "Waymo Premier",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-11T21:38:02.252478+00:00",
+    "published": "2026-06-11T16:10:02+00:00"
+  },
+  "https://mrbruh.com/amd2": {
+    "title": "The RCE that AMD wouldn't fix",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-11T21:38:02.252478+00:00",
+    "published": "2026-06-11T16:03:40+00:00"
+  },
+  "https://www.endorlabs.com/learn/claude-fable-5-mythos-grade-hype": {
+    "title": "Claude Fable 5: mid-tier results on coding tasks",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-11T21:38:02.252478+00:00",
+    "published": "2026-06-11T16:03:21+00:00"
+  },
+  "https://www.ourcommons.ca/petitions/en/Petition/Sign/e-7416": {
+    "title": "Petition to Withdraw Canada's Bill C-22",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-11T21:38:02.252478+00:00",
+    "published": "2026-06-11T15:37:23+00:00"
+  },
+  "https://simonwillison.net/2026/Jun/11/datasette": {
+    "title": "datasette 1.0a33",
+    "source": "Simon Willison",
+    "first_seen": "2026-06-11T21:38:02.252478+00:00",
+    "published": "2026-06-11T15:26:49+00:00"
+  },
+  "https://cloud.google.com/blog/topics/threat-intelligence/shinyhunters-targets-education-sector-oracle-exploit": {
+    "title": "ShinyHunters Targets Education Sector with Oracle PeopleSoft Exploit",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-06-11T21:38:02.252478+00:00",
+    "published": "2026-06-11T14:00:00+00:00"
+  },
+  "https://brew.sh/2026/06/11/homebrew-6.0.0": {
+    "title": "Show HN: Homebrew 6.0.0",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-11T21:38:02.252478+00:00",
+    "published": "2026-06-11T13:24:29+00:00"
+  },
+  "https://blog.sentry.io/snapshots-available-beta": {
+    "title": "Catch visual regressions with Snapshots, now in beta",
+    "source": "Sentry Blog",
+    "first_seen": "2026-06-11T21:38:02.252478+00:00",
+    "published": "2026-06-11T09:00:00+00:00"
+  },
+  "https://simonwillison.net/2026/Jun/11/asyncinject": {
+    "title": "asyncinject 0.7",
+    "source": "Simon Willison",
+    "first_seen": "2026-06-11T21:38:02.252478+00:00",
+    "published": "2026-06-11T06:28:09+00:00"
+  },
+  "https://www.elastic.co/blog/quantum-computing-in-financial-services": {
+    "title": "Quantum computing, agentic AI, and the next infrastructure layer in financial services",
+    "source": "Elastic Blog",
+    "first_seen": "2026-06-11T21:38:02.252478+00:00",
+    "published": "2026-06-11T00:00:00+00:00"
+  },
+  "https://openai.com/index/openai-to-acquire-ona": {
+    "title": "OpenAI to acquire Ona",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-06-11T21:38:02.252478+00:00",
+    "published": "2026-06-11T00:00:00+00:00"
+  },
+  "https://openai.com/index/bbva": {
+    "title": "BBVA puts AI at the core of banking with OpenAI",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-06-11T21:38:02.252478+00:00",
+    "published": "2026-06-11T00:00:00+00:00"
+  },
+  "https://replit.com/blog/custom-skills": {
+    "title": "Customize Replit Agent with Skills & Custom Instructions",
+    "source": "Replit Blog",
+    "first_seen": "2026-06-11T21:38:02.252478+00:00",
+    "published": "2026-06-10T22:09:14+00:00"
   }
 }
