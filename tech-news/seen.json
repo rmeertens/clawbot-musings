@@ -37754,5 +37754,155 @@
     "source": "Google Cloud Blog",
     "first_seen": "2026-06-12T10:28:19.722181+00:00",
     "published": "2026-06-11T07:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/Red-Hat-RHEL-10.2-For-RISC-V": {
+    "title": "Red Hat Releases Second Developer Preview Of RHEL 10 For RISC-V",
+    "source": "Phoronix",
+    "first_seen": "2026-06-12T16:02:36.986494+00:00",
+    "published": "2026-06-12T15:56:14+00:00"
+  },
+  "https://huggingface.co/blog/allenai/olmo-eval": {
+    "title": "olmo-eval: An evaluation workbench for the model development loop",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-06-12T16:02:36.986494+00:00",
+    "published": "2026-06-12T15:56:10+00:00"
+  },
+  "https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes": {
+    "title": "More Tailscale tricks for your jailbroken Kindle",
+    "source": "Tailscale Blog",
+    "first_seen": "2026-06-12T16:02:36.986494+00:00",
+    "published": "2026-06-12T15:45:00+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.1-Best-Features": {
+    "title": "The Best Features Of Linux 7.1: FRED, New NTFS Driver & More Performance",
+    "source": "Phoronix",
+    "first_seen": "2026-06-12T16:02:36.986494+00:00",
+    "published": "2026-06-12T15:38:18+00:00"
+  },
+  "https://www.phoronix.com/news/Ubuntu-26.10-Dbus-Broker": {
+    "title": "Ubuntu 26.10 Reaffirms Plans For Switching To Dbus-Broker",
+    "source": "Phoronix",
+    "first_seen": "2026-06-12T16:02:36.986494+00:00",
+    "published": "2026-06-12T15:26:51+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/build-a-meeting-prep-and-follow-up-assistant-with-amazon-quick-and-cisco-webex-mcp-servers": {
+    "title": "Build a meeting prep and follow-up assistant with Amazon Quick and Cisco Webex MCP servers",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-06-12T16:02:36.986494+00:00",
+    "published": "2026-06-12T14:49:40+00:00"
+  },
+  "https://developer.nvidia.com/blog/deploy-long-context-reasoning-and-agentic-workflows-with-minimax-m3-on-nvidia-accelerated-infrastructure": {
+    "title": "Deploy Long-Context Reasoning and Agentic Workflows with MiniMax M3 on NVIDIA Accelerated Infrastructure",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-06-12T16:02:36.986494+00:00",
+    "published": "2026-06-12T14:43:17+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/from-pdfs-to-insights-architecting-an-intelligent-document-processing-pipeline-with-aws-generative-ai-services": {
+    "title": "From PDFs to insights: Architecting an intelligent document processing pipeline with AWS generative AI services",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-06-12T16:02:36.986494+00:00",
+    "published": "2026-06-12T14:43:11+00:00"
+  },
+  "https://www.phoronix.com/review/amd-opensil-coreboot-ar1": {
+    "title": "Open-Source Success Achieved For Greater Transparency & Security: Running AMD openSIL + Coreboot On EPYC",
+    "source": "Phoronix",
+    "first_seen": "2026-06-12T16:02:36.986494+00:00",
+    "published": "2026-06-12T14:00:00+00:00"
+  },
+  "https://stackoverflow.blog/2026/06/12/what-s-the-facts-charity-how-do-i-get-my-leaders-to-stop-running-teams-into-the-ground": {
+    "title": "What's the facts, Charity? How do I get my leaders to stop running teams Into the ground?​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌​﻿​‍​﻿​﻿‌‍‌‌​﻿​‌​﻿‍‌​﻿‌​​﻿‍​‌‍‌‍​‍﻿‌‌‍‌‍‌‍​﻿‌‍​‌​﻿​​​‍﻿‌​﻿‌​​﻿‌​‌‍‌​​﻿‍​​‍﻿‌‌‍​‌‌‍​﻿‌‍​﻿​﻿‌﻿​‍﻿‌​﻿​​​﻿​﻿‌‍‌​​﻿‌‌​﻿​‍‌‍‌‌​﻿‌‌‌‍‌‌​﻿‌‌‌‍​‍​﻿‌‌‌‍‌‌​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌​﻿​‍​﻿​﻿‌‍‌‌​﻿​‌​﻿‍‌​﻿‌​​﻿‍​‌‍‌‍​‍﻿‌‌‍‌‍‌‍​﻿‌‍​‌​﻿​​​‍﻿‌​﻿‌​​﻿‌​‌‍‌​​﻿‍​​‍﻿‌‌‍​‌‌‍​﻿‌‍​﻿​﻿‌﻿​‍﻿‌​﻿​​​﻿​﻿‌‍‌​​﻿‌‌​﻿​‍‌‍‌‌​﻿‌‌‌‍‌‌​﻿‌‌‌‍​‍​﻿‌‌‌‍‌‌​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌",
+    "source": "Stack Overflow Blog",
+    "first_seen": "2026-06-12T16:02:36.986494+00:00",
+    "published": "2026-06-12T14:00:00+00:00"
+  },
+  "https://pytorch.org/blog/pytorch-meetup-singapore-a-milestone-in-apac": {
+    "title": "PyTorch Meetup Singapore: A milestone in APAC",
+    "source": "PyTorch Blog",
+    "first_seen": "2026-06-12T16:02:36.986494+00:00",
+    "published": "2026-06-12T13:47:34+00:00"
+  },
+  "https://lwn.net/Articles/1077718": {
+    "title": "Hundreds of AUR packages compromised",
+    "source": "LWN.net",
+    "first_seen": "2026-06-12T16:02:36.986494+00:00",
+    "published": "2026-06-12T13:41:22+00:00"
+  },
+  "https://lwn.net/Articles/1077703": {
+    "title": "Security updates for Friday",
+    "source": "LWN.net",
+    "first_seen": "2026-06-12T16:02:36.986494+00:00",
+    "published": "2026-06-12T13:12:50+00:00"
+  },
+  "https://www.phoronix.com/news/NTFS-Windows-Symbolic-Links": {
+    "title": "New NTFS Linux Driver Being Improved For Windows Native Symbolic Links",
+    "source": "Phoronix",
+    "first_seen": "2026-06-12T16:02:36.986494+00:00",
+    "published": "2026-06-12T13:00:46+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/built-from-the-inside-out-how-aws-professional-services-became-a-frontier-team-first": {
+    "title": "Built from the inside out: How AWS Professional Services became a frontier team first",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-06-12T16:02:36.986494+00:00",
+    "published": "2026-06-12T13:00:10+00:00"
+  },
+  "https://cloud.google.com/blog/products/data-analytics/how-the-open-knowledge-format-can-improve-data-sharing": {
+    "title": "Introducing the Open Knowledge Format",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-06-12T16:02:36.986494+00:00",
+    "published": "2026-06-12T13:00:00+00:00"
+  },
+  "https://blog.cloudflare.com/scaling-security-scans": {
+    "title": "Scaling Security Insights: how we achieved a 10x increase in global scanning capacity",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-06-12T16:02:36.986494+00:00",
+    "published": "2026-06-12T13:00:00+00:00"
+  },
+  "https://www.tigerdata.com/blog/when-postgresql-isnt-the-right-fit": {
+    "title": "When PostgreSQL Isn't the Right Fit: Recognizing Workloads That Need Different Architecture",
+    "source": "Timescale Blog",
+    "first_seen": "2026-06-12T16:02:36.986494+00:00",
+    "published": "2026-06-12T12:00:47+00:00"
+  },
+  "https://realpython.com/podcasts/rpp/299": {
+    "title": "The Real Python Podcast – Episode #299: EuroPython 2026: Celebrating 25 Years",
+    "source": "Real Python",
+    "first_seen": "2026-06-12T16:02:36.986494+00:00",
+    "published": "2026-06-12T12:00:00+00:00"
+  },
+  "https://www.schneier.com/blog/archives/2026/06/bernie-sanders-ai-sovereign-wealth-fund-plan.html": {
+    "title": "Bernie Sanders’ AI Sovereign Wealth Fund Plan",
+    "source": "Schneier on Security",
+    "first_seen": "2026-06-12T16:02:36.986494+00:00",
+    "published": "2026-06-12T11:03:17+00:00"
+  },
+  "https://www.cncf.io/blog/2026/06/12/securing-ci-cd-for-an-open-source-project-locking-down-dependencies": {
+    "title": "Securing CI/CD for an open source project: Locking down dependencies",
+    "source": "CNCF Blog",
+    "first_seen": "2026-06-12T16:02:36.986494+00:00",
+    "published": "2026-06-12T11:00:00+00:00"
+  },
+  "https://blog.trailofbits.com/2026/06/12/factoring-short-sleeve-rsa-keys-with-polynomials": {
+    "title": "Factoring \"short-sleeve\" RSA keys with polynomials",
+    "source": "Trail of Bits",
+    "first_seen": "2026-06-12T16:02:36.986494+00:00",
+    "published": "2026-06-12T11:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/AVX-512-Linux-RAID-Optimization": {
+    "title": "AVX-512 Optimization For Linux RAID Showing Up To 41% Improvement On AMD Ryzen 9 9950X",
+    "source": "Phoronix",
+    "first_seen": "2026-06-12T16:02:36.986494+00:00",
+    "published": "2026-06-12T10:42:01+00:00"
+  },
+  "https://www.phoronix.com/news/Arch-Linux-AUR-400-Compromised": {
+    "title": "Arch Linux's AUR Sees More Than 400 Packages Compromised With Malware",
+    "source": "Phoronix",
+    "first_seen": "2026-06-12T16:02:36.986494+00:00",
+    "published": "2026-06-12T10:39:07+00:00"
+  },
+  "https://golangweekly.com/issues/605": {
+    "title": "Go security issues worth auditing for",
+    "source": "Golang Weekly",
+    "first_seen": "2026-06-12T16:02:36.986494+00:00",
+    "published": "2026-06-12T00:00:00+00:00"
   }
 }
