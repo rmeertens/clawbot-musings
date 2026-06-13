@@ -38282,5 +38282,119 @@
     "source": "Databricks Blog",
     "first_seen": "2026-06-13T09:58:58.013282+00:00",
     "published": "2026-06-12T09:51:30+00:00"
+  },
+  "https://www.databricks.com/blog/introducing-omnigent-meta-harness-combine-control-and-share-your-agents": {
+    "title": "Introducing Omnigent: A Meta-Harness to Combine, Control and Share Your Agents",
+    "source": "Databricks Blog",
+    "first_seen": "2026-06-13T15:30:10.003656+00:00",
+    "published": "2026-06-13T15:00:00+00:00"
+  },
+  "https://thenewstack.io/fable-5-opus-comparison": {
+    "title": "Fable 5 vs Opus 4.8: The real stakes, not the spec sheet",
+    "source": "The New Stack",
+    "first_seen": "2026-06-13T15:30:10.003656+00:00",
+    "published": "2026-06-13T15:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/Intel-Ending-BigDL": {
+    "title": "Intel Ending Development Of BigDL: An Open-Source AI/LLM Effort Getting Axed",
+    "source": "Phoronix",
+    "first_seen": "2026-06-13T15:30:10.003656+00:00",
+    "published": "2026-06-13T14:38:00+00:00"
+  },
+  "https://desfontain.es/blog/banning-noise.html": {
+    "title": "US bans differential privacy in Census data",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-13T15:30:10.003656+00:00",
+    "published": "2026-06-13T13:54:56+00:00"
+  },
+  "https://economist.com/science-and-technology/2026/06/12/treating-pancreatic-tumours-may-have-revealed-cancers-master-switch": {
+    "title": "Treating pancreatic tumours may have revealed cancer's master switch",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-13T15:30:10.003656+00:00",
+    "published": "2026-06-13T13:34:00+00:00"
+  },
+  "https://lr0.org/blog/p/arabic": {
+    "title": "Introduction to the experience of rendering Arabic typography&its technical debt",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-13T15:30:10.003656+00:00",
+    "published": "2026-06-13T12:40:16+00:00"
+  },
+  "https://www.phoronix.com/news/Fedora-45-Light-GRUB-For-CoCo": {
+    "title": "Fedora 45 Considering A Lightened GRUB Bootloader For Confidential Compute",
+    "source": "Phoronix",
+    "first_seen": "2026-06-13T15:30:10.003656+00:00",
+    "published": "2026-06-13T12:22:25+00:00"
+  },
+  "https://chipsandcheese.com/p/an-interview-with-intels-kira-boyko": {
+    "title": "An Interview with Intel's Kira Boyko: Xeon 6's Product Director",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-13T15:30:10.003656+00:00",
+    "published": "2026-06-13T12:20:05+00:00"
+  },
+  "https://www.theguardian.com/business/2026/jun/12/sam-bankman-fried-loses-appeal": {
+    "title": "Sam Bankman-Fried loses bid to appeal against fraud conviction in FTX case",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-13T15:30:10.003656+00:00",
+    "published": "2026-06-13T12:17:27+00:00"
+  },
+  "https://hallucinate.site/gallery": {
+    "title": "Show HN: 2 Weeks of Hallucinate – The Photo Gallery",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-13T15:30:10.003656+00:00",
+    "published": "2026-06-13T12:11:35+00:00"
+  },
+  "https://github.com/tensorzero/tensorzero": {
+    "title": "AI OSS tool repo goes archived over night after raising $7.3M Seed",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-13T15:30:10.003656+00:00",
+    "published": "2026-06-13T12:10:47+00:00"
+  },
+  "https://www.construction-physics.com/p/reading-list-06132026": {
+    "title": "Reading List 06/13/2026",
+    "source": "Construction Physics",
+    "first_seen": "2026-06-13T15:30:10.003656+00:00",
+    "published": "2026-06-13T12:01:19+00:00"
+  },
+  "https://tonsky.me/blog/every-frame-perfect": {
+    "title": "Every Frame Perfect",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-13T15:30:10.003656+00:00",
+    "published": "2026-06-13T11:40:20+00:00"
+  },
+  "https://www.phoronix.com/news/Intel-Thermald-2.5.12-Released": {
+    "title": "Intel Thermald 2.5.12 Released... With Initial Support For ARM",
+    "source": "Phoronix",
+    "first_seen": "2026-06-13T15:30:10.003656+00:00",
+    "published": "2026-06-13T10:47:34+00:00"
+  },
+  "https://thenewstack.io/claude-fable-cost-model-triage": {
+    "title": "Claude Fable cost $9 in one coding test. GPT-5.5 cost $1.50. Model triage is the new AI skill.",
+    "source": "The New Stack",
+    "first_seen": "2026-06-13T15:30:10.003656+00:00",
+    "published": "2026-06-13T10:31:00+00:00"
+  },
+  "https://www.phoronix.com/news/GCC-17-FMV-For-APX-AVX10.2": {
+    "title": "GCC 17 Merges Function Multi-Versioning For APX & AVX10.2",
+    "source": "Phoronix",
+    "first_seen": "2026-06-13T15:30:10.003656+00:00",
+    "published": "2026-06-13T10:20:46+00:00"
+  },
+  "https://www.phoronix.com/news/Haiku-OS-May-2026": {
+    "title": "Haiku OS Now Enables AVX-512 Support, Other Hardware Improvements",
+    "source": "Phoronix",
+    "first_seen": "2026-06-13T15:30:10.003656+00:00",
+    "published": "2026-06-13T10:04:05+00:00"
+  },
+  "https://imil.net/blog/posts/2026/rtx-5080-+-rtx-3090-setup-80+-tok-s-on-qwen-3.6-27b-q8": {
+    "title": "RTX 5080 and RTX 3090 Setup: 80 Tok/s on Qwen 3.6 27B Q8",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-13T15:30:10.003656+00:00",
+    "published": "2026-06-13T09:55:32+00:00"
+  },
+  "https://github.com/Paca-AI/paca": {
+    "title": "Show HN: Paca – Lightweight Jira alternative for human-AI collaboration",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-13T15:30:10.003656+00:00",
+    "published": "2026-06-13T09:44:25+00:00"
   }
 }
