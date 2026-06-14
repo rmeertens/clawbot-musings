@@ -38702,5 +38702,89 @@
     "source": "Phoronix",
     "first_seen": "2026-06-14T15:31:38.282350+00:00",
     "published": "2026-06-14T10:09:38+00:00"
+  },
+  "https://neon.com/blog/introducing-neon-ts": {
+    "title": "Introducing neon.ts: infrastructure as code for your Neon projects",
+    "source": "Neon Blog",
+    "first_seen": "2026-06-14T21:25:40.049354+00:00",
+    "published": "2026-06-15T12:00:00+00:00"
+  },
+  "https://zinnia-os.org": {
+    "title": "Zinnia: A modular 64-bit Unix-like kernel written in Rust",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-14T21:25:40.049354+00:00",
+    "published": "2026-06-14T21:04:46+00:00"
+  },
+  "https://tumbleweed.nu/r/lm-3/uv/amber.html": {
+    "title": "Chaosnet (1981)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-14T21:25:40.049354+00:00",
+    "published": "2026-06-14T19:14:21+00:00"
+  },
+  "https://github.com/joske/yserver": {
+    "title": "Yserver: A modern X11 server written in Rust",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-14T21:25:40.049354+00:00",
+    "published": "2026-06-14T19:10:35+00:00"
+  },
+  "https://lwn.net/Articles/1077758": {
+    "title": "The 7.1 kernel has been released",
+    "source": "LWN.net",
+    "first_seen": "2026-06-14T21:25:40.049354+00:00",
+    "published": "2026-06-14T18:47:53+00:00"
+  },
+  "https://www.orangecrumbs.com": {
+    "title": "Show HN: Discover Wikipedia articles popular on Hacker News",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-14T21:25:40.049354+00:00",
+    "published": "2026-06-14T17:54:17+00:00"
+  },
+  "https://github.com/tamnd/kage": {
+    "title": "Show HN: Kage – Shadow any website to a single binary for offline viewing",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-14T21:25:40.049354+00:00",
+    "published": "2026-06-14T17:25:38+00:00"
+  },
+  "https://thenewstack.io/coding-agent-endurance-gap": {
+    "title": "Xiaomi’s MiMo Code claims it beats Claude Code past 200 steps",
+    "source": "The New Stack",
+    "first_seen": "2026-06-14T21:25:40.049354+00:00",
+    "published": "2026-06-14T17:00:00+00:00"
+  },
+  "https://www.schneier.com/blog/archives/2026/06/upcoming-speaking-engagements-57.html": {
+    "title": "Upcoming Speaking Engagements",
+    "source": "Schneier on Security",
+    "first_seen": "2026-06-14T21:25:40.049354+00:00",
+    "published": "2026-06-14T16:07:31+00:00"
+  },
+  "https://news.ycombinator.com/item?id=48528779": {
+    "title": "Ask HN: What are you working on? (June 2026)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-14T21:25:40.049354+00:00",
+    "published": "2026-06-14T16:05:28+00:00"
+  },
+  "https://lore.kernel.org/lkml/CAHk-=wi4BF4bMhZNZ1tqs+FFV4OuZRe3ZqdWB+LxRLmRweUzQw@mail.gmail.com/T": {
+    "title": "Linux 7.1",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-14T21:25:40.049354+00:00",
+    "published": "2026-06-14T16:01:30+00:00"
+  },
+  "https://thenewstack.io/audit-trails-revenue-asset": {
+    "title": "What your logs can’t tell you when an AI agent acts alone",
+    "source": "The New Stack",
+    "first_seen": "2026-06-14T21:25:40.049354+00:00",
+    "published": "2026-06-14T16:00:00+00:00"
+  },
+  "https://github.com/nex-agi/Nex-N2/issues/4": {
+    "title": "Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-14T21:25:40.049354+00:00",
+    "published": "2026-06-14T15:37:31+00:00"
+  },
+  "https://news.ycombinator.com/item?id=48528029": {
+    "title": "I indexed 669 GB of my GoPro videos using my M1 Max computer and local ML models",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-14T21:25:40.049354+00:00",
+    "published": "2026-06-14T15:13:57+00:00"
   }
 }
