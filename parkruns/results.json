@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-07T07:17:57Z",
+  "generated_at": "2026-06-14T07:29:47Z",
   "count": 146,
   "results": [
     {
@@ -238,7 +238,7 @@
       "osm_type": "relation",
       "osm_id": 18789493,
       "perimeter_m": 4024.5,
-      "area_m2": 463352.2,
+      "area_m2": 463351.7,
       "Q": 0.3595,
       "rank": 24
     },
@@ -1278,7 +1278,7 @@
       "osm_type": "relation",
       "osm_id": 7519100,
       "perimeter_m": 4896.3,
-      "area_m2": 31968.8,
+      "area_m2": 31968.9,
       "Q": 0.0168,
       "rank": 128
     },
@@ -1317,7 +1317,7 @@
       "raw_name": "Melton Mowbray Parkrun",
       "osm_type": "relation",
       "osm_id": 9511590,
-      "perimeter_m": 5121.6,
+      "perimeter_m": 5125.3,
       "area_m2": 25879.1,
       "Q": 0.0124,
       "rank": 132
