@@ -38486,5 +38486,95 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-06-13T21:25:37.964045+00:00",
     "published": "2026-06-13T13:58:46+00:00"
+  },
+  "https://garrit.xyz/posts/2026-05-06-dont-trust-large-context-windows": {
+    "title": "Don't trust large context windows",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-14T10:08:10.133519+00:00",
+    "published": "2026-06-14T06:07:09+00:00"
+  },
+  "http://tribblix.org": {
+    "title": "Tribblix: The retro Illumos distribution",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-14T10:08:10.133519+00:00",
+    "published": "2026-06-14T05:23:12+00:00"
+  },
+  "https://phoenixframework.org/blog/phoenix-liveview-1-2-released": {
+    "title": "Phoenix LiveView 1.2 Released",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-14T10:08:10.133519+00:00",
+    "published": "2026-06-14T04:53:51+00:00"
+  },
+  "https://garrit.xyz/posts/2026-06-13-pac-man-but-you-re-the-ghost": {
+    "title": "Pac-Man, but you're the ghost",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-14T10:08:10.133519+00:00",
+    "published": "2026-06-14T04:18:45+00:00"
+  },
+  "https://martinfowler.com/architecture": {
+    "title": "Software Architecture Guide (2019)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-14T10:08:10.133519+00:00",
+    "published": "2026-06-14T04:07:37+00:00"
+  },
+  "https://sqltoerdiagram.com": {
+    "title": "Free SQL→ER diagram tool, runs in the browser, nothing uploaded",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-14T10:08:10.133519+00:00",
+    "published": "2026-06-14T03:43:30+00:00"
+  },
+  "https://www.anthropic.com/research/making-claude-a-chemist": {
+    "title": "Making Claude a Chemist",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-14T10:08:10.133519+00:00",
+    "published": "2026-06-14T02:55:36+00:00"
+  },
+  "https://ataraxy-labs.github.io/weave": {
+    "title": "Weave: Merging based on language structure and not lines",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-14T10:08:10.133519+00:00",
+    "published": "2026-06-14T02:45:38+00:00"
+  },
+  "http://oldvcr.blogspot.com/2026/06/building-serial-and-vga-everything.html": {
+    "title": "Building a serial and VGA \"everything console\"",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-14T10:08:10.133519+00:00",
+    "published": "2026-06-14T02:31:15+00:00"
+  },
+  "https://igor-blue.github.io/2021/03/24/apt1.html": {
+    "title": "Apt Encounters of the Third Kind",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-14T10:08:10.133519+00:00",
+    "published": "2026-06-14T02:17:13+00:00"
+  },
+  "https://www.phoronix.com/news/Wine-Staging-11.11": {
+    "title": "Wine-Staging 11.11 Released With 289 Patches Atop Upstream",
+    "source": "Phoronix",
+    "first_seen": "2026-06-14T10:08:10.133519+00:00",
+    "published": "2026-06-14T00:52:00+00:00"
+  },
+  "https://juniperspring.org/posts/honda-evil-valet": {
+    "title": "Honda Civics and the Evil Valet",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-14T10:08:10.133519+00:00",
+    "published": "2026-06-14T00:49:46+00:00"
+  },
+  "https://simonwillison.net/2026/Jun/13/publishing-wasm-wheels": {
+    "title": "Publishing WASM wheels to PyPI for use with Pyodide",
+    "source": "Simon Willison",
+    "first_seen": "2026-06-14T10:08:10.133519+00:00",
+    "published": "2026-06-13T23:55:18+00:00"
+  },
+  "https://simonwillison.net/2026/Jun/13/luau-wasm": {
+    "title": "luau-wasm 0.1a0",
+    "source": "Simon Willison",
+    "first_seen": "2026-06-14T10:08:10.133519+00:00",
+    "published": "2026-06-13T23:14:30+00:00"
+  },
+  "https://simonwillison.net/2026/Jun/13/sqlite-column-provenance": {
+    "title": "Mapping SQLite result columns back to their source `table.column`",
+    "source": "Simon Willison",
+    "first_seen": "2026-06-14T10:08:10.133519+00:00",
+    "published": "2026-06-13T23:05:00+00:00"
   }
 }
