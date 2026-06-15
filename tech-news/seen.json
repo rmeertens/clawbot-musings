@@ -38786,5 +38786,131 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-06-14T21:25:40.049354+00:00",
     "published": "2026-06-14T15:13:57+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.2-Casefolding": {
+    "title": "Linux 7.2 To Better Communicate File-System Casefolding For Helping Windows NFS & More",
+    "source": "Phoronix",
+    "first_seen": "2026-06-15T10:59:07.595897+00:00",
+    "published": "2026-06-15T10:24:33+00:00"
+  },
+  "https://stratechery.com/2026/anthropics-safety-superpower": {
+    "title": "Anthropic's Safety Superpower",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-15T10:59:07.595897+00:00",
+    "published": "2026-06-15T10:06:35+00:00"
+  },
+  "https://www.phoronix.com/news/GNU-Linux-Libre-7.1": {
+    "title": "GNU Linux-libre 7.1-gnu Released With More Driver Deblobbing, Unhappy With i486 Removal",
+    "source": "Phoronix",
+    "first_seen": "2026-06-15T10:59:07.595897+00:00",
+    "published": "2026-06-15T09:55:51+00:00"
+  },
+  "https://www.axios.com/2026/06/14/anthropic-white-house-mythos-fable": {
+    "title": "Anthropic flies staff to D.C. to clean up White House fight",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-15T10:59:07.595897+00:00",
+    "published": "2026-06-15T09:23:15+00:00"
+  },
+  "https://mrmarket.lol/what-the-fuck-happened-to-nerds": {
+    "title": "What the Fuck Happened to Nerds",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-15T10:59:07.595897+00:00",
+    "published": "2026-06-15T08:23:52+00:00"
+  },
+  "https://openrouter.ai/openrouter/fusion": {
+    "title": "Openrouter Fusion API",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-15T10:59:07.595897+00:00",
+    "published": "2026-06-15T07:10:57+00:00"
+  },
+  "https://www.ycombinator.com/companies/dalus/jobs/5IDmKJt-senior-software-frontend-engineer-germany-office": {
+    "title": "Dalus (YC W25) Is Hiring a Senior Software Engineer in Germany",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-15T10:59:07.595897+00:00",
+    "published": "2026-06-15T07:00:22+00:00"
+  },
+  "https://daniel.haxx.se/blog/2026/06/15/curl-summer-of-bliss": {
+    "title": "Curl will not accept vulnerability reports during July 2026",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-15T10:59:07.595897+00:00",
+    "published": "2026-06-15T06:02:57+00:00"
+  },
+  "https://charity.wtf/2026/06/15/ai-demands-more-engineering-discipline-not-less-xpost": {
+    "title": "AI demands more engineering discipline. Not less (xpost)",
+    "source": "Charity Majors",
+    "first_seen": "2026-06-15T10:59:07.595897+00:00",
+    "published": "2026-06-15T05:38:29+00:00"
+  },
+  "https://platform.claude.com/docs/en/cli-sdks-libraries/libraries/apple-foundation-models": {
+    "title": "Apple Foundation Models",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-15T10:59:07.595897+00:00",
+    "published": "2026-06-15T04:55:34+00:00"
+  },
+  "https://karthinks.com/software/even-more-batteries-included-with-emacs": {
+    "title": "Even more batteries included with Emacs",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-15T10:59:07.595897+00:00",
+    "published": "2026-06-15T02:30:25+00:00"
+  },
+  "https://simonwillison.net/2026/Jun/15/julia-evans": {
+    "title": "Quoting Julia Evans",
+    "source": "Simon Willison",
+    "first_seen": "2026-06-15T10:59:07.595897+00:00",
+    "published": "2026-06-15T02:05:19+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.2-Kbuild": {
+    "title": "Linux 7.2 To Raise LLVM/Clang Compiler Requirement, Add Support For Distributed ThinLTO",
+    "source": "Phoronix",
+    "first_seen": "2026-06-15T10:59:07.595897+00:00",
+    "published": "2026-06-15T00:33:48+00:00"
+  },
+  "https://blog.apnic.net/2025/12/08/21-years-and-counting-of-eight-fallacies-of-distributed-computing": {
+    "title": "21 years and counting of 'eight fallacies of distributed computing' (2025)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-15T10:59:07.595897+00:00",
+    "published": "2026-06-15T00:07:32+00:00"
+  },
+  "https://kubernetes.io/blog/2026/06/15/sig-storage-spotlight-2026": {
+    "title": "Spotlight on SIG Storage",
+    "source": "Kubernetes Blog",
+    "first_seen": "2026-06-15T10:59:07.595897+00:00",
+    "published": "2026-06-15T00:00:00+00:00"
+  },
+  "https://simonwillison.net/2026/Jun/14/why-ai-hasnt-replaced-software-engineers": {
+    "title": "Why AI hasn’t replaced software engineers, and won’t",
+    "source": "Simon Willison",
+    "first_seen": "2026-06-15T10:59:07.595897+00:00",
+    "published": "2026-06-14T23:54:11+00:00"
+  },
+  "https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe": {
+    "title": "Your ePub Is fine",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-15T10:59:07.595897+00:00",
+    "published": "2026-06-14T22:54:55+00:00"
+  },
+  "https://www.windowscentral.com/microsoft/windows-11/windows-11-users-are-tired-of-microsoft-account-requirements-and-workarounds": {
+    "title": "Windows 11 users are tired of MS account requirements creeping into everything",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-15T10:59:07.595897+00:00",
+    "published": "2026-06-14T21:42:12+00:00"
+  },
+  "https://openai.com/index/introducing-openai-partner-network": {
+    "title": "Introducing the OpenAI Partner Network",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-06-15T10:59:07.595897+00:00",
+    "published": "2026-06-14T17:00:00+00:00"
+  },
+  "https://traceapp.info": {
+    "title": "Show HN: Trace – Offline Mac meeting transcripts you can flag mid-call",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-15T10:59:07.595897+00:00",
+    "published": "2026-06-13T20:41:58+00:00"
+  },
+  "https://www.bbc.co.uk/programmes/w3ct8k70": {
+    "title": "Why does paper fold so well?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-15T10:59:07.595897+00:00",
+    "published": "2026-06-13T19:31:54+00:00"
   }
 }
