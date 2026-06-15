@@ -38912,5 +38912,281 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-06-15T10:59:07.595897+00:00",
     "published": "2026-06-13T19:31:54+00:00"
+  },
+  "https://www.docker.com/blog/docker-joins-the-athena-coalition-a-cross-industry-collaboration-for-supply-chain-security": {
+    "title": "Docker joins the Athena coalition: a cross-industry collaboration for supply chain security",
+    "source": "Docker Blog",
+    "first_seen": "2026-06-15T16:34:45.945022+00:00",
+    "published": "2026-06-15T16:24:29+00:00"
+  },
+  "https://www.hashicorp.com/blog/implementing-workload-identity-with-hashicorp-vault-and-spiffe": {
+    "title": "Implementing workload identity with HashiCorp Vault and SPIFFE",
+    "source": "HashiCorp Blog",
+    "first_seen": "2026-06-15T16:34:45.945022+00:00",
+    "published": "2026-06-15T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-the-4-lessons-that-guided-ai-threat-defense": {
+    "title": "Cloud CISO Perspectives: The 4 lessons that guided AI Threat Defense",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-06-15T16:34:45.945022+00:00",
+    "published": "2026-06-15T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/databases/graph-technologies-underpin-yahoo-system-of-action": {
+    "title": "Architecting a trusted agentic platform with graph technologies: A Yahoo case study",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-06-15T16:34:45.945022+00:00",
+    "published": "2026-06-15T16:00:00+00:00"
+  },
+  "https://v1c.rocks/log/exploiting-slack-video": {
+    "title": "Show HN: Exploiting Slack's video embeds to achieve E2EE communication",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-15T16:34:45.945022+00:00",
+    "published": "2026-06-15T15:43:17+00:00"
+  },
+  "https://blog.bytebytego.com/p/a-guide-to-ai-inference-engineering": {
+    "title": "A Guide to AI Inference Engineering",
+    "source": "ByteByteGo",
+    "first_seen": "2026-06-15T16:34:45.945022+00:00",
+    "published": "2026-06-15T15:31:15+00:00"
+  },
+  "https://stackoverflow.blog/2026/06/15/selenium-vs-cypress-vs-playwright-choosing-your-test-automation-framework": {
+    "title": "Selenium vs Cypress vs Playwright: Choosing Your Test Automation Framework​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌​﻿‌﻿​﻿‌​​﻿‌﻿‌‍​‌‌‍‌‍‌‍‌‍‌‍​‌‌‍​‌​‍﻿‌​﻿‌​​﻿​‌​﻿‍​‌‍‌‌​‍﻿‌​﻿‌​​﻿​‌​﻿​‌​﻿​﻿​‍﻿‌​﻿‍‌​﻿‌​​﻿‌﻿​﻿‌‌​‍﻿‌​﻿‌‌​﻿‌‍‌‍​‌‌‍‌‌‌‍‌‍‌‍​‍​﻿​‌‌‍​‍​﻿‌﻿​﻿​‌‌‍​‍​﻿‌​​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌​﻿‌﻿​﻿‌​​﻿‌﻿‌‍​‌‌‍‌‍‌‍‌‍‌‍​‌‌‍​‌​‍﻿‌​﻿‌​​﻿​‌​﻿‍​‌‍‌‌​‍﻿‌​﻿‌​​﻿​‌​﻿​‌​﻿​﻿​‍﻿‌​﻿‍‌​﻿‌​​﻿‌﻿​﻿‌‌​‍﻿‌​﻿‌‌​﻿‌‍‌‍​‌‌‍‌‌‌‍‌‍‌‍​‍​﻿​‌‌‍​‍​﻿‌﻿​﻿​‌‌‍​‍​﻿‌​​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌",
+    "source": "Stack Overflow Blog",
+    "first_seen": "2026-06-15T16:34:45.945022+00:00",
+    "published": "2026-06-15T15:22:54+00:00"
+  },
+  "https://www.phoronix.com/news/Firefox-152-Download": {
+    "title": "Firefox 152 Now Available With JPEG-XL Support Built By Default, Modernized Settings UI",
+    "source": "Phoronix",
+    "first_seen": "2026-06-15T16:34:45.945022+00:00",
+    "published": "2026-06-15T15:15:16+00:00"
+  },
+  "https://www.iroh.computer/blog/v1": {
+    "title": "Iroh 1.0",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-15T16:34:45.945022+00:00",
+    "published": "2026-06-15T15:13:06+00:00"
+  },
+  "https://rsgm.dev/post/ai-dev-platform": {
+    "title": "My Homelab AI Dev Platform",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-15T16:34:45.945022+00:00",
+    "published": "2026-06-15T15:09:40+00:00"
+  },
+  "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/alabama-investment-june-2026": {
+    "title": "We’re strengthening our presence in Alabama through new investments and community support.",
+    "source": "Google AI Blog",
+    "first_seen": "2026-06-15T16:34:45.945022+00:00",
+    "published": "2026-06-15T15:00:00+00:00"
+  },
+  "https://stackoverflow.blog/2026/06/15/ai-agents-expose-the-security-checks-you-never-actually-wrote": {
+    "title": "AI agents expose the security checks you never actually wrote​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌​﻿‌‍​﻿​‍‌‍​‌‌‍​‌‌‍​‍​﻿​‌​﻿‌‌‌‍​‌​‍﻿‌​﻿​​​﻿​‌​﻿‌‌‌‍​‌​‍﻿‌​﻿‌​‌‍​‍‌‍‌‍​﻿​‍​‍﻿‌​﻿‍​‌‍​‍​﻿​﻿‌‍‌‌​‍﻿‌‌‍​‍​﻿‍‌​﻿‌​‌‍​﻿‌‍​﻿​﻿​﻿​﻿‌‌​﻿‌‍​﻿‍‌​﻿‌﻿​﻿‌﻿​﻿​​​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌​﻿‌‍​﻿​‍‌‍​‌‌‍​‌‌‍​‍​﻿​‌​﻿‌‌‌‍​‌​‍﻿‌​﻿​​​﻿​‌​﻿‌‌‌‍​‌​‍﻿‌​﻿‌​‌‍​‍‌‍‌‍​﻿​‍​‍﻿‌​﻿‍​‌‍​‍​﻿​﻿‌‍‌‌​‍﻿‌‌‍​‍​﻿‍‌​﻿‌​‌‍​﻿‌‍​﻿​﻿​﻿​﻿‌‌​﻿‌‍​﻿‍‌​﻿‌﻿​﻿‌﻿​﻿​​​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌",
+    "source": "Stack Overflow Blog",
+    "first_seen": "2026-06-15T16:34:45.945022+00:00",
+    "published": "2026-06-15T14:58:54+00:00"
+  },
+  "https://simonwillison.net/2026/Jun/15/axios-clashes-anthropics": {
+    "title": "\"They screwed us\": Personality clashes sent Anthropic's models offline",
+    "source": "Simon Willison",
+    "first_seen": "2026-06-15T16:34:45.945022+00:00",
+    "published": "2026-06-15T14:57:33+00:00"
+  },
+  "https://www.fastcompany.com/91559558/fox-corp-buying-roku-stock-prices-fall-on-tv-streaming-merger": {
+    "title": "Fox Is Buying Roku",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-15T16:34:45.945022+00:00",
+    "published": "2026-06-15T14:55:50+00:00"
+  },
+  "https://thenewstack.io/cohere-sovereign-coding-model-north-mini-code": {
+    "title": "Cohere sold sovereign AI to enterprises, now it’s targeting developers with its first coding model",
+    "source": "The New Stack",
+    "first_seen": "2026-06-15T16:34:45.945022+00:00",
+    "published": "2026-06-15T14:54:16+00:00"
+  },
+  "https://www.monash.edu/news/articles/copper-drug-restores-memory-and-clears-toxic-alzheimers-proteins": {
+    "title": "Copper transport drug restores memory and clears toxic Alzheimer's proteins",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-15T16:34:45.945022+00:00",
+    "published": "2026-06-15T14:48:47+00:00"
+  },
+  "https://news.ycombinator.com/item?id=48542064": {
+    "title": "Hetzner increased dedicated server prices 3-4x",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-15T16:34:45.945022+00:00",
+    "published": "2026-06-15T14:44:02+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.2-Reading-Proc-FS": {
+    "title": "Reading /proc/filesystems Is Surprisingly Done Very Often & Now As Much As 444% Faster",
+    "source": "Phoronix",
+    "first_seen": "2026-06-15T16:34:45.945022+00:00",
+    "published": "2026-06-15T14:33:32+00:00"
+  },
+  "https://aws.amazon.com/blogs/architecture/how-samsung-achieved-real-time-pricing-with-aws-lambda-response-streaming": {
+    "title": "How Samsung achieved real-time pricing with AWS Lambda Response Streaming",
+    "source": "AWS Architecture Blog",
+    "first_seen": "2026-06-15T16:34:45.945022+00:00",
+    "published": "2026-06-15T14:13:36+00:00"
+  },
+  "https://realpython.com/python-interface": {
+    "title": "Implementing Interfaces in Python: ABCs and Protocols",
+    "source": "Real Python",
+    "first_seen": "2026-06-15T16:34:45.945022+00:00",
+    "published": "2026-06-15T14:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/topics/threat-intelligence/prc-targets-us-medical-research": {
+    "title": "Public and Private Medical Community Targeted by China-Nexus Threat Actor Pursuing Artificial Intelligence, Cyber, Medical, and National Defense Research",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-06-15T16:34:45.945022+00:00",
+    "published": "2026-06-15T14:00:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/build-context-rich-research-agents-with-deep-agents-and-bedrock-agentcore": {
+    "title": "Build context-rich research agents with Deep Agents and Bedrock AgentCore",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-06-15T16:34:45.945022+00:00",
+    "published": "2026-06-15T13:56:33+00:00"
+  },
+  "https://thenewstack.io/your-ai-generated-app-runs-on-their-cloud-and-thats-the-problem": {
+    "title": "Your AI-generated app runs on their cloud, and that’s the problem",
+    "source": "The New Stack",
+    "first_seen": "2026-06-15T16:34:45.945022+00:00",
+    "published": "2026-06-15T13:50:16+00:00"
+  },
+  "https://thenewstack.io/agents-last-exam-benchmark": {
+    "title": "We’ve been measuring AI wrong; why economically valuable work is the new benchmark",
+    "source": "The New Stack",
+    "first_seen": "2026-06-15T16:34:45.945022+00:00",
+    "published": "2026-06-15T13:42:33+00:00"
+  },
+  "https://lwn.net/Articles/1077946": {
+    "title": "Stenberg: curl summer of bliss",
+    "source": "LWN.net",
+    "first_seen": "2026-06-15T16:34:45.945022+00:00",
+    "published": "2026-06-15T13:32:22+00:00"
+  },
+  "https://developers.google.com/maps/documentation/earth/flight-simulator": {
+    "title": "Google Flight Simulator",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-15T16:34:45.945022+00:00",
+    "published": "2026-06-15T13:26:08+00:00"
+  },
+  "https://crankgpt.com": {
+    "title": "CrankGPT",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-15T16:34:45.945022+00:00",
+    "published": "2026-06-15T13:20:13+00:00"
+  },
+  "https://www.phoronix.com/news/Framework-Intel-Coreboot-2026": {
+    "title": "Framework Computer Making Progress On Coreboot For Their Modern Intel-Powered Laptops",
+    "source": "Phoronix",
+    "first_seen": "2026-06-15T16:34:45.945022+00:00",
+    "published": "2026-06-15T13:05:00+00:00"
+  },
+  "https://lwn.net/Articles/1077945": {
+    "title": "Security updates for Monday",
+    "source": "LWN.net",
+    "first_seen": "2026-06-15T16:34:45.945022+00:00",
+    "published": "2026-06-15T13:04:38+00:00"
+  },
+  "https://lethain.com/revised-rules-of-engineering-leadership": {
+    "title": "Revised rules of engineering leadership.",
+    "source": "Will Larson",
+    "first_seen": "2026-06-15T16:34:45.945022+00:00",
+    "published": "2026-06-15T13:00:00+00:00"
+  },
+  "https://blog.cloudflare.com/ensemble-ai-talent-joins-cloudflare": {
+    "title": "Growing the Cloudflare AI team with talent from Ensemble AI",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-06-15T16:34:45.945022+00:00",
+    "published": "2026-06-15T13:00:00+00:00"
+  },
+  "https://www.databricks.com/blog/skip-learning-curve-rethinking-data-migration-real-outcomes": {
+    "title": "Skip the learning curve: rethinking data migration for real outcomes",
+    "source": "Databricks Blog",
+    "first_seen": "2026-06-15T16:34:45.945022+00:00",
+    "published": "2026-06-15T12:40:00+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.2-Scheduler": {
+    "title": "Cache Aware Scheduling Merged For Linux 7.2 For Boosting Modern Intel & AMD CPUs",
+    "source": "Phoronix",
+    "first_seen": "2026-06-15T16:34:45.945022+00:00",
+    "published": "2026-06-15T12:31:48+00:00"
+  },
+  "https://www.salesforce.com/news/press-releases/2026/06/15/salesforce-signs-definitive-agreement-to-acquire-fin?bc=HL": {
+    "title": "Salesforce to Acquire Fin (formerly Intercom) for $3.6BN",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-15T16:34:45.945022+00:00",
+    "published": "2026-06-15T12:08:59+00:00"
+  },
+  "https://thenewstack.io/code-message-to-future": {
+    "title": "Code is a message to the future",
+    "source": "The New Stack",
+    "first_seen": "2026-06-15T16:34:45.945022+00:00",
+    "published": "2026-06-15T12:00:00+00:00"
+  },
+  "https://realpython.com/quizzes/interface-in-python": {
+    "title": "Quiz: Implementing Interfaces in Python: ABCs and Protocols",
+    "source": "Real Python",
+    "first_seen": "2026-06-15T16:34:45.945022+00:00",
+    "published": "2026-06-15T12:00:00+00:00"
+  },
+  "https://developer.nvidia.com/blog/pretrained-to-imagine-fine-tuned-to-act-the-rise-of-world-action-models": {
+    "title": "Pretrained to Imagine, Fine-Tuned to Act: The Rise of World-Action Models",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-06-15T16:34:45.945022+00:00",
+    "published": "2026-06-15T12:00:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-finops-agent-in-preview-gemma-4-on-bedrock-kiro-pro-max-and-more-june-15-2026": {
+    "title": "AWS Weekly Roundup: AWS FinOps Agent in preview, Gemma 4 on Bedrock, Kiro Pro Max, and more (June 15, 2026)",
+    "source": "AWS Blog",
+    "first_seen": "2026-06-15T16:34:45.945022+00:00",
+    "published": "2026-06-15T11:41:48+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.2-Rust": {
+    "title": "Linux 7.2 Introducing The Rust Zerocopy Library To Eliminate More \"Unsafe\" Code",
+    "source": "Phoronix",
+    "first_seen": "2026-06-15T16:34:45.945022+00:00",
+    "published": "2026-06-15T11:03:21+00:00"
+  },
+  "https://www.schneier.com/blog/archives/2026/06/the-fcc-wants-to-eliminate-burner-phones.html": {
+    "title": "The FCC Wants to Eliminate Burner Phones",
+    "source": "Schneier on Security",
+    "first_seen": "2026-06-15T16:34:45.945022+00:00",
+    "published": "2026-06-15T11:01:05+00:00"
+  },
+  "https://www.cncf.io/blog/2026/06/15/improving-arm64-support-in-cncf-projects-with-oci-credits": {
+    "title": "Improving Arm64 support in CNCF projects with OCI credits",
+    "source": "CNCF Blog",
+    "first_seen": "2026-06-15T16:34:45.945022+00:00",
+    "published": "2026-06-15T11:00:00+00:00"
+  },
+  "https://neon.com/blog/provision-neon-vercel-cli-marketplace": {
+    "title": "You (And Your Agent) can provision Neon in Vercel CLI",
+    "source": "Neon Blog",
+    "first_seen": "2026-06-15T16:34:45.945022+00:00",
+    "published": "2026-06-15T10:26:11+00:00"
+  },
+  "https://github.com/themartiano/luz": {
+    "title": "Show HN: I wrote a C++ ray tracer from scratch without AI",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-15T16:34:45.945022+00:00",
+    "published": "2026-06-15T09:34:10+00:00"
+  },
+  "https://cloud.google.com/blog/topics/developers-practitioners/how-i-learned-go-in-a-day-with-antigravity-20-and-how-you-can-do-the-same": {
+    "title": "How I learned Go in a Day with Antigravity 2.0 and How You Can Do the Same",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-06-15T16:34:45.945022+00:00",
+    "published": "2026-06-15T09:29:00+00:00"
+  },
+  "https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2026.1813281/full": {
+    "title": "Successful Psilocybin Treatment of Alzheimer",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-15T16:34:45.945022+00:00",
+    "published": "2026-06-15T06:52:21+00:00"
+  },
+  "https://maurycyz.com/projects/glass/1": {
+    "title": "Making glass-to-metal seals for home­made vacuum tubes",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-15T16:34:45.945022+00:00",
+    "published": "2026-06-14T15:52:09+00:00"
   }
 }
