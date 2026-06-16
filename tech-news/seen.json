@@ -39932,5 +39932,293 @@
     "source": "PlanetScale Blog",
     "first_seen": "2026-06-16T16:32:05.366727+00:00",
     "published": "2026-06-16T00:00:00+00:00"
+  },
+  "https://thenewstack.io/databricks-is-rebuilding-the-data-stack-for-ai-agents": {
+    "title": "Databricks wants to merge the two databases every company runs",
+    "source": "The New Stack",
+    "first_seen": "2026-06-16T21:49:36.533133+00:00",
+    "published": "2026-06-16T21:30:00+00:00"
+  },
+  "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning": {
+    "title": "Unlocking UK house-building with AI-accelerated planning",
+    "source": "DeepMind Blog",
+    "first_seen": "2026-06-16T21:49:36.533133+00:00",
+    "published": "2026-06-16T21:29:50+00:00"
+  },
+  "https://www.databricks.com/blog/what-is-data-pipeline-architecture": {
+    "title": "What is data pipeline architecture?",
+    "source": "Databricks Blog",
+    "first_seen": "2026-06-16T21:49:36.533133+00:00",
+    "published": "2026-06-16T21:23:03+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-New-File-System-Docs": {
+    "title": "Linux Enacts Guidance To Tighten Acceptance Of New File-Systems Into The Kernel",
+    "source": "Phoronix",
+    "first_seen": "2026-06-16T21:49:36.533133+00:00",
+    "published": "2026-06-16T21:16:42+00:00"
+  },
+  "https://github.blog/ai-and-ml/github-copilot/what-are-git-worktrees-and-why-should-i-use-them": {
+    "title": "What are git worktrees, and why should I use them?",
+    "source": "GitHub Blog",
+    "first_seen": "2026-06-16T21:49:36.533133+00:00",
+    "published": "2026-06-16T20:58:54+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/converting-an-rds-for-sql-server-instance-from-license-included-to-bring-your-own-media-byom": {
+    "title": "Converting an RDS for SQL Server instance from license included to Bring Your Own Media (BYOM)",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-06-16T21:49:36.533133+00:00",
+    "published": "2026-06-16T20:52:01+00:00"
+  },
+  "https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon": {
+    "title": "GrapheneOS has been ported to Android 17 and official releases are coming soon",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-16T21:49:36.533133+00:00",
+    "published": "2026-06-16T20:34:35+00:00"
+  },
+  "https://developer.nvidia.com/blog/build-your-own-transaction-foundation-model-for-financial-intelligence": {
+    "title": "Build Your Own Transaction Foundation Model for Financial Intelligence",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-06-16T21:49:36.533133+00:00",
+    "published": "2026-06-16T20:30:08+00:00"
+  },
+  "https://www.phoronix.com/news/Slackware-KDE-Plasma-6": {
+    "title": "KDE Plasma 6 Desktop Finally Comes To Slackware",
+    "source": "Phoronix",
+    "first_seen": "2026-06-16T21:49:36.533133+00:00",
+    "published": "2026-06-16T20:29:33+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.2-Btrfs": {
+    "title": "Btrfs Now Enables Large Folios By Default, Lands Huge Folios With Linux 7.2",
+    "source": "Phoronix",
+    "first_seen": "2026-06-16T21:49:36.533133+00:00",
+    "published": "2026-06-16T20:20:11+00:00"
+  },
+  "https://words.filippo.io/frood": {
+    "title": "Frood, an Alpine Initramfs NAS (2024)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-16T21:49:36.533133+00:00",
+    "published": "2026-06-16T20:17:04+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/introducing-container-caching-in-amazon-sagemaker-ai-for-faster-model-scaling": {
+    "title": "Introducing container caching in Amazon SageMaker AI for faster model scaling",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-06-16T21:49:36.533133+00:00",
+    "published": "2026-06-16T20:16:02+00:00"
+  },
+  "https://ankursethi.com/links/nobody-clicks-your-share-buttons": {
+    "title": "Nobody clicks share buttons",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-16T21:49:36.533133+00:00",
+    "published": "2026-06-16T20:12:05+00:00"
+  },
+  "https://www.hashicorp.com/blog/introducing-tfctl-the-cli-for-hcp-terraform-and-tfe": {
+    "title": "Introducing tfctl: The CLI for HCP Terraform and TFE",
+    "source": "HashiCorp Blog",
+    "first_seen": "2026-06-16T21:49:36.533133+00:00",
+    "published": "2026-06-16T20:00:00+00:00"
+  },
+  "https://www.databricks.com/company/newsroom/press-releases/databricks-launches-ltap-first-lake-transactionalanalytical": {
+    "title": "Databricks Launches LTAP: A Unified OLAP/OLTP Data Architecture",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-16T21:49:36.533133+00:00",
+    "published": "2026-06-16T19:45:11+00:00"
+  },
+  "https://www.timescolonist.com/local-news/us-pulling-ocean-sensors-a-shock-for-canadian-research-as-el-nino-nears-12422874": {
+    "title": "U.S. pulling ocean sensors a 'shock' for Canadian research as El Niño nears",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-16T21:49:36.533133+00:00",
+    "published": "2026-06-16T19:42:05+00:00"
+  },
+  "https://voicedraw.com": {
+    "title": "Show HN: VoiceDraw – Talk system design out loud, the diagrams draw themselves",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-16T21:49:36.533133+00:00",
+    "published": "2026-06-16T19:13:30+00:00"
+  },
+  "https://arseniyshestakov.com/2026/06/16/apple-is-about-to-make-hide-my-email-useless": {
+    "title": "Apple is about to make Hide My Email useless",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-16T21:49:36.533133+00:00",
+    "published": "2026-06-16T18:37:21+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/similarwebs-migration-from-hbase-to-amazon-dynamodb": {
+    "title": "Similarweb’s migration from HBase to Amazon DynamoDB",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-06-16T21:49:36.533133+00:00",
+    "published": "2026-06-16T18:35:15+00:00"
+  },
+  "https://www.docker.com/blog/docker-content-trust-retirement-and-migration-guidance": {
+    "title": "Docker Content Trust: Retirement and Migration Guidance",
+    "source": "Docker Blog",
+    "first_seen": "2026-06-16T21:49:36.533133+00:00",
+    "published": "2026-06-16T18:33:29+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/improve-query-performance-with-explain-plans-in-amazon-aurora-dsql": {
+    "title": "Improve query performance with EXPLAIN plans in Amazon Aurora DSQL",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-06-16T21:49:36.533133+00:00",
+    "published": "2026-06-16T18:33:10+00:00"
+  },
+  "https://thenewstack.io/spacex-cursor-ai-coding": {
+    "title": "SpaceX acquires Cursor for $60 billion. Can it fix Musk’s coding division?",
+    "source": "The New Stack",
+    "first_seen": "2026-06-16T21:49:36.533133+00:00",
+    "published": "2026-06-16T18:30:45+00:00"
+  },
+  "https://www.databricks.com/blog/enabling-governed-vibe-coding-enterprise-apps-databricks": {
+    "title": "Enabling Governed Vibe Coding for Enterprise Apps on Databricks",
+    "source": "Databricks Blog",
+    "first_seen": "2026-06-16T21:49:36.533133+00:00",
+    "published": "2026-06-16T18:00:00+00:00"
+  },
+  "https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl": {
+    "title": "GPT‑NL: a sovereign language model for the Netherlands",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-16T21:49:36.533133+00:00",
+    "published": "2026-06-16T17:54:02+00:00"
+  },
+  "https://aws.amazon.com/blogs/security/threat-tactic-spotlight-subdomain-takeover": {
+    "title": "Threat tactic spotlight: Subdomain takeover",
+    "source": "AWS Security Blog",
+    "first_seen": "2026-06-16T21:49:36.533133+00:00",
+    "published": "2026-06-16T17:53:20+00:00"
+  },
+  "https://www.phoronix.com/news/Wayland-Weston-16-Alpha": {
+    "title": "Wayland's Weston 16 Alpha Brings HDR Improvements, Vulkan Renderer Fixes",
+    "source": "Phoronix",
+    "first_seen": "2026-06-16T21:49:36.533133+00:00",
+    "published": "2026-06-16T17:52:15+00:00"
+  },
+  "https://www.gilesthomas.com/2026/06/10g-ethernet-switching-to-broadcom-sfp-plus": {
+    "title": "10Gb/s Ethernet: switching to a Broadcom SFP+ module",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-16T21:49:36.533133+00:00",
+    "published": "2026-06-16T17:48:42+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/parallelize-speculative-decoding-with-p-eagle-on-amazon-sagemaker-ai": {
+    "title": "Parallelize speculative decoding with P-EAGLE on Amazon SageMaker AI",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-06-16T21:49:36.533133+00:00",
+    "published": "2026-06-16T17:47:09+00:00"
+  },
+  "https://www.databricks.com/blog/introducing-opensharing-next-evolution-delta-sharing-agentic-era": {
+    "title": "Introducing OpenSharing: the Next Evolution of Delta Sharing for the Agentic Era",
+    "source": "Databricks Blog",
+    "first_seen": "2026-06-16T21:49:36.533133+00:00",
+    "published": "2026-06-16T17:40:35+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/ai-assisted-data-development-with-kiro-and-sagemaker-unified-studio": {
+    "title": "AI-assisted data development with Kiro and SageMaker Unified Studio",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-06-16T21:49:36.533133+00:00",
+    "published": "2026-06-16T17:35:27+00:00"
+  },
+  "https://www.databricks.com/blog/announcing-apps-databricks-marketplace": {
+    "title": "Announcing Apps on Databricks Marketplace",
+    "source": "Databricks Blog",
+    "first_seen": "2026-06-16T21:49:36.533133+00:00",
+    "published": "2026-06-16T17:30:24+00:00"
+  },
+  "https://research.google/blog/from-pixels-to-planning-earth-ai-for-nature-restoration": {
+    "title": "From pixels to planning: Earth AI for nature restoration",
+    "source": "Google Research",
+    "first_seen": "2026-06-16T21:49:36.533133+00:00",
+    "published": "2026-06-16T17:30:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/identity-security/google-named-a-leader-in-idc-marketscape-siem-2026-vendor-assessment": {
+    "title": "Google named a Leader in IDC MarketScape SIEM 2026 Vendor Assessment",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-06-16T21:49:36.533133+00:00",
+    "published": "2026-06-16T17:30:00+00:00"
+  },
+  "https://lwn.net/Articles/1078039": {
+    "title": "The LWN public topics list",
+    "source": "LWN.net",
+    "first_seen": "2026-06-16T21:49:36.533133+00:00",
+    "published": "2026-06-16T17:22:38+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/modernize-amazon-redshift-ra3-to-rg-migration-best-practices": {
+    "title": "Modernize Amazon Redshift: RA3 to RG Migration best practices",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-06-16T21:49:36.533133+00:00",
+    "published": "2026-06-16T17:22:13+00:00"
+  },
+  "https://www.databricks.com/blog/introducing-opensharing-secureconnect": {
+    "title": "Introducing OpenSharing SecureConnect",
+    "source": "Databricks Blog",
+    "first_seen": "2026-06-16T21:49:36.533133+00:00",
+    "published": "2026-06-16T17:18:56+00:00"
+  },
+  "https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction": {
+    "title": "Has AI already killed self-help nonfiction books?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-16T21:49:36.533133+00:00",
+    "published": "2026-06-16T17:11:05+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-72-Faster-Anon-Pipe-Write": {
+    "title": "Linux 7.2 Improves Anonymous/Unnamed Pipe Performance For Shell Pipelines & More",
+    "source": "Phoronix",
+    "first_seen": "2026-06-16T21:49:36.533133+00:00",
+    "published": "2026-06-16T17:05:44+00:00"
+  },
+  "https://www.fastcompany.com/91558427/ghost-jobs-could-soon-be-illegal-in-new-york": {
+    "title": "'Ghost jobs' could soon be illegal in New York",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-16T21:49:36.533133+00:00",
+    "published": "2026-06-16T17:01:12+00:00"
+  },
+  "https://newsroom.snap.com/introducing-specs-augmented-reality-glasses": {
+    "title": "Specs Augmented Reality Glasses",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-16T21:49:36.533133+00:00",
+    "published": "2026-06-16T17:00:59+00:00"
+  },
+  "https://developer.nvidia.com/blog/build-on-device-ai-companions-with-the-nvidia-ace-game-agent-sdk-and-unreal-engine-5-plugins": {
+    "title": "Build On-Device AI Companions with the NVIDIA ACE Game Agent SDK and Unreal Engine 5 Plugins",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-06-16T21:49:36.533133+00:00",
+    "published": "2026-06-16T17:00:00+00:00"
+  },
+  "https://gist.github.com/samsch/0d1f3d3b4745d778f78b230cf6061452": {
+    "title": "Stop Using JWTs",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-16T21:49:36.533133+00:00",
+    "published": "2026-06-16T16:49:46+00:00"
+  },
+  "https://mareksuppa.com/til/bash-dev-tcp-http-without-curl": {
+    "title": "TIL: You can make HTTP requests without curl using Bash /dev/TCP",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-16T21:49:36.533133+00:00",
+    "published": "2026-06-16T16:40:58+00:00"
+  },
+  "https://reflex.dev/blog/why-ast-walk-when-you-can-ast-sprint": {
+    "title": "Making ast.walk 220x Faster",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-16T21:49:36.533133+00:00",
+    "published": "2026-06-16T16:25:28+00:00"
+  },
+  "https://www.hashicorp.com/blog/whats-new-with-terraform-ansible": {
+    "title": "What’s new with Terraform + Ansible",
+    "source": "HashiCorp Blog",
+    "first_seen": "2026-06-16T21:49:36.533133+00:00",
+    "published": "2026-06-16T16:00:00+00:00"
+  },
+  "https://therepublicofletters.substack.com/p/calvin-and-hobbes-and-the-price-of": {
+    "title": "Calvin and Hobbes and the price of integrity",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-16T21:49:36.533133+00:00",
+    "published": "2026-06-16T15:44:44+00:00"
+  },
+  "https://cloud.google.com/blog/topics/developers-practitioners/how-customer-collaboration-is-shaping-the-future-of-genai-security-with-model-armor": {
+    "title": "How customer collaboration is shaping the future of GenAI security with Model Armor",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-06-16T21:49:36.533133+00:00",
+    "published": "2026-06-16T07:00:00+00:00"
+  },
+  "https://ziglang.org/news/welcoming-new-team-members": {
+    "title": "Welcoming Our Newest Core Team Members",
+    "source": "Zig Lang",
+    "first_seen": "2026-06-16T21:49:36.533133+00:00",
+    "published": "2026-06-16T00:00:00+00:00"
   }
 }
