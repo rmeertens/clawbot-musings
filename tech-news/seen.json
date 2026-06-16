@@ -39566,5 +39566,371 @@
     "source": "ThoughtWorks",
     "first_seen": "2026-06-16T10:34:15.811640+00:00",
     "published": "2026-06-15T00:00:00+00:00"
+  },
+  "https://newsletter.pragmaticengineer.com/p/why-is-meta-destroying-its-engineering": {
+    "title": "Why is Meta destroying its engineering organization?",
+    "source": "The Pragmatic Engineer",
+    "first_seen": "2026-06-16T16:32:05.366727+00:00",
+    "published": "2026-06-16T16:27:43+00:00"
+  },
+  "https://twitter.com/fguzmanai/status/2065832668172845209": {
+    "title": "GateGPT: 56k tokens per second Transformer (KV cache) on FPGA at 80 MHz",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-16T16:32:05.366727+00:00",
+    "published": "2026-06-16T16:12:26+00:00"
+  },
+  "https://www.theverge.com/tech/942854/apple-vehicle-motion-cues-review-really-work": {
+    "title": "Apple's weird anti-nausea dots cured my car sickness",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-16T16:32:05.366727+00:00",
+    "published": "2026-06-16T16:12:06+00:00"
+  },
+  "https://simonwillison.net/2026/Jun/16/georgi-gerganov": {
+    "title": "Quoting Georgi Gerganov",
+    "source": "Simon Willison",
+    "first_seen": "2026-06-16T16:32:05.366727+00:00",
+    "published": "2026-06-16T16:04:59+00:00"
+  },
+  "https://developer.nvidia.com/blog/how-to-optimize-transformer-based-models-for-low-precision-training": {
+    "title": "How to Optimize Transformer-Based Models for Low-Precision Training",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-06-16T16:32:05.366727+00:00",
+    "published": "2026-06-16T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/topics/systems/brazos-liquid-cooling-system-for-air-cooled-data-centers": {
+    "title": "Introducing Brazos: Bringing liquid cooling to air-cooled data centers",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-06-16T16:32:05.366727+00:00",
+    "published": "2026-06-16T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/databases/how-atlas-scales-hundreds-of-cloud-sql-databases": {
+    "title": "How Atlas scales hundreds of merchant databases with Cloud SQL Enterprise Plus edition",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-06-16T16:32:05.366727+00:00",
+    "published": "2026-06-16T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/business-intelligence/looker-explore-ai-and-interface-updates": {
+    "title": "Introducing new Explores and Merge Queries in Looker",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-06-16T16:32:05.366727+00:00",
+    "published": "2026-06-16T16:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/Intel-Compute-Runtime-NVL": {
+    "title": "Intel Compute Runtime Now Advertises Early Support For Nova Lake, Introduces Experimental \"LEO\"",
+    "source": "Phoronix",
+    "first_seen": "2026-06-16T16:32:05.366727+00:00",
+    "published": "2026-06-16T15:41:13+00:00"
+  },
+  "https://www.bleepingcomputer.com/news/security/uk-to-require-id-or-face-scan-before-you-can-make-social-media-accounts": {
+    "title": "UK to require ID or face scan before you can make social media accounts",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-16T16:32:05.366727+00:00",
+    "published": "2026-06-16T15:39:36+00:00"
+  },
+  "https://lwn.net/Articles/1077832": {
+    "title": "[$] The state of Fedora in 2026",
+    "source": "LWN.net",
+    "first_seen": "2026-06-16T16:32:05.366727+00:00",
+    "published": "2026-06-16T15:31:20+00:00"
+  },
+  "https://blog.bytebytego.com/p/how-open-weight-models-changed-the": {
+    "title": "How Open-Weight Models Changed the AI Landscape",
+    "source": "ByteByteGo",
+    "first_seen": "2026-06-16T16:32:05.366727+00:00",
+    "published": "2026-06-16T15:31:09+00:00"
+  },
+  "https://bsky.app/profile/stevepeers.bsky.social/post/3mofdspytds2l": {
+    "title": "CJEU: Social networks are the 'publishers' of algorithmically-altered feeds",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-16T16:32:05.366727+00:00",
+    "published": "2026-06-16T15:30:26+00:00"
+  },
+  "https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak": {
+    "title": "Fable ban was never about a jailbreak",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-16T16:32:05.366727+00:00",
+    "published": "2026-06-16T15:27:56+00:00"
+  },
+  "https://thenewstack.io/aws-finops-agent-ai": {
+    "title": "Why did my AWS bill spike? There’s now an agent for that",
+    "source": "The New Stack",
+    "first_seen": "2026-06-16T16:32:05.366727+00:00",
+    "published": "2026-06-16T15:15:00+00:00"
+  },
+  "https://developer.nvidia.com/blog/nvidia-blackwell-tops-mlperf-training-6-0-with-industry-leading-scale-and-performance": {
+    "title": "NVIDIA Blackwell Tops MLPerf Training 6.0 with Industry-Leading Scale and Performance",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-06-16T16:32:05.366727+00:00",
+    "published": "2026-06-16T15:11:13+00:00"
+  },
+  "https://tech.slashdot.org/story/26/06/15/205219/google-chromes-next-update-will-mark-the-end-of-popular-ad-blockers": {
+    "title": "Google Chrome's Next Update Will Mark the End of Popular Ad Blockers",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-16T16:32:05.366727+00:00",
+    "published": "2026-06-16T15:05:09+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-72-Container-Exit-Latency": {
+    "title": "Linux 7.2 Can Significantly Lower Container Exit/Unmount Latency",
+    "source": "Phoronix",
+    "first_seen": "2026-06-16T16:32:05.366727+00:00",
+    "published": "2026-06-16T15:02:18+00:00"
+  },
+  "https://blogs.microsoft.com/blog/2026/06/16/achieving-success-with-ai": {
+    "title": "Achieving success with AI",
+    "source": "Microsoft Blog",
+    "first_seen": "2026-06-16T16:32:05.366727+00:00",
+    "published": "2026-06-16T15:00:02+00:00"
+  },
+  "https://subq.ai/subq-1-1-small-technical-report": {
+    "title": "Subquadratic – Introducing SubQ 1.1 Small",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-16T16:32:05.366727+00:00",
+    "published": "2026-06-16T14:50:10+00:00"
+  },
+  "https://vickiboykis.com/2026/06/15/running-local-models-is-good-now": {
+    "title": "Running local models is good now",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-16T16:32:05.366727+00:00",
+    "published": "2026-06-16T14:36:57+00:00"
+  },
+  "https://www.databricks.com/blog/sciene-ai-companion-building-autonomous-customer-success-platform-databricks": {
+    "title": "Sciene AI Companion: building an autonomous Customer Success platform on Databricks",
+    "source": "Databricks Blog",
+    "first_seen": "2026-06-16T16:32:05.366727+00:00",
+    "published": "2026-06-16T14:29:06+00:00"
+  },
+  "https://parksb.github.io/en/article/32.html": {
+    "title": "But yak shaving is fun",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-16T16:32:05.366727+00:00",
+    "published": "2026-06-16T14:26:26+00:00"
+  },
+  "https://www.theartofdoingstuff.com/i-fired-google": {
+    "title": "I Fired Google",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-16T16:32:05.366727+00:00",
+    "published": "2026-06-16T14:26:19+00:00"
+  },
+  "https://lwn.net/Articles/1078191": {
+    "title": "Firefox 152.0 released",
+    "source": "LWN.net",
+    "first_seen": "2026-06-16T16:32:05.366727+00:00",
+    "published": "2026-06-16T14:18:07+00:00"
+  },
+  "https://thenewstack.io/agentic-ai-data-foundation": {
+    "title": "The siloed-data era is over. Here’s what comes next for AI agents.",
+    "source": "The New Stack",
+    "first_seen": "2026-06-16T16:32:05.366727+00:00",
+    "published": "2026-06-16T14:00:00+00:00"
+  },
+  "https://realpython.com/courses/building-python-skills-for-the-job-market": {
+    "title": "Building Python Skills for the Job Market",
+    "source": "Real Python",
+    "first_seen": "2026-06-16T16:32:05.366727+00:00",
+    "published": "2026-06-16T14:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/ai-machine-learning/how-siemens-sliced-the-elephant-modernizing-legacy-code-with-agentic-workflows": {
+    "title": "How Siemens \"slices the elephant,\" advancing agentic workflows for industrial software development",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-06-16T16:32:05.366727+00:00",
+    "published": "2026-06-16T14:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.2-VFS-OPENAT2-REGULAR": {
+    "title": "Linux 7.2 Adds Ability To Limit Programs To Only Open Regular Files, Avoid Being Tricked Or Doing Silly Things",
+    "source": "Phoronix",
+    "first_seen": "2026-06-16T16:32:05.366727+00:00",
+    "published": "2026-06-16T13:54:00+00:00"
+  },
+  "https://9to5google.com/2026/06/15/google-chromes-next-update-will-mark-the-end-of-popular-ad-blockers": {
+    "title": "Google Chrome update will close the door on ad blockers",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-16T16:32:05.366727+00:00",
+    "published": "2026-06-16T13:46:19+00:00"
+  },
+  "https://www.databricks.com/blog/whats-new-unity-catalog-data-ai-summit-2026": {
+    "title": "What’s new with Unity Catalog at Data + AI Summit 2026",
+    "source": "Databricks Blog",
+    "first_seen": "2026-06-16T16:32:05.366727+00:00",
+    "published": "2026-06-16T13:25:00+00:00"
+  },
+  "https://www.databricks.com/blog/ai-governance-data-ai-summit-2026-whats-new-unity-ai-gateway": {
+    "title": "AI governance at Data + AI Summit 2026: What’s new with Unity AI Gateway",
+    "source": "Databricks Blog",
+    "first_seen": "2026-06-16T16:32:05.366727+00:00",
+    "published": "2026-06-16T13:25:00+00:00"
+  },
+  "https://www.databricks.com/blog/agent-bricks-dais-2026": {
+    "title": "Agent Bricks: Data + AI Summit 2026",
+    "source": "Databricks Blog",
+    "first_seen": "2026-06-16T16:32:05.366727+00:00",
+    "published": "2026-06-16T13:25:00+00:00"
+  },
+  "https://www.phoronix.com/news/Wine-Wayland-Fractional-Scaling": {
+    "title": "Wine Wayland Lands Fractional Scaling Support",
+    "source": "Phoronix",
+    "first_seen": "2026-06-16T16:32:05.366727+00:00",
+    "published": "2026-06-16T13:22:18+00:00"
+  },
+  "https://lwn.net/Articles/1078160": {
+    "title": "KDE Plasma 6.7 released",
+    "source": "LWN.net",
+    "first_seen": "2026-06-16T16:32:05.366727+00:00",
+    "published": "2026-06-16T13:22:04+00:00"
+  },
+  "https://lwn.net/Articles/1078158": {
+    "title": "Security updates for Tuesday",
+    "source": "LWN.net",
+    "first_seen": "2026-06-16T16:32:05.366727+00:00",
+    "published": "2026-06-16T13:05:20+00:00"
+  },
+  "https://tailscale.com/blog/ai-without-lock-in": {
+    "title": "Aperture: Accelerate AI adoption without the lock-in",
+    "source": "Tailscale Blog",
+    "first_seen": "2026-06-16T16:32:05.366727+00:00",
+    "published": "2026-06-16T13:00:00+00:00"
+  },
+  "https://blog.cloudflare.com/dmarc-management-ga": {
+    "title": "Cloudflare DMARC Management is now generally available",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-06-16T16:32:05.366727+00:00",
+    "published": "2026-06-16T13:00:00+00:00"
+  },
+  "https://www.theguardian.com/tv-and-radio/2026/jun/16/alternative-3-mockumentary-missing-scientists-conspiracy-50-years-later": {
+    "title": "'Wow, it really worked ': 70s TV show causing worldwide panic today",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-16T16:32:05.366727+00:00",
+    "published": "2026-06-16T12:51:10+00:00"
+  },
+  "https://www.databricks.com/blog/unifying-data-and-governance-agentic-era-whats-new-azure-databricks": {
+    "title": "Unifying Data and Governance in the Agentic Era: What’s New with Azure Databricks",
+    "source": "Databricks Blog",
+    "first_seen": "2026-06-16T16:32:05.366727+00:00",
+    "published": "2026-06-16T12:45:00+00:00"
+  },
+  "https://www.databricks.com/blog/lakeflow-new-era-agentic-data-engineering": {
+    "title": "Lakeflow: A new era of agentic data engineering",
+    "source": "Databricks Blog",
+    "first_seen": "2026-06-16T16:32:05.366727+00:00",
+    "published": "2026-06-16T12:45:00+00:00"
+  },
+  "https://www.databricks.com/blog/introducing-genie-zeroops": {
+    "title": "Introducing Genie ZeroOps: Put your data and AI operations on autopilot",
+    "source": "Databricks Blog",
+    "first_seen": "2026-06-16T16:32:05.366727+00:00",
+    "published": "2026-06-16T12:45:00+00:00"
+  },
+  "https://www.databricks.com/blog/introducing-genie-one-genie-ontology-and-genie-agents": {
+    "title": "Introducing Genie One, Genie Agents, and Genie Ontology",
+    "source": "Databricks Blog",
+    "first_seen": "2026-06-16T16:32:05.366727+00:00",
+    "published": "2026-06-16T12:45:00+00:00"
+  },
+  "https://www.databricks.com/blog/announcing-new-databricks-startup-program": {
+    "title": "Announcing the new Databricks Startup Program",
+    "source": "Databricks Blog",
+    "first_seen": "2026-06-16T16:32:05.366727+00:00",
+    "published": "2026-06-16T12:45:00+00:00"
+  },
+  "https://www.databricks.com/blog/accelerate-search-queries-full-text-search-indexes-databricks": {
+    "title": "Accelerate search queries with full-text search indexes on Databricks",
+    "source": "Databricks Blog",
+    "first_seen": "2026-06-16T16:32:05.366727+00:00",
+    "published": "2026-06-16T12:45:00+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.2-x86": {
+    "title": "Linux 7.2 Continues Removing Old i486 Code Remnants, Adds Rugged Panther Lake",
+    "source": "Phoronix",
+    "first_seen": "2026-06-16T16:32:05.366727+00:00",
+    "published": "2026-06-16T12:25:38+00:00"
+  },
+  "https://martinfowler.com/articles/reliable-llm-bayer.html": {
+    "title": "Building Reliable Agentic AI Systems",
+    "source": "Martin Fowler",
+    "first_seen": "2026-06-16T16:32:05.366727+00:00",
+    "published": "2026-06-16T12:11:00+00:00"
+  },
+  "https://thenewstack.io/anthropic-pauses-claude-agent-sdk-subscription-change": {
+    "title": "Anthropic pauses Claude Agent SDK subscription change on day it was due to take effect",
+    "source": "The New Stack",
+    "first_seen": "2026-06-16T16:32:05.366727+00:00",
+    "published": "2026-06-16T12:07:51+00:00"
+  },
+  "https://realpython.com/quizzes/python-dash": {
+    "title": "Quiz: Develop Data Visualization Interfaces in Python With Dash",
+    "source": "Real Python",
+    "first_seen": "2026-06-16T16:32:05.366727+00:00",
+    "published": "2026-06-16T12:00:00+00:00"
+  },
+  "https://realpython.com/quizzes/building-python-skills-for-the-job-market": {
+    "title": "Quiz: Building Python Skills for the Job Market",
+    "source": "Real Python",
+    "first_seen": "2026-06-16T16:32:05.366727+00:00",
+    "published": "2026-06-16T12:00:00+00:00"
+  },
+  "https://ciechanow.ski/mechanical-watch": {
+    "title": "Mechanical Watch (2022)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-16T16:32:05.366727+00:00",
+    "published": "2026-06-16T11:26:27+00:00"
+  },
+  "https://www.unicorn-engine.org": {
+    "title": "Unicorn – The Ultimate CPU Emulator",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-16T16:32:05.366727+00:00",
+    "published": "2026-06-16T11:14:38+00:00"
+  },
+  "https://www.schneier.com/blog/archives/2026/06/flock-cameras-are-being-used-for-stalking.html": {
+    "title": "Flock Cameras Are Being Used for Stalking",
+    "source": "Schneier on Security",
+    "first_seen": "2026-06-16T16:32:05.366727+00:00",
+    "published": "2026-06-16T11:03:31+00:00"
+  },
+  "https://www.cncf.io/blog/2026/06/16/from-data-residency-to-digital-sovereignty-architectural-patterns-for-cloud-native-platforms": {
+    "title": "From data residency to digital sovereignty: Architectural patterns for  cloud native platforms",
+    "source": "CNCF Blog",
+    "first_seen": "2026-06-16T16:32:05.366727+00:00",
+    "published": "2026-06-16T11:00:00+00:00"
+  },
+  "https://www.reuters.com/legal/transactional/spacex-buy-anysphere-60-billion-2026-06-16": {
+    "title": "SpaceX to buy Cursor for $60B",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-16T16:32:05.366727+00:00",
+    "published": "2026-06-16T10:44:24+00:00"
+  },
+  "https://www.phoronix.com/news/XFS-Zone-Allocator-Linux-7.2": {
+    "title": "XFS Zone Allocator No Longer Experimental With Linux 7.2",
+    "source": "Phoronix",
+    "first_seen": "2026-06-16T16:32:05.366727+00:00",
+    "published": "2026-06-16T10:38:11+00:00"
+  },
+  "https://tck.mn/blog/correlated-randomness-sts2": {
+    "title": "Correlated randomness in Slay the Spire 2",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-16T16:32:05.366727+00:00",
+    "published": "2026-06-16T09:46:49+00:00"
+  },
+  "https://www.theregister.com/security/2026/06/15/feds-freaked-over-fable-5-after-simple-fix-this-code-prompt-not-jailbreak-says-researcher/5255827": {
+    "title": "Feds freaked over Fable 5 after simple 'fix this code' prompt, not jailbreak",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-16T16:32:05.366727+00:00",
+    "published": "2026-06-16T09:26:09+00:00"
+  },
+  "https://www.redpanda.com/blog/governing-ai-agents-in-production-agentic-data-plane": {
+    "title": "What's new in the Redpanda Agentic Data Plane",
+    "source": "Redpanda Blog",
+    "first_seen": "2026-06-16T16:32:05.366727+00:00",
+    "published": "2026-06-16T00:00:00+00:00"
+  },
+  "https://www.elastic.co/blog/forrester-wave-strong-performer-extended-detection-and-response-platforms-2026": {
+    "title": "Making Waves: Elastic named a Strong Performer in The Forrester Wave™: Extended Detection And Response Platforms, Q2 2026",
+    "source": "Elastic Blog",
+    "first_seen": "2026-06-16T16:32:05.366727+00:00",
+    "published": "2026-06-16T00:00:00+00:00"
+  },
+  "https://planetscale.com/blog/the-feedback-loops-behind-kubernetes": {
+    "title": "The feedback loops behind Kubernetes",
+    "source": "PlanetScale Blog",
+    "first_seen": "2026-06-16T16:32:05.366727+00:00",
+    "published": "2026-06-16T00:00:00+00:00"
   }
 }
