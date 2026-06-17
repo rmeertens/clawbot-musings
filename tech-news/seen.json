@@ -40406,5 +40406,371 @@
     "source": "Simon Willison",
     "first_seen": "2026-06-17T10:31:15.415173+00:00",
     "published": "2026-06-16T16:18:20+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/deep-dive-into-amazon-aurora-postgresql-lock-analysis-with-cloudwatch-database-insights": {
+    "title": "Deep dive into Amazon Aurora PostgreSQL lock analysis with CloudWatch Database Insights",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-06-17T16:14:26.891701+00:00",
+    "published": "2026-06-17T16:06:43+00:00"
+  },
+  "https://thenewstack.io/how-block-manages-its-fleet-of-ai-coding-agents-from-slack": {
+    "title": "How Block manages its fleet of AI coding agents from Slack",
+    "source": "The New Stack",
+    "first_seen": "2026-06-17T16:14:26.891701+00:00",
+    "published": "2026-06-17T16:01:00+00:00"
+  },
+  "https://thenewstack.io/chainguard-agent-skills-matures": {
+    "title": "Chainguard agent skills matures",
+    "source": "The New Stack",
+    "first_seen": "2026-06-17T16:14:26.891701+00:00",
+    "published": "2026-06-17T16:00:00+00:00"
+  },
+  "https://lwn.net/Articles/1078366": {
+    "title": "Fedora F44 election results",
+    "source": "LWN.net",
+    "first_seen": "2026-06-17T16:14:26.891701+00:00",
+    "published": "2026-06-17T15:50:07+00:00"
+  },
+  "https://pytorch.org/blog/nominations-open-for-the-2026-pytorch-foundation-contributor-awards": {
+    "title": "Nominations Open for the 2026 PyTorch Foundation Contributor Awards",
+    "source": "PyTorch Blog",
+    "first_seen": "2026-06-17T16:14:26.891701+00:00",
+    "published": "2026-06-17T15:49:01+00:00"
+  },
+  "https://aws.amazon.com/blogs/security/introducing-aws-continuum-security-at-machine-speed": {
+    "title": "Introducing AWS Continuum: Security at machine speed",
+    "source": "AWS Security Blog",
+    "first_seen": "2026-06-17T16:14:26.891701+00:00",
+    "published": "2026-06-17T15:34:05+00:00"
+  },
+  "https://blog.bytebytego.com/p/last-call-for-enrollment-build-with": {
+    "title": "LAST CALL FOR ENROLLMENT: Build with Claude Code - Cohort 2",
+    "source": "ByteByteGo",
+    "first_seen": "2026-06-17T16:14:26.891701+00:00",
+    "published": "2026-06-17T15:31:10+00:00"
+  },
+  "https://lwn.net/Articles/1078361": {
+    "title": "Everything security at PyCon US 2026",
+    "source": "LWN.net",
+    "first_seen": "2026-06-17T16:14:26.891701+00:00",
+    "published": "2026-06-17T15:30:12+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/new-in-amazon-bedrock-agentcore-build-agents-with-broader-knowledge-and-continuous-learning": {
+    "title": "New in Amazon Bedrock AgentCore: Build agents with broader knowledge and continuous learning",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-06-17T16:14:26.891701+00:00",
+    "published": "2026-06-17T15:29:36+00:00"
+  },
+  "https://huggingface.co/blog/allenai/molmomotion": {
+    "title": "MolmoMotion: Language-guided 3D motion forecasting",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-06-17T16:14:26.891701+00:00",
+    "published": "2026-06-17T15:26:44+00:00"
+  },
+  "https://github.com/evanklem/polypore": {
+    "title": "Agentic coding deserves more than a chat box bolted onto VS Code",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-17T16:14:26.891701+00:00",
+    "published": "2026-06-17T15:26:29+00:00"
+  },
+  "https://www.science.org/content/article/french-physicist-and-media-star-loses-doctorate-after-plagiarism-investigation": {
+    "title": "French physicist and media star loses doctorate after plagiarism investigation",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-17T16:14:26.891701+00:00",
+    "published": "2026-06-17T15:23:49+00:00"
+  },
+  "https://aws.amazon.com/blogs/aws/introducing-amazon-bedrock-managed-knowledge-base-for-faster-more-accurate-enterprise-ai-applications": {
+    "title": "Introducing Amazon Bedrock Managed Knowledge Base for faster, more accurate enterprise AI applications",
+    "source": "AWS Blog",
+    "first_seen": "2026-06-17T16:14:26.891701+00:00",
+    "published": "2026-06-17T15:09:20+00:00"
+  },
+  "https://discuss.grapheneos.org/d/35949-volkswagen-app?page=3": {
+    "title": "Volkswagen started blocking GrapheneOS users",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-17T16:14:26.891701+00:00",
+    "published": "2026-06-17T15:04:47+00:00"
+  },
+  "https://aws.amazon.com/blogs/aws/announcing-web-search-on-amazon-bedrock-agentcore-ground-your-ai-agents-in-current-accurate-web-knowledge": {
+    "title": "Announcing Web Search on Amazon Bedrock AgentCore: Ground your AI agents in current, accurate web knowledge",
+    "source": "AWS Blog",
+    "first_seen": "2026-06-17T16:14:26.891701+00:00",
+    "published": "2026-06-17T15:00:11+00:00"
+  },
+  "https://thenewstack.io/aws-devops-agent-ai-delivery-pipeline": {
+    "title": "AWS puts an AI bouncer at the merge queue",
+    "source": "The New Stack",
+    "first_seen": "2026-06-17T16:14:26.891701+00:00",
+    "published": "2026-06-17T15:00:00+00:00"
+  },
+  "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature": {
+    "title": "New research shows how AMIE, our medical AI, could help manage health conditions.",
+    "source": "Google AI Blog",
+    "first_seen": "2026-06-17T16:14:26.891701+00:00",
+    "published": "2026-06-17T15:00:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/aws/proactively-reduce-tech-debt-autonomously-with-aws-transform-continuous-modernization-preview": {
+    "title": "Proactively reduce tech debt autonomously with AWS Transform – continuous modernization (preview)",
+    "source": "AWS Blog",
+    "first_seen": "2026-06-17T16:14:26.891701+00:00",
+    "published": "2026-06-17T14:58:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/aws/aws-devops-agent-adds-release-management-capabilities-to-assess-code-changes-before-production-preview": {
+    "title": "AWS DevOps Agent adds release management capabilities to assess code changes before production (preview)",
+    "source": "AWS Blog",
+    "first_seen": "2026-06-17T16:14:26.891701+00:00",
+    "published": "2026-06-17T14:57:34+00:00"
+  },
+  "https://aws.amazon.com/blogs/aws/aws-security-agent-adds-threat-modeling-kiro-power-and-claude-code-plugin-and-more": {
+    "title": "AWS Security Agent adds threat modeling, Kiro power and Claude Code plugin, and more",
+    "source": "AWS Blog",
+    "first_seen": "2026-06-17T16:14:26.891701+00:00",
+    "published": "2026-06-17T14:54:55+00:00"
+  },
+  "https://www.phoronix.com/news/Epic-Games-Lore-VCS": {
+    "title": "Epic Games Announces Lore Open-Source Version Control System",
+    "source": "Phoronix",
+    "first_seen": "2026-06-17T16:14:26.891701+00:00",
+    "published": "2026-06-17T14:45:20+00:00"
+  },
+  "https://kerkour.com/stdx-cratesio": {
+    "title": "Why stdx is not on crates.io",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-17T16:14:26.891701+00:00",
+    "published": "2026-06-17T14:45:09+00:00"
+  },
+  "https://lore.org": {
+    "title": "Epic Games announces Lore version control system",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-17T16:14:26.891701+00:00",
+    "published": "2026-06-17T14:30:27+00:00"
+  },
+  "https://www.phoronix.com/review/linux-71-panther-lake": {
+    "title": "Intel Core Ultra X7 Panther Lake Performance On Linux 7.1",
+    "source": "Phoronix",
+    "first_seen": "2026-06-17T16:14:26.891701+00:00",
+    "published": "2026-06-17T14:30:00+00:00"
+  },
+  "https://arstechnica.com/ai/2026/06/pentagon-boasts-of-using-ai-to-write-reports-mandated-by-congress": {
+    "title": "Pentagon boasts of using AI to write reports mandated by Congress (1.5mil users)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-17T16:14:26.891701+00:00",
+    "published": "2026-06-17T14:26:07+00:00"
+  },
+  "https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline": {
+    "title": "AI demands more engineering discipline. Not less",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-17T16:14:26.891701+00:00",
+    "published": "2026-06-17T14:20:44+00:00"
+  },
+  "https://www.404media.co/ice-appears-to-be-buying-immigrants-tax-identifiers-from-a-data-broker": {
+    "title": "ICE Appears to Be Buying Immigrants' Tax Identifiers from a Data Broker",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-17T16:14:26.891701+00:00",
+    "published": "2026-06-17T14:06:09+00:00"
+  },
+  "https://lwn.net/Articles/1077767": {
+    "title": "[$] Some buffer-heads cleanup work",
+    "source": "LWN.net",
+    "first_seen": "2026-06-17T16:14:26.891701+00:00",
+    "published": "2026-06-17T14:05:04+00:00"
+  },
+  "https://stackoverflow.blog/2026/06/17/ai-agents-expose-the-security-checks-you-never-actually-wrote": {
+    "title": "AI agents are a confused deputy with the keys to your kingdom​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌​﻿‌‍​﻿​‍‌‍​‌‌‍​‌‌‍​‍​﻿​‌​﻿‌‌‌‍​‌​‍﻿‌​﻿​​​﻿​‌​﻿‌‌‌‍​‌​‍﻿‌​﻿‌​‌‍​‍‌‍‌‍​﻿​‍​‍﻿‌​﻿‍​‌‍​‍​﻿​﻿‌‍‌‌​‍﻿‌‌‍​‍​﻿‍‌​﻿‌​‌‍​﻿‌‍​﻿​﻿​﻿​﻿‌‌​﻿‌‍​﻿‍‌​﻿‌﻿​﻿‌﻿​﻿​​​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌​﻿‌‍​﻿​‍‌‍​‌‌‍​‌‌‍​‍​﻿​‌​﻿‌‌‌‍​‌​‍﻿‌​﻿​​​﻿​‌​﻿‌‌‌‍​‌​‍﻿‌​﻿‌​‌‍​‍‌‍‌‍​﻿​‍​‍﻿‌​﻿‍​‌‍​‍​﻿​﻿‌‍‌‌​‍﻿‌‌‍​‍​﻿‍‌​﻿‌​‌‍​﻿‌‍​﻿​﻿​﻿​﻿‌‌​﻿‌‍​﻿‍‌​﻿‌﻿​﻿‌﻿​﻿​​​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌",
+    "source": "Stack Overflow Blog",
+    "first_seen": "2026-06-17T16:14:26.891701+00:00",
+    "published": "2026-06-17T14:00:00+00:00"
+  },
+  "https://realpython.com/python-context-engineering-ai": {
+    "title": "Context Engineering for Python Codebases",
+    "source": "Real Python",
+    "first_seen": "2026-06-17T16:14:26.891701+00:00",
+    "published": "2026-06-17T14:00:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/architecture/reducing-sms-otp-fraud-with-vonage-network-powered-solutions-and-amazon-cognito": {
+    "title": "Reducing SMS OTP fraud with Vonage network-powered solutions and Amazon Cognito",
+    "source": "AWS Architecture Blog",
+    "first_seen": "2026-06-17T16:14:26.891701+00:00",
+    "published": "2026-06-17T13:50:16+00:00"
+  },
+  "https://aws.amazon.com/blogs/compute/simulating-amazon-ec2-ebs-burst-credits-before-downsizing-an-instance": {
+    "title": "Simulating Amazon EC2 EBS burst credits before downsizing an instance",
+    "source": "AWS Compute Blog",
+    "first_seen": "2026-06-17T16:14:26.891701+00:00",
+    "published": "2026-06-17T13:45:13+00:00"
+  },
+  "https://thenewstack.io/tailscale-aperture-ai-agent-infrastructure": {
+    "title": "“Agents need boring infrastructure around them”: Why we need to take an interest in ‘invisible’ AI",
+    "source": "The New Stack",
+    "first_seen": "2026-06-17T16:14:26.891701+00:00",
+    "published": "2026-06-17T13:44:22+00:00"
+  },
+  "https://www.phoronix.com/news/Ubuntu-Myna-Speech-To-Text": {
+    "title": "Myna Announced As Speech-To-Text Solution For The Ubuntu Desktop",
+    "source": "Phoronix",
+    "first_seen": "2026-06-17T16:14:26.891701+00:00",
+    "published": "2026-06-17T13:34:38+00:00"
+  },
+  "https://thenewstack.io/google-microsoft-and-openai-join-forces-to-help-create-ais-missing-trust-layer": {
+    "title": "Google, Microsoft, and OpenAI join forces to help create AI’s missing trust layer",
+    "source": "The New Stack",
+    "first_seen": "2026-06-17T16:14:26.891701+00:00",
+    "published": "2026-06-17T13:27:38+00:00"
+  },
+  "https://lwn.net/Articles/1078242": {
+    "title": "FairScan 2.0 released",
+    "source": "LWN.net",
+    "first_seen": "2026-06-17T16:14:26.891701+00:00",
+    "published": "2026-06-17T13:26:41+00:00"
+  },
+  "https://lwn.net/Articles/1078339": {
+    "title": "Security updates for Wednesday",
+    "source": "LWN.net",
+    "first_seen": "2026-06-17T16:14:26.891701+00:00",
+    "published": "2026-06-17T13:25:51+00:00"
+  },
+  "https://www.lutr.dev/want-your-images-back-sure-that-ll-be-5-dollars": {
+    "title": "Want your images back? Sure... That'll be $5!",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-17T16:14:26.891701+00:00",
+    "published": "2026-06-17T13:05:03+00:00"
+  },
+  "https://www.thesignalist.io/s/the-dialogue-dividend": {
+    "title": "Why thinking out loud with someone beats thinking alone",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-17T16:14:26.891701+00:00",
+    "published": "2026-06-17T13:00:38+00:00"
+  },
+  "https://thenewstack.io/clario-data-enterprise-ai-rot": {
+    "title": "Your AI isn’t broken. Your data is.",
+    "source": "The New Stack",
+    "first_seen": "2026-06-17T16:14:26.891701+00:00",
+    "published": "2026-06-17T13:00:00+00:00"
+  },
+  "https://blog.cloudflare.com/cloudflare-one-stack": {
+    "title": "Introducing the Cloudflare One stack: agent-powered deployment",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-06-17T16:14:26.891701+00:00",
+    "published": "2026-06-17T13:00:00+00:00"
+  },
+  "https://www.databricks.com/blog/partner-well-architected-framework-whats-new-and-whats-next": {
+    "title": "The Partner Well-Architected Framework: What's New and What's Next",
+    "source": "Databricks Blog",
+    "first_seen": "2026-06-17T16:14:26.891701+00:00",
+    "published": "2026-06-17T12:59:26+00:00"
+  },
+  "https://www.databricks.com/blog/whats-coming-next-free-edition": {
+    "title": "What’s coming next to Free Edition",
+    "source": "Databricks Blog",
+    "first_seen": "2026-06-17T16:14:26.891701+00:00",
+    "published": "2026-06-17T12:45:16+00:00"
+  },
+  "https://www.databricks.com/blog/becoming-most-comprehensive-data-ai-ecosystem-earth": {
+    "title": "Becoming the most comprehensive data & AI ecosystem on earth",
+    "source": "Databricks Blog",
+    "first_seen": "2026-06-17T16:14:26.891701+00:00",
+    "published": "2026-06-17T12:45:00+00:00"
+  },
+  "https://www.databricks.com/blog/design-beautiful-dashboards-aibi": {
+    "title": "Design Beautiful Dashboards in AI/BI",
+    "source": "Databricks Blog",
+    "first_seen": "2026-06-17T16:14:26.891701+00:00",
+    "published": "2026-06-17T12:40:41+00:00"
+  },
+  "https://www.databricks.com/blog/whats-new-genie-code-data-ai-summit-2026": {
+    "title": "What’s new in Genie Code at Data + AI Summit 2026",
+    "source": "Databricks Blog",
+    "first_seen": "2026-06-17T16:14:26.891701+00:00",
+    "published": "2026-06-17T12:40:08+00:00"
+  },
+  "https://www.databricks.com/blog/whats-new-databricks-platform-security-and-compliance-data-ai-summit-2026": {
+    "title": "What’s new in Databricks Platform security and compliance at Data + AI Summit 2026",
+    "source": "Databricks Blog",
+    "first_seen": "2026-06-17T16:14:26.891701+00:00",
+    "published": "2026-06-17T12:40:00+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.2-DRM": {
+    "title": "Initial AMDGPU HDMI 2.1 FRL Support Successfully Merged For Linux 7.2",
+    "source": "Phoronix",
+    "first_seen": "2026-06-17T16:14:26.891701+00:00",
+    "published": "2026-06-17T12:21:02+00:00"
+  },
+  "https://wpvip.com/future-of-the-web-2026": {
+    "title": "Sixty percent of US consumers say 'AI' in brand messaging is a turnoff",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-17T16:14:26.891701+00:00",
+    "published": "2026-06-17T12:11:27+00:00"
+  },
+  "https://github.com/rxi/microui": {
+    "title": "MicroUI – A tiny, portable, immediate-mode UI library written in ANSI C",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-17T16:14:26.891701+00:00",
+    "published": "2026-06-17T12:04:28+00:00"
+  },
+  "https://realpython.com/quizzes/python-context-engineering-ai": {
+    "title": "Quiz: Context Engineering for Python Codebases",
+    "source": "Real Python",
+    "first_seen": "2026-06-17T16:14:26.891701+00:00",
+    "published": "2026-06-17T12:00:00+00:00"
+  },
+  "https://www.schneier.com/blog/archives/2026/06/ai-use-by-the-us-government.html": {
+    "title": "AI Use by the US Government",
+    "source": "Schneier on Security",
+    "first_seen": "2026-06-17T16:14:26.891701+00:00",
+    "published": "2026-06-17T11:04:04+00:00"
+  },
+  "https://www.cncf.io/blog/2026/06/17/why-cloud-native-belongs-at-the-heart-of-agentic-ai-lessons-from-building-a-multi-agent-security-platform-on-kubernetes": {
+    "title": "Why cloud native belongs at the heart of agentic AI: Lessons from building a multi-agent security platform on Kubernetes",
+    "source": "CNCF Blog",
+    "first_seen": "2026-06-17T16:14:26.891701+00:00",
+    "published": "2026-06-17T11:00:00+00:00"
+  },
+  "https://www.rfc-editor.org/info/rfc10008": {
+    "title": "RFC 10008: The new HTTP Query Method",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-17T16:14:26.891701+00:00",
+    "published": "2026-06-17T10:51:17+00:00"
+  },
+  "https://www.phoronix.com/news/Qt-Creator-20-Released": {
+    "title": "Qt Creator 20 IDE Released With AI Agent Support",
+    "source": "Phoronix",
+    "first_seen": "2026-06-17T16:14:26.891701+00:00",
+    "published": "2026-06-17T10:31:37+00:00"
+  },
+  "https://www.databricks.com/blog/building-open-ecosystem-ai-governance-unity-ai-gateway": {
+    "title": "Building an open ecosystem for AI governance with Unity AI Gateway",
+    "source": "Databricks Blog",
+    "first_seen": "2026-06-17T16:14:26.891701+00:00",
+    "published": "2026-06-17T10:00:00+00:00"
+  },
+  "https://brevio.pro": {
+    "title": "Show HN: I built 184 free browser tools – PDF, image, dev, AI tasks, no upload",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-17T16:14:26.891701+00:00",
+    "published": "2026-06-17T09:48:59+00:00"
+  },
+  "https://www.databricks.com/blog/whats-new-ai-platform-agents-ml-engineering-our-deep-learning-platform-and-new-capabilities": {
+    "title": "What’s New in the AI Platform: Agents for ML Engineering, Our Deep Learning Platform, and New Capabilities for Real-Time ML",
+    "source": "Databricks Blog",
+    "first_seen": "2026-06-17T16:14:26.891701+00:00",
+    "published": "2026-06-17T08:44:14+00:00"
+  },
+  "https://artificialanalysis.ai/models/glm-5-2": {
+    "title": "GLM 5.2 Performance Benchmarks",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-17T16:14:26.891701+00:00",
+    "published": "2026-06-17T07:30:51+00:00"
+  },
+  "https://huggingface.co/blog/agentic-resource-discovery-launch": {
+    "title": "Agentic Resource Discovery: Let agents search",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-06-17T16:14:26.891701+00:00",
+    "published": "2026-06-17T00:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/topics/developers-practitioners/build-and-deploy-a-remote-mcp-server-to-gke-in-30-minutes": {
+    "title": "Build and Deploy a Remote MCP Server to GKE in 30 Minutes",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-06-17T16:14:26.891701+00:00",
+    "published": "2026-06-17T00:00:00+00:00"
   }
 }
