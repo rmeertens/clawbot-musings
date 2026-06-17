@@ -40220,5 +40220,191 @@
     "source": "Zig Lang",
     "first_seen": "2026-06-16T21:49:36.533133+00:00",
     "published": "2026-06-16T00:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/GCC-17-std-CPP29-Experimental": {
+    "title": "GCC 17 Lands Initial Infrastructure For C++29",
+    "source": "Phoronix",
+    "first_seen": "2026-06-17T10:31:15.415173+00:00",
+    "published": "2026-06-17T10:23:00+00:00"
+  },
+  "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware": {
+    "title": "From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-06-17T10:31:15.415173+00:00",
+    "published": "2026-06-17T10:18:05+00:00"
+  },
+  "https://www.phoronix.com/news/FreeBSD-drm-kmod-Linux-6.12": {
+    "title": "FreeBSD Updates Its Graphics Driver Port From Linux 6.12 LTS",
+    "source": "Phoronix",
+    "first_seen": "2026-06-17T10:31:15.415173+00:00",
+    "published": "2026-06-17T10:04:33+00:00"
+  },
+  "https://stratechery.com/2026/the-state-of-fable-the-jailbreak-problem-spacex-acquires-cursor": {
+    "title": "The State of Fable, The Jailbreak Problem, SpaceX Acquires Cursor",
+    "source": "Stratechery",
+    "first_seen": "2026-06-17T10:31:15.415173+00:00",
+    "published": "2026-06-17T10:00:00+00:00"
+  },
+  "https://www.scientificamerican.com/article/americas-compact-between-science-and-politics-is-broken": {
+    "title": "U.S. Science Is in Chaos",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-17T10:31:15.415173+00:00",
+    "published": "2026-06-17T09:54:21+00:00"
+  },
+  "https://news.ycombinator.com/item?id=48567958": {
+    "title": "Ask HN: What has been bothering you lately?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-17T10:31:15.415173+00:00",
+    "published": "2026-06-17T09:40:33+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-Drops-AppleTalk": {
+    "title": "Linux Finally Ends AppleTalk Protocol Support",
+    "source": "Phoronix",
+    "first_seen": "2026-06-17T10:31:15.415173+00:00",
+    "published": "2026-06-17T09:40:31+00:00"
+  },
+  "https://cells2pixels.github.io": {
+    "title": "Show HN: High-Res Neural Cellular Automata",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-17T10:31:15.415173+00:00",
+    "published": "2026-06-17T09:28:36+00:00"
+  },
+  "https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index": {
+    "title": "GLM-5.2 is the new leading open weights model on Artificial Analysis",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-17T10:31:15.415173+00:00",
+    "published": "2026-06-17T09:12:00+00:00"
+  },
+  "https://huggingface.co/blog/zai-org/glm-52-blog": {
+    "title": "GLM-5.2: Built for Long-Horizon Tasks",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-06-17T10:31:15.415173+00:00",
+    "published": "2026-06-17T09:01:25+00:00"
+  },
+  "https://honeylabs.net/blog/the-cloud-fleet-behind-cve-2026-4020": {
+    "title": "Most of the CVE-2026-4020 attackers are the same client",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-17T10:31:15.415173+00:00",
+    "published": "2026-06-17T08:47:14+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.2-Storage": {
+    "title": "IO_uring, NVMe & Other Block + Device Mapper Changes Merged For Linux 7.2",
+    "source": "Phoronix",
+    "first_seen": "2026-06-17T10:31:15.415173+00:00",
+    "published": "2026-06-17T08:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/topics/startups/london-summit-2026-smb-sme-ai-innovation": {
+    "title": "How growing UK midsize businesses are building in the AI era",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-06-17T10:31:15.415173+00:00",
+    "published": "2026-06-17T08:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/topics/inside-google-cloud/london-summit-2026-uk-leads-agentic-enterprise-ai-infrastructure-data-cloud": {
+    "title": "From AI potential to agentic reality: Driving the UK’s next chapter",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-06-17T10:31:15.415173+00:00",
+    "published": "2026-06-17T08:00:00+00:00"
+  },
+  "https://bubbles.town": {
+    "title": "Hacker News but for Independent Blogs",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-17T10:31:15.415173+00:00",
+    "published": "2026-06-17T07:49:44+00:00"
+  },
+  "https://claude.com/blog/the-founders-playbook": {
+    "title": "The founder's playbook: Building an AI-native startup",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-17T10:31:15.415173+00:00",
+    "published": "2026-06-17T07:04:42+00:00"
+  },
+  "https://stephantul.github.io/blog/unfence": {
+    "title": "From Chesterton's fence to Chesterton's gap",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-17T10:31:15.415173+00:00",
+    "published": "2026-06-17T06:50:47+00:00"
+  },
+  "https://simonwillison.net/2026/Jun/17/click-to-play-component": {
+    "title": "— a still that plays",
+    "source": "Simon Willison",
+    "first_seen": "2026-06-17T10:31:15.415173+00:00",
+    "published": "2026-06-17T03:56:10+00:00"
+  },
+  "https://simonwillison.net/2026/Jun/17/netnewswire-status": {
+    "title": "NetNewsWire Status",
+    "source": "Simon Willison",
+    "first_seen": "2026-06-17T10:31:15.415173+00:00",
+    "published": "2026-06-17T03:36:09+00:00"
+  },
+  "https://arxiv.org/abs/2606.14806": {
+    "title": "Semiclassical Gravity Efficiently Solves NP-Complete Problems",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-17T10:31:15.415173+00:00",
+    "published": "2026-06-17T03:25:51+00:00"
+  },
+  "https://www.dexerto.com/gaming/stop-killing-games-fails-to-secure-eu-law-despite-1-3m-signatures-3376431": {
+    "title": "Stop Killing Games fails to secure EU law despite 1.3M signatures",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-17T10:31:15.415173+00:00",
+    "published": "2026-06-17T01:40:22+00:00"
+  },
+  "https://www.databricks.com/blog/what-is-an-agentic-cdp": {
+    "title": "Introducing the Agentic CDP: A New Species of CDP for a New Era of Agents",
+    "source": "Databricks Blog",
+    "first_seen": "2026-06-17T10:31:15.415173+00:00",
+    "published": "2026-06-17T01:14:58+00:00"
+  },
+  "https://www.phoronix.com/news/Mozilla-Firefox-zlib-rs-Usage": {
+    "title": "Mozilla Firefox Usage Of zlib-rs For Better Safety & Performance",
+    "source": "Phoronix",
+    "first_seen": "2026-06-17T10:31:15.415173+00:00",
+    "published": "2026-06-17T00:46:00+00:00"
+  },
+  "https://writings.stephenwolfram.com/2026/06/launching-version-15-of-wolfram-language-mathematica-built-in-useful-ai-lots-of-new-core-functionality": {
+    "title": "Wolfram Language and Mathematica version 15",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-17T10:31:15.415173+00:00",
+    "published": "2026-06-16T23:15:44+00:00"
+  },
+  "https://aws.amazon.com/blogs/aws/amazon-s3-annotations-attach-rich-queryable-context-directly-to-your-objects": {
+    "title": "Amazon S3 annotations: attach rich, queryable context directly to your objects",
+    "source": "AWS Blog",
+    "first_seen": "2026-06-17T10:31:15.415173+00:00",
+    "published": "2026-06-16T23:13:10+00:00"
+  },
+  "https://mll.sh/humiliating-iis-servers-for-fun-and-jail-time": {
+    "title": "Humiliating IIS servers for fun and jail time",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-17T10:31:15.415173+00:00",
+    "published": "2026-06-16T22:53:34+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/safeguard-your-agentic-ai-applications-with-the-amazon-bedrock-guardrails-invokeguardrailchecks-api": {
+    "title": "Safeguard your agentic AI applications with the Amazon Bedrock Guardrails InvokeGuardrailChecks API",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-06-17T10:31:15.415173+00:00",
+    "published": "2026-06-16T22:46:46+00:00"
+  },
+  "https://developer.nvidia.com/blog/building-ai-agents-for-ar-glasses-and-xr-devices-with-nvidia-xr-ai": {
+    "title": "Building AI Agents for AR Glasses and XR Devices with NVIDIA XR AI",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-06-17T10:31:15.415173+00:00",
+    "published": "2026-06-16T22:30:00+00:00"
+  },
+  "https://simonwillison.net/2026/Jun/16/datasette": {
+    "title": "datasette 1.0a34",
+    "source": "Simon Willison",
+    "first_seen": "2026-06-17T10:31:15.415173+00:00",
+    "published": "2026-06-16T21:31:24+00:00"
+  },
+  "https://github.com/nvlabs/cutile-rs": {
+    "title": "Show HN: cuTile Rust: Safe, data-race-free GPU kernels in Rust",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-17T10:31:15.415173+00:00",
+    "published": "2026-06-16T20:17:42+00:00"
+  },
+  "https://simonwillison.net/2026/Jun/16/datasette-tailscale": {
+    "title": "datasette-tailscale 0.1a0",
+    "source": "Simon Willison",
+    "first_seen": "2026-06-17T10:31:15.415173+00:00",
+    "published": "2026-06-16T16:18:20+00:00"
   }
 }
