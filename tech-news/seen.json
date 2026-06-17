@@ -40772,5 +40772,191 @@
     "source": "Google Cloud Blog",
     "first_seen": "2026-06-17T16:14:26.891701+00:00",
     "published": "2026-06-17T00:00:00+00:00"
+  },
+  "https://openrouter.ai/blog/insights/royale-last-agent-standing": {
+    "title": "A Robot Is Sprinting Towards You: Do You Want It Running on Claude or Grok?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-17T21:42:26.647824+00:00",
+    "published": "2026-06-17T21:00:07+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-ai-async-inference-now-supports-inline-request-payloads": {
+    "title": "Amazon SageMaker AI Async Inference now supports inline request payloads",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-06-17T21:42:26.647824+00:00",
+    "published": "2026-06-17T20:56:36+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/get-back-hours-every-day-with-autonomous-agents-in-amazon-quick": {
+    "title": "Get back hours every day with autonomous agents in Amazon Quick",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-06-17T21:42:26.647824+00:00",
+    "published": "2026-06-17T20:35:39+00:00"
+  },
+  "https://www.phoronix.com/news/Bcachefs-Tools-1.38.6": {
+    "title": "Bcachefs Tools 1.38.6 Brings Many Performance Improvements",
+    "source": "Phoronix",
+    "first_seen": "2026-06-17T21:42:26.647824+00:00",
+    "published": "2026-06-17T20:06:22+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.2-Slab": {
+    "title": "Linux 7.2 Slab Changes Include More Performance Optimizations",
+    "source": "Phoronix",
+    "first_seen": "2026-06-17T21:42:26.647824+00:00",
+    "published": "2026-06-17T20:00:48+00:00"
+  },
+  "https://flickey.site": {
+    "title": "Made a free macOS menu bar app that fixes typing in the wrong keyboard layout",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-17T21:42:26.647824+00:00",
+    "published": "2026-06-17T19:50:11+00:00"
+  },
+  "https://www.databricks.com/blog/databricks-and-nvidia-building-agentic-era": {
+    "title": "Databricks and NVIDIA: Building for the Agentic Era",
+    "source": "Databricks Blog",
+    "first_seen": "2026-06-17T21:42:26.647824+00:00",
+    "published": "2026-06-17T19:50:00+00:00"
+  },
+  "https://www.phoronix.com/news/AMD-Lemonade-10.8-Released": {
+    "title": "AMD's Lemonade AI Server Now Much More Useful With MCP Server Integration",
+    "source": "Phoronix",
+    "first_seen": "2026-06-17T21:42:26.647824+00:00",
+    "published": "2026-06-17T19:43:23+00:00"
+  },
+  "https://github.blog/ai-and-ml/github-copilot/getting-more-from-each-token-how-copilot-improves-context-handling-and-model-routing": {
+    "title": "Getting more from each token: How Copilot improves context handling and model routing",
+    "source": "GitHub Blog",
+    "first_seen": "2026-06-17T21:42:26.647824+00:00",
+    "published": "2026-06-17T19:41:46+00:00"
+  },
+  "https://cloud.google.com/blog/products/networking/cloud-network-insights-end-to-end-cross-cloud-observability": {
+    "title": "Cloud Network Insights: end-to-end observability for the Cross-Cloud Network",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-06-17T21:42:26.647824+00:00",
+    "published": "2026-06-17T19:30:00+00:00"
+  },
+  "https://replit.com/blog/replit-claude": {
+    "title": "Replit is now available in Claude",
+    "source": "Replit Blog",
+    "first_seen": "2026-06-17T21:42:26.647824+00:00",
+    "published": "2026-06-17T19:05:46+00:00"
+  },
+  "https://thenewstack.io/aws-context-knowledge-graph-agents": {
+    "title": "“A data lake of nuance for AI agents to swim in”: AWS Context gets shipshape on reasoning",
+    "source": "The New Stack",
+    "first_seen": "2026-06-17T21:42:26.647824+00:00",
+    "published": "2026-06-17T18:00:00+00:00"
+  },
+  "https://openai.com/index/ai-chemist-improves-reaction": {
+    "title": "Using AI to improve a challenging reaction in medicinal chemistry",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-17T21:42:26.647824+00:00",
+    "published": "2026-06-17T17:34:20+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/context-intelligence-for-your-data-and-ai-agents-at-scale": {
+    "title": "Context intelligence for your data and AI agents at scale",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-06-17T21:42:26.647824+00:00",
+    "published": "2026-06-17T17:17:37+00:00"
+  },
+  "https://ghostinthedata.info/posts/2026/2026-06-13-human-connection-moat": {
+    "title": "The Competitive Moat That AI Can't Replicate",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-17T21:42:26.647824+00:00",
+    "published": "2026-06-17T17:14:21+00:00"
+  },
+  "https://simonwillison.net/2026/Jun/17/charity-majors": {
+    "title": "Quoting Charity Majors",
+    "source": "Simon Willison",
+    "first_seen": "2026-06-17T21:42:26.647824+00:00",
+    "published": "2026-06-17T17:12:41+00:00"
+  },
+  "https://www.ycombinator.com/companies/trellis-ai/jobs/Cg94htp-product-lead": {
+    "title": "Trellis AI (YC W24)  hiring a product lead to build agents for healthcare access",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-17T21:42:26.647824+00:00",
+    "published": "2026-06-17T17:00:02+00:00"
+  },
+  "https://thenewstack.io/aws-kiro-mobile-ios-agentic-coding": {
+    "title": "Kiro goes mobile: AWS brings agentic coding supervision to the iPhone",
+    "source": "The New Stack",
+    "first_seen": "2026-06-17T21:42:26.647824+00:00",
+    "published": "2026-06-17T17:00:00+00:00"
+  },
+  "https://tailscale.com/blog/azure-blob-storage-streaming": {
+    "title": "Send Tailscale logs to Azure Blob Storage",
+    "source": "Tailscale Blog",
+    "first_seen": "2026-06-17T21:42:26.647824+00:00",
+    "published": "2026-06-17T17:00:00+00:00"
+  },
+  "https://devblogs.microsoft.com/dotnet/msbuild-binlog-mcp-server": {
+    "title": "AI-Powered MSBuild Investigation with the Microsoft Binlog MCP Server",
+    "source": "MS .NET Blog",
+    "first_seen": "2026-06-17T21:42:26.647824+00:00",
+    "published": "2026-06-17T17:00:00+00:00"
+  },
+  "https://thenewstack.io/vercel-launches-eve-an-open-source-framework-that-treats-agents-as-directories": {
+    "title": "Vercel launches eve, an open-source framework that treats agents as directories",
+    "source": "The New Stack",
+    "first_seen": "2026-06-17T21:42:26.647824+00:00",
+    "published": "2026-06-17T16:59:00+00:00"
+  },
+  "https://ribbie.tv/watch": {
+    "title": "Show HN: An 8-bit live gamecast for baseball",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-17T21:42:26.647824+00:00",
+    "published": "2026-06-17T16:44:15+00:00"
+  },
+  "https://newsletter.pragmaticengineer.com/p/cicd-with-robert-erez": {
+    "title": "CI/CD with Robert Erez",
+    "source": "The Pragmatic Engineer",
+    "first_seen": "2026-06-17T21:42:26.647824+00:00",
+    "published": "2026-06-17T16:41:01+00:00"
+  },
+  "https://aws.amazon.com/blogs/aws/top-announcements-of-the-aws-summit-in-new-york-2026": {
+    "title": "Top announcements of the AWS Summit in New York, 2026",
+    "source": "AWS Blog",
+    "first_seen": "2026-06-17T21:42:26.647824+00:00",
+    "published": "2026-06-17T16:36:08+00:00"
+  },
+  "https://www.phoronix.com/news/Experimental-Vino-DRM-Driver": {
+    "title": "Experimental, Reverse-Engineered & AI Assisted Rust Driver Targets Modern DisplayLink Hardware",
+    "source": "Phoronix",
+    "first_seen": "2026-06-17T21:42:26.647824+00:00",
+    "published": "2026-06-17T16:23:37+00:00"
+  },
+  "https://github.com/Adam-CAD/CADAM": {
+    "title": "Launch HN: Adam (YC W25) – Open-Source AI CAD",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-17T21:42:26.647824+00:00",
+    "published": "2026-06-17T16:14:04+00:00"
+  },
+  "https://www.greptile.com/blog/trex-code-execution": {
+    "title": "TREX: An AI code reviewer that runs your code",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-17T21:42:26.647824+00:00",
+    "published": "2026-06-17T15:29:01+00:00"
+  },
+  "https://www.freerange.city/p/why-do-commercial-spaces-sit-vacant": {
+    "title": "Why do commercial spaces sit vacant? (2025)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-17T21:42:26.647824+00:00",
+    "published": "2026-06-17T06:59:29+00:00"
+  },
+  "https://www.elastic.co/blog/elastic-leader-idc-marketscape-worldwide-siem-2026": {
+    "title": "Elastic named a Leader in the IDC MarketScape: Worldwide SIEM 2026 Vendor Assessment",
+    "source": "Elastic Blog",
+    "first_seen": "2026-06-17T21:42:26.647824+00:00",
+    "published": "2026-06-17T00:00:00+00:00"
+  },
+  "https://remix.run/blog/react-router-v8": {
+    "title": "React Router v8",
+    "source": "Remix Blog",
+    "first_seen": "2026-06-17T21:42:26.647824+00:00",
+    "published": "2026-06-17T00:00:00+00:00"
+  },
+  "https://openai.com/index/introducing-life-sci-bench": {
+    "title": "Introducing LifeSciBench",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-06-17T21:42:26.647824+00:00",
+    "published": "2026-06-17T00:00:00+00:00"
   }
 }
