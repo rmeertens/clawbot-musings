@@ -40958,5 +40958,179 @@
     "source": "OpenAI Blog",
     "first_seen": "2026-06-17T21:42:26.647824+00:00",
     "published": "2026-06-17T00:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.2-EDAC": {
+    "title": "Linux 7.2 EDAC Drivers Prep For Diamond Rapids, Nova Lake H",
+    "source": "Phoronix",
+    "first_seen": "2026-06-18T10:34:42.348121+00:00",
+    "published": "2026-06-18T10:24:16+00:00"
+  },
+  "https://www.phoronix.com/news/SteamOS-3.8.10-Stable": {
+    "title": "SteamOS 3.8.10 Stable Released With Updated Arch, Steam Machine Support & Wayland Desktop Default",
+    "source": "Phoronix",
+    "first_seen": "2026-06-18T10:34:42.348121+00:00",
+    "published": "2026-06-18T10:06:06+00:00"
+  },
+  "https://stratechery.com/2026/an-interview-with-michael-morton-about-e-commerce-in-the-age-of-ai": {
+    "title": "An Interview with Michael Morton About E-Commerce in the Age of AI",
+    "source": "Stratechery",
+    "first_seen": "2026-06-18T10:34:42.348121+00:00",
+    "published": "2026-06-18T10:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.2-Timers": {
+    "title": "Linux 7.2 Protects Against \"Stupid Or Malicious\" DoS Attempts By Arming Timers In The Past",
+    "source": "Phoronix",
+    "first_seen": "2026-06-18T10:34:42.348121+00:00",
+    "published": "2026-06-18T09:58:00+00:00"
+  },
+  "https://rbelmont.mameworld.info?p=1725": {
+    "title": "I need your clothes, your boots, and your motorcycle",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-18T10:34:42.348121+00:00",
+    "published": "2026-06-18T08:28:04+00:00"
+  },
+  "https://www.tomshardware.com/pc-components/cpus/amd-silently-removes-memory-encryption-from-consumer-ryzen-cpus-leaving-users-unaware-that-they-may-be-vulnerable-security-feature-vanishes-after-newer-agesa-firmware-amd-engineers-go-radio-silent-when-pressed-about-the-change": {
+    "title": "AMD silently removes memory encryption from consumer Ryzen CPUs",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-18T10:34:42.348121+00:00",
+    "published": "2026-06-18T08:08:00+00:00"
+  },
+  "https://btao.org/posts/2026-05-09-the-forge-we-deserve": {
+    "title": "The Forge We Deserve",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-18T10:34:42.348121+00:00",
+    "published": "2026-06-18T07:46:55+00:00"
+  },
+  "https://cloud.google.com/blog/products/identity-security/choice-compliance-and-collaboration-europes-path-to-open-digital-sovereignty": {
+    "title": "Choice, compliance, and collaboration: Europe’s path to open digital sovereignty",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-06-18T10:34:42.348121+00:00",
+    "published": "2026-06-18T07:00:00+00:00"
+  },
+  "https://www.acma.gov.au/sms-sender-id-register": {
+    "title": "The Australian Government to Require SMS/MMS Sender ID Registraion",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-18T10:34:42.348121+00:00",
+    "published": "2026-06-18T06:23:24+00:00"
+  },
+  "https://chat.deepseek.com": {
+    "title": "DeepSeek Introduces Vision",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-18T10:34:42.348121+00:00",
+    "published": "2026-06-18T06:17:40+00:00"
+  },
+  "https://xeiaso.net/notes/2026/anubis-wasm-vendor-binary": {
+    "title": "I hate compilers",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-18T10:34:42.348121+00:00",
+    "published": "2026-06-18T05:10:28+00:00"
+  },
+  "https://www.cncf.io/blog/2026/06/17/expanding-care-passing-cks-can-now-extend-your-cka-certification": {
+    "title": "Expanding CARE: Passing CKS can now extend your CKA certification",
+    "source": "CNCF Blog",
+    "first_seen": "2026-06-18T10:34:42.348121+00:00",
+    "published": "2026-06-18T04:50:00+00:00"
+  },
+  "https://store.steampowered.com/news/app/1675200/view/697641379212298072": {
+    "title": "SteamOS Linux 3.8 released as stable",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-18T10:34:42.348121+00:00",
+    "published": "2026-06-18T04:05:06+00:00"
+  },
+  "https://conf.nim-lang.org": {
+    "title": "Nim Conf 2026 (Online, Sat June 20)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-18T10:34:42.348121+00:00",
+    "published": "2026-06-18T03:38:31+00:00"
+  },
+  "https://blog.alexellis.io/local-ai-is-not-opus": {
+    "title": "Local Qwen isn't a worse Opus, it's a different tool",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-18T10:34:42.348121+00:00",
+    "published": "2026-06-18T03:04:20+00:00"
+  },
+  "https://x86ecosystem.org/resource/ai-compute-extensions-ace-specification": {
+    "title": "AI Compute Extensions (ACE) Specification",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-18T10:34:42.348121+00:00",
+    "published": "2026-06-18T02:32:01+00:00"
+  },
+  "https://www.midjourney.com/medical/blogpost": {
+    "title": "Midjourney Medical",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-18T10:34:42.348121+00:00",
+    "published": "2026-06-18T01:59:51+00:00"
+  },
+  "https://pytorch.org/blog/schedule-now-available-for-kubecon-cloudnativecon-openinfra-summit-pytorch-conference-china": {
+    "title": "Schedule Now Available for KubeCon + CloudNativeCon + OpenInfra Summit + PyTorch Conference China",
+    "source": "PyTorch Blog",
+    "first_seen": "2026-06-18T10:34:42.348121+00:00",
+    "published": "2026-06-18T00:55:58+00:00"
+  },
+  "https://lwn.net/Articles/1077459": {
+    "title": "[$] LWN.net Weekly Edition for June 18, 2026",
+    "source": "LWN.net",
+    "first_seen": "2026-06-18T10:34:42.348121+00:00",
+    "published": "2026-06-18T00:55:14+00:00"
+  },
+  "https://www.phoronix.com/news/ARM64-Linux-7.2-Changes": {
+    "title": "AI/LLM Patch Craziness Having An Impact On ARM64 Linux Kernel Development",
+    "source": "Phoronix",
+    "first_seen": "2026-06-18T10:34:42.348121+00:00",
+    "published": "2026-06-18T00:26:00+00:00"
+  },
+  "https://opensource.microsoft.com/blog/2026/06/17/whats-new-with-microsoft-in-open-source-and-kubernetes-at-open-source-summit-and-kubecon-india": {
+    "title": "What’s new with Microsoft in open source and Kubernetes at Open Source Summit and KubeCon India",
+    "source": "Microsoft Open Source",
+    "first_seen": "2026-06-18T10:34:42.348121+00:00",
+    "published": "2026-06-18T00:00:00+00:00"
+  },
+  "https://www.horg.com/horg?page_id=921": {
+    "title": "Taxonomy of the Occlupanida (parasitoids on bread bag tags)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-18T10:34:42.348121+00:00",
+    "published": "2026-06-17T23:20:38+00:00"
+  },
+  "https://github.com/glojurelang/glojure": {
+    "title": "Clojure Hosted on Go",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-18T10:34:42.348121+00:00",
+    "published": "2026-06-17T23:14:49+00:00"
+  },
+  "https://webkit.org/blog/18128/release-notes-for-safari-technology-preview-246": {
+    "title": "Release Notes for Safari Technology Preview 246",
+    "source": "WebKit Blog",
+    "first_seen": "2026-06-18T10:34:42.348121+00:00",
+    "published": "2026-06-17T23:08:46+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/postgresql-18-on-amazon-aurora-and-amazon-rds-performance-enhancements": {
+    "title": "PostgreSQL 18 on Amazon Aurora and Amazon RDS: Performance enhancements",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-06-18T10:34:42.348121+00:00",
+    "published": "2026-06-17T22:29:13+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/postgresql-18-on-amazon-aurora-and-amazon-rds-security-monitoring-and-developer-enhancements": {
+    "title": "PostgreSQL 18 on Amazon Aurora and Amazon RDS: Security, monitoring, and developer enhancements",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-06-18T10:34:42.348121+00:00",
+    "published": "2026-06-17T22:29:02+00:00"
+  },
+  "https://storiedcolors.com": {
+    "title": "Storied Colors – A catalogue of named colors",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-18T10:34:42.348121+00:00",
+    "published": "2026-06-17T21:49:03+00:00"
+  },
+  "https://loreline.app/en": {
+    "title": "Loreline – Tools for writing interactive fiction",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-18T10:34:42.348121+00:00",
+    "published": "2026-06-17T20:29:15+00:00"
+  },
+  "https://worksinprogress.co/issue/how-madrid-built-its-metro-cheaply": {
+    "title": "How Madrid built its metro cheaply (2024)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-18T10:34:42.348121+00:00",
+    "published": "2026-06-17T19:59:27+00:00"
   }
 }
