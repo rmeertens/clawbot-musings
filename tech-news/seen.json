@@ -41132,5 +41132,329 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-06-18T10:34:42.348121+00:00",
     "published": "2026-06-17T19:59:27+00:00"
+  },
+  "https://lwn.net/Articles/1078521": {
+    "title": "The Software Freedom Conservancy's LLM-backed generative AI recommendations",
+    "source": "LWN.net",
+    "first_seen": "2026-06-18T16:14:21.970466+00:00",
+    "published": "2026-06-18T16:00:37+00:00"
+  },
+  "https://github.blog/open-source/maintainers/how-pull-request-limits-are-cutting-down-the-noise": {
+    "title": "How pull request limits are cutting down the noise",
+    "source": "GitHub Blog",
+    "first_seen": "2026-06-18T16:14:21.970466+00:00",
+    "published": "2026-06-18T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/containers-kubernetes/improving-ray-serve-llm-on-gke-throughput-latency": {
+    "title": "Scaling Ray Serve LLM on GKE: Performance without losing the developer experience",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-06-18T16:14:21.970466+00:00",
+    "published": "2026-06-18T16:00:00+00:00"
+  },
+  "https://blog.bytebytego.com/p/observability-for-beginners-logs": {
+    "title": "Observability for Beginners: Logs, Metrics, Traces, and Everything Around Them",
+    "source": "ByteByteGo",
+    "first_seen": "2026-06-18T16:14:21.970466+00:00",
+    "published": "2026-06-18T15:31:17+00:00"
+  },
+  "https://llm-wiki.net": {
+    "title": "Show HN: 10x better performance from the Coding Harnesses with LLM-wiki",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-18T16:14:21.970466+00:00",
+    "published": "2026-06-18T15:23:30+00:00"
+  },
+  "https://neutronbytes.com/2026/01/09/terrapower-in-mega-deal-with-meta-for-eight-natrium-345-mw-advanced-nuclear-plants": {
+    "title": "TerraPower in Deal with Meta for Eight Natrium 345 MW Advanced Nuclear Plants",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-18T16:14:21.970466+00:00",
+    "published": "2026-06-18T15:13:26+00:00"
+  },
+  "https://www.submission.directory": {
+    "title": "A website that lists websites to submit your website to",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-18T16:14:21.970466+00:00",
+    "published": "2026-06-18T15:12:43+00:00"
+  },
+  "https://www.databricks.com/blog/how-stagwell-built-privacy-safe-id-matching-databricks": {
+    "title": "How Stagwell built privacy-safe ID matching on Databricks",
+    "source": "Databricks Blog",
+    "first_seen": "2026-06-18T16:14:21.970466+00:00",
+    "published": "2026-06-18T15:00:00+00:00"
+  },
+  "https://thenewstack.io/neoclouds-postgres-sovereign-ai": {
+    "title": "Neoclouds, sovereign AI and Postgres: The new operating model for regulated enterprises",
+    "source": "The New Stack",
+    "first_seen": "2026-06-18T16:14:21.970466+00:00",
+    "published": "2026-06-18T15:00:00+00:00"
+  },
+  "https://tester.army": {
+    "title": "Launch HN: TesterArmy (YC P26) – Agents that test web and mobile apps",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-18T16:14:21.970466+00:00",
+    "published": "2026-06-18T14:49:44+00:00"
+  },
+  "https://movq.de/blog/postings/2026-06-16/0/POSTING-en.html": {
+    "title": "What was nice about the UI of Windows 2000",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-18T16:14:21.970466+00:00",
+    "published": "2026-06-18T14:45:43+00:00"
+  },
+  "https://hermes-agent.nousresearch.com/docs/guides/migrate-from-openclaw": {
+    "title": "Migrate from OpenClaw",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-18T16:14:21.970466+00:00",
+    "published": "2026-06-18T14:32:13+00:00"
+  },
+  "https://devblogs.microsoft.com/typescript/announcing-typescript-7-0-rc": {
+    "title": "Announcing TypeScript 7.0 RC",
+    "source": "MS TypeScript Blog",
+    "first_seen": "2026-06-18T16:14:21.970466+00:00",
+    "published": "2026-06-18T14:31:17+00:00"
+  },
+  "https://blog.ui.com/article/introducing-enterprise-nas": {
+    "title": "Ubiquiti: Enterprise NAS, Built on ZFS",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-18T16:14:21.970466+00:00",
+    "published": "2026-06-18T14:24:30+00:00"
+  },
+  "https://www.bluewin.ch/en/news/switzerland/parliament-lifts-ban-on-new-nuclear-power-plants-3257535.html": {
+    "title": "Swiss parliament lifts ban on new nuclear power plants",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-18T16:14:21.970466+00:00",
+    "published": "2026-06-18T14:17:07+00:00"
+  },
+  "https://gerrymandle.cc": {
+    "title": "Show HN: Gerrymandle - Daily puzzle game where you redraw electoral districts",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-18T16:14:21.970466+00:00",
+    "published": "2026-06-18T14:16:25+00:00"
+  },
+  "https://pytorch.org/blog/just-launched-pytorch-certified-associate-ptca": {
+    "title": "JUST LAUNCHED! PyTorch Certified Associate (PTCA)",
+    "source": "PyTorch Blog",
+    "first_seen": "2026-06-18T16:14:21.970466+00:00",
+    "published": "2026-06-18T14:02:02+00:00"
+  },
+  "https://www.phoronix.com/news/AMDGPU-Fixing-Display-Freeze": {
+    "title": "Claude AI Assists In Fixing Years Old AMD Radeon Linux Display Bug Affecting Numerous Laptops",
+    "source": "Phoronix",
+    "first_seen": "2026-06-18T16:14:21.970466+00:00",
+    "published": "2026-06-18T14:00:00+00:00"
+  },
+  "https://thenewstack.io/postgres-data-movement-interoperability": {
+    "title": "The database storage problem is solved. Here’s what comes next.",
+    "source": "The New Stack",
+    "first_seen": "2026-06-18T16:14:21.970466+00:00",
+    "published": "2026-06-18T14:00:00+00:00"
+  },
+  "https://lwn.net/Articles/1078068": {
+    "title": "[$] The first half of the 7.2 merge window",
+    "source": "LWN.net",
+    "first_seen": "2026-06-18T16:14:21.970466+00:00",
+    "published": "2026-06-18T13:47:49+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.2-Crypto": {
+    "title": "AF_ALG Deprecation Approved For Linux 7.2, Useless & Insecure Crypto Driver Code Removed",
+    "source": "Phoronix",
+    "first_seen": "2026-06-18T16:14:21.970466+00:00",
+    "published": "2026-06-18T13:43:10+00:00"
+  },
+  "https://thenewstack.io/fable-ban-open-weights": {
+    "title": "Fable 5 ban: 4 open models responded before Anthropic could restore access",
+    "source": "The New Stack",
+    "first_seen": "2026-06-18T16:14:21.970466+00:00",
+    "published": "2026-06-18T13:34:01+00:00"
+  },
+  "https://lwn.net/Articles/1078466": {
+    "title": "Mastodon 4.6 released",
+    "source": "LWN.net",
+    "first_seen": "2026-06-18T16:14:21.970466+00:00",
+    "published": "2026-06-18T13:28:00+00:00"
+  },
+  "https://lwn.net/Articles/1074291": {
+    "title": "[$] Single-hop block replication with RMR and BRMR",
+    "source": "LWN.net",
+    "first_seen": "2026-06-18T16:14:21.970466+00:00",
+    "published": "2026-06-18T13:25:34+00:00"
+  },
+  "https://lwn.net/Articles/1078465": {
+    "title": "Security updates for Thursday",
+    "source": "LWN.net",
+    "first_seen": "2026-06-18T16:14:21.970466+00:00",
+    "published": "2026-06-18T13:16:11+00:00"
+  },
+  "https://worksinprogress.co/issue/albertas-war-on-rats": {
+    "title": "How Alberta Eradicated Rats",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-18T16:14:21.970466+00:00",
+    "published": "2026-06-18T13:05:58+00:00"
+  },
+  "https://www.docker.com/blog/coding-agent-horror-stories-the-13-hour-aws-outage": {
+    "title": "Coding Agent Horror Stories: The 13-Hour AWS Outage",
+    "source": "Docker Blog",
+    "first_seen": "2026-06-18T16:14:21.970466+00:00",
+    "published": "2026-06-18T13:00:00+00:00"
+  },
+  "https://thenewstack.io/debugging-probabilistic-ai-systems": {
+    "title": "Your AI pipeline is broken, and your dashboards don’t know it",
+    "source": "The New Stack",
+    "first_seen": "2026-06-18T16:14:21.970466+00:00",
+    "published": "2026-06-18T13:00:00+00:00"
+  },
+  "https://blog.cloudflare.com/celebrating-12-years-of-project-galileo": {
+    "title": "Celebrating 12 years of Project Galileo",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-06-18T16:14:21.970466+00:00",
+    "published": "2026-06-18T13:00:00+00:00"
+  },
+  "https://blog.elenarossini.com/w-social-public-institutions-and-the-theater-of-european-digital-sovereignty": {
+    "title": "Has W Social switched to closed source?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-18T16:14:21.970466+00:00",
+    "published": "2026-06-18T12:46:04+00:00"
+  },
+  "https://www.phoronix.com/news/Ubuntu-Flavors-Beta-Mandate": {
+    "title": "Ubuntu Flavors Now Mandated To Participate In Beta Releases For Official Status",
+    "source": "Phoronix",
+    "first_seen": "2026-06-18T16:14:21.970466+00:00",
+    "published": "2026-06-18T12:39:47+00:00"
+  },
+  "https://www.windowslatest.com/2026/06/15/microsofts-new-outlook-takes-10-seconds-to-do-what-outlook-classic-does-instantly-on-windows": {
+    "title": "Microsoft new Outlook takes 10 seconds to do what Outlook Classic does instantly",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-18T16:14:21.970466+00:00",
+    "published": "2026-06-18T12:19:05+00:00"
+  },
+  "https://www.rahuljuliato.com/posts/emacs-31-around-the-corner": {
+    "title": "Emacs 31 Is Around the Corner: The Changes I'm Daily Driving",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-18T16:14:21.970466+00:00",
+    "published": "2026-06-18T12:10:53+00:00"
+  },
+  "https://realpython.com/quizzes/sort-python-dictionary": {
+    "title": "Quiz: Sorting a Python Dictionary: Values, Keys, and More",
+    "source": "Real Python",
+    "first_seen": "2026-06-18T16:14:21.970466+00:00",
+    "published": "2026-06-18T12:00:00+00:00"
+  },
+  "https://orchidfiles.com/github-repositories-distributing-malware": {
+    "title": "I found 10k GitHub repositories distributing Trojan malware",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-18T16:14:21.970466+00:00",
+    "published": "2026-06-18T11:45:43+00:00"
+  },
+  "https://spectrum.ieee.org/modos-e-paper-monitor": {
+    "title": "Modos Color Monitor Pushes E-Paper Displays Further",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-18T16:14:21.970466+00:00",
+    "published": "2026-06-18T11:41:21+00:00"
+  },
+  "https://www.elastic.co/search-labs/blog/agent-memory-elasticsearch": {
+    "title": "We built a persistent agent memory layer on Elasticsearch with 0.89 recall",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-18T16:14:21.970466+00:00",
+    "published": "2026-06-18T11:20:18+00:00"
+  },
+  "https://www.cs.cornell.edu/courses/cs6120/2025fa/self-guided": {
+    "title": "Advanced Compilers: The Self-Guided Online Course",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-18T16:14:21.970466+00:00",
+    "published": "2026-06-18T11:04:31+00:00"
+  },
+  "https://www.schneier.com/blog/archives/2026/06/embedding-forbidden-text-in-spyware-to-discourage-ai-analysis.html": {
+    "title": "Embedding Forbidden Text in Spyware to Discourage AI Analysis",
+    "source": "Schneier on Security",
+    "first_seen": "2026-06-18T16:14:21.970466+00:00",
+    "published": "2026-06-18T11:04:01+00:00"
+  },
+  "https://www.phoronix.com/news/AMD-GFX1250-SRAM-ECC-LLVM": {
+    "title": "Latest LLVM Patch Further Points To AMD GFX1250/GFX1251 Being Instinct Hardware",
+    "source": "Phoronix",
+    "first_seen": "2026-06-18T16:14:21.970466+00:00",
+    "published": "2026-06-18T10:36:02+00:00"
+  },
+  "https://www.kcl.ac.uk/news/hospitals-and-universities-repurposing-drugs-at-90-lower-cost": {
+    "title": "Hospitals and universities repurposing drugs at 90% lower cost",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-18T16:14:21.970466+00:00",
+    "published": "2026-06-18T10:33:22+00:00"
+  },
+  "https://nelson.cloud/.gitignore-isnt-the-only-way-to-ignore-files-in-git": {
+    "title": ".gitignore Isn't the Only Way to Ignore Files in Git",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-18T16:14:21.970466+00:00",
+    "published": "2026-06-18T10:29:20+00:00"
+  },
+  "https://www.quantamagazine.org/seven-perfect-shuffles-randomize-a-deck-of-cards-but-how-many-sloppy-ones-20260617": {
+    "title": "Seven Perfect Shuffles Randomize a Deck of Cards. But How Many Sloppy Ones?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-18T16:14:21.970466+00:00",
+    "published": "2026-06-18T09:08:04+00:00"
+  },
+  "https://openai.com/index/diagnose-rare-childhood-diseases": {
+    "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-06-18T16:14:21.970466+00:00",
+    "published": "2026-06-18T08:00:00+00:00"
+  },
+  "https://stackoverflow.blog/2026/06/18/the-new-bottleneck": {
+    "title": "The new bottleneck​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌​﻿‌​‌‍‌‍‌‍‌​‌‍​‍​﻿‌​‌‍​‍‌‍‌​‌‍‌​​‍﻿‌​﻿​‍​﻿‍‌​﻿‍​​﻿‌‌​‍﻿‌​﻿‌​​﻿‌﻿​﻿‍​‌‍​‌​‍﻿‌‌‍​‍​﻿‌‌​﻿‌​​﻿​﻿​‍﻿‌​﻿​‍​﻿‌‍‌‍​﻿​﻿‌‍​﻿‍‌​﻿‌‌​﻿​‌​﻿‍​‌‍​‍‌‍‌​‌‍​‍‌‍‌‌​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌​﻿‌​‌‍‌‍‌‍‌​‌‍​‍​﻿‌​‌‍​‍‌‍‌​‌‍‌​​‍﻿‌​﻿​‍​﻿‍‌​﻿‍​​﻿‌‌​‍﻿‌​﻿‌​​﻿‌﻿​﻿‍​‌‍​‌​‍﻿‌‌‍​‍​﻿‌‌​﻿‌​​﻿​﻿​‍﻿‌​﻿​‍​﻿‌‍‌‍​﻿​﻿‌‍​﻿‍‌​﻿‌‌​﻿​‌​﻿‍​‌‍​‍‌‍‌​‌‍​‍‌‍‌‌​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌",
+    "source": "Stack Overflow Blog",
+    "first_seen": "2026-06-18T16:14:21.970466+00:00",
+    "published": "2026-06-18T07:40:00+00:00"
+  },
+  "https://cloud.google.com/blog/topics/developers-practitioners/agent-factory-recap-100x-engineering-with-ai-agents-in-google-antigravity-20": {
+    "title": "Agent Factory Recap:  100X engineering with AI agents in Google Antigravity 2.0",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-06-18T16:14:21.970466+00:00",
+    "published": "2026-06-18T07:00:00+00:00"
+  },
+  "https://www.redpanda.com/blog/adaptive-write-request-scheduling-in-redpandas-cloud-topics": {
+    "title": "Adaptive write request scheduling in Redpanda's Cloud Topics",
+    "source": "Redpanda Blog",
+    "first_seen": "2026-06-18T16:14:21.970466+00:00",
+    "published": "2026-06-18T00:00:00+00:00"
+  },
+  "https://www.elastic.co/blog/elasticsearch-custom-integrations-automatic-import": {
+    "title": "Elastic’s no-code and full-code approaches to custom integrations",
+    "source": "Elastic Blog",
+    "first_seen": "2026-06-18T16:14:21.970466+00:00",
+    "published": "2026-06-18T00:00:00+00:00"
+  },
+  "https://www.elastic.co/blog/agentic-soc-for-financial-services": {
+    "title": "Building the Agentic SOC: A new model for financial services",
+    "source": "Elastic Blog",
+    "first_seen": "2026-06-18T16:14:21.970466+00:00",
+    "published": "2026-06-18T00:00:00+00:00"
+  },
+  "https://nodeweekly.com/issues/629": {
+    "title": "Extending Node instead of replacing it",
+    "source": "Node Weekly",
+    "first_seen": "2026-06-18T16:14:21.970466+00:00",
+    "published": "2026-06-18T00:00:00+00:00"
+  },
+  "https://huggingface.co/blog/peft-beyond-lora": {
+    "title": "Beyond LoRA: Can you beat the most popular fine-tuning technique?",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-06-18T16:14:21.970466+00:00",
+    "published": "2026-06-18T00:00:00+00:00"
+  },
+  "https://huggingface.co/blog/is-it-agentic-enough": {
+    "title": "Is it agentic enough? Benchmarking open models on your own tooling",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-06-18T16:14:21.970466+00:00",
+    "published": "2026-06-18T00:00:00+00:00"
+  },
+  "https://simonwillison.net/2026/Jun/17/glm-52": {
+    "title": "GLM-5.2 is probably the most powerful text-only open weights LLM",
+    "source": "Simon Willison",
+    "first_seen": "2026-06-18T16:14:21.970466+00:00",
+    "published": "2026-06-17T23:58:39+00:00"
+  },
+  "https://blog.cloudflare.com/agents-platform-flue-sdk": {
+    "title": "Bringing more agent harnesses and frameworks to Cloudflare, starting with Flue",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-06-18T16:14:21.970466+00:00",
+    "published": "2026-06-17T19:35:00+00:00"
   }
 }
