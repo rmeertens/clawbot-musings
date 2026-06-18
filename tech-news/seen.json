@@ -41456,5 +41456,197 @@
     "source": "Cloudflare Blog",
     "first_seen": "2026-06-18T16:14:21.970466+00:00",
     "published": "2026-06-17T19:35:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/aws/announcing-amazon-ec2-g7-instances-accelerated-by-nvidia-rtx-pro-4500-blackwell-server-edition-gpus": {
+    "title": "Announcing Amazon EC2 G7 instances accelerated by NVIDIA RTX PRO 4500 Blackwell Server Edition GPUs",
+    "source": "AWS Blog",
+    "first_seen": "2026-06-18T21:44:16.877847+00:00",
+    "published": "2026-06-18T21:22:10+00:00"
+  },
+  "https://aws.amazon.com/blogs/aws/amazon-ecs-introduces-new-high-resolution-metrics-for-faster-service-auto-scaling": {
+    "title": "Amazon ECS introduces new high-resolution metrics for faster service auto scaling",
+    "source": "AWS Blog",
+    "first_seen": "2026-06-18T21:44:16.877847+00:00",
+    "published": "2026-06-18T21:06:38+00:00"
+  },
+  "https://www.intheweights.com": {
+    "title": "Show HN: Are You in the Weights?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-18T21:44:16.877847+00:00",
+    "published": "2026-06-18T20:49:03+00:00"
+  },
+  "https://thenewstack.io/gusto-cofounder-small-business-ai": {
+    "title": "Gusto Cofounder: An AI agent that runs payroll, HR, and benefits without waiting to be asked",
+    "source": "The New Stack",
+    "first_seen": "2026-06-18T21:44:16.877847+00:00",
+    "published": "2026-06-18T20:40:59+00:00"
+  },
+  "https://mcmansionhell.com/post/148605513816/mcmansions-101-what-makes-a-mcmansion-bad": {
+    "title": "McMansions 101: What Makes a McMansion Bad Architecture? (2016)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-18T21:44:16.877847+00:00",
+    "published": "2026-06-18T20:10:39+00:00"
+  },
+  "https://www.phoronix.com/news/Godot-4.7-Released": {
+    "title": "Godot 4.7 Released With HDR Output Support",
+    "source": "Phoronix",
+    "first_seen": "2026-06-18T21:44:16.877847+00:00",
+    "published": "2026-06-18T19:42:45+00:00"
+  },
+  "https://aws.amazon.com/blogs/security/accelerate-security-investigations-with-kiro-cli": {
+    "title": "Accelerate security investigations with Kiro CLI",
+    "source": "AWS Security Blog",
+    "first_seen": "2026-06-18T21:44:16.877847+00:00",
+    "published": "2026-06-18T19:24:30+00:00"
+  },
+  "https://www.phoronix.com/review/ampere-altra-nvidia-vera": {
+    "title": "How NVIDIA Vera CPU Performance Compares To The Ampere Altra Max",
+    "source": "Phoronix",
+    "first_seen": "2026-06-18T21:44:16.877847+00:00",
+    "published": "2026-06-18T18:43:06+00:00"
+  },
+  "https://www.thatprivacyguy.com/blog/elkjop-forced-consent-fine": {
+    "title": "I told them forced consent was unlawful. 5 years later it cost Elkjop €1.8M",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-18T21:44:16.877847+00:00",
+    "published": "2026-06-18T18:31:23+00:00"
+  },
+  "https://thenewstack.io/mcp-gets-its-missing-enterprise-authorization-layer": {
+    "title": "MCP gets its missing enterprise authorization layer",
+    "source": "The New Stack",
+    "first_seen": "2026-06-18T21:44:16.877847+00:00",
+    "published": "2026-06-18T18:21:43+00:00"
+  },
+  "https://huggingface.co/blog/ServiceNow/mosaicleaks": {
+    "title": "MosaicLeaks: Can your research agent keep a secret?",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-06-18T21:44:16.877847+00:00",
+    "published": "2026-06-18T18:13:13+00:00"
+  },
+  "https://blog.cloudflare.com/build-your-own-vulnerability-harness": {
+    "title": "Build your own vulnerability harness",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-06-18T21:44:16.877847+00:00",
+    "published": "2026-06-18T17:59:40+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.2-EXT4": {
+    "title": "EXT4 Reworks Fast Commit Handling & Faster Directory Hash Computation",
+    "source": "Phoronix",
+    "first_seen": "2026-06-18T21:44:16.877847+00:00",
+    "published": "2026-06-18T17:53:17+00:00"
+  },
+  "https://www.tigerdata.com/blog/great-models-arent-enough-for-physical-ai": {
+    "title": "Great Models Aren't Enough for Physical AI",
+    "source": "Timescale Blog",
+    "first_seen": "2026-06-18T21:44:16.877847+00:00",
+    "published": "2026-06-18T17:52:23+00:00"
+  },
+  "https://krebsonsecurity.com/2026/06/popa-botnet-linked-to-publicly-traded-israeli-firm": {
+    "title": "‘Popa’ Botnet Linked to Publicly-Traded Israeli Firm",
+    "source": "Krebs on Security",
+    "first_seen": "2026-06-18T21:44:16.877847+00:00",
+    "published": "2026-06-18T17:37:58+00:00"
+  },
+  "https://mroczek.dev/articles/the-token-compression-illusion-why-im-skeptical-of-rtk": {
+    "title": "The Token Compression Illusion: Why I'm Skeptical of RTK",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-18T21:44:16.877847+00:00",
+    "published": "2026-06-18T17:37:00+00:00"
+  },
+  "https://thenewstack.io/cursor-origin-github-disruption": {
+    "title": "Cursor, GitLab and Zed agree GitHub is breaking. They disagree on how to rebuild it.",
+    "source": "The New Stack",
+    "first_seen": "2026-06-18T21:44:16.877847+00:00",
+    "published": "2026-06-18T17:32:35+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-agentcore-harness-is-now-generally-available-go-from-idea-to-production-grade-agent-in-minutes": {
+    "title": "Amazon Bedrock AgentCore harness is now generally available: Go from idea to production-grade agent in minutes",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-06-18T21:44:16.877847+00:00",
+    "published": "2026-06-18T17:32:22+00:00"
+  },
+  "https://newsletter.pragmaticengineer.com/p/the-pulse-big-implications-of-us": {
+    "title": "The Pulse: Big implications of US banning Anthropic’s new model, Fable",
+    "source": "The Pragmatic Engineer",
+    "first_seen": "2026-06-18T21:44:16.877847+00:00",
+    "published": "2026-06-18T17:11:03+00:00"
+  },
+  "https://rednafi.com/misc/chezmoi": {
+    "title": "Migrating from GNU Stow to Chezmoi",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-18T21:44:16.877847+00:00",
+    "published": "2026-06-18T17:09:53+00:00"
+  },
+  "https://www.phoronix.com/news/Rust-PNG-Image-Faster": {
+    "title": "Rust PNG Image Decoder Now Even Faster: Benefiting Chrome, GNOME, Etc",
+    "source": "Phoronix",
+    "first_seen": "2026-06-18T21:44:16.877847+00:00",
+    "published": "2026-06-18T17:04:00+00:00"
+  },
+  "https://openai.com/index/chatgpt-enterprise-spend-controls": {
+    "title": "New usage analytics and updated spend controls for enterprises",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-06-18T21:44:16.877847+00:00",
+    "published": "2026-06-18T17:00:00+00:00"
+  },
+  "https://www.independent.co.uk/us/money/craigslist-multimillionaire-craig-newmark-b2980681.html": {
+    "title": "The founder of Craigslist has given away half a billion dollars",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-18T21:44:16.877847+00:00",
+    "published": "2026-06-18T16:55:25+00:00"
+  },
+  "https://aws.amazon.com/blogs/security/spring-2026-soc-1-and-2-reports-are-now-available-in-oscal-format": {
+    "title": "Spring 2026 SOC 1 and 2 reports are now available in OSCAL format",
+    "source": "AWS Security Blog",
+    "first_seen": "2026-06-18T21:44:16.877847+00:00",
+    "published": "2026-06-18T16:50:34+00:00"
+  },
+  "https://oxide.computer/blog/performance-has-layers": {
+    "title": "Performance Has Layers",
+    "source": "Oxide Computer",
+    "first_seen": "2026-06-18T21:44:16.877847+00:00",
+    "published": "2026-06-18T16:30:00+00:00"
+  },
+  "https://pytorch.org/blog/from-minutes-to-seconds-llm-guided-autotuning-for-helion-kernels": {
+    "title": "From Minutes to Seconds: LLM-Guided Autotuning for Helion Kernels",
+    "source": "PyTorch Blog",
+    "first_seen": "2026-06-18T21:44:16.877847+00:00",
+    "published": "2026-06-18T16:08:53+00:00"
+  },
+  "https://www.wired.com/story/sk-telecom-anthropic-mythos-export-controls": {
+    "title": "The Korean telecom giant at the center of Anthropic's Mythos controversy",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-18T21:44:16.877847+00:00",
+    "published": "2026-06-18T12:44:09+00:00"
+  },
+  "https://openai.com/index/improving-health-intelligence-in-chatgpt": {
+    "title": "Improving health intelligence in ChatGPT",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-06-18T21:44:16.877847+00:00",
+    "published": "2026-06-18T11:00:00+00:00"
+  },
+  "https://www.databricks.com/blog/what-is-artificial-intelligence": {
+    "title": "What is artificial intelligence (AI)?",
+    "source": "Databricks Blog",
+    "first_seen": "2026-06-18T21:44:16.877847+00:00",
+    "published": "2026-06-18T08:51:03+00:00"
+  },
+  "https://www.databricks.com/blog/row-level-security": {
+    "title": "What is row-level security?",
+    "source": "Databricks Blog",
+    "first_seen": "2026-06-18T21:44:16.877847+00:00",
+    "published": "2026-06-18T07:27:06+00:00"
+  },
+  "https://discord.com/blog/how-to-manage-your-discord-desktop-notifications": {
+    "title": "How to Manage Your Discord Desktop Notifications: A Complete Guide",
+    "source": "Discord Engineering",
+    "first_seen": "2026-06-18T21:44:16.877847+00:00",
+    "published": "2026-06-18T00:00:00+00:00"
+  },
+  "https://www.databricks.com/blog/ai-harness": {
+    "title": "What is an AI agent harness?",
+    "source": "Databricks Blog",
+    "first_seen": "2026-06-18T21:44:16.877847+00:00",
+    "published": "2026-06-17T21:45:04+00:00"
   }
 }
