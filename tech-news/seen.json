@@ -41768,5 +41768,143 @@
     "source": "Google Cloud Blog",
     "first_seen": "2026-06-19T10:34:56.075312+00:00",
     "published": "2026-06-18T12:51:00+00:00"
+  },
+  "https://lwn.net/Articles/1076210": {
+    "title": "[$] Suspending and resuming BPF programs",
+    "source": "LWN.net",
+    "first_seen": "2026-06-19T16:05:13.376570+00:00",
+    "published": "2026-06-19T15:55:23+00:00"
+  },
+  "https://www.phoronix.com/news/AMD-ACP-7.x-Linux-7.2": {
+    "title": "AMD ACP7.D/7.E/7.F Driver Added In Linux 7.2: \"Substantial Design Changes\" For AMD Audio",
+    "source": "Phoronix",
+    "first_seen": "2026-06-19T16:05:13.376570+00:00",
+    "published": "2026-06-19T15:51:47+00:00"
+  },
+  "https://lwn.net/Articles/1077619": {
+    "title": "[$] AURpocalypse now: a look at the recent AUR attacks",
+    "source": "LWN.net",
+    "first_seen": "2026-06-19T16:05:13.376570+00:00",
+    "published": "2026-06-19T14:40:59+00:00"
+  },
+  "https://thenewstack.io/permissionless-ownership-raising-hand": {
+    "title": "“I think this is costing us more than we realize”: what permissionless ownership really asks of you",
+    "source": "The New Stack",
+    "first_seen": "2026-06-19T16:05:13.376570+00:00",
+    "published": "2026-06-19T14:30:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/introducing-private-networking-for-amazon-mq-for-rabbitmq": {
+    "title": "Introducing Private Networking for Amazon MQ for RabbitMQ",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-06-19T16:05:13.376570+00:00",
+    "published": "2026-06-19T14:22:58+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/introducing-web-search-on-amazon-bedrock-agentcore": {
+    "title": "Introducing Web Search on Amazon Bedrock AgentCore",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-06-19T16:05:13.376570+00:00",
+    "published": "2026-06-19T14:15:24+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.2-Networking": {
+    "title": "Linux 7.2 Brings More Work Around WiFi Aware, WiFi 8 / UHR & More Networking Hardware",
+    "source": "Phoronix",
+    "first_seen": "2026-06-19T16:05:13.376570+00:00",
+    "published": "2026-06-19T14:08:54+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/accelerate-campaign-workflow-with-insights-from-adobe-marketing-agent-for-amazon-quick": {
+    "title": "Accelerate campaign workflow with insights from Adobe Marketing Agent for Amazon Quick",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-06-19T16:05:13.376570+00:00",
+    "published": "2026-06-19T14:05:04+00:00"
+  },
+  "https://stackoverflow.blog/2026/06/19/dispatches-from-o-reilly-from-capabilities-to-responsibilities": {
+    "title": "Dispatches from O'Reilly: From capabilities to responsibilities​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌​﻿​﻿​﻿​​‌‍​‍​﻿‍‌​﻿‍‌​﻿‌‌‌‍‌‍​﻿‌﻿​‍﻿‌​﻿‌﻿‌‍​﻿‌‍​‍​﻿‍‌​‍﻿‌​﻿‌​‌‍‌​‌‍‌​​﻿‍​​‍﻿‌‌‍​‍‌‍‌‍​﻿‌﻿​﻿​‌​‍﻿‌‌‍‌​​﻿​​​﻿‌‍​﻿‍​​﻿‌‌​﻿‍‌​﻿‌​​﻿​​‌‍​‌​﻿​﻿​﻿​‍‌‍​‍​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌​﻿​﻿​﻿​​‌‍​‍​﻿‍‌​﻿‍‌​﻿‌‌‌‍‌‍​﻿‌﻿​‍﻿‌​﻿‌﻿‌‍​﻿‌‍​‍​﻿‍‌​‍﻿‌​﻿‌​‌‍‌​‌‍‌​​﻿‍​​‍﻿‌‌‍​‍‌‍‌‍​﻿‌﻿​﻿​‌​‍﻿‌‌‍‌​​﻿​​​﻿‌‍​﻿‍​​﻿‌‌​﻿‍‌​﻿‌​​﻿​​‌‍​‌​﻿​﻿​﻿​‍‌‍​‍​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌",
+    "source": "Stack Overflow Blog",
+    "first_seen": "2026-06-19T16:05:13.376570+00:00",
+    "published": "2026-06-19T14:00:00+00:00"
+  },
+  "https://thenewstack.io/anthropic-claude-design-overhaul": {
+    "title": "Anthropic overhauled Claude Design to fix the handoff. A designer and an engineer disagree on whether it worked.",
+    "source": "The New Stack",
+    "first_seen": "2026-06-19T16:05:13.376570+00:00",
+    "published": "2026-06-19T13:35:00+00:00"
+  },
+  "https://lwn.net/Articles/1078662": {
+    "title": "Security updates for Friday",
+    "source": "LWN.net",
+    "first_seen": "2026-06-19T16:05:13.376570+00:00",
+    "published": "2026-06-19T13:24:01+00:00"
+  },
+  "https://www.phoronix.com/news/Raspberry-Pi-OS-2026-06-18": {
+    "title": "Raspberry Pi OS Moves To Linux 6.18 LTS Kernel, Updated LabWC Compositor",
+    "source": "Phoronix",
+    "first_seen": "2026-06-19T16:05:13.376570+00:00",
+    "published": "2026-06-19T13:07:59+00:00"
+  },
+  "https://blog.cloudflare.com/temporary-accounts": {
+    "title": "Temporary Cloudflare Accounts for AI agents",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-06-19T16:05:13.376570+00:00",
+    "published": "2026-06-19T13:00:00+00:00"
+  },
+  "https://lwn.net/Articles/1078590": {
+    "title": "Eight new stable kernels for Friday",
+    "source": "LWN.net",
+    "first_seen": "2026-06-19T16:05:13.376570+00:00",
+    "published": "2026-06-19T12:34:38+00:00"
+  },
+  "https://www.construction-physics.com/p/converting-coal-plants-to-natural": {
+    "title": "Converting Coal Plants to Natural Gas",
+    "source": "Construction Physics",
+    "first_seen": "2026-06-19T16:05:13.376570+00:00",
+    "published": "2026-06-19T12:03:02+00:00"
+  },
+  "https://realpython.com/quizzes/python-zip-function": {
+    "title": "Quiz: Using the Python zip() Function for Parallel Iteration",
+    "source": "Real Python",
+    "first_seen": "2026-06-19T16:05:13.376570+00:00",
+    "published": "2026-06-19T12:00:00+00:00"
+  },
+  "https://www.tigerdata.com/blog/why-postgresql-partition-key-creating-write-bottleneck": {
+    "title": "Why Your PostgreSQL Partition Key Is Creating a Write Bottleneck",
+    "source": "Timescale Blog",
+    "first_seen": "2026-06-19T16:05:13.376570+00:00",
+    "published": "2026-06-19T11:23:00+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.2-SoC-Updates": {
+    "title": "Apple M3 Booting On Linux After Three Years Plus Other SoC Updates In Linux 7.2",
+    "source": "Phoronix",
+    "first_seen": "2026-06-19T16:05:13.376570+00:00",
+    "published": "2026-06-19T11:09:46+00:00"
+  },
+  "https://www.schneier.com/blog/archives/2026/06/anthropics-fable-and-the-state-of-ai.html": {
+    "title": "Anthropic’s Fable and the State of AI",
+    "source": "Schneier on Security",
+    "first_seen": "2026-06-19T16:05:13.376570+00:00",
+    "published": "2026-06-19T11:03:30+00:00"
+  },
+  "https://www.phoronix.com/news/AMD-GAIA-Bash-Coding-Agent": {
+    "title": "AMD Introduces An AI-Powered Bash Coding Agent",
+    "source": "Phoronix",
+    "first_seen": "2026-06-19T16:05:13.376570+00:00",
+    "published": "2026-06-19T10:31:33+00:00"
+  },
+  "https://eandt.theiet.org/2026/06/18/norway-greenlights-world-s-first-full-scale-ship-tunnel": {
+    "title": "Norway greenlights first full-scale ship tunnel",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-19T16:05:13.376570+00:00",
+    "published": "2026-06-19T10:16:10+00:00"
+  },
+  "https://overreacted.io/there-are-no-instances-in-atproto": {
+    "title": "There Are No Instances in atproto",
+    "source": "Dan Abramov",
+    "first_seen": "2026-06-19T16:05:13.376570+00:00",
+    "published": "2026-06-19T00:00:00+00:00"
+  },
+  "https://golangweekly.com/issues/606": {
+    "title": "Go 1.27 Release Candidate 1",
+    "source": "Golang Weekly",
+    "first_seen": "2026-06-19T16:05:13.376570+00:00",
+    "published": "2026-06-19T00:00:00+00:00"
   }
 }
