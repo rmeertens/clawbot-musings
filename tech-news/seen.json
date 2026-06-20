@@ -42110,5 +42110,143 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-06-20T10:06:30.992202+00:00",
     "published": "2026-06-19T16:03:15+00:00"
+  },
+  "https://www.reuters.com/technology/us-scientist-john-jumper-leave-google-deepmind-anthropic-2026-06-19": {
+    "title": "US Scientist John Jumper to Leave Google DeepMind for Anthropic",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-20T15:36:42.705271+00:00",
+    "published": "2026-06-20T14:32:15+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.2-Drops-strncpy": {
+    "title": "Linux Finally Eliminates The strncpy API After Six Years Of Work, 360+ Patches",
+    "source": "Phoronix",
+    "first_seen": "2026-06-20T15:36:42.705271+00:00",
+    "published": "2026-06-20T14:22:30+00:00"
+  },
+  "https://thenewstack.io/valkey-ai-backporting-agents": {
+    "title": "Backporting bug fixes is dead, Project Valkey now  sends in the bots",
+    "source": "The New Stack",
+    "first_seen": "2026-06-20T15:36:42.705271+00:00",
+    "published": "2026-06-20T14:21:00+00:00"
+  },
+  "https://vale.rocks/posts/pda-browsers": {
+    "title": "Web Browsers on PDAS",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-20T15:36:42.705271+00:00",
+    "published": "2026-06-20T14:20:47+00:00"
+  },
+  "https://european.social": {
+    "title": "The European Social Stack",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-20T15:36:42.705271+00:00",
+    "published": "2026-06-20T14:20:45+00:00"
+  },
+  "https://www.birminghammail.co.uk/news/midlands-news/vpn-ban-update-uk-households-34141063": {
+    "title": "VPN ban update for UK households as government looks at 'age-gate'",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-20T15:36:42.705271+00:00",
+    "published": "2026-06-20T14:14:35+00:00"
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-20/ubisoft-co-founder-claude-guillemot-dies-in-air-crash-at-age-69": {
+    "title": "Ubisoft co-founder Claude Guillemot has died in a plane crash",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-20T15:36:42.705271+00:00",
+    "published": "2026-06-20T14:12:50+00:00"
+  },
+  "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work": {
+    "title": "From PGP to Mythos: a brief history of export controls that didn't stop anyone",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-20T15:36:42.705271+00:00",
+    "published": "2026-06-20T13:44:39+00:00"
+  },
+  "https://aws.amazon.com/blogs/compute/upgrading-lambda-function-runtimes-at-scale-with-aws-transform-custom": {
+    "title": "Upgrading Lambda function runtimes at scale with AWS Transform custom",
+    "source": "AWS Compute Blog",
+    "first_seen": "2026-06-20T15:36:42.705271+00:00",
+    "published": "2026-06-20T12:35:50+00:00"
+  },
+  "https://pong-in-a-favicon.franzai.com": {
+    "title": "Pong in S Favicon",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-20T15:36:42.705271+00:00",
+    "published": "2026-06-20T12:14:32+00:00"
+  },
+  "https://blog.gingerbeardman.com/2026/06/19/new-old-3d-golf-porting-pc-9801-and-virtual-boy-to-mega-drive": {
+    "title": "New (Old) 3D Golf: Porting PC-9801 and Virtual Boy to Mega Drive",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-20T15:36:42.705271+00:00",
+    "published": "2026-06-20T12:06:00+00:00"
+  },
+  "https://www.construction-physics.com/p/reading-list-062026": {
+    "title": "Reading List 06/20/26",
+    "source": "Construction Physics",
+    "first_seen": "2026-06-20T15:36:42.705271+00:00",
+    "published": "2026-06-20T12:01:56+00:00"
+  },
+  "https://www.lrt.lt/en/news-in-english/19/2965205/lithuanian-startup-launches-open-source-network-to-detect-shahed-type-drones": {
+    "title": "Lithuanian startup launches open-source network to detect Shahed-type drones",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-20T15:36:42.705271+00:00",
+    "published": "2026-06-20T11:58:32+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-CRC64-NEON-On-ARM32": {
+    "title": "Linux's ARM64 NEON Intrinsics CRC64 Code Adapted To Work On 32-bit ARM",
+    "source": "Phoronix",
+    "first_seen": "2026-06-20T15:36:42.705271+00:00",
+    "published": "2026-06-20T11:19:23+00:00"
+  },
+  "https://www.phoronix.com/news/GIMP-0.54-Flatpak": {
+    "title": "GIMP v0.54 From 1996 With Motif Toolkit Now Flatpak'ed For Modern Linux Desktops",
+    "source": "Phoronix",
+    "first_seen": "2026-06-20T15:36:42.705271+00:00",
+    "published": "2026-06-20T10:56:56+00:00"
+  },
+  "https://bootimus.com": {
+    "title": "Bootimus – A Self-Contained PXE and HTTP Boot Server",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-20T15:36:42.705271+00:00",
+    "published": "2026-06-20T10:55:18+00:00"
+  },
+  "https://cssquake.com": {
+    "title": "CSSQuake",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-20T15:36:42.705271+00:00",
+    "published": "2026-06-20T10:49:53+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.2-exFAT": {
+    "title": "exFAT File-System Enjoys Better Performance On Linux 7.2 With IOmap Conversion",
+    "source": "Phoronix",
+    "first_seen": "2026-06-20T15:36:42.705271+00:00",
+    "published": "2026-06-20T10:30:00+00:00"
+  },
+  "https://thenewstack.io/losing-fable-open-weight-glm": {
+    "title": "Losing Fable made the best case yet for AI models you can run yourself",
+    "source": "The New Stack",
+    "first_seen": "2026-06-20T15:36:42.705271+00:00",
+    "published": "2026-06-20T10:30:00+00:00"
+  },
+  "https://www.phoronix.com/news/KDE-Plasma-6.8-Multi-Monitor": {
+    "title": "KDE Plasma 6.8 Making It Easier To Configure Multi-Monitor Setups",
+    "source": "Phoronix",
+    "first_seen": "2026-06-20T15:36:42.705271+00:00",
+    "published": "2026-06-20T10:15:20+00:00"
+  },
+  "https://placementist.com/insights/fear-farming-the-stanford-ai-hiring-study-debunk": {
+    "title": "\"Career coaches\" are fear-farming the Stanford AI hiring study [debunk]",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-20T15:36:42.705271+00:00",
+    "published": "2026-06-20T08:06:17+00:00"
+  },
+  "https://ianbarber.blog/2026/06/19/llms-are-complicated-now": {
+    "title": "LLMs Are Complicated Now",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-20T15:36:42.705271+00:00",
+    "published": "2026-06-20T01:25:14+00:00"
+  },
+  "https://point.free/blog/delete-12-flags": {
+    "title": "I restarted a 10 year old Xeon 174 times to delete 12 flags and gain 4 tps",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-20T15:36:42.705271+00:00",
+    "published": "2026-06-19T15:19:14+00:00"
   }
 }
