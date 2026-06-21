@@ -42374,5 +42374,107 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-06-20T21:32:27.995635+00:00",
     "published": "2026-06-20T11:44:52+00:00"
+  },
+  "https://www.phoronix.com/news/NVIDIA-Blackwell-Next-VFIO": {
+    "title": "Linux 7.2 Begins Making Preparations For NVIDIA \"Blackwell-Next\"",
+    "source": "Phoronix",
+    "first_seen": "2026-06-21T10:18:09.656571+00:00",
+    "published": "2026-06-21T09:55:56+00:00"
+  },
+  "https://blog.apnic.net/2026/04/28/google-hits-50-ipv6": {
+    "title": "Google Hits 50% IPv6",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-21T10:18:09.656571+00:00",
+    "published": "2026-06-21T08:21:22+00:00"
+  },
+  "https://github.com/namgyaaal/avoxelgame": {
+    "title": "A 3D voxel game engine written in APL",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-21T10:18:09.656571+00:00",
+    "published": "2026-06-21T08:04:54+00:00"
+  },
+  "https://movq.de/blog/postings/2026-06-20/0/POSTING-en.html": {
+    "title": "Windows UI evolution: Clicking an unassociated file",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-21T10:18:09.656571+00:00",
+    "published": "2026-06-21T06:24:52+00:00"
+  },
+  "https://lcamtuf.substack.com/p/the-100000-whys-of-ai": {
+    "title": "The 100k Whys of AI",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-21T10:18:09.656571+00:00",
+    "published": "2026-06-21T05:45:21+00:00"
+  },
+  "https://spectrum.ieee.org/alan-turings-delilah": {
+    "title": "The Lost Story of Alan Turing's \"Delilah\" Project",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-21T10:18:09.656571+00:00",
+    "published": "2026-06-21T05:15:33+00:00"
+  },
+  "https://www.sciencedaily.com/releases/2026/06/260614012006.htm": {
+    "title": "Your brain was never designed for this much bad news",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-21T10:18:09.656571+00:00",
+    "published": "2026-06-21T04:02:08+00:00"
+  },
+  "https://fosterelli.co/developers-dont-understand-cors": {
+    "title": "Developers don't understand CORS (2019)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-21T10:18:09.656571+00:00",
+    "published": "2026-06-21T01:35:40+00:00"
+  },
+  "https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works": {
+    "title": "When I reject AI code even if it works",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-21T10:18:09.656571+00:00",
+    "published": "2026-06-21T00:58:13+00:00"
+  },
+  "https://www.phoronix.com/news/VMware-Zero-Copy-Sharing-Linux": {
+    "title": "Broadcom Working On VMware Zero-Copy Buffer Sharing Between VMs And Hypervisor",
+    "source": "Phoronix",
+    "first_seen": "2026-06-21T10:18:09.656571+00:00",
+    "published": "2026-06-21T00:34:46+00:00"
+  },
+  "https://www.anthropic.com/research/project-fetch-phase-two": {
+    "title": "Project Fetch: Phase Two",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-21T10:18:09.656571+00:00",
+    "published": "2026-06-21T00:00:25+00:00"
+  },
+  "https://sibexi.co/posts/epoll-vs-io_uring": {
+    "title": "Epoll vs. io_uring in Linux",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-21T10:18:09.656571+00:00",
+    "published": "2026-06-20T23:07:09+00:00"
+  },
+  "https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland": {
+    "title": "Renting a sewing machine from the library",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-21T10:18:09.656571+00:00",
+    "published": "2026-06-20T22:54:11+00:00"
+  },
+  "https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9": {
+    "title": "Slow breathing modulates brain function and risk behavior",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-21T10:18:09.656571+00:00",
+    "published": "2026-06-20T22:22:52+00:00"
+  },
+  "https://brooker.co.za/blog/2026/06/19/waiting.html": {
+    "title": "Alice is impatient",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-21T10:18:09.656571+00:00",
+    "published": "2026-06-20T20:32:54+00:00"
+  },
+  "https://www.cnn.com/2026/06/20/americas/brazil-hackers-unauthorized-alert-latam": {
+    "title": "Unauthorized alert sent to cell phones across Brazil",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-21T10:18:09.656571+00:00",
+    "published": "2026-06-20T20:05:03+00:00"
+  },
+  "https://github.com/mysk-research/loupe": {
+    "title": "Loupe – A iOS app that raises awareness about what native apps can see",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-21T10:18:09.656571+00:00",
+    "published": "2026-06-20T12:08:23+00:00"
   }
 }
