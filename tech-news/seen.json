@@ -42476,5 +42476,71 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-06-21T10:18:09.656571+00:00",
     "published": "2026-06-20T12:08:23+00:00"
+  },
+  "https://thenewstack.io/nvidia-openclaw-agent-blueprints": {
+    "title": "“An agent is an LLM and a harness”: What Nvidia really thinks about OpenClaw",
+    "source": "The New Stack",
+    "first_seen": "2026-06-21T15:37:58.274459+00:00",
+    "published": "2026-06-21T15:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/HP-EliteBook-X-G2q-Linux": {
+    "title": "Qualcomm Posts Linux Patches For HP EliteBook X G2q X2 Elite Laptop",
+    "source": "Phoronix",
+    "first_seen": "2026-06-21T15:37:58.274459+00:00",
+    "published": "2026-06-21T14:38:15+00:00"
+  },
+  "https://kevinak.se/blog/who-actually-owns-your-atproto-identity-hint-its-probably-not-you": {
+    "title": "Who Owns Your ATProto Identity? Hint: It's Probably Not You",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-21T15:37:58.274459+00:00",
+    "published": "2026-06-21T14:09:07+00:00"
+  },
+  "https://www.phoronix.com/news/Mesa-26.2-X11-Present-Timing": {
+    "title": "Mesa 26.2 Merges Vulkan Present Timing Support For X11/XWayland",
+    "source": "Phoronix",
+    "first_seen": "2026-06-21T15:37:58.274459+00:00",
+    "published": "2026-06-21T12:49:30+00:00"
+  },
+  "https://worksinprogress.co/issue/how-abolishing-the-stakeholder-state-caused-the-industrial-revolution": {
+    "title": "Smashing the NIMBYs created modern capitalism",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-21T15:37:58.274459+00:00",
+    "published": "2026-06-21T12:42:24+00:00"
+  },
+  "https://github.com/proteanthread/bcg": {
+    "title": "David Ahl's Basic Computer Games Ported to C",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-21T15:37:58.274459+00:00",
+    "published": "2026-06-21T12:11:29+00:00"
+  },
+  "https://www.beyondallreason.info": {
+    "title": "Beyond All Reason (Free Total Annihilation Inspired RTS)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-21T15:37:58.274459+00:00",
+    "published": "2026-06-21T11:38:01+00:00"
+  },
+  "https://alexkritchevsky.com/2024/02/28/geometric-algebra.html": {
+    "title": "The case against geometric algebra (2024)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-21T15:37:58.274459+00:00",
+    "published": "2026-06-21T11:06:55+00:00"
+  },
+  "https://www.phoronix.com/news/Gemini-ASUS-Laptop-Boot-Time": {
+    "title": "Google's Gemini Partially Figures Out A Lengthy Linux Boot Time On Modern ASUS Laptop",
+    "source": "Phoronix",
+    "first_seen": "2026-06-21T15:37:58.274459+00:00",
+    "published": "2026-06-21T10:43:53+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-KUnit-JUnit": {
+    "title": "Linux's KUnit Finally Supporting JUnit Output",
+    "source": "Phoronix",
+    "first_seen": "2026-06-21T15:37:58.274459+00:00",
+    "published": "2026-06-21T09:45:14+00:00"
+  },
+  "https://en.wikipedia.org/wiki/PID_controller": {
+    "title": "Proportional-Integral-Derivative Controllers",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-21T15:37:58.274459+00:00",
+    "published": "2026-06-19T16:28:19+00:00"
   }
 }
