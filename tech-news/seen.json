@@ -42542,5 +42542,89 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-06-21T15:37:58.274459+00:00",
     "published": "2026-06-19T16:28:19+00:00"
+  },
+  "https://www.mooreds.com/wordpress/archives/3518": {
+    "title": "Ask for no, don't ask for yes (2022)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-21T21:32:00.404942+00:00",
+    "published": "2026-06-21T20:17:48+00:00"
+  },
+  "https://www.phoronix.com/news/zlib-rs-0.6.4": {
+    "title": "zlib-rs 0.6.4 Released With Fix For Intel Raptor Lake Crash, SIMD Optimizations",
+    "source": "Phoronix",
+    "first_seen": "2026-06-21T21:32:00.404942+00:00",
+    "published": "2026-06-21T19:33:11+00:00"
+  },
+  "https://clevercrow.io": {
+    "title": "Show HN: CleverCrow: give tokens to your favorite projects",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-21T21:32:00.404942+00:00",
+    "published": "2026-06-21T19:06:07+00:00"
+  },
+  "https://hawksley.dev/blog/json-ld-explained-for-personal-websites": {
+    "title": "JSON-LD Explained for Personal Websites",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-21T21:32:00.404942+00:00",
+    "published": "2026-06-21T18:51:47+00:00"
+  },
+  "https://www.ycombinator.com/companies/wildcard/jobs/SEmo4di-founding-applied-ml-engineer": {
+    "title": "Wildcard (YC W25) is hiring an applied ML engineer",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-21T21:32:00.404942+00:00",
+    "published": "2026-06-21T17:00:28+00:00"
+  },
+  "https://news.ycombinator.com/item?id=48620502": {
+    "title": "Tell HN: Happy Fathers Day",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-21T21:32:00.404942+00:00",
+    "published": "2026-06-21T17:00:26+00:00"
+  },
+  "https://thenewstack.io/agentjacking-sentry-mcp-attack": {
+    "title": "A public Sentry key is all it takes to hijack Claude Code, Cursor, and Codex",
+    "source": "The New Stack",
+    "first_seen": "2026-06-21T21:32:00.404942+00:00",
+    "published": "2026-06-21T17:00:00+00:00"
+  },
+  "https://openjsf.org/blog/burnout-is-real-for-open-source-maintainers": {
+    "title": "Burnout is real for open source maintainers",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-21T21:32:00.404942+00:00",
+    "published": "2026-06-21T16:56:18+00:00"
+  },
+  "https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction": {
+    "title": "Prefer duplication over the wrong abstraction (2016)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-21T21:32:00.404942+00:00",
+    "published": "2026-06-21T16:08:23+00:00"
+  },
+  "https://thenewstack.io/search-like-2010-quant": {
+    "title": "Your agent wants to search like a 2010 quant",
+    "source": "The New Stack",
+    "first_seen": "2026-06-21T21:32:00.404942+00:00",
+    "published": "2026-06-21T16:00:00+00:00"
+  },
+  "https://norvig.com/lispy.html": {
+    "title": "(How to Write a (Lisp) Interpreter (In Python)) (2010)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-21T21:32:00.404942+00:00",
+    "published": "2026-06-21T15:36:33+00:00"
+  },
+  "https://cleantechnica.com/2026/06/16/shipping-freight-energy-fossil-cargo": {
+    "title": "Fossil Fuels Are 40% of Freight Shipping Tonnage, but Half Its Fuel Use",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-21T21:32:00.404942+00:00",
+    "published": "2026-06-21T14:43:08+00:00"
+  },
+  "https://support.claude.com/en/articles/14328960-identity-verification-on-claude": {
+    "title": "Identity verification on Claude",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-21T21:32:00.404942+00:00",
+    "published": "2026-06-21T12:44:13+00:00"
+  },
+  "https://github.com/nikitadoudikov/claude-pulse": {
+    "title": "Show HN: Pulse – Dashboard for Claude Code, approve tool calls from your phone",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-21T21:32:00.404942+00:00",
+    "published": "2026-06-20T20:46:50+00:00"
   }
 }
