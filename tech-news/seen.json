@@ -43016,5 +43016,251 @@
     "source": "Astro Blog",
     "first_seen": "2026-06-22T16:37:19.998253+00:00",
     "published": "2026-06-22T00:00:00+00:00"
+  },
+  "https://www.ycombinator.com/companies/kyber/jobs/FGmI8mx-head-of-engineering": {
+    "title": "Kyber (YC W23) Is Hiring a Head of Engineering",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-22T21:40:12.654278+00:00",
+    "published": "2026-06-22T21:00:51+00:00"
+  },
+  "https://www.phoronix.com/news/USB4STREAM-In-Linux-7.2": {
+    "title": "USB4STREAM Merged For Linux 7.2 To Quickly Send Data Between USB4 Connected Systems",
+    "source": "Phoronix",
+    "first_seen": "2026-06-22T21:40:12.654278+00:00",
+    "published": "2026-06-22T21:00:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/compute/simplify-aws-outposts-lifecycle-management": {
+    "title": "Simplify AWS Outposts lifecycle management with new self-service capabilities",
+    "source": "AWS Compute Blog",
+    "first_seen": "2026-06-22T21:40:12.654278+00:00",
+    "published": "2026-06-22T20:42:58+00:00"
+  },
+  "https://lwn.net/Articles/1078969": {
+    "title": "GIMP 0.54.1 in a Flatpak",
+    "source": "LWN.net",
+    "first_seen": "2026-06-22T21:40:12.654278+00:00",
+    "published": "2026-06-22T20:25:07+00:00"
+  },
+  "https://www.acquired.fm/episodes/the-walt-disney-company": {
+    "title": "Walt Disney Company is the most successful at monetizing human nostalgia [audio]",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-22T21:40:12.654278+00:00",
+    "published": "2026-06-22T20:09:40+00:00"
+  },
+  "https://thenewstack.io/cursor-acquires-continue-coding": {
+    "title": "Cursor quietly acquires Continue, an open-source alternative to GitHub Copilot",
+    "source": "The New Stack",
+    "first_seen": "2026-06-22T21:40:12.654278+00:00",
+    "published": "2026-06-22T19:48:42+00:00"
+  },
+  "https://urflow.bearblog.dev/jobs-and-software-is-fucked": {
+    "title": "Jobs and Software Is Fucked",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-22T21:40:12.654278+00:00",
+    "published": "2026-06-22T19:47:52+00:00"
+  },
+  "https://thenewstack.io/qodo-cross-repo-code-review": {
+    "title": "Qodo just shipped cross-repo review. Here’s why it matters for AI-flooded teams.",
+    "source": "The New Stack",
+    "first_seen": "2026-06-22T21:40:12.654278+00:00",
+    "published": "2026-06-22T19:42:18+00:00"
+  },
+  "https://arun.is/blog/japan-symbols": {
+    "title": "Japanese symbols that speak without words",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-22T21:40:12.654278+00:00",
+    "published": "2026-06-22T19:22:37+00:00"
+  },
+  "https://www.crunchydata.com/blog/british-columbia-and-time-zone-changes": {
+    "title": "British Columbia, Time Zones, and Postgres",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-22T21:40:12.654278+00:00",
+    "published": "2026-06-22T19:21:00+00:00"
+  },
+  "https://github.com/dorukkumkumoglu/optocamzero": {
+    "title": "Optocam Zero: a Pi Zero based digital camera made using off the shelf components",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-22T21:40:12.654278+00:00",
+    "published": "2026-06-22T19:19:55+00:00"
+  },
+  "https://ipvm.com/reports/police-chiefs-track": {
+    "title": "Flock-Powered Police Chiefs Stalking Women Shows Why Warrants Are Needed",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-22T21:40:12.654278+00:00",
+    "published": "2026-06-22T19:13:46+00:00"
+  },
+  "https://www.cbc.ca/news/politics/federal-nuclear-strategy-9.7244509": {
+    "title": "Canada is looking to build up to 10 new nuclear reactors over the next 15 years",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-22T21:40:12.654278+00:00",
+    "published": "2026-06-22T19:06:48+00:00"
+  },
+  "https://www.theregister.com/personal-tech/2026/06/22/the-memory-crisis-is-getting-so-bad-that-even-retro-ram-prices-are-going-to-the-moon/5259627": {
+    "title": "Memory crisis is getting so bad that even retro RAM prices are going to the Moon",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-22T21:40:12.654278+00:00",
+    "published": "2026-06-22T19:04:49+00:00"
+  },
+  "https://www.phoronix.com/news/Intel-Optimization-Zone-1.1": {
+    "title": "Intel Optimization Zone 1.1 Lays Out Tuning Recommendations For More Workloads",
+    "source": "Phoronix",
+    "first_seen": "2026-06-22T21:40:12.654278+00:00",
+    "published": "2026-06-22T18:45:09+00:00"
+  },
+  "https://replit.com/blog/vibecon": {
+    "title": "Vibe Coding's Coachella Moment Just Happened. Inside Replit's Inaugural Vibecon.",
+    "source": "Replit Blog",
+    "first_seen": "2026-06-22T21:40:12.654278+00:00",
+    "published": "2026-06-22T18:38:37+00:00"
+  },
+  "https://lwn.net/Articles/1029767": {
+    "title": "Linux and Secure Boot certificate expiration (2025)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-22T21:40:12.654278+00:00",
+    "published": "2026-06-22T18:24:29+00:00"
+  },
+  "https://blog.cloudflare.com/hyper-bug": {
+    "title": "How we found a bug in the hyper HTTP library",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-06-22T21:40:12.654278+00:00",
+    "published": "2026-06-22T18:00:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/building-pay-per-intelligence-for-ai-agents-how-ampersend-uses-amazon-bedrock-agentcore-payments": {
+    "title": "Building pay-per-intelligence for AI agents: How Ampersend uses Amazon Bedrock AgentCore Payments",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-06-22T21:40:12.654278+00:00",
+    "published": "2026-06-22T17:53:40+00:00"
+  },
+  "https://www.wespiser.com/posts/2026-06-19-best-dog-treat.html": {
+    "title": "Finding the Best Dog Treat with Statistics",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-22T21:40:12.654278+00:00",
+    "published": "2026-06-22T17:46:48+00:00"
+  },
+  "https://www.phoronix.com/news/Steam-Machine-1049": {
+    "title": "Steam Machine Launches, Priced $1049 To $1428 USD",
+    "source": "Phoronix",
+    "first_seen": "2026-06-22T21:40:12.654278+00:00",
+    "published": "2026-06-22T17:33:59+00:00"
+  },
+  "https://github.blog/open-source/from-pledge-to-practice-building-a-more-inclusive-open-source-ecosystem": {
+    "title": "From pledge to practice: Building a more inclusive open source ecosystem",
+    "source": "GitHub Blog",
+    "first_seen": "2026-06-22T21:40:12.654278+00:00",
+    "published": "2026-06-22T17:20:31+00:00"
+  },
+  "https://store.steampowered.com/news/group/45479024/view/685257114654870245": {
+    "title": "Steam Machine launches today",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-22T21:40:12.654278+00:00",
+    "published": "2026-06-22T17:09:51+00:00"
+  },
+  "https://blog.ericgoldman.org/archives/2026/06/blogger-defeats-photographers-copyright-claim-sokolskyfilm-v-messiah.htm": {
+    "title": "Blogger defeats photographer's copyright claim",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-22T21:40:12.654278+00:00",
+    "published": "2026-06-22T17:06:10+00:00"
+  },
+  "https://jobs.ashbyhq.com/charge-robotics": {
+    "title": "Charge Robotics (YC S21) Is Hiring Software and Hardware Engineers",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-22T21:40:12.654278+00:00",
+    "published": "2026-06-22T17:00:17+00:00"
+  },
+  "https://cloud.google.com/blog/products/data-analytics/python-udf-in-bigquery-now-generally-available": {
+    "title": "Boost BigQuery with Python: Managed Python UDFs now generally available",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-06-22T21:40:12.654278+00:00",
+    "published": "2026-06-22T17:00:00+00:00"
+  },
+  "https://blog.trailofbits.com/2026/06/22/introducing-patch-the-planet": {
+    "title": "Introducing Patch the Planet",
+    "source": "Trail of Bits",
+    "first_seen": "2026-06-22T21:40:12.654278+00:00",
+    "published": "2026-06-22T16:50:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/architecture/secure-multi-tenant-rag-with-amazon-bedrock-and-verified-permissions": {
+    "title": "Secure multi-tenant RAG with Amazon Bedrock and Verified Permissions",
+    "source": "AWS Architecture Blog",
+    "first_seen": "2026-06-22T21:40:12.654278+00:00",
+    "published": "2026-06-22T16:49:13+00:00"
+  },
+  "https://gizmodo.com/mexico-just-showed-off-a-new-extremely-cheap-government-backed-ev-2000769080": {
+    "title": "Mexican government unveils a prototype for a new homegrown, ultra-affordable EV",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-22T21:40:12.654278+00:00",
+    "published": "2026-06-22T16:48:45+00:00"
+  },
+  "https://www.displaymate.com": {
+    "title": "DisplayMate",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-22T21:40:12.654278+00:00",
+    "published": "2026-06-22T16:45:52+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/why-tombola-chose-graviton-powered-rg-instances-for-amazon-redshift": {
+    "title": "Why tombola chose Graviton-powered RG instances for Amazon Redshift",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-06-22T21:40:12.654278+00:00",
+    "published": "2026-06-22T16:45:34+00:00"
+  },
+  "https://aws.amazon.com/blogs/architecture/modernizing-financial-analytics-with-amazon-sagemaker-unified-studio": {
+    "title": "Modernizing financial analytics with Amazon SageMaker Unified Studio",
+    "source": "AWS Architecture Blog",
+    "first_seen": "2026-06-22T21:40:12.654278+00:00",
+    "published": "2026-06-22T16:42:55+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/detecting-fraud-patterns-across-snowflake-and-aws-using-sagemaker-data-agent": {
+    "title": "Detecting fraud patterns across Snowflake and AWS using SageMaker Data Agent",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-06-22T21:40:12.654278+00:00",
+    "published": "2026-06-22T16:38:49+00:00"
+  },
+  "https://aws.amazon.com/blogs/architecture/architecting-ai-powered-resilience-framework-on-aws": {
+    "title": "Architecting AI-powered resilience framework on AWS",
+    "source": "AWS Architecture Blog",
+    "first_seen": "2026-06-22T21:40:12.654278+00:00",
+    "published": "2026-06-22T16:35:07+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/embed-the-world-multimodal-ai-for-searchable-aerial-imagery-at-scale": {
+    "title": "Embed the world: Multimodal AI for searchable aerial imagery at scale",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-06-22T21:40:12.654278+00:00",
+    "published": "2026-06-22T16:32:15+00:00"
+  },
+  "https://role-confusion.github.io": {
+    "title": "Prompt Injection as Role Confusion",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-22T21:40:12.654278+00:00",
+    "published": "2026-06-22T15:48:55+00:00"
+  },
+  "https://oak.space/oak/oak": {
+    "title": "Show HN: Oak – Git alternative designed for agents",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-22T21:40:12.654278+00:00",
+    "published": "2026-06-22T15:37:48+00:00"
+  },
+  "https://openai.com/index/patch-the-planet": {
+    "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-06-22T21:40:12.654278+00:00",
+    "published": "2026-06-22T10:00:00+00:00"
+  },
+  "https://openai.com/index/daybreak-securing-the-world": {
+    "title": "Daybreak: Tools for securing every organization in the world",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-06-22T21:40:12.654278+00:00",
+    "published": "2026-06-22T10:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/topics/developers-practitioners/the-starter-tier-for-google-ai-studio-explained": {
+    "title": "The Starter Tier for Google AI Studio explained",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-06-22T21:40:12.654278+00:00",
+    "published": "2026-06-22T07:00:00+00:00"
+  },
+  "https://openai.com/index/codex-maxxing-long-running-work": {
+    "title": "Codex-maxxing for long-running work",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-06-22T21:40:12.654278+00:00",
+    "published": "2026-06-22T00:00:00+00:00"
   }
 }
