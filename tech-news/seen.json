@@ -42776,5 +42776,245 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-06-22T10:55:40.865055+00:00",
     "published": "2026-06-21T12:49:48+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/running-comfyui-workflows-on-amazon-sagemaker-ai-processing-jobs": {
+    "title": "Running ComfyUI workflows on Amazon SageMaker AI processing jobs",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-06-22T16:37:19.998253+00:00",
+    "published": "2026-06-22T16:28:46+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/automating-it-support-with-ai-how-nexthink-uses-opensearch-service-to-power-self-service-issue-resolution": {
+    "title": "Automating IT support with AI: How Nexthink uses OpenSearch Service to power self-service issue resolution",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-06-22T16:37:19.998253+00:00",
+    "published": "2026-06-22T16:25:40+00:00"
+  },
+  "https://aws.amazon.com/blogs/containers/amazon-eks-now-supports-control-plane-egress-through-your-vpc": {
+    "title": "Amazon EKS now supports control plane egress through your VPC",
+    "source": "AWS Containers Blog",
+    "first_seen": "2026-06-22T16:37:19.998253+00:00",
+    "published": "2026-06-22T16:20:28+00:00"
+  },
+  "https://engineering.fb.com/2026/06/22/video-engineering/adopting-av1-for-real-time-communication-rtc-meta": {
+    "title": "Adopting AV1 for Real-Time Communication (RTC) at Scale",
+    "source": "Meta Engineering",
+    "first_seen": "2026-06-22T16:37:19.998253+00:00",
+    "published": "2026-06-22T16:00:08+00:00"
+  },
+  "https://developer.nvidia.com/blog/cccl-runtime-a-modern-c-runtime-for-cuda": {
+    "title": "CCCL Runtime: A Modern C++ Runtime for CUDA",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-06-22T16:37:19.998253+00:00",
+    "published": "2026-06-22T16:00:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/security/prevent-data-exfiltration-aws-egress-controls-for-cloud-workloads": {
+    "title": "Prevent data exfiltration: AWS egress controls for cloud workloads",
+    "source": "AWS Security Blog",
+    "first_seen": "2026-06-22T16:37:19.998253+00:00",
+    "published": "2026-06-22T15:53:05+00:00"
+  },
+  "https://oak.space/blog": {
+    "title": "Git is forever. I'm building Oak anyways",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-22T16:37:19.998253+00:00",
+    "published": "2026-06-22T15:37:48+00:00"
+  },
+  "https://blog.bytebytego.com/p/ai-native-leaders-the-organizational": {
+    "title": "AI-Native Leaders: The Organizational Playbook for Engineering Transformation at Scale",
+    "source": "ByteByteGo",
+    "first_seen": "2026-06-22T16:37:19.998253+00:00",
+    "published": "2026-06-22T15:30:47+00:00"
+  },
+  "https://www.phoronix.com/review/bcachefs-1386": {
+    "title": "Benchmarking Bcachefs 1.38.6: The First Release No Longer \"Experimental\"",
+    "source": "Phoronix",
+    "first_seen": "2026-06-22T16:37:19.998253+00:00",
+    "published": "2026-06-22T15:30:00+00:00"
+  },
+  "https://lwn.net/Articles/1078367": {
+    "title": "[$] Free-threaded Python: past, present, and future",
+    "source": "LWN.net",
+    "first_seen": "2026-06-22T16:37:19.998253+00:00",
+    "published": "2026-06-22T15:26:54+00:00"
+  },
+  "https://developer.nvidia.com/blog/enable-real-time-ai-for-high-speed-data-acquisition-with-daqiri": {
+    "title": "Enable Real-Time AI for High-Speed Data Acquisition with DAQIRI",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-06-22T16:37:19.998253+00:00",
+    "published": "2026-06-22T15:00:00+00:00"
+  },
+  "https://www.wsj.com/pro/sustainable-business/dhl-set-to-transport-goods-on-new-wind-powered-cargo-ships-eca5d5a0": {
+    "title": "DHL Set to Transport Goods on New Wind-Powered Cargo Ships",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-22T16:37:19.998253+00:00",
+    "published": "2026-06-22T14:55:51+00:00"
+  },
+  "https://github.com/0xroylee/ponytrail": {
+    "title": "I built Ponytrail, a local audit trail for AI coding-agent edits",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-22T16:37:19.998253+00:00",
+    "published": "2026-06-22T14:54:59+00:00"
+  },
+  "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-ny-summit-recap-local-zone-in-hanoi-grok-4-3-in-bedrock-price-reductions-and-more-june-22-2026": {
+    "title": "AWS Weekly Roundup: NY Summit recap, Local Zone in Hanoi, Grok 4.3 in Bedrock, price reductions, and more (June 22, 2026)",
+    "source": "AWS Blog",
+    "first_seen": "2026-06-22T16:37:19.998253+00:00",
+    "published": "2026-06-22T14:46:17+00:00"
+  },
+  "https://www.phoronix.com/news/Xfwl4-First-Release": {
+    "title": "Xfce Wayland Compositor Sees First Preview/Alpha Release",
+    "source": "Phoronix",
+    "first_seen": "2026-06-22T16:37:19.998253+00:00",
+    "published": "2026-06-22T14:37:10+00:00"
+  },
+  "https://patrickmccanna.net/the-text-in-claude-codes-extended-thinking-output-is-not-authentic": {
+    "title": "Claude Code's \"extended thinking\" is a summary- not authentic thinking",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-22T16:37:19.998253+00:00",
+    "published": "2026-06-22T14:22:46+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-Surface-RT-Charger-Driver": {
+    "title": "Linux Finally Lands Battery/Charger Driver For 14 Year Old Microsoft Surface RT Tablet",
+    "source": "Phoronix",
+    "first_seen": "2026-06-22T16:37:19.998253+00:00",
+    "published": "2026-06-22T14:09:23+00:00"
+  },
+  "https://realpython.com/python-for-data-analysis": {
+    "title": "Python for Data Analysis: A Practical Guide",
+    "source": "Real Python",
+    "first_seen": "2026-06-22T16:37:19.998253+00:00",
+    "published": "2026-06-22T14:00:00+00:00"
+  },
+  "https://www.nvidia.com/en-us/ai-trust-center/halos/autonomous-vehicles": {
+    "title": "Nvidia Halos",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-22T16:37:19.998253+00:00",
+    "published": "2026-06-22T13:57:49+00:00"
+  },
+  "https://hustvl.github.io/Moebius": {
+    "title": "Moebius: 0.2B image inpainting model with 10B-level performance",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-22T16:37:19.998253+00:00",
+    "published": "2026-06-22T13:53:02+00:00"
+  },
+  "https://nevergivethemyourface.com": {
+    "title": "Never Give Them Your Face",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-22T16:37:19.998253+00:00",
+    "published": "2026-06-22T13:45:48+00:00"
+  },
+  "https://lwn.net/Articles/1078942": {
+    "title": "First preview release of Xfce's Wayland compositor",
+    "source": "LWN.net",
+    "first_seen": "2026-06-22T16:37:19.998253+00:00",
+    "published": "2026-06-22T13:44:52+00:00"
+  },
+  "https://www.chevron.com/newsroom/2026/q2/chevron-signs-20-year-power-agreement-with-microsoft-for-west-texas-data-center": {
+    "title": "Chevron signs 20-year power agreement with Microsoft for West Texas data center",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-22T16:37:19.998253+00:00",
+    "published": "2026-06-22T13:43:38+00:00"
+  },
+  "https://mitchellh.com/writing/zig-donation-2026": {
+    "title": "Pledging Another $400k to the Zig Software Foundation",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-22T16:37:19.998253+00:00",
+    "published": "2026-06-22T13:43:01+00:00"
+  },
+  "https://www.righto.com/2020/05/die-analysis-of-8087-math-coprocessors.html": {
+    "title": "Die analysis of the 8087 math coprocessor's fast bit shifter (2020)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-22T16:37:19.998253+00:00",
+    "published": "2026-06-22T13:40:16+00:00"
+  },
+  "https://lwn.net/Articles/1077759": {
+    "title": "[$] Reports from OSPM 2026, day one",
+    "source": "LWN.net",
+    "first_seen": "2026-06-22T16:37:19.998253+00:00",
+    "published": "2026-06-22T13:26:14+00:00"
+  },
+  "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6": {
+    "title": "PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-06-22T16:37:19.998253+00:00",
+    "published": "2026-06-22T13:18:56+00:00"
+  },
+  "https://lwn.net/Articles/1078922": {
+    "title": "Security updates for Monday",
+    "source": "LWN.net",
+    "first_seen": "2026-06-22T16:37:19.998253+00:00",
+    "published": "2026-06-22T13:06:55+00:00"
+  },
+  "https://developer.nvidia.com/blog/inside-nvidia-halos-for-robotics-a-full-stack-functional-safety-system-for-physical-ai": {
+    "title": "Inside NVIDIA Halos for Robotics: A Full-Stack Functional Safety System for Physical AI",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-06-22T16:37:19.998253+00:00",
+    "published": "2026-06-22T13:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/AMD-librocdxg-1.2.1": {
+    "title": "AMD Updates ROCDXG To Deliver Better ROCm Experience On WSL",
+    "source": "Phoronix",
+    "first_seen": "2026-06-22T16:37:19.998253+00:00",
+    "published": "2026-06-22T12:53:05+00:00"
+  },
+  "https://github.com/kyle-ssg/kyde": {
+    "title": "Show HN: I rebuilt the only parts of my IDE I use, in Rust, over a weekend",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-22T16:37:19.998253+00:00",
+    "published": "2026-06-22T12:44:17+00:00"
+  },
+  "https://www.davidrevoy.com/article1154/why-drawing-tablet-brands-wont-collaborate-on-linux-floss-drivers": {
+    "title": "Why Drawing Tablet Brands Won't Collaborate on Linux Floss Drivers",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-22T16:37:19.998253+00:00",
+    "published": "2026-06-22T12:09:34+00:00"
+  },
+  "https://blogs.microsoft.com/blog/2026/06/22/powering-the-next-wave-of-ai-expanding-capacity-with-our-new-datacenter-in-pecos": {
+    "title": "Powering the next wave of AI: Expanding capacity with our new datacenter in Pecos",
+    "source": "Microsoft Blog",
+    "first_seen": "2026-06-22T16:37:19.998253+00:00",
+    "published": "2026-06-22T12:06:39+00:00"
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-22/alan-greenspan-dies-at-100-led-fed-during-boom-before-2008-bust": {
+    "title": "Alan Greenspan Dies at 100; Led Fed During Boom Before 2008 Bust",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-22T16:37:19.998253+00:00",
+    "published": "2026-06-22T11:27:40+00:00"
+  },
+  "https://www.phoronix.com/news/Miracle-WM-0.10": {
+    "title": "Miracle-WM Mir-Based Wayland Compositor Aiming For v1.0 Later This Year",
+    "source": "Phoronix",
+    "first_seen": "2026-06-22T16:37:19.998253+00:00",
+    "published": "2026-06-22T11:12:01+00:00"
+  },
+  "https://www.schneier.com/blog/archives/2026/06/professional-athletes-and-wearables.html": {
+    "title": "Professional Athletes and Wearables",
+    "source": "Schneier on Security",
+    "first_seen": "2026-06-22T16:37:19.998253+00:00",
+    "published": "2026-06-22T11:02:55+00:00"
+  },
+  "https://www.cncf.io/blog/2026/06/22/telemetry-that-matters-designing-sustainable-high-impact-observability-pipelines": {
+    "title": "Telemetry that matters: Designing sustainable, high-impact observability pipelines",
+    "source": "CNCF Blog",
+    "first_seen": "2026-06-22T16:37:19.998253+00:00",
+    "published": "2026-06-22T11:00:00+00:00"
+  },
+  "https://github.com/riverqueue/river": {
+    "title": "Rive, Fast and reliable background jobs in Go",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-22T16:37:19.998253+00:00",
+    "published": "2026-06-22T10:37:13+00:00"
+  },
+  "https://manticoresearch.com/blog/manticore-search-27-1-5": {
+    "title": "Manticore Search 27.1.5: Auth, sharding, conversational and faster vector search",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-22T16:37:19.998253+00:00",
+    "published": "2026-06-22T10:35:21+00:00"
+  },
+  "https://astro.build/blog/astro-7": {
+    "title": "Astro 7.0",
+    "source": "Astro Blog",
+    "first_seen": "2026-06-22T16:37:19.998253+00:00",
+    "published": "2026-06-22T00:00:00+00:00"
   }
 }
