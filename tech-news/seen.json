@@ -42626,5 +42626,155 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-06-21T21:32:00.404942+00:00",
     "published": "2026-06-20T20:46:50+00:00"
+  },
+  "https://www.phoronix.com/news/Mesa-Ray-Tracing-Inspector-RTI": {
+    "title": "Valve Creates The Ray-Tracing Inspector \"RTI\" To Help Further Optimize Linux GPU Drivers",
+    "source": "Phoronix",
+    "first_seen": "2026-06-22T10:55:40.865055+00:00",
+    "published": "2026-06-22T10:33:33+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.2-HID": {
+    "title": "OneXPlayer Configuration Driver Merged For Linux 7.2 Along With Other New Hardware",
+    "source": "Phoronix",
+    "first_seen": "2026-06-22T10:55:40.865055+00:00",
+    "published": "2026-06-22T10:18:28+00:00"
+  },
+  "https://stratechery.com/2026/apple-price-increases-apple-intelligence-and-the-e-u": {
+    "title": "Apple Price Increases, Apple Intelligence and the E.U.",
+    "source": "Stratechery",
+    "first_seen": "2026-06-22T10:55:40.865055+00:00",
+    "published": "2026-06-22T10:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.2-sched-ext": {
+    "title": "Linux 7.2 sched_ext Continues Working Toward Sub-Scheduler Support",
+    "source": "Phoronix",
+    "first_seen": "2026-06-22T10:55:40.865055+00:00",
+    "published": "2026-06-22T09:59:21+00:00"
+  },
+  "https://devblogs.microsoft.com/devops/retirement-of-azure-devops-issuer-in-workload-identity-federation-service-connections": {
+    "title": "Retirement of Azure DevOps issuer in Workload identity federation service connections",
+    "source": "MS DevOps Blog",
+    "first_seen": "2026-06-22T10:55:40.865055+00:00",
+    "published": "2026-06-22T09:35:34+00:00"
+  },
+  "https://github.com/openai/codex/issues/28224": {
+    "title": "Codex logging bug may write TBs to local SSDs",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-22T10:55:40.865055+00:00",
+    "published": "2026-06-22T07:30:17+00:00"
+  },
+  "https://www.fca.org.uk/news/press-releases/investors-get-real-time-view-uk-bond-market-activity-first-time": {
+    "title": "Investors get real-time view of UK bond market activity for the first time",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-22T10:55:40.865055+00:00",
+    "published": "2026-06-22T07:29:17+00:00"
+  },
+  "https://techstackups.com/comparisons/glm-5.2-vs-opus": {
+    "title": "GLM 5.2 vs. Opus",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-22T10:55:40.865055+00:00",
+    "published": "2026-06-22T07:22:03+00:00"
+  },
+  "https://docs.deno.com/runtime/desktop": {
+    "title": "Deno Desktop",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-22T10:55:40.865055+00:00",
+    "published": "2026-06-22T05:38:40+00:00"
+  },
+  "https://sakana.ai/fugu": {
+    "title": "Sakana Fugu",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-22T10:55:40.865055+00:00",
+    "published": "2026-06-22T02:08:18+00:00"
+  },
+  "https://www.phoronix.com/news/AMD-Early-GCN-Better-Recovery": {
+    "title": "Early AMD GCN GPUs Seeing Improved GPU Recovery - Another Valve-Led Linux Improvement",
+    "source": "Phoronix",
+    "first_seen": "2026-06-22T10:55:40.865055+00:00",
+    "published": "2026-06-22T00:37:29+00:00"
+  },
+  "https://www.oldtelephoneroom.ca/1983-northern-telecom-commodore-phone": {
+    "title": "1983 Northern Telecom Commodore Phone",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-22T10:55:40.865055+00:00",
+    "published": "2026-06-22T00:34:33+00:00"
+  },
+  "https://simonwillison.net/2026/Jun/21/sqlite-utils-40rc1": {
+    "title": "sqlite-utils 4.0rc1 adds migrations and nested transactions",
+    "source": "Simon Willison",
+    "first_seen": "2026-06-22T10:55:40.865055+00:00",
+    "published": "2026-06-21T23:35:47+00:00"
+  },
+  "https://simonwillison.net/2026/Jun/21/sqlite-utils": {
+    "title": "sqlite-utils 4.0rc1",
+    "source": "Simon Willison",
+    "first_seen": "2026-06-22T10:55:40.865055+00:00",
+    "published": "2026-06-21T23:30:04+00:00"
+  },
+  "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment": {
+    "title": "Samsung Electronics brings ChatGPT and Codex to employees",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-06-22T10:55:40.865055+00:00",
+    "published": "2026-06-21T23:00:00+00:00"
+  },
+  "https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions": {
+    "title": "Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-22T10:55:40.865055+00:00",
+    "published": "2026-06-21T22:55:23+00:00"
+  },
+  "https://underreacted.leaflet.pub/3mmevu6woys27": {
+    "title": "Japanese verb conjugation the simple hard way",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-22T10:55:40.865055+00:00",
+    "published": "2026-06-21T22:53:50+00:00"
+  },
+  "https://simonwillison.net/2026/Jun/21/temporary-cloudflare-accounts": {
+    "title": "Temporary Cloudflare Accounts for AI agents",
+    "source": "Simon Willison",
+    "first_seen": "2026-06-22T10:55:40.865055+00:00",
+    "published": "2026-06-21T22:01:04+00:00"
+  },
+  "https://www.politico.com/news/2026/06/21/rent-collections-are-down-in-new-york-and-no-ones-sure-why-00966982": {
+    "title": "Rent collections are down in New York",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-22T10:55:40.865055+00:00",
+    "published": "2026-06-21T21:54:34+00:00"
+  },
+  "https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud": {
+    "title": "Did my old job only exist because of fraud?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-22T10:55:40.865055+00:00",
+    "published": "2026-06-21T21:40:53+00:00"
+  },
+  "https://apertvs.ai": {
+    "title": "Apertus – Open Foundation Model for Sovereign AI",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-22T10:55:40.865055+00:00",
+    "published": "2026-06-21T21:29:43+00:00"
+  },
+  "https://powerfox.jazzzny.me": {
+    "title": "PowerFox Browser",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-22T10:55:40.865055+00:00",
+    "published": "2026-06-21T21:23:13+00:00"
+  },
+  "https://alexkritchevsky.com/2026/05/25/everything-is-logarithms.html": {
+    "title": "Everything is logarithms",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-22T10:55:40.865055+00:00",
+    "published": "2026-06-21T21:10:32+00:00"
+  },
+  "https://www.marble.onl/posts/cancel_claude.html": {
+    "title": "There is minimal downside to switching to open models",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-22T10:55:40.865055+00:00",
+    "published": "2026-06-21T20:56:01+00:00"
+  },
+  "https://github.com/paytonjjones/bsharp": {
+    "title": "Show HN: Teach your kids perfect pitch",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-22T10:55:40.865055+00:00",
+    "published": "2026-06-21T12:49:48+00:00"
   }
 }
