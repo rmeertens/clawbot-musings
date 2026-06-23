@@ -43418,5 +43418,287 @@
     "source": "Hugging Face Blog",
     "first_seen": "2026-06-23T10:13:14.370042+00:00",
     "published": "2026-06-22T00:00:00+00:00"
+  },
+  "https://lwn.net/Articles/1077740": {
+    "title": "[$] KASAN for JIT-compiled BPF code",
+    "source": "LWN.net",
+    "first_seen": "2026-06-23T15:58:28.432191+00:00",
+    "published": "2026-06-23T15:53:01+00:00"
+  },
+  "https://pytorch.org/blog/serving-deepseek-v4-on-gb300-with-sglang-5x-higher-throughput-at-the-same-interactivity-since-day-0": {
+    "title": "Serving DeepSeek-V4 on GB300 with SGLang: 5x Higher Throughput at the Same Interactivity Since Day-0",
+    "source": "PyTorch Blog",
+    "first_seen": "2026-06-23T15:58:28.432191+00:00",
+    "published": "2026-06-23T15:51:58+00:00"
+  },
+  "https://blogs.microsoft.com/blog/2026/06/23/rethinking-cloud-operations-with-agentic-observability": {
+    "title": "Rethinking cloud operations with agentic observability",
+    "source": "Microsoft Blog",
+    "first_seen": "2026-06-23T15:58:28.432191+00:00",
+    "published": "2026-06-23T15:45:05+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/shared-infrastructure-isolated-tenants-pool-model-multi-tenancy-with-amazon-bedrock-agentcore": {
+    "title": "Shared infrastructure, isolated tenants: Pool model multi-tenancy with Amazon Bedrock AgentCore",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-06-23T15:58:28.432191+00:00",
+    "published": "2026-06-23T15:43:59+00:00"
+  },
+  "https://aws.amazon.com/blogs/containers/faster-nodes-smarter-scaling-whats-new-inside-amazon-elastic-kubernetes-service-amazon-eks-auto-mode": {
+    "title": "Faster nodes, smarter scaling: What’s new inside Amazon Elastic Kubernetes Service (Amazon EKS) Auto Mode",
+    "source": "AWS Containers Blog",
+    "first_seen": "2026-06-23T15:58:28.432191+00:00",
+    "published": "2026-06-23T15:39:02+00:00"
+  },
+  "https://blog.bytebytego.com/p/an-ex-meta-l8s-agentic-engineering": {
+    "title": "An Ex-Meta L8’s Agentic Engineering Setup",
+    "source": "ByteByteGo",
+    "first_seen": "2026-06-23T15:58:28.432191+00:00",
+    "published": "2026-06-23T15:31:20+00:00"
+  },
+  "https://newsletter.pragmaticengineer.com/p/slow-down-to-speed-up": {
+    "title": "Slow down to speed up: so much has changed in 6 months’ time",
+    "source": "The Pragmatic Engineer",
+    "first_seen": "2026-06-23T15:58:28.432191+00:00",
+    "published": "2026-06-23T15:30:26+00:00"
+  },
+  "https://hacks.mozilla.org/2026/06/pact-anonymous-credentials-for-the-web": {
+    "title": "PACT: Anonymous Credentials for the Web",
+    "source": "Mozilla Hacks",
+    "first_seen": "2026-06-23T15:58:28.432191+00:00",
+    "published": "2026-06-23T15:29:52+00:00"
+  },
+  "https://www.phoronix.com/news/DT-ACPI-Hybrid-Mode-Linux": {
+    "title": "DeviceTree-ACPI Hybrid Mode Proposed For Improving Linux Support On Snapdragon Laptops",
+    "source": "Phoronix",
+    "first_seen": "2026-06-23T15:58:28.432191+00:00",
+    "published": "2026-06-23T15:23:51+00:00"
+  },
+  "https://blog.dshr.org/2026/06/ais-affordability-crisis.html": {
+    "title": "AI's Affordability Crisis",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-23T15:58:28.432191+00:00",
+    "published": "2026-06-23T15:11:17+00:00"
+  },
+  "https://dandylyons.github.io/treedocs": {
+    "title": "Show HN: Treedocs: Documentation that automatically checks for staleness",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-23T15:58:28.432191+00:00",
+    "published": "2026-06-23T15:07:30+00:00"
+  },
+  "https://thenewstack.io/agentic-infrastructure-ai-governance": {
+    "title": "GitLab just surveyed 1,500 developers. Here’s why it matters for your codebase.",
+    "source": "The New Stack",
+    "first_seen": "2026-06-23T15:58:28.432191+00:00",
+    "published": "2026-06-23T15:00:00+00:00"
+  },
+  "https://developer.nvidia.com/blog/boost-inference-performance-up-to-15x-on-nvidia-blackwell-using-dflash-speculative-decoding": {
+    "title": "Boost Inference Performance up to 15x on NVIDIA Blackwell Using DFlash Speculative Decoding",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-06-23T15:58:28.432191+00:00",
+    "published": "2026-06-23T15:00:00+00:00"
+  },
+  "https://lift4d.github.io": {
+    "title": "Lift4D: Harmonizing Single-View 3D Estimation for 4D Reconstruction In-the-Wild",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-23T15:58:28.432191+00:00",
+    "published": "2026-06-23T14:40:17+00:00"
+  },
+  "https://tikz.dev/editor": {
+    "title": "Show HN: TikZ Editor – WYSIWYG editor for figures in LaTeX",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-23T15:58:28.432191+00:00",
+    "published": "2026-06-23T14:24:21+00:00"
+  },
+  "https://www.phoronix.com/news/ATI-R300-Big-Endian-2026": {
+    "title": "Open-Source Driver For ATI R300 Era GPUs Seeing Improved Power Mac Support In 2026",
+    "source": "Phoronix",
+    "first_seen": "2026-06-23T15:58:28.432191+00:00",
+    "published": "2026-06-23T14:21:01+00:00"
+  },
+  "https://github.com/ilbertt/bun-sqlgen": {
+    "title": "Show HN: Bun-sqlgen – Type-safe raw SQL for Bun, no ORM",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-23T15:58:28.432191+00:00",
+    "published": "2026-06-23T14:20:24+00:00"
+  },
+  "https://status.claude.com/incidents/jbhf20wjmzrf": {
+    "title": "Elevated error rate across multiple models",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-23T15:58:28.432191+00:00",
+    "published": "2026-06-23T14:19:47+00:00"
+  },
+  "https://pluralistic.net/2026/06/23/destroy-the-village": {
+    "title": "Spying on kids to save kids from spying is stupid",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-23T15:58:28.432191+00:00",
+    "published": "2026-06-23T14:04:43+00:00"
+  },
+  "https://mistral.ai/news/ocr-4": {
+    "title": "Mistral OCR 4",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-23T15:58:28.432191+00:00",
+    "published": "2026-06-23T14:03:19+00:00"
+  },
+  "https://stackoverflow.blog/2026/06/23/the-2026-developer-survey-is-now-open-for-human-developers-only": {
+    "title": "The 2026 Developer Survey is now open (for human developers only)!​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌​﻿‌‌‌‍​﻿‌‍‌‍​﻿​﻿​﻿‌‍​﻿​‍‌‍‌‌​﻿​‌​‍﻿‌‌‍‌‍‌‍‌‌​﻿‌﻿‌‍​‍​‍﻿‌​﻿‌​​﻿‌‌‌‍​‌‌‍‌‍​‍﻿‌‌‍​‍​﻿‌‍​﻿‍‌‌‍​﻿​‍﻿‌​﻿‍‌​﻿​‌​﻿‌​​﻿‌﻿​﻿​﻿​﻿​‌‌‍​﻿​﻿‌‍‌‍​‌​﻿​​​﻿‌‌​﻿​‍​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌​﻿‌‌‌‍​﻿‌‍‌‍​﻿​﻿​﻿‌‍​﻿​‍‌‍‌‌​﻿​‌​‍﻿‌‌‍‌‍‌‍‌‌​﻿‌﻿‌‍​‍​‍﻿‌​﻿‌​​﻿‌‌‌‍​‌‌‍‌‍​‍﻿‌‌‍​‍​﻿‌‍​﻿‍‌‌‍​﻿​‍﻿‌​﻿‍‌​﻿​‌​﻿‌​​﻿‌﻿​﻿​﻿​﻿​‌‌‍​﻿​﻿‌‍‌‍​‌​﻿​​​﻿‌‌​﻿​‍​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌",
+    "source": "Stack Overflow Blog",
+    "first_seen": "2026-06-23T15:58:28.432191+00:00",
+    "published": "2026-06-23T14:00:00+00:00"
+  },
+  "https://realpython.com/courses/using-llamaindex-for-rag-in-python": {
+    "title": "Using LlamaIndex for RAG in Python",
+    "source": "Real Python",
+    "first_seen": "2026-06-23T15:58:28.432191+00:00",
+    "published": "2026-06-23T14:00:00+00:00"
+  },
+  "https://lwn.net/Articles/1079119": {
+    "title": "Sunsetting Tor 0.4.8",
+    "source": "LWN.net",
+    "first_seen": "2026-06-23T15:58:28.432191+00:00",
+    "published": "2026-06-23T13:56:01+00:00"
+  },
+  "https://www.phoronix.com/news/EROFS-Sparse-AI-Datasets": {
+    "title": "EROFS With Linux 7.2 Better Handles Large Sparse AI Datasets, More Efficient I/O",
+    "source": "Phoronix",
+    "first_seen": "2026-06-23T15:58:28.432191+00:00",
+    "published": "2026-06-23T13:42:22+00:00"
+  },
+  "https://www.404media.co/madison-square-garden-made-dossier-on-activists-who-opposed-facial-recognition": {
+    "title": "MSG Made Dossier on Activists Who Opposed Facial Recognition",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-23T15:58:28.432191+00:00",
+    "published": "2026-06-23T13:36:10+00:00"
+  },
+  "https://developer.nvidia.com/blog/build-an-ai-scientist-for-life-science-discovery-with-nvidia-bionemo-agent-toolkit": {
+    "title": "Build an AI Scientist for Life Science Discovery with NVIDIA BioNeMo Agent Toolkit",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-06-23T15:58:28.432191+00:00",
+    "published": "2026-06-23T13:30:00+00:00"
+  },
+  "https://lwn.net/Articles/1079083": {
+    "title": "Security updates for Tuesday",
+    "source": "LWN.net",
+    "first_seen": "2026-06-23T15:58:28.432191+00:00",
+    "published": "2026-06-23T13:09:28+00:00"
+  },
+  "https://words.filippo.io/vuln-reports": {
+    "title": "Vulnerability Reports Are Not Special Anymore",
+    "source": "Filippo Valsorda",
+    "first_seen": "2026-06-23T15:58:28.432191+00:00",
+    "published": "2026-06-23T13:00:00+00:00"
+  },
+  "https://thenewstack.io/can-dns-become-the-basis-for-ai-agent-identity": {
+    "title": "Can DNS become the basis for AI agent identity?",
+    "source": "The New Stack",
+    "first_seen": "2026-06-23T15:58:28.432191+00:00",
+    "published": "2026-06-23T13:00:00+00:00"
+  },
+  "https://blog.arusekk.pl/posts/lossless-gif-recompression": {
+    "title": "Lossless GIF recompression via exhaustive search",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-23T15:58:28.432191+00:00",
+    "published": "2026-06-23T12:56:16+00:00"
+  },
+  "https://huggingface.co/blog/ibm-research/cuga-apps": {
+    "title": "Build real agentic apps using CUGA: two dozen working examples on a lightweight harness",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-06-23T15:58:28.432191+00:00",
+    "published": "2026-06-23T12:51:55+00:00"
+  },
+  "https://nand2mario.github.io/posts/2026/80386_early_start": {
+    "title": "80386 Early Start Memory Access",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-23T15:58:28.432191+00:00",
+    "published": "2026-06-23T12:37:04+00:00"
+  },
+  "https://www.phoronix.com/news/Fwupd-2.0.21-Released": {
+    "title": "Fwupd 2.0.21 Brings Fixes For More Than 250 Potential Security Issues Found Via AI",
+    "source": "Phoronix",
+    "first_seen": "2026-06-23T15:58:28.432191+00:00",
+    "published": "2026-06-23T12:24:22+00:00"
+  },
+  "https://realpython.com/quizzes/using-llamaindex-for-rag-in-python": {
+    "title": "Quiz: Using LlamaIndex for RAG in Python",
+    "source": "Real Python",
+    "first_seen": "2026-06-23T15:58:28.432191+00:00",
+    "published": "2026-06-23T12:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/topics/telecommunications/open-models-global-networks-how-att-and-gsma-are-accelerating-innovation-with-gemma": {
+    "title": "Open models, global networks: How AT&T and GSMA are accelerating telecom innovation with Gemma",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-06-23T15:58:28.432191+00:00",
+    "published": "2026-06-23T12:00:00+00:00"
+  },
+  "https://nega.tv/posts/low-tech-ai-of-elden-ring.html": {
+    "title": "The Low-Tech AI of Elden Ring",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-23T15:58:28.432191+00:00",
+    "published": "2026-06-23T11:40:50+00:00"
+  },
+  "https://github.com/baidu/Unlimited-OCR": {
+    "title": "Unlimited OCR: One-Shot Long-Horizon Parsing",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-23T15:58:28.432191+00:00",
+    "published": "2026-06-23T11:35:05+00:00"
+  },
+  "https://www.schneier.com/blog/archives/2026/06/anthropics-fable-5-model-jailbroken-within-days.html": {
+    "title": "Anthropic’s Fable 5 Model Jailbroken Within Days",
+    "source": "Schneier on Security",
+    "first_seen": "2026-06-23T15:58:28.432191+00:00",
+    "published": "2026-06-23T11:03:07+00:00"
+  },
+  "https://www.cncf.io/blog/2026/06/23/building-jaegers-clickhouse-backend-8-6x-compression-on-10-million-spans": {
+    "title": "Building Jaeger’s ClickHouse backend: 8.6× compression on 10 million spans",
+    "source": "CNCF Blog",
+    "first_seen": "2026-06-23T15:58:28.432191+00:00",
+    "published": "2026-06-23T11:00:00+00:00"
+  },
+  "https://www.cncf.io/blog/2026/06/23/agent-auth-a-lawyers-day-in-court": {
+    "title": "Agent Auth: A lawyer’s day in court",
+    "source": "CNCF Blog",
+    "first_seen": "2026-06-23T15:58:28.432191+00:00",
+    "published": "2026-06-23T11:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.2-Serial": {
+    "title": "Linux 8250/16550 UART Serial Driver Seeing Some Modernization Work In 2026",
+    "source": "Phoronix",
+    "first_seen": "2026-06-23T15:58:28.432191+00:00",
+    "published": "2026-06-23T10:35:01+00:00"
+  },
+  "https://www.stephendiehl.com/posts/bad_place_2026": {
+    "title": "Crypto in 2026: Oh, This Is the Bad Place",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-23T15:58:28.432191+00:00",
+    "published": "2026-06-23T10:04:04+00:00"
+  },
+  "https://github.com/shumaiOne/shumai": {
+    "title": "Show HN: Shumai – open-source Frame.io alternative for creative work",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-23T15:58:28.432191+00:00",
+    "published": "2026-06-23T10:02:54+00:00"
+  },
+  "https://ex-vi.sourceforge.net": {
+    "title": "The Traditional Vi",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-23T15:58:28.432191+00:00",
+    "published": "2026-06-23T09:00:48+00:00"
+  },
+  "https://selforg-npa.github.io": {
+    "title": "Show HN: Neural Particle Automata",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-23T15:58:28.432191+00:00",
+    "published": "2026-06-23T08:31:48+00:00"
+  },
+  "https://blog.python.org/2026/06/python-3150-beta-3": {
+    "title": "Python 3.15.0 beta 3 is here!",
+    "source": "Python Insider",
+    "first_seen": "2026-06-23T15:58:28.432191+00:00",
+    "published": "2026-06-23T00:00:00+00:00"
+  },
+  "https://blog.python.org/2026/06/mitigated-api-bypass-for-download-metadata-python-dot-org": {
+    "title": "Mitigated API authentication bypass for python.org download metadata",
+    "source": "Python Insider",
+    "first_seen": "2026-06-23T15:58:28.432191+00:00",
+    "published": "2026-06-23T00:00:00+00:00"
   }
 }
