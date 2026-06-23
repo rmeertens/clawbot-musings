@@ -43700,5 +43700,233 @@
     "source": "Python Insider",
     "first_seen": "2026-06-23T15:58:28.432191+00:00",
     "published": "2026-06-23T00:00:00+00:00"
+  },
+  "https://thenewstack.io/kubernetes-teams-trust-automation": {
+    "title": "Kubernetes teams trust automation to ship code but not to touch CPU, and AI is raising the stakes",
+    "source": "The New Stack",
+    "first_seen": "2026-06-23T21:29:48.673371+00:00",
+    "published": "2026-06-23T20:56:47+00:00"
+  },
+  "https://www.phoronix.com/news/COSMIC-Epoch-1.1": {
+    "title": "COSMIC Epoch 1.1 Released With COSMIC-Monitor, Compositor Improvements",
+    "source": "Phoronix",
+    "first_seen": "2026-06-23T21:29:48.673371+00:00",
+    "published": "2026-06-23T20:49:04+00:00"
+  },
+  "https://sfstandard.com/2026/06/23/audit-sparked-standard-investigation-finds-tax-official-steered-10m-contract-friend": {
+    "title": "Audit finds San Francisco tax official steered $10M contract to friend",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-23T21:29:48.673371+00:00",
+    "published": "2026-06-23T20:47:45+00:00"
+  },
+  "https://milek7.pl/mailverifyspam": {
+    "title": "Don't verify email addresses by sending spam to them",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-23T21:29:48.673371+00:00",
+    "published": "2026-06-23T20:23:49+00:00"
+  },
+  "https://www.phoronix.com/news/BASIC09-LLVM-Front-End": {
+    "title": "BASIC09 Programming Language Front-End Developed For LLVM",
+    "source": "Phoronix",
+    "first_seen": "2026-06-23T21:29:48.673371+00:00",
+    "published": "2026-06-23T19:28:14+00:00"
+  },
+  "https://simonwillison.net/2026/Jun/23/opfs-pyodide": {
+    "title": "OPFS + Pyodide test harness",
+    "source": "Simon Willison",
+    "first_seen": "2026-06-23T21:29:48.673371+00:00",
+    "published": "2026-06-23T18:58:54+00:00"
+  },
+  "https://hai.stanford.edu/news/ai-hiring-tools-can-yield-racial-bias-and-systemic-rejection": {
+    "title": "AI Hiring Tools Yield Racial Bias and Systemic Rejection; 26% Black & 15% Asian",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-23T21:29:48.673371+00:00",
+    "published": "2026-06-23T18:56:19+00:00"
+  },
+  "https://thenewstack.io/anthropic-claude-tag-slack": {
+    "title": "Anthropic gives @Claude a permanent seat in your Slack channels",
+    "source": "The New Stack",
+    "first_seen": "2026-06-23T21:29:48.673371+00:00",
+    "published": "2026-06-23T18:50:18+00:00"
+  },
+  "https://www.databricks.com/blog/genesis-workbench-blueprint-industry-ai-life-sciences-powered-databricks-and-nvidia": {
+    "title": "Genesis Workbench: A blueprint for industry AI in life sciences, powered by Databricks and NVIDIA",
+    "source": "Databricks Blog",
+    "first_seen": "2026-06-23T21:29:48.673371+00:00",
+    "published": "2026-06-23T18:45:12+00:00"
+  },
+  "http://www.jerrysmap.com/the-map": {
+    "title": "Jerry's Map",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-23T21:29:48.673371+00:00",
+    "published": "2026-06-23T18:40:22+00:00"
+  },
+  "https://blog.cloudflare.com/post-quantum-eo-2026": {
+    "title": "The post-quantum EO is an important milestone. Now it’s time to get to work",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-06-23T21:29:48.673371+00:00",
+    "published": "2026-06-23T18:25:18+00:00"
+  },
+  "https://swiftpackageindex.com/blog/swift-package-index-joins-apple": {
+    "title": "Swift Package Index joins Apple",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-23T21:29:48.673371+00:00",
+    "published": "2026-06-23T18:00:58+00:00"
+  },
+  "https://thenewstack.io/openclaw-hermes-agent-harness": {
+    "title": "OpenClaw and Hermes agree on what an agent is. They disagree on what controls it.",
+    "source": "The New Stack",
+    "first_seen": "2026-06-23T21:29:48.673371+00:00",
+    "published": "2026-06-23T17:56:26+00:00"
+  },
+  "https://swipe.futo.tech": {
+    "title": "FUTO Swipe – A new swipe typing model",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-23T21:29:48.673371+00:00",
+    "published": "2026-06-23T17:50:22+00:00"
+  },
+  "https://www.anthropic.com/news/introducing-claude-tag": {
+    "title": "Claude Tag",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-23T21:29:48.673371+00:00",
+    "published": "2026-06-23T17:09:18+00:00"
+  },
+  "https://thenewstack.io/gitlab-ai-code-governance": {
+    "title": "Developers are now validating code they didn’t write — and may not understand",
+    "source": "The New Stack",
+    "first_seen": "2026-06-23T21:29:48.673371+00:00",
+    "published": "2026-06-23T17:05:46+00:00"
+  },
+  "https://openai.com/index/gpt-5-immunology-mystery": {
+    "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-06-23T21:29:48.673371+00:00",
+    "published": "2026-06-23T17:00:00+00:00"
+  },
+  "https://www.beautifulpublicdata.com/san-diego-photologs-from-the-1970s": {
+    "title": "San Diego photologs from the 1970s",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-23T21:29:48.673371+00:00",
+    "published": "2026-06-23T16:55:26+00:00"
+  },
+  "https://github.com/future-file-format/f3": {
+    "title": "F3",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-23T21:29:48.673371+00:00",
+    "published": "2026-06-23T16:53:32+00:00"
+  },
+  "https://www.docker.com/blog/what-is-an-sbom": {
+    "title": "What is an SBOM (and Why Can’t You Ship Without One)?",
+    "source": "Docker Blog",
+    "first_seen": "2026-06-23T21:29:48.673371+00:00",
+    "published": "2026-06-23T16:48:20+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/build-a-protein-research-copilot-with-amazon-bedrock-agentcore": {
+    "title": "Build a protein research copilot with Amazon Bedrock AgentCore",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-06-23T21:29:48.673371+00:00",
+    "published": "2026-06-23T16:39:34+00:00"
+  },
+  "https://dynomight.net/vitamin-d": {
+    "title": "The worthlessness of Vitamin D is mildly exaggerated",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-23T21:29:48.673371+00:00",
+    "published": "2026-06-23T16:30:18+00:00"
+  },
+  "https://thenewstack.io/nx-polygraph-synthetic-monorepo-agents": {
+    "title": "Nx debuts Polygraph, taking aim at what’s stalling AI coding agents",
+    "source": "The New Stack",
+    "first_seen": "2026-06-23T21:29:48.673371+00:00",
+    "published": "2026-06-23T16:30:00+00:00"
+  },
+  "https://developer.nvidia.com/blog/maximize-ai-factory-energy-efficiency-through-full-stack-inference-and-training-optimizations": {
+    "title": "Maximize AI Factory Energy Efficiency Through Full-Stack Inference and Training Optimizations",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-06-23T21:29:48.673371+00:00",
+    "published": "2026-06-23T16:30:00+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.2--EPYC-Sorano-Network": {
+    "title": "Linux 7.2 Showing Some Unexpected & Nice Performance Gains On AMD EPYC Sorano",
+    "source": "Phoronix",
+    "first_seen": "2026-06-23T21:29:48.673371+00:00",
+    "published": "2026-06-23T16:22:15+00:00"
+  },
+  "https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial": {
+    "title": "Scattered Spider Hackers Plead Guilty on Day 1 of Trial",
+    "source": "Krebs on Security",
+    "first_seen": "2026-06-23T21:29:48.673371+00:00",
+    "published": "2026-06-23T16:12:49+00:00"
+  },
+  "https://engineering.fb.com/2026/06/23/production-engineering/how-meta-built-ultra-narrow-batteries-for-ai-glasses-meta-tech-podcast": {
+    "title": "How Meta Engineered Ultra-Narrow Batteries for AI Glasses",
+    "source": "Meta Engineering",
+    "first_seen": "2026-06-23T21:29:48.673371+00:00",
+    "published": "2026-06-23T16:00:38+00:00"
+  },
+  "https://thenewstack.io/ai-technical-debt-verification": {
+    "title": "AI can write the code. Your team still owns the debt.",
+    "source": "The New Stack",
+    "first_seen": "2026-06-23T21:29:48.673371+00:00",
+    "published": "2026-06-23T16:00:00+00:00"
+  },
+  "https://github.blog/developer-skills/github/i-automated-my-job-and-it-made-me-a-better-leader": {
+    "title": "I automated my job (and it made me a better leader)",
+    "source": "GitHub Blog",
+    "first_seen": "2026-06-23T21:29:48.673371+00:00",
+    "published": "2026-06-23T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/management-tools/query-logs-and-traces-with-sql-in-observability-analytics": {
+    "title": "Log Analytics is now Observability Analytics: Query logs and traces with SQL",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-06-23T21:29:48.673371+00:00",
+    "published": "2026-06-23T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/identity-security/verifiable-trust-in-the-ai-era-whats-new-in-confidential-computing": {
+    "title": "Verifiable, private AI: Google Cloud expands Confidential Computing frontiers",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-06-23T21:29:48.673371+00:00",
+    "published": "2026-06-23T16:00:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/autonomous-troubleshooting-for-medallion-architecture-with-aws-devops-agent-and-apache-spark-troubleshooting-agent": {
+    "title": "Autonomous troubleshooting for Medallion Architecture with AWS DevOps Agent and Apache Spark Troubleshooting Agent",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-06-23T21:29:48.673371+00:00",
+    "published": "2026-06-23T15:57:56+00:00"
+  },
+  "https://github.blog/news-insights/policy-news-and-insights/github-joins-coalition-advocating-for-fixes-to-california-ai-transparency-act-to-protect-open-source": {
+    "title": "GitHub joins coalition advocating for fixes to California AI Transparency Act to protect open source",
+    "source": "GitHub Blog",
+    "first_seen": "2026-06-23T21:29:48.673371+00:00",
+    "published": "2026-06-23T15:48:00+00:00"
+  },
+  "https://atomprophet.io/tools/cascade": {
+    "title": "Show HN: The Cascade Graph – An interactive map of AI and energy constraints",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-23T21:29:48.673371+00:00",
+    "published": "2026-06-23T15:22:41+00:00"
+  },
+  "https://stackoverflow.blog/2026/06/23/your-ai-shipped-a-backend-that-boots-that-is-the-whole-problem": {
+    "title": "Your AI shipped a backend that boots. That is the whole problem.​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌​﻿‌​‌‍​‍​﻿​‍​﻿​‍‌‍​﻿​﻿​‍‌‍​‌​﻿​﻿​‍﻿‌​﻿​﻿​﻿‌﻿​﻿‌﻿​﻿‍‌​‍﻿‌​﻿‌​​﻿‍‌​﻿‌‍​﻿‌‍​‍﻿‌​﻿‍‌​﻿​﻿‌‍‌‌‌‍​‍​‍﻿‌​﻿‌‌​﻿​‍​﻿​﻿​﻿​​​﻿​﻿​﻿‍‌​﻿​‌‌‍‌​‌‍​‍‌‍‌​‌‍​﻿‌‍‌‌​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌​﻿‌​‌‍​‍​﻿​‍​﻿​‍‌‍​﻿​﻿​‍‌‍​‌​﻿​﻿​‍﻿‌​﻿​﻿​﻿‌﻿​﻿‌﻿​﻿‍‌​‍﻿‌​﻿‌​​﻿‍‌​﻿‌‍​﻿‌‍​‍﻿‌​﻿‍‌​﻿​﻿‌‍‌‌‌‍​‍​‍﻿‌​﻿‌‌​﻿​‍​﻿​﻿​﻿​​​﻿​﻿​﻿‍‌​﻿​‌‌‍‌​‌‍​‍‌‍‌​‌‍​﻿‌‍‌‌​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌",
+    "source": "Stack Overflow Blog",
+    "first_seen": "2026-06-23T21:29:48.673371+00:00",
+    "published": "2026-06-23T14:08:58+00:00"
+  },
+  "https://openai.com/index/helping-build-shared-standards-for-advanced-ai": {
+    "title": "Helping build shared standards for advanced AI",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-06-23T21:29:48.673371+00:00",
+    "published": "2026-06-23T13:00:00+00:00"
+  },
+  "https://www.redpanda.com/blog/bridge-queries-in-redpanda-sql": {
+    "title": "Bridge Queries in Redpanda SQL",
+    "source": "Redpanda Blog",
+    "first_seen": "2026-06-23T21:29:48.673371+00:00",
+    "published": "2026-06-23T00:00:00+00:00"
+  },
+  "https://huggingface.co/blog/cross-origin-storage": {
+    "title": "Experimenting with the proposed Cross-Origin Storage API in Transformers.js",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-06-23T21:29:48.673371+00:00",
+    "published": "2026-06-23T00:00:00+00:00"
   }
 }
