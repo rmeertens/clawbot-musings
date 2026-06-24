@@ -43928,5 +43928,125 @@
     "source": "Hugging Face Blog",
     "first_seen": "2026-06-23T21:29:48.673371+00:00",
     "published": "2026-06-23T00:00:00+00:00"
+  },
+  "https://stratechery.com/2026/my-vibe-coding-adventure-the-app-and-the-experience-ten-takeaways": {
+    "title": "My Vibe Coding Adventure, The App and the Experience, Ten Takeaways",
+    "source": "Stratechery",
+    "first_seen": "2026-06-24T10:03:05.658001+00:00",
+    "published": "2026-06-24T10:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.2-Integrity": {
+    "title": "Linux 7.2 Ready With IMA and EVM Post-Quantum ML-DSA Signature Support",
+    "source": "Phoronix",
+    "first_seen": "2026-06-24T10:03:05.658001+00:00",
+    "published": "2026-06-24T09:55:47+00:00"
+  },
+  "https://bunny.net/blog/were-making-bunny-dns-free": {
+    "title": "We're making Bunny DNS free: because a faster internet won't build itself",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-24T10:03:05.658001+00:00",
+    "published": "2026-06-24T08:50:41+00:00"
+  },
+  "https://opentelemetry.io/blog/2026/dont-wrap-opentelemetry": {
+    "title": "Don't Wrap OpenTelemetry — You're Probably Hurting More Than Helping",
+    "source": "OpenTelemetry Blog",
+    "first_seen": "2026-06-24T10:03:05.658001+00:00",
+    "published": "2026-06-24T08:42:08+00:00"
+  },
+  "https://artificialanalysis.ai/models/grok-build-0-1-06-16": {
+    "title": "Grok Build 0.1: Intelligence, Performance and Price Analysis",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-24T10:03:05.658001+00:00",
+    "published": "2026-06-24T08:41:07+00:00"
+  },
+  "https://www.ashbyhq.com/careers?ashby_jid=87b96eef-edc1-4de4-adb6-d460126d02f8&utm_source=hn": {
+    "title": "Ashby (YC W19) Is Hiring EMEA Engineers Who Can Design",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-24T10:03:05.658001+00:00",
+    "published": "2026-06-24T07:01:21+00:00"
+  },
+  "https://gitlab.com/baiyibai/pico-usb-wifi": {
+    "title": "Raspberry Pi Pico W as USB Wi-Fi Adapter",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-24T10:03:05.658001+00:00",
+    "published": "2026-06-24T03:17:47+00:00"
+  },
+  "https://gist.github.com/retroplasma/ec21767d0a8380c7ea9c2fbee1c7d6bf": {
+    "title": "\"Fix\" MacBook Neo Cursor Lag: Record 1 Pixel of the Screen Every 10 Seconds",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-24T10:03:05.658001+00:00",
+    "published": "2026-06-24T02:38:47+00:00"
+  },
+  "https://www.muppetlabs.com/~breadbox/software/tiny/revisit.html": {
+    "title": "The Teensy Executable Revisited",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-24T10:03:05.658001+00:00",
+    "published": "2026-06-24T02:30:13+00:00"
+  },
+  "https://arxiv.org/abs/2606.24597": {
+    "title": "Qwen-AgentWorld: Language World Models for General Agents",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-24T10:03:05.658001+00:00",
+    "published": "2026-06-24T02:21:47+00:00"
+  },
+  "https://github.com/End2End-Diffusion/diffusion-bench": {
+    "title": "DiffusionBench: Towards Holistic Evaluation of Generative Diffusion Transformers",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-24T10:03:05.658001+00:00",
+    "published": "2026-06-24T02:12:31+00:00"
+  },
+  "https://www.wired.com/story/meta-pauses-employee-tracking-program-following-internal-security-breach": {
+    "title": "Meta Pauses Employee-Tracking Program Following Internal Data Leak",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-24T10:03:05.658001+00:00",
+    "published": "2026-06-24T00:28:41+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-Sched-Ext-Restructured": {
+    "title": "\"Disgusting\" Linux sched_ext Source Code Restructured Following Complaint By Linus Torvalds",
+    "source": "Phoronix",
+    "first_seen": "2026-06-24T10:03:05.658001+00:00",
+    "published": "2026-06-24T00:23:09+00:00"
+  },
+  "https://simonwillison.net/2026/Jun/23/datasette": {
+    "title": "datasette 1.0a35",
+    "source": "Simon Willison",
+    "first_seen": "2026-06-24T10:03:05.658001+00:00",
+    "published": "2026-06-23T21:34:37+00:00"
+  },
+  "https://grafana.com/blog/post-incident-review-for-tanstack-npm-supply-chain-ransom-incident": {
+    "title": "Post-incident review for TanStack npm supply chain ransom incident: No unauthorized access to customer production systems",
+    "source": "Grafana Blog",
+    "first_seen": "2026-06-24T10:03:05.658001+00:00",
+    "published": "2026-06-23T20:24:27+00:00"
+  },
+  "https://replit.com/blog/evaluating-and-improving-agent-at-scale": {
+    "title": "Closing the loop: Evaluating and improving Replit Agent at scale",
+    "source": "Replit Blog",
+    "first_seen": "2026-06-24T10:03:05.658001+00:00",
+    "published": "2026-06-23T20:22:20+00:00"
+  },
+  "https://twitter.com/JPoehnelt/status/2069482265953087602": {
+    "title": "Fired by Google for creating the Google workspace CLI",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-24T10:03:05.658001+00:00",
+    "published": "2026-06-23T18:13:40+00:00"
+  },
+  "https://devblogs.microsoft.com/oldnewthing/20260622-00?p=112451": {
+    "title": "In memory of the man who put red and green squiggles under words",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-24T10:03:05.658001+00:00",
+    "published": "2026-06-23T18:10:47+00:00"
+  },
+  "https://thomasliao.com/eval-startups": {
+    "title": "Why eval startups fail (2025)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-24T10:03:05.658001+00:00",
+    "published": "2026-06-22T23:20:53+00:00"
+  },
+  "http://beyondloom.com/blog/vectorgraphics.html": {
+    "title": "Vector Graphics in Lil",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-24T10:03:05.658001+00:00",
+    "published": "2026-06-22T21:05:44+00:00"
   }
 }
