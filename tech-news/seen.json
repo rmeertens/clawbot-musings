@@ -44048,5 +44048,209 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-06-24T10:03:05.658001+00:00",
     "published": "2026-06-22T21:05:44+00:00"
+  },
+  "https://blog.bytebytego.com/p/large-language-models-vs-small-language": {
+    "title": "Large Language Models vs Small Language Models",
+    "source": "ByteByteGo",
+    "first_seen": "2026-06-24T15:43:58.465444+00:00",
+    "published": "2026-06-24T15:31:30+00:00"
+  },
+  "https://www.phoronix.com/review/silverstone-rm32": {
+    "title": "SilverStone RM32 3U Server Chassis + 1000W Extreme 1000Rz Platinum PSU",
+    "source": "Phoronix",
+    "first_seen": "2026-06-24T15:43:58.465444+00:00",
+    "published": "2026-06-24T15:30:05+00:00"
+  },
+  "https://www.euronews.com/business/2026/06/24/venezuela-plans-biggest-debt-restructuring-in-history-after-maduros-fall": {
+    "title": "Venezuela reveals $240B in debt it cannot pay (~$100B more than expected)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-24T15:43:58.465444+00:00",
+    "published": "2026-06-24T15:05:41+00:00"
+  },
+  "https://www.databricks.com/blog/databricks-positioned-highest-execution-and-furthest-vision-second-consecutive-year-gartner": {
+    "title": "Databricks positioned highest in execution and furthest in vision for the second consecutive year in Gartner Magic Quadrant",
+    "source": "Databricks Blog",
+    "first_seen": "2026-06-24T15:43:58.465444+00:00",
+    "published": "2026-06-24T15:00:00+00:00"
+  },
+  "https://rubyllm.com": {
+    "title": "RubyLLM: A single, beautiful Ruby framework for all major AI providers",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-24T15:43:58.465444+00:00",
+    "published": "2026-06-24T14:41:41+00:00"
+  },
+  "https://astral-os.org/posts/2026/04/03/wine-on-astral.html": {
+    "title": "Running Windows Games on a Hobby OS with Wine",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-24T15:43:58.465444+00:00",
+    "published": "2026-06-24T14:38:30+00:00"
+  },
+  "https://www.phoronix.com/news/AMDGPU-Linux-Gamma-2.4-2.6": {
+    "title": "New AMD Linux Patches Expose Gamma 2.4 + Gamma 2.6 Curves",
+    "source": "Phoronix",
+    "first_seen": "2026-06-24T15:43:58.465444+00:00",
+    "published": "2026-06-24T14:22:00+00:00"
+  },
+  "https://lwn.net/Articles/1078696": {
+    "title": "[$] Reports from OSPM 2026, day two",
+    "source": "LWN.net",
+    "first_seen": "2026-06-24T15:43:58.465444+00:00",
+    "published": "2026-06-24T14:18:37+00:00"
+  },
+  "https://github.com/nubjs/nub": {
+    "title": "Show HN: Nub – A Bun-like all-in-one toolkit for Node.js",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-24T15:43:58.465444+00:00",
+    "published": "2026-06-24T14:14:18+00:00"
+  },
+  "https://realpython.com/django-tasks": {
+    "title": "Django Tasks: Exploring the Built-in Tasks Framework",
+    "source": "Real Python",
+    "first_seen": "2026-06-24T15:43:58.465444+00:00",
+    "published": "2026-06-24T14:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.2-KVM": {
+    "title": "\"So Many AI-Fueled Fixes\" Means No New ARM64 KVM Features For Linux 7.2",
+    "source": "Phoronix",
+    "first_seen": "2026-06-24T15:43:58.465444+00:00",
+    "published": "2026-06-24T13:55:40+00:00"
+  },
+  "https://aws.amazon.com/blogs/compute/modernizing-lambda-s3-workloads-with-amazon-s3-files": {
+    "title": "Modernizing Lambda + S3 workloads with Amazon S3 Files",
+    "source": "AWS Compute Blog",
+    "first_seen": "2026-06-24T15:43:58.465444+00:00",
+    "published": "2026-06-24T13:32:48+00:00"
+  },
+  "https://openai.com/index/openai-broadcom-jalapeno-inference-chip": {
+    "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-24T15:43:58.465444+00:00",
+    "published": "2026-06-24T13:14:39+00:00"
+  },
+  "https://lwn.net/Articles/1079365": {
+    "title": "Security updates for Wednesday",
+    "source": "LWN.net",
+    "first_seen": "2026-06-24T15:43:58.465444+00:00",
+    "published": "2026-06-24T13:13:54+00:00"
+  },
+  "https://ben-mini.com/2026/stealing-is-a-skill": {
+    "title": "Stealing Is a Skill",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-24T15:43:58.465444+00:00",
+    "published": "2026-06-24T13:08:52+00:00"
+  },
+  "https://www.tigerdata.com/blog/postgres-sorting-at-scale-order-by": {
+    "title": "Postgres Sorting at Scale Needs More Than ORDER BY",
+    "source": "Timescale Blog",
+    "first_seen": "2026-06-24T15:43:58.465444+00:00",
+    "published": "2026-06-24T13:06:04+00:00"
+  },
+  "https://paolino.me/founding-a-company-in-germany": {
+    "title": "Founding a company in Germany: €9600, 152 days and I still can't send an invoice",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-24T15:43:58.465444+00:00",
+    "published": "2026-06-24T12:31:43+00:00"
+  },
+  "https://thenewstack.io/sakana-fugu-ai-sovereignty": {
+    "title": "Sakana Fugu is more than a router. But it’s not the blueprint for AI sovereignty, either.",
+    "source": "The New Stack",
+    "first_seen": "2026-06-24T15:43:58.465444+00:00",
+    "published": "2026-06-24T12:30:00+00:00"
+  },
+  "https://fortune.com/2026/06/24/reid-hoffman-spacex-musk-openai-anthropic-gen-z-mistake": {
+    "title": "Reid Hoffman says SpaceX 'not an AI company', xAI 'complete train wreck'",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-24T15:43:58.465444+00:00",
+    "published": "2026-06-24T12:23:59+00:00"
+  },
+  "https://blogs.microsoft.com/blog/2026/06/24/inside-microsofts-two-decade-push-to-cut-water-intensity-while-scaling-for-growth": {
+    "title": "Inside Microsoft’s two-decade push to cut water intensity while scaling for growth",
+    "source": "Microsoft Blog",
+    "first_seen": "2026-06-24T15:43:58.465444+00:00",
+    "published": "2026-06-24T12:01:13+00:00"
+  },
+  "https://realpython.com/quizzes/django-tasks": {
+    "title": "Quiz: Django Tasks: Exploring the Built-in Tasks Framework",
+    "source": "Real Python",
+    "first_seen": "2026-06-24T15:43:58.465444+00:00",
+    "published": "2026-06-24T12:00:00+00:00"
+  },
+  "https://images.minimus.io": {
+    "title": "Minimus container images are now free",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-24T15:43:58.465444+00:00",
+    "published": "2026-06-24T11:52:12+00:00"
+  },
+  "https://www.cncf.io/blog/2026/06/24/from-awareness-to-engineered-accessibility-in-open-source": {
+    "title": "From Awareness to Engineered Accessibility in Open Source",
+    "source": "CNCF Blog",
+    "first_seen": "2026-06-24T15:43:58.465444+00:00",
+    "published": "2026-06-24T11:32:00+00:00"
+  },
+  "https://haystack.deepset.ai": {
+    "title": "Haystack: Open-Source AI Framework for Production Ready Agents, RAG",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-24T15:43:58.465444+00:00",
+    "published": "2026-06-24T11:21:32+00:00"
+  },
+  "https://www.schneier.com/blog/archives/2026/06/embedding-forbidden-text-in-spyware-to-discourage-ai-analysis-2.html": {
+    "title": "Embedding Forbidden Text in Spyware to Discourage AI Analysis",
+    "source": "Schneier on Security",
+    "first_seen": "2026-06-24T15:43:58.465444+00:00",
+    "published": "2026-06-24T11:03:10+00:00"
+  },
+  "https://cloud.google.com/blog/topics/threat-intelligence/zero-day-exploitation-cisco-catalyst-sd-wan-manager": {
+    "title": "Zero-Day Exploitation of Vulnerability (CVE-2026-20245) in Cisco Catalyst SD-WAN Manager",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-06-24T15:43:58.465444+00:00",
+    "published": "2026-06-24T11:00:00+00:00"
+  },
+  "https://rworks.dev/posts/too-many-R-packages": {
+    "title": "Too many R packages: CRAN is inundated with submissions",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-24T15:43:58.465444+00:00",
+    "published": "2026-06-24T10:59:59+00:00"
+  },
+  "https://www.phoronix.com/news/GCC-x86-Generic-Mispredict": {
+    "title": "One Line x86 Change To GCC Compiler Nets +12% Benchmark Win For Modern Intel/AMD CPUs",
+    "source": "Phoronix",
+    "first_seen": "2026-06-24T15:43:58.465444+00:00",
+    "published": "2026-06-24T10:45:44+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.2-Perf-Tools": {
+    "title": "Linux 7.2 Protects Against Crafted Perf Data From Going Rogue",
+    "source": "Phoronix",
+    "first_seen": "2026-06-24T15:43:58.465444+00:00",
+    "published": "2026-06-24T10:26:28+00:00"
+  },
+  "https://www.phoronix.com/news/QSOE-0.1-Released": {
+    "title": "QSOE v0.1 Released As A QNX-Inspired RISC-V OS",
+    "source": "Phoronix",
+    "first_seen": "2026-06-24T15:43:58.465444+00:00",
+    "published": "2026-06-24T10:05:00+00:00"
+  },
+  "https://blog.cloudflare.com/oauth-for-all": {
+    "title": "Unlocking the Cloudflare app ecosystem with OAuth for all",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-06-24T15:43:58.465444+00:00",
+    "published": "2026-06-24T06:00:00+00:00"
+  },
+  "https://www.elastic.co/blog/elastic-security-migration-with-underdefense": {
+    "title": "How migrating to Elastic Security helped a digital safety software company cut incidents by 85% with UnderDefense",
+    "source": "Elastic Blog",
+    "first_seen": "2026-06-24T15:43:58.465444+00:00",
+    "published": "2026-06-24T00:00:00+00:00"
+  },
+  "https://azure.microsoft.com/en-us/blog/from-insight-to-action-the-next-phase-of-agentic-cloud-operations": {
+    "title": "From insight to action: The next phase of agentic cloud operations",
+    "source": "Azure Blog",
+    "first_seen": "2026-06-24T15:43:58.465444+00:00",
+    "published": "2026-06-23T15:45:00+00:00"
+  },
+  "https://www.krea.ai/blog/krea-2-technical-report": {
+    "title": "Krea 2 Technical Report",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-24T15:43:58.465444+00:00",
+    "published": "2026-06-23T15:31:21+00:00"
   }
 }
