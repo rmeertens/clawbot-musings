@@ -44252,5 +44252,305 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-06-24T15:43:58.465444+00:00",
     "published": "2026-06-23T15:31:21+00:00"
+  },
+  "https://www.hashicorp.com/blog/hcp-vault-dedicated-introduces-cluster-disaster-recovery-public-preview": {
+    "title": "HCP Vault Dedicated introduces cluster disaster recovery (public preview)",
+    "source": "HashiCorp Blog",
+    "first_seen": "2026-06-24T21:28:16.250133+00:00",
+    "published": "2026-06-25T04:13:00+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.2-MM": {
+    "title": "MGLRU Improvement Yielding Nice Gains On Linux 7.2: MongoDB 30~100% Higher Throughput",
+    "source": "Phoronix",
+    "first_seen": "2026-06-24T21:28:16.250133+00:00",
+    "published": "2026-06-24T21:19:23+00:00"
+  },
+  "https://thenewstack.io/openai-jalapeno-custom-chip": {
+    "title": "OpenAI wants to claim more of the AI stack with Jalapeño, its first custom chip",
+    "source": "The New Stack",
+    "first_seen": "2026-06-24T21:28:16.250133+00:00",
+    "published": "2026-06-24T20:55:13+00:00"
+  },
+  "https://thenewstack.io/azul-java-security-jvm-mythos": {
+    "title": "Azul wants to find your unpatched JVMs before AI does",
+    "source": "The New Stack",
+    "first_seen": "2026-06-24T21:28:16.250133+00:00",
+    "published": "2026-06-24T20:53:07+00:00"
+  },
+  "https://thenewstack.io/will-it-mythos-benchmark": {
+    "title": "Will it Mythos? One coder’s verdict on Anthropic’s blend of debugging",
+    "source": "The New Stack",
+    "first_seen": "2026-06-24T21:28:16.250133+00:00",
+    "published": "2026-06-24T20:51:49+00:00"
+  },
+  "https://thenewstack.io/chainguard-java-libraries-spring-boot-cves": {
+    "title": "Chainguard targets Java’s unpatched vulnerability backlog with drop-in remediated libraries",
+    "source": "The New Stack",
+    "first_seen": "2026-06-24T21:28:16.250133+00:00",
+    "published": "2026-06-24T20:48:37+00:00"
+  },
+  "https://statusdude.com/blog/zero-downtime-docker-compose": {
+    "title": "Zero-Downtime Deployments with Docker Compose – No Kubernetes Required",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-24T21:28:16.250133+00:00",
+    "published": "2026-06-24T20:20:33+00:00"
+  },
+  "https://aws.amazon.com/blogs/security/restrict-aws-management-console-access-to-expected-networks-with-sign-in-resource-based-policies-and-rcps": {
+    "title": "Restrict AWS Management Console access to expected networks with sign-in resource-based policies and RCPs",
+    "source": "AWS Security Blog",
+    "first_seen": "2026-06-24T21:28:16.250133+00:00",
+    "published": "2026-06-24T20:01:47+00:00"
+  },
+  "https://charity.wtf/2026/06/24/make-ai-boring-again-xpost": {
+    "title": "Make AI Boring Again (xpost)",
+    "source": "Charity Majors",
+    "first_seen": "2026-06-24T21:28:16.250133+00:00",
+    "published": "2026-06-24T19:57:33+00:00"
+  },
+  "https://infosec.exchange/@mttaggart/116806641273303255": {
+    "title": "GitHub shouldn't be a dependency for publishing Rust on crates.io",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-24T21:28:16.250133+00:00",
+    "published": "2026-06-24T19:40:11+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/build-a-spring-boot-rest-api-with-amazon-aurora-dsql": {
+    "title": "Build a Spring Boot REST API with Amazon Aurora DSQL",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-06-24T21:28:16.250133+00:00",
+    "published": "2026-06-24T19:34:40+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/automating-cross-account-refresh-for-amazon-rds-multi-az-db-clusters": {
+    "title": "Automating cross-account refresh for Amazon RDS Multi-AZ DB clusters",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-06-24T21:28:16.250133+00:00",
+    "published": "2026-06-24T19:29:45+00:00"
+  },
+  "https://www.thomann.de/blog/en/inside/thomann-takes-legal-action-against-fender": {
+    "title": "Thomann takes legal action against Fender",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-24T21:28:16.250133+00:00",
+    "published": "2026-06-24T19:08:22+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/implement-multi-tenant-search-with-amazon-opensearch-serverless-next-generation": {
+    "title": "Implement multi-tenant search with Amazon OpenSearch Serverless next generation",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-06-24T21:28:16.250133+00:00",
+    "published": "2026-06-24T18:31:25+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/huntington-bank-redacting-sensitive-data-from-400m-documents-with-aws": {
+    "title": "Huntington Bank: Redacting sensitive data from 400M+ documents with AWS",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-06-24T21:28:16.250133+00:00",
+    "published": "2026-06-24T18:24:50+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/build-a-healthcare-appointment-agent-with-amazon-nova-2-sonic": {
+    "title": "Build a healthcare appointment agent with Amazon Nova 2 Sonic",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-06-24T21:28:16.250133+00:00",
+    "published": "2026-06-24T18:20:27+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/ai-powered-bi-with-snowflake-and-amazon-quick": {
+    "title": "AI-powered BI with Snowflake and Amazon Quick",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-06-24T21:28:16.250133+00:00",
+    "published": "2026-06-24T18:19:35+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/multi-region-identity-based-access-to-amazon-redshift-and-s3-tables": {
+    "title": "Multi-Region identity-based access to Amazon Redshift and S3 Tables",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-06-24T21:28:16.250133+00:00",
+    "published": "2026-06-24T18:15:24+00:00"
+  },
+  "https://simonwillison.net/2026/Jun/24/tom-macwright": {
+    "title": "Quoting Tom MacWright",
+    "source": "Simon Willison",
+    "first_seen": "2026-06-24T21:28:16.250133+00:00",
+    "published": "2026-06-24T18:13:51+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.2-NTFS3": {
+    "title": "NTFS3 Driver Sees Bug Fixes & Minor Improvements With Linux 7.2",
+    "source": "Phoronix",
+    "first_seen": "2026-06-24T21:28:16.250133+00:00",
+    "published": "2026-06-24T18:11:00+00:00"
+  },
+  "https://medium.com/pinterest-engineering/automated-schema-evolution-in-pinterests-next-generation-db-ingestion-framework-36c5c07070de?source=rss----4c5a5f6279b6---4": {
+    "title": "Automated Schema Evolution in Pinterest’s Next-Generation DB Ingestion Framework",
+    "source": "Pinterest Engineering",
+    "first_seen": "2026-06-24T21:28:16.250133+00:00",
+    "published": "2026-06-24T18:01:01+00:00"
+  },
+  "https://www.databricks.com/blog/how-daikin-applied-americas-builds-consistent-data-pipelines-scale-genie-code": {
+    "title": "How Daikin Applied Americas builds consistent data pipelines at scale with Genie Code",
+    "source": "Databricks Blog",
+    "first_seen": "2026-06-24T21:28:16.250133+00:00",
+    "published": "2026-06-24T18:00:00+00:00"
+  },
+  "https://kubernetes.io/blog/2026/06/24/wg-device-management-spotlight-2026": {
+    "title": "Spotlight on WG Device Management",
+    "source": "Kubernetes Blog",
+    "first_seen": "2026-06-24T21:28:16.250133+00:00",
+    "published": "2026-06-24T18:00:00+00:00"
+  },
+  "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom": {
+    "title": "OpenAI unveils its first custom chip, built by Broadcom",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-24T21:28:16.250133+00:00",
+    "published": "2026-06-24T17:47:00+00:00"
+  },
+  "https://newsletter.pragmaticengineer.com/p/tech-interviews-with-neetcode": {
+    "title": "Tech interviews with NeetCode",
+    "source": "The Pragmatic Engineer",
+    "first_seen": "2026-06-24T21:28:16.250133+00:00",
+    "published": "2026-06-24T17:32:34+00:00"
+  },
+  "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash": {
+    "title": "Computer use in Gemini 3.5 Flash",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-24T21:28:16.250133+00:00",
+    "published": "2026-06-24T17:21:34+00:00"
+  },
+  "https://lwn.net/Articles/1078964": {
+    "title": "[$] Fedora: 2FA, or not 2FA, that is the question",
+    "source": "LWN.net",
+    "first_seen": "2026-06-24T21:28:16.250133+00:00",
+    "published": "2026-06-24T17:01:53+00:00"
+  },
+  "https://cloud.google.com/blog/products/storage-data-transfer/backup-and-dr-service-adds-cross-region-backups": {
+    "title": "Enhanced data resilience with cross-region backups in Backup and DR Service",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-06-24T21:28:16.250133+00:00",
+    "published": "2026-06-24T17:00:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/how-loka-built-a-natural-low-latency-voice-agent-with-amazon-nova-2-sonic": {
+    "title": "How Loka Built a Natural, Low-Latency Voice Agent with Amazon Nova 2 Sonic",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-06-24T21:28:16.250133+00:00",
+    "published": "2026-06-24T16:56:24+00:00"
+  },
+  "https://research.google/blog/thinking-to-recall-how-reasoning-unlocks-parametric-knowledge-in-llms": {
+    "title": "Thinking to recall: How reasoning unlocks parametric knowledge in LLMs",
+    "source": "Google Research",
+    "first_seen": "2026-06-24T21:28:16.250133+00:00",
+    "published": "2026-06-24T16:51:52+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.2-F2FS": {
+    "title": "F2FS Integrates FSERROR Reporting, Reduces Memory Footprint In Linux 7.2",
+    "source": "Phoronix",
+    "first_seen": "2026-06-24T21:28:16.250133+00:00",
+    "published": "2026-06-24T16:48:12+00:00"
+  },
+  "https://lwn.net/Articles/1078526": {
+    "title": "[$] A helper library for BPF arenas",
+    "source": "LWN.net",
+    "first_seen": "2026-06-24T21:28:16.250133+00:00",
+    "published": "2026-06-24T16:46:52+00:00"
+  },
+  "https://www.databricks.com/blog/what-if-answer-was-already-your-data": {
+    "title": "What if the answer was already in your data?",
+    "source": "Databricks Blog",
+    "first_seen": "2026-06-24T21:28:16.250133+00:00",
+    "published": "2026-06-24T16:45:36+00:00"
+  },
+  "https://www.economist.com/science-and-technology/2026/06/24/why-big-ai-labs-are-hiring-so-many-philosophers": {
+    "title": "Big AI labs are hiring philosophers",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-24T21:28:16.250133+00:00",
+    "published": "2026-06-24T16:40:13+00:00"
+  },
+  "https://thenewstack.io/netbox-infrastructure-ai-agents": {
+    "title": "Agentic infrastructure operations begin with accurate, reliable infrastructure data",
+    "source": "The New Stack",
+    "first_seen": "2026-06-24T21:28:16.250133+00:00",
+    "published": "2026-06-24T16:37:38+00:00"
+  },
+  "https://blog.omgmog.net/post/xteink-x4-e-ink-reader": {
+    "title": "The Xteink X4 E-Ink Reader",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-24T21:28:16.250133+00:00",
+    "published": "2026-06-24T16:35:56+00:00"
+  },
+  "https://eaton-works.com/2026/06/24/jnj-webapp-hacks": {
+    "title": "Exploiting vulnerabilities in Johnson and Johnson web apps",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-24T21:28:16.250133+00:00",
+    "published": "2026-06-24T16:33:48+00:00"
+  },
+  "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash": {
+    "title": "Introducing computer use in Gemini 3.5 Flash",
+    "source": "DeepMind Blog",
+    "first_seen": "2026-06-24T21:28:16.250133+00:00",
+    "published": "2026-06-24T16:30:01+00:00"
+  },
+  "https://developer.nvidia.com/blog/accelerating-bev-pooling-on-nvidia-gpus-for-physical-ai-applications": {
+    "title": "Accelerating BEV Pooling on NVIDIA GPUs for Physical AI Applications",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-06-24T21:28:16.250133+00:00",
+    "published": "2026-06-24T16:30:00+00:00"
+  },
+  "https://www.tigrisdata.com/blog/objgit": {
+    "title": "I taught a bucket to speak Git",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-24T21:28:16.250133+00:00",
+    "published": "2026-06-24T16:04:26+00:00"
+  },
+  "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel": {
+    "title": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-06-24T21:28:16.250133+00:00",
+    "published": "2026-06-24T16:00:13+00:00"
+  },
+  "https://twitter.com/ID_AA_Carmack/status/2069799283369345247": {
+    "title": "There are a few things that I look back on as my mistakes in the early days",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-24T21:28:16.250133+00:00",
+    "published": "2026-06-24T15:56:19+00:00"
+  },
+  "https://www.greptile.com/blog/prs-on-openclaw": {
+    "title": "PR spam today looks like email spam in the early 2000s",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-24T21:28:16.250133+00:00",
+    "published": "2026-06-24T14:32:12+00:00"
+  },
+  "https://blogs.nvidia.com/blog/liquid-cooling-ai-factories": {
+    "title": "45°C cooling design cuts data center water use to near zero",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-24T21:28:16.250133+00:00",
+    "published": "2026-06-24T14:10:11+00:00"
+  },
+  "https://www.reuters.com/business/qualcomm-buy-ai-startup-modular-2026-06-24": {
+    "title": "Qualcomm to Acquire Modular",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-24T21:28:16.250133+00:00",
+    "published": "2026-06-24T13:49:16+00:00"
+  },
+  "https://lookaway.com": {
+    "title": "Show HN: LookAway, a Mac break reminder that knows when not to interrupt",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-24T21:28:16.250133+00:00",
+    "published": "2026-06-24T13:29:18+00:00"
+  },
+  "https://www.nytimes.com/2026/06/23/us/politics/nsa-lost-access-anthropic-tool.html": {
+    "title": "NSA lost access to Mythos amid Anthropic dispute",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-24T21:28:16.250133+00:00",
+    "published": "2026-06-24T11:45:47+00:00"
+  },
+  "https://www.hashicorp.com/blog/advancing-ai-agent-security-in-vault": {
+    "title": "Advancing AI agent security in Vault",
+    "source": "HashiCorp Blog",
+    "first_seen": "2026-06-24T21:28:16.250133+00:00",
+    "published": "2026-06-24T04:12:00+00:00"
+  },
+  "https://www.elastic.co/blog/ceo-ash-kulkarni-announcement-to-elastic-employees": {
+    "title": "CEO Ash Kulkarni's organizational announcement to Elastic employees",
+    "source": "Elastic Blog",
+    "first_seen": "2026-06-24T21:28:16.250133+00:00",
+    "published": "2026-06-24T00:00:00+00:00"
+  },
+  "https://huggingface.co/blog/ffasr-leaderboard": {
+    "title": "Introducing the FFASR Leaderboard: Benchmarking ASR in the Real World",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-06-24T21:28:16.250133+00:00",
+    "published": "2026-06-24T00:00:00+00:00"
   }
 }
