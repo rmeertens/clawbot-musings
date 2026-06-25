@@ -44648,5 +44648,185 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-06-25T10:01:55.208180+00:00",
     "published": "2026-06-24T19:48:01+00:00"
+  },
+  "https://www.phoronix.com/news/Servo-0.3-Released": {
+    "title": "Servo 0.3 Released With The Demo Browser Becoming More Useful",
+    "source": "Phoronix",
+    "first_seen": "2026-06-25T15:49:20.172745+00:00",
+    "published": "2026-06-25T15:40:00+00:00"
+  },
+  "https://www.docker.com/blog/eu-cyber-resilience-act-overview": {
+    "title": "EU Cyber Resilience Act: Overview, Requirements, and Timelines",
+    "source": "Docker Blog",
+    "first_seen": "2026-06-25T15:49:20.172745+00:00",
+    "published": "2026-06-25T15:36:43+00:00"
+  },
+  "https://blog.bytebytego.com/p/top-anti-patterns-to-avoid-in-service": {
+    "title": "Top Anti-Patterns to Avoid in Service Architecture",
+    "source": "ByteByteGo",
+    "first_seen": "2026-06-25T15:49:20.172745+00:00",
+    "published": "2026-06-25T15:31:19+00:00"
+  },
+  "https://thenewstack.io/how-cut-ai-costs": {
+    "title": "How we cut AI costs by 80%",
+    "source": "The New Stack",
+    "first_seen": "2026-06-25T15:49:20.172745+00:00",
+    "published": "2026-06-25T15:00:00+00:00"
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-25/ford-has-been-rehiring-quality-inspectors-after-ai-fell-short": {
+    "title": "Ford rehires 350 engineers after AI fails to preserve expertise or train juniors",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-25T15:49:20.172745+00:00",
+    "published": "2026-06-25T14:58:50+00:00"
+  },
+  "https://pytorch.org/blog/lightseek-tokenspeed-kernel": {
+    "title": "TokenSpeed-Kernel: Portable APIs and High-Performance Kernels for Multi-Silicon LLM Inference",
+    "source": "PyTorch Blog",
+    "first_seen": "2026-06-25T15:49:20.172745+00:00",
+    "published": "2026-06-25T14:48:06+00:00"
+  },
+  "https://www.ft.com/content/0f067265-2baf-4b6e-8fb2-ed56daef6f3c": {
+    "title": "Apple increases MacBook and iPad prices by 20%",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-25T15:49:20.172745+00:00",
+    "published": "2026-06-25T14:37:15+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.2-Char-Misc": {
+    "title": "Linux 7.2 Drops Ancient PROFIBUS Driver: Ported From SCO Unix In 1998, Unused For Years",
+    "source": "Phoronix",
+    "first_seen": "2026-06-25T15:49:20.172745+00:00",
+    "published": "2026-06-25T14:36:58+00:00"
+  },
+  "https://aws.amazon.com/blogs/compute/maximize-amazon-ec2-capacity-reservations-with-capacity-manager-data-exports": {
+    "title": "Maximize Amazon EC2 Capacity Reservations with Capacity Manager data exports",
+    "source": "AWS Compute Blog",
+    "first_seen": "2026-06-25T15:49:20.172745+00:00",
+    "published": "2026-06-25T14:32:56+00:00"
+  },
+  "https://news.ycombinator.com/item?id=48673801": {
+    "title": "Ask HN: What surprised you about Estonia e-Residency and running an Estonian OÜ?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-25T15:49:20.172745+00:00",
+    "published": "2026-06-25T14:17:26+00:00"
+  },
+  "https://hackernewstrends.com": {
+    "title": "Show HN: I made Google Trends for Hacker News by indexing 18 years of comments",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-25T15:49:20.172745+00:00",
+    "published": "2026-06-25T14:08:55+00:00"
+  },
+  "https://lwn.net/Articles/1078699": {
+    "title": "[$] Hardening the kernel with allocation tokens and bootpatch-SLR",
+    "source": "LWN.net",
+    "first_seen": "2026-06-25T15:49:20.172745+00:00",
+    "published": "2026-06-25T14:02:39+00:00"
+  },
+  "https://thenewstack.io/aws-agent-toolkit-rules-file": {
+    "title": "Agent Toolkit for AWS includes 20+ agent skills, but your agent might not load them without this one file",
+    "source": "The New Stack",
+    "first_seen": "2026-06-25T15:49:20.172745+00:00",
+    "published": "2026-06-25T14:00:00+00:00"
+  },
+  "https://tailscale.com/blog/border0-free-trial": {
+    "title": "Stop sharing access secrets—try Border0 + Tailscale for free",
+    "source": "Tailscale Blog",
+    "first_seen": "2026-06-25T15:49:20.172745+00:00",
+    "published": "2026-06-25T14:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/topics/threat-intelligence/stockstay-turla-intelligence-gathering": {
+    "title": "STOCKSTAY Another Day: The Latest Addition to Turla’s Intelligence Gathering Apparatus",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-06-25T15:49:20.172745+00:00",
+    "published": "2026-06-25T14:00:00+00:00"
+  },
+  "https://www.construction-physics.com/p/us-subways-build-too-many-cross-passages": {
+    "title": "US Subways Build Too Many Cross Passages",
+    "source": "Construction Physics",
+    "first_seen": "2026-06-25T15:49:20.172745+00:00",
+    "published": "2026-06-25T13:55:49+00:00"
+  },
+  "https://www.tigerdata.com/blog/self-hosting-timescaledb-platform-ownership": {
+    "title": "What You’re Really Owning When You Self-Host TimescaleDB",
+    "source": "Timescale Blog",
+    "first_seen": "2026-06-25T15:49:20.172745+00:00",
+    "published": "2026-06-25T13:51:54+00:00"
+  },
+  "https://lwn.net/Articles/1079551": {
+    "title": "Security updates for Thursday",
+    "source": "LWN.net",
+    "first_seen": "2026-06-25T15:49:20.172745+00:00",
+    "published": "2026-06-25T13:13:31+00:00"
+  },
+  "https://blog.cloudflare.com/rollbacks-for-workflows": {
+    "title": "How we built saga rollbacks for Cloudflare Workflows",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-06-25T15:49:20.172745+00:00",
+    "published": "2026-06-25T13:00:00+00:00"
+  },
+  "https://group.softbank/media/Project/sbg/sbg/pdf/ir/investors/shareholders/2026/shareholders-meeting_46_05_en.pdf": {
+    "title": "SoftBank 2026 AGM [pdf]",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-25T15:49:20.172745+00:00",
+    "published": "2026-06-25T12:42:55+00:00"
+  },
+  "https://www.phoronix.com/news/Extended-Cache-Aware-Sched": {
+    "title": "Linux Cache Aware Scheduling Extended For Even Better Performance: Up To 360% In MySQL",
+    "source": "Phoronix",
+    "first_seen": "2026-06-25T15:49:20.172745+00:00",
+    "published": "2026-06-25T12:38:04+00:00"
+  },
+  "https://github.com/Fran314/secrets-manager-rs": {
+    "title": "Show HN: Secs-man, a secrets manager you can (not) rely on",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-25T15:49:20.172745+00:00",
+    "published": "2026-06-25T12:30:36+00:00"
+  },
+  "https://lingochunk.com/try": {
+    "title": "Show HN: Turn native language audio into flashcards and shadowing practice",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-25T15:49:20.172745+00:00",
+    "published": "2026-06-25T11:29:13+00:00"
+  },
+  "https://www.cncf.io/blog/2026/06/25/building-a-cluster-aware-ai-agent-with-kubernetes-argo-cd-and-gitops": {
+    "title": "Building a Cluster-Aware AI Agent with Kubernetes, Argo CD, and GitOps",
+    "source": "CNCF Blog",
+    "first_seen": "2026-06-25T15:49:20.172745+00:00",
+    "published": "2026-06-25T11:25:00+00:00"
+  },
+  "https://www.schneier.com/blog/archives/2026/06/interesting-paper-exploring-prompt-injection.html": {
+    "title": "Interesting Paper Exploring Prompt Injection",
+    "source": "Schneier on Security",
+    "first_seen": "2026-06-25T15:49:20.172745+00:00",
+    "published": "2026-06-25T11:23:58+00:00"
+  },
+  "https://9to5mac.com/2026/06/23/lastpass-notifies-users-of-yet-another-data-breach": {
+    "title": "LastPass notifies users of yet another data breach",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-25T15:49:20.172745+00:00",
+    "published": "2026-06-25T10:28:16+00:00"
+  },
+  "https://www.phoronix.com/news/FFmpeg-DNN-ONNX-Runtime": {
+    "title": "AMD Contributes ONNX Runtime Backend To FFmpeg DNN Filter",
+    "source": "Phoronix",
+    "first_seen": "2026-06-25T15:49:20.172745+00:00",
+    "published": "2026-06-25T10:23:36+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.2-Staging": {
+    "title": "Linux 7.2 Staging Still Working To Tame The Realtek RTL8723BS \"Beast Of A Driver\"",
+    "source": "Phoronix",
+    "first_seen": "2026-06-25T15:49:20.172745+00:00",
+    "published": "2026-06-25T10:08:05+00:00"
+  },
+  "https://planetscale.com/blog/one-postgres-cluster-many-apps": {
+    "title": "One Postgres cluster, many apps",
+    "source": "PlanetScale Blog",
+    "first_seen": "2026-06-25T15:49:20.172745+00:00",
+    "published": "2026-06-25T00:00:00+00:00"
+  },
+  "https://nodeweekly.com/issues/630": {
+    "title": "Node.js 26.4 lands package maps",
+    "source": "Node Weekly",
+    "first_seen": "2026-06-25T15:49:20.172745+00:00",
+    "published": "2026-06-25T00:00:00+00:00"
   }
 }
