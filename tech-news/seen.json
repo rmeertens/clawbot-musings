@@ -44828,5 +44828,281 @@
     "source": "Node Weekly",
     "first_seen": "2026-06-25T15:49:20.172745+00:00",
     "published": "2026-06-25T00:00:00+00:00"
+  },
+  "https://huggingface.co/blog/vllm-jobs": {
+    "title": "Run a vLLM Server on HF Jobs in One Command",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-06-25T21:30:39.230598+00:00",
+    "published": "2026-06-26T00:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/Akrites": {
+    "title": "Linux Foundation & Others Launch \"Akrites\" To Defend Open-Source Software From AI-Enabled Exploits",
+    "source": "Phoronix",
+    "first_seen": "2026-06-25T21:30:39.230598+00:00",
+    "published": "2026-06-25T21:09:00+00:00"
+  },
+  "https://unconv.ai/blog/introducing-un-0-generating-images-with-coupled-oscillators": {
+    "title": "Un-0: Generating Images with Coupled Oscillators",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-25T21:30:39.230598+00:00",
+    "published": "2026-06-25T20:50:02+00:00"
+  },
+  "https://www.docker.com/blog/sbom-generation-for-container-workflows": {
+    "title": "How to Generate an SBOM for Container Workflows",
+    "source": "Docker Blog",
+    "first_seen": "2026-06-25T21:30:39.230598+00:00",
+    "published": "2026-06-25T20:44:07+00:00"
+  },
+  "https://om.co/2026/06/24/1966-2026": {
+    "title": "Om Malik, 1966-2026",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-25T21:30:39.230598+00:00",
+    "published": "2026-06-25T20:33:37+00:00"
+  },
+  "https://www.phoronix.com/news/DXVK-3.0-Release": {
+    "title": "DXVK 3.0 Released With DXBC-SPIRV For Shader Compilation, Descriptor Heaps By Default",
+    "source": "Phoronix",
+    "first_seen": "2026-06-25T21:30:39.230598+00:00",
+    "published": "2026-06-25T20:29:46+00:00"
+  },
+  "https://calpaterson.com/bank-python.html": {
+    "title": "An oral history of Bank Python (2021)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-25T21:30:39.230598+00:00",
+    "published": "2026-06-25T20:14:35+00:00"
+  },
+  "https://williamdue.github.io/blog/parallel-parentheses-matching": {
+    "title": "Parallel Parentheses Matching",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-25T21:30:39.230598+00:00",
+    "published": "2026-06-25T20:12:24+00:00"
+  },
+  "https://rozumem.xyz/posts/17": {
+    "title": "The Doorman's Fallacy in Action",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-25T21:30:39.230598+00:00",
+    "published": "2026-06-25T20:00:35+00:00"
+  },
+  "https://www.databricks.com/blog/test-bench-lakehouse-how-avl-modernizes-measurement-data-analytics-impulse": {
+    "title": "From test bench to lakehouse: how AVL modernizes measurement data analytics with Impulse",
+    "source": "Databricks Blog",
+    "first_seen": "2026-06-25T21:30:39.230598+00:00",
+    "published": "2026-06-25T19:30:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/running-pgvector-in-production-on-amazon-aurora-postgresql": {
+    "title": "Running pgvector in production on Amazon Aurora PostgreSQL",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-06-25T21:30:39.230598+00:00",
+    "published": "2026-06-25T18:47:03+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/centralized-traffic-inspection-for-oracle-databaseaws": {
+    "title": "Centralized traffic inspection for Oracle Database@AWS",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-06-25T21:30:39.230598+00:00",
+    "published": "2026-06-25T18:45:53+00:00"
+  },
+  "https://www.phoronix.com/news/Wayland-For-Artists": {
+    "title": "Academy Software Foundation Announces The \"Wayland For Artists Working Group\"",
+    "source": "Phoronix",
+    "first_seen": "2026-06-25T21:30:39.230598+00:00",
+    "published": "2026-06-25T18:12:38+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/retrofit-dont-rebuild-agentic-overlays-for-transforming-legacy-enterprise-services": {
+    "title": "Retrofit, don’t rebuild: Agentic overlays for transforming legacy enterprise services",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-06-25T21:30:39.230598+00:00",
+    "published": "2026-06-25T17:55:10+00:00"
+  },
+  "https://thenewstack.io/codeplain-spec-driven-regenerative-code": {
+    "title": "“Code should be regenerated, not maintained”: Codeplain makes the case for spec-driven development",
+    "source": "The New Stack",
+    "first_seen": "2026-06-25T21:30:39.230598+00:00",
+    "published": "2026-06-25T17:47:19+00:00"
+  },
+  "https://lwn.net/Articles/1077739": {
+    "title": "[$] A look at MinIO alternatives: Ceph and Garage",
+    "source": "LWN.net",
+    "first_seen": "2026-06-25T21:30:39.230598+00:00",
+    "published": "2026-06-25T17:40:13+00:00"
+  },
+  "https://www.schneier.com/blog/archives/2026/06/ai-and-liability.html": {
+    "title": "AI and Liability",
+    "source": "Schneier on Security",
+    "first_seen": "2026-06-25T21:30:39.230598+00:00",
+    "published": "2026-06-25T17:03:15+00:00"
+  },
+  "https://www.ycombinator.com/companies/besimple-ai/jobs/yWfhhOR-strategic-projects-lead-audio-data": {
+    "title": "Besimple AI (YC P25) Is Hiring",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-25T21:30:39.230598+00:00",
+    "published": "2026-06-25T17:00:00+00:00"
+  },
+  "https://developer.nvidia.com/blog/scaling-ai-inference-across-multiple-gpus-using-nvidia-tensorrt-with-multi-device-inference-support": {
+    "title": "Scaling AI Inference Across Multiple GPUs Using NVIDIA TensorRT with Multi-Device Inference Support",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-06-25T21:30:39.230598+00:00",
+    "published": "2026-06-25T16:43:48+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/optimize-model-training-on-amazon-sagemaker-ai-with-nvidia-blackwell": {
+    "title": "Optimize model training on Amazon SageMaker AI with NVIDIA Blackwell",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-06-25T21:30:39.230598+00:00",
+    "published": "2026-06-25T16:41:47+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/implementing-super-resolution-by-deploying-seedvr2-on-amazon-sagemaker-ai": {
+    "title": "Implementing super resolution by deploying SeedVR2 on Amazon SageMaker AI",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-06-25T21:30:39.230598+00:00",
+    "published": "2026-06-25T16:40:13+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/build-self-service-aws-health-analytics-to-find-actionable-health-insights-with-ai-agents-powered-by-amazon-bedrock": {
+    "title": "Build self-service AWS Health analytics to find actionable health insights with AI agents powered by Amazon Bedrock",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-06-25T21:30:39.230598+00:00",
+    "published": "2026-06-25T16:38:12+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/building-agentic-ai-applications-with-a-modern-data-mesh-strategy-on-aws": {
+    "title": "Building agentic AI applications with a modern data mesh strategy on AWS",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-06-25T21:30:39.230598+00:00",
+    "published": "2026-06-25T16:35:07+00:00"
+  },
+  "https://lwn.net/Articles/1079600": {
+    "title": "Podman 6.0 released",
+    "source": "LWN.net",
+    "first_seen": "2026-06-25T21:30:39.230598+00:00",
+    "published": "2026-06-25T16:33:29+00:00"
+  },
+  "https://www.phoronix.com/review/raspberry-pi-os-linux-618": {
+    "title": "Updated Raspberry Pi OS With Linux 6.18 LTS Delivers Some Performance Benefits",
+    "source": "Phoronix",
+    "first_seen": "2026-06-25T21:30:39.230598+00:00",
+    "published": "2026-06-25T16:30:00+00:00"
+  },
+  "https://thenewstack.io/rust-foundation-training-certification": {
+    "title": "Trust in Rust: Foundation debuts official training to tackle steep learning curve",
+    "source": "The New Stack",
+    "first_seen": "2026-06-25T21:30:39.230598+00:00",
+    "published": "2026-06-25T16:30:00+00:00"
+  },
+  "https://dropbox.tech/machine-learning/how-we-turned-ai-evaluations-into-better-responses-in-dash-chat": {
+    "title": "How we used DSPy to turn AI evaluations into better responses in Dash Chat",
+    "source": "Dropbox Tech",
+    "first_seen": "2026-06-25T21:30:39.230598+00:00",
+    "published": "2026-06-25T16:30:00+00:00"
+  },
+  "https://huggingface.co/blog/allenai/hybrid-token-prediction": {
+    "title": "Which tokens does a hybrid model predict better?",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-06-25T21:30:39.230598+00:00",
+    "published": "2026-06-25T16:11:42+00:00"
+  },
+  "https://github.com/inkeep/open-knowledge": {
+    "title": "Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-25T21:30:39.230598+00:00",
+    "published": "2026-06-25T16:04:46+00:00"
+  },
+  "https://medium.com/pinterest-engineering/achieving-near-linear-training-scalability-for-pinterests-foundation-models-14d4f59fe6f6?source=rss----4c5a5f6279b6---4": {
+    "title": "Achieving Near-Linear Training Scalability for Pinterest’s Foundation Models",
+    "source": "Pinterest Engineering",
+    "first_seen": "2026-06-25T21:30:39.230598+00:00",
+    "published": "2026-06-25T16:01:02+00:00"
+  },
+  "https://thenewstack.io/amazon-bedrock-data-automation": {
+    "title": "Template-based data extraction is dead. Here’s what comes next.",
+    "source": "The New Stack",
+    "first_seen": "2026-06-25T21:30:39.230598+00:00",
+    "published": "2026-06-25T16:00:00+00:00"
+  },
+  "https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026": {
+    "title": "Our latest Google Finance upgrades, including a new app",
+    "source": "Google AI Blog",
+    "first_seen": "2026-06-25T21:30:39.230598+00:00",
+    "published": "2026-06-25T16:00:00+00:00"
+  },
+  "https://www.neowin.net/news/windows-10-quietly-gets-one-more-year-of-support-and-updates": {
+    "title": "Windows 10 quietly gets one more year of support and updates",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-25T21:30:39.230598+00:00",
+    "published": "2026-06-25T15:59:54+00:00"
+  },
+  "https://scrollprize.org/firstscroll": {
+    "title": "An entire Herculaneum scroll has been read for the first time",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-25T21:30:39.230598+00:00",
+    "published": "2026-06-25T15:48:07+00:00"
+  },
+  "https://newsroom.ibm.com/2026-06-25-ibm-debuts-worlds-first-sub-1-nanometer-chip-technology": {
+    "title": "IBM debuts sub-1 nanometer chip technology",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-25T21:30:39.230598+00:00",
+    "published": "2026-06-25T15:33:37+00:00"
+  },
+  "https://www.quantamagazine.org/how-physicists-track-and-trap-the-elusive-neutrino-20260624": {
+    "title": "How physicists track and trap the elusive neutrino",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-25T21:30:39.230598+00:00",
+    "published": "2026-06-25T15:11:48+00:00"
+  },
+  "https://yllan.org/software/OS9Map": {
+    "title": "OS9Map",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-25T21:30:39.230598+00:00",
+    "published": "2026-06-25T15:01:06+00:00"
+  },
+  "https://trakkr.ai/bias": {
+    "title": "Political bias in AI: Where the AI models stand",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-25T21:30:39.230598+00:00",
+    "published": "2026-06-25T13:08:31+00:00"
+  },
+  "https://www.reuters.com/world/asia-pacific/apple-raises-prices-macbooks-ipads-memory-costs-skyrocket-2026-06-25": {
+    "title": "Apple raises prices of MacBooks, iPads",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-25T21:30:39.230598+00:00",
+    "published": "2026-06-25T13:02:56+00:00"
+  },
+  "https://research.google/blog/optimizing-cloud-economics-with-linear-elastic-caching": {
+    "title": "Optimizing cloud economics with linear elastic caching",
+    "source": "Google Research",
+    "first_seen": "2026-06-25T21:30:39.230598+00:00",
+    "published": "2026-06-25T10:03:00+00:00"
+  },
+  "https://deno.com/blog/v2.9": {
+    "title": "Deno 2.9",
+    "source": "Deno Blog",
+    "first_seen": "2026-06-25T21:30:39.230598+00:00",
+    "published": "2026-06-25T09:00:00+00:00"
+  },
+  "https://www.redpanda.com/blog/kafka-log-compaction-bug-fix-streaming": {
+    "title": "Kafka's log compaction corrupts data. Here's how we fixed it",
+    "source": "Redpanda Blog",
+    "first_seen": "2026-06-25T21:30:39.230598+00:00",
+    "published": "2026-06-25T00:00:00+00:00"
+  },
+  "https://discord.com/blog/discord-update-june-25-2026-changelog": {
+    "title": "Discord Update: June 25, 2026 Changelog",
+    "source": "Discord Engineering",
+    "first_seen": "2026-06-25T21:30:39.230598+00:00",
+    "published": "2026-06-25T00:00:00+00:00"
+  },
+  "https://blog.rust-lang.org/2026/06/25/vision-doc-journeys-to-learning-rust": {
+    "title": "The many journeys of learning Rust",
+    "source": "Rust Blog",
+    "first_seen": "2026-06-25T21:30:39.230598+00:00",
+    "published": "2026-06-25T00:00:00+00:00"
+  },
+  "https://en.wikipedia.org/wiki/52-hertz_whale": {
+    "title": "52-hertz whale",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-25T21:30:39.230598+00:00",
+    "published": "2026-06-24T20:17:33+00:00"
+  },
+  "https://nextjs.org/blog/next-16-3-instant-navigations": {
+    "title": "Next.js 16.3: Instant Navigations",
+    "source": "Next.js Blog",
+    "first_seen": "2026-06-25T21:30:39.230598+00:00",
+    "published": "2026-06-24T20:00:00+00:00"
   }
 }
