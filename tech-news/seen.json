@@ -44552,5 +44552,101 @@
     "source": "Hugging Face Blog",
     "first_seen": "2026-06-24T21:28:16.250133+00:00",
     "published": "2026-06-24T00:00:00+00:00"
+  },
+  "https://stratechery.com/2026/an-interview-with-figma-ceo-dylan-field-about-design-and-ai": {
+    "title": "An Interview with Figma CEO Dylan Field About Design and AI",
+    "source": "Stratechery",
+    "first_seen": "2026-06-25T10:01:55.208180+00:00",
+    "published": "2026-06-25T10:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.2-KSMBD": {
+    "title": "KSMBD Adds SMB2 Compression Support In Linux 7.2",
+    "source": "Phoronix",
+    "first_seen": "2026-06-25T10:01:55.208180+00:00",
+    "published": "2026-06-25T09:42:51+00:00"
+  },
+  "https://aisle.com/blog/aisle-discovers-6-new-cves-in-curl-including-the-oldest-issue-ever-reported": {
+    "title": "Aisle Discovers 6 New CVEs in Curl, Including the Oldest Issue Ever Reported",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-25T10:01:55.208180+00:00",
+    "published": "2026-06-25T08:07:54+00:00"
+  },
+  "https://utaw.tech/news/wikipedia-recognition": {
+    "title": "Wikipedia Workers in Britain set global first by seeking union recognition",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-25T10:01:55.208180+00:00",
+    "published": "2026-06-25T07:02:37+00:00"
+  },
+  "https://hl2.slqnt.dev": {
+    "title": "Half-Life 2 in a Browser",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-25T10:01:55.208180+00:00",
+    "published": "2026-06-25T06:00:04+00:00"
+  },
+  "https://jamesoclaire.com/2026/06/25/the-unbearable-cheapness-of-open-weight-models": {
+    "title": "The Unbearable Cheapness of Open Weight Models",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-25T10:01:55.208180+00:00",
+    "published": "2026-06-25T02:51:29+00:00"
+  },
+  "https://www.science.org/content/article/medical-students-are-using-popular-research-tool-pump-out-misleading-studies": {
+    "title": "Medical students are using popular research tool to pump out misleading studies",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-25T10:01:55.208180+00:00",
+    "published": "2026-06-25T02:30:18+00:00"
+  },
+  "https://www.economist.com/business/2026/06/21/zombie-unicorns-are-haunting-silicon-valley": {
+    "title": "Zombie unicorns are haunting Silicon Valley",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-25T10:01:55.208180+00:00",
+    "published": "2026-06-25T02:16:15+00:00"
+  },
+  "https://openai.com/index/how-agents-are-transforming-work": {
+    "title": "How agents are transforming work",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-06-25T10:01:55.208180+00:00",
+    "published": "2026-06-25T02:00:00+00:00"
+  },
+  "https://arxiv.org/abs/2603.15855": {
+    "title": "Mixing Visual and Textual Code",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-25T10:01:55.208180+00:00",
+    "published": "2026-06-25T01:11:10+00:00"
+  },
+  "https://lwn.net/Articles/1078380": {
+    "title": "[$] LWN.net Weekly Edition for June 25, 2026",
+    "source": "LWN.net",
+    "first_seen": "2026-06-25T10:01:55.208180+00:00",
+    "published": "2026-06-25T00:54:46+00:00"
+  },
+  "https://github.com/LuaJIT/LuaJIT/issues/1475": {
+    "title": "LuaJIT 3.0 proposed syntax extensions",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-25T10:01:55.208180+00:00",
+    "published": "2026-06-25T00:41:43+00:00"
+  },
+  "https://simonwillison.net/2026/Jun/24/browser-compat-db": {
+    "title": "simonw/browser-compat-db",
+    "source": "Simon Willison",
+    "first_seen": "2026-06-25T10:01:55.208180+00:00",
+    "published": "2026-06-24T23:59:03+00:00"
+  },
+  "https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious": {
+    "title": "Blogging can just be stating the obvious",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-25T10:01:55.208180+00:00",
+    "published": "2026-06-24T23:46:37+00:00"
+  },
+  "https://grafana.com/blog/grafana-13-1-release-all-the-latest-features": {
+    "title": "Grafana 13.1 release: observability as code updates, extending Grafana Assistant across more data sources, and more",
+    "source": "Grafana Blog",
+    "first_seen": "2026-06-25T10:01:55.208180+00:00",
+    "published": "2026-06-24T21:11:19+00:00"
+  },
+  "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24": {
+    "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-25T10:01:55.208180+00:00",
+    "published": "2026-06-24T19:48:01+00:00"
   }
 }
