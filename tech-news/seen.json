@@ -45104,5 +45104,167 @@
     "source": "Next.js Blog",
     "first_seen": "2026-06-25T21:30:39.230598+00:00",
     "published": "2026-06-24T20:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.2-Input": {
+    "title": "Linux 7.2 Adds New Driver For Wacom W9000 Pen-Enabled Touchscreens",
+    "source": "Phoronix",
+    "first_seen": "2026-06-26T10:03:17.988259+00:00",
+    "published": "2026-06-26T09:56:52+00:00"
+  },
+  "https://blog.angular.dev/demystifying-a2ui-how-to-make-ai-agents-speak-ui-in-your-app-e1ffea2303bd?source=rss----447683c3d9a3---4": {
+    "title": "Demystifying A2UI: How to Make AI Agents “Speak UI” in Your App",
+    "source": "Angular Blog",
+    "first_seen": "2026-06-26T10:03:17.988259+00:00",
+    "published": "2026-06-26T09:01:02+00:00"
+  },
+  "https://www.theguardian.com/food/2026/jun/26/how-much-the-hidden-costs-of-restaurant-dishes": {
+    "title": "How much? The hidden costs of restaurant dishes",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-26T10:03:17.988259+00:00",
+    "published": "2026-06-26T08:43:09+00:00"
+  },
+  "https://aditya.patadia.org/p/ai-and-cloud-costs": {
+    "title": "Why current LLM costs are not sustainable",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-26T10:03:17.988259+00:00",
+    "published": "2026-06-26T07:44:11+00:00"
+  },
+  "https://akrites.org/letter": {
+    "title": "We All Depend on Open Source. We Will Defend It Together",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-26T10:03:17.988259+00:00",
+    "published": "2026-06-26T05:40:36+00:00"
+  },
+  "https://graphicore.github.io/librebarcode": {
+    "title": "Libre Barcode Project",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-26T10:03:17.988259+00:00",
+    "published": "2026-06-26T03:12:42+00:00"
+  },
+  "https://www.fernandoi.cl/posts/hackmyclaw": {
+    "title": "What happened after 2k people tried to hack my AI assistant",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-26T10:03:17.988259+00:00",
+    "published": "2026-06-26T02:29:23+00:00"
+  },
+  "https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity": {
+    "title": "Framework's 10G Ethernet module exposes USB-C's complexity",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-26T10:03:17.988259+00:00",
+    "published": "2026-06-26T01:10:52+00:00"
+  },
+  "https://www.phoronix.com/news/Coreboot-26.06-Released": {
+    "title": "Coreboot 26.06 Brings Support For Intel Nova Lake, AMD Strix Halo & 31 New Boards",
+    "source": "Phoronix",
+    "first_seen": "2026-06-26T10:03:17.988259+00:00",
+    "published": "2026-06-26T00:39:22+00:00"
+  },
+  "https://aws.amazon.com/blogs/compute/build-reliable-voice-analytics-workflows-with-aws-lambda-durable-functions-and-amazon-bedrock": {
+    "title": "Build reliable voice analytics workflows with AWS Lambda durable functions and Amazon Bedrock",
+    "source": "AWS Compute Blog",
+    "first_seen": "2026-06-26T10:03:17.988259+00:00",
+    "published": "2026-06-26T00:31:35+00:00"
+  },
+  "https://www.phoronix.com/news/Ubuntu-26.10-Snapshot-2": {
+    "title": "Ubuntu 26.10 Snapshot 2 Released For Monthly Testing",
+    "source": "Phoronix",
+    "first_seen": "2026-06-26T10:03:17.988259+00:00",
+    "published": "2026-06-26T00:25:01+00:00"
+  },
+  "https://thenewstack.io/cloud-costs-private-repatriation": {
+    "title": "Public cloud vs. on-prem: Summit on where each workload belongs",
+    "source": "The New Stack",
+    "first_seen": "2026-06-26T10:03:17.988259+00:00",
+    "published": "2026-06-26T00:09:24+00:00"
+  },
+  "https://gchandbook.org": {
+    "title": "The Garbage Collection Handbook: The Art of Automatic Memory Management (2nd Ed) (2023)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-26T10:03:17.988259+00:00",
+    "published": "2026-06-25T23:10:30+00:00"
+  },
+  "https://github.blog/ai-and-ml/github-copilot/evaluating-performance-and-efficiency-of-the-github-copilot-agentic-harness-across-models-and-tasks": {
+    "title": "Evaluating performance and efficiency of the GitHub Copilot agentic harness across models and tasks",
+    "source": "GitHub Blog",
+    "first_seen": "2026-06-26T10:03:17.988259+00:00",
+    "published": "2026-06-25T22:59:45+00:00"
+  },
+  "https://engineering.fb.com/2026/06/25/security/privacy-aware-infrastructure-in-the-ai-native-era-an-asset-classification-case-study": {
+    "title": "Privacy-Aware Infrastructure in the AI-Native Era: An Asset Classification Case Study",
+    "source": "Meta Engineering",
+    "first_seen": "2026-06-26T10:03:17.988259+00:00",
+    "published": "2026-06-25T22:30:51+00:00"
+  },
+  "https://simonwillison.net/2026/Jun/25/ai-and-liability": {
+    "title": "AI and Liability",
+    "source": "Simon Willison",
+    "first_seen": "2026-06-26T10:03:17.988259+00:00",
+    "published": "2026-06-25T22:28:46+00:00"
+  },
+  "https://developer.nvidia.com/blog/streamlining-resource-binding-with-end-to-end-support-for-vulkan-descriptor-heaps": {
+    "title": "Streamlining Resource Binding with End-to-End Support for Vulkan Descriptor Heaps",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-06-26T10:03:17.988259+00:00",
+    "published": "2026-06-25T22:25:51+00:00"
+  },
+  "https://www.hashicorp.com/blog/deploy-boundary-on-kubernetes-with-official-helm-charts": {
+    "title": "Deploy Boundary on Kubernetes with official Helm charts",
+    "source": "HashiCorp Blog",
+    "first_seen": "2026-06-26T10:03:17.988259+00:00",
+    "published": "2026-06-25T22:00:00+00:00"
+  },
+  "https://kubernetes.io/blog/2026/06/25/headlamp-cluster-api-plugin": {
+    "title": "Introducing the Cluster API plugin for Headlamp",
+    "source": "Kubernetes Blog",
+    "first_seen": "2026-06-26T10:03:17.988259+00:00",
+    "published": "2026-06-25T22:00:00+00:00"
+  },
+  "https://expression.fire.org/p/the-papers-please-era-of-the-internet": {
+    "title": "The 'papers, please' era of the internet will decimate your privacy",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-26T10:03:17.988259+00:00",
+    "published": "2026-06-25T21:44:55+00:00"
+  },
+  "https://kubernetes.io/blog/2026/06/25/visual-context-volcano-headlamp-plugin": {
+    "title": "Inspect Volcano workloads faster with Headlamp",
+    "source": "Kubernetes Blog",
+    "first_seen": "2026-06-26T10:03:17.988259+00:00",
+    "published": "2026-06-25T20:00:00+00:00"
+  },
+  "https://kubernetes.io/blog/2026/06/25/headlamp-knative-plugin": {
+    "title": "See your serverless: introducing the Headlamp plugin for Knative",
+    "source": "Kubernetes Blog",
+    "first_seen": "2026-06-26T10:03:17.988259+00:00",
+    "published": "2026-06-25T18:00:00+00:00"
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead?embedded-checkout=true": {
+    "title": "Apple to skip high-end M6 Mac chips in favor of AI-focused M7 line",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-26T10:03:17.988259+00:00",
+    "published": "2026-06-25T17:38:44+00:00"
+  },
+  "https://simonwillison.net/2026/Jun/25/datasette-export-database": {
+    "title": "datasette-export-database 0.3a2",
+    "source": "Simon Willison",
+    "first_seen": "2026-06-26T10:03:17.988259+00:00",
+    "published": "2026-06-25T17:21:09+00:00"
+  },
+  "https://stackoverflow.blog/2026/06/25/code-isnt-causing-your-production-failures": {
+    "title": "Code isn’t the only thing causing your production failures​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌‌‍‌‍​﻿‍​​﻿​﻿‌‍‌‌‌‍​‍​﻿‌‌‌‍‌‍​﻿​​​‍﻿‌​﻿​‌​﻿​‍​﻿​﻿​﻿‌﻿​‍﻿‌​﻿‌​​﻿‍​​﻿‌﻿‌‍‌‍​‍﻿‌​﻿‍​​﻿‌​‌‍‌​​﻿‍​​‍﻿‌‌‍‌‍​﻿‌﻿‌‍​‌‌‍​‍‌‍‌‍​﻿​‍​﻿​﻿​﻿​‌​﻿‍​‌‍​﻿​﻿​﻿​﻿‍‌​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌‌‍‌‍​﻿‍​​﻿​﻿‌‍‌‌‌‍​‍​﻿‌‌‌‍‌‍​﻿​​​‍﻿‌​﻿​‌​﻿​‍​﻿​﻿​﻿‌﻿​‍﻿‌​﻿‌​​﻿‍​​﻿‌﻿‌‍‌‍​‍﻿‌​﻿‍​​﻿‌​‌‍‌​​﻿‍​​‍﻿‌‌‍‌‍​﻿‌﻿‌‍​‌‌‍​‍‌‍‌‍​﻿​‍​﻿​﻿​﻿​‌​﻿‍​‌‍​﻿​﻿​﻿​﻿‍‌​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌",
+    "source": "Stack Overflow Blog",
+    "first_seen": "2026-06-26T10:03:17.988259+00:00",
+    "published": "2026-06-25T07:40:00+00:00"
+  },
+  "https://www.hashicorp.com/blog/boundary-1-releases-with-rdp-session-recording-and-improved-management": {
+    "title": "Boundary 1.0 releases RDP session recording and improved management",
+    "source": "HashiCorp Blog",
+    "first_seen": "2026-06-26T10:03:17.988259+00:00",
+    "published": "2026-06-25T07:09:00+00:00"
+  },
+  "https://www.hashicorp.com/blog/scaling-without-friction-aliases-at-project-scope-in-boundary": {
+    "title": "Scaling without friction: Aliases at project scope in Boundary",
+    "source": "HashiCorp Blog",
+    "first_seen": "2026-06-26T10:03:17.988259+00:00",
+    "published": "2026-06-25T07:00:00+00:00"
   }
 }
