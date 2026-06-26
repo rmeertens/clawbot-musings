@@ -45434,5 +45434,233 @@
     "source": "Phoronix",
     "first_seen": "2026-06-26T15:42:35.043629+00:00",
     "published": "2026-06-26T10:19:51+00:00"
+  },
+  "https://simonwillison.net/2026/Jun/26/timothy-b-lee": {
+    "title": "Quoting Timothy B. Lee",
+    "source": "Simon Willison",
+    "first_seen": "2026-06-26T21:26:37.059615+00:00",
+    "published": "2026-06-26T21:15:09+00:00"
+  },
+  "https://www.schneier.com/blog/archives/2026/06/the-chinese-control-the-majority-of-argentinas-squid-fleet.html": {
+    "title": "The Chinese Control the Majority of Argentina’s Squid Fleet",
+    "source": "Schneier on Security",
+    "first_seen": "2026-06-26T21:26:37.059615+00:00",
+    "published": "2026-06-26T20:57:04+00:00"
+  },
+  "https://www.databricks.com/blog/how-databricks-turning-video-searchable-actionable-intelligence": {
+    "title": "How Databricks is turning video into searchable, actionable intelligence",
+    "source": "Databricks Blog",
+    "first_seen": "2026-06-26T21:26:37.059615+00:00",
+    "published": "2026-06-26T20:30:00+00:00"
+  },
+  "https://www.databricks.com/blog/decision-framework-etl-migration-databricks": {
+    "title": "A Decision Framework for ETL Migration to Databricks",
+    "source": "Databricks Blog",
+    "first_seen": "2026-06-26T21:26:37.059615+00:00",
+    "published": "2026-06-26T20:20:00+00:00"
+  },
+  "https://www.databricks.com/blog/how-english-office-students-leverages-databricks-enhance-higher-education-standards-and-drive": {
+    "title": "How the English Office for Students leverages Databricks to enhance higher education standards and drive better student outcomes",
+    "source": "Databricks Blog",
+    "first_seen": "2026-06-26T21:26:37.059615+00:00",
+    "published": "2026-06-26T20:15:00+00:00"
+  },
+  "https://kotaku.com/playstation-store-movies-digital-studio-canal-terminator-2000711013": {
+    "title": "PlayStation Is Deleting 551 Movies from Customers' Accounts",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-26T21:26:37.059615+00:00",
+    "published": "2026-06-26T20:07:18+00:00"
+  },
+  "https://www.bbc.com/news/articles/c74yn7v7k4qo": {
+    "title": "Long Wave radio era set to end with Droitwich switch-off",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-26T21:26:37.059615+00:00",
+    "published": "2026-06-26T19:12:20+00:00"
+  },
+  "https://developer.nvidia.com/blog/deploy-a-production-ready-nvidia-ai-q-blueprint-on-oracle-cloud-infrastructure": {
+    "title": "Deploy a Production-Ready NVIDIA AI-Q Blueprint on Oracle Cloud Infrastructure",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-06-26T21:26:37.059615+00:00",
+    "published": "2026-06-26T19:00:45+00:00"
+  },
+  "https://thenewstack.io/akrites-open-source-vulnerability-coordination": {
+    "title": "After Fable 5 ban, Anthropic and 19 organizations launch open source security body",
+    "source": "The New Stack",
+    "first_seen": "2026-06-26T21:26:37.059615+00:00",
+    "published": "2026-06-26T18:36:35+00:00"
+  },
+  "https://simonwillison.net/2026/Jun/26/hack-my-ai-assistant": {
+    "title": "What happened after 2,000 people tried to hack my AI assistant",
+    "source": "Simon Willison",
+    "first_seen": "2026-06-26T21:26:37.059615+00:00",
+    "published": "2026-06-26T18:33:14+00:00"
+  },
+  "https://gossamer-lang.org": {
+    "title": "Gossamer: a Rust-flavoured language with real goroutines and pause-free memory",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-26T21:26:37.059615+00:00",
+    "published": "2026-06-26T18:32:22+00:00"
+  },
+  "https://github.com/skx/slisp": {
+    "title": "Slisp: Simple Lisp compiler (Linux/amd64)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-26T21:26:37.059615+00:00",
+    "published": "2026-06-26T18:30:11+00:00"
+  },
+  "https://research.google/blog/accelerating-gemini-nano-models-on-pixel-with-frozen-multi-token-prediction": {
+    "title": "Accelerating Gemini Nano models on Pixel with frozen Multi-Token Prediction",
+    "source": "Google Research",
+    "first_seen": "2026-06-26T21:26:37.059615+00:00",
+    "published": "2026-06-26T18:30:00+00:00"
+  },
+  "https://thenewstack.io/openai-gpt56-access-restricted": {
+    "title": "The US government just told OpenAI who’s allowed to use the next GPT 5.6 model",
+    "source": "The New Stack",
+    "first_seen": "2026-06-26T21:26:37.059615+00:00",
+    "published": "2026-06-26T18:26:50+00:00"
+  },
+  "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model": {
+    "title": "U.S. government will decide who gets to use GPT-5.6",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-26T21:26:37.059615+00:00",
+    "published": "2026-06-26T18:23:14+00:00"
+  },
+  "https://www.phoronix.com/news/Intel-HDR-Over-DP-MST": {
+    "title": "New Intel Linux Driver Patches Enable HDR Over DP MST Connections",
+    "source": "Phoronix",
+    "first_seen": "2026-06-26T21:26:37.059615+00:00",
+    "published": "2026-06-26T18:21:59+00:00"
+  },
+  "https://acoup.blog/2026/06/26/collections-pre-modern-armies-for-worldbuilders-part-iii-paying-for-it": {
+    "title": "Pre-Modern Armies for Worldbuilders, Part III: Paying for It",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-26T21:26:37.059615+00:00",
+    "published": "2026-06-26T18:04:05+00:00"
+  },
+  "https://lwn.net/Articles/1078697": {
+    "title": "[$] Reports from OSPM 2026, day three",
+    "source": "LWN.net",
+    "first_seen": "2026-06-26T21:26:37.059615+00:00",
+    "published": "2026-06-26T18:01:46+00:00"
+  },
+  "https://cloud.google.com/blog/products/identity-security/securing-agentic-ai-whats-new-in-vpc-service-controls": {
+    "title": "Securing agentic AI with perimeter guardrails: What's new in VPC Service Controls",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-06-26T21:26:37.059615+00:00",
+    "published": "2026-06-26T18:00:00+00:00"
+  },
+  "https://simonwillison.net/2026/Jun/26/incident-report": {
+    "title": "Incident Report: CVE-2026-LGTM",
+    "source": "Simon Willison",
+    "first_seen": "2026-06-26T21:26:37.059615+00:00",
+    "published": "2026-06-26T17:58:54+00:00"
+  },
+  "https://github.com/tau-org/tau-tower": {
+    "title": "Webradio server – broadcasts audio source to clients",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-26T21:26:37.059615+00:00",
+    "published": "2026-06-26T17:57:06+00:00"
+  },
+  "https://lefakkomies.github.io/pynomo-doc/introduction/introduction.html": {
+    "title": "What Is a Nomogram and Why Would It Interest Me?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-26T21:26:37.059615+00:00",
+    "published": "2026-06-26T17:24:25+00:00"
+  },
+  "https://www.newsweek.com/cost-me-the-election-data-centers-trigger-voter-backlash-12118327": {
+    "title": "Data centers trigger voter backlash",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-26T21:26:37.059615+00:00",
+    "published": "2026-06-26T17:24:21+00:00"
+  },
+  "https://lwn.net/Articles/1078767": {
+    "title": "[$] Initiating writeback earlier",
+    "source": "LWN.net",
+    "first_seen": "2026-06-26T21:26:37.059615+00:00",
+    "published": "2026-06-26T17:14:30+00:00"
+  },
+  "https://simonwillison.net/2026/Jun/26/openai": {
+    "title": "Quoting OpenAI",
+    "source": "Simon Willison",
+    "first_seen": "2026-06-26T21:26:37.059615+00:00",
+    "published": "2026-06-26T17:10:43+00:00"
+  },
+  "https://openai.com/index/previewing-gpt-5-6-sol": {
+    "title": "Previewing GPT‑5.6 Sol: a next-generation model",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-26T21:26:37.059615+00:00",
+    "published": "2026-06-26T17:06:55+00:00"
+  },
+  "https://www.ycombinator.com/companies/liva-ai/jobs/gvtc3Ep-founding-operations-lead": {
+    "title": "Liva AI (YC S25) Is Hiring",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-26T21:26:37.059615+00:00",
+    "published": "2026-06-26T17:00:43+00:00"
+  },
+  "https://stratechery.com/2026/summer-vibes": {
+    "title": "2026.26: Summer Vibes",
+    "source": "Stratechery",
+    "first_seen": "2026-06-26T21:26:37.059615+00:00",
+    "published": "2026-06-26T17:00:00+00:00"
+  },
+  "https://github.blog/open-source/social-impact/github-and-undp-team-up-to-advance-development-priorities-in-ghana-with-open-source": {
+    "title": "GitHub and UNDP team up to advance development priorities in Ghana with open source",
+    "source": "GitHub Blog",
+    "first_seen": "2026-06-26T21:26:37.059615+00:00",
+    "published": "2026-06-26T16:53:57+00:00"
+  },
+  "https://www.schneier.com/blog/archives/2026/06/meta-is-testing-facial-recognition-for-police-and-military.html": {
+    "title": "Meta Is Testing Facial Recognition for Police and Military",
+    "source": "Schneier on Security",
+    "first_seen": "2026-06-26T21:26:37.059615+00:00",
+    "published": "2026-06-26T16:40:56+00:00"
+  },
+  "https://github.com/workweave/router": {
+    "title": "Show HN: Smart model routing directly in Claude, Codex and Cursor",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-26T21:26:37.059615+00:00",
+    "published": "2026-06-26T16:40:11+00:00"
+  },
+  "https://cloud.google.com/blog/products/management-tools/alert-with-sql-in-cloud-monitoring-observability-analytics": {
+    "title": "From query to action: Introducing SQL alerting in Cloud Monitoring Observability Analytics",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-06-26T21:26:37.059615+00:00",
+    "published": "2026-06-26T16:30:00+00:00"
+  },
+  "https://developer.nvidia.com/blog/creating-the-nvidia-nemotron-3-ultra-nvfp4-checkpoint-with-nvidia-model-optimizer": {
+    "title": "Creating the NVIDIA Nemotron 3 Ultra NVFP4 Checkpoint with NVIDIA Model Optimizer",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-06-26T21:26:37.059615+00:00",
+    "published": "2026-06-26T16:00:35+00:00"
+  },
+  "https://www.hashicorp.com/blog/terraform-mcp-server-four-real-world-ai-infrastructure-patterns": {
+    "title": "Terraform MCP server: Four real-world AI infrastructure patterns",
+    "source": "HashiCorp Blog",
+    "first_seen": "2026-06-26T21:26:37.059615+00:00",
+    "published": "2026-06-26T16:00:00+00:00"
+  },
+  "https://www.jtekt.co.jp/e/products/capacitor/capacitor_about.html": {
+    "title": "What is a Lithium-ion capacitor?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-26T21:26:37.059615+00:00",
+    "published": "2026-06-26T15:51:19+00:00"
+  },
+  "https://www.phoronix.com/review/nvidia-vera-gb10": {
+    "title": "How NVIDIA GB10 CPU Performance Compares To Vera",
+    "source": "Phoronix",
+    "first_seen": "2026-06-26T21:26:37.059615+00:00",
+    "published": "2026-06-26T15:50:52+00:00"
+  },
+  "https://nextjs.org/blog/next-16-3-ai-improvements": {
+    "title": "Next.js 16.3: AI Improvements",
+    "source": "Next.js Blog",
+    "first_seen": "2026-06-26T21:26:37.059615+00:00",
+    "published": "2026-06-26T15:00:00+00:00"
+  },
+  "https://golangweekly.com/issues/607": {
+    "title": "Comparing six Go cache designs",
+    "source": "Golang Weekly",
+    "first_seen": "2026-06-26T21:26:37.059615+00:00",
+    "published": "2026-06-26T00:00:00+00:00"
   }
 }
