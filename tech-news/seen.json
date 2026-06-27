@@ -45764,5 +45764,125 @@
     "source": "Kubernetes Blog",
     "first_seen": "2026-06-27T09:40:05.576177+00:00",
     "published": "2026-06-26T18:00:00+00:00"
+  },
+  "https://thenewstack.io/runtime-verification-coding-agents": {
+    "title": "Greptile, Cursor, and Devin agree that agents should run their code. What they run it against matters.",
+    "source": "The New Stack",
+    "first_seen": "2026-06-27T15:24:47.003659+00:00",
+    "published": "2026-06-27T15:00:00+00:00"
+  },
+  "https://pluralistic.net/2026/06/27/zuckerstreisand-2": {
+    "title": "Zuckerberg's Increasingly Bizarre War on Whistleblowers",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-27T15:24:47.003659+00:00",
+    "published": "2026-06-27T14:38:05+00:00"
+  },
+  "https://cephalosec.com/blog/cybersecurity-in-the-post-mythos-era-keep-calm-and-carry-on": {
+    "title": "Post-Mythos Cybersecurity: Keep calm and carry on",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-27T15:24:47.003659+00:00",
+    "published": "2026-06-27T14:23:40+00:00"
+  },
+  "https://lwn.net/Articles/1079852": {
+    "title": "Three stable kernel updates",
+    "source": "LWN.net",
+    "first_seen": "2026-06-27T15:24:47.003659+00:00",
+    "published": "2026-06-27T13:59:19+00:00"
+  },
+  "https://danluu.com/discontinuities": {
+    "title": "Suspicious Discontinuities",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-27T15:24:47.003659+00:00",
+    "published": "2026-06-27T13:32:20+00:00"
+  },
+  "https://arstechnica.com/gadgets/2026/06/streaming-services-obnoxiously-loud-ads-become-illegal-on-july-1-in-california": {
+    "title": "Streaming services' obnoxiously loud ads become illegal on July 1 in California",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-27T15:24:47.003659+00:00",
+    "published": "2026-06-27T12:43:16+00:00"
+  },
+  "https://www.quantamagazine.org/how-many-elementary-particles-are-there-really-20260615": {
+    "title": "How Many Elementary Particles Are There, Really?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-27T15:24:47.003659+00:00",
+    "published": "2026-06-27T12:40:59+00:00"
+  },
+  "https://www.openra.net": {
+    "title": "OpenRA",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-27T15:24:47.003659+00:00",
+    "published": "2026-06-27T12:10:27+00:00"
+  },
+  "https://www.construction-physics.com/p/reading-list-062726": {
+    "title": "Reading List 06/27/26",
+    "source": "Construction Physics",
+    "first_seen": "2026-06-27T15:24:47.003659+00:00",
+    "published": "2026-06-27T12:02:02+00:00"
+  },
+  "https://www.ycombinator.com/companies/nox-metals/jobs/M1f1enD-software-engineer": {
+    "title": "Nox Metals (YC S25) Is Hiring SWE",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-27T15:24:47.003659+00:00",
+    "published": "2026-06-27T12:01:03+00:00"
+  },
+  "https://dervis.de/physical": {
+    "title": "If you can't hold it, you don't own it",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-27T15:24:47.003659+00:00",
+    "published": "2026-06-27T11:32:10+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-MD-RAID5-Scalability-Work": {
+    "title": "Linux MD RAID5 Seeing Scalability Improvements Up To 17%",
+    "source": "Phoronix",
+    "first_seen": "2026-06-27T15:24:47.003659+00:00",
+    "published": "2026-06-27T11:17:06+00:00"
+  },
+  "https://www.phoronix.com/news/GNOME-Newelle-Image-Gen": {
+    "title": "GNOME AI Assistant Adds Image Generation Support",
+    "source": "Phoronix",
+    "first_seen": "2026-06-27T15:24:47.003659+00:00",
+    "published": "2026-06-27T10:43:29+00:00"
+  },
+  "https://thenewstack.io/vibe-coding-context-debt": {
+    "title": "Vibe slop is the symptom. Context debt is the disease.",
+    "source": "The New Stack",
+    "first_seen": "2026-06-27T15:24:47.003659+00:00",
+    "published": "2026-06-27T10:30:00+00:00"
+  },
+  "https://www.phoronix.com/news/KDE-Plasma-This-Week-Crashes": {
+    "title": "KDE Plasma 6.7.2 To Fix KWin's Most Common Crash, Plasma 6.8 To Not Crash When Ejecting CDs",
+    "source": "Phoronix",
+    "first_seen": "2026-06-27T15:24:47.003659+00:00",
+    "published": "2026-06-27T10:29:00+00:00"
+  },
+  "https://w.pitula.me/fintech-engineering-handbook": {
+    "title": "Fintech Engineering Handbook",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-27T15:24:47.003659+00:00",
+    "published": "2026-06-27T10:28:53+00:00"
+  },
+  "https://www.phoronix.com/news/COSMIC-System-Monitor": {
+    "title": "COSMIC's New System Monitor Is Looking Very Slick",
+    "source": "Phoronix",
+    "first_seen": "2026-06-27T15:24:47.003659+00:00",
+    "published": "2026-06-27T10:02:31+00:00"
+  },
+  "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf": {
+    "title": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-27T15:24:47.003659+00:00",
+    "published": "2026-06-27T09:18:52+00:00"
+  },
+  "https://www.beercss.com": {
+    "title": "Beer CSS – Build material design in record time",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-27T15:24:47.003659+00:00",
+    "published": "2026-06-27T09:06:11+00:00"
+  },
+  "https://azure.microsoft.com/en-us/blog/the-performance-dividend-optimizing-postgresql-on-azure-directly-in-visual-studio-code": {
+    "title": "The performance dividend: Optimizing PostgreSQL on Azure directly in Visual Studio Code",
+    "source": "Azure Blog",
+    "first_seen": "2026-06-27T15:24:47.003659+00:00",
+    "published": "2026-06-26T17:00:00+00:00"
   }
 }
