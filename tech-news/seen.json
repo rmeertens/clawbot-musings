@@ -45662,5 +45662,107 @@
     "source": "Golang Weekly",
     "first_seen": "2026-06-26T21:26:37.059615+00:00",
     "published": "2026-06-26T00:00:00+00:00"
+  },
+  "https://github.com/schlae/IBM_MCGA": {
+    "title": "IBM MCGA Gate Array Reverse Engineering",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-27T09:40:05.576177+00:00",
+    "published": "2026-06-27T05:17:08+00:00"
+  },
+  "https://www.openttd.org/news/2026/06/25/openttd-16-0-beta1": {
+    "title": "OpenTTD 16.0-Beta1",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-27T09:40:05.576177+00:00",
+    "published": "2026-06-27T04:31:06+00:00"
+  },
+  "https://www.sfwriter.com/wordstar.htm": {
+    "title": "WordStar: A Writer's Word Processor (1996)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-27T09:40:05.576177+00:00",
+    "published": "2026-06-27T03:30:01+00:00"
+  },
+  "https://www.docker.com/blog/eu-ai-act-compliance": {
+    "title": "What Does EU AI Act Compliance Require?",
+    "source": "Docker Blog",
+    "first_seen": "2026-06-27T09:40:05.576177+00:00",
+    "published": "2026-06-27T03:11:14+00:00"
+  },
+  "https://grack.com/blog/2026/06/25/dissecting-a-failed-nation-state-attack": {
+    "title": "Anatomy of a Failed (Nation-State?) Attack",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-27T09:40:05.576177+00:00",
+    "published": "2026-06-27T02:41:53+00:00"
+  },
+  "https://popflame.quickish.space/hn-flipboard": {
+    "title": "Show HN: Hacker News on a train station-style flip board",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-27T09:40:05.576177+00:00",
+    "published": "2026-06-27T00:43:39+00:00"
+  },
+  "https://www.phoronix.com/news/Shotcut-26.6-Released": {
+    "title": "Shotcut 26.6 Released With HDR Improvements, Vulkan Display On Linux",
+    "source": "Phoronix",
+    "first_seen": "2026-06-27T09:40:05.576177+00:00",
+    "published": "2026-06-27T00:10:03+00:00"
+  },
+  "https://news.mccombs.utexas.edu/research/foreign-funds-help-make-housing-unaffordable": {
+    "title": "Foreign funds help make housing unaffordable: research",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-27T09:40:05.576177+00:00",
+    "published": "2026-06-26T23:36:30+00:00"
+  },
+  "https://daringfireball.net/2026/06/om": {
+    "title": "Om",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-27T09:40:05.576177+00:00",
+    "published": "2026-06-26T23:33:46+00:00"
+  },
+  "https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies": {
+    "title": "U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-27T09:40:05.576177+00:00",
+    "published": "2026-06-26T22:48:28+00:00"
+  },
+  "https://physics.stackexchange.com/questions/535/why-does-kinetic-energy-increase-quadratically-not-linearly-with-speed": {
+    "title": "Why does kinetic energy increase quadratically, not linearly, with speed? (2011)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-27T09:40:05.576177+00:00",
+    "published": "2026-06-26T22:43:29+00:00"
+  },
+  "https://spectrum.ieee.org/ai-in-mathematics": {
+    "title": "AI in mathematics is forcing big questions",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-27T09:40:05.576177+00:00",
+    "published": "2026-06-26T22:36:51+00:00"
+  },
+  "https://simonwillison.net/2026/Jun/26/dean-w-ball": {
+    "title": "Quoting Dean W. Ball",
+    "source": "Simon Willison",
+    "first_seen": "2026-06-27T09:40:05.576177+00:00",
+    "published": "2026-06-26T22:25:46+00:00"
+  },
+  "https://github.com/Tessil/hopscotch-map": {
+    "title": "A C++ implementation of a fast hash map and hash set using hopscotch hashing",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-27T09:40:05.576177+00:00",
+    "published": "2026-06-26T21:18:28+00:00"
+  },
+  "https://blog.doubleword.ai/frontier-os-llm": {
+    "title": "The gap between open weights LLMs and closed source LLMs",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-27T09:40:05.576177+00:00",
+    "published": "2026-06-26T21:14:47+00:00"
+  },
+  "https://www.eff.org/deeplinks/2026/06/we-can-still-stop-californias-3d-printer-surveillance-scheme": {
+    "title": "We can still stop California's 3D printer surveillance scheme",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-27T09:40:05.576177+00:00",
+    "published": "2026-06-26T21:13:50+00:00"
+  },
+  "https://kubernetes.io/blog/2026/06/26/open-source-maintainership-in-the-age-of-ai": {
+    "title": "Open source maintainership in the age of AI",
+    "source": "Kubernetes Blog",
+    "first_seen": "2026-06-27T09:40:05.576177+00:00",
+    "published": "2026-06-26T18:00:00+00:00"
   }
 }
