@@ -46166,5 +46166,143 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-06-28T15:25:30.769248+00:00",
     "published": "2026-06-28T09:53:58+00:00"
+  },
+  "https://lwn.net/Articles/1079891": {
+    "title": "Kernel prepatch 7.2-rc1",
+    "source": "LWN.net",
+    "first_seen": "2026-06-28T21:21:17.140238+00:00",
+    "published": "2026-06-28T20:08:00+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.2-rc1-Released": {
+    "title": "Linux 7.2-rc1 Released: \"Things Look Reasonably Normal\" While Landing AMDGPU HDMI 2.1 FRL, AMD ISP4 & CAS",
+    "source": "Phoronix",
+    "first_seen": "2026-06-28T21:21:17.140238+00:00",
+    "published": "2026-06-28T20:04:19+00:00"
+  },
+  "https://github.com/kamaludu/bash4llm": {
+    "title": "Show HN: Bash4LLM+ – A lightweight, dependency-free Bash wrapper for LLM APIs",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-28T21:21:17.140238+00:00",
+    "published": "2026-06-28T19:43:10+00:00"
+  },
+  "https://github.com/JustVugg/nanoeuler": {
+    "title": "Show HN: NanoEuler – GPT-2 scale model in pure C/CUDA from scratch",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-28T21:21:17.140238+00:00",
+    "published": "2026-06-28T19:38:14+00:00"
+  },
+  "https://chipsandcheese.com/p/top500-at-isc26-we-have-a-new-number": {
+    "title": "TOP500 at ISC'26: We Have a New Number 1 – By George Cozma",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-28T21:21:17.140238+00:00",
+    "published": "2026-06-28T19:38:00+00:00"
+  },
+  "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short": {
+    "title": "Ford rehires 'gray beard' engineers after AI falls short",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-28T21:21:17.140238+00:00",
+    "published": "2026-06-28T19:35:57+00:00"
+  },
+  "https://www.pcmag.com/opinions/the-us-used-to-demand-the-best-tech-now-we-ban-it": {
+    "title": "The US Used to Demand the Best Tech. Now We Ban It",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-28T21:21:17.140238+00:00",
+    "published": "2026-06-28T19:07:49+00:00"
+  },
+  "https://blog.pascalschuster.de/article/do-llms-pass-the-mirror-test": {
+    "title": "Do LLMs pass the mirror test?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-28T21:21:17.140238+00:00",
+    "published": "2026-06-28T19:06:07+00:00"
+  },
+  "https://archive.org/details/colby1968-computer-aided-language-development-in-non-speaking-children": {
+    "title": "Computer-Aided Language Development in Nonspeaking Children (1968) [pdf]",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-28T21:21:17.140238+00:00",
+    "published": "2026-06-28T18:59:53+00:00"
+  },
+  "https://www.phoronix.com/news/Intel-Linux-Q2-2026": {
+    "title": "USB4STREAM, Optimizations, Jay & Other Popular Intel Linux News From This Quarter",
+    "source": "Phoronix",
+    "first_seen": "2026-06-28T21:21:17.140238+00:00",
+    "published": "2026-06-28T18:49:28+00:00"
+  },
+  "https://github.com/librepods-org/librepods": {
+    "title": "Librepods: AirPods liberated",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-28T21:21:17.140238+00:00",
+    "published": "2026-06-28T18:48:53+00:00"
+  },
+  "https://dam.stanford.edu/memory-prices.html": {
+    "title": "Historical memory prices 1960-2026",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-28T21:21:17.140238+00:00",
+    "published": "2026-06-28T18:32:53+00:00"
+  },
+  "https://newsletter.kentbeck.com/p/the-cost-yagni-was-never-about": {
+    "title": "The cost YAGNI was never about",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-28T21:21:17.140238+00:00",
+    "published": "2026-06-28T18:31:54+00:00"
+  },
+  "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks": {
+    "title": "GLM 5.2 beats Claude in our benchmarks",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-28T21:21:17.140238+00:00",
+    "published": "2026-06-28T17:50:47+00:00"
+  },
+  "http://oldvcr.blogspot.com/2026/06/working-around-dragons-with-lemote.html": {
+    "title": "Working around dragons with the Lemote Yeeloong laptop and OpenBSD",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-28T21:21:17.140238+00:00",
+    "published": "2026-06-28T16:58:59+00:00"
+  },
+  "https://frequal.com/Perspectives/DrmFreeAuthors.html": {
+    "title": "Show HN: DRM-Free Books",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-28T21:21:17.140238+00:00",
+    "published": "2026-06-28T16:58:56+00:00"
+  },
+  "https://antoine.fi/mri-analysis-using-claude-code-opus": {
+    "title": "I used Claude Code to get a second opinion on my MRI",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-28T21:21:17.140238+00:00",
+    "published": "2026-06-28T16:35:19+00:00"
+  },
+  "https://www.openculture.com/2020/10/daisugi.html": {
+    "title": "Daisugi, the Japanese technique of growing trees out of other trees (2020)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-28T21:21:17.140238+00:00",
+    "published": "2026-06-28T16:28:50+00:00"
+  },
+  "https://12gramsofcarbon.com/p/agentics-tech-things-tokenmaxxing": {
+    "title": "Tokenmaxxing is dead, long live tokenmaxxing",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-28T21:21:17.140238+00:00",
+    "published": "2026-06-28T16:24:10+00:00"
+  },
+  "https://www.righto.com/2026/06/space-shuttle-io-processor-boards.html": {
+    "title": "Examining circuit boards from the Space Shuttle's I/O Processor",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-28T21:21:17.140238+00:00",
+    "published": "2026-06-28T16:16:07+00:00"
+  },
+  "https://arxiv.org/abs/2606.25313": {
+    "title": "Programmable Probabilistic Computer with 1M p-bits",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-28T21:21:17.140238+00:00",
+    "published": "2026-06-28T15:55:31+00:00"
+  },
+  "https://zanagrams.com": {
+    "title": "Show HN: Zanagrams",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-28T21:21:17.140238+00:00",
+    "published": "2026-06-28T15:26:14+00:00"
+  },
+  "https://pudding.cool/2026/06/menu-story": {
+    "title": "5k menus from the New York Public Library’s Buttolph Collection (1880-1920)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-28T21:21:17.140238+00:00",
+    "published": "2026-06-28T14:44:56+00:00"
   }
 }
