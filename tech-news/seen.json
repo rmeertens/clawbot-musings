@@ -45956,5 +45956,83 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-06-27T21:21:18.626370+00:00",
     "published": "2026-06-27T07:51:26+00:00"
+  },
+  "https://nikkei.shorthandstories.com/can-china-build-its-own-asml": {
+    "title": "Can China build its own ASML?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-28T09:58:54.862690+00:00",
+    "published": "2026-06-28T07:45:23+00:00"
+  },
+  "https://github.com/cfenollosa/bashblog": {
+    "title": "Bashblog – a single bash script to create blogs",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-28T09:58:54.862690+00:00",
+    "published": "2026-06-28T04:48:32+00:00"
+  },
+  "https://github.com/itsthelore/wayfinder-router": {
+    "title": "Wayfinder Router: deterministic routing of queries between local and hosted LLM",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-28T09:58:54.862690+00:00",
+    "published": "2026-06-28T04:31:18+00:00"
+  },
+  "https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html": {
+    "title": "Ford hired AI and sacked humans. It backfired badly",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-28T09:58:54.862690+00:00",
+    "published": "2026-06-28T03:09:13+00:00"
+  },
+  "https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep": {
+    "title": "Marfa Public Radio Puts You to Sleep",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-28T09:58:54.862690+00:00",
+    "published": "2026-06-28T02:23:08+00:00"
+  },
+  "https://jayacunzo.com/blog/your-move-chief": {
+    "title": "The best response to AI slop and online noise is from Robin Williams",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-28T09:58:54.862690+00:00",
+    "published": "2026-06-28T01:28:10+00:00"
+  },
+  "https://the.scapegoat.dev/turning-music-into-a-chore-is-what-made-me-an-artist": {
+    "title": "Turning music into a chore is how I became a musician (2022)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-28T09:58:54.862690+00:00",
+    "published": "2026-06-28T01:22:30+00:00"
+  },
+  "https://decomp-academy.dev": {
+    "title": "Show HN: Decomp Academy – Learn to decompile GameCube games into matching C",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-28T09:58:54.862690+00:00",
+    "published": "2026-06-28T01:21:20+00:00"
+  },
+  "https://www.phoronix.com/news/Nourish-Wayland-Compositor": {
+    "title": "Nourish: A New Wayland Compositor Powered By Vulkan With Infinite Scrolling/Panning",
+    "source": "Phoronix",
+    "first_seen": "2026-06-28T09:58:54.862690+00:00",
+    "published": "2026-06-28T00:52:23+00:00"
+  },
+  "https://github.com/kyuz0/amd-strix-halo-vllm-toolboxes/blob/main/rdma_cluster/setup_guide.md": {
+    "title": "AMD Strix Halo RDMA Cluster Setup Guide",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-28T09:58:54.862690+00:00",
+    "published": "2026-06-28T00:46:52+00:00"
+  },
+  "https://clickhouse.com/blog/walrus-postgres-backups-in-rust": {
+    "title": "WAL-RUS: a Rust Rewrite of WAL-G for PostgreSQL Backups",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-28T09:58:54.862690+00:00",
+    "published": "2026-06-27T23:32:58+00:00"
+  },
+  "https://evilbit.de/dns-resolver-guide.html": {
+    "title": "Choosing a Public DNS Resolver",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-28T09:58:54.862690+00:00",
+    "published": "2026-06-27T22:11:28+00:00"
+  },
+  "https://dobrowolski.dev/article/enhancing-x11-application-security-with-lxc": {
+    "title": "Enhancing X11 Application Security with LXC (2025)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-28T09:58:54.862690+00:00",
+    "published": "2026-06-27T21:27:36+00:00"
   }
 }
