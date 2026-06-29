@@ -46304,5 +46304,119 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-06-28T21:21:17.140238+00:00",
     "published": "2026-06-28T14:44:56+00:00"
+  },
+  "https://www.phoronix.com/news/ZLUDA-6-Released": {
+    "title": "ZLUDA v6 Gets PhysX Running Well On AMD GPUs But Loses Commercial Funding",
+    "source": "Phoronix",
+    "first_seen": "2026-06-29T10:31:41.423332+00:00",
+    "published": "2026-06-29T10:20:00+00:00"
+  },
+  "https://www.phoronix.com/news/TLAC-Open-Source-Anti-Cheat": {
+    "title": "TLAC Aims To Be An Open-Source Alternative To Kernel-Level Anti-Cheat Systems",
+    "source": "Phoronix",
+    "first_seen": "2026-06-29T10:31:41.423332+00:00",
+    "published": "2026-06-29T10:06:05+00:00"
+  },
+  "https://stratechery.com/2026/summer-break-week-of-june-29": {
+    "title": "Summer Break: Week of June 29",
+    "source": "Stratechery",
+    "first_seen": "2026-06-29T10:31:41.423332+00:00",
+    "published": "2026-06-29T10:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/RADV-Descriptor-Heap-Default": {
+    "title": "RADV Enables Vulkan Descriptor Heap Support By Default",
+    "source": "Phoronix",
+    "first_seen": "2026-06-29T10:31:41.423332+00:00",
+    "published": "2026-06-29T09:35:52+00:00"
+  },
+  "https://blog.pragmaticengineer.com/pollen-tried-to-remove-my-article-about-callum-negus-fancey-and-google-is-assisting-to-it": {
+    "title": "Pollen (CEO Negus-Fancey, CTO Wright) tried to remove article, and Google helped",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-29T10:31:41.423332+00:00",
+    "published": "2026-06-29T09:28:08+00:00"
+  },
+  "https://www.phoronix.com/news/OpenAPV-0.3": {
+    "title": "OpenAPV 0.3 Adds APV RAW Encoding/Decoding Support",
+    "source": "Phoronix",
+    "first_seen": "2026-06-29T10:31:41.423332+00:00",
+    "published": "2026-06-29T09:20:04+00:00"
+  },
+  "https://arstechnica.com/science/2026/06/why-did-this-journal-retract-two-1940s-papers-by-max-planck": {
+    "title": "Why did this journal retract two 1940s papers by Max Planck?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-29T10:31:41.423332+00:00",
+    "published": "2026-06-29T08:58:09+00:00"
+  },
+  "https://openai.com/index/mapping-ai-jobs-transition-eu": {
+    "title": "Mapping Europe’s AI Workforce Opportunity",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-06-29T10:31:41.423332+00:00",
+    "published": "2026-06-29T07:00:00+00:00"
+  },
+  "https://github.com/ogulcancelik/herdr": {
+    "title": "Herdr: Agent multiplexer that lives in your terminal",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-29T10:31:41.423332+00:00",
+    "published": "2026-06-29T04:27:46+00:00"
+  },
+  "https://nonogra.ph/age-verification-is-just-a-precursor-to-attribution-of-speech-06-29-2026": {
+    "title": "Age verification is just a precursor to automated attribution of speech",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-29T10:31:41.423332+00:00",
+    "published": "2026-06-29T03:42:07+00:00"
+  },
+  "https://danunparsed.com/p/hackerrank-open-source-ats": {
+    "title": "HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No – 88",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-29T10:31:41.423332+00:00",
+    "published": "2026-06-29T01:44:40+00:00"
+  },
+  "https://www.phoronix.com/news/Mageia-10-Released": {
+    "title": "Mageia 10 Released For This Linux Distribution Carrying On The Mandrake Legacy",
+    "source": "Phoronix",
+    "first_seen": "2026-06-29T10:31:41.423332+00:00",
+    "published": "2026-06-29T01:10:08+00:00"
+  },
+  "https://www.phoronix.com/news/Arch-Linux-Archinstall-4.4": {
+    "title": "Arch Linux's Archinstall 4.4 Adds Dank Material Shell + Niri Desktop Option",
+    "source": "Phoronix",
+    "first_seen": "2026-06-29T10:31:41.423332+00:00",
+    "published": "2026-06-29T00:41:53+00:00"
+  },
+  "https://arxiv.org/abs/2401.07013": {
+    "title": "Knowledge Distillation of Black-Box Large Language Models (2024)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-29T10:31:41.423332+00:00",
+    "published": "2026-06-28T22:32:04+00:00"
+  },
+  "https://simonwillison.net/2026/Jun/28/jon-udell": {
+    "title": "Quoting Jon Udell",
+    "source": "Simon Willison",
+    "first_seen": "2026-06-29T10:31:41.423332+00:00",
+    "published": "2026-06-28T21:57:41+00:00"
+  },
+  "https://simonwillison.net/2026/Jun/28/hack-your-summer": {
+    "title": "Hack Your Summer",
+    "source": "Simon Willison",
+    "first_seen": "2026-06-29T10:31:41.423332+00:00",
+    "published": "2026-06-28T19:26:11+00:00"
+  },
+  "https://openai.com/index/hp-frontier-partnership": {
+    "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-06-29T10:31:41.423332+00:00",
+    "published": "2026-06-28T17:00:00+00:00"
+  },
+  "https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html": {
+    "title": "Professor denounces mass AI fraud on an exam at Brown",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-29T10:31:41.423332+00:00",
+    "published": "2026-06-28T16:41:12+00:00"
+  },
+  "https://schamper.dev/dissecting-apples-sparse-image-format-asif": {
+    "title": "Dissecting Apple's Sparse Image Format (ASIF)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-29T10:31:41.423332+00:00",
+    "published": "2026-06-28T16:10:50+00:00"
   }
 }
