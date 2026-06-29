@@ -46418,5 +46418,275 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-06-29T10:31:41.423332+00:00",
     "published": "2026-06-28T16:10:50+00:00"
+  },
+  "https://github.blog/security/supply-chain-security/inside-the-advisory-database-and-what-happens-when-vulnerability-volume-breaks-records": {
+    "title": "Inside the Advisory Database and what happens when vulnerability volume breaks records",
+    "source": "GitHub Blog",
+    "first_seen": "2026-06-29T16:17:01.890074+00:00",
+    "published": "2026-06-29T16:10:20+00:00"
+  },
+  "https://torrentfreak.com/european-isps-want-rightsholders-held-accountable-for-overblocking-damage": {
+    "title": "European ISPs Want Rightsholders Held Accountable for Overblocking Damage",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-29T16:17:01.890074+00:00",
+    "published": "2026-06-29T16:07:15+00:00"
+  },
+  "https://www.schneier.com/blog/archives/2026/06/factoring-rsa-keys-with-many-zeros.html": {
+    "title": "Factoring RSA Keys with Many Zeros",
+    "source": "Schneier on Security",
+    "first_seen": "2026-06-29T16:17:01.890074+00:00",
+    "published": "2026-06-29T16:05:18+00:00"
+  },
+  "https://cloud.google.com/blog/products/data-analytics/fraud-prevention-with-bigquery-graph": {
+    "title": "Scaling Network Analysis for Fraud Prevention with BigQuery Graph",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-06-29T16:17:01.890074+00:00",
+    "published": "2026-06-29T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/data-analytics/deep-dive-into-bigquery-ai-agg-function": {
+    "title": "Synthesize the big picture and analyze trends with BigQuery's AI.AGG function",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-06-29T16:17:01.890074+00:00",
+    "published": "2026-06-29T16:00:00+00:00"
+  },
+  "https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer": {
+    "title": "Ask an AI expert: What exactly is the full stack?",
+    "source": "Google AI Blog",
+    "first_seen": "2026-06-29T16:17:01.890074+00:00",
+    "published": "2026-06-29T16:00:00+00:00"
+  },
+  "https://lwn.net/Articles/1078539": {
+    "title": "[$] The rest of the 7.2 merge window",
+    "source": "LWN.net",
+    "first_seen": "2026-06-29T16:17:01.890074+00:00",
+    "published": "2026-06-29T15:50:33+00:00"
+  },
+  "https://developer.nvidia.com/blog/how-to-govern-autonomous-agents-in-enterprise-ai-factories": {
+    "title": "How to Govern Autonomous Agents in Enterprise AI Factories",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-06-29T16:17:01.890074+00:00",
+    "published": "2026-06-29T15:50:13+00:00"
+  },
+  "https://www.phoronix.com/news/Microsoft-Preview-WSL-WSLC": {
+    "title": "Microsoft Announces Public Preview For Linux Containers On WSL",
+    "source": "Phoronix",
+    "first_seen": "2026-06-29T16:17:01.890074+00:00",
+    "published": "2026-06-29T15:49:29+00:00"
+  },
+  "https://blog.bytebytego.com/p/how-ai-agents-manage-memory-and-avoid": {
+    "title": "How AI Agents Manage Memory and Avoid Forgetfulness",
+    "source": "ByteByteGo",
+    "first_seen": "2026-06-29T16:17:01.890074+00:00",
+    "published": "2026-06-29T15:31:24+00:00"
+  },
+  "https://lwn.net/Articles/1079385": {
+    "title": "[$] Xsnow \"protestware\" in Debian",
+    "source": "LWN.net",
+    "first_seen": "2026-06-29T16:17:01.890074+00:00",
+    "published": "2026-06-29T15:13:09+00:00"
+  },
+  "https://humphri.es/blog/WATaBoy": {
+    "title": "WATaBoy: JIT-Ing Game Boy Instructions to WASM Beats a Native Interpreter",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-29T16:17:01.890074+00:00",
+    "published": "2026-06-29T15:02:00+00:00"
+  },
+  "https://lwn.net/Articles/1080144": {
+    "title": "Open source maintainership in the age of AI (Kubernetes blog)",
+    "source": "LWN.net",
+    "first_seen": "2026-06-29T16:17:01.890074+00:00",
+    "published": "2026-06-29T15:01:17+00:00"
+  },
+  "https://lwn.net/Articles/1080143": {
+    "title": "Mageia 10 released",
+    "source": "LWN.net",
+    "first_seen": "2026-06-29T16:17:01.890074+00:00",
+    "published": "2026-06-29T14:50:50+00:00"
+  },
+  "https://www.phoronix.com/news/Red-Hat-ARM-Engineer-Back-Ryzen": {
+    "title": "Red Hat ARM Engineer Abandons ARM64 Linux Personal Desktop, Goes Back To AMD Ryzen System",
+    "source": "Phoronix",
+    "first_seen": "2026-06-29T16:17:01.890074+00:00",
+    "published": "2026-06-29T14:36:33+00:00"
+  },
+  "https://aws.amazon.com/blogs/compute/building-fault-tolerant-multi-agent-ai-workflows-with-aws-lambda-durable-functions": {
+    "title": "Building fault-tolerant multi-agent AI workflows with AWS Lambda durable functions",
+    "source": "AWS Compute Blog",
+    "first_seen": "2026-06-29T16:17:01.890074+00:00",
+    "published": "2026-06-29T14:26:18+00:00"
+  },
+  "https://pytorch.org/blog/introducing-cross-repository-ci-relay-scalable-ci-for-pytorchs-out-of-tree-backends": {
+    "title": "Introducing Cross-Repository CI Relay: Scalable CI for PyTorch’s Out-of-Tree Backends",
+    "source": "PyTorch Blog",
+    "first_seen": "2026-06-29T16:17:01.890074+00:00",
+    "published": "2026-06-29T14:18:42+00:00"
+  },
+  "https://www.apollo.com/content/dam/apolloaem/pdf/daily-spark/2026/jun/28/062826-Mag7.pdf": {
+    "title": "Mag 7 starting to underperform [pdf]",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-29T16:17:01.890074+00:00",
+    "published": "2026-06-29T14:12:55+00:00"
+  },
+  "https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully": {
+    "title": "Rocketlab acquires Iridium",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-29T16:17:01.890074+00:00",
+    "published": "2026-06-29T14:09:24+00:00"
+  },
+  "https://realpython.com/github-copilot-cli": {
+    "title": "How to Get Started With the GitHub Copilot CLI",
+    "source": "Real Python",
+    "first_seen": "2026-06-29T16:17:01.890074+00:00",
+    "published": "2026-06-29T14:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/topics/threat-intelligence/pro-russia-influence-ecosystem": {
+    "title": "The Bear Necessities: A Look at the Drivers, Dynamics, and Applications of the Pro-Russia Influence Ecosystem",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-06-29T16:17:01.890074+00:00",
+    "published": "2026-06-29T14:00:00+00:00"
+  },
+  "https://cachyos.org/blog/2606-june-release": {
+    "title": "CachyOS June 2026 Release",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-29T16:17:01.890074+00:00",
+    "published": "2026-06-29T13:56:46+00:00"
+  },
+  "https://www.phoronix.com/news/Infinity-Scheduler": {
+    "title": "Infinity Scheduler Aims To Be A Better Linux Scheduler",
+    "source": "Phoronix",
+    "first_seen": "2026-06-29T16:17:01.890074+00:00",
+    "published": "2026-06-29T13:52:36+00:00"
+  },
+  "https://www.tigerdata.com/blog/small-postgres-metadata-tables": {
+    "title": "How Small Postgres Metadata Tables Quietly Throttle Your Largest Queries",
+    "source": "Timescale Blog",
+    "first_seen": "2026-06-29T16:17:01.890074+00:00",
+    "published": "2026-06-29T13:34:12+00:00"
+  },
+  "https://twitter.com/i/status/2071277885646868536": {
+    "title": "Instagram is incorporating users' photos in ads for Meta Glasses",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-29T16:17:01.890074+00:00",
+    "published": "2026-06-29T13:26:35+00:00"
+  },
+  "https://voxelmanip.se/2026/06/28/building-principia-for-windows-xp": {
+    "title": "Building Principia for Windows XP",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-29T16:17:01.890074+00:00",
+    "published": "2026-06-29T13:23:19+00:00"
+  },
+  "https://www.playstation.com/en-gb/legal/psvideocontent": {
+    "title": "Studio Canal Movies purchased on PlayStation Store removed without refund",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-29T16:17:01.890074+00:00",
+    "published": "2026-06-29T13:20:14+00:00"
+  },
+  "https://lwn.net/Articles/1080075": {
+    "title": "Security updates for Monday",
+    "source": "LWN.net",
+    "first_seen": "2026-06-29T16:17:01.890074+00:00",
+    "published": "2026-06-29T13:16:41+00:00"
+  },
+  "https://fergusfinn.com/blog/what-happens-when-you-run-a-gpu-kernel": {
+    "title": "What happens when you run a CUDA kernel?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-29T16:17:01.890074+00:00",
+    "published": "2026-06-29T13:11:08+00:00"
+  },
+  "https://tidal.com/ai-policy": {
+    "title": "Tidal AI Policy",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-29T16:17:01.890074+00:00",
+    "published": "2026-06-29T13:09:03+00:00"
+  },
+  "https://nixos.org/blog/announcements/2026/nixos-2605": {
+    "title": "NixOS 26.05",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-29T16:17:01.890074+00:00",
+    "published": "2026-06-29T13:01:51+00:00"
+  },
+  "https://netflixtechblog.com/genpage-towards-end-to-end-generative-homepage-construction-at-netflix-77146fba8a08?source=rss----2615bd06b42e---4": {
+    "title": "GenPage: Towards End-to-End Generative Homepage Construction at Netflix",
+    "source": "Netflix Tech Blog",
+    "first_seen": "2026-06-29T16:17:01.890074+00:00",
+    "published": "2026-06-29T13:01:02+00:00"
+  },
+  "https://opentelemetry.io/blog/2026/dart-flutter-opentelemetry": {
+    "title": "Call for Contributors: OpenTelemetry for Dart and Flutter",
+    "source": "OpenTelemetry Blog",
+    "first_seen": "2026-06-29T16:17:01.890074+00:00",
+    "published": "2026-06-29T12:30:53+00:00"
+  },
+  "https://realpython.com/quizzes/github-copilot-cli": {
+    "title": "Quiz: How to Get Started With the GitHub Copilot CLI",
+    "source": "Real Python",
+    "first_seen": "2026-06-29T16:17:01.890074+00:00",
+    "published": "2026-06-29T12:00:00+00:00"
+  },
+  "https://en.sedaily.com/international/2026/06/29/samsung-sk-hynix-micron-sued-in-us-over-memory-price-fixing": {
+    "title": "Samsung, SK Hynix, Micron Sued in US over Memory Price Fixing",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-29T16:17:01.890074+00:00",
+    "published": "2026-06-29T11:58:48+00:00"
+  },
+  "https://alexwlchan.net/2026/computer-room": {
+    "title": "Rebuilding the Computer Room",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-29T16:17:01.890074+00:00",
+    "published": "2026-06-29T11:34:36+00:00"
+  },
+  "https://www.kucoin.com/news/flash/deepseek-v4-launches-in-mid-july-with-peak-valley-pricing": {
+    "title": "DeepSeek V4 Peak Valley Pricing Change",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-29T16:17:01.890074+00:00",
+    "published": "2026-06-29T11:29:14+00:00"
+  },
+  "https://www.cncf.io/blog/2026/06/29/otel-and-mesh-derived-metrics-a-2026-reference": {
+    "title": "OTel and mesh-derived metrics: A 2026 reference",
+    "source": "CNCF Blog",
+    "first_seen": "2026-06-29T16:17:01.890074+00:00",
+    "published": "2026-06-29T11:00:00+00:00"
+  },
+  "https://www.schneier.com/blog/archives/2026/06/robot-police-officers.html": {
+    "title": "Robot Police Officers",
+    "source": "Schneier on Security",
+    "first_seen": "2026-06-29T16:17:01.890074+00:00",
+    "published": "2026-06-29T10:55:33+00:00"
+  },
+  "https://www.cncf.io/blog/2026/06/29/etcd-operator-joins-cozystack-with-a-new-v1alpha2-api": {
+    "title": "etcd-operator joins Cozystack with a new v1alpha2 API",
+    "source": "CNCF Blog",
+    "first_seen": "2026-06-29T16:17:01.890074+00:00",
+    "published": "2026-06-29T10:46:12+00:00"
+  },
+  "https://www.phoronix.com/news/AMD-Low-Power-CPU-Core-Linux": {
+    "title": "AMD Linux Patches Introduce New \"Low Power\" CPU Core Type",
+    "source": "Phoronix",
+    "first_seen": "2026-06-29T16:17:01.890074+00:00",
+    "published": "2026-06-29T10:32:02+00:00"
+  },
+  "https://www.cpushack.com/2026/06/03/sandia-national-labs-sa3000-8085-cpu": {
+    "title": "Sandia National Labs SA3000 8085 CPU",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-29T16:17:01.890074+00:00",
+    "published": "2026-06-29T10:20:25+00:00"
+  },
+  "https://cloud.google.com/blog/products/chrome-enterprise/turner-industries-blueprint-for-a-secure-cloud-first-infrastructure": {
+    "title": "Turner Industries’ Blueprint for a Secure, Cloud-First Infrastructure",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-06-29T16:17:01.890074+00:00",
+    "published": "2026-06-29T09:16:00+00:00"
+  },
+  "https://blog.sentry.io/nextjs-export-traces-opentelemetry": {
+    "title": "Next.js already traces your requests. Here's how to export them with OpenTelemetry.",
+    "source": "Sentry Blog",
+    "first_seen": "2026-06-29T16:17:01.890074+00:00",
+    "published": "2026-06-29T09:00:00+00:00"
+  },
+  "https://www.elastic.co/blog/metrics-pricing": {
+    "title": "Updated metrics pricing for Elastic Observability: Best-in-class metrics — now cheaper, too!",
+    "source": "Elastic Blog",
+    "first_seen": "2026-06-29T16:17:01.890074+00:00",
+    "published": "2026-06-29T00:00:00+00:00"
   }
 }
