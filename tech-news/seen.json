@@ -46688,5 +46688,275 @@
     "source": "Elastic Blog",
     "first_seen": "2026-06-29T16:17:01.890074+00:00",
     "published": "2026-06-29T00:00:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/announcing-valkey-9-1-for-amazon-elasticache": {
+    "title": "Announcing Valkey 9.1 for Amazon ElastiCache",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-06-29T21:29:11.560895+00:00",
+    "published": "2026-06-29T21:10:32+00:00"
+  },
+  "https://www.phoronix.com/news/Wine-11.12-Released": {
+    "title": "Wine 11.12 Released With Wayland Fractional Scaling & Other Wayland Enhancements",
+    "source": "Phoronix",
+    "first_seen": "2026-06-29T21:29:11.560895+00:00",
+    "published": "2026-06-29T21:05:30+00:00"
+  },
+  "https://devblogs.microsoft.com/dotnet/skiasharp-4-0-stable": {
+    "title": "SkiaSharp 4.0 is here: announcing the first stable release",
+    "source": "MS .NET Blog",
+    "first_seen": "2026-06-29T21:29:11.560895+00:00",
+    "published": "2026-06-29T21:00:00+00:00"
+  },
+  "https://lwn.net/Articles/1080188": {
+    "title": "Git 2.55.0 released",
+    "source": "LWN.net",
+    "first_seen": "2026-06-29T21:29:11.560895+00:00",
+    "published": "2026-06-29T20:22:59+00:00"
+  },
+  "https://nextjs.org/blog/next-16-3-turbopack": {
+    "title": "Turbopack: What's New in Next.js 16.3",
+    "source": "Next.js Blog",
+    "first_seen": "2026-06-29T21:29:11.560895+00:00",
+    "published": "2026-06-29T20:00:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/scale-analytics-with-amazon-redshift-multi-warehouse-enhancements": {
+    "title": "Scale analytics with Amazon Redshift multi-warehouse enhancements",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-06-29T21:29:11.560895+00:00",
+    "published": "2026-06-29T19:59:42+00:00"
+  },
+  "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain": {
+    "title": ".self: A new top-level domain designed to support self-hosting",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-29T21:29:11.560895+00:00",
+    "published": "2026-06-29T19:49:28+00:00"
+  },
+  "https://aws.amazon.com/blogs/security/what-the-june-2026-threat-technique-catalog-update-means-for-your-aws-environment": {
+    "title": "What the June 2026 Threat Technique Catalog update means for your AWS environment",
+    "source": "AWS Security Blog",
+    "first_seen": "2026-06-29T21:29:11.560895+00:00",
+    "published": "2026-06-29T19:30:59+00:00"
+  },
+  "https://www.phoronix.com/news/Bcachefs-1.38.7-Rust-Kernel": {
+    "title": "Next Bcachefs Release Aims To Include Rust Code In The Kernel Module",
+    "source": "Phoronix",
+    "first_seen": "2026-06-29T21:29:11.560895+00:00",
+    "published": "2026-06-29T19:30:00+00:00"
+  },
+  "https://github.com/jumpserver/jumpserver": {
+    "title": "JumpServer: Open-Source Privileged Access Management",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-29T21:29:11.560895+00:00",
+    "published": "2026-06-29T19:06:17+00:00"
+  },
+  "https://discourse.ifin.network/t/garden-tlds-change-to-a-bad-neighborhood/627": {
+    "title": ".garden TLD's change to a bad neighborhood",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-29T21:29:11.560895+00:00",
+    "published": "2026-06-29T18:49:41+00:00"
+  },
+  "https://simonwillison.net/2026/Jun/29/safari-tab-count": {
+    "title": "Count the number of Safari tabs",
+    "source": "Simon Willison",
+    "first_seen": "2026-06-29T21:29:11.560895+00:00",
+    "published": "2026-06-29T18:36:18+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/implement-a-backup-strategy-for-amazon-quick-sight-bi-assets": {
+    "title": "Implement a backup strategy for Amazon Quick Sight BI assets",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-06-29T21:29:11.560895+00:00",
+    "published": "2026-06-29T18:15:14+00:00"
+  },
+  "https://thenewstack.io/base44-base-one-model": {
+    "title": "Base44 bets a narrow model beats frontier AI for vibe coding",
+    "source": "The New Stack",
+    "first_seen": "2026-06-29T21:29:11.560895+00:00",
+    "published": "2026-06-29T18:03:44+00:00"
+  },
+  "https://vllm.ai/blog/2026-06-29-micro-agent-frontier-models": {
+    "title": "Micro-Agent: Beat Frontier Models with Collaboration Inside Model API",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-29T21:29:11.560895+00:00",
+    "published": "2026-06-29T18:03:26+00:00"
+  },
+  "https://huggingface.co/blog/allenai/discoformer": {
+    "title": "DiScoFormer: One transformer for density and score, across distributions",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-06-29T21:29:11.560895+00:00",
+    "published": "2026-06-29T18:02:48+00:00"
+  },
+  "https://thenewstack.io/kotlin-notebook-jupyter-python-retreat": {
+    "title": "JetBrains kills Kotlin Notebook months after Microsoft’s Polyglot exit. But Jupyter is doing just fine.",
+    "source": "The New Stack",
+    "first_seen": "2026-06-29T21:29:11.560895+00:00",
+    "published": "2026-06-29T17:59:29+00:00"
+  },
+  "https://thenewstack.io/palantir-nvidia-sovereign-ai": {
+    "title": "Palantir and Nvidia want to change who owns government AI",
+    "source": "The New Stack",
+    "first_seen": "2026-06-29T21:29:11.560895+00:00",
+    "published": "2026-06-29T17:55:42+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/pair-nova-2-lite-with-claude-for-cost-optimized-document-processing": {
+    "title": "Pair Nova 2 Lite with Claude for cost-optimized document processing",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-06-29T21:29:11.560895+00:00",
+    "published": "2026-06-29T17:52:33+00:00"
+  },
+  "https://www.phoronix.com/news/Git-2.55-Released": {
+    "title": "Git 2.55 Released With Rust Support Enabled By Default, git history fixup",
+    "source": "Phoronix",
+    "first_seen": "2026-06-29T21:29:11.560895+00:00",
+    "published": "2026-06-29T17:50:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/multi-tenant-llm-analytics-with-row-level-security-how-we-built-a-secure-agent-on-aws": {
+    "title": "Multi-tenant LLM analytics with row-level security: How we built a secure agent on AWS",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-06-29T21:29:11.560895+00:00",
+    "published": "2026-06-29T17:39:29+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/build-an-agentic-ai-healthcare-claims-pipeline-with-amazon-bedrock-and-aws-healthlake": {
+    "title": "Build an agentic AI healthcare claims pipeline with Amazon Bedrock and AWS HealthLake",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-06-29T21:29:11.560895+00:00",
+    "published": "2026-06-29T17:36:34+00:00"
+  },
+  "https://github.blog/open-source/git/highlights-from-git-2-55": {
+    "title": "Highlights from Git 2.55",
+    "source": "GitHub Blog",
+    "first_seen": "2026-06-29T21:29:11.560895+00:00",
+    "published": "2026-06-29T17:25:25+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/debugging-production-agents-with-amazon-bedrock-agentcore-observability": {
+    "title": "Debugging production agents with Amazon Bedrock AgentCore Observability",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-06-29T21:29:11.560895+00:00",
+    "published": "2026-06-29T17:25:21+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/building-financial-hierarchies-with-amazon-neptune-for-treasury-operations": {
+    "title": "Building Financial Hierarchies with Amazon Neptune for Treasury Operations",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-06-29T21:29:11.560895+00:00",
+    "published": "2026-06-29T17:22:32+00:00"
+  },
+  "https://aws.amazon.com/blogs/architecture/lessons-learned-from-scaling-to-1-million-lambda-functions": {
+    "title": "Lessons learned from scaling to 1 million Lambda functions",
+    "source": "AWS Architecture Blog",
+    "first_seen": "2026-06-29T21:29:11.560895+00:00",
+    "published": "2026-06-29T17:21:05+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/how-securonix-reduced-cache-costs-by-20-with-amazon-elasticache-for-valkey": {
+    "title": "How Securonix reduced cache costs by 20% with Amazon ElastiCache for Valkey",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-06-29T21:29:11.560895+00:00",
+    "published": "2026-06-29T17:20:38+00:00"
+  },
+  "https://aws.amazon.com/blogs/architecture/preventing-data-exfiltration-in-machine-learning-environments-with-amazon-sagemaker-ai": {
+    "title": "Preventing data exfiltration in machine learning environments with Amazon SageMaker AI",
+    "source": "AWS Architecture Blog",
+    "first_seen": "2026-06-29T21:29:11.560895+00:00",
+    "published": "2026-06-29T17:16:48+00:00"
+  },
+  "https://github.com/deepreinforce-ai/Ornith-1": {
+    "title": "Ornith-1.0: self-improving open-source models for agentic coding",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-29T21:29:11.560895+00:00",
+    "published": "2026-06-29T17:16:17+00:00"
+  },
+  "https://aws.amazon.com/blogs/architecture/dual-token-authentication-for-nakama-game-servers-with-amazon-cognito-on-aws": {
+    "title": "Dual-token authentication for Nakama game servers with Amazon Cognito on AWS",
+    "source": "AWS Architecture Blog",
+    "first_seen": "2026-06-29T21:29:11.560895+00:00",
+    "published": "2026-06-29T17:09:54+00:00"
+  },
+  "https://quesma.com/blog/qwen-36-is-awesome": {
+    "title": "Qwen 3.6 27B is the sweet spot for local development",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-29T21:29:11.560895+00:00",
+    "published": "2026-06-29T17:05:16+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/amazon-redshift-delivers-faster-performance-for-bi-dashboards-and-real-time-analytics": {
+    "title": "Amazon Redshift delivers faster performance for BI dashboards and real-time analytics",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-06-29T21:29:11.560895+00:00",
+    "published": "2026-06-29T17:05:12+00:00"
+  },
+  "https://devblogs.microsoft.com/dotnet/packaging-dotnet-apps-winapp": {
+    "title": "Packaging and Package Identity for .NET apps with WinApp CLI on Windows",
+    "source": "MS .NET Blog",
+    "first_seen": "2026-06-29T21:29:11.560895+00:00",
+    "published": "2026-06-29T17:00:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/optimize-your-tableau-integration-with-amazon-redshift-serverless": {
+    "title": "Optimize your Tableau integration with Amazon Redshift Serverless",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-06-29T21:29:11.560895+00:00",
+    "published": "2026-06-29T17:00:00+00:00"
+  },
+  "https://www.phoronix.com/review/linux-72-threadripper": {
+    "title": "Linux 7.2 On Threadripper Shows Some Nice I/O Improvements & Faster Poll, Some Regressions",
+    "source": "Phoronix",
+    "first_seen": "2026-06-29T21:29:11.560895+00:00",
+    "published": "2026-06-29T16:50:23+00:00"
+  },
+  "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-agentic-cx-designer-for-amazon-connect-customer-ec2-ami-watermarks-open-governance-for-mysql-and-more-june-29-2026": {
+    "title": "AWS Weekly Roundup, Agentic CX designer for Amazon Connect Customer, EC2 AMI Watermarks, Open Governance for MySQL, and more (June 29, 2026)",
+    "source": "AWS Blog",
+    "first_seen": "2026-06-29T21:29:11.560895+00:00",
+    "published": "2026-06-29T16:30:30+00:00"
+  },
+  "https://worksinprogress.co/issue/how-to-lie-about-radiation": {
+    "title": "The Radiation Exposure Lie",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-29T21:29:11.560895+00:00",
+    "published": "2026-06-29T16:27:27+00:00"
+  },
+  "https://simonwillison.net/2026/Jun/29/ornith": {
+    "title": "Ornith-1.0: Self-Scaffolding LLMs for Agentic Coding",
+    "source": "Simon Willison",
+    "first_seen": "2026-06-29T21:29:11.560895+00:00",
+    "published": "2026-06-29T16:17:59+00:00"
+  },
+  "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-how-google-cloud-security-uses-ai-internally": {
+    "title": "Cloud CISO Perspectives: How Google Cloud Security uses AI internally",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-06-29T21:29:11.560895+00:00",
+    "published": "2026-06-29T16:00:00+00:00"
+  },
+  "https://www.theguardian.com/us-news/2026/jun/29/supreme-court-geofence-warrants-case-decision": {
+    "title": "US Supreme Court rules geofence warrants require constitutional protections",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-29T21:29:11.560895+00:00",
+    "published": "2026-06-29T15:54:24+00:00"
+  },
+  "https://probablymarcus.com/blocks/2026/06/28/native-graphical-shell-for-SSH.html": {
+    "title": "A native graphical shell for SSH",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-29T21:29:11.560895+00:00",
+    "published": "2026-06-29T15:42:17+00:00"
+  },
+  "https://htmx.org/essays/working-with-ai": {
+    "title": "Working With AI: A concrete example",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-29T21:29:11.560895+00:00",
+    "published": "2026-06-29T14:53:41+00:00"
+  },
+  "https://queue.acm.org/detail.cfm?id=3819084": {
+    "title": "You Don't Know Jack About Formal Verification",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-29T21:29:11.560895+00:00",
+    "published": "2026-06-29T14:12:05+00:00"
+  },
+  "https://det.social/@lostgen/116820546568940358": {
+    "title": "The CEO of Mullvad is the main financer of the Swedish Örebro party",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-29T21:29:11.560895+00:00",
+    "published": "2026-06-29T10:45:51+00:00"
+  },
+  "https://www.elastic.co/blog/ai-cost-research-tokenmaxxing": {
+    "title": "Your AI isn’t underperforming. Your data foundation is.",
+    "source": "Elastic Blog",
+    "first_seen": "2026-06-29T21:29:11.560895+00:00",
+    "published": "2026-06-29T00:00:00+00:00"
   }
 }
