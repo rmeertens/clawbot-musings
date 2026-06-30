@@ -47270,5 +47270,389 @@
     "source": "Astro Blog",
     "first_seen": "2026-06-30T15:46:25.374549+00:00",
     "published": "2026-06-30T00:00:00+00:00"
+  },
+  "https://simonwillison.net/2026/Jun/30/claude-sonnet-5": {
+    "title": "What's new in Claude Sonnet 5",
+    "source": "Simon Willison",
+    "first_seen": "2026-06-30T21:29:07.159664+00:00",
+    "published": "2026-06-30T21:23:02+00:00"
+  },
+  "https://aws.amazon.com/blogs/aws/amazon-ec2-c9g-and-c9gd-instances-powered-by-aws-graviton5-processors-are-now-available": {
+    "title": "Amazon EC2 C9g and C9gd instances powered by AWS Graviton5 processors are now available",
+    "source": "AWS Blog",
+    "first_seen": "2026-06-30T21:29:07.159664+00:00",
+    "published": "2026-06-30T20:56:44+00:00"
+  },
+  "https://ngrok.com/blog/i-ported-kubernetes-to-the-browser": {
+    "title": "I ported Kubernetes to the browser",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-30T21:29:07.159664+00:00",
+    "published": "2026-06-30T20:48:36+00:00"
+  },
+  "https://thenewstack.io/ai-agent-infrastructure-reliability": {
+    "title": "Anthropic’s Claude Sonnet 5 system card says more about the future of AI than its benchmarks do",
+    "source": "The New Stack",
+    "first_seen": "2026-06-30T21:29:07.159664+00:00",
+    "published": "2026-06-30T20:37:01+00:00"
+  },
+  "https://www.newyorker.com/magazine/2026/07/06/morbid-saul-justin-newman-book-review-eat-your-ice-cream-ezekiel-j-emanuel": {
+    "title": "Morbid: Debunking Modern Longevity Science",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-30T21:29:07.159664+00:00",
+    "published": "2026-06-30T20:17:21+00:00"
+  },
+  "https://aws.amazon.com/blogs/aws/automate-public-tls-certificate-issuance-with-acme-support-in-aws-certificate-manager": {
+    "title": "Automate public TLS certificate issuance with ACME support in AWS Certificate Manager",
+    "source": "AWS Blog",
+    "first_seen": "2026-06-30T21:29:07.159664+00:00",
+    "published": "2026-06-30T20:15:11+00:00"
+  },
+  "https://www.phoronix.com/news/GraalVM-Community-25.1.3": {
+    "title": "GraalVM CE 25.1.3 Gets Native Image \"Hello World\" Program Down To Just 6.5MB",
+    "source": "Phoronix",
+    "first_seen": "2026-06-30T21:29:07.159664+00:00",
+    "published": "2026-06-30T20:11:40+00:00"
+  },
+  "https://mas-bandwidth.com/the-best-thing-thats-ever-happened-for-multiplayer-games": {
+    "title": "The best thing that's ever happened for multiplayer games?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-30T21:29:07.159664+00:00",
+    "published": "2026-06-30T19:59:09+00:00"
+  },
+  "https://soranews24.com/2026/06/30/tokyo-has-only-two-barley-tea-makers-and-we-visited-one-to-see-how-mugicha-is-made": {
+    "title": "Tokyo has only two barley tea makers, we visited one to see how mugicha is made",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-30T21:29:07.159664+00:00",
+    "published": "2026-06-30T19:47:24+00:00"
+  },
+  "https://thenewstack.io/future-proof-ai-infrastructure": {
+    "title": "The infrastructure lock-in costing AI companies hundreds of millions",
+    "source": "The New Stack",
+    "first_seen": "2026-06-30T21:29:07.159664+00:00",
+    "published": "2026-06-30T19:04:40+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/introducing-claude-sonnet-5-on-aws-anthropics-most-capable-sonnet-model": {
+    "title": "Introducing Claude Sonnet 5 on AWS: Anthropic’s most capable Sonnet model",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-06-30T21:29:07.159664+00:00",
+    "published": "2026-06-30T18:40:09+00:00"
+  },
+  "https://news.ycombinator.com/item?id=48737226": {
+    "title": "Tell HN: Installing Cursor on iOS irreversibly changes your privacy settings",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-30T21:29:07.159664+00:00",
+    "published": "2026-06-30T18:33:59+00:00"
+  },
+  "https://huggingface.co/blog/ibm-research/scarfbench": {
+    "title": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-06-30T21:29:07.159664+00:00",
+    "published": "2026-06-30T18:32:50+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/enable-self-managed-ad-kerberos-authentication-with-amazon-rds-for-db2": {
+    "title": "Enable self-managed AD Kerberos authentication with Amazon RDS for Db2",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-06-30T21:29:07.159664+00:00",
+    "published": "2026-06-30T18:31:25+00:00"
+  },
+  "https://www.phoronix.com/news/Fedora-45-Stratis-Storage": {
+    "title": "Fedora 45 Looks To Finally Offer Install Support For Stratis Storage",
+    "source": "Phoronix",
+    "first_seen": "2026-06-30T21:29:07.159664+00:00",
+    "published": "2026-06-30T18:00:00+00:00"
+  },
+  "https://thenewstack.io/claude-sonnet-5-launch": {
+    "title": "Anthropic Sonnet 5: It closes the gap with Opus 4.8, and is cheap until August",
+    "source": "The New Stack",
+    "first_seen": "2026-06-30T21:29:07.159664+00:00",
+    "published": "2026-06-30T18:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/data-analytics/conversational-analytics-in-bigquery-now-ga": {
+    "title": "Conversational analytics in BigQuery brings trusted agentic reasoning to everyone",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-06-30T21:29:07.159664+00:00",
+    "published": "2026-06-30T18:00:00+00:00"
+  },
+  "https://www.anthropic.com/news/claude-sonnet-5": {
+    "title": "Claude Sonnet 5",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-30T21:29:07.159664+00:00",
+    "published": "2026-06-30T17:59:52+00:00"
+  },
+  "https://lwn.net/Articles/1080518": {
+    "title": "Creative Commons founders' fireside chat (Creative Commons blog)",
+    "source": "LWN.net",
+    "first_seen": "2026-06-30T21:29:07.159664+00:00",
+    "published": "2026-06-30T17:53:49+00:00"
+  },
+  "https://pytorch.org/blog/miles-a-pytorch-native-stack-for-large-scale-llm-rl-post-training": {
+    "title": "Miles: A PyTorch-Native Stack for Large-Scale LLM RL Post-Training",
+    "source": "PyTorch Blog",
+    "first_seen": "2026-06-30T21:29:07.159664+00:00",
+    "published": "2026-06-30T17:48:27+00:00"
+  },
+  "https://simonwillison.net/2026/Jun/30/the-ai-compass": {
+    "title": "The AI Compass",
+    "source": "Simon Willison",
+    "first_seen": "2026-06-30T21:29:07.159664+00:00",
+    "published": "2026-06-30T17:39:23+00:00"
+  },
+  "https://developer.nvidia.com/blog/designing-gpu-accelerated-query-engines-with-nvidia-gqe": {
+    "title": "Designing GPU-Accelerated Query Engines with NVIDIA GQE",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-06-30T21:29:07.159664+00:00",
+    "published": "2026-06-30T17:36:43+00:00"
+  },
+  "https://gauthier-lechevalier.com/radar": {
+    "title": "I built a mmWave material classification radar (2025)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-30T21:29:07.159664+00:00",
+    "published": "2026-06-30T17:29:36+00:00"
+  },
+  "https://github.blog/enterprise-software/governance-and-compliance/how-github-maintains-compliance-for-open-source-dependencies": {
+    "title": "How GitHub maintains compliance for open source dependencies",
+    "source": "GitHub Blog",
+    "first_seen": "2026-06-30T21:29:07.159664+00:00",
+    "published": "2026-06-30T17:28:16+00:00"
+  },
+  "https://newsletter.pragmaticengineer.com/p/impressions-from-visiting-openai": {
+    "title": "Impressions from visiting OpenAI, Anthropic, & Cursor",
+    "source": "The Pragmatic Engineer",
+    "first_seen": "2026-06-30T21:29:07.159664+00:00",
+    "published": "2026-06-30T17:21:05+00:00"
+  },
+  "https://claude.com/product/claude-science": {
+    "title": "Claude Science",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-30T21:29:07.159664+00:00",
+    "published": "2026-06-30T17:07:41+00:00"
+  },
+  "https://research.google/blog/expanding-our-heat-resilience-data-to-50-global-cities": {
+    "title": "Expanding our Heat Resilience data to 50+ global cities",
+    "source": "Google Research",
+    "first_seen": "2026-06-30T21:29:07.159664+00:00",
+    "published": "2026-06-30T17:03:10+00:00"
+  },
+  "https://thenewstack.io/anthropic-claude-science-workbench": {
+    "title": "Anthropic launches Claude Science, an AI workbench for scientific research",
+    "source": "The New Stack",
+    "first_seen": "2026-06-30T21:29:07.159664+00:00",
+    "published": "2026-06-30T17:00:00+00:00"
+  },
+  "https://devblogs.microsoft.com/dotnet/mcp-build-diagnostics-workflows": {
+    "title": "MCP Beyond the Chat Window: Build Diagnostics in CI",
+    "source": "MS .NET Blog",
+    "first_seen": "2026-06-30T21:29:07.159664+00:00",
+    "published": "2026-06-30T17:00:00+00:00"
+  },
+  "https://simonwillison.net/2026/Jun/30/shot-scraper-video": {
+    "title": "Have your agent record video demos of its work with shot-scraper video",
+    "source": "Simon Willison",
+    "first_seen": "2026-06-30T21:29:07.159664+00:00",
+    "published": "2026-06-30T16:54:26+00:00"
+  },
+  "https://deepmind.google/models/gemini-image/flash-lite": {
+    "title": "Nano Banana 2 Lite",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-30T21:29:07.159664+00:00",
+    "published": "2026-06-30T16:48:37+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/build-generative-ui-for-ai-agents-on-amazon-bedrock-agentcore-with-the-ag-ui-protocol": {
+    "title": "Build generative UI for AI agents on Amazon Bedrock AgentCore with the AG-UI protocol",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-06-30T21:29:07.159664+00:00",
+    "published": "2026-06-30T16:46:17+00:00"
+  },
+  "https://www.reuters.com/world/crypto-firms-have-spent-189-million-so-far-2026-us-election-report-says-2026-06-30": {
+    "title": "Crypto firms have spent $189M so far on 2026 US election, report says",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-30T21:29:07.159664+00:00",
+    "published": "2026-06-30T16:44:31+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/simplify-multi-account-access-to-amazon-bedrock-models-with-managed-entitlements": {
+    "title": "Simplify multi-account access to Amazon Bedrock models with managed entitlements",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-06-30T21:29:07.159664+00:00",
+    "published": "2026-06-30T16:42:49+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/implementing-resilience-patterns-with-amazon-bedrock-and-llm-gateway": {
+    "title": "Implementing resilience patterns with Amazon Bedrock and LLM gateway",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-06-30T21:29:07.159664+00:00",
+    "published": "2026-06-30T16:40:47+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/how-outpost-vfx-uses-aws-to-accelerate-ai-model-training-for-visual-effects": {
+    "title": "How Outpost VFX Uses AWS to Accelerate AI Model Training for Visual Effects",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-06-30T21:29:07.159664+00:00",
+    "published": "2026-06-30T16:37:09+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/building-bilingual-ner-for-cargo-logistics-with-amazon-bedrock": {
+    "title": "Building bilingual NER for cargo logistics with Amazon Bedrock",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-06-30T21:29:07.159664+00:00",
+    "published": "2026-06-30T16:33:46+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/manage-long-running-transactions-for-aws-dms-performance": {
+    "title": "Manage long-running transactions for AWS DMS performance",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-06-30T21:29:07.159664+00:00",
+    "published": "2026-06-30T16:29:54+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/user-authentication-and-session-management-with-amazon-aurora-dsql": {
+    "title": "User authentication and session management with Amazon Aurora DSQL",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-06-30T21:29:07.159664+00:00",
+    "published": "2026-06-30T16:28:38+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/fine-tune-amazon-nova-models-for-accurate-email-data-extraction": {
+    "title": "Fine-tune Amazon Nova models for accurate email data extraction",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-06-30T21:29:07.159664+00:00",
+    "published": "2026-06-30T16:26:48+00:00"
+  },
+  "https://www.phoronix.com/review/linux-72-features": {
+    "title": "Linux 7.2 Features: Cache Aware Scheduling, USB4STREAM, AMD ISP4, AMDGPU HDMI 2.1 FRL",
+    "source": "Phoronix",
+    "first_seen": "2026-06-30T21:29:07.159664+00:00",
+    "published": "2026-06-30T16:20:00+00:00"
+  },
+  "https://www.phoronix.com/news/Apple-DockChannel-M3-Keyboard": {
+    "title": "New Linux Driver Posted To Enable Keyboard Support On M3 MacBooks",
+    "source": "Phoronix",
+    "first_seen": "2026-06-30T21:29:07.159664+00:00",
+    "published": "2026-06-30T16:05:00+00:00"
+  },
+  "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash": {
+    "title": "Start building with Nano Banana 2 Lite and Gemini Omni Flash",
+    "source": "DeepMind Blog",
+    "first_seen": "2026-06-30T21:29:07.159664+00:00",
+    "published": "2026-06-30T16:02:40+00:00"
+  },
+  "https://thenewstack.io/aws-workspaces-desktops-for-agents": {
+    "title": "AWS launches a desktop for agents",
+    "source": "The New Stack",
+    "first_seen": "2026-06-30T21:29:07.159664+00:00",
+    "published": "2026-06-30T16:01:00+00:00"
+  },
+  "https://grafana.com/blog/full-stack-observability-in-grafana-cloud-how-to-investigate-issues-across-services-and-infrastructure": {
+    "title": "Full-stack observability in Grafana Cloud: How to investigate issues across services and infrastructure",
+    "source": "Grafana Blog",
+    "first_seen": "2026-06-30T21:29:07.159664+00:00",
+    "published": "2026-06-30T16:00:56+00:00"
+  },
+  "https://engineering.fb.com/2026/06/30/open-source/10-years-of-metas-commitment-to-python": {
+    "title": "10 Years of Meta’s Commitment to Python",
+    "source": "Meta Engineering",
+    "first_seen": "2026-06-30T21:29:07.159664+00:00",
+    "published": "2026-06-30T16:00:46+00:00"
+  },
+  "https://www.hashicorp.com/blog/discover-govern-and-scale-azure-infrastructure-in-the-ai-era": {
+    "title": "Discover, govern, and scale Azure infrastructure in the AI era",
+    "source": "HashiCorp Blog",
+    "first_seen": "2026-06-30T21:29:07.159664+00:00",
+    "published": "2026-06-30T16:00:00+00:00"
+  },
+  "https://developer.nvidia.com/blog/optimizing-a-neural-reconstruction-pipeline-using-nvidia-nsight-developer-tools": {
+    "title": "Optimizing a Neural Reconstruction Pipeline Using NVIDIA Nsight Developer Tools",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-06-30T21:29:07.159664+00:00",
+    "published": "2026-06-30T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/management-tools/cloud-monitoring-adds-long-lookback-alert-policies-for-promql": {
+    "title": "Anomaly detection using dynamic thresholds and two-year-long alerts in Cloud Monitoring",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-06-30T21:29:07.159664+00:00",
+    "published": "2026-06-30T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/databases/alloydb-omni-secure-hybrid-database-modernization-for-finance": {
+    "title": "Modernizing financial services with deployment freedom and transformational AI with AlloyDB Omni",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-06-30T21:29:07.159664+00:00",
+    "published": "2026-06-30T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/ai-machine-learning/schrodinger-alphaevolve-molecular-discovery-accelerates-4x": {
+    "title": "How Schrödinger sped up molecular discovery by 4x with Alphaevolve",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-06-30T21:29:07.159664+00:00",
+    "published": "2026-06-30T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/ai-machine-learning/nano-banana-2-lite-and-gemini-omni-flash-available": {
+    "title": "Bringing speed and strong cost performance to the market with Gemini Omni Flash and Nano Banana 2 Lite",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-06-30T21:29:07.159664+00:00",
+    "published": "2026-06-30T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/ai-machine-learning/gemini-enterprise-agent-platform-remote-mcp-server": {
+    "title": "Build agents even faster with Gemini Enterprise Agent Platform’s fully-managed, remote MCP server",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-06-30T21:29:07.159664+00:00",
+    "published": "2026-06-30T16:00:00+00:00"
+  },
+  "https://thereallo.dev/blog/claude-code-prompt-steganography": {
+    "title": "Claude Code is steganographically marking requests",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-30T21:29:07.159664+00:00",
+    "published": "2026-06-30T15:44:24+00:00"
+  },
+  "https://simonwillison.net/2026/Jun/30/shot-scraper": {
+    "title": "shot-scraper 1.10",
+    "source": "Simon Willison",
+    "first_seen": "2026-06-30T21:29:07.159664+00:00",
+    "published": "2026-06-30T15:10:14+00:00"
+  },
+  "https://research.google/blog/introducing-tabfm-a-zero-shot-foundation-model-for-tabular-data": {
+    "title": "Introducing TabFM: A zero-shot foundation model for tabular data",
+    "source": "Google Research",
+    "first_seen": "2026-06-30T21:29:07.159664+00:00",
+    "published": "2026-06-30T10:26:00+00:00"
+  },
+  "https://openai.com/index/how-chatgpt-adoption-has-expanded": {
+    "title": "How ChatGPT adoption has expanded",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-06-30T21:29:07.159664+00:00",
+    "published": "2026-06-30T09:00:00+00:00"
+  },
+  "https://www.hashicorp.com/blog/hcp-terraform-powered-by-infragraph-limited-availability-launch": {
+    "title": "HCP Terraform Powered by Infragraph Limited Availability Launch",
+    "source": "HashiCorp Blog",
+    "first_seen": "2026-06-30T21:29:07.159664+00:00",
+    "published": "2026-06-30T07:00:00+00:00"
+  },
+  "https://www.elastic.co/blog/devrel-newsletter-june-2026": {
+    "title": "DevRel newsletter — June 2026",
+    "source": "Elastic Blog",
+    "first_seen": "2026-06-30T21:29:07.159664+00:00",
+    "published": "2026-06-30T00:00:00+00:00"
+  },
+  "https://openai.com/index/introducing-genebench-pro": {
+    "title": "Introducing GeneBench-Pro",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-06-30T21:29:07.159664+00:00",
+    "published": "2026-06-30T00:00:00+00:00"
+  },
+  "https://openai.com/index/genebench-pro/case-studies": {
+    "title": "Inside Genebench-Pro",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-06-30T21:29:07.159664+00:00",
+    "published": "2026-06-30T00:00:00+00:00"
+  },
+  "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug": {
+    "title": "Core dump epidemiology: fixing an 18-year-old bug",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-06-30T21:29:07.159664+00:00",
+    "published": "2026-06-30T00:00:00+00:00"
+  },
+  "https://discord.com/blog/discord-is-now-on-meta-quest-reach-out-to-your-servers-while-in-vr": {
+    "title": "Discord is Now on Meta Quest: Reach Out to Your Servers While in VR",
+    "source": "Discord Engineering",
+    "first_seen": "2026-06-30T21:29:07.159664+00:00",
+    "published": "2026-06-30T00:00:00+00:00"
+  },
+  "https://discord.com/blog/cost-attribution-in-discords-api": {
+    "title": "Cost Attribution in Discord’s API",
+    "source": "Discord Engineering",
+    "first_seen": "2026-06-30T21:29:07.159664+00:00",
+    "published": "2026-06-30T00:00:00+00:00"
   }
 }
