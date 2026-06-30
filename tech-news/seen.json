@@ -47048,5 +47048,227 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-06-30T10:11:22.742538+00:00",
     "published": "2026-06-28T18:56:46+00:00"
+  },
+  "https://svelte.dev/blog/whats-new-in-svelte-july-2026": {
+    "title": "What’s new in Svelte: July 2026",
+    "source": "Svelte Blog",
+    "first_seen": "2026-06-30T15:46:25.374549+00:00",
+    "published": "2026-07-01T00:00:00+00:00"
+  },
+  "https://blog.bytebytego.com/p/inside-thinking-machines-interaction": {
+    "title": "Inside Thinking Machines’ Interaction Models",
+    "source": "ByteByteGo",
+    "first_seen": "2026-06-30T15:46:25.374549+00:00",
+    "published": "2026-06-30T15:31:34+00:00"
+  },
+  "https://waag.org/en/article/why-we-moved-our-bluesky-data-eurosky": {
+    "title": "We moved our Bluesky data to Eurosky",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-30T15:46:25.374549+00:00",
+    "published": "2026-06-30T15:17:14+00:00"
+  },
+  "https://thenewstack.io/aws-forward-deployed-engineering": {
+    "title": "AWS just put $1 billion into forward deployed engineers. Here’s why it matters for enterprise teams.",
+    "source": "The New Stack",
+    "first_seen": "2026-06-30T15:46:25.374549+00:00",
+    "published": "2026-06-30T15:02:22+00:00"
+  },
+  "https://thenewstack.io/harness-autonomous-worker-agents": {
+    "title": "“The harness is where the hard work is”: Harness bets on agents that enterprises can trust in production",
+    "source": "The New Stack",
+    "first_seen": "2026-06-30T15:46:25.374549+00:00",
+    "published": "2026-06-30T15:00:00+00:00"
+  },
+  "https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable": {
+    "title": "Why Specialization Is Inevitable",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-06-30T15:46:25.374549+00:00",
+    "published": "2026-06-30T14:39:11+00:00"
+  },
+  "https://www.phoronix.com/news/KDE-Plasma-6.7.2-Released": {
+    "title": "KDE Plasma 6.7.2 Brings Fix For Most Common KWin Crash, Better Chromium Video Playback",
+    "source": "Phoronix",
+    "first_seen": "2026-06-30T15:46:25.374549+00:00",
+    "published": "2026-06-30T14:36:05+00:00"
+  },
+  "https://www.phoronix.com/news/AMD-Linux-Highlights-Q2-2026": {
+    "title": "AMDGPU HDMI 2.1 FRL, Improvements For Old GPUs & Other AMD Linux Highlights In Q2",
+    "source": "Phoronix",
+    "first_seen": "2026-06-30T15:46:25.374549+00:00",
+    "published": "2026-06-30T14:22:31+00:00"
+  },
+  "https://ranpara.net/posts/words-are-a-byproduct-of-consciousness": {
+    "title": "Words Are a Byproduct of Consciousness. For LLMs, It's Backwards",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-30T15:46:25.374549+00:00",
+    "published": "2026-06-30T14:16:57+00:00"
+  },
+  "https://www.snowflake.com/en/blog/engineering/postgresql-19-features-beta": {
+    "title": "Looking Ahead to Postgres 19",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-30T15:46:25.374549+00:00",
+    "published": "2026-06-30T14:14:29+00:00"
+  },
+  "https://www.allthingsdistributed.com/2026/06/return-to-two-pizza-culture.html?utm_campaign=inbound&utm_source=rss": {
+    "title": "A return to two-pizza culture",
+    "source": "All Things Distributed",
+    "first_seen": "2026-06-30T15:46:25.374549+00:00",
+    "published": "2026-06-30T14:00:00+00:00"
+  },
+  "https://thenewstack.io/aikido-acquires-root-security": {
+    "title": "Aikido acquires Root to backport open source fixes without forcing upgrades",
+    "source": "The New Stack",
+    "first_seen": "2026-06-30T15:46:25.374549+00:00",
+    "published": "2026-06-30T14:00:00+00:00"
+  },
+  "https://tailscale.com/blog/aperture-audit-AI-agents": {
+    "title": "How to audit what your AI agents are accessing",
+    "source": "Tailscale Blog",
+    "first_seen": "2026-06-30T15:46:25.374549+00:00",
+    "published": "2026-06-30T14:00:00+00:00"
+  },
+  "https://realpython.com/courses/managing-and-measuring-python-code-quality": {
+    "title": "Managing and Measuring Python Code Quality",
+    "source": "Real Python",
+    "first_seen": "2026-06-30T15:46:25.374549+00:00",
+    "published": "2026-06-30T14:00:00+00:00"
+  },
+  "https://lwn.net/Articles/1079001": {
+    "title": "[$] Flexible metaprogramming with Rhombus",
+    "source": "LWN.net",
+    "first_seen": "2026-06-30T15:46:25.374549+00:00",
+    "published": "2026-06-30T13:09:28+00:00"
+  },
+  "https://lwn.net/Articles/1080439": {
+    "title": "Security updates for Tuesday",
+    "source": "LWN.net",
+    "first_seen": "2026-06-30T15:46:25.374549+00:00",
+    "published": "2026-06-30T13:03:36+00:00"
+  },
+  "https://thenewstack.io/eks-kubernetes-etcd-scale": {
+    "title": "Operating Kubernetes at scale: a few stories from running Amazon EKS",
+    "source": "The New Stack",
+    "first_seen": "2026-06-30T15:46:25.374549+00:00",
+    "published": "2026-06-30T13:00:00+00:00"
+  },
+  "https://www.knopper.net/knoppix/index-en.html": {
+    "title": "Knoppix",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-30T15:46:25.374549+00:00",
+    "published": "2026-06-30T12:54:01+00:00"
+  },
+  "https://www.phoronix.com/news/Canonical-Gold-Trifecta-Tech": {
+    "title": "Canonical First Gold Sponsor Of Trifecta Tech For Building More Infrastructure In Rust",
+    "source": "Phoronix",
+    "first_seen": "2026-06-30T15:46:25.374549+00:00",
+    "published": "2026-06-30T12:48:55+00:00"
+  },
+  "https://www.gutenberg.org/ebooks/24518": {
+    "title": "Memoirs of Extraordinary Popular Delusions and the Madness of Crowds (1852)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-30T15:46:25.374549+00:00",
+    "published": "2026-06-30T12:47:51+00:00"
+  },
+  "https://www.schneier.com/blog/archives/2026/06/the-realities-of-ai-video-surveillance.html": {
+    "title": "The Realities of AI Video Surveillance",
+    "source": "Schneier on Security",
+    "first_seen": "2026-06-30T15:46:25.374549+00:00",
+    "published": "2026-06-30T12:05:57+00:00"
+  },
+  "https://realpython.com/quizzes/managing-and-measuring-python-code-quality": {
+    "title": "Quiz: Managing and Measuring Python Code Quality",
+    "source": "Real Python",
+    "first_seen": "2026-06-30T15:46:25.374549+00:00",
+    "published": "2026-06-30T12:00:00+00:00"
+  },
+  "https://www.cncf.io/blog/2026/06/30/kepler-re-architected-improved-power-accuracy-and-a-community-call-to-action": {
+    "title": "Kepler, re-architected: Improved power accuracy and a community call to action!",
+    "source": "CNCF Blog",
+    "first_seen": "2026-06-30T15:46:25.374549+00:00",
+    "published": "2026-06-30T11:38:00+00:00"
+  },
+  "https://www.tigerdata.com/blog/how-float-runs-ai-energy-company-3-person-team-tiger-data": {
+    "title": "How Float Runs an AI Energy Company on a 3-Person Team with Tiger Data",
+    "source": "Timescale Blog",
+    "first_seen": "2026-06-30T15:46:25.374549+00:00",
+    "published": "2026-06-30T11:00:05+00:00"
+  },
+  "https://www.cncf.io/blog/2026/06/30/dragonfly-v2-5-0-is-released": {
+    "title": "Dragonfly v2.5.0 is released",
+    "source": "CNCF Blog",
+    "first_seen": "2026-06-30T15:46:25.374549+00:00",
+    "published": "2026-06-30T11:00:00+00:00"
+  },
+  "https://blog.trailofbits.com/2026/06/30/shipping-post-quantum-cryptography-to-python": {
+    "title": "Shipping post-quantum cryptography to Python",
+    "source": "Trail of Bits",
+    "first_seen": "2026-06-30T15:46:25.374549+00:00",
+    "published": "2026-06-30T11:00:00+00:00"
+  },
+  "https://cekrem.github.io/posts/parse-dont-validate-typescript": {
+    "title": "Parse, Don't Validate – In a Language That Doesn't Want You To",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-30T15:46:25.374549+00:00",
+    "published": "2026-06-30T10:48:23+00:00"
+  },
+  "https://waag.org/en/article/european-digital-id-wallets-are-gift-google-and-apple": {
+    "title": "European digital ID wallets rely on safety services of Google and Apple",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-30T15:46:25.374549+00:00",
+    "published": "2026-06-30T10:36:23+00:00"
+  },
+  "https://vosen.github.io/ZLUDA/blog/zluda-update-q1q2-2026": {
+    "title": "Zluda 6 release (run unmodified CUDA applications on non-Nvidia GPUs)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-30T15:46:25.374549+00:00",
+    "published": "2026-06-30T10:34:25+00:00"
+  },
+  "https://www.phoronix.com/news/Intel-Kills-AMX-TF32": {
+    "title": "Intel Kills Off AMX-TF32 Support Before It Even Shipped In Diamond Rapids",
+    "source": "Phoronix",
+    "first_seen": "2026-06-30T15:46:25.374549+00:00",
+    "published": "2026-06-30T10:32:01+00:00"
+  },
+  "https://www.maturitas.org/article/S0378-5122(25)00571-7/fulltext": {
+    "title": "Exercise intensity influences body composition in healthy older adults (2025)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-30T15:46:25.374549+00:00",
+    "published": "2026-06-30T10:31:02+00:00"
+  },
+  "https://www.phoronix.com/news/Servo-0.3-Monthly-Changes": {
+    "title": "Servo Browser Engine Continues Making Much Progress On Less Than $8k Monthly",
+    "source": "Phoronix",
+    "first_seen": "2026-06-30T15:46:25.374549+00:00",
+    "published": "2026-06-30T10:21:11+00:00"
+  },
+  "https://europeancorrespondent.com/en/r/the-us-ambassador-had-belgian-police-stop-our-reporting": {
+    "title": "The US ambassador had Belgian police stop our reporting",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-06-30T15:46:25.374549+00:00",
+    "published": "2026-06-30T10:15:15+00:00"
+  },
+  "https://www.phoronix.com/news/GCC-17-SpacemiT-X100": {
+    "title": "GCC 17 Compiler Lands SpacemiT X100 Core Targeting",
+    "source": "Phoronix",
+    "first_seen": "2026-06-30T15:46:25.374549+00:00",
+    "published": "2026-06-30T10:10:01+00:00"
+  },
+  "https://huggingface.co/blog/eee-community-evals": {
+    "title": "Featuring Every Eval Ever Results on Hugging Face Model Pages",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-06-30T15:46:25.374549+00:00",
+    "published": "2026-06-30T00:00:00+00:00"
+  },
+  "https://blog.rust-lang.org/2026/06/30/Rust-1.96.1": {
+    "title": "Announcing Rust 1.96.1",
+    "source": "Rust Blog",
+    "first_seen": "2026-06-30T15:46:25.374549+00:00",
+    "published": "2026-06-30T00:00:00+00:00"
+  },
+  "https://astro.build/blog/whats-new-june-2026": {
+    "title": "What's new in Astro - June 2026",
+    "source": "Astro Blog",
+    "first_seen": "2026-06-30T15:46:25.374549+00:00",
+    "published": "2026-06-30T00:00:00+00:00"
   }
 }
