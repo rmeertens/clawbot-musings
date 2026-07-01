@@ -47816,5 +47816,233 @@
     "source": "Databricks Blog",
     "first_seen": "2026-07-01T10:18:57.956004+00:00",
     "published": "2026-06-30T18:05:48+00:00"
+  },
+  "https://www.phoronix.com/news/AMD-RMPOPT-Linux-v10": {
+    "title": "AMD Sends Out Latest Linux Patches For RMPOPT Optimization",
+    "source": "Phoronix",
+    "first_seen": "2026-07-01T15:51:12.524262+00:00",
+    "published": "2026-07-01T15:38:00+00:00"
+  },
+  "https://blog.bytebytego.com/p/how-openai-delivers-low-latency-voice": {
+    "title": "How OpenAI Delivers Low-Latency Voice AI for 900M Users",
+    "source": "ByteByteGo",
+    "first_seen": "2026-07-01T15:51:12.524262+00:00",
+    "published": "2026-07-01T15:31:13+00:00"
+  },
+  "https://biotic.org/research/spudcell": {
+    "title": "SpudCell: The first synthetic cell with a complete cell cycle",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-01T15:51:12.524262+00:00",
+    "published": "2026-07-01T14:57:38+00:00"
+  },
+  "https://nym.com/blog/anti-palantir-manifesto": {
+    "title": "The Anti-Palantir Manifesto",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-01T15:51:12.524262+00:00",
+    "published": "2026-07-01T14:48:59+00:00"
+  },
+  "https://reclaimthenet.org/sony-deletes-551-studiocanal-movies-playstation-owners-paid-for": {
+    "title": "Sony Deletes 551 Movies PlayStation Owners Paid For",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-01T15:51:12.524262+00:00",
+    "published": "2026-07-01T14:26:07+00:00"
+  },
+  "https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701": {
+    "title": "For First Time, a Cell Built from Scratch Grows and Divides",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-01T15:51:12.524262+00:00",
+    "published": "2026-07-01T14:20:52+00:00"
+  },
+  "https://www.nytimes.com/interactive/2026/07/01/science/spudcells-synthetic-cell.html": {
+    "title": "This Cell Feeds, Grows and Reproduces. and It's Manmade",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-01T15:51:12.524262+00:00",
+    "published": "2026-07-01T14:06:55+00:00"
+  },
+  "https://thenewstack.io/codecov-supply-chain-attack": {
+    "title": "The call is coming from inside your pipeline: the anatomy of a Codecov attack",
+    "source": "The New Stack",
+    "first_seen": "2026-07-01T15:51:12.524262+00:00",
+    "published": "2026-07-01T14:00:00+00:00"
+  },
+  "https://realpython.com/python315-jit-compiler": {
+    "title": "Python 3.15 Preview: Upgraded JIT Compiler",
+    "source": "Real Python",
+    "first_seen": "2026-07-01T15:51:12.524262+00:00",
+    "published": "2026-07-01T14:00:00+00:00"
+  },
+  "https://blog.cloudflare.com/monetization-gateway": {
+    "title": "Monetization Gateway",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-01T15:51:12.524262+00:00",
+    "published": "2026-07-01T13:59:13+00:00"
+  },
+  "https://www.thedrive.com/news/your-kids-school-bus-is-about-to-become-a-roaming-surveillance-vehicle": {
+    "title": "Your Kids' School Bus Is About to Become a Roaming Surveillance Vehicle",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-01T15:51:12.524262+00:00",
+    "published": "2026-07-01T13:54:25+00:00"
+  },
+  "https://news.ycombinator.com/item?id=48746752": {
+    "title": "Launch HN: Parsewise (YC P25) – Reason Across Documents with an API",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-01T15:51:12.524262+00:00",
+    "published": "2026-07-01T13:48:44+00:00"
+  },
+  "https://www.phoronix.com/news/Glibc-System-Tunables": {
+    "title": "Glibc Introduces /etc/tunables.conf For System-Wide Tunables",
+    "source": "Phoronix",
+    "first_seen": "2026-07-01T15:51:12.524262+00:00",
+    "published": "2026-07-01T13:32:03+00:00"
+  },
+  "https://wangcong.org/2026-06-30-why-i-stopped-arguing-with-people.html": {
+    "title": "Why I Stopped Arguing with People",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-01T15:51:12.524262+00:00",
+    "published": "2026-07-01T13:29:29+00:00"
+  },
+  "https://www.ycombinator.com/companies/manufact/jobs/4cyWd6S-developer-advocate-partnerships-devrel": {
+    "title": "Manufact (YC S25) Is Hiring a Developer Advocate in SF",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-01T15:51:12.524262+00:00",
+    "published": "2026-07-01T13:22:24+00:00"
+  },
+  "https://lwn.net/Articles/1079808": {
+    "title": "[$] Secure Boot certificate expiration is here",
+    "source": "LWN.net",
+    "first_seen": "2026-07-01T15:51:12.524262+00:00",
+    "published": "2026-07-01T13:18:52+00:00"
+  },
+  "https://www.phoronix.com/news/RADV-L2-Flush-Fix-GFX6-GFX7": {
+    "title": "RADV & RadeonSI Drivers See New Fixes For AMD GCN 1.0/1.1 GPUs",
+    "source": "Phoronix",
+    "first_seen": "2026-07-01T15:51:12.524262+00:00",
+    "published": "2026-07-01T13:18:33+00:00"
+  },
+  "https://lwn.net/Articles/1080689": {
+    "title": "Security updates for Wednesday",
+    "source": "LWN.net",
+    "first_seen": "2026-07-01T15:51:12.524262+00:00",
+    "published": "2026-07-01T13:15:44+00:00"
+  },
+  "https://ciechanow.ski/internal-combustion-engine": {
+    "title": "Internal Combustion Engine",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-01T15:51:12.524262+00:00",
+    "published": "2026-07-01T13:04:16+00:00"
+  },
+  "https://www.docker.com/blog/why-ai-agents-need-isolation": {
+    "title": "Why AI Agents Need Isolation",
+    "source": "Docker Blog",
+    "first_seen": "2026-07-01T15:51:12.524262+00:00",
+    "published": "2026-07-01T13:00:00+00:00"
+  },
+  "https://blog.cloudflare.com/making-ai-search-smarter": {
+    "title": "Making AI search smarter",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-07-01T15:51:12.524262+00:00",
+    "published": "2026-07-01T13:00:00+00:00"
+  },
+  "https://blog.cloudflare.com/content-independence-day-ai-options": {
+    "title": "Your site, your rules: new AI traffic options for all customers",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-07-01T15:51:12.524262+00:00",
+    "published": "2026-07-01T13:00:00+00:00"
+  },
+  "https://blog.cloudflare.com/agentic-internet-bot-report": {
+    "title": "Content Independence Day, one year on: building the business model for the agentic Internet",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-07-01T15:51:12.524262+00:00",
+    "published": "2026-07-01T13:00:00+00:00"
+  },
+  "https://box2d.org/posts/2026/06/announcing-box3d": {
+    "title": "Announcing Box3D :: Box2D",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-01T15:51:12.524262+00:00",
+    "published": "2026-07-01T12:12:17+00:00"
+  },
+  "https://frondruntime.dev": {
+    "title": "Show HN: Frond – a frontend runtime for your app's dependency graph",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-01T15:51:12.524262+00:00",
+    "published": "2026-07-01T12:10:37+00:00"
+  },
+  "https://realpython.com/quizzes/python315-jit-compiler": {
+    "title": "Quiz: Python 3.15 Preview: Upgraded JIT Compiler",
+    "source": "Real Python",
+    "first_seen": "2026-07-01T15:51:12.524262+00:00",
+    "published": "2026-07-01T12:00:00+00:00"
+  },
+  "https://mynintendonews.com/2026/06/26/nintendo-has-raised-its-employees-base-salary-by-10": {
+    "title": "Nintendo has raised its employees base salary by 10%",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-01T15:51:12.524262+00:00",
+    "published": "2026-07-01T11:35:20+00:00"
+  },
+  "https://www.cncf.io/blog/2026/07/01/understanding-dynamic-resource-allocation-in-kubernetes": {
+    "title": "Understanding dynamic resource allocation in Kubernetes",
+    "source": "CNCF Blog",
+    "first_seen": "2026-07-01T15:51:12.524262+00:00",
+    "published": "2026-07-01T11:00:00+00:00"
+  },
+  "https://www.schneier.com/blog/archives/2026/07/papa-johns-surveillance-based-advertising.html": {
+    "title": "Papa Johns Surveillance-Based Advertising",
+    "source": "Schneier on Security",
+    "first_seen": "2026-07-01T15:51:12.524262+00:00",
+    "published": "2026-07-01T10:53:23+00:00"
+  },
+  "https://www.phoronix.com/news/GCC-16.2-Early-August": {
+    "title": "GCC 16.2 Being Planned For Early August Release",
+    "source": "Phoronix",
+    "first_seen": "2026-07-01T15:51:12.524262+00:00",
+    "published": "2026-07-01T10:31:04+00:00"
+  },
+  "https://cleberg.net/blog/internet.html": {
+    "title": "The Internet I Grew Up with Doesn't Exist Anymore",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-01T15:51:12.524262+00:00",
+    "published": "2026-07-01T10:26:45+00:00"
+  },
+  "https://www.phoronix.com/news/June-2026-Highlights": {
+    "title": "Arch Linux AUR Malware, Linux 7.2 Developments & Other June Highlights",
+    "source": "Phoronix",
+    "first_seen": "2026-07-01T15:51:12.524262+00:00",
+    "published": "2026-07-01T10:18:20+00:00"
+  },
+  "https://asahilinux.org/2026/06/progress-report-7-1": {
+    "title": "Asahi Linux 7.1 Progress Report",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-01T15:51:12.524262+00:00",
+    "published": "2026-07-01T10:07:04+00:00"
+  },
+  "https://www.thefocalpoints.com/p/new-study-frog-derived-gut-bacterium": {
+    "title": "Single Dose of Frog-Derived Gut Bacterium Eradicates 100% of Tumors in Mice",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-01T15:51:12.524262+00:00",
+    "published": "2026-07-01T09:21:44+00:00"
+  },
+  "https://cloud.google.com/blog/products/identity-security/google-cloud-confirmed-to-offer-a-safer-choice-for-eu-public-sector-organizations-with-dutch-dpia-approval": {
+    "title": "Google Cloud confirmed to offer a safer choice for EU public sector organizations with Dutch DPIA approval",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-07-01T15:51:12.524262+00:00",
+    "published": "2026-07-01T09:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/topics/developers-practitioners/scaling-llm-inference-multi-node-kv-cache-offloading-with-gke-managed-lustre": {
+    "title": "Scaling LLM Inference: Multi-Node KV Cache Offloading with GKE & Managed Lustre",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-07-01T15:51:12.524262+00:00",
+    "published": "2026-07-01T07:00:00+00:00"
+  },
+  "https://blog.cloudflare.com/attribution-business-insights": {
+    "title": "Unmasking the crawls with Attribution Business Insights",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-07-01T15:51:12.524262+00:00",
+    "published": "2026-07-01T06:00:00+00:00"
+  },
+  "https://huggingface.co/blog/cerebras-gemma4-voice-ai": {
+    "title": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-07-01T15:51:12.524262+00:00",
+    "published": "2026-07-01T00:00:00+00:00"
   }
 }
