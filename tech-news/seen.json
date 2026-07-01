@@ -47654,5 +47654,167 @@
     "source": "Discord Engineering",
     "first_seen": "2026-06-30T21:29:07.159664+00:00",
     "published": "2026-06-30T00:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/ASUS-ROG-Strix-G16-Fix": {
+    "title": "ASUS ROG Strix Laptop Sees Driver Fix For Linux Performance Too Low Compared To Windows",
+    "source": "Phoronix",
+    "first_seen": "2026-07-01T10:18:57.956004+00:00",
+    "published": "2026-07-01T10:11:34+00:00"
+  },
+  "https://www.omgubuntu.co.uk/2026/06/pine64-pinevoice-riscv-smart-speaker-launch": {
+    "title": "Pine64 launch $50 smart speaker for Home Assistant tinkerers",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-01T10:18:57.956004+00:00",
+    "published": "2026-07-01T09:57:07+00:00"
+  },
+  "https://www.phoronix.com/news/Asahi-Linux-AVD-Firmware-M3": {
+    "title": "Asahi Linux Fixes Booting With macOS 27, Progress On M3 & Apple Video Decode",
+    "source": "Phoronix",
+    "first_seen": "2026-07-01T10:18:57.956004+00:00",
+    "published": "2026-07-01T09:53:25+00:00"
+  },
+  "https://www.phoronix.com/news/NVIDIA-Nova-Driver-TLV": {
+    "title": "NVIDIA Working On New \"TLV\" Firmware Binary Format For Nova Driver",
+    "source": "Phoronix",
+    "first_seen": "2026-07-01T10:18:57.956004+00:00",
+    "published": "2026-07-01T09:34:21+00:00"
+  },
+  "https://news.ycombinator.com/item?id=48744213": {
+    "title": "Dexter (YC F24) Is Hiring a Founding Engineer in Berlin",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-01T10:18:57.956004+00:00",
+    "published": "2026-07-01T09:18:43+00:00"
+  },
+  "https://www.dongascience.com/en/news/30374": {
+    "title": "Register Korea's First PC 'SE-8001' as a National Important Material",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-01T10:18:57.956004+00:00",
+    "published": "2026-07-01T08:12:40+00:00"
+  },
+  "https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it": {
+    "title": "Godot will no longer accept AI-authored code contributions",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-01T10:18:57.956004+00:00",
+    "published": "2026-07-01T07:43:22+00:00"
+  },
+  "https://ayushtambde.com/blog/matrix-orthogonalization-improves-memory-in-recurrent-models": {
+    "title": "Matrix Orthogonalization Improves Memory in Recurrent Models",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-01T10:18:57.956004+00:00",
+    "published": "2026-07-01T05:13:22+00:00"
+  },
+  "https://www.conception.bio/science-and-updates/the-first-early-human-eggs-from-stem-cells": {
+    "title": "The first early human eggs from stem cells",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-01T10:18:57.956004+00:00",
+    "published": "2026-07-01T05:09:30+00:00"
+  },
+  "https://thenewstack.io/how-anthropic-is-bringing-fable-5-back": {
+    "title": "How Anthropic is bringing Fable 5 back — and when it’ll cost you",
+    "source": "The New Stack",
+    "first_seen": "2026-07-01T10:18:57.956004+00:00",
+    "published": "2026-07-01T04:12:09+00:00"
+  },
+  "https://github.com/steve-chavez/CParseC": {
+    "title": "Single header Parser Combinators for C",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-01T10:18:57.956004+00:00",
+    "published": "2026-07-01T03:52:55+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/safely-releasing-frontier-models-to-customers": {
+    "title": "Safely Releasing Frontier Models to Customers",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-07-01T10:18:57.956004+00:00",
+    "published": "2026-07-01T03:13:19+00:00"
+  },
+  "https://blog.arxiv.org/2026/06/30/arxivs-next-chapter": {
+    "title": "ArXiv's Next Chapter",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-01T10:18:57.956004+00:00",
+    "published": "2026-07-01T02:51:36+00:00"
+  },
+  "https://en.wikipedia.org/wiki/Forestiere_Underground_Gardens": {
+    "title": "Forestiere Underground Gardens",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-01T10:18:57.956004+00:00",
+    "published": "2026-07-01T01:23:09+00:00"
+  },
+  "https://www.phoronix.com/news/Q2-2026-Highlights": {
+    "title": "Performance Optimizations, NVIDIA Vera, Arc Pro B70 & Other Linux Highlights From Q2",
+    "source": "Phoronix",
+    "first_seen": "2026-07-01T10:18:57.956004+00:00",
+    "published": "2026-07-01T00:24:26+00:00"
+  },
+  "https://thenewstack.io/anthropic-fable-ban-lifted": {
+    "title": "Fable is coming back: Federal government lifts export controls on Anthropic AI model",
+    "source": "The New Stack",
+    "first_seen": "2026-07-01T10:18:57.956004+00:00",
+    "published": "2026-07-01T00:08:34+00:00"
+  },
+  "https://www.elastic.co/blog/elastic-leader-everest-group-enterprise-search-peak-matrix-2026": {
+    "title": "Elastic named a Leader in the Everest Group Enterprise Search Products PEAK Matrix® Assessment 2026",
+    "source": "Elastic Blog",
+    "first_seen": "2026-07-01T10:18:57.956004+00:00",
+    "published": "2026-07-01T00:00:00+00:00"
+  },
+  "https://simonwillison.net/2026/Jun/30/anthropic": {
+    "title": "Quoting Anthropic",
+    "source": "Simon Willison",
+    "first_seen": "2026-07-01T10:18:57.956004+00:00",
+    "published": "2026-06-30T23:58:15+00:00"
+  },
+  "https://twitter.com/AnthropicAI/status/2072106151890809341": {
+    "title": "Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-01T10:18:57.956004+00:00",
+    "published": "2026-06-30T23:55:12+00:00"
+  },
+  "https://github.com/google/copybara": {
+    "title": "Google copybara: moving code between repositories",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-01T10:18:57.956004+00:00",
+    "published": "2026-06-30T23:45:39+00:00"
+  },
+  "https://hatari.frama.io/hatari/online/hatari.html": {
+    "title": "Hatari – Online Atari ST/STE/TT/Falcon Emulator",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-01T10:18:57.956004+00:00",
+    "published": "2026-06-30T22:34:23+00:00"
+  },
+  "https://www.phoronix.com/news/COSMIC-Epoch-1.2": {
+    "title": "COSMIC Epoch 1.2 Desktop Fixes Flickering Issues For Intel Graphics",
+    "source": "Phoronix",
+    "first_seen": "2026-07-01T10:18:57.956004+00:00",
+    "published": "2026-06-30T22:30:38+00:00"
+  },
+  "https://simonwillison.net/2026/Jun/30/nano-banana-2-lite": {
+    "title": "Nano Banana 2 Lite",
+    "source": "Simon Willison",
+    "first_seen": "2026-07-01T10:18:57.956004+00:00",
+    "published": "2026-06-30T22:15:35+00:00"
+  },
+  "https://aws.amazon.com/blogs/aws/accelerate-your-infrastructure-deployments-by-up-to-4x-with-aws-cloudformation-express-mode": {
+    "title": "Accelerate your infrastructure deployments by up to 4x with AWS CloudFormation Express mode",
+    "source": "AWS Blog",
+    "first_seen": "2026-07-01T10:18:57.956004+00:00",
+    "published": "2026-06-30T21:30:33+00:00"
+  },
+  "https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication?_fb_noscript=1": {
+    "title": "From brain waves to words: a new path to communication without surgery",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-01T10:18:57.956004+00:00",
+    "published": "2026-06-30T21:29:13+00:00"
+  },
+  "https://docs.mistral.ai/models/model-cards/leanstral-1-5-26-06": {
+    "title": "Leanstral 1.5",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-01T10:18:57.956004+00:00",
+    "published": "2026-06-30T20:44:56+00:00"
+  },
+  "https://www.databricks.com/blog/lakebase-ltap-rethinking-database-storage": {
+    "title": "From monolith to Lakebase to LTAP: rethinking the database from storage up",
+    "source": "Databricks Blog",
+    "first_seen": "2026-07-01T10:18:57.956004+00:00",
+    "published": "2026-06-30T18:05:48+00:00"
   }
 }
