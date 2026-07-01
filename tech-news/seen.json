@@ -48044,5 +48044,371 @@
     "source": "Hugging Face Blog",
     "first_seen": "2026-07-01T15:51:12.524262+00:00",
     "published": "2026-07-01T00:00:00+00:00"
+  },
+  "https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers": {
+    "title": "Introducing the Safari MCP server for web developers",
+    "source": "WebKit Blog",
+    "first_seen": "2026-07-01T21:29:02.183853+00:00",
+    "published": "2026-07-01T21:28:16+00:00"
+  },
+  "https://webkit.org/blog/18133/release-notes-for-safari-technology-preview-247": {
+    "title": "Release Notes for Safari Technology Preview 247",
+    "source": "WebKit Blog",
+    "first_seen": "2026-07-01T21:29:02.183853+00:00",
+    "published": "2026-07-01T21:28:08+00:00"
+  },
+  "https://www.phoronix.com/news/KDE-Linux-June-2026": {
+    "title": "KDE Linux Introduces \"Developer Mode\" Option, Easier Log Collection",
+    "source": "Phoronix",
+    "first_seen": "2026-07-01T21:29:02.183853+00:00",
+    "published": "2026-07-01T21:06:06+00:00"
+  },
+  "https://www.ycombinator.com/companies/proliferate/jobs/mMHvKR9-founding-product-engineer": {
+    "title": "Proliferate (YC S25) Is Hiring",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-01T21:29:02.183853+00:00",
+    "published": "2026-07-01T21:00:14+00:00"
+  },
+  "https://thenewstack.io/openclaw-persistent-agent-architecture": {
+    "title": "OpenClaw’s new app doesn’t run AI on your phone. That’s the whole point.",
+    "source": "The New Stack",
+    "first_seen": "2026-07-01T21:29:02.183853+00:00",
+    "published": "2026-07-01T21:00:00+00:00"
+  },
+  "https://www.workerowned.info": {
+    "title": "Show HN: Searchable directory of 22k+ products from worker-owned co-ops",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-01T21:29:02.183853+00:00",
+    "published": "2026-07-01T20:47:41+00:00"
+  },
+  "https://www.windtowatt.com/index-en.html": {
+    "title": "One KW wind turbine without civil engineering",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-01T21:29:02.183853+00:00",
+    "published": "2026-07-01T20:43:47+00:00"
+  },
+  "https://thenewstack.io/cordyceps-cicd": {
+    "title": "Cordyceps flaw pattern is more proof CI/CD is part of the attack surface",
+    "source": "The New Stack",
+    "first_seen": "2026-07-01T21:29:02.183853+00:00",
+    "published": "2026-07-01T20:29:58+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/run-log-analytics-for-a-fraction-of-the-cost-with-the-new-engine-for-amazon-opensearch-service": {
+    "title": "Run log analytics for a fraction of the cost with the new engine for Amazon OpenSearch Service",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-07-01T21:29:02.183853+00:00",
+    "published": "2026-07-01T20:16:56+00:00"
+  },
+  "https://thenewstack.io/cloudflare-ai-web-economics": {
+    "title": "Cloudflare wants to build the economic layer of the AI web",
+    "source": "The New Stack",
+    "first_seen": "2026-07-01T21:29:02.183853+00:00",
+    "published": "2026-07-01T20:10:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/security/secure-amazon-container-workloads-using-container-attribute-based-rules-in-aws-network-firewall": {
+    "title": "Secure Amazon container workloads using container attribute-based rules in AWS Network Firewall",
+    "source": "AWS Security Blog",
+    "first_seen": "2026-07-01T21:29:02.183853+00:00",
+    "published": "2026-07-01T19:40:22+00:00"
+  },
+  "https://twitter.com/claudeai/status/2072402636813607381": {
+    "title": "Fable 5 Is Back",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-01T21:29:02.183853+00:00",
+    "published": "2026-07-01T19:35:57+00:00"
+  },
+  "https://support.claude.com/en/articles/15424964-claude-fable-5-promotional-access": {
+    "title": "Claude Fable 5 Promotional Access",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-01T21:29:02.183853+00:00",
+    "published": "2026-07-01T19:31:46+00:00"
+  },
+  "https://www.databricks.com/blog/granular-usage-attribution-dbt-pipelines-query-tags": {
+    "title": "Granular Usage Attribution for dbt Pipelines with Query Tags",
+    "source": "Databricks Blog",
+    "first_seen": "2026-07-01T21:29:02.183853+00:00",
+    "published": "2026-07-01T19:23:01+00:00"
+  },
+  "https://github.com/Division-36/Z-Jail": {
+    "title": "Show HN: Z-Jail – A 130 KB Linux sandbox-C99 with 7 defense layers and zero deps",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-01T21:29:02.183853+00:00",
+    "published": "2026-07-01T19:18:11+00:00"
+  },
+  "https://zcode.z.ai/cn": {
+    "title": "ZCode: Claude Code from the Makers of GLM",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-01T21:29:02.183853+00:00",
+    "published": "2026-07-01T19:11:38+00:00"
+  },
+  "https://cloud.google.com/blog/products/databases/socradar-powers-rapid-threat-detection-with-alloydb-and-gemini-enterprise": {
+    "title": "SOCRadar powers rapid threat detection with AlloyDB and Gemini Enterprise",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-07-01T21:29:02.183853+00:00",
+    "published": "2026-07-01T19:00:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/ai-powered-performance-recommendations-for-amazon-redshift": {
+    "title": "AI-powered performance recommendations for Amazon Redshift",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-07-01T21:29:02.183853+00:00",
+    "published": "2026-07-01T18:39:22+00:00"
+  },
+  "https://www.databricks.com/blog/beyond-dashboards-introducing-decision-execution-platforms": {
+    "title": "Beyond dashboards: Introducing Decision Execution Platforms",
+    "source": "Databricks Blog",
+    "first_seen": "2026-07-01T21:29:02.183853+00:00",
+    "published": "2026-07-01T18:20:00+00:00"
+  },
+  "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026": {
+    "title": "The latest AI news we announced in June 2026",
+    "source": "Google AI Blog",
+    "first_seen": "2026-07-01T21:29:02.183853+00:00",
+    "published": "2026-07-01T18:15:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/run-nvidia-nemotron-and-openai-gpt-oss-models-on-amazon-bedrock-in-aws-govcloud-us": {
+    "title": "Run NVIDIA Nemotron and OpenAI GPT OSS models on Amazon Bedrock in AWS GovCloud (US)",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-07-01T21:29:02.183853+00:00",
+    "published": "2026-07-01T18:14:34+00:00"
+  },
+  "https://anatoliybabushka.com/blog/when-to-rewrite-working-code.html": {
+    "title": "Most rewrites serve the engineer, not the business",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-01T21:29:02.183853+00:00",
+    "published": "2026-07-01T18:08:44+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/building-a-serverless-a2a-gateway-for-agent-discovery-routing-and-access-control": {
+    "title": "Building a serverless A2A gateway for agent discovery, routing, and access control",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-07-01T21:29:02.183853+00:00",
+    "published": "2026-07-01T18:07:06+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/structured-memory-filtering-with-metadata-in-agentcore-memory": {
+    "title": "Structured memory filtering with metadata in AgentCore Memory",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-07-01T21:29:02.183853+00:00",
+    "published": "2026-07-01T18:03:10+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/hipporag-neurobiologically-inspired-rag-using-amazon-bedrock-amazon-neptune-and-personalized-pagerank": {
+    "title": "HippoRAG: Neurobiologically inspired RAG using Amazon Bedrock, Amazon Neptune, and personalized PageRank",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-07-01T21:29:02.183853+00:00",
+    "published": "2026-07-01T18:01:32+00:00"
+  },
+  "https://www.phoronix.com/news/System76-Lemur-Pro-Panther-Lake": {
+    "title": "System76 Launches New Lemur Pro Laptop Powered By Intel Panther Lake",
+    "source": "Phoronix",
+    "first_seen": "2026-07-01T21:29:02.183853+00:00",
+    "published": "2026-07-01T18:01:20+00:00"
+  },
+  "https://cloud.google.com/blog/products/databases/boost-performance-and-lower-costs-with-alloydb-ai-functions": {
+    "title": "AlloyDB AI Functions - now with revolutionary performance boosts and cost savings",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-07-01T21:29:02.183853+00:00",
+    "published": "2026-07-01T18:00:00+00:00"
+  },
+  "https://blog.demofox.org/2026/07/01/what-to-learn-to-be-a-graphics-programmer": {
+    "title": "What to learn to be a graphics programmer",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-01T21:29:02.183853+00:00",
+    "published": "2026-07-01T17:53:44+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/how-inscribe-uses-amazon-bedrock-to-stop-document-fraud-in-seconds": {
+    "title": "How Inscribe uses Amazon Bedrock to stop document fraud in seconds",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-07-01T21:29:02.183853+00:00",
+    "published": "2026-07-01T17:53:16+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/simplify-model-selection-in-amazon-bedrock-with-the-open-source-model-profiler": {
+    "title": "Simplify model selection in Amazon Bedrock with the open source Model Profiler",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-07-01T21:29:02.183853+00:00",
+    "published": "2026-07-01T17:46:54+00:00"
+  },
+  "https://manualmeida.dev/articles/gin-simple-over-easy": {
+    "title": "Building Gin: Simple over Easy",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-01T21:29:02.183853+00:00",
+    "published": "2026-07-01T17:45:17+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/accelerate-protein-design-with-boltzgen-on-amazon-sagemaker-ai": {
+    "title": "Accelerate protein design with BoltzGen on Amazon SageMaker AI",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-07-01T21:29:02.183853+00:00",
+    "published": "2026-07-01T17:44:08+00:00"
+  },
+  "https://hanakai.org/blog/2026/06/30/hanami-3-0-in-full-bloom": {
+    "title": "Hanami 3.0: In Full Bloom",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-01T21:29:02.183853+00:00",
+    "published": "2026-07-01T17:41:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/containers/announcing-amazon-eks-rollback-for-safe-and-reliable-management-of-cluster-upgrades": {
+    "title": "Announcing Amazon EKS Rollback for safe and reliable management of cluster upgrades",
+    "source": "AWS Containers Blog",
+    "first_seen": "2026-07-01T21:29:02.183853+00:00",
+    "published": "2026-07-01T17:32:29+00:00"
+  },
+  "https://thenewstack.io/clockwork-torchpass-gpu-migration": {
+    "title": "“You Only Compute Once”: How Clockwork wants to put an end to AI training restarts",
+    "source": "The New Stack",
+    "first_seen": "2026-07-01T21:29:02.183853+00:00",
+    "published": "2026-07-01T17:30:00+00:00"
+  },
+  "https://www.researchgate.net/publication/353058947_Global_regional_and_national_burden_of_mortality_associated_with_non-optimal_ambient_temperatures_from_2000_to_2019_a_three-stage_modelling_study": {
+    "title": "Mortality associated with non-optimal ambient temperatures from 2000 to 2019",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-01T21:29:02.183853+00:00",
+    "published": "2026-07-01T17:29:11+00:00"
+  },
+  "https://aws.amazon.com/blogs/aws/upgrade-amazon-eks-clusters-with-confidence-using-kubernetes-version-rollbacks": {
+    "title": "Upgrade Amazon EKS clusters with confidence using Kubernetes version rollbacks",
+    "source": "AWS Blog",
+    "first_seen": "2026-07-01T21:29:02.183853+00:00",
+    "published": "2026-07-01T17:20:30+00:00"
+  },
+  "https://lwn.net/Articles/1078968": {
+    "title": "[$] Efficient access to local storage for BPF programs",
+    "source": "LWN.net",
+    "first_seen": "2026-07-01T21:29:02.183853+00:00",
+    "published": "2026-07-01T17:07:42+00:00"
+  },
+  "https://wasm.chdb.io": {
+    "title": "A complete ClickHouse OLAP engine, compiled to WebAssembly",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-01T21:29:02.183853+00:00",
+    "published": "2026-07-01T17:05:00+00:00"
+  },
+  "https://developer.nvidia.com/blog/mastering-agentic-techniques-ai-agent-reinforcement-learning": {
+    "title": "Mastering Agentic Techniques: AI Agent Reinforcement Learning",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-07-01T21:29:02.183853+00:00",
+    "published": "2026-07-01T17:04:02+00:00"
+  },
+  "https://newsletter.pragmaticengineer.com/p/how-kent-beck-shapes-the-software": {
+    "title": "How Kent Beck shapes the software engineering industry",
+    "source": "The Pragmatic Engineer",
+    "first_seen": "2026-07-01T21:29:02.183853+00:00",
+    "published": "2026-07-01T16:57:46+00:00"
+  },
+  "https://www.tigerdata.com/blog/what-we-heard-three-patterns-from-spring-2026-events": {
+    "title": "What We Heard: Three Patterns from Spring 2026 Events",
+    "source": "Timescale Blog",
+    "first_seen": "2026-07-01T21:29:02.183853+00:00",
+    "published": "2026-07-01T16:21:19+00:00"
+  },
+  "https://cerebrium.ai/blog/reducing-gpu-cold-starts-with-memory-snapshots-restoring-cuda-workloads-in-second": {
+    "title": "Reduce GVisor Cold Starts with GPU Snapshotting",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-01T21:29:02.183853+00:00",
+    "published": "2026-07-01T16:19:47+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.3-Faster-Small-Direct": {
+    "title": "Linux 7.3 To Overcome \"Significant Bottleneck\" For Small I/O With PCIe Gen5 NVMe SSDs",
+    "source": "Phoronix",
+    "first_seen": "2026-07-01T21:29:02.183853+00:00",
+    "published": "2026-07-01T16:06:06+00:00"
+  },
+  "https://engineering.fb.com/2026/07/01/data-infrastructure/metas-ai-storage-blueprint-at-scale": {
+    "title": "Meta’s AI Storage Blueprint at Scale",
+    "source": "Meta Engineering",
+    "first_seen": "2026-07-01T21:29:02.183853+00:00",
+    "published": "2026-07-01T16:00:36+00:00"
+  },
+  "https://cloud.google.com/blog/topics/developers-practitioners/announcing-claude-apps-gateway-for-google-cloud": {
+    "title": "Get started with the Claude apps gateway for Google Cloud",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-07-01T21:29:02.183853+00:00",
+    "published": "2026-07-01T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/identity-security/new-idc-study-how-mandiant-transforms-security-into-a-competitive-advantage": {
+    "title": "New IDC study: The business value of Mandiant Consulting",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-07-01T21:29:02.183853+00:00",
+    "published": "2026-07-01T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/business-intelligence/looker-in-2026-gartner-analytics-and-bi-platforms-mq": {
+    "title": "Google named a Leader in 2026 Gartner® Magic Quadrant™ for Analytics and Business Intelligence Platforms for third year in a row",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-07-01T21:29:02.183853+00:00",
+    "published": "2026-07-01T16:00:00+00:00"
+  },
+  "https://blog.google/products-and-platforms/products/education/nyc-ai-summit": {
+    "title": "New York City educators and industry leaders gathered at Google’s offices to shape the future of AI in classrooms.",
+    "source": "Google AI Blog",
+    "first_seen": "2026-07-01T21:29:02.183853+00:00",
+    "published": "2026-07-01T16:00:00+00:00"
+  },
+  "https://github.blog/security/6-security-settings-every-github-maintainer-should-enable-this-week": {
+    "title": "6 security settings every GitHub maintainer should enable this week",
+    "source": "GitHub Blog",
+    "first_seen": "2026-07-01T21:29:02.183853+00:00",
+    "published": "2026-07-01T15:59:29+00:00"
+  },
+  "https://aws.amazon.com/blogs/security/how-to-use-the-aws-workload-credentials-provider-for-cross-account-secret-retrieval-and-prefetching-secrets": {
+    "title": "How to use the AWS Workload Credentials Provider for cross-account secret retrieval and prefetching secrets",
+    "source": "AWS Security Blog",
+    "first_seen": "2026-07-01T21:29:02.183853+00:00",
+    "published": "2026-07-01T15:56:26+00:00"
+  },
+  "https://pytorch.org/blog/shopify-joins-the-pytorch-foundation-as-a-platinum-member": {
+    "title": "Shopify Joins the PyTorch Foundation as a Platinum Member",
+    "source": "PyTorch Blog",
+    "first_seen": "2026-07-01T21:29:02.183853+00:00",
+    "published": "2026-07-01T15:55:59+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/cross-account-and-cross-region-monitoring-for-amazon-rds-and-aurora-with-database-insights": {
+    "title": "Cross-account and cross-Region monitoring for Amazon RDS and Aurora with Database Insights",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-07-01T21:29:02.183853+00:00",
+    "published": "2026-07-01T15:55:11+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/amazon-rds-log-analysis-natural-language-queries-with-kiro-and-mcp": {
+    "title": "Amazon RDS log analysis: natural language queries with Kiro and MCP",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-07-01T21:29:02.183853+00:00",
+    "published": "2026-07-01T15:53:58+00:00"
+  },
+  "https://probelab.io/blog/optimistic-provide": {
+    "title": "How We Made IPFS Content Publishing 10x Faster",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-01T21:29:02.183853+00:00",
+    "published": "2026-07-01T15:30:35+00:00"
+  },
+  "https://www.databricks.com/blog/forecasting-speed-modern-retail": {
+    "title": "Forecasting at the speed of modern retail",
+    "source": "Databricks Blog",
+    "first_seen": "2026-07-01T21:29:02.183853+00:00",
+    "published": "2026-07-01T15:30:00+00:00"
+  },
+  "https://news.ycombinator.com/item?id=48747976": {
+    "title": "Ask HN: Who is hiring? (July 2026)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-01T21:29:02.183853+00:00",
+    "published": "2026-07-01T15:01:21+00:00"
+  },
+  "https://news.ycombinator.com/item?id=48747975": {
+    "title": "Ask HN: Who wants to be hired? (July 2026)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-01T21:29:02.183853+00:00",
+    "published": "2026-07-01T15:01:21+00:00"
+  },
+  "https://hydrogenaudio.org/index.php/topic,129691.0.html": {
+    "title": "FFmpeg 9.1's new AAC encoder",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-01T21:29:02.183853+00:00",
+    "published": "2026-07-01T14:10:28+00:00"
+  },
+  "https://blog.sentry.io/spot-checking-ai-agents": {
+    "title": "Reading the agent traces is how you make the call your eval can't",
+    "source": "Sentry Blog",
+    "first_seen": "2026-07-01T21:29:02.183853+00:00",
+    "published": "2026-07-01T09:00:00+00:00"
+  },
+  "http://bair.berkeley.edu/blog/2026/07/01/grads-2026": {
+    "title": "2026 BAIR Graduate Showcase",
+    "source": "BAIR Blog",
+    "first_seen": "2026-07-01T21:29:02.183853+00:00",
+    "published": "2026-07-01T09:00:00+00:00"
   }
 }
