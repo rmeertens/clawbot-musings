@@ -48758,5 +48758,287 @@
     "source": "Node Weekly",
     "first_seen": "2026-07-02T16:43:19.074509+00:00",
     "published": "2026-07-02T00:00:00+00:00"
+  },
+  "https://developer.nvidia.com/blog/hardware-rooted-ai-security-that-wont-slow-you-down": {
+    "title": "Hardware-Rooted AI Security That Won’t Slow You Down",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-07-02T21:56:22.953300+00:00",
+    "published": "2026-07-02T21:25:42+00:00"
+  },
+  "https://www.phoronix.com/news/Fedora-45-Consider-Shadow-Stack": {
+    "title": "Fedora 45 Considering x86_64 Shadow Stack Usage By Default",
+    "source": "Phoronix",
+    "first_seen": "2026-07-02T21:56:22.953300+00:00",
+    "published": "2026-07-02T21:17:35+00:00"
+  },
+  "https://thenewstack.io/ai-infrastructure-cargo-theft": {
+    "title": "The $1.3 million theft that exposed AI’s blind spot",
+    "source": "The New Stack",
+    "first_seen": "2026-07-02T21:56:22.953300+00:00",
+    "published": "2026-07-02T21:05:30+00:00"
+  },
+  "https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data": {
+    "title": "US State of Virginia Bans Sale of Geolocation Data",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-02T21:56:22.953300+00:00",
+    "published": "2026-07-02T21:03:45+00:00"
+  },
+  "https://thenewstack.io/enterprise-ai-model-routing": {
+    "title": "Microsoft just admitted its biggest AI mistake — and spent $2.5 billion fixing it",
+    "source": "The New Stack",
+    "first_seen": "2026-07-02T21:56:22.953300+00:00",
+    "published": "2026-07-02T21:03:36+00:00"
+  },
+  "https://lwn.net/Articles/1081038": {
+    "title": "CalyxOS is back",
+    "source": "LWN.net",
+    "first_seen": "2026-07-02T21:56:22.953300+00:00",
+    "published": "2026-07-02T20:58:45+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/data-masking-in-amazon-rds-for-oracle": {
+    "title": "Data masking in Amazon RDS for Oracle",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-07-02T21:56:22.953300+00:00",
+    "published": "2026-07-02T20:51:09+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/how-cred-uses-amazon-rds-blue-green-deployments-at-scale": {
+    "title": "How CRED uses Amazon RDS Blue/Green Deployments at scale",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-07-02T21:56:22.953300+00:00",
+    "published": "2026-07-02T20:50:09+00:00"
+  },
+  "https://pytorch.org/blog/building-the-future-of-on-device-ai-at-the-executorch-hackathon": {
+    "title": "Building the Future of On-Device AI at the ExecuTorch Hackathon",
+    "source": "PyTorch Blog",
+    "first_seen": "2026-07-02T21:56:22.953300+00:00",
+    "published": "2026-07-02T20:47:16+00:00"
+  },
+  "https://thenewstack.io/godot-bans-ai-coding-agents": {
+    "title": "“AI contributions are demoralizing”: Godot bans coding agents to save its mentoring model",
+    "source": "The New Stack",
+    "first_seen": "2026-07-02T21:56:22.953300+00:00",
+    "published": "2026-07-02T20:31:26+00:00"
+  },
+  "http://www.lmdb.tech/doc": {
+    "title": "Lightning Memory-Mapped Database Manager (LMDB) 1.0",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-02T21:56:22.953300+00:00",
+    "published": "2026-07-02T20:01:20+00:00"
+  },
+  "https://charity.wtf/2026/07/02/in-defense-of-ai-mandates-xpost": {
+    "title": "In defense of AI mandates (xpost)",
+    "source": "Charity Majors",
+    "first_seen": "2026-07-02T21:56:22.953300+00:00",
+    "published": "2026-07-02T19:53:48+00:00"
+  },
+  "https://www.sdcard.org/developers/sd-standard-overview/sdio-isdio/wireless-lan-sd": {
+    "title": "Wireless LAN SD",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-02T21:56:22.953300+00:00",
+    "published": "2026-07-02T19:35:20+00:00"
+  },
+  "https://www.tigerdata.com/blog/how-ai-rewired-the-data-center": {
+    "title": "AI's Physical Constraints: How AI Rewired the Data Center",
+    "source": "Timescale Blog",
+    "first_seen": "2026-07-02T21:56:22.953300+00:00",
+    "published": "2026-07-02T19:34:34+00:00"
+  },
+  "https://growtheflowutah.org/laketracker": {
+    "title": "Great Salt Lake Tracker – Grow the Flow",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-02T21:56:22.953300+00:00",
+    "published": "2026-07-02T19:33:55+00:00"
+  },
+  "https://cdn.arstechnica.net/wp-content/uploads/2026/07/EFF-letter-to-FTC-on-X-consent-order-7-2-26.pdf": {
+    "title": "EFF letter to FTC on X consent order (2 July 2026) [pdf]",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-02T21:56:22.953300+00:00",
+    "published": "2026-07-02T19:27:38+00:00"
+  },
+  "https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet": {
+    "title": "FBI Seizes NetNut Proxy Platform, Popa Botnet",
+    "source": "Krebs on Security",
+    "first_seen": "2026-07-02T21:56:22.953300+00:00",
+    "published": "2026-07-02T19:27:33+00:00"
+  },
+  "https://aasnova.org/2026/07/01/a-new-catalog-of-stellar-rotation-periods-for-over-a-million-stars": {
+    "title": "A New Catalog of Stellar Rotation Periods for over a Million Stars",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-02T21:56:22.953300+00:00",
+    "published": "2026-07-02T19:20:29+00:00"
+  },
+  "https://blog.okturtles.org/2026/07/short-leash-ai-method": {
+    "title": "The Short Leash AI Coding Method for Beating Fable",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-02T21:56:22.953300+00:00",
+    "published": "2026-07-02T19:11:57+00:00"
+  },
+  "https://github.com/HUANGCHIHHUNGLeo/claude-real-video": {
+    "title": "Claude-real-video － any LLM can watch a video",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-02T21:56:22.953300+00:00",
+    "published": "2026-07-02T19:10:12+00:00"
+  },
+  "https://openjdk.org/jeps/539": {
+    "title": "JEP 539: Strict Field Initialization in the JVM moved to preview",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-02T21:56:22.953300+00:00",
+    "published": "2026-07-02T18:56:33+00:00"
+  },
+  "https://www.zachtronics.com/exapunks": {
+    "title": "Exapunks (2018)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-02T21:56:22.953300+00:00",
+    "published": "2026-07-02T18:41:19+00:00"
+  },
+  "https://www.dbos.dev/blog/co-locating-workflow-state-with-your-data": {
+    "title": "Postgres transactions are a distributed systems superpower",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-02T21:56:22.953300+00:00",
+    "published": "2026-07-02T18:38:32+00:00"
+  },
+  "https://github.com/segaboy/vulkan-netbsd": {
+    "title": "Vulkan is now available on NetBSD",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-02T21:56:22.953300+00:00",
+    "published": "2026-07-02T18:36:09+00:00"
+  },
+  "https://simonwillison.net/2026/Jul/2/dspy-datasette-agent-prompts": {
+    "title": "Using DSPy to evaluate and improve Datasette Agent's SQL system prompts",
+    "source": "Simon Willison",
+    "first_seen": "2026-07-02T21:56:22.953300+00:00",
+    "published": "2026-07-02T18:25:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/how-amazon-bedrock-catches-ai-generated-phishing": {
+    "title": "How Amazon Bedrock catches AI-generated phishing",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-07-02T21:56:22.953300+00:00",
+    "published": "2026-07-02T17:55:41+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/best-practices-for-multi-turn-reinforcement-learning-in-amazon-sagemaker-ai": {
+    "title": "Best practices for multi-turn reinforcement learning in Amazon SageMaker AI",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-07-02T21:56:22.953300+00:00",
+    "published": "2026-07-02T17:50:23+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/accelerating-log-analytics-at-scale-with-aws-glue-and-apache-iceberg-materialized-views": {
+    "title": "Accelerating log analytics at scale with AWS Glue and Apache Iceberg materialized views",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-07-02T21:56:22.953300+00:00",
+    "published": "2026-07-02T17:46:18+00:00"
+  },
+  "https://www.phoronix.com/news/EFS-File-System-Removal-Coming": {
+    "title": "EFS File-System Slated For Removal With Linux 7.3 After 20+ Years Unmaintained",
+    "source": "Phoronix",
+    "first_seen": "2026-07-02T21:56:22.953300+00:00",
+    "published": "2026-07-02T17:39:06+00:00"
+  },
+  "https://simonwillison.net/2026/Jul/2/understand-to-participate": {
+    "title": "Understand to participate",
+    "source": "Simon Willison",
+    "first_seen": "2026-07-02T21:56:22.953300+00:00",
+    "published": "2026-07-02T17:07:14+00:00"
+  },
+  "https://www.databricks.com/blog/3-questions-answer-take-ai-experimentation-impact": {
+    "title": "The 3 questions to answer to take AI from experimentation to impact",
+    "source": "Databricks Blog",
+    "first_seen": "2026-07-02T21:56:22.953300+00:00",
+    "published": "2026-07-02T17:04:19+00:00"
+  },
+  "https://aws.amazon.com/blogs/containers/diagnose-kubernetes-control-plane-performance-issues-with-aws-devops-agent": {
+    "title": "Diagnose Kubernetes Control Plane Performance Issues with AWS DevOps Agent",
+    "source": "AWS Containers Blog",
+    "first_seen": "2026-07-02T21:56:22.953300+00:00",
+    "published": "2026-07-02T17:03:59+00:00"
+  },
+  "https://thenewstack.io/subquadratic-sparse-attention-no-attention": {
+    "title": "What comes after attention? This startup says it already knows.",
+    "source": "The New Stack",
+    "first_seen": "2026-07-02T21:56:22.953300+00:00",
+    "published": "2026-07-02T17:00:00+00:00"
+  },
+  "https://www.databricks.com/blog/inside-infrastructure-strategies-propelling-ai-leaders": {
+    "title": "Inside the infrastructure strategies propelling AI leaders",
+    "source": "Databricks Blog",
+    "first_seen": "2026-07-02T21:56:22.953300+00:00",
+    "published": "2026-07-02T16:47:56+00:00"
+  },
+  "https://blog.podman.io/2026/07/introducing-podman-v6-0-0": {
+    "title": "Podman v6.0.0",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-02T21:56:22.953300+00:00",
+    "published": "2026-07-02T14:23:09+00:00"
+  },
+  "https://cloud.google.com/blog/topics/threat-intelligence/google-continued-disruption-residential-proxy-networks": {
+    "title": "Google’s Continued Disruption of Malicious Residential Proxy Networks",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-07-02T21:56:22.953300+00:00",
+    "published": "2026-07-02T14:00:00+00:00"
+  },
+  "https://blog.sentry.io/apple-update-breaks-app": {
+    "title": "Any Apple update can break our app. Here's how we find out first.",
+    "source": "Sentry Blog",
+    "first_seen": "2026-07-02T21:56:22.953300+00:00",
+    "published": "2026-07-02T09:00:00+00:00"
+  },
+  "https://machinelearning.apple.com/research/videoflextok": {
+    "title": "VideoFlexTok: Flexible-Length Coarse-to-Fine Video Tokenization",
+    "source": "Apple ML Journal",
+    "first_seen": "2026-07-02T21:56:22.953300+00:00",
+    "published": "2026-07-02T00:00:00+00:00"
+  },
+  "https://machinelearning.apple.com/research/unmasking": {
+    "title": "Learning Unmasking Policies for Diffusion Language Models",
+    "source": "Apple ML Journal",
+    "first_seen": "2026-07-02T21:56:22.953300+00:00",
+    "published": "2026-07-02T00:00:00+00:00"
+  },
+  "https://machinelearning.apple.com/research/robustness-chain-thought-consistency": {
+    "title": "On Robustness and Chain-of-Thought Consistency of RL-Finetuned VLMs",
+    "source": "Apple ML Journal",
+    "first_seen": "2026-07-02T21:56:22.953300+00:00",
+    "published": "2026-07-02T00:00:00+00:00"
+  },
+  "https://machinelearning.apple.com/research/residual-context-diffusion": {
+    "title": "Residual Context Diffusion Language Models",
+    "source": "Apple ML Journal",
+    "first_seen": "2026-07-02T21:56:22.953300+00:00",
+    "published": "2026-07-02T00:00:00+00:00"
+  },
+  "https://machinelearning.apple.com/research/multi-agent-teams-experts": {
+    "title": "Multi-Agent Teams Hold Experts Back",
+    "source": "Apple ML Journal",
+    "first_seen": "2026-07-02T21:56:22.953300+00:00",
+    "published": "2026-07-02T00:00:00+00:00"
+  },
+  "https://machinelearning.apple.com/research/memoryllm": {
+    "title": "MemoryLLM: Plug-n-Play Interpretable Feed-Forward Memory for Transformers",
+    "source": "Apple ML Journal",
+    "first_seen": "2026-07-02T21:56:22.953300+00:00",
+    "published": "2026-07-02T00:00:00+00:00"
+  },
+  "https://machinelearning.apple.com/research/learning-structured-reasoning": {
+    "title": "Learning Structured Reasoning via Tractable Trajectory Control",
+    "source": "Apple ML Journal",
+    "first_seen": "2026-07-02T21:56:22.953300+00:00",
+    "published": "2026-07-02T00:00:00+00:00"
+  },
+  "https://machinelearning.apple.com/research/conformal-thinking-risk-control": {
+    "title": "Conformal Thinking: Risk Control for Reasoning on a Compute Budget",
+    "source": "Apple ML Journal",
+    "first_seen": "2026-07-02T21:56:22.953300+00:00",
+    "published": "2026-07-02T00:00:00+00:00"
+  },
+  "https://machinelearning.apple.com/research/anti-casual": {
+    "title": "Anti-Causal Domain Generalization: Leveraging Unlabeled Data",
+    "source": "Apple ML Journal",
+    "first_seen": "2026-07-02T21:56:22.953300+00:00",
+    "published": "2026-07-02T00:00:00+00:00"
+  },
+  "https://machinelearning.apple.com/research/amortizing-inner-product-search": {
+    "title": "Amortizing Maximum Inner Product Search with Learned Support Functions",
+    "source": "Apple ML Journal",
+    "first_seen": "2026-07-02T21:56:22.953300+00:00",
+    "published": "2026-07-02T00:00:00+00:00"
   }
 }
