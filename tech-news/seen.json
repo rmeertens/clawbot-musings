@@ -48482,5 +48482,281 @@
     "source": "Google Cloud Blog",
     "first_seen": "2026-07-02T10:00:34.186679+00:00",
     "published": "2026-07-01T14:00:00+00:00"
+  },
+  "https://lwn.net/Articles/1081015": {
+    "title": "Kernel archive /pub tree restoring",
+    "source": "LWN.net",
+    "first_seen": "2026-07-02T16:43:19.074509+00:00",
+    "published": "2026-07-02T16:39:26+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/serverless-analytics-pipelines-using-the-apache-spark-engine-in-amazon-athena": {
+    "title": "Serverless analytics pipelines using the Apache Spark engine in Amazon Athena",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-07-02T16:43:19.074509+00:00",
+    "published": "2026-07-02T16:27:58+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/deploy-modern-data-platforms-in-minutes-with-mdaa": {
+    "title": "Deploy modern data platforms in minutes with MDAA",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-07-02T16:43:19.074509+00:00",
+    "published": "2026-07-02T16:26:28+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/amazon-redshift-rg-faster-and-lower-cost-graviton-powered": {
+    "title": "Amazon Redshift RG: Faster and lower cost, Graviton-powered",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-07-02T16:43:19.074509+00:00",
+    "published": "2026-07-02T16:21:06+00:00"
+  },
+  "https://lwn.net/Articles/1081012": {
+    "title": "Spoofed email from LWN",
+    "source": "LWN.net",
+    "first_seen": "2026-07-02T16:43:19.074509+00:00",
+    "published": "2026-07-02T16:20:33+00:00"
+  },
+  "https://lwn.net/Articles/1081013": {
+    "title": "Fedora Council proposes pausing Community Initiatives",
+    "source": "LWN.net",
+    "first_seen": "2026-07-02T16:43:19.074509+00:00",
+    "published": "2026-07-02T16:05:34+00:00"
+  },
+  "https://github.blog/security/application-security/how-github-used-secret-scanning-to-reach-inbox-zero": {
+    "title": "How GitHub used secret scanning to reach inbox zero",
+    "source": "GitHub Blog",
+    "first_seen": "2026-07-02T16:43:19.074509+00:00",
+    "published": "2026-07-02T16:00:00+00:00"
+  },
+  "https://zk.golf": {
+    "title": "Show HN: ZkGolf",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-02T16:43:19.074509+00:00",
+    "published": "2026-07-02T15:40:05+00:00"
+  },
+  "https://blog.bytebytego.com/p/multi-region-architecture-going-global": {
+    "title": "Multi-Region Architecture: Going Global Without Going Broke",
+    "source": "ByteByteGo",
+    "first_seen": "2026-07-02T16:43:19.074509+00:00",
+    "published": "2026-07-02T15:30:30+00:00"
+  },
+  "https://mathstodon.xyz/@iblech/116769502749142438": {
+    "title": "Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-02T16:43:19.074509+00:00",
+    "published": "2026-07-02T15:25:16+00:00"
+  },
+  "https://manufact.com": {
+    "title": "Launch HN: Manufact (YC S25) – MCP Cloud",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-02T16:43:19.074509+00:00",
+    "published": "2026-07-02T15:11:20+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-AI-Attribution-Again": {
+    "title": "Linux Kernel Developers Again Discussing AI Agent Attribution - Potentially Dropping It",
+    "source": "Phoronix",
+    "first_seen": "2026-07-02T16:43:19.074509+00:00",
+    "published": "2026-07-02T15:11:00+00:00"
+  },
+  "https://clashreport.com/world/articles/spain-orders-blacklist-of-us-tech-giant-palantir-from-public-and-private-companies-fsnc2z17gjv": {
+    "title": "Spain Orders Blacklist of Palantir from Public and Private Companies",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-02T16:43:19.074509+00:00",
+    "published": "2026-07-02T15:02:26+00:00"
+  },
+  "https://www.cncf.io/blog/2026/07/02/reintroducing-kpt-your-toolchain-for-infrastructure-automation": {
+    "title": "(re)introducing kpt: Your toolchain for infrastructure automation",
+    "source": "CNCF Blog",
+    "first_seen": "2026-07-02T16:43:19.074509+00:00",
+    "published": "2026-07-02T15:01:38+00:00"
+  },
+  "https://github.com/rafal-qa/slopo": {
+    "title": "Show HN: CLI tool for detecting non-exact code duplication with embedding models",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-02T16:43:19.074509+00:00",
+    "published": "2026-07-02T14:19:24+00:00"
+  },
+  "https://mailmemories.com": {
+    "title": "Show HN: Mail Memories – A desktop app to rescue photos from Gmail",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-02T16:43:19.074509+00:00",
+    "published": "2026-07-02T14:16:57+00:00"
+  },
+  "https://www.phoronix.com/review/risc-v-rvv-vector-benchmarks": {
+    "title": "RISC-V RVV Vector Performance Benchmarks With The SpacemiT K3 SoC",
+    "source": "Phoronix",
+    "first_seen": "2026-07-02T16:43:19.074509+00:00",
+    "published": "2026-07-02T14:10:00+00:00"
+  },
+  "https://lwn.net/Articles/1080162": {
+    "title": "[$] Two LLM-assisted memory-management patch sets",
+    "source": "LWN.net",
+    "first_seen": "2026-07-02T16:43:19.074509+00:00",
+    "published": "2026-07-02T14:06:08+00:00"
+  },
+  "https://thenewstack.io/fedcm-federated-login-standard": {
+    "title": "Your social login buttons run on third-party cookies. FedCM doesn’t.",
+    "source": "The New Stack",
+    "first_seen": "2026-07-02T16:43:19.074509+00:00",
+    "published": "2026-07-02T14:00:00+00:00"
+  },
+  "https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930": {
+    "title": "AI can't be listed as inventor on patent applications, Japan's top court rules",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-02T16:43:19.074509+00:00",
+    "published": "2026-07-02T13:43:41+00:00"
+  },
+  "https://www.zerofs.net": {
+    "title": "Show HN: ZeroFS – A log-structured filesystem for S3",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-02T16:43:19.074509+00:00",
+    "published": "2026-07-02T13:41:11+00:00"
+  },
+  "https://freegraphpaper.net": {
+    "title": "Show HN: A graph paper generator that renders vector PDFs in the browser",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-02T16:43:19.074509+00:00",
+    "published": "2026-07-02T13:29:09+00:00"
+  },
+  "https://www.thebignewsletter.com/p/crime-pays-the-egg-bandits-made-a": {
+    "title": "The Egg Bandits Made a Thousand Times the Fine They Just Paid for Price Fixing",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-02T16:43:19.074509+00:00",
+    "published": "2026-07-02T13:25:25+00:00"
+  },
+  "https://wtf.korridzy.com/twilight-of-the-gods": {
+    "title": "Comparing Fable and 10 other LLMs on refactoring a LangGraph god node",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-02T16:43:19.074509+00:00",
+    "published": "2026-07-02T13:19:56+00:00"
+  },
+  "https://pradyuprasad.com/writings/how-to-ask-for-help": {
+    "title": "How to ask for help from people who don't know you",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-02T16:43:19.074509+00:00",
+    "published": "2026-07-02T13:19:22+00:00"
+  },
+  "https://lwn.net/Articles/1080956": {
+    "title": "Security updates for Thursday",
+    "source": "LWN.net",
+    "first_seen": "2026-07-02T16:43:19.074509+00:00",
+    "published": "2026-07-02T13:17:54+00:00"
+  },
+  "https://www.phoronix.com/news/Intel-GCC-ACE-AI-Patches": {
+    "title": "Intel Posts Initial GCC Compiler Patches For AI Compute Extensions \"ACE\"",
+    "source": "Phoronix",
+    "first_seen": "2026-07-02T16:43:19.074509+00:00",
+    "published": "2026-07-02T13:08:38+00:00"
+  },
+  "https://thenewstack.io/why-cicd-fails-llms": {
+    "title": "Why traditional CI/CD fails for LLMs (and the release gates we built to fix it)",
+    "source": "The New Stack",
+    "first_seen": "2026-07-02T16:43:19.074509+00:00",
+    "published": "2026-07-02T13:00:00+00:00"
+  },
+  "https://blogs.microsoft.com/blog/2026/07/02/microsoft-frontier-company-ai-engineering-that-amplifies-and-protects-your-intelligence": {
+    "title": "Microsoft Frontier Company: AI engineering that amplifies and protects your intelligence",
+    "source": "Microsoft Blog",
+    "first_seen": "2026-07-02T16:43:19.074509+00:00",
+    "published": "2026-07-02T12:59:05+00:00"
+  },
+  "https://www.rfi.fr/en/international-news/20260702-germany-s-infineon-opens-major-chip-plant-as-eu-seeks-tech-autonomy": {
+    "title": "Germany’s Infineon opens major chip plant as EU seeks tech autonomy",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-02T16:43:19.074509+00:00",
+    "published": "2026-07-02T12:46:31+00:00"
+  },
+  "https://www.phoronix.com/news/YSERVER-1.3-Released": {
+    "title": "Vibe Coded X11 Server Written In Rust Adds Xinerama, FreeBSD Support & Other Features",
+    "source": "Phoronix",
+    "first_seen": "2026-07-02T16:43:19.074509+00:00",
+    "published": "2026-07-02T12:15:00+00:00"
+  },
+  "https://arxiv.org/abs/2607.01232": {
+    "title": "Is One Layer Enough? A Single Transformer Layer Matches Full-Parameter RL Train",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-02T16:43:19.074509+00:00",
+    "published": "2026-07-02T12:10:24+00:00"
+  },
+  "https://realpython.com/quizzes/nltk-nlp-python": {
+    "title": "Quiz: Natural Language Processing With Python's NLTK Package",
+    "source": "Real Python",
+    "first_seen": "2026-07-02T16:43:19.074509+00:00",
+    "published": "2026-07-02T12:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/KDE-Plasma-ACE-New-Window": {
+    "title": "KDE Plasma Affected By Arbitrary Code Execution To Break Sandboxes With \"Open New Window\"",
+    "source": "Phoronix",
+    "first_seen": "2026-07-02T16:43:19.074509+00:00",
+    "published": "2026-07-02T11:51:00+00:00"
+  },
+  "https://mathstodon.xyz/@mjd/115096720350507897": {
+    "title": "The primary purpose of code review is to find code that will be hard to maintain",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-02T16:43:19.074509+00:00",
+    "published": "2026-07-02T11:41:27+00:00"
+  },
+  "https://voidzero.dev/posts/announcing-vite-plus-beta": {
+    "title": "Vite+ Beta",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-02T16:43:19.074509+00:00",
+    "published": "2026-07-02T11:30:01+00:00"
+  },
+  "https://github.com/Chocobozzz/PeerTube": {
+    "title": "PeerTube is a free, decentralized and federated video platform",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-02T16:43:19.074509+00:00",
+    "published": "2026-07-02T11:17:45+00:00"
+  },
+  "https://www.schneier.com/blog/archives/2026/07/cybersecurity-mission-creep-in-the-us.html": {
+    "title": "Cybersecurity Mission Creep in the US",
+    "source": "Schneier on Security",
+    "first_seen": "2026-07-02T16:43:19.074509+00:00",
+    "published": "2026-07-02T11:11:44+00:00"
+  },
+  "https://blog.trailofbits.com/2026/07/02/field-reports-from-patch-the-planet": {
+    "title": "Field reports from Patch the Planet",
+    "source": "Trail of Bits",
+    "first_seen": "2026-07-02T16:43:19.074509+00:00",
+    "published": "2026-07-02T11:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-Drop-Old-ARM-2027": {
+    "title": "Linux Looking To Retire A Number Of Old ARM Platforms In Early 2027",
+    "source": "Phoronix",
+    "first_seen": "2026-07-02T16:43:19.074509+00:00",
+    "published": "2026-07-02T10:18:00+00:00"
+  },
+  "https://www.phoronix.com/news/FFmpeg-Vulkan-Encoder-APV": {
+    "title": "FFmpeg Introduces Vulkan APV Encoder",
+    "source": "Phoronix",
+    "first_seen": "2026-07-02T16:43:19.074509+00:00",
+    "published": "2026-07-02T10:04:00+00:00"
+  },
+  "https://neon.com/blog/lakebase-search-on-neon": {
+    "title": "Lakebase Search: vector and BM25 on Neon",
+    "source": "Neon Blog",
+    "first_seen": "2026-07-02T16:43:19.074509+00:00",
+    "published": "2026-07-02T08:49:00+00:00"
+  },
+  "https://davidbessis.substack.com/p/the-fall-of-the-theorem-economy": {
+    "title": "The fall of the theorem economy",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-02T16:43:19.074509+00:00",
+    "published": "2026-07-02T08:01:15+00:00"
+  },
+  "https://cursor.com/evals": {
+    "title": "CursorBench 3.1",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-02T16:43:19.074509+00:00",
+    "published": "2026-07-02T05:19:34+00:00"
+  },
+  "https://www.elastic.co/blog/gigamon-partnership": {
+    "title": "Seeing what others miss: A conversation with Gigamon COO Gareth Maclachlan",
+    "source": "Elastic Blog",
+    "first_seen": "2026-07-02T16:43:19.074509+00:00",
+    "published": "2026-07-02T00:00:00+00:00"
+  },
+  "https://nodeweekly.com/issues/631": {
+    "title": "37 CLI best practices for Node devs",
+    "source": "Node Weekly",
+    "first_seen": "2026-07-02T16:43:19.074509+00:00",
+    "published": "2026-07-02T00:00:00+00:00"
   }
 }
