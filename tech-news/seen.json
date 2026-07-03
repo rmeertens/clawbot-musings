@@ -49160,5 +49160,179 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-07-03T11:23:45.960915+00:00",
     "published": "2026-07-02T14:41:56+00:00"
+  },
+  "https://lwn.net/Articles/1081199": {
+    "title": "Four vulnerabilities in Guix",
+    "source": "LWN.net",
+    "first_seen": "2026-07-03T16:17:48.003332+00:00",
+    "published": "2026-07-03T15:54:01+00:00"
+  },
+  "https://www.phoronix.com/news/Vulkan-1.4.356-Released": {
+    "title": "Vulkan Adds Extension For OCP's Microscaling MX Formats To Help Machine Learning",
+    "source": "Phoronix",
+    "first_seen": "2026-07-03T16:17:48.003332+00:00",
+    "published": "2026-07-03T15:42:42+00:00"
+  },
+  "https://arxiv.org/abs/2602.20415": {
+    "title": "Markets are competitive if and only if P = NP",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-03T16:17:48.003332+00:00",
+    "published": "2026-07-03T15:41:44+00:00"
+  },
+  "https://interconnected.org/home/2026/07/03/factories": {
+    "title": "Factories Are Just Rooms",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-03T16:17:48.003332+00:00",
+    "published": "2026-07-03T15:13:43+00:00"
+  },
+  "https://www.phoronix.com/news/Coreboot-openSIL-MSI-Windows": {
+    "title": "Coreboot + AMD openSIL On MSI Ryzen Motherboard Now Works With Windows 11",
+    "source": "Phoronix",
+    "first_seen": "2026-07-03T16:17:48.003332+00:00",
+    "published": "2026-07-03T15:10:43+00:00"
+  },
+  "https://www.derekthompson.org/p/america-1926-an-absurdly-deep-dive": {
+    "title": "America, 1926: What a Forgotten 100-Year-Old Report Says About Who We Are",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-03T16:17:48.003332+00:00",
+    "published": "2026-07-03T15:08:56+00:00"
+  },
+  "https://dannorth.net/blog/best-simple-system-for-now": {
+    "title": "Best Simple System for Now",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-03T16:17:48.003332+00:00",
+    "published": "2026-07-03T15:06:44+00:00"
+  },
+  "https://github.com/jamesob/local-llm": {
+    "title": "Jamesob's guide to running SOTA LLMs locally",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-03T16:17:48.003332+00:00",
+    "published": "2026-07-03T15:03:43+00:00"
+  },
+  "https://pytorch.org/blog/understanding-pytorchs-test-infrastructure": {
+    "title": "Understanding PyTorch’s Test Infrastructure",
+    "source": "PyTorch Blog",
+    "first_seen": "2026-07-03T16:17:48.003332+00:00",
+    "published": "2026-07-03T15:00:07+00:00"
+  },
+  "https://simonwillison.net/2026/Jul/3/june-newsletter": {
+    "title": "June 2026 newsletter",
+    "source": "Simon Willison",
+    "first_seen": "2026-07-03T16:17:48.003332+00:00",
+    "published": "2026-07-03T14:50:50+00:00"
+  },
+  "https://superuserdone.com/posts/2026-07-03-give-smart-people-the-tools": {
+    "title": "Give Smart People the Tools to Do Smart Things",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-03T16:17:48.003332+00:00",
+    "published": "2026-07-03T14:49:44+00:00"
+  },
+  "https://taskpeace.com": {
+    "title": "Show HN: TaskPeace – a task queue my AI coding agents pull work from over MCP",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-03T16:17:48.003332+00:00",
+    "published": "2026-07-03T14:27:26+00:00"
+  },
+  "https://promptowl.ai/resources/persistent-memory-ai-agents": {
+    "title": "Anatomy of Persistent Memory's 3 Layers: Comparing ContextNest, Mem0 and Zep",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-03T16:17:48.003332+00:00",
+    "published": "2026-07-03T14:27:21+00:00"
+  },
+  "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership": {
+    "title": "Google DeepMind and A24 announce first-of-its-kind research partnership",
+    "source": "DeepMind Blog",
+    "first_seen": "2026-07-03T16:17:48.003332+00:00",
+    "published": "2026-07-03T14:25:43+00:00"
+  },
+  "https://lwn.net/Articles/1079407": {
+    "title": "[$] Limiting negative dentries",
+    "source": "LWN.net",
+    "first_seen": "2026-07-03T16:17:48.003332+00:00",
+    "published": "2026-07-03T14:10:03+00:00"
+  },
+  "https://www.theregister.com/security/2026/07/02/hackers-shoveled-snow-for-company-were-rewarded-with-network-admin-access/5265240": {
+    "title": "Hackers shoveled snow for company, were rewarded with network admin access",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-03T16:17:48.003332+00:00",
+    "published": "2026-07-03T13:19:46+00:00"
+  },
+  "https://lwn.net/Articles/1081187": {
+    "title": "Security updates for Friday",
+    "source": "LWN.net",
+    "first_seen": "2026-07-03T16:17:48.003332+00:00",
+    "published": "2026-07-03T13:03:41+00:00"
+  },
+  "https://www.gamingonlinux.com/2026/07/valve-open-source-the-steam-machine-e-ink-screen-so-you-can-make-your-own": {
+    "title": "Valve open source the Steam Machine e-ink screen so you can make your own",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-03T16:17:48.003332+00:00",
+    "published": "2026-07-03T13:01:49+00:00"
+  },
+  "https://www.ubicloud.com/blog/postgresql-and-the-oom-killer-why-we-use-strict-memory-overcommit": {
+    "title": "PostgreSQL and the OOM Killer: Why We Use Strict Memory Overcommit",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-03T16:17:48.003332+00:00",
+    "published": "2026-07-03T13:00:31+00:00"
+  },
+  "https://www.construction-physics.com/p/the-fall-and-rise-of-screwworm": {
+    "title": "The Fall and Rise of Screwworm",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-03T16:17:48.003332+00:00",
+    "published": "2026-07-03T12:58:47+00:00"
+  },
+  "https://docs.cloud.google.com/gemini/docs/code-review/review-repo-code": {
+    "title": "Gemini Code Assist will be shut down on July 17",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-03T16:17:48.003332+00:00",
+    "published": "2026-07-03T12:52:48+00:00"
+  },
+  "https://arxiv.org/abs/2607.02512": {
+    "title": "Program-as-Weights: A Programming Paradigm for Fuzzy Functions",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-03T16:17:48.003332+00:00",
+    "published": "2026-07-03T12:46:30+00:00"
+  },
+  "https://www.phoronix.com/news/Rust-Coreutils-cp-Ubuntu-Images": {
+    "title": "Rust Coreutils cp Ended Up Breaking Ubuntu Image Builds With Latest Incompatibility",
+    "source": "Phoronix",
+    "first_seen": "2026-07-03T16:17:48.003332+00:00",
+    "published": "2026-07-03T12:35:30+00:00"
+  },
+  "https://realpython.com/quizzes/interfaces-object-oriented-design-principles": {
+    "title": "Quiz: Python Interfaces: Object-Oriented Design Principles",
+    "source": "Real Python",
+    "first_seen": "2026-07-03T16:17:48.003332+00:00",
+    "published": "2026-07-03T12:00:00+00:00"
+  },
+  "https://realpython.com/podcasts/rpp/301": {
+    "title": "The Real Python Podcast – Episode #301: Running Python Locally in a Sandbox",
+    "source": "Real Python",
+    "first_seen": "2026-07-03T16:17:48.003332+00:00",
+    "published": "2026-07-03T12:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/Intel-DRM-First-For-Linux-7.3": {
+    "title": "Intel Prepares More Nova Lake Graphics/Display Enablement For Linux 7.3",
+    "source": "Phoronix",
+    "first_seen": "2026-07-03T16:17:48.003332+00:00",
+    "published": "2026-07-03T11:30:33+00:00"
+  },
+  "https://thombrown.blogspot.com/2026/07/load-plcbmbasic81-commodore-64-basic.html": {
+    "title": "Commodore 64 Basic for PostgreSQL",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-03T16:17:48.003332+00:00",
+    "published": "2026-07-03T09:08:14+00:00"
+  },
+  "https://golangweekly.com/issues/608": {
+    "title": "Gin: 12 years, 88K stars, and zero broken APIs",
+    "source": "Golang Weekly",
+    "first_seen": "2026-07-03T16:17:48.003332+00:00",
+    "published": "2026-07-03T00:00:00+00:00"
+  },
+  "https://azure.microsoft.com/en-us/blog/meet-brain-the-ai-system-behind-azure-reliability": {
+    "title": "Meet Brain: The AI system behind Azure reliability",
+    "source": "Azure Blog",
+    "first_seen": "2026-07-03T16:17:48.003332+00:00",
+    "published": "2026-07-02T16:00:00+00:00"
   }
 }
