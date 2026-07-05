@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-28T07:15:32Z",
+  "generated_at": "2026-07-05T07:05:30Z",
   "count": 147,
   "results": [
     {
@@ -148,7 +148,7 @@
       "osm_type": "relation",
       "osm_id": 9331938,
       "perimeter_m": 3720.7,
-      "area_m2": 489658.1,
+      "area_m2": 489658.3,
       "Q": 0.4445,
       "rank": 15
     },
@@ -667,9 +667,9 @@
       "raw_name": "Ashford Parkrun",
       "osm_type": "relation",
       "osm_id": 16629221,
-      "perimeter_m": 2481.3,
-      "area_m2": 72332.1,
-      "Q": 0.1476,
+      "perimeter_m": 2481.8,
+      "area_m2": 72294.6,
+      "Q": 0.1475,
       "rank": 67
     },
     {
