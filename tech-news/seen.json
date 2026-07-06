@@ -50660,5 +50660,143 @@
     "source": "Apple ML Journal",
     "first_seen": "2026-07-06T17:36:07.172568+00:00",
     "published": "2026-07-06T00:00:00+00:00"
+  },
+  "https://developer.nvidia.com/blog/enhancing-goodput-in-large-scale-llm-training-with-nonuniform-tensor-parallelism": {
+    "title": "Enhancing Goodput in Large-Scale LLM Training with Nonuniform Tensor Parallelism",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-07-06T22:04:44.749262+00:00",
+    "published": "2026-07-06T21:44:23+00:00"
+  },
+  "https://thenewstack.io/ai-open-source-newcomers-study": {
+    "title": "A new study just debunked the biggest fear about AI and open source",
+    "source": "The New Stack",
+    "first_seen": "2026-07-06T22:04:44.749262+00:00",
+    "published": "2026-07-06T21:26:47+00:00"
+  },
+  "https://www.phoronix.com/news/Intel-ANV-Gen125-H265-Encode": {
+    "title": "Vulkan Video H.264/H.265 Encode Now Working For Intel Alchemist GPUs On Linux",
+    "source": "Phoronix",
+    "first_seen": "2026-07-06T22:04:44.749262+00:00",
+    "published": "2026-07-06T21:04:03+00:00"
+  },
+  "https://stevekrouse.com/learn-to-code": {
+    "title": "Learning to code is still worthwhile",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-06T22:04:44.749262+00:00",
+    "published": "2026-07-06T20:59:54+00:00"
+  },
+  "https://www.databricks.com/blog/reimagining-data-modeling-lakehouse-introducing-vibe-data-modeling": {
+    "title": "Reimagining Data Modeling on the Lakehouse: Introducing Vibe Data Modeling",
+    "source": "Databricks Blog",
+    "first_seen": "2026-07-06T22:04:44.749262+00:00",
+    "published": "2026-07-06T20:40:00+00:00"
+  },
+  "https://thenewstack.io/post-quantum-cryptography-deadline-2029": {
+    "title": "Microsoft, Google and Cloudflare just made 2029 the new quantum deadline",
+    "source": "The New Stack",
+    "first_seen": "2026-07-06T22:04:44.749262+00:00",
+    "published": "2026-07-06T20:20:17+00:00"
+  },
+  "https://janilowski.pl/en/blog/2026/price-per-m-tokens": {
+    "title": "Price per 1M tokens is meaningless",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-06T22:04:44.749262+00:00",
+    "published": "2026-07-06T19:43:36+00:00"
+  },
+  "https://github.com/can1357/pon": {
+    "title": "Python 3.14 compiled to metal – no interpreter",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-06T22:04:44.749262+00:00",
+    "published": "2026-07-06T19:40:22+00:00"
+  },
+  "https://www.phoronix.com/news/Marek-Double-VRS-RADV-Perf": {
+    "title": "Marek Olšák At Valve Lands RADV Code That Can \"Double Performance\" With Some VRS Cases",
+    "source": "Phoronix",
+    "first_seen": "2026-07-06T22:04:44.749262+00:00",
+    "published": "2026-07-06T18:56:57+00:00"
+  },
+  "https://www.comaps.app": {
+    "title": "CoMaps – FOSS Offline Maps",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-06T22:04:44.749262+00:00",
+    "published": "2026-07-06T18:55:07+00:00"
+  },
+  "https://cakehonolulu.github.io/linux-for-jaguar": {
+    "title": "Linux on the Atari Jaguar",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-06T22:04:44.749262+00:00",
+    "published": "2026-07-06T18:35:54+00:00"
+  },
+  "https://thenewstack.io/caveman-mode-token-savings": {
+    "title": "Getting Claude Code to grunt in Caveman-speak might not save as many tokens as you think",
+    "source": "The New Stack",
+    "first_seen": "2026-07-06T22:04:44.749262+00:00",
+    "published": "2026-07-06T18:28:42+00:00"
+  },
+  "https://johnjeffers.com/pros-and-cons-of-solo-development": {
+    "title": "Pros and Cons of Solo Development",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-06T22:04:44.749262+00:00",
+    "published": "2026-07-06T18:24:34+00:00"
+  },
+  "https://openwrt.org/toh/openwrt/one": {
+    "title": "OpenWrt One – Open Hardware Router",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-06T22:04:44.749262+00:00",
+    "published": "2026-07-06T18:23:12+00:00"
+  },
+  "https://thenewstack.io/why-most-ai-projects-fail-its-infrastructure-and-people": {
+    "title": "Why most AI projects fail: It’s infrastructure and people",
+    "source": "The New Stack",
+    "first_seen": "2026-07-06T22:04:44.749262+00:00",
+    "published": "2026-07-06T18:19:49+00:00"
+  },
+  "https://www.databricks.com/blog/scaling-security-alert-triage-specialized-agents-databricks": {
+    "title": "Scaling Security Alert Triage With Specialized Agents on Databricks",
+    "source": "Databricks Blog",
+    "first_seen": "2026-07-06T22:04:44.749262+00:00",
+    "published": "2026-07-06T18:00:00+00:00"
+  },
+  "https://www.anthropic.com/research/global-workspace": {
+    "title": "A global workspace in language models",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-06T22:04:44.749262+00:00",
+    "published": "2026-07-06T17:44:08+00:00"
+  },
+  "https://www.databricks.com/blog/contextual-policies-omnigent-using-session-state-better-govern-ai-agents": {
+    "title": "Contextual Policies in Omnigent: Using session state to better govern AI agents",
+    "source": "Databricks Blog",
+    "first_seen": "2026-07-06T22:04:44.749262+00:00",
+    "published": "2026-07-06T17:42:58+00:00"
+  },
+  "https://github.com/V4bel/Januscape": {
+    "title": "Januscape: Guest-to-Host Escape in KVM/x86 [CVE-2026-53359]",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-06T22:04:44.749262+00:00",
+    "published": "2026-07-06T17:35:03+00:00"
+  },
+  "https://machinelearning.apple.com/research/topoprimer-topological-context": {
+    "title": "TopoPrimer: The Missing Topological Context in Forecasting Models",
+    "source": "Apple ML Journal",
+    "first_seen": "2026-07-06T22:04:44.749262+00:00",
+    "published": "2026-07-06T00:00:00+00:00"
+  },
+  "https://machinelearning.apple.com/research/segmental-attention-decoding": {
+    "title": "Segmental Attention Decoding with Long Form Acoustic Encodings",
+    "source": "Apple ML Journal",
+    "first_seen": "2026-07-06T22:04:44.749262+00:00",
+    "published": "2026-07-06T00:00:00+00:00"
+  },
+  "https://machinelearning.apple.com/research/fortress-stabilizing-search-recommendations": {
+    "title": "Fortress: A Case Study in Stabilizing Search Recommendations via Temporal Data Augmentation and Feature Pruning",
+    "source": "Apple ML Journal",
+    "first_seen": "2026-07-06T22:04:44.749262+00:00",
+    "published": "2026-07-06T00:00:00+00:00"
+  },
+  "https://machinelearning.apple.com/research/annotator-safety-policy-interpretability": {
+    "title": "Understanding Annotator Safety Policy with Interpretability",
+    "source": "Apple ML Journal",
+    "first_seen": "2026-07-06T22:04:44.749262+00:00",
+    "published": "2026-07-06T00:00:00+00:00"
   }
 }
