@@ -50342,5 +50342,323 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-07-06T12:33:35.832915+00:00",
     "published": "2026-07-05T21:32:44+00:00"
+  },
+  "https://thenewstack.io/karp-mensch-ai-lockin": {
+    "title": "Palantir’s Alex Karp and Mistral’s Arthur Mensch agree: AI lock-in is coming for enterprises",
+    "source": "The New Stack",
+    "first_seen": "2026-07-06T17:36:07.172568+00:00",
+    "published": "2026-07-06T17:17:53+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/run-minimax-models-on-amazon-bedrock": {
+    "title": "Run MiniMax models on Amazon Bedrock",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-07-06T17:36:07.172568+00:00",
+    "published": "2026-07-06T17:00:44+00:00"
+  },
+  "https://aws.amazon.com/blogs/compute/uncover-new-performance-insights-using-amazon-detailed-performance-statistics-on-windows": {
+    "title": "Uncover new performance insights using Amazon detailed performance statistics on Windows",
+    "source": "AWS Compute Blog",
+    "first_seen": "2026-07-06T17:36:07.172568+00:00",
+    "published": "2026-07-06T17:00:08+00:00"
+  },
+  "https://www.yahoo.com/news/politics/articles/supreme-court-just-lit-fuse-130900307.html": {
+    "title": "The Supreme Court Just Lit a Fuse Under Flock's License Plate Camera Empire",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-06T17:36:07.172568+00:00",
+    "published": "2026-07-06T16:58:51+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/deploying-multi-turn-rl-infrastructure-for-amazon-nova-on-amazon-sagemaker-hyperpod": {
+    "title": "Deploying Multi-Turn RL Infrastructure for Amazon Nova on Amazon SageMaker HyperPod",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-07-06T17:36:07.172568+00:00",
+    "published": "2026-07-06T16:58:13+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/automatically-redact-pii-in-images-with-amazon-nova": {
+    "title": "Automatically redact PII in images with Amazon Nova",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-07-06T17:36:07.172568+00:00",
+    "published": "2026-07-06T16:55:02+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/streaming-benchmark-and-recommendation-results-to-mlflow-with-amazon-sagemaker-ai": {
+    "title": "Streaming benchmark and recommendation results to MLflow with Amazon SageMaker AI",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-07-06T17:36:07.172568+00:00",
+    "published": "2026-07-06T16:53:38+00:00"
+  },
+  "https://aws.amazon.com/blogs/security/enforce-least-privilege-authorization-in-multi-agent-ai-chains-using-cedar": {
+    "title": "Enforce least-privilege authorization in multi-agent AI chains using Cedar",
+    "source": "AWS Security Blog",
+    "first_seen": "2026-07-06T17:36:07.172568+00:00",
+    "published": "2026-07-06T16:52:23+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/how-bigbasket-uses-the-iceberg-based-lakehouse-architecture-on-aws-to-power-lightning-fast-grocery-delivery-across-india": {
+    "title": "How BigBasket uses the Iceberg based lakehouse architecture on AWS to power lightning-fast grocery delivery across India",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-07-06T17:36:07.172568+00:00",
+    "published": "2026-07-06T16:50:17+00:00"
+  },
+  "https://github.com/iOfficeAI/OfficeCLI": {
+    "title": "OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-06T17:36:07.172568+00:00",
+    "published": "2026-07-06T16:47:44+00:00"
+  },
+  "https://news.ycombinator.com/item?id=48806976": {
+    "title": "Stealth robotics startup (YC S26) is hiring principal engineers (Palo Alto)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-06T17:36:07.172568+00:00",
+    "published": "2026-07-06T16:33:04+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/dynatas-journey-to-lower-tco-and-faster-modernization-with-aws-database-savings-plans": {
+    "title": "Dynata’s journey to lower TCO and faster modernization with AWS Database Savings Plans",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-07-06T17:36:07.172568+00:00",
+    "published": "2026-07-06T16:18:19+00:00"
+  },
+  "https://lwn.net/Articles/1081536": {
+    "title": "OpenSSH 10.4 released",
+    "source": "LWN.net",
+    "first_seen": "2026-07-06T17:36:07.172568+00:00",
+    "published": "2026-07-06T16:13:19+00:00"
+  },
+  "https://usefeyn.com/blog/pulpie-pareto-optimal-models-for-cleaning-the-web": {
+    "title": "Show HN: Pulpie – Models for Cleaning the Web",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-06T17:36:07.172568+00:00",
+    "published": "2026-07-06T16:04:27+00:00"
+  },
+  "https://cloud.google.com/blog/products/identity-security/shift-into-high-gear-with-agents-securing-the-software-defined-vehicle": {
+    "title": "Shift into high gear with agents: Securing the software-defined vehicle",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-07-06T17:36:07.172568+00:00",
+    "published": "2026-07-06T16:00:00+00:00"
+  },
+  "https://arxiv.org/abs/2607.01504": {
+    "title": "Kani: A Model Checker for Rust",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-06T17:36:07.172568+00:00",
+    "published": "2026-07-06T15:53:24+00:00"
+  },
+  "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-sonnet-5-on-aws-amazon-workspaces-for-ai-agents-aws-service-availability-updates-and-more-july-6-2026": {
+    "title": "AWS Weekly Roundup: Claude Sonnet 5 on AWS, Amazon WorkSpaces for AI agents, AWS service availability updates, and more (July 6, 2026)",
+    "source": "AWS Blog",
+    "first_seen": "2026-07-06T17:36:07.172568+00:00",
+    "published": "2026-07-06T15:46:43+00:00"
+  },
+  "https://www.astralcodexten.com/p/the-ai-superforecasters-are-here": {
+    "title": "The AI Superforecasters Are Here",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-06T17:36:07.172568+00:00",
+    "published": "2026-07-06T15:45:11+00:00"
+  },
+  "https://www.theargumentmag.com/p/should-dayquil-be-legal": {
+    "title": "Should DayQuil Be Legal?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-06T17:36:07.172568+00:00",
+    "published": "2026-07-06T15:44:44+00:00"
+  },
+  "https://blog.bytebytego.com/p/last-call-for-enrollment-become-an-72b": {
+    "title": "LAST CALL FOR ENROLLMENT: Become an AI Engineer - Cohort 7",
+    "source": "ByteByteGo",
+    "first_seen": "2026-07-06T17:36:07.172568+00:00",
+    "published": "2026-07-06T15:31:49+00:00"
+  },
+  "https://huggingface.co/blog/Photoroom/prx-part4-data": {
+    "title": "PRX Part 4: Our Data Strategy",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-07-06T17:36:07.172568+00:00",
+    "published": "2026-07-06T15:30:55+00:00"
+  },
+  "https://writingclub.world/1picture1000words": {
+    "title": "1k Words: A Writing Contest",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-06T17:36:07.172568+00:00",
+    "published": "2026-07-06T15:30:08+00:00"
+  },
+  "https://www.esquire.com/preview/food-drink/restaurants/a71774153/tom-colicchio-craft-closing": {
+    "title": "Tom Colicchio's Final Service",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-06T17:36:07.172568+00:00",
+    "published": "2026-07-06T15:25:11+00:00"
+  },
+  "https://stackoverflow.blog/2026/07/06/when-the-sensor-starts-thinking-snortml-agentic-ai-and-the-evolving-architecture-of-intrusion-detection": {
+    "title": "When the sensor starts thinking: SnortML, agentic AI, and the evolving architecture of intrusion detection​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌​﻿‌﻿​﻿‌‍‌‍​﻿​﻿‍‌​﻿‌﻿​﻿‌﻿​﻿​‌‌‍​‍​‍﻿‌​﻿​﻿​﻿‌​‌‍‌‌​﻿‌‍​‍﻿‌​﻿‌​‌‍‌​​﻿‍‌​﻿‍​​‍﻿‌​﻿‍​​﻿‌‍​﻿‌​​﻿​‌​‍﻿‌‌‍‌‌‌‍​﻿‌‍‌‌‌‍‌‍‌‍​﻿​﻿‌﻿​﻿​‌​﻿​‌‌‍‌‍​﻿​​‌‍‌‌‌‍‌‍​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌​﻿‌﻿​﻿‌‍‌‍​﻿​﻿‍‌​﻿‌﻿​﻿‌﻿​﻿​‌‌‍​‍​‍﻿‌​﻿​﻿​﻿‌​‌‍‌‌​﻿‌‍​‍﻿‌​﻿‌​‌‍‌​​﻿‍‌​﻿‍​​‍﻿‌​﻿‍​​﻿‌‍​﻿‌​​﻿​‌​‍﻿‌‌‍‌‌‌‍​﻿‌‍‌‌‌‍‌‍‌‍​﻿​﻿‌﻿​﻿​‌​﻿​‌‌‍‌‍​﻿​​‌‍‌‌‌‍‌‍​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌",
+    "source": "Stack Overflow Blog",
+    "first_seen": "2026-07-06T17:36:07.172568+00:00",
+    "published": "2026-07-06T15:23:34+00:00"
+  },
+  "https://github.com/karola3vax/CS2FOW": {
+    "title": "CS2 Fog Of War: Server-sided anti-wallhack occlusion culling for CS2 servers",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-06T17:36:07.172568+00:00",
+    "published": "2026-07-06T15:23:34+00:00"
+  },
+  "https://thenewstack.io/markdown-agent-memory-moat": {
+    "title": "Andrej Karpathy, Google and Garry Tan agree Markdown is the answer, but they’re not solving the same problem",
+    "source": "The New Stack",
+    "first_seen": "2026-07-06T17:36:07.172568+00:00",
+    "published": "2026-07-06T15:13:41+00:00"
+  },
+  "https://www.databricks.com/blog/openai-and-databricks-dais-2026-making-enterprise-ai-real": {
+    "title": "OpenAI and Databricks at DAIS 2026: Making enterprise AI real",
+    "source": "Databricks Blog",
+    "first_seen": "2026-07-06T17:36:07.172568+00:00",
+    "published": "2026-07-06T15:04:20+00:00"
+  },
+  "https://fens2026.abstractserver.com/program": {
+    "title": "Multilingual experience linked to delayed aging",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-06T17:36:07.172568+00:00",
+    "published": "2026-07-06T15:04:01+00:00"
+  },
+  "https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo": {
+    "title": "AMD Ryzen AI Halo – $4k AI Dev Kit",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-06T17:36:07.172568+00:00",
+    "published": "2026-07-06T15:01:18+00:00"
+  },
+  "https://www.phoronix.com/review/ryzen-ai-linux-os": {
+    "title": "Ryzen AI Developer Platform: AMD's Own Linux Distribution Built Atop Debian",
+    "source": "Phoronix",
+    "first_seen": "2026-07-06T17:36:07.172568+00:00",
+    "published": "2026-07-06T15:00:00+00:00"
+  },
+  "https://www.phoronix.com/review/amd-ryzen-ai-halo": {
+    "title": "AMD Ryzen AI Halo Is An Excellent & Powerful Mini PC With Fully Open-Source Software",
+    "source": "Phoronix",
+    "first_seen": "2026-07-06T17:36:07.172568+00:00",
+    "published": "2026-07-06T15:00:00+00:00"
+  },
+  "https://github.com/christopherkarani/Swarm": {
+    "title": "Show HN: I Built LangGraph for Swift",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-06T17:36:07.172568+00:00",
+    "published": "2026-07-06T14:47:45+00:00"
+  },
+  "https://spectrum.ieee.org/stochastic-parrot": {
+    "title": "What Emily Bender meant by \"stochastic parrots\"",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-06T17:36:07.172568+00:00",
+    "published": "2026-07-06T14:45:31+00:00"
+  },
+  "https://lwn.net/Articles/1079415": {
+    "title": "[$] The kernel's iomap layer",
+    "source": "LWN.net",
+    "first_seen": "2026-07-06T17:36:07.172568+00:00",
+    "published": "2026-07-06T14:37:34+00:00"
+  },
+  "https://news.xbox.com/en-us/2026/07/06/resetting-xbox": {
+    "title": "Resetting Xbox",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-06T17:36:07.172568+00:00",
+    "published": "2026-07-06T14:18:23+00:00"
+  },
+  "https://realpython.com/python-news-july-2026": {
+    "title": "Python's JIT Faces Some Challenges and Other News for July 2026",
+    "source": "Real Python",
+    "first_seen": "2026-07-06T17:36:07.172568+00:00",
+    "published": "2026-07-06T14:00:00+00:00"
+  },
+  "https://blogs.microsoft.com/blog/2026/07/06/the-latest-in-our-company-transformation": {
+    "title": "The latest in our company transformation",
+    "source": "Microsoft Blog",
+    "first_seen": "2026-07-06T17:36:07.172568+00:00",
+    "published": "2026-07-06T13:30:28+00:00"
+  },
+  "https://dernocua.github.io/notes/aluminum-foil.html": {
+    "title": "Aluminum foil (2021)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-06T17:36:07.172568+00:00",
+    "published": "2026-07-06T13:28:57+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.3-Flattens-The-Pick": {
+    "title": "Linux 7.3 Expected To \"Flatten The Pick\" For Better Scheduling While Gaming & More",
+    "source": "Phoronix",
+    "first_seen": "2026-07-06T17:36:07.172568+00:00",
+    "published": "2026-07-06T13:22:00+00:00"
+  },
+  "https://www.nintendo.com/en-gb/Support/Nintendo-Switch-2/Information-about-upcoming-battery-related-revisions-to-some-Nintendo-products-3132901.html": {
+    "title": "Nintendo announces new product revisions in Europe with replaceable batteries",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-06T17:36:07.172568+00:00",
+    "published": "2026-07-06T13:18:16+00:00"
+  },
+  "https://www.joshwcomeau.com/css/anchor-positioning": {
+    "title": "Getting Started with Anchor Positioning",
+    "source": "Josh W. Comeau",
+    "first_seen": "2026-07-06T17:36:07.172568+00:00",
+    "published": "2026-07-06T13:15:00+00:00"
+  },
+  "https://lwn.net/Articles/1081495": {
+    "title": "Security updates for Monday",
+    "source": "LWN.net",
+    "first_seen": "2026-07-06T17:36:07.172568+00:00",
+    "published": "2026-07-06T13:13:57+00:00"
+  },
+  "https://chronicle.software/insights/blogs/why-low-latency-java-still-requires-discipline": {
+    "title": "Why low-latency Java still requires discipline?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-06T17:36:07.172568+00:00",
+    "published": "2026-07-06T13:03:35+00:00"
+  },
+  "https://blog.cloudflare.com/workers-cache": {
+    "title": "Your Worker can now have its own cache in front of it",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-07-06T17:36:07.172568+00:00",
+    "published": "2026-07-06T13:00:00+00:00"
+  },
+  "https://martinfowler.com/fragments/2026-07-06.html": {
+    "title": "Fragments: July  6",
+    "source": "Martin Fowler",
+    "first_seen": "2026-07-06T17:36:07.172568+00:00",
+    "published": "2026-07-06T12:53:00+00:00"
+  },
+  "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk": {
+    "title": "Amazon will stop accepting new customers for Mechanical Turk",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-06T17:36:07.172568+00:00",
+    "published": "2026-07-06T12:51:12+00:00"
+  },
+  "https://andonlabs.com/blog/fable5-vending-bench": {
+    "title": "Fable 5 On Vending-Bench: Misbehaving, With Plausible Deniability",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-06T17:36:07.172568+00:00",
+    "published": "2026-07-06T12:38:13+00:00"
+  },
+  "https://www.phoronix.com/news/Intel-i915-RT-Linux-Kernel": {
+    "title": "Intel i915 Driver Nearly Ready To \"Work Well\" With RT Linux Kernel Sans Display Support",
+    "source": "Phoronix",
+    "first_seen": "2026-07-06T17:36:07.172568+00:00",
+    "published": "2026-07-06T12:29:31+00:00"
+  },
+  "https://www.elastic.co/blog/fix-your-data-foundation": {
+    "title": "Shifting AI from activity to outcomes in the year ahead",
+    "source": "Elastic Blog",
+    "first_seen": "2026-07-06T17:36:07.172568+00:00",
+    "published": "2026-07-06T00:00:00+00:00"
+  },
+  "https://www.elastic.co/blog/anyshift-partnership": {
+    "title": "Q&A: How Elastic and Anyshift are bringing AI-powered context to incident response",
+    "source": "Elastic Blog",
+    "first_seen": "2026-07-06T17:36:07.172568+00:00",
+    "published": "2026-07-06T00:00:00+00:00"
+  },
+  "https://machinelearning.apple.com/research/scaling-properties-continuous-diffusion": {
+    "title": "Scaling Properties of Continuous Diffusion Spoken Language Models",
+    "source": "Apple ML Journal",
+    "first_seen": "2026-07-06T17:36:07.172568+00:00",
+    "published": "2026-07-06T00:00:00+00:00"
+  },
+  "https://machinelearning.apple.com/research/path-constrained-mixture-experts": {
+    "title": "Path-Constrained Mixture-of-Experts",
+    "source": "Apple ML Journal",
+    "first_seen": "2026-07-06T17:36:07.172568+00:00",
+    "published": "2026-07-06T00:00:00+00:00"
+  },
+  "https://machinelearning.apple.com/research/asr-error-correction": {
+    "title": "Revisiting ASR Error Correction with Specialized Models",
+    "source": "Apple ML Journal",
+    "first_seen": "2026-07-06T17:36:07.172568+00:00",
+    "published": "2026-07-06T00:00:00+00:00"
   }
 }
