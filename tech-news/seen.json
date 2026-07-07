@@ -50798,5 +50798,167 @@
     "source": "Apple ML Journal",
     "first_seen": "2026-07-06T22:04:44.749262+00:00",
     "published": "2026-07-06T00:00:00+00:00"
+  },
+  "https://www.cncf.io/blog/2026/07/07/why-sandboxing-your-agent-is-not-enough": {
+    "title": "Why sandboxing your agent is not enough",
+    "source": "CNCF Blog",
+    "first_seen": "2026-07-07T11:35:38.595251+00:00",
+    "published": "2026-07-07T11:30:00+00:00"
+  },
+  "https://www.schneier.com/blog/archives/2026/07/google-is-suing-chinese-scammers-who-are-using-gemini.html": {
+    "title": "Google Is Suing Chinese Scammers Who Are Using Gemini",
+    "source": "Schneier on Security",
+    "first_seen": "2026-07-07T11:35:38.595251+00:00",
+    "published": "2026-07-07T10:43:40+00:00"
+  },
+  "https://www.dw.com/en/germany-migrants-skilled-workers-integration-labor-market-bureaucracy-language-housing/a-77853162": {
+    "title": "Why migrants come to Germany for work and then leave again",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-07T11:35:38.595251+00:00",
+    "published": "2026-07-07T10:42:59+00:00"
+  },
+  "https://www.phoronix.com/news/AF-ALG-Restrict-Sysctl-Linux": {
+    "title": "AF_ALG \"Nightmare\" Being Further Limited In Linux 7.3 With New Sysctl Knob",
+    "source": "Phoronix",
+    "first_seen": "2026-07-07T11:35:38.595251+00:00",
+    "published": "2026-07-07T10:24:22+00:00"
+  },
+  "https://www.phoronix.com/news/Nick-Desaulniers-LLVM-Linux": {
+    "title": "\"I'll Make The Linux Kernel Mailing List Burn\": Prominent LLVM Linux Developer Returns",
+    "source": "Phoronix",
+    "first_seen": "2026-07-07T11:35:38.595251+00:00",
+    "published": "2026-07-07T10:15:23+00:00"
+  },
+  "https://stratechery.com/2026/a-script-for-mark-zuckerberg": {
+    "title": "A Script for Mark Zuckerberg",
+    "source": "Stratechery",
+    "first_seen": "2026-07-07T11:35:38.595251+00:00",
+    "published": "2026-07-07T10:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/IBM-EHEA-Being-Retired": {
+    "title": "EHEA 10Gb Ethernet Driver Being Retired By IBM As A Relic Of Outdated POWER Hardware",
+    "source": "Phoronix",
+    "first_seen": "2026-07-07T11:35:38.595251+00:00",
+    "published": "2026-07-07T09:55:50+00:00"
+  },
+  "https://www.pcmag.com/news/a-hackers-arrest-reveals-microsoft-can-track-users-via-a-windows-device": {
+    "title": "Microsoft Can Track Users via a Windows Device ID",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-07T11:35:38.595251+00:00",
+    "published": "2026-07-07T08:54:03+00:00"
+  },
+  "https://whimfiles.com": {
+    "title": "Show HN: Fast, native Mac file manager (filters, fuzzy find, 9 MB, no Electron)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-07T11:35:38.595251+00:00",
+    "published": "2026-07-07T08:12:12+00:00"
+  },
+  "https://stackoverflow.blog/2026/07/07/agent-orchestration-is-so-two-years-ago": {
+    "title": "Agent orchestration is so two-years ago​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌‌‍‌​​﻿‌‌​﻿​‍‌‍​‍​﻿​﻿​﻿​﻿​﻿‌​‌‍‌‌​‍﻿‌​﻿‌​​﻿​‍​﻿​﻿​﻿​﻿​‍﻿‌​﻿‌​‌‍‌‌​﻿‌﻿‌‍‌​​‍﻿‌‌‍​‌​﻿​‌​﻿​​‌‍​‍​‍﻿‌‌‍​‍‌‍‌‍‌‍​‍‌‍​‌​﻿​‌​﻿‌​​﻿‌﻿​﻿​‍‌‍​﻿​﻿​‍‌‍‌‍‌‍​‍​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌‌‍‌​​﻿‌‌​﻿​‍‌‍​‍​﻿​﻿​﻿​﻿​﻿‌​‌‍‌‌​‍﻿‌​﻿‌​​﻿​‍​﻿​﻿​﻿​﻿​‍﻿‌​﻿‌​‌‍‌‌​﻿‌﻿‌‍‌​​‍﻿‌‌‍​‌​﻿​‌​﻿​​‌‍​‍​‍﻿‌‌‍​‍‌‍‌‍‌‍​‍‌‍​‌​﻿​‌​﻿‌​​﻿‌﻿​﻿​‍‌‍​﻿​﻿​‍‌‍‌‍‌‍​‍​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌",
+    "source": "Stack Overflow Blog",
+    "first_seen": "2026-07-07T11:35:38.595251+00:00",
+    "published": "2026-07-07T07:40:00+00:00"
+  },
+  "https://jobs.ashbyhq.com/lago": {
+    "title": "Lago (YC S21) Is Hiring for Our GTM Team",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-07T11:35:38.595251+00:00",
+    "published": "2026-07-07T07:00:27+00:00"
+  },
+  "https://www-cs-faculty.stanford.edu/~knuth/taocp.html": {
+    "title": "The Art of Computer Programming by Donald E. Knuth",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-07T11:35:38.595251+00:00",
+    "published": "2026-07-07T05:19:03+00:00"
+  },
+  "https://www.phoronix.com/news/Microsoft-AV1-Encode-DX12-HMFT": {
+    "title": "Microsoft Lands Initial AV1 Encoding Using DirectX 12 + HMFT Within Mesa 26.2",
+    "source": "Phoronix",
+    "first_seen": "2026-07-07T11:35:38.595251+00:00",
+    "published": "2026-07-07T00:34:05+00:00"
+  },
+  "https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home": {
+    "title": "How to sequence your own DNA at home",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-07T11:35:38.595251+00:00",
+    "published": "2026-07-07T00:14:21+00:00"
+  },
+  "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals": {
+    "title": "Small AI Models Gain Traction In places with unreliable networks",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-07T11:35:38.595251+00:00",
+    "published": "2026-07-06T23:59:54+00:00"
+  },
+  "https://simonwillison.net/2026/Jul/6/hy3": {
+    "title": "tencent/Hy3",
+    "source": "Simon Willison",
+    "first_seen": "2026-07-07T11:35:38.595251+00:00",
+    "published": "2026-07-06T23:57:35+00:00"
+  },
+  "https://blog.cr.yp.to/20260706-fairness.html": {
+    "title": "NSA and IETF: Fairness",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-07T11:35:38.595251+00:00",
+    "published": "2026-07-06T23:33:54+00:00"
+  },
+  "https://pytorch.org/blog/bringing-pytorch-monarch-to-amd-gpus-single-controller-distributed-training-on-rocm": {
+    "title": "Bringing PyTorch Monarch to AMD GPUs: Single-Controller Distributed Training on ROCm",
+    "source": "PyTorch Blog",
+    "first_seen": "2026-07-07T11:35:38.595251+00:00",
+    "published": "2026-07-06T23:31:47+00:00"
+  },
+  "https://www.databricks.com/blog/automatic-upgrades-best-practice-features-your-lakehouse-tables": {
+    "title": "Automatic Upgrades: best practice features for your lakehouse tables",
+    "source": "Databricks Blog",
+    "first_seen": "2026-07-07T11:35:38.595251+00:00",
+    "published": "2026-07-06T23:10:00+00:00"
+  },
+  "https://ternlight-demo.vercel.app": {
+    "title": "Ternlight – 7 MB embedding model that runs in browser (WASM)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-07T11:35:38.595251+00:00",
+    "published": "2026-07-06T23:06:31+00:00"
+  },
+  "https://github.com/MaximeRivest/Riddle": {
+    "title": "Fable turned reMarkable into Tom Riddle's diary from Harry Potter",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-07T11:35:38.595251+00:00",
+    "published": "2026-07-06T23:00:24+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/from-hugging-face-to-amazon-sagemaker-studio-in-one-click-2": {
+    "title": "From Hugging Face to Amazon SageMaker Studio in one click",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-07-07T11:35:38.595251+00:00",
+    "published": "2026-07-06T22:35:55+00:00"
+  },
+  "https://www.openssh.org/txt/release-10.4": {
+    "title": "OpenSSH 10.4/10.4p1 Released",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-07T11:35:38.595251+00:00",
+    "published": "2026-07-06T22:32:58+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/teaching-models-to-forget-selective-unlearning-with-amazon-nova": {
+    "title": "Teaching models to forget: Selective unlearning with Amazon Nova",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-07-07T11:35:38.595251+00:00",
+    "published": "2026-07-06T22:23:45+00:00"
+  },
+  "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2": {
+    "title": "GLM 5.2 and the coming AI margin collapse",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-07T11:35:38.595251+00:00",
+    "published": "2026-07-06T20:14:55+00:00"
+  },
+  "https://wiki.xxiivv.com/site/m_pc.html": {
+    "title": "M/PC – A Concatenative OS",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-07T11:35:38.595251+00:00",
+    "published": "2026-07-06T20:08:46+00:00"
+  },
+  "https://www.kapa.ai/blog/how-we-prune-rag-context": {
+    "title": "Pruning RAG context down to what the answer actually needs",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-07T11:35:38.595251+00:00",
+    "published": "2026-07-06T19:28:24+00:00"
   }
 }
