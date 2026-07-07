@@ -51356,5 +51356,233 @@
     "source": "Databricks Blog",
     "first_seen": "2026-07-07T17:03:13.506414+00:00",
     "published": "2026-07-06T23:15:23+00:00"
+  },
+  "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio": {
+    "title": "From Hugging Face to Amazon SageMaker Studio in one click",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-07-07T22:03:03.392841+00:00",
+    "published": "2026-07-07T21:15:33+00:00"
+  },
+  "https://www.phoronix.com/news/Proton-11.0-1": {
+    "title": "Proton 11.0-1 Released To Advance Valve's Steam Play For The Best Linux Experience Yet",
+    "source": "Phoronix",
+    "first_seen": "2026-07-07T22:03:03.392841+00:00",
+    "published": "2026-07-07T21:10:27+00:00"
+  },
+  "https://thenewstack.io/multi-model-ai-infrastructure": {
+    "title": "Coinbase runs 1,200 agents and just slashed its AI bill in half",
+    "source": "The New Stack",
+    "first_seen": "2026-07-07T22:03:03.392841+00:00",
+    "published": "2026-07-07T20:55:05+00:00"
+  },
+  "https://www.phoronix.com/news/AMDGPU-Clearing-Out-BUGs": {
+    "title": "AMD Linux Graphics Driver Working To Clear Out All Of Its BUG()s",
+    "source": "Phoronix",
+    "first_seen": "2026-07-07T22:03:03.392841+00:00",
+    "published": "2026-07-07T20:53:44+00:00"
+  },
+  "https://allaboutcookies.org/eu-mandatory-distracted-driver-system": {
+    "title": "Every new car sold in the European Union must include a driver monitoring camera",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-07T22:03:03.392841+00:00",
+    "published": "2026-07-07T20:50:46+00:00"
+  },
+  "https://www.theguardian.com/society/2026/jul/07/mens-average-testosterone-levels-have-halved-in-last-50-years-say-scientists": {
+    "title": "Men's average testosterone levels have halved in last 50 years",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-07T22:03:03.392841+00:00",
+    "published": "2026-07-07T20:36:01+00:00"
+  },
+  "https://thenewstack.io/opentelemetry-opensearch-agent-observability": {
+    "title": "Watch AWS engineers troubleshoot agentic AI with OpenTelemetry and OpenSearch",
+    "source": "The New Stack",
+    "first_seen": "2026-07-07T22:03:03.392841+00:00",
+    "published": "2026-07-07T20:29:14+00:00"
+  },
+  "https://thenewstack.io/vercel-acquires-better-auth": {
+    "title": "Vercel acquires Better Auth to give AI agents their own identity",
+    "source": "The New Stack",
+    "first_seen": "2026-07-07T22:03:03.392841+00:00",
+    "published": "2026-07-07T20:13:37+00:00"
+  },
+  "https://simonwillison.net/2026/Jul/7/sqlite-utils-4": {
+    "title": "sqlite-utils 4.0, now with database schema migrations",
+    "source": "Simon Willison",
+    "first_seen": "2026-07-07T22:03:03.392841+00:00",
+    "published": "2026-07-07T19:32:57+00:00"
+  },
+  "https://www.databricks.com/blog/how-imperial-college-london-accelerating-dementia-research-modern-data-platform": {
+    "title": "How Imperial College London is accelerating dementia research with a modern data platform",
+    "source": "Databricks Blog",
+    "first_seen": "2026-07-07T22:03:03.392841+00:00",
+    "published": "2026-07-07T19:20:00+00:00"
+  },
+  "https://thenewstack.io/anthropic-extends-fable-5": {
+    "title": "Anthropic gives Claude subscribers five more days with Fable 5",
+    "source": "The New Stack",
+    "first_seen": "2026-07-07T22:03:03.392841+00:00",
+    "published": "2026-07-07T18:45:26+00:00"
+  },
+  "https://davit.app": {
+    "title": "Show HN: Davit, a Apple Containers UI",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-07T22:03:03.392841+00:00",
+    "published": "2026-07-07T18:44:29+00:00"
+  },
+  "https://blog.zksecurity.xyz/posts/circl-bugs": {
+    "title": "AI Meets Cryptography 1: What AI Found in Cloudflare's Circl",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-07T22:03:03.392841+00:00",
+    "published": "2026-07-07T18:36:35+00:00"
+  },
+  "https://ariya.io/2026/03/local-cpu-friendly-high-quality-tts-text-to-speech-with-kokoro": {
+    "title": "Local, CPU-Friendly, High-Quality TTS (Text-to-Speech) with Kokoro",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-07T22:03:03.392841+00:00",
+    "published": "2026-07-07T18:24:10+00:00"
+  },
+  "https://github.com/kklimuk/docx-cli": {
+    "title": "Show HN: Docx-CLI: agents read/edit Word docs using 1/2 the time and tokens",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-07T22:03:03.392841+00:00",
+    "published": "2026-07-07T18:19:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/security/enforce-zero-data-retention-on-amazon-bedrock-with-bedrock-projects-and-service-control-policies": {
+    "title": "Enforce zero data retention on Amazon Bedrock with Bedrock Projects and service control policies",
+    "source": "AWS Security Blog",
+    "first_seen": "2026-07-07T22:03:03.392841+00:00",
+    "published": "2026-07-07T18:18:52+00:00"
+  },
+  "https://anthonyhobday.com/blog/20260410": {
+    "title": "Notes on Software Quality",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-07T22:03:03.392841+00:00",
+    "published": "2026-07-07T18:14:50+00:00"
+  },
+  "https://lv1.sh": {
+    "title": "l: A new runtime for k and q",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-07T22:03:03.392841+00:00",
+    "published": "2026-07-07T18:08:29+00:00"
+  },
+  "https://newsletter.pragmaticengineer.com/p/tech-jobs-market-in-2026-part-3-hiring": {
+    "title": "Tech jobs market in 2026, part 3: hiring managers & job seekers",
+    "source": "The Pragmatic Engineer",
+    "first_seen": "2026-07-07T22:03:03.392841+00:00",
+    "published": "2026-07-07T17:25:41+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/enrich-your-datasets-with-business-context-migrating-from-legacy-topics-to-semantic-datasets-in-amazon-quick": {
+    "title": "Enrich your datasets with business context: Migrating from legacy Topics to semantic datasets in Amazon Quick",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-07-07T22:03:03.392841+00:00",
+    "published": "2026-07-07T17:07:57+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/data-modeling-best-practices-for-amazon-quick-sight-multi-dataset-relationships": {
+    "title": "Data modeling best practices for Amazon Quick Sight multi-dataset relationships",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-07-07T22:03:03.392841+00:00",
+    "published": "2026-07-07T17:07:49+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/data-modeling-patterns-for-amazon-quick-sight-multi-dataset-relationships": {
+    "title": "Data modeling patterns for Amazon Quick Sight multi-dataset relationships",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-07-07T22:03:03.392841+00:00",
+    "published": "2026-07-07T17:07:39+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/multi-dataset-topic-best-practices-for-amazon-quick-chat": {
+    "title": "Multi-dataset Topic best practices for Amazon Quick Chat",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-07-07T22:03:03.392841+00:00",
+    "published": "2026-07-07T17:07:31+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/build-a-unified-semantic-layer-across-datasets-with-multi-dataset-topics-in-amazon-quick": {
+    "title": "Build a unified semantic layer across datasets with multi-dataset Topics in Amazon Quick",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-07-07T22:03:03.392841+00:00",
+    "published": "2026-07-07T17:07:22+00:00"
+  },
+  "https://developer.nvidia.com/blog/develop-humanoid-robot-policies-end-to-end-with-nvidia-isaac-gr00t": {
+    "title": "Develop Humanoid Robot Policies End-to-End with NVIDIA Isaac GR00T",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-07-07T22:03:03.392841+00:00",
+    "published": "2026-07-07T17:05:42+00:00"
+  },
+  "https://grafana.com/blog/how-to-scale-access-control-in-grafana-cloud": {
+    "title": "How to scale access control in Grafana Cloud",
+    "source": "Grafana Blog",
+    "first_seen": "2026-07-07T22:03:03.392841+00:00",
+    "published": "2026-07-07T17:02:52+00:00"
+  },
+  "https://simonwillison.net/2026/Jul/7/sqlite-migrate": {
+    "title": "sqlite-migrate 0.2",
+    "source": "Simon Willison",
+    "first_seen": "2026-07-07T22:03:03.392841+00:00",
+    "published": "2026-07-07T16:33:55+00:00"
+  },
+  "https://simonwillison.net/2026/Jul/7/github-code-component": {
+    "title": "github-code Web Component",
+    "source": "Simon Willison",
+    "first_seen": "2026-07-07T22:03:03.392841+00:00",
+    "published": "2026-07-07T16:18:16+00:00"
+  },
+  "https://github.com/rowboatlabs/rowboat": {
+    "title": "Show HN: Rowboat – Open-source, local-first alternative to Claude Desktop",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-07T22:03:03.392841+00:00",
+    "published": "2026-07-07T16:10:44+00:00"
+  },
+  "https://30papers.com": {
+    "title": "30papers.com – Ilya's 30 essential ML papers, in a beginner friendly format",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-07T22:03:03.392841+00:00",
+    "published": "2026-07-07T15:58:13+00:00"
+  },
+  "https://simonwillison.net/2026/Jul/7/sqlite-utils": {
+    "title": "sqlite-utils 4.0",
+    "source": "Simon Willison",
+    "first_seen": "2026-07-07T22:03:03.392841+00:00",
+    "published": "2026-07-07T15:42:43+00:00"
+  },
+  "https://pgdog.dev/blog/why-yet-another-connection-pooler": {
+    "title": "Why we built yet another Postgres connection pooler",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-07T22:03:03.392841+00:00",
+    "published": "2026-07-07T15:36:49+00:00"
+  },
+  "https://www.nytimes.com/2026/07/05/business/philosophy-majors-ai-jobs.html": {
+    "title": "The revenge of the philosophy majors",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-07T22:03:03.392841+00:00",
+    "published": "2026-07-07T14:41:56+00:00"
+  },
+  "https://fightchatcontrol.eu/chat-control-overview": {
+    "title": "Chat Control 1.0 and 2.0 Explained",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-07T22:03:03.392841+00:00",
+    "published": "2026-07-07T14:23:15+00:00"
+  },
+  "https://blog.cloudflare.com/cloudflare-joins-uk-cyber-resilience-pledge": {
+    "title": "Cloudflare proudly joins the UK government's Cyber Resilience Pledge",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-07-07T22:03:03.392841+00:00",
+    "published": "2026-07-07T13:00:00+00:00"
+  },
+  "http://bair.berkeley.edu/blog/2026/07/07/intelligence-is-free-now-what": {
+    "title": "Intelligence is Free, Now What?  Data Systems for, of, and by Agents",
+    "source": "BAIR Blog",
+    "first_seen": "2026-07-07T22:03:03.392841+00:00",
+    "published": "2026-07-07T09:00:00+00:00"
+  },
+  "https://simonwillison.net/2026/Jul/7/sqlite-utils-2": {
+    "title": "sqlite-utils 4.0rc4",
+    "source": "Simon Willison",
+    "first_seen": "2026-07-07T22:03:03.392841+00:00",
+    "published": "2026-07-07T05:36:15+00:00"
+  },
+  "https://openai.com/index/australian-payments-plus": {
+    "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-07-07T22:03:03.392841+00:00",
+    "published": "2026-07-07T00:00:00+00:00"
   }
 }
