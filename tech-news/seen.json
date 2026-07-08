@@ -51920,5 +51920,257 @@
     "source": "Hugging Face Blog",
     "first_seen": "2026-07-08T16:24:08.387093+00:00",
     "published": "2026-07-08T00:00:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/fail-back-from-amazon-rds-for-db2-to-on-premises-aix-db2-using-dms": {
+    "title": "Fail back from Amazon RDS for Db2 to on-premises AIX Db2 using DMS",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-07-08T21:56:11.485431+00:00",
+    "published": "2026-07-08T21:42:36+00:00"
+  },
+  "https://github.blog/ai-and-ml/github-copilot/automating-cross-repo-documentation-with-github-agentic-workflows": {
+    "title": "Automating cross-repo documentation with GitHub Agentic Workflows",
+    "source": "GitHub Blog",
+    "first_seen": "2026-07-08T21:56:11.485431+00:00",
+    "published": "2026-07-08T21:11:56+00:00"
+  },
+  "https://openai.com/index/separating-signal-from-noise-coding-evaluations": {
+    "title": "OpenAI no longer recommends SWE-Bench Pro",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-08T21:56:11.485431+00:00",
+    "published": "2026-07-08T21:03:51+00:00"
+  },
+  "https://combine-lab.github.io/blog/2026/07/07/fable-is-not-a-useful-model.html": {
+    "title": "Fable is not a useful model",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-08T21:56:11.485431+00:00",
+    "published": "2026-07-08T20:41:33+00:00"
+  },
+  "https://github.com/linuxrebel/DocuBrowser": {
+    "title": "Turning a pile of documents into a searchable useable knowledge base",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-08T21:56:11.485431+00:00",
+    "published": "2026-07-08T20:37:29+00:00"
+  },
+  "https://multigres.com/blog/listen-notify": {
+    "title": "Multigres Supports Listen/Notify Across Pooled Connections",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-08T21:56:11.485431+00:00",
+    "published": "2026-07-08T20:11:40+00:00"
+  },
+  "https://github.com/animesh-94/Onboard-CLI": {
+    "title": "Show HN: Onboard-CLI, a LLM powered and AST-based tool to visualize codebase",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-08T21:56:11.485431+00:00",
+    "published": "2026-07-08T20:09:03+00:00"
+  },
+  "https://www.abeyk.com/escape-the-rat-race": {
+    "title": "FAANG Simulator",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-08T21:56:11.485431+00:00",
+    "published": "2026-07-08T20:05:42+00:00"
+  },
+  "https://simonwillison.net/2026/Jul/8/kenton-varda": {
+    "title": "Quoting Kenton Varda",
+    "source": "Simon Willison",
+    "first_seen": "2026-07-08T21:56:11.485431+00:00",
+    "published": "2026-07-08T20:03:34+00:00"
+  },
+  "https://hnwork.app": {
+    "title": "Show HN: Hnwork.app – UI for Who is hiring posts",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-08T21:56:11.485431+00:00",
+    "published": "2026-07-08T20:00:04+00:00"
+  },
+  "https://cloud.google.com/blog/products/compute/c4n-network-and-storage-optimized-vms": {
+    "title": "C4N, now GA: Delivering cloud’s highest per vCPU network and block storage I/O for x86 workloads",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-07-08T21:56:11.485431+00:00",
+    "published": "2026-07-08T20:00:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/introducing-claude-apps-gateway-for-aws": {
+    "title": "Introducing Claude apps gateway for AWS",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-07-08T21:56:11.485431+00:00",
+    "published": "2026-07-08T19:49:22+00:00"
+  },
+  "https://github.blog/news-insights/company-news/github-availability-report-june-2026": {
+    "title": "GitHub availability report: June 2026",
+    "source": "GitHub Blog",
+    "first_seen": "2026-07-08T21:56:11.485431+00:00",
+    "published": "2026-07-08T19:35:51+00:00"
+  },
+  "https://www.cloudflare.com/drop": {
+    "title": "Cloudflare Drop",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-08T21:56:11.485431+00:00",
+    "published": "2026-07-08T19:18:26+00:00"
+  },
+  "https://www.databricks.com/blog/navigating-synapse-migration-databricks": {
+    "title": "Navigating a Synapse Migration to Databricks",
+    "source": "Databricks Blog",
+    "first_seen": "2026-07-08T21:56:11.485431+00:00",
+    "published": "2026-07-08T19:00:00+00:00"
+  },
+  "https://thenewstack.io/grok-45-opus-killer-launch": {
+    "title": "“Opus-class, but faster”: What Elon Musk says about beating Anthropic",
+    "source": "The New Stack",
+    "first_seen": "2026-07-08T21:56:11.485431+00:00",
+    "published": "2026-07-08T18:59:49+00:00"
+  },
+  "https://aws.amazon.com/blogs/security/designing-for-the-inevitable-system-prompt-leakage-and-mitigations-in-generative-ai-applications": {
+    "title": "Designing for the inevitable: System prompt leakage and mitigations in generative AI applications",
+    "source": "AWS Security Blog",
+    "first_seen": "2026-07-08T21:56:11.485431+00:00",
+    "published": "2026-07-08T18:58:42+00:00"
+  },
+  "https://www.phoronix.com/news/Redox-OS-June-2026": {
+    "title": "Redox OS Gets GTK3 Backend For Orbital Desktop, Fractional Scaling & USB Gamepads",
+    "source": "Phoronix",
+    "first_seen": "2026-07-08T21:56:11.485431+00:00",
+    "published": "2026-07-08T18:30:02+00:00"
+  },
+  "https://forum.openmandriva.org/t/statement-regarding-attempted-distribution-sabotage/8997": {
+    "title": "OpenMandriva: Statement regarding attempted distribution sabotage",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-08T21:56:11.485431+00:00",
+    "published": "2026-07-08T18:21:53+00:00"
+  },
+  "https://microsoft.github.io/flint-chart": {
+    "title": "Show HN: Microsoft releases Flint, a visualization language for AI agents",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-08T21:56:11.485431+00:00",
+    "published": "2026-07-08T17:46:12+00:00"
+  },
+  "https://www.flatpanelshd.com/news.php?subaction=showfull&id=1783340582": {
+    "title": "PlayStation can delete all your digital games after 3 years of inactivity (EU)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-08T21:56:11.485431+00:00",
+    "published": "2026-07-08T17:45:26+00:00"
+  },
+  "https://thenewstack.io/jetbrains-ai-team-governance": {
+    "title": "JetBrains’ next move isn’t a better IDE — it’s a governance layer over Claude Code, Codex, and Gemini CLI",
+    "source": "The New Stack",
+    "first_seen": "2026-07-08T21:56:11.485431+00:00",
+    "published": "2026-07-08T17:44:04+00:00"
+  },
+  "https://e360.yale.edu/features/cassandra-rauert-interview": {
+    "title": "What Do We Know About the Microplastics Inside Us?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-08T21:56:11.485431+00:00",
+    "published": "2026-07-08T17:43:37+00:00"
+  },
+  "https://pytorch.org/blog/pytorch-2-13-release-blog": {
+    "title": "PyTorch 2.13 Release Blog",
+    "source": "PyTorch Blog",
+    "first_seen": "2026-07-08T21:56:11.485431+00:00",
+    "published": "2026-07-08T17:42:23+00:00"
+  },
+  "https://aws.amazon.com/blogs/compute/accelerate-multiplayer-game-hosting-with-aws-m8azn-instances": {
+    "title": "Accelerate multiplayer game hosting with AWS m8azn instances",
+    "source": "AWS Compute Blog",
+    "first_seen": "2026-07-08T21:56:11.485431+00:00",
+    "published": "2026-07-08T17:39:32+00:00"
+  },
+  "https://www.cncf.io/report-whitepaper/2026/07/08/the-cncf-data-storage-in-cloud-native-ai-white-paper": {
+    "title": "The CNCF Data Storage in Cloud Native AI White Paper",
+    "source": "CNCF Blog",
+    "first_seen": "2026-07-08T21:56:11.485431+00:00",
+    "published": "2026-07-08T17:35:54+00:00"
+  },
+  "https://thenewstack.io/meta-watermelon-benchmark-claim": {
+    "title": "Meta says it caught OpenAI. One thing is missing.",
+    "source": "The New Stack",
+    "first_seen": "2026-07-08T21:56:11.485431+00:00",
+    "published": "2026-07-08T17:34:17+00:00"
+  },
+  "https://huggingface.co/blog/nvidia/open-data-for-agents": {
+    "title": "Data for Agents",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-07-08T21:56:11.485431+00:00",
+    "published": "2026-07-08T17:16:05+00:00"
+  },
+  "https://thenewstack.io/gpt-5-6-developer-reactions": {
+    "title": "OpenAI’s own safety card says GPT-5.6 has a lying problem",
+    "source": "The New Stack",
+    "first_seen": "2026-07-08T21:56:11.485431+00:00",
+    "published": "2026-07-08T17:08:16+00:00"
+  },
+  "https://openai.com/index/introducing-gpt-live": {
+    "title": "GPT‑Live",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-08T21:56:11.485431+00:00",
+    "published": "2026-07-08T17:03:19+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/powering-scientific-discovery-byokg-and-graphrag-for-intelligent-pharmaceutical-research": {
+    "title": "Powering scientific discovery: BYOKG and GraphRAG for intelligent pharmaceutical research",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-07-08T21:56:11.485431+00:00",
+    "published": "2026-07-08T16:57:12+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/automatically-sort-and-prioritize-your-mailboxes-by-using-amazon-bedrock": {
+    "title": "Automatically sort and prioritize your mailboxes by using Amazon Bedrock",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-07-08T21:56:11.485431+00:00",
+    "published": "2026-07-08T16:55:48+00:00"
+  },
+  "https://cyberinsider.com/eu-now-one-step-away-from-reviving-private-message-scanning-rules": {
+    "title": "EU now one step away from reviving private message scanning rules",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-08T21:56:11.485431+00:00",
+    "published": "2026-07-08T16:53:06+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/building-and-connecting-a-production-ready-ecommerce-mcp-server-using-amazon-bedrock-agentcore-and-mistral-ai-studio": {
+    "title": "Building and connecting a production-ready ecommerce MCP server using Amazon Bedrock AgentCore and Mistral AI Studio",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-07-08T21:56:11.485431+00:00",
+    "published": "2026-07-08T16:51:35+00:00"
+  },
+  "https://newsletter.pragmaticengineer.com/p/the-pragmatic-engineer-ama": {
+    "title": "The Pragmatic Engineer AMA",
+    "source": "The Pragmatic Engineer",
+    "first_seen": "2026-07-08T21:56:11.485431+00:00",
+    "published": "2026-07-08T16:38:49+00:00"
+  },
+  "https://www.databricks.com/blog/benchmarking-coding-agents-databricks-multi-million-line-codebase": {
+    "title": "Benchmarking Coding Agents on Databricks’ Multi-Million Line Codebase",
+    "source": "Databricks Blog",
+    "first_seen": "2026-07-08T21:56:11.485431+00:00",
+    "published": "2026-07-08T16:30:51+00:00"
+  },
+  "https://www.phoronix.com/news/LibreOffice-26.8-Beta-1": {
+    "title": "LibreOffice 26.8 Beta Released For Improving This Free Software Office Suite",
+    "source": "Phoronix",
+    "first_seen": "2026-07-08T21:56:11.485431+00:00",
+    "published": "2026-07-08T16:27:11+00:00"
+  },
+  "https://cognition.com/blog/swe-1-7": {
+    "title": "SWE-1.7 Reach Near GPT 5.5 and Opus Intelligence",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-08T21:56:11.485431+00:00",
+    "published": "2026-07-08T16:19:36+00:00"
+  },
+  "https://openai.com/index/government-national-security-partnerships": {
+    "title": "Our approach to government and national security partnerships",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-07-08T21:56:11.485431+00:00",
+    "published": "2026-07-08T13:30:00+00:00"
+  },
+  "https://kubernetes.io/blog/2026/07/08/announcing-etcd-3.7": {
+    "title": "Announcing etcd v3.7.0",
+    "source": "Kubernetes Blog",
+    "first_seen": "2026-07-08T21:56:11.485431+00:00",
+    "published": "2026-07-08T12:00:00+00:00"
+  },
+  "https://openai.com/index/k-12-educators-practical-skills": {
+    "title": "Helping K–12 educators build practical AI skills",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-07-08T21:56:11.485431+00:00",
+    "published": "2026-07-08T10:00:00+00:00"
+  },
+  "https://planetscale.com/blog/deadlocks-and-downtime": {
+    "title": "Deadlocks and downtime",
+    "source": "PlanetScale Blog",
+    "first_seen": "2026-07-08T21:56:11.485431+00:00",
+    "published": "2026-07-08T00:00:00+00:00"
   }
 }
