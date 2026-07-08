@@ -51584,5 +51584,95 @@
     "source": "OpenAI Blog",
     "first_seen": "2026-07-07T22:03:03.392841+00:00",
     "published": "2026-07-07T00:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/Toggle-Syscall-User-Dispatch": {
+    "title": "Linux 7.3 To Make It Easier To Disable Syscall User Dispatch",
+    "source": "Phoronix",
+    "first_seen": "2026-07-08T10:53:08.154366+00:00",
+    "published": "2026-07-08T10:40:58+00:00"
+  },
+  "https://stratechery.com/2026/xbox-cuts-bundling-and-the-internet-solvent-transaction-coordination-and-sunk-costs": {
+    "title": "XBOX Cuts; Bundling and the Internet Solvent; Transaction, Coordination, and Sunk Costs",
+    "source": "Stratechery",
+    "first_seen": "2026-07-08T10:53:08.154366+00:00",
+    "published": "2026-07-08T10:00:00+00:00"
+  },
+  "https://www.allthingsdistributed.com/2026/07/now-go-build-cto-fellowship-season-2.html?utm_campaign=inbound&utm_source=rss": {
+    "title": "Now Go Build CTO Fellowship: Season 2",
+    "source": "All Things Distributed",
+    "first_seen": "2026-07-08T10:53:08.154366+00:00",
+    "published": "2026-07-08T09:00:00+00:00"
+  },
+  "https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores": {
+    "title": "Decoding the obfuscated bash script on a Uniqlo t-shirt",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-08T10:53:08.154366+00:00",
+    "published": "2026-07-08T08:46:06+00:00"
+  },
+  "https://github.com/dekart-xyz/geosql": {
+    "title": "Geosql: A Claude/Codex skill for geospatial data",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-08T10:53:08.154366+00:00",
+    "published": "2026-07-08T08:37:26+00:00"
+  },
+  "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos": {
+    "title": "GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-08T10:53:08.154366+00:00",
+    "published": "2026-07-08T05:25:35+00:00"
+  },
+  "https://stackoverflow.blog/2026/07/08/what-s-left-for-infrastructure-as-code-after-ai-moves-in": {
+    "title": "What's left for infrastructure-as-code after AI moves in?​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌​﻿‌﻿‌‍‌‌‌‍​‍‌‍‌​​﻿‌﻿​﻿‌‍‌‍‌​​﻿​‍​‍﻿‌‌‍​﻿‌‍‌‌‌‍​‍‌‍​﻿​‍﻿‌​﻿‌​‌‍​‍​﻿‍​​﻿‍​​‍﻿‌​﻿‍​​﻿​‍‌‍‌‍​﻿‍‌​‍﻿‌​﻿​﻿‌‍‌​‌‍‌‍‌‍​‍​﻿​‍‌‍​﻿​﻿‍​‌‍​‍‌‍​﻿​﻿‌‌‌‍​﻿‌‍​‌​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌​﻿‌﻿‌‍‌‌‌‍​‍‌‍‌​​﻿‌﻿​﻿‌‍‌‍‌​​﻿​‍​‍﻿‌‌‍​﻿‌‍‌‌‌‍​‍‌‍​﻿​‍﻿‌​﻿‌​‌‍​‍​﻿‍​​﻿‍​​‍﻿‌​﻿‍​​﻿​‍‌‍‌‍​﻿‍‌​‍﻿‌​﻿​﻿‌‍‌​‌‍‌‍‌‍​‍​﻿​‍‌‍​﻿​﻿‍​‌‍​‍‌‍​﻿​﻿‌‌‌‍​﻿‌‍​‌​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌",
+    "source": "Stack Overflow Blog",
+    "first_seen": "2026-07-08T10:53:08.154366+00:00",
+    "published": "2026-07-08T04:40:00+00:00"
+  },
+  "https://neil.computer/notes/how-to-setup-minimal-zfs-nas-without-truenas": {
+    "title": "How to Build a Minimal ZFS NAS Without Synology, QNAP, TrueNAS (2024)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-08T10:53:08.154366+00:00",
+    "published": "2026-07-08T03:59:35+00:00"
+  },
+  "https://www.digipres.org/the-floppy-guide": {
+    "title": "Copy That Floppy – Cambridge guide for preserving data from fragile floppy disks",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-08T10:53:08.154366+00:00",
+    "published": "2026-07-08T03:22:31+00:00"
+  },
+  "https://www.phoronix.com/news/XWayland-24.1.13-Released": {
+    "title": "XWayland 24.1.13 Released To Fix Two More Security Issues In The X.Org Codebase",
+    "source": "Phoronix",
+    "first_seen": "2026-07-08T10:53:08.154366+00:00",
+    "published": "2026-07-08T01:44:06+00:00"
+  },
+  "https://stats.lineageos.org": {
+    "title": "LineageOS Statistics",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-08T10:53:08.154366+00:00",
+    "published": "2026-07-08T01:27:39+00:00"
+  },
+  "https://chiptune-radio.alephvoid.com": {
+    "title": "Show HN: Chiptune Radio",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-08T10:53:08.154366+00:00",
+    "published": "2026-07-08T00:55:19+00:00"
+  },
+  "https://kb.cert.org/vuls/id/213560": {
+    "title": "Tenda firmware (multiple versions) contains hidden authentication backdoor",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-08T10:53:08.154366+00:00",
+    "published": "2026-07-08T00:08:51+00:00"
+  },
+  "https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures": {
+    "title": "Structure and Interpretation of Computer Programs Video Lectures (1986)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-08T10:53:08.154366+00:00",
+    "published": "2026-07-07T23:57:29+00:00"
+  },
+  "https://www.gao.gov/products/gao-26-108193": {
+    "title": "GAO: DOE Is Prematurely Excluding Less Expensive Options for Nuclear Cleanup",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-08T10:53:08.154366+00:00",
+    "published": "2026-07-07T22:23:58+00:00"
   }
 }
