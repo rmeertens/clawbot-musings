@@ -51674,5 +51674,251 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-07-08T10:53:08.154366+00:00",
     "published": "2026-07-07T22:23:58+00:00"
+  },
+  "https://developer.nvidia.com/blog/running-low-latency-analytical-workloads-with-gpu-accelerated-presto-on-nvidia-gb200-nvl72": {
+    "title": "Running Low-Latency Analytical Workloads with GPU-Accelerated Presto on NVIDIA GB200 NVL72",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-07-08T16:24:08.387093+00:00",
+    "published": "2026-07-08T16:05:25+00:00"
+  },
+  "https://www.phoronix.com/news/OpenMandriva-Disrupted": {
+    "title": "OpenMandriva GitHub Disrupted & Nefarious Package Push In Sabotage Attempt",
+    "source": "Phoronix",
+    "first_seen": "2026-07-08T16:24:08.387093+00:00",
+    "published": "2026-07-08T16:05:22+00:00"
+  },
+  "https://github.blog/ai-and-ml/github-copilot/how-github-copilot-enables-zero-dns-configuration-for-github-pages": {
+    "title": "How GitHub Copilot enables zero DNS configuration for GitHub Pages",
+    "source": "GitHub Blog",
+    "first_seen": "2026-07-08T16:24:08.387093+00:00",
+    "published": "2026-07-08T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/topics/training-certifications/new-ways-keep-google-cloud-certifications-current": {
+    "title": "New ways to keep Google Cloud certifications current and boost your career",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-07-08T16:24:08.387093+00:00",
+    "published": "2026-07-08T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/topics/ai-infrastructure/google-is-a-leader-in-gartner-magic-quadrant-for-ai-infra": {
+    "title": "Google Cloud named Leader in the 2026 Gartner® Magic Quadrant™ for AI Infrastructure",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-07-08T16:24:08.387093+00:00",
+    "published": "2026-07-08T16:00:00+00:00"
+  },
+  "https://devblogs.microsoft.com/typescript/announcing-typescript-7-0": {
+    "title": "Announcing TypeScript 7.0",
+    "source": "MS TypeScript Blog",
+    "first_seen": "2026-07-08T16:24:08.387093+00:00",
+    "published": "2026-07-08T15:58:29+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/securing-amazon-bedrock-agentcore-runtime-with-aws-waf": {
+    "title": "Securing Amazon Bedrock AgentCore Runtime with AWS WAF",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-07-08T16:24:08.387093+00:00",
+    "published": "2026-07-08T15:57:33+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/manage-ai-applications-on-mac-with-jamf-ai-governance-and-amazon-bedrock": {
+    "title": "Manage AI applications on Mac with Jamf’s AI Governance and Amazon Bedrock",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-07-08T16:24:08.387093+00:00",
+    "published": "2026-07-08T15:53:08+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/cut-costs-and-simplify-operations-with-writable-warm-storage-in-amazon-opensearch-service": {
+    "title": "Cut costs and simplify operations with writable warm storage in Amazon OpenSearch Service",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-07-08T16:24:08.387093+00:00",
+    "published": "2026-07-08T15:52:15+00:00"
+  },
+  "https://blog.bytebytego.com/p/the-agent-loop-how-ai-goes-from-answering": {
+    "title": "The Agent Loop: How AI Goes From Answering Questions to Doing Things",
+    "source": "ByteByteGo",
+    "first_seen": "2026-07-08T16:24:08.387093+00:00",
+    "published": "2026-07-08T15:30:07+00:00"
+  },
+  "https://github.com/weirdGuy/kastor": {
+    "title": "Show HN: Kastor – Terraform-style specs for AI agents",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-08T16:24:08.387093+00:00",
+    "published": "2026-07-08T15:25:09+00:00"
+  },
+  "https://www.hmans.dev/blog/chatto-is-open-source": {
+    "title": "Chatto is now Open Source",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-08T16:24:08.387093+00:00",
+    "published": "2026-07-08T15:19:50+00:00"
+  },
+  "https://cloud.google.com/blog/topics/public-sector/gemini-enterprise-for-education-named-a-commander-in-tambellini-starchart-2026-ai-agents-for-administrative-efficiencyagent-platforms": {
+    "title": "Gemini Enterprise for Education named a Commander in Tambellini StarChart™: 2026 AI Agents for Administrative Efficiency—Agent Platforms",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-07-08T16:24:08.387093+00:00",
+    "published": "2026-07-08T15:14:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/security/the-cisos-guide-to-post-quantum-mandates-and-migrations": {
+    "title": "The CISO’s guide to post-quantum mandates and migrations",
+    "source": "AWS Security Blog",
+    "first_seen": "2026-07-08T16:24:08.387093+00:00",
+    "published": "2026-07-08T15:00:05+00:00"
+  },
+  "https://developer.nvidia.com/blog/create-a-langchain-deep-agents-harness-profile-for-nvidia-nemotron-3-ultra-to-improve-performance": {
+    "title": "Create a LangChain Deep Agents Harness Profile for NVIDIA Nemotron 3 Ultra to Improve Performance",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-07-08T16:24:08.387093+00:00",
+    "published": "2026-07-08T15:00:00+00:00"
+  },
+  "https://www.phoronix.com/review/single-dual-memory-linux": {
+    "title": "Single vs. Dual Channel Memory Performance With The Intel Core Ultra 7 270K Plus",
+    "source": "Phoronix",
+    "first_seen": "2026-07-08T16:24:08.387093+00:00",
+    "published": "2026-07-08T14:48:06+00:00"
+  },
+  "https://mistral.ai/news/robostral-navigate": {
+    "title": "Mistral's Robostral Navigate: a state of the art robotics navigation model",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-08T16:24:08.387093+00:00",
+    "published": "2026-07-08T14:09:17+00:00"
+  },
+  "https://thenewstack.io/elastic-agentic-observability-enterprise-adoption": {
+    "title": "Most enterprises will hand root cause analysis to AI agents within two years",
+    "source": "The New Stack",
+    "first_seen": "2026-07-08T16:24:08.387093+00:00",
+    "published": "2026-07-08T14:00:00+00:00"
+  },
+  "https://realpython.com/how-to-use-github": {
+    "title": "How to Use GitHub",
+    "source": "Real Python",
+    "first_seen": "2026-07-08T16:24:08.387093+00:00",
+    "published": "2026-07-08T14:00:00+00:00"
+  },
+  "https://www.tigerdata.com/blog/data-layer-ai-data-center": {
+    "title": "The Data Layer for the AI Data Center",
+    "source": "Timescale Blog",
+    "first_seen": "2026-07-08T16:24:08.387093+00:00",
+    "published": "2026-07-08T13:47:46+00:00"
+  },
+  "https://www.phoronix.com/news/Intel-Ends-Quantum-Intrinsics": {
+    "title": "Intel Sunsets Quantum Intrinsics & Other Open-Source Projects This Week",
+    "source": "Phoronix",
+    "first_seen": "2026-07-08T16:24:08.387093+00:00",
+    "published": "2026-07-08T13:37:39+00:00"
+  },
+  "https://cloud.google.com/blog/products/identity-security/meet-the-33-cybersecurity-startups-joining-the-gemini-startup-forum": {
+    "title": "Meet the 33 cybersecurity startups joining the Gemini Startup Forum",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-07-08T16:24:08.387093+00:00",
+    "published": "2026-07-08T13:30:00+00:00"
+  },
+  "https://nvd.nist.gov/vuln/detail/cve-2026-57589": {
+    "title": "OpenBSD has a use-after-free allowing local privilege escalation to root",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-08T16:24:08.387093+00:00",
+    "published": "2026-07-08T13:24:52+00:00"
+  },
+  "https://blog.cloudflare.com/meerkat-introduction": {
+    "title": "Cloudflare Meerkat - Globally distributed consensus",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-08T16:24:08.387093+00:00",
+    "published": "2026-07-08T13:18:03+00:00"
+  },
+  "https://lwn.net/Articles/1077427": {
+    "title": "[$] Progress in modernizing kernel cryptography",
+    "source": "LWN.net",
+    "first_seen": "2026-07-08T16:24:08.387093+00:00",
+    "published": "2026-07-08T13:14:23+00:00"
+  },
+  "https://www.phoronix.com/news/AMD-ZenDNN-6.0": {
+    "title": "AMD ZenDNN 6.0 Brings Many Improvements For Accelerating Inference On Ryzen/EPYC CPUs",
+    "source": "Phoronix",
+    "first_seen": "2026-07-08T16:24:08.387093+00:00",
+    "published": "2026-07-08T13:07:42+00:00"
+  },
+  "https://www.docker.com/blog/your-laptop-is-the-new-production-environment": {
+    "title": "Your Laptop Is the New Production Environment",
+    "source": "Docker Blog",
+    "first_seen": "2026-07-08T16:24:08.387093+00:00",
+    "published": "2026-07-08T13:00:00+00:00"
+  },
+  "https://thenewstack.io/refiant-protea-swarm-optimization": {
+    "title": "“Nature is the most computationally efficient system we know”: How Refiant used swarm optimization to build a 10-million-token AI model",
+    "source": "The New Stack",
+    "first_seen": "2026-07-08T16:24:08.387093+00:00",
+    "published": "2026-07-08T13:00:00+00:00"
+  },
+  "https://thenewstack.io/entire-git-for-agents": {
+    "title": "Entire is building a Git network for agents",
+    "source": "The New Stack",
+    "first_seen": "2026-07-08T16:24:08.387093+00:00",
+    "published": "2026-07-08T13:00:00+00:00"
+  },
+  "https://lwn.net/Articles/1081798": {
+    "title": "Security updates for Wednesday",
+    "source": "LWN.net",
+    "first_seen": "2026-07-08T16:24:08.387093+00:00",
+    "published": "2026-07-08T12:50:59+00:00"
+  },
+  "https://krebsonsecurity.com/2026/07/felons-fraudsters-flog-offensive-cybersecurity-startup": {
+    "title": "Felons, Fraudsters Flog Offensive Cybersecurity Startup",
+    "source": "Krebs on Security",
+    "first_seen": "2026-07-08T16:24:08.387093+00:00",
+    "published": "2026-07-08T12:31:39+00:00"
+  },
+  "https://www.phoronix.com/news/LinuxMint-Cinnamon-Wayland-Good": {
+    "title": "Wayland No Longer Considered Experimental For Linux Mint's Next Cinnamon Release",
+    "source": "Phoronix",
+    "first_seen": "2026-07-08T16:24:08.387093+00:00",
+    "published": "2026-07-08T12:23:39+00:00"
+  },
+  "https://www.theatlantic.com/magazine/2026/08/reading-crisis-postliterate-age/687618": {
+    "title": "It seems that the age of reading might be a short anomaly in human history",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-08T16:24:08.387093+00:00",
+    "published": "2026-07-08T12:08:37+00:00"
+  },
+  "https://realpython.com/quizzes/how-to-use-github": {
+    "title": "Quiz: How to Use GitHub",
+    "source": "Real Python",
+    "first_seen": "2026-07-08T16:24:08.387093+00:00",
+    "published": "2026-07-08T12:00:00+00:00"
+  },
+  "https://martinfowler.com/articles/exploring-gen-ai/local-models-for-coding-experiences.html": {
+    "title": "Experiences with local models for coding",
+    "source": "Martin Fowler",
+    "first_seen": "2026-07-08T16:24:08.387093+00:00",
+    "published": "2026-07-08T11:57:00+00:00"
+  },
+  "https://www.apple.com/newsroom/2026/07/apple-to-increase-spend-with-broadcom-to-produce-billions-more-us-chips": {
+    "title": "Apple to increase spend with Broadcom to produce billions more U.S. chips",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-08T16:24:08.387093+00:00",
+    "published": "2026-07-08T11:30:56+00:00"
+  },
+  "https://www.schneier.com/blog/archives/2026/07/cybersecurity-and-the-gap-between-skill-and-ability.html": {
+    "title": "Cybersecurity and the Gap Between Skill and Ability",
+    "source": "Schneier on Security",
+    "first_seen": "2026-07-08T16:24:08.387093+00:00",
+    "published": "2026-07-08T11:03:04+00:00"
+  },
+  "https://www.cncf.io/blog/2026/07/08/network-boundary-for-ai-agents-using-nginx-and-opentelemetry": {
+    "title": "Network boundary for AI agents using NGINX and OpenTelemetry",
+    "source": "CNCF Blog",
+    "first_seen": "2026-07-08T16:24:08.387093+00:00",
+    "published": "2026-07-08T11:00:00+00:00"
+  },
+  "https://blog.trailofbits.com/2026/07/08/mutation-testing-comes-to-daml": {
+    "title": "Mutation testing comes to DAML",
+    "source": "Trail of Bits",
+    "first_seen": "2026-07-08T16:24:08.387093+00:00",
+    "published": "2026-07-08T11:00:00+00:00"
+  },
+  "https://www.elastic.co/blog/the-future-of-governing-ai-agents": {
+    "title": "The future of governing AI agents",
+    "source": "Elastic Blog",
+    "first_seen": "2026-07-08T16:24:08.387093+00:00",
+    "published": "2026-07-08T00:00:00+00:00"
+  },
+  "https://huggingface.co/blog/native-speed-vllm-transformers-backend": {
+    "title": "Native-speed vLLM transformers modeling backend",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-07-08T16:24:08.387093+00:00",
+    "published": "2026-07-08T00:00:00+00:00"
   }
 }
