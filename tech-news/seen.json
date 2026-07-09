@@ -52628,5 +52628,173 @@
     "source": "Rust Blog",
     "first_seen": "2026-07-09T17:09:46.645469+00:00",
     "published": "2026-07-09T00:00:00+00:00"
+  },
+  "https://eng.lyft.com/from-day-1-to-production-building-lyfts-analytics-rides-intelligence-assistant-as-onboarding-5c5643c192d9?source=rss----25cd379abb8---4": {
+    "title": "From Day 1 to Production: Building Lyft’s Analytics & Rides Intelligence Assistant as Onboarding…",
+    "source": "Lyft Engineering",
+    "first_seen": "2026-07-09T22:11:41.128819+00:00",
+    "published": "2026-07-09T22:01:15+00:00"
+  },
+  "https://speedcube.com.br": {
+    "title": "Show HN: Rubiks Cube Solver",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-09T22:11:41.128819+00:00",
+    "published": "2026-07-09T21:09:05+00:00"
+  },
+  "https://randofont.alesh.com": {
+    "title": "Show HN: RandoFont – A browser for Google Fonts",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-09T22:11:41.128819+00:00",
+    "published": "2026-07-09T20:46:38+00:00"
+  },
+  "https://www.cncf.io/blog/2026/07/09/navigating-the-ingress-nginx-retirement": {
+    "title": "Navigating the ingress-NGINX retirement",
+    "source": "CNCF Blog",
+    "first_seen": "2026-07-09T22:11:41.128819+00:00",
+    "published": "2026-07-09T20:45:02+00:00"
+  },
+  "https://simonwillison.net/2026/Jul/9/gpt-5-6": {
+    "title": "The new GPT-5.6 family: Luna, Terra, Sol",
+    "source": "Simon Willison",
+    "first_seen": "2026-07-09T22:11:41.128819+00:00",
+    "published": "2026-07-09T19:46:38+00:00"
+  },
+  "https://developer.nvidia.com/blog/synthetic-data-generation-for-financial-ai-research-with-nvidia-nemo": {
+    "title": "Synthetic Data Generation for Financial AI Research with NVIDIA NeMo",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-07-09T22:11:41.128819+00:00",
+    "published": "2026-07-09T19:40:37+00:00"
+  },
+  "https://thenewstack.io/openai-codex-work-atlas": {
+    "title": "OpenAI is folding Codex into the ChatGPT app — and taking aim at Claude Cowork",
+    "source": "The New Stack",
+    "first_seen": "2026-07-09T22:11:41.128819+00:00",
+    "published": "2026-07-09T18:55:19+00:00"
+  },
+  "https://toot-books.pages.dev/blog/glm-5-2-vat-benchmark": {
+    "title": "GLM 5.2 is nearly as accurate as a human book keeper",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-09T22:11:41.128819+00:00",
+    "published": "2026-07-09T18:29:41+00:00"
+  },
+  "https://guides.rubyevents.org/meetups": {
+    "title": "How to Start a Ruby Meetup",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-09T22:11:41.128819+00:00",
+    "published": "2026-07-09T18:27:06+00:00"
+  },
+  "https://thenewstack.io/openai-gpt-56-live": {
+    "title": "OpenAI’s GPT-5.6 is now live",
+    "source": "The New Stack",
+    "first_seen": "2026-07-09T22:11:41.128819+00:00",
+    "published": "2026-07-09T18:16:05+00:00"
+  },
+  "https://www.phoronix.com/review/aws-graviton5": {
+    "title": "Graviton5 CPU Benchmarks: 30% Geo Mean Improvement Over Graviton4",
+    "source": "Phoronix",
+    "first_seen": "2026-07-09T22:11:41.128819+00:00",
+    "published": "2026-07-09T17:53:00+00:00"
+  },
+  "https://thenewstack.io/enterprise-ai-benchmarks-are-broken": {
+    "title": "Enterprise AI benchmarks are broken",
+    "source": "The New Stack",
+    "first_seen": "2026-07-09T22:11:41.128819+00:00",
+    "published": "2026-07-09T17:51:08+00:00"
+  },
+  "https://thenewstack.io/huang-engineers-building-ai-agents": {
+    "title": "Jensen Huang says traditional coding is dead. Here’s what comes next.",
+    "source": "The New Stack",
+    "first_seen": "2026-07-09T22:11:41.128819+00:00",
+    "published": "2026-07-09T17:43:25+00:00"
+  },
+  "https://lucid.earthpilot.ai": {
+    "title": "Show HN: I built a web tool to see and edit what an AI thinks before it answers",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-09T22:11:41.128819+00:00",
+    "published": "2026-07-09T17:36:30+00:00"
+  },
+  "https://alexalejandre.com/programming/interview-with-mitchell-hashimoto": {
+    "title": "Interview with Mitchell Hashimoto about Ghostty and Zig",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-09T22:11:41.128819+00:00",
+    "published": "2026-07-09T17:17:16+00:00"
+  },
+  "https://developer.nvidia.com/blog/a-practical-guide-to-gpu-initiated-communication-for-molecular-dynamics-at-scale": {
+    "title": "A Practical Guide to GPU-Initiated Communication for Molecular Dynamics at Scale",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-07-09T22:11:41.128819+00:00",
+    "published": "2026-07-09T17:15:04+00:00"
+  },
+  "https://simonwillison.net/2026/Jul/9/llm-meta-ai": {
+    "title": "llm-meta-ai 0.1",
+    "source": "Simon Willison",
+    "first_seen": "2026-07-09T22:11:41.128819+00:00",
+    "published": "2026-07-09T16:12:20+00:00"
+  },
+  "https://simonwillison.net/2026/Jul/9/llm": {
+    "title": "llm 0.31.1",
+    "source": "Simon Willison",
+    "first_seen": "2026-07-09T22:11:41.128819+00:00",
+    "published": "2026-07-09T16:06:15+00:00"
+  },
+  "https://grafana.com/blog/business-intelligence-plugins-for-grafana-a-support-update": {
+    "title": "Business intelligence plugins for Grafana: A support update",
+    "source": "Grafana Blog",
+    "first_seen": "2026-07-09T22:11:41.128819+00:00",
+    "published": "2026-07-09T15:52:01+00:00"
+  },
+  "https://mwi.westpoint.edu/the-glass-backbone-why-the-armys-logistics-will-break-in-the-next-war": {
+    "title": "The glass backbone: Why the Army's logistics will break in the next war",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-09T22:11:41.128819+00:00",
+    "published": "2026-07-09T13:24:43+00:00"
+  },
+  "https://scotto.me/blog/2026-07-09-why-lisp": {
+    "title": "A road to Lisp: Why Lisp",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-09T22:11:41.128819+00:00",
+    "published": "2026-07-09T13:06:04+00:00"
+  },
+  "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot": {
+    "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-07-09T22:11:41.128819+00:00",
+    "published": "2026-07-09T13:00:00+00:00"
+  },
+  "https://openai.com/index/bio-bug-bounty": {
+    "title": "GPT-5.5 Bio Bug Bounty",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-07-09T22:11:41.128819+00:00",
+    "published": "2026-07-09T10:00:00+00:00"
+  },
+  "https://neon.com/blog/introducing-neon-api-command": {
+    "title": "Introducing the New Neon API Command",
+    "source": "Neon Blog",
+    "first_seen": "2026-07-09T22:11:41.128819+00:00",
+    "published": "2026-07-09T10:00:00+00:00"
+  },
+  "https://research.google/blog/sensorfm-towards-a-general-intelligence-and-interface-for-wearable-health-data": {
+    "title": "SensorFM: Towards a general intelligence and interface for wearable health data",
+    "source": "Google Research",
+    "first_seen": "2026-07-09T22:11:41.128819+00:00",
+    "published": "2026-07-09T09:56:00+00:00"
+  },
+  "https://blog.sentry.io/logging-best-practices": {
+    "title": "When and what should I be logging?",
+    "source": "Sentry Blog",
+    "first_seen": "2026-07-09T22:11:41.128819+00:00",
+    "published": "2026-07-09T09:00:00+00:00"
+  },
+  "https://machinelearning.apple.com/research/unmasking-on-policy-distillation": {
+    "title": "Unmasking On-Policy Distillation: Where It Helps, Where It Hurts, and Why",
+    "source": "Apple ML Journal",
+    "first_seen": "2026-07-09T22:11:41.128819+00:00",
+    "published": "2026-07-09T00:00:00+00:00"
+  },
+  "https://machinelearning.apple.com/research/self-reflective-program-search": {
+    "title": "Recursive Language Models Meet Uncertainty: The Surprising Effectiveness of Self-Reflective Program Search for Long Context",
+    "source": "Apple ML Journal",
+    "first_seen": "2026-07-09T22:11:41.128819+00:00",
+    "published": "2026-07-09T00:00:00+00:00"
   }
 }
