@@ -52316,5 +52316,317 @@
     "source": "Azure Blog",
     "first_seen": "2026-07-09T11:42:36.633692+00:00",
     "published": "2026-07-08T16:00:00+00:00"
+  },
+  "https://devblogs.microsoft.com/dotnet/modernize-dotnet-in-github-copilot-app": {
+    "title": "Modernize .NET applications in the GitHub Copilot app",
+    "source": "MS .NET Blog",
+    "first_seen": "2026-07-09T17:09:46.645469+00:00",
+    "published": "2026-07-09T17:05:00+00:00"
+  },
+  "https://www.ycombinator.com/companies/wildcard/jobs/ZSLVaaU-founding-engineer": {
+    "title": "Wildcard (YC W25) Is Hiring a Founding Engineer",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-09T17:09:46.645469+00:00",
+    "published": "2026-07-09T17:00:37+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/mcp-tool-design-practical-approaches-and-tradeoffs": {
+    "title": "MCP tool design: Practical approaches and tradeoffs",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-07-09T17:09:46.645469+00:00",
+    "published": "2026-07-09T16:40:16+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/enhancing-enterprise-inference-on-amazon-sagemaker-hyperpod-with-data-capture-hugging-face-nvme-and-route-53-integration": {
+    "title": "Enhancing enterprise inference on Amazon SageMaker HyperPod with data capture, Hugging Face, NVMe, and Route 53 integration",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-07-09T17:09:46.645469+00:00",
+    "published": "2026-07-09T16:38:11+00:00"
+  },
+  "https://newsletter.pragmaticengineer.com/p/the-pulse-what-can-we-learn-from": {
+    "title": "The Pulse: What can we learn from Bun’s rapid Rust rewrite with AI?",
+    "source": "The Pragmatic Engineer",
+    "first_seen": "2026-07-09T17:09:46.645469+00:00",
+    "published": "2026-07-09T16:32:18+00:00"
+  },
+  "https://cloud.google.com/blog/topics/developers-practitioners/google-cloud-run-sandboxes-are-in-public-preview": {
+    "title": "Safely run AI-generated code in Cloud Run sandboxes",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-07-09T17:09:46.645469+00:00",
+    "published": "2026-07-09T16:30:00+00:00"
+  },
+  "https://github.blog/security/application-security/how-github-gave-every-repository-a-durable-owner": {
+    "title": "How GitHub gave every repository a durable owner",
+    "source": "GitHub Blog",
+    "first_seen": "2026-07-09T17:09:46.645469+00:00",
+    "published": "2026-07-09T16:29:37+00:00"
+  },
+  "https://aws.amazon.com/blogs/containers/migrate-amazon-ec2-to-eks-auto-mode-using-kiro-cli-and-mcp-servers": {
+    "title": "Migrate Amazon EC2 to EKS Auto Mode using Kiro CLI and MCP servers",
+    "source": "AWS Containers Blog",
+    "first_seen": "2026-07-09T17:09:46.645469+00:00",
+    "published": "2026-07-09T16:24:54+00:00"
+  },
+  "https://simonwillison.net/2026/Jul/9/muse-spark-1-1": {
+    "title": "Introducing Muse Spark 1.1",
+    "source": "Simon Willison",
+    "first_seen": "2026-07-09T17:09:46.645469+00:00",
+    "published": "2026-07-09T16:24:09+00:00"
+  },
+  "https://elifesciences.org/articles/107088": {
+    "title": "Auditory and spontaneous movement responses to music over first postnatal year",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-09T17:09:46.645469+00:00",
+    "published": "2026-07-09T16:00:58+00:00"
+  },
+  "https://thenewstack.io/sbom-sniff-test-hardened-images": {
+    "title": "Why a five-minute sniff test is your secret supply chain defense",
+    "source": "The New Stack",
+    "first_seen": "2026-07-09T17:09:46.645469+00:00",
+    "published": "2026-07-09T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/ai-machine-learning/alphaevolve-is-available-for-everyone": {
+    "title": "Solve harder problems with AlphaEvolve, now available to everyone on Google Cloud",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-07-09T17:09:46.645469+00:00",
+    "published": "2026-07-09T16:00:00+00:00"
+  },
+  "https://www.pangram.com/blog/ai-in-your-feed": {
+    "title": "AI content is everywhere on social media, especially LinkedIn",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-09T17:09:46.645469+00:00",
+    "published": "2026-07-09T15:50:09+00:00"
+  },
+  "https://www.phoronix.com/news/Wayland-1.26-RC1": {
+    "title": "Wayland 1.26 RC1 Released With New Event To Help Ensure Correct Pointer Coordinates",
+    "source": "Phoronix",
+    "first_seen": "2026-07-09T17:09:46.645469+00:00",
+    "published": "2026-07-09T15:47:43+00:00"
+  },
+  "https://news.ycombinator.com/item?id=48847834": {
+    "title": "Show HN: Reverse-engineering web apps into agent tools",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-09T17:09:46.645469+00:00",
+    "published": "2026-07-09T15:45:17+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/accelerate-database-modernization-with-agentic-ai-in-aws-dms-schema-conversion": {
+    "title": "Accelerate database modernization with agentic AI in AWS DMS Schema Conversion",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-07-09T17:09:46.645469+00:00",
+    "published": "2026-07-09T15:32:12+00:00"
+  },
+  "https://blog.bytebytego.com/p/streaming-vs-batch-two-philosophies": {
+    "title": "Streaming vs Batch: Two Philosophies of Data Processing",
+    "source": "ByteByteGo",
+    "first_seen": "2026-07-09T17:09:46.645469+00:00",
+    "published": "2026-07-09T15:31:10+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/diagnose-and-resolve-replica-lag-in-amazon-rds-for-oracle-replicas-part-2": {
+    "title": "Diagnose and resolve replica lag in Amazon RDS for Oracle replicas – Part 2",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-07-09T17:09:46.645469+00:00",
+    "published": "2026-07-09T15:31:00+00:00"
+  },
+  "https://www.context.dev": {
+    "title": "Launch HN: Context.dev (YC S26) – API to get structured data from any website",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-09T17:09:46.645469+00:00",
+    "published": "2026-07-09T15:28:39+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/optimize-replication-lag-for-amazon-rds-for-oracle-replicas-using-redo-compression-part-1": {
+    "title": "Optimize replication lag for Amazon RDS for Oracle replicas using redo compression – Part 1",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-07-09T17:09:46.645469+00:00",
+    "published": "2026-07-09T15:28:25+00:00"
+  },
+  "https://hy.tencent.com/research/hy3": {
+    "title": "Hy3",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-09T17:09:46.645469+00:00",
+    "published": "2026-07-09T15:27:48+00:00"
+  },
+  "https://blog.dannycastonguay.com/how-to-write-an-email": {
+    "title": "How to Write an Email",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-09T17:09:46.645469+00:00",
+    "published": "2026-07-09T15:26:52+00:00"
+  },
+  "https://www.damninteresting.com/a-possible-future": {
+    "title": "A possible future for Damn Interesting",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-09T17:09:46.645469+00:00",
+    "published": "2026-07-09T15:25:25+00:00"
+  },
+  "https://lazypi.org": {
+    "title": "Opinionated and Easy Pi.dev Configuration",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-09T17:09:46.645469+00:00",
+    "published": "2026-07-09T15:19:33+00:00"
+  },
+  "https://isonomiaquarterly.com/wp-content/uploads/2026/06/iq-4.2-summer-2026-macdonald-coordination-without-consolidation.pdf": {
+    "title": "Coordination Without Consolidation: On Systems of States [pdf]",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-09T17:09:46.645469+00:00",
+    "published": "2026-07-09T15:19:23+00:00"
+  },
+  "https://www.ben-evans.com/benedictevans/2026/7/9/ways-to-think-about-token-pricing": {
+    "title": "Ways to think about token pricing",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-09T17:09:46.645469+00:00",
+    "published": "2026-07-09T15:06:52+00:00"
+  },
+  "https://thenewstack.io/krumware-epinio-kubernetes-mcp": {
+    "title": "Develop like you deploy: closing the Kubernetes local-to-cluster gap",
+    "source": "The New Stack",
+    "first_seen": "2026-07-09T17:09:46.645469+00:00",
+    "published": "2026-07-09T15:00:00+00:00"
+  },
+  "https://tuxnet.dev/posts/tls-for-internal-services": {
+    "title": "TLS certificates for internal services done right",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-09T17:09:46.645469+00:00",
+    "published": "2026-07-09T14:57:02+00:00"
+  },
+  "https://usewire.io/engineering/why-were-moving-wire-off-cloudflare-durable-objects": {
+    "title": "Why we're moving off Cloudflare Durable Objects",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-09T17:09:46.645469+00:00",
+    "published": "2026-07-09T14:45:04+00:00"
+  },
+  "https://analog.watch": {
+    "title": "Show HN: Analog Watch",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-09T17:09:46.645469+00:00",
+    "published": "2026-07-09T14:30:54+00:00"
+  },
+  "https://lwn.net/Articles/1080821": {
+    "title": "[$] Kitty chases the mouse",
+    "source": "LWN.net",
+    "first_seen": "2026-07-09T17:09:46.645469+00:00",
+    "published": "2026-07-09T14:25:18+00:00"
+  },
+  "https://mitpress.mit.edu/9780262053198/simpolitics": {
+    "title": "New open access book on history of computers and politics",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-09T17:09:46.645469+00:00",
+    "published": "2026-07-09T14:20:14+00:00"
+  },
+  "https://github.com/PostHog/posthog-foss": {
+    "title": "PostHog Open Sourced",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-09T17:09:46.645469+00:00",
+    "published": "2026-07-09T14:17:40+00:00"
+  },
+  "https://datacenter.iers.org/data/latestVersion/bulletinC.txt": {
+    "title": "No leap second will be introduced at the end of December 2026",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-09T17:09:46.645469+00:00",
+    "published": "2026-07-09T14:16:34+00:00"
+  },
+  "https://www.youtube.com/watch?v=-hua8RWopfw": {
+    "title": "Maxwell's Equations Were Discovered [video]",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-09T17:09:46.645469+00:00",
+    "published": "2026-07-09T14:16:17+00:00"
+  },
+  "https://ai.meta.com/blog/introducing-muse-spark-meta-model-api": {
+    "title": "Introducing Muse Spark 1.1",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-09T17:09:46.645469+00:00",
+    "published": "2026-07-09T14:10:22+00:00"
+  },
+  "https://blog.cloudflare.com/ml-dsa-will-have-to-do": {
+    "title": "Why we cannot wait for better post-quantum signature algorithms",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-07-09T17:09:46.645469+00:00",
+    "published": "2026-07-09T14:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-Delay-D3cold-Patch-Fix": {
+    "title": "Proposed Linux Patch For A Brief Delay To Match PCI Spec Will Hopefully Address Some Bugs",
+    "source": "Phoronix",
+    "first_seen": "2026-07-09T17:09:46.645469+00:00",
+    "published": "2026-07-09T13:35:01+00:00"
+  },
+  "https://arstechnica.com/gadgets/2026/07/us-seeks-cheaper-hunter-killer-drones-after-iran-destroys-1b-worth-of-reapers": {
+    "title": "US seeks cheaper hunter-killer drones after Iran destroys $1B worth of Reapers",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-09T17:09:46.645469+00:00",
+    "published": "2026-07-09T13:29:31+00:00"
+  },
+  "https://lwn.net/Articles/1082032": {
+    "title": "Rust 1.97.0 released",
+    "source": "LWN.net",
+    "first_seen": "2026-07-09T17:09:46.645469+00:00",
+    "published": "2026-07-09T13:19:01+00:00"
+  },
+  "https://www.phoronix.com/news/ThinkPad-USB-C-Restricted-Mode": {
+    "title": "Linux Prepares For New USB-C Security Feature On Lenovo ThinkPads",
+    "source": "Phoronix",
+    "first_seen": "2026-07-09T17:09:46.645469+00:00",
+    "published": "2026-07-09T13:02:38+00:00"
+  },
+  "https://lwn.net/Articles/1082030": {
+    "title": "Security updates for Thursday",
+    "source": "LWN.net",
+    "first_seen": "2026-07-09T17:09:46.645469+00:00",
+    "published": "2026-07-09T13:00:11+00:00"
+  },
+  "https://thenewstack.io/silent-llm-hallucination-loop": {
+    "title": "The “silent hallucination” loop: how our autonomous data pipeline poisoned its own vector store",
+    "source": "The New Stack",
+    "first_seen": "2026-07-09T17:09:46.645469+00:00",
+    "published": "2026-07-09T13:00:00+00:00"
+  },
+  "https://thenewstack.io/agentic-ai-observability-operations": {
+    "title": "Agentic AI in observability: accelerating root cause analysis",
+    "source": "The New Stack",
+    "first_seen": "2026-07-09T17:09:46.645469+00:00",
+    "published": "2026-07-09T13:00:00+00:00"
+  },
+  "https://thenewstack.io/openclaw-foundation-nonprofit-status": {
+    "title": "“The Switzerland of AI”: OpenClaw becomes a non-profit foundation",
+    "source": "The New Stack",
+    "first_seen": "2026-07-09T17:09:46.645469+00:00",
+    "published": "2026-07-09T12:44:35+00:00"
+  },
+  "https://realpython.com/quizzes/python-enum": {
+    "title": "Quiz: Build Enumerations of Constants With Python's Enum",
+    "source": "Real Python",
+    "first_seen": "2026-07-09T17:09:46.645469+00:00",
+    "published": "2026-07-09T12:00:00+00:00"
+  },
+  "https://openai.com/index/gpt-5-6": {
+    "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-07-09T17:09:46.645469+00:00",
+    "published": "2026-07-09T10:00:00+00:00"
+  },
+  "https://openai.com/index/chatgpt-for-your-most-ambitious-work": {
+    "title": "ChatGPT is now a partner for your most ambitious work",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-07-09T17:09:46.645469+00:00",
+    "published": "2026-07-09T10:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/topics/developers-practitioners/autopilot-clusters-with-gke-managed-dranet-gpus-and-tpus": {
+    "title": "Autopilot Clusters with GKE managed DRANET: GPUs and TPUs",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-07-09T17:09:46.645469+00:00",
+    "published": "2026-07-09T07:00:00+00:00"
+  },
+  "https://nodeweekly.com/issues/632": {
+    "title": "npm v12 and TypeScript 7 released",
+    "source": "Node Weekly",
+    "first_seen": "2026-07-09T17:09:46.645469+00:00",
+    "published": "2026-07-09T00:00:00+00:00"
+  },
+  "https://machinelearning.apple.com/research/incentivizing-temporal-awareness-egocentric": {
+    "title": "Incentivizing Temporal-Awareness in Egocentric Video Understanding Models",
+    "source": "Apple ML Journal",
+    "first_seen": "2026-07-09T17:09:46.645469+00:00",
+    "published": "2026-07-09T00:00:00+00:00"
+  },
+  "https://blog.rust-lang.org/2026/07/09/Rust-1.97.0": {
+    "title": "Announcing Rust 1.97.0",
+    "source": "Rust Blog",
+    "first_seen": "2026-07-09T17:09:46.645469+00:00",
+    "published": "2026-07-09T00:00:00+00:00"
   }
 }
