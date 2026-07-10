@@ -52796,5 +52796,155 @@
     "source": "Apple ML Journal",
     "first_seen": "2026-07-09T22:11:41.128819+00:00",
     "published": "2026-07-09T00:00:00+00:00"
+  },
+  "https://www.schneier.com/blog/archives/2026/07/ai-surveillance-and-social-progress.html": {
+    "title": "AI Surveillance and Social Progress",
+    "source": "Schneier on Security",
+    "first_seen": "2026-07-10T11:40:25.664355+00:00",
+    "published": "2026-07-10T11:02:04+00:00"
+  },
+  "https://ec.europa.eu/commission/presscorner/home/en": {
+    "title": "EU Commission: addictive design Instagram and Facebook in breach of the DSA",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-10T11:40:25.664355+00:00",
+    "published": "2026-07-10T11:00:15+00:00"
+  },
+  "https://thenewstack.io/zero-cve-supply-chain-risk": {
+    "title": "Why zero vulnerability code packages could still be your biggest software supply chain risk",
+    "source": "The New Stack",
+    "first_seen": "2026-07-10T11:40:25.664355+00:00",
+    "published": "2026-07-10T11:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-DT-Apple-M3-Pro-Max-Ultra": {
+    "title": "Linux DT Patches Provide Very Basic Support For Apple M3 Pro / Max / Ultra",
+    "source": "Phoronix",
+    "first_seen": "2026-07-10T11:40:25.664355+00:00",
+    "published": "2026-07-10T10:26:14+00:00"
+  },
+  "https://www.phoronix.com/news/Intel-HiZ-Plane-Optimization": {
+    "title": "HiZ Plane Optimization Merged For Intel Vulkan Linux Driver For Some Performance Benefit",
+    "source": "Phoronix",
+    "first_seen": "2026-07-10T11:40:25.664355+00:00",
+    "published": "2026-07-10T10:13:27+00:00"
+  },
+  "https://www.phoronix.com/news/LLVM-Clang-NVIDIA-Rosa-Rigel": {
+    "title": "LLVM Clang Merges Initial Support For NVIDIA Rigel Core With Next-Gen Rosa CPU",
+    "source": "Phoronix",
+    "first_seen": "2026-07-10T11:40:25.664355+00:00",
+    "published": "2026-07-10T09:52:43+00:00"
+  },
+  "https://www.phoronix.com/news/Intel-Scaler-vLLM-0.21-b1": {
+    "title": "Intel-Scaler-vLLM 0.21.0-b1 Delivers Latest Features For vLLM On Intel GPUs",
+    "source": "Phoronix",
+    "first_seen": "2026-07-10T11:40:25.664355+00:00",
+    "published": "2026-07-10T09:41:43+00:00"
+  },
+  "https://www.databricks.com/blog/ambulatory-intelligence-gap": {
+    "title": "The Ambulatory Intelligence Gap",
+    "source": "Databricks Blog",
+    "first_seen": "2026-07-10T11:40:25.664355+00:00",
+    "published": "2026-07-10T09:00:00+00:00"
+  },
+  "http://yummymelon.com/devnull/in-emacs-everything-looks-like-a-service.html": {
+    "title": "In Emacs, Everything Looks Like a Service",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-10T11:40:25.664355+00:00",
+    "published": "2026-07-10T08:21:10+00:00"
+  },
+  "https://stackoverflow.blog/2026/07/10/building-more-than-just-an-agent-harness": {
+    "title": "Building more than just an agent harness​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌‌‍‌​​﻿‌‌​﻿​﻿‌‍‌‍​﻿‍‌​﻿​﻿​﻿‌‌​﻿‍​​‍﻿‌​﻿​﻿‌‍​‍‌‍​‍​﻿​‍​‍﻿‌​﻿‌​‌‍‌‍​﻿‌‍​﻿‍‌​‍﻿‌‌‍​‌‌‍‌‌‌‍​‍‌‍‌‌​‍﻿‌‌‍‌​​﻿​﻿​﻿​‌‌‍‌​​﻿​‌​﻿‍‌​﻿‌‌​﻿​‍​﻿​‍‌‍​﻿‌‍‌​​﻿‌​​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌‌‍‌​​﻿‌‌​﻿​﻿‌‍‌‍​﻿‍‌​﻿​﻿​﻿‌‌​﻿‍​​‍﻿‌​﻿​﻿‌‍​‍‌‍​‍​﻿​‍​‍﻿‌​﻿‌​‌‍‌‍​﻿‌‍​﻿‍‌​‍﻿‌‌‍​‌‌‍‌‌‌‍​‍‌‍‌‌​‍﻿‌‌‍‌​​﻿​﻿​﻿​‌‌‍‌​​﻿​‌​﻿‍‌​﻿‌‌​﻿​‍​﻿​‍‌‍​﻿‌‍‌​​﻿‌​​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌",
+    "source": "Stack Overflow Blog",
+    "first_seen": "2026-07-10T11:40:25.664355+00:00",
+    "published": "2026-07-10T07:40:00+00:00"
+  },
+  "https://nevo-project.epfl.ch": {
+    "title": "AI-generated videos to maximally drive a target brain region",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-10T11:40:25.664355+00:00",
+    "published": "2026-07-10T07:39:11+00:00"
+  },
+  "https://openai.com/index/deutsche-telekom": {
+    "title": "How Deutsche Telekom is rewiring telecommunications with AI",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-07-10T11:40:25.664355+00:00",
+    "published": "2026-07-10T07:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/Premium-Summer-26-Ending": {
+    "title": "Phoronix Premium 2026 Summer Support Special Ends Tonight",
+    "source": "Phoronix",
+    "first_seen": "2026-07-10T11:40:25.664355+00:00",
+    "published": "2026-07-10T04:00:00+00:00"
+  },
+  "https://simonwillison.net/2026/Jul/10/openai": {
+    "title": "Quoting OpenAI",
+    "source": "Simon Willison",
+    "first_seen": "2026-07-10T11:40:25.664355+00:00",
+    "published": "2026-07-10T01:05:57+00:00"
+  },
+  "https://www.phoronix.com/news/AMDGPU-DC-Enabling-CACP": {
+    "title": "AMD Enabling CACP Feature On Linux For Greater OLED Power Savings",
+    "source": "Phoronix",
+    "first_seen": "2026-07-10T11:40:25.664355+00:00",
+    "published": "2026-07-10T00:51:44+00:00"
+  },
+  "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1766665/full": {
+    "title": "Parental device use and the adolescent-caregiver attachment bond",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-10T11:40:25.664355+00:00",
+    "published": "2026-07-10T00:20:28+00:00"
+  },
+  "https://huggingface.co/blog/torch-attention-profile": {
+    "title": "Profiling in PyTorch (Part 3): Attention is all you profile",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-07-10T11:40:25.664355+00:00",
+    "published": "2026-07-10T00:00:00+00:00"
+  },
+  "https://engineering.grab.com/our-journey-to-apache-iceberg-adoption": {
+    "title": "Scaling Grab's Data Lake: Our journey to Apache Iceberg adoption",
+    "source": "Grab Tech",
+    "first_seen": "2026-07-10T11:40:25.664355+00:00",
+    "published": "2026-07-10T00:00:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/security/introducing-oauth-support-for-aws-mcp-server": {
+    "title": "Introducing OAuth Support for AWS MCP Server",
+    "source": "AWS Security Blog",
+    "first_seen": "2026-07-10T11:40:25.664355+00:00",
+    "published": "2026-07-09T23:43:47+00:00"
+  },
+  "https://aws.amazon.com/blogs/architecture/specification-driven-composition-for-flexible-data-workflows": {
+    "title": "Specification-driven composition for flexible data workflows",
+    "source": "AWS Architecture Blog",
+    "first_seen": "2026-07-10T11:40:25.664355+00:00",
+    "published": "2026-07-09T22:27:31+00:00"
+  },
+  "https://thenewstack.io/meta-muse-spark-api": {
+    "title": "Meta debuts Muse Spark 1.1 — its first paid AI model",
+    "source": "The New Stack",
+    "first_seen": "2026-07-10T11:40:25.664355+00:00",
+    "published": "2026-07-09T22:22:15+00:00"
+  },
+  "https://davidoks.blog/p/why-american-ambulance-rides-are": {
+    "title": "Why American ambulance rides are so expensive",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-10T11:40:25.664355+00:00",
+    "published": "2026-07-09T22:15:56+00:00"
+  },
+  "https://www.ello.com/blog/teaching-a-child-in-1000-ms": {
+    "title": "Building a real-time AI tutor for 5-year-olds",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-10T11:40:25.664355+00:00",
+    "published": "2026-07-09T20:51:06+00:00"
+  },
+  "https://18words.com": {
+    "title": "Show HN: 18 Words",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-10T11:40:25.664355+00:00",
+    "published": "2026-07-09T12:48:52+00:00"
+  },
+  "https://news.ycombinator.com/item?id=48844517": {
+    "title": "TrueBiz (YC S22) – Senior Software Engineer – Remote (US) – Full-Time",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-10T11:40:25.664355+00:00",
+    "published": "2026-07-09T12:01:17+00:00"
   }
 }
