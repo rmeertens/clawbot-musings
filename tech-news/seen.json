@@ -53210,5 +53210,155 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-07-10T16:49:20.908028+00:00",
     "published": "2026-07-09T14:54:34+00:00"
+  },
+  "https://www.ycombinator.com/companies/moss/jobs/52LnqLQ-software-engineer-sdk": {
+    "title": "Moss (YC F25) Is Hiring",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-10T21:48:48.312729+00:00",
+    "published": "2026-07-10T21:11:18+00:00"
+  },
+  "https://www.schneier.com/blog/archives/2026/07/friday-squid-blogging-squidbleed-vulnerability.html": {
+    "title": "Friday Squid Blogging: “Squidbleed” Vulnerability",
+    "source": "Schneier on Security",
+    "first_seen": "2026-07-10T21:48:48.312729+00:00",
+    "published": "2026-07-10T21:07:13+00:00"
+  },
+  "https://www.tryai.dev/blog/gpt-5.6-build-off-12-models": {
+    "title": "GPT-5.6, Grok 4.5, Claude, and Muse Spark build the same 4 apps",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-10T21:48:48.312729+00:00",
+    "published": "2026-07-10T20:52:28+00:00"
+  },
+  "https://www.nytimes.com/2026/07/10/business/atlassian-tech-worker-wrongful-termination.html": {
+    "title": "Software Engineer's Firing Ruled Illegal in a Rare Win for a Tech Worker",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-10T21:48:48.312729+00:00",
+    "published": "2026-07-10T20:29:55+00:00"
+  },
+  "https://discuss.ai.google.dev/t/please-dont-discontinue-gemini-2-5-flash/174246": {
+    "title": "Don't discontinue Gemini 2.5 Flash",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-10T21:48:48.312729+00:00",
+    "published": "2026-07-10T20:00:28+00:00"
+  },
+  "https://lwn.net/SubscriberLink/1080822/990a8a5e2d379085": {
+    "title": "An Update on the scraper situation",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-10T21:48:48.312729+00:00",
+    "published": "2026-07-10T19:38:34+00:00"
+  },
+  "https://www.atomscale.ai/updates/our-thesis-atom-to-scale": {
+    "title": "Materials innovation has a scale-up problem, not discovery",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-10T21:48:48.312729+00:00",
+    "published": "2026-07-10T19:03:36+00:00"
+  },
+  "https://www.databricks.com/blog/agentic-marketing-stack-starts-data-layer": {
+    "title": "The agentic marketing stack starts with the data layer",
+    "source": "Databricks Blog",
+    "first_seen": "2026-07-10T21:48:48.312729+00:00",
+    "published": "2026-07-10T19:00:00+00:00"
+  },
+  "https://casp.ac/reports/ai-enabled-terrorism": {
+    "title": "How the terrorist group Boko Haram uses frontier AI",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-10T21:48:48.312729+00:00",
+    "published": "2026-07-10T18:49:26+00:00"
+  },
+  "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf": {
+    "title": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-10T21:48:48.312729+00:00",
+    "published": "2026-07-10T18:29:19+00:00"
+  },
+  "https://www.theguardian.com/us-news/2026/jul/10/new-york-city-deceptive-subscriptions-ban": {
+    "title": "New York City to become first in US to ban deceptive subscription practices",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-10T21:48:48.312729+00:00",
+    "published": "2026-07-10T18:26:24+00:00"
+  },
+  "https://developer.nvidia.com/blog/reducing-high-bandwidth-memory-bottlenecks-in-jax-based-llm-training-with-host-offloading": {
+    "title": "Reducing High-Bandwidth Memory Bottlenecks in JAX-Based LLM Training with Host Offloading",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-07-10T21:48:48.312729+00:00",
+    "published": "2026-07-10T18:17:40+00:00"
+  },
+  "https://waratlas.org": {
+    "title": "War Atlas: An interactive cartography of every named war in human history",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-10T21:48:48.312729+00:00",
+    "published": "2026-07-10T17:52:48+00:00"
+  },
+  "https://aws.amazon.com/blogs/compute/architecting-for-iops-and-throughput-performance-on-aws-outposts-racks": {
+    "title": "Architecting for IOPS and throughput performance on AWS Outposts racks",
+    "source": "AWS Compute Blog",
+    "first_seen": "2026-07-10T21:48:48.312729+00:00",
+    "published": "2026-07-10T17:10:39+00:00"
+  },
+  "https://simonwillison.net/2026/Jul/10/nilay-patel": {
+    "title": "Quoting Nilay Patel",
+    "source": "Simon Willison",
+    "first_seen": "2026-07-10T21:48:48.312729+00:00",
+    "published": "2026-07-10T17:05:26+00:00"
+  },
+  "https://thenewstack.io/meta-iris-ai-chip": {
+    "title": "Meta’s Iris push signals the next phase of AI infrastructure",
+    "source": "The New Stack",
+    "first_seen": "2026-07-10T21:48:48.312729+00:00",
+    "published": "2026-07-10T17:02:09+00:00"
+  },
+  "https://stratechery.com/2026/xbox-on-the-rocks": {
+    "title": "2026.28: XBOX On the Rocks",
+    "source": "Stratechery",
+    "first_seen": "2026-07-10T21:48:48.312729+00:00",
+    "published": "2026-07-10T17:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/identity-security/contributing-to-uk-financial-sector-resilience-as-a-critical-third-party": {
+    "title": "Contributing to U.K. financial sector resilience as a critical third party",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-07-10T21:48:48.312729+00:00",
+    "published": "2026-07-10T17:00:00+00:00"
+  },
+  "https://vfxblog.com/2017/08/23/the-tech-of-terminator-2-an-oral-history": {
+    "title": "The tech of 'Terminator 2' – an oral history (2017)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-10T21:48:48.312729+00:00",
+    "published": "2026-07-10T16:48:41+00:00"
+  },
+  "https://www.databricks.com/blog/introducing-feature-views": {
+    "title": "Introducing Feature Views",
+    "source": "Databricks Blog",
+    "first_seen": "2026-07-10T21:48:48.312729+00:00",
+    "published": "2026-07-10T16:46:11+00:00"
+  },
+  "https://www.smithsonianmag.com/smart-news/spider-silk-loses-top-spot-natures-strongest-material-snails-teeth-180954346": {
+    "title": "Snails' teeth beats spider silk as nature's strongest material (2015)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-10T21:48:48.312729+00:00",
+    "published": "2026-07-10T16:37:52+00:00"
+  },
+  "https://github.com/Cpp2Rust/cpp2rust": {
+    "title": "Cpp2Rust: Translates C++ to safe Rust automatically",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-10T21:48:48.312729+00:00",
+    "published": "2026-07-10T16:24:20+00:00"
+  },
+  "https://www.microcenter.com/site/mc-news/article/amd-ryzen-ai-halo-review.aspx": {
+    "title": "Hands-On with the AMD Ryzen AI Halo",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-10T21:48:48.312729+00:00",
+    "published": "2026-07-10T16:06:38+00:00"
+  },
+  "https://ergo.org/courses/computation-as-a-universal-and-fundamental-concept": {
+    "title": "Computation as a universal and fundamental concept",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-10T21:48:48.312729+00:00",
+    "published": "2026-07-10T15:23:42+00:00"
+  },
+  "https://www.databricks.com/blog/ask-build-compose-what-our-5th-genie-hackathon-taught-us-about-databricks-genie": {
+    "title": "Ask, build, compose: What our 5th Genie Hackathon taught us about Databricks Genie",
+    "source": "Databricks Blog",
+    "first_seen": "2026-07-10T21:48:48.312729+00:00",
+    "published": "2026-07-09T22:58:01+00:00"
   }
 }
