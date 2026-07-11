@@ -53444,5 +53444,83 @@
     "source": "Azure Blog",
     "first_seen": "2026-07-11T10:07:36.462957+00:00",
     "published": "2026-07-09T17:00:00+00:00"
+  },
+  "https://blog.bytebytego.com/p/ep221-how-docker-works-under-the": {
+    "title": "EP221: How Docker Works Under the Hood",
+    "source": "ByteByteGo",
+    "first_seen": "2026-07-11T15:42:34.016613+00:00",
+    "published": "2026-07-11T15:30:14+00:00"
+  },
+  "https://www.phoronix.com/news/Debian-13.6-Released": {
+    "title": "Debian 13.6 Released To Ship All The Latest Security Fixes, Reverts GeoIP Database",
+    "source": "Phoronix",
+    "first_seen": "2026-07-11T15:42:34.016613+00:00",
+    "published": "2026-07-11T14:31:23+00:00"
+  },
+  "https://thenewstack.io/microsoft-agent-framework-go": {
+    "title": "Microsoft joins Google in backing Go for AI agents — OpenAI and Anthropic lag",
+    "source": "The New Stack",
+    "first_seen": "2026-07-11T15:42:34.016613+00:00",
+    "published": "2026-07-11T14:00:00+00:00"
+  },
+  "https://languagelog.ldc.upenn.edu/myl/Good1964.pdf": {
+    "title": "Speculations Concerning the First Ultraintelligent Machine (1965) [pdf]",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-11T15:42:34.016613+00:00",
+    "published": "2026-07-11T13:33:17+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.3-rc3-Multi-GPU-Fix": {
+    "title": "Linux 7.2-rc3 Bringing Display Detection Improvement To Help Some Multi-GPU Systems",
+    "source": "Phoronix",
+    "first_seen": "2026-07-11T15:42:34.016613+00:00",
+    "published": "2026-07-11T13:20:01+00:00"
+  },
+  "https://lethain.com/make-no-assumptions": {
+    "title": "Make no assumptions.",
+    "source": "Will Larson",
+    "first_seen": "2026-07-11T15:42:34.016613+00:00",
+    "published": "2026-07-11T13:00:00+00:00"
+  },
+  "https://fazamhd.com/mental-models/networking": {
+    "title": "Networking and the Internet, from First Principles",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-11T15:42:34.016613+00:00",
+    "published": "2026-07-11T12:30:40+00:00"
+  },
+  "https://theconversation.com/the-u-s-just-approved-a-giant-space-mirror-to-test-sunlight-on-demand-low-earth-orbit-is-getting-weird-283482": {
+    "title": "FCC approves test of space mirror to light night sky",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-11T15:42:34.016613+00:00",
+    "published": "2026-07-11T12:12:34+00:00"
+  },
+  "https://www.construction-physics.com/p/reading-list-071126": {
+    "title": "Reading List 07/11/26",
+    "source": "Construction Physics",
+    "first_seen": "2026-07-11T15:42:34.016613+00:00",
+    "published": "2026-07-11T12:01:33+00:00"
+  },
+  "https://tiki.li/blog/lucky_code.html": {
+    "title": "Your code is fast – if you're lucky",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-11T15:42:34.016613+00:00",
+    "published": "2026-07-11T10:50:10+00:00"
+  },
+  "https://thenewstack.io/openai-spacexai-meta-price-war": {
+    "title": "In 24 hours, OpenAI, SpaceXAI, and Meta turned AI into a race to the bottom on price",
+    "source": "The New Stack",
+    "first_seen": "2026-07-11T15:42:34.016613+00:00",
+    "published": "2026-07-11T10:30:00+00:00"
+  },
+  "https://www.phoronix.com/news/LLVM-x86-LFI-Merged": {
+    "title": "LLVM Merges x86 LFI \"Lightweight Fault Isolation\" Target For In-Process Sandboxing",
+    "source": "Phoronix",
+    "first_seen": "2026-07-11T15:42:34.016613+00:00",
+    "published": "2026-07-11T10:12:09+00:00"
+  },
+  "https://www.mixfont.com/ghost-font": {
+    "title": "Ghost Font: A font that humans can read but AI cannot",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-11T15:42:34.016613+00:00",
+    "published": "2026-07-11T09:36:53+00:00"
   }
 }
