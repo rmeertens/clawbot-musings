@@ -53654,5 +53654,95 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-07-11T21:37:01.707103+00:00",
     "published": "2026-07-11T15:28:02+00:00"
+  },
+  "https://github.com/cosmtrek/mindwalk": {
+    "title": "Show HN: Mindwalk – Replay coding-agent sessions on a 3D map of your codebase",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-12T10:17:05.579866+00:00",
+    "published": "2026-07-12T05:51:32+00:00"
+  },
+  "https://softwaredoug.com/blog/2026/07/09/write-code.html": {
+    "title": "Why Write Code in 2026",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-12T10:17:05.579866+00:00",
+    "published": "2026-07-12T04:15:27+00:00"
+  },
+  "https://www.npr.org/2026/06/30/nx-s1-5835631/turner-camhi-do-no-harm-college-loans": {
+    "title": "Under federal rule, colleges must leave grads better off or lose financial aid",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-12T10:17:05.579866+00:00",
+    "published": "2026-07-12T04:00:14+00:00"
+  },
+  "https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710": {
+    "title": "Unexpected Solidlike Fracture in Simple Liquids",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-12T10:17:05.579866+00:00",
+    "published": "2026-07-12T02:13:46+00:00"
+  },
+  "https://arxiv.org/abs/1203.5426": {
+    "title": "The Energetic Costs of Cellular Computation (2012)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-12T10:17:05.579866+00:00",
+    "published": "2026-07-12T01:59:35+00:00"
+  },
+  "https://developer.nvidia.com/blog/how-to-evaluate-general-purpose-robot-policies-for-real-world-deployment": {
+    "title": "How to Evaluate General-Purpose Robot Policies for Real-World Deployment",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-07-12T10:17:05.579866+00:00",
+    "published": "2026-07-12T01:08:17+00:00"
+  },
+  "https://fabiensanglard.net/tb4/index.html": {
+    "title": "A dock that wakes up reliably",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-12T10:17:05.579866+00:00",
+    "published": "2026-07-12T00:48:10+00:00"
+  },
+  "https://my.uscap.org/uscap/program/S0tc675/index.cfm?pgid=5167&sid=14770&abid=51228": {
+    "title": "Autopsy Study Finds Replicating SARS-CoV-2 in the Hearts of Long Covid",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-12T10:17:05.579866+00:00",
+    "published": "2026-07-12T00:38:02+00:00"
+  },
+  "https://simonwillison.net/2026/Jul/11/sqlite-utils": {
+    "title": "sqlite-utils 4.1",
+    "source": "Simon Willison",
+    "first_seen": "2026-07-12T10:17:05.579866+00:00",
+    "published": "2026-07-11T23:50:20+00:00"
+  },
+  "https://archive.cancerworld.net/featured/how-doctors-die": {
+    "title": "How Doctors die. It’s not like the rest of us (2016)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-12T10:17:05.579866+00:00",
+    "published": "2026-07-11T23:15:06+00:00"
+  },
+  "https://www.iroh.computer/blog/mesh-llm": {
+    "title": "Mesh LLM: distributed AI computing on iroh",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-12T10:17:05.579866+00:00",
+    "published": "2026-07-11T22:38:57+00:00"
+  },
+  "https://github.com/Wren6991/RISCBoy": {
+    "title": "RISCBoy is an open-source portable games console, designed from scratch",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-12T10:17:05.579866+00:00",
+    "published": "2026-07-11T21:58:00+00:00"
+  },
+  "https://lethain.com/generated-demand": {
+    "title": "Generated and suppressed demand.",
+    "source": "Will Larson",
+    "first_seen": "2026-07-12T10:17:05.579866+00:00",
+    "published": "2026-07-11T21:00:00+00:00"
+  },
+  "https://www.math.ucdavis.edu/~saito/courses/229A/stewart-svd.pdf": {
+    "title": "The early History of the Singular Value Decomposition (1993) [pdf]",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-12T10:17:05.579866+00:00",
+    "published": "2026-07-11T15:26:12+00:00"
+  },
+  "https://shipthatcode.com": {
+    "title": "Show HN: Learn by rebuilding Redis, Git, a database from scratch",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-12T10:17:05.579866+00:00",
+    "published": "2026-07-11T13:40:27+00:00"
   }
 }
