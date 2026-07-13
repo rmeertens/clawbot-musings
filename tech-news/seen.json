@@ -53966,5 +53966,179 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-07-12T21:37:09.837810+00:00",
     "published": "2026-07-12T15:47:16+00:00"
+  },
+  "https://www.cncf.io/blog/2026/07/13/operating-opentelemetry-at-scale-with-opamp": {
+    "title": "Operating OpenTelemetry at scale with OpAMP",
+    "source": "CNCF Blog",
+    "first_seen": "2026-07-13T11:47:59.980131+00:00",
+    "published": "2026-07-13T11:30:00+00:00"
+  },
+  "https://www.schneier.com/blog/archives/2026/07/ai-data-centers-and-the-concentration-of-wealth.html": {
+    "title": "AI Data Centers and the Concentration of Wealth",
+    "source": "Schneier on Security",
+    "first_seen": "2026-07-13T11:47:59.980131+00:00",
+    "published": "2026-07-13T11:01:57+00:00"
+  },
+  "https://blog.trailofbits.com/2026/07/13/rust-proof-your-code-with-our-new-testing-handbook-chapter": {
+    "title": "Rust-proof your code with our new Testing Handbook chapter",
+    "source": "Trail of Bits",
+    "first_seen": "2026-07-13T11:47:59.980131+00:00",
+    "published": "2026-07-13T11:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/GNOME-OS-Test-Center": {
+    "title": "GNOME OS Creating \"Test Center\" As Its Take On Apple TestFlight For Experiment Software",
+    "source": "Phoronix",
+    "first_seen": "2026-07-13T11:47:59.980131+00:00",
+    "published": "2026-07-13T10:39:11+00:00"
+  },
+  "https://www.phoronix.com/news/Rework-Sysclal-Entry-Linux-7.3": {
+    "title": "Reworked System Call Entry Handling Slated For Linux 7.3",
+    "source": "Phoronix",
+    "first_seen": "2026-07-13T11:47:59.980131+00:00",
+    "published": "2026-07-13T10:17:21+00:00"
+  },
+  "https://aws.amazon.com/blogs/architecture/unlocking-the-future-of-video-data-march-networks-cloud-storage-on-aws": {
+    "title": "Unlocking the future of video data: March Networks cloud storage on AWS",
+    "source": "AWS Architecture Blog",
+    "first_seen": "2026-07-13T11:47:59.980131+00:00",
+    "published": "2026-07-13T10:06:18+00:00"
+  },
+  "https://www.phoronix.com/news/Raspberry-Pi-5-IOMMU-Driver": {
+    "title": "Raspberry Pi 5 IOMMU Driver Being Worked On For The Mainline Linux Kernel",
+    "source": "Phoronix",
+    "first_seen": "2026-07-13T11:47:59.980131+00:00",
+    "published": "2026-07-13T10:01:00+00:00"
+  },
+  "https://stratechery.com/2026/apple-sues-openai-apples-real-problem": {
+    "title": "Apple Sues OpenAI, Apple’s Real Problem",
+    "source": "Stratechery",
+    "first_seen": "2026-07-13T11:47:59.980131+00:00",
+    "published": "2026-07-13T10:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/Cloud-Hypervisor-53": {
+    "title": "Cloud Hypervisor 53 Released With Offloaded Snapshot/Restore Daemon",
+    "source": "Phoronix",
+    "first_seen": "2026-07-13T11:47:59.980131+00:00",
+    "published": "2026-07-13T09:48:33+00:00"
+  },
+  "https://aws.amazon.com/blogs/architecture/how-mapfre-usa-modernized-fraud-claims-with-amazon-emr-serverless": {
+    "title": "How MAPFRE USA modernized fraud claims with Amazon EMR Serverless",
+    "source": "AWS Architecture Blog",
+    "first_seen": "2026-07-13T11:47:59.980131+00:00",
+    "published": "2026-07-13T09:26:59+00:00"
+  },
+  "https://raymyers.org/post/zed-creator-calls-spade-a-spade": {
+    "title": "Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-13T11:47:59.980131+00:00",
+    "published": "2026-07-13T08:39:39+00:00"
+  },
+  "https://www.disruptionbanking.com/2026/07/13/inside-berkshires-397-billion-bet-against-an-overheated-market": {
+    "title": "Berkshire's $397B Bet Against an Overheated Market",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-13T11:47:59.980131+00:00",
+    "published": "2026-07-13T08:15:52+00:00"
+  },
+  "https://shkspr.mobi/blog/2026/07/another-ridiculous-interrail-holiday-6379km-and-13-countries-over-7-weeks": {
+    "title": "Interrail: 6,379Km and 13 Countries over 7 weeks",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-13T11:47:59.980131+00:00",
+    "published": "2026-07-13T08:04:30+00:00"
+  },
+  "https://purplesyringa.moe/blog/quadrupling-code-performance-with-a-useless-if": {
+    "title": "Quadrupling code performance with a \"useless\" if",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-13T11:47:59.980131+00:00",
+    "published": "2026-07-13T07:37:06+00:00"
+  },
+  "https://mmapped.blog/posts/52-backtrack-free-cursive": {
+    "title": "Backtrack-Free Cursive",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-13T11:47:59.980131+00:00",
+    "published": "2026-07-13T06:08:12+00:00"
+  },
+  "https://www.theguardian.com/film/2026/jul/13/sam-neill-death-actor-dies-aged-78": {
+    "title": "Sam Neill has died",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-13T11:47:59.980131+00:00",
+    "published": "2026-07-13T06:02:11+00:00"
+  },
+  "https://www.lyrebirddreaming.com/post/the-graph-that-should-be-front-page-news": {
+    "title": "The Graph That Should Be Front-Page News",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-13T11:47:59.980131+00:00",
+    "published": "2026-07-13T05:35:27+00:00"
+  },
+  "https://github.com/schlae/BeavisUltrasound": {
+    "title": "Beavis Ultrasound PnP ISA Sound Card Replica",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-13T11:47:59.980131+00:00",
+    "published": "2026-07-13T05:15:14+00:00"
+  },
+  "https://news.ycombinator.com/item?id=48886741": {
+    "title": "Ask HN: Add flag for AI-generated articles",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-13T11:47:59.980131+00:00",
+    "published": "2026-07-13T01:24:20+00:00"
+  },
+  "https://blog.rust-lang.org/2026/07/13/crates-io-development-update": {
+    "title": "crates.io: development update",
+    "source": "Rust Blog",
+    "first_seen": "2026-07-13T11:47:59.980131+00:00",
+    "published": "2026-07-13T00:00:00+00:00"
+  },
+  "https://simonwillison.net/2026/Jul/12/directly-responsible-individuals": {
+    "title": "Directly Responsible Individuals (DRI)",
+    "source": "Simon Willison",
+    "first_seen": "2026-07-13T11:47:59.980131+00:00",
+    "published": "2026-07-12T23:57:14+00:00"
+  },
+  "https://simonwillison.net/2026/Jul/12/shot-scraper": {
+    "title": "shot-scraper 1.11",
+    "source": "Simon Willison",
+    "first_seen": "2026-07-13T11:47:59.980131+00:00",
+    "published": "2026-07-12T23:46:52+00:00"
+  },
+  "https://lwn.net/Articles/1082487": {
+    "title": "Kernel prepatch 7.2-rc3",
+    "source": "LWN.net",
+    "first_seen": "2026-07-13T11:47:59.980131+00:00",
+    "published": "2026-07-12T23:29:47+00:00"
+  },
+  "https://vilkeliskis.com/b/2026/0711.html": {
+    "title": "Designing and assembling my first PCB",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-13T11:47:59.980131+00:00",
+    "published": "2026-07-12T22:56:56+00:00"
+  },
+  "https://shellzine.net/cyberpunk-comics": {
+    "title": "Cyberpunk Comics, Manga and Graphic Novels",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-13T11:47:59.980131+00:00",
+    "published": "2026-07-12T22:45:31+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.2-rc3-Released": {
+    "title": "Linux 7.2-rc3 Released: Close To The \"New Normal\"",
+    "source": "Phoronix",
+    "first_seen": "2026-07-13T11:47:59.980131+00:00",
+    "published": "2026-07-12T21:59:23+00:00"
+  },
+  "https://kode.diy": {
+    "title": "Kode Dot Programmable pocket device for makers, pentesters and geeks",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-13T11:47:59.980131+00:00",
+    "published": "2026-07-12T21:27:29+00:00"
+  },
+  "https://news.ycombinator.com/item?id=48884984": {
+    "title": "Ask HN: What Are You Working On? (July 2026)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-13T11:47:59.980131+00:00",
+    "published": "2026-07-12T21:26:41+00:00"
+  },
+  "https://simonwillison.net/2026/Jul/12/sqlite-utils": {
+    "title": "sqlite-utils 4.1.1",
+    "source": "Simon Willison",
+    "first_seen": "2026-07-13T11:47:59.980131+00:00",
+    "published": "2026-07-12T20:55:30+00:00"
   }
 }
