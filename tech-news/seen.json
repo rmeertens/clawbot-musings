@@ -54380,5 +54380,203 @@
     "source": "ThoughtWorks",
     "first_seen": "2026-07-13T17:03:41.961293+00:00",
     "published": "2026-07-13T00:00:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/rebuild-large-indexes-on-aurora-postgresql-with-blue-green-deployments": {
+    "title": "Rebuild large indexes on Aurora PostgreSQL with Blue/Green Deployments",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-07-13T21:42:06.589689+00:00",
+    "published": "2026-07-13T21:01:36+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/openai-gpt-5-6-sol-terra-and-luna-are-now-generally-available-on-amazon-bedrock": {
+    "title": "OpenAI GPT-5.6 Sol, Terra, and Luna are now generally available on Amazon Bedrock",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-07-13T21:42:06.589689+00:00",
+    "published": "2026-07-13T21:01:20+00:00"
+  },
+  "https://jobs.ashbyhq.com/SalesPatriot/df223727-5781-433e-bc75-2aa5bf8dc8d7": {
+    "title": "SalesPatriot (YC W25) Is Hiring Full Stack Engineers (SF)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-13T21:42:06.589689+00:00",
+    "published": "2026-07-13T21:01:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/provisioning-dms-schema-conversion-via-aws-cloudformation": {
+    "title": "Provisioning DMS Schema Conversion via AWS CloudFormation",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-07-13T21:42:06.589689+00:00",
+    "published": "2026-07-13T21:00:20+00:00"
+  },
+  "https://aws.amazon.com/blogs/compute/eliminating-java-cold-starts-with-aws-lambda-managed-instances": {
+    "title": "Eliminating Java cold starts with AWS Lambda Managed Instances",
+    "source": "AWS Compute Blog",
+    "first_seen": "2026-07-13T21:42:06.589689+00:00",
+    "published": "2026-07-13T20:23:19+00:00"
+  },
+  "https://github.com/marcelpanse/youtube-guitar-tab-parser": {
+    "title": "Show HN: YouTube Guitar Tab Parser",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-13T21:42:06.589689+00:00",
+    "published": "2026-07-13T20:13:14+00:00"
+  },
+  "https://github.com/Poseidon-fan/linux-0.11-rs": {
+    "title": "Linux 0.11 rewritten in idiomatic Rust, boots in QEMU",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-13T21:42:06.589689+00:00",
+    "published": "2026-07-13T20:11:29+00:00"
+  },
+  "https://github.com/yeet-src/sigwire": {
+    "title": "Show HN: Sigwire – a live TUI switchboard for every signal on your Linux box",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-13T21:42:06.589689+00:00",
+    "published": "2026-07-13T20:07:45+00:00"
+  },
+  "https://lionshead.digital/notes/the-security-checks-in-every-lionshead-pr": {
+    "title": "The security checks in every Lionshead PR",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-13T21:42:06.589689+00:00",
+    "published": "2026-07-13T20:07:09+00:00"
+  },
+  "https://neow.in/cWsyMTV3": {
+    "title": "Samsung will delete your health data if you don't let them use it to train AI",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-13T21:42:06.589689+00:00",
+    "published": "2026-07-13T20:01:43+00:00"
+  },
+  "https://github.com/xqlsystems/xarray-sql/blob/claude/xarray-sql-mnist-demo/benchmarks/nn.py": {
+    "title": "Show HN: I implemented a neural network in SQL",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-13T21:42:06.589689+00:00",
+    "published": "2026-07-13T20:00:10+00:00"
+  },
+  "https://planwright.tools": {
+    "title": "Show HN: PlanWright – A control plane for AI coding agents",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-13T21:42:06.589689+00:00",
+    "published": "2026-07-13T19:59:50+00:00"
+  },
+  "https://werd.io/climate-gov-was-destroyed-open-data-saved-it": {
+    "title": "Climate.gov was destroyed. Open data saved it",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-13T21:42:06.589689+00:00",
+    "published": "2026-07-13T19:57:55+00:00"
+  },
+  "https://www.whois.com/whois/t.me": {
+    "title": "Telegram's t.me domain has been suspended",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-13T21:42:06.589689+00:00",
+    "published": "2026-07-13T19:52:25+00:00"
+  },
+  "https://bruceediger.com/posts/tftp-honeypot-results": {
+    "title": "TFTP Honey Pot Results",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-13T21:42:06.589689+00:00",
+    "published": "2026-07-13T19:11:17+00:00"
+  },
+  "https://developer.nvidia.com/blog/nvidia-ising-decoding-cuts-color-code-logical-error-rates-by-over-300x": {
+    "title": "NVIDIA Ising Decoding Cuts Color Code Logical Error Rates by Over 300X",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-07-13T21:42:06.589689+00:00",
+    "published": "2026-07-13T19:00:00+00:00"
+  },
+  "https://blog.thunderbird.net/2026/07/desktopsettings": {
+    "title": "Thunderbird Desktop settings research: what we learned from your feedback",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-13T21:42:06.589689+00:00",
+    "published": "2026-07-13T18:33:47+00:00"
+  },
+  "https://playcode.io/blog/real-price-of-frontier-models": {
+    "title": "The real prices of frontier models. Tokens * Price, right?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-13T21:42:06.589689+00:00",
+    "published": "2026-07-13T18:32:27+00:00"
+  },
+  "https://nobie.com": {
+    "title": "Show HN: Nobie – an Excel-compatible runtime for agents and humans",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-13T21:42:06.589689+00:00",
+    "published": "2026-07-13T18:26:04+00:00"
+  },
+  "https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode": {
+    "title": "Building and Shipping Mac and iOS Apps Without Ever Opening Xcode",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-13T21:42:06.589689+00:00",
+    "published": "2026-07-13T18:22:16+00:00"
+  },
+  "https://cakehonolulu.github.io/linux-on-32x": {
+    "title": "Linux on the Sega 32X. Who needs hardware synchronization primitives anyway?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-13T21:42:06.589689+00:00",
+    "published": "2026-07-13T18:18:25+00:00"
+  },
+  "https://github.com/morganwilliscloud/billai-bass": {
+    "title": "Show HN: BillAI Bass, an AI-Powered Big Mouth Billy Bass Using Strands Agents",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-13T21:42:06.589689+00:00",
+    "published": "2026-07-13T18:18:23+00:00"
+  },
+  "https://aws.amazon.com/blogs/aws/amazon-sqs-turns-20-two-decades-of-reliable-messaging-at-scale": {
+    "title": "Amazon SQS turns 20: Two decades of reliable messaging at scale",
+    "source": "AWS Blog",
+    "first_seen": "2026-07-13T21:42:06.589689+00:00",
+    "published": "2026-07-13T18:13:57+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/when-your-brain-works-differently-ai-isnt-a-luxury-its-accessibility": {
+    "title": "When your brain works differently, AI isn’t a luxury—it’s accessibility",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-07-13T21:42:06.589689+00:00",
+    "published": "2026-07-13T17:50:16+00:00"
+  },
+  "https://github.com/logseq/logseq/releases": {
+    "title": "Logseq 2.0 Beta (DB version) is here",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-13T21:42:06.589689+00:00",
+    "published": "2026-07-13T17:49:49+00:00"
+  },
+  "https://github.com/mathaix/OpenClawMachines": {
+    "title": "Show HN: OpenClawMachines – Extending OpenClaw to the Enterprise",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-13T21:42:06.589689+00:00",
+    "published": "2026-07-13T17:45:29+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/building-an-agentic-ai-solution-at-bluesight-with-amazon-bedrock": {
+    "title": "Building an agentic AI solution at Bluesight with Amazon Bedrock",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-07-13T21:42:06.589689+00:00",
+    "published": "2026-07-13T17:34:38+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/implement-on-behalf-of-token-exchange-for-multi-tenant-agents-with-amazon-bedrock-agentcore-gateway": {
+    "title": "Implement on-behalf-of token exchange for multi-tenant agents with Amazon Bedrock AgentCore Gateway",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-07-13T21:42:06.589689+00:00",
+    "published": "2026-07-13T17:27:40+00:00"
+  },
+  "https://thenewstack.io/fable-5-honeycomb-opus": {
+    "title": "Anthropic extends Fable 5 again — and won’t talk about what developers found inside Cursor",
+    "source": "The New Stack",
+    "first_seen": "2026-07-13T21:42:06.589689+00:00",
+    "published": "2026-07-13T17:10:27+00:00"
+  },
+  "https://www.ycombinator.com/companies/pgdog/jobs/uWymUYy-founding-software-engineer": {
+    "title": "PgDog (YC P25) Is Hiring a Founding Software Engineer",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-13T21:42:06.589689+00:00",
+    "published": "2026-07-13T17:00:54+00:00"
+  },
+  "https://grafana.com/blog/building-an-end-to-end-reliability-testing-strategy-with-grafana-cloud": {
+    "title": "Building an end-to-end reliability testing strategy with Grafana Cloud",
+    "source": "Grafana Blog",
+    "first_seen": "2026-07-13T21:42:06.589689+00:00",
+    "published": "2026-07-13T15:53:09+00:00"
+  },
+  "https://nextjs.org/blog/next-security-release-program": {
+    "title": "Next.js Security Release and Our Next Patch Release",
+    "source": "Next.js Blog",
+    "first_seen": "2026-07-13T21:42:06.589689+00:00",
+    "published": "2026-07-13T12:00:00+00:00"
+  },
+  "https://planetscale.com/blog/when-the-postgres-query-planner-goes-rogue": {
+    "title": "When the Postgres query planner goes rogue",
+    "source": "PlanetScale Blog",
+    "first_seen": "2026-07-13T21:42:06.589689+00:00",
+    "published": "2026-07-13T00:00:00+00:00"
   }
 }
