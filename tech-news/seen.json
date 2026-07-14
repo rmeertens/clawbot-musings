@@ -55100,5 +55100,275 @@
     "source": "Apple ML Journal",
     "first_seen": "2026-07-14T16:07:07.301540+00:00",
     "published": "2026-07-14T00:00:00+00:00"
+  },
+  "https://www.cncf.io/blog/2026/07/14/keycloakcon-japan-2026-navigating-cloud-native-identity-and-the-ai-frontier": {
+    "title": "KeycloakCon Japan 2026: Navigating cloud native identity and the AI frontier",
+    "source": "CNCF Blog",
+    "first_seen": "2026-07-14T21:43:45.102533+00:00",
+    "published": "2026-07-14T21:34:55+00:00"
+  },
+  "https://thenewstack.io/ibm-earnings-ai-infrastructure": {
+    "title": "“We did not adapt and move quickly enough”: What IBM’s earnings miss says about enterprise AI spending",
+    "source": "The New Stack",
+    "first_seen": "2026-07-14T21:43:45.102533+00:00",
+    "published": "2026-07-14T20:38:17+00:00"
+  },
+  "https://www.cbc.ca/news/world/stubhub-ceo-class-action-scalping-9.7268987": {
+    "title": "StubHub's 'marketplace for fans' is run by a mass scalper, SEC filings reveal",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-14T21:43:45.102533+00:00",
+    "published": "2026-07-14T19:48:36+00:00"
+  },
+  "https://simonwillison.net/2026/Jul/14/lobsters-sqlite": {
+    "title": "lobste.rs is now running on SQLite",
+    "source": "Simon Willison",
+    "first_seen": "2026-07-14T21:43:45.102533+00:00",
+    "published": "2026-07-14T19:44:11+00:00"
+  },
+  "https://sprinklz.io/feed/home": {
+    "title": "Show HN: A Free RSS reader with a configurable recommendation engine",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-14T21:43:45.102533+00:00",
+    "published": "2026-07-14T19:39:28+00:00"
+  },
+  "https://www.phoronix.com/news/FreeBSD-16-Goes-GPL-Free": {
+    "title": "FreeBSD 16 Retires The Last Of Its GPL Code From Its Base System",
+    "source": "Phoronix",
+    "first_seen": "2026-07-14T21:43:45.102533+00:00",
+    "published": "2026-07-14T19:38:47+00:00"
+  },
+  "https://aws.amazon.com/blogs/compute/introducing-modularized-kernel-cryptography-in-amazon-linux": {
+    "title": "Introducing modularized kernel cryptography in Amazon Linux",
+    "source": "AWS Compute Blog",
+    "first_seen": "2026-07-14T21:43:45.102533+00:00",
+    "published": "2026-07-14T19:34:12+00:00"
+  },
+  "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws": {
+    "title": "Microsoft Patches a Record 570 Security Flaws",
+    "source": "Krebs on Security",
+    "first_seen": "2026-07-14T21:43:45.102533+00:00",
+    "published": "2026-07-14T19:22:42+00:00"
+  },
+  "https://aws.amazon.com/blogs/security/security-hub-adds-ai-workload-protection-and-multicloud-support-for-microsoft-azure": {
+    "title": "Security Hub adds AI workload protection and multicloud support for Microsoft Azure",
+    "source": "AWS Security Blog",
+    "first_seen": "2026-07-14T21:43:45.102533+00:00",
+    "published": "2026-07-14T19:16:57+00:00"
+  },
+  "https://thenewstack.io/gpt-5-6-codex-user-surge": {
+    "title": "OpenAI hits 8 million Codex users — what developers need to know",
+    "source": "The New Stack",
+    "first_seen": "2026-07-14T21:43:45.102533+00:00",
+    "published": "2026-07-14T19:16:31+00:00"
+  },
+  "https://thenewstack.io/aws-security-hub-azure": {
+    "title": "AWS will now watch Microsoft’s cloud for you",
+    "source": "The New Stack",
+    "first_seen": "2026-07-14T21:43:45.102533+00:00",
+    "published": "2026-07-14T19:00:00+00:00"
+  },
+  "https://www.phoronix.com/review/bosgame-vta-439": {
+    "title": "BOSGAME VTA-439: A Great, Linux-Friendly Mini PC Powered By AMD Ryzen AI 9 HX 470",
+    "source": "Phoronix",
+    "first_seen": "2026-07-14T21:43:45.102533+00:00",
+    "published": "2026-07-14T18:57:06+00:00"
+  },
+  "https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-july-2026-servicing-updates": {
+    "title": ".NET and .NET Framework July 2026 servicing releases updates",
+    "source": "MS .NET Blog",
+    "first_seen": "2026-07-14T21:43:45.102533+00:00",
+    "published": "2026-07-14T18:55:00+00:00"
+  },
+  "https://thenewstack.io/unified-access-ai-agents": {
+    "title": "What happens when your VPN meets 200 AI agents",
+    "source": "The New Stack",
+    "first_seen": "2026-07-14T21:43:45.102533+00:00",
+    "published": "2026-07-14T18:53:13+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/multi-agent-social-intelligence-with-strands-agents-and-amazon-bedrock": {
+    "title": "Multi-agent social intelligence with Strands Agents and Amazon Bedrock",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-07-14T21:43:45.102533+00:00",
+    "published": "2026-07-14T18:44:26+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/build-a-semantic-ontology-to-power-ai-assistants-on-aws-part-1": {
+    "title": "Build a semantic ontology to power AI assistants on AWS – Part 1",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-07-14T21:43:45.102533+00:00",
+    "published": "2026-07-14T18:34:40+00:00"
+  },
+  "https://devblogs.microsoft.com/dotnet/coreclr-progress-and-mono-timeline-dotnet-maui": {
+    "title": "CoreCLR Progress and the Mono Timeline for .NET MAUI",
+    "source": "MS .NET Blog",
+    "first_seen": "2026-07-14T21:43:45.102533+00:00",
+    "published": "2026-07-14T18:30:00+00:00"
+  },
+  "https://developer.nvidia.com/blog/lessons-from-the-leaderboard-what-5000-kagglers-taught-us-about-improving-ai-reasoning": {
+    "title": "Lessons From the Leaderboard: What 5,000+ Kagglers Taught Us About Improving AI Reasoning",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-07-14T21:43:45.102533+00:00",
+    "published": "2026-07-14T18:20:32+00:00"
+  },
+  "https://thenewstack.io/enterprise-data-ai-labs": {
+    "title": "The enterprise strikes back: Keep your data, ditch the AI bill.",
+    "source": "The New Stack",
+    "first_seen": "2026-07-14T21:43:45.102533+00:00",
+    "published": "2026-07-14T18:16:07+00:00"
+  },
+  "https://simonwillison.net/2026/Jul/14/armin-ronacher": {
+    "title": "Quoting Armin Ronacher",
+    "source": "Simon Willison",
+    "first_seen": "2026-07-14T21:43:45.102533+00:00",
+    "published": "2026-07-14T18:04:23+00:00"
+  },
+  "https://cloud.google.com/blog/products/ai-machine-learning/google-named-a-leader-in-idc-marketscape": {
+    "title": "Google named a Leader in the 2026 IDC MarketScape for Worldwide Foundation Model Software",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-07-14T21:43:45.102533+00:00",
+    "published": "2026-07-14T18:00:00+00:00"
+  },
+  "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left": {
+    "title": "Cursor 0day: When Full Disclosure Becomes the Only Protection Left",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-14T21:43:45.102533+00:00",
+    "published": "2026-07-14T17:58:35+00:00"
+  },
+  "https://prismml.com/news/bonsai-27b": {
+    "title": "Bonsai 27B: A 27B-Class model that runs on a phone",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-14T21:43:45.102533+00:00",
+    "published": "2026-07-14T17:50:48+00:00"
+  },
+  "https://devblogs.microsoft.com/dotnet/dotnet-11-preview-6": {
+    "title": ".NET 11 Preview 6 is now available!",
+    "source": "MS .NET Blog",
+    "first_seen": "2026-07-14T21:43:45.102533+00:00",
+    "published": "2026-07-14T17:45:00+00:00"
+  },
+  "https://newsletter.pragmaticengineer.com/p/what-is-loop-engineering": {
+    "title": "What is “loop engineering?”",
+    "source": "The Pragmatic Engineer",
+    "first_seen": "2026-07-14T21:43:45.102533+00:00",
+    "published": "2026-07-14T17:01:57+00:00"
+  },
+  "https://medium.com/airbnb-engineering/from-weeks-to-a-day-how-we-made-llm-evaluation-fast-enough-to-iterate-on-14e2d35198b4?source=rss----53c7c27702d5---4": {
+    "title": "From weeks to a day: how we made LLM evaluation fast enough to iterate on",
+    "source": "Airbnb Engineering",
+    "first_seen": "2026-07-14T21:43:45.102533+00:00",
+    "published": "2026-07-14T17:01:03+00:00"
+  },
+  "https://www.ycombinator.com/companies/kontigo/jobs/uNttrlv-head-of-security": {
+    "title": "Kontigo (YC S24) Is Hiring (Head of Security)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-14T21:43:45.102533+00:00",
+    "published": "2026-07-14T17:00:17+00:00"
+  },
+  "https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising": {
+    "title": "The Tower Keeps Rising",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-14T21:43:45.102533+00:00",
+    "published": "2026-07-14T16:57:54+00:00"
+  },
+  "https://lwn.net/Articles/1082901": {
+    "title": "The Linux.org story",
+    "source": "LWN.net",
+    "first_seen": "2026-07-14T21:43:45.102533+00:00",
+    "published": "2026-07-14T16:50:47+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/accelerating-software-delivery-with-agentic-qa-automation-using-amazon-nova-act-part-2": {
+    "title": "Accelerating software delivery with agentic QA automation using Amazon Nova Act – Part 2",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-07-14T21:43:45.102533+00:00",
+    "published": "2026-07-14T16:47:32+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/scaling-ux-testing-with-amazon-nova-act-a-new-approach-to-user-flow-analysis": {
+    "title": "Scaling UX testing with Amazon Nova Act: A new approach to user flow analysis",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-07-14T21:43:45.102533+00:00",
+    "published": "2026-07-14T16:43:41+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/patch-perfect-automating-amazon-redshift-patch-testing": {
+    "title": "Patch perfect: Automating Amazon Redshift patch testing",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-07-14T21:43:45.102533+00:00",
+    "published": "2026-07-14T16:37:11+00:00"
+  },
+  "https://marco-nett.de/blog/measuring-input-latency-on-linux-x11-vs-wayland-vrr-dxvk": {
+    "title": "Measuring Input Latency on Linux: X11 vs. Wayland, VRR, and DXVK",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-14T21:43:45.102533+00:00",
+    "published": "2026-07-14T16:36:06+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/scaling-medical-content-review-at-flo-health-with-amazon-bedrock-part-2": {
+    "title": "Scaling medical content review at Flo Health with Amazon Bedrock – Part 2",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-07-14T21:43:45.102533+00:00",
+    "published": "2026-07-14T16:33:08+00:00"
+  },
+  "https://simonwillison.net/2026/Jul/14/datasette": {
+    "title": "datasette 1.0a37",
+    "source": "Simon Willison",
+    "first_seen": "2026-07-14T21:43:45.102533+00:00",
+    "published": "2026-07-14T16:31:41+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/sciencesofts-hipaa-compliant-ai-voice-scheduler-built-on-aws": {
+    "title": "ScienceSoft’s HIPAA-compliant AI voice scheduler built on AWS",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-07-14T21:43:45.102533+00:00",
+    "published": "2026-07-14T16:25:03+00:00"
+  },
+  "https://www.phoronix.com/news/Blender-5.2-Released": {
+    "title": "Blender 5.2 LTS Released With Many Great Enhancements",
+    "source": "Phoronix",
+    "first_seen": "2026-07-14T21:43:45.102533+00:00",
+    "published": "2026-07-14T16:11:04+00:00"
+  },
+  "https://slack.engineering/shipyard-how-we-built-slacks-next-generation-ec2-platform": {
+    "title": "Shipyard: How We Built Slack’s Next-Generation EC2 Platform",
+    "source": "Slack Engineering",
+    "first_seen": "2026-07-14T21:43:45.102533+00:00",
+    "published": "2026-07-14T16:10:08+00:00"
+  },
+  "https://agnost.ai": {
+    "title": "Launch HN: Agnost AI (YC S26) – Extract user feedback from agent conversations",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-14T21:43:45.102533+00:00",
+    "published": "2026-07-14T16:06:18+00:00"
+  },
+  "https://thenewstack.io/open-weight-models-frontier-costs": {
+    "title": "Open-source AI is just “4 months behind” closed frontier models — and 10x cheaper",
+    "source": "The New Stack",
+    "first_seen": "2026-07-14T21:43:45.102533+00:00",
+    "published": "2026-07-14T16:04:23+00:00"
+  },
+  "https://blog.cloudflare.com/dnssec-nta-ede-33": {
+    "title": "A broken DNSSEC rollover took down .AL. Now 1.1.1.1 tells you when validation is bypassed",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-07-14T21:43:45.102533+00:00",
+    "published": "2026-07-14T13:00:00+00:00"
+  },
+  "https://gwern.net/guardian-angel": {
+    "title": "Guardian Angels: LLM Personalization for Productivity and Security",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-14T21:43:45.102533+00:00",
+    "published": "2026-07-14T12:50:29+00:00"
+  },
+  "https://openai.com/index/managing-ai-investments-in-agentic-era": {
+    "title": "How to manage AI investments in the agentic era",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-07-14T21:43:45.102533+00:00",
+    "published": "2026-07-14T10:00:00+00:00"
+  },
+  "https://www.elastic.co/blog/higher-education-digital-transformation-do-more-with-less": {
+    "title": "Universities do more with less — start with data",
+    "source": "Elastic Blog",
+    "first_seen": "2026-07-14T21:43:45.102533+00:00",
+    "published": "2026-07-14T00:00:00+00:00"
+  },
+  "https://machinelearning.apple.com/research/multilingual-semantic-retrieval": {
+    "title": "Multilingual Semantic Retrieval for Apple Music Search",
+    "source": "Apple ML Journal",
+    "first_seen": "2026-07-14T21:43:45.102533+00:00",
+    "published": "2026-07-14T00:00:00+00:00"
   }
 }
