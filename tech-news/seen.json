@@ -54794,5 +54794,311 @@
     "source": "DeepMind Blog",
     "first_seen": "2026-07-14T10:27:47.501517+00:00",
     "published": "2026-07-13T12:37:28+00:00"
+  },
+  "https://www.schneier.com/blog/archives/2026/07/upcoming-speaking-engagements-58.html": {
+    "title": "Upcoming Speaking Engagements",
+    "source": "Schneier on Security",
+    "first_seen": "2026-07-14T16:07:07.301540+00:00",
+    "published": "2026-07-14T16:04:49+00:00"
+  },
+  "https://developer.nvidia.com/blog/post-train-nvidia-cosmos-3-in-one-day-using-agent-skills": {
+    "title": "Post-Train NVIDIA Cosmos 3 in One Day Using Agent Skills",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-07-14T16:07:07.301540+00:00",
+    "published": "2026-07-14T16:00:00+00:00"
+  },
+  "https://developer.nvidia.com/blog/how-to-run-an-autoresearch-workflow-with-rl-agent-skills-and-nvidia-nemo": {
+    "title": "How to Run an Autoresearch Workflow with RL Agent Skills and NVIDIA NeMo",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-07-14T16:07:07.301540+00:00",
+    "published": "2026-07-14T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/ai-machine-learning/claude-at-scale-on-google-cloud-frontier-ai-built-for-enterprise-production": {
+    "title": "Claude at scale on Google Cloud: Frontier AI, built for enterprise production",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-07-14T16:07:07.301540+00:00",
+    "published": "2026-07-14T16:00:00+00:00"
+  },
+  "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary": {
+    "title": "Celebrating 25 years of visual search innovation",
+    "source": "Google AI Blog",
+    "first_seen": "2026-07-14T16:07:07.301540+00:00",
+    "published": "2026-07-14T16:00:00+00:00"
+  },
+  "https://blog.bytebytego.com/p/how-llms-learn-to-be-helpful-rlhf": {
+    "title": "How LLMs Learn to Be Helpful (RLHF vs DPO)",
+    "source": "ByteByteGo",
+    "first_seen": "2026-07-14T16:07:07.301540+00:00",
+    "published": "2026-07-14T15:30:53+00:00"
+  },
+  "https://www.phoronix.com/news/System76-Adder-Pro-2026": {
+    "title": "System76 Launches New Adder Pro Laptop With NVIDIA GPU, 2K OLED & Up To 96GB RAM",
+    "source": "Phoronix",
+    "first_seen": "2026-07-14T16:07:07.301540+00:00",
+    "published": "2026-07-14T15:25:53+00:00"
+  },
+  "https://www.verbaprima.com": {
+    "title": "Show HN: Opening lines of famous literary works",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-14T16:07:07.301540+00:00",
+    "published": "2026-07-14T15:24:49+00:00"
+  },
+  "https://shkspr.mobi/blog/2026/07/im-a-usb-c-maximalist": {
+    "title": "I'm a USB-C Maximalist",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-14T16:07:07.301540+00:00",
+    "published": "2026-07-14T15:20:36+00:00"
+  },
+  "https://aws.amazon.com/blogs/security/authenticate-legitimate-ai-agent-traffic-with-aws-waf-bot-control": {
+    "title": "Authenticate legitimate AI agent traffic with AWS WAF Bot Control",
+    "source": "AWS Security Blog",
+    "first_seen": "2026-07-14T16:07:07.301540+00:00",
+    "published": "2026-07-14T15:18:42+00:00"
+  },
+  "https://www.artfish.ai/p/offloading-thinking-to-ai": {
+    "title": "Are we offloading too much of our thinking to AI?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-14T16:07:07.301540+00:00",
+    "published": "2026-07-14T15:18:13+00:00"
+  },
+  "https://www.databricks.com/blog/how-retail-finance-teams-are-using-agentic-ai-protect-omni-channel-margins": {
+    "title": "How Retail Finance teams are using Agentic AI to protect omni-channel margins",
+    "source": "Databricks Blog",
+    "first_seen": "2026-07-14T16:07:07.301540+00:00",
+    "published": "2026-07-14T15:00:00+00:00"
+  },
+  "https://www.bobbytables.io/p/the-agentic-loop-three-loops-in-a": {
+    "title": "The Agentic Loop: Three loops in a trench coat",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-14T16:07:07.301540+00:00",
+    "published": "2026-07-14T14:39:56+00:00"
+  },
+  "https://www.reuters.com/world/new-york-becomes-first-state-impose-data-center-moratorium-2026-07-14": {
+    "title": "New York becomes the first state to impose a data center moratorium",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-14T16:07:07.301540+00:00",
+    "published": "2026-07-14T14:17:54+00:00"
+  },
+  "https://www.derekthompson.org/p/a-philosophers-one-word-theory-to": {
+    "title": "Agnes Callard’s theory of the uni-context",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-14T16:07:07.301540+00:00",
+    "published": "2026-07-14T14:17:39+00:00"
+  },
+  "https://realpython.com/courses/understanding-mixin-classes-in-python": {
+    "title": "Understanding Mixin Classes in Python",
+    "source": "Real Python",
+    "first_seen": "2026-07-14T16:07:07.301540+00:00",
+    "published": "2026-07-14T14:00:00+00:00"
+  },
+  "https://lwn.net/Articles/1082838": {
+    "title": "Call for topics for the 2026 Maintainers Summit",
+    "source": "LWN.net",
+    "first_seen": "2026-07-14T16:07:07.301540+00:00",
+    "published": "2026-07-14T13:41:12+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-Foundation-x402": {
+    "title": "Linux Foundation's Latest Foray Is To Standardize Internet-Native Payments For AI Agents",
+    "source": "Phoronix",
+    "first_seen": "2026-07-14T16:07:07.301540+00:00",
+    "published": "2026-07-14T13:22:23+00:00"
+  },
+  "https://lwn.net/Articles/1081696": {
+    "title": "[$] Sending packets directly from BPF",
+    "source": "LWN.net",
+    "first_seen": "2026-07-14T16:07:07.301540+00:00",
+    "published": "2026-07-14T13:16:52+00:00"
+  },
+  "https://lwn.net/Articles/1082832": {
+    "title": "Security updates for Tuesday",
+    "source": "LWN.net",
+    "first_seen": "2026-07-14T16:07:07.301540+00:00",
+    "published": "2026-07-14T13:16:38+00:00"
+  },
+  "https://www.databricks.com/blog/foundational-context-cross-industry-function-specific-accelerators-lakebase": {
+    "title": "Foundational context: Cross-industry & function-specific accelerators for Lakebase",
+    "source": "Databricks Blog",
+    "first_seen": "2026-07-14T16:07:07.301540+00:00",
+    "published": "2026-07-14T13:15:00+00:00"
+  },
+  "https://serena-williams-fitdex.netlify.app": {
+    "title": "Serena Williams Fit-Dex",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-14T16:07:07.301540+00:00",
+    "published": "2026-07-14T13:12:55+00:00"
+  },
+  "https://www.phoronix.com/news/GlandaGPU-Linux-Driver-RFC": {
+    "title": "Linux Kernel Graphics Driver Proposed For GlandaGPU: An Open-Source Soft GPU Core",
+    "source": "Phoronix",
+    "first_seen": "2026-07-14T16:07:07.301540+00:00",
+    "published": "2026-07-14T13:08:53+00:00"
+  },
+  "https://www.docker.com/blog/ai-engineer-worlds-fair-2026-the-runtime-is-where-agent-trust-is-won": {
+    "title": "AI Engineer World’s Fair 2026: The Runtime Is Where Agent Trust Is Won",
+    "source": "Docker Blog",
+    "first_seen": "2026-07-14T16:07:07.301540+00:00",
+    "published": "2026-07-14T13:00:00+00:00"
+  },
+  "https://thenewstack.io/port-ai-builder-governance": {
+    "title": "“Vibe coding slop”: Port’s CEO on the problem with ungoverned AI dev",
+    "source": "The New Stack",
+    "first_seen": "2026-07-14T16:07:07.301540+00:00",
+    "published": "2026-07-14T13:00:00+00:00"
+  },
+  "https://zserge.com/posts/tensor": {
+    "title": "Tensor Is the Might",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-14T16:07:07.301540+00:00",
+    "published": "2026-07-14T12:56:21+00:00"
+  },
+  "https://martinfowler.com/articles/llm-and-dsls.html": {
+    "title": "DSLs Enable Reliable Use of LLMs",
+    "source": "Martin Fowler",
+    "first_seen": "2026-07-14T16:07:07.301540+00:00",
+    "published": "2026-07-14T12:51:00+00:00"
+  },
+  "https://www.phoronix.com/news/Intel-IGC-2.38.2": {
+    "title": "Intel IGC 2.38.2 Brings Latest Round Of Graphics Compiler Improvements",
+    "source": "Phoronix",
+    "first_seen": "2026-07-14T16:07:07.301540+00:00",
+    "published": "2026-07-14T12:50:51+00:00"
+  },
+  "https://www.databricks.com/blog/blocking-slow-burn-attacks-contextual-policies-omnigent": {
+    "title": "Blocking Slow-Burn Attacks: Contextual Policies in Omnigent",
+    "source": "Databricks Blog",
+    "first_seen": "2026-07-14T16:07:07.301540+00:00",
+    "published": "2026-07-14T12:47:28+00:00"
+  },
+  "https://github.com/Danau5tin/ai-trains-ai": {
+    "title": "Show HN: I RL-trained an agent that trains models with RL (for –$1.3k)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-14T16:07:07.301540+00:00",
+    "published": "2026-07-14T12:41:25+00:00"
+  },
+  "https://ryanjk5.github.io/posts/rjk-duck": {
+    "title": "Beautiful Type Erasure with C++26 Reflection",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-14T16:07:07.301540+00:00",
+    "published": "2026-07-14T12:40:50+00:00"
+  },
+  "https://arxiv.org/abs/2607.05188": {
+    "title": "Coding agents think ahead of time",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-14T16:07:07.301540+00:00",
+    "published": "2026-07-14T12:28:09+00:00"
+  },
+  "https://docs.pasteurlabs.ai/projects/tesseract-core/latest/blog/2026-07-09-enzyme-lfortran-autodiff.html": {
+    "title": "Differentiable Fortran with LFortran and Enzyme",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-14T16:07:07.301540+00:00",
+    "published": "2026-07-14T12:21:46+00:00"
+  },
+  "https://thenewstack.io/valantor-eyelevel-document-management": {
+    "title": "AI can finally read your handwriting — here’s why enterprises care",
+    "source": "The New Stack",
+    "first_seen": "2026-07-14T16:07:07.301540+00:00",
+    "published": "2026-07-14T12:00:00+00:00"
+  },
+  "https://thenewstack.io/mcp-enterprise-agent-governance": {
+    "title": "The MCP debate has a context problem",
+    "source": "The New Stack",
+    "first_seen": "2026-07-14T16:07:07.301540+00:00",
+    "published": "2026-07-14T12:00:00+00:00"
+  },
+  "https://realpython.com/quizzes/understanding-mixin-classes": {
+    "title": "Quiz: Understanding Mixin Classes in Python",
+    "source": "Real Python",
+    "first_seen": "2026-07-14T16:07:07.301540+00:00",
+    "published": "2026-07-14T12:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/Intel-Vulkan-Video-10-bit-H265": {
+    "title": "Intel Vulkan Driver Now Supports H.265 10-bit Video Encoding",
+    "source": "Phoronix",
+    "first_seen": "2026-07-14T16:07:07.301540+00:00",
+    "published": "2026-07-14T11:58:20+00:00"
+  },
+  "https://www.dw.com/en/germany-freedom-of-information-act/a-77939695": {
+    "title": "Germany set to restrict its Freedom of Information Act",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-14T16:07:07.301540+00:00",
+    "published": "2026-07-14T11:49:48+00:00"
+  },
+  "https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing": {
+    "title": "How to stop Claude from saying load-bearing",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-14T16:07:07.301540+00:00",
+    "published": "2026-07-14T11:46:02+00:00"
+  },
+  "https://adi.bio/reality": {
+    "title": "Punch yourself in the face with reality",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-14T16:07:07.301540+00:00",
+    "published": "2026-07-14T11:33:19+00:00"
+  },
+  "https://www.commonreader.co.uk/p/no-spanish-reading-crisis": {
+    "title": "No Spanish reading crisis?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-14T16:07:07.301540+00:00",
+    "published": "2026-07-14T11:31:59+00:00"
+  },
+  "https://github.com/openai/codex/issues/28058": {
+    "title": "Codex starts encrypting sub-agent prompts",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-14T16:07:07.301540+00:00",
+    "published": "2026-07-14T11:21:32+00:00"
+  },
+  "https://www.cncf.io/blog/2026/07/14/is-a-pod-the-right-deployment-unit-for-an-ai-agent": {
+    "title": "Is a Pod the right deployment unit for an AI agent?",
+    "source": "CNCF Blog",
+    "first_seen": "2026-07-14T16:07:07.301540+00:00",
+    "published": "2026-07-14T11:20:00+00:00"
+  },
+  "https://www.schneier.com/blog/archives/2026/07/vulnerability-in-fifas-network.html": {
+    "title": "Vulnerability in FIFA’s Network",
+    "source": "Schneier on Security",
+    "first_seen": "2026-07-14T16:07:07.301540+00:00",
+    "published": "2026-07-14T11:06:51+00:00"
+  },
+  "https://bartoszmilewski.com/2026/06/30/actegories": {
+    "title": "Actegories",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-14T16:07:07.301540+00:00",
+    "published": "2026-07-14T11:05:15+00:00"
+  },
+  "https://www.phoronix.com/news/Apple-Wild-Mess-Sensors-Linux": {
+    "title": "Linux Dealing With Apple's Wild Mess Of Sensors On Apple Silicon SoCs",
+    "source": "Phoronix",
+    "first_seen": "2026-07-14T16:07:07.301540+00:00",
+    "published": "2026-07-14T10:31:10+00:00"
+  },
+  "https://twitter.com/demishassabis/status/2076957440109625718": {
+    "title": "Demis Hassabis has a plan to harness AI safely",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-14T16:07:07.301540+00:00",
+    "published": "2026-07-14T09:20:07+00:00"
+  },
+  "https://github.com/eu-digital-identity-wallet/av-doc-technical-specification/discussions/19": {
+    "title": "European \"age verification\" \"app\" forcing everyone to use Android or iOS",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-14T16:07:07.301540+00:00",
+    "published": "2026-07-14T08:34:57+00:00"
+  },
+  "https://www.redpanda.com/blog/cdc-semantics-iceberg-redpanda-connect": {
+    "title": "Full CDC semantics land in the Iceberg output for Redpanda Connect",
+    "source": "Redpanda Blog",
+    "first_seen": "2026-07-14T16:07:07.301540+00:00",
+    "published": "2026-07-14T00:00:00+00:00"
+  },
+  "https://www.elastic.co/blog/space-cybersecurity": {
+    "title": "Space is now critical infrastructure, but we're not securing it like it is",
+    "source": "Elastic Blog",
+    "first_seen": "2026-07-14T16:07:07.301540+00:00",
+    "published": "2026-07-14T00:00:00+00:00"
+  },
+  "https://machinelearning.apple.com/research/proactive-agent-research-environment": {
+    "title": "Proactive Agent Research Environment: Simulating Active Users to Evaluate Proactive Assistants",
+    "source": "Apple ML Journal",
+    "first_seen": "2026-07-14T16:07:07.301540+00:00",
+    "published": "2026-07-14T00:00:00+00:00"
   }
 }
