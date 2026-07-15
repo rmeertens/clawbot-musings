@@ -55370,5 +55370,155 @@
     "source": "Apple ML Journal",
     "first_seen": "2026-07-14T21:43:45.102533+00:00",
     "published": "2026-07-14T00:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/Vocalinux-0.14-Beta": {
+    "title": "Vocalinux 0.14 Beta Released For Offline Voice Dictation / Speech-To-Text On Linux",
+    "source": "Phoronix",
+    "first_seen": "2026-07-15T10:40:21.632530+00:00",
+    "published": "2026-07-15T10:10:34+00:00"
+  },
+  "https://www.bbc.com/news/articles/cwydz60j3eno": {
+    "title": "New era for Gibraltar with removal of border controls with Spain",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-15T10:40:21.632530+00:00",
+    "published": "2026-07-15T10:06:05+00:00"
+  },
+  "https://stratechery.com/2026/ibm-misses-ibms-mainframe-moat-ibms-many-ai-problems": {
+    "title": "IBM Misses, IBM’s Mainframe Moat, IBM’s Many AI Problems",
+    "source": "Stratechery",
+    "first_seen": "2026-07-15T10:40:21.632530+00:00",
+    "published": "2026-07-15T10:00:19+00:00"
+  },
+  "https://www.phoronix.com/news/FreeBSD-Laptops-June-2026": {
+    "title": "FreeBSD Laptop Support Continues Improving With WiFi, GPU & Audio Driver Work",
+    "source": "Phoronix",
+    "first_seen": "2026-07-15T10:40:21.632530+00:00",
+    "published": "2026-07-15T09:56:19+00:00"
+  },
+  "https://www.phoronix.com/news/KosmicKrisp-Vulkan-1.4": {
+    "title": "Mesa's Native Vulkan-To-Metal Driver Now Advertises Vulkan 1.4",
+    "source": "Phoronix",
+    "first_seen": "2026-07-15T10:40:21.632530+00:00",
+    "published": "2026-07-15T09:39:11+00:00"
+  },
+  "https://fortune.com/2026/07/13/us-worst-oecd-fair-pay-score": {
+    "title": "America pays workers just 27% of what its wealth allows – the worst in the OECD",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-15T10:40:21.632530+00:00",
+    "published": "2026-07-15T08:58:17+00:00"
+  },
+  "https://blog.apnic.net/2026/07/15/whos-running-all-those-tiny-rpki-servers": {
+    "title": "Who's running all those tiny RPKI servers?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-15T10:40:21.632530+00:00",
+    "published": "2026-07-15T06:38:56+00:00"
+  },
+  "https://www.ayush.digital/blog/the-memory-heist": {
+    "title": "I tricked Claude into leaking your deepest, darkest secrets",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-15T10:40:21.632530+00:00",
+    "published": "2026-07-15T06:28:00+00:00"
+  },
+  "https://www.eetimes.com/risc-v-is-inevitable-state-of-the-union-keynote-argues": {
+    "title": "RISC-V Is Inevitable: State of the Union Keynote Argues",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-15T10:40:21.632530+00:00",
+    "published": "2026-07-15T06:02:17+00:00"
+  },
+  "https://fabiensanglard.net/jurrasic_park_computers/index.html": {
+    "title": "Jurassic Park computers in excruciating detail",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-15T10:40:21.632530+00:00",
+    "published": "2026-07-15T02:57:47+00:00"
+  },
+  "https://www.phoronix.com/news/OpenCL-3.1-Conformance-Apple": {
+    "title": "Khronos Lists First Conformant OpenCL 3.1 Implementation: Apple M1/M2 On Asahi Linux With Rusticl",
+    "source": "Phoronix",
+    "first_seen": "2026-07-15T10:40:21.632530+00:00",
+    "published": "2026-07-15T01:14:32+00:00"
+  },
+  "https://tailscale.com/security-bulletins": {
+    "title": "TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-15T10:40:21.632530+00:00",
+    "published": "2026-07-15T01:08:26+00:00"
+  },
+  "https://aws.amazon.com/blogs/security/icymi-june-2026-aws-security": {
+    "title": "ICYMI: June 2026 @AWS Security",
+    "source": "AWS Security Blog",
+    "first_seen": "2026-07-15T10:40:21.632530+00:00",
+    "published": "2026-07-15T00:37:58+00:00"
+  },
+  "https://www.starfleetmath.com": {
+    "title": "Solving 20 Erdős Problems with 20 Codex Accounts Running in Parallel",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-15T10:40:21.632530+00:00",
+    "published": "2026-07-15T00:15:56+00:00"
+  },
+  "https://vpd.ca": {
+    "title": "Vancouver PD website features Quick Escape button that wipes itself from history",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-15T10:40:21.632530+00:00",
+    "published": "2026-07-15T00:15:53+00:00"
+  },
+  "https://simonwillison.net/2026/Jul/14/github-changeling": {
+    "title": "Quoting GitHub Changelog",
+    "source": "Simon Willison",
+    "first_seen": "2026-07-15T10:40:21.632530+00:00",
+    "published": "2026-07-14T22:43:35+00:00"
+  },
+  "https://www.phoronix.com/news/COSMIC-Epoch-1.3": {
+    "title": "COSMIC Epoch 1.3 Released With New Frosted Glass Option",
+    "source": "Phoronix",
+    "first_seen": "2026-07-15T10:40:21.632530+00:00",
+    "published": "2026-07-14T22:41:01+00:00"
+  },
+  "https://www.benjamin-bai.com/projects/lemario": {
+    "title": "LeMario: Training a JEPA World Model on Super Mario Bros",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-15T10:40:21.632530+00:00",
+    "published": "2026-07-14T22:30:47+00:00"
+  },
+  "https://simonwillison.net/2026/Jul/14/pedalican": {
+    "title": "simonw/pedalican",
+    "source": "Simon Willison",
+    "first_seen": "2026-07-15T10:40:21.632530+00:00",
+    "published": "2026-07-14T22:29:45+00:00"
+  },
+  "https://xeiaso.net/notes/2026/check-your-smart-tv": {
+    "title": "Probably check on your smart appliances",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-15T10:40:21.632530+00:00",
+    "published": "2026-07-14T22:00:41+00:00"
+  },
+  "https://www.databricks.com/blog/take-insights-anywhere-genie-one-mobile": {
+    "title": "Take insights anywhere with Genie One on mobile",
+    "source": "Databricks Blog",
+    "first_seen": "2026-07-15T10:40:21.632530+00:00",
+    "published": "2026-07-14T22:00:00+00:00"
+  },
+  "https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown": {
+    "title": "Dependabot version updates introduce default package cooldown",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-15T10:40:21.632530+00:00",
+    "published": "2026-07-14T21:15:51+00:00"
+  },
+  "https://www.alexedwards.net/blog/how-i-use-htmx-with-go": {
+    "title": "How I use HTMX with Go",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-15T10:40:21.632530+00:00",
+    "published": "2026-07-14T19:55:31+00:00"
+  },
+  "https://grafana.com/blog/stop-switching-tools-to-find-answers-grafana-assistant-now-works-across-30-data-sources": {
+    "title": "Stop switching tools to find answers: Grafana Assistant now works across 30+ data sources",
+    "source": "Grafana Blog",
+    "first_seen": "2026-07-15T10:40:21.632530+00:00",
+    "published": "2026-07-14T18:47:36+00:00"
+  },
+  "https://kubernetes.io/blog/2026/07/14/custom-metrics-exporter-kubernetes": {
+    "title": "Building a Custom Metrics Exporter for Kubernetes",
+    "source": "Kubernetes Blog",
+    "first_seen": "2026-07-15T10:40:21.632530+00:00",
+    "published": "2026-07-14T18:00:00+00:00"
   }
 }
