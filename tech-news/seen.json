@@ -55808,5 +55808,299 @@
     "source": "Hugging Face Blog",
     "first_seen": "2026-07-15T16:11:29.275662+00:00",
     "published": "2026-07-15T00:00:00+00:00"
+  },
+  "https://hugodaniel.com/posts/the-end-of-creativity": {
+    "title": "The End of Creativity",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-15T21:44:51.622409+00:00",
+    "published": "2026-07-15T21:19:42+00:00"
+  },
+  "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf": {
+    "title": "Must actively fund open source AI [pdf]",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-15T21:44:51.622409+00:00",
+    "published": "2026-07-15T21:16:36+00:00"
+  },
+  "https://www.phoronix.com/news/Mesa-26.2-rc1-Released": {
+    "title": "Mesa 26.2-rc1 Released In Ending Feature Work For This Quarter's 3D Graphics Stack",
+    "source": "Phoronix",
+    "first_seen": "2026-07-15T21:44:51.622409+00:00",
+    "published": "2026-07-15T21:10:31+00:00"
+  },
+  "https://developer.puter.com/labs/firefox-wasm": {
+    "title": "Show HN: Firefox in WebAssembly",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-15T21:44:51.622409+00:00",
+    "published": "2026-07-15T21:00:17+00:00"
+  },
+  "https://x.ai/open-source": {
+    "title": "Grok Build is open source",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-15T21:44:51.622409+00:00",
+    "published": "2026-07-15T20:47:29+00:00"
+  },
+  "https://github.com/xai-org/grok-build": {
+    "title": "Grok Build",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-15T21:44:51.622409+00:00",
+    "published": "2026-07-15T20:24:58+00:00"
+  },
+  "https://www.phoronix.com/news/AMD-Lemonade-11.0": {
+    "title": "AMD Releases Lemonade 11.0 Local AI Server With Text-To-Speech, Other New Features",
+    "source": "Phoronix",
+    "first_seen": "2026-07-15T21:44:51.622409+00:00",
+    "published": "2026-07-15T19:51:32+00:00"
+  },
+  "https://brainless.swerdlow.dev": {
+    "title": "Brainless: Shadcn components that look like Claude Code, Codex and Grok",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-15T21:44:51.622409+00:00",
+    "published": "2026-07-15T19:42:53+00:00"
+  },
+  "https://www.lexaloffle.com/voxatron.php": {
+    "title": "Voxatron",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-15T21:44:51.622409+00:00",
+    "published": "2026-07-15T19:40:23+00:00"
+  },
+  "https://elbowgreasegames.substack.com/p/misfits-attic-announces-duskers-20": {
+    "title": "Duskers, the scary command line game, is getting a sequel",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-15T21:44:51.622409+00:00",
+    "published": "2026-07-15T19:27:59+00:00"
+  },
+  "https://opentelemetry.io/blog/2026/otel-grad-now-what": {
+    "title": "OpenTelemetry Has Graduated… Now what?",
+    "source": "OpenTelemetry Blog",
+    "first_seen": "2026-07-15T21:44:51.622409+00:00",
+    "published": "2026-07-15T18:59:02+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/introducing-open-source-bulk-executor-for-amazon-dynamodb": {
+    "title": "Introducing open source Bulk Executor for Amazon DynamoDB",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-07-15T21:44:51.622409+00:00",
+    "published": "2026-07-15T18:55:12+00:00"
+  },
+  "https://www.databricks.com/blog/inkling-thinking-machines-lab-now-databricks": {
+    "title": "Inkling model from Thinking Machines Lab now on Databricks",
+    "source": "Databricks Blog",
+    "first_seen": "2026-07-15T21:44:51.622409+00:00",
+    "published": "2026-07-15T18:30:00+00:00"
+  },
+  "https://thenewstack.io/kubernetes-ai-agent-runtime": {
+    "title": "Kubernetes won the container decade. Google’s Agent Substrate wants the next one.",
+    "source": "The New Stack",
+    "first_seen": "2026-07-15T21:44:51.622409+00:00",
+    "published": "2026-07-15T18:17:02+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/built-technologies-builds-an-ai-powered-document-intelligence-solution-on-aws-to-power-agents-across-real-estate-finance": {
+    "title": "Built Technologies builds an AI-powered document intelligence solution on AWS to power agents across real estate finance",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-07-15T21:44:51.622409+00:00",
+    "published": "2026-07-15T18:14:31+00:00"
+  },
+  "https://thinkingmachines.ai/news/introducing-inkling": {
+    "title": "Inkling: Our Open-Weights Model",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-15T21:44:51.622409+00:00",
+    "published": "2026-07-15T18:12:45+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/agentic-vision-building-visual-intelligence-with-amazon-bedrock-and-mcp-servers": {
+    "title": "Agentic vision: Building visual intelligence with Amazon Bedrock and MCP servers",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-07-15T21:44:51.622409+00:00",
+    "published": "2026-07-15T18:11:57+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/monitor-amazon-sagemaker-pipelines-cross-account-with-custom-amazon-cloudwatch-dashboards": {
+    "title": "Monitor Amazon SageMaker Pipelines cross-account with custom Amazon CloudWatch dashboards",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-07-15T21:44:51.622409+00:00",
+    "published": "2026-07-15T18:08:50+00:00"
+  },
+  "https://research.google/blog/towards-demystifying-the-creativity-of-diffusion-models": {
+    "title": "Towards demystifying the creativity of diffusion models",
+    "source": "Google Research",
+    "first_seen": "2026-07-15T21:44:51.622409+00:00",
+    "published": "2026-07-15T18:06:27+00:00"
+  },
+  "https://thenewstack.io/x402-foundation-ai-agents-standards": {
+    "title": "Trust, transactions and tokenomics: AI agent infrastructure begins to standardize",
+    "source": "The New Stack",
+    "first_seen": "2026-07-15T21:44:51.622409+00:00",
+    "published": "2026-07-15T18:03:22+00:00"
+  },
+  "https://thenewstack.io/x-open-source-codebase": {
+    "title": "Elon Musk: “We will make the entire codebase of X open source, with no exceptions.”",
+    "source": "The New Stack",
+    "first_seen": "2026-07-15T21:44:51.622409+00:00",
+    "published": "2026-07-15T17:59:43+00:00"
+  },
+  "https://thenewstack.io/atlassian-jira-coding-agents": {
+    "title": "Atlassian wants developers to finally like Jira",
+    "source": "The New Stack",
+    "first_seen": "2026-07-15T21:44:51.622409+00:00",
+    "published": "2026-07-15T17:52:28+00:00"
+  },
+  "https://developer.nvidia.com/blog/building-faster-cryptography-with-carryless-multiplication-in-nvidia-cuda-13-3": {
+    "title": "Building Faster Cryptography with Carryless Multiplication in NVIDIA CUDA 13.3",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-07-15T21:44:51.622409+00:00",
+    "published": "2026-07-15T17:37:12+00:00"
+  },
+  "https://www.databricks.com/blog/data-native-ai-agents-why-agents-must-move-your-data": {
+    "title": "Data-Native AI Agents: Why Agents Must Move to Your Data",
+    "source": "Databricks Blog",
+    "first_seen": "2026-07-15T21:44:51.622409+00:00",
+    "published": "2026-07-15T17:30:00+00:00"
+  },
+  "https://www.databricks.com/blog/ai-enabled-advisory-services-higher-education": {
+    "title": "AI-Enabled Advisory Services for Higher Education",
+    "source": "Databricks Blog",
+    "first_seen": "2026-07-15T21:44:51.622409+00:00",
+    "published": "2026-07-15T17:30:00+00:00"
+  },
+  "https://huggingface.co/blog/allenai/shippy-tech-blog": {
+    "title": "What building Shippy taught us about building agents",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-07-15T21:44:51.622409+00:00",
+    "published": "2026-07-15T17:29:41+00:00"
+  },
+  "https://github.blog/developer-skills/github/github-for-beginners-your-roadmap-to-mastering-the-github-essentials": {
+    "title": "GitHub for Beginners: Your roadmap to mastering the GitHub essentials",
+    "source": "GitHub Blog",
+    "first_seen": "2026-07-15T21:44:51.622409+00:00",
+    "published": "2026-07-15T17:29:31+00:00"
+  },
+  "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt": {
+    "title": "Model Routing Is Simple. Until It Isn’t.",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-07-15T21:44:51.622409+00:00",
+    "published": "2026-07-15T17:27:01+00:00"
+  },
+  "https://jobs.ashbyhq.com/artie": {
+    "title": "Artie (YC S23) Is Hiring Software Engineers",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-15T21:44:51.622409+00:00",
+    "published": "2026-07-15T17:01:02+00:00"
+  },
+  "https://engineering.fb.com/2026/07/15/ai-research/exploring-hierarchical-interest-representation-for-meta-ads-deep-funnel-optimization": {
+    "title": "Exploring Hierarchical Interest Representation For Meta Ads Deep Funnel Optimization",
+    "source": "Meta Engineering",
+    "first_seen": "2026-07-15T21:44:51.622409+00:00",
+    "published": "2026-07-15T17:00:52+00:00"
+  },
+  "https://grafana.com/blog/grafana-labs-named-a-leader-again-in-the-2026-gartner-magic-quadrant-for-observability-platforms": {
+    "title": "Grafana Labs named a Leader again in the 2026 Gartner® Magic Quadrant™ for Observability Platforms",
+    "source": "Grafana Blog",
+    "first_seen": "2026-07-15T21:44:51.622409+00:00",
+    "published": "2026-07-15T16:49:49+00:00"
+  },
+  "https://clocks.dev": {
+    "title": "Collection of Digital Clock Designs",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-15T21:44:51.622409+00:00",
+    "published": "2026-07-15T16:33:15+00:00"
+  },
+  "https://lwn.net/Articles/1082342": {
+    "title": "[$] Topics in filesystem testing",
+    "source": "LWN.net",
+    "first_seen": "2026-07-15T21:44:51.622409+00:00",
+    "published": "2026-07-15T16:19:26+00:00"
+  },
+  "https://www.phoronix.com/review/razer-blade18-windows-linux": {
+    "title": "Ubuntu 26.04 LTS vs. Windows 11 vs. CachyOS Performance On A $5399 Laptop",
+    "source": "Phoronix",
+    "first_seen": "2026-07-15T21:44:51.622409+00:00",
+    "published": "2026-07-15T16:15:15+00:00"
+  },
+  "https://github.com/vshulcz/deja-vu": {
+    "title": "Open-source memory for coding agents, synced over SSH",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-15T21:44:51.622409+00:00",
+    "published": "2026-07-15T16:15:03+00:00"
+  },
+  "https://spawn-queue.acm.org/doi/pdf/10.1145/3762989": {
+    "title": "Unsolved Problems in MLOps",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-15T21:44:51.622409+00:00",
+    "published": "2026-07-15T16:15:01+00:00"
+  },
+  "https://cloud.google.com/blog/products/databases/how-alloydb-overcomes-indexing-limitations-with-ai-functions": {
+    "title": "How to solve PostgreSQL multilingual full-text search limitations with AlloyDB AI",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-07-15T21:44:51.622409+00:00",
+    "published": "2026-07-15T16:00:00+00:00"
+  },
+  "https://github.com/welcome-to-the-sunny-side/misa77": {
+    "title": "Show HN: misa77 - a codec that decodes 2x faster than LZ4 (at better ratios)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-15T21:44:51.622409+00:00",
+    "published": "2026-07-15T15:58:59+00:00"
+  },
+  "https://coasty.ai/docs": {
+    "title": "Launch HN: Coasty (YC S26) – An API for computer-use agents",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-15T21:44:51.622409+00:00",
+    "published": "2026-07-15T15:51:20+00:00"
+  },
+  "https://github.com/sirixdb/sirix": {
+    "title": "Show HN: SirixDB 1.0 Beta – Git-Like Versioning, Diffs, Time-Travel Queries",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-15T21:44:51.622409+00:00",
+    "published": "2026-07-15T15:46:50+00:00"
+  },
+  "https://www.neomindlabs.com/2026/06/08/running-gemma-4-26b-at-5-tokens-sec-on-a-13-year-old-xeon-with-no-gpu": {
+    "title": "Running Gemma 4 26B at 5 tokens/sec on a 13-year-old Xeon with no GPU",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-15T21:44:51.622409+00:00",
+    "published": "2026-07-15T15:34:05+00:00"
+  },
+  "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action": {
+    "title": "The US is advancing AI safety through state and federal action",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-07-15T21:44:51.622409+00:00",
+    "published": "2026-07-15T12:00:00+00:00"
+  },
+  "https://neon.com/blog/neon-backend-is-beta": {
+    "title": "Test out the Neon backend: Object Storage, Functions, and AI Gateway are beta",
+    "source": "Neon Blog",
+    "first_seen": "2026-07-15T21:44:51.622409+00:00",
+    "published": "2026-07-15T12:00:00+00:00"
+  },
+  "https://openai.com/index/unlocking-self-improvement-gpt-red": {
+    "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-07-15T21:44:51.622409+00:00",
+    "published": "2026-07-15T10:00:00+00:00"
+  },
+  "https://www.elastic.co/blog/av-comparatives-business-security-test-2026": {
+    "title": "Elastic leads the latest AV-Comparatives Malware Protection Test with a perfect score",
+    "source": "Elastic Blog",
+    "first_seen": "2026-07-15T21:44:51.622409+00:00",
+    "published": "2026-07-15T00:00:00+00:00"
+  },
+  "https://machinelearning.apple.com/research/uncertainty-quantification-function-calling": {
+    "title": "Uncertainty Quantification for LLM Function-Calling",
+    "source": "Apple ML Journal",
+    "first_seen": "2026-07-15T21:44:51.622409+00:00",
+    "published": "2026-07-15T00:00:00+00:00"
+  },
+  "https://machinelearning.apple.com/research/clara-latent-reasoning": {
+    "title": "CLaRa: Bridging Retrieval and Generation with Continuous Latent Reasoning",
+    "source": "Apple ML Journal",
+    "first_seen": "2026-07-15T21:44:51.622409+00:00",
+    "published": "2026-07-15T00:00:00+00:00"
+  },
+  "https://machinelearning.apple.com/research/adapting-pretrained-visual-encoders": {
+    "title": "One Layer Is Enough: Adapting Pretrained Visual Encoders for Image Generation",
+    "source": "Apple ML Journal",
+    "first_seen": "2026-07-15T21:44:51.622409+00:00",
+    "published": "2026-07-15T00:00:00+00:00"
+  },
+  "https://huggingface.co/blog/thinkingmachines-inkling": {
+    "title": "Welcome Inkling by Thinking Machines",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-07-15T21:44:51.622409+00:00",
+    "published": "2026-07-15T00:00:00+00:00"
   }
 }
