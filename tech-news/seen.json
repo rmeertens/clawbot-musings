@@ -55520,5 +55520,293 @@
     "source": "Kubernetes Blog",
     "first_seen": "2026-07-15T10:40:21.632530+00:00",
     "published": "2026-07-14T18:00:00+00:00"
+  },
+  "https://newsletter.pragmaticengineer.com/p/context-engineering-with-dex-horthy": {
+    "title": "Context engineering with Dex Horthy",
+    "source": "The Pragmatic Engineer",
+    "first_seen": "2026-07-15T16:11:29.275662+00:00",
+    "published": "2026-07-15T16:08:59+00:00"
+  },
+  "https://thenewstack.io/openai-codex-micro-macropad": {
+    "title": "OpenAI’s first gadget is the $230 Codex Micro macropad",
+    "source": "The New Stack",
+    "first_seen": "2026-07-15T16:11:29.275662+00:00",
+    "published": "2026-07-15T16:01:00+00:00"
+  },
+  "https://www.cncf.io/blog/2026/07/15/hami-becomes-a-cncf-incubating-project": {
+    "title": "HAMi becomes a CNCF incubating project",
+    "source": "CNCF Blog",
+    "first_seen": "2026-07-15T16:11:29.275662+00:00",
+    "published": "2026-07-15T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/topics/developers-practitioners/why-ai-apps-fail-in-production": {
+    "title": "Why AI apps fail in production (And how Google solved it)",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-07-15T16:11:29.275662+00:00",
+    "published": "2026-07-15T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/networking/idc-on-the-right-networking-approach-for-agentic-ai": {
+    "title": "IDC: Why the right networking approach is foundational to agentic AI",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-07-15T16:11:29.275662+00:00",
+    "published": "2026-07-15T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/data-analytics/analyze-and-govern-gemini-enterprise-at-scale-with-bigquery": {
+    "title": "How to Analyze and Govern Gemini Enterprise App Usage at Scale with BigQuery",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-07-15T16:11:29.275662+00:00",
+    "published": "2026-07-15T16:00:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/high-performance-remote-shuffle-service-on-amazon-emr-with-apache-celeborn": {
+    "title": "High-performance Remote Shuffle Service on Amazon EMR with Apache Celeborn",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-07-15T16:11:29.275662+00:00",
+    "published": "2026-07-15T15:56:25+00:00"
+  },
+  "https://lwn.net/Articles/1083076": {
+    "title": "Local DoS attack vectors in seunshare 3.10 (SUSE Security Team Blog)",
+    "source": "LWN.net",
+    "first_seen": "2026-07-15T16:11:29.275662+00:00",
+    "published": "2026-07-15T15:52:13+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/zero-copy-access-to-apache-iceberg-tables-in-amazon-s3-from-salesforce-data-360-using-the-iceberg-rest-endpoint-from-aws-glue-data-catalog": {
+    "title": "Zero Copy access to Apache Iceberg tables in Amazon S3 from Salesforce Data 360 using the Iceberg REST endpoint from AWS Glue Data Catalog",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-07-15T16:11:29.275662+00:00",
+    "published": "2026-07-15T15:51:33+00:00"
+  },
+  "https://blog.bytebytego.com/p/ai-customer-support-at-scale-the": {
+    "title": "AI Customer Support at Scale: The Travel Industry’s $Billion Bet",
+    "source": "ByteByteGo",
+    "first_seen": "2026-07-15T16:11:29.275662+00:00",
+    "published": "2026-07-15T15:30:53+00:00"
+  },
+  "https://aws.amazon.com/blogs/architecture/how-bitdrift-scaled-to-121-million-concurrent-grpc-connections-on-amazon-cloudfront-for-live-telemetry-sporting-events": {
+    "title": "How bitdrift scaled to 121 million concurrent gRPC connections on Amazon CloudFront for live telemetry sporting events",
+    "source": "AWS Architecture Blog",
+    "first_seen": "2026-07-15T16:11:29.275662+00:00",
+    "published": "2026-07-15T15:27:47+00:00"
+  },
+  "https://www.dea.gov/press-releases/2026/07/01/dea-temporarily-schedule-7-oh-and-related-substances-protect-public": {
+    "title": "DEA to Temporarily Schedule 7-Oh and Related Substances to Protect Public Safety",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-15T16:11:29.275662+00:00",
+    "published": "2026-07-15T15:17:44+00:00"
+  },
+  "https://pytorch.org/blog/triton-plugin-extensions-enabling-tlx-and-custom-compiler-passes-out-of-the-box": {
+    "title": "Triton Plugin Extensions: Enabling TLX and Custom Compiler Passes Out of the Box",
+    "source": "PyTorch Blog",
+    "first_seen": "2026-07-15T16:11:29.275662+00:00",
+    "published": "2026-07-15T15:09:15+00:00"
+  },
+  "https://dpa-international.com/economics/urn:newsml:dpa.com:20090101:260715-930-389143": {
+    "title": "OpenAI loses trademark dispute at EU court",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-15T16:11:29.275662+00:00",
+    "published": "2026-07-15T14:32:36+00:00"
+  },
+  "https://www.strix.ai/blog/n8n-cross-issuer-account-takeover": {
+    "title": "CVE-2026-59208: Cross-Issuer Account Takeover in n8n",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-15T16:11:29.275662+00:00",
+    "published": "2026-07-15T14:30:07+00:00"
+  },
+  "https://simonwillison.net/2026/Jul/15/claude-web-fetch-exfiltration": {
+    "title": "How I tricked Claude into leaking your deepest, darkest secrets",
+    "source": "Simon Willison",
+    "first_seen": "2026-07-15T16:11:29.275662+00:00",
+    "published": "2026-07-15T14:21:54+00:00"
+  },
+  "https://fitelson.org/seminar/dawid.pdf": {
+    "title": "The well-calibrated Bayesian [pdf] (1982)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-15T16:11:29.275662+00:00",
+    "published": "2026-07-15T14:11:12+00:00"
+  },
+  "https://eardatasci.github.io/c/ambiance/index.html": {
+    "title": "Towards a Harness That Can Do Anything",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-15T16:11:29.275662+00:00",
+    "published": "2026-07-15T14:08:28+00:00"
+  },
+  "https://thenewstack.io/anaconda-kilo-open-source-acquisition": {
+    "title": "Anaconda buys Kilo, the open source coding agent that answers to no single model maker",
+    "source": "The New Stack",
+    "first_seen": "2026-07-15T16:11:29.275662+00:00",
+    "published": "2026-07-15T14:07:00+00:00"
+  },
+  "https://thenewstack.io/meta-compute-supply-fragmentation": {
+    "title": "Meta and the rise of the accidental cloud",
+    "source": "The New Stack",
+    "first_seen": "2026-07-15T16:11:29.275662+00:00",
+    "published": "2026-07-15T14:00:00+00:00"
+  },
+  "https://realpython.com/python-claude-md": {
+    "title": "How to Write a CLAUDE.md File for Claude Code",
+    "source": "Real Python",
+    "first_seen": "2026-07-15T16:11:29.275662+00:00",
+    "published": "2026-07-15T14:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/topics/threat-intelligence/exposed-cloud-functions-harden": {
+    "title": "The Risk of Exposed Cloud Functions and How to Harden",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-07-15T16:11:29.275662+00:00",
+    "published": "2026-07-15T14:00:00+00:00"
+  },
+  "https://github.com/bitjaru/styleseed": {
+    "title": "Show HN: StyleSeed – a design-rules engine so AI agents stop building generic UI",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-15T16:11:29.275662+00:00",
+    "published": "2026-07-15T13:55:23+00:00"
+  },
+  "https://crates.io/crates/fli-tool": {
+    "title": "Show HN: 18KB ls alternative in no_std rust and Libc",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-15T16:11:29.275662+00:00",
+    "published": "2026-07-15T13:49:15+00:00"
+  },
+  "https://github.com/synseqack/aict": {
+    "title": "Show HN: Aict – Unix coreutils that output XML/JSON, built for AI agents",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-15T16:11:29.275662+00:00",
+    "published": "2026-07-15T13:39:54+00:00"
+  },
+  "https://userfrom1995.github.io/goku": {
+    "title": "Show HN: Goku – WASM (wllama)-powered LLM inference and model manager",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-15T16:11:29.275662+00:00",
+    "published": "2026-07-15T13:36:30+00:00"
+  },
+  "https://lwn.net/Articles/1081871": {
+    "title": "[$] Lockless MPSC FIFO queues for io_uring",
+    "source": "LWN.net",
+    "first_seen": "2026-07-15T16:11:29.275662+00:00",
+    "published": "2026-07-15T13:35:43+00:00"
+  },
+  "https://dev.moe/en/3025": {
+    "title": "Mysteries of Telegram Data Centers",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-15T16:11:29.275662+00:00",
+    "published": "2026-07-15T13:22:00+00:00"
+  },
+  "https://lwn.net/Articles/1083044": {
+    "title": "Security updates for Wednesday",
+    "source": "LWN.net",
+    "first_seen": "2026-07-15T16:11:29.275662+00:00",
+    "published": "2026-07-15T13:19:02+00:00"
+  },
+  "https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence": {
+    "title": "The Three-Second Theft: Why AI Voice Fraud Outruns Every Defence",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-15T16:11:29.275662+00:00",
+    "published": "2026-07-15T13:18:15+00:00"
+  },
+  "https://www.ghacks.net/2026/07/12/microsoft-confirms-windows-gdid-device-identifier-that-cannot-be-disabled-documented-in-fbi-case-filing": {
+    "title": "Microsoft Confirms Windows GDID Device Identifier That Cannot Be Disabled",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-15T16:11:29.275662+00:00",
+    "published": "2026-07-15T13:11:01+00:00"
+  },
+  "https://www.ft.com/content/3a023b95-66c3-41e1-b0ce-df752a499541": {
+    "title": "SpaceX bond worth 10% less than issue price – heading for junk bond status",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-15T16:11:29.275662+00:00",
+    "published": "2026-07-15T12:59:09+00:00"
+  },
+  "https://www.phoronix.com/news/Apple-Magic-Bluetooth-Battery": {
+    "title": "Linux Patches Finally Allow Apple Magic Keyboard/Mouse Battery Monitoring Via Bluetooth",
+    "source": "Phoronix",
+    "first_seen": "2026-07-15T16:11:29.275662+00:00",
+    "published": "2026-07-15T12:54:47+00:00"
+  },
+  "https://lwn.net/Articles/1082940": {
+    "title": "Many old shim versions are still accepted by secure boot",
+    "source": "LWN.net",
+    "first_seen": "2026-07-15T16:11:29.275662+00:00",
+    "published": "2026-07-15T12:49:36+00:00"
+  },
+  "https://blog.omgmog.net/post/most-popular-numbers-in-hn-post-titles": {
+    "title": "What's the most popular number in Hacker News titles?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-15T16:11:29.275662+00:00",
+    "published": "2026-07-15T12:40:46+00:00"
+  },
+  "https://briarproject.org/news/2026-maintenance-mode": {
+    "title": "Briar Is in Maintenance Mode",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-15T16:11:29.275662+00:00",
+    "published": "2026-07-15T12:33:27+00:00"
+  },
+  "https://longnow.org/ideas/richard-feynman-and-the-connection-machine": {
+    "title": "Richard Feynman and the Connection Machine",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-15T16:11:29.275662+00:00",
+    "published": "2026-07-15T12:13:19+00:00"
+  },
+  "https://thenewstack.io/ai-notetaker-database-architecture": {
+    "title": "“The database is the product”: What breaks when memory devices scale",
+    "source": "The New Stack",
+    "first_seen": "2026-07-15T16:11:29.275662+00:00",
+    "published": "2026-07-15T12:00:00+00:00"
+  },
+  "https://realpython.com/quizzes/python-claude-md": {
+    "title": "Quiz: How to Write a CLAUDE.md File for Claude Code",
+    "source": "Real Python",
+    "first_seen": "2026-07-15T16:11:29.275662+00:00",
+    "published": "2026-07-15T12:00:00+00:00"
+  },
+  "https://academic.oup.com/sleep/article/47/1/zsad253/7280269": {
+    "title": "Sleep regularity is a stronger predictor of mortality risk than sleep duration (2023)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-15T16:11:29.275662+00:00",
+    "published": "2026-07-15T11:46:06+00:00"
+  },
+  "https://ramones.dev/posts/mental-health": {
+    "title": "Prioritize mental health, and why communication is so important",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-15T16:11:29.275662+00:00",
+    "published": "2026-07-15T11:27:35+00:00"
+  },
+  "https://www.schneier.com/blog/archives/2026/07/a-video-screen-that-is-also-a-camera.html": {
+    "title": "A Video Screen That Is Also a Camera",
+    "source": "Schneier on Security",
+    "first_seen": "2026-07-15T16:11:29.275662+00:00",
+    "published": "2026-07-15T11:04:06+00:00"
+  },
+  "https://github.com/Michael-Manning/E-Paper-Climate-Logger": {
+    "title": "Weathergotchi – an open-source climate Tamagotchi",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-15T16:11:29.275662+00:00",
+    "published": "2026-07-15T11:02:43+00:00"
+  },
+  "https://www.cncf.io/blog/2026/07/15/on-prem-dbaas-in-2026-platforms-standards-and-gaps": {
+    "title": "On-prem DBaaS in 2026: Platforms, standards, and gaps",
+    "source": "CNCF Blog",
+    "first_seen": "2026-07-15T16:11:29.275662+00:00",
+    "published": "2026-07-15T11:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-Is-Not-Anti-AI": {
+    "title": "Linus Torvalds Reaffirms That Linux Is Not \"Anti-AI\" & Not A \"Social Warrior\" Project",
+    "source": "Phoronix",
+    "first_seen": "2026-07-15T16:11:29.275662+00:00",
+    "published": "2026-07-15T10:35:21+00:00"
+  },
+  "https://www.elastic.co/blog/elastic-leader-gartner-magic-quadrant-observability-platforms-2026": {
+    "title": "Elastic named a Leader in the 2026 Gartner® Magic Quadrant™ for Observability Platforms",
+    "source": "Elastic Blog",
+    "first_seen": "2026-07-15T16:11:29.275662+00:00",
+    "published": "2026-07-15T00:00:00+00:00"
+  },
+  "https://planetscale.com/blog/making-768-servers-look-like-1": {
+    "title": "Making 768 servers look like 1",
+    "source": "PlanetScale Blog",
+    "first_seen": "2026-07-15T16:11:29.275662+00:00",
+    "published": "2026-07-15T00:00:00+00:00"
+  },
+  "https://huggingface.co/blog/real-world-voiceeq": {
+    "title": "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-07-15T16:11:29.275662+00:00",
+    "published": "2026-07-15T00:00:00+00:00"
   }
 }
