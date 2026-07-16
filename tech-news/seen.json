@@ -56102,5 +56102,155 @@
     "source": "Hugging Face Blog",
     "first_seen": "2026-07-15T21:44:51.622409+00:00",
     "published": "2026-07-15T00:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/GETAC-ACPI-Driver-Buttons-Linux": {
+    "title": "New Linux Driver Improving Support For GETAC Rugged Laptops",
+    "source": "Phoronix",
+    "first_seen": "2026-07-16T10:47:09.392391+00:00",
+    "published": "2026-07-16T10:16:53+00:00"
+  },
+  "https://www.phoronix.com/news/Ubuntu-7.0-AMDGPU-Regress": {
+    "title": "Ubuntu Kernel Team Warns Of Temporary AMD GPU Performance Regression Up To 42x",
+    "source": "Phoronix",
+    "first_seen": "2026-07-16T10:47:09.392391+00:00",
+    "published": "2026-07-16T10:05:33+00:00"
+  },
+  "https://www.phoronix.com/news/IMG-PowerVR-BXM-4-64-FW": {
+    "title": "Imagination PowerVR BXM-4-64 GPU Firmware Upstreamed For The T-Head TH1520",
+    "source": "Phoronix",
+    "first_seen": "2026-07-16T10:47:09.392391+00:00",
+    "published": "2026-07-16T09:51:22+00:00"
+  },
+  "https://deepmind.google/blog/our-approach-to-bioresilience": {
+    "title": "Our approach to bioresilience",
+    "source": "DeepMind Blog",
+    "first_seen": "2026-07-16T10:47:09.392391+00:00",
+    "published": "2026-07-16T09:30:42+00:00"
+  },
+  "https://joinedanthropic.com": {
+    "title": "Where are YC founders now? OpenAI and Anthropic, mostly",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-16T10:47:09.392391+00:00",
+    "published": "2026-07-16T08:03:35+00:00"
+  },
+  "https://www.databricks.com/blog/introducing-apache-spark-42": {
+    "title": "Introducing Apache Spark 4.2",
+    "source": "Databricks Blog",
+    "first_seen": "2026-07-16T10:47:09.392391+00:00",
+    "published": "2026-07-16T07:00:01+00:00"
+  },
+  "https://cr.yp.to/proto/netstrings.txt": {
+    "title": "Netstrings (1997)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-16T10:47:09.392391+00:00",
+    "published": "2026-07-16T05:33:50+00:00"
+  },
+  "https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming": {
+    "title": "The lost joy of music piracy",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-16T10:47:09.392391+00:00",
+    "published": "2026-07-16T04:46:21+00:00"
+  },
+  "https://github.com/minh-ton/reynard-browser": {
+    "title": "Reynard: A real Firefox web browser for iOS 13 or later",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-16T10:47:09.392391+00:00",
+    "published": "2026-07-16T04:36:07+00:00"
+  },
+  "https://madcampos.dev/blog/2026/07/accessibility-from-scratch": {
+    "title": "If you want to create a button from scratch, you must first create the universe",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-16T10:47:09.392391+00:00",
+    "published": "2026-07-16T03:48:43+00:00"
+  },
+  "https://www.openculture.com/2026/07/explore-1300-beautiful-wildlife-illustrations-from-the-19th-century.html": {
+    "title": "1,300 Beautiful Wildlife Illustrations from the 19th Century Now Restored",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-16T10:47:09.392391+00:00",
+    "published": "2026-07-16T03:12:47+00:00"
+  },
+  "https://www.phoronix.com/news/AMD-ROCm-7.14": {
+    "title": "AMD ROCm 7.14 Announced As New Production Release, Ryzen AI 400 Series Support",
+    "source": "Phoronix",
+    "first_seen": "2026-07-16T10:47:09.392391+00:00",
+    "published": "2026-07-16T02:49:17+00:00"
+  },
+  "https://arxiv.org/abs/2607.11859": {
+    "title": "Can LLMs Perform Deep Technical Comprehension of Computer Architecture Papers",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-16T10:47:09.392391+00:00",
+    "published": "2026-07-16T02:17:31+00:00"
+  },
+  "https://pmbanugo.me/blog/why-async-await-complect-concurrency": {
+    "title": "The Tokio/Rayon Trap and Why Async/Await Fails Concurrency",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-16T10:47:09.392391+00:00",
+    "published": "2026-07-16T02:06:36+00:00"
+  },
+  "https://lwn.net/Articles/1081915": {
+    "title": "[$] LWN.net Weekly Edition for July 16, 2026",
+    "source": "LWN.net",
+    "first_seen": "2026-07-16T10:47:09.392391+00:00",
+    "published": "2026-07-16T01:24:55+00:00"
+  },
+  "https://atproto.com/blog/at-protocol-trademark": {
+    "title": "Bluesky Trademarks ATProto",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-16T10:47:09.392391+00:00",
+    "published": "2026-07-16T01:21:04+00:00"
+  },
+  "https://simonwillison.net/2026/Jul/16/grok-mermaid": {
+    "title": "Mermaid to Unicode box art (grok-mermaid)",
+    "source": "Simon Willison",
+    "first_seen": "2026-07-16T10:47:09.392391+00:00",
+    "published": "2026-07-16T00:33:18+00:00"
+  },
+  "https://www.phoronix.com/news/AMD-ROCm-TheRock-7.14": {
+    "title": "AMD ROCm 7.14 \"TheRock\" Tech Preview Tagged For Latest AMD GPU Compute Stack",
+    "source": "Phoronix",
+    "first_seen": "2026-07-16T10:47:09.392391+00:00",
+    "published": "2026-07-16T00:21:31+00:00"
+  },
+  "https://simonwillison.net/2026/Jul/15/grok-build": {
+    "title": "xai-org/grok-build, now open source",
+    "source": "Simon Willison",
+    "first_seen": "2026-07-16T10:47:09.392391+00:00",
+    "published": "2026-07-15T23:59:30+00:00"
+  },
+  "https://chemistry.berkeley.edu/news/meet-metal-organic-frameworks-chemistry%E2%80%99s-new-miracle-materials": {
+    "title": "Metal-Organic Frameworks, Chemistry's New Miracle Materials (2018)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-16T10:47:09.392391+00:00",
+    "published": "2026-07-15T23:00:31+00:00"
+  },
+  "https://developer.nvidia.com/blog/build-a-multi-camera-3d-tracking-application-with-nvidia-deepstream-9-1-skills": {
+    "title": "Build a Multi-Camera 3D Tracking Application with NVIDIA DeepStream 9.1 Skills",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-07-16T10:47:09.392391+00:00",
+    "published": "2026-07-15T23:00:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/compute/new-enhanced-assetstate-dimension-for-aws-outposts-capacity-metrics-on-amazon-cloudwatch": {
+    "title": "New: Enhanced AssetState dimension for AWS Outposts capacity metrics on Amazon CloudWatch",
+    "source": "AWS Compute Blog",
+    "first_seen": "2026-07-16T10:47:09.392391+00:00",
+    "published": "2026-07-15T22:52:23+00:00"
+  },
+  "https://mort.coffee/home/sqlite-editions": {
+    "title": "SQLite should have (Rust-style) editions",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-16T10:47:09.392391+00:00",
+    "published": "2026-07-15T22:42:58+00:00"
+  },
+  "https://blog.greg.technology/2026/07/14/llm-networking-with-mikrotik.html": {
+    "title": "LLM Networking with MikroTik",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-16T10:47:09.392391+00:00",
+    "published": "2026-07-15T22:23:27+00:00"
+  },
+  "https://developer.nvidia.com/blog/develop-lightweight-usd-runtimes-faster-with-ai-agents": {
+    "title": "Develop Lightweight USD Runtimes Faster with AI Agents",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-07-16T10:47:09.392391+00:00",
+    "published": "2026-07-15T21:57:23+00:00"
   }
 }
