@@ -56588,5 +56588,275 @@
     "source": "Astro Blog",
     "first_seen": "2026-07-16T16:08:21.790312+00:00",
     "published": "2026-07-16T00:00:00+00:00"
+  },
+  "https://www.databricks.com/blog/your-ai-ready-your-data-foundation-probably-isnt": {
+    "title": "Your AI is ready. Your data foundation probably isn’t",
+    "source": "Databricks Blog",
+    "first_seen": "2026-07-16T21:57:55.991281+00:00",
+    "published": "2026-07-16T22:00:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/build-enterprise-search-for-agents-with-amazon-bedrock-managed-knowledge-base": {
+    "title": "Build enterprise search for agents with Amazon Bedrock Managed Knowledge Base",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-07-16T21:57:55.991281+00:00",
+    "published": "2026-07-16T21:29:14+00:00"
+  },
+  "https://www.phoronix.com/news/KDE-Server-SIde-Drop-Shadows": {
+    "title": "KDE KWin Introduces Support For Server-Side Drop Shadows",
+    "source": "Phoronix",
+    "first_seen": "2026-07-16T21:57:55.991281+00:00",
+    "published": "2026-07-16T21:10:33+00:00"
+  },
+  "https://www.phoronix.com/news/AMD-GAIA-0.22": {
+    "title": "AMD's GAIA Continues Striving To Be Your Ultimate AI Companion For Emails",
+    "source": "Phoronix",
+    "first_seen": "2026-07-16T21:57:55.991281+00:00",
+    "published": "2026-07-16T20:46:00+00:00"
+  },
+  "https://arxiv.org/abs/2607.11938": {
+    "title": "Mathematics of Data Science",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-16T21:57:55.991281+00:00",
+    "published": "2026-07-16T20:38:48+00:00"
+  },
+  "https://timelinescan.com": {
+    "title": "Timeline Scan – AI fixes the dates on your scanned photos",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-16T21:57:55.991281+00:00",
+    "published": "2026-07-16T20:25:47+00:00"
+  },
+  "https://www.science.org/doi/10.1126/science.aea9708": {
+    "title": "Helium escaping from atmosphere of nearby rocky exoplanet in a habitable zone",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-16T21:57:55.991281+00:00",
+    "published": "2026-07-16T20:24:02+00:00"
+  },
+  "https://libretto.sh/debug-agents": {
+    "title": "Show HN: Libretto PR agents – Automatically fix failing playwright scripts",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-16T21:57:55.991281+00:00",
+    "published": "2026-07-16T20:21:27+00:00"
+  },
+  "https://simonwillison.net/2026/Jul/16/kimi-k3": {
+    "title": "Kimi K3, and what we can still learn from the pelican benchmark",
+    "source": "Simon Willison",
+    "first_seen": "2026-07-16T21:57:55.991281+00:00",
+    "published": "2026-07-16T20:19:30+00:00"
+  },
+  "https://lmstudio.ai/blog/introducing-lm-studio-bionic": {
+    "title": "LM Studio Bionic: the AI agent for open models",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-16T21:57:55.991281+00:00",
+    "published": "2026-07-16T20:18:15+00:00"
+  },
+  "https://www.bbc.com/future/article/20260715-how-period-trackers-share-womens-private-details": {
+    "title": "The privacy problems hidden in your period tracker",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-16T21:57:55.991281+00:00",
+    "published": "2026-07-16T20:15:58+00:00"
+  },
+  "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6": {
+    "title": "$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-16T21:57:55.991281+00:00",
+    "published": "2026-07-16T20:03:23+00:00"
+  },
+  "https://tailscale.com/blog/remotely-access-home-assistant": {
+    "title": "Remotely access Home Assistant via Tailscale for free",
+    "source": "Tailscale Blog",
+    "first_seen": "2026-07-16T21:57:55.991281+00:00",
+    "published": "2026-07-16T20:00:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/introducing-grok-on-amazon-bedrock": {
+    "title": "Introducing Grok on Amazon Bedrock",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-07-16T21:57:55.991281+00:00",
+    "published": "2026-07-16T19:29:26+00:00"
+  },
+  "https://opentelemetry.io/blog/2026/go-compile-time-instrumentation-v1": {
+    "title": "Announcing v1 of OpenTelemetry Go Compile-Time Instrumentation",
+    "source": "OpenTelemetry Blog",
+    "first_seen": "2026-07-16T21:57:55.991281+00:00",
+    "published": "2026-07-16T19:04:14+00:00"
+  },
+  "https://cloud.google.com/blog/products/ai-machine-learning/google-is-a-leader-in-the-gartner-magic-quadrant-for-conversational-ai": {
+    "title": "Google is a Leader and positioned furthest in Vision and highest in Execution in the 2026 Gartner® Magic Quadrant™ for Conversational AI Platforms",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-07-16T21:57:55.991281+00:00",
+    "published": "2026-07-16T19:00:00+00:00"
+  },
+  "https://nicholas-afk.github.io/AttoChess": {
+    "title": "AttoChess, a complete, playable chess program for 16-bit x86 DOS in 278 bytes",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-16T21:57:55.991281+00:00",
+    "published": "2026-07-16T18:33:24+00:00"
+  },
+  "https://www.phoronix.com/news/FreeBSD-Intern-AMD-ROCm": {
+    "title": "FreeBSD Intern Working On Porting AMD ROCm To The BSD World",
+    "source": "Phoronix",
+    "first_seen": "2026-07-16T21:57:55.991281+00:00",
+    "published": "2026-07-16T18:00:00+00:00"
+  },
+  "https://www.databricks.com/blog/what-happens-milliseconds-after-you-tap-pay": {
+    "title": "What happens in the milliseconds after you tap pay",
+    "source": "Databricks Blog",
+    "first_seen": "2026-07-16T21:57:55.991281+00:00",
+    "published": "2026-07-16T18:00:00+00:00"
+  },
+  "https://www.databricks.com/blog/unified-context-missing-layer-enterprise-ai-coworkers": {
+    "title": "Unified context: The missing layer for enterprise AI coworkers",
+    "source": "Databricks Blog",
+    "first_seen": "2026-07-16T21:57:55.991281+00:00",
+    "published": "2026-07-16T18:00:00+00:00"
+  },
+  "https://www.databricks.com/blog/skills-gap-behind-agentic-ai-and-how-databricks-closing-it-new-context-engineer-certification": {
+    "title": "The skills gap behind agentic AI — and how Databricks is closing it with a new context engineer certification and agent trainings",
+    "source": "Databricks Blog",
+    "first_seen": "2026-07-16T21:57:55.991281+00:00",
+    "published": "2026-07-16T18:00:00+00:00"
+  },
+  "https://thenewstack.io/ai-code-bottleneck-myth": {
+    "title": "AI hasn’t shifted the bottleneck from coding to code review",
+    "source": "The New Stack",
+    "first_seen": "2026-07-16T21:57:55.991281+00:00",
+    "published": "2026-07-16T18:00:00+00:00"
+  },
+  "https://thenewstack.io/godaddy-developer-platform-domains": {
+    "title": "GoDaddy opened its registrar to AI agents. Then it had to build guardrails.",
+    "source": "The New Stack",
+    "first_seen": "2026-07-16T21:57:55.991281+00:00",
+    "published": "2026-07-16T17:48:29+00:00"
+  },
+  "https://simonwillison.net/2026/Jul/16/bad-codex-bug": {
+    "title": "Quoting Thibault Sottiaux",
+    "source": "Simon Willison",
+    "first_seen": "2026-07-16T21:57:55.991281+00:00",
+    "published": "2026-07-16T17:45:59+00:00"
+  },
+  "https://consequence.net/2026/07/the-cd-revival-is-getting-hard-to-ignore": {
+    "title": "CD sales growth outpaced vinyl in the first half of 2026",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-16T21:57:55.991281+00:00",
+    "published": "2026-07-16T17:19:16+00:00"
+  },
+  "https://www.docker.com/blog/from-the-captains-chair-mohammad-ali-arabi": {
+    "title": "From the Captain’s Chair: Mohammad-Ali A’râbi",
+    "source": "Docker Blog",
+    "first_seen": "2026-07-16T21:57:55.991281+00:00",
+    "published": "2026-07-16T17:15:44+00:00"
+  },
+  "https://devblogs.microsoft.com/dotnet/announcing-dotnet-modernization-for-beginners": {
+    "title": "Announcing .NET Modernization for Beginners",
+    "source": "MS .NET Blog",
+    "first_seen": "2026-07-16T21:57:55.991281+00:00",
+    "published": "2026-07-16T17:07:06+00:00"
+  },
+  "https://grafana.com/blog/observabilitycon-2026-register-today-and-preview-this-year-s-agenda": {
+    "title": "ObservabilityCON 2026: Register today and preview this year's agenda",
+    "source": "Grafana Blog",
+    "first_seen": "2026-07-16T21:57:55.991281+00:00",
+    "published": "2026-07-16T17:01:51+00:00"
+  },
+  "https://replit.com/blog/self-driving-company": {
+    "title": "The Self-Driving Company",
+    "source": "Replit Blog",
+    "first_seen": "2026-07-16T21:57:55.991281+00:00",
+    "published": "2026-07-16T17:01:00+00:00"
+  },
+  "https://www.ycombinator.com/companies/adaptional/jobs": {
+    "title": "Adaptional (YC S25) Is Hiring",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-16T21:57:55.991281+00:00",
+    "published": "2026-07-16T17:00:55+00:00"
+  },
+  "https://thenewstack.io/solving-the-validation-problem": {
+    "title": "You don’t have a deployment problem. You have a validation problem.",
+    "source": "The New Stack",
+    "first_seen": "2026-07-16T21:57:55.991281+00:00",
+    "published": "2026-07-16T17:00:00+00:00"
+  },
+  "https://news.ycombinator.com/item?id=48937020": {
+    "title": "Launch HN: Traceforce (YC S26) – Company-wide security monitoring for AI apps",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-16T21:57:55.991281+00:00",
+    "published": "2026-07-16T16:52:16+00:00"
+  },
+  "https://newsletter.pragmaticengineer.com/p/the-pulse-groks-cli-caught-uploading": {
+    "title": "The Pulse: Grok’s CLI caught uploading all your local files to the cloud",
+    "source": "The Pragmatic Engineer",
+    "first_seen": "2026-07-16T21:57:55.991281+00:00",
+    "published": "2026-07-16T16:48:53+00:00"
+  },
+  "https://blog.lyc8503.net/en/post/llm-classifier": {
+    "title": "Detecting LLM-Generated Texts with “Classical” Machine Learning",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-16T21:57:55.991281+00:00",
+    "published": "2026-07-16T16:41:37+00:00"
+  },
+  "https://blog.bytebytego.com/p/a-guide-to-multi-tenancy-benefits": {
+    "title": "A Guide to Multi-Tenancy: Benefits and Challenges",
+    "source": "ByteByteGo",
+    "first_seen": "2026-07-16T21:57:55.991281+00:00",
+    "published": "2026-07-16T16:37:08+00:00"
+  },
+  "https://www.mixfont.com/experiments/decoy-font": {
+    "title": "Decoy Font",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-16T21:57:55.991281+00:00",
+    "published": "2026-07-16T16:18:21+00:00"
+  },
+  "https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook": {
+    "title": "NotebookLM is now Gemini Notebook",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-16T21:57:55.991281+00:00",
+    "published": "2026-07-16T16:08:13+00:00"
+  },
+  "https://github.com/patonw/leaves": {
+    "title": "Show HN: Leaves – A text-UI disk usage treemap visualizer",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-16T21:57:55.991281+00:00",
+    "published": "2026-07-16T16:03:43+00:00"
+  },
+  "https://openai.com/index/why-teens-deserve-access-safe-ai": {
+    "title": "Why teens deserve access to safe AI",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-07-16T21:57:55.991281+00:00",
+    "published": "2026-07-16T16:00:00+00:00"
+  },
+  "https://bamboo.kickstage.com": {
+    "title": "Show HN: BambooGrid – Open-source web UI for power grid modeling and power flow",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-16T21:57:55.991281+00:00",
+    "published": "2026-07-16T15:55:47+00:00"
+  },
+  "https://immersivemath.com/ila": {
+    "title": "Immersive Linear Algebra Book with Interactive Figures (2015)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-16T21:57:55.991281+00:00",
+    "published": "2026-07-16T15:32:23+00:00"
+  },
+  "https://www.zhinit.dev/blog/training-a-kick-drum-diffusion-model": {
+    "title": "How to Train a Gen AI Kick Drum Model on Your Old Linux Desktop with 6GB VRAM",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-16T21:57:55.991281+00:00",
+    "published": "2026-07-16T15:13:00+00:00"
+  },
+  "https://cloud.google.com/blog/topics/developers-practitioners/securing-ai-at-enterprise-scale-the-google-kubernetes-engine-blueprint": {
+    "title": "Securing AI at Enterprise Scale: The Google Kubernetes Engine Blueprint",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-07-16T21:57:55.991281+00:00",
+    "published": "2026-07-16T11:28:00+00:00"
+  },
+  "https://blog.sentry.io/seer-agent-page-context": {
+    "title": "Your agent should understand what you see",
+    "source": "Sentry Blog",
+    "first_seen": "2026-07-16T21:57:55.991281+00:00",
+    "published": "2026-07-16T09:00:00+00:00"
+  },
+  "https://www.elastic.co/blog/ai-guidelines-interview-process": {
+    "title": "Elastic’s guide to AI in the interview process",
+    "source": "Elastic Blog",
+    "first_seen": "2026-07-16T21:57:55.991281+00:00",
+    "published": "2026-07-16T00:00:00+00:00"
   }
 }
