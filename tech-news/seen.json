@@ -56978,5 +56978,245 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-07-17T10:28:14.281186+00:00",
     "published": "2026-07-16T14:46:05+00:00"
+  },
+  "https://thenewstack.io/1password-agent-authentication-framework": {
+    "title": "1Password’s new browser integration for Claude changes how AI uses your credentials",
+    "source": "The New Stack",
+    "first_seen": "2026-07-17T16:06:25.451074+00:00",
+    "published": "2026-07-17T16:05:12+00:00"
+  },
+  "https://aws.amazon.com/blogs/architecture/eclipse-dataspace-components-on-aws-cost-optimization-strategies": {
+    "title": "Eclipse Dataspace Components on AWS: Cost optimization strategies",
+    "source": "AWS Architecture Blog",
+    "first_seen": "2026-07-17T16:06:25.451074+00:00",
+    "published": "2026-07-17T16:03:47+00:00"
+  },
+  "https://aws.amazon.com/blogs/architecture/eclipse-dataspace-components-on-aws-architecture-patterns-in-production": {
+    "title": "Eclipse Dataspace Components on AWS: Architecture patterns in production",
+    "source": "AWS Architecture Blog",
+    "first_seen": "2026-07-17T16:06:25.451074+00:00",
+    "published": "2026-07-17T16:03:44+00:00"
+  },
+  "https://aws.amazon.com/blogs/architecture/eclipse-dataspace-components-on-aws-data-sharing-fundamentals": {
+    "title": "Eclipse Dataspace Components on AWS: Data sharing fundamentals",
+    "source": "AWS Architecture Blog",
+    "first_seen": "2026-07-17T16:06:25.451074+00:00",
+    "published": "2026-07-17T16:03:40+00:00"
+  },
+  "https://cloud.google.com/blog/products/data-analytics/level-up-your-column-level-security-using-iam-data-governance-tags-in-bigquery": {
+    "title": "Level Up Your Column-level Security: Using IAM Data Governance Tags in BigQuery",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-07-17T16:06:25.451074+00:00",
+    "published": "2026-07-17T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/ai-machine-learning/13-demos-on-gemini-enterprise-agent-platform": {
+    "title": "13 hands-on demos to build on Gemini Enterprise Agent Platform",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-07-17T16:06:25.451074+00:00",
+    "published": "2026-07-17T16:00:00+00:00"
+  },
+  "https://lwn.net/Articles/1082111": {
+    "title": "[$] Securing BPF LSMs against tampering",
+    "source": "LWN.net",
+    "first_seen": "2026-07-17T16:06:25.451074+00:00",
+    "published": "2026-07-17T15:58:17+00:00"
+  },
+  "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel": {
+    "title": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-07-17T16:06:25.451074+00:00",
+    "published": "2026-07-17T15:57:54+00:00"
+  },
+  "https://workspaces.xyz": {
+    "title": "Show HN: Explore the Workspaces of Modern Creators",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-17T16:06:25.451074+00:00",
+    "published": "2026-07-17T15:41:05+00:00"
+  },
+  "https://thenewstack.io/doordash-cli-agents-order": {
+    "title": "“They’re dead if they don’t offer this”: DoorDash’s CLI for agents may be out of necessity",
+    "source": "The New Stack",
+    "first_seen": "2026-07-17T16:06:25.451074+00:00",
+    "published": "2026-07-17T14:36:17+00:00"
+  },
+  "https://stateofopensource.ai": {
+    "title": "Mozilla: The state of open source AI",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-17T16:06:25.451074+00:00",
+    "published": "2026-07-17T14:31:10+00:00"
+  },
+  "https://www.olafalders.com/2026/07/17/claude-code-anatomy-of-a-misfeature": {
+    "title": "Claude Code: Anatomy of a Misfeature",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-17T16:06:25.451074+00:00",
+    "published": "2026-07-17T14:26:58+00:00"
+  },
+  "https://selbonds.now": {
+    "title": "Show HN: On-chain bond market where the issuers are AI agents",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-17T16:06:25.451074+00:00",
+    "published": "2026-07-17T14:25:20+00:00"
+  },
+  "https://blog.zksecurity.xyz/posts/openvm-bugs": {
+    "title": "AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-17T16:06:25.451074+00:00",
+    "published": "2026-07-17T14:21:35+00:00"
+  },
+  "https://www.bbc.com/news/articles/cy4kdd1e0ejo": {
+    "title": "First atmosphere found on Earth-like planet in habitable zone of distant star",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-17T16:06:25.451074+00:00",
+    "published": "2026-07-17T14:06:13+00:00"
+  },
+  "https://honeypotlive.cc": {
+    "title": "Show HN: Watch bots interact with an SSH honeypot in real time",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-17T16:06:25.451074+00:00",
+    "published": "2026-07-17T14:05:15+00:00"
+  },
+  "https://improvesomething.today/responses-to-problems": {
+    "title": "Three ways people respond to a problem (other than solving it)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-17T16:06:25.451074+00:00",
+    "published": "2026-07-17T14:00:04+00:00"
+  },
+  "https://scotto.me/blog/2026-07-17-which-lisp": {
+    "title": "A Road to Lisp: Which Lisp",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-17T16:06:25.451074+00:00",
+    "published": "2026-07-17T13:56:04+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-ACPI-WMI-Driver-ARM64": {
+    "title": "Linux WMI Driver Gets Ready To Support ACPI-Based ARM64 Laptops",
+    "source": "Phoronix",
+    "first_seen": "2026-07-17T16:06:25.451074+00:00",
+    "published": "2026-07-17T13:45:50+00:00"
+  },
+  "https://simonwillison.net/2026/Jul/17/kimi-k3": {
+    "title": "Quoting Kimi K3",
+    "source": "Simon Willison",
+    "first_seen": "2026-07-17T16:06:25.451074+00:00",
+    "published": "2026-07-17T13:43:53+00:00"
+  },
+  "https://mceglowski.substack.com/p/more-bounce-to-the-ounce": {
+    "title": "More Bounce to the Ounce",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-17T16:06:25.451074+00:00",
+    "published": "2026-07-17T13:32:11+00:00"
+  },
+  "https://github.com/PennyLaneAI/pennylane": {
+    "title": "PennyLane is an open-source quantum software platform for quantum",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-17T16:06:25.451074+00:00",
+    "published": "2026-07-17T13:30:47+00:00"
+  },
+  "https://www.ycombinator.com/companies/manufact/jobs/Dh6PYP5-senior-infrastructure-engineer": {
+    "title": "Manufact (YC S25) Is Hiring a Senior infra engineer to build the MCP cloud",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-17T16:06:25.451074+00:00",
+    "published": "2026-07-17T13:22:33+00:00"
+  },
+  "https://lwn.net/Articles/1083388": {
+    "title": "Security updates for Friday",
+    "source": "LWN.net",
+    "first_seen": "2026-07-17T16:06:25.451074+00:00",
+    "published": "2026-07-17T13:06:22+00:00"
+  },
+  "https://en.ubiresearchnet.com/multi-primary-color-display-technology-2026": {
+    "title": "Multi-Primary Color Display Emerges as Next-Gen Color Reproduction Technology",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-17T16:06:25.451074+00:00",
+    "published": "2026-07-17T13:02:07+00:00"
+  },
+  "https://thenewstack.io/agent-evidence-packet-analytics": {
+    "title": "Why every AI agent decision needs a receipt",
+    "source": "The New Stack",
+    "first_seen": "2026-07-17T16:06:25.451074+00:00",
+    "published": "2026-07-17T13:00:00+00:00"
+  },
+  "https://minikotlin.run": {
+    "title": "Minikotlin",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-17T16:06:25.451074+00:00",
+    "published": "2026-07-17T12:50:29+00:00"
+  },
+  "https://www.capitalone.com/tech/open-source/announcing-vulnhunter": {
+    "title": "VulnHunter: Capital One's agentic AI code security tool",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-17T16:06:25.451074+00:00",
+    "published": "2026-07-17T12:42:12+00:00"
+  },
+  "https://www.phoronix.com/news/Arm-Core-Local-Accelerator": {
+    "title": "Arm Core Local Accelerator Driver Posted For Linux As Agnostic Interface For Accelerators",
+    "source": "Phoronix",
+    "first_seen": "2026-07-17T16:06:25.451074+00:00",
+    "published": "2026-07-17T12:35:41+00:00"
+  },
+  "https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166": {
+    "title": "Apple targets dozens of OpenAI employees with legal letters",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-17T16:06:25.451074+00:00",
+    "published": "2026-07-17T12:02:39+00:00"
+  },
+  "https://thenewstack.io/kubernetes-controllers-at-scale": {
+    "title": "From intent to enforcement: Lessons from operating Kubernetes controllers at scale",
+    "source": "The New Stack",
+    "first_seen": "2026-07-17T16:06:25.451074+00:00",
+    "published": "2026-07-17T12:00:00+00:00"
+  },
+  "https://thenewstack.io/cpu-agentic-ai-axion": {
+    "title": "Arm and Google offer a smarter option to run agentic AI workloads",
+    "source": "The New Stack",
+    "first_seen": "2026-07-17T16:06:25.451074+00:00",
+    "published": "2026-07-17T12:00:00+00:00"
+  },
+  "https://realpython.com/podcasts/rpp/303": {
+    "title": "The Real Python Podcast – Episode #303: Free-Threaded Python's History & uv in Production",
+    "source": "Real Python",
+    "first_seen": "2026-07-17T16:06:25.451074+00:00",
+    "published": "2026-07-17T12:00:00+00:00"
+  },
+  "https://www.kaggle.com/competitions/kaggle-measuring-agi/discussion/724918": {
+    "title": "Evidence of inconsistencies in evaluation process and selection of winners",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-17T16:06:25.451074+00:00",
+    "published": "2026-07-17T11:30:00+00:00"
+  },
+  "https://www.schneier.com/blog/archives/2026/07/details-of-alan-turings-voice-encryption-system.html": {
+    "title": "Details of Alan Turing’s Voice Encryption System",
+    "source": "Schneier on Security",
+    "first_seen": "2026-07-17T16:06:25.451074+00:00",
+    "published": "2026-07-17T11:02:21+00:00"
+  },
+  "https://www.cncf.io/blog/2026/07/17/flipkart-and-litmuschaos-at-kubecon-cloudnativecon-india-2026-a-recap": {
+    "title": "Flipkart and LitmusChaos at KubeCon + CloudNativeCon India 2026: A recap",
+    "source": "CNCF Blog",
+    "first_seen": "2026-07-17T16:06:25.451074+00:00",
+    "published": "2026-07-17T11:00:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/compute/introducing-self-managed-amazon-s3-buckets-for-aws-lambda-function-code": {
+    "title": "Introducing self-managed Amazon S3 buckets for AWS Lambda function code",
+    "source": "AWS Compute Blog",
+    "first_seen": "2026-07-17T16:06:25.451074+00:00",
+    "published": "2026-07-17T10:49:14+00:00"
+  },
+  "https://openai.com/index/a-scorecard-for-the-ai-age": {
+    "title": "A scorecard for the AI age",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-07-17T16:06:25.451074+00:00",
+    "published": "2026-07-17T10:00:00+00:00"
+  },
+  "https://news.ycombinator.com/item?id=48945241": {
+    "title": "AWS: Inaccurate Estimated Billing Data – $1.7 billion",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-17T16:06:25.451074+00:00",
+    "published": "2026-07-17T09:42:05+00:00"
+  },
+  "https://golangweekly.com/issues/610": {
+    "title": "Compile-time OpenTelemetry instrumentation for Go",
+    "source": "Golang Weekly",
+    "first_seen": "2026-07-17T16:06:25.451074+00:00",
+    "published": "2026-07-17T00:00:00+00:00"
   }
 }
