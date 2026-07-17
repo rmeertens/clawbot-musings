@@ -57218,5 +57218,167 @@
     "source": "Golang Weekly",
     "first_seen": "2026-07-17T16:06:25.451074+00:00",
     "published": "2026-07-17T00:00:00+00:00"
+  },
+  "https://blog.cloudflare.com/wordpress-vulnerabilities": {
+    "title": "Cloudflare WAF protects WordPress applications from two high-severity vulnerabilities",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-07-17T21:39:22.485103+00:00",
+    "published": "2026-07-17T21:30:43+00:00"
+  },
+  "https://www.schneier.com/blog/archives/2026/07/friday-squid-blogging-squid-washing-up-on-cape-cod-beach.html": {
+    "title": "Friday Squid Blogging: Squid Washing Up on Cape Cod Beach",
+    "source": "Schneier on Security",
+    "first_seen": "2026-07-17T21:39:22.485103+00:00",
+    "published": "2026-07-17T21:01:37+00:00"
+  },
+  "https://goliath32.com/blog/z80.html": {
+    "title": "The Zilog Z80 has turned 50",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-17T21:39:22.485103+00:00",
+    "published": "2026-07-17T19:41:02+00:00"
+  },
+  "https://www.humanrightsfirst.org/ice-flight-monitor-interactive-dashboard": {
+    "title": "ICE Flight Monitor Interactive Dashboard",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-17T21:39:22.485103+00:00",
+    "published": "2026-07-17T18:59:28+00:00"
+  },
+  "https://www.tigerdata.com/blog/whats-new-in-tiger-cloud": {
+    "title": "What's New in Tiger Cloud: Bigger Performance Gains, Wider Platform Reach, Better Visibility",
+    "source": "Timescale Blog",
+    "first_seen": "2026-07-17T21:39:22.485103+00:00",
+    "published": "2026-07-17T18:51:12+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/transform-your-sales-organization-with-amazon-quick-your-new-agentic-ai-teammate": {
+    "title": "Transform your sales organization with Amazon Quick: your new agentic AI teammate",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-07-17T21:39:22.485103+00:00",
+    "published": "2026-07-17T18:42:36+00:00"
+  },
+  "https://app.everything.diena.co": {
+    "title": "Show HN: A zoomable timeline of 4M Wikipedia events",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-17T21:39:22.485103+00:00",
+    "published": "2026-07-17T18:37:33+00:00"
+  },
+  "https://www.lego.com/en-us/history/articles/d-lego-building-instructions-through-time": {
+    "title": "Lego building instructions through time",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-17T21:39:22.485103+00:00",
+    "published": "2026-07-17T18:21:14+00:00"
+  },
+  "https://www.phoronix.com/review/noctua-nc-lc1-36": {
+    "title": "Noctua NL-LC1-36 All-In-One Liquid Cooler",
+    "source": "Phoronix",
+    "first_seen": "2026-07-17T21:39:22.485103+00:00",
+    "published": "2026-07-17T17:45:53+00:00"
+  },
+  "https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite": {
+    "title": "Learning a few things about running SQLite",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-17T21:39:22.485103+00:00",
+    "published": "2026-07-17T17:45:41+00:00"
+  },
+  "https://www.phoronix.com/news/FastFlowLM-Joins-AMD": {
+    "title": "FastFlowLM Developers Join AMD To Help Push Open-Source NPU Software",
+    "source": "Phoronix",
+    "first_seen": "2026-07-17T21:39:22.485103+00:00",
+    "published": "2026-07-17T17:20:38+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/introducing-mobile-layout-for-amazon-quick-dashboards": {
+    "title": "Introducing Mobile Layout for Amazon Quick dashboards",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-07-17T21:39:22.485103+00:00",
+    "published": "2026-07-17T17:13:15+00:00"
+  },
+  "https://lwn.net/Articles/1083392": {
+    "title": "Building an Arch Linux aarch64 port for Holo Core (Collabora blog)",
+    "source": "LWN.net",
+    "first_seen": "2026-07-17T21:39:22.485103+00:00",
+    "published": "2026-07-17T17:03:50+00:00"
+  },
+  "https://www.databricks.com/blog/building-soccer-coaching-app-databricks": {
+    "title": "Building a soccer coaching app on Databricks",
+    "source": "Databricks Blog",
+    "first_seen": "2026-07-17T21:39:22.485103+00:00",
+    "published": "2026-07-17T17:00:00+00:00"
+  },
+  "https://stratechery.com/2026/mainframes-and-main-characters": {
+    "title": "2026.29: Mainframes and Main Characters",
+    "source": "Stratechery",
+    "first_seen": "2026-07-17T21:39:22.485103+00:00",
+    "published": "2026-07-17T17:00:00+00:00"
+  },
+  "https://news.ycombinator.com/item?id=48949551": {
+    "title": "Thanks HN for 15 years of support and helping me find my life's work",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-17T21:39:22.485103+00:00",
+    "published": "2026-07-17T16:57:27+00:00"
+  },
+  "https://github.blog/engineering/the-cost-of-saying-yes-has-changed": {
+    "title": "The cost of saying yes has changed",
+    "source": "GitHub Blog",
+    "first_seen": "2026-07-17T21:39:22.485103+00:00",
+    "published": "2026-07-17T16:46:47+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/how-smartsheet-built-a-remote-mcp-server-on-aws": {
+    "title": "How Smartsheet built a remote MCP server on AWS",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-07-17T21:39:22.485103+00:00",
+    "published": "2026-07-17T16:32:06+00:00"
+  },
+  "https://sofar.belfortlabs.cloud": {
+    "title": "Homomorphically encrypted CIFAR-10 inference in 200ms",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-17T21:39:22.485103+00:00",
+    "published": "2026-07-17T16:29:52+00:00"
+  },
+  "https://thenewstack.io/kimi-k3-open-weight-coding": {
+    "title": "Kimi K3 tops Arena’s coding leaderboard — and it’s open-weight",
+    "source": "The New Stack",
+    "first_seen": "2026-07-17T21:39:22.485103+00:00",
+    "published": "2026-07-17T16:07:39+00:00"
+  },
+  "https://tailscale.com/blog/aperture-ai-passthrough-subscription-costs": {
+    "title": "What a $20 coding subscription actually buys",
+    "source": "Tailscale Blog",
+    "first_seen": "2026-07-17T21:39:22.485103+00:00",
+    "published": "2026-07-17T16:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/Holo-Core-Experimental-ARM64": {
+    "title": "Experimental Build Of Holo Core Published: Arch Linux AArch64 For Valve's Steam Frame",
+    "source": "Phoronix",
+    "first_seen": "2026-07-17T21:39:22.485103+00:00",
+    "published": "2026-07-17T15:59:22+00:00"
+  },
+  "https://isene.org/2026/07/Frame.html": {
+    "title": "Frame – Linux X server in Assembly",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-17T21:39:22.485103+00:00",
+    "published": "2026-07-17T15:31:22+00:00"
+  },
+  "https://www.databricks.com/blog/metas-spark-muse-11-now-available-databricks-fully-governed-unity-ai-gateway": {
+    "title": "Meta’s Spark Muse 1.1 is now available on Databricks, fully governed by Unity AI Gateway",
+    "source": "Databricks Blog",
+    "first_seen": "2026-07-17T21:39:22.485103+00:00",
+    "published": "2026-07-17T13:08:01+00:00"
+  },
+  "https://simonwillison.net/2026/Jul/17/llm-cliche-highlighter": {
+    "title": "LLM cliché highlighter",
+    "source": "Simon Willison",
+    "first_seen": "2026-07-17T21:39:22.485103+00:00",
+    "published": "2026-07-17T12:11:11+00:00"
+  },
+  "https://cloud.google.com/blog/topics/developers-practitioners/guide-to-ai-tokenomics-eleven-principles-for-token-efficient-software-engineering": {
+    "title": "Guide to AI Tokenomics: Eleven Principles for Token Efficient Software Engineering",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-07-17T21:39:22.485103+00:00",
+    "published": "2026-07-17T09:14:00+00:00"
+  },
+  "https://machinelearning.apple.com/research/unlearning-free-low-influence": {
+    "title": "When Unlearning Is Free: Leveraging Low Influence Points to Reduce Computational Costs",
+    "source": "Apple ML Journal",
+    "first_seen": "2026-07-17T21:39:22.485103+00:00",
+    "published": "2026-07-17T00:00:00+00:00"
   }
 }
