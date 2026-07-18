@@ -57494,5 +57494,131 @@
     "source": "Apple ML Journal",
     "first_seen": "2026-07-18T10:06:46.803062+00:00",
     "published": "2026-07-17T00:00:00+00:00"
+  },
+  "https://thenewstack.io/ai-agent-infrastructure-bottleneck": {
+    "title": "The bottleneck for AI agents isn’t the model anymore. It’s the context layer.",
+    "source": "The New Stack",
+    "first_seen": "2026-07-18T15:42:20.117884+00:00",
+    "published": "2026-07-18T15:00:00+00:00"
+  },
+  "https://news.ycombinator.com/item?id=48958273": {
+    "title": "LG ThinQ Terms of Use",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-18T15:42:20.117884+00:00",
+    "published": "2026-07-18T14:04:55+00:00"
+  },
+  "https://environment.ec.europa.eu/news/ban-destruction-unsold-clothes-and-shoes-enters-application-2026-07-17_en": {
+    "title": "EU ban on destruction of unsold clothes and shoes enters into application",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-18T15:42:20.117884+00:00",
+    "published": "2026-07-18T14:04:42+00:00"
+  },
+  "https://thenewstack.io/serving-environments-agent-speed": {
+    "title": "Platform engineering’s new job: serving environments at agent speed",
+    "source": "The New Stack",
+    "first_seen": "2026-07-18T15:42:20.117884+00:00",
+    "published": "2026-07-18T14:00:00+00:00"
+  },
+  "https://thenewstack.io/grok-opus-coding-tokens": {
+    "title": "I trust Claude for everything. This test made me rethink that.",
+    "source": "The New Stack",
+    "first_seen": "2026-07-18T15:42:20.117884+00:00",
+    "published": "2026-07-18T13:01:42+00:00"
+  },
+  "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a": {
+    "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-18T15:42:20.117884+00:00",
+    "published": "2026-07-18T13:00:52+00:00"
+  },
+  "https://www.phoronix.com/news/AMDGPU-DC-Apple-Studio-Display": {
+    "title": "AMD Linux Graphics Driver Preps Fix For Apple Studio Display",
+    "source": "Phoronix",
+    "first_seen": "2026-07-18T15:42:20.117884+00:00",
+    "published": "2026-07-18T12:05:57+00:00"
+  },
+  "https://www.construction-physics.com/p/reading-list-071826": {
+    "title": "Reading List 07/18/26",
+    "source": "Construction Physics",
+    "first_seen": "2026-07-18T15:42:20.117884+00:00",
+    "published": "2026-07-18T12:01:57+00:00"
+  },
+  "https://www.phoronix.com/news/GNOME-OS-Safe-Mode": {
+    "title": "GNOME OS Safe Mode Improving The System Reliability",
+    "source": "Phoronix",
+    "first_seen": "2026-07-18T15:42:20.117884+00:00",
+    "published": "2026-07-18T11:24:00+00:00"
+  },
+  "https://data.stackexchange.com/stackoverflow/query/1953768": {
+    "title": "What AI did to stackoverflow in a graph",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-18T15:42:20.117884+00:00",
+    "published": "2026-07-18T11:12:46+00:00"
+  },
+  "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal": {
+    "title": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-18T15:42:20.117884+00:00",
+    "published": "2026-07-18T11:00:29+00:00"
+  },
+  "https://www.phoronix.com/news/KDE-Plasma-6.8-CPU-Affinity": {
+    "title": "KDE Plasma 6.8 System Monitor Making It Easier Assigning Processes To CPU Cores",
+    "source": "Phoronix",
+    "first_seen": "2026-07-18T15:42:20.117884+00:00",
+    "published": "2026-07-18T10:57:23+00:00"
+  },
+  "https://boilingsteam.com/steam-machine-between-10k-and-15k-sold-per-week": {
+    "title": "Steam Machine: Between 12k and 15k Units Sold per week",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-18T15:42:20.117884+00:00",
+    "published": "2026-07-18T10:56:09+00:00"
+  },
+  "https://thenewstack.io/musk-spacexai-grok-open-source": {
+    "title": "Musk open-sourced Grok Build to fight Anthropic. Anthropic pays him $1.25 billion a month.",
+    "source": "The New Stack",
+    "first_seen": "2026-07-18T15:42:20.117884+00:00",
+    "published": "2026-07-18T10:39:00+00:00"
+  },
+  "https://www.phoronix.com/news/oneDNN-3.13": {
+    "title": "UXL's oneDNN 3.13 Preps For Intel Nova Lake With AVX10.2, More Intel Optimizations",
+    "source": "Phoronix",
+    "first_seen": "2026-07-18T15:42:20.117884+00:00",
+    "published": "2026-07-18T10:38:33+00:00"
+  },
+  "https://www.phoronix.com/news/D7VK-2.0-Released": {
+    "title": "D7VK 2.0 Released With Some Nice Performance Improvements: Up To 2x Or More",
+    "source": "Phoronix",
+    "first_seen": "2026-07-18T15:42:20.117884+00:00",
+    "published": "2026-07-18T10:32:03+00:00"
+  },
+  "https://videocardz.com/newz/lg-monitors-silently-install-software-through-windows-update-without-user-consent": {
+    "title": "LG monitors silently install software through Windows Update without consent",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-18T15:42:20.117884+00:00",
+    "published": "2026-07-18T10:21:19+00:00"
+  },
+  "https://arxiv.org/abs/2607.14587": {
+    "title": "Qubes OS Security in the Public Record",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-18T15:42:20.117884+00:00",
+    "published": "2026-07-18T08:50:07+00:00"
+  },
+  "https://negroniventurestudios.com/2026/07/18/the-computer-at-the-bottom-of-a-canal": {
+    "title": "The Computer at the Bottom of a Canal",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-18T15:42:20.117884+00:00",
+    "published": "2026-07-18T08:33:31+00:00"
+  },
+  "https://blog.python.org/2026/07/python-3150-beta-4": {
+    "title": "Python 3.15.0 beta 4 is here!",
+    "source": "Python Insider",
+    "first_seen": "2026-07-18T15:42:20.117884+00:00",
+    "published": "2026-07-18T00:00:00+00:00"
+  },
+  "https://lcamtuf.substack.com/p/tech-note-making-your-own-v-i-plots": {
+    "title": "Tech note: making your own V-I plots at home",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-18T15:42:20.117884+00:00",
+    "published": "2026-07-17T20:10:02+00:00"
   }
 }
