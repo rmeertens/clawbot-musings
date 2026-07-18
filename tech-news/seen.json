@@ -57380,5 +57380,119 @@
     "source": "Apple ML Journal",
     "first_seen": "2026-07-17T21:39:22.485103+00:00",
     "published": "2026-07-17T00:00:00+00:00"
+  },
+  "https://github.com/skorotkiewicz/signal-in-the-dark": {
+    "title": "Show HN: Find someone in the dark – light them or light yourself? (Three.js)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-18T10:06:46.803062+00:00",
+    "published": "2026-07-18T06:32:24+00:00"
+  },
+  "https://simonwillison.net/2026/Jul/18/claude-make-fable-5-permanent": {
+    "title": "Claude make Fable 5 permanent",
+    "source": "Simon Willison",
+    "first_seen": "2026-07-18T10:06:46.803062+00:00",
+    "published": "2026-07-18T06:00:13+00:00"
+  },
+  "https://simonwillison.net/2026/Jul/18/quixote": {
+    "title": "nascheme/quixote",
+    "source": "Simon Willison",
+    "first_seen": "2026-07-18T10:06:46.803062+00:00",
+    "published": "2026-07-18T05:27:49+00:00"
+  },
+  "https://ikea.greg.technology": {
+    "title": "Show HN: IKEA Complexity Index",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-18T10:06:46.803062+00:00",
+    "published": "2026-07-18T03:51:42+00:00"
+  },
+  "https://maurycyz.com/projects/bad_jpeg": {
+    "title": "Regressive JPEGs",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-18T10:06:46.803062+00:00",
+    "published": "2026-07-18T03:14:20+00:00"
+  },
+  "https://pinewind.bearblog.dev/i-started-a-dirt-notebook": {
+    "title": "I started a “dirt notebook”",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-18T10:06:46.803062+00:00",
+    "published": "2026-07-18T01:12:13+00:00"
+  },
+  "https://www.ycombinator.com/companies/drdroid/jobs/w45QcNV-product-engineer-assignment-mandatory": {
+    "title": "DrDroid (YC W23) Is Hiring",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-18T10:06:46.803062+00:00",
+    "published": "2026-07-18T01:01:08+00:00"
+  },
+  "https://www.stenchill.com/en": {
+    "title": "Stenchill: 3D Printable Solder Paste Stencil Generator",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-18T10:06:46.803062+00:00",
+    "published": "2026-07-18T00:48:37+00:00"
+  },
+  "https://www.phoronix.com/news/DXVK-3.0.2-Released": {
+    "title": "DXVK 3.0.2 Released With Improved Hang Debugging, Handful Of Game Fixes",
+    "source": "Phoronix",
+    "first_seen": "2026-07-18T10:06:46.803062+00:00",
+    "published": "2026-07-18T00:46:33+00:00"
+  },
+  "https://www.isomorphiclabs.com/articles/the-isomorphic-labs-drug-design-engine-unlocks-a-new-frontier": {
+    "title": "The Isomorphic Labs Drug Design Engine unlocks a new frontier beyond AlphaFold",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-18T10:06:46.803062+00:00",
+    "published": "2026-07-17T23:26:35+00:00"
+  },
+  "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse": {
+    "title": "Kaiser nurses say AI, surveillance are making their jobs and patient care worse",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-18T10:06:46.803062+00:00",
+    "published": "2026-07-17T22:26:30+00:00"
+  },
+  "https://github.com/BadChemical/IoT-Vulnerability-Research-Public/blob/main/TP-Link_Kasa_EC71/Kasa_EC71.md": {
+    "title": "TP-Link Kasa cameras leaked home GPS via unauthenticated UDP for 6 years",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-18T10:06:46.803062+00:00",
+    "published": "2026-07-17T21:42:43+00:00"
+  },
+  "https://netflixtechblog.com/in-house-llm-serving-at-netflix-a5a8e799ea2c?source=rss----2615bd06b42e---4": {
+    "title": "In-House LLM Serving at Netflix",
+    "source": "Netflix Tech Blog",
+    "first_seen": "2026-07-18T10:06:46.803062+00:00",
+    "published": "2026-07-17T21:32:39+00:00"
+  },
+  "https://www.crowdsupply.com/oddly-specific-objects/open-book-touch": {
+    "title": "Open Book Touch: open-source e-reader",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-18T10:06:46.803062+00:00",
+    "published": "2026-07-17T20:47:57+00:00"
+  },
+  "https://github.com/tokio-rs/topcoat": {
+    "title": "Topcoat: The full full-stack framework for Rust",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-18T10:06:46.803062+00:00",
+    "published": "2026-07-17T20:41:43+00:00"
+  },
+  "https://curiouscoding.nl/posts/static-search-tree": {
+    "title": "Static search trees: 40x faster than binary search (2024)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-18T10:06:46.803062+00:00",
+    "published": "2026-07-17T20:24:55+00:00"
+  },
+  "https://www.up.com/news/safety/Tracking-Rail-Heat-260608": {
+    "title": "Painting the sides of railroad rails white to reduce derailment",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-18T10:06:46.803062+00:00",
+    "published": "2026-07-17T20:12:59+00:00"
+  },
+  "https://www.databricks.com/blog/tech-builds-ai-finance-protects-margin": {
+    "title": "Tech builds on AI. Finance protects the margin.",
+    "source": "Databricks Blog",
+    "first_seen": "2026-07-18T10:06:46.803062+00:00",
+    "published": "2026-07-17T19:26:20+00:00"
+  },
+  "https://machinelearning.apple.com/research/visual-concept-inference": {
+    "title": "Show Me Examples: Inferring Visual Concepts from Image Sets",
+    "source": "Apple ML Journal",
+    "first_seen": "2026-07-18T10:06:46.803062+00:00",
+    "published": "2026-07-17T00:00:00+00:00"
   }
 }
