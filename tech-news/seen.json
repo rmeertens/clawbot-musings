@@ -57728,5 +57728,95 @@
     "source": "Nuxt Blog",
     "first_seen": "2026-07-18T21:38:00.969520+00:00",
     "published": "2026-07-18T00:00:00+00:00"
+  },
+  "https://twitter.com/Alibaba_Qwen/status/2078759124914098291": {
+    "title": "Qwen3.8 is launching and going open-weight soon",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-19T10:17:35.582974+00:00",
+    "published": "2026-07-19T08:44:57+00:00"
+  },
+  "https://training.perforce.com/learn/courses/535/p4-helix-core-user-basic": {
+    "title": "Perforce charges $500 for training training videos.. and it's AI narrated",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-19T10:17:35.582974+00:00",
+    "published": "2026-07-19T08:00:24+00:00"
+  },
+  "https://chipsandcheese.com/p/scrying-the-amd-gfx1250-llvm-tea": {
+    "title": "Scrying the AMD GFX1250 LLVM Tea Leaves",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-19T10:17:35.582974+00:00",
+    "published": "2026-07-19T05:07:08+00:00"
+  },
+  "https://simonwillison.net/2026/Jul/19/ai-mania": {
+    "title": "AI Mania Is Eviscerating Global Decision-Making",
+    "source": "Simon Willison",
+    "first_seen": "2026-07-19T10:17:35.582974+00:00",
+    "published": "2026-07-19T05:06:21+00:00"
+  },
+  "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust": {
+    "title": "Claude Code uses Bun written in Rust now",
+    "source": "Simon Willison",
+    "first_seen": "2026-07-19T10:17:35.582974+00:00",
+    "published": "2026-07-19T03:54:09+00:00"
+  },
+  "https://airdows.com": {
+    "title": "I built a browser-based P2P file transfer tool using WebRTC",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-19T10:17:35.582974+00:00",
+    "published": "2026-07-19T02:17:03+00:00"
+  },
+  "https://github.com/vercel-labs/deepsec": {
+    "title": "Deepsec",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-19T10:17:35.582974+00:00",
+    "published": "2026-07-19T01:33:32+00:00"
+  },
+  "https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making": {
+    "title": "AI Mania Is Eviscerating Global Decision-Making",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-19T10:17:35.582974+00:00",
+    "published": "2026-07-19T01:29:19+00:00"
+  },
+  "https://github.com/stupside/castor": {
+    "title": "Better and Cheaper Than IPTV",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-19T10:17:35.582974+00:00",
+    "published": "2026-07-19T00:59:55+00:00"
+  },
+  "https://www.phoronix.com/news/GNU-Hurd-Q2-2026": {
+    "title": "GNU Hurd Makes Progress On AArch64, Writing Translators In Rust",
+    "source": "Phoronix",
+    "first_seen": "2026-07-19T10:17:35.582974+00:00",
+    "published": "2026-07-19T00:53:09+00:00"
+  },
+  "https://workshop.cjpais.com/projects/transcribe-cpp": {
+    "title": "Transcribe.cpp",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-19T10:17:35.582974+00:00",
+    "published": "2026-07-19T00:38:26+00:00"
+  },
+  "https://codex-resets.com": {
+    "title": "Codex Resets",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-19T10:17:35.582974+00:00",
+    "published": "2026-07-18T23:24:26+00:00"
+  },
+  "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties": {
+    "title": "NYC may require landlords and realtors to disclose the use of AI in listings",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-19T10:17:35.582974+00:00",
+    "published": "2026-07-18T22:13:39+00:00"
+  },
+  "https://amigafreeware.downer.tech": {
+    "title": "Classic Amiga titles, free to download",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-19T10:17:35.582974+00:00",
+    "published": "2026-07-18T21:55:27+00:00"
+  },
+  "https://www.neatnik.net/hardcore-indieweb": {
+    "title": "Hardcore IndieWeb: Run your own website 100% independently for only $0.01/day",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-19T10:17:35.582974+00:00",
+    "published": "2026-07-18T21:45:12+00:00"
   }
 }
