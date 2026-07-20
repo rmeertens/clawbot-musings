@@ -58112,5 +58112,257 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-07-20T11:32:48.070665+00:00",
     "published": "2026-07-19T21:51:26+00:00"
+  },
+  "https://github.blog/open-source/maintainers/100-million-for-open-source-a-milestone-built-by-the-community": {
+    "title": "$100 million for open source: A milestone built by the community",
+    "source": "GitHub Blog",
+    "first_seen": "2026-07-20T16:18:32.589519+00:00",
+    "published": "2026-07-20T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/topics/partners/panasonic-automotive-vskipgen-runs-on-axion-based-c4a-metal": {
+    "title": "Accelerating automotive innovation with C4A-metal and Panasonic Automotive vSkipGen",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-07-20T16:18:32.589519+00:00",
+    "published": "2026-07-20T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/serverless/cloud-run-multi-region-services-enhanced-for-high-availability": {
+    "title": "Making highly available, multi-region Cloud Run services just got easier",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-07-20T16:18:32.589519+00:00",
+    "published": "2026-07-20T16:00:00+00:00"
+  },
+  "https://huggingface.co/blog/nvidia/cosmos3edge": {
+    "title": "Introducing Cosmos 3 Edge",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-07-20T16:18:32.589519+00:00",
+    "published": "2026-07-20T15:58:51+00:00"
+  },
+  "https://www.phoronix.com/news/GNOME-Security-Changes-2026": {
+    "title": "GNOME Changes Security Disclosure Policies Due To AI-Generated Reports",
+    "source": "Phoronix",
+    "first_seen": "2026-07-20T16:18:32.589519+00:00",
+    "published": "2026-07-20T15:55:56+00:00"
+  },
+  "https://lwn.net/Articles/1083754": {
+    "title": "Catanzaro: Some changes to GNOME security tracking",
+    "source": "LWN.net",
+    "first_seen": "2026-07-20T16:18:32.589519+00:00",
+    "published": "2026-07-20T15:52:44+00:00"
+  },
+  "https://developer.nvidia.com/blog/nvidia-nvlink-the-scale-up-network-for-ai-factories": {
+    "title": "NVIDIA NVLink: The Scale-Up Network for AI Factories",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-07-20T16:18:32.589519+00:00",
+    "published": "2026-07-20T15:46:28+00:00"
+  },
+  "https://www.newyorker.com/science/annals-of-artificial-intelligence/there-is-no-ai": {
+    "title": "Jaron Lanier: there is no AI (2023)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-20T16:18:32.589519+00:00",
+    "published": "2026-07-20T15:28:32+00:00"
+  },
+  "https://wheesper.com": {
+    "title": "Show HN: Wheesper – Start an anonymous discussion with a link",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-20T16:18:32.589519+00:00",
+    "published": "2026-07-20T15:23:50+00:00"
+  },
+  "https://www.newyorker.com/culture/the-weekend-essay/the-voice-of-google": {
+    "title": "The Voice of Google",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-20T16:18:32.589519+00:00",
+    "published": "2026-07-20T15:15:36+00:00"
+  },
+  "https://www.emergingtrajectories.com/lh/frontier-lab-economics": {
+    "title": "Kimi K3, Qwen 3.8, and Anthropic's (Potential) Unravelling",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-20T16:18:32.589519+00:00",
+    "published": "2026-07-20T15:13:42+00:00"
+  },
+  "https://nothings.org/gamedev/ssao": {
+    "title": "Corners Don't Look Like That: Regarding Screenspace Ambient Occlusion",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-20T16:18:32.589519+00:00",
+    "published": "2026-07-20T15:07:31+00:00"
+  },
+  "https://www.databricks.com/blog/three-ways-ai-unlocks-transformation-retail-travel-and-consumer-goods": {
+    "title": "The three ways AI unlocks transformation in Retail, Travel, and Consumer Goods",
+    "source": "Databricks Blog",
+    "first_seen": "2026-07-20T16:18:32.589519+00:00",
+    "published": "2026-07-20T15:01:00+00:00"
+  },
+  "https://extensionranker.com/blog/chrome-extension-title-changes-rankings": {
+    "title": "I Tracked 997 Chrome Extensions That Changed Their Titles",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-20T16:18:32.589519+00:00",
+    "published": "2026-07-20T15:00:34+00:00"
+  },
+  "https://www.nycsubway.org/wiki/Subway_Signals%3A_A_Complete_Guide": {
+    "title": "NYC Subway Signals: A Complete Guide",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-20T16:18:32.589519+00:00",
+    "published": "2026-07-20T15:00:31+00:00"
+  },
+  "https://developer.nvidia.com/blog/integrate-nvidia-omniverse-rtx-sensor-simulation-into-existing-apps": {
+    "title": "Integrate NVIDIA Omniverse RTX Sensor Simulation Into Existing Apps",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-07-20T16:18:32.589519+00:00",
+    "published": "2026-07-20T15:00:00+00:00"
+  },
+  "https://magazine.sebastianraschka.com/p/controlling-reasoning-effort-in-llms": {
+    "title": "Controlling Reasoning Effort in LLMs",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-20T16:18:32.589519+00:00",
+    "published": "2026-07-20T14:35:19+00:00"
+  },
+  "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing": {
+    "title": "American AI is locked down and proprietary. It's losing",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-20T16:18:32.589519+00:00",
+    "published": "2026-07-20T14:21:47+00:00"
+  },
+  "https://var0.xyz/posts/perfection-is-not-over-engineering.html": {
+    "title": "Perfection Is Not Over-Engineering",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-20T16:18:32.589519+00:00",
+    "published": "2026-07-20T14:10:30+00:00"
+  },
+  "https://www.firefox.com/en-US/firefox/153.0beta/releasenotes": {
+    "title": "Firefox 153.0 Beta",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-20T16:18:32.589519+00:00",
+    "published": "2026-07-20T14:09:43+00:00"
+  },
+  "https://opentelemetry.io/blog/2026/otel-swift-cocoapods-deprecation": {
+    "title": "CocoaPods Deprecation Notice for OpenTelemetry Swift",
+    "source": "OpenTelemetry Blog",
+    "first_seen": "2026-07-20T16:18:32.589519+00:00",
+    "published": "2026-07-20T14:05:37+00:00"
+  },
+  "https://www.dotnetperls.com/2026_7_18_tested-kimi-k3-coding": {
+    "title": "Tested Kimi K3 for Coding",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-20T16:18:32.589519+00:00",
+    "published": "2026-07-20T14:01:33+00:00"
+  },
+  "https://www.phoronix.com/review/linux-72-panther-lake": {
+    "title": "Linux 7.2 Improves Intel Panther Lake Xe3 Arc B390 Graphics Performance",
+    "source": "Phoronix",
+    "first_seen": "2026-07-20T16:18:32.589519+00:00",
+    "published": "2026-07-20T14:00:00+00:00"
+  },
+  "https://realpython.com/numpy-reshape": {
+    "title": "Using NumPy reshape() to Change the Shape of an Array",
+    "source": "Real Python",
+    "first_seen": "2026-07-20T16:18:32.589519+00:00",
+    "published": "2026-07-20T14:00:00+00:00"
+  },
+  "https://github.com/search": {
+    "title": "Firefox Merges Support for Vulkan Video Decoding",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-20T16:18:32.589519+00:00",
+    "published": "2026-07-20T13:47:13+00:00"
+  },
+  "https://satoshi7190.github.io/Shinjuku-indoor-threejs-demo": {
+    "title": "Shinjuku Station in 3D",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-20T16:18:32.589519+00:00",
+    "published": "2026-07-20T13:43:10+00:00"
+  },
+  "https://www.phoronix.com/news/KNOD-Network-Offload-AMD-GPUs": {
+    "title": "Linux Patches Introduce \"KNOD\" For In-Kernel Network Offloading Directly To AMD GPUs",
+    "source": "Phoronix",
+    "first_seen": "2026-07-20T16:18:32.589519+00:00",
+    "published": "2026-07-20T13:38:37+00:00"
+  },
+  "https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database": {
+    "title": "Hacker wipes Romania's land registry database",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-20T16:18:32.589519+00:00",
+    "published": "2026-07-20T13:28:33+00:00"
+  },
+  "https://lwn.net/Articles/1082687": {
+    "title": "[$] Merging famfs?",
+    "source": "LWN.net",
+    "first_seen": "2026-07-20T16:18:32.589519+00:00",
+    "published": "2026-07-20T13:15:47+00:00"
+  },
+  "https://yang-ai-lab.github.io/Inertia-1": {
+    "title": "Inertia-1: An Open Exploration to a Unified Motion Foundation Model",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-20T16:18:32.589519+00:00",
+    "published": "2026-07-20T13:11:12+00:00"
+  },
+  "https://lwn.net/Articles/1083708": {
+    "title": "Security updates for Monday",
+    "source": "LWN.net",
+    "first_seen": "2026-07-20T16:18:32.589519+00:00",
+    "published": "2026-07-20T13:10:02+00:00"
+  },
+  "https://spectrum.ieee.org/led-light-pollution": {
+    "title": "We're Squandering LEDs' Potential to Save Our Night Skies",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-20T16:18:32.589519+00:00",
+    "published": "2026-07-20T13:07:11+00:00"
+  },
+  "https://blogs.microsoft.com/blog/2026/07/20/microsoft-expands-azure-ai-and-hpc-infrastructure-with-amd": {
+    "title": "Microsoft expands Azure AI and HPC infrastructure with AMD",
+    "source": "Microsoft Blog",
+    "first_seen": "2026-07-20T16:18:32.589519+00:00",
+    "published": "2026-07-20T13:00:02+00:00"
+  },
+  "https://www.docker.com/blog/coding-agent-horror-stories-the-agent-that-deleted-production": {
+    "title": "Coding Agent Horror Stories: The Agent That Deleted Production",
+    "source": "Docker Blog",
+    "first_seen": "2026-07-20T16:18:32.589519+00:00",
+    "published": "2026-07-20T13:00:00+00:00"
+  },
+  "https://www.soofi.info": {
+    "title": "Soofi – Sovereign Open Source Foundation Models",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-20T16:18:32.589519+00:00",
+    "published": "2026-07-20T12:52:03+00:00"
+  },
+  "https://wren.wtf/shower-thoughts/stop-using-opencode": {
+    "title": "Annoying and alarming things about OpenCode",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-20T16:18:32.589519+00:00",
+    "published": "2026-07-20T12:45:55+00:00"
+  },
+  "https://www.cncf.io/blog/2026/07/20/argocon-japan-2026-meeting-the-maintainers-enterprise-insights-and-the-road-to-argo-cd-3-5": {
+    "title": "ArgoCon Japan 2026: Meeting the Maintainers, enterprise insights, and the road to Argo CD 3.5",
+    "source": "CNCF Blog",
+    "first_seen": "2026-07-20T16:18:32.589519+00:00",
+    "published": "2026-07-20T12:34:00+00:00"
+  },
+  "https://edri.org/our-work/the-eu-is-about-to-sell-our-most-sensitive-data-to-the-us-for-visa-free-travel": {
+    "title": "The EU is about to sell our most sensitive data to the US for visa-free travel",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-20T16:18:32.589519+00:00",
+    "published": "2026-07-20T12:14:08+00:00"
+  },
+  "https://realpython.com/quizzes/numpy-reshape": {
+    "title": "Quiz: Using NumPy reshape() to Change the Shape of an Array",
+    "source": "Real Python",
+    "first_seen": "2026-07-20T16:18:32.589519+00:00",
+    "published": "2026-07-20T12:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/Firefox-153-Downloads": {
+    "title": "Firefox 153 Available With Support For Vulkan Video Decoding, Experimental JPEG-XL",
+    "source": "Phoronix",
+    "first_seen": "2026-07-20T16:18:32.589519+00:00",
+    "published": "2026-07-20T11:32:33+00:00"
+  },
+  "https://matklad.github.io/2026/07/20/memory-safety-hardest-problem.html": {
+    "title": "Memory Safety's Hardest Problem",
+    "source": "matklad",
+    "first_seen": "2026-07-20T16:18:32.589519+00:00",
+    "published": "2026-07-20T00:00:00+00:00"
+  },
+  "https://machinelearning.apple.com/research/rayrope-projective-ray": {
+    "title": "RayRoPE: Projective Ray Positional Encoding for Multi-View Attention",
+    "source": "Apple ML Journal",
+    "first_seen": "2026-07-20T16:18:32.589519+00:00",
+    "published": "2026-07-20T00:00:00+00:00"
   }
 }
