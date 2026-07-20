@@ -58364,5 +58364,281 @@
     "source": "Apple ML Journal",
     "first_seen": "2026-07-20T16:18:32.589519+00:00",
     "published": "2026-07-20T00:00:00+00:00"
+  },
+  "https://blog.cloudflare.com/internal-dns": {
+    "title": "Cloudflare Internal DNS is now generally available",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-07-20T21:54:12.701960+00:00",
+    "published": "2026-07-20T20:59:31+00:00"
+  },
+  "https://www.databricks.com/blog/branching-databases-code-cicd-pattern-lakebase-production-glaspoort": {
+    "title": "Branching databases like code: a CI/CD pattern for Lakebase, in production at Glaspoort",
+    "source": "Databricks Blog",
+    "first_seen": "2026-07-20T21:54:12.701960+00:00",
+    "published": "2026-07-20T20:30:00+00:00"
+  },
+  "https://www.phoronix.com/news/NetworkManager-1.58": {
+    "title": "NetworkManager 1.58 Released With 464XLAT CLAT Support & GENEVE Interface",
+    "source": "Phoronix",
+    "first_seen": "2026-07-20T21:54:12.701960+00:00",
+    "published": "2026-07-20T20:12:39+00:00"
+  },
+  "https://www.scottrlarson.com/presentations/overcoming-surveillance-capitalism-with-awareness": {
+    "title": "The Power of Awareness: Overcoming Surveillance Capitalism",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-20T21:54:12.701960+00:00",
+    "published": "2026-07-20T20:08:45+00:00"
+  },
+  "https://simonwillison.net/2026/Jul/20/cheap-reverse-engineering": {
+    "title": "Reverse-engineering is cheap now",
+    "source": "Simon Willison",
+    "first_seen": "2026-07-20T21:54:12.701960+00:00",
+    "published": "2026-07-20T19:24:05+00:00"
+  },
+  "https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled": {
+    "title": "Human mathematicians are being outcounterexampled",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-20T21:54:12.701960+00:00",
+    "published": "2026-07-20T19:03:37+00:00"
+  },
+  "https://www.phoronix.com/news/Intel-More-Xeon-6-MRDIMMs": {
+    "title": "Intel Expanding Memory Options For Current Xeon 6 / Xeon 6+ Servers",
+    "source": "Phoronix",
+    "first_seen": "2026-07-20T21:54:12.701960+00:00",
+    "published": "2026-07-20T18:47:33+00:00"
+  },
+  "https://openai.com/index/safety-alignment-long-horizon-models": {
+    "title": "Safety and alignment in an era of long-horizon models",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-20T21:54:12.701960+00:00",
+    "published": "2026-07-20T18:43:55+00:00"
+  },
+  "https://lwn.net/Articles/1081557": {
+    "title": "[$] Fedora grapples with change",
+    "source": "LWN.net",
+    "first_seen": "2026-07-20T21:54:12.701960+00:00",
+    "published": "2026-07-20T18:26:55+00:00"
+  },
+  "https://blaizzy.github.io/nativ": {
+    "title": "Nativ: Run frontier open models locally on your Mac",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-20T21:54:12.701960+00:00",
+    "published": "2026-07-20T18:16:08+00:00"
+  },
+  "https://www.databricks.com/blog/scaling-document-classification-100k-labels": {
+    "title": "Scaling document classification to 100k+ labels",
+    "source": "Databricks Blog",
+    "first_seen": "2026-07-20T21:54:12.701960+00:00",
+    "published": "2026-07-20T18:15:00+00:00"
+  },
+  "https://dl.acm.org/doi/10.1145/3800646.3800650": {
+    "title": "The drivers behind software delivery inefficiency",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-20T21:54:12.701960+00:00",
+    "published": "2026-07-20T18:10:17+00:00"
+  },
+  "https://thenewstack.io/kimi-k3-fable-coding-benchmark": {
+    "title": "Claude Fable 5 vs. Kimi K3: Same results, one-third the cost, 4x slower",
+    "source": "The New Stack",
+    "first_seen": "2026-07-20T21:54:12.701960+00:00",
+    "published": "2026-07-20T18:07:20+00:00"
+  },
+  "https://cursor.com/blog/agent-swarm-model-economics": {
+    "title": "Agent swarms and the new model economics",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-20T21:54:12.701960+00:00",
+    "published": "2026-07-20T18:06:13+00:00"
+  },
+  "https://thenewstack.io/agent-platform-portability-contract": {
+    "title": "Amazon, Microsoft, and Google are converging on the same enterprise agent architecture",
+    "source": "The New Stack",
+    "first_seen": "2026-07-20T21:54:12.701960+00:00",
+    "published": "2026-07-20T17:43:11+00:00"
+  },
+  "https://hypr.land/news/update55": {
+    "title": "Hyprland 0.55 announced the switch to Lua for its config files",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-20T21:54:12.701960+00:00",
+    "published": "2026-07-20T17:31:57+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/custom-os-installation-now-available-on-aws-deepracer-devices": {
+    "title": "Custom OS installation now available on AWS DeepRacer devices",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-07-20T21:54:12.701960+00:00",
+    "published": "2026-07-20T17:25:24+00:00"
+  },
+  "https://www.kimi.com/products/kimi-work": {
+    "title": "Kimi Work",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-20T21:54:12.701960+00:00",
+    "published": "2026-07-20T17:13:23+00:00"
+  },
+  "https://simonwillison.net/2026/Jul/20/afraid-of-chinese-models": {
+    "title": "Who’s Afraid of Chinese Models?",
+    "source": "Simon Willison",
+    "first_seen": "2026-07-20T21:54:12.701960+00:00",
+    "published": "2026-07-20T17:09:19+00:00"
+  },
+  "https://jelly-ui.com": {
+    "title": "Jelly UI: Soft-body physics for native HTML form controls",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-20T21:54:12.701960+00:00",
+    "published": "2026-07-20T17:07:39+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/build-specialized-agent-workflows-for-your-business-with-amazon-quick-and-nvidia-nemo-agent-toolkit": {
+    "title": "Build specialized agent workflows for your business with Amazon Quick and NVIDIA NeMo Agent Toolkit",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-07-20T21:54:12.701960+00:00",
+    "published": "2026-07-20T17:01:32+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/how-couchbase-built-a-multi-model-ai-architecture-for-capella-iq-with-amazon-bedrock": {
+    "title": "How Couchbase built a multi-model AI architecture for Capella iQ with Amazon Bedrock",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-07-20T21:54:12.701960+00:00",
+    "published": "2026-07-20T16:58:52+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/evolving-from-legacy-bi-to-agentic-ai-at-tradeshift-with-amazon-quick": {
+    "title": "Evolving from legacy BI to agentic AI at Tradeshift with Amazon Quick",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-07-20T21:54:12.701960+00:00",
+    "published": "2026-07-20T16:56:48+00:00"
+  },
+  "https://aws.amazon.com/blogs/containers/jvm-memory-cpu-and-classpath-best-practices-for-java-containers-on-aws": {
+    "title": "JVM memory, CPU, and classpath best practices for Java containers on AWS",
+    "source": "AWS Containers Blog",
+    "first_seen": "2026-07-20T21:54:12.701960+00:00",
+    "published": "2026-07-20T16:54:24+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/migrate-from-aix-or-windows-db2-to-amazon-rds-for-db2": {
+    "title": "Migrate from AIX or Windows Db2 to Amazon RDS for Db2",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-07-20T21:54:12.701960+00:00",
+    "published": "2026-07-20T16:51:41+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/how-alight-solutions-achieved-55-cost-savings-with-amazon-opensearch-service": {
+    "title": "How Alight Solutions achieved 55% cost savings with Amazon OpenSearch Service",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-07-20T21:54:12.701960+00:00",
+    "published": "2026-07-20T16:50:44+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/connection-pooling-strategies-in-amazon-aurora-dsql": {
+    "title": "Connection pooling strategies in Amazon Aurora DSQL",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-07-20T21:54:12.701960+00:00",
+    "published": "2026-07-20T16:50:40+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/govern-amazon-redshift-data-across-accounts-with-sagemaker-unified-studio": {
+    "title": "Govern Amazon Redshift Data Warehouses Data Across Accounts using Amazon SageMaker Unified Studio",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-07-20T21:54:12.701960+00:00",
+    "published": "2026-07-20T16:48:33+00:00"
+  },
+  "https://aws.amazon.com/blogs/security/2026-iso-and-csa-star-certificates-are-now-available-with-two-additional-services": {
+    "title": "2026 ISO and CSA STAR certificates are now available with two additional services",
+    "source": "AWS Security Blog",
+    "first_seen": "2026-07-20T21:54:12.701960+00:00",
+    "published": "2026-07-20T16:40:16+00:00"
+  },
+  "https://aws.amazon.com/blogs/compute/serverless-icymi-q2-2026": {
+    "title": "Serverless ICYMI Q2 2026",
+    "source": "AWS Compute Blog",
+    "first_seen": "2026-07-20T21:54:12.701960+00:00",
+    "published": "2026-07-20T16:40:00+00:00"
+  },
+  "https://thenewstack.io/fable-5-permanent-subscription-access": {
+    "title": "Anthropic employees worked “literally around the clock” to keep Fable 5 from disappearing",
+    "source": "The New Stack",
+    "first_seen": "2026-07-20T21:54:12.701960+00:00",
+    "published": "2026-07-20T16:38:09+00:00"
+  },
+  "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-one-click-lambda-setup-prompt-openai-gpt-5-6-models-on-bedrock-and-more-july-20-2026": {
+    "title": "AWS Weekly Roundup: One-click Lambda setup prompt, OpenAI GPT-5.6 models on Bedrock, and more (July 20, 2026)",
+    "source": "AWS Blog",
+    "first_seen": "2026-07-20T21:54:12.701960+00:00",
+    "published": "2026-07-20T16:37:34+00:00"
+  },
+  "https://unslop.run/blog/measuring-ai-writing-on-arxiv": {
+    "title": "How we measured AI writing across arXiv, and where the measurement breaks",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-20T21:54:12.701960+00:00",
+    "published": "2026-07-20T16:36:36+00:00"
+  },
+  "https://news.ycombinator.com/item?id=48981136": {
+    "title": "Launch HN: Bloomy (YC S26) – AI-powered mastery learning for K-12",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-20T21:54:12.701960+00:00",
+    "published": "2026-07-20T16:32:10+00:00"
+  },
+  "https://engineering.atspotify.com/2026/7/content-ingestion-and-podcast-video-incident-report": {
+    "title": "Content Ingestion & Podcast Video Incident Report",
+    "source": "Spotify Engineering",
+    "first_seen": "2026-07-20T21:54:12.701960+00:00",
+    "published": "2026-07-20T16:24:48+00:00"
+  },
+  "https://www.phoronix.com/news/AMD-ROCm-SPIR-V-Reality-2026": {
+    "title": "AMD Talks Up The Great Opportunities Of SPIR-V IR With ROCm",
+    "source": "Phoronix",
+    "first_seen": "2026-07-20T21:54:12.701960+00:00",
+    "published": "2026-07-20T16:18:18+00:00"
+  },
+  "https://grafana.com/blog/beyond-performance-monitoring-understand-the-user-experience-with-grafana-cloud-frontend-observability": {
+    "title": "Beyond performance monitoring: Understand the user experience with Grafana Cloud Frontend Observability",
+    "source": "Grafana Blog",
+    "first_seen": "2026-07-20T21:54:12.701960+00:00",
+    "published": "2026-07-20T16:00:44+00:00"
+  },
+  "https://refactoringenglish.com/blog/why-i-stopped-creating-content": {
+    "title": "I Stopped “Creating Content”",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-20T21:54:12.701960+00:00",
+    "published": "2026-07-20T15:47:28+00:00"
+  },
+  "https://github.com/simoarpe/ziggity": {
+    "title": "Ziggity – A terminal UI for Git, written in Zig",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-20T21:54:12.701960+00:00",
+    "published": "2026-07-20T15:46:18+00:00"
+  },
+  "https://www.youtube.com/watch?v=NwhVJ7cv9B4": {
+    "title": "Cross sectioning insects in an electron microscope with a femtosecond laser [video]",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-20T21:54:12.701960+00:00",
+    "published": "2026-07-20T15:40:03+00:00"
+  },
+  "https://dropbox.tech/infrastructure/how-our-universal-content-processing-platform-riviera-evolved-for-ai-and-beyond": {
+    "title": "How our universal content processing platform Riviera evolved for AI and beyond",
+    "source": "Dropbox Tech",
+    "first_seen": "2026-07-20T21:54:12.701960+00:00",
+    "published": "2026-07-20T15:00:00+00:00"
+  },
+  "https://blog.sentry.io/mongodb-query-tracing-dotnet-sentry": {
+    "title": "MongoDB Query Tracing in .NET with Sentry + OTLP",
+    "source": "Sentry Blog",
+    "first_seen": "2026-07-20T21:54:12.701960+00:00",
+    "published": "2026-07-20T09:00:00+00:00"
+  },
+  "https://www.databricks.com/blog/ai-transparency": {
+    "title": "AI Transparency: Governance, Explainability, and Data Practices",
+    "source": "Databricks Blog",
+    "first_seen": "2026-07-20T21:54:12.701960+00:00",
+    "published": "2026-07-20T08:03:23+00:00"
+  },
+  "https://planetscale.com/blog/postgresql-mvcc": {
+    "title": "Every UPDATE Leaves a Ghost: MVCC, Bloat, and VACUUM in PostgreSQL",
+    "source": "PlanetScale Blog",
+    "first_seen": "2026-07-20T21:54:12.701960+00:00",
+    "published": "2026-07-20T00:00:00+00:00"
+  },
+  "https://machinelearning.apple.com/research/lvsum-video-summarization": {
+    "title": "LVSum: A Benchmark for Timestamp-Aware Long Video Summarization",
+    "source": "Apple ML Journal",
+    "first_seen": "2026-07-20T21:54:12.701960+00:00",
+    "published": "2026-07-20T00:00:00+00:00"
+  },
+  "http://brooker.co.za/blog/2026/07/19/dsql-paper.html": {
+    "title": "Aurora DSQL: Scalable, Multi-Region OLTP",
+    "source": "Marc Brooker",
+    "first_seen": "2026-07-20T21:54:12.701960+00:00",
+    "published": "2026-07-19T00:00:00+00:00"
   }
 }
