@@ -58004,5 +58004,113 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-07-19T21:39:21.970846+00:00",
     "published": "2026-07-19T14:41:16+00:00"
+  },
+  "https://www.phoronix.com/news/openSUSE-Needs-More-Sponsors": {
+    "title": "openSUSE Seeking Additional Corporate Sponsors",
+    "source": "Phoronix",
+    "first_seen": "2026-07-20T11:32:48.070665+00:00",
+    "published": "2026-07-20T11:17:05+00:00"
+  },
+  "https://www.schneier.com/blog/archives/2026/07/on-flock-license-plate-tracking-cameras.html": {
+    "title": "On Flock License Plate Tracking Cameras",
+    "source": "Schneier on Security",
+    "first_seen": "2026-07-20T11:32:48.070665+00:00",
+    "published": "2026-07-20T11:03:45+00:00"
+  },
+  "https://stratechery.com/2026/whos-afraid-of-chinese-models": {
+    "title": "Who’s Afraid of Chinese Models?",
+    "source": "Stratechery",
+    "first_seen": "2026-07-20T11:32:48.070665+00:00",
+    "published": "2026-07-20T11:00:08+00:00"
+  },
+  "https://www.cncf.io/blog/2026/07/20/why-goodput-matters-more-than-throughput-for-llm-serving": {
+    "title": "Why goodput matters more than throughput for LLM serving",
+    "source": "CNCF Blog",
+    "first_seen": "2026-07-20T11:32:48.070665+00:00",
+    "published": "2026-07-20T11:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/GCC-AVX10-V2-AUX-Patches": {
+    "title": "AMD Posts AVX10_V2_AUX ISA Support Patches For GCC Compiler",
+    "source": "Phoronix",
+    "first_seen": "2026-07-20T11:32:48.070665+00:00",
+    "published": "2026-07-20T10:27:06+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-QCE-Disabling": {
+    "title": "Linux's Qualcomm Crypto Accelerator Driver \"Harmful\" And Being Disabled: Slower Than CPU, History Of Bugs",
+    "source": "Phoronix",
+    "first_seen": "2026-07-20T11:32:48.070665+00:00",
+    "published": "2026-07-20T10:17:00+00:00"
+  },
+  "https://www.theregister.com/columnists/2026/07/20/airbus-takes-flight-from-aws-what-happens-next-is-critical/5274109": {
+    "title": "Airbus Takes Flight from AWS",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-20T11:32:48.070665+00:00",
+    "published": "2026-07-20T10:12:22+00:00"
+  },
+  "https://www.phoronix.com/news/Hyprland-0.56": {
+    "title": "Hyprland 0.56 Released With Many Enhancements To This Wayland Compositor",
+    "source": "Phoronix",
+    "first_seen": "2026-07-20T11:32:48.070665+00:00",
+    "published": "2026-07-20T10:06:25+00:00"
+  },
+  "https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6": {
+    "title": "Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-20T11:32:48.070665+00:00",
+    "published": "2026-07-20T08:13:36+00:00"
+  },
+  "https://blog.documentfoundation.org/blog/2026/07/17/microsofts-main-tool-for-lock-in": {
+    "title": "How proprietary formats have become Microsoft’s main tool for lock-in",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-20T11:32:48.070665+00:00",
+    "published": "2026-07-20T04:49:47+00:00"
+  },
+  "https://robotics.xiaomi.com/xiaomi-robotics-1.html": {
+    "title": "Xiaomi-Robotics-1",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-20T11:32:48.070665+00:00",
+    "published": "2026-07-20T04:45:15+00:00"
+  },
+  "https://github.com/Saivineeth147/lora-speedrun": {
+    "title": "LoRA Speedrun – a public wall-clock leaderboard for fine-tuning techniques",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-20T11:32:48.070665+00:00",
+    "published": "2026-07-20T04:24:48+00:00"
+  },
+  "https://theconversation.com/when-can-a-power-company-take-your-land-for-data-center-infrastructure-284061": {
+    "title": "When can a power company take your land for data center infrastructure?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-20T11:32:48.070665+00:00",
+    "published": "2026-07-20T04:19:22+00:00"
+  },
+  "https://simonwillison.net/2026/Jul/20/sam-altman": {
+    "title": "Quoting Sam Altman",
+    "source": "Simon Willison",
+    "first_seen": "2026-07-20T11:32:48.070665+00:00",
+    "published": "2026-07-20T03:47:59+00:00"
+  },
+  "https://xcancel.com/__alpoge__/status/2079028340955197566": {
+    "title": "Claude Fable produced a counterexample to the Jacobian Conjecture",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-20T11:32:48.070665+00:00",
+    "published": "2026-07-20T02:51:16+00:00"
+  },
+  "https://github.com/hgaiser/moonshine": {
+    "title": "Moonshine: Lets you stream games from your PC to any device running Moonlight",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-20T11:32:48.070665+00:00",
+    "published": "2026-07-20T00:16:50+00:00"
+  },
+  "https://lwn.net/Articles/1083543": {
+    "title": "Kernel prepatch 7.2-rc4",
+    "source": "LWN.net",
+    "first_seen": "2026-07-20T11:32:48.070665+00:00",
+    "published": "2026-07-19T22:11:57+00:00"
+  },
+  "https://github.com/Pedroshakoor/grok-build-ios": {
+    "title": "Grok-iOS – remote Grok Build from your iPhone over ACP",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-20T11:32:48.070665+00:00",
+    "published": "2026-07-19T21:51:26+00:00"
   }
 }
