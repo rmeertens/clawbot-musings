@@ -58778,5 +58778,269 @@
     "source": "Apple ML Journal",
     "first_seen": "2026-07-21T10:54:09.082465+00:00",
     "published": "2026-07-20T00:00:00+00:00"
+  },
+  "https://www.phoronix.com/review/cachyos-desktops-july-2026": {
+    "title": "KDE Plasma 6.7 vs. GNOME Shell 50.3 vs. Xfce 4.20 On CachyOS With NVIDIA Graphics",
+    "source": "Phoronix",
+    "first_seen": "2026-07-21T16:12:24.842917+00:00",
+    "published": "2026-07-21T16:00:00+00:00"
+  },
+  "https://github.blog/ai-and-ml/github-copilot/how-to-build-interactive-experiences-with-canvases": {
+    "title": "How to build interactive experiences with canvases",
+    "source": "GitHub Blog",
+    "first_seen": "2026-07-21T16:12:24.842917+00:00",
+    "published": "2026-07-21T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/databases/supercharge-pgvector-4x-faster-hnsw-with-alloydb": {
+    "title": "Supercharging pgvector: 4x faster HNSW vector search with AlloyDB",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-07-21T16:12:24.842917+00:00",
+    "published": "2026-07-21T16:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/Ubuntu-Enterprise-Store": {
+    "title": "Canonical Makes The \"Enterprise Store\" Official For Offline/Air-Gapped Ubuntu Usage",
+    "source": "Phoronix",
+    "first_seen": "2026-07-21T16:12:24.842917+00:00",
+    "published": "2026-07-21T15:38:06+00:00"
+  },
+  "https://www.ft.com/content/b37030b6-bda8-4ba9-8e08-e6b88687b8f5": {
+    "title": "Oracle could face $7B collateral bill for Wisconsin data centre",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-21T16:12:24.842917+00:00",
+    "published": "2026-07-21T15:22:33+00:00"
+  },
+  "https://www.themarshallproject.org/2026/07/15/ice-data-immigration-detention-transparency": {
+    "title": "Amid Increased Scrutiny, ICE Detention and Deportation Data Goes Dark",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-21T16:12:24.842917+00:00",
+    "published": "2026-07-21T15:21:02+00:00"
+  },
+  "https://www.404media.co/ice-to-pay-thomson-reuters-125-million-to-find-voter-fraud": {
+    "title": "ICE to Pay Thomson Reuters $125M to Find Voter Fraud",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-21T16:12:24.842917+00:00",
+    "published": "2026-07-21T15:19:44+00:00"
+  },
+  "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber": {
+    "title": "Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-21T16:12:24.842917+00:00",
+    "published": "2026-07-21T15:17:16+00:00"
+  },
+  "https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber": {
+    "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+    "source": "DeepMind Blog",
+    "first_seen": "2026-07-21T16:12:24.842917+00:00",
+    "published": "2026-07-21T15:16:30+00:00"
+  },
+  "https://lwn.net/Articles/1083981": {
+    "title": "Firefox 153 released",
+    "source": "LWN.net",
+    "first_seen": "2026-07-21T16:12:24.842917+00:00",
+    "published": "2026-07-21T15:15:12+00:00"
+  },
+  "https://thenewstack.io/google-ships-3-new-gemini-models-just-not-the-one-everyones-waiting-for": {
+    "title": "Google ships 3 new Gemini models. Just not the one everyone’s waiting for.",
+    "source": "The New Stack",
+    "first_seen": "2026-07-21T16:12:24.842917+00:00",
+    "published": "2026-07-21T15:00:52+00:00"
+  },
+  "https://thenewstack.io/kubernetes-database-operations-platform": {
+    "title": "Kubernetes made deploying easy. Nobody warned you about the databases.",
+    "source": "The New Stack",
+    "first_seen": "2026-07-21T16:12:24.842917+00:00",
+    "published": "2026-07-21T15:00:00+00:00"
+  },
+  "https://developer.nvidia.com/blog/setting-a-world-record-for-moe-pre-training-on-nvidia-gb300-nvl72": {
+    "title": "Setting a World Record for MoE Pre-Training on NVIDIA GB300 NVL72",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-07-21T16:12:24.842917+00:00",
+    "published": "2026-07-21T15:00:00+00:00"
+  },
+  "https://developer.nvidia.com/blog/inside-nvidia-vera-cpu-olympus-cores-built-for-maximum-single-threaded-performance-in-agentic-ai": {
+    "title": "NVIDIA Vera CPU: Olympus Cores Built for Maximum Single-Thread Performance in Agentic AI",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-07-21T16:12:24.842917+00:00",
+    "published": "2026-07-21T15:00:00+00:00"
+  },
+  "https://developer.nvidia.com/blog/inside-nvidia-rubin-gpu-architecture-powering-the-era-of-agentic-ai": {
+    "title": "Inside NVIDIA Rubin GPU Architecture: Powering the Era of Agentic AI",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-07-21T16:12:24.842917+00:00",
+    "published": "2026-07-21T15:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/identity-security/find-and-fix-software-vulnerabilities-with-codemender": {
+    "title": "Now in preview: Find and fix software vulnerabilities with CodeMender",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-07-21T16:12:24.842917+00:00",
+    "published": "2026-07-21T15:00:00+00:00"
+  },
+  "https://blog.exe.dev/claude-is-not-a-compiler": {
+    "title": "Claude Is Not a Compiler",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-21T16:12:24.842917+00:00",
+    "published": "2026-07-21T14:49:18+00:00"
+  },
+  "https://blog.ericgoldman.org/archives/2026/07/apple-defeats-liability-for-not-scanning-icloud-for-csam-but-the-judge-was-not-pleased-amy-v-apple.htm": {
+    "title": "Apple Defeats Liability for Not Scanning iCloud for CSAM",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-21T16:12:24.842917+00:00",
+    "published": "2026-07-21T14:31:41+00:00"
+  },
+  "https://blog.bytebytego.com/p/inside-robloxs-bet-on-world-models": {
+    "title": "Inside Roblox’s Bet on World Models",
+    "source": "ByteByteGo",
+    "first_seen": "2026-07-21T16:12:24.842917+00:00",
+    "published": "2026-07-21T14:30:48+00:00"
+  },
+  "https://simonwillison.net/2026/Jul/21/nativ": {
+    "title": "Nativ: Run AI models locally on your Mac",
+    "source": "Simon Willison",
+    "first_seen": "2026-07-21T16:12:24.842917+00:00",
+    "published": "2026-07-21T14:22:27+00:00"
+  },
+  "https://thenewstack.io/ai-retrieval-engineering-bottleneck": {
+    "title": "Is retrieval engineering becoming AI’s next bottleneck?",
+    "source": "The New Stack",
+    "first_seen": "2026-07-21T16:12:24.842917+00:00",
+    "published": "2026-07-21T14:00:00+00:00"
+  },
+  "https://thenewstack.io/agent-runtime-application-server": {
+    "title": "The rise of the agent runtime: The compute platform behind production agents",
+    "source": "The New Stack",
+    "first_seen": "2026-07-21T16:12:24.842917+00:00",
+    "published": "2026-07-21T14:00:00+00:00"
+  },
+  "https://realpython.com/courses/exploring-pythons-built-in-functions": {
+    "title": "Exploring Python's Built-in Functions",
+    "source": "Real Python",
+    "first_seen": "2026-07-21T16:12:24.842917+00:00",
+    "published": "2026-07-21T14:00:00+00:00"
+  },
+  "https://www.pcjs.org": {
+    "title": "PCjs Machines",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-21T16:12:24.842917+00:00",
+    "published": "2026-07-21T13:48:35+00:00"
+  },
+  "https://lwn.net/Articles/1083275": {
+    "title": "[$] Debating the role of large language models in the kernel community",
+    "source": "LWN.net",
+    "first_seen": "2026-07-21T16:12:24.842917+00:00",
+    "published": "2026-07-21T13:48:25+00:00"
+  },
+  "https://www.phoronix.com/news/Fedora-45-Approves-Stratis": {
+    "title": "Stratis Storage Anaconda Integration Approved For Fedora 45",
+    "source": "Phoronix",
+    "first_seen": "2026-07-21T16:12:24.842917+00:00",
+    "published": "2026-07-21T13:23:00+00:00"
+  },
+  "https://lwn.net/Articles/1083948": {
+    "title": "Security updates for Tuesday",
+    "source": "LWN.net",
+    "first_seen": "2026-07-21T16:12:24.842917+00:00",
+    "published": "2026-07-21T13:19:56+00:00"
+  },
+  "https://martinfowler.com/fragments/2026-07-21.html": {
+    "title": "Fragments: July 21",
+    "source": "Martin Fowler",
+    "first_seen": "2026-07-21T16:12:24.842917+00:00",
+    "published": "2026-07-21T13:13:00+00:00"
+  },
+  "https://thenewstack.io/human-purpose-ai-agents": {
+    "title": "In a world of AI agents, where do we fit in?",
+    "source": "The New Stack",
+    "first_seen": "2026-07-21T16:12:24.842917+00:00",
+    "published": "2026-07-21T13:00:00+00:00"
+  },
+  "https://tailscale.com/blog/welcome-mike-shaver": {
+    "title": "Engineering quality compounds",
+    "source": "Tailscale Blog",
+    "first_seen": "2026-07-21T16:12:24.842917+00:00",
+    "published": "2026-07-21T13:00:00+00:00"
+  },
+  "https://blog.cloudflare.com/2026-world-cup-internet-traffic": {
+    "title": "How the 2026 World Cup affected Internet traffic",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-07-21T16:12:24.842917+00:00",
+    "published": "2026-07-21T12:59:40+00:00"
+  },
+  "https://simonwillison.net/2026/Jul/21/cat-and-thariq": {
+    "title": "A Fireside Chat with Cat and Thariq from the Claude Code team",
+    "source": "Simon Willison",
+    "first_seen": "2026-07-21T16:12:24.842917+00:00",
+    "published": "2026-07-21T12:54:02+00:00"
+  },
+  "https://www.minneapolisfed.org/article/2026/new-homeownership-measure-puts-people-first": {
+    "title": "New US homeownership measure puts people first",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-21T16:12:24.842917+00:00",
+    "published": "2026-07-21T12:03:14+00:00"
+  },
+  "https://www.phoronix.com/news/Ryzen-AI-Halo-LED-Linux-7.3": {
+    "title": "AMD Ryzen AI Halo LED Driver Queued For Introduction In Linux 7.3",
+    "source": "Phoronix",
+    "first_seen": "2026-07-21T16:12:24.842917+00:00",
+    "published": "2026-07-21T12:00:00+00:00"
+  },
+  "https://thenewstack.io/alibaba-qwen-anthropic-fable": {
+    "title": "“Second only to Fable 5:” Alibaba talks the talk with Qwen3.8 without providing any real data",
+    "source": "The New Stack",
+    "first_seen": "2026-07-21T16:12:24.842917+00:00",
+    "published": "2026-07-21T12:00:00+00:00"
+  },
+  "https://realpython.com/quizzes/exploring-pythons-built-in-functions": {
+    "title": "Quiz: Exploring Python's Built-in Functions",
+    "source": "Real Python",
+    "first_seen": "2026-07-21T16:12:24.842917+00:00",
+    "published": "2026-07-21T12:00:00+00:00"
+  },
+  "https://www.schneier.com/blog/archives/2026/07/mit-to-become-hotbed-of-ai-video-surveillance.html": {
+    "title": "MIT to Become Hotbed of AI Video Surveillance",
+    "source": "Schneier on Security",
+    "first_seen": "2026-07-21T16:12:24.842917+00:00",
+    "published": "2026-07-21T11:07:13+00:00"
+  },
+  "https://www.cncf.io/blog/2026/07/21/why-your-agent-needs-access-to-your-documentation": {
+    "title": "Why your agent needs access to your documentation",
+    "source": "CNCF Blog",
+    "first_seen": "2026-07-21T16:12:24.842917+00:00",
+    "published": "2026-07-21T11:00:00+00:00"
+  },
+  "https://www.cncf.io/blog/2026/07/21/platform-engineering-for-the-agentic-enterprise-managing-applications-resources-and-ai-agents": {
+    "title": "Platform engineering for the agentic enterprise: Managing applications, resources, and AI agents",
+    "source": "CNCF Blog",
+    "first_seen": "2026-07-21T16:12:24.842917+00:00",
+    "published": "2026-07-21T11:00:00+00:00"
+  },
+  "https://blog.sentry.io/structure-a-log": {
+    "title": "How to structure a log",
+    "source": "Sentry Blog",
+    "first_seen": "2026-07-21T16:12:24.842917+00:00",
+    "published": "2026-07-21T09:00:00+00:00"
+  },
+  "https://www.elastic.co/blog/higher-education-analytics-ultra-intelligent-university": {
+    "title": "Higher education analytics for the ultra-intelligent university",
+    "source": "Elastic Blog",
+    "first_seen": "2026-07-21T16:12:24.842917+00:00",
+    "published": "2026-07-21T00:00:00+00:00"
+  },
+  "https://machinelearning.apple.com/research/environment-free": {
+    "title": "Environment-free Synthetic Data Generation for API-Calling Agents",
+    "source": "Apple ML Journal",
+    "first_seen": "2026-07-21T16:12:24.842917+00:00",
+    "published": "2026-07-21T00:00:00+00:00"
+  },
+  "https://machinelearning.apple.com/research/calibrated-sparse-attention": {
+    "title": "Accelerating Text-to-Video Generation with Calibrated Sparse Attention",
+    "source": "Apple ML Journal",
+    "first_seen": "2026-07-21T16:12:24.842917+00:00",
+    "published": "2026-07-21T00:00:00+00:00"
+  },
+  "https://thenewstack.io/amazon-microsoft-and-google-are-converging-on-the-same-enterprise-agent-architecture": {
+    "title": "Amazon, Microsoft, and Google are converging on the same enterprise agent architecture",
+    "source": "The New Stack",
+    "first_seen": "2026-07-21T16:12:24.842917+00:00",
+    "published": "2026-07-20T17:43:11+00:00"
   }
 }
