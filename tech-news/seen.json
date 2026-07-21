@@ -59042,5 +59042,269 @@
     "source": "The New Stack",
     "first_seen": "2026-07-21T16:12:24.842917+00:00",
     "published": "2026-07-20T17:43:11+00:00"
+  },
+  "https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok": {
+    "title": "\"Drawing\" the Mona Lisa with GPT-5.6, Claude, Gemini, and Grok",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-21T21:52:10.404329+00:00",
+    "published": "2026-07-21T21:13:20+00:00"
+  },
+  "https://terrytao.wordpress.com/2026/07/21/a-digestion-of-the-jacobian-conjecture-counterexample": {
+    "title": "A digestion of the Jacobian conjecture counterexample",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-21T21:52:10.404329+00:00",
+    "published": "2026-07-21T21:09:25+00:00"
+  },
+  "https://thenewstack.io/kimi-k3-inference-bottleneck": {
+    "title": "Moonshot launched Kimi K3. Then demand shut down subscriptions in 48 hours.",
+    "source": "The New Stack",
+    "first_seen": "2026-07-21T21:52:10.404329+00:00",
+    "published": "2026-07-21T20:48:32+00:00"
+  },
+  "https://project-mage.org": {
+    "title": "Unified power-user environment and knowledge-representation in Common Lisp",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-21T21:52:10.404329+00:00",
+    "published": "2026-07-21T20:20:25+00:00"
+  },
+  "https://openai.com/index/hugging-face-model-evaluation-security-incident": {
+    "title": "OpenAI and Hugging Face address security incident during model evaluation",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-21T21:52:10.404329+00:00",
+    "published": "2026-07-21T20:09:52+00:00"
+  },
+  "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai": {
+    "title": "The State of Simulation for Physical AI: An Overview",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-07-21T21:52:10.404329+00:00",
+    "published": "2026-07-21T20:00:27+00:00"
+  },
+  "https://www.databricks.com/blog/why-rd-data-belongs-lakehouse-and-why-agents-need-it-there": {
+    "title": "Why R&D Data Belongs in the Lakehouse - and Why Agents Need It There",
+    "source": "Databricks Blog",
+    "first_seen": "2026-07-21T21:52:10.404329+00:00",
+    "published": "2026-07-21T19:45:00+00:00"
+  },
+  "https://www.databricks.com/blog/how-dow-built-carbon-footprint-ledger-databricks-accelerate-sustainability-scale": {
+    "title": "How Dow Built a Carbon Footprint Ledger on Databricks to Accelerate Sustainability at Scale",
+    "source": "Databricks Blog",
+    "first_seen": "2026-07-21T21:52:10.404329+00:00",
+    "published": "2026-07-21T19:45:00+00:00"
+  },
+  "https://www.techradar.com/vpn/vpn-privacy-security/vpns-are-lawful-technical-tools-says-eu-court-in-landmark-anne-frank-copyright-ruling": {
+    "title": "'VPNs are lawful technical tools,' says EU Court in landmark copyright ruling",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-21T21:52:10.404329+00:00",
+    "published": "2026-07-21T19:43:59+00:00"
+  },
+  "https://devblogs.microsoft.com/devops/july-patches-for-azure-devops-server-3": {
+    "title": "July Patches for Azure DevOps Server",
+    "source": "MS DevOps Blog",
+    "first_seen": "2026-07-21T21:52:10.404329+00:00",
+    "published": "2026-07-21T19:23:57+00:00"
+  },
+  "https://www.databricks.com/blog/announcing-public-preview-discover-and-domains-powered-unity-catalog": {
+    "title": "Announcing the Public Preview of Discover and Domains, powered by Unity Catalog",
+    "source": "Databricks Blog",
+    "first_seen": "2026-07-21T21:52:10.404329+00:00",
+    "published": "2026-07-21T19:10:00+00:00"
+  },
+  "https://ads.openai.com": {
+    "title": "Advertise in ChatGPT",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-21T21:52:10.404329+00:00",
+    "published": "2026-07-21T18:58:44+00:00"
+  },
+  "https://happiness-science.org/price-of-happiness": {
+    "title": "The Price of Happiness (2024)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-21T21:52:10.404329+00:00",
+    "published": "2026-07-21T18:42:46+00:00"
+  },
+  "https://github.com/Hikari-Systems/slater": {
+    "title": "Slater – Low-memory graphdb designed for read-heavy graphs",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-21T21:52:10.404329+00:00",
+    "published": "2026-07-21T18:39:41+00:00"
+  },
+  "https://freeink.org": {
+    "title": "FreeInk: Open ecosystem for e-readers",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-21T21:52:10.404329+00:00",
+    "published": "2026-07-21T18:39:06+00:00"
+  },
+  "https://help.trmnl.com/en/articles/14130438-ai-agent": {
+    "title": "AI Agent – TRMNL",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-21T21:52:10.404329+00:00",
+    "published": "2026-07-21T18:32:21+00:00"
+  },
+  "https://github.com/Kalcode/spaceprojectsim": {
+    "title": "Show HN: A self-running space economy SIM in Rust and Bevy",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-21T21:52:10.404329+00:00",
+    "published": "2026-07-21T18:29:57+00:00"
+  },
+  "https://alignment.openai.com/measuring-reward-seeking": {
+    "title": "Measuring reward-seeking by instilling contrastive beliefs",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-21T21:52:10.404329+00:00",
+    "published": "2026-07-21T18:17:50+00:00"
+  },
+  "https://www.phoronix.com/news/Ubuntu-Snap-Three-More-Vulns": {
+    "title": "Three New Ubuntu Snap Vulnerabilities Made Public - One Dates Back To Ubuntu 16.04 LTS",
+    "source": "Phoronix",
+    "first_seen": "2026-07-21T21:52:10.404329+00:00",
+    "published": "2026-07-21T18:02:22+00:00"
+  },
+  "https://support.apple.com/guide/certifications/apple-private-cloud-compute-soc-3-audit-apc95a31b9d8/web": {
+    "title": "Apple Private Cloud Compute SoC 3 audit reports",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-21T21:52:10.404329+00:00",
+    "published": "2026-07-21T17:58:21+00:00"
+  },
+  "https://www.phoronix.com/news/Qualcomm-Zenbook-A16-X2EE": {
+    "title": "Qualcomm Posts Linux Patches For X2 Elite Extreme Powered ASUS Zenbook A16",
+    "source": "Phoronix",
+    "first_seen": "2026-07-21T21:52:10.404329+00:00",
+    "published": "2026-07-21T17:49:44+00:00"
+  },
+  "https://poolside.ai/blog/introducing-laguna-s-2-1": {
+    "title": "Laguna S 2.1",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-21T21:52:10.404329+00:00",
+    "published": "2026-07-21T17:17:06+00:00"
+  },
+  "https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git": {
+    "title": "Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-21T21:52:10.404329+00:00",
+    "published": "2026-07-21T17:14:06+00:00"
+  },
+  "https://thenewstack.io/high-reasoning-ai-coding": {
+    "title": "Single-pass AI code isn’t dead, but “high-reasoning” is the next frontier",
+    "source": "The New Stack",
+    "first_seen": "2026-07-21T21:52:10.404329+00:00",
+    "published": "2026-07-21T17:13:17+00:00"
+  },
+  "https://github.com/AlmanacCode/codealmanac": {
+    "title": "Show HN: CodeAlmanac – Karpathy-style codebase wiki from your conversations",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-21T21:52:10.404329+00:00",
+    "published": "2026-07-21T17:12:01+00:00"
+  },
+  "https://thenewstack.io/microsoft-mistral-sovereign-ai": {
+    "title": "Microsoft is building an AI stack it doesn’t fully own — on purpose",
+    "source": "The New Stack",
+    "first_seen": "2026-07-21T21:52:10.404329+00:00",
+    "published": "2026-07-21T17:05:16+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/building-a-multi-region-api-with-prisma-orm-and-amazon-aurora-dsql": {
+    "title": "Building a multi-Region API with Prisma ORM and Amazon Aurora DSQL",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-07-21T21:52:10.404329+00:00",
+    "published": "2026-07-21T17:03:24+00:00"
+  },
+  "https://ai.meta.com/blog/genesis-mission-lawrence-berkeley-national-laboratory-segment-anything-dino?_fb_noscript=1": {
+    "title": "Meta's AI models are powering the first wave of Genesis Mission projects",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-21T21:52:10.404329+00:00",
+    "published": "2026-07-21T17:03:18+00:00"
+  },
+  "https://aws.amazon.com/blogs/security/do-more-with-aws-waf-labels-using-dynamic-label-interpolation": {
+    "title": "Do more with AWS WAF labels using dynamic label interpolation",
+    "source": "AWS Security Blog",
+    "first_seen": "2026-07-21T21:52:10.404329+00:00",
+    "published": "2026-07-21T17:03:16+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/ai-powered-incident-analysis-for-amazon-rds-using-automated-forensic-artifacts": {
+    "title": "AI-powered incident analysis for Amazon RDS using automated forensic artifacts",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-07-21T21:52:10.404329+00:00",
+    "published": "2026-07-21T17:02:23+00:00"
+  },
+  "https://medium.com/airbnb-engineering/personalizing-airbnb-search-by-learning-from-the-guest-journey-bcefd1915624?source=rss----53c7c27702d5---4": {
+    "title": "Personalizing Airbnb search by learning from the guest journey",
+    "source": "Airbnb Engineering",
+    "first_seen": "2026-07-21T21:52:10.404329+00:00",
+    "published": "2026-07-21T17:01:04+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/migrating-mission-critical-payments-at-nubank-to-amazon-aurora-postgresql": {
+    "title": "Migrating mission-critical payments at Nubank to Amazon Aurora PostgreSQL",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-07-21T21:52:10.404329+00:00",
+    "published": "2026-07-21T17:00:22+00:00"
+  },
+  "https://news.ycombinator.com/item?id=48995037": {
+    "title": "Bloomy (YC S26) is hiring a founding engineer",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-21T21:52:10.404329+00:00",
+    "published": "2026-07-21T17:00:20+00:00"
+  },
+  "https://openai.com/index/introducing-chatgpt-small-business-program": {
+    "title": "Introducing the ChatGPT for small business program",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-07-21T21:52:10.404329+00:00",
+    "published": "2026-07-21T17:00:00+00:00"
+  },
+  "https://newsletter.pragmaticengineer.com/p/pushing-software-engineering-limits": {
+    "title": "Pushing software engineering limits with “napkin math”",
+    "source": "The Pragmatic Engineer",
+    "first_seen": "2026-07-21T21:52:10.404329+00:00",
+    "published": "2026-07-21T16:52:07+00:00"
+  },
+  "https://en.help.roblox.com/hc/en-us/articles/49648939984916-Android-Remote-Attestation": {
+    "title": "Roblox Officially Supports GrapheneOS",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-21T21:52:10.404329+00:00",
+    "published": "2026-07-21T16:39:30+00:00"
+  },
+  "https://thenewstack.io/block-buzz-agent-workspace": {
+    "title": "Block built a Slack for AI agents — and gave each one its own passport",
+    "source": "The New Stack",
+    "first_seen": "2026-07-21T21:52:10.404329+00:00",
+    "published": "2026-07-21T16:30:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/exploring-self-distilled-reasoning-for-supervised-fine-tuning-with-amazon-nova": {
+    "title": "Exploring self-distilled reasoning for supervised fine-tuning with Amazon Nova",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-07-21T21:52:10.404329+00:00",
+    "published": "2026-07-21T16:23:12+00:00"
+  },
+  "https://thecastlemap.com": {
+    "title": "The World's 2,400 Castles",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-21T21:52:10.404329+00:00",
+    "published": "2026-07-21T16:05:58+00:00"
+  },
+  "https://www.hashicorp.com/blog/autonomous-infrastructure-managing-complexity-in-agentic-workflows": {
+    "title": "Autonomous infrastructure: Managing complexity in agentic workflows",
+    "source": "HashiCorp Blog",
+    "first_seen": "2026-07-21T21:52:10.404329+00:00",
+    "published": "2026-07-21T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/topics/developers-practitioners/generosity-under-conditions-hardening-google-cloud-access-management": {
+    "title": "Generosity Under Conditions: Hardening Google Cloud Access Management",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-07-21T21:52:10.404329+00:00",
+    "published": "2026-07-21T11:19:00+00:00"
+  },
+  "https://www.hashicorp.com/blog/ai-speeds-software-development-is-your-secret-security-keeping-up": {
+    "title": "AI speeds software development. Is your secret security keeping up?",
+    "source": "HashiCorp Blog",
+    "first_seen": "2026-07-21T21:52:10.404329+00:00",
+    "published": "2026-07-21T07:09:00+00:00"
+  },
+  "https://openai.com/index/david-velez-robin-vince-join-openai-boards": {
+    "title": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-07-21T21:52:10.404329+00:00",
+    "published": "2026-07-21T00:00:00+00:00"
+  },
+  "https://jvns.ca/blog/2026/07/21/more-nice-django-things": {
+    "title": "Some more things about Django I've been enjoying",
+    "source": "Julia Evans",
+    "first_seen": "2026-07-21T21:52:10.404329+00:00",
+    "published": "2026-07-21T00:00:00+00:00"
   }
 }
