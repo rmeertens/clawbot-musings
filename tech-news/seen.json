@@ -59714,5 +59714,185 @@
     "source": "Elastic Blog",
     "first_seen": "2026-07-22T16:12:05.997665+00:00",
     "published": "2026-07-22T00:00:00+00:00"
+  },
+  "https://research.google/blog/symptomai-towards-a-conversational-ai-agent-for-everyday-symptom-assessment": {
+    "title": "SymptomAI: Towards a conversational AI agent for everyday symptom assessment",
+    "source": "Google Research",
+    "first_seen": "2026-07-22T21:53:34.241516+00:00",
+    "published": "2026-07-22T21:32:00+00:00"
+  },
+  "http://yummymelon.com/devnull/malleable-computing-emacs-and-you.html": {
+    "title": "Malleable Computing, Emacs, and You",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-22T21:53:34.241516+00:00",
+    "published": "2026-07-22T21:15:26+00:00"
+  },
+  "https://webkit.org/blog/18162/release-notes-for-safari-technology-preview-248": {
+    "title": "Safari Technology Preview 248 Released",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-22T21:53:34.241516+00:00",
+    "published": "2026-07-22T21:00:26+00:00"
+  },
+  "https://citizendot.github.io/articles/fake-job-interview-git-hook-malware": {
+    "title": "I Inspected My Take-Home Interview Project. It Was a Whole Operation",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-22T21:53:34.241516+00:00",
+    "published": "2026-07-22T20:33:44+00:00"
+  },
+  "https://nondescriptpointer.com/articles/fairphone-6-wide-camera-linux": {
+    "title": "Fairphone 6 wide camera experimental Linux support",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-22T21:53:34.241516+00:00",
+    "published": "2026-07-22T20:16:01+00:00"
+  },
+  "https://opentelemetry.io/blog/2026/lambda-powered-function-land-in-ottl": {
+    "title": "Lambda-powered functions land in OTTL",
+    "source": "OpenTelemetry Blog",
+    "first_seen": "2026-07-22T21:53:34.241516+00:00",
+    "published": "2026-07-22T20:04:49+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/scaling-amazon-timestream-for-influxdb-3-enterprise-right-sizing-for-stability-and-cost": {
+    "title": "Scale smart, not just big: a practical guide to multi-node Amazon Timestream for InfluxDB 3 Enterprise",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-07-22T21:53:34.241516+00:00",
+    "published": "2026-07-22T19:50:16+00:00"
+  },
+  "https://twitter.com/na_announce/status/2079952538040672302": {
+    "title": "John C. Dvorak has died",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-22T21:53:34.241516+00:00",
+    "published": "2026-07-22T19:22:19+00:00"
+  },
+  "https://www.phoronix.com/news/SDL-HDR10-Rendering-Support": {
+    "title": "SDL Lands HDR10 Rendering Support",
+    "source": "Phoronix",
+    "first_seen": "2026-07-22T21:53:34.241516+00:00",
+    "published": "2026-07-22T19:13:21+00:00"
+  },
+  "https://github.blog/ai-and-ml/github-copilot/copilot-vs-raw-api-access-what-are-you-actually-paying-for": {
+    "title": "Copilot vs. raw API access: What are you actually paying for?",
+    "source": "GitHub Blog",
+    "first_seen": "2026-07-22T21:53:34.241516+00:00",
+    "published": "2026-07-22T19:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/COSMIC-Epoch-1.4": {
+    "title": "COSMIC Epoch 1.4 Released With More Fixes, Force Quit For COSMIC Monitor",
+    "source": "Phoronix",
+    "first_seen": "2026-07-22T21:53:34.241516+00:00",
+    "published": "2026-07-22T18:48:39+00:00"
+  },
+  "https://research.google/blog/towards-a-quantum-computer-that-learns-from-its-errors": {
+    "title": "Towards a quantum computer that learns from its errors",
+    "source": "Google Research",
+    "first_seen": "2026-07-22T21:53:34.241516+00:00",
+    "published": "2026-07-22T18:40:21+00:00"
+  },
+  "https://thenewstack.io/moonshot-fable5-distillation-accusations": {
+    "title": "Kimi K3: White House alleges Fable 5 siphoning",
+    "source": "The New Stack",
+    "first_seen": "2026-07-22T21:53:34.241516+00:00",
+    "published": "2026-07-22T18:28:31+00:00"
+  },
+  "https://neon.com/blog/neon-inspect-db": {
+    "title": "Debug your Postgres from the terminal: a tour of `neon inspect db`",
+    "source": "Neon Blog",
+    "first_seen": "2026-07-22T21:53:34.241516+00:00",
+    "published": "2026-07-22T18:00:00+00:00"
+  },
+  "https://thenewstack.io/harness-ai-agent-dlc": {
+    "title": "Agents keep changing their answers. Harness just built delivery pipelines that don’t care.",
+    "source": "The New Stack",
+    "first_seen": "2026-07-22T21:53:34.241516+00:00",
+    "published": "2026-07-22T17:51:12+00:00"
+  },
+  "https://mitchellh.com/writing/everyone-should-know-simd": {
+    "title": "Everyone Should Know SIMD",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-22T21:53:34.241516+00:00",
+    "published": "2026-07-22T17:48:18+00:00"
+  },
+  "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56": {
+    "title": "Terrence Tao's ChatGPT Conversation about the Jacobian Conjecture Counterexample",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-22T21:53:34.241516+00:00",
+    "published": "2026-07-22T17:30:40+00:00"
+  },
+  "https://thenewstack.io/openai-presence-enterprise-agents": {
+    "title": "OpenAI built support agents for its own customer service line, now it hopes big enterprises will trust them too",
+    "source": "The New Stack",
+    "first_seen": "2026-07-22T21:53:34.241516+00:00",
+    "published": "2026-07-22T17:23:20+00:00"
+  },
+  "https://github.com/marcelroed/gigatoken": {
+    "title": "GigaToken: ~1000x faster Language model tokenization",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-22T21:53:34.241516+00:00",
+    "published": "2026-07-22T17:20:38+00:00"
+  },
+  "https://dylancastillo.co/posts/pelicanmaxxing.html": {
+    "title": "Are AI Labs Pelicanmaxxing?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-22T21:53:34.241516+00:00",
+    "published": "2026-07-22T17:17:54+00:00"
+  },
+  "https://aws.amazon.com/blogs/architecture/building-a-serverless-ai-assistant-at-pelago-concept-to-care-in-two-weeks": {
+    "title": "Building a serverless AI assistant at Pelago: concept to care in two weeks",
+    "source": "AWS Architecture Blog",
+    "first_seen": "2026-07-22T21:53:34.241516+00:00",
+    "published": "2026-07-22T17:12:27+00:00"
+  },
+  "https://lwn.net/Articles/1083750": {
+    "title": "[$] Save and restore may be coming to GNOME",
+    "source": "LWN.net",
+    "first_seen": "2026-07-22T21:53:34.241516+00:00",
+    "published": "2026-07-22T17:01:25+00:00"
+  },
+  "https://thenewstack.io/anthropic-mendral-cicd-acquihire": {
+    "title": "“Every few months, a new model made part of our roadmap unnecessary”: Why Mendral’s founders gave up their startup for Anthropic",
+    "source": "The New Stack",
+    "first_seen": "2026-07-22T21:53:34.241516+00:00",
+    "published": "2026-07-22T16:45:49+00:00"
+  },
+  "https://developer.nvidia.com/blog/make-long-running-nvidia-tensorrt-engine-builds-observable-and-cancelable-in-python-or-c": {
+    "title": "Make Long-Running NVIDIA TensorRT Engine Builds Observable and Cancelable in Python or C++",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-07-22T21:53:34.241516+00:00",
+    "published": "2026-07-22T16:35:04+00:00"
+  },
+  "https://www.swingnyc.com": {
+    "title": "Show HN: Web swing through midtown NYC",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-22T21:53:34.241516+00:00",
+    "published": "2026-07-22T16:25:08+00:00"
+  },
+  "https://medium.com/pinterest-engineering/securing-infrastructure-at-scale-introducing-pinterests-resource-provisioner-pipeline-rpp-8283bb12cbe5?source=rss----4c5a5f6279b6---4": {
+    "title": "Securing Infrastructure at Scale: Introducing Pinterest’s Resource Provisioner Pipeline (RPP)",
+    "source": "Pinterest Engineering",
+    "first_seen": "2026-07-22T21:53:34.241516+00:00",
+    "published": "2026-07-22T16:01:02+00:00"
+  },
+  "https://cruciblebench.ai": {
+    "title": "Can a MUD evaluate LLMs? A $99 proof of concept",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-22T21:53:34.241516+00:00",
+    "published": "2026-07-22T15:39:01+00:00"
+  },
+  "https://grafana.com/blog/cost-attribution-in-grafana-cloud-manage-spend-across-observability-and-testing-workflows": {
+    "title": "Cost attribution in Grafana Cloud: Manage spend across observability and testing workflows",
+    "source": "Grafana Blog",
+    "first_seen": "2026-07-22T21:53:34.241516+00:00",
+    "published": "2026-07-22T15:27:07+00:00"
+  },
+  "https://openai.com/index/how-news-organizations-are-using-ai": {
+    "title": "How news organizations are using AI to advance their vital missions",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-07-22T21:53:34.241516+00:00",
+    "published": "2026-07-22T13:00:00+00:00"
+  },
+  "https://blog.sentry.io/godot-dotnet-ga": {
+    "title": ".NET support for Godot is now generally available",
+    "source": "Sentry Blog",
+    "first_seen": "2026-07-22T21:53:34.241516+00:00",
+    "published": "2026-07-22T09:00:00+00:00"
   }
 }
