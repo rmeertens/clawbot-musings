@@ -59306,5 +59306,95 @@
     "source": "Julia Evans",
     "first_seen": "2026-07-21T21:52:10.404329+00:00",
     "published": "2026-07-21T00:00:00+00:00"
+  },
+  "https://stratechery.com/2026/openai-hacks-hugging-face-what-happened-alignment-and-paper-clips": {
+    "title": "OpenAI Hacks Hugging Face, What Happened, Alignment and Paper Clips",
+    "source": "Stratechery",
+    "first_seen": "2026-07-22T10:56:04.059772+00:00",
+    "published": "2026-07-22T10:00:00+00:00"
+  },
+  "https://codeberg.org/Codeberg/org/pulls/1253": {
+    "title": "Codeberg: ToU extension to prohibit LLM-extrusions",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-22T10:56:04.059772+00:00",
+    "published": "2026-07-22T08:27:12+00:00"
+  },
+  "https://tengli.dev/posts/mcp-servers-failing-agents.html": {
+    "title": "I graded 36 popular MCP servers on agent usability. A third got a D or F",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-22T10:56:04.059772+00:00",
+    "published": "2026-07-22T05:51:50+00:00"
+  },
+  "https://openaim.pramit.gg": {
+    "title": "Show HN: A new kind of FPS aim trainer",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-22T10:56:04.059772+00:00",
+    "published": "2026-07-22T05:39:31+00:00"
+  },
+  "https://github.com/chrislgarry/Apollo-11": {
+    "title": "Original Apollo 11 Guidance Computer source code for command and lunar modules",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-22T10:56:04.059772+00:00",
+    "published": "2026-07-22T05:18:08+00:00"
+  },
+  "https://late.sh": {
+    "title": "Late.sh – a command-line Clubhouse for computer people",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-22T10:56:04.059772+00:00",
+    "published": "2026-07-22T02:32:30+00:00"
+  },
+  "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps": {
+    "title": "LG to ban residential proxies from smart TV apps",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-22T10:56:04.059772+00:00",
+    "published": "2026-07-22T01:52:31+00:00"
+  },
+  "http://hintjens.com/blog:99": {
+    "title": "Ten Steps Towards Happiness (2015)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-22T10:56:04.059772+00:00",
+    "published": "2026-07-22T01:17:26+00:00"
+  },
+  "https://pytorch.org/blog/pytorch-conference-north-america-schedule-is-live": {
+    "title": "PyTorch Conference North America Schedule Is Live",
+    "source": "PyTorch Blog",
+    "first_seen": "2026-07-22T10:56:04.059772+00:00",
+    "published": "2026-07-21T23:52:08+00:00"
+  },
+  "https://blog.jimgrey.net/2026/07/21/its-a-shame-whats-happened-to-radio-3": {
+    "title": "It's a shame what's happened to radio",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-22T10:56:04.059772+00:00",
+    "published": "2026-07-21T23:33:31+00:00"
+  },
+  "https://fireworks.ai/blog/kimik3-fable": {
+    "title": "Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-22T10:56:04.059772+00:00",
+    "published": "2026-07-21T22:35:24+00:00"
+  },
+  "https://www.databricks.com/blog/last-mile-first-party-data-great-marketing": {
+    "title": "The last mile: why great first-party data still doesn't make great marketing",
+    "source": "Databricks Blog",
+    "first_seen": "2026-07-22T10:56:04.059772+00:00",
+    "published": "2026-07-21T22:19:28+00:00"
+  },
+  "https://www.phoronix.com/news/Cryptsetup-2.8.7-Released": {
+    "title": "Cryptsetup 2.8.7 Released To Deal With Fallout Of Linux's Rushed AF_ALG Deprecation",
+    "source": "Phoronix",
+    "first_seen": "2026-07-22T10:56:04.059772+00:00",
+    "published": "2026-07-21T22:00:00+00:00"
+  },
+  "https://ai.google.dev/gemini-api/docs/latest-model": {
+    "title": "Gemini last models: temperature, top_p, and top_k are deprecated and ignored",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-22T10:56:04.059772+00:00",
+    "published": "2026-07-21T21:27:54+00:00"
+  },
+  "https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63": {
+    "title": "Judge approves $1.5B Anthropic settlement for pirated books used to train Claude",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-22T10:56:04.059772+00:00",
+    "published": "2026-07-21T19:04:39+00:00"
   }
 }
