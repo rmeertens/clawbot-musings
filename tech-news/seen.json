@@ -60692,5 +60692,377 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-07-24T10:51:56.163938+00:00",
     "published": "2026-07-23T15:18:48+00:00"
+  },
+  "https://www.phoronix.com/news/Debian-GR-LLM-Usage": {
+    "title": "Debian Considering General Resolution Over LLM Usage In The Project",
+    "source": "Phoronix",
+    "first_seen": "2026-07-24T21:52:44.002192+00:00",
+    "published": "2026-07-24T21:07:10+00:00"
+  },
+  "https://www.schneier.com/blog/archives/2026/07/friday-squid-blogging-illex-squid-catch-in-the-falklands.html": {
+    "title": "Friday Squid Blogging: Illex Squid Catch in the Falklands",
+    "source": "Schneier on Security",
+    "first_seen": "2026-07-24T21:52:44.002192+00:00",
+    "published": "2026-07-24T21:06:00+00:00"
+  },
+  "https://github.com/apresta/max-studio-tools": {
+    "title": "Show HN: Max Studio Tools (C++ DSP Modules for Max and Ableton Live)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-24T21:52:44.002192+00:00",
+    "published": "2026-07-24T21:03:10+00:00"
+  },
+  "https://www.phoronix.com/news/AMD-ROCm-Six-Weeks": {
+    "title": "AMD ROCm Committed To Six Week Release Cycle Moving Forward",
+    "source": "Phoronix",
+    "first_seen": "2026-07-24T21:52:44.002192+00:00",
+    "published": "2026-07-24T21:00:40+00:00"
+  },
+  "https://aws.amazon.com/blogs/security/accelerating-aws-network-firewall-troubleshooting-with-aws-devops-agent": {
+    "title": "Accelerating AWS Network Firewall troubleshooting with AWS DevOps Agent",
+    "source": "AWS Security Blog",
+    "first_seen": "2026-07-24T21:52:44.002192+00:00",
+    "published": "2026-07-24T19:54:48+00:00"
+  },
+  "https://thenewstack.io/opus-5-agentic-coding-cost": {
+    "title": "Opus 5 costs a third of the price — and that’s actually the problem",
+    "source": "The New Stack",
+    "first_seen": "2026-07-24T21:52:44.002192+00:00",
+    "published": "2026-07-24T19:06:23+00:00"
+  },
+  "https://www.dbos.dev/blog/postgres-listen-notify-scalability": {
+    "title": "Postgres LISTEN/NOTIFY actually scales",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-24T21:52:44.002192+00:00",
+    "published": "2026-07-24T19:05:53+00:00"
+  },
+  "https://www.phoronix.com/news/Qualcomm-QCE-48x-Slower": {
+    "title": "Qualcomm QCE Driver On The Chopping Block With ~48x Slower Than Armv8 Crypto Extensions",
+    "source": "Phoronix",
+    "first_seen": "2026-07-24T21:52:44.002192+00:00",
+    "published": "2026-07-24T18:45:22+00:00"
+  },
+  "https://thenewstack.io/nvidia-open-weight-letter": {
+    "title": "Jensen Huang made his first X post. He used it to lobby Washington about open-weight AI.",
+    "source": "The New Stack",
+    "first_seen": "2026-07-24T21:52:44.002192+00:00",
+    "published": "2026-07-24T18:26:50+00:00"
+  },
+  "https://obaid.wtf/jotbook/2026/07/18/how-i-got-into-yc-by-hacking-it.html": {
+    "title": "I got into YC Startup School by hacking it",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-24T21:52:44.002192+00:00",
+    "published": "2026-07-24T18:03:22+00:00"
+  },
+  "https://ui.gsxhq.dev": {
+    "title": "Gsxui – Shadcn-style components for Go",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-24T21:52:44.002192+00:00",
+    "published": "2026-07-24T17:59:08+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/introducing-claude-opus-5-on-aws-anthropics-most-capable-opus-model": {
+    "title": "Introducing Claude Opus 5 on AWS: Anthropic’s most capable Opus model",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-07-24T21:52:44.002192+00:00",
+    "published": "2026-07-24T17:59:03+00:00"
+  },
+  "https://spacetimetech.wordpress.com/2026/07/19/the-small-real-original-web": {
+    "title": "The small, real, original web",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-24T21:52:44.002192+00:00",
+    "published": "2026-07-24T17:28:59+00:00"
+  },
+  "https://blog.cloudflare.com/bgp-origin-attribute": {
+    "title": "BGP ORIGIN attribute manipulation and its impact on the Internet",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-07-24T21:52:44.002192+00:00",
+    "published": "2026-07-24T17:25:28+00:00"
+  },
+  "https://www.docker.com/blog/agentic-ai-needs-guardrails-not-guesswork": {
+    "title": "Agentic AI Needs Guardrails, Not Guesswork",
+    "source": "Docker Blog",
+    "first_seen": "2026-07-24T21:52:44.002192+00:00",
+    "published": "2026-07-24T17:19:36+00:00"
+  },
+  "https://www.phoronix.com/news/Imagination-BXM-4-64-Linux-7.3": {
+    "title": "Imagination PowerVR Driver Marking BXM-4-64 MC1 GPU As Supported In Linux 7.3",
+    "source": "Phoronix",
+    "first_seen": "2026-07-24T21:52:44.002192+00:00",
+    "published": "2026-07-24T17:04:00+00:00"
+  },
+  "https://lwn.net/Articles/1084921": {
+    "title": "Hefty stable kernel updates for Friday",
+    "source": "LWN.net",
+    "first_seen": "2026-07-24T21:52:44.002192+00:00",
+    "published": "2026-07-24T17:01:34+00:00"
+  },
+  "https://duckpgq.org": {
+    "title": "DuckPGQ – A DuckDB community extension for graph workloads",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-24T21:52:44.002192+00:00",
+    "published": "2026-07-24T17:00:23+00:00"
+  },
+  "https://thenewstack.io/anthropics-opus-5-almost-fable-5": {
+    "title": "Anthropic’s Opus 5 is almost Fable 5",
+    "source": "The New Stack",
+    "first_seen": "2026-07-24T21:52:44.002192+00:00",
+    "published": "2026-07-24T17:00:00+00:00"
+  },
+  "https://stratechery.com/2026/the-copium-wars": {
+    "title": "2026.30: The Copium Wars",
+    "source": "Stratechery",
+    "first_seen": "2026-07-24T21:52:44.002192+00:00",
+    "published": "2026-07-24T17:00:00+00:00"
+  },
+  "https://www.anthropic.com/news/claude-opus-5": {
+    "title": "Claude Opus 5",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-24T21:52:44.002192+00:00",
+    "published": "2026-07-24T16:57:41+00:00"
+  },
+  "https://developer.nvidia.com/blog/modelexpress-distributing-model-artifacts-at-the-speed-of-light": {
+    "title": "ModelExpress: Distributing Model Artifacts at the Speed of Light",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-07-24T21:52:44.002192+00:00",
+    "published": "2026-07-24T16:45:00+00:00"
+  },
+  "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker": {
+    "title": "Be skeptical of OpenAI's rogue hacker agent story",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-24T21:52:44.002192+00:00",
+    "published": "2026-07-24T16:33:31+00:00"
+  },
+  "https://www.unitree.com/As2-W": {
+    "title": "Unitree As2-W",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-24T21:52:44.002192+00:00",
+    "published": "2026-07-24T16:32:52+00:00"
+  },
+  "https://lwn.net/Articles/1084938": {
+    "title": "Linux Plumbers Conference 2026 registration open",
+    "source": "LWN.net",
+    "first_seen": "2026-07-24T21:52:44.002192+00:00",
+    "published": "2026-07-24T16:27:27+00:00"
+  },
+  "https://thenewstack.io/openai-huggingface-sandbox-breach": {
+    "title": "What really happened in the Hugging Face breach",
+    "source": "The New Stack",
+    "first_seen": "2026-07-24T21:52:44.002192+00:00",
+    "published": "2026-07-24T16:20:24+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/automate-creating-aws-glue-data-catalog-views-with-aws-sdk-for-data-mesh-use-case": {
+    "title": "Automate creating AWS Glue Data Catalog views with AWS SDK for data mesh use case",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-07-24T21:52:44.002192+00:00",
+    "published": "2026-07-24T16:05:07+00:00"
+  },
+  "https://thenewstack.io/cloud-agent-code-sandboxes": {
+    "title": "AWS, Google Cloud, Microsoft Azure, and Cloudflare now all offer agent sandboxes. None built them the same way.",
+    "source": "The New Stack",
+    "first_seen": "2026-07-24T21:52:44.002192+00:00",
+    "published": "2026-07-24T16:04:54+00:00"
+  },
+  "https://stackoverflow.blog/2026/07/24/no-dumb-questions-ai-bottleneck": {
+    "title": "No Dumb Questions: What is the AI bottleneck? How does context engineering fix it?​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌​﻿‍‌​﻿​﻿‌‍​‍​﻿‌‍​﻿​‍‌‍‌‌​﻿‍‌​﻿​‌​‍﻿‌​﻿‍​‌‍‌‌‌‍​‍​﻿‍‌​‍﻿‌​﻿‌​​﻿‍​‌‍‌​‌‍‌‌​‍﻿‌‌‍​‍‌‍​‌​﻿‌​​﻿​‍​‍﻿‌‌‍​‍​﻿‌‌​﻿‌﻿​﻿‌​​﻿‌‍‌‍​﻿​﻿​﻿​﻿‌‍​﻿​​​﻿‌﻿​﻿​﻿​﻿​‍​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌​﻿‍‌​﻿​﻿‌‍​‍​﻿‌‍​﻿​‍‌‍‌‌​﻿‍‌​﻿​‌​‍﻿‌​﻿‍​‌‍‌‌‌‍​‍​﻿‍‌​‍﻿‌​﻿‌​​﻿‍​‌‍‌​‌‍‌‌​‍﻿‌‌‍​‍‌‍​‌​﻿‌​​﻿​‍​‍﻿‌‌‍​‍​﻿‌‌​﻿‌﻿​﻿‌​​﻿‌‍‌‍​﻿​﻿​﻿​﻿‌‍​﻿​​​﻿‌﻿​﻿​﻿​﻿​‍​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌",
+    "source": "Stack Overflow Blog",
+    "first_seen": "2026-07-24T21:52:44.002192+00:00",
+    "published": "2026-07-24T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/data-analytics/okf-v0-2-adds-trust-signals": {
+    "title": "Open Knowledge format v0.2 tackles agentic trust",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-07-24T21:52:44.002192+00:00",
+    "published": "2026-07-24T16:00:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/build-an-explainable-next-best-product-recommendation-system-for-banking-on-aws": {
+    "title": "Build an explainable next-best-product recommendation system for banking on AWS",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-07-24T21:52:44.002192+00:00",
+    "published": "2026-07-24T15:42:11+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/get-started-with-openai-gpt-5-6-sol-terra-and-luna-on-amazon-bedrock": {
+    "title": "Get started with OpenAI GPT-5.6 Sol, Terra, and Luna on Amazon Bedrock",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-07-24T21:52:44.002192+00:00",
+    "published": "2026-07-24T15:40:08+00:00"
+  },
+  "https://lwn.net/Articles/1084920": {
+    "title": "De Vlieger: The Fedora 45 sausage factory",
+    "source": "LWN.net",
+    "first_seen": "2026-07-24T21:52:44.002192+00:00",
+    "published": "2026-07-24T15:11:09+00:00"
+  },
+  "https://www.thehindu.com/news/national/government-orders-github-to-remove-bluetooth-based-chat-app-bitchat-over-security-concerns-jack-dorsey/article71262049.ece": {
+    "title": "Government orders GitHub to remove Bluetooth-based chat app Bitchat: Jack Dorsey",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-24T21:52:44.002192+00:00",
+    "published": "2026-07-24T14:41:59+00:00"
+  },
+  "https://www.tigerdata.com/blog/hidden-cost-postgres-constraints-scale": {
+    "title": "The Hidden Cost of Postgres Constraints at Scale",
+    "source": "Timescale Blog",
+    "first_seen": "2026-07-24T21:52:44.002192+00:00",
+    "published": "2026-07-24T14:30:49+00:00"
+  },
+  "https://www.phoronix.com/news/Ubuntu-Drop-Debian-Version": {
+    "title": "Ubuntu Linux Looking To Get Rid Of /etc/debian_version Historical Artifact",
+    "source": "Phoronix",
+    "first_seen": "2026-07-24T21:52:44.002192+00:00",
+    "published": "2026-07-24T14:20:58+00:00"
+  },
+  "https://thenewstack.io/sumo-logic-ai-security-alerts": {
+    "title": "Alert fatigue is breaking SOCs. Sumo Logic says it has a way out.",
+    "source": "The New Stack",
+    "first_seen": "2026-07-24T21:52:44.002192+00:00",
+    "published": "2026-07-24T14:07:44+00:00"
+  },
+  "https://cloud.google.com/blog/topics/threat-intelligence/updated-cyber-threat-actor-naming-system": {
+    "title": "Updated Cyber Threat Actor Naming System",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-07-24T21:52:44.002192+00:00",
+    "published": "2026-07-24T14:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/Fedora-45-Disable-Kernel-Crypt": {
+    "title": "Fedora 45 Looks To Begin Phasing Out In-Kernel Crypto Userspace API",
+    "source": "Phoronix",
+    "first_seen": "2026-07-24T21:52:44.002192+00:00",
+    "published": "2026-07-24T13:58:06+00:00"
+  },
+  "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html": {
+    "title": "Nvidia, Microsoft, Meta warn against overregulating open-weight models",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-24T21:52:44.002192+00:00",
+    "published": "2026-07-24T13:32:30+00:00"
+  },
+  "https://lwn.net/Articles/1083418": {
+    "title": "[$] An update on netkit and the use of BPF in user space",
+    "source": "LWN.net",
+    "first_seen": "2026-07-24T21:52:44.002192+00:00",
+    "published": "2026-07-24T13:17:28+00:00"
+  },
+  "https://lwn.net/Articles/1084861": {
+    "title": "Home Assistant Device Database public preview",
+    "source": "LWN.net",
+    "first_seen": "2026-07-24T21:52:44.002192+00:00",
+    "published": "2026-07-24T13:16:47+00:00"
+  },
+  "https://lwn.net/Articles/1084860": {
+    "title": "Security updates for Friday",
+    "source": "LWN.net",
+    "first_seen": "2026-07-24T21:52:44.002192+00:00",
+    "published": "2026-07-24T13:05:28+00:00"
+  },
+  "https://thenewstack.io/test-data-ai-bottleneck": {
+    "title": "Test data wait times are slowing AI adoption more than code ever did",
+    "source": "The New Stack",
+    "first_seen": "2026-07-24T21:52:44.002192+00:00",
+    "published": "2026-07-24T13:00:00+00:00"
+  },
+  "https://discuss.haiku-os.org/t/haiku-nvidia-porting-nvidia-driver-for-turing-gpus/16520?page=18": {
+    "title": "Half-Life 2 running natively on HaikuOS",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-24T21:52:44.002192+00:00",
+    "published": "2026-07-24T12:53:59+00:00"
+  },
+  "https://www.phoronix.com/news/AMD-AAI-2026-Open-Source": {
+    "title": "AMD Advancing AI 2026: Open, Open-Source & More Open-Source",
+    "source": "Phoronix",
+    "first_seen": "2026-07-24T21:52:44.002192+00:00",
+    "published": "2026-07-24T12:14:33+00:00"
+  },
+  "https://realpython.com/podcasts/rpp/304": {
+    "title": "The Real Python Podcast – Episode #304: Configuring a Versatile LLM Harness & Scraping the Web With Scrapy",
+    "source": "Real Python",
+    "first_seen": "2026-07-24T21:52:44.002192+00:00",
+    "published": "2026-07-24T12:00:00+00:00"
+  },
+  "https://hhh.hn/hanwha-github-token": {
+    "title": "My security camera shipped a GitHub admin token in its login page",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-24T21:52:44.002192+00:00",
+    "published": "2026-07-24T11:54:41+00:00"
+  },
+  "https://www.andrewzigler.com/feed/the-case-for-muds-in-modern-times": {
+    "title": "The case for MUDs in modern times (2018)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-24T21:52:44.002192+00:00",
+    "published": "2026-07-24T11:46:40+00:00"
+  },
+  "https://www.schneier.com/blog/archives/2026/07/why-ai-needs-a-genie-coefficient.html": {
+    "title": "Why AI Needs a “Genie Coefficient”",
+    "source": "Schneier on Security",
+    "first_seen": "2026-07-24T21:52:44.002192+00:00",
+    "published": "2026-07-24T11:03:06+00:00"
+  },
+  "https://www.phoronix.com/review/ubuntu-2604-snapdragon-x-elite": {
+    "title": "Snapdragon X Elite Laptop Experience Still Lackluster On Ubuntu 26.04 LTS",
+    "source": "Phoronix",
+    "first_seen": "2026-07-24T21:52:44.002192+00:00",
+    "published": "2026-07-24T11:00:00+00:00"
+  },
+  "https://www.cncf.io/blog/2026/07/24/opentelemetry-has-graduated-now-what": {
+    "title": "OpenTelemetry has graduated… Now what?",
+    "source": "CNCF Blog",
+    "first_seen": "2026-07-24T21:52:44.002192+00:00",
+    "published": "2026-07-24T11:00:00+00:00"
+  },
+  "https://www.cncf.io/blog/2026/07/24/my-lfx-mentorship-journey-with-kgateway": {
+    "title": "My LFX mentorship journey with kgateway",
+    "source": "CNCF Blog",
+    "first_seen": "2026-07-24T21:52:44.002192+00:00",
+    "published": "2026-07-24T11:00:00+00:00"
+  },
+  "https://houseofsaud.com/irgc-claims-destroyed-amazon-bahrain-data-center": {
+    "title": "IRGC claims it destroyed Amazon's Bahrain data center",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-24T21:52:44.002192+00:00",
+    "published": "2026-07-24T09:52:58+00:00"
+  },
+  "https://www.ecb.europa.eu/euro/banknotes/future_banknotes/html/all-design-proposals.en.html": {
+    "title": "Future euro banknote design proposals",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-24T21:52:44.002192+00:00",
+    "published": "2026-07-24T09:29:44+00:00"
+  },
+  "https://blog.sentry.io/session-replay-unreal-engine": {
+    "title": "Session Replay for Unreal Engine: see the crash before the crash",
+    "source": "Sentry Blog",
+    "first_seen": "2026-07-24T21:52:44.002192+00:00",
+    "published": "2026-07-24T09:00:00+00:00"
+  },
+  "https://blog.willgrant.org/2026/07/23/the-hardest-way-to-make-gif.html": {
+    "title": "The hardest way to make a GIF",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-24T21:52:44.002192+00:00",
+    "published": "2026-07-24T07:05:58+00:00"
+  },
+  "https://planetscale.com/blog/postgres-backups-under-the-hood": {
+    "title": "Postgres backups under the hood",
+    "source": "PlanetScale Blog",
+    "first_seen": "2026-07-24T21:52:44.002192+00:00",
+    "published": "2026-07-24T00:00:00+00:00"
+  },
+  "https://machinelearning.apple.com/research/lead-no-recovery-bottleneck": {
+    "title": "LEAD: Breaking the No-Recovery Bottleneck in Long-Horizon Reasoning",
+    "source": "Apple ML Journal",
+    "first_seen": "2026-07-24T21:52:44.002192+00:00",
+    "published": "2026-07-24T00:00:00+00:00"
+  },
+  "https://golangweekly.com/issues/611": {
+    "title": "Go can't kill a stuck goroutine",
+    "source": "Golang Weekly",
+    "first_seen": "2026-07-24T21:52:44.002192+00:00",
+    "published": "2026-07-24T00:00:00+00:00"
+  },
+  "https://fly.io/blog/kurt-scott-money-sprites": {
+    "title": "Turn And Face The Strange",
+    "source": "Fly.io Blog",
+    "first_seen": "2026-07-24T21:52:44.002192+00:00",
+    "published": "2026-07-24T00:00:00+00:00"
+  },
+  "https://grafana.com/blog/a-new-allowlists-design-for-grafana-cloud-ip-addresses-what-you-need-to-know": {
+    "title": "A new allowlists design for Grafana Cloud IP addresses: What you need to know",
+    "source": "Grafana Blog",
+    "first_seen": "2026-07-24T21:52:44.002192+00:00",
+    "published": "2026-07-23T19:22:13+00:00"
   }
 }
