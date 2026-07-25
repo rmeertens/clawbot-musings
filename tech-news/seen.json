@@ -61154,5 +61154,83 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-07-25T10:18:52.129579+00:00",
     "published": "2026-07-23T17:10:02+00:00"
+  },
+  "https://www.theguardian.com/technology/2026/jul/25/ai-jobs-apocalypse-human-labor": {
+    "title": "The AI jobs apocalypse probably isn't coming anytime soon",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-25T15:53:38.929292+00:00",
+    "published": "2026-07-25T14:41:06+00:00"
+  },
+  "https://lwn.net/Articles/1085021": {
+    "title": "In remembrance of Dan Williams",
+    "source": "LWN.net",
+    "first_seen": "2026-07-25T15:53:38.929292+00:00",
+    "published": "2026-07-25T14:29:51+00:00"
+  },
+  "https://www.construction-physics.com/p/reading-list-072526": {
+    "title": "Reading List 07/25/26",
+    "source": "Construction Physics",
+    "first_seen": "2026-07-25T15:53:38.929292+00:00",
+    "published": "2026-07-25T14:01:08+00:00"
+  },
+  "https://lwn.net/Articles/1085272": {
+    "title": "Security updates for Saturday",
+    "source": "LWN.net",
+    "first_seen": "2026-07-25T15:53:38.929292+00:00",
+    "published": "2026-07-25T14:00:47+00:00"
+  },
+  "https://lwn.net/Articles/1085030": {
+    "title": "GNU C Library 2.44 released",
+    "source": "LWN.net",
+    "first_seen": "2026-07-25T15:53:38.929292+00:00",
+    "published": "2026-07-25T13:44:53+00:00"
+  },
+  "https://radicle.network/nodes/rosa.radicle.network/rad%3Az2v9tRJz1oknFAqCSY5W5c76nVvm6": {
+    "title": "Bitchat Is Now on Radicle",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-25T15:53:38.929292+00:00",
+    "published": "2026-07-25T13:18:49+00:00"
+  },
+  "https://lwn.net/Articles/1085026": {
+    "title": "New stable kernel for ext4 users",
+    "source": "LWN.net",
+    "first_seen": "2026-07-25T15:53:38.929292+00:00",
+    "published": "2026-07-25T13:09:38+00:00"
+  },
+  "https://thenewstack.io/isolate-kafka-consumer-tests": {
+    "title": "How routing keys isolate Kafka consumer tests on a shared broker",
+    "source": "The New Stack",
+    "first_seen": "2026-07-25T15:53:38.929292+00:00",
+    "published": "2026-07-25T13:00:00+00:00"
+  },
+  "https://supakeen.com/weblog/the-fedora-45-sausage-factory": {
+    "title": "The Fedora 45 Sausage Factory",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-25T15:53:38.929292+00:00",
+    "published": "2026-07-25T11:04:57+00:00"
+  },
+  "https://www.phoronix.com/news/Kiwi-Menu-macOS-Vibes": {
+    "title": "Kiwi Menu Continues Bringing macOS Vibes To GNOME",
+    "source": "Phoronix",
+    "first_seen": "2026-07-25T15:53:38.929292+00:00",
+    "published": "2026-07-25T11:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/GNU-C-Library-glibc-2.44": {
+    "title": "GNU C Library 2.44 Released With /etc/tunables.conf, More Optimizations",
+    "source": "Phoronix",
+    "first_seen": "2026-07-25T15:53:38.929292+00:00",
+    "published": "2026-07-25T10:39:52+00:00"
+  },
+  "https://thenewstack.io/microsoft-nvidia-meta-and-open-weights": {
+    "title": "Microsoft, Nvidia, Meta and 22 others defended open weights. Anthropic and OpenAI didn’t sign.",
+    "source": "The New Stack",
+    "first_seen": "2026-07-25T15:53:38.929292+00:00",
+    "published": "2026-07-25T10:30:00+00:00"
+  },
+  "https://www.phoronix.com/news/KDE-Plasma-6.8-kscreenctl": {
+    "title": "KDE Plasma 6.8 Introducing New kscreenctl Tool",
+    "source": "Phoronix",
+    "first_seen": "2026-07-25T15:53:38.929292+00:00",
+    "published": "2026-07-25T10:29:52+00:00"
   }
 }
