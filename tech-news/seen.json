@@ -61334,5 +61334,131 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-07-25T21:41:52.027658+00:00",
     "published": "2026-07-24T18:37:06+00:00"
+  },
+  "https://comuniq.xyz/post?t=1439": {
+    "title": "No Stack Overflow, No Autocomplete: What Coding Felt Like in the 80s",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-26T10:26:24.440145+00:00",
+    "published": "2026-07-26T09:58:11+00:00"
+  },
+  "https://status.claude.com/incidents/zftg3gqkmv18": {
+    "title": "Elevated Errors for Opus 5",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-26T10:26:24.440145+00:00",
+    "published": "2026-07-26T09:18:34+00:00"
+  },
+  "https://astral.sh/blog/ruff-v0.16.0": {
+    "title": "Ruff v0.16.0 – Significant new updates – 413 default rules up from 59",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-26T10:26:24.440145+00:00",
+    "published": "2026-07-26T09:01:39+00:00"
+  },
+  "https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices": {
+    "title": "GrapheneOS protections against data extraction from locked devices",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-26T10:26:24.440145+00:00",
+    "published": "2026-07-26T05:57:22+00:00"
+  },
+  "https://github.com/mulfyx/w4me-station": {
+    "title": "W4ME Station – a WASM-4 runtime for Java ME phones",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-26T10:26:24.440145+00:00",
+    "published": "2026-07-26T04:19:59+00:00"
+  },
+  "https://www.jetzero.aero": {
+    "title": "JetZero",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-26T10:26:24.440145+00:00",
+    "published": "2026-07-26T02:55:50+00:00"
+  },
+  "https://blog.ktz.me/esp32-plane-radar": {
+    "title": "An ESP32 based plane radar for my desk",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-26T10:26:24.440145+00:00",
+    "published": "2026-07-26T02:35:43+00:00"
+  },
+  "https://golfcoursebrowser.com": {
+    "title": "Show HN: I mapped every US golf course",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-26T10:26:24.440145+00:00",
+    "published": "2026-07-26T02:22:26+00:00"
+  },
+  "https://www.seti.org/news/alien-world-chemistry-found-inside-meteorite": {
+    "title": "Alien World Chemistry Found Inside Meteorite That Struck New Jersey Home",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-26T10:26:24.440145+00:00",
+    "published": "2026-07-26T01:35:03+00:00"
+  },
+  "https://cachebag.sh/journal/interactive-rebasing": {
+    "title": "Git rebase -I is not that scary",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-26T10:26:24.440145+00:00",
+    "published": "2026-07-26T00:37:54+00:00"
+  },
+  "https://martin.janiczek.cz/2026/07/24/systems-and-delays.html": {
+    "title": "Systems and Delays",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-26T10:26:24.440145+00:00",
+    "published": "2026-07-26T00:37:30+00:00"
+  },
+  "https://huggingface.co/owensong/Inflect-Micro-v2": {
+    "title": "Inflect-Micro-v2: complete voice in 9.36M parameters",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-26T10:26:24.440145+00:00",
+    "published": "2026-07-26T00:36:30+00:00"
+  },
+  "https://www.phoronix.com/news/Ubuntu-Touch-24.04-2.0-Release": {
+    "title": "Ubuntu Touch 24.04-2.0 Released With Support For Notches & Rounded Corners",
+    "source": "Phoronix",
+    "first_seen": "2026-07-26T10:26:24.440145+00:00",
+    "published": "2026-07-26T00:15:55+00:00"
+  },
+  "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf": {
+    "title": "DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-26T10:26:24.440145+00:00",
+    "published": "2026-07-25T23:32:50+00:00"
+  },
+  "https://lwn.net/Articles/1085314": {
+    "title": "A Debian general resolution on LLM usage",
+    "source": "LWN.net",
+    "first_seen": "2026-07-26T10:26:24.440145+00:00",
+    "published": "2026-07-25T23:14:16+00:00"
+  },
+  "https://www.science.org/content/blog-post/clinical-failure-rates-over-decades-yikes": {
+    "title": "Clinical failure rates over the decades: yikes",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-26T10:26:24.440145+00:00",
+    "published": "2026-07-25T22:57:17+00:00"
+  },
+  "https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality": {
+    "title": "What is happening to jobs? Separating AI hype from reality",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-26T10:26:24.440145+00:00",
+    "published": "2026-07-25T22:51:10+00:00"
+  },
+  "https://simonwillison.net/2026/Jul/25/ruff": {
+    "title": "Ruff v0.16.0",
+    "source": "Simon Willison",
+    "first_seen": "2026-07-26T10:26:24.440145+00:00",
+    "published": "2026-07-25T22:44:05+00:00"
+  },
+  "https://spectrum.ieee.org/sodium-ion-battery-peak-energy": {
+    "title": "GM Backs Sodium Ion Batteries for U.S. Grid Storage",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-26T10:26:24.440145+00:00",
+    "published": "2026-07-25T21:48:22+00:00"
+  },
+  "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models": {
+    "title": "The new rules of context engineering for Claude 5 generation models",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-26T10:26:24.440145+00:00",
+    "published": "2026-07-25T20:42:35+00:00"
+  },
+  "https://www.debian.org/vote/2026/vote_002": {
+    "title": "LLM Usage in Debian: Three Proposals",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-26T10:26:24.440145+00:00",
+    "published": "2026-07-25T19:44:39+00:00"
   }
 }
