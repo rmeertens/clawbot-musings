@@ -61460,5 +61460,107 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-07-26T10:26:24.440145+00:00",
     "published": "2026-07-25T19:44:39+00:00"
+  },
+  "https://www.phoronix.com/news/KVM-Chainsaw-Linux-7.3": {
+    "title": "\"KVM Chainsaw\" Expected To Hit Linux 7.3 For Dealing With God Data Structure",
+    "source": "Phoronix",
+    "first_seen": "2026-07-26T15:52:03.539145+00:00",
+    "published": "2026-07-26T15:32:26+00:00"
+  },
+  "https://thenewstack.io/nadella-hassabis-ai-frameworks": {
+    "title": "Microsoft and Google DeepMind agree on AI control — but not on who holds it",
+    "source": "The New Stack",
+    "first_seen": "2026-07-26T15:52:03.539145+00:00",
+    "published": "2026-07-26T15:30:00+00:00"
+  },
+  "https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics": {
+    "title": "Park by Robot at London Gatwick Airport",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-26T15:52:03.539145+00:00",
+    "published": "2026-07-26T14:40:27+00:00"
+  },
+  "https://thenewstack.io/sre-ai-agents-capabilities": {
+    "title": "5 ways SRE AI agents are set to augment human capabilities",
+    "source": "The New Stack",
+    "first_seen": "2026-07-26T15:52:03.539145+00:00",
+    "published": "2026-07-26T14:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/Tragic-FreeBSD-Audio-Support": {
+    "title": "User Frustrations Over The \"Tragic State of FreeBSD Audio/Sound\" Support",
+    "source": "Phoronix",
+    "first_seen": "2026-07-26T15:52:03.539145+00:00",
+    "published": "2026-07-26T13:24:46+00:00"
+  },
+  "https://news.ycombinator.com/item?id=49057972": {
+    "title": "Ask HN: What are the most promising RL fields for a new master student?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-26T15:52:03.539145+00:00",
+    "published": "2026-07-26T13:22:59+00:00"
+  },
+  "https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and": {
+    "title": "The New AI Superpowers: Focus and Followthrough",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-26T15:52:03.539145+00:00",
+    "published": "2026-07-26T13:13:03+00:00"
+  },
+  "https://sunflowersgame.com": {
+    "title": "Show HN: Reverse Minesweeper",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-26T15:52:03.539145+00:00",
+    "published": "2026-07-26T12:51:03+00:00"
+  },
+  "https://www.wsj.com/tech/google-discloses-94-1-billion-in-spacex-stock-marking-6-stake-91655d7c": {
+    "title": "Google Discloses $94.1B in SpaceX Stock, Marking 6% Stake",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-26T15:52:03.539145+00:00",
+    "published": "2026-07-26T12:43:21+00:00"
+  },
+  "https://pkg.go.dev/golang.org/x/tools/go/analysis": {
+    "title": "Go Analysis Framework: modular static analysis by go team",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-26T15:52:03.539145+00:00",
+    "published": "2026-07-26T12:21:26+00:00"
+  },
+  "https://english.mapn.ro": {
+    "title": "Third Drone Shot Down in Three Days in Romanian Territory",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-26T15:52:03.539145+00:00",
+    "published": "2026-07-26T12:00:42+00:00"
+  },
+  "https://swag.htmx.org/en-cad/products/htmx-4-the-game": {
+    "title": "Htmx 4.0, the first JavaScript library to release exclusively on the Game Boy",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-26T15:52:03.539145+00:00",
+    "published": "2026-07-26T12:00:11+00:00"
+  },
+  "https://killthecookiebanner.eu": {
+    "title": "Kill The Cookie Banner",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-26T15:52:03.539145+00:00",
+    "published": "2026-07-26T11:53:17+00:00"
+  },
+  "https://words.filippo.io/mldsa-py": {
+    "title": "Production ML-DSA Verification in 350 Lines of Python",
+    "source": "Filippo Valsorda",
+    "first_seen": "2026-07-26T15:52:03.539145+00:00",
+    "published": "2026-07-26T11:45:08+00:00"
+  },
+  "https://www.phoronix.com/news/Auto-CPUFreq-3.1": {
+    "title": "Auto-CPUFreq 3.1 Adds Monitoring Mode To GUI, New Configuration Options & Fixes",
+    "source": "Phoronix",
+    "first_seen": "2026-07-26T15:52:03.539145+00:00",
+    "published": "2026-07-26T11:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/Realtek-RTL8723B-RTW88-Patches": {
+    "title": "Realtek RTL8723B/RTL8723BS Trying To Be Tacked On To The RTW88 Linux Driver",
+    "source": "Phoronix",
+    "first_seen": "2026-07-26T15:52:03.539145+00:00",
+    "published": "2026-07-26T10:49:00+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.2-Fix-IPv4-Firewire": {
+    "title": "Linux 7.2-rc5 Fixing Longstanding Bug In IPv4 Networking Over Firewire",
+    "source": "Phoronix",
+    "first_seen": "2026-07-26T15:52:03.539145+00:00",
+    "published": "2026-07-26T10:38:22+00:00"
   }
 }
