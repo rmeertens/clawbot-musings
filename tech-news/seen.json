@@ -61562,5 +61562,113 @@
     "source": "Phoronix",
     "first_seen": "2026-07-26T15:52:03.539145+00:00",
     "published": "2026-07-26T10:38:22+00:00"
+  },
+  "https://bulletins.wolframphysics.org/2021/02/multiway-turing-machines": {
+    "title": "Multiway Turing Machines (2021 pre-ai)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-26T21:45:11.038476+00:00",
+    "published": "2026-07-26T20:49:43+00:00"
+  },
+  "https://spectrum.ieee.org/space-debris-atmosphere-burn-up": {
+    "title": "Plasma Tunnels Reveal How Dying Satellites Fall to Earth",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-26T21:45:11.038476+00:00",
+    "published": "2026-07-26T20:31:57+00:00"
+  },
+  "https://github.com/AARomanov1985/Audio-Cassette-Simulation": {
+    "title": "Simulate cassette tape audio profiles using FFmpeg",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-26T21:45:11.038476+00:00",
+    "published": "2026-07-26T20:02:15+00:00"
+  },
+  "https://infinitejigsaw.com": {
+    "title": "Show HN: Infinite Jigsaw Game",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-26T21:45:11.038476+00:00",
+    "published": "2026-07-26T20:01:27+00:00"
+  },
+  "https://orchidfiles.com/github-security-team": {
+    "title": "What does GitHub's security team even do?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-26T21:45:11.038476+00:00",
+    "published": "2026-07-26T19:51:05+00:00"
+  },
+  "https://www.phoronix.com/news/GNU-Binutils-2.47": {
+    "title": "GNU Binutils 2.47 Released With More RISC-V Extensions, New Options",
+    "source": "Phoronix",
+    "first_seen": "2026-07-26T21:45:11.038476+00:00",
+    "published": "2026-07-26T19:36:15+00:00"
+  },
+  "https://simonwillison.net/2026/Jul/26/relay-market": {
+    "title": "An Inside Look at the Relay Market Powering Token Resellers and Fraud",
+    "source": "Simon Willison",
+    "first_seen": "2026-07-26T21:45:11.038476+00:00",
+    "published": "2026-07-26T19:30:54+00:00"
+  },
+  "https://nochan.net/b/Internet-Crap/20260606-How-To-Block-Some-Of-The-Bots": {
+    "title": "How to Block Some of the Bots",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-26T21:45:11.038476+00:00",
+    "published": "2026-07-26T18:32:46+00:00"
+  },
+  "https://beyondloom.com/decker": {
+    "title": "Decker, a platform that builds on the legacy of Hypercard and classic macOS",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-26T21:45:11.038476+00:00",
+    "published": "2026-07-26T18:23:06+00:00"
+  },
+  "https://www.gamedevs.org/uploads/introduction-to-data-oriented-design.pdf": {
+    "title": "Introduction to Data-Oriented Design [pdf]",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-26T21:45:11.038476+00:00",
+    "published": "2026-07-26T18:11:16+00:00"
+  },
+  "https://davidnicholaswilliams.com/its-not-empowering-to-hand-off-the-details": {
+    "title": "It's not empowering to hand off the details",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-26T21:45:11.038476+00:00",
+    "published": "2026-07-26T17:58:02+00:00"
+  },
+  "https://astgrep.com/blog/tree-sitter-rust-rewrite": {
+    "title": "How AST-grep Rewrote Tree-sitter in Rust and Made It 30% Faster",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-26T21:45:11.038476+00:00",
+    "published": "2026-07-26T17:51:03+00:00"
+  },
+  "https://thelampmagazine.com/blog/how-to-write-english-prose": {
+    "title": "How to Write English Prose",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-26T21:45:11.038476+00:00",
+    "published": "2026-07-26T17:29:35+00:00"
+  },
+  "https://grego.site/blog/thinkphone": {
+    "title": "Using ThinkPad T480 as a mobile phone",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-26T21:45:11.038476+00:00",
+    "published": "2026-07-26T16:56:06+00:00"
+  },
+  "https://thenewstack.io/mcp-release-candidate-rewrite": {
+    "title": "MCP’s biggest update removes the machinery many servers were built around",
+    "source": "The New Stack",
+    "first_seen": "2026-07-26T21:45:11.038476+00:00",
+    "published": "2026-07-26T16:00:00+00:00"
+  },
+  "https://github.com/gmrandazzo/CheapSecurity": {
+    "title": "Show HN: CheapSecurity – Lightweight, Self-Hosted CCTV for Linux SBCs",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-26T21:45:11.038476+00:00",
+    "published": "2026-07-26T15:53:55+00:00"
+  },
+  "https://stephango.com/design-is-compromise": {
+    "title": "Design is compromise",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-26T21:45:11.038476+00:00",
+    "published": "2026-07-26T15:51:12+00:00"
+  },
+  "https://vectoral.com/blog/token-relay-market": {
+    "title": "The relay market powering token resellers and fraud",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-26T21:45:11.038476+00:00",
+    "published": "2026-07-26T15:17:06+00:00"
   }
 }
