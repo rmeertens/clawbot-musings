@@ -62126,5 +62126,179 @@
     "source": "Apple ML Journal",
     "first_seen": "2026-07-27T16:51:46.501614+00:00",
     "published": "2026-07-27T00:00:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/migrate-self-managed-postgresql-to-amazon-rds-using-the-rds-console": {
+    "title": "Migrate self-managed PostgreSQL to Amazon RDS using the RDS console",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-07-27T21:54:38.349028+00:00",
+    "published": "2026-07-27T21:32:15+00:00"
+  },
+  "https://www.phoronix.com/news/AMD-PMF-Testing-Tool-Linux-7.3": {
+    "title": "AMD PMF Testing Tool Slated For Linux 7.3",
+    "source": "Phoronix",
+    "first_seen": "2026-07-27T21:54:38.349028+00:00",
+    "published": "2026-07-27T21:28:20+00:00"
+  },
+  "https://engineering.atspotify.com/2026/7/indexing-the-data-lake-for-online-point-queries": {
+    "title": "Indexing the Data Lake for Online Point Queries",
+    "source": "Spotify Engineering",
+    "first_seen": "2026-07-27T21:54:38.349028+00:00",
+    "published": "2026-07-27T20:34:28+00:00"
+  },
+  "https://xkcd.com/3277": {
+    "title": "Forth",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-27T21:54:38.349028+00:00",
+    "published": "2026-07-27T20:15:50+00:00"
+  },
+  "https://platformengineering.org/blog/how-platform-engineering-2-0-mitigates-ai-security-and-compliance-risks": {
+    "title": "Platform engineering 2.0 mitigates AI security and compliance risks",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-27T21:54:38.349028+00:00",
+    "published": "2026-07-27T20:14:12+00:00"
+  },
+  "https://www.rise-reforming.com": {
+    "title": "Launch HN: Rise Reforming (YC S26) – Turning Waste Gases into Valuable Chemicals",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-27T21:54:38.349028+00:00",
+    "published": "2026-07-27T19:58:22+00:00"
+  },
+  "https://news.ycombinator.com/item?id=49074693": {
+    "title": "The Author of Clean Code No Longer Reviews AI-Generated Code",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-27T21:54:38.349028+00:00",
+    "published": "2026-07-27T19:47:06+00:00"
+  },
+  "https://thenewstack.io/anthropic-evals-replace-prds": {
+    "title": "The 24-hour experiment that helped Anthropic find its identity",
+    "source": "The New Stack",
+    "first_seen": "2026-07-27T21:54:38.349028+00:00",
+    "published": "2026-07-27T19:14:57+00:00"
+  },
+  "https://thenewstack.io/kimi-k3-open-weights": {
+    "title": "Moonshot opens Kimi K3 weights — but few can run it",
+    "source": "The New Stack",
+    "first_seen": "2026-07-27T21:54:38.349028+00:00",
+    "published": "2026-07-27T19:10:17+00:00"
+  },
+  "https://aws.amazon.com/blogs/security/aws-shield-advanced-is-embracing-the-aws-waf-anti-ddos-managed-rule-group-what-changes-and-how-to-prepare": {
+    "title": "AWS Shield Advanced is embracing the AWS WAF Anti-DDoS managed rule group: What changes and how to prepare",
+    "source": "AWS Security Blog",
+    "first_seen": "2026-07-27T21:54:38.349028+00:00",
+    "published": "2026-07-27T19:01:23+00:00"
+  },
+  "https://gregoryszorc.com/docs/python-build-standalone/main": {
+    "title": "Self-contained highly-portable Python distributions",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-27T21:54:38.349028+00:00",
+    "published": "2026-07-27T18:43:31+00:00"
+  },
+  "https://animationobsessive.substack.com/p/the-artist-who-colored-ghibli": {
+    "title": "The Artist Who Colored Ghibli",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-27T21:54:38.349028+00:00",
+    "published": "2026-07-27T18:32:09+00:00"
+  },
+  "https://tidefield.dev/bytecode-to-source-mapping": {
+    "title": "Bytecode-to-Source Mapping",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-27T21:54:38.349028+00:00",
+    "published": "2026-07-27T18:25:21+00:00"
+  },
+  "https://www.techdirt.com/2026/07/27/judge-rejects-googles-attempt-to-dmca-its-way-out-of-being-scraped": {
+    "title": "Judge Rejects Google's Attempt to DMCA Its Way Out of Being Scraped",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-27T21:54:38.349028+00:00",
+    "published": "2026-07-27T18:15:35+00:00"
+  },
+  "https://webkit.org/blog/18178/webkit-features-for-safari-26-6": {
+    "title": "WebKit Features for Safari 26.6",
+    "source": "WebKit Blog",
+    "first_seen": "2026-07-27T21:54:38.349028+00:00",
+    "published": "2026-07-27T18:00:52+00:00"
+  },
+  "https://github.blog/ai-and-ml/github-copilot/the-harness-is-all-you-need-mostly": {
+    "title": "The harness is all you need (mostly)",
+    "source": "GitHub Blog",
+    "first_seen": "2026-07-27T21:54:38.349028+00:00",
+    "published": "2026-07-27T18:00:00+00:00"
+  },
+  "https://devblogs.microsoft.com/dotnet/msbuild-binlog-analyzer-vscode": {
+    "title": "Analyze MSBuild Binary Logs with Copilot in VS Code",
+    "source": "MS .NET Blog",
+    "first_seen": "2026-07-27T21:54:38.349028+00:00",
+    "published": "2026-07-27T17:00:00+00:00"
+  },
+  "https://usefeyn.com/blog/feynobg": {
+    "title": "Show HN: FeyNoBg – Automatic background removal model and training library",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-27T21:54:38.349028+00:00",
+    "published": "2026-07-27T16:59:08+00:00"
+  },
+  "https://microsoft.ai/news/introducing-mai-cyber-1-flash-inside-mdash": {
+    "title": "MAI-Cyber-1-Flash inside MDASH",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-27T21:54:38.349028+00:00",
+    "published": "2026-07-27T16:52:22+00:00"
+  },
+  "https://lwn.net/Articles/1084015": {
+    "title": "[$] Hazard pointers for the kernel",
+    "source": "LWN.net",
+    "first_seen": "2026-07-27T21:54:38.349028+00:00",
+    "published": "2026-07-27T16:51:58+00:00"
+  },
+  "https://www.sgieurope.com/e-commerce/decathlon-germany-launches-wero-payment-on-its-website/122397.article": {
+    "title": "Decathlon Germany adds Wero payment option to decathlon.de website",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-27T21:54:38.349028+00:00",
+    "published": "2026-07-27T16:49:08+00:00"
+  },
+  "https://infrawrench.com": {
+    "title": "Show HN: Infrawrench – A tool to manage cloud and svcs with workflows and chat",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-27T21:54:38.349028+00:00",
+    "published": "2026-07-27T16:25:45+00:00"
+  },
+  "https://github.com/letsseal/letsseal": {
+    "title": "Show HN: Let's Seal – Let's Encrypt for document signing, free and self-hosted",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-27T21:54:38.349028+00:00",
+    "published": "2026-07-27T15:52:13+00:00"
+  },
+  "https://grafana.com/blog/smarter-onboarding-and-planning-with-grafana-assistant-how-to-ensure-observability-is-baked-in-from-the-start": {
+    "title": "Smarter onboarding and planning with Grafana Assistant: How to ensure observability is baked in from the start",
+    "source": "Grafana Blog",
+    "first_seen": "2026-07-27T21:54:38.349028+00:00",
+    "published": "2026-07-27T15:47:34+00:00"
+  },
+  "https://arxiv.org/abs/math/0411418": {
+    "title": "How real are real numbers? (2004)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-27T21:54:38.349028+00:00",
+    "published": "2026-07-27T15:40:17+00:00"
+  },
+  "https://pranitha.dev/posts/tokio-gives-progress-not-ordering": {
+    "title": "Tokio Gives Progress, Not Ordering: Scheduling 1M Tasks",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-27T21:54:38.349028+00:00",
+    "published": "2026-07-27T15:10:56+00:00"
+  },
+  "https://eaton-works.com/2026/07/27/my-eicher-hack": {
+    "title": "Exploiting Volvo/Eicher's fleet platform to gain control over all users/vehicles",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-27T21:54:38.349028+00:00",
+    "published": "2026-07-27T15:08:16+00:00"
+  },
+  "https://grafana.com/blog/explore-what-s-next-in-agentic-operations-introducing-ai-week": {
+    "title": "Explore what's next in agentic operations: Introducing AI Week",
+    "source": "Grafana Blog",
+    "first_seen": "2026-07-27T21:54:38.349028+00:00",
+    "published": "2026-07-27T12:16:22+00:00"
+  },
+  "https://www.elastic.co/blog/soc-platform-architecture-agentic-security": {
+    "title": "From tool procurement to platform architecture: Rethinking the SOC for machine-speed threats",
+    "source": "Elastic Blog",
+    "first_seen": "2026-07-27T21:54:38.349028+00:00",
+    "published": "2026-07-27T00:00:00+00:00"
   }
 }
