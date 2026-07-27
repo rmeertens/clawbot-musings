@@ -61670,5 +61670,245 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-07-26T21:45:11.038476+00:00",
     "published": "2026-07-26T15:17:06+00:00"
+  },
+  "https://realpython.com/quizzes/antigravity-cli": {
+    "title": "Quiz: How to Use Google's Antigravity CLI for AI Code Assistance",
+    "source": "Real Python",
+    "first_seen": "2026-07-27T12:08:35.425480+00:00",
+    "published": "2026-07-27T12:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/Ubuntu-Virtualization-HWE-Stack": {
+    "title": "Ubuntu To Provide Virtualization HWE Stack For Ubuntu 26.04 LTS",
+    "source": "Phoronix",
+    "first_seen": "2026-07-27T12:08:35.425480+00:00",
+    "published": "2026-07-27T11:32:53+00:00"
+  },
+  "https://status.claude.com/incidents/mfdtrknpxghq": {
+    "title": "Elevated errors on Claude Opus 5",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-27T12:08:35.425480+00:00",
+    "published": "2026-07-27T11:32:32+00:00"
+  },
+  "https://www.omgubuntu.co.uk/2026/07/chrome-arm64-linux-available": {
+    "title": "Google Chrome Arrives on ARM64 Linux, Widevine DRM Included",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-27T12:08:35.425480+00:00",
+    "published": "2026-07-27T11:19:33+00:00"
+  },
+  "https://lockwood.dev/ai/2026/07/27/how-is-the-bun-rewrite-in-rust-going.html": {
+    "title": "How is the Bun Rewrite in Rust going?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-27T12:08:35.425480+00:00",
+    "published": "2026-07-27T11:12:26+00:00"
+  },
+  "https://www.schneier.com/blog/archives/2026/07/cognyte-sells-a-mobile-cell-surveillance-van.html": {
+    "title": "Cognyte Sells a Mobile Cell Surveillance Van",
+    "source": "Schneier on Security",
+    "first_seen": "2026-07-27T12:08:35.425480+00:00",
+    "published": "2026-07-27T11:04:30+00:00"
+  },
+  "https://www.cncf.io/blog/2026/07/27/federating-clusters-for-zero-downtime-kubernetes": {
+    "title": "Federating clusters for zero-downtime Kubernetes",
+    "source": "CNCF Blog",
+    "first_seen": "2026-07-27T12:08:35.425480+00:00",
+    "published": "2026-07-27T11:00:00+00:00"
+  },
+  "https://www.harpguitars.net/history/grunewald/12-string.htm": {
+    "title": "The Birth of the American 12-string Guitar",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-27T12:08:35.425480+00:00",
+    "published": "2026-07-27T10:52:21+00:00"
+  },
+  "https://www.phoronix.com/news/AMD-Low-Power-Core-Linux-7.3": {
+    "title": "AMD \"Low Power\" CPU Core Type Patches Queued Ahead Of Linux 7.3",
+    "source": "Phoronix",
+    "first_seen": "2026-07-27T12:08:35.425480+00:00",
+    "published": "2026-07-27T10:35:31+00:00"
+  },
+  "https://smoothbrains.net/posts/2026-05-09-digital-consciousness.html": {
+    "title": "If digital computers are conscious, they are conscious at the hardware level",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-27T12:08:35.425480+00:00",
+    "published": "2026-07-27T10:33:25+00:00"
+  },
+  "https://www.phoronix.com/news/Wayfire-0.11-Released": {
+    "title": "Wayfire Wayland Compositor Closing In On v1.0 Release",
+    "source": "Phoronix",
+    "first_seen": "2026-07-27T12:08:35.425480+00:00",
+    "published": "2026-07-27T10:10:50+00:00"
+  },
+  "https://github.com/libsm64/libsm64": {
+    "title": "Libsm64: Mario 64 as a library for use in external game engines",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-27T12:08:35.425480+00:00",
+    "published": "2026-07-27T10:04:48+00:00"
+  },
+  "https://www.phoronix.com/news/FreeBSD-Q2-2026": {
+    "title": "FreeBSD Developing New NTSYNC Driver For Accelerating Windows NT Sync Primitives",
+    "source": "Phoronix",
+    "first_seen": "2026-07-27T12:08:35.425480+00:00",
+    "published": "2026-07-27T10:03:26+00:00"
+  },
+  "https://stratechery.com/2026/vacation-week-of-july-27": {
+    "title": "Vacation: Week of July 27",
+    "source": "Stratechery",
+    "first_seen": "2026-07-27T12:08:35.425480+00:00",
+    "published": "2026-07-27T10:00:00+00:00"
+  },
+  "https://misago-project.org/t/removing-reactjs-from-the-codebase-and-adapting-htmx-for-ui-interactivity/1267": {
+    "title": "Removing React.js from the codebase and adapting Htmx for UI interactivity",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-27T12:08:35.425480+00:00",
+    "published": "2026-07-27T09:58:50+00:00"
+  },
+  "https://www.phoronix.com/news/Open-Secure-AI-Alliance": {
+    "title": "NVIDIA & Others Form The Open Secure AI Alliance",
+    "source": "Phoronix",
+    "first_seen": "2026-07-27T12:08:35.425480+00:00",
+    "published": "2026-07-27T09:45:43+00:00"
+  },
+  "https://huggingface.co/blog/nvidia/cosmos-h-dreams": {
+    "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-07-27T12:08:35.425480+00:00",
+    "published": "2026-07-27T09:32:20+00:00"
+  },
+  "https://www.shaylocomotives.com": {
+    "title": "Shay Locomotives",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-27T12:08:35.425480+00:00",
+    "published": "2026-07-27T09:23:29+00:00"
+  },
+  "https://www.bbc.com/news/articles/c9q9w3x9qn2o": {
+    "title": "Chinese chipmaker shares surge 470%",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-27T12:08:35.425480+00:00",
+    "published": "2026-07-27T09:11:59+00:00"
+  },
+  "https://code.videolan.org/videolan/vlc-unity": {
+    "title": "VLC for Unity now supported on Linux",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-27T12:08:35.425480+00:00",
+    "published": "2026-07-27T09:06:34+00:00"
+  },
+  "https://thenewstack.io/open-secure-ai-alliance": {
+    "title": "Nvidia, Palantir, Hugging Face join 30 others in race to defend open-weight AI from cyber threats",
+    "source": "The New Stack",
+    "first_seen": "2026-07-27T12:08:35.425480+00:00",
+    "published": "2026-07-27T09:00:00+00:00"
+  },
+  "https://developer.nvidia.com/blog/six-agent-harness-capabilities-for-higher-model-performance": {
+    "title": "Six Agent Harness Capabilities for Higher Model Performance",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-07-27T12:08:35.425480+00:00",
+    "published": "2026-07-27T09:00:00+00:00"
+  },
+  "https://blog.codingconfessions.com/p/how-unix-spell-ran-in-64kb-ram": {
+    "title": "How Unix spell ran in 64 kB of RAM",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-27T12:08:35.425480+00:00",
+    "published": "2026-07-27T08:43:11+00:00"
+  },
+  "https://en.andros.dev/blog/d7ed8b07/modern-email-can-be-built-from-borrowed-parts": {
+    "title": "Modern email can be built from borrowed parts",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-27T12:08:35.425480+00:00",
+    "published": "2026-07-27T08:27:21+00:00"
+  },
+  "https://status.claude.com/incidents/lhqp09kxq7pb": {
+    "title": "Elevated errors on Claude Opus 5",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-27T12:08:35.425480+00:00",
+    "published": "2026-07-27T08:20:06+00:00"
+  },
+  "https://con-dog.github.io/MINIMIO-PUBLIC-FRONTEND": {
+    "title": "Show HN: Watch 14-Byte AI \"brains\" attempt to solve a 2D maze (Its hard)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-27T12:08:35.425480+00:00",
+    "published": "2026-07-27T07:15:15+00:00"
+  },
+  "https://huggingface.co/moonshotai/Kimi-K3": {
+    "title": "Kimi-K3 Releases on HuggingFace 7/27",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-27T12:08:35.425480+00:00",
+    "published": "2026-07-27T06:18:10+00:00"
+  },
+  "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work": {
+    "title": "How AI is expanding what people do at work",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-07-27T12:08:35.425480+00:00",
+    "published": "2026-07-27T03:30:00+00:00"
+  },
+  "https://developer.nvidia.com/blog/nvidia-nemotron-3-ultra-leads-open-models-on-accuracy-and-efficiency-in-agentic-rtl-coding": {
+    "title": "NVIDIA Nemotron 3 Ultra Leads Open Models on Accuracy and Efficiency in Agentic RTL Coding",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-07-27T12:08:35.425480+00:00",
+    "published": "2026-07-27T00:45:00+00:00"
+  },
+  "https://developer.nvidia.com/blog/advancing-semiconductor-innovation-across-materials-engineering-and-manufacturing": {
+    "title": "Advancing Semiconductor Innovation Across Materials Engineering and Manufacturing",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-07-27T12:08:35.425480+00:00",
+    "published": "2026-07-27T00:45:00+00:00"
+  },
+  "https://nikolays.github.io/PGSimCity": {
+    "title": "PGSimCity - How PostgreSQL Works",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-27T12:08:35.425480+00:00",
+    "published": "2026-07-27T00:19:04+00:00"
+  },
+  "https://www.elastic.co/blog/elastic-nvidia-inaugural-partner-osaia": {
+    "title": "Elastic joins NVIDIA and industry leaders as inaugural member of the Open Secure AI Alliance for AI safety and security",
+    "source": "Elastic Blog",
+    "first_seen": "2026-07-27T12:08:35.425480+00:00",
+    "published": "2026-07-27T00:00:00+00:00"
+  },
+  "https://nuxt.com/blog/v4-5-security": {
+    "title": "Nuxt Security Patch Releases",
+    "source": "Nuxt Blog",
+    "first_seen": "2026-07-27T12:08:35.425480+00:00",
+    "published": "2026-07-27T00:00:00+00:00"
+  },
+  "https://fontsinuse.com": {
+    "title": "Fonts In Use – Find out where a font is used",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-27T12:08:35.425480+00:00",
+    "published": "2026-07-26T23:45:09+00:00"
+  },
+  "https://github.com/vercel-labs/scriptc": {
+    "title": "Scriptc by Vercel: TypeScript-to-Native compiler, no JavaScript engine in binary",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-27T12:08:35.425480+00:00",
+    "published": "2026-07-26T22:46:10+00:00"
+  },
+  "https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html": {
+    "title": "US citizen charged after GrapheneOS phone wipes during airport search",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-27T12:08:35.425480+00:00",
+    "published": "2026-07-26T22:21:41+00:00"
+  },
+  "https://lwn.net/Articles/1085422": {
+    "title": "Kernel prepatch 7.2-rc5",
+    "source": "LWN.net",
+    "first_seen": "2026-07-27T12:08:35.425480+00:00",
+    "published": "2026-07-26T22:10:54+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.2-rc5-Released": {
+    "title": "Linux 7.2-rc5 Released: \"Once More We Have Quite A Massive -rc5\"",
+    "source": "Phoronix",
+    "first_seen": "2026-07-27T12:08:35.425480+00:00",
+    "published": "2026-07-26T22:05:14+00:00"
+  },
+  "https://www.imperialviolet.org/2026/07/26/zstd-lean.html": {
+    "title": "We have proof automation now",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-27T12:08:35.425480+00:00",
+    "published": "2026-07-26T20:53:26+00:00"
+  },
+  "http://bair.berkeley.edu/blog/2026/07/26/abbel": {
+    "title": "Teaching LLMs to Update Beliefs for Efficient Long-Horizon Interaction",
+    "source": "BAIR Blog",
+    "first_seen": "2026-07-27T12:08:35.425480+00:00",
+    "published": "2026-07-26T09:00:00+00:00"
   }
 }
