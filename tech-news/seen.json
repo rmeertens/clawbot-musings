@@ -61910,5 +61910,221 @@
     "source": "BAIR Blog",
     "first_seen": "2026-07-27T12:08:35.425480+00:00",
     "published": "2026-07-26T09:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/16-Tile-32-Tile-AMX-Performance": {
+    "title": "Mysterious 16-Tile & 32-Tile AMX Implementations Talked Up For More Performance",
+    "source": "Phoronix",
+    "first_seen": "2026-07-27T16:51:46.501614+00:00",
+    "published": "2026-07-27T16:41:37+00:00"
+  },
+  "https://blogs.microsoft.com/blog/2026/07/27/rethinking-security-for-the-age-of-ai": {
+    "title": "Rethinking security for the age of AI",
+    "source": "Microsoft Blog",
+    "first_seen": "2026-07-27T16:51:46.501614+00:00",
+    "published": "2026-07-27T16:30:09+00:00"
+  },
+  "https://cloud.google.com/blog/products/sap-google-cloud/sap-and-google-cloud-launch-bdc-connect-for-bigquery": {
+    "title": "Announcing general availability of SAP Business Data Cloud Connect for BigQuery",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-07-27T16:51:46.501614+00:00",
+    "published": "2026-07-27T16:30:00+00:00"
+  },
+  "https://thenewstack.io/microsoft-homegrown-ai-models": {
+    "title": "Microsoft is racing to make OpenAI optional",
+    "source": "The New Stack",
+    "first_seen": "2026-07-27T16:51:46.501614+00:00",
+    "published": "2026-07-27T16:24:08+00:00"
+  },
+  "https://www.phoronix.com/news/Fwupd-2.1.7-Released": {
+    "title": "Fwupd 2.1.7 Released With Many Bug Fixes",
+    "source": "Phoronix",
+    "first_seen": "2026-07-27T16:51:46.501614+00:00",
+    "published": "2026-07-27T16:17:48+00:00"
+  },
+  "https://aws.amazon.com/blogs/security/announcing-the-cloud-security-alliance-on-aws-compliance-guide": {
+    "title": "Announcing the Cloud Security Alliance on AWS Compliance Guide",
+    "source": "AWS Security Blog",
+    "first_seen": "2026-07-27T16:51:46.501614+00:00",
+    "published": "2026-07-27T16:15:44+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/beyond-rag-task-aware-knowledge-compression-for-enterprise-ai-on-aws": {
+    "title": "Beyond RAG: Task-aware knowledge compression for enterprise AI on AWS",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-07-27T16:51:46.501614+00:00",
+    "published": "2026-07-27T16:11:32+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/building-a-scalable-personalized-recommendation-system-on-aws-from-batch-to-real-time": {
+    "title": "Building a scalable personalized recommendation system on AWS: From batch to real-time",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-07-27T16:51:46.501614+00:00",
+    "published": "2026-07-27T16:09:17+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/deepgram-enhances-amazon-sagemaker-ai-support-with-aws-iam-temporary-delegation": {
+    "title": "Deepgram enhances Amazon SageMaker AI support with AWS IAM Temporary Delegation",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-07-27T16:51:46.501614+00:00",
+    "published": "2026-07-27T16:07:44+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/how-guardoc-transforms-medical-document-processing-with-amazon-nova-models": {
+    "title": "How Guardoc transforms medical document processing with Amazon Nova models",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-07-27T16:51:46.501614+00:00",
+    "published": "2026-07-27T16:05:00+00:00"
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-27/nvidia-s-750-billion-deals-revive-fear-of-ai-circular-financing": {
+    "title": "Nvidia's $750B in Deals Reignite Circular AI Fears",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-27T16:51:46.501614+00:00",
+    "published": "2026-07-27T16:02:00+00:00"
+  },
+  "https://medium.com/pinterest-engineering/pinner-progression-better-use-case-representation-driving-weekly-active-user-growth-at-pinterest-bd2131ab238a?source=rss----4c5a5f6279b6---4": {
+    "title": "Pinner Progression: Better Use-Case Representation Driving Weekly Active User Growth at Pinterest",
+    "source": "Pinterest Engineering",
+    "first_seen": "2026-07-27T16:51:46.501614+00:00",
+    "published": "2026-07-27T16:01:02+00:00"
+  },
+  "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-getting-started": {
+    "title": "GitHub Copilot app for Beginners: Getting started",
+    "source": "GitHub Blog",
+    "first_seen": "2026-07-27T16:51:46.501614+00:00",
+    "published": "2026-07-27T16:00:00+00:00"
+  },
+  "https://developer.nvidia.com/blog/nvidia-ising-enables-fully-automated-quantum-computer-calibration-with-enhanced-in-context-learning": {
+    "title": "NVIDIA Ising Enables Fully Automated Quantum Computer Calibration with Enhanced In-Context Learning",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-07-27T16:51:46.501614+00:00",
+    "published": "2026-07-27T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/identity-security/cyber-snapshot-report-enterprise-resilience-key-to-toolchain-success": {
+    "title": "Cyber Snapshot Report: Go beyond the toolchain and build enterprise resilience",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-07-27T16:51:46.501614+00:00",
+    "published": "2026-07-27T16:00:00+00:00"
+  },
+  "https://lwn.net/Articles/1085566": {
+    "title": "GNU Binutils 2.47 released",
+    "source": "LWN.net",
+    "first_seen": "2026-07-27T16:51:46.501614+00:00",
+    "published": "2026-07-27T15:46:28+00:00"
+  },
+  "https://github.com/MoonshotAI/Kimi-K3/blob/main/k3_tech_report.pdf": {
+    "title": "Kimi-K3 Technical Report [pdf]",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-27T16:51:46.501614+00:00",
+    "published": "2026-07-27T15:23:45+00:00"
+  },
+  "https://videocardz.com/newz/minecraft-java-edition-raises-recommended-memory-to-16gb-ahead-of-vulkan-transition": {
+    "title": "Minecraft Java raises recommended memory to 16GB ahead of Vulkan transition",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-27T16:51:46.501614+00:00",
+    "published": "2026-07-27T15:11:51+00:00"
+  },
+  "https://blog.bytebytego.com/p/how-nvidia-builds-open-models-for": {
+    "title": "How NVIDIA Builds Open Models for the Age of AI",
+    "source": "ByteByteGo",
+    "first_seen": "2026-07-27T16:51:46.501614+00:00",
+    "published": "2026-07-27T15:01:46+00:00"
+  },
+  "https://www.phoronix.com/review/framework-laptop-13-pro": {
+    "title": "Framework Laptop 13 Pro: Aiming To Be One Of The Best Upgradeable Linux Laptops",
+    "source": "Phoronix",
+    "first_seen": "2026-07-27T16:51:46.501614+00:00",
+    "published": "2026-07-27T15:00:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-july-27-2026": {
+    "title": "AWS Weekly Roundup: Local Zone in Athens, Claude Opus 5 on AWS, Lambda durable execution for .NET, and more (July 27, 2026)",
+    "source": "AWS Blog",
+    "first_seen": "2026-07-27T16:51:46.501614+00:00",
+    "published": "2026-07-27T14:54:41+00:00"
+  },
+  "https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts": {
+    "title": "Apple Will 'Watch Everything Burn' When the AI Bubble Bursts",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-27T16:51:46.501614+00:00",
+    "published": "2026-07-27T14:42:41+00:00"
+  },
+  "https://pagedout.institute/download/PagedOut_009.pdf": {
+    "title": "Paged Out #9 [pdf]",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-27T16:51:46.501614+00:00",
+    "published": "2026-07-27T14:22:34+00:00"
+  },
+  "https://www.ft.com/content/d8a5f95e-3b6d-463a-a848-c9ef8e2394db": {
+    "title": "AI companies spend record sums on Washington lobbying",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-27T16:51:46.501614+00:00",
+    "published": "2026-07-27T14:07:48+00:00"
+  },
+  "https://realpython.com/antigravity-cli": {
+    "title": "How to Use Google's Antigravity CLI for AI Code Assistance",
+    "source": "Real Python",
+    "first_seen": "2026-07-27T16:51:46.501614+00:00",
+    "published": "2026-07-27T14:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/topics/public-sector/modernizing-the-skies-noaa-google-cloud-collaborate-advance-weather-forecasting": {
+    "title": "Modernizing the skies: NOAA and Google Cloud collaborate to advance weather forecasting",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-07-27T16:51:46.501614+00:00",
+    "published": "2026-07-27T14:00:00+00:00"
+  },
+  "https://lwn.net/Articles/1085554": {
+    "title": "Security updates for Monday",
+    "source": "LWN.net",
+    "first_seen": "2026-07-27T16:51:46.501614+00:00",
+    "published": "2026-07-27T13:10:20+00:00"
+  },
+  "https://incoherency.co.uk/blog/stories/should-you-wash-your-solar-panels.html": {
+    "title": "Should you wash your solar panels?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-27T16:51:46.501614+00:00",
+    "published": "2026-07-27T13:04:11+00:00"
+  },
+  "https://thenewstack.io/pilot-protocol-agent-economy": {
+    "title": "“Developers see this as the future”:  Pilot Protocol launches to power the agent economy",
+    "source": "The New Stack",
+    "first_seen": "2026-07-27T16:51:46.501614+00:00",
+    "published": "2026-07-27T13:00:00+00:00"
+  },
+  "https://thenewstack.io/dynatrace-autonomous-sre-agents": {
+    "title": "Dynatrace’s new agents can reveal the single hardest part of AI operations",
+    "source": "The New Stack",
+    "first_seen": "2026-07-27T16:51:46.501614+00:00",
+    "published": "2026-07-27T13:00:00+00:00"
+  },
+  "https://thenewstack.io/cloudflare-pvcli-privacy-debugger-agents": {
+    "title": "Cloudflare open-sources a debugger for privacy protocols used by Apple and Microsoft, with AI agents in mind",
+    "source": "The New Stack",
+    "first_seen": "2026-07-27T16:51:46.501614+00:00",
+    "published": "2026-07-27T13:00:00+00:00"
+  },
+  "https://blog.cloudflare.com/open-sourcing-our-privacy-proxy-cli": {
+    "title": "We’re open sourcing our privacy proxy CLI",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-07-27T16:51:46.501614+00:00",
+    "published": "2026-07-27T13:00:00+00:00"
+  },
+  "https://brittany-ellich.offprint.app/a/3mrjj34puva23-108-prs-in-eight-days-accidentally-discovering-loop-engineering": {
+    "title": "108 PRs in eight days: Accidentally discovering loop engineering",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-27T16:51:46.501614+00:00",
+    "published": "2026-07-27T12:44:47+00:00"
+  },
+  "https://twitter.com/HedgieMarkets/status/2081534588485296565": {
+    "title": "AI companies are shredding rare books",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-27T16:51:46.501614+00:00",
+    "published": "2026-07-27T12:32:12+00:00"
+  },
+  "https://incredible.pm": {
+    "title": "The Proof Machine (2016)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-27T16:51:46.501614+00:00",
+    "published": "2026-07-27T12:29:24+00:00"
+  },
+  "https://machinelearning.apple.com/research/gh-esd": {
+    "title": "GH-ESD: Grounded Hypothesis-Driven Error Slice Discovery for Instance-Level Vision Tasks",
+    "source": "Apple ML Journal",
+    "first_seen": "2026-07-27T16:51:46.501614+00:00",
+    "published": "2026-07-27T00:00:00+00:00"
   }
 }
