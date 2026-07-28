@@ -62474,5 +62474,311 @@
     "source": "Databricks Blog",
     "first_seen": "2026-07-28T11:07:33.347577+00:00",
     "published": "2026-07-27T08:05:38+00:00"
+  },
+  "https://oxide.computer/blog/oxide-anthropic-project-glasswing": {
+    "title": "Oxide joins Anthropic's Project Glasswing",
+    "source": "Oxide Computer",
+    "first_seen": "2026-07-28T16:26:34.629138+00:00",
+    "published": "2026-07-28T17:00:00+00:00"
+  },
+  "https://blog.doubleword.ai/you-could-have-come-up-with-kimi-delta-attention": {
+    "title": "You Could Have Come Up with Kimi Delta Attention",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-28T16:26:34.629138+00:00",
+    "published": "2026-07-28T16:02:07+00:00"
+  },
+  "https://blogs.microsoft.com/blog/2026/07/28/looking-back-on-microsofts-fy26-from-ai-experimentation-to-frontier-transformation": {
+    "title": "Looking back on Microsoft’s FY26: From AI experimentation to Frontier Transformation",
+    "source": "Microsoft Blog",
+    "first_seen": "2026-07-28T16:26:34.629138+00:00",
+    "published": "2026-07-28T16:00:10+00:00"
+  },
+  "https://github.blog/security/supply-chain-security/disrupting-supply-chain-attacks-on-npm-and-github-actions": {
+    "title": "Disrupting supply chain attacks on npm and GitHub Actions",
+    "source": "GitHub Blog",
+    "first_seen": "2026-07-28T16:26:34.629138+00:00",
+    "published": "2026-07-28T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/topics/retail/best-buy-scales-secure-ai-access-with-workforce-identity-federation": {
+    "title": "Best Buy scales AI workloads and secures access with Workforce Identity Federation",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-07-28T16:26:34.629138+00:00",
+    "published": "2026-07-28T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/topics/cost-management/new-early-anomalies-and-spend-caps-on-google-cloud-budgets": {
+    "title": "Detect early and enforce firmly with Google Cloud's enhanced cost controls for AI spend",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-07-28T16:26:34.629138+00:00",
+    "published": "2026-07-28T16:00:00+00:00"
+  },
+  "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks": {
+    "title": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
+    "source": "Google AI Blog",
+    "first_seen": "2026-07-28T16:26:34.629138+00:00",
+    "published": "2026-07-28T16:00:00+00:00"
+  },
+  "https://naveensrinivasan.com/posts/2026-07-22-how-do-i-profile-ebpf-code": {
+    "title": "How Do I Profile eBPF Code?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-28T16:26:34.629138+00:00",
+    "published": "2026-07-28T15:55:44+00:00"
+  },
+  "https://github.com/reflex-dev/xy": {
+    "title": "Show HN: XY – Fast, composable, GPU-accelerated charts, written in Rust",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-28T16:26:34.629138+00:00",
+    "published": "2026-07-28T15:54:55+00:00"
+  },
+  "https://www.slow-journalism.com": {
+    "title": "Delayed Gratification – Proud to Be 'Last to Breaking News'",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-28T16:26:34.629138+00:00",
+    "published": "2026-07-28T15:50:38+00:00"
+  },
+  "https://www.phoronix.com/news/Starling-Swift-Desktop": {
+    "title": "Starling: A New Linux Desktop Written In Swift, Own Wayland Compositor & Written With AI",
+    "source": "Phoronix",
+    "first_seen": "2026-07-28T16:26:34.629138+00:00",
+    "published": "2026-07-28T15:50:00+00:00"
+  },
+  "https://newsletter.pragmaticengineer.com/p/inside-anthropic": {
+    "title": "How building software is changing at Anthropic",
+    "source": "The Pragmatic Engineer",
+    "first_seen": "2026-07-28T16:26:34.629138+00:00",
+    "published": "2026-07-28T15:49:30+00:00"
+  },
+  "https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html": {
+    "title": "Kimi K3 Architecture Overview and Notes",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-28T16:26:34.629138+00:00",
+    "published": "2026-07-28T15:48:34+00:00"
+  },
+  "https://mlugg.co.uk/posts/incremental-compilation-internals": {
+    "title": "Zig's Incremental Compilation Internals",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-28T16:26:34.629138+00:00",
+    "published": "2026-07-28T15:46:45+00:00"
+  },
+  "https://lisyarus.github.io/blog/posts/so-you-want-to-make-a-game-engine.html": {
+    "title": "So, you want to make a game engine (2023)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-28T16:26:34.629138+00:00",
+    "published": "2026-07-28T15:36:45+00:00"
+  },
+  "https://flashpaper.app": {
+    "title": "Show HN: Flashpaper – Self-destructing secret sharing with no database",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-28T16:26:34.629138+00:00",
+    "published": "2026-07-28T15:36:35+00:00"
+  },
+  "https://piechowski.io/post/setup-script-git-worktrees": {
+    "title": "Setup Script Should Support Git Worktrees",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-28T16:26:34.629138+00:00",
+    "published": "2026-07-28T15:32:58+00:00"
+  },
+  "https://blog.bytebytego.com/p/why-doordash-instacart-and-uber-eats": {
+    "title": "Why DoorDash, Instacart, and Uber Eats Integrated LLMs Into Search Three Different Ways",
+    "source": "ByteByteGo",
+    "first_seen": "2026-07-28T16:26:34.629138+00:00",
+    "published": "2026-07-28T15:30:42+00:00"
+  },
+  "https://devblogs.microsoft.com/devops/find-any-commit-in-seconds-commit-search-comes-to-azure-devops": {
+    "title": "Find any commit in seconds: Commit Search comes to Azure DevOps",
+    "source": "MS DevOps Blog",
+    "first_seen": "2026-07-28T16:26:34.629138+00:00",
+    "published": "2026-07-28T15:24:55+00:00"
+  },
+  "https://arxiv.org/abs/1202.4212": {
+    "title": "Harmony Explained: Progress Towards a Scientific Theory of Music (2012)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-28T16:26:34.629138+00:00",
+    "published": "2026-07-28T15:20:35+00:00"
+  },
+  "https://www.pcmag.com/news/grapheneos-defends-data-wiping-function-that-blocked-us-border-search": {
+    "title": "GrapheneOS Defends Data-Wiping Function That Blocked US Border Search",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-28T16:26:34.629138+00:00",
+    "published": "2026-07-28T15:17:38+00:00"
+  },
+  "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders": {
+    "title": "LFM2.5-Encoders for Fast Long-Context Inference on CPU",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-07-28T16:26:34.629138+00:00",
+    "published": "2026-07-28T15:01:45+00:00"
+  },
+  "https://thenewstack.io/mate-security-context-graph": {
+    "title": "Mate Security bets a context-first AI architecture can reinvent the SOC as it lands $35M Series A",
+    "source": "The New Stack",
+    "first_seen": "2026-07-28T16:26:34.629138+00:00",
+    "published": "2026-07-28T15:00:00+00:00"
+  },
+  "https://lwn.net/Articles/1085894": {
+    "title": "Wayfire 0.11 released",
+    "source": "LWN.net",
+    "first_seen": "2026-07-28T16:26:34.629138+00:00",
+    "published": "2026-07-28T14:54:01+00:00"
+  },
+  "https://lwn.net/Articles/1084499": {
+    "title": "[$] A report from Debian's new DFSG team",
+    "source": "LWN.net",
+    "first_seen": "2026-07-28T16:26:34.629138+00:00",
+    "published": "2026-07-28T14:21:44+00:00"
+  },
+  "https://ooni.org/post/2026-italy-blocks-wow-and-whw": {
+    "title": "Italy Blocks Reproductive Health Websites Women on Web and Women Help Women",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-28T16:26:34.629138+00:00",
+    "published": "2026-07-28T14:05:51+00:00"
+  },
+  "https://www.phoronix.com/review/amd-hx470-windows-linux": {
+    "title": "CachyOS Outperforming Windows 11, Slight Advantage Over Ubuntu & Fedora On AMD Ryzen AI 9 HX 470",
+    "source": "Phoronix",
+    "first_seen": "2026-07-28T16:26:34.629138+00:00",
+    "published": "2026-07-28T14:04:04+00:00"
+  },
+  "https://realpython.com/courses/managing-imports-dunder-all": {
+    "title": "Managing Imports With Python's __all__",
+    "source": "Real Python",
+    "first_seen": "2026-07-28T16:26:34.629138+00:00",
+    "published": "2026-07-28T14:00:00+00:00"
+  },
+  "https://medium.com/wix-engineering/how-a-tool-i-built-for-my-team-became-wixs-official-bi-platform-ca206e479262?source=rss----e239c562f907---4": {
+    "title": "How a Tool I Built for My Team Became Wix’s Official BI Platform",
+    "source": "Wix Engineering",
+    "first_seen": "2026-07-28T16:26:34.629138+00:00",
+    "published": "2026-07-28T13:56:00+00:00"
+  },
+  "https://github.com/LukeTandjung/base-gpui": {
+    "title": "Show HN: Base-GPUI: A GPUI port of Base UI headless components",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-28T16:26:34.629138+00:00",
+    "published": "2026-07-28T13:38:41+00:00"
+  },
+  "https://github.com/utmapp/UTM/issues/7658": {
+    "title": "VMs can't boot with Network Mode set to Bridged on Apple M5 Pro machines",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-28T16:26:34.629138+00:00",
+    "published": "2026-07-28T13:33:42+00:00"
+  },
+  "https://tale.fyi/@sam/announcing-tale-fyi-read-or-listen-to-an-entire-book-from-a-single-link": {
+    "title": "Show HN: tale.fyi, we deserve a home for fiction",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-28T16:26:34.629138+00:00",
+    "published": "2026-07-28T13:16:52+00:00"
+  },
+  "https://github.com/ctrlb-hq/ctrlb-decompose": {
+    "title": "Show HN: Ctrlb-decompose: Strip the noise from logs before sending to LLMs",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-28T16:26:34.629138+00:00",
+    "published": "2026-07-28T13:13:35+00:00"
+  },
+  "https://www.lji.org/news-events/news/post/new-hiv-vaccine-shows-unprecedented-success-in-preclinical-study": {
+    "title": "New HIV vaccine shows unprecedented success in preclinical study",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-28T16:26:34.629138+00:00",
+    "published": "2026-07-28T13:12:01+00:00"
+  },
+  "https://lwn.net/Articles/1085855": {
+    "title": "Security updates for Tuesday",
+    "source": "LWN.net",
+    "first_seen": "2026-07-28T16:26:34.629138+00:00",
+    "published": "2026-07-28T13:11:16+00:00"
+  },
+  "https://martinfowler.com/articles/orchestrator-tax.html": {
+    "title": "The Orchestrator's Tax",
+    "source": "Martin Fowler",
+    "first_seen": "2026-07-28T16:26:34.629138+00:00",
+    "published": "2026-07-28T13:10:00+00:00"
+  },
+  "https://github.com/schildep/verified-3d-mesh-intersection": {
+    "title": "Show HN: Formally verified 3D CSG: Trust 93 lines spec, not 1000 lines AI code",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-28T16:26:34.629138+00:00",
+    "published": "2026-07-28T13:07:14+00:00"
+  },
+  "https://galjot.si/what-ai-developers-could-learn-from-charles-bukowski": {
+    "title": "What AI developers could learn from Charles Bukowski?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-28T16:26:34.629138+00:00",
+    "published": "2026-07-28T13:00:12+00:00"
+  },
+  "https://www.docker.com/blog/coding-agent-horror-stories-the-29-million-secret-problem": {
+    "title": "Coding Agent Horror Stories: The 29 Million Secret Problem",
+    "source": "Docker Blog",
+    "first_seen": "2026-07-28T16:26:34.629138+00:00",
+    "published": "2026-07-28T13:00:00+00:00"
+  },
+  "https://thenewstack.io/tines-ai-workflow-governance": {
+    "title": "“There is a sell-by date on low-code, no-code”: What Tines thinks comes next",
+    "source": "The New Stack",
+    "first_seen": "2026-07-28T16:26:34.629138+00:00",
+    "published": "2026-07-28T13:00:00+00:00"
+  },
+  "https://thenewstack.io/diagrid-catalyst-agent-recovery": {
+    "title": "Diagrid gives failed AI agents a way to resume",
+    "source": "The New Stack",
+    "first_seen": "2026-07-28T16:26:34.629138+00:00",
+    "published": "2026-07-28T13:00:00+00:00"
+  },
+  "https://thenewstack.io/ai-open-source-security": {
+    "title": "When vendor-supplied support matters: How AI is changing the open source security equation",
+    "source": "The New Stack",
+    "first_seen": "2026-07-28T16:26:34.629138+00:00",
+    "published": "2026-07-28T13:00:00+00:00"
+  },
+  "https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips": {
+    "title": "5 ways to host the ultimate dinner party with Google Search",
+    "source": "Google AI Blog",
+    "first_seen": "2026-07-28T16:26:34.629138+00:00",
+    "published": "2026-07-28T13:00:00+00:00"
+  },
+  "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips": {
+    "title": "5 ways AI Mode in Search helps you enjoy the real world",
+    "source": "Google AI Blog",
+    "first_seen": "2026-07-28T16:26:34.629138+00:00",
+    "published": "2026-07-28T13:00:00+00:00"
+  },
+  "https://blog.cloudflare.com/q2-2026-internet-disruption-summary": {
+    "title": "Natural disasters and government interference: examining Q2 2026’s major Internet disruption events",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-07-28T16:26:34.629138+00:00",
+    "published": "2026-07-28T13:00:00+00:00"
+  },
+  "https://martinfowler.com/rachels-ramblings/intro.html": {
+    "title": "Why I’m Writing Rachel’s Ramblings",
+    "source": "Martin Fowler",
+    "first_seen": "2026-07-28T16:26:34.629138+00:00",
+    "published": "2026-07-28T12:32:00+00:00"
+  },
+  "https://en.wikipedia.org/wiki/Mondragon_Corporation": {
+    "title": "Mondragon Corporation – a federation of co-operatives",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-28T16:26:34.629138+00:00",
+    "published": "2026-07-28T12:19:07+00:00"
+  },
+  "https://realpython.com/quizzes/managing-imports-dunder-all": {
+    "title": "Quiz: Managing Imports With Python's __all__",
+    "source": "Real Python",
+    "first_seen": "2026-07-28T16:26:34.629138+00:00",
+    "published": "2026-07-28T12:00:00+00:00"
+  },
+  "https://www.schneier.com/blog/archives/2026/07/axon-is-another-license-plate-surveillance-company.html": {
+    "title": "Axon Is Another License Plate Surveillance Company",
+    "source": "Schneier on Security",
+    "first_seen": "2026-07-28T16:26:34.629138+00:00",
+    "published": "2026-07-28T11:06:30+00:00"
+  },
+  "https://opentelemetry.io/blog/2026/we-broke-the-demo": {
+    "title": "We broke the OTel demo",
+    "source": "OpenTelemetry Blog",
+    "first_seen": "2026-07-28T16:26:34.629138+00:00",
+    "published": "2026-07-28T10:15:19+00:00"
+  },
+  "https://www.elastic.co/blog/elastic-cloud-now-available-madrid-tokyo-sweden-sao-paulo": {
+    "title": "Elastic Cloud Serverless: Ongoing multicontinent expansion",
+    "source": "Elastic Blog",
+    "first_seen": "2026-07-28T16:26:34.629138+00:00",
+    "published": "2026-07-28T00:00:00+00:00"
   }
 }
