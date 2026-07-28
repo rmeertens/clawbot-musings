@@ -62780,5 +62780,245 @@
     "source": "Elastic Blog",
     "first_seen": "2026-07-28T16:26:34.629138+00:00",
     "published": "2026-07-28T00:00:00+00:00"
+  },
+  "https://simonwillison.net/2026/Jul/28/uv": {
+    "title": "uv 0.12.0",
+    "source": "Simon Willison",
+    "first_seen": "2026-07-28T21:53:41.931156+00:00",
+    "published": "2026-07-28T21:51:38+00:00"
+  },
+  "https://simonwillison.net/2026/Jul/28/anatomy-of-a-frontier-lab-agent-intrusion": {
+    "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
+    "source": "Simon Willison",
+    "first_seen": "2026-07-28T21:53:41.931156+00:00",
+    "published": "2026-07-28T21:28:54+00:00"
+  },
+  "https://mac-classic.com/news/half-life-ported-to-mac-os-9": {
+    "title": "Half-Life ported to Mac OS 9",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-28T21:53:41.931156+00:00",
+    "published": "2026-07-28T20:58:39+00:00"
+  },
+  "https://github.com/openai/codex-security": {
+    "title": "OpenAI just open-sourced Codex Security",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-28T21:53:41.931156+00:00",
+    "published": "2026-07-28T20:52:55+00:00"
+  },
+  "https://developer.nvidia.com/blog/developing-healthcare-robotics-with-gpu-native-medical-physics-simulation": {
+    "title": "Developing Healthcare Robotics with GPU-Native Medical Physics Simulation",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-07-28T21:53:41.931156+00:00",
+    "published": "2026-07-28T20:49:21+00:00"
+  },
+  "https://blog.gaborkoos.com/posts/2026-05-09-Your-Recursion-Is-Lying-to-You": {
+    "title": "Recursion is lying to you",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-28T21:53:41.931156+00:00",
+    "published": "2026-07-28T20:20:51+00:00"
+  },
+  "https://github.com/ghaziwali/Hulios": {
+    "title": "Hulios: An eBPF-powered, transparent Tor gateway for Linux",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-28T21:53:41.931156+00:00",
+    "published": "2026-07-28T19:54:38+00:00"
+  },
+  "https://thenewstack.io/huang-semiconductor-tenfold-ai-agents": {
+    "title": "Jensen Huang says AI agents could drive a 5-10x computing boom: “100 billion agents and billions of robots”",
+    "source": "The New Stack",
+    "first_seen": "2026-07-28T21:53:41.931156+00:00",
+    "published": "2026-07-28T19:46:50+00:00"
+  },
+  "https://github.com/astral-sh/uv/releases/tag/0.12.0": {
+    "title": "Uv 0.12.0",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-28T21:53:41.931156+00:00",
+    "published": "2026-07-28T19:41:33+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/how-agentcore-gateway-supports-the-mcp-2026-07-28-spec": {
+    "title": "How AgentCore Gateway supports the MCP 2026-07-28 spec",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-07-28T21:53:41.931156+00:00",
+    "published": "2026-07-28T19:07:09+00:00"
+  },
+  "https://aws.amazon.com/blogs/security/aws-kms-or-aws-cloudhsm-choose-the-right-key-management-solution": {
+    "title": "AWS KMS or AWS CloudHSM: Choose the right key management solution",
+    "source": "AWS Security Blog",
+    "first_seen": "2026-07-28T21:53:41.931156+00:00",
+    "published": "2026-07-28T18:55:43+00:00"
+  },
+  "https://blog.modelcontextprotocol.io/posts/2026-07-28": {
+    "title": "MCP 2026-07-28 Specification: transport going stateless",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-28T21:53:41.931156+00:00",
+    "published": "2026-07-28T18:35:11+00:00"
+  },
+  "https://thenewstack.io/altman-security-distillation-scale": {
+    "title": "Sam Altman on model distillation: “This is not in my top ten list of worries”",
+    "source": "The New Stack",
+    "first_seen": "2026-07-28T21:53:41.931156+00:00",
+    "published": "2026-07-28T18:15:57+00:00"
+  },
+  "https://pytorch.org/blog/pytorch-foundation-flare-pin-community-design-contest": {
+    "title": "PyTorch Foundation Flare Pin Community Design Contest",
+    "source": "PyTorch Blog",
+    "first_seen": "2026-07-28T21:53:41.931156+00:00",
+    "published": "2026-07-28T18:13:05+00:00"
+  },
+  "https://lwn.net/Articles/1083202": {
+    "title": "[$] Progress toward compiling Linux with gccrs",
+    "source": "LWN.net",
+    "first_seen": "2026-07-28T21:53:41.931156+00:00",
+    "published": "2026-07-28T17:40:01+00:00"
+  },
+  "https://www.apple.com/shop/iphone/iphone-upgrade-program": {
+    "title": "The iPhone Upgrade Program is being replaced by Apple Upgrade",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-28T21:53:41.931156+00:00",
+    "published": "2026-07-28T17:37:12+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/automate-spark-scala-migration-to-4-x-with-aws-spark-upgrade-agent": {
+    "title": "Automate Spark Scala migration to 4.x with AWS Spark Upgrade Agent",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-07-28T21:53:41.931156+00:00",
+    "published": "2026-07-28T17:30:07+00:00"
+  },
+  "https://cloud.google.com/blog/products/data-analytics/conversational-analytics-in-google-data-cloud-in-q326": {
+    "title": "Bringing Conversational Analytics to your entire data ecosystem",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-07-28T21:53:41.931156+00:00",
+    "published": "2026-07-28T17:30:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/market-surveillance-agent-with-langgraph-and-strands-on-agentcore": {
+    "title": "Market surveillance agent with LangGraph and Strands on AgentCore",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-07-28T21:53:41.931156+00:00",
+    "published": "2026-07-28T17:24:54+00:00"
+  },
+  "https://www.anthropic.com/research/discovering-cryptographic-weaknesses": {
+    "title": "Discovering Cryptographic Weaknesses with Claude",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-28T21:53:41.931156+00:00",
+    "published": "2026-07-28T17:22:16+00:00"
+  },
+  "https://aws.amazon.com/blogs/security/2026-phase-1a-irap-report-is-now-available-on-aws-artifact-for-australian-customers": {
+    "title": "2026 Phase 1a IRAP report is now available on AWS Artifact for Australian customers",
+    "source": "AWS Security Blog",
+    "first_seen": "2026-07-28T21:53:41.931156+00:00",
+    "published": "2026-07-28T17:16:34+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/build-a-contract-compliance-search-system-with-amazon-opensearch": {
+    "title": "Build a contract compliance search system with Amazon OpenSearch",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-07-28T21:53:41.931156+00:00",
+    "published": "2026-07-28T17:15:26+00:00"
+  },
+  "https://sbcl.org/all-news.html?2.6.7": {
+    "title": "Steel Bank Common Lisp version 2.6.7",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-28T21:53:41.931156+00:00",
+    "published": "2026-07-28T17:11:54+00:00"
+  },
+  "https://www.w3.org/blog/2026/woff-1-0-a-milestone-on-w3cs-journey-of-fonts-on-the-web": {
+    "title": "WOFF 1.0: a milestone on W3C's journey of fonts on the web",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-28T21:53:41.931156+00:00",
+    "published": "2026-07-28T17:05:51+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/migrate-to-amazon-keyspaces-with-zero-downtime-using-zdm-proxy": {
+    "title": "Migrate to Amazon Keyspaces with zero downtime using ZDM Proxy",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-07-28T21:53:41.931156+00:00",
+    "published": "2026-07-28T17:04:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/troubleshooting-sql-server-query-performance-on-amazon-rds": {
+    "title": "Troubleshooting SQL Server query performance on Amazon RDS",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-07-28T21:53:41.931156+00:00",
+    "published": "2026-07-28T17:01:51+00:00"
+  },
+  "https://medium.com/airbnb-engineering/eval-driven-development-lessons-from-evaluating-genai-at-scale-e817e5ae5788?source=rss----53c7c27702d5---4": {
+    "title": "Eval-driven development: Lessons from evaluating GenAI at scale",
+    "source": "Airbnb Engineering",
+    "first_seen": "2026-07-28T21:53:41.931156+00:00",
+    "published": "2026-07-28T17:01:03+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/building-scalable-applications-on-amazon-aurora-dsql": {
+    "title": "Building scalable applications on Amazon Aurora DSQL",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-07-28T21:53:41.931156+00:00",
+    "published": "2026-07-28T17:00:27+00:00"
+  },
+  "https://openai.com/index/scientific-computing-agentic-ai": {
+    "title": "Scientific computing in the age of agentic AI",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-07-28T21:53:41.931156+00:00",
+    "published": "2026-07-28T17:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/identity-security/future-proofing-data-integrity-quantum-safe-digital-signatures-in-cloud-kms": {
+    "title": "Future-proofing data integrity: Quantum-safe digital signatures in Cloud KMS",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-07-28T21:53:41.931156+00:00",
+    "published": "2026-07-28T17:00:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/automated-pii-redaction-for-amazon-rds-for-postgresql-audit-logs": {
+    "title": "Automated PII redaction for Amazon RDS for PostgreSQL audit logs",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-07-28T21:53:41.931156+00:00",
+    "published": "2026-07-28T16:59:21+00:00"
+  },
+  "https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website": {
+    "title": "Substack writers, you need a website",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-28T21:53:41.931156+00:00",
+    "published": "2026-07-28T16:58:31+00:00"
+  },
+  "https://www.databricks.com/blog/prototype-production-high-qps-databricks-ai-search": {
+    "title": "From prototype to production: High QPS for Databricks AI Search",
+    "source": "Databricks Blog",
+    "first_seen": "2026-07-28T21:53:41.931156+00:00",
+    "published": "2026-07-28T16:50:57+00:00"
+  },
+  "https://huggingface.co/blog/allenai/olmoearth-infrastructure": {
+    "title": "The OlmoEarth Platform: Geospatial inference at planetary scale",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-07-28T21:53:41.931156+00:00",
+    "published": "2026-07-28T16:27:42+00:00"
+  },
+  "https://www.hashicorp.com/blog/terraform-azurerm-provider-50-now-generally-available": {
+    "title": "Terraform AzureRM provider 5.0 now generally available",
+    "source": "HashiCorp Blog",
+    "first_seen": "2026-07-28T21:53:41.931156+00:00",
+    "published": "2026-07-28T16:00:00+00:00"
+  },
+  "https://www.databricks.com/blog/how-databricks-manages-its-own-coding-agent-spend-unity-ai-gateway-budgets": {
+    "title": "How Databricks manages its own coding agent spend with Unity AI Gateway Budgets",
+    "source": "Databricks Blog",
+    "first_seen": "2026-07-28T21:53:41.931156+00:00",
+    "published": "2026-07-28T15:40:33+00:00"
+  },
+  "https://grafana.com/blog/telemetry-driven-development-how-to-gain-confidence-in-your-coding-agents-behavior-with-gcx-and-grafana-mcp": {
+    "title": "Telemetry-driven development: How to gain confidence in your coding agents' behavior with gcx and Grafana MCP",
+    "source": "Grafana Blog",
+    "first_seen": "2026-07-28T21:53:41.931156+00:00",
+    "published": "2026-07-28T15:01:42+00:00"
+  },
+  "https://anthropeum.com": {
+    "title": "Anthropeum – Where in the world, and when, does this human artifact belong?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-28T21:53:41.931156+00:00",
+    "published": "2026-07-28T15:01:15+00:00"
+  },
+  "https://cacm.acm.org/opinion/now-is-the-time-to-give-llms-access-to-the-acm-digital-library": {
+    "title": "Now Is the Time to Give LLMs Access to the ACM Digital Library",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-28T21:53:41.931156+00:00",
+    "published": "2026-07-28T15:01:12+00:00"
+  },
+  "https://machinelearning.apple.com/research/audio-synthesis-diffusion-transformers": {
+    "title": "Memory Efficient Audio Synthesis with Decoupled Temporal Depth Diffusion Transformers",
+    "source": "Apple ML Journal",
+    "first_seen": "2026-07-28T21:53:41.931156+00:00",
+    "published": "2026-07-28T00:00:00+00:00"
   }
 }
