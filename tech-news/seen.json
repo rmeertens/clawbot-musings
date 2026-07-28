@@ -62300,5 +62300,179 @@
     "source": "Elastic Blog",
     "first_seen": "2026-07-27T21:54:38.349028+00:00",
     "published": "2026-07-27T00:00:00+00:00"
+  },
+  "https://blog.trailofbits.com/2026/07/28/how-we-use-goal-to-find-bugs-in-patch-the-planet": {
+    "title": "How we use /goal to find bugs in Patch the Planet",
+    "source": "Trail of Bits",
+    "first_seen": "2026-07-28T11:07:33.347577+00:00",
+    "published": "2026-07-28T11:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/AMD-P-State-Better-1p-Lows": {
+    "title": "AMD P-State Linux Driver Patches Can Boost 1%-Low FPS Gaming Performance By 31%",
+    "source": "Phoronix",
+    "first_seen": "2026-07-28T11:07:33.347577+00:00",
+    "published": "2026-07-28T10:03:00+00:00"
+  },
+  "https://spawn-queue.acm.org/doi/10.1145/3819083": {
+    "title": "Google's Beyond Zero: Enterprise Security for the AI Era",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-28T11:07:33.347577+00:00",
+    "published": "2026-07-28T09:59:13+00:00"
+  },
+  "https://var0.xyz/posts/what-even-are-microservices.html": {
+    "title": "What Even Are Microservices?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-28T11:07:33.347577+00:00",
+    "published": "2026-07-28T09:52:31+00:00"
+  },
+  "https://www.phoronix.com/news/KDE-Ridiculous-File-Copy-Times": {
+    "title": "KDE Developer Fixing Long-Standing Bug Over Very Long Small-File Copy Times",
+    "source": "Phoronix",
+    "first_seen": "2026-07-28T11:07:33.347577+00:00",
+    "published": "2026-07-28T09:50:02+00:00"
+  },
+  "https://support.apple.com/en-us/128067": {
+    "title": "About the security content of macOS Tahoe 26.6",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-28T11:07:33.347577+00:00",
+    "published": "2026-07-28T09:45:43+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-crypto-rng-Removal-Patch": {
+    "title": "Linux's crypto_rng Abstraction Layer Next On The Chopping Block",
+    "source": "Phoronix",
+    "first_seen": "2026-07-28T11:07:33.347577+00:00",
+    "published": "2026-07-28T09:41:49+00:00"
+  },
+  "https://www.phoronix.com/news/ASUS-Laptop-Whisper-Mode-Linux": {
+    "title": "ASUS Laptop Whisper Mode Support Being Worked On For Linux",
+    "source": "Phoronix",
+    "first_seen": "2026-07-28T11:07:33.347577+00:00",
+    "published": "2026-07-28T09:25:26+00:00"
+  },
+  "https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&lang=en": {
+    "title": "7.1 Earthquake in Japan",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-28T11:07:33.347577+00:00",
+    "published": "2026-07-28T07:44:24+00:00"
+  },
+  "https://stackoverflow.blog/2026/07/28/you-need-reliable-ai-context-for-your-site-reliability": {
+    "title": "You need reliable AI context for your site reliability​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌​﻿​‌​﻿​​​﻿‍‌​﻿‌​‌‍​‌‌‍​﻿​﻿‌﻿‌‍​‌​‍﻿‌‌‍‌‌‌‍​‍​﻿‌​‌‍‌‌​‍﻿‌​﻿‌​‌‍‌‍​﻿​﻿​﻿​‍​‍﻿‌​﻿‍​​﻿‍‌‌‍‌‍‌‍​‌​‍﻿‌​﻿‌‌​﻿​​‌‍‌‌​﻿‌﻿​﻿‌‍‌‍​‌​﻿​﻿‌‍‌​​﻿‍‌​﻿‌‌​﻿​﻿‌‍‌​​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌​﻿​‌​﻿​​​﻿‍‌​﻿‌​‌‍​‌‌‍​﻿​﻿‌﻿‌‍​‌​‍﻿‌‌‍‌‌‌‍​‍​﻿‌​‌‍‌‌​‍﻿‌​﻿‌​‌‍‌‍​﻿​﻿​﻿​‍​‍﻿‌​﻿‍​​﻿‍‌‌‍‌‍‌‍​‌​‍﻿‌​﻿‌‌​﻿​​‌‍‌‌​﻿‌﻿​﻿‌‍‌‍​‌​﻿​﻿‌‍‌​​﻿‍‌​﻿‌‌​﻿​﻿‌‍‌​​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌",
+    "source": "Stack Overflow Blog",
+    "first_seen": "2026-07-28T11:07:33.347577+00:00",
+    "published": "2026-07-28T07:40:00+00:00"
+  },
+  "https://arsastronomica.com": {
+    "title": "Ars Astronomica – English translations of rare Hebrew and Latin astronomy texts",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-28T11:07:33.347577+00:00",
+    "published": "2026-07-28T05:25:34+00:00"
+  },
+  "https://www.fermionresearch.com/models/neutrino-8b": {
+    "title": "Neutrino-1 8B",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-28T11:07:33.347577+00:00",
+    "published": "2026-07-28T04:49:54+00:00"
+  },
+  "https://docs.pytorch.org/devlogs/compiler/2026-07-25-pytorch-a-reference-language": {
+    "title": "PyTorch: A Reference Language",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-28T11:07:33.347577+00:00",
+    "published": "2026-07-28T04:46:00+00:00"
+  },
+  "https://matthewsaltz.com/blog/using-an-open-model-feels-surprisingly-good": {
+    "title": "Using an open model feels surprisingly good",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-28T11:07:33.347577+00:00",
+    "published": "2026-07-28T02:37:14+00:00"
+  },
+  "https://crowdhailer.me/2026-06-08/a-programming-language-for-humans": {
+    "title": "EYG: A Programming Language for Humans",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-28T11:07:33.347577+00:00",
+    "published": "2026-07-28T02:21:37+00:00"
+  },
+  "https://fermisense.com/when-machines-take-the-wheel": {
+    "title": "A $500 RL fine-tune of a 9B open model beat frontier models on catalog review",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-28T11:07:33.347577+00:00",
+    "published": "2026-07-28T02:18:53+00:00"
+  },
+  "https://support.apple.com/guide/iphone/iphone-comfortably-riding-a-vehicle-iph55564cb22/ios": {
+    "title": "Vehicle Motion Cues",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-28T11:07:33.347577+00:00",
+    "published": "2026-07-28T01:13:26+00:00"
+  },
+  "https://www.databricks.com/blog/get-started-genie-one-top-ai-cowork-use-cases-business-users": {
+    "title": "Get Started with Genie One: Top AI Cowork Use Cases for Business Users",
+    "source": "Databricks Blog",
+    "first_seen": "2026-07-28T11:07:33.347577+00:00",
+    "published": "2026-07-28T01:00:00+00:00"
+  },
+  "https://thenewstack.io/anthropic-wants-tests-not-bans-as-openai-and-google-back-open-weights": {
+    "title": "Anthropic wants tests, not bans, as OpenAI and Google back open weights",
+    "source": "The New Stack",
+    "first_seen": "2026-07-28T11:07:33.347577+00:00",
+    "published": "2026-07-28T00:02:25+00:00"
+  },
+  "https://simonwillison.net/2026/Jul/27/kimi-k3": {
+    "title": "moonshotai/Kimi-K3",
+    "source": "Simon Willison",
+    "first_seen": "2026-07-28T11:07:33.347577+00:00",
+    "published": "2026-07-27T23:39:04+00:00"
+  },
+  "https://dconf.org/2026/index.html": {
+    "title": "DConf 2026 in London",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-28T11:07:33.347577+00:00",
+    "published": "2026-07-27T23:14:19+00:00"
+  },
+  "https://github.com/allyourcodebase": {
+    "title": "C/C++ projects packaged for Zig",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-28T11:07:33.347577+00:00",
+    "published": "2026-07-27T23:09:50+00:00"
+  },
+  "https://www.databricks.com/blog/eu-digital-product-passport-traceability-deadline": {
+    "title": "The EU Digital Product Passport: a traceability deadline",
+    "source": "Databricks Blog",
+    "first_seen": "2026-07-28T11:07:33.347577+00:00",
+    "published": "2026-07-27T23:00:00+00:00"
+  },
+  "https://telnyx.com/release-notes/kimi-k3-telnyx-inference": {
+    "title": "Kimi K3 Now Available via Telnyx Inference API",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-28T11:07:33.347577+00:00",
+    "published": "2026-07-27T22:46:28+00:00"
+  },
+  "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md": {
+    "title": "Benchmarking Opus 5 on SlopCodeBench",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-28T11:07:33.347577+00:00",
+    "published": "2026-07-27T22:37:52+00:00"
+  },
+  "https://www.anthropic.com/news/position-open-weights-models": {
+    "title": "Our position on open-weights models",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-28T11:07:33.347577+00:00",
+    "published": "2026-07-27T22:03:49+00:00"
+  },
+  "https://simonwillison.net/2026/Jul/27/an-opinionated-guide-to-which-ai-to-use-to-do-stuff": {
+    "title": "An opinionated guide to which AI to use to do stuff",
+    "source": "Simon Willison",
+    "first_seen": "2026-07-28T11:07:33.347577+00:00",
+    "published": "2026-07-27T21:55:53+00:00"
+  },
+  "https://github.com/FrigadeHQ/yap": {
+    "title": "Show HN: Yap – OSS on-device voice dictation for macOS with no model to download",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-28T11:07:33.347577+00:00",
+    "published": "2026-07-27T18:36:02+00:00"
+  },
+  "https://www.databricks.com/blog/ai-literacy": {
+    "title": "Building AI Literacy: Frameworks, Tools, and Practices",
+    "source": "Databricks Blog",
+    "first_seen": "2026-07-28T11:07:33.347577+00:00",
+    "published": "2026-07-27T08:05:38+00:00"
   }
 }
