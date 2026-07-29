@@ -63488,5 +63488,281 @@
     "source": "Databricks Blog",
     "first_seen": "2026-07-29T16:13:41.881171+00:00",
     "published": "2026-07-28T19:03:18+00:00"
+  },
+  "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research": {
+    "title": "AI's top startups are barely publishing their research",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-29T21:44:46.852239+00:00",
+    "published": "2026-07-29T21:25:40+00:00"
+  },
+  "https://simonwillison.net/2026/Jul/29/d-richard-hipp": {
+    "title": "Quoting D. Richard Hipp",
+    "source": "Simon Willison",
+    "first_seen": "2026-07-29T21:44:46.852239+00:00",
+    "published": "2026-07-29T21:15:21+00:00"
+  },
+  "https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer": {
+    "title": "SalesPatriot (YC W25) Is Hiring FDEs",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-29T21:44:46.852239+00:00",
+    "published": "2026-07-29T21:01:01+00:00"
+  },
+  "https://aws.amazon.com/blogs/security/amazon-identifies-north-korean-hacker-group-behind-open-source-supply-chain-attacks": {
+    "title": "Amazon identifies North Korean hacker group behind open-source supply chain attacks",
+    "source": "AWS Security Blog",
+    "first_seen": "2026-07-29T21:44:46.852239+00:00",
+    "published": "2026-07-29T21:00:12+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.3-AMDGPU-GFX6-Modifiers": {
+    "title": "DRM Format Modifiers For Old AMD GPUs Coming With Linux 7.3: Thanks Valve",
+    "source": "Phoronix",
+    "first_seen": "2026-07-29T21:44:46.852239+00:00",
+    "published": "2026-07-29T20:47:11+00:00"
+  },
+  "https://christianselig.com/2026/07/vision-pro-house": {
+    "title": "The coolest use for the Vision Pro",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-29T21:44:46.852239+00:00",
+    "published": "2026-07-29T20:39:40+00:00"
+  },
+  "https://firstprinciples.com/blog-article/ai-system-theo-conjecture-solves-35-year-old-math-conjecture": {
+    "title": "Theo Conjecture solves 35-year-old math problem, finds a term no one predicted",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-29T21:44:46.852239+00:00",
+    "published": "2026-07-29T20:21:48+00:00"
+  },
+  "https://dogdogfish.com/blog/2026/07/29/a-trampoline": {
+    "title": "A Trampoline",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-29T21:44:46.852239+00:00",
+    "published": "2026-07-29T20:14:36+00:00"
+  },
+  "https://status.claude.com/incidents/q2kg8n613kr3": {
+    "title": "Claude: Elevated errors across all models",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-29T21:44:46.852239+00:00",
+    "published": "2026-07-29T19:50:42+00:00"
+  },
+  "https://www.kimi.com/code/docs/en/kimi-code/models": {
+    "title": "Kimi K3-256k",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-29T21:44:46.852239+00:00",
+    "published": "2026-07-29T19:25:33+00:00"
+  },
+  "https://newsletter.posthog.com/p/agent-autonomy": {
+    "title": "How much can you delegate to agents?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-29T21:44:46.852239+00:00",
+    "published": "2026-07-29T19:07:13+00:00"
+  },
+  "https://www.phoronix.com/news/Steam-Beta-Video-Streaming": {
+    "title": "Steam Client Adds HDR Streaming On Steam Deck OLED, AV1 Video Streaming",
+    "source": "Phoronix",
+    "first_seen": "2026-07-29T21:44:46.852239+00:00",
+    "published": "2026-07-29T19:07:07+00:00"
+  },
+  "https://www.databricks.com/blog/quality-care-mission-finance-protects-margin": {
+    "title": "Quality care is the mission. Finance protects the margin.",
+    "source": "Databricks Blog",
+    "first_seen": "2026-07-29T21:44:46.852239+00:00",
+    "published": "2026-07-29T18:59:31+00:00"
+  },
+  "https://www.emergingtrajectories.com/lh/commodification-and-circularity": {
+    "title": "Commodification of Intelligence: Good, Bad, and Ugly Circular AI Deals",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-29T21:44:46.852239+00:00",
+    "published": "2026-07-29T18:57:10+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/accelerate-spark-on-emr-serverless-with-larger-workers-and-shuffle-optimized-disks": {
+    "title": "Accelerate Spark on EMR Serverless with larger workers and shuffle-optimized disks",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-07-29T21:44:46.852239+00:00",
+    "published": "2026-07-29T18:51:12+00:00"
+  },
+  "https://thenewstack.io/sol-usage-limits-reset": {
+    "title": "OpenAI fixed GPT-5.6 Sol’s most frustrating flaw: Burning limits while it waits",
+    "source": "The New Stack",
+    "first_seen": "2026-07-29T21:44:46.852239+00:00",
+    "published": "2026-07-29T18:44:41+00:00"
+  },
+  "https://simonwillison.net/2026/Jul/29/ai-worming-through-word": {
+    "title": "AI Worming through Word",
+    "source": "Simon Willison",
+    "first_seen": "2026-07-29T21:44:46.852239+00:00",
+    "published": "2026-07-29T18:43:03+00:00"
+  },
+  "https://www.darktrace.com/blog/the-growing-threat-of-docusign-phishing-attacks": {
+    "title": "The growing threat of Docusign phishing attacks (2024)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-29T21:44:46.852239+00:00",
+    "published": "2026-07-29T18:42:39+00:00"
+  },
+  "https://www.evalapply.org/posts/how-to-not-die-by-a-thousand-cuts/index.html": {
+    "title": "How to not die by a thousand cuts or how to think about software quality (2023)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-29T21:44:46.852239+00:00",
+    "published": "2026-07-29T18:42:10+00:00"
+  },
+  "https://thenewstack.io/ai-pause-framework-letter": {
+    "title": "Anthropic backs urgent call for the most powerful AI labs to hit the brakes",
+    "source": "The New Stack",
+    "first_seen": "2026-07-29T21:44:46.852239+00:00",
+    "published": "2026-07-29T18:41:26+00:00"
+  },
+  "https://thenewstack.io/burp-agentic-pentesting-control-layer": {
+    "title": "“The beast needs a cage”: Why PortSwigger’s agentic pentesting is kept safe behind bars",
+    "source": "The New Stack",
+    "first_seen": "2026-07-29T21:44:46.852239+00:00",
+    "published": "2026-07-29T18:34:54+00:00"
+  },
+  "https://thenewstack.io/cursor-anthropic-openai-india-pricing": {
+    "title": "OpenAI, Anthropic, and Cursor all localized pricing for India. Only two focused on value.",
+    "source": "The New Stack",
+    "first_seen": "2026-07-29T21:44:46.852239+00:00",
+    "published": "2026-07-29T18:30:55+00:00"
+  },
+  "https://www.databricks.com/blog/manufacturing-runs-capital-finance-protects-margin": {
+    "title": "Manufacturing runs on capital. Finance protects the margin.",
+    "source": "Databricks Blog",
+    "first_seen": "2026-07-29T21:44:46.852239+00:00",
+    "published": "2026-07-29T18:30:00+00:00"
+  },
+  "https://www.databricks.com/blog/energy-runs-volatile-markets-finance-protects-margin": {
+    "title": "Energy runs on volatile markets. Finance protects the margin.",
+    "source": "Databricks Blog",
+    "first_seen": "2026-07-29T21:44:46.852239+00:00",
+    "published": "2026-07-29T18:30:00+00:00"
+  },
+  "https://prilik.com/blog/post/automating-ac-nyc": {
+    "title": "Turning a dumb AC unit smart (without losing my security deposit)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-29T21:44:46.852239+00:00",
+    "published": "2026-07-29T18:28:51+00:00"
+  },
+  "https://thenewstack.io/opus-5-vs-fable-5": {
+    "title": "Opus 5 vs. Fable 5: What does half the price buy?",
+    "source": "The New Stack",
+    "first_seen": "2026-07-29T21:44:46.852239+00:00",
+    "published": "2026-07-29T18:24:08+00:00"
+  },
+  "https://simonwillison.net/2026/Jul/29/matthew-green": {
+    "title": "Quoting Matthew Green",
+    "source": "Simon Willison",
+    "first_seen": "2026-07-29T21:44:46.852239+00:00",
+    "published": "2026-07-29T18:18:15+00:00"
+  },
+  "https://lwn.net/Articles/1083985": {
+    "title": "[$] Debugging information for inlined functions",
+    "source": "LWN.net",
+    "first_seen": "2026-07-29T21:44:46.852239+00:00",
+    "published": "2026-07-29T18:05:21+00:00"
+  },
+  "https://www.databricks.com/blog/bringing-real-time-fraud-prevention-government-benefits": {
+    "title": "Bringing real-time fraud prevention to government benefits",
+    "source": "Databricks Blog",
+    "first_seen": "2026-07-29T21:44:46.852239+00:00",
+    "published": "2026-07-29T17:45:00+00:00"
+  },
+  "https://www.databricks.com/blog/agents-production-lines-trusted-decisions-real-time": {
+    "title": "Agents for production lines: Trusted decisions in real time",
+    "source": "Databricks Blog",
+    "first_seen": "2026-07-29T21:44:46.852239+00:00",
+    "published": "2026-07-29T17:30:00+00:00"
+  },
+  "https://www.databricks.com/blog/how-agentic-ai-can-help-telecom-finance-teams-protect-margin-when-every-moment-matters": {
+    "title": "How agentic AI can help telecom finance teams protect the margin when every moment matters",
+    "source": "Databricks Blog",
+    "first_seen": "2026-07-29T21:44:46.852239+00:00",
+    "published": "2026-07-29T17:26:32+00:00"
+  },
+  "https://www.schneier.com/blog/archives/2026/07/measuring-the-tendency-of-ai-agents-to-go-rogue.html": {
+    "title": "Measuring the Tendency of AI Agents to Go Rogue",
+    "source": "Schneier on Security",
+    "first_seen": "2026-07-29T21:44:46.852239+00:00",
+    "published": "2026-07-29T17:07:53+00:00"
+  },
+  "https://lwn.net/Articles/1086047": {
+    "title": "Three stable kernels for Wednesday fix a single regression",
+    "source": "LWN.net",
+    "first_seen": "2026-07-29T21:44:46.852239+00:00",
+    "published": "2026-07-29T17:00:36+00:00"
+  },
+  "https://cheapfoodmap.com": {
+    "title": "Show HN: CheapFoodMap – A map of good meals under $10",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-29T21:44:46.852239+00:00",
+    "published": "2026-07-29T16:59:52+00:00"
+  },
+  "https://developer.nvidia.com/blog/how-to-self-host-a-validated-ai-coding-assistant-with-nvidia-nemo-guardrails": {
+    "title": "How to Self-Host a Validated AI Coding Assistant with NVIDIA NeMo Guardrails",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-07-29T21:44:46.852239+00:00",
+    "published": "2026-07-29T16:46:45+00:00"
+  },
+  "https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results": {
+    "title": "Some thoughts about Anthropic's new cryptanalysis results",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-29T21:44:46.852239+00:00",
+    "published": "2026-07-29T16:42:20+00:00"
+  },
+  "https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice": {
+    "title": "Keychron announces first open-source firmware for gaming mice",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-29T21:44:46.852239+00:00",
+    "published": "2026-07-29T16:36:59+00:00"
+  },
+  "https://newsletter.pragmaticengineer.com/p/formal-methods-with-hillel-wayne": {
+    "title": "Formal methods with Hillel Wayne",
+    "source": "The Pragmatic Engineer",
+    "first_seen": "2026-07-29T21:44:46.852239+00:00",
+    "published": "2026-07-29T16:22:31+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/authenticate-with-private-key-jwt-using-amazon-bedrock-agentcore-identity": {
+    "title": "Authenticate with Private Key JWT using Amazon Bedrock AgentCore Identity",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-07-29T21:44:46.852239+00:00",
+    "published": "2026-07-29T16:20:28+00:00"
+  },
+  "https://www.superlogical.com": {
+    "title": "Superlogical",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-29T21:44:46.852239+00:00",
+    "published": "2026-07-29T15:41:33+00:00"
+  },
+  "https://grafana.com/blog/automate-all-the-things-how-to-use-grafana-cloud-s-ai-to-relieve-the-operational-burden": {
+    "title": "Automate all the things: How to use Grafana Cloud's AI to relieve the operational burden",
+    "source": "Grafana Blog",
+    "first_seen": "2026-07-29T21:44:46.852239+00:00",
+    "published": "2026-07-29T14:47:56+00:00"
+  },
+  "https://openai.com/index/chatgpt-for-academic-researchers": {
+    "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-07-29T21:44:46.852239+00:00",
+    "published": "2026-07-29T10:00:00+00:00"
+  },
+  "https://simonwillison.net/2026/Jul/29/mcp-in-claude-and-chatgpt": {
+    "title": "Adding a custom MCP server to Claude and ChatGPT",
+    "source": "Simon Willison",
+    "first_seen": "2026-07-29T21:44:46.852239+00:00",
+    "published": "2026-07-29T00:13:18+00:00"
+  },
+  "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency": {
+    "title": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-07-29T21:44:46.852239+00:00",
+    "published": "2026-07-29T00:00:00+00:00"
+  },
+  "https://discord.com/blog/introducing-profile-frames-decorative-borders-to-make-your-discord-profile-museum-worthy": {
+    "title": "Introducing Profile Frames: Decorative Borders to Make Your Discord Profile Museum-Worthy",
+    "source": "Discord Engineering",
+    "first_seen": "2026-07-29T21:44:46.852239+00:00",
+    "published": "2026-07-29T00:00:00+00:00"
+  },
+  "http://brooker.co.za/blog/2026/07/29/lorenz-and-little.html": {
+    "title": "Lorenz and Little: How Much Does Your Tail Cost?",
+    "source": "Marc Brooker",
+    "first_seen": "2026-07-29T21:44:46.852239+00:00",
+    "published": "2026-07-29T00:00:00+00:00"
   }
 }
