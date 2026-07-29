@@ -63200,5 +63200,293 @@
     "source": "MS .NET Blog",
     "first_seen": "2026-07-29T11:12:05.140108+00:00",
     "published": "2026-07-28T22:00:00+00:00"
+  },
+  "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control": {
+    "title": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
+    "source": "DeepMind Blog",
+    "first_seen": "2026-07-29T16:13:41.881171+00:00",
+    "published": "2026-07-29T16:02:10+00:00"
+  },
+  "https://thenewstack.io/nanoclaw-echo-agent-runtime": {
+    "title": "The AI “vibe shift”: Why NanoClaw and Echo have teamed up to stop the next Hugging Face Breach",
+    "source": "The New Stack",
+    "first_seen": "2026-07-29T16:13:41.881171+00:00",
+    "published": "2026-07-29T16:00:00+00:00"
+  },
+  "https://replit.com/blog/introducing-replit-design": {
+    "title": "Introducing Replit Design",
+    "source": "Replit Blog",
+    "first_seen": "2026-07-29T16:13:41.881171+00:00",
+    "published": "2026-07-29T16:00:00+00:00"
+  },
+  "https://github.blog/security/supply-chain-security/tame-dependabot-group-your-updates-slow-the-cadence-keep-security-fast": {
+    "title": "Tame Dependabot: Group your updates, slow the cadence, keep security fast",
+    "source": "GitHub Blog",
+    "first_seen": "2026-07-29T16:13:41.881171+00:00",
+    "published": "2026-07-29T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/topics/developers-practitioners/automate-agent-development-lifecycles-with-gemini-enterprise": {
+    "title": "Automate your agent development lifecycle using any coding agent",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-07-29T16:13:41.881171+00:00",
+    "published": "2026-07-29T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/data-analytics/introducing-the-borderless-lakehouse": {
+    "title": "The borderless Lakehouse: Bring AWS, Databricks and Snowflake data to your AI agents",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-07-29T16:13:41.881171+00:00",
+    "published": "2026-07-29T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/business-intelligence/looker-adds-agentic-workflows-for-data-monitoring-and-insights": {
+    "title": "Automate data monitoring and root-cause analysis with Looker Agentic Workflows",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-07-29T16:13:41.881171+00:00",
+    "published": "2026-07-29T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/ai-machine-learning/whats-new-in-gemini-enterprise-agent-platform": {
+    "title": "What’s new in Gemini Enterprise Agent Platform",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-07-29T16:13:41.881171+00:00",
+    "published": "2026-07-29T16:00:00+00:00"
+  },
+  "https://usetokenless.com": {
+    "title": "Launch HN: Tokenless (YC S26) – Automatic model switching to save money",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-29T16:13:41.881171+00:00",
+    "published": "2026-07-29T15:55:27+00:00"
+  },
+  "https://lwn.net/Articles/1085609": {
+    "title": "[$] Fedora approves a smaller GRUB",
+    "source": "LWN.net",
+    "first_seen": "2026-07-29T16:13:41.881171+00:00",
+    "published": "2026-07-29T15:44:01+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/generate-autonomous-business-insights-with-ai-agent-and-mcp-servers": {
+    "title": "Generate Autonomous Business Insights with AI Agent and MCP Servers",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-07-29T16:13:41.881171+00:00",
+    "published": "2026-07-29T15:34:18+00:00"
+  },
+  "https://thenewstack.io/perplexity-space-agent-sandboxes": {
+    "title": "“Stateful systems are incredibly hard to build”: How Perplexity thinks about AI agent sandboxes",
+    "source": "The New Stack",
+    "first_seen": "2026-07-29T16:13:41.881171+00:00",
+    "published": "2026-07-29T15:30:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/automating-customer-retention-workflows-in-amazon-quick": {
+    "title": "Automating customer retention workflows in Amazon Quick",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-07-29T16:13:41.881171+00:00",
+    "published": "2026-07-29T15:24:21+00:00"
+  },
+  "https://blog.bytebytego.com/p/how-chatgpt-optimizes-its-agent-loop": {
+    "title": "How ChatGPT Optimizes its Agent Loop: Harness, API, and Inference",
+    "source": "ByteByteGo",
+    "first_seen": "2026-07-29T16:13:41.881171+00:00",
+    "published": "2026-07-29T15:18:25+00:00"
+  },
+  "https://cesium.com/events/cesium-developer-conference/2026": {
+    "title": "Cesium DevCon 2026 talks are up, including a keynote from SQLite's creator",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-29T16:13:41.881171+00:00",
+    "published": "2026-07-29T15:13:25+00:00"
+  },
+  "https://github.com/drumih/turbo-fieldfare": {
+    "title": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-29T16:13:41.881171+00:00",
+    "published": "2026-07-29T15:05:43+00:00"
+  },
+  "https://huggingface-anatomy-of-frontier-lab-model-intrusion.static.hf.space/index.html": {
+    "title": "Hugging Face: Anatomy of a frontier-lab agent intrusion",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-29T16:13:41.881171+00:00",
+    "published": "2026-07-29T15:01:52+00:00"
+  },
+  "https://boringsql.com/posts/mvcc-bad-bad": {
+    "title": "PostgreSQL's MVCC is bad. So is everyone else's",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-29T16:13:41.881171+00:00",
+    "published": "2026-07-29T14:58:17+00:00"
+  },
+  "https://juliahub.com/blog/frontier-models-physical-ai-evaluation": {
+    "title": "GPT-5.6 vs. Claude Fable 5 for Physical AI, which performs best?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-29T16:13:41.881171+00:00",
+    "published": "2026-07-29T14:56:28+00:00"
+  },
+  "https://aws.amazon.com/blogs/security/secure-your-npm-and-pip-package-updates-in-amazon-linux": {
+    "title": "Secure your npm and pip package updates in Amazon Linux",
+    "source": "AWS Security Blog",
+    "first_seen": "2026-07-29T16:13:41.881171+00:00",
+    "published": "2026-07-29T14:53:39+00:00"
+  },
+  "https://github.com/VladUZH/qwen-scribe": {
+    "title": "Show HN: Qwen Scribe – local transcription and dictation for Apple Silicon",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-29T16:13:41.881171+00:00",
+    "published": "2026-07-29T14:47:22+00:00"
+  },
+  "https://www.nytimes.com/2026/07/29/business/economy/data-center-electricians-training.html": {
+    "title": "A.I. Companies Are Recruiting Electricians and Carpenters by the Thousands",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-29T16:13:41.881171+00:00",
+    "published": "2026-07-29T14:43:47+00:00"
+  },
+  "https://lwn.net/Articles/1086041": {
+    "title": "GCC steering committee announces AI policy",
+    "source": "LWN.net",
+    "first_seen": "2026-07-29T16:13:41.881171+00:00",
+    "published": "2026-07-29T14:38:44+00:00"
+  },
+  "https://aistack.imec-int.com/blog/gpu-self-hosting": {
+    "title": "Self-hosting Kimi K3: 20% more hardware cost, 20% better task resolution",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-29T16:13:41.881171+00:00",
+    "published": "2026-07-29T14:38:35+00:00"
+  },
+  "https://fluxtion-playground.dev/blog/2026-07-29-graph-engineering-needs-a-compiler": {
+    "title": "Graph Engineering Needs a Compiler",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-29T16:13:41.881171+00:00",
+    "published": "2026-07-29T14:32:23+00:00"
+  },
+  "https://stackoverflow.blog/2026/07/29/developers-are-attached-to-tools-because-tools-encode-trust": {
+    "title": "Developers are attached to tools because tools encode trust​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌‌‍​﻿​﻿​﻿​﻿‌﻿​﻿​​‌‍‌‌​﻿‌‌​﻿‍‌​﻿‌​​‍﻿‌​﻿‌‍​﻿​​‌‍​‌​﻿‍‌​‍﻿‌​﻿‌​​﻿​‍​﻿​﻿‌‍​﻿​‍﻿‌​﻿‍​​﻿‌​​﻿​‌‌‍​‍​‍﻿‌​﻿‌​‌‍‌‌‌‍​‌​﻿​​​﻿‌﻿‌‍​‌‌‍​﻿‌‍​‍‌‍​﻿​﻿​﻿‌‍​﻿‌‍‌‌​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌‌‍​﻿​﻿​﻿​﻿‌﻿​﻿​​‌‍‌‌​﻿‌‌​﻿‍‌​﻿‌​​‍﻿‌​﻿‌‍​﻿​​‌‍​‌​﻿‍‌​‍﻿‌​﻿‌​​﻿​‍​﻿​﻿‌‍​﻿​‍﻿‌​﻿‍​​﻿‌​​﻿​‌‌‍​‍​‍﻿‌​﻿‌​‌‍‌‌‌‍​‌​﻿​​​﻿‌﻿‌‍​‌‌‍​﻿‌‍​‍‌‍​﻿​﻿​﻿‌‍​﻿‌‍‌‌​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌",
+    "source": "Stack Overflow Blog",
+    "first_seen": "2026-07-29T16:13:41.881171+00:00",
+    "published": "2026-07-29T14:06:38+00:00"
+  },
+  "https://drewdevault.com/blog/AI-in-Linux": {
+    "title": "AI in Linux",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-29T16:13:41.881171+00:00",
+    "published": "2026-07-29T14:00:03+00:00"
+  },
+  "https://thenewstack.io/cloud-security-triage-cadence": {
+    "title": "Your team isn’t “ignoring security.” They’re just underwater.",
+    "source": "The New Stack",
+    "first_seen": "2026-07-29T16:13:41.881171+00:00",
+    "published": "2026-07-29T14:00:00+00:00"
+  },
+  "https://thenewstack.io/building-the-10x-organization": {
+    "title": "Turning 10x developers into 10x value",
+    "source": "The New Stack",
+    "first_seen": "2026-07-29T16:13:41.881171+00:00",
+    "published": "2026-07-29T14:00:00+00:00"
+  },
+  "https://realpython.com/crewai-python": {
+    "title": "CrewAI in Python: Coordinating Teams of AI Agents",
+    "source": "Real Python",
+    "first_seen": "2026-07-29T16:13:41.881171+00:00",
+    "published": "2026-07-29T14:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/Intel-Linux-7.3-Peak-Bandwidth": {
+    "title": "Intel Graphics Driver Support For Xe3 \"Peak Bandwidth Threshold\" Feature In Linux 7.3",
+    "source": "Phoronix",
+    "first_seen": "2026-07-29T16:13:41.881171+00:00",
+    "published": "2026-07-29T13:12:09+00:00"
+  },
+  "https://lwn.net/Articles/1086031": {
+    "title": "Security updates for Wednesday",
+    "source": "LWN.net",
+    "first_seen": "2026-07-29T16:13:41.881171+00:00",
+    "published": "2026-07-29T13:11:23+00:00"
+  },
+  "https://thenewstack.io/gpt-5-6-serving-efficiency": {
+    "title": "Kernel of truth: GPT-5.6 Sol can cut its own costs, says OpenAI",
+    "source": "The New Stack",
+    "first_seen": "2026-07-29T16:13:41.881171+00:00",
+    "published": "2026-07-29T13:04:39+00:00"
+  },
+  "https://arxiv.org/abs/2607.25398": {
+    "title": "Handbook.md shows that long policy documents do not reliably govern agents",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-29T16:13:41.881171+00:00",
+    "published": "2026-07-29T13:01:57+00:00"
+  },
+  "https://thenewstack.io/ship-code-without-verification": {
+    "title": "Shipping code without human verification",
+    "source": "The New Stack",
+    "first_seen": "2026-07-29T16:13:41.881171+00:00",
+    "published": "2026-07-29T13:00:00+00:00"
+  },
+  "https://thenewstack.io/modus-enterprise-context-warehouse": {
+    "title": "Modus’s operandi: To give AI agents just the right amount of context",
+    "source": "The New Stack",
+    "first_seen": "2026-07-29T16:13:41.881171+00:00",
+    "published": "2026-07-29T13:00:00+00:00"
+  },
+  "https://blog.cloudflare.com/post-quantum-authentication-to-origins": {
+    "title": "Post-quantum authentication to origins is now supported",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-07-29T16:13:41.881171+00:00",
+    "published": "2026-07-29T13:00:00+00:00"
+  },
+  "https://www.eff.org/deeplinks/2026/07/san-francisco-dont-fall-industry-defense-surveillance-pricing": {
+    "title": "San Francisco: Don't Fall for Industry Defense of Surveillance Pricing",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-29T16:13:41.881171+00:00",
+    "published": "2026-07-29T12:55:50+00:00"
+  },
+  "https://www.claire-blackshaw.com/blog/2026/07/shipping-godot-vr-and-porting-to-psvr2-a-partial-post-mortem": {
+    "title": "Shipping Godot VR and Porting to PSVR2: A Partial Post Mortem",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-29T16:13:41.881171+00:00",
+    "published": "2026-07-29T12:48:18+00:00"
+  },
+  "https://jcgt.org/published/0015/02/01": {
+    "title": "A Texture Lookup Approach to Bézier Curve Evaluation on the GPU (JCGT)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-29T16:13:41.881171+00:00",
+    "published": "2026-07-29T12:40:13+00:00"
+  },
+  "https://www.darktable.org": {
+    "title": "Darktable",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-29T16:13:41.881171+00:00",
+    "published": "2026-07-29T12:33:02+00:00"
+  },
+  "https://www.tigerdata.com/blog/timescaledb-2-28": {
+    "title": "TimescaleDB 2.28: Faster Queries, Lighter Operations, and Better Schema Evolution",
+    "source": "Timescale Blog",
+    "first_seen": "2026-07-29T16:13:41.881171+00:00",
+    "published": "2026-07-29T12:30:13+00:00"
+  },
+  "https://www.euronews.com/culture/2026/07/29/dj-kavinsky-known-for-his-track-nightcall-found-dead-at-his-paris-home": {
+    "title": "French musician Kavinsky found dead",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-29T16:13:41.881171+00:00",
+    "published": "2026-07-29T11:54:37+00:00"
+  },
+  "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word": {
+    "title": "Document-borne AI worms can self-propagate through Copilot for Word",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-29T16:13:41.881171+00:00",
+    "published": "2026-07-29T11:44:33+00:00"
+  },
+  "https://koreader.rocks": {
+    "title": "KOReader",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-29T16:13:41.881171+00:00",
+    "published": "2026-07-29T11:05:08+00:00"
+  },
+  "https://www.redpanda.com/blog/single-query-scaling-redpanda-sql": {
+    "title": "10X more data, same 4 seconds: single-query scaling in Redpanda SQL on 1TB",
+    "source": "Redpanda Blog",
+    "first_seen": "2026-07-29T16:13:41.881171+00:00",
+    "published": "2026-07-29T00:00:00+00:00"
+  },
+  "https://mitchellh.com/writing/superlogical": {
+    "title": "Superlogical",
+    "source": "Mitchell Hashimoto",
+    "first_seen": "2026-07-29T16:13:41.881171+00:00",
+    "published": "2026-07-29T00:00:00+00:00"
+  },
+  "https://www.databricks.com/blog/audience-asset-media-finance-teams-need-understand-them-protect-margin": {
+    "title": "The audience is the asset. Media finance teams need to understand them to protect the margin.",
+    "source": "Databricks Blog",
+    "first_seen": "2026-07-29T16:13:41.881171+00:00",
+    "published": "2026-07-28T19:03:18+00:00"
   }
 }
