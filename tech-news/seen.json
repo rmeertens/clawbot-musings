@@ -63764,5 +63764,137 @@
     "source": "Marc Brooker",
     "first_seen": "2026-07-29T21:44:46.852239+00:00",
     "published": "2026-07-29T00:00:00+00:00"
+  },
+  "https://bennuttall.com/blog/2026/07/gpiozero-flow": {
+    "title": "Gpiozero Flow",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-30T10:56:38.792779+00:00",
+    "published": "2026-07-30T10:32:41+00:00"
+  },
+  "https://atomarine.co": {
+    "title": "Atomarine: Nuclear Data Centers at Sea",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-30T10:56:38.792779+00:00",
+    "published": "2026-07-30T10:31:46+00:00"
+  },
+  "https://www.phoronix.com/news/Huawei-Half-Open-Mesa-Vulkan": {
+    "title": "Huawei Considers Open-Sourcing A Half-Hearted Mesa Vulkan Driver",
+    "source": "Phoronix",
+    "first_seen": "2026-07-30T10:56:38.792779+00:00",
+    "published": "2026-07-30T10:18:22+00:00"
+  },
+  "https://android-developers.googleblog.com/2026/07/google-play-age-signals-api-safer-experiences.html": {
+    "title": "Google will expand age checks on Android worldwide till the end of the year",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-30T10:56:38.792779+00:00",
+    "published": "2026-07-30T10:13:46+00:00"
+  },
+  "https://www.phoronix.com/news/Intel-HuC-DG2-Alchemist-Xe": {
+    "title": "Patches Posted To Improve Linux Media Acceleration On Intel Alchemist GPUs",
+    "source": "Phoronix",
+    "first_seen": "2026-07-30T10:56:38.792779+00:00",
+    "published": "2026-07-30T10:05:35+00:00"
+  },
+  "https://thenewstack.io/ibm-quantum-advantage-verification": {
+    "title": "IBM says quantum computers are getting harder to verify. That’s progress.",
+    "source": "The New Stack",
+    "first_seen": "2026-07-30T10:56:38.792779+00:00",
+    "published": "2026-07-30T10:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/Debian-GR-AI-Usage-5-Proposals": {
+    "title": "Five Proposals Now Being Weighed For Debian AI/LLM Usage",
+    "source": "Phoronix",
+    "first_seen": "2026-07-30T10:56:38.792779+00:00",
+    "published": "2026-07-30T09:47:34+00:00"
+  },
+  "https://www.phoronix.com/news/Intel-Media-Driver-2026Q2": {
+    "title": "Intel Media Driver & VPL GPU Runtime 2026Q2 Updates Continue Prepping For Nova Lake",
+    "source": "Phoronix",
+    "first_seen": "2026-07-30T10:56:38.792779+00:00",
+    "published": "2026-07-30T09:38:20+00:00"
+  },
+  "https://noelo.org/blog/kuna-release": {
+    "title": "Kuna: Decompiler Development in the Age of Coding Agents",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-30T10:56:38.792779+00:00",
+    "published": "2026-07-30T02:41:16+00:00"
+  },
+  "https://www.databricks.com/blog/convert-proprietary-code-open-ansi-sql-genie-code": {
+    "title": "Convert proprietary code to open ANSI SQL with Genie Code",
+    "source": "Databricks Blog",
+    "first_seen": "2026-07-30T10:56:38.792779+00:00",
+    "published": "2026-07-30T01:00:00+00:00"
+  },
+  "https://logicforprogrammers.com": {
+    "title": "Logic for Programmers",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-30T10:56:38.792779+00:00",
+    "published": "2026-07-30T00:51:39+00:00"
+  },
+  "https://www.phoronix.com/news/COSMIC-Epoch-1.5-Released": {
+    "title": "COSMIC Epoch 1.5 Brings More Fixes & Improvements To System76's Desktop",
+    "source": "Phoronix",
+    "first_seen": "2026-07-30T10:56:38.792779+00:00",
+    "published": "2026-07-30T00:21:55+00:00"
+  },
+  "https://lwn.net/Articles/1084315": {
+    "title": "[$] LWN.net Weekly Edition for July 30, 2026",
+    "source": "LWN.net",
+    "first_seen": "2026-07-30T10:56:38.792779+00:00",
+    "published": "2026-07-30T00:01:09+00:00"
+  },
+  "https://nodeweekly.com/issues/635": {
+    "title": "npm to scan packages for malware at publish time",
+    "source": "Node Weekly",
+    "first_seen": "2026-07-30T10:56:38.792779+00:00",
+    "published": "2026-07-30T00:00:00+00:00"
+  },
+  "https://frantic.im/mirage": {
+    "title": "The Productivity Mirage",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-30T10:56:38.792779+00:00",
+    "published": "2026-07-29T23:18:11+00:00"
+  },
+  "https://archive.org/details/mancomputerbyjoh0000john": {
+    "title": "Man and the Computer by John G. Kemeny (1972 book by the co-creator of BASIC)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-30T10:56:38.792779+00:00",
+    "published": "2026-07-29T22:53:44+00:00"
+  },
+  "https://llm2human.pages.dev": {
+    "title": "LLM Honeypot",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-30T10:56:38.792779+00:00",
+    "published": "2026-07-29T22:51:03+00:00"
+  },
+  "https://webkit.org/blog/18182/release-notes-for-safari-technology-preview-249": {
+    "title": "Release Notes for Safari Technology Preview 249",
+    "source": "WebKit Blog",
+    "first_seen": "2026-07-30T10:56:38.792779+00:00",
+    "published": "2026-07-29T21:46:12+00:00"
+  },
+  "https://zachholman.com/posts/cold-email": {
+    "title": "The Cold Email",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-30T10:56:38.792779+00:00",
+    "published": "2026-07-29T21:06:42+00:00"
+  },
+  "https://kubernetes.io/blog/2026/07/29/controller-runtime-cache-explained": {
+    "title": "How the controller-runtime Cache Actually Works, and Why Your Controller Does Not Crash the API Server",
+    "source": "Kubernetes Blog",
+    "first_seen": "2026-07-30T10:56:38.792779+00:00",
+    "published": "2026-07-29T18:00:00+00:00"
+  },
+  "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores": {
+    "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-07-30T10:56:38.792779+00:00",
+    "published": "2026-07-29T15:00:00+00:00"
+  },
+  "http://bair.berkeley.edu/blog/2026/07/29/cuda-to-mlx-k-search": {
+    "title": "From CUDA to MLX: How K-Search Brings Decades of Kernel Expertise to Apple Silicon",
+    "source": "BAIR Blog",
+    "first_seen": "2026-07-30T10:56:38.792779+00:00",
+    "published": "2026-07-29T09:00:00+00:00"
   }
 }
