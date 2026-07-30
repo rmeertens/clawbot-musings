@@ -63896,5 +63896,293 @@
     "source": "BAIR Blog",
     "first_seen": "2026-07-30T10:56:38.792779+00:00",
     "published": "2026-07-29T09:00:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/lowering-aws-kms-decrypt-api-costs-in-emr-spark-jobs": {
+    "title": "Lowering AWS KMS decrypt API costs in EMR Spark jobs",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-07-30T16:18:52.760603+00:00",
+    "published": "2026-07-30T16:12:41+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/inference-meta-monitoring-for-amazon-sagemaker-ai-endpoints-with-amazon-quick": {
+    "title": "Inference meta-monitoring for Amazon SageMaker AI endpoints with Amazon Quick",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-07-30T16:18:52.760603+00:00",
+    "published": "2026-07-30T16:10:10+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/introducing-explicit-prompt-caching-for-openai-gpt-5-6-models-on-amazon-bedrock": {
+    "title": "Introducing explicit prompt caching for OpenAI GPT-5.6 models on Amazon Bedrock",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-07-30T16:18:52.760603+00:00",
+    "published": "2026-07-30T16:02:32+00:00"
+  },
+  "https://developer.nvidia.com/blog/nvidia-exemplar-cloud-lessons-for-unlocking-full-performance-on-ai-infrastructure": {
+    "title": "NVIDIA Exemplar Cloud: Lessons for Unlocking Full Performance on AI Infrastructure",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-07-30T16:18:52.760603+00:00",
+    "published": "2026-07-30T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/databases/alloydb-adds-group-authentication-to-secure-enterprise-scale-and-ai-agents": {
+    "title": "AlloyDB adds group authentication to secure enterprise scale and AI agents",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-07-30T16:18:52.760603+00:00",
+    "published": "2026-07-30T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/containers-kubernetes/reduce-your-agents-costs-with-gke-agent-sandbox": {
+    "title": "Do more with less: How GKE can reduce your cost per agent by 75%",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-07-30T16:18:52.760603+00:00",
+    "published": "2026-07-30T16:00:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/migrate-your-prompts-to-new-models-and-optimize-them-on-amazon-bedrock": {
+    "title": "Migrate your prompts to new models and optimize them on Amazon Bedrock",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-07-30T16:18:52.760603+00:00",
+    "published": "2026-07-30T15:58:32+00:00"
+  },
+  "https://blog.bytebytego.com/p/a-detailed-guide-to-idempotency-delivery": {
+    "title": "A Detailed Guide to Idempotency, Delivery Semantics, and Deduplication",
+    "source": "ByteByteGo",
+    "first_seen": "2026-07-30T16:18:52.760603+00:00",
+    "published": "2026-07-30T15:30:29+00:00"
+  },
+  "https://pytorch.org/blog/fbtriton-infra-upstream-ingestion-hierarchical-validation-ideals-vs-realities": {
+    "title": "FBTriton Infra: Upstream Ingestion, Hierarchical Validation, Ideals vs Realities",
+    "source": "PyTorch Blog",
+    "first_seen": "2026-07-30T16:18:52.760603+00:00",
+    "published": "2026-07-30T15:26:48+00:00"
+  },
+  "https://www.quantamagazine.org/physicists-solve-a-muon-mystery-now-old-results-dont-add-up-20260729": {
+    "title": "Physicists Solve a Muon Mystery. Now, Old Results Don't Add Up",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-30T16:18:52.760603+00:00",
+    "published": "2026-07-30T15:22:46+00:00"
+  },
+  "http://bradconte.com/files/misc/HackerNewsParodyThread": {
+    "title": "Parody Hacker News (2013)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-30T16:18:52.760603+00:00",
+    "published": "2026-07-30T15:19:28+00:00"
+  },
+  "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots": {
+    "title": "Gemini Robotics 2 brings whole body intelligence to robots",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-30T16:18:52.760603+00:00",
+    "published": "2026-07-30T15:15:48+00:00"
+  },
+  "https://martinfowler.com/articles/exploring-gen-ai/refactoring-economic-benefit.html": {
+    "title": "The Economic Benefit of Refactoring",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-30T16:18:52.760603+00:00",
+    "published": "2026-07-30T15:10:27+00:00"
+  },
+  "https://stackoverflow.blog/2026/07/30/introducing-stack-internal-new-platform-experience": {
+    "title": "Your trusted knowledge layer: Introducing Stack Internal's new platform experience​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌‌‍​‌‌‍‌​‌‍​﻿‌‍‌‍​﻿​‌‌‍​‍‌‍​﻿‌‍​‌​‍﻿‌​﻿​﻿​﻿​‍​﻿‍‌​﻿‌‌​‍﻿‌​﻿‌​‌‍​‌‌‍​﻿​﻿‌‌​‍﻿‌​﻿‍‌‌‍​‍​﻿​﻿‌‍​﻿​‍﻿‌​﻿​‍​﻿​﻿‌‍‌‍​﻿​﻿​﻿​﻿​﻿‌﻿​﻿‍‌​﻿‌﻿​﻿‌​​﻿​‌​﻿‍‌​﻿​​​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌‌‍​‌‌‍‌​‌‍​﻿‌‍‌‍​﻿​‌‌‍​‍‌‍​﻿‌‍​‌​‍﻿‌​﻿​﻿​﻿​‍​﻿‍‌​﻿‌‌​‍﻿‌​﻿‌​‌‍​‌‌‍​﻿​﻿‌‌​‍﻿‌​﻿‍‌‌‍​‍​﻿​﻿‌‍​﻿​‍﻿‌​﻿​‍​﻿​﻿‌‍‌‍​﻿​﻿​﻿​﻿​﻿‌﻿​﻿‍‌​﻿‌﻿​﻿‌​​﻿​‌​﻿‍‌​﻿​​​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌",
+    "source": "Stack Overflow Blog",
+    "first_seen": "2026-07-30T16:18:52.760603+00:00",
+    "published": "2026-07-30T15:10:00+00:00"
+  },
+  "https://huggingface.co/blog/Dharma-AI/gpu-management": {
+    "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-07-30T16:18:52.760603+00:00",
+    "published": "2026-07-30T15:09:09+00:00"
+  },
+  "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration": {
+    "title": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
+    "source": "DeepMind Blog",
+    "first_seen": "2026-07-30T16:18:52.760603+00:00",
+    "published": "2026-07-30T15:00:59+00:00"
+  },
+  "https://www.phoronix.com/review/nvidia-rtx-5090-laptop-linux": {
+    "title": "Nouveau vs. NVIDIA R610 On CachyOS With The GeForce RTX 5090 Laptop GPU",
+    "source": "Phoronix",
+    "first_seen": "2026-07-30T16:18:52.760603+00:00",
+    "published": "2026-07-30T15:00:00+00:00"
+  },
+  "https://thenewstack.io/governing-agentic-software-development": {
+    "title": "Why linting alone can’t govern agentic development",
+    "source": "The New Stack",
+    "first_seen": "2026-07-30T16:18:52.760603+00:00",
+    "published": "2026-07-30T15:00:00+00:00"
+  },
+  "https://thenewstack.io/dns-domain-management-automation": {
+    "title": "DNS is infrastructure. It’s time to manage it that way.",
+    "source": "The New Stack",
+    "first_seen": "2026-07-30T16:18:52.760603+00:00",
+    "published": "2026-07-30T15:00:00+00:00"
+  },
+  "https://github.com/hamzarehmandeveloper/claude-account": {
+    "title": "Show HN: Claude-account – switch Claude Code accounts without logging in again",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-30T16:18:52.760603+00:00",
+    "published": "2026-07-30T14:58:59+00:00"
+  },
+  "https://rusty.today/blog/paging-parquet-duckdb-file-row-number-vs-offset": {
+    "title": "Paging Through a Parquet File in DuckDB: File_row_number or Offset?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-30T16:18:52.760603+00:00",
+    "published": "2026-07-30T14:58:07+00:00"
+  },
+  "https://github.com/n67094/sdl_gp": {
+    "title": "SDL_GPU minimal, single-header, high-performance 2D graphics painting library",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-30T16:18:52.760603+00:00",
+    "published": "2026-07-30T14:36:59+00:00"
+  },
+  "https://blog.certisfy.com/2026/04/trusted-urls-via-cryptographic.html": {
+    "title": "Trusted URLs via Cryptographic Signatures",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-30T16:18:52.760603+00:00",
+    "published": "2026-07-30T14:31:13+00:00"
+  },
+  "https://hackerpublicradio.org": {
+    "title": "Hacker Public Radio",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-30T16:18:52.760603+00:00",
+    "published": "2026-07-30T14:29:27+00:00"
+  },
+  "https://www.phoronix.com/news/AMD-Zen-6-Client-HSMP-Linux": {
+    "title": "AMD Zen 6 Client HSMP Patches Point To \"Ryzen Master\" Functionality On Linux",
+    "source": "Phoronix",
+    "first_seen": "2026-07-30T16:18:52.760603+00:00",
+    "published": "2026-07-30T14:12:35+00:00"
+  },
+  "https://thereader.mitpress.mit.edu/the-lost-civic-life-of-movie-rental-stores": {
+    "title": "The Lost Civic Life of Movie Rental Stores",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-30T16:18:52.760603+00:00",
+    "published": "2026-07-30T14:11:42+00:00"
+  },
+  "https://lwn.net/Articles/1085617": {
+    "title": "[$] Reconsidering O_CREAT|O_DIRECTORY",
+    "source": "LWN.net",
+    "first_seen": "2026-07-30T16:18:52.760603+00:00",
+    "published": "2026-07-30T14:00:40+00:00"
+  },
+  "https://cloud.google.com/blog/topics/threat-intelligence/mitigation-guidance-for-supply-chain-compromise": {
+    "title": "Batten Down Your Packages: Mitigation Guidance for Supply Chain Compromise",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-07-30T16:18:52.760603+00:00",
+    "published": "2026-07-30T14:00:00+00:00"
+  },
+  "https://lwn.net/Articles/1086226": {
+    "title": "Another batch of single-fix stable kernels",
+    "source": "LWN.net",
+    "first_seen": "2026-07-30T16:18:52.760603+00:00",
+    "published": "2026-07-30T13:47:45+00:00"
+  },
+  "https://www.phoronix.com/news/Zen-4.22-Released": {
+    "title": "Xen 4.22 Released With AMD Zen 5 BLT Support, Improved RISC-V Virtualization",
+    "source": "Phoronix",
+    "first_seen": "2026-07-30T16:18:52.760603+00:00",
+    "published": "2026-07-30T13:45:22+00:00"
+  },
+  "https://prized.dev": {
+    "title": "Launch HN: Prized (YC S26) – Let non-engineer staff build secure internal tools",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-30T16:18:52.760603+00:00",
+    "published": "2026-07-30T13:29:03+00:00"
+  },
+  "https://www.projectpluto.com/25010d.htm": {
+    "title": "Upper stage impacting the moon on 2026 August 5",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-30T16:18:52.760603+00:00",
+    "published": "2026-07-30T13:21:34+00:00"
+  },
+  "https://lwn.net/Articles/1086225": {
+    "title": "Security updates for Thursday",
+    "source": "LWN.net",
+    "first_seen": "2026-07-30T16:18:52.760603+00:00",
+    "published": "2026-07-30T13:12:34+00:00"
+  },
+  "https://mnot.net/blog/2020/for_the_users": {
+    "title": "RFC 8890 – The Internet is for End Users (2020)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-30T16:18:52.760603+00:00",
+    "published": "2026-07-30T13:07:53+00:00"
+  },
+  "https://thenewstack.io/ai-agent-permission-boundaries": {
+    "title": "When do AI agents need permission boundaries?",
+    "source": "The New Stack",
+    "first_seen": "2026-07-30T16:18:52.760603+00:00",
+    "published": "2026-07-30T13:00:00+00:00"
+  },
+  "https://blog.cloudflare.com/cdnjs-dev-platform-migration": {
+    "title": "Dogfooding at scale: migrating cdnjs to Cloudflare’s Developer Platform",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-07-30T16:18:52.760603+00:00",
+    "published": "2026-07-30T13:00:00+00:00"
+  },
+  "https://www.construction-physics.com/p/why-is-everyone-trying-to-build-a": {
+    "title": "Why Is Everyone Trying to Build a Solid-State Battery?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-30T16:18:52.760603+00:00",
+    "published": "2026-07-30T12:38:51+00:00"
+  },
+  "https://www.hillelwayne.com/post/why-dont-people-use-formal-methods": {
+    "title": "Why Don't People Use Formal Methods? (2019)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-30T16:18:52.760603+00:00",
+    "published": "2026-07-30T12:21:34+00:00"
+  },
+  "https://www.wiz.io/blog/cosmosescape-taking-over-every-database-in-azure-cosmos-db": {
+    "title": "CosmosEscape: Taking over Every Database in Azure Cosmos DB",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-30T16:18:52.760603+00:00",
+    "published": "2026-07-30T12:13:42+00:00"
+  },
+  "https://www.ycombinator.com/companies/mbodi-ai/jobs": {
+    "title": "Mbodi AI (YC P25) Is Hiring Robotics/Research Engineers",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-30T16:18:52.760603+00:00",
+    "published": "2026-07-30T12:01:05+00:00"
+  },
+  "https://realpython.com/quizzes/numpy-tutorial": {
+    "title": "Quiz: NumPy Tutorial: Your First Steps Into Data Science in Python",
+    "source": "Real Python",
+    "first_seen": "2026-07-30T16:18:52.760603+00:00",
+    "published": "2026-07-30T12:00:00+00:00"
+  },
+  "https://github.com/grafana/ai-sdk": {
+    "title": "Go LLM SDK for streaming, tool-calling AI backends (plus frontend React lib)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-30T16:18:52.760603+00:00",
+    "published": "2026-07-30T11:55:39+00:00"
+  },
+  "https://mathoverflow.net/questions/513742/are-we-stuck-with-lean": {
+    "title": "Are We Stuck with Lean?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-30T16:18:52.760603+00:00",
+    "published": "2026-07-30T11:45:01+00:00"
+  },
+  "https://steelmanlabs.com/blog/computer-use-is-far-from-solved": {
+    "title": "You can't solve computer use by ignoring the interface",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-30T16:18:52.760603+00:00",
+    "published": "2026-07-30T11:28:51+00:00"
+  },
+  "https://www.schneier.com/blog/archives/2026/07/should-you-use-ai-for-a-task-heres-a-simple-way-to-decide.html": {
+    "title": "Should You Use AI for a Task? Here’s a Simple Way to Decide",
+    "source": "Schneier on Security",
+    "first_seen": "2026-07-30T16:18:52.760603+00:00",
+    "published": "2026-07-30T11:01:32+00:00"
+  },
+  "https://blog.trailofbits.com/2026/07/30/building-secure-uniswap-v4-hooks": {
+    "title": "Building secure Uniswap v4 hooks",
+    "source": "Trail of Bits",
+    "first_seen": "2026-07-30T16:18:52.760603+00:00",
+    "published": "2026-07-30T11:00:00+00:00"
+  },
+  "https://www.thoughtworks.com/insights/articles/ai-first-banking-from-strategic-intent-to-enterprise-execution": {
+    "title": "AI-first banking: From strategic intent to enterprise execution",
+    "source": "ThoughtWorks",
+    "first_seen": "2026-07-30T16:18:52.760603+00:00",
+    "published": "2026-07-30T00:00:00+00:00"
+  },
+  "https://www.elastic.co/blog/elastic-openai-partnership": {
+    "title": "Elastic and OpenAI collaborate to bring frontier intelligence to unstructured enterprise data",
+    "source": "Elastic Blog",
+    "first_seen": "2026-07-30T16:18:52.760603+00:00",
+    "published": "2026-07-30T00:00:00+00:00"
   }
 }
