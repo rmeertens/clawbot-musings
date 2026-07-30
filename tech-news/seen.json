@@ -64184,5 +64184,251 @@
     "source": "Elastic Blog",
     "first_seen": "2026-07-30T16:18:52.760603+00:00",
     "published": "2026-07-30T00:00:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/security/balancing-speed-and-safety-a-control-framework-for-ai-coding-agents": {
+    "title": "Balancing speed and safety: A control framework for AI coding agents",
+    "source": "AWS Security Blog",
+    "first_seen": "2026-07-30T21:56:05.780584+00:00",
+    "published": "2026-07-30T21:49:15+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.3-Intel-NVL-S-Stable": {
+    "title": "Linux 7.3 Will Treat Intel Nova Lake S Graphics As Stable",
+    "source": "Phoronix",
+    "first_seen": "2026-07-30T21:56:05.780584+00:00",
+    "published": "2026-07-30T21:10:00+00:00"
+  },
+  "https://developer.nvidia.com/blog/four-ways-to-deploy-more-secure-ai-agents": {
+    "title": "Four Ways to Deploy More Secure AI Agents",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-07-30T21:56:05.780584+00:00",
+    "published": "2026-07-30T21:09:59+00:00"
+  },
+  "https://www.tucsonsentinel.com/local/report/072926_melendez_swatting/man-seeks-millions-after-being-shot-by-pima-deputies-swatting-incident": {
+    "title": "Man seeks millions after being shot by police in game-related swatting incident",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-30T21:56:05.780584+00:00",
+    "published": "2026-07-30T20:44:13+00:00"
+  },
+  "https://research.google/blog/science-one-framework-a-verifiable-autonomous-research-framework-via-chain-of-evidence": {
+    "title": "Science One Framework: A verifiable autonomous research framework via Chain-of-Evidence",
+    "source": "Google Research",
+    "first_seen": "2026-07-30T21:56:05.780584+00:00",
+    "published": "2026-07-30T20:36:36+00:00"
+  },
+  "https://thenewstack.io/ai-sre-root-cause-analysis": {
+    "title": "Why your company should (try to) build its own AI SRE",
+    "source": "The New Stack",
+    "first_seen": "2026-07-30T21:56:05.780584+00:00",
+    "published": "2026-07-30T20:30:56+00:00"
+  },
+  "https://netflixtechblog.com/genrec-towards-llm-native-recommendation-at-netflix-f20be6f643e3?source=rss----2615bd06b42e---4": {
+    "title": "GenRec: Towards LLM-Native Recommendation at Netflix",
+    "source": "Netflix Tech Blog",
+    "first_seen": "2026-07-30T21:56:05.780584+00:00",
+    "published": "2026-07-30T20:10:15+00:00"
+  },
+  "https://github.com/AminBlg/SimpleEnglish": {
+    "title": "Agent Skill to Force Docs in ASD-STE100 Simplified Technical English",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-30T21:56:05.780584+00:00",
+    "published": "2026-07-30T19:34:27+00:00"
+  },
+  "https://www.docker.com/blog/docker-joins-nvidia-open-secure-ai-alliance": {
+    "title": "The Future of Agentic AI Depends on Openness and Trust. That’s Why Docker Is Joining Nvidia’s Open Secure AI Alliance.",
+    "source": "Docker Blog",
+    "first_seen": "2026-07-30T21:56:05.780584+00:00",
+    "published": "2026-07-30T19:31:47+00:00"
+  },
+  "https://www.databricks.com/blog/foundations-ai-forward-healthcare-organization": {
+    "title": "Foundations for an AI-forward healthcare organization",
+    "source": "Databricks Blog",
+    "first_seen": "2026-07-30T21:56:05.780584+00:00",
+    "published": "2026-07-30T19:30:00+00:00"
+  },
+  "https://thenewstack.io/gpt-5-6-api-price-cuts": {
+    "title": "Chinese AI competitors may have forced OpenAI’s hand on pricing",
+    "source": "The New Stack",
+    "first_seen": "2026-07-30T21:56:05.780584+00:00",
+    "published": "2026-07-30T19:28:02+00:00"
+  },
+  "https://www.databricks.com/blog/agentic-media-buying-cannot-scale-without-right-foundation-see-how-buyers-and-sellers-get": {
+    "title": "Agentic media buying cannot scale without the right foundation. See how buyers and sellers get there on Databricks.",
+    "source": "Databricks Blog",
+    "first_seen": "2026-07-30T21:56:05.780584+00:00",
+    "published": "2026-07-30T19:10:00+00:00"
+  },
+  "https://thenewstack.io/ai-code-security-platforms": {
+    "title": "AI-generated software is forcing yet another platform rethink",
+    "source": "The New Stack",
+    "first_seen": "2026-07-30T21:56:05.780584+00:00",
+    "published": "2026-07-30T19:09:47+00:00"
+  },
+  "https://thenewstack.io/openai-elastic-enterprise-context": {
+    "title": "OpenAI and Elastic are tackling the AI problem enterprises can’t ignore",
+    "source": "The New Stack",
+    "first_seen": "2026-07-30T21:56:05.780584+00:00",
+    "published": "2026-07-30T18:42:32+00:00"
+  },
+  "https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations": {
+    "title": "UEFA and its national associations will not participate in FIFA competitions",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-30T21:56:05.780584+00:00",
+    "published": "2026-07-30T18:40:52+00:00"
+  },
+  "https://www.dbos.dev/blog/making-postgres-queues-scale": {
+    "title": "Making Postgres queues scale",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-30T21:56:05.780584+00:00",
+    "published": "2026-07-30T18:39:32+00:00"
+  },
+  "https://www.phoronix.com/news/AMDGPU-HDMI-2.1-ALLM": {
+    "title": "AMD Posts Linux Patches For HDMI 2.1 Auto Low-Latency Mode \"ALLM\" & VRR",
+    "source": "Phoronix",
+    "first_seen": "2026-07-30T21:56:05.780584+00:00",
+    "published": "2026-07-30T18:36:07+00:00"
+  },
+  "https://dynomight.net/plants": {
+    "title": "So you want to use plants to reduce CO₂",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-30T21:56:05.780584+00:00",
+    "published": "2026-07-30T18:31:02+00:00"
+  },
+  "https://simonwillison.net/2026/Jul/30/bruce-schneier": {
+    "title": "Quoting Bruce Schneier",
+    "source": "Simon Willison",
+    "first_seen": "2026-07-30T21:56:05.780584+00:00",
+    "published": "2026-07-30T18:25:26+00:00"
+  },
+  "https://www.ctgt.ai/research/distillation-censorship-transfer": {
+    "title": "Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-30T21:56:05.780584+00:00",
+    "published": "2026-07-30T18:13:06+00:00"
+  },
+  "https://chriscoyier.net/2026/07/30/codepen-2-0": {
+    "title": "CodePen 2.0",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-30T21:56:05.780584+00:00",
+    "published": "2026-07-30T17:52:51+00:00"
+  },
+  "https://www.bottlenecklabs.com/blog/autonomously-run-businesses": {
+    "title": "We Gave GPT 5.6 Sol a Real Business. It Lied, Spammed, and Lost $447",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-30T21:56:05.780584+00:00",
+    "published": "2026-07-30T17:31:07+00:00"
+  },
+  "https://github.blog/ai-and-ml/github-copilot/stacked-sessions-and-pull-requests-in-the-github-copilot-app": {
+    "title": "Stacked sessions and pull requests in the GitHub Copilot app",
+    "source": "GitHub Blog",
+    "first_seen": "2026-07-30T21:56:05.780584+00:00",
+    "published": "2026-07-30T17:30:24+00:00"
+  },
+  "https://www.phoronix.com/news/Unigine-Engine-3-Rideshare": {
+    "title": "There's Finally A New Game Powered By The Unigine 2 Engine",
+    "source": "Phoronix",
+    "first_seen": "2026-07-30T21:56:05.780584+00:00",
+    "published": "2026-07-30T17:30:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/deliver-apache-kafka-data-to-streaming-tables-for-apache-iceberg-with-amazon-msk-express-brokers": {
+    "title": "Deliver Apache Kafka data to streaming tables for Apache Iceberg with Amazon MSK Express brokers",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-07-30T21:56:05.780584+00:00",
+    "published": "2026-07-30T17:25:15+00:00"
+  },
+  "https://aws.amazon.com/blogs/security/extend-amazon-inspector-sbom-generator-with-plugins": {
+    "title": "Extend Amazon Inspector SBOM Generator with Plugins",
+    "source": "AWS Security Blog",
+    "first_seen": "2026-07-30T21:56:05.780584+00:00",
+    "published": "2026-07-30T17:22:54+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/deploying-kimi-k3-on-aws": {
+    "title": "Deploying Kimi K3 on AWS",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-07-30T21:56:05.780584+00:00",
+    "published": "2026-07-30T17:22:32+00:00"
+  },
+  "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6": {
+    "title": "Advancing the price-performance frontier with GPT‑5.6",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-30T21:56:05.780584+00:00",
+    "published": "2026-07-30T17:15:51+00:00"
+  },
+  "https://www.phoronix.com/news/Open-Programmable-OPI-DPU-IPU": {
+    "title": "OPI Abstraction v0.1 Published With Aiming To Standardize DPU/IPU Ecosystems",
+    "source": "Phoronix",
+    "first_seen": "2026-07-30T21:56:05.780584+00:00",
+    "published": "2026-07-30T17:05:56+00:00"
+  },
+  "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick": {
+    "title": "Read this before you buy that TV streaming stick",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-30T21:56:05.780584+00:00",
+    "published": "2026-07-30T17:04:53+00:00"
+  },
+  "https://www.ycombinator.com/companies/rise-reforming/jobs/wJ9Q9nv-senior-chemical-process-engineer": {
+    "title": "Rise Reforming (YC S26) Is Hiring",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-30T21:56:05.780584+00:00",
+    "published": "2026-07-30T17:00:21+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/how-yahoo-enhances-search-retargeting-using-amazon-bedrock": {
+    "title": "How Yahoo enhances search retargeting using Amazon Bedrock",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-07-30T21:56:05.780584+00:00",
+    "published": "2026-07-30T16:40:36+00:00"
+  },
+  "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview": {
+    "title": "Stacked PRs are now live on GitHub",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-30T21:56:05.780584+00:00",
+    "published": "2026-07-30T16:26:16+00:00"
+  },
+  "https://www.schneier.com/blog/archives/2026/07/american-being-prosecuted-for-wiping-his-phone-before-handing-it-over-to-border-officials.html": {
+    "title": "American Being Prosecuted for Wiping His Phone Before Handing It Over to Border Officials",
+    "source": "Schneier on Security",
+    "first_seen": "2026-07-30T21:56:05.780584+00:00",
+    "published": "2026-07-30T16:20:30+00:00"
+  },
+  "https://phulin.me/blog/poker": {
+    "title": "Solving poker in custom WebGPU kernels",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-30T21:56:05.780584+00:00",
+    "published": "2026-07-30T15:38:54+00:00"
+  },
+  "https://grafana.com/blog/how-to-build-a-trust-platform-for-your-agent-with-grafana-agent-observability": {
+    "title": "How to build a trust platform for your agent with Grafana Agent Observability",
+    "source": "Grafana Blog",
+    "first_seen": "2026-07-30T21:56:05.780584+00:00",
+    "published": "2026-07-30T15:06:46+00:00"
+  },
+  "https://www.cam.ac.uk/research/news/study-reveals-why-dna-damage-from-smoking-and-uv-rays-may-cause-cancer-in-some-people-but-not-others": {
+    "title": "Why DNA damage from smoking and UV rays cause cancer in some but not others",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-30T21:56:05.780584+00:00",
+    "published": "2026-07-30T14:15:19+00:00"
+  },
+  "https://neon.com/blog/commsync-runs-text-vector-and-hybrid-search-on-postgres-with-lakebase-search": {
+    "title": "CommSync Runs Text, Vector, and Hybrid Search on Postgres with Lakebase Search",
+    "source": "Neon Blog",
+    "first_seen": "2026-07-30T21:56:05.780584+00:00",
+    "published": "2026-07-30T12:00:00+00:00"
+  },
+  "https://www.cncf.io/blog/2026/07/30/runtime-supply-chain-verification-using-the-node-resource-interface-nri": {
+    "title": "Runtime Supply Chain Verification using the Node Resource Interface (NRI)",
+    "source": "CNCF Blog",
+    "first_seen": "2026-07-30T21:56:05.780584+00:00",
+    "published": "2026-07-30T11:09:11+00:00"
+  },
+  "https://machinelearning.apple.com/research/umap-knn-graph-sensemaking": {
+    "title": "Dimensionality Reduction Meets Network Science: Sensemaking on UMAP’s kNN Graph",
+    "source": "Apple ML Journal",
+    "first_seen": "2026-07-30T21:56:05.780584+00:00",
+    "published": "2026-07-30T00:00:00+00:00"
+  },
+  "https://www.databricks.com/blog/nbcuniversals-seamless-migration-unlocking-scalable-analytics-databricks": {
+    "title": "NBCUniversal’s Seamless Migration: Unlocking Scalable Analytics with Databricks",
+    "source": "Databricks Blog",
+    "first_seen": "2026-07-30T21:56:05.780584+00:00",
+    "published": "2026-07-29T20:35:57+00:00"
   }
 }
