@@ -64430,5 +64430,185 @@
     "source": "Databricks Blog",
     "first_seen": "2026-07-30T21:56:05.780584+00:00",
     "published": "2026-07-29T20:35:57+00:00"
+  },
+  "https://openai.com/index/advancing-responsible-ai-across-europe": {
+    "title": "Advancing responsible AI across Europe",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-07-31T11:15:46.707209+00:00",
+    "published": "2026-07-31T15:00:00+00:00"
+  },
+  "https://www.schneier.com/blog/archives/2026/07/facial-recognition-at-madison-square-garden.html": {
+    "title": "Facial Recognition at Madison Square Garden",
+    "source": "Schneier on Security",
+    "first_seen": "2026-07-31T11:15:46.707209+00:00",
+    "published": "2026-07-31T11:08:44+00:00"
+  },
+  "https://www.phoronix.com/news/Servo-0.4-Released": {
+    "title": "Servo 0.4 Browser Engine Gets More Websites Rendering Correctly",
+    "source": "Phoronix",
+    "first_seen": "2026-07-31T11:15:46.707209+00:00",
+    "published": "2026-07-31T11:01:10+00:00"
+  },
+  "https://www.cncf.io/blog/2026/07/31/scaling-kubernetes-pods-with-keda-based-on-amazon-sqs-queue-depth": {
+    "title": "Scaling Kubernetes pods with KEDA based on Amazon SQS queue depth",
+    "source": "CNCF Blog",
+    "first_seen": "2026-07-31T11:15:46.707209+00:00",
+    "published": "2026-07-31T11:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.3-Nouveau-NVDEC": {
+    "title": "Nouveau Patch For Linux 7.3 Allows For NVK Vulkan Video Atop NVIDIA NVDEC",
+    "source": "Phoronix",
+    "first_seen": "2026-07-31T11:15:46.707209+00:00",
+    "published": "2026-07-31T10:20:00+00:00"
+  },
+  "https://www.phoronix.com/news/Fedora-46-Shadow-Stack-Plans": {
+    "title": "x86_64 Shadow Stack By Default Retargeted For Fedora 46",
+    "source": "Phoronix",
+    "first_seen": "2026-07-31T11:15:46.707209+00:00",
+    "published": "2026-07-31T10:04:00+00:00"
+  },
+  "https://www.phoronix.com/news/Vulkan-1.4.358": {
+    "title": "Vulkan 1.4.358 Released With New Image Tiling Control Extension",
+    "source": "Phoronix",
+    "first_seen": "2026-07-31T11:15:46.707209+00:00",
+    "published": "2026-07-31T09:53:13+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.2-rc6-Sound-Fixes": {
+    "title": "Sound Fixes For Linux 7.2-rc6: \"Far Larger Than Wished\"",
+    "source": "Phoronix",
+    "first_seen": "2026-07-31T11:15:46.707209+00:00",
+    "published": "2026-07-31T09:26:56+00:00"
+  },
+  "https://artificialanalysis.ai/models/deepseek-v4-flash-ga": {
+    "title": "DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-31T11:15:46.707209+00:00",
+    "published": "2026-07-31T07:59:11+00:00"
+  },
+  "https://stackoverflow.blog/2026/07/31/what-happens-internet-when-robots-act-like-humans": {
+    "title": "What happens to the internet when robots act like humans?​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌​﻿​‌​﻿‍​‌‍‌​‌‍​‌​﻿‍‌​﻿‍‌​﻿‍‌​﻿​‍​‍﻿‌​﻿​​​﻿‌‍‌‍‌‍​﻿‌‌​‍﻿‌​﻿‌​​﻿‌‍​﻿​​​﻿​‍​‍﻿‌​﻿‍​​﻿​‍​﻿‌​‌‍‌​​‍﻿‌‌‍‌‍​﻿‌‍‌‍‌​‌‍​﻿‌‍‌​​﻿‌​​﻿‌‌‌‍​‍‌‍​﻿​﻿‌﻿​﻿​﻿‌‍‌​​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌​﻿​‌​﻿‍​‌‍‌​‌‍​‌​﻿‍‌​﻿‍‌​﻿‍‌​﻿​‍​‍﻿‌​﻿​​​﻿‌‍‌‍‌‍​﻿‌‌​‍﻿‌​﻿‌​​﻿‌‍​﻿​​​﻿​‍​‍﻿‌​﻿‍​​﻿​‍​﻿‌​‌‍‌​​‍﻿‌‌‍‌‍​﻿‌‍‌‍‌​‌‍​﻿‌‍‌​​﻿‌​​﻿‌‌‌‍​‍‌‍​﻿​﻿‌﻿​﻿​﻿‌‍‌​​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌",
+    "source": "Stack Overflow Blog",
+    "first_seen": "2026-07-31T11:15:46.707209+00:00",
+    "published": "2026-07-31T07:40:00+00:00"
+  },
+  "https://blog.google/security/chrome-stronger-with-every-update": {
+    "title": "Google fixed more Chrome bugs in June than over the past two years, thanks to AI",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-31T11:15:46.707209+00:00",
+    "published": "2026-07-31T07:29:22+00:00"
+  },
+  "https://openai.com/index/unive": {
+    "title": "Univé builds an AI-ready workforce",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-07-31T11:15:46.707209+00:00",
+    "published": "2026-07-31T07:00:00+00:00"
+  },
+  "https://api-docs.deepseek.com/updates": {
+    "title": "DeepSeek-V4-Flash Update",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-31T11:15:46.707209+00:00",
+    "published": "2026-07-31T06:08:36+00:00"
+  },
+  "https://github.com/mokshablr/gander": {
+    "title": "Show HN: Gander, an Android file viewer that asks for no permissions at all",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-31T11:15:46.707209+00:00",
+    "published": "2026-07-31T05:45:13+00:00"
+  },
+  "https://marbleos.com/demo": {
+    "title": "Show HN: What should the GUI for AI agents look like?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-31T11:15:46.707209+00:00",
+    "published": "2026-07-31T05:17:29+00:00"
+  },
+  "https://github.com/openjdk/jdk/pull/31120": {
+    "title": "JEP 401: Value Objects (Preview) merged to OpenJDK master",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-31T11:15:46.707209+00:00",
+    "published": "2026-07-31T04:38:19+00:00"
+  },
+  "https://earendil.com/posts/session-portability": {
+    "title": "The session you cannot take with you",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-31T11:15:46.707209+00:00",
+    "published": "2026-07-31T03:47:59+00:00"
+  },
+  "https://golangweekly.com/issues/612": {
+    "title": "A plan to bring generic collections to Go 1.28",
+    "source": "Golang Weekly",
+    "first_seen": "2026-07-31T11:15:46.707209+00:00",
+    "published": "2026-07-31T00:00:00+00:00"
+  },
+  "https://astro.build/blog/whats-new-july-2026": {
+    "title": "What's new in Astro - July 2026",
+    "source": "Astro Blog",
+    "first_seen": "2026-07-31T11:15:46.707209+00:00",
+    "published": "2026-07-31T00:00:00+00:00"
+  },
+  "https://simonwillison.net/2026/Jul/30/luna-price-drop": {
+    "title": "Advancing the price-performance frontier with GPT‑5.6",
+    "source": "Simon Willison",
+    "first_seen": "2026-07-31T11:15:46.707209+00:00",
+    "published": "2026-07-30T23:58:42+00:00"
+  },
+  "https://graybeard.ing/the-religion-of-speed": {
+    "title": "The Religion of Speed",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-31T11:15:46.707209+00:00",
+    "published": "2026-07-30T23:43:22+00:00"
+  },
+  "https://simonwillison.net/2026/Jul/30/three-real-world-incidents": {
+    "title": "Investigating three real-world incidents in our cybersecurity evaluations",
+    "source": "Simon Willison",
+    "first_seen": "2026-07-31T11:15:46.707209+00:00",
+    "published": "2026-07-30T23:41:29+00:00"
+  },
+  "https://blog.jim-nielsen.com/2026/ai-aesthetic": {
+    "title": "The AI Aesthetic",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-31T11:15:46.707209+00:00",
+    "published": "2026-07-30T23:22:16+00:00"
+  },
+  "https://simonwillison.net/2026/Jul/30/llm-rc2": {
+    "title": "llm 0.32rc2",
+    "source": "Simon Willison",
+    "first_seen": "2026-07-31T11:15:46.707209+00:00",
+    "published": "2026-07-30T22:52:06+00:00"
+  },
+  "https://developer.nvidia.com/blog/run-high-performance-core-math-at-scale-with-nvidia-nvmath-python": {
+    "title": "Run High-Performance Core Math at Scale with NVIDIA nvmath-python",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-07-31T11:15:46.707209+00:00",
+    "published": "2026-07-30T22:43:04+00:00"
+  },
+  "https://geospatialml.com/posts/reviewing-ai-slop": {
+    "title": "I flagged two research papers for fake authors and both were accepted as orals",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-31T11:15:46.707209+00:00",
+    "published": "2026-07-30T22:33:11+00:00"
+  },
+  "https://rune.build/blog/rune-1-1-release": {
+    "title": "Rune 1.1: adds Python, an Emacs editor, a symbol index and is now free",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-31T11:15:46.707209+00:00",
+    "published": "2026-07-30T21:47:31+00:00"
+  },
+  "https://www.science.org/content/article/saber-toothed-cats-became-inbred-and-struggled-move-they-went-extinct": {
+    "title": "Saber-toothed cats became inbred–and struggled to move–before they went extinct",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-07-31T11:15:46.707209+00:00",
+    "published": "2026-07-30T21:31:03+00:00"
+  },
+  "https://simonwillison.net/2026/Jul/30/llm-chat-completions-server": {
+    "title": "llm-chat-completions-server 0.1a0",
+    "source": "Simon Willison",
+    "first_seen": "2026-07-31T11:15:46.707209+00:00",
+    "published": "2026-07-30T15:43:16+00:00"
+  },
+  "https://simonwillison.net/2026/Jul/30/llm-rc1": {
+    "title": "llm 0.32rc1",
+    "source": "Simon Willison",
+    "first_seen": "2026-07-31T11:15:46.707209+00:00",
+    "published": "2026-07-30T15:30:20+00:00"
   }
 }
