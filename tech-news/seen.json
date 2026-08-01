@@ -65288,5 +65288,125 @@
     "source": "Phoronix",
     "first_seen": "2026-08-01T15:49:33.136334+00:00",
     "published": "2026-08-01T10:18:48+00:00"
+  },
+  "https://simonwillison.net/2026/Aug/1/datasette-apps": {
+    "title": "datasette-apps 0.2a0",
+    "source": "Simon Willison",
+    "first_seen": "2026-08-01T21:41:34.541536+00:00",
+    "published": "2026-08-01T21:23:56+00:00"
+  },
+  "https://simonwillison.net/2026/Aug/1/ten-advances-in-mathematics": {
+    "title": "Ten advances in mathematics and theoretical computer science",
+    "source": "Simon Willison",
+    "first_seen": "2026-08-01T21:41:34.541536+00:00",
+    "published": "2026-08-01T20:34:49+00:00"
+  },
+  "https://diataxis.fr": {
+    "title": "Diátaxis",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-01T21:41:34.541536+00:00",
+    "published": "2026-08-01T20:33:27+00:00"
+  },
+  "https://zaksa.zip/blog/silicon-valley-founder-meat-grinder": {
+    "title": "The Silicon Valley Founder Meat Grinder",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-01T21:41:34.541536+00:00",
+    "published": "2026-08-01T20:20:58+00:00"
+  },
+  "https://raymii.org/s/articles/But_can_your_calculator_run_Linux.html": {
+    "title": "But can your calculator run Linux?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-01T21:41:34.541536+00:00",
+    "published": "2026-08-01T19:44:48+00:00"
+  },
+  "https://elgan.com/google-news-is-just-forrest-gumps-shrimp-boat-now": {
+    "title": "Google has abandoned Google News?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-01T21:41:34.541536+00:00",
+    "published": "2026-08-01T19:39:43+00:00"
+  },
+  "https://radionavlab.ae.utexas.edu/wp-content/uploads/starlink_structure.pdf": {
+    "title": "Signal Structure of the Starlink Ku-Band Downlink (2023) [pdf]",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-01T21:41:34.541536+00:00",
+    "published": "2026-08-01T18:59:35+00:00"
+  },
+  "https://censys.com/blog/cisa-alert-water-tower-plc-targeting": {
+    "title": "CISA Alert: Water Sector PLC Targeting",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-01T21:41:34.541536+00:00",
+    "published": "2026-08-01T18:50:17+00:00"
+  },
+  "https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576": {
+    "title": "Postmortem for Kernel Soundness Bug #14576",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-01T21:41:34.541536+00:00",
+    "published": "2026-08-01T18:32:20+00:00"
+  },
+  "https://trufflesecurity.com/blog/scanning-7-6-petabytes-of-ai-training-data-for-secrets": {
+    "title": "Scanning 7.6 Petabytes of HuggingFace Training Data for Secrets",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-01T21:41:34.541536+00:00",
+    "published": "2026-08-01T18:21:41+00:00"
+  },
+  "https://openrss.org/blog/how-google-helped-destroy-adoption-of-rss-feeds": {
+    "title": "How Google helped destroy adoption of RSS feeds (2023)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-01T21:41:34.541536+00:00",
+    "published": "2026-08-01T18:07:07+00:00"
+  },
+  "https://blog.netbsd.org/tnf/entry/netbsd_11_0_released": {
+    "title": "NetBSD 11.0",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-01T21:41:34.541536+00:00",
+    "published": "2026-08-01T17:56:41+00:00"
+  },
+  "https://andrewshell.org/2026/07/i-%e2%99%a5-rss": {
+    "title": "A directory of people who love RSS",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-01T21:41:34.541536+00:00",
+    "published": "2026-08-01T16:52:41+00:00"
+  },
+  "https://www.phoronix.com/news/NetBSD-11.0": {
+    "title": "NetBSD 11.0 Released With RISC-V Support, Enhanced Linux System Call Compatibility",
+    "source": "Phoronix",
+    "first_seen": "2026-08-01T21:41:34.541536+00:00",
+    "published": "2026-08-01T16:49:21+00:00"
+  },
+  "https://kaisel.dev": {
+    "title": "Kaisel – Routes as Values. Dart 3 Native Router for Flutter",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-01T21:41:34.541536+00:00",
+    "published": "2026-08-01T16:45:40+00:00"
+  },
+  "https://brandur.org/fragments/pgtestdb": {
+    "title": "Pgtestdb's template cloning approach to testing is fast",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-01T21:41:34.541536+00:00",
+    "published": "2026-08-01T16:01:22+00:00"
+  },
+  "https://www.seriouseats.com/30-minute-pressure-cooker-pho-ga-recipe": {
+    "title": "Kenji/Serious Eats – 30-Min Pressure Cooker Pho Ga",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-01T21:41:34.541536+00:00",
+    "published": "2026-08-01T15:46:54+00:00"
+  },
+  "https://forum.cursor.com/t/usage-page-to-token-amount-what/167153": {
+    "title": "Cursor removed cost information from the usage page and CSV export",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-01T21:41:34.541536+00:00",
+    "published": "2026-08-01T15:25:21+00:00"
+  },
+  "https://alexiglad.github.io/blog/2026/explorative_modeling": {
+    "title": "Explorative modeling: Train on the best of K guesses",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-01T21:41:34.541536+00:00",
+    "published": "2026-08-01T15:23:15+00:00"
+  },
+  "https://simonwillison.net/2026/Jul/31/slack-emoji-maker": {
+    "title": "Slack Emoji Maker",
+    "source": "Simon Willison",
+    "first_seen": "2026-08-01T21:41:34.541536+00:00",
+    "published": "2026-07-31T20:18:05+00:00"
   }
 }
