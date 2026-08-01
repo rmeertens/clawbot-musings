@@ -65186,5 +65186,107 @@
     "source": "Simon Willison",
     "first_seen": "2026-08-01T10:24:24.100970+00:00",
     "published": "2026-07-31T14:14:23+00:00"
+  },
+  "https://thenewstack.io/eks-kubernetes-upgrade-rollback": {
+    "title": "Kubernetes upgrades don’t have to break things: How EKS is making cluster lifecycle management simpler and safer",
+    "source": "The New Stack",
+    "first_seen": "2026-08-01T15:49:33.136334+00:00",
+    "published": "2026-08-01T15:00:00+00:00"
+  },
+  "https://www.michaelgeist.ca/2026/07/a-surveillance-treaty-in-disguise-the-trouble-with-canadas-quiet-decision-to-sign-the-un-cybercrime-convention": {
+    "title": "A Surveillance Treaty in Disguise: Canada Signs UN Cybercrime Convention",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-01T15:49:33.136334+00:00",
+    "published": "2026-08-01T14:19:51+00:00"
+  },
+  "https://nostarch.com/art-64-bit-assembly-v2": {
+    "title": "The Art of 64-bit Assembly",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-01T15:49:33.136334+00:00",
+    "published": "2026-08-01T14:09:00+00:00"
+  },
+  "https://thenewstack.io/designing-apis-for-agents": {
+    "title": "Designing APIs for agents",
+    "source": "The New Stack",
+    "first_seen": "2026-08-01T15:49:33.136334+00:00",
+    "published": "2026-08-01T14:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/July-2026-Highlights": {
+    "title": "MPEG-4 Patent Expiration, RADV On Windows, Open-Source AI & Other July Highlights",
+    "source": "Phoronix",
+    "first_seen": "2026-08-01T15:49:33.136334+00:00",
+    "published": "2026-08-01T13:30:00+00:00"
+  },
+  "https://thenewstack.io/anthropic-claude-containment-failure": {
+    "title": "What Claude’s real-world breaches reveal about AI safety tests",
+    "source": "The New Stack",
+    "first_seen": "2026-08-01T15:49:33.136334+00:00",
+    "published": "2026-08-01T13:00:00+00:00"
+  },
+  "https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html": {
+    "title": "Charlie Stross – On the non-use of AI in my writing process",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-01T15:49:33.136334+00:00",
+    "published": "2026-08-01T12:56:54+00:00"
+  },
+  "https://github.com/BurntSushi/ripgrep/issues/3494": {
+    "title": "RipGrep musl binaries occasionally segfault during very-large searches",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-01T15:49:33.136334+00:00",
+    "published": "2026-08-01T12:34:25+00:00"
+  },
+  "https://pubdeer.com": {
+    "title": "Astro Loop",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-01T15:49:33.136334+00:00",
+    "published": "2026-08-01T12:17:48+00:00"
+  },
+  "https://www.construction-physics.com/p/reading-list-080126": {
+    "title": "Reading List 08/01/26",
+    "source": "Construction Physics",
+    "first_seen": "2026-08-01T15:49:33.136334+00:00",
+    "published": "2026-08-01T12:04:01+00:00"
+  },
+  "https://rsadowski.de/posts/2026/dead-software-walking-relayd-and-httpd": {
+    "title": "Dead Software Walking: The ongoing evolution of relayd(8) and httpd(8)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-01T15:49:33.136334+00:00",
+    "published": "2026-08-01T12:03:36+00:00"
+  },
+  "https://www.ycombinator.com/companies/kontigo/jobs/xAo6tMt-founding-engineer": {
+    "title": "Kontigo (YC S24) Is Hiring",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-01T15:49:33.136334+00:00",
+    "published": "2026-08-01T12:00:25+00:00"
+  },
+  "https://www.phoronix.com/news/Arch-Linux-Foxboron": {
+    "title": "Prominent Arch Linux Developer Resigns After 10 Year Run",
+    "source": "Phoronix",
+    "first_seen": "2026-08-01T15:49:33.136334+00:00",
+    "published": "2026-08-01T11:47:02+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.2-rc6-ATA": {
+    "title": "Linux 7.2-rc6 Working Around Several Buggy Western Digital SATA Drives",
+    "source": "Phoronix",
+    "first_seen": "2026-08-01T15:49:33.136334+00:00",
+    "published": "2026-08-01T10:49:22+00:00"
+  },
+  "https://www.phoronix.com/news/GNOME-RFC-Process-AI-Extensions": {
+    "title": "GNOME Working To Establish An RFC Process, Battling Sloppy AI-Generated Extensions",
+    "source": "Phoronix",
+    "first_seen": "2026-08-01T15:49:33.136334+00:00",
+    "published": "2026-08-01T10:34:00+00:00"
+  },
+  "https://thenewstack.io/temporal-ai-adoption-durable-execution": {
+    "title": "Temporal 5x’d AI spend and doubled revenue. CEO Samar Abbas says he can’t prove they’re connected.",
+    "source": "The New Stack",
+    "first_seen": "2026-08-01T15:49:33.136334+00:00",
+    "published": "2026-08-01T10:30:00+00:00"
+  },
+  "https://www.phoronix.com/news/KDE-Plasma-6.8-Faster-eGPU": {
+    "title": "KDE Plasma 6.8 To Enjoy Huge Performance Gains For Multi-GPU/eGPU Performance",
+    "source": "Phoronix",
+    "first_seen": "2026-08-01T15:49:33.136334+00:00",
+    "published": "2026-08-01T10:18:48+00:00"
   }
 }
