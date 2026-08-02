@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-26T08:03:59Z",
-  "count": 147,
+  "generated_at": "2026-08-02T08:01:00Z",
+  "count": 148,
   "results": [
     {
       "name": "Greenwich",
@@ -143,16 +143,6 @@
       "rank": 14
     },
     {
-      "name": "Colwick",
-      "raw_name": "Colwick Parkrun",
-      "osm_type": "relation",
-      "osm_id": 9331938,
-      "perimeter_m": 3720.7,
-      "area_m2": 489658.3,
-      "Q": 0.4445,
-      "rank": 15
-    },
-    {
       "name": "Kingsbury Water",
       "raw_name": "Kingsbury Water Parkrun",
       "osm_type": "relation",
@@ -160,7 +150,7 @@
       "perimeter_m": 2891.7,
       "area_m2": 292677.7,
       "Q": 0.4398,
-      "rank": 16
+      "rank": 15
     },
     {
       "name": "Wimpole Estate Parkrun (Dog Route)",
@@ -170,7 +160,7 @@
       "perimeter_m": 3832.9,
       "area_m2": 507107.9,
       "Q": 0.4338,
-      "rank": 17
+      "rank": 16
     },
     {
       "name": "Greenwich Peninsula",
@@ -180,7 +170,7 @@
       "perimeter_m": 3131.1,
       "area_m2": 330137.6,
       "Q": 0.4232,
-      "rank": 18
+      "rank": 17
     },
     {
       "name": "Newbury",
@@ -190,7 +180,7 @@
       "perimeter_m": 5134.6,
       "area_m2": 847150.8,
       "Q": 0.4038,
-      "rank": 19
+      "rank": 18
     },
     {
       "name": "Sutcliffe",
@@ -200,7 +190,7 @@
       "perimeter_m": 1668.2,
       "area_m2": 88980.7,
       "Q": 0.4018,
-      "rank": 20
+      "rank": 19
     },
     {
       "name": "Isabel Trail",
@@ -210,7 +200,7 @@
       "perimeter_m": 3900.4,
       "area_m2": 465607.3,
       "Q": 0.3846,
-      "rank": 21
+      "rank": 20
     },
     {
       "name": "Worcester",
@@ -220,7 +210,7 @@
       "perimeter_m": 2894.1,
       "area_m2": 251454.3,
       "Q": 0.3773,
-      "rank": 22
+      "rank": 21
     },
     {
       "name": "South Norwood",
@@ -230,6 +220,16 @@
       "perimeter_m": 2522.1,
       "area_m2": 188210.5,
       "Q": 0.3718,
+      "rank": 22
+    },
+    {
+      "name": "Colwick",
+      "raw_name": "Colwick Parkrun",
+      "osm_type": "relation",
+      "osm_id": 9331938,
+      "perimeter_m": 4149.0,
+      "area_m2": 505046.0,
+      "Q": 0.3687,
       "rank": 23
     },
     {
@@ -313,6 +313,16 @@
       "rank": 31
     },
     {
+      "name": "Queen's parkrun, Belfast",
+      "raw_name": "Queen's parkrun, Belfast",
+      "osm_type": "relation",
+      "osm_id": 18898558,
+      "perimeter_m": 2373.5,
+      "area_m2": 135391.2,
+      "Q": 0.302,
+      "rank": 32
+    },
+    {
       "name": "Aldenham",
       "raw_name": "Aldenham Parkrun",
       "osm_type": "relation",
@@ -320,16 +330,6 @@
       "perimeter_m": 4975.3,
       "area_m2": 594305.6,
       "Q": 0.3017,
-      "rank": 32
-    },
-    {
-      "name": "Queen's parkrun, Belfast",
-      "raw_name": "Queen's parkrun, Belfast",
-      "osm_type": "relation",
-      "osm_id": 18898558,
-      "perimeter_m": 2384.5,
-      "area_m2": 135289.0,
-      "Q": 0.299,
       "rank": 33
     },
     {
@@ -1333,6 +1333,16 @@
       "rank": 133
     },
     {
+      "name": "Exeter Riverside",
+      "raw_name": "Exeter Riverside Parkrun",
+      "osm_type": "relation",
+      "osm_id": 21148875,
+      "perimeter_m": 5363.1,
+      "area_m2": 21610.5,
+      "Q": 0.0094,
+      "rank": 134
+    },
+    {
       "name": "Beckton",
       "raw_name": "Beckton parkrun",
       "osm_type": "relation",
@@ -1340,7 +1350,7 @@
       "perimeter_m": 4176.1,
       "area_m2": 11321.0,
       "Q": 0.0082,
-      "rank": 134
+      "rank": 135
     },
     {
       "name": "Evesham",
@@ -1350,7 +1360,7 @@
       "perimeter_m": 5131.5,
       "area_m2": 12877.6,
       "Q": 0.0061,
-      "rank": 135
+      "rank": 136
     },
     {
       "name": "Ferry Meadows",
@@ -1360,7 +1370,7 @@
       "perimeter_m": 5158.0,
       "area_m2": 7941.5,
       "Q": 0.0038,
-      "rank": 136
+      "rank": 137
     },
     {
       "name": "Worthing",
@@ -1370,7 +1380,7 @@
       "perimeter_m": 5265.9,
       "area_m2": 7622.0,
       "Q": 0.0035,
-      "rank": 137
+      "rank": 138
     },
     {
       "name": "Conwy",
@@ -1380,7 +1390,7 @@
       "perimeter_m": 4909.4,
       "area_m2": 5124.6,
       "Q": 0.0027,
-      "rank": 138
+      "rank": 139
     },
     {
       "name": "Oaklands College",
@@ -1390,7 +1400,7 @@
       "perimeter_m": 4951.3,
       "area_m2": 5242.3,
       "Q": 0.0027,
-      "rank": 139
+      "rank": 140
     },
     {
       "name": "Sloughbottom",
@@ -1400,7 +1410,7 @@
       "perimeter_m": 1963.4,
       "area_m2": 75.2,
       "Q": 0.0002,
-      "rank": 140
+      "rank": 141
     },
     {
       "name": "Chalkwell Beach",
@@ -1410,7 +1420,7 @@
       "perimeter_m": 5070.2,
       "area_m2": 135.0,
       "Q": 0.0001,
-      "rank": 141
+      "rank": 142
     },
     {
       "name": "Southsea",
@@ -1420,7 +1430,7 @@
       "perimeter_m": 5036.6,
       "area_m2": 0.0,
       "Q": 0.0,
-      "rank": 142
+      "rank": 143
     },
     {
       "name": "Bicester",
@@ -1430,7 +1440,7 @@
       "perimeter_m": 4891.4,
       "area_m2": 0.0,
       "Q": 0.0,
-      "rank": 143
+      "rank": 144
     },
     {
       "name": "Hackney Marshes",
@@ -1440,7 +1450,7 @@
       "perimeter_m": 4846.3,
       "area_m2": 0.0,
       "Q": 0.0,
-      "rank": 144
+      "rank": 145
     },
     {
       "name": "Valentines",
@@ -1450,7 +1460,7 @@
       "perimeter_m": 5124.1,
       "area_m2": 0.0,
       "Q": 0.0,
-      "rank": 145
+      "rank": 146
     },
     {
       "name": "Felixstowe",
@@ -1460,7 +1470,7 @@
       "perimeter_m": 4984.4,
       "area_m2": 17.2,
       "Q": 0.0,
-      "rank": 146
+      "rank": 147
     },
     {
       "name": "Millennium Country Parkrun, Forest of Marston Vale",
@@ -1470,7 +1480,7 @@
       "perimeter_m": 5056.6,
       "area_m2": 1.6,
       "Q": 0.0,
-      "rank": 147
+      "rank": 148
     }
   ]
 }
