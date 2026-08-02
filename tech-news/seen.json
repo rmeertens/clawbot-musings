@@ -65546,5 +65546,107 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-08-02T10:22:38.196808+00:00",
     "published": "2026-08-01T20:45:12+00:00"
+  },
+  "https://www.ursulakleguin.com/a-rant-about-technology": {
+    "title": "A Rant About “Technology” (2005)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-02T15:50:22.232023+00:00",
+    "published": "2026-08-02T14:51:18+00:00"
+  },
+  "https://www.phoronix.com/news/Intel-Starfire-Starts-Linux-7.3": {
+    "title": "Linux 7.3 To Begin Laying The Groundwork For Intel Starfire",
+    "source": "Phoronix",
+    "first_seen": "2026-08-02T15:50:22.232023+00:00",
+    "published": "2026-08-02T14:32:25+00:00"
+  },
+  "https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open": {
+    "title": "Twenty Years of RISC OS Open",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-02T15:50:22.232023+00:00",
+    "published": "2026-08-02T12:36:07+00:00"
+  },
+  "https://fstar-lang.org": {
+    "title": "F*: A general-purpose proof-oriented programming language",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-02T15:50:22.232023+00:00",
+    "published": "2026-08-02T12:31:16+00:00"
+  },
+  "https://www.ycombinator.com/companies/great-question/jobs/YutDxyf-senior-demand-generation-manager": {
+    "title": "Great Question (YC W21) Is Hiring Senior Demand Gen Manager",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-02T15:50:22.232023+00:00",
+    "published": "2026-08-02T12:01:00+00:00"
+  },
+  "https://meshdiff.com": {
+    "title": "Meshdiff – visually compare two STL versions in the browser, client-side",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-02T15:50:22.232023+00:00",
+    "published": "2026-08-02T11:34:41+00:00"
+  },
+  "https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2026-08-02/News_and_notes": {
+    "title": "Wikimedia Foundation refuses union recognition, hires union-busting law firm",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-02T15:50:22.232023+00:00",
+    "published": "2026-08-02T11:24:20+00:00"
+  },
+  "https://fuselang.org": {
+    "title": "Show HN: Fuse – statically typed functional programming language",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-02T15:50:22.232023+00:00",
+    "published": "2026-08-02T11:23:56+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.3-MSM-DRM-Driver": {
+    "title": "Linux 7.3 To Support The Qualcomm Adreno 704 & Adreno 722 GPUs",
+    "source": "Phoronix",
+    "first_seen": "2026-08-02T15:50:22.232023+00:00",
+    "published": "2026-08-02T10:47:00+00:00"
+  },
+  "https://www.ft.com/content/0f9b2fe7-bde4-4f5f-b49e-93ccb5da9ea8": {
+    "title": "US Treasury undertakes historic intervention in yen market",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-02T15:50:22.232023+00:00",
+    "published": "2026-08-02T10:46:28+00:00"
+  },
+  "https://github.com/kamalfarahani/katharos": {
+    "title": "Show HN: Katharos Functional programming and CSP-style concurrency for Python",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-02T15:50:22.232023+00:00",
+    "published": "2026-08-02T10:45:11+00:00"
+  },
+  "https://www.phoronix.com/news/Ubuntu-Touch-Toward-26.04": {
+    "title": "Ubuntu Touch Making Progress Toward Ubuntu 26.04, Vulkan & App Updates",
+    "source": "Phoronix",
+    "first_seen": "2026-08-02T15:50:22.232023+00:00",
+    "published": "2026-08-02T10:37:06+00:00"
+  },
+  "https://blog.rust-lang.org/inside-rust/2026/07/31/all-hands-2026-retrospective": {
+    "title": "Rust All Hands 2026 Retrospective",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-02T15:50:22.232023+00:00",
+    "published": "2026-08-02T10:33:26+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.2-rc6-Fixing-Zen-5-IDs": {
+    "title": "Linux 7.2-rc6 Fixes Some AMD Zen 5 CPUs Being Mistakenly Identified As Zen 6",
+    "source": "Phoronix",
+    "first_seen": "2026-08-02T15:50:22.232023+00:00",
+    "published": "2026-08-02T10:25:00+00:00"
+  },
+  "https://publicdomainreview.org/essay/ars-notoria": {
+    "title": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-02T15:50:22.232023+00:00",
+    "published": "2026-08-02T10:18:24+00:00"
+  },
+  "https://getbor.dev/blog/2026-08-02-bor-v080-release": {
+    "title": "Show HN: Bor – Open-source policy management for Linux desktops",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-02T15:50:22.232023+00:00",
+    "published": "2026-08-02T09:06:33+00:00"
+  },
+  "https://peterneufeld.wordpress.com/2025/03/04/esp32-c3-supermini-antenna-modification": {
+    "title": "ESP32-C3 SuperMini antenna modification",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-02T15:50:22.232023+00:00",
+    "published": "2026-08-02T06:56:38+00:00"
   }
 }
