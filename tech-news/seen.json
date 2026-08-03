@@ -65960,5 +65960,323 @@
     "source": "Grab Tech",
     "first_seen": "2026-08-03T12:09:27.829679+00:00",
     "published": "2026-08-01T00:23:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/containers/run-gpu-batch-inference-on-amazon-ecs-managed-instances-with-scale-to-zero": {
+    "title": "Run GPU batch inference on Amazon ECS Managed Instances with scale to zero",
+    "source": "AWS Containers Blog",
+    "first_seen": "2026-08-03T17:02:57.660376+00:00",
+    "published": "2026-08-03T16:34:46+00:00"
+  },
+  "https://hoplite.sh": {
+    "title": "Launch HN: Hoplite (YC S26) – Effortlessly deploy cloud coding agents",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-03T17:02:57.660376+00:00",
+    "published": "2026-08-03T16:32:06+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/automated-reasoning-policy-refinement-in-amazon-bedrock": {
+    "title": "Automated Reasoning policy refinement in Amazon Bedrock",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-08-03T17:02:57.660376+00:00",
+    "published": "2026-08-03T16:30:58+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/amazon-redshift-multi-region-disaster-recovery": {
+    "title": "Amazon Redshift multi-Region disaster recovery",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-08-03T17:02:57.660376+00:00",
+    "published": "2026-08-03T16:22:56+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/streamline-apache-kafka-cluster-operations-and-migrations-with-agent-skills-for-amazon-msk": {
+    "title": "Streamline Apache Kafka cluster operations and migrations with Agent Skills for Amazon MSK",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-08-03T17:02:57.660376+00:00",
+    "published": "2026-08-03T16:19:05+00:00"
+  },
+  "https://armature.tech": {
+    "title": "Show HN: Product analytics (and evals) for agent sessions on your MCP",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-03T17:02:57.660376+00:00",
+    "published": "2026-08-03T16:17:59+00:00"
+  },
+  "https://epoch.ai/MirrorCode": {
+    "title": "What's the largest software project AI can complete on its own?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-03T17:02:57.660376+00:00",
+    "published": "2026-08-03T16:16:40+00:00"
+  },
+  "https://simonwillison.net/2026/Aug/3/david-crawshaw": {
+    "title": "Quoting David Crawshaw's prompt",
+    "source": "Simon Willison",
+    "first_seen": "2026-08-03T17:02:57.660376+00:00",
+    "published": "2026-08-03T16:15:27+00:00"
+  },
+  "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-price-reduction-of-gpt-models-in-bedrock-cloudwatch-managed-collectors-for-prometheus-metrics-and-more-august-3-2026": {
+    "title": "AWS Weekly Roundup: Price reduction of GPT models in Bedrock, CloudWatch managed collectors for Prometheus metrics, and more (August 3, 2026)",
+    "source": "AWS Blog",
+    "first_seen": "2026-08-03T17:02:57.660376+00:00",
+    "published": "2026-08-03T16:12:30+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/introducing-apache-spark-troubleshooting-agent-for-amazon-emr-on-eks": {
+    "title": "Introducing Apache Spark troubleshooting agent for Amazon EMR on EKS",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-08-03T17:02:57.660376+00:00",
+    "published": "2026-08-03T16:12:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/upgrade-amazon-redshift-dc2-clusters-to-the-new-amazon-redshift-rg": {
+    "title": "Upgrade Amazon Redshift DC2 clusters to the new Amazon Redshift RG",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-08-03T17:02:57.660376+00:00",
+    "published": "2026-08-03T16:09:37+00:00"
+  },
+  "https://note.com/hirorohi03/n/n047a8c5f7f8b?hl=en": {
+    "title": "Explanation of INT8 ConvRot (FP8 is no longer needed)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-03T17:02:57.660376+00:00",
+    "published": "2026-08-03T16:07:09+00:00"
+  },
+  "https://lwn.net/Articles/1085618": {
+    "title": "[$] Buffer sizes for FUSE io_uring",
+    "source": "LWN.net",
+    "first_seen": "2026-08-03T17:02:57.660376+00:00",
+    "published": "2026-08-03T16:05:10+00:00"
+  },
+  "https://developer.nvidia.com/blog/how-to-run-isolated-tenant-kubernetes-clusters-on-shared-gpu-infrastructure": {
+    "title": "How to Run Isolated Tenant Kubernetes Clusters on Shared GPU Infrastructure",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-08-03T17:02:57.660376+00:00",
+    "published": "2026-08-03T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/sap-google-cloud/cortex-framework-v7-power-ai-agents-with-sap-data-faster": {
+    "title": "Cortex Framework v7 is GA: Build agentic workflows without disrupting SAP operations",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-08-03T17:02:57.660376+00:00",
+    "published": "2026-08-03T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/databases/unify-public-and-private-data-with-data-commons-on-spanner-graph": {
+    "title": "Unifying public and private data: Scale knowledge graphs with Data Commons on Spanner",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-08-03T17:02:57.660376+00:00",
+    "published": "2026-08-03T16:00:00+00:00"
+  },
+  "https://www.marlerblog.com/case-news/taylor-farms-has-rewritten-its-cyclospora-statement-four-times-in-sixteen-days-it-still-has-not-said-what-changed-at-that-plant-after-2013-or-why-two-thousand-negative-tests-should-mean-an": {
+    "title": "Taylor Farms Has Rewritten Its Cyclospora Statement Four Times in Sixteen Days",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-03T17:02:57.660376+00:00",
+    "published": "2026-08-03T15:31:32+00:00"
+  },
+  "https://blog.bytebytego.com/p/llm-security-basics-the-full-threat": {
+    "title": "LLM Security Basics: The Full Threat Model",
+    "source": "ByteByteGo",
+    "first_seen": "2026-08-03T17:02:57.660376+00:00",
+    "published": "2026-08-03T15:31:14+00:00"
+  },
+  "https://lwn.net/Articles/1086936": {
+    "title": "SQLite Critical CVEs or LLM Slop? (JFrog blog)",
+    "source": "LWN.net",
+    "first_seen": "2026-08-03T17:02:57.660376+00:00",
+    "published": "2026-08-03T14:59:31+00:00"
+  },
+  "https://www.phoronix.com/review/framework-laptop-13-pro-linux": {
+    "title": "Benchmarking Six Linux Distributions On The Framework Laptop 13 Pro",
+    "source": "Phoronix",
+    "first_seen": "2026-08-03T17:02:57.660376+00:00",
+    "published": "2026-08-03T14:42:55+00:00"
+  },
+  "https://lapcatsoftware.com/articles/2026/8/2.html": {
+    "title": "Why does Mail app contact iCloud when sending a non-iCloud email?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-03T17:02:57.660376+00:00",
+    "published": "2026-08-03T14:29:51+00:00"
+  },
+  "https://blog.exe.dev/devtools-must-be-open-source": {
+    "title": "Devtools must be open source",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-03T17:02:57.660376+00:00",
+    "published": "2026-08-03T14:15:47+00:00"
+  },
+  "https://www.sltrib.com/news/environment/2026/08/03/utah-sets-solar-power-record": {
+    "title": "Utah produced more power from solar than any other source in May, a new first",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-03T17:02:57.660376+00:00",
+    "published": "2026-08-03T14:13:24+00:00"
+  },
+  "https://clickhouse.com/blog/andy-pavlo-joins-clickhouse": {
+    "title": "Andy Pavlo Joins ClickHouse to Establish ClickHouse Labs",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-03T17:02:57.660376+00:00",
+    "published": "2026-08-03T14:09:00+00:00"
+  },
+  "https://www.databricks.com/blog/new-monday-morning-report-how-generative-ai-can-deliver-insights-your-executives-need": {
+    "title": "The New Monday Morning Report: How Generative AI can deliver the insights your executives need.",
+    "source": "Databricks Blog",
+    "first_seen": "2026-08-03T17:02:57.660376+00:00",
+    "published": "2026-08-03T14:00:00+00:00"
+  },
+  "https://realpython.com/python-news-august-2026": {
+    "title": "MCP Gets Its Biggest Rewrite and Other Python News for August 2026",
+    "source": "Real Python",
+    "first_seen": "2026-08-03T17:02:57.660376+00:00",
+    "published": "2026-08-03T14:00:00+00:00"
+  },
+  "https://www.databricks.com/blog/ingest-semi-structured-data-faster-and-more-efficiently-variant-now-generally-available": {
+    "title": "Ingest semi-structured data faster and more efficiently with Variant - Now Generally Available",
+    "source": "Databricks Blog",
+    "first_seen": "2026-08-03T17:02:57.660376+00:00",
+    "published": "2026-08-03T13:44:24+00:00"
+  },
+  "https://lwn.net/Articles/1086900": {
+    "title": "Four stable kernels for Monday",
+    "source": "LWN.net",
+    "first_seen": "2026-08-03T17:02:57.660376+00:00",
+    "published": "2026-08-03T13:42:58+00:00"
+  },
+  "https://blog.comfy.org/p/minimax-h3-day-0-support-in-comfyui": {
+    "title": "MiniMax H3 Day-0 Support in ComfyUI: Open Weights, Native Audio, and 2K Video",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-03T17:02:57.660376+00:00",
+    "published": "2026-08-03T13:34:43+00:00"
+  },
+  "https://dmarcguard.io/blog/spf-record-syntax": {
+    "title": "SPF Record Syntax: Mechanisms, Qualifiers, Modifiers, and Macros",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-03T17:02:57.660376+00:00",
+    "published": "2026-08-03T13:34:25+00:00"
+  },
+  "https://lwn.net/Articles/1086898": {
+    "title": "NetBSD 11.0 released",
+    "source": "LWN.net",
+    "first_seen": "2026-08-03T17:02:57.660376+00:00",
+    "published": "2026-08-03T13:33:10+00:00"
+  },
+  "https://thenewstack.io/deepseek-v4-flash-open-weights": {
+    "title": "DeepSeek’s smaller model just outperformed its own flagship",
+    "source": "The New Stack",
+    "first_seen": "2026-08-03T17:02:57.660376+00:00",
+    "published": "2026-08-03T13:32:15+00:00"
+  },
+  "https://www.phoronix.com/news/zlib-rs-0.6.7": {
+    "title": "zlib-rs 0.6.7 Released With LoongArch LSX Optimizations, Use-After-Free Fix",
+    "source": "Phoronix",
+    "first_seen": "2026-08-03T17:02:57.660376+00:00",
+    "published": "2026-08-03T13:19:33+00:00"
+  },
+  "https://blog.cloudflare.com/cloudflare-computer": {
+    "title": "Your agent needs a computer, not a container — introducing @cloudflare/computer",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-08-03T17:02:57.660376+00:00",
+    "published": "2026-08-03T13:15:24+00:00"
+  },
+  "https://www.intellinews.com/wind-and-solar-overtake-fossil-fuels-in-germany-for-the-first-time-ever-458379": {
+    "title": "Wind and solar overtake fossil fuels in Germany for the first time",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-03T17:02:57.660376+00:00",
+    "published": "2026-08-03T13:13:02+00:00"
+  },
+  "https://lwn.net/Articles/1086897": {
+    "title": "Security updates for Monday",
+    "source": "LWN.net",
+    "first_seen": "2026-08-03T17:02:57.660376+00:00",
+    "published": "2026-08-03T13:12:40+00:00"
+  },
+  "https://www.phoronix.com/news/GNOME-Boxes-2026": {
+    "title": "GNOME Boxes Preparing To Deliver Much Improved Virtualization Experience",
+    "source": "Phoronix",
+    "first_seen": "2026-08-03T17:02:57.660376+00:00",
+    "published": "2026-08-03T13:06:15+00:00"
+  },
+  "https://www.docker.com/blog/empty-sandboxes-break-developer-experience": {
+    "title": "Empty sandboxes break developer experience",
+    "source": "Docker Blog",
+    "first_seen": "2026-08-03T17:02:57.660376+00:00",
+    "published": "2026-08-03T13:00:00+00:00"
+  },
+  "https://www.docker.com/blog/docker-ai-governance-audit-logs-now-where-your-security-team-already-works": {
+    "title": "Docker AI Governance: Audit Logs, Now Where Your Security Team Already Works",
+    "source": "Docker Blog",
+    "first_seen": "2026-08-03T17:02:57.660376+00:00",
+    "published": "2026-08-03T13:00:00+00:00"
+  },
+  "https://www.databricks.com/blog/databricks-completes-acquisition-panther-accelerating-security-lakehouse-era": {
+    "title": "Databricks Completes Acquisition of Panther: Accelerating the Security Lakehouse Era",
+    "source": "Databricks Blog",
+    "first_seen": "2026-08-03T17:02:57.660376+00:00",
+    "published": "2026-08-03T13:00:00+00:00"
+  },
+  "https://blog.cloudflare.com/smaller-faster-safer-models": {
+    "title": "Smaller, faster, safer: running Kimi and GLM at scale",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-08-03T17:02:57.660376+00:00",
+    "published": "2026-08-03T13:00:00+00:00"
+  },
+  "https://blog.cloudflare.com/python-workers-rpc": {
+    "title": "Workers RPC now works across Python and JavaScript",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-08-03T17:02:57.660376+00:00",
+    "published": "2026-08-03T13:00:00+00:00"
+  },
+  "https://blog.cloudflare.com/grpc-workers": {
+    "title": "Cloudflare Workers and Containers now support inbound TCP connections and gRPC",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-08-03T17:02:57.660376+00:00",
+    "published": "2026-08-03T13:00:00+00:00"
+  },
+  "https://blog.cloudflare.com/billable-usage-api": {
+    "title": "Introducing the Billable Usage API: programmatic cost visibility for Cloudflare",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-08-03T17:02:57.660376+00:00",
+    "published": "2026-08-03T13:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/NVIDIA-610.57.04-Linux-Driver": {
+    "title": "NVIDIA 610.57.04 Linux Driver Delivers Many Fixes",
+    "source": "Phoronix",
+    "first_seen": "2026-08-03T17:02:57.660376+00:00",
+    "published": "2026-08-03T12:58:03+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-Retiring-FreeVxFS": {
+    "title": "Linux 7.3 Expected To Drop The FreeVxFS File-System Driver",
+    "source": "Phoronix",
+    "first_seen": "2026-08-03T17:02:57.660376+00:00",
+    "published": "2026-08-03T12:35:52+00:00"
+  },
+  "https://realpython.com/quizzes/python-parallel-processing": {
+    "title": "Quiz: Bypassing the GIL for Parallel Processing in Python",
+    "source": "Real Python",
+    "first_seen": "2026-08-03T17:02:57.660376+00:00",
+    "published": "2026-08-03T12:00:00+00:00"
+  },
+  "https://neon.com/blog/neon-now-has-per-project-permissions": {
+    "title": "Neon now has per-project permissions",
+    "source": "Neon Blog",
+    "first_seen": "2026-08-03T17:02:57.660376+00:00",
+    "published": "2026-08-03T12:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/topics/developers-practitioners/behind-the-scenes-how-we-build-test-and-scale-google-agent-skills": {
+    "title": "Behind the scenes: How we build, test, and scale Google Agent Skills",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-08-03T17:02:57.660376+00:00",
+    "published": "2026-08-03T11:23:00+00:00"
+  },
+  "https://github.com/lyogavin/airllm": {
+    "title": "AirLLM 70B inference with single 4GB GPU",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-03T17:02:57.660376+00:00",
+    "published": "2026-08-03T11:15:48+00:00"
+  },
+  "https://www.redpanda.com/blog/query-real-time-analytics-google-cloud": {
+    "title": "Agentic kill switch is a database problem. So we built Redpanda SQL",
+    "source": "Redpanda Blog",
+    "first_seen": "2026-08-03T17:02:57.660376+00:00",
+    "published": "2026-08-03T00:00:00+00:00"
+  },
+  "https://www.redpanda.com/blog/agentic-ai-needs-out-of-band-governance": {
+    "title": "Out-of-band Policy Engine: governance AI agents can't ignore",
+    "source": "Redpanda Blog",
+    "first_seen": "2026-08-03T17:02:57.660376+00:00",
+    "published": "2026-08-03T00:00:00+00:00"
+  },
+  "https://machinelearning.apple.com/research/alignment-multimodal-llms": {
+    "title": "Understanding Alignment in Multimodal LLMs: A Comprehensive Study",
+    "source": "Apple ML Journal",
+    "first_seen": "2026-08-03T17:02:57.660376+00:00",
+    "published": "2026-08-03T00:00:00+00:00"
   }
 }
