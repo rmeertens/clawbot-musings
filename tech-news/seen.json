@@ -65762,5 +65762,203 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-08-02T21:42:14.308127+00:00",
     "published": "2026-08-02T15:41:08+00:00"
+  },
+  "https://www.cncf.io/blog/2026/08/03/cortex-completes-ostif-security-audit": {
+    "title": "Cortex completes OSTIF security audit",
+    "source": "CNCF Blog",
+    "first_seen": "2026-08-03T12:09:27.829679+00:00",
+    "published": "2026-08-03T11:30:00+00:00"
+  },
+  "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops": {
+    "title": "Critical CVE issued for hallucinated SQLite vulnerability",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-03T12:09:27.829679+00:00",
+    "published": "2026-08-03T11:28:54+00:00"
+  },
+  "https://9front.org/releases/2026/08/02/0": {
+    "title": "9front \"This Was Supposed to Be Fun\" Released",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-03T12:09:27.829679+00:00",
+    "published": "2026-08-03T11:17:56+00:00"
+  },
+  "https://www.wired.com/story/ice-dna-collection-fbi-codis": {
+    "title": "ICE Collected Nearly 1M People's DNA Last Year–Including Young Children",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-03T12:09:27.829679+00:00",
+    "published": "2026-08-03T11:16:33+00:00"
+  },
+  "https://github.com/garagehq/nightcrawler": {
+    "title": "Show HN: Nightcrawler – A local AI pentesting agent running on a smartphone",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-03T12:09:27.829679+00:00",
+    "published": "2026-08-03T11:06:15+00:00"
+  },
+  "https://www.phoronix.com/news/KDE-KGamma2-Gamma-Wayland": {
+    "title": "KGamma2 Makes For Easy Gamma Adjustments On KDE Plasma With Wayland",
+    "source": "Phoronix",
+    "first_seen": "2026-08-03T12:09:27.829679+00:00",
+    "published": "2026-08-03T10:58:00+00:00"
+  },
+  "https://www.schneier.com/blog/archives/2026/08/the-openai-hack-shows-the-genie-is-out-of-the-bottle.html": {
+    "title": "The OpenAI Hack Shows the Genie Is Out of the Bottle",
+    "source": "Schneier on Security",
+    "first_seen": "2026-08-03T12:09:27.829679+00:00",
+    "published": "2026-08-03T10:47:47+00:00"
+  },
+  "https://www.phoronix.com/news/GNOME-Shell-Mutter-51-Beta": {
+    "title": "GNOME Mutter 51 Beta Released With Wayland Background Blur, Improved Frame Scheduling",
+    "source": "Phoronix",
+    "first_seen": "2026-08-03T12:09:27.829679+00:00",
+    "published": "2026-08-03T10:23:00+00:00"
+  },
+  "https://stratechery.com/2026/meta-earnings-metas-timing-problems-the-financial-tail": {
+    "title": "Meta Earnings, Meta’s Timing Problems, The Financial Tail",
+    "source": "Stratechery",
+    "first_seen": "2026-08-03T12:09:27.829679+00:00",
+    "published": "2026-08-03T10:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/KDE-Linux-July-2026": {
+    "title": "KDE Linux Making For Easier First-Run Experience Of Java & DOS Apps",
+    "source": "Phoronix",
+    "first_seen": "2026-08-03T12:09:27.829679+00:00",
+    "published": "2026-08-03T09:56:12+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.3-MCTP-Over-USB-1.1": {
+    "title": "Linux 7.3 Adding Support For MCTP-Over-USB v1.1",
+    "source": "Phoronix",
+    "first_seen": "2026-08-03T12:09:27.829679+00:00",
+    "published": "2026-08-03T09:47:40+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.3-RTL8261C-RTL8261D": {
+    "title": "Linux 7.3 To Support Realtek RTL8261C & RTL8261D",
+    "source": "Phoronix",
+    "first_seen": "2026-08-03T12:09:27.829679+00:00",
+    "published": "2026-08-03T09:35:55+00:00"
+  },
+  "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code": {
+    "title": "Prevent cognitive debt by manually retyping LLM-generated code",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-03T12:09:27.829679+00:00",
+    "published": "2026-08-03T09:32:07+00:00"
+  },
+  "https://senderledger.com/articles/what-dmarc-actually-protects-you-from": {
+    "title": "What DMARC Protects You From, and What It Does Not",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-03T12:09:27.829679+00:00",
+    "published": "2026-08-03T09:29:46+00:00"
+  },
+  "https://www.computerweekly.com/news/366646721/MPs-demand-answers-on-Fujitsus-inclusion-in-lucrative-frameworks": {
+    "title": "MPs demand answers on Fujitsu's inclusion in lucrative frameworks",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-03T12:09:27.829679+00:00",
+    "published": "2026-08-03T09:25:15+00:00"
+  },
+  "https://github.com/mohamed--abdel-maksoud/pisiguard": {
+    "title": "PISIGuard: Protect your personal and sensitive info when you chat with AI",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-03T12:09:27.829679+00:00",
+    "published": "2026-08-03T08:54:00+00:00"
+  },
+  "https://www.npopov.com/2012/06/15/The-true-power-of-regular-expressions.html": {
+    "title": "The true power of regular expressions (2012)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-03T12:09:27.829679+00:00",
+    "published": "2026-08-03T08:47:23+00:00"
+  },
+  "https://arcbox.dev/blog/unifi-pppoe-half-bridge-acceleration": {
+    "title": "Show HN: We Fixed UniFi's Slow PPPoE Performance with PPPoE Half-Bridge",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-03T12:09:27.829679+00:00",
+    "published": "2026-08-03T08:34:24+00:00"
+  },
+  "https://github.com/janestreet/bonsai": {
+    "title": "Bonsai: Janestreet's UI Library",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-03T12:09:27.829679+00:00",
+    "published": "2026-08-03T08:29:57+00:00"
+  },
+  "https://octanejs.dev": {
+    "title": "Octane – React's programming model, compiled",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-03T12:09:27.829679+00:00",
+    "published": "2026-08-03T08:04:04+00:00"
+  },
+  "https://yegge.ai/essays/the-shape-of-things-to-come": {
+    "title": "The Shape of Things to Come",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-03T12:09:27.829679+00:00",
+    "published": "2026-08-03T07:22:27+00:00"
+  },
+  "https://github.com/rust-lang/rust-project-goals/blob/main/src/2026/move-trait.md": {
+    "title": "Rust project goals: Immobile types and guaranteed destructors",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-03T12:09:27.829679+00:00",
+    "published": "2026-08-03T06:42:00+00:00"
+  },
+  "https://gruhn.me/blog/2026-08-03": {
+    "title": "Don't be a meat proxy",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-03T12:09:27.829679+00:00",
+    "published": "2026-08-03T06:28:01+00:00"
+  },
+  "https://www.emergingtrajectories.com/lh/situational-awareness-bigger-picture": {
+    "title": "Situational Awareness and the Impending Stock Market Volatility",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-03T12:09:27.829679+00:00",
+    "published": "2026-08-03T06:17:53+00:00"
+  },
+  "https://qwen.ai/blog?id=qwen3.8": {
+    "title": "Qwen3.8-Max: A New Bar for Coding and Cowork",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-03T12:09:27.829679+00:00",
+    "published": "2026-08-03T02:16:09+00:00"
+  },
+  "https://sf.isopolis.city": {
+    "title": "Show HN: Isopolis – Isometric pixel map of SF",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-03T12:09:27.829679+00:00",
+    "published": "2026-08-03T00:46:38+00:00"
+  },
+  "https://github.com/johnsonjh/cpm386": {
+    "title": "CP/M-386 – CP/M for 386 protected mode, derived from CP/M‑68K",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-03T12:09:27.829679+00:00",
+    "published": "2026-08-03T00:38:10+00:00"
+  },
+  "https://www.phoronix.com/news/AerynOS-Big-Update-2026": {
+    "title": "AerynOS Issues First Development Update & New ISOs In Three Months",
+    "source": "Phoronix",
+    "first_seen": "2026-08-03T12:09:27.829679+00:00",
+    "published": "2026-08-03T00:23:32+00:00"
+  },
+  "https://ssh.place": {
+    "title": "Show HN: ssh ssh.place",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-03T12:09:27.829679+00:00",
+    "published": "2026-08-03T00:23:21+00:00"
+  },
+  "https://lwn.net/Articles/1086727": {
+    "title": "Kernel prepatch 7.2-rc6",
+    "source": "LWN.net",
+    "first_seen": "2026-08-03T12:09:27.829679+00:00",
+    "published": "2026-08-03T00:11:08+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.2-rc6-Released": {
+    "title": "Linux 7.2-rc6 Released: \"This RC Is Huge\"",
+    "source": "Phoronix",
+    "first_seen": "2026-08-03T12:09:27.829679+00:00",
+    "published": "2026-08-02T23:38:50+00:00"
+  },
+  "https://simonwillison.net/2026/Aug/2/condense-json": {
+    "title": "condense-json 1.0",
+    "source": "Simon Willison",
+    "first_seen": "2026-08-03T12:09:27.829679+00:00",
+    "published": "2026-08-02T22:19:59+00:00"
+  },
+  "https://engineering.grab.com/how-ai-is-transforming-analytics": {
+    "title": "How AI is transforming analytics at Grab",
+    "source": "Grab Tech",
+    "first_seen": "2026-08-03T12:09:27.829679+00:00",
+    "published": "2026-08-01T00:23:00+00:00"
   }
 }
