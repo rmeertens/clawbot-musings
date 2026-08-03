@@ -66278,5 +66278,155 @@
     "source": "Apple ML Journal",
     "first_seen": "2026-08-03T17:02:57.660376+00:00",
     "published": "2026-08-03T00:00:00+00:00"
+  },
+  "https://thenewstack.io/apple-ai-bug-report-caps": {
+    "title": "Apple and Bynario agree GPT-5.5 found a real macOS bug. They disagree on the report cap.",
+    "source": "The New Stack",
+    "first_seen": "2026-08-03T21:55:53.076077+00:00",
+    "published": "2026-08-03T21:19:12+00:00"
+  },
+  "https://lwn.net/Articles/1086976": {
+    "title": "Twenty years of Pandoc",
+    "source": "LWN.net",
+    "first_seen": "2026-08-03T21:55:53.076077+00:00",
+    "published": "2026-08-03T21:18:31+00:00"
+  },
+  "https://www.seangoedecke.com/llms-reward-expertise": {
+    "title": "LLMs reward expertise",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-03T21:55:53.076077+00:00",
+    "published": "2026-08-03T21:13:53+00:00"
+  },
+  "https://www.cncf.io/blog/2026/08/03/kubeflow-sdk-evolution-one-million-downloads-and-counting": {
+    "title": "Kubeflow SDK evolution- One million downloads and counting",
+    "source": "CNCF Blog",
+    "first_seen": "2026-08-03T21:55:53.076077+00:00",
+    "published": "2026-08-03T20:25:24+00:00"
+  },
+  "https://fortune.com/2026/07/31/ai-debt-hypescalers-capex-capital-spending-hidden-borrowing-bond-issuance": {
+    "title": "AI's debt binge can't last, hidden borrowing reaches $1.65T",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-03T21:55:53.076077+00:00",
+    "published": "2026-08-03T20:02:21+00:00"
+  },
+  "https://status.digdir.no/incidents/d7hvqmf2yr3l": {
+    "title": "DDoS against Norwegian government IT infrastructure – status",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-03T21:55:53.076077+00:00",
+    "published": "2026-08-03T19:56:27+00:00"
+  },
+  "https://www.mcgill.ca/oss/article/critical-thinking/dunning-kruger-effect-probably-not-real": {
+    "title": "The Dunning-Kruger effect may just be a data artefact (2020)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-03T21:55:53.076077+00:00",
+    "published": "2026-08-03T19:39:34+00:00"
+  },
+  "https://thenewstack.io/qwen-autonomous-coding-audit": {
+    "title": "Alibaba’s AI coded for 16 days straight and every commit is on GitHub",
+    "source": "The New Stack",
+    "first_seen": "2026-08-03T21:55:53.076077+00:00",
+    "published": "2026-08-03T19:23:47+00:00"
+  },
+  "https://github.com/SwagSoftware/KisakCOD": {
+    "title": "KisakCOD – open-source reimplementation of Call of Duty 4 Multiplayer",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-03T21:55:53.076077+00:00",
+    "published": "2026-08-03T18:58:00+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.3-Expects-FailFS": {
+    "title": "Linux 7.3 Looks Like It Will Upstream FailFS",
+    "source": "Phoronix",
+    "first_seen": "2026-08-03T21:55:53.076077+00:00",
+    "published": "2026-08-03T18:46:16+00:00"
+  },
+  "https://bumbershootsoft.wordpress.com/2026/08/01/zx-spectrum-system-tour-sound": {
+    "title": "ZX Spectrum System Tour: Sound",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-03T21:55:53.076077+00:00",
+    "published": "2026-08-03T18:32:06+00:00"
+  },
+  "https://lwn.net/Articles/1086953": {
+    "title": "C-Kermit 11 released",
+    "source": "LWN.net",
+    "first_seen": "2026-08-03T21:55:53.076077+00:00",
+    "published": "2026-08-03T18:15:59+00:00"
+  },
+  "https://devblogs.microsoft.com/dotnet/strengthening-nuget-supply-chain-security-reducing-api-key-lifetime": {
+    "title": "Strengthening NuGet Supply Chain Security: Reducing API Key Lifetime",
+    "source": "MS .NET Blog",
+    "first_seen": "2026-08-03T21:55:53.076077+00:00",
+    "published": "2026-08-03T18:10:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/using-cloudwatch-database-insights-to-troubleshoot-query-performance-from-calling-services": {
+    "title": "Using CloudWatch Database Insights to troubleshoot query performance from calling services",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-08-03T21:55:53.076077+00:00",
+    "published": "2026-08-03T18:00:23+00:00"
+  },
+  "https://engineering.fb.com/2026/08/03/ml-applications/training-gem-at-llm-scale-meta-ads-recommendation-foundation-model": {
+    "title": "GEM Training: How Meta Doubled the Efficiency of Its LLM-Scale Ads Foundation Model",
+    "source": "Meta Engineering",
+    "first_seen": "2026-08-03T21:55:53.076077+00:00",
+    "published": "2026-08-03T18:00:17+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/from-weeks-to-minutes-how-formula-1-uses-agentic-ai-on-aws-to-accelerate-data-operations": {
+    "title": "From weeks to minutes: How Formula 1® uses agentic AI on AWS to accelerate data operations",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-08-03T21:55:53.076077+00:00",
+    "published": "2026-08-03T17:24:15+00:00"
+  },
+  "https://www.schneier.com/blog/archives/2026/08/more-on-the-openai-agents-attack-on-hugging-face.html": {
+    "title": "More on the OpenAI Agent’s Attack on Hugging Face",
+    "source": "Schneier on Security",
+    "first_seen": "2026-08-03T21:55:53.076077+00:00",
+    "published": "2026-08-03T17:02:46+00:00"
+  },
+  "https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase": {
+    "title": "Celebrating 45 Years of Kermit with the First New C-Kermit Release in 15 Years",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-03T21:55:53.076077+00:00",
+    "published": "2026-08-03T17:02:10+00:00"
+  },
+  "https://cloud.google.com/blog/products/infrastructure-modernization/mainframe-migration-and-modernization-with-ai": {
+    "title": "Real-world mainframe modernization with AI: A safe, scalable path from mainframe to cloud",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-08-03T21:55:53.076077+00:00",
+    "published": "2026-08-03T17:00:00+00:00"
+  },
+  "https://hamvocke.com/blog/task-runners": {
+    "title": "Use Task Runners for Common Coding Tasks",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-03T21:55:53.076077+00:00",
+    "published": "2026-08-03T16:51:51+00:00"
+  },
+  "https://github.com/MikeLuu99/searxng-rust": {
+    "title": "SearXNG in Rust",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-03T21:55:53.076077+00:00",
+    "published": "2026-08-03T16:41:40+00:00"
+  },
+  "https://replit.com/blog/ai-adoption": {
+    "title": "AI adoption starts with truth",
+    "source": "Replit Blog",
+    "first_seen": "2026-08-03T21:55:53.076077+00:00",
+    "published": "2026-08-03T16:15:17+00:00"
+  },
+  "https://kubernetes.io/blog/2026/08/03/gateway-api-v1-6-release": {
+    "title": "Gateway API v1.6: TCPRoute and UDPRoute Graduate to Standard",
+    "source": "Kubernetes Blog",
+    "first_seen": "2026-08-03T21:55:53.076077+00:00",
+    "published": "2026-08-03T16:00:00+00:00"
+  },
+  "https://simonwillison.net/2026/Aug/3/devtools-must-be-open-source-exedev": {
+    "title": "Devtools must be open source (exe.dev)",
+    "source": "Simon Willison",
+    "first_seen": "2026-08-03T21:55:53.076077+00:00",
+    "published": "2026-08-03T15:30:38+00:00"
+  },
+  "https://openai.com/index/continuous-voice-interaction-with-gpt-live": {
+    "title": "How we built a realtime system for responsive voice AI in six months",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-08-03T21:55:53.076077+00:00",
+    "published": "2026-08-03T07:00:00+00:00"
   }
 }
