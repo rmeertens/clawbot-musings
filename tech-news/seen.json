@@ -66608,5 +66608,365 @@
     "source": "OpenAI Blog",
     "first_seen": "2026-08-04T11:12:45.043962+00:00",
     "published": "2026-08-03T00:00:00+00:00"
+  },
+  "https://lwn.net/Articles/1086488": {
+    "title": "[$] Fedora considers conflict-of-interest policy",
+    "source": "LWN.net",
+    "first_seen": "2026-08-04T16:44:35.321599+00:00",
+    "published": "2026-08-04T16:43:25+00:00"
+  },
+  "https://github.com/Chiaro-HQ/methodology": {
+    "title": "Show HN: Ex-Deloitte auditor open-sourced the whole SOC 2 method for your AI",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-04T16:44:35.321599+00:00",
+    "published": "2026-08-04T16:27:03+00:00"
+  },
+  "https://arxiv.org/abs/2602.16763": {
+    "title": "When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-04T16:44:35.321599+00:00",
+    "published": "2026-08-04T16:10:39+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/advanced-data-modeling-using-user-defined-types-and-protocol-buffers-for-amazon-keyspaces": {
+    "title": "Advanced data modeling: Using user-defined types and Protocol Buffers for Amazon Keyspaces",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-08-04T16:44:35.321599+00:00",
+    "published": "2026-08-04T16:06:35+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/automated-web-insight-extraction-with-amazon-bedrock-agentcore": {
+    "title": "Automated web insight extraction with Amazon Bedrock AgentCore",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-08-04T16:44:35.321599+00:00",
+    "published": "2026-08-04T16:02:21+00:00"
+  },
+  "https://thenewstack.io/ai-software-delivery-architecture": {
+    "title": "Claude, Gemini, and GPT-5 can handle every SDLC task. Almost none of them should.",
+    "source": "The New Stack",
+    "first_seen": "2026-08-04T16:44:35.321599+00:00",
+    "published": "2026-08-04T16:00:00+00:00"
+  },
+  "https://developer.nvidia.com/blog/beyond-vlas-how-world-action-models-reshape-robot-manipulation": {
+    "title": "Beyond VLAs: How World Action Models Reshape Robot Manipulation",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-08-04T16:44:35.321599+00:00",
+    "published": "2026-08-04T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/topics/retail/how-target-rebuilt-retail-discovery-with-spanner-graph": {
+    "title": "How Target is enhancing retail discovery and cutting database maintenance by 50% with Spanner Graph",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-08-04T16:44:35.321599+00:00",
+    "published": "2026-08-04T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/topics/financial-services/unlocking-agility-in-banking-with-an-api-ready-ecosystem-at-deutsche-bank": {
+    "title": "How Deutsche Bank unlocked agility with an API-ready ecosystem",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-08-04T16:44:35.321599+00:00",
+    "published": "2026-08-04T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/databases/deep-dive-on-new-ai-powered-database-agents": {
+    "title": "Introducing Database Operations Agents: The future of autonomous database management",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-08-04T16:44:35.321599+00:00",
+    "published": "2026-08-04T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/databases/automating-postgres-translations-with-database-migration-service": {
+    "title": "Multiple result sets: How Database Migration Service automates SQL server to PostgreSQL translation",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-08-04T16:44:35.321599+00:00",
+    "published": "2026-08-04T16:00:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/containers/extending-amazon-ecs-express-mode-to-build-an-optimal-container-environment": {
+    "title": "Extending Amazon ECS Express Mode to Build an Optimal Container Environment",
+    "source": "AWS Containers Blog",
+    "first_seen": "2026-08-04T16:44:35.321599+00:00",
+    "published": "2026-08-04T15:57:59+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/transforming-search-at-delivery-hero-a-migration-journey-to-opensearch-service-with-radial-search": {
+    "title": "Transforming search at Delivery Hero: A migration journey to OpenSearch Service with radial search",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-08-04T16:44:35.321599+00:00",
+    "published": "2026-08-04T15:55:01+00:00"
+  },
+  "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai": {
+    "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-04T16:44:35.321599+00:00",
+    "published": "2026-08-04T15:37:42+00:00"
+  },
+  "https://blog.bytebytego.com/p/why-an-llms-memory-gets-expensive": {
+    "title": "Why An LLM’s Memory Gets Expensive and How to Fix It",
+    "source": "ByteByteGo",
+    "first_seen": "2026-08-04T16:44:35.321599+00:00",
+    "published": "2026-08-04T15:31:00+00:00"
+  },
+  "https://toneyalexander.github.io/inclusive-color-space": {
+    "title": "Show HN: Simple algorithm and color space to generate diverse skin tones",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-04T16:44:35.321599+00:00",
+    "published": "2026-08-04T15:16:22+00:00"
+  },
+  "https://www.docker.com/blog/software-supply-chain-security-omdia-2026-report": {
+    "title": "The Software Supply Chain Is Under Siege. Devs Are Still the First Line of Defense",
+    "source": "Docker Blog",
+    "first_seen": "2026-08-04T16:44:35.321599+00:00",
+    "published": "2026-08-04T15:10:16+00:00"
+  },
+  "https://this.weekinsecurity.com/online-advertising-giant-adform-was-hacked-proving-once-again-why-ad-blockers-are-necessary": {
+    "title": "Online ad giant Adform was hacked, proving once again why ad blockers are needed",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-04T16:44:35.321599+00:00",
+    "published": "2026-08-04T15:05:33+00:00"
+  },
+  "https://developer.nvidia.com/blog/generate-trajectories-reasoning-traces-and-auto-labels-with-nvidia-alpamayo-2-super": {
+    "title": "Generate Trajectories, Reasoning Traces, and Auto-Labels with NVIDIA Alpamayo 2 Super",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-08-04T16:44:35.321599+00:00",
+    "published": "2026-08-04T15:00:00+00:00"
+  },
+  "https://lwn.net/Articles/1087108": {
+    "title": "Another npm worm",
+    "source": "LWN.net",
+    "first_seen": "2026-08-04T16:44:35.321599+00:00",
+    "published": "2026-08-04T14:54:05+00:00"
+  },
+  "https://thenewstack.io/alibaba-qwen3-8-max-reactions": {
+    "title": "Alibaba Qwen3.8-Max reactions: “An API business model wearing an open source jacket”",
+    "source": "The New Stack",
+    "first_seen": "2026-08-04T16:44:35.321599+00:00",
+    "published": "2026-08-04T14:47:35+00:00"
+  },
+  "https://github.com/tikalk/adlc-team-skills": {
+    "title": "Agent skills that bring team coding standards to Claude Code and Codex",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-04T16:44:35.321599+00:00",
+    "published": "2026-08-04T14:38:31+00:00"
+  },
+  "https://www.databricks.com/blog/granular-usage-attribution-dbt-pipelines-query-tags-cloned": {
+    "title": "Granular Usage Attribution for dbt Pipelines with Query Tags - Cloned",
+    "source": "Databricks Blog",
+    "first_seen": "2026-08-04T16:44:35.321599+00:00",
+    "published": "2026-08-04T14:25:43+00:00"
+  },
+  "https://www.phoronix.com/news/AMD-openSIL-Phoenix-AM5-PR": {
+    "title": "AMD openSIL & Coreboot Pull Requests For Phoenix AM5 Support",
+    "source": "Phoronix",
+    "first_seen": "2026-08-04T16:44:35.321599+00:00",
+    "published": "2026-08-04T14:07:29+00:00"
+  },
+  "https://thenewstack.io/nvidia-nooa-agent-framework": {
+    "title": "Nvidia’s NOOA makes an agent one Python class",
+    "source": "The New Stack",
+    "first_seen": "2026-08-04T16:44:35.321599+00:00",
+    "published": "2026-08-04T14:02:35+00:00"
+  },
+  "https://www.databricks.com/blog/databricks-joins-open-secure-ai-alliance-advance-ai-safety-and-security": {
+    "title": "Databricks joins the Open Secure AI Alliance to advance AI safety and security",
+    "source": "Databricks Blog",
+    "first_seen": "2026-08-04T16:44:35.321599+00:00",
+    "published": "2026-08-04T14:00:00+00:00"
+  },
+  "https://realpython.com/courses/sending-emails-using-python": {
+    "title": "Sending Emails Using Python",
+    "source": "Real Python",
+    "first_seen": "2026-08-04T16:44:35.321599+00:00",
+    "published": "2026-08-04T14:00:00+00:00"
+  },
+  "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b": {
+    "title": "Deploy local agents everywhere with LFM2.5-2.6B",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-08-04T16:44:35.321599+00:00",
+    "published": "2026-08-04T13:58:29+00:00"
+  },
+  "https://www.phoronix.com/news/NVIDIA-Premier-Sponsor-LVFS": {
+    "title": "NVIDIA Becomes A Premier Sponsor Of LVFS / Fwupd",
+    "source": "Phoronix",
+    "first_seen": "2026-08-04T16:44:35.321599+00:00",
+    "published": "2026-08-04T13:43:44+00:00"
+  },
+  "https://solarquarter.com/2026/08/03/germany-records-historic-12-billion-kwh-solar-feed-in-in-july-2026": {
+    "title": "Germany Records Historic 12B KWh Solar Feed-In in July 2026",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-04T16:44:35.321599+00:00",
+    "published": "2026-08-04T13:43:00+00:00"
+  },
+  "https://lwn.net/Articles/1086330": {
+    "title": "[$] The beginning of a process-builder API",
+    "source": "LWN.net",
+    "first_seen": "2026-08-04T16:44:35.321599+00:00",
+    "published": "2026-08-04T13:27:51+00:00"
+  },
+  "https://lwn.net/Articles/1087068": {
+    "title": "Security updates for Tuesday",
+    "source": "LWN.net",
+    "first_seen": "2026-08-04T16:44:35.321599+00:00",
+    "published": "2026-08-04T13:07:52+00:00"
+  },
+  "https://thenewstack.io/yugabytedb-agentic-postgres-scaling": {
+    "title": "AI agents can create database sprawl issues. YugabyteDB’s solution is more agents!",
+    "source": "The New Stack",
+    "first_seen": "2026-08-04T16:44:35.321599+00:00",
+    "published": "2026-08-04T13:00:00+00:00"
+  },
+  "https://thenewstack.io/cloudflare-astro-triage-bot": {
+    "title": "Astro’s GitHub issue backlog is heading to zero for the first time in 5 years. Now Cloudflare is open-sourcing the tool that did it.",
+    "source": "The New Stack",
+    "first_seen": "2026-08-04T16:44:35.321599+00:00",
+    "published": "2026-08-04T13:00:00+00:00"
+  },
+  "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026": {
+    "title": "The latest AI news we announced in July 2026",
+    "source": "Google AI Blog",
+    "first_seen": "2026-08-04T16:44:35.321599+00:00",
+    "published": "2026-08-04T13:00:00+00:00"
+  },
+  "https://blog.cloudflare.com/wallets": {
+    "title": "Announcing Cloudflare Wallets: the programmable wallet for the agentic Internet",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-08-04T16:44:35.321599+00:00",
+    "published": "2026-08-04T13:00:00+00:00"
+  },
+  "https://blog.cloudflare.com/local-tracing": {
+    "title": "Your agent can now debug Workers with local tracing",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-08-04T16:44:35.321599+00:00",
+    "published": "2026-08-04T13:00:00+00:00"
+  },
+  "https://blog.cloudflare.com/engineering-standards-enforcement": {
+    "title": "How Cloudflare enforces engineering standards using AI",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-08-04T16:44:35.321599+00:00",
+    "published": "2026-08-04T13:00:00+00:00"
+  },
+  "https://blog.cloudflare.com/ci-workflows": {
+    "title": "Run CI/CD for millions of repos — on your platform, on Cloudflare",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-08-04T16:44:35.321599+00:00",
+    "published": "2026-08-04T13:00:00+00:00"
+  },
+  "https://blog.cloudflare.com/astro-issue-triage": {
+    "title": "How we built a software factory to drive Astro’s GitHub issue count to zero",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-08-04T16:44:35.321599+00:00",
+    "published": "2026-08-04T13:00:00+00:00"
+  },
+  "https://blog.cloudflare.com/agents-on-cloudflare": {
+    "title": "Introducing: Cloudflare Agents",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-08-04T16:44:35.321599+00:00",
+    "published": "2026-08-04T13:00:00+00:00"
+  },
+  "https://blog.cloudflare.com/agent-development-lifecycle": {
+    "title": "The Agent Development Lifecycle has arrived on Cloudflare",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-08-04T16:44:35.321599+00:00",
+    "published": "2026-08-04T13:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-Foundation-Tokenomics": {
+    "title": "Linux Foundation Announces Tokenomics Foundation For \"Economics & ROI Of AI Value\"",
+    "source": "Phoronix",
+    "first_seen": "2026-08-04T16:44:35.321599+00:00",
+    "published": "2026-08-04T12:14:14+00:00"
+  },
+  "https://martinfowler.com/fragments/2026-08-04.html": {
+    "title": "Fragments: August  4",
+    "source": "Martin Fowler",
+    "first_seen": "2026-08-04T16:44:35.321599+00:00",
+    "published": "2026-08-04T12:08:00+00:00"
+  },
+  "https://birchtree.me/blog/xbox-goes-down-you-cant-play-games-you-own-on-disc": {
+    "title": "Xbox goes down. You can't play games you own on disc",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-04T16:44:35.321599+00:00",
+    "published": "2026-08-04T12:01:02+00:00"
+  },
+  "https://www.ycombinator.com/companies/roame/jobs/mqqfa38-lead-full-stack-engineer": {
+    "title": "Roame (YC S23) Is Hiring Lead Engineer",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-04T16:44:35.321599+00:00",
+    "published": "2026-08-04T12:00:51+00:00"
+  },
+  "https://realpython.com/quizzes/sending-emails-using-python": {
+    "title": "Quiz: Sending Emails Using Python",
+    "source": "Real Python",
+    "first_seen": "2026-08-04T16:44:35.321599+00:00",
+    "published": "2026-08-04T12:00:00+00:00"
+  },
+  "https://realpython.com/quizzes/k-means-clustering-python": {
+    "title": "Quiz: K-Means Clustering in Python: A Practical Guide",
+    "source": "Real Python",
+    "first_seen": "2026-08-04T16:44:35.321599+00:00",
+    "published": "2026-08-04T12:00:00+00:00"
+  },
+  "https://www.bfi.org/about-fuller/everything-i-know": {
+    "title": "Buckminster Fuller: everything I know",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-04T16:44:35.321599+00:00",
+    "published": "2026-08-04T11:33:32+00:00"
+  },
+  "https://nelson.cloud/ai-generated-images-discourage-me-from-reading-your-blog": {
+    "title": "AI-Generated Images Discourage Me from Reading Your Blog",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-04T16:44:35.321599+00:00",
+    "published": "2026-08-04T11:30:17+00:00"
+  },
+  "https://github.com/MakazhanAlpamys/Soup": {
+    "title": "Show HN: Fine-tune an 8B model on a 4 GB laptop GPU",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-04T16:44:35.321599+00:00",
+    "published": "2026-08-04T11:17:57+00:00"
+  },
+  "https://www.aikido.dev/blog/keyv-and-friends-compromised-in-npm-supply-chain-attack": {
+    "title": "Keyv and friends compromised in active Shai-Hulud supply chain attack",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-04T16:44:35.321599+00:00",
+    "published": "2026-08-04T11:01:37+00:00"
+  },
+  "https://cloud.google.com/blog/products/chrome-enterprise/future-mode-part-2-the-foundation-for-securing-agentic-browsing": {
+    "title": "Future Mode Part 2: The foundation for securing agentic browsing",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-08-04T16:44:35.321599+00:00",
+    "published": "2026-08-04T10:50:00+00:00"
+  },
+  "https://short-stories.co/@raybradbury/there-will-come-soft-rains-6k8vr4xxlnmj": {
+    "title": "Ray Bradbury's \"There Will Come Soft Rains\" is set today (2026-08-04)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-04T16:44:35.321599+00:00",
+    "published": "2026-08-04T10:13:13+00:00"
+  },
+  "https://arxiv.org/abs/2608.02412": {
+    "title": "Why Large Language Models Fail at Tabular Prediction",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-04T16:44:35.321599+00:00",
+    "published": "2026-08-04T10:07:06+00:00"
+  },
+  "https://www.computerenhance.com/p/clean-code-horrible-performance": {
+    "title": "\"Clean\" Code, Horrible Performance (2023)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-04T16:44:35.321599+00:00",
+    "published": "2026-08-04T09:52:35+00:00"
+  },
+  "https://github.com/david-g-3654/homebench": {
+    "title": "Homebench – Benchmark local LLMs for speed, memory, and quality",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-04T16:44:35.321599+00:00",
+    "published": "2026-08-04T09:48:43+00:00"
+  },
+  "https://www.elastic.co/blog/whats-new-elastic-9-5-0": {
+    "title": "Elastic 9.5: Columnar, VectorDB index mode & auto-calibration, and AI-driven alert triage",
+    "source": "Elastic Blog",
+    "first_seen": "2026-08-04T16:44:35.321599+00:00",
+    "published": "2026-08-04T00:00:00+00:00"
+  },
+  "https://blog.rust-lang.org/2026/08/04/enabling-polonius-alpha-on-nighty": {
+    "title": "Enabling the next iteration of the borrow checker on nightly",
+    "source": "Rust Blog",
+    "first_seen": "2026-08-04T16:44:35.321599+00:00",
+    "published": "2026-08-04T00:00:00+00:00"
+  },
+  "https://blog.python.org/2026/08/python-3150-rc1": {
+    "title": "Python 3.15.0 candidate 1 is here!",
+    "source": "Python Insider",
+    "first_seen": "2026-08-04T16:44:35.321599+00:00",
+    "published": "2026-08-04T00:00:00+00:00"
   }
 }
