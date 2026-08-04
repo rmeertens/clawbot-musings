@@ -66968,5 +66968,191 @@
     "source": "Python Insider",
     "first_seen": "2026-08-04T16:44:35.321599+00:00",
     "published": "2026-08-04T00:00:00+00:00"
+  },
+  "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models": {
+    "title": "Third-party cyber evaluations involving OpenAI models",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-04T22:03:07.138684+00:00",
+    "published": "2026-08-04T21:14:19+00:00"
+  },
+  "https://www.troyhunt.com/thanks-fedex-this-is-why-we-keep-getting-phished": {
+    "title": "Thanks FedEx, This Is Why We Keep Getting Phished (2024)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-04T22:03:07.138684+00:00",
+    "published": "2026-08-04T21:09:39+00:00"
+  },
+  "https://devblogs.microsoft.com/dotnet/foundry-local-live-speech-to-text-csharp": {
+    "title": "Beyond Chat: live Speech-to-Text with Foundry Local and C#",
+    "source": "MS .NET Blog",
+    "first_seen": "2026-08-04T22:03:07.138684+00:00",
+    "published": "2026-08-04T21:00:00+00:00"
+  },
+  "https://www.sec.gov/Archives/edgar/data/1795071/000179507126000002/xslFormDX01/primary_doc.xml": {
+    "title": "Oxide Computer raises $445M (SEC Form D)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-04T22:03:07.138684+00:00",
+    "published": "2026-08-04T20:13:40+00:00"
+  },
+  "https://simonwillison.net/2026/Aug/4/minimax-h3-mlx": {
+    "title": "PipeNetwork/minimax-h3-mlx",
+    "source": "Simon Willison",
+    "first_seen": "2026-08-04T22:03:07.138684+00:00",
+    "published": "2026-08-04T19:10:09+00:00"
+  },
+  "https://github.blog/ai-and-ml/github-copilot/how-the-github-legal-team-used-copilot-cli-to-streamline-their-workflows": {
+    "title": "How the GitHub legal team used Copilot CLI to streamline their workflows",
+    "source": "GitHub Blog",
+    "first_seen": "2026-08-04T22:03:07.138684+00:00",
+    "published": "2026-08-04T19:02:34+00:00"
+  },
+  "https://www.schneier.com/blog/archives/2026/08/iran-cyberattacks-against-minnesota-water-systems.html": {
+    "title": "Iran Cyberattacks Against Minnesota Water Systems",
+    "source": "Schneier on Security",
+    "first_seen": "2026-08-04T22:03:07.138684+00:00",
+    "published": "2026-08-04T19:00:53+00:00"
+  },
+  "https://writings.stephenwolfram.com/2026/08/in-memory-of-my-wife-elise-cawley-1961-2026-with-thanks-for-36-wonderful-years": {
+    "title": "In Memory of My Wife, Elise Cawley, with Thanks for 36 Wonderful Years",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-04T22:03:07.138684+00:00",
+    "published": "2026-08-04T18:51:38+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/introducing-web-search-on-amazon-bedrock-for-foundation-model-grounding": {
+    "title": "Introducing Web Search on Amazon Bedrock for foundation model grounding",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-08-04T22:03:07.138684+00:00",
+    "published": "2026-08-04T18:39:14+00:00"
+  },
+  "https://edotenv.com": {
+    "title": "Launch HN: EdotEnv (YC S26) – Quant Trading RL Envs to Teach LLMs Research",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-04T22:03:07.138684+00:00",
+    "published": "2026-08-04T18:36:02+00:00"
+  },
+  "https://thenewstack.io/openai-codex-cloud-evolution": {
+    "title": "Today’s Codex will feel “primitive” by fall — and its own team’s roadmap backs it up",
+    "source": "The New Stack",
+    "first_seen": "2026-08-04T22:03:07.138684+00:00",
+    "published": "2026-08-04T18:30:37+00:00"
+  },
+  "https://waymo.com/blog/shorts/dallas-open-to-all": {
+    "title": "Waymo – Dallas Open to All",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-04T22:03:07.138684+00:00",
+    "published": "2026-08-04T18:29:41+00:00"
+  },
+  "https://textslashplain.com/2026/08/04/security-is-hard-yall": {
+    "title": "Web Security is Too Hard",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-04T22:03:07.138684+00:00",
+    "published": "2026-08-04T18:29:32+00:00"
+  },
+  "https://gwern.net/blackmail": {
+    "title": "Blackmail Fail (2013)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-04T22:03:07.138684+00:00",
+    "published": "2026-08-04T18:11:09+00:00"
+  },
+  "https://pudding.cool/2026/06/mow": {
+    "title": "Why some people mow a lawn better than others",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-04T22:03:07.138684+00:00",
+    "published": "2026-08-04T18:06:12+00:00"
+  },
+  "https://thenewstack.io/openai-astra-math-cost": {
+    "title": "OpenAI’s Astra just proved 10 long-standing math and science theorems. The tokens cost $2,000.",
+    "source": "The New Stack",
+    "first_seen": "2026-08-04T22:03:07.138684+00:00",
+    "published": "2026-08-04T17:57:06+00:00"
+  },
+  "https://hop.earth?server=lkhr7&route=fQ5nuu9R": {
+    "title": "Hop.earth – OpenStreetMap based car racing game",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-04T22:03:07.138684+00:00",
+    "published": "2026-08-04T17:55:19+00:00"
+  },
+  "https://www.vlt.io/blog/1-0": {
+    "title": "Vlt 1.0 and Hosted Package Registries",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-04T22:03:07.138684+00:00",
+    "published": "2026-08-04T17:43:55+00:00"
+  },
+  "https://aws.amazon.com/blogs/security/spring-2026-pci-dss-and-pci-3ds-compliance-packages-for-aws-now-available": {
+    "title": "Spring 2026 PCI DSS and PCI 3DS compliance packages for AWS now available",
+    "source": "AWS Security Blog",
+    "first_seen": "2026-08-04T22:03:07.138684+00:00",
+    "published": "2026-08-04T17:22:28+00:00"
+  },
+  "https://www.warp.dev/blog/introducing-the-warp-agent-cli-coding-agent": {
+    "title": "The Warp Agent CLI",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-04T22:03:07.138684+00:00",
+    "published": "2026-08-04T17:08:41+00:00"
+  },
+  "https://www.ycombinator.com/companies/truemetrics/jobs/bIQQ7tP-founding-gtm-lead": {
+    "title": "Truemetrics (YC S23) Is Hiring in Berlin – GTM Lead",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-04T22:03:07.138684+00:00",
+    "published": "2026-08-04T17:00:12+00:00"
+  },
+  "https://github.blog/engineering/turn-one-giant-ai-generated-pull-request-to-a-reviewable-stack": {
+    "title": "Turn one giant AI-generated pull request to a reviewable stack",
+    "source": "GitHub Blog",
+    "first_seen": "2026-08-04T22:03:07.138684+00:00",
+    "published": "2026-08-04T16:47:18+00:00"
+  },
+  "https://mistral.ai/news/shieldstral": {
+    "title": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-04T22:03:07.138684+00:00",
+    "published": "2026-08-04T16:36:05+00:00"
+  },
+  "https://github.com/MariaDB/server/pull/4262": {
+    "title": "MariaDB: Promote getting to 10k GitHub stars in server log and client prompt",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-04T22:03:07.138684+00:00",
+    "published": "2026-08-04T16:21:02+00:00"
+  },
+  "https://www.databricks.com/blog/unity-ai-gateway-generally-available": {
+    "title": "Unity AI Gateway is Generally Available",
+    "source": "Databricks Blog",
+    "first_seen": "2026-08-04T22:03:07.138684+00:00",
+    "published": "2026-08-04T16:10:09+00:00"
+  },
+  "https://adriansieber.com/announcing-perspec-1-0": {
+    "title": "Perspec 1.0",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-04T22:03:07.138684+00:00",
+    "published": "2026-08-04T15:40:06+00:00"
+  },
+  "https://www.thisandthat.chat/blog/most-tech-revolutions-made-work-worse-for-employees": {
+    "title": "Most tech revolutions made work worse for employees",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-04T22:03:07.138684+00:00",
+    "published": "2026-08-04T15:10:37+00:00"
+  },
+  "https://www.elastic.co/blog/ai-consolidation": {
+    "title": "AI consolidation: Why platforms will win and portfolios will break",
+    "source": "Elastic Blog",
+    "first_seen": "2026-08-04T22:03:07.138684+00:00",
+    "published": "2026-08-04T00:00:00+00:00"
+  },
+  "https://openai.com/index/learn-teach-chatgpt-work-codex": {
+    "title": "New ways to learn and teach with ChatGPT Work and Codex",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-08-04T22:03:07.138684+00:00",
+    "published": "2026-08-04T00:00:00+00:00"
+  },
+  "https://discord.com/blog/improving-mobile-with-squircles-styles-and-spacing": {
+    "title": "Squircles, Styles, and Spacing: How Your Feedback is Helping Improve Mobile",
+    "source": "Discord Engineering",
+    "first_seen": "2026-08-04T22:03:07.138684+00:00",
+    "published": "2026-08-04T00:00:00+00:00"
+  },
+  "https://blog.rust-lang.org/2026/08/04/enabling-polonius-alpha-on-nightly": {
+    "title": "Enabling the next iteration of the borrow checker on nightly",
+    "source": "Rust Blog",
+    "first_seen": "2026-08-04T22:03:07.138684+00:00",
+    "published": "2026-08-04T00:00:00+00:00"
   }
 }
