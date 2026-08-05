@@ -67322,5 +67322,257 @@
     "source": "Simon Willison",
     "first_seen": "2026-08-05T11:10:16.324526+00:00",
     "published": "2026-08-04T17:15:33+00:00"
+  },
+  "https://www.phoronix.com/news/Denial-WM-Compositor": {
+    "title": "Denial WM: New Wayland Compositor With Flutter Directly Embedded",
+    "source": "Phoronix",
+    "first_seen": "2026-08-05T16:24:49.950980+00:00",
+    "published": "2026-08-05T16:10:08+00:00"
+  },
+  "https://www.axios.com/2026/08/05/google-deepmind-demis-hassabis-ai": {
+    "title": "Google DeepMind CEO Demis Hassabis is stepping down",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-05T16:24:49.950980+00:00",
+    "published": "2026-08-05T16:05:37+00:00"
+  },
+  "https://www.hashicorp.com/blog/hcp-terraform-is-the-control-plane-for-ai-driven-infrastructure": {
+    "title": "HCP Terraform is the control plane for AI-driven infrastructure",
+    "source": "HashiCorp Blog",
+    "first_seen": "2026-08-05T16:24:49.950980+00:00",
+    "published": "2026-08-05T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/topics/customers/how-uipath-built-its-high-performance-gpu-platform": {
+    "title": "Scaling agentic AI: How UiPath built its high-performance GPU platform on AI Hypercomputer",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-08-05T16:24:49.950980+00:00",
+    "published": "2026-08-05T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/data-analytics/solving-the-noisy-neighbor-with-sharded-architecture": {
+    "title": "Solving the \"Noisy Neighbor\": How Sharded Architecture Protects Multi-Tenant Platforms",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-08-05T16:24:49.950980+00:00",
+    "published": "2026-08-05T16:00:00+00:00"
+  },
+  "https://lwn.net/Articles/1086336": {
+    "title": "[$] FUSE status and plans",
+    "source": "LWN.net",
+    "first_seen": "2026-08-05T16:24:49.950980+00:00",
+    "published": "2026-08-05T15:59:08+00:00"
+  },
+  "https://blog.bytebytego.com/p/how-big-models-teach-small-models": {
+    "title": "How Big Models Teach Small Models to Be Smart",
+    "source": "ByteByteGo",
+    "first_seen": "2026-08-05T16:24:49.950980+00:00",
+    "published": "2026-08-05T15:30:28+00:00"
+  },
+  "https://www.cnbc.com/2026/08/05/feds-kashkari-says-now-is-the-time-to-start-slowly-moving-rates-up.html": {
+    "title": "Fed's Kashkari says 'now is the time to start slowly moving' rates up",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-05T16:24:49.950980+00:00",
+    "published": "2026-08-05T15:24:38+00:00"
+  },
+  "https://weli.dev/blog/the-valley-of-webhooks": {
+    "title": "The Valley of Webhooks",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-05T16:24:49.950980+00:00",
+    "published": "2026-08-05T15:22:06+00:00"
+  },
+  "https://www.404media.co/cops-used-flock-to-track-a-man-across-state-lines-to-create-pretext-to-search-his-car-for-weed": {
+    "title": "Cops Used Flock to Track a Man Across State Lines for a Pretextual Weed Search",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-05T16:24:49.950980+00:00",
+    "published": "2026-08-05T15:20:11+00:00"
+  },
+  "https://knock-knock.net/blog/citigroup-idaho-build-a-bear": {
+    "title": "International Revenue Share Fraud (IRSF)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-05T16:24:49.950980+00:00",
+    "published": "2026-08-05T15:01:26+00:00"
+  },
+  "https://www.qwencloud.com/models/qwen-image-3.0-pro": {
+    "title": "Qwen 3.0 Image Pro",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-05T16:24:49.950980+00:00",
+    "published": "2026-08-05T14:53:29+00:00"
+  },
+  "https://www.cnelecar.com/blog/oracle-always-free-arm-limits-cut-2026": {
+    "title": "Oracle Just Halved Its Always Free ARM Limits",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-05T16:24:49.950980+00:00",
+    "published": "2026-08-05T14:46:36+00:00"
+  },
+  "https://aws.amazon.com/blogs/aws/amazon-dynamodb-now-supports-real-time-vector-search-at-any-scale": {
+    "title": "Amazon DynamoDB now supports real-time vector search at any scale",
+    "source": "AWS Blog",
+    "first_seen": "2026-08-05T16:24:49.950980+00:00",
+    "published": "2026-08-05T14:45:10+00:00"
+  },
+  "https://www.campion.edu.au/blog/top-25-aristotle-quotes-on-virtue-knowledge-and-happiness": {
+    "title": "Aristotle quotes on virtue, knowledge, and happiness",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-05T16:24:49.950980+00:00",
+    "published": "2026-08-05T14:06:39+00:00"
+  },
+  "https://rubinobservatory.org/news/rubin-new-window-cosmos-field": {
+    "title": "Rubin Observatory's first LSST Camera release: 500k galaxies in the COSMOS field",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-05T16:24:49.950980+00:00",
+    "published": "2026-08-05T14:04:10+00:00"
+  },
+  "https://www.writingruxandrabio.com/p/intelligence-is-not-the-main-bottleneck": {
+    "title": "Intelligence Is Not the Main Bottleneck",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-05T16:24:49.950980+00:00",
+    "published": "2026-08-05T14:04:06+00:00"
+  },
+  "https://tson.io": {
+    "title": "TSON – A JSON superset with immutable, hash-pinned schemas",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-05T16:24:49.950980+00:00",
+    "published": "2026-08-05T14:03:40+00:00"
+  },
+  "https://chillphysicsenjoyer.substack.com/p/the-entropy-of-a-markov-chain": {
+    "title": "The Entropy of a Markov Chain",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-05T16:24:49.950980+00:00",
+    "published": "2026-08-05T14:00:10+00:00"
+  },
+  "https://thenewstack.io/platform-engineering-ai-harness": {
+    "title": "Every software company will become a dev tools company",
+    "source": "The New Stack",
+    "first_seen": "2026-08-05T16:24:49.950980+00:00",
+    "published": "2026-08-05T14:00:00+00:00"
+  },
+  "https://realpython.com/python-pointblank": {
+    "title": "Validating Data With Pointblank in Python",
+    "source": "Real Python",
+    "first_seen": "2026-08-05T16:24:49.950980+00:00",
+    "published": "2026-08-05T14:00:00+00:00"
+  },
+  "https://blog.cloudflare.com/cloudflare-os": {
+    "title": "Cloudflare OS: an open platform for agents, apps, and work",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-05T16:24:49.950980+00:00",
+    "published": "2026-08-05T13:58:53+00:00"
+  },
+  "https://franciscotrindade.me/blog/the-kids-are-alright": {
+    "title": "Not hiring junior engineers won't solve the problem you think you have",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-05T16:24:49.950980+00:00",
+    "published": "2026-08-05T13:55:48+00:00"
+  },
+  "https://data4sci.com/blog/building-an-advanced-agentic-harness": {
+    "title": "Building an Advanced Agentic Harness",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-05T16:24:49.950980+00:00",
+    "published": "2026-08-05T13:54:12+00:00"
+  },
+  "https://lwn.net/Articles/1087326": {
+    "title": "Nelson: rust-lang/rust is adopting an LLM policy",
+    "source": "LWN.net",
+    "first_seen": "2026-08-05T16:24:49.950980+00:00",
+    "published": "2026-08-05T13:43:00+00:00"
+  },
+  "https://yogthos.net/posts/2026-08-03-splat-painter.html": {
+    "title": "Painting with Gaussians",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-05T16:24:49.950980+00:00",
+    "published": "2026-08-05T13:34:32+00:00"
+  },
+  "https://build2.org/blog/faster-than-ninja.xhtml": {
+    "title": "Faster Than Ninja",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-05T16:24:49.950980+00:00",
+    "published": "2026-08-05T13:33:25+00:00"
+  },
+  "https://ktxconverter.robertborghesi.is": {
+    "title": "KTX Images Converter for WebGL/GPU and Threejs",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-05T16:24:49.950980+00:00",
+    "published": "2026-08-05T13:24:24+00:00"
+  },
+  "https://www.phoronix.com/news/Cloudflare-OS": {
+    "title": "Cloudflare Announces Open-Source Cloudflare OS As AI \"Operating System\"",
+    "source": "Phoronix",
+    "first_seen": "2026-08-05T16:24:49.950980+00:00",
+    "published": "2026-08-05T13:16:43+00:00"
+  },
+  "https://lwn.net/Articles/1087318": {
+    "title": "Security updates for Wednesday",
+    "source": "LWN.net",
+    "first_seen": "2026-08-05T16:24:49.950980+00:00",
+    "published": "2026-08-05T13:10:40+00:00"
+  },
+  "https://blog.cloudflare.com/the-agent-access-model": {
+    "title": "The Agent Access Model",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-08-05T16:24:49.950980+00:00",
+    "published": "2026-08-05T13:00:41+00:00"
+  },
+  "https://blog.cloudflare.com/how-we-use-ai-with-cloudflare-os": {
+    "title": "How we’re rethinking work at Cloudflare with Cloudflare OS",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-08-05T16:24:49.950980+00:00",
+    "published": "2026-08-05T13:00:01+00:00"
+  },
+  "https://www.docker.com/blog/governance-is-a-developer-experience-problem": {
+    "title": "Governance Is a Developer Experience Problem",
+    "source": "Docker Blog",
+    "first_seen": "2026-08-05T16:24:49.950980+00:00",
+    "published": "2026-08-05T13:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/storage-data-transfer/filestore-file-service-runs-on-colossus": {
+    "title": "Unlocking the future of shared storage: Filestore on Colossus",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-08-05T16:24:49.950980+00:00",
+    "published": "2026-08-05T13:00:00+00:00"
+  },
+  "https://blog.cloudflare.com/mcp-portal-writeguard-private-beta": {
+    "title": "WriteGuard: fine-grained controls for MCP Servers",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-08-05T16:24:49.950980+00:00",
+    "published": "2026-08-05T13:00:00+00:00"
+  },
+  "https://blog.cloudflare.com/identity-aware-ai-gateway": {
+    "title": "Catching rogue AI behavior with identity-aware analytics",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-08-05T16:24:49.950980+00:00",
+    "published": "2026-08-05T13:00:00+00:00"
+  },
+  "https://devblogs.microsoft.com/devops/azure-devops-remote-mcp-server-ga": {
+    "title": "Azure DevOps Remote MCP Server is generally available",
+    "source": "MS DevOps Blog",
+    "first_seen": "2026-08-05T16:24:49.950980+00:00",
+    "published": "2026-08-05T12:58:52+00:00"
+  },
+  "https://www.vincentschmalbach.com/time-serves-ai-bots-a-different-website": {
+    "title": "TIME Is Serving AI Bots a Different Website, with Ads Built In",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-05T16:24:49.950980+00:00",
+    "published": "2026-08-05T12:41:47+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-No-Confuse-Intel-DEC": {
+    "title": "Linux To Avoid Confusing Processor Firmware With Newer Intel CPUs Sporting DEC",
+    "source": "Phoronix",
+    "first_seen": "2026-08-05T16:24:49.950980+00:00",
+    "published": "2026-08-05T12:39:22+00:00"
+  },
+  "https://realpython.com/quizzes/python-pointblank": {
+    "title": "Quiz: Validating Data With Pointblank in Python",
+    "source": "Real Python",
+    "first_seen": "2026-08-05T16:24:49.950980+00:00",
+    "published": "2026-08-05T12:00:00+00:00"
+  },
+  "https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803": {
+    "title": "Why Erdős Problems Are Falling to AI",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-05T16:24:49.950980+00:00",
+    "published": "2026-08-05T11:49:34+00:00"
+  },
+  "https://blog.python.org/2026/08/python-3147-31315": {
+    "title": "Python 3.14.7 and 3.13.15 are now available!",
+    "source": "Python Insider",
+    "first_seen": "2026-08-05T16:24:49.950980+00:00",
+    "published": "2026-08-05T00:00:00+00:00"
   }
 }
