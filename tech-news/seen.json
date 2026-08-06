@@ -67802,5 +67802,155 @@
     "source": "Jane Street Tech",
     "first_seen": "2026-08-05T22:03:10.557760+00:00",
     "published": "2026-08-05T00:00:00+00:00"
+  },
+  "https://www.databricks.com/blog/bigquery-databricks-strategic-framework-modern-migration": {
+    "title": "BigQuery to Databricks: A Strategic Framework for Modern Migration",
+    "source": "Databricks Blog",
+    "first_seen": "2026-08-06T11:10:38.703987+00:00",
+    "published": "2026-08-06T13:00:00+00:00"
+  },
+  "https://www.schneier.com/blog/archives/2026/08/adversarial-clothing-designed-to-fool-facial-recognition-systems.html": {
+    "title": "Adversarial Clothing Designed to Fool Facial Recognition Systems",
+    "source": "Schneier on Security",
+    "first_seen": "2026-08-06T11:10:38.703987+00:00",
+    "published": "2026-08-06T11:04:51+00:00"
+  },
+  "https://www.phoronix.com/news/Page-Alloc-Hogger": {
+    "title": "Page Alloc Hogger Lets You Better Stress Memory Behavior On Linux For Testing/Debugging",
+    "source": "Phoronix",
+    "first_seen": "2026-08-06T11:10:38.703987+00:00",
+    "published": "2026-08-06T10:28:46+00:00"
+  },
+  "https://www.phoronix.com/news/AMD-GFX1171-Mesa-26.3": {
+    "title": "AMD GFX1171 Support Merged For Mesa 26.3",
+    "source": "Phoronix",
+    "first_seen": "2026-08-06T11:10:38.703987+00:00",
+    "published": "2026-08-06T10:19:27+00:00"
+  },
+  "https://www.phoronix.com/news/Synx": {
+    "title": "Qualcomm Proposes Synx For The Linux Kernel With \"Significant\" Power + Performance Benefits",
+    "source": "Phoronix",
+    "first_seen": "2026-08-06T11:10:38.703987+00:00",
+    "published": "2026-08-06T10:05:27+00:00"
+  },
+  "https://www.phoronix.com/news/SteelSeries-Nova-7-5X-2026": {
+    "title": "SteelSeries' Latest Arctis Nova 5X & Nova 7 Headsets To Be Supported By Linux 7.3",
+    "source": "Phoronix",
+    "first_seen": "2026-08-06T11:10:38.703987+00:00",
+    "published": "2026-08-06T09:55:47+00:00"
+  },
+  "https://devblogs.microsoft.com/devops/you-can-now-use-the-azure-devops-service-connection-instead-of-a-pat-or-build-session-token": {
+    "title": "You can now use the Azure DevOps Service Connection instead of a PAT or Build Session token",
+    "source": "MS DevOps Blog",
+    "first_seen": "2026-08-06T11:10:38.703987+00:00",
+    "published": "2026-08-06T08:57:40+00:00"
+  },
+  "https://opentelemetry.io/blog/2026/cardinality-limits-in-opentelemetry": {
+    "title": "Metric cardinality limits in OpenTelemetry: a practical guide",
+    "source": "OpenTelemetry Blog",
+    "first_seen": "2026-08-06T11:10:38.703987+00:00",
+    "published": "2026-08-06T07:43:47+00:00"
+  },
+  "https://buttondown.com/blog/what-i-love-about-django": {
+    "title": "What I love about Django",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-06T11:10:38.703987+00:00",
+    "published": "2026-08-06T07:34:06+00:00"
+  },
+  "https://blog.gingerbeardman.com/2026/08/06/lets-all-meet-up-in-the-y2k": {
+    "title": "Let's all meet up in the Y2K",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-06T11:10:38.703987+00:00",
+    "published": "2026-08-06T06:43:38+00:00"
+  },
+  "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation/issues/1426": {
+    "title": "On non-rooted Android 17, ADB uninstall of system apps fails",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-06T11:10:38.703987+00:00",
+    "published": "2026-08-06T06:24:42+00:00"
+  },
+  "https://www.crimepaysbutbotanydoesnt.com/reading-list": {
+    "title": "Crime Pays but Botany Doesn't",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-06T11:10:38.703987+00:00",
+    "published": "2026-08-06T04:46:35+00:00"
+  },
+  "https://www.costar.com/article/970809918/nashville-council-approves-eminent-domain-action-to-halt-data-center-project": {
+    "title": "Nashville uses eminent domain to block data center near zoo",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-06T11:10:38.703987+00:00",
+    "published": "2026-08-06T02:15:14+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.3-Steam-Controller": {
+    "title": "Linux 7.3 To Fix Longstanding Gap In The Native Driver For Original Steam Controller",
+    "source": "Phoronix",
+    "first_seen": "2026-08-06T11:10:38.703987+00:00",
+    "published": "2026-08-06T00:44:00+00:00"
+  },
+  "https://lwn.net/Articles/1086134": {
+    "title": "[$] LWN.net Weekly Edition for August 6, 2026",
+    "source": "LWN.net",
+    "first_seen": "2026-08-06T11:10:38.703987+00:00",
+    "published": "2026-08-06T00:40:49+00:00"
+  },
+  "https://simonwillison.net/2026/Aug/6/an-ai-model-from-meta": {
+    "title": "An AI model from Meta also hacked another company during testing",
+    "source": "Simon Willison",
+    "first_seen": "2026-08-06T11:10:38.703987+00:00",
+    "published": "2026-08-06T00:25:27+00:00"
+  },
+  "https://simonwillison.net/2026/Aug/5/muse-code-and-muse-spark-12": {
+    "title": "Introducing Muse Code and Muse Spark 1.2",
+    "source": "Simon Willison",
+    "first_seen": "2026-08-06T11:10:38.703987+00:00",
+    "published": "2026-08-05T23:58:35+00:00"
+  },
+  "https://simonwillison.net/2026/Aug/5/third-party-cyber-evaluations": {
+    "title": "Third-party cyber evaluations involving OpenAI models",
+    "source": "Simon Willison",
+    "first_seen": "2026-08-06T11:10:38.703987+00:00",
+    "published": "2026-08-05T23:45:32+00:00"
+  },
+  "https://simonwillison.net/2026/Aug/5/incident-report": {
+    "title": "Incident Report: unsanctioned agent behaviour during cyber testing",
+    "source": "Simon Willison",
+    "first_seen": "2026-08-06T11:10:38.703987+00:00",
+    "published": "2026-08-05T23:32:06+00:00"
+  },
+  "https://blog.cloudflare.com/cloudflare-sase-sse-gartner-magic-quadrants-2026": {
+    "title": "Cloudflare is the only vendor named a Visionary in 2026 SASE and SSE reports",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-08-06T11:10:38.703987+00:00",
+    "published": "2026-08-05T23:24:51+00:00"
+  },
+  "https://www.phoronix.com/news/Rust-Coreutils-0.10": {
+    "title": "Rust Coreutils 0.10 Released With More Security Hardening, Increased GNU Compatibility",
+    "source": "Phoronix",
+    "first_seen": "2026-08-06T11:10:38.703987+00:00",
+    "published": "2026-08-05T22:59:00+00:00"
+  },
+  "https://www.phoronix.com/news/Mesa-26.2-Released": {
+    "title": "Mesa 26.2 Released With NVK Mesh Shader Support, Many Other Vulkan Improvements",
+    "source": "Phoronix",
+    "first_seen": "2026-08-06T11:10:38.703987+00:00",
+    "published": "2026-08-05T22:13:57+00:00"
+  },
+  "https://blog.fogus.me/llm/born-against.html": {
+    "title": "Born Against, or why hobby programming communities are against LLM usage",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-06T11:10:38.703987+00:00",
+    "published": "2026-08-05T18:37:49+00:00"
+  },
+  "https://arxiv.org/abs/2510.01395": {
+    "title": "Sycophantic AI Decreases Prosocial Intentions and Promotes Dependence (2025)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-06T11:10:38.703987+00:00",
+    "published": "2026-08-05T18:17:03+00:00"
+  },
+  "https://machinelearning.apple.com/research/taming-outlier-tokens": {
+    "title": "Taming Outlier Tokens in Diffusion Transformers",
+    "source": "Apple ML Journal",
+    "first_seen": "2026-08-06T11:10:38.703987+00:00",
+    "published": "2026-08-05T00:00:00+00:00"
   }
 }
