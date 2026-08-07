@@ -68786,5 +68786,245 @@
     "source": "Golang Weekly",
     "first_seen": "2026-08-07T15:41:15.307910+00:00",
     "published": "2026-08-07T00:00:00+00:00"
+  },
+  "https://www.schneier.com/blog/archives/2026/08/friday-squid-blogging-arctic-bobtail-squid-video.html": {
+    "title": "Friday Squid Blogging: Arctic Bobtail Squid Video",
+    "source": "Schneier on Security",
+    "first_seen": "2026-08-07T21:26:17.436577+00:00",
+    "published": "2026-08-07T21:07:04+00:00"
+  },
+  "https://thenewstack.io/openai-astra-cybersecurity-delay": {
+    "title": "The AI model OpenAI won’t release yet — and what it found in testing",
+    "source": "The New Stack",
+    "first_seen": "2026-08-07T21:26:17.436577+00:00",
+    "published": "2026-08-07T20:56:38+00:00"
+  },
+  "https://chasa.io": {
+    "title": "Chasa",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-07T21:26:17.436577+00:00",
+    "published": "2026-08-07T20:23:26+00:00"
+  },
+  "https://www.uawire.org/former-ukrainian-defense-minister-mykhailo-fedorov-reveals-struggles-to-secure-patriot-missiles-and-western-support": {
+    "title": "Mykhailo Fedorov reveals struggle to secure Patriot missiles and Western support",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-07T21:26:17.436577+00:00",
+    "published": "2026-08-07T19:38:05+00:00"
+  },
+  "https://aws.amazon.com/blogs/security/a-decade-of-enterprise-identity-in-the-cloud-with-aws-managed-microsoft-ad": {
+    "title": "A decade of enterprise identity in the cloud with AWS Managed Microsoft AD",
+    "source": "AWS Security Blog",
+    "first_seen": "2026-08-07T21:26:17.436577+00:00",
+    "published": "2026-08-07T19:37:57+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.3-HIDPP-Reprogrammable": {
+    "title": "Linux 7.3 To Support Logitech HID++ 2.0 Reprogrammable Button Support",
+    "source": "Phoronix",
+    "first_seen": "2026-08-07T21:26:17.436577+00:00",
+    "published": "2026-08-07T19:28:18+00:00"
+  },
+  "https://simonwillison.net/2026/Aug/7/moonlight-mayhem": {
+    "title": "Moonlight & Mayhem (Raccoon Heist by Codex + GPT-5.6 Sol Ultra)",
+    "source": "Simon Willison",
+    "first_seen": "2026-08-07T21:26:17.436577+00:00",
+    "published": "2026-08-07T19:18:09+00:00"
+  },
+  "https://daringfireball.net/2026/08/app_store_rejection_of_the_week_dark_hours": {
+    "title": "App Store Rejection of the Week: Dark Hours",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-07T21:26:17.436577+00:00",
+    "published": "2026-08-07T18:59:08+00:00"
+  },
+  "https://github.com/xoreaxeaxeax/repsych": {
+    "title": "Psychological Warfare in Reverse Engineering",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-07T21:26:17.436577+00:00",
+    "published": "2026-08-07T18:51:45+00:00"
+  },
+  "https://ancientlibrary.net": {
+    "title": "Ancient Library – 1,060 Greek/Latin texts, click any word to parse it",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-07T21:26:17.436577+00:00",
+    "published": "2026-08-07T18:51:14+00:00"
+  },
+  "https://thenewstack.io/npm-supply-chain-worm-attack": {
+    "title": "The npm attack that turned provenance attestations into camouflage",
+    "source": "The New Stack",
+    "first_seen": "2026-08-07T21:26:17.436577+00:00",
+    "published": "2026-08-07T18:31:59+00:00"
+  },
+  "https://www.databricks.com/blog/managing-ai-coding-costs-scale": {
+    "title": "Databricks drove down AI coding spend 70%",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-07T21:26:17.436577+00:00",
+    "published": "2026-08-07T18:25:17+00:00"
+  },
+  "https://thenewstack.io/meta-muse-code": {
+    "title": "Meta’s new coding agent is cheap (but it’ll cost you your data).",
+    "source": "The New Stack",
+    "first_seen": "2026-08-07T21:26:17.436577+00:00",
+    "published": "2026-08-07T18:17:56+00:00"
+  },
+  "https://thenewstack.io/enterprise-ai-agent-harness": {
+    "title": "Coinbase, Shopify and Ramp all built their own coding agents. All three still pay Anthropic.",
+    "source": "The New Stack",
+    "first_seen": "2026-08-07T21:26:17.436577+00:00",
+    "published": "2026-08-07T18:16:03+00:00"
+  },
+  "https://github.com/xoreaxeaxeax/asm-hall-of-shame": {
+    "title": "Assembly Hall of Shame",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-07T21:26:17.436577+00:00",
+    "published": "2026-08-07T18:01:30+00:00"
+  },
+  "https://arcprize.org/results/deepseek-v4-flash-0731": {
+    "title": "DeepSeek V4 Flash 0731",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-07T21:26:17.436577+00:00",
+    "published": "2026-08-07T17:56:20+00:00"
+  },
+  "https://huggingface.co/blog/allenai/tutormoments": {
+    "title": "TutorMoments: Do AI tutors know when to help and when to hold back?",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-08-07T21:26:17.436577+00:00",
+    "published": "2026-08-07T17:53:32+00:00"
+  },
+  "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code": {
+    "title": "Oracle bans AI-generated code from OpenJDK",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-07T21:26:17.436577+00:00",
+    "published": "2026-08-07T17:36:30+00:00"
+  },
+  "https://www.phoronix.com/news/M3-Pro-Max-Ultra-Linux-7.3": {
+    "title": "Initial Apple M3 Pro / Max / Ultra Support Being Upstreamed For Linux 7.3",
+    "source": "Phoronix",
+    "first_seen": "2026-08-07T21:26:17.436577+00:00",
+    "published": "2026-08-07T17:31:21+00:00"
+  },
+  "https://stratechery.com/2026/earnings-and-learnings": {
+    "title": "2026.32: Earnings and Learnings",
+    "source": "Stratechery",
+    "first_seen": "2026-08-07T21:26:17.436577+00:00",
+    "published": "2026-08-07T17:29:02+00:00"
+  },
+  "https://cloud.google.com/blog/products/data-analytics/new-bigquery-data-transfer-service-capabilities": {
+    "title": "Zero-code, low-cost data ingestion: New BigQuery DTS capabilities",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-08-07T21:26:17.436577+00:00",
+    "published": "2026-08-07T17:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/Intel-QATlib-26.08-Released": {
+    "title": "Intel QATlib 26.08 Released With Gen6 Device Support, 2MB Hugepages",
+    "source": "Phoronix",
+    "first_seen": "2026-08-07T21:26:17.436577+00:00",
+    "published": "2026-08-07T16:57:18+00:00"
+  },
+  "https://aws.amazon.com/blogs/security/securing-your-amazon-s3-buckets-identifying-and-remediating-over-permissioned-access": {
+    "title": "Securing your Amazon S3 buckets: Identifying and remediating over-permissioned access",
+    "source": "AWS Security Blog",
+    "first_seen": "2026-08-07T21:26:17.436577+00:00",
+    "published": "2026-08-07T16:46:40+00:00"
+  },
+  "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities": {
+    "title": "Responding to the next frontier of critical cyber capabilities",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-07T21:26:17.436577+00:00",
+    "published": "2026-08-07T16:39:36+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/how-cohere-health-digitizes-clinical-policies-using-amazon-bedrock-agentcore": {
+    "title": "How Cohere Health digitizes clinical policies using Amazon Bedrock AgentCore",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-08-07T21:26:17.436577+00:00",
+    "published": "2026-08-07T16:26:58+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/how-trends-automates-root-cause-analysis-with-amazon-bedrock": {
+    "title": "How TReNDS automates root-cause analysis with Amazon Bedrock",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-08-07T21:26:17.436577+00:00",
+    "published": "2026-08-07T16:22:50+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/determining-playoff-clinching-scenarios-in-the-nhl-using-constraint-programming": {
+    "title": "Determining playoff clinching scenarios in the NHL using constraint programming",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-08-07T21:26:17.436577+00:00",
+    "published": "2026-08-07T16:21:00+00:00"
+  },
+  "https://simonwillison.net/2026/Aug/7/pdfs-are-terrible": {
+    "title": "The Tokenpocalypse Is Here: Companies Are Scrambling To Stop Spending So Much on AI",
+    "source": "Simon Willison",
+    "first_seen": "2026-08-07T21:26:17.436577+00:00",
+    "published": "2026-08-07T16:18:51+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/amazon-opensearch-service-extends-version-lifecycle-support-timelines": {
+    "title": "Amazon OpenSearch Service extends version lifecycle support timelines",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-08-07T21:26:17.436577+00:00",
+    "published": "2026-08-07T16:13:44+00:00"
+  },
+  "https://netflixtechblog.com/how-and-why-netflix-built-a-real-time-distributed-graph-part-3-querying-the-graph-with-grpc-0f3468349607?source=rss----2615bd06b42e---4": {
+    "title": "How and Why Netflix Built a Real-Time Distributed Graph: Part 3 — Querying the graph with gRPC…",
+    "source": "Netflix Tech Blog",
+    "first_seen": "2026-08-07T21:26:17.436577+00:00",
+    "published": "2026-08-07T16:01:02+00:00"
+  },
+  "https://cloud.google.com/blog/products/networking/streaming-the-fifa-world-cup-with-televisaunivision": {
+    "title": "GOL! How TelevisaUnivision streamed the FIFA World Cup to millions with Google Cloud",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-08-07T21:26:17.436577+00:00",
+    "published": "2026-08-07T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/identity-security/how-google-cloud-detects-contains-and-protects-against-emerging-threats": {
+    "title": "How Google Cloud detects, contains, and protects against emerging threats",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-08-07T21:26:17.436577+00:00",
+    "published": "2026-08-07T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/data-analytics/bigquery-search-innovations-unify-structured-unstructured-data": {
+    "title": "Unifying Structured and Unstructured Data Insights with BQ Search Innovations",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-08-07T21:26:17.436577+00:00",
+    "published": "2026-08-07T16:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/More-Aggressive-TTM-Linux-7.3": {
+    "title": "TTM Memory Management For Graphics To Be More Aggresive With Linux 7.3",
+    "source": "Phoronix",
+    "first_seen": "2026-08-07T21:26:17.436577+00:00",
+    "published": "2026-08-07T15:57:22+00:00"
+  },
+  "https://lwn.net/Articles/1086949": {
+    "title": "[$] Changes in shadow-utils password-expiration features",
+    "source": "LWN.net",
+    "first_seen": "2026-08-07T21:26:17.436577+00:00",
+    "published": "2026-08-07T15:54:53+00:00"
+  },
+  "https://www.sdss.org/black-hole-mapper-release-20": {
+    "title": "An all-sky map of half a million supermassive black holes",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-07T21:26:17.436577+00:00",
+    "published": "2026-08-07T15:24:53+00:00"
+  },
+  "https://quuxplusone.github.io/blog/2026/08/04/mobius-crossword": {
+    "title": "Möbius-Strip Crosswords",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-07T21:26:17.436577+00:00",
+    "published": "2026-08-07T15:10:34+00:00"
+  },
+  "https://www.sciencealert.com/radical-study-suggests-life-on-earth-arose-from-non-living-matter-twice": {
+    "title": "Radical Study Suggests Life on Earth Arose Twice",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-07T21:26:17.436577+00:00",
+    "published": "2026-08-07T12:45:08+00:00"
+  },
+  "https://www.noemamag.com/why-is-everyone-in-tech-so-sad": {
+    "title": "What happens if an entire class of workers loses faith in their careers",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-07T21:26:17.436577+00:00",
+    "published": "2026-08-07T12:42:27+00:00"
+  },
+  "https://www.databricks.com/blog/what-is-an-ai-assistant": {
+    "title": "What is an AI Assistant?",
+    "source": "Databricks Blog",
+    "first_seen": "2026-08-07T21:26:17.436577+00:00",
+    "published": "2026-08-07T11:44:24+00:00"
   }
 }
