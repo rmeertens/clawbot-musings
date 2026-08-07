@@ -67952,5 +67952,563 @@
     "source": "Apple ML Journal",
     "first_seen": "2026-08-06T11:10:38.703987+00:00",
     "published": "2026-08-05T00:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/AMDGPU-Linux-7.3-Last-Round": {
+    "title": "AMD Squeezes In A Few More Graphics Driver Updates For Linux 7.3",
+    "source": "Phoronix",
+    "first_seen": "2026-08-07T00:58:59.359061+00:00",
+    "published": "2026-08-07T00:44:47+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-Zapscape-Vulnerability": {
+    "title": "Zapscape Is The Latest Linux Vulnerability For KVM Guest-To-Host Escape, LPE",
+    "source": "Phoronix",
+    "first_seen": "2026-08-07T00:58:59.359061+00:00",
+    "published": "2026-08-07T00:29:00+00:00"
+  },
+  "https://github.com/Kayvan-Zahiri/asr-age-gap": {
+    "title": "Show HN: Whisper transcribes 70-year-olds more accurately than 20-year-olds",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-07T00:58:59.359061+00:00",
+    "published": "2026-08-07T00:10:04+00:00"
+  },
+  "https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-address-harm-to-kids-from-social-media-8ba5aab7": {
+    "title": "Meta Ordered to Pay $942M to Address Harm to Kids from Social Media",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-07T00:58:59.359061+00:00",
+    "published": "2026-08-07T00:06:28+00:00"
+  },
+  "https://aws.amazon.com/blogs/aws/runtime-instances-persistent-compute-for-production-ai-agents-on-amazon-bedrock-agentcore": {
+    "title": "Runtime instances: persistent compute for production AI agents on Amazon Bedrock AgentCore",
+    "source": "AWS Blog",
+    "first_seen": "2026-08-07T00:58:59.359061+00:00",
+    "published": "2026-08-06T22:58:00+00:00"
+  },
+  "https://zenodo.org/records/21359923": {
+    "title": "Spin audit of SQD/QSCI quantum-chemistry benchmarks on iron–sulfur clusters",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-07T00:58:59.359061+00:00",
+    "published": "2026-08-06T22:50:09+00:00"
+  },
+  "https://aws.amazon.com/blogs/security/automate-certificates-with-acme-support-in-aws-certificate-manager": {
+    "title": "Automate certificates with ACME support in AWS Certificate Manager",
+    "source": "AWS Security Blog",
+    "first_seen": "2026-08-07T00:58:59.359061+00:00",
+    "published": "2026-08-06T22:03:36+00:00"
+  },
+  "https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned": {
+    "title": "Welcoming the Nepalese Government to Have I Been Pwned",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-07T00:58:59.359061+00:00",
+    "published": "2026-08-06T21:52:16+00:00"
+  },
+  "https://github.com/mattdeeds/pokeemerald-rp2350": {
+    "title": "Show HN: Pokémon Emerald Ported to Raspberry Pi Pico 2",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-07T00:58:59.359061+00:00",
+    "published": "2026-08-06T21:49:07+00:00"
+  },
+  "https://www.databricks.com/blog/agentic-workflows": {
+    "title": "What are Agentic Workflows?",
+    "source": "Databricks Blog",
+    "first_seen": "2026-08-07T00:58:59.359061+00:00",
+    "published": "2026-08-06T21:36:15+00:00"
+  },
+  "https://www.databricks.com/blog/what-is-tool-calling": {
+    "title": "What is Tool Calling?",
+    "source": "Databricks Blog",
+    "first_seen": "2026-08-07T00:58:59.359061+00:00",
+    "published": "2026-08-06T21:31:30+00:00"
+  },
+  "https://www.aleksagordic.com/blog/vllm": {
+    "title": "Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-07T00:58:59.359061+00:00",
+    "published": "2026-08-06T21:30:21+00:00"
+  },
+  "https://www.sciencedaily.com/releases/2026/08/260803080917.htm": {
+    "title": "Bioengineered chewing gum may offer a way to fight HPV and other microbes",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-07T00:58:59.359061+00:00",
+    "published": "2026-08-06T21:18:32+00:00"
+  },
+  "https://www.phoronix.com/news/Btrfs-Restores-Fixup-Worker": {
+    "title": "Linux 7.2-rc7 Restoring Btrfs Fixup Worker Infrastructure To Address Silent Data Loss",
+    "source": "Phoronix",
+    "first_seen": "2026-08-07T00:58:59.359061+00:00",
+    "published": "2026-08-06T21:09:10+00:00"
+  },
+  "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344": {
+    "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-07T00:58:59.359061+00:00",
+    "published": "2026-08-06T20:23:11+00:00"
+  },
+  "https://slayersclub.bethesda.net/en-US/news/quake-30th-anniversary-update": {
+    "title": "Quake – 30th Anniversary Update",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-07T00:58:59.359061+00:00",
+    "published": "2026-08-06T20:21:19+00:00"
+  },
+  "https://github.blog/ai-and-ml/github-copilot/a-guide-to-slash-commands-in-the-github-copilot-app": {
+    "title": "A guide to slash commands in the GitHub Copilot app",
+    "source": "GitHub Blog",
+    "first_seen": "2026-08-07T00:58:59.359061+00:00",
+    "published": "2026-08-06T19:49:34+00:00"
+  },
+  "https://thenewstack.io/gpt-sol-chatgpt-split": {
+    "title": "GPT-5.6 Sol just got better in one place and stayed the same everywhere else",
+    "source": "The New Stack",
+    "first_seen": "2026-08-07T00:58:59.359061+00:00",
+    "published": "2026-08-06T19:33:02+00:00"
+  },
+  "https://thenewstack.io/cloudflare-os-agentic-workspace-security": {
+    "title": "Why AI tools know nothing about your company — until now",
+    "source": "The New Stack",
+    "first_seen": "2026-08-07T00:58:59.359061+00:00",
+    "published": "2026-08-06T19:30:08+00:00"
+  },
+  "https://herdr.dev/blog/herdr-is-joining-y-combinator": {
+    "title": "Herdr is joining Y Combinator. The runtime stays open",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-07T00:58:59.359061+00:00",
+    "published": "2026-08-06T19:14:21+00:00"
+  },
+  "https://thenewstack.io/aws-dogwood-agent-policies": {
+    "title": "Your AI agent’s next tool call may be valid but wrong. AWS’s Dogwood promises to fix that.",
+    "source": "The New Stack",
+    "first_seen": "2026-08-07T00:58:59.359061+00:00",
+    "published": "2026-08-06T19:11:55+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-Net-Bombarded-AI-Patches": {
+    "title": "Linux Networking Continues Being Bombarded With AI Patches",
+    "source": "Phoronix",
+    "first_seen": "2026-08-07T00:58:59.359061+00:00",
+    "published": "2026-08-06T19:07:23+00:00"
+  },
+  "https://aws.amazon.com/blogs/security/route-amazon-bedrock-guardrails-interventions-to-amazon-security-lake": {
+    "title": "Route Amazon Bedrock Guardrails interventions to Amazon Security Lake",
+    "source": "AWS Security Blog",
+    "first_seen": "2026-08-07T00:58:59.359061+00:00",
+    "published": "2026-08-06T19:00:15+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/securing-ai-agents-with-temporal-policies-in-amazon-bedrock-agentcore": {
+    "title": "Securing AI agents with temporal policies in Amazon Bedrock AgentCore",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-08-07T00:58:59.359061+00:00",
+    "published": "2026-08-06T18:57:55+00:00"
+  },
+  "https://www.phoronix.com/news/IceWM-4.1-Released": {
+    "title": "IceWM 4.1 Window Manager Fixes Rare Video Performance Problems",
+    "source": "Phoronix",
+    "first_seen": "2026-08-07T00:58:59.359061+00:00",
+    "published": "2026-08-06T18:55:01+00:00"
+  },
+  "https://artificialanalysis.ai?intelligence=agentic-index": {
+    "title": "Qwen3.8 Max now ranked as the best overall model by agentic index",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-07T00:58:59.359061+00:00",
+    "published": "2026-08-06T18:44:49+00:00"
+  },
+  "https://www.tigerdata.com/blog/controlcom-case-study-tiger-data": {
+    "title": "How ControlCom Turns 300+ Million Monthly Facility Data Points Into Instant Answers With Tiger Data",
+    "source": "Timescale Blog",
+    "first_seen": "2026-08-07T00:58:59.359061+00:00",
+    "published": "2026-08-06T18:40:28+00:00"
+  },
+  "https://pytorch.org/blog/pytorch-conference-north-america-announces-2026-keynotes": {
+    "title": "PyTorch Conference North America Announces 2026 Keynotes",
+    "source": "PyTorch Blog",
+    "first_seen": "2026-08-07T00:58:59.359061+00:00",
+    "published": "2026-08-06T18:37:47+00:00"
+  },
+  "https://mastodon.gamedev.place/@rygorous/117047697255584965": {
+    "title": "My phone detects going on a run as “someone snatching my phone and running off”",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-07T00:58:59.359061+00:00",
+    "published": "2026-08-06T18:26:08+00:00"
+  },
+  "https://simonwillison.net/2026/Aug/6/datasette": {
+    "title": "datasette 1.0a38",
+    "source": "Simon Willison",
+    "first_seen": "2026-08-07T00:58:59.359061+00:00",
+    "published": "2026-08-06T18:24:34+00:00"
+  },
+  "https://simonwillison.net/2026/Aug/6/datasette-2": {
+    "title": "datasette 0.65.3",
+    "source": "Simon Willison",
+    "first_seen": "2026-08-07T00:58:59.359061+00:00",
+    "published": "2026-08-06T18:22:07+00:00"
+  },
+  "https://lwn.net/Articles/1087567": {
+    "title": "Six stable kernels with a security fix",
+    "source": "LWN.net",
+    "first_seen": "2026-08-07T00:58:59.359061+00:00",
+    "published": "2026-08-06T18:13:15+00:00"
+  },
+  "https://simonwillison.net/2026/Aug/6/simon-willison-on-technical-blogging": {
+    "title": "Simon Willison on Technical Blogging",
+    "source": "Simon Willison",
+    "first_seen": "2026-08-07T00:58:59.359061+00:00",
+    "published": "2026-08-06T18:04:39+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/configure-rate-limits-for-ai-traffic-on-agentcore-gateway": {
+    "title": "Configure rate limits for AI traffic on AgentCore gateway",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-08-07T00:58:59.359061+00:00",
+    "published": "2026-08-06T17:50:42+00:00"
+  },
+  "https://thenewstack.io/kiro-agent-client-protocol": {
+    "title": "Free agents: How AWS Kiro could untie agents from editors",
+    "source": "The New Stack",
+    "first_seen": "2026-08-07T00:58:59.359061+00:00",
+    "published": "2026-08-06T17:50:35+00:00"
+  },
+  "https://thenewstack.io/microsoft-copilot-token-budgets": {
+    "title": "The blank-check AI coding era is dead. Here’s what comes next.",
+    "source": "The New Stack",
+    "first_seen": "2026-08-07T00:58:59.359061+00:00",
+    "published": "2026-08-06T17:29:08+00:00"
+  },
+  "https://thenewstack.io/doist-ai-automation-code": {
+    "title": "Why Todoist says less AI can deliver more",
+    "source": "The New Stack",
+    "first_seen": "2026-08-07T00:58:59.359061+00:00",
+    "published": "2026-08-06T17:05:57+00:00"
+  },
+  "https://devblogs.microsoft.com/dotnet/microsoft-testing-platform-reporting": {
+    "title": "Test reporting in Microsoft.Testing.Platform: from red build to root cause",
+    "source": "MS .NET Blog",
+    "first_seen": "2026-08-07T00:58:59.359061+00:00",
+    "published": "2026-08-06T17:05:00+00:00"
+  },
+  "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt": {
+    "title": "Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-07T00:58:59.359061+00:00",
+    "published": "2026-08-06T17:02:04+00:00"
+  },
+  "https://notashelf.dev/posts/taste-is-all-thats-left": {
+    "title": "Taste Is All That's Left",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-07T00:58:59.359061+00:00",
+    "published": "2026-08-06T17:01:33+00:00"
+  },
+  "https://krebsonsecurity.com/2026/08/canadian-man-pleads-guilty-in-snowflake-extortions": {
+    "title": "Canadian Man Pleads Guilty in Snowflake Extortions",
+    "source": "Krebs on Security",
+    "first_seen": "2026-08-07T00:58:59.359061+00:00",
+    "published": "2026-08-06T17:00:56+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/mcp-tools-for-amazon-aurora-dsql-query-execution-and-schema-management": {
+    "title": "MCP tools for Amazon Aurora DSQL: Query execution and schema management",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-08-07T00:58:59.359061+00:00",
+    "published": "2026-08-06T16:54:43+00:00"
+  },
+  "https://github.blog/security/supply-chain-security/how-we-took-malware-advisories-beyond-npm": {
+    "title": "How we took malware advisories beyond npm",
+    "source": "GitHub Blog",
+    "first_seen": "2026-08-07T00:58:59.359061+00:00",
+    "published": "2026-08-06T16:51:12+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/control-agent-behaviors-and-cost-beyond-a-single-action-new-capabilities-in-amazon-bedrock-agentcore": {
+    "title": "Control agent behaviors and cost beyond a single action: new capabilities in Amazon Bedrock AgentCore",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-08-07T00:58:59.359061+00:00",
+    "published": "2026-08-06T16:43:19+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/build-visibility-for-codex-on-amazon-bedrock-with-opentelemetry-and-amazon-cloudwatch": {
+    "title": "Build visibility for Codex on Amazon Bedrock with OpenTelemetry and Amazon CloudWatch",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-08-07T00:58:59.359061+00:00",
+    "published": "2026-08-06T16:30:47+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/enforcing-data-residency-with-single-region-claude-code-on-amazon-bedrock": {
+    "title": "Enforcing data residency with single-Region Claude Code on Amazon Bedrock",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-08-07T00:58:59.359061+00:00",
+    "published": "2026-08-06T16:21:54+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/scaling-fine-grained-access-control-for-enterprise-lakehouse-using-sagemaker-unified-studio-and-aws-lake-formation": {
+    "title": "Scaling fine-grained access control for enterprise lakehouse using SageMaker Unified Studio and AWS Lake Formation",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-08-07T00:58:59.359061+00:00",
+    "published": "2026-08-06T16:17:59+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/event-driven-pipeline-orchestration-with-amazon-mwaa-and-airflow-3-0": {
+    "title": "Event-driven pipeline orchestration with Amazon MWAA and Airflow 3.0",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-08-07T00:58:59.359061+00:00",
+    "published": "2026-08-06T16:16:39+00:00"
+  },
+  "https://aws.amazon.com/blogs/security/caching-kms-data-keys-in-multi-thread-environments-per-tenant-encryption-for-event-driven-systems-at-scale": {
+    "title": "Caching KMS data keys in multi-thread environments: Per-tenant encryption for event-driven systems at scale",
+    "source": "AWS Security Blog",
+    "first_seen": "2026-08-07T00:58:59.359061+00:00",
+    "published": "2026-08-06T16:16:06+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-Safe-RET-Interrupt-Vuln": {
+    "title": "Linux Patched For Safe RET Interrupt Vulnerability",
+    "source": "Phoronix",
+    "first_seen": "2026-08-07T00:58:59.359061+00:00",
+    "published": "2026-08-06T16:14:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/containers/centralize-cross-account-amazon-ecs-telemetry-with-an-adot-gateway": {
+    "title": "Centralize cross-account Amazon ECS telemetry with an ADOT gateway",
+    "source": "AWS Containers Blog",
+    "first_seen": "2026-08-07T00:58:59.359061+00:00",
+    "published": "2026-08-06T16:13:46+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/agent-skills-for-automated-reasoning-policies-in-amazon-bedrock": {
+    "title": "Agent Skills for Automated Reasoning policies in Amazon Bedrock",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-08-07T00:58:59.359061+00:00",
+    "published": "2026-08-06T16:12:24+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/building-an-agentic-app-deployer-with-amazon-bedrock-and-aws-lambda": {
+    "title": "Building an agentic app deployer with Amazon Bedrock and AWS Lambda",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-08-07T00:58:59.359061+00:00",
+    "published": "2026-08-06T16:11:13+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/llm-optimization-integration-for-amazon-sagemaker-python-sdk": {
+    "title": "LLM optimization integration for Amazon SageMaker Python SDK",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-08-07T00:58:59.359061+00:00",
+    "published": "2026-08-06T16:08:12+00:00"
+  },
+  "https://github.com/CopilotKit/channels-sdk": {
+    "title": "Show HN: The Channels SDK – Bring Any Agent to Any Channel (Slack, MS Teams)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-07T00:58:59.359061+00:00",
+    "published": "2026-08-06T16:05:51+00:00"
+  },
+  "https://www.phoronix.com/news/Apple-NVMe-Linux-Fixes-Firmware": {
+    "title": "Apple NVMe Linux Driver Sees Fixes After Being Bitten By New Firmware",
+    "source": "Phoronix",
+    "first_seen": "2026-08-07T00:58:59.359061+00:00",
+    "published": "2026-08-06T16:00:22+00:00"
+  },
+  "https://www.databricks.com/blog/introducing-officeqa-pro-v2-new-benchmark-enterprise-grounded-reasoning": {
+    "title": "Introducing OfficeQA Pro V2: A New Benchmark for Enterprise Grounded-Reasoning",
+    "source": "Databricks Blog",
+    "first_seen": "2026-08-07T00:58:59.359061+00:00",
+    "published": "2026-08-06T16:00:00+00:00"
+  },
+  "https://thenewstack.io/nutanix-dual-native-architecture": {
+    "title": "“Just rewrite it”: What platform teams really think about modernization",
+    "source": "The New Stack",
+    "first_seen": "2026-08-07T00:58:59.359061+00:00",
+    "published": "2026-08-06T16:00:00+00:00"
+  },
+  "https://thenewstack.io/kubernetes-dra-gpu-scheduling": {
+    "title": "Say goodbye to K8s GPU pain: How DRA changes everything",
+    "source": "The New Stack",
+    "first_seen": "2026-08-07T00:58:59.359061+00:00",
+    "published": "2026-08-06T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/topics/training-certifications/free-gemini-enterrprise-training": {
+    "title": "Your agentic summer: No-cost lessons from Google experts to build and scale agents",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-08-07T00:58:59.359061+00:00",
+    "published": "2026-08-06T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/topics/hybrid-cloud/state-of-ai-infrastructure-report-on-hybrid-cloud-and-gdc": {
+    "title": "Digital sovereignty in the age of AI: You don’t have to choose between control and innovation",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-08-07T00:58:59.359061+00:00",
+    "published": "2026-08-06T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/identity-security/privacy-first-medical-ai-with-medperf-and-google-cloud": {
+    "title": "Advancing brain tumor research with privacy-first AI",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-08-07T00:58:59.359061+00:00",
+    "published": "2026-08-06T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/data-analytics/bigquery-performance-optimizations": {
+    "title": "Agentic Future Ready With BigQuery: Continually Improving Price-Performance, Zero Effort",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-08-07T00:58:59.359061+00:00",
+    "published": "2026-08-06T16:00:00+00:00"
+  },
+  "https://provenmetal.com": {
+    "title": "Launch HN: ProvenMetal (YC S26) delivers circuit boards in days instead of weeks",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-07T00:58:59.359061+00:00",
+    "published": "2026-08-06T15:59:15+00:00"
+  },
+  "https://www.databricks.com/blog/kimi-k3-moonshot-ai-now-available-databricks-through-unity-ai-gateway": {
+    "title": "Kimi K3 from Moonshot AI is now available on Databricks through Unity AI Gateway",
+    "source": "Databricks Blog",
+    "first_seen": "2026-08-07T00:58:59.359061+00:00",
+    "published": "2026-08-06T15:50:57+00:00"
+  },
+  "https://pytorch.org/blog/pytorch-by-the-sea-the-inaugural-santa-cruz-pytorch-meetup": {
+    "title": "PyTorch by the Sea: The inaugural Santa Cruz PyTorch Meetup",
+    "source": "PyTorch Blog",
+    "first_seen": "2026-08-07T00:58:59.359061+00:00",
+    "published": "2026-08-06T15:50:43+00:00"
+  },
+  "https://www.githubstatus.com/incidents/qcvjkzcs7j74": {
+    "title": "GitHub Actions and Pages are experiencing degraded availability",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-07T00:58:59.359061+00:00",
+    "published": "2026-08-06T15:49:38+00:00"
+  },
+  "https://blog.bytebytego.com/p/the-read-path-versus-the-write-path": {
+    "title": "The Read Path versus the Write Path: Strategies and Techniques",
+    "source": "ByteByteGo",
+    "first_seen": "2026-08-07T00:58:59.359061+00:00",
+    "published": "2026-08-06T15:31:50+00:00"
+  },
+  "https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak": {
+    "title": "Almost no skill required to cook a steak",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-07T00:58:59.359061+00:00",
+    "published": "2026-08-06T15:30:48+00:00"
+  },
+  "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones": {
+    "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
+    "source": "DeepMind Blog",
+    "first_seen": "2026-08-07T00:58:59.359061+00:00",
+    "published": "2026-08-06T15:06:15+00:00"
+  },
+  "https://thenewstack.io/agent-native-runtime-branching": {
+    "title": "Anthropic recommends a git worktree per agent. Your runtime infra makes that a problem.",
+    "source": "The New Stack",
+    "first_seen": "2026-08-07T00:58:59.359061+00:00",
+    "published": "2026-08-06T15:00:00+00:00"
+  },
+  "https://www.phoronix.com/review/mesa-263-xe3": {
+    "title": "The Performance Benefits To Upgrading Mesa With Intel Arc B390 On Ubuntu Linux",
+    "source": "Phoronix",
+    "first_seen": "2026-08-07T00:58:59.359061+00:00",
+    "published": "2026-08-06T14:44:04+00:00"
+  },
+  "https://devblogs.microsoft.com/devops/pull-request-annotations-on-work-item-cards": {
+    "title": "Pull request annotations on work item cards",
+    "source": "MS DevOps Blog",
+    "first_seen": "2026-08-07T00:58:59.359061+00:00",
+    "published": "2026-08-06T14:00:21+00:00"
+  },
+  "https://tailscale.com/blog/aperture-lethal-trifecta": {
+    "title": "How Tailscale mitigates the lethal trifecta",
+    "source": "Tailscale Blog",
+    "first_seen": "2026-08-07T00:58:59.359061+00:00",
+    "published": "2026-08-06T14:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/topics/threat-intelligence/unc6671-targets-financial-services-and-enterprise-cloud-environments": {
+    "title": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-08-07T00:58:59.359061+00:00",
+    "published": "2026-08-06T14:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-Lockdown-Legacy-IO-Mem": {
+    "title": "Linux Accidentally Left Legacy I/O & Memory Handlers Open In Kernel Lockdown Mode",
+    "source": "Phoronix",
+    "first_seen": "2026-08-07T00:58:59.359061+00:00",
+    "published": "2026-08-06T13:50:00+00:00"
+  },
+  "https://lwn.net/Articles/1086947": {
+    "title": "[$] Bringing BPF to binfmt_misc",
+    "source": "LWN.net",
+    "first_seen": "2026-08-07T00:58:59.359061+00:00",
+    "published": "2026-08-06T13:47:18+00:00"
+  },
+  "https://lwn.net/Articles/1087490": {
+    "title": "Rust Coreutils 0.10 released",
+    "source": "LWN.net",
+    "first_seen": "2026-08-07T00:58:59.359061+00:00",
+    "published": "2026-08-06T13:37:51+00:00"
+  },
+  "https://lwn.net/Articles/1087489": {
+    "title": "Security updates for Thursday",
+    "source": "LWN.net",
+    "first_seen": "2026-08-07T00:58:59.359061+00:00",
+    "published": "2026-08-06T13:00:13+00:00"
+  },
+  "https://nextjs.org/blog/making-v0-navigations-instant": {
+    "title": "Making navigations instant in v0",
+    "source": "Next.js Blog",
+    "first_seen": "2026-08-07T00:58:59.359061+00:00",
+    "published": "2026-08-06T13:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/topics/startups/mirendil-selects-ai-hypercomputer": {
+    "title": "Mirendil taps AI Hypercomputer TPUs and GPUs for pre- and post-training applications",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-08-07T00:58:59.359061+00:00",
+    "published": "2026-08-06T13:00:00+00:00"
+  },
+  "https://blog.cloudflare.com/webmcp": {
+    "title": "Give any website a WebMCP interface",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-08-07T00:58:59.359061+00:00",
+    "published": "2026-08-06T13:00:00+00:00"
+  },
+  "https://blog.cloudflare.com/the-agentic-internet": {
+    "title": "Building an open Agentic Internet: readable, discoverable, callable, and payable",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-08-07T00:58:59.359061+00:00",
+    "published": "2026-08-06T13:00:00+00:00"
+  },
+  "https://blog.cloudflare.com/mcp-v2": {
+    "title": "The next generation of MCP",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-08-07T00:58:59.359061+00:00",
+    "published": "2026-08-06T13:00:00+00:00"
+  },
+  "https://blog.cloudflare.com/kitesurf": {
+    "title": "Introducing Kitesurf: The agent-first browser that runs in V8 isolates on Cloudflare Workers",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-08-07T00:58:59.359061+00:00",
+    "published": "2026-08-06T13:00:00+00:00"
+  },
+  "https://blog.cloudflare.com/ai-search-easier": {
+    "title": "Cloudflare AI Search: give your agents a search engine for your data",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-08-07T00:58:59.359061+00:00",
+    "published": "2026-08-06T13:00:00+00:00"
+  },
+  "https://blog.cloudflare.com/aeo": {
+    "title": "From ranking to recommended: get your site ready to thrive in the age of AI agents",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-08-07T00:58:59.359061+00:00",
+    "published": "2026-08-06T13:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-WiFi-Strict-AI-Slop-Patch": {
+    "title": "Linux Wireless Maintainer Takes Firm Stance Against AI/LLM Generated Slop Patches",
+    "source": "Phoronix",
+    "first_seen": "2026-08-07T00:58:59.359061+00:00",
+    "published": "2026-08-06T12:22:18+00:00"
+  },
+  "https://www.construction-physics.com/p/what-will-the-21st-century-road-to": {
+    "title": "What Will the 21st Century ROAD to Housing Act Do for Housing Supply?",
+    "source": "Construction Physics",
+    "first_seen": "2026-08-07T00:58:59.359061+00:00",
+    "published": "2026-08-06T12:02:32+00:00"
+  },
+  "https://realpython.com/quizzes/python-assignment-operator": {
+    "title": "Quiz: Python's Assignment Operator: Write Robust Assignments",
+    "source": "Real Python",
+    "first_seen": "2026-08-07T00:58:59.359061+00:00",
+    "published": "2026-08-06T12:00:00+00:00"
+  },
+  "https://neon.com/blog/building-neon-object-storage": {
+    "title": "Building Neon Object Storage",
+    "source": "Neon Blog",
+    "first_seen": "2026-08-07T00:58:59.359061+00:00",
+    "published": "2026-08-06T12:00:00+00:00"
+  },
+  "https://scalex.dev/blog/ai-agent-permissions-stats": {
+    "title": "Humans missed 1 in 3 threats approving AI agent commands across 40k game runs",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-07T00:58:59.359061+00:00",
+    "published": "2026-08-06T11:58:07+00:00"
+  },
+  "https://www.cncf.io/blog/2026/08/06/litmuschaos-q1-q2-2026-update-community-contributions-and-project-progress": {
+    "title": "LitmusChaos Q1-Q2 2026 update: community, contributions, and project progress",
+    "source": "CNCF Blog",
+    "first_seen": "2026-08-07T00:58:59.359061+00:00",
+    "published": "2026-08-06T11:30:00+00:00"
   }
 }
