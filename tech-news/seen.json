@@ -68564,5 +68564,227 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-08-07T09:47:12.538764+00:00",
     "published": "2026-08-06T11:24:53+00:00"
+  },
+  "https://www.freeformatter.com": {
+    "title": "Another Corner of the Internet Has Been Ruined",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-07T15:41:15.307910+00:00",
+    "published": "2026-08-07T15:16:20+00:00"
+  },
+  "https://www.youtube.com/watch?v=UufMqwyO7pY": {
+    "title": "Iceberg Collapses and Flips over in Ilulissat, Greenland (July 25, 2026) [video]",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-07T15:41:15.307910+00:00",
+    "published": "2026-08-07T14:55:08+00:00"
+  },
+  "https://letterstoanewdeveloper.com/2020/01/27/software-is-about-people-not-code": {
+    "title": "Software is about people, not code",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-07T15:41:15.307910+00:00",
+    "published": "2026-08-07T14:55:08+00:00"
+  },
+  "https://patronview.com/news/99-percent-of-my-website-traffic-is-bots": {
+    "title": "99% of My Website Traffic Is Bots",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-07T15:41:15.307910+00:00",
+    "published": "2026-08-07T14:51:57+00:00"
+  },
+  "https://lwn.net/Articles/1087812": {
+    "title": "The Software Stewardship Lab launches",
+    "source": "LWN.net",
+    "first_seen": "2026-08-07T15:41:15.307910+00:00",
+    "published": "2026-08-07T14:12:42+00:00"
+  },
+  "https://www.niemanlab.org/2026/08/americas-largest-newspaper-chain-usa-today-co-partners-with-palantir-to-analyze-audience-data": {
+    "title": "US's largest newspaper chain partners with Palantir to analyze audience data",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-07T15:41:15.307910+00:00",
+    "published": "2026-08-07T14:02:15+00:00"
+  },
+  "https://www.phoronix.com/news/Intel-HDMI-2.1-FRL-Linux-2026": {
+    "title": "Intel Makes Progress On HDMI 2.1 FRL With Their Linux Driver For Meteor Lake & Newer",
+    "source": "Phoronix",
+    "first_seen": "2026-08-07T15:41:15.307910+00:00",
+    "published": "2026-08-07T14:00:41+00:00"
+  },
+  "https://lwn.net/Articles/1087759": {
+    "title": "LightDM lives: version 1.33.0 released",
+    "source": "LWN.net",
+    "first_seen": "2026-08-07T15:41:15.307910+00:00",
+    "published": "2026-08-07T13:52:54+00:00"
+  },
+  "https://www.wsj.com/economy/jobs/july-jobs-report-unemployment-0d7c08a7": {
+    "title": "U.S. Lost 23,000 Jobs in July, While Unemployment Ticked Lower",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-07T15:41:15.307910+00:00",
+    "published": "2026-08-07T13:39:45+00:00"
+  },
+  "https://www.phoronix.com/news/PoCL-7.2-RC1": {
+    "title": "PoCL 7.2-RC1 Brings Official OpenCL 3.0 Conformance On RISC-V & x86_64 CPUs",
+    "source": "Phoronix",
+    "first_seen": "2026-08-07T15:41:15.307910+00:00",
+    "published": "2026-08-07T13:39:22+00:00"
+  },
+  "https://lwn.net/Articles/1087743": {
+    "title": "Stable kernel releases for Friday with a single bug fix",
+    "source": "LWN.net",
+    "first_seen": "2026-08-07T15:41:15.307910+00:00",
+    "published": "2026-08-07T13:35:55+00:00"
+  },
+  "https://lwn.net/Articles/1087742": {
+    "title": "Security updates for Friday",
+    "source": "LWN.net",
+    "first_seen": "2026-08-07T15:41:15.307910+00:00",
+    "published": "2026-08-07T13:12:33+00:00"
+  },
+  "https://blog.cloudflare.com/good-and-bad-agentic-behaviors": {
+    "title": "Unveiling good and bad behaviors on the Agentic Internet",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-08-07T15:41:15.307910+00:00",
+    "published": "2026-08-07T13:01:00+00:00"
+  },
+  "https://thenewstack.io/ai-kill-switch-infrastructure": {
+    "title": "The “AI kill switch” assumes you know what you are trying to shut down",
+    "source": "The New Stack",
+    "first_seen": "2026-08-07T15:41:15.307910+00:00",
+    "published": "2026-08-07T13:00:00+00:00"
+  },
+  "https://blog.cloudflare.com/workers-ai-gateway-unification": {
+    "title": "Unifying Workers AI and AI Gateway into a single AI control plane",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-08-07T15:41:15.307910+00:00",
+    "published": "2026-08-07T13:00:00+00:00"
+  },
+  "https://blog.cloudflare.com/introducing-radar-researcher": {
+    "title": "Introducing Radar Researcher: An AI tool for exploring Internet data in plain language",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-08-07T15:41:15.307910+00:00",
+    "published": "2026-08-07T13:00:00+00:00"
+  },
+  "https://blog.cloudflare.com/community-program-refresh": {
+    "title": "Announcing Cloudflare Ambassadors, Community Engineers, and another $1M in open-source funding",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-08-07T15:41:15.307910+00:00",
+    "published": "2026-08-07T13:00:00+00:00"
+  },
+  "https://www.nbcnews.com/business/economy/july-2026-jobs-report-rcna591138": {
+    "title": "U.S. economy lost 23,000 jobs in July, a sudden reversal",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-07T15:41:15.307910+00:00",
+    "published": "2026-08-07T12:42:58+00:00"
+  },
+  "https://github.com/Wyzer-Lang/wyzer": {
+    "title": "Show HN: Wyzer Programming Language",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-07T15:41:15.307910+00:00",
+    "published": "2026-08-07T12:28:55+00:00"
+  },
+  "https://www.phoronix.com/news/HID-HyperX-QuadCast-2-Linux-7.3": {
+    "title": "HyperX Driver Coming For Linux 7.3 Just To Report A Microphone's Mute Status",
+    "source": "Phoronix",
+    "first_seen": "2026-08-07T15:41:15.307910+00:00",
+    "published": "2026-08-07T12:23:21+00:00"
+  },
+  "https://realpython.com/quizzes/python-type-hints-multiple-types": {
+    "title": "Quiz: How to Use Type Hints for Multiple Return Types in Python",
+    "source": "Real Python",
+    "first_seen": "2026-08-07T15:41:15.307910+00:00",
+    "published": "2026-08-07T12:00:00+00:00"
+  },
+  "https://realpython.com/podcasts/rpp/306": {
+    "title": "The Real Python Podcast – Episode #306: Programmatically Developing LLM Prompts With DSPy",
+    "source": "Real Python",
+    "first_seen": "2026-08-07T15:41:15.307910+00:00",
+    "published": "2026-08-07T12:00:00+00:00"
+  },
+  "https://www.cncf.io/blog/2026/08/07/does-kubernetes-dra-replace-hami": {
+    "title": "Does Kubernetes DRA Replace HAMi?",
+    "source": "CNCF Blog",
+    "first_seen": "2026-08-07T15:41:15.307910+00:00",
+    "published": "2026-08-07T11:30:00+00:00"
+  },
+  "https://malisper.me/how-we-made-postgres-hundreds-of-times-faster-the-query-engine": {
+    "title": "Making Postgres 300x faster for analytics: batching, operator fusion, and SIMD",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-07T15:41:15.307910+00:00",
+    "published": "2026-08-07T11:00:35+00:00"
+  },
+  "https://www.cncf.io/blog/2026/08/07/shadow-ai-in-ci-cd-threat-modeling-the-path-from-developer-laptop-to-kubernetes": {
+    "title": "Shadow AI in CI/CD: Threat-modeling the path from developer laptop to Kubernetes",
+    "source": "CNCF Blog",
+    "first_seen": "2026-08-07T15:41:15.307910+00:00",
+    "published": "2026-08-07T11:00:00+00:00"
+  },
+  "https://textlog.cc/about": {
+    "title": "Show HN: textlog – A quiet, text-only microblogging platform, open-source, no JS",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-07T15:41:15.307910+00:00",
+    "published": "2026-08-07T10:52:21+00:00"
+  },
+  "https://www.phoronix.com/news/NetworkManager-AI-Coding-Policy": {
+    "title": "NetworkManager Adopts Policy For AI Coding Assistants",
+    "source": "Phoronix",
+    "first_seen": "2026-08-07T15:41:15.307910+00:00",
+    "published": "2026-08-07T10:42:34+00:00"
+  },
+  "https://www.phoronix.com/news/AMD-ROCm-Spur": {
+    "title": "AMD ROCm Spur: Providing AI-Native, Rust-Based Job Scheduling",
+    "source": "Phoronix",
+    "first_seen": "2026-08-07T15:41:15.307910+00:00",
+    "published": "2026-08-07T10:33:16+00:00"
+  },
+  "https://www.bbc.com/news/articles/c1e1vg0gjl5o": {
+    "title": "US strikes $1.2B deal to pay German firm to halt offshore wind projects",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-07T15:41:15.307910+00:00",
+    "published": "2026-08-07T10:28:55+00:00"
+  },
+  "https://www.schneier.com/blog/archives/2026/08/ice-is-buying-access-to-credit-card-records.html": {
+    "title": "ICE Is Buying Access to Credit Card Records",
+    "source": "Schneier on Security",
+    "first_seen": "2026-08-07T15:41:15.307910+00:00",
+    "published": "2026-08-07T10:26:41+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.2-rc7-UAF-PTDUMP": {
+    "title": "Linux 7.2-rc7 Addresses A \"Nasty\" Race Condition Leading To Use-After-Free After 8 Years",
+    "source": "Phoronix",
+    "first_seen": "2026-08-07T15:41:15.307910+00:00",
+    "published": "2026-08-07T10:25:20+00:00"
+  },
+  "https://www.phoronix.com/news/AMD-HDMI-VRR-ALLM-v2": {
+    "title": "AMD Updates HDMI 2.1 VRR & ALLM Patches But Will Miss Out On Linux 7.3",
+    "source": "Phoronix",
+    "first_seen": "2026-08-07T15:41:15.307910+00:00",
+    "published": "2026-08-07T10:08:04+00:00"
+  },
+  "https://www.phoronix.com/news/Vulkan-1.4.359": {
+    "title": "Vulkan 1.4.359 Expands Cooperative Matrix Capabilities",
+    "source": "Phoronix",
+    "first_seen": "2026-08-07T15:41:15.307910+00:00",
+    "published": "2026-08-07T09:58:38+00:00"
+  },
+  "https://www.phoronix.com/news/GCC-16.2-Released": {
+    "title": "GCC 16.2 Released With More Than 100 Fixes",
+    "source": "Phoronix",
+    "first_seen": "2026-08-07T15:41:15.307910+00:00",
+    "published": "2026-08-07T09:43:53+00:00"
+  },
+  "https://planetscale.com/blog/concurrency-vs-throughput-vitess-mysql": {
+    "title": "Concurrency vs. Throughput: why more parallelism can make databases slower",
+    "source": "PlanetScale Blog",
+    "first_seen": "2026-08-07T15:41:15.307910+00:00",
+    "published": "2026-08-07T00:00:00+00:00"
+  },
+  "https://machinelearning.apple.com/research/scaling-categorical-flow-maps": {
+    "title": "Scaling Categorical Flow Maps",
+    "source": "Apple ML Journal",
+    "first_seen": "2026-08-07T15:41:15.307910+00:00",
+    "published": "2026-08-07T00:00:00+00:00"
+  },
+  "https://golangweekly.com/issues/613": {
+    "title": "An interactive tour of Go 1.27",
+    "source": "Golang Weekly",
+    "first_seen": "2026-08-07T15:41:15.307910+00:00",
+    "published": "2026-08-07T00:00:00+00:00"
   }
 }
