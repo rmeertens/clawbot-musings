@@ -69218,5 +69218,89 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-08-08T15:16:55.938996+00:00",
     "published": "2026-08-07T20:25:04+00:00"
+  },
+  "https://eclipsefan.org?v=2&t=max&layers=eclipse%2Cbesselian%2Cumbra-live%2Cshadow-3d%2Ccloud-projection%2Cosm&lat=43.4623&lon=-3.8099&opacity=besselian%3A0.2%2Cumbra-live%3A0.2&zoom=6&palier=minute": {
+    "title": "Open-source interactive map for the Aug 12 total solar eclipse",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-08T21:18:10.170532+00:00",
+    "published": "2026-08-08T19:38:08+00:00"
+  },
+  "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral": {
+    "title": "Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-08T21:18:10.170532+00:00",
+    "published": "2026-08-08T18:09:31+00:00"
+  },
+  "https://classicbits.net/coding-and-software/my-software/monosol": {
+    "title": "TinySol, a tiny solitaire game for DOS",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-08T21:18:10.170532+00:00",
+    "published": "2026-08-08T17:42:40+00:00"
+  },
+  "https://newrepublic.com/post/214111/amazon-data-center-biggest-pollution-source-entire-country": {
+    "title": "Amazon Is Creating the Biggest Pollution Source in the Country",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-08T21:18:10.170532+00:00",
+    "published": "2026-08-08T17:27:52+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.3-Better-Intel-Hybrid": {
+    "title": "Linux 7.3 To Better Handle Cluster Load Balancing On Intel Hybrid CPUs",
+    "source": "Phoronix",
+    "first_seen": "2026-08-08T21:18:10.170532+00:00",
+    "published": "2026-08-08T17:27:05+00:00"
+  },
+  "https://github.com/andrewpollack/linkedin-feed-blocker": {
+    "title": "LinkedIn Feed Blocker",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-08T21:18:10.170532+00:00",
+    "published": "2026-08-08T16:49:07+00:00"
+  },
+  "https://www.phoronix.com/news/Polychromatic-0.9.8-Released": {
+    "title": "Polychromatic 0.9.8 Released With Razer Blade 16 2023 Support",
+    "source": "Phoronix",
+    "first_seen": "2026-08-08T21:18:10.170532+00:00",
+    "published": "2026-08-08T16:33:43+00:00"
+  },
+  "https://www.fastmail.com/blog/fastmail-offers-eu-data-region": {
+    "title": "Fastmail offers EU data region",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-08T21:18:10.170532+00:00",
+    "published": "2026-08-08T16:04:51+00:00"
+  },
+  "https://hackaday.com/2026/08/08/want-energy-efficiency-dude-youre-getting-a-dell": {
+    "title": "Can Intel finally beat ARM on performance per Watt?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-08T21:18:10.170532+00:00",
+    "published": "2026-08-08T16:04:36+00:00"
+  },
+  "https://code.claude.com/docs/en/cross-session-messaging": {
+    "title": "Message your other Claude Code sessions",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-08T21:18:10.170532+00:00",
+    "published": "2026-08-08T15:34:49+00:00"
+  },
+  "https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers": {
+    "title": "\"Code was never the hard part\" is an insult to all programmers",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-08T21:18:10.170532+00:00",
+    "published": "2026-08-08T14:32:33+00:00"
+  },
+  "https://lethain.com/middle-management-roles-were-also-a-trap": {
+    "title": "Middle management roles are also a trap.",
+    "source": "Will Larson",
+    "first_seen": "2026-08-08T21:18:10.170532+00:00",
+    "published": "2026-08-08T14:00:00+00:00"
+  },
+  "https://blog.getutm.app/2026/introducing-triton-directx-11-driver-for-qemu": {
+    "title": "Triton: DirectX 11 Driver for QEMU",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-08T21:18:10.170532+00:00",
+    "published": "2026-08-08T13:33:06+00:00"
+  },
+  "https://www.tigerdata.com/blog/what-pg_stat_statements-actually-tells-you-about-your-queries": {
+    "title": "What pg_stat_statements Actually Tells You About Your Queries",
+    "source": "Timescale Blog",
+    "first_seen": "2026-08-08T21:18:10.170532+00:00",
+    "published": "2026-08-07T04:00:00+00:00"
   }
 }
