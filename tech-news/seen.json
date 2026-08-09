@@ -69398,5 +69398,89 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-08-09T09:26:28.329327+00:00",
     "published": "2026-08-08T22:32:50+00:00"
+  },
+  "https://thenewstack.io/evaluating-coding-agents-framework": {
+    "title": "Coding agents can be evaluated. We just have to evaluate the work.",
+    "source": "The New Stack",
+    "first_seen": "2026-08-09T15:18:57.663526+00:00",
+    "published": "2026-08-09T15:00:00+00:00"
+  },
+  "https://thenewstack.io/ai-productivity-measurement-gap": {
+    "title": "AI coding got faster. Why didn’t engineering?",
+    "source": "The New Stack",
+    "first_seen": "2026-08-09T15:18:57.663526+00:00",
+    "published": "2026-08-09T14:00:00+00:00"
+  },
+  "https://kibotronics.net/unlisted/lilly-machines": {
+    "title": "John C. Lilly on solid state intelligence and the elimination of man (1978)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-09T15:18:57.663526+00:00",
+    "published": "2026-08-09T13:47:36+00:00"
+  },
+  "https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html": {
+    "title": "Mea Culpa – Dark Hours",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-09T15:18:57.663526+00:00",
+    "published": "2026-08-09T13:20:43+00:00"
+  },
+  "https://github.com/rochus-keller/OberonSystem/tree/op2-rv32": {
+    "title": "Show HN: A Project Oberon System version running on RISC-V instead of RISC-5",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-09T15:18:57.663526+00:00",
+    "published": "2026-08-09T12:43:16+00:00"
+  },
+  "https://www.phoronix.com/news/Intel-Large-GRF-Mode-Mesa-26.3": {
+    "title": "Mesa 26.3 Intel Driver Code Enables Large GRF Mode For Newer GPUs",
+    "source": "Phoronix",
+    "first_seen": "2026-08-09T15:18:57.663526+00:00",
+    "published": "2026-08-09T12:24:53+00:00"
+  },
+  "https://www.youtube.com/watch?v=68X8yEatepQ": {
+    "title": "70% of AI revenue comes from OpenAI and Anthropic",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-09T15:18:57.663526+00:00",
+    "published": "2026-08-09T11:56:16+00:00"
+  },
+  "https://oskrim.github.io/hardware/2026/08/09/remarkable-over-ssh.html": {
+    "title": "Reviving a four year old reMarkable 2",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-09T15:18:57.663526+00:00",
+    "published": "2026-08-09T11:39:25+00:00"
+  },
+  "https://news.stanford.edu/stories/2025/12/gas-propane-stoves-nitrogen-dioxide-exposure-health-risks-switching-electric": {
+    "title": "Switching to electric stoves can dramatically cut indoor air pollution",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-09T15:18:57.663526+00:00",
+    "published": "2026-08-09T11:19:31+00:00"
+  },
+  "https://www.phoronix.com/news/Dell-Latitude-7320-Linux-Webcam": {
+    "title": "Dell Latitude 7320 2-in-1 Seeing Web Camera Support On Linux After Five Years",
+    "source": "Phoronix",
+    "first_seen": "2026-08-09T15:18:57.663526+00:00",
+    "published": "2026-08-09T10:37:00+00:00"
+  },
+  "https://portswigger.net/research/css-the-bomb-inside-your-inbox": {
+    "title": "CSS: The bomb inside your inbox",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-09T15:18:57.663526+00:00",
+    "published": "2026-08-09T10:17:52+00:00"
+  },
+  "https://www.phoronix.com/news/FreeBSD-14.5-Beta-1": {
+    "title": "FreeBSD 14.5 Beta 1 Released With Various Backports, Security Fixes",
+    "source": "Phoronix",
+    "first_seen": "2026-08-09T15:18:57.663526+00:00",
+    "published": "2026-08-09T10:10:44+00:00"
+  },
+  "https://halfhill.com/byte/1998-12_alpha.html": {
+    "title": "The Alpha 21264 CPU: NT's Greatest RISC (1998)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-09T15:18:57.663526+00:00",
+    "published": "2026-08-09T10:06:37+00:00"
+  },
+  "https://airy.so": {
+    "title": "Show HN: Airy – Free, fast, and simple voice content creation",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-09T15:18:57.663526+00:00",
+    "published": "2026-08-09T09:29:32+00:00"
   }
 }
