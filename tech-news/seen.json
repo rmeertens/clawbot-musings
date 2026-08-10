@@ -69980,5 +69980,257 @@
     "source": "Hugging Face Blog",
     "first_seen": "2026-08-10T15:46:22.629829+00:00",
     "published": "2026-08-10T00:00:00+00:00"
+  },
+  "https://thenewstack.io/openai-gpt56-cyber-daybreak": {
+    "title": "OpenAI built a model it doesn’t want most people to use",
+    "source": "The New Stack",
+    "first_seen": "2026-08-10T21:29:40.241579+00:00",
+    "published": "2026-08-10T21:15:15+00:00"
+  },
+  "https://aws.amazon.com/blogs/security/aws-completes-the-2026-police-assured-secure-facilities-pasf-audit-in-europe-london": {
+    "title": "AWS completes the 2026 Police-Assured Secure Facilities (PASF) audit in Europe (London)",
+    "source": "AWS Security Blog",
+    "first_seen": "2026-08-10T21:29:40.241579+00:00",
+    "published": "2026-08-10T20:21:40+00:00"
+  },
+  "https://linuxstans.com/illinois-hb5511-operating-system-age-verification": {
+    "title": "Illinois Just Passed a Law That Puts Linux on the Hook for Age Verification",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-10T21:29:40.241579+00:00",
+    "published": "2026-08-10T20:20:06+00:00"
+  },
+  "https://www.phoronix.com/news/Fedora-CoreOS-OOMD-zRAM-Swap": {
+    "title": "Fedora CoreOS To Enable systemd-oomd & zRAM Swap By Default",
+    "source": "Phoronix",
+    "first_seen": "2026-08-10T21:29:40.241579+00:00",
+    "published": "2026-08-10T19:35:44+00:00"
+  },
+  "https://github.blog/engineering/using-the-github-copilot-sdk-for-java": {
+    "title": "Using the GitHub Copilot SDK for Java",
+    "source": "GitHub Blog",
+    "first_seen": "2026-08-10T21:29:40.241579+00:00",
+    "published": "2026-08-10T19:30:00+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.3-Yogafan-Driver": {
+    "title": "Five More Lenovo Laptops To Report Fan Sensors With Linux 7.3",
+    "source": "Phoronix",
+    "first_seen": "2026-08-10T21:29:40.241579+00:00",
+    "published": "2026-08-10T18:40:00+00:00"
+  },
+  "https://blog.cloudflare.com/agents-week-review-august-2026": {
+    "title": "Everything we launched during Agents Week",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-08-10T21:29:40.241579+00:00",
+    "published": "2026-08-10T18:34:10+00:00"
+  },
+  "https://www.databricks.com/blog/innocent-until-combined-blocking-lethal-trifecta-omnigent-contextual-policies": {
+    "title": "Innocent until combined: Blocking the lethal trifecta with Omnigent Contextual Policies",
+    "source": "Databricks Blog",
+    "first_seen": "2026-08-10T21:29:40.241579+00:00",
+    "published": "2026-08-10T18:30:00+00:00"
+  },
+  "https://www.vectorware.com/blog/simd-on-gpu": {
+    "title": "Rust SIMD on the GPU",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-10T21:29:40.241579+00:00",
+    "published": "2026-08-10T18:12:49+00:00"
+  },
+  "https://alphatheta.com/en/information/important-notice-security-vulnerability-in-pro-dj-link": {
+    "title": "Security Vulnerability in Pioneer Rekordbox",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-10T21:29:40.241579+00:00",
+    "published": "2026-08-10T18:11:52+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.3-KCFI-Optimization": {
+    "title": "Linux 7.3 Bringing A KCFI Optimization To Benefit Older Intel CPUs",
+    "source": "Phoronix",
+    "first_seen": "2026-08-10T21:29:40.241579+00:00",
+    "published": "2026-08-10T17:26:55+00:00"
+  },
+  "https://cactuscompute.com/needle": {
+    "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-10T21:29:40.241579+00:00",
+    "published": "2026-08-10T17:22:07+00:00"
+  },
+  "https://thenewstack.io/meta-glimmer-distillation-agents": {
+    "title": "Meta’s Muse Glimmer fits on a laptop",
+    "source": "The New Stack",
+    "first_seen": "2026-08-10T21:29:40.241579+00:00",
+    "published": "2026-08-10T17:16:20+00:00"
+  },
+  "https://aws.amazon.com/blogs/security/2026-aws-cybervadis-report-now-available-for-due-diligence-on-third-party-suppliers": {
+    "title": "2026 AWS CyberVadis report now available for due diligence on third-party suppliers",
+    "source": "AWS Security Blog",
+    "first_seen": "2026-08-10T21:29:40.241579+00:00",
+    "published": "2026-08-10T17:09:02+00:00"
+  },
+  "https://openai.com/index/building-an-ai-native-finance-function": {
+    "title": "What building an AI-native finance function taught me",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-08-10T21:29:40.241579+00:00",
+    "published": "2026-08-10T17:00:00+00:00"
+  },
+  "https://www.stoaexchange.com": {
+    "title": "Launch HN: Stoa Markets (YC S26) – A Marketplace for GPUs and AI Servers",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-10T21:29:40.241579+00:00",
+    "published": "2026-08-10T16:35:27+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/run-interactive-ides-on-amazon-eks-with-sagemaker-ai-to-power-up-your-ai-workflows": {
+    "title": "Run interactive IDEs on Amazon EKS with SageMaker AI to power up your AI workflows",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-08-10T21:29:40.241579+00:00",
+    "published": "2026-08-10T16:34:37+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/how-nops-shipped-finops-agents-75-faster-with-amazon-bedrock-agentcore": {
+    "title": "How nOps shipped FinOps agents 75% faster with Amazon Bedrock AgentCore",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-08-10T21:29:40.241579+00:00",
+    "published": "2026-08-10T16:30:46+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/how-a-team-at-epic-games-tuned-amazon-opensearch-service-for-fortnite-analytics": {
+    "title": "How a team at Epic Games tuned Amazon OpenSearch Service for Fortnite analytics",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-08-10T21:29:40.241579+00:00",
+    "published": "2026-08-10T16:26:32+00:00"
+  },
+  "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents": {
+    "title": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-08-10T21:29:40.241579+00:00",
+    "published": "2026-08-10T16:25:36+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/ai-powered-cost-optimization-agent-for-amazon-kinesis-data-streams": {
+    "title": "AI-powered cost optimization agent for Amazon Kinesis Data Streams",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-08-10T21:29:40.241579+00:00",
+    "published": "2026-08-10T16:21:55+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/recover-from-accidental-dynamodb-changes-using-bulk-executor": {
+    "title": "Recover from accidental DynamoDB changes using Bulk Executor",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-08-10T21:29:40.241579+00:00",
+    "published": "2026-08-10T16:03:20+00:00"
+  },
+  "https://github.com/xoreaxeaxeax/smiiiiiiiiiiiiiiii": {
+    "title": "Exploiting System Management Mode with a very long interrupt",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-10T21:29:40.241579+00:00",
+    "published": "2026-08-10T16:03:14+00:00"
+  },
+  "https://thenewstack.io/accelerating-eks-image-pulls": {
+    "title": "Pulling multi-gigabyte container images in seconds on Amazon EKS",
+    "source": "The New Stack",
+    "first_seen": "2026-08-10T21:29:40.241579+00:00",
+    "published": "2026-08-10T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/networking/new-clusternetworkpolicy-in-gke": {
+    "title": "ClusterNetworkPolicy in GKE: Balancing control and autonomy for your microservices",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-08-10T21:29:40.241579+00:00",
+    "published": "2026-08-10T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/media-entertainment/how-wpp-operationalizes-platform-and-data-engineering-for-ai-marketing": {
+    "title": "How WPP operationalizes platform and data engineering for AI marketing",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-08-10T21:29:40.241579+00:00",
+    "published": "2026-08-10T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/data-analytics/solving-retails-cold-start-problem-malachytes-recommendation-reinvention": {
+    "title": "How Malachyte solves retail’s cold-start problem with managed real-time AI",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-08-10T21:29:40.241579+00:00",
+    "published": "2026-08-10T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/ai-machine-learning/google-named-a-leader-in-the-forrester-wave-ai-platforms": {
+    "title": "Google named a Leader in The Forrester Wave™: AI Platforms, Q3 2026",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-08-10T21:29:40.241579+00:00",
+    "published": "2026-08-10T16:00:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/configure-aws-advanced-jdbc-wrapper-connection-pooling-with-the-assistant": {
+    "title": "Configure AWS Advanced JDBC Wrapper connection pooling with the assistant",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-08-10T21:29:40.241579+00:00",
+    "published": "2026-08-10T15:59:53+00:00"
+  },
+  "https://github.com/AntigmaLabs/ante": {
+    "title": "Show HN: Ante, a coding agent in a single binary that runs offline",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-10T21:29:40.241579+00:00",
+    "published": "2026-08-10T15:59:23+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/build-zero-downtime-write-architectures-for-amazon-neptune": {
+    "title": "Build zero-downtime write architectures for Amazon Neptune",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-08-10T21:29:40.241579+00:00",
+    "published": "2026-08-10T15:58:46+00:00"
+  },
+  "https://jackschaedler.github.io/handwriting-recognition": {
+    "title": "Back to the Future of Handwriting Recognition (2016)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-10T21:29:40.241579+00:00",
+    "published": "2026-08-10T15:58:32+00:00"
+  },
+  "https://arxiv.org/abs/2607.29380": {
+    "title": "The Tragedy of the Cognitive Commons",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-10T21:29:40.241579+00:00",
+    "published": "2026-08-10T15:55:15+00:00"
+  },
+  "https://pim.murata.com/asset/pim4/siliconCapacitor/SICAP_X2SC422522_PDF_SILICONCAPACITOR": {
+    "title": "Extreme 220GHz+Broadband Silicon Capacitor X2SC 0201M 22nF BV11",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-10T21:29:40.241579+00:00",
+    "published": "2026-08-10T15:53:01+00:00"
+  },
+  "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjl2/executive": {
+    "title": "Magnitude 7.4 Earthquake – 5 km S of San José del Palmar, Colombia",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-10T21:29:40.241579+00:00",
+    "published": "2026-08-10T15:49:48+00:00"
+  },
+  "https://www.wcax.com/2026/08/07/kinney-drugs-pulls-back-ai-phone-assistant-after-hundreds-customer-complaints": {
+    "title": "Kinney Drugs pulls back AI phone assistant after hundreds of customer complaints",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-10T21:29:40.241579+00:00",
+    "published": "2026-08-10T14:56:32+00:00"
+  },
+  "https://blog.sshh.io/p/exploring-claudegpt-knowledge-cutoffs": {
+    "title": "Exploring Claude/GPT Knowledge Cutoffs and Pre-Training Timelines",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-10T21:29:40.241579+00:00",
+    "published": "2026-08-10T14:20:41+00:00"
+  },
+  "https://github.com/Juror-AI/juror": {
+    "title": "Show HN: Open-Source Greptile Alternative",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-10T21:29:40.241579+00:00",
+    "published": "2026-08-10T14:17:13+00:00"
+  },
+  "https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb": {
+    "title": "Humanising LLM Outputs Is Dumb",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-10T21:29:40.241579+00:00",
+    "published": "2026-08-10T13:35:40+00:00"
+  },
+  "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands": {
+    "title": "Putting frontier cyber models in more trusted hands",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-08-10T21:29:40.241579+00:00",
+    "published": "2026-08-10T10:00:00+00:00"
+  },
+  "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows": {
+    "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-08-10T21:29:40.241579+00:00",
+    "published": "2026-08-10T10:00:00+00:00"
+  },
+  "https://openai.com/index/premium-seats-chatgpt-business": {
+    "title": "Premium seats are coming to ChatGPT Business",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-08-10T21:29:40.241579+00:00",
+    "published": "2026-08-10T00:00:00+00:00"
   }
 }
