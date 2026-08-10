@@ -69758,5 +69758,227 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-08-10T10:06:33.455115+00:00",
     "published": "2026-08-09T11:30:48+00:00"
+  },
+  "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-heroes-summit-web-search-on-amazon-bedrock-dogwood-kiro-crew-and-more-august-10-2026": {
+    "title": "AWS Weekly Roundup: AWS Heroes Summit, Web Search on Amazon Bedrock, Dogwood, Kiro Crew, and more (August 10, 2026)",
+    "source": "AWS Blog",
+    "first_seen": "2026-08-10T15:46:22.629829+00:00",
+    "published": "2026-08-10T15:45:03+00:00"
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-06/what-is-openai-s-device-a-doughnut-shaped-speaker-that-costs-over-300": {
+    "title": "OpenAI's New Device Will Be Hockey Puck-Sized and Cost over $300",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-10T15:46:22.629829+00:00",
+    "published": "2026-08-10T15:35:00+00:00"
+  },
+  "https://www.bbc.com/news/articles/c1j1kjy7gewo": {
+    "title": "Mars Bar from 1991 found – and it's 20g bigger than today's",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-10T15:46:22.629829+00:00",
+    "published": "2026-08-10T15:32:04+00:00"
+  },
+  "https://www.theguardian.com/games/2026/aug/10/ai-psychological-horror-game-prove-youre-human-sunset-visitor-studio": {
+    "title": "Convince an AI it's not alive in psychological horror game Prove You're Human",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-10T15:46:22.629829+00:00",
+    "published": "2026-08-10T15:31:55+00:00"
+  },
+  "https://blog.bytebytego.com/p/how-to-fight-clickbait-meta-linkedin": {
+    "title": "How to Fight Clickbait: Meta, LinkedIn & YouTube Case Studies",
+    "source": "ByteByteGo",
+    "first_seen": "2026-08-10T15:46:22.629829+00:00",
+    "published": "2026-08-10T15:30:49+00:00"
+  },
+  "https://www.phoronix.com/news/Qt-Edge-AI-Module-Coming": {
+    "title": "Qt Toolkit To Introduce Edge AI Submodule, Initially For Vision AI With Qt",
+    "source": "Phoronix",
+    "first_seen": "2026-08-10T15:46:22.629829+00:00",
+    "published": "2026-08-10T15:22:21+00:00"
+  },
+  "https://www.databricks.com/blog/introducing-file-type-native-column-type-multimodal-data": {
+    "title": "Introducing FILE type: a native column type for multimodal data",
+    "source": "Databricks Blog",
+    "first_seen": "2026-08-10T15:46:22.629829+00:00",
+    "published": "2026-08-10T15:00:00+00:00"
+  },
+  "https://thenewstack.io/meta-muse-claude-code": {
+    "title": "Meta Muse Code vs. Fable 5: Meta Muse is cheaper, but at what cost?",
+    "source": "The New Stack",
+    "first_seen": "2026-08-10T15:46:22.629829+00:00",
+    "published": "2026-08-10T15:00:00+00:00"
+  },
+  "https://openai.com/index/responsible-ai-infrastructure-texas": {
+    "title": "OpenAI's letter to Governor Abbott on responsible AI infrastructure in Texas",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-10T15:46:22.629829+00:00",
+    "published": "2026-08-10T14:38:20+00:00"
+  },
+  "https://www.phoronix.com/review/intel-xeon-678x-windows-linux": {
+    "title": "Intel Xeon 678X Windows 11 vs. Ubuntu 26.04 Performance With The HP Z4 G6i",
+    "source": "Phoronix",
+    "first_seen": "2026-08-10T15:46:22.629829+00:00",
+    "published": "2026-08-10T14:35:23+00:00"
+  },
+  "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates": {
+    "title": "Evolve your marketing with new AI tools",
+    "source": "Google AI Blog",
+    "first_seen": "2026-08-10T15:46:22.629829+00:00",
+    "published": "2026-08-10T14:30:00+00:00"
+  },
+  "https://thenewstack.io/developers-review-gpt-56-sol": {
+    "title": "“It blows my mind”-“It has a tendency to overengineer things a little”: Developers react to road-testing OpenAI GPT‑5.6 Sol",
+    "source": "The New Stack",
+    "first_seen": "2026-08-10T15:46:22.629829+00:00",
+    "published": "2026-08-10T14:28:08+00:00"
+  },
+  "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878": {
+    "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-10T15:46:22.629829+00:00",
+    "published": "2026-08-10T14:06:22+00:00"
+  },
+  "https://realpython.com/qt-designer-python": {
+    "title": "Qt Designer and Python: Build Your GUI Applications Faster",
+    "source": "Real Python",
+    "first_seen": "2026-08-10T15:46:22.629829+00:00",
+    "published": "2026-08-10T14:00:00+00:00"
+  },
+  "https://lwn.net/Articles/1087069": {
+    "title": "[$] Even more formal verification for BPF",
+    "source": "LWN.net",
+    "first_seen": "2026-08-10T15:46:22.629829+00:00",
+    "published": "2026-08-10T13:59:33+00:00"
+  },
+  "https://pytorch.org/blog/fast-ondevice-agentic-ai-with-executorch": {
+    "title": "Fast, On Device Agentic AI with Muse Glimmer on ExecuTorch",
+    "source": "PyTorch Blog",
+    "first_seen": "2026-08-10T15:46:22.629829+00:00",
+    "published": "2026-08-10T13:42:54+00:00"
+  },
+  "https://aws.amazon.com/blogs/compute/low-latency-high-throughput-sqs-event-processing-with-aws-lambda-provisioned-mode": {
+    "title": "Low-latency, high-throughput SQS event processing with AWS Lambda provisioned mode",
+    "source": "AWS Compute Blog",
+    "first_seen": "2026-08-10T15:46:22.629829+00:00",
+    "published": "2026-08-10T13:42:03+00:00"
+  },
+  "https://lwn.net/Articles/1088059": {
+    "title": "Django moves to an annual release cycle",
+    "source": "LWN.net",
+    "first_seen": "2026-08-10T15:46:22.629829+00:00",
+    "published": "2026-08-10T13:31:59+00:00"
+  },
+  "https://patentsgazette.uspto.gov/week26/OG/html/1547-5/US12670045-20260630.html": {
+    "title": "Mistral Patent for \"Code implemented tool calls\"",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-10T15:46:22.629829+00:00",
+    "published": "2026-08-10T13:29:12+00:00"
+  },
+  "https://developer.nvidia.com/blog/run-local-agentic-ai-workflows-with-metas-muse-glimmer-on-nvidia": {
+    "title": "Run Local Agentic AI Workflows with Meta’s Muse Glimmer on NVIDIA",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-08-10T15:46:22.629829+00:00",
+    "published": "2026-08-10T13:27:19+00:00"
+  },
+  "https://mrmarket.lol/how-i-feel-calmin-control-of-my-life-in-the-time-of-enshittification": {
+    "title": "Defending my own brain against enshittification",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-10T15:46:22.629829+00:00",
+    "published": "2026-08-10T13:20:09+00:00"
+  },
+  "https://lwn.net/Articles/1088057": {
+    "title": "Security updates for Monday",
+    "source": "LWN.net",
+    "first_seen": "2026-08-10T15:46:22.629829+00:00",
+    "published": "2026-08-10T13:07:43+00:00"
+  },
+  "https://blog.cloudflare.com/fedramp-class-d-certification": {
+    "title": "Serving the most critical missions: Cloudflare for Government achieves FedRAMP Class D (High) Certified status",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-08-10T15:46:22.629829+00:00",
+    "published": "2026-08-10T13:00:00+00:00"
+  },
+  "https://www.beautifulpublicdata.com/boat-names": {
+    "title": "50k Boat Names",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-10T15:46:22.629829+00:00",
+    "published": "2026-08-10T12:58:16+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-Mint-July-2026": {
+    "title": "Linux Mint Improves Kernel Management & Setting System-Wide Environment Variables",
+    "source": "Phoronix",
+    "first_seen": "2026-08-10T15:46:22.629829+00:00",
+    "published": "2026-08-10T12:53:49+00:00"
+  },
+  "https://bobdahacker.com/blog/tldv-hack": {
+    "title": "Over 181,000 AI meeting recordings left wide open in note taking app",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-10T15:46:22.629829+00:00",
+    "published": "2026-08-10T12:26:05+00:00"
+  },
+  "https://squeak.org/release_notes/6.1": {
+    "title": "Squeak/Smalltalk 6.1 Release Notes",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-10T15:46:22.629829+00:00",
+    "published": "2026-08-10T12:15:53+00:00"
+  },
+  "https://thenewstack.io/deepseek-flash-pro-benchmark": {
+    "title": "V4-Flash vs. V4-Pro: DeepSeek promised better and cheaper. It’s true,  but not how I expected.",
+    "source": "The New Stack",
+    "first_seen": "2026-08-10T15:46:22.629829+00:00",
+    "published": "2026-08-10T12:00:00+00:00"
+  },
+  "https://openai.com/index/model-ml": {
+    "title": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-08-10T15:46:22.629829+00:00",
+    "published": "2026-08-10T12:00:00+00:00"
+  },
+  "https://lwn.net/Articles/1034703": {
+    "title": "Tail-call optimization in C is relatively recent",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-10T15:46:22.629829+00:00",
+    "published": "2026-08-10T11:34:40+00:00"
+  },
+  "https://www.phoronix.com/news/Meta-Muse-Glimmer": {
+    "title": "Meta Publishes Muse Glimmer As 30B Open Agentic Model",
+    "source": "Phoronix",
+    "first_seen": "2026-08-10T15:46:22.629829+00:00",
+    "published": "2026-08-10T11:10:49+00:00"
+  },
+  "https://www.schneier.com/blog/archives/2026/08/python-now-has-a-post-quantum-encryption-library.html": {
+    "title": "Python Now Has a Post-Quantum Encryption Library",
+    "source": "Schneier on Security",
+    "first_seen": "2026-08-10T15:46:22.629829+00:00",
+    "published": "2026-08-10T11:02:26+00:00"
+  },
+  "https://ethw.org/Milestones:Parametron,_1954": {
+    "title": "Parametron: 50s Japanese computer that uses neither transistors nor vacuum tubes",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-10T15:46:22.629829+00:00",
+    "published": "2026-08-10T10:29:14+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-WMB-SSE-Optimization": {
+    "title": "Minor Optimization Coming For AMD Athlon XP Era Systems Running Linux",
+    "source": "Phoronix",
+    "first_seen": "2026-08-10T15:46:22.629829+00:00",
+    "published": "2026-08-10T10:28:14+00:00"
+  },
+  "https://www.phoronix.com/news/Apple-M1-Power-Savings-Linux-73": {
+    "title": "Apple M1 Series SoCs To See ~1 Watt Power Savings With Linux 7.3",
+    "source": "Phoronix",
+    "first_seen": "2026-08-10T15:46:22.629829+00:00",
+    "published": "2026-08-10T10:15:44+00:00"
+  },
+  "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model": {
+    "title": "Meta Muse Glimmer – open weights 30B local coding model",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-10T15:46:22.629829+00:00",
+    "published": "2026-08-10T10:10:02+00:00"
+  },
+  "https://huggingface.co/blog/muse-glimmer": {
+    "title": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-08-10T15:46:22.629829+00:00",
+    "published": "2026-08-10T00:00:00+00:00"
   }
 }
