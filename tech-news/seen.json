@@ -69620,5 +69620,143 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-08-09T21:19:34.962789+00:00",
     "published": "2026-08-09T14:30:05+00:00"
+  },
+  "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation": {
+    "title": "Making Knowledge Distillation Cheap Enough to Run at Scale",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-08-10T10:06:33.455115+00:00",
+    "published": "2026-08-10T10:05:36+00:00"
+  },
+  "https://stratechery.com/2026/apple-earnings-more-on-amazons-earnings": {
+    "title": "Apple Earnings, More on Amazon’s Earnings",
+    "source": "Stratechery",
+    "first_seen": "2026-08-10T10:06:33.455115+00:00",
+    "published": "2026-08-10T10:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/SGI-GRU-Being-Removed": {
+    "title": "Old SGI Drivers Being Removed In Linux 7.3 Over Security Concerns",
+    "source": "Phoronix",
+    "first_seen": "2026-08-10T10:06:33.455115+00:00",
+    "published": "2026-08-10T09:59:20+00:00"
+  },
+  "https://marketplace.visualstudio.com/items?itemName=strangepleasures.implant": {
+    "title": "Implant – an extension to VS Code that exposes its APIs to coding agents",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-10T10:06:33.455115+00:00",
+    "published": "2026-08-10T09:22:25+00:00"
+  },
+  "https://www.docker.com/products/docker-sandboxes": {
+    "title": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-10T10:06:33.455115+00:00",
+    "published": "2026-08-10T06:02:38+00:00"
+  },
+  "https://www.economist.com/asia/2026/08/06/the-philippines-big-offshoring-industry-is-growing-despite-ai": {
+    "title": "The Philippines' big offshoring industry is growing despite AI",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-10T10:06:33.455115+00:00",
+    "published": "2026-08-10T04:35:24+00:00"
+  },
+  "https://claude.com/blog/auto-mode-default-in-claude-code": {
+    "title": "Auto mode is now the default in Claude Code",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-10T10:06:33.455115+00:00",
+    "published": "2026-08-10T03:50:00+00:00"
+  },
+  "https://www.whodunnitai.com": {
+    "title": "Show HN: Voice driven murder mystery, Interview AI suspects with your voice",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-10T10:06:33.455115+00:00",
+    "published": "2026-08-10T03:18:40+00:00"
+  },
+  "https://github.com/shinyquagsire23/Klepton": {
+    "title": "Run Android ARM64 VR APKs on Apple Vision Pro",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-10T10:06:33.455115+00:00",
+    "published": "2026-08-10T03:12:48+00:00"
+  },
+  "https://foldingglobes.com": {
+    "title": "Turn satellite imagery into a paper globe you fold yourself",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-10T10:06:33.455115+00:00",
+    "published": "2026-08-10T02:57:38+00:00"
+  },
+  "https://blog.teknogeek.io/posts/what-happened-to-hackerone": {
+    "title": "What Happened to HackerOne?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-10T10:06:33.455115+00:00",
+    "published": "2026-08-10T02:23:17+00:00"
+  },
+  "https://simonwillison.net/2026/Aug/10/openclaw": {
+    "title": "Quoting OpenClaw",
+    "source": "Simon Willison",
+    "first_seen": "2026-08-10T10:06:33.455115+00:00",
+    "published": "2026-08-10T02:05:16+00:00"
+  },
+  "https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring": {
+    "title": "How We Pushed CDC into Postgres",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-10T10:06:33.455115+00:00",
+    "published": "2026-08-10T01:01:34+00:00"
+  },
+  "https://www.betonit.ai/p/the-ambition-project": {
+    "title": "The Ambition Project",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-10T10:06:33.455115+00:00",
+    "published": "2026-08-09T23:36:05+00:00"
+  },
+  "https://simonwillison.net/2026/Aug/9/claude-opus-5-system-prompt": {
+    "title": "Quoting Claude Opus 5 system prompt",
+    "source": "Simon Willison",
+    "first_seen": "2026-08-10T10:06:33.455115+00:00",
+    "published": "2026-08-09T23:31:39+00:00"
+  },
+  "https://simonwillison.net/2026/Aug/9/github-models-is-now-retired": {
+    "title": "GitHub Models is now retired",
+    "source": "Simon Willison",
+    "first_seen": "2026-08-10T10:06:33.455115+00:00",
+    "published": "2026-08-09T22:48:05+00:00"
+  },
+  "https://lwn.net/Articles/1087961": {
+    "title": "Kernel prepatch 7.2-rc7",
+    "source": "LWN.net",
+    "first_seen": "2026-08-10T10:06:33.455115+00:00",
+    "published": "2026-08-09T22:39:56+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.2-rc7-Released": {
+    "title": "Linux 7.2-rc7 Released Following Another Exhausting AI-Driven Week",
+    "source": "Phoronix",
+    "first_seen": "2026-08-10T10:06:33.455115+00:00",
+    "published": "2026-08-09T22:14:34+00:00"
+  },
+  "https://simonwillison.net/2026/Aug/9/sqlite-text-history-prototype": {
+    "title": "SQLite compressed text-history prototypes",
+    "source": "Simon Willison",
+    "first_seen": "2026-08-10T10:06:33.455115+00:00",
+    "published": "2026-08-09T22:05:00+00:00"
+  },
+  "https://tuxedono2.com": {
+    "title": "Tuxedo No. 2 – Cocktail recipes",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-10T10:06:33.455115+00:00",
+    "published": "2026-08-09T20:48:46+00:00"
+  },
+  "https://propelmusic.co.nz/articles/the-sound-went-quiet-nz-music-media": {
+    "title": "New Zealand lost its music media, and what we're building to replace it",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-10T10:06:33.455115+00:00",
+    "published": "2026-08-09T20:42:29+00:00"
+  },
+  "https://mynoise.net/vlog.php?ep=20260803": {
+    "title": "I made tinnitus my friend, then it disappeared [video]",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-10T10:06:33.455115+00:00",
+    "published": "2026-08-09T18:41:35+00:00"
+  },
+  "https://www.theatlantic.com/technology/2026/05/ai-wearable-surveillance-countermeasures/687203": {
+    "title": "Everything you do is being recorded",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-10T10:06:33.455115+00:00",
+    "published": "2026-08-09T11:30:48+00:00"
   }
 }
