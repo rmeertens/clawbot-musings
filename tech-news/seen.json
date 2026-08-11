@@ -70358,5 +70358,257 @@
     "source": "OpenAI Blog",
     "first_seen": "2026-08-11T09:48:00.247326+00:00",
     "published": "2026-08-10T00:00:00+00:00"
+  },
+  "https://blog.bytebytego.com/p/how-cloudflare-is-making-ai-pay-for": {
+    "title": "How Cloudflare Is Making AI Pay for Content",
+    "source": "ByteByteGo",
+    "first_seen": "2026-08-11T15:46:09.051212+00:00",
+    "published": "2026-08-11T15:30:42+00:00"
+  },
+  "https://github.com/TheRealYT/git-knife": {
+    "title": "Show HN: Git-knife – edit commit messages, authors, and dates like a spreadsheet",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-11T15:46:09.051212+00:00",
+    "published": "2026-08-11T15:09:34+00:00"
+  },
+  "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md": {
+    "title": "Apple Silicon and macOS VMs: 11–16× Faster LLM Inference with Llama.cpp",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-11T15:46:09.051212+00:00",
+    "published": "2026-08-11T14:50:33+00:00"
+  },
+  "https://www.trykeet.com": {
+    "title": "Launch HN: Keet (YC S24) – An app to create video courses on anything",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-11T15:46:09.051212+00:00",
+    "published": "2026-08-11T14:48:37+00:00"
+  },
+  "https://lwn.net/Articles/1087590": {
+    "title": "[$] KVM planes head for takeoff",
+    "source": "LWN.net",
+    "first_seen": "2026-08-11T15:46:09.051212+00:00",
+    "published": "2026-08-11T14:48:19+00:00"
+  },
+  "https://www.phoronix.com/review/fedora-pantherlake-thermald-tuned": {
+    "title": "Analyzing Fedora's Slow Performance On The Framework Laptop 13 Pro With Intel Panther Lake",
+    "source": "Phoronix",
+    "first_seen": "2026-08-11T15:46:09.051212+00:00",
+    "published": "2026-08-11T14:39:01+00:00"
+  },
+  "https://www.propublica.org/article/foia-requests-responses": {
+    "title": "Federal vendor with $50M in contracts leaves portal broken for a month",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-11T15:46:09.051212+00:00",
+    "published": "2026-08-11T14:32:21+00:00"
+  },
+  "https://www.theguardian.com/us-news/2026/aug/11/us-mexico-border-area-money-transfer-rule-change-small-businesses": {
+    "title": "The US tried to stop cartel money-laundering; devastated mom-and-pop businesses",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-11T15:46:09.051212+00:00",
+    "published": "2026-08-11T14:27:31+00:00"
+  },
+  "https://manus.im/blog/a-note-to-our-users": {
+    "title": "Manus will return to operating as an independent company",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-11T15:46:09.051212+00:00",
+    "published": "2026-08-11T14:14:53+00:00"
+  },
+  "https://flowingdata.com/2026/08/10/flock-wanted-to-tap-dashcams-in-rideshare-vechicles-to-add-to-surveillance-data": {
+    "title": "Flock wanted to tap dashcams in rideshare vechicles to add to surveillance data",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-11T15:46:09.051212+00:00",
+    "published": "2026-08-11T14:04:13+00:00"
+  },
+  "https://lwn.net/Articles/1088238": {
+    "title": "Bernard: GNOME Shell design dreams",
+    "source": "LWN.net",
+    "first_seen": "2026-08-11T15:46:09.051212+00:00",
+    "published": "2026-08-11T14:03:25+00:00"
+  },
+  "https://aimagazine.com/news/why-did-openai-head-of-ethics-chloe-bakalar-leave": {
+    "title": "Why Did OpenAI's Head of Ethics Chloé Bakalar Leave?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-11T15:46:09.051212+00:00",
+    "published": "2026-08-11T14:03:18+00:00"
+  },
+  "https://realpython.com/courses/coding-with-opencode-ai": {
+    "title": "Coding With OpenCode: AI-Assisted Python",
+    "source": "Real Python",
+    "first_seen": "2026-08-11T15:46:09.051212+00:00",
+    "published": "2026-08-11T14:00:00+00:00"
+  },
+  "https://lethain.com/decisions-not-dates": {
+    "title": "Roadmap decisions rather than dates.",
+    "source": "Will Larson",
+    "first_seen": "2026-08-11T15:46:09.051212+00:00",
+    "published": "2026-08-11T14:00:00+00:00"
+  },
+  "https://www.tomshardware.com/networking/usd580-million-undersea-cable-rerouted-to-avoid-the-grave-of-dobby-the-house-elf-company-caves-to-fan-demands-to-safeguard-harry-potter-filming-location-will-instead-pass-by-bronze-age-burial-site": {
+    "title": "$580M undersea cable rerouted to avoid the grave of Dobby the House Elf",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-11T15:46:09.051212+00:00",
+    "published": "2026-08-11T13:42:27+00:00"
+  },
+  "https://www.phoronix.com/news/Flatpak-1.19-Released": {
+    "title": "Flatpak 1.19 Released With Nine Security Fixes",
+    "source": "Phoronix",
+    "first_seen": "2026-08-11T15:46:09.051212+00:00",
+    "published": "2026-08-11T13:41:20+00:00"
+  },
+  "https://huggingface.co/blog/ibm-research/altk-evolve-sldd": {
+    "title": "Thinking of ACE? We Can Do It with Fewer Tokens",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-08-11T15:46:09.051212+00:00",
+    "published": "2026-08-11T13:37:10+00:00"
+  },
+  "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-NVFP4": {
+    "title": "Nvidia Nemotron 3.5 Lightning",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-11T15:46:09.051212+00:00",
+    "published": "2026-08-11T13:26:02+00:00"
+  },
+  "https://stolen-thoughts.com": {
+    "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-11T15:46:09.051212+00:00",
+    "published": "2026-08-11T13:22:00+00:00"
+  },
+  "https://lwn.net/Articles/1088226": {
+    "title": "Security updates for Tuesday",
+    "source": "LWN.net",
+    "first_seen": "2026-08-11T15:46:09.051212+00:00",
+    "published": "2026-08-11T13:11:17+00:00"
+  },
+  "https://developer.nvidia.com/blog/nvidia-nemotron-3-5-lightning-delivers-fast-accurate-specialized-task-execution-for-long-running-agents": {
+    "title": "NVIDIA Nemotron 3.5 Lightning Delivers Fast, Accurate Specialized Task Execution for Long-Running Agents",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-08-11T15:46:09.051212+00:00",
+    "published": "2026-08-11T13:01:07+00:00"
+  },
+  "https://thenewstack.io/nvidia-nemotron-lightning-switchyard": {
+    "title": "Nvidia launches a smaller, faster Nemotron model and a router to put it to work",
+    "source": "The New Stack",
+    "first_seen": "2026-08-11T15:46:09.051212+00:00",
+    "published": "2026-08-11T13:00:00+00:00"
+  },
+  "https://neon.com/blog/electric-joins-neon": {
+    "title": "Electric is joining team Neon at Databricks",
+    "source": "Neon Blog",
+    "first_seen": "2026-08-11T15:46:09.051212+00:00",
+    "published": "2026-08-11T13:00:00+00:00"
+  },
+  "https://developer.nvidia.com/blog/route-ai-agent-workloads-across-models-with-nvidia-nemo-switchyard": {
+    "title": "Route AI Agent Workloads Across Models with NVIDIA NeMo Switchyard",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-08-11T15:46:09.051212+00:00",
+    "published": "2026-08-11T13:00:00+00:00"
+  },
+  "https://blog.cloudflare.com/ddos-threat-report-2026-h1": {
+    "title": "Cloudflare DDoS Threat Report H1 2026: 1 Tbps attacks soar as DNS floods and geopolitical tensions drive a new wave",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-08-11T15:46:09.051212+00:00",
+    "published": "2026-08-11T13:00:00+00:00"
+  },
+  "https://www.bbc.com/news/articles/c75gk620r22o": {
+    "title": "England set to be one of the first countries to eliminate hepatitis C",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-11T15:46:09.051212+00:00",
+    "published": "2026-08-11T12:41:59+00:00"
+  },
+  "https://www.phoronix.com/news/GNOME-Shell-Plans-2026": {
+    "title": "GNOME Designers Lay Out Some Of Their GNOME Shell Dreams",
+    "source": "Phoronix",
+    "first_seen": "2026-08-11T15:46:09.051212+00:00",
+    "published": "2026-08-11T12:35:30+00:00"
+  },
+  "https://www.databricks.com/blog/modern-risk-demands-real-time-foundation-cros-mandate": {
+    "title": "Modern Risk Demands a Real-Time Foundation: The CRO’s Mandate",
+    "source": "Databricks Blog",
+    "first_seen": "2026-08-11T15:46:09.051212+00:00",
+    "published": "2026-08-11T12:30:00+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-Batch-Follow-Page-Mask": {
+    "title": "Up To 12.8x Improvement Observed For gup_test With New Linux MM Patches",
+    "source": "Phoronix",
+    "first_seen": "2026-08-11T15:46:09.051212+00:00",
+    "published": "2026-08-11T12:16:00+00:00"
+  },
+  "https://www.phoronix.com/news/Raspberry-Pi-AXI-PMU-Linux": {
+    "title": "Raspberry Pi AXI PMU Driver Under Review For The Mainline Linux Kernel",
+    "source": "Phoronix",
+    "first_seen": "2026-08-11T15:46:09.051212+00:00",
+    "published": "2026-08-11T12:00:33+00:00"
+  },
+  "https://realpython.com/quizzes/coding-with-opencode-ai-assisted-python": {
+    "title": "Quiz: Coding With OpenCode: AI-Assisted Python",
+    "source": "Real Python",
+    "first_seen": "2026-08-11T15:46:09.051212+00:00",
+    "published": "2026-08-11T12:00:00+00:00"
+  },
+  "https://martinfowler.com/articles/exploring-gen-ai/tdd-in-the-agent-loop.html": {
+    "title": "TDD inside the agent loop - theater or actual value?",
+    "source": "Martin Fowler",
+    "first_seen": "2026-08-11T15:46:09.051212+00:00",
+    "published": "2026-08-11T11:39:00+00:00"
+  },
+  "https://www.schneier.com/blog/archives/2026/08/ai-for-military-support.html": {
+    "title": "AI for Military Support",
+    "source": "Schneier on Security",
+    "first_seen": "2026-08-11T15:46:09.051212+00:00",
+    "published": "2026-08-11T11:18:07+00:00"
+  },
+  "https://www.cncf.io/blog/2026/08/11/a-practical-guide-to-solving-when-zerozerotwo-in-mesh-observability": {
+    "title": "A practical guide to solving when zero+zero=two in mesh observability",
+    "source": "CNCF Blog",
+    "first_seen": "2026-08-11T15:46:09.051212+00:00",
+    "published": "2026-08-11T11:00:00+00:00"
+  },
+  "https://www.lighthousenewsletter.com/p/i-put-github-copilot-behind-a-mitm": {
+    "title": "What I learned by putting GitHub Copilot behind a MitM proxy",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-11T15:46:09.051212+00:00",
+    "published": "2026-08-11T10:40:47+00:00"
+  },
+  "https://www.phoronix.com/news/FastFlowLM-1.0": {
+    "title": "FastFlowLM 1.0 Released Now As Part Of The AMD ROCm Umbrella",
+    "source": "Phoronix",
+    "first_seen": "2026-08-11T15:46:09.051212+00:00",
+    "published": "2026-08-11T10:24:00+00:00"
+  },
+  "https://www.phoronix.com/news/Rusticl-cl_ext_float_atomics": {
+    "title": "Rusticl Now Supports cl_ext_float_atomics",
+    "source": "Phoronix",
+    "first_seen": "2026-08-11T15:46:09.051212+00:00",
+    "published": "2026-08-11T10:13:00+00:00"
+  },
+  "https://stratechery.com/2026/nvidias-risky-business": {
+    "title": "Nvidia's Risky Business",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-11T15:46:09.051212+00:00",
+    "published": "2026-08-11T10:02:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/infrastructure/introducing-americas-connect": {
+    "title": "Expanding connectivity in the Americas: Introducing Alisios, Canoa, and OlaLuz subsea cables",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-08-11T15:46:09.051212+00:00",
+    "published": "2026-08-11T10:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/HP-X-Flip-14-Linux-Audio": {
+    "title": "Claude Opus Helped Debug & Fix Lack Of Audio On Linux For HP OmniBook X Flip 14",
+    "source": "Phoronix",
+    "first_seen": "2026-08-11T15:46:09.051212+00:00",
+    "published": "2026-08-11T09:59:26+00:00"
+  },
+  "https://www.databricks.com/blog/electric-joins-databricks-bring-wasm-postgres-ai-agent-sandboxes": {
+    "title": "Electric joins Databricks to bring WASM Postgres to AI agent sandboxes",
+    "source": "Databricks Blog",
+    "first_seen": "2026-08-11T15:46:09.051212+00:00",
+    "published": "2026-08-11T07:00:00+00:00"
+  },
+  "https://planetscale.com/blog/the-dangers-of-postgres-subtransactions": {
+    "title": "The dangers of Postgres subtransactions",
+    "source": "PlanetScale Blog",
+    "first_seen": "2026-08-11T15:46:09.051212+00:00",
+    "published": "2026-08-11T00:00:00+00:00"
   }
 }
