@@ -71348,5 +71348,251 @@
     "source": "OpenAI Blog",
     "first_seen": "2026-08-12T15:46:39.274275+00:00",
     "published": "2026-08-12T06:00:00+00:00"
+  },
+  "https://thenewstack.io/spacex-and-nvidias-orbital-ai-datacenter-fantasy": {
+    "title": "Why space is actually a terrible place to cool a data center",
+    "source": "The New Stack",
+    "first_seen": "2026-08-12T21:32:05.173429+00:00",
+    "published": "2026-08-12T21:00:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/introducing-oracle-exadata-on-exascale-for-oracle-ai-databaseaws": {
+    "title": "Introducing Oracle Exadata on Exascale for Oracle AI Database@AWS",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-08-12T21:32:05.173429+00:00",
+    "published": "2026-08-12T20:21:31+00:00"
+  },
+  "https://www.phoronix.com/news/Tenstorrent-Ascalon-XG-GCC": {
+    "title": "Tenstrorrent Posts GCC Compiler Patches For Ascalon XG Core",
+    "source": "Phoronix",
+    "first_seen": "2026-08-12T21:32:05.173429+00:00",
+    "published": "2026-08-12T20:14:37+00:00"
+  },
+  "https://thenewstack.io/grok-4-6-agent-training": {
+    "title": "SpaceXAI trained Grok 4.6 on something most AI labs throw away",
+    "source": "The New Stack",
+    "first_seen": "2026-08-12T21:32:05.173429+00:00",
+    "published": "2026-08-12T20:07:54+00:00"
+  },
+  "https://www.databricks.com/blog/databricks-network-configuration-delivery-tens-millions-serverless-vms": {
+    "title": "Databricks Network Configuration delivery to Tens of Millions of Serverless VMs",
+    "source": "Databricks Blog",
+    "first_seen": "2026-08-12T21:32:05.173429+00:00",
+    "published": "2026-08-12T20:00:00+00:00"
+  },
+  "https://www.databricks.com/blog/how-amtrak-building-data-backbone-its-largest-transformation-over-50-years": {
+    "title": "How Amtrak is building the data backbone for its largest transformation in over 50 years",
+    "source": "Databricks Blog",
+    "first_seen": "2026-08-12T21:32:05.173429+00:00",
+    "published": "2026-08-12T19:45:00+00:00"
+  },
+  "https://cynative.com/blog/agent-trust-boundaries": {
+    "title": "Building Security Agents That Cannot Escape Their Trust Boundary",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-12T21:32:05.173429+00:00",
+    "published": "2026-08-12T19:29:34+00:00"
+  },
+  "https://github.blog/ai-and-ml/github-copilot/write-your-first-prompt-with-the-github-copilot-app": {
+    "title": "Write your first prompt with the GitHub Copilot app",
+    "source": "GitHub Blog",
+    "first_seen": "2026-08-12T21:32:05.173429+00:00",
+    "published": "2026-08-12T19:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/GCC-Git-m128bit-atomic": {
+    "title": "GCC 17 Compiler Adding \"-m128bit-atomic\" For 128-bit Atomic Memory Operations",
+    "source": "Phoronix",
+    "first_seen": "2026-08-12T21:32:05.173429+00:00",
+    "published": "2026-08-12T18:40:00+00:00"
+  },
+  "https://lwn.net/Articles/1086344": {
+    "title": "[$] Block-layer error injection",
+    "source": "LWN.net",
+    "first_seen": "2026-08-12T21:32:05.173429+00:00",
+    "published": "2026-08-12T18:34:01+00:00"
+  },
+  "https://www.phoronix.com/news/Manjaro-Linux-26.1": {
+    "title": "Manjaro Linux 26.1 Released With GNOME 50 & KDE Plasma 6.7 Desktops",
+    "source": "Phoronix",
+    "first_seen": "2026-08-12T21:32:05.173429+00:00",
+    "published": "2026-08-12T18:28:03+00:00"
+  },
+  "https://developer.nvidia.com/blog/serve-qwen3-8-2-4t-a95b-a-2-4t-parameter-model-with-configurable-reasoning-on-nvidia-gb300-nvl72": {
+    "title": "Serve Qwen3.8-2.4T-A95B, a 2.4T-Parameter Model, with Configurable Reasoning on NVIDIA GB300 NVL72",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-08-12T21:32:05.173429+00:00",
+    "published": "2026-08-12T18:23:13+00:00"
+  },
+  "https://zed.dev/blog/introducing-delta": {
+    "title": "Delta",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-12T21:32:05.173429+00:00",
+    "published": "2026-08-12T18:19:59+00:00"
+  },
+  "https://julienreszka.com/blog/your-key-to-success-isn-t-more-luck-or-hard-work": {
+    "title": "People who grew up with high economic connectedness earn more",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-12T21:32:05.173429+00:00",
+    "published": "2026-08-12T18:17:03+00:00"
+  },
+  "https://www.docker.com/blog/docker-vmm-public-beta": {
+    "title": "Docker VMM Public Beta: A Complete Overhaul, Built for Performance",
+    "source": "Docker Blog",
+    "first_seen": "2026-08-12T21:32:05.173429+00:00",
+    "published": "2026-08-12T18:13:20+00:00"
+  },
+  "https://github.blog/open-source/maintainers/your-contributors-are-ai-first-now-is-your-project": {
+    "title": "Your contributors are AI-first now. Is your project?",
+    "source": "GitHub Blog",
+    "first_seen": "2026-08-12T21:32:05.173429+00:00",
+    "published": "2026-08-12T18:00:08+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/part-2-amazon-bedrock-cost-attribution-with-amazon-athena-and-cudos": {
+    "title": "Part 2: Amazon Bedrock cost attribution with Amazon Athena and CUDOS",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-08-12T21:32:05.173429+00:00",
+    "published": "2026-08-12T17:45:20+00:00"
+  },
+  "https://aws.amazon.com/blogs/containers/forensic-container-checkpointing-on-amazon-eks": {
+    "title": "Forensic container checkpointing on Amazon Elastic Kubernetes Service (Amazon EKS)",
+    "source": "AWS Containers Blog",
+    "first_seen": "2026-08-12T21:32:05.173429+00:00",
+    "published": "2026-08-12T17:38:15+00:00"
+  },
+  "https://www.docker.com/blog/a-new-security-baseline-for-enterprise-agentic-adoption": {
+    "title": "A new security baseline for enterprise agentic adoption",
+    "source": "Docker Blog",
+    "first_seen": "2026-08-12T21:32:05.173429+00:00",
+    "published": "2026-08-12T17:25:31+00:00"
+  },
+  "https://aws.amazon.com/blogs/containers/introducing-advanced-kubernetes-control-plane-configuration-in-amazon-eks": {
+    "title": "Introducing advanced Kubernetes control plane configuration in Amazon EKS",
+    "source": "AWS Containers Blog",
+    "first_seen": "2026-08-12T21:32:05.173429+00:00",
+    "published": "2026-08-12T17:23:45+00:00"
+  },
+  "https://www.phoronix.com/review/intel-amx-xeon-678x": {
+    "title": "Intel AMX Performance With The Xeon 678X Workstation CPU",
+    "source": "Phoronix",
+    "first_seen": "2026-08-12T21:32:05.173429+00:00",
+    "published": "2026-08-12T17:07:34+00:00"
+  },
+  "https://aws.amazon.com/blogs/compute/burst-to-region-overflow-aws-outposts-workloads-to-amazon-ec2": {
+    "title": "Burst to Region: Overflow AWS Outposts workloads to Amazon EC2",
+    "source": "AWS Compute Blog",
+    "first_seen": "2026-08-12T21:32:05.173429+00:00",
+    "published": "2026-08-12T17:06:54+00:00"
+  },
+  "https://devblogs.microsoft.com/dotnet/instructions-hygiene-what-frontier-models-still-need-you-to-say": {
+    "title": "Instructions Hygiene – What Frontier Models Still Need You to Say",
+    "source": "MS .NET Blog",
+    "first_seen": "2026-08-12T21:32:05.173429+00:00",
+    "published": "2026-08-12T17:05:00+00:00"
+  },
+  "https://medium.com/airbnb-engineering/flexible-authentication-reimagining-authentication-for-millions-of-users-at-airbnb-3a8a4c917137?source=rss----53c7c27702d5---4": {
+    "title": "Flexible Authentication: Reimagining authentication for millions of users at Airbnb",
+    "source": "Airbnb Engineering",
+    "first_seen": "2026-08-12T21:32:05.173429+00:00",
+    "published": "2026-08-12T17:01:04+00:00"
+  },
+  "https://www.ycombinator.com/companies/reflex/jobs/71x5GFb-growth-engineer": {
+    "title": "Reflex (YC W23) Is hiring Growth and GTM Roles",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-12T21:32:05.173429+00:00",
+    "published": "2026-08-12T17:00:21+00:00"
+  },
+  "https://thenewstack.io/go-language-ai-agents": {
+    "title": "Code that passes every test can still break the next AI agent that touches it",
+    "source": "The New Stack",
+    "first_seen": "2026-08-12T21:32:05.173429+00:00",
+    "published": "2026-08-12T17:00:12+00:00"
+  },
+  "https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis": {
+    "title": "Grok 4.6 scores 61 on the Artificial Analysis Intelligence Index",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-12T21:32:05.173429+00:00",
+    "published": "2026-08-12T16:54:25+00:00"
+  },
+  "https://en.andros.dev/blog/ef4968f5/html-over-websockets-real-time-spas-with-barely-any-javascript": {
+    "title": "HTML over WebSockets: real-time SPAs with barely any JavaScript",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-12T21:32:05.173429+00:00",
+    "published": "2026-08-12T16:51:25+00:00"
+  },
+  "https://thenewstack.io/anthropic-agent-memory-dreaming": {
+    "title": "Anthropic gave agents the ability to dream. Then developers woke up.",
+    "source": "The New Stack",
+    "first_seen": "2026-08-12T21:32:05.173429+00:00",
+    "published": "2026-08-12T16:51:19+00:00"
+  },
+  "https://newsletter.pragmaticengineer.com/p/stop-being-skeptical-about-ai-for": {
+    "title": "Stop being skeptical about AI for development with Charity Majors",
+    "source": "The Pragmatic Engineer",
+    "first_seen": "2026-08-12T21:32:05.173429+00:00",
+    "published": "2026-08-12T16:45:07+00:00"
+  },
+  "https://climate.metoffice.cloud/glaciers.html": {
+    "title": "Glaciers on the Climate Dashboard",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-12T21:32:05.173429+00:00",
+    "published": "2026-08-12T16:38:25+00:00"
+  },
+  "https://www.databricks.com/blog/how-major-freight-railroad-scaled-pipeline-creation-genie-code": {
+    "title": "How a major freight railroad scaled pipeline creation with Genie Code",
+    "source": "Databricks Blog",
+    "first_seen": "2026-08-12T21:32:05.173429+00:00",
+    "published": "2026-08-12T16:35:18+00:00"
+  },
+  "https://lovable.dev/blog/series-c": {
+    "title": "Lovable raises $400M Series C",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-12T21:32:05.173429+00:00",
+    "published": "2026-08-12T16:20:34+00:00"
+  },
+  "https://blog.google/products-and-platforms/devices/pixel/pixel-watch-5": {
+    "title": "Pixel Watch 5",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-12T21:32:05.173429+00:00",
+    "published": "2026-08-12T16:14:37+00:00"
+  },
+  "https://huggingface.co/blog/allenai/olmoearth-embeddings": {
+    "title": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-08-12T21:32:05.173429+00:00",
+    "published": "2026-08-12T16:14:36+00:00"
+  },
+  "https://developer.nvidia.com/blog/how-to-choose-full-stack-observability-for-nvidia-ai-factories": {
+    "title": "How to Choose Full-Stack Observability for NVIDIA AI Factories",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-08-12T21:32:05.173429+00:00",
+    "published": "2026-08-12T16:13:47+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/migrate-amazon-aurora-postgresql-across-major-versions-with-active-debezium-cdc-connectors-using-native-logical-replication": {
+    "title": "Migrate Amazon Aurora PostgreSQL across major versions with active Debezium CDC connectors using native logical replication",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-08-12T21:32:05.173429+00:00",
+    "published": "2026-08-12T16:07:39+00:00"
+  },
+  "https://openrouter.ai/deepseek/deepseek-v4-pro-0813": {
+    "title": "DeepSeek V4 Pro 0813",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-12T21:32:05.173429+00:00",
+    "published": "2026-08-12T16:04:50+00:00"
+  },
+  "https://x.ai/news/grok-4-6": {
+    "title": "Grok 4.6",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-12T21:32:05.173429+00:00",
+    "published": "2026-08-12T15:32:50+00:00"
+  },
+  "https://blog.google/products-and-platforms/devices/pixel/pixel-11-pro-fold": {
+    "title": "Pixel 11 Pro Fold",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-12T21:32:05.173429+00:00",
+    "published": "2026-08-12T14:52:27+00:00"
+  },
+  "https://research.google/blog/empty-shelves-or-lost-keys-recall-is-the-bottleneck-for-parametric-factuality": {
+    "title": "Empty shelves or lost keys? Recall is the bottleneck for parametric factuality",
+    "source": "Google Research",
+    "first_seen": "2026-08-12T21:32:05.173429+00:00",
+    "published": "2026-08-12T09:51:00+00:00"
   }
 }
