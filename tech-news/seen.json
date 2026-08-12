@@ -71066,5 +71066,287 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-08-12T09:51:48.944222+00:00",
     "published": "2026-08-11T09:40:02+00:00"
+  },
+  "https://neon.com/blog/neon-functions-backend-logic-next-to-your-data": {
+    "title": "Neon Functions: backend logic next to your data",
+    "source": "Neon Blog",
+    "first_seen": "2026-08-12T15:46:39.274275+00:00",
+    "published": "2026-08-17T12:00:00+00:00"
+  },
+  "https://lwn.net/Articles/1087635": {
+    "title": "[$] A look at CrossPoint e-reader firmware",
+    "source": "LWN.net",
+    "first_seen": "2026-08-12T15:46:39.274275+00:00",
+    "published": "2026-08-12T15:33:41+00:00"
+  },
+  "https://blog.bytebytego.com/p/github-vs-vercel-vs-replit-what-dev": {
+    "title": "GitHub vs Vercel vs Replit: What Dev Platforms Do When AI Code Is Cheap",
+    "source": "ByteByteGo",
+    "first_seen": "2026-08-12T15:46:39.274275+00:00",
+    "published": "2026-08-12T15:30:02+00:00"
+  },
+  "https://lwn.net/Articles/1088490": {
+    "title": "QEMU 11.1 released",
+    "source": "LWN.net",
+    "first_seen": "2026-08-12T15:46:39.274275+00:00",
+    "published": "2026-08-12T15:28:48+00:00"
+  },
+  "https://simonwillison.net/2026/Aug/12/florian-herrengt": {
+    "title": "Quoting Florian Herrengt",
+    "source": "Simon Willison",
+    "first_seen": "2026-08-12T15:46:39.274275+00:00",
+    "published": "2026-08-12T15:08:47+00:00"
+  },
+  "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B": {
+    "title": "Qwen/Qwen3.8-2.4T-A95B",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-12T15:46:39.274275+00:00",
+    "published": "2026-08-12T15:01:17+00:00"
+  },
+  "https://job-boards.greenhouse.io/givecampus/jobs/4112793009": {
+    "title": "GiveCampus (YC S15) Is Hiring Engineering Managers",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-12T15:46:39.274275+00:00",
+    "published": "2026-08-12T14:55:27+00:00"
+  },
+  "https://usehax.dev": {
+    "title": "Hax – a minimalist, terminal-native coding agent written in C",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-12T15:46:39.274275+00:00",
+    "published": "2026-08-12T14:43:45+00:00"
+  },
+  "https://andrewpwheeler.com/2026/08/12/license-plate-reader-searches-should-require-a-warrant": {
+    "title": "License Plate Reader Searches Should Require a Warrant",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-12T15:46:39.274275+00:00",
+    "published": "2026-08-12T14:43:39+00:00"
+  },
+  "https://tailscale.com/blog/sqlite-wal-reset-bug": {
+    "title": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-12T15:46:39.274275+00:00",
+    "published": "2026-08-12T14:22:30+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-2026-Patches-For-2018-MBP": {
+    "title": "Linux Finally Seeing Patches For Better Hybrid Graphics On 2018~2019 Era MacBook Pros",
+    "source": "Phoronix",
+    "first_seen": "2026-08-12T15:46:39.274275+00:00",
+    "published": "2026-08-12T14:15:36+00:00"
+  },
+  "https://amiga-news.de/en/news/AN-2026-08-00070-EN.html": {
+    "title": "Obituary: AmigaDOS developer Dr. Tim King has passed away",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-12T15:46:39.274275+00:00",
+    "published": "2026-08-12T14:09:11+00:00"
+  },
+  "https://www.reuters.com/legal/government/german-advocacy-group-lodges-criminal-complaint-over-meta-ai-glasses-2026-08-12": {
+    "title": "German advocacy group lodges criminal complaint over Meta AI glasses",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-12T15:46:39.274275+00:00",
+    "published": "2026-08-12T14:06:03+00:00"
+  },
+  "https://knownagents.com/insights": {
+    "title": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-12T15:46:39.274275+00:00",
+    "published": "2026-08-12T14:02:46+00:00"
+  },
+  "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands": {
+    "title": "Putting sign language AI into users’ hands",
+    "source": "DeepMind Blog",
+    "first_seen": "2026-08-12T15:46:39.274275+00:00",
+    "published": "2026-08-12T14:01:59+00:00"
+  },
+  "https://guillaumetech.github.io/posts/jpg-scaling-chrome": {
+    "title": "Why Tiny JPEGs Look Different in Chrome",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-12T15:46:39.274275+00:00",
+    "published": "2026-08-12T14:00:54+00:00"
+  },
+  "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b": {
+    "title": "LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-08-12T15:46:39.274275+00:00",
+    "published": "2026-08-12T14:00:51+00:00"
+  },
+  "https://realpython.com/fastapi-opentelemetry": {
+    "title": "How to Integrate OpenTelemetry With a FastAPI App",
+    "source": "Real Python",
+    "first_seen": "2026-08-12T15:46:39.274275+00:00",
+    "published": "2026-08-12T14:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/Intel-DG2-Vulkan-Video-AV1": {
+    "title": "Intel ANV Driver Enables Vulkan Video AV1 Encoding For DG2/Alchemist GPUs",
+    "source": "Phoronix",
+    "first_seen": "2026-08-12T15:46:39.274275+00:00",
+    "published": "2026-08-12T13:57:00+00:00"
+  },
+  "https://chad.cm/posts/2026-8-11-my-agent-setup": {
+    "title": "My Agent Setup",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-12T15:46:39.274275+00:00",
+    "published": "2026-08-12T13:56:05+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/how-oneadvanced-deployed-over-50-ai-agents-on-uk-sovereign-aws": {
+    "title": "How OneAdvanced deployed over 50 AI agents on UK-sovereign AWS",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-08-12T15:46:39.274275+00:00",
+    "published": "2026-08-12T13:46:28+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/pay-with-confidence-how-solv-labs-built-verifiable-auditable-agent-payments-on-amazon-bedrock-agentcore-payments": {
+    "title": "Pay with confidence: How Solv Labs built verifiable, auditable agent payments on Amazon Bedrock AgentCore payments",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-08-12T15:46:39.274275+00:00",
+    "published": "2026-08-12T13:44:58+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/tiered-kv-cache-for-large-llms-on-amazon-sagemaker-hyperpod-with-curvine": {
+    "title": "Tiered KV cache for large LLMs on Amazon SageMaker HyperPod with Curvine",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-08-12T15:46:39.274275+00:00",
+    "published": "2026-08-12T13:42:48+00:00"
+  },
+  "https://therad.ninja/from-8-10-seconds-to-3-7-teaching-automatic1111-to-speak-metal-on-an-m3-pro": {
+    "title": "Automatic1111 for Apple metal, 40% speed up sd1.5",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-12T15:46:39.274275+00:00",
+    "published": "2026-08-12T13:41:12+00:00"
+  },
+  "https://lifesprites.com/share/0ACA25": {
+    "title": "Show HN: Meteor shower, planet alignment, eclipse kit",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-12T15:46:39.274275+00:00",
+    "published": "2026-08-12T13:39:10+00:00"
+  },
+  "https://www.masswerk.at/nowgobang/2026/commodore-disk-images": {
+    "title": "Commodore 8-Bit 5¼\" Disk Images",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-12T15:46:39.274275+00:00",
+    "published": "2026-08-12T13:30:47+00:00"
+  },
+  "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html": {
+    "title": "AI is removing the middle class of software engineering",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-12T15:46:39.274275+00:00",
+    "published": "2026-08-12T13:20:05+00:00"
+  },
+  "https://lwn.net/Articles/1088476": {
+    "title": "Security updates for Wednesday",
+    "source": "LWN.net",
+    "first_seen": "2026-08-12T15:46:39.274275+00:00",
+    "published": "2026-08-12T13:03:48+00:00"
+  },
+  "https://shademap.app": {
+    "title": "Shade Map",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-12T15:46:39.274275+00:00",
+    "published": "2026-08-12T13:01:21+00:00"
+  },
+  "https://engineering.fb.com/2026/08/12/security/how-were-building-scam-alert-whatsapp": {
+    "title": "How We’re Building Scam Alert on WhatsApp With End-to-End Encryption and Verifiability Guarantees",
+    "source": "Meta Engineering",
+    "first_seen": "2026-08-12T15:46:39.274275+00:00",
+    "published": "2026-08-12T13:00:28+00:00"
+  },
+  "https://thenewstack.io/meta-glimmer-distillation-enterprise": {
+    "title": "Meta stopped worrying about distillation and just shipped the pipeline",
+    "source": "The New Stack",
+    "first_seen": "2026-08-12T15:46:39.274275+00:00",
+    "published": "2026-08-12T13:00:00+00:00"
+  },
+  "https://realpython.com/quizzes/fastapi-opentelemetry": {
+    "title": "Quiz: How to Integrate OpenTelemetry With a FastAPI App",
+    "source": "Real Python",
+    "first_seen": "2026-08-12T15:46:39.274275+00:00",
+    "published": "2026-08-12T12:00:00+00:00"
+  },
+  "https://jonty.github.io/2026_eclipse_webcams": {
+    "title": "2026 Eclipse Webcams",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-12T15:46:39.274275+00:00",
+    "published": "2026-08-12T11:53:01+00:00"
+  },
+  "https://thenewstack.io/coding-agents-ignore-guidelines": {
+    "title": "Coding agents ignore open source contribution guidelines, researchers find.",
+    "source": "The New Stack",
+    "first_seen": "2026-08-12T15:46:39.274275+00:00",
+    "published": "2026-08-12T11:48:08+00:00"
+  },
+  "https://www.severe-weather.eu/global-weather/excessive-heat-dome-heatwave-western-europe-mid-august-2026-mk": {
+    "title": "5th Heat Dome Expands Across Europe: 40°C+ Target Western and Central Europe",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-12T15:46:39.274275+00:00",
+    "published": "2026-08-12T11:42:17+00:00"
+  },
+  "https://digitalescapetools.com/2026/08/ublock-origin-stops-chasing-facebook-ads.html": {
+    "title": "uBlock Origin Is Giving Up the Fight to Keep Ads Off Facebook",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-12T15:46:39.274275+00:00",
+    "published": "2026-08-12T11:28:27+00:00"
+  },
+  "https://www.cncf.io/blog/2026/08/12/good-apps-arent-born-theyre-guided-building-observable-policy-as-code": {
+    "title": "Good apps aren’t born, they’re guided: Building observable policy as code",
+    "source": "CNCF Blog",
+    "first_seen": "2026-08-12T15:46:39.274275+00:00",
+    "published": "2026-08-12T11:16:00+00:00"
+  },
+  "https://blogs.embarcadero.com/delphi-13-community-edition-is-now-available": {
+    "title": "Delphi 13 Community Edition Is Now Available",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-12T15:46:39.274275+00:00",
+    "published": "2026-08-12T11:13:36+00:00"
+  },
+  "https://www.cncf.io/blog/2026/08/12/advancing-ai-model-interoperability-with-docker-and-modelpack": {
+    "title": "Advancing AI model interoperability with Docker and ModelPack",
+    "source": "CNCF Blog",
+    "first_seen": "2026-08-12T15:46:39.274275+00:00",
+    "published": "2026-08-12T11:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.2-Reverting-DRM-Fair": {
+    "title": "Linux 7.2 To Revert Back To The FIFO DRM Scheduler Policy Due To \"Fair\" Regressions",
+    "source": "Phoronix",
+    "first_seen": "2026-08-12T15:46:39.274275+00:00",
+    "published": "2026-08-12T10:31:25+00:00"
+  },
+  "https://www.phoronix.com/news/Mold-2.42-Released": {
+    "title": "Mold 2.42 Delivering Greater Performance For This High Speed Linker",
+    "source": "Phoronix",
+    "first_seen": "2026-08-12T15:46:39.274275+00:00",
+    "published": "2026-08-12T10:21:09+00:00"
+  },
+  "https://www.phoronix.com/news/Intel-LLM-Scaler-Muse-Glimmer": {
+    "title": "Intel LLM-Scaler Ready With Muse Glimmer Support, Other LLMs & Features",
+    "source": "Phoronix",
+    "first_seen": "2026-08-12T15:46:39.274275+00:00",
+    "published": "2026-08-12T10:12:00+00:00"
+  },
+  "https://woxi.ad-si.com": {
+    "title": "Show HN: Woxi - Open-source Mathematica / Wolfram Language reimplementation",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-12T15:46:39.274275+00:00",
+    "published": "2026-08-12T10:06:29+00:00"
+  },
+  "https://stratechery.com/2026/anthropics-watermarking-how-it-probably-works-worse-than-it-seems": {
+    "title": "Anthropic’s Watermarking, How It (Probably) Works, Worse Than It Seems",
+    "source": "Stratechery",
+    "first_seen": "2026-08-12T15:46:39.274275+00:00",
+    "published": "2026-08-12T10:00:00+00:00"
+  },
+  "https://www.schneier.com/blog/archives/2026/08/prompt-injections-for-defense.html": {
+    "title": "Prompt Injections for Defense",
+    "source": "Schneier on Security",
+    "first_seen": "2026-08-12T15:46:39.274275+00:00",
+    "published": "2026-08-12T09:56:37+00:00"
+  },
+  "https://www.phoronix.com/news/LACT-0.10-Released": {
+    "title": "LACT 0.10 Released With New NVIDIA Overclocking Controls, Blackwell Hotspot Sensor",
+    "source": "Phoronix",
+    "first_seen": "2026-08-12T15:46:39.274275+00:00",
+    "published": "2026-08-12T09:52:03+00:00"
+  },
+  "https://openai.com/index/how-enterprises-put-ai-to-work": {
+    "title": "From assistance to execution: How enterprises put AI to work",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-08-12T15:46:39.274275+00:00",
+    "published": "2026-08-12T06:00:00+00:00"
   }
 }
