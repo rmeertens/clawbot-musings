@@ -71720,5 +71720,245 @@
     "source": "Python Insider",
     "first_seen": "2026-08-13T09:51:36.822451+00:00",
     "published": "2026-08-12T00:00:00+00:00"
+  },
+  "https://blog.bytebytego.com/p/a-detailed-guide-to-api-composition": {
+    "title": "A Detailed Guide to API Composition Techniques",
+    "source": "ByteByteGo",
+    "first_seen": "2026-08-13T15:45:09.275214+00:00",
+    "published": "2026-08-13T15:30:27+00:00"
+  },
+  "https://www.seangoedecke.com/text-ai-watermarks": {
+    "title": "Text AI watermarks will always be trivial to remove",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-13T15:45:09.275214+00:00",
+    "published": "2026-08-13T15:07:10+00:00"
+  },
+  "https://thenewstack.io/code-review-taste-problem": {
+    "title": "Code review is a taste problem",
+    "source": "The New Stack",
+    "first_seen": "2026-08-13T15:45:09.275214+00:00",
+    "published": "2026-08-13T15:00:00+00:00"
+  },
+  "https://www.wired.com/story/mcdonalds-built-a-515-page-dossier-on-me-it-says-ill-never-leave": {
+    "title": "McDonald's Built a 515-Page Dossier on Me. It Says I'll Never Stop Eating There",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-13T15:45:09.275214+00:00",
+    "published": "2026-08-13T14:37:51+00:00"
+  },
+  "https://www.flocksafety.com/blog/flock-guardrails-address-lpr-privacy-concerns-and-police-transparency": {
+    "title": "Flock Safety changes system defaults in response to criticisms",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-13T15:45:09.275214+00:00",
+    "published": "2026-08-13T14:37:29+00:00"
+  },
+  "https://thenewstack.io/mistral-third-party-open-models": {
+    "title": "Five European companies just agreed to buy AI compute that doesn’t exist yet",
+    "source": "The New Stack",
+    "first_seen": "2026-08-13T15:45:09.275214+00:00",
+    "published": "2026-08-13T14:31:00+00:00"
+  },
+  "https://oxide.computer/blog/kubernetes-on-oxide": {
+    "title": "Kubernetes on Oxide: How Customer Needs Shaped Our Integrations",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-13T15:45:09.275214+00:00",
+    "published": "2026-08-13T14:26:41+00:00"
+  },
+  "https://www.quantamagazine.org/graduate-student-proves-the-fractal-uncertainty-principle-20260812": {
+    "title": "Graduate Student Proves a Quantum Uncertainty Principle for Fractals",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-13T15:45:09.275214+00:00",
+    "published": "2026-08-13T14:22:54+00:00"
+  },
+  "https://www.echo.ai/blog/echo-xnanoclaw-under-the-hood": {
+    "title": "We eliminated 1,400 CVEs in NanoClaw's container images",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-13T15:45:09.275214+00:00",
+    "published": "2026-08-13T14:18:34+00:00"
+  },
+  "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts": {
+    "title": "Spaghettifying DRAM",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-13T15:45:09.275214+00:00",
+    "published": "2026-08-13T14:17:13+00:00"
+  },
+  "https://www.heartaerospace.com/newsroom/heart-aerospace-completes-first-flight-of-world-s-largest-electric-aircraft": {
+    "title": "Heart Aerospace Completes First Flight of Largest Electric Aircraft",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-13T15:45:09.275214+00:00",
+    "published": "2026-08-13T14:11:51+00:00"
+  },
+  "https://opscode.io/posts/ptp-grandmaster-cm4-sr1723u10": {
+    "title": "Build a Stratum 1 PTP Grandmaster on a Budget",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-13T15:45:09.275214+00:00",
+    "published": "2026-08-13T14:08:44+00:00"
+  },
+  "https://aws.amazon.com/blogs/architecture/recovery-strategies-to-meet-data-residency-requirements": {
+    "title": "Recovery strategies to meet data residency requirements",
+    "source": "AWS Architecture Blog",
+    "first_seen": "2026-08-13T15:45:09.275214+00:00",
+    "published": "2026-08-13T14:05:39+00:00"
+  },
+  "https://www.phoronix.com/review/framework-13-pro-linux-71-72": {
+    "title": "The Beneficial Performance Gains Running The Framework Laptop Pro 13 / Core Ultra X9 388H With Linux 7.1+",
+    "source": "Phoronix",
+    "first_seen": "2026-08-13T15:45:09.275214+00:00",
+    "published": "2026-08-13T14:00:00+00:00"
+  },
+  "https://github.com/fellowgeek/mcp-memory": {
+    "title": "Show HN: MCP Memory – Fast Agent Memory Using Google's OKF and SQLite FTS5",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-13T15:45:09.275214+00:00",
+    "published": "2026-08-13T13:57:47+00:00"
+  },
+  "https://arxiv.org/abs/2608.10863": {
+    "title": "Time to Move On: Querying Without Nulls and Bags",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-13T15:45:09.275214+00:00",
+    "published": "2026-08-13T13:54:56+00:00"
+  },
+  "https://gloom.sh": {
+    "title": "Gloomberb",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-13T15:45:09.275214+00:00",
+    "published": "2026-08-13T13:52:32+00:00"
+  },
+  "https://alignment.anthropic.com/2026/conceptual-reasoning-index": {
+    "title": "Anthropic: Introducing The Conceptual Reasoning Index",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-13T15:45:09.275214+00:00",
+    "published": "2026-08-13T13:48:14+00:00"
+  },
+  "https://lwn.net/Articles/1088759": {
+    "title": "rsync 3.5.0 released",
+    "source": "LWN.net",
+    "first_seen": "2026-08-13T15:45:09.275214+00:00",
+    "published": "2026-08-13T13:47:49+00:00"
+  },
+  "https://lwn.net/Articles/1088125": {
+    "title": "[$] 128-Bit page tables for Arm",
+    "source": "LWN.net",
+    "first_seen": "2026-08-13T15:45:09.275214+00:00",
+    "published": "2026-08-13T13:46:28+00:00"
+  },
+  "https://alexmorleyfinch.github.io/marlin/history/v1/article/the_birth.html": {
+    "title": "I Built a 500k-Domain Search Engine for Makers in a Weekend for $10",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-13T15:45:09.275214+00:00",
+    "published": "2026-08-13T13:36:19+00:00"
+  },
+  "https://www.economist.com/business/2026/08/12/ai-agents-lie-cheat-and-steal-that-is-putting-off-users": {
+    "title": "AI agents lie, cheat and steal. That is putting off users",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-13T15:45:09.275214+00:00",
+    "published": "2026-08-13T13:28:45+00:00"
+  },
+  "https://www.phoronix.com/news/GeForce-NOW-Linux-Exits-Beta": {
+    "title": "GeForce NOW On Linux Native App Exits Beta",
+    "source": "Phoronix",
+    "first_seen": "2026-08-13T15:45:09.275214+00:00",
+    "published": "2026-08-13T13:21:08+00:00"
+  },
+  "https://www.tomshardware.com/software/cloud-storage/nine-pbs-loses-access-to-70-years-of-data-after-contracted-cloud-storage-vendor-goes-defunct-public-tv-channel-sues-iron-mountain-data-center-which-hosts-archival-materials-to-ensure-preservation": {
+    "title": "Nine PBS could lose 70 years of archives after cloud vendor goes defunct",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-13T15:45:09.275214+00:00",
+    "published": "2026-08-13T13:14:12+00:00"
+  },
+  "https://lwn.net/Articles/1088715": {
+    "title": "Security updates for Thursday",
+    "source": "LWN.net",
+    "first_seen": "2026-08-13T15:45:09.275214+00:00",
+    "published": "2026-08-13T13:12:41+00:00"
+  },
+  "https://www.phoronix.com/news/MSI-Claw-Gamepad-Linux-7.3": {
+    "title": "MSI Claw Gamepad Driver Set To Be Merged For Linux 7.3",
+    "source": "Phoronix",
+    "first_seen": "2026-08-13T15:45:09.275214+00:00",
+    "published": "2026-08-13T13:11:15+00:00"
+  },
+  "https://www.netlify.com/blog/one-prompt-11-models-very-different-results": {
+    "title": "Choosing an AI model: one prompt, 11 models, different results",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-13T15:45:09.275214+00:00",
+    "published": "2026-08-13T13:05:29+00:00"
+  },
+  "https://leancrew.com/all-this/2026/08/my-rules-for-using-spreadsheets": {
+    "title": "My Rules for Using Spreadsheets",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-13T15:45:09.275214+00:00",
+    "published": "2026-08-13T13:00:24+00:00"
+  },
+  "https://blog.cloudflare.com/certificate-transparency-monitoring-ga": {
+    "title": "Certificate Transparency Monitoring is now generally available",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-08-13T15:45:09.275214+00:00",
+    "published": "2026-08-13T13:00:00+00:00"
+  },
+  "https://github.com/deepseek-ai/deepseek-harness": {
+    "title": "DeepSeek Harness",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-13T15:45:09.275214+00:00",
+    "published": "2026-08-13T12:58:02+00:00"
+  },
+  "https://twitter.com/deepseek_ai/status/2087864589895798968": {
+    "title": "DeepSeek API Pricing Update",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-13T15:45:09.275214+00:00",
+    "published": "2026-08-13T12:49:21+00:00"
+  },
+  "https://neon.com/blog/neon-for-herdr-a-neon-pane-in-your-herdr-workspace": {
+    "title": "Neon for Herdr: A Neon pane in your Herdr workspace",
+    "source": "Neon Blog",
+    "first_seen": "2026-08-13T15:45:09.275214+00:00",
+    "published": "2026-08-13T12:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-Apple-M4-NVMe-Patches": {
+    "title": "Linux Patches Enable Apple M4 NVMe Support",
+    "source": "Phoronix",
+    "first_seen": "2026-08-13T15:45:09.275214+00:00",
+    "published": "2026-08-13T11:30:36+00:00"
+  },
+  "https://www.cncf.io/blog/2026/08/13/lightweight-dragonfly-deployment-p2p-distribution-without-the-database-stack": {
+    "title": "Lightweight Dragonfly Deployment: P2P Distribution Without the Database Stack",
+    "source": "CNCF Blog",
+    "first_seen": "2026-08-13T15:45:09.275214+00:00",
+    "published": "2026-08-13T11:30:00+00:00"
+  },
+  "https://www.schneier.com/blog/archives/2026/08/separating-ais-technological-problems-from-its-capitalism-problems.html": {
+    "title": "Separating AI’s Technological Problems from Its Capitalism Problems",
+    "source": "Schneier on Security",
+    "first_seen": "2026-08-13T15:45:09.275214+00:00",
+    "published": "2026-08-13T11:07:19+00:00"
+  },
+  "https://www.cncf.io/blog/2026/08/13/llmops-and-platform-engineering-who-should-own-the-ai-pipeline": {
+    "title": "LLMOps and platform engineering: Who should own the AI pipeline?",
+    "source": "CNCF Blog",
+    "first_seen": "2026-08-13T15:45:09.275214+00:00",
+    "published": "2026-08-13T11:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/Azure-Linux-3.0.20260809": {
+    "title": "Microsoft's Azure Linux 3.0.20260809 Ships With 233+ CVE Fixes",
+    "source": "Phoronix",
+    "first_seen": "2026-08-13T15:45:09.275214+00:00",
+    "published": "2026-08-13T10:38:00+00:00"
+  },
+  "https://www.phoronix.com/news/Intel-XPU-Manager-2.1": {
+    "title": "Intel XPU Manager 2.1 Released For Monitoring Arc Pro Graphics On Windows/Linux",
+    "source": "Phoronix",
+    "first_seen": "2026-08-13T15:45:09.275214+00:00",
+    "published": "2026-08-13T10:24:38+00:00"
+  },
+  "https://www.elastic.co/blog/defence-cyber-certification": {
+    "title": "Elastic achieves Defence Cyber Certification Level 0 in the UK",
+    "source": "Elastic Blog",
+    "first_seen": "2026-08-13T15:45:09.275214+00:00",
+    "published": "2026-08-13T00:00:00+00:00"
+  },
+  "https://blog.python.org/2026/08/2026-packaging-council-nominees": {
+    "title": "Announcing the Packaging Council Election Candidates for 2026!",
+    "source": "Python Insider",
+    "first_seen": "2026-08-13T15:45:09.275214+00:00",
+    "published": "2026-08-13T00:00:00+00:00"
   }
 }
