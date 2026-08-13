@@ -71960,5 +71960,359 @@
     "source": "Python Insider",
     "first_seen": "2026-08-13T15:45:09.275214+00:00",
     "published": "2026-08-13T00:00:00+00:00"
+  },
+  "https://neon.com/blog/neon-skills-landed-in-the-vercel-cli": {
+    "title": "Neon skills landed in the Vercel CLI",
+    "source": "Neon Blog",
+    "first_seen": "2026-08-13T21:32:41.958619+00:00",
+    "published": "2026-08-14T12:00:00+00:00"
+  },
+  "https://webkit.org/blog/18191/release-notes-for-safari-technology-preview-250": {
+    "title": "Release Notes for Safari Technology Preview 250",
+    "source": "WebKit Blog",
+    "first_seen": "2026-08-13T21:32:41.958619+00:00",
+    "published": "2026-08-13T21:24:55+00:00"
+  },
+  "https://aws.amazon.com/blogs/security/aws-certificate-manager-will-discontinue-email-validation-to-prove-domain-validation-for-certificates": {
+    "title": "AWS Certificate Manager will discontinue email validation to prove domain validation for certificates",
+    "source": "AWS Security Blog",
+    "first_seen": "2026-08-13T21:32:41.958619+00:00",
+    "published": "2026-08-13T21:23:00+00:00"
+  },
+  "https://www.databricks.com/blog/how-scottish-water-made-its-capital-investment-data-conversational-databricks-genie": {
+    "title": "How Scottish Water Made Its Capital Investment Data Conversational With Databricks Genie",
+    "source": "Databricks Blog",
+    "first_seen": "2026-08-13T21:32:41.958619+00:00",
+    "published": "2026-08-13T21:00:00+00:00"
+  },
+  "https://gruhn.me/blog/2026-08-13": {
+    "title": "NP-Overrated",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-13T21:32:41.958619+00:00",
+    "published": "2026-08-13T20:14:17+00:00"
+  },
+  "https://www.phoronix.com/news/KDE-Bullet-Proof-Software": {
+    "title": "KDE, Techpaladin & Kubuntu Focus Announce The Bullet-Proof KDE Software Initiative",
+    "source": "Phoronix",
+    "first_seen": "2026-08-13T21:32:41.958619+00:00",
+    "published": "2026-08-13T20:08:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/compute/designing-for-failure-building-resilient-systems-on-aws": {
+    "title": "Designing for failure: Building resilient systems on AWS",
+    "source": "AWS Compute Blog",
+    "first_seen": "2026-08-13T21:32:41.958619+00:00",
+    "published": "2026-08-13T20:03:28+00:00"
+  },
+  "https://thenewstack.io/gemini-3-7-flash-agents": {
+    "title": "The AI model that just scored 65% on DeepSWE isn’t the one Google promised.",
+    "source": "The New Stack",
+    "first_seen": "2026-08-13T21:32:41.958619+00:00",
+    "published": "2026-08-13T19:59:34+00:00"
+  },
+  "https://blog.cloudflare.com/total-eclipse-internet-traffic-iceland-spain-portugal": {
+    "title": "Total eclipse of the Internet: traffic impacts in Iceland, Spain, and Portugal",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-08-13T21:32:41.958619+00:00",
+    "published": "2026-08-13T19:58:01+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.2-Best-Features": {
+    "title": "The Best Linux 7.2 Features: Cache Aware Scheduling, AMD Zen 6, AMDGPU HDMI 2.1 FRL",
+    "source": "Phoronix",
+    "first_seen": "2026-08-13T21:32:41.958619+00:00",
+    "published": "2026-08-13T19:57:51+00:00"
+  },
+  "https://www.quantamagazine.org/how-godels-proof-works-20200714": {
+    "title": "How Gödel's Proof Works (2020)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-13T21:32:41.958619+00:00",
+    "published": "2026-08-13T19:44:46+00:00"
+  },
+  "https://www.databricks.com/blog/ai-hallucinations": {
+    "title": "What are AI Hallucinations?",
+    "source": "Databricks Blog",
+    "first_seen": "2026-08-13T21:32:41.958619+00:00",
+    "published": "2026-08-13T19:35:16+00:00"
+  },
+  "https://devblogs.microsoft.com/dotnet/routing-and-failover-for-microsoft-extensions-ai": {
+    "title": "Routing and Failover for Microsoft.Extensions.AI",
+    "source": "MS .NET Blog",
+    "first_seen": "2026-08-13T21:32:41.958619+00:00",
+    "published": "2026-08-13T19:30:00+00:00"
+  },
+  "https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf": {
+    "title": "How Organizations Use AI: Evidence from ChatGPT [pdf]",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-13T21:32:41.958619+00:00",
+    "published": "2026-08-13T19:25:38+00:00"
+  },
+  "https://www.phoronix.com/news/New-Dasharo-2026-MSI-Intel-Z": {
+    "title": "Updated Coreboot/Dasharo For MSI PRO Z690-A / Z790-P Motherboards, Adds Overclocking",
+    "source": "Phoronix",
+    "first_seen": "2026-08-13T21:32:41.958619+00:00",
+    "published": "2026-08-13T19:08:39+00:00"
+  },
+  "https://lwn.net/Articles/1088778": {
+    "title": "Domas: Bypassing memory protection with AMD's memory controllers",
+    "source": "LWN.net",
+    "first_seen": "2026-08-13T21:32:41.958619+00:00",
+    "published": "2026-08-13T19:06:28+00:00"
+  },
+  "https://thenewstack.io/openai-chatgpt-computer-history": {
+    "title": "ChatGPT can now remember what you did on your Mac — without screenshots",
+    "source": "The New Stack",
+    "first_seen": "2026-08-13T21:32:41.958619+00:00",
+    "published": "2026-08-13T19:00:00+00:00"
+  },
+  "https://github.blog/news-insights/company-news/your-guide-to-github-universe-2026-is-here-the-schedule-just-launched": {
+    "title": "Your guide to GitHub Universe 2026 is here: The schedule just launched!",
+    "source": "GitHub Blog",
+    "first_seen": "2026-08-13T21:32:41.958619+00:00",
+    "published": "2026-08-13T19:00:00+00:00"
+  },
+  "https://engineering.atspotify.com/2026/8/when-can-llms-replace-humans-in-a-b-tests": {
+    "title": "When Can LLMs Replace Humans in A/B Tests?",
+    "source": "Spotify Engineering",
+    "first_seen": "2026-08-13T21:32:41.958619+00:00",
+    "published": "2026-08-13T18:57:22+00:00"
+  },
+  "https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck": {
+    "title": "Understanding is the new bottleneck",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-13T21:32:41.958619+00:00",
+    "published": "2026-08-13T18:47:19+00:00"
+  },
+  "https://github.com/systemd/systemd/issues/40262": {
+    "title": "Single log line is 49KB+ (ext4) / 110KB+ (btrfs) of systemd-journald disk writes",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-13T21:32:41.958619+00:00",
+    "published": "2026-08-13T18:41:01+00:00"
+  },
+  "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai": {
+    "title": "Accelerating GPT-5.6 Sol Ultrafast",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-13T21:32:41.958619+00:00",
+    "published": "2026-08-13T18:10:02+00:00"
+  },
+  "https://earendil.com/posts/compaction-in-pi": {
+    "title": "How Compaction Works in Pi",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-13T21:32:41.958619+00:00",
+    "published": "2026-08-13T17:57:50+00:00"
+  },
+  "https://www.solidjs.com/blog/solid-2-0-rc-the-big-reveal": {
+    "title": "Solid 2.0 RC: The Big",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-13T21:32:41.958619+00:00",
+    "published": "2026-08-13T17:53:19+00:00"
+  },
+  "https://www.databricks.com/blog/smart-routing-unity-ai-gateway-match-frontier-quality-30-lower-cost-task": {
+    "title": "Smart Routing in Unity AI Gateway: Match frontier quality with 30%+ lower cost per task",
+    "source": "Databricks Blog",
+    "first_seen": "2026-08-13T21:32:41.958619+00:00",
+    "published": "2026-08-13T17:52:04+00:00"
+  },
+  "https://0.mk/blog/link-rot": {
+    "title": "Where did the old web go? We followed 657,607 links to find out",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-13T21:32:41.958619+00:00",
+    "published": "2026-08-13T17:49:18+00:00"
+  },
+  "https://mcfunley.com/choose-boring-technology": {
+    "title": "Choose Boring Technology (2015)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-13T21:32:41.958619+00:00",
+    "published": "2026-08-13T17:48:13+00:00"
+  },
+  "https://donkeybas.com": {
+    "title": "Donkey.bas is 45 Years Old – 131 line of Glory",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-13T21:32:41.958619+00:00",
+    "published": "2026-08-13T17:45:50+00:00"
+  },
+  "https://thenewstack.io/rubrik-mythos-learnings": {
+    "title": "Rubrik’s lessons from one month with Mythos Preview",
+    "source": "The New Stack",
+    "first_seen": "2026-08-13T21:32:41.958619+00:00",
+    "published": "2026-08-13T17:37:33+00:00"
+  },
+  "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash": {
+    "title": "Gemini 3.7 Flash",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-13T21:32:41.958619+00:00",
+    "published": "2026-08-13T17:23:22+00:00"
+  },
+  "https://tschatzl.github.io/2026/08/10/jdk27-g1-serial-parallel-gc-changes.html": {
+    "title": "JDK 27 G1/Parallel/Serial GC Changes",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-13T21:32:41.958619+00:00",
+    "published": "2026-08-13T17:22:39+00:00"
+  },
+  "https://thenewstack.io/deepseek-harness-open-source-plugins": {
+    "title": "DeepSeek open sources an agent harness where everything is a plugin",
+    "source": "The New Stack",
+    "first_seen": "2026-08-13T21:32:41.958619+00:00",
+    "published": "2026-08-13T17:20:21+00:00"
+  },
+  "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop": {
+    "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-08-13T21:32:41.958619+00:00",
+    "published": "2026-08-13T17:16:04+00:00"
+  },
+  "https://lrc.la.utexas.edu/eieol/tokol/0": {
+    "title": "Tocharian Online",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-13T21:32:41.958619+00:00",
+    "published": "2026-08-13T17:15:46+00:00"
+  },
+  "https://docs.mistral.ai/models/ocr-4-1": {
+    "title": "Mistral OCR 4.1",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-13T21:32:41.958619+00:00",
+    "published": "2026-08-13T17:05:12+00:00"
+  },
+  "https://deepmind.google/blog/introducing-gemini-3-7-flash": {
+    "title": "Introducing Gemini 3.7 Flash",
+    "source": "DeepMind Blog",
+    "first_seen": "2026-08-13T21:32:41.958619+00:00",
+    "published": "2026-08-13T17:04:18+00:00"
+  },
+  "https://cloud.google.com/blog/products/data-analytics/bigquery-graphs-with-measures-for-trusted-agentic-workloads": {
+    "title": "Using BigQuery Graphs with measures for trusted agentic workloads",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-08-13T21:32:41.958619+00:00",
+    "published": "2026-08-13T17:00:00+00:00"
+  },
+  "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets": {
+    "title": "Bring your spreadsheet data to life with Sheets canvas",
+    "source": "Google AI Blog",
+    "first_seen": "2026-08-13T21:32:41.958619+00:00",
+    "published": "2026-08-13T16:45:00+00:00"
+  },
+  "https://goaccess.io": {
+    "title": "GoAccess – Open-source real-time log analyzer and interactive viewer",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-13T21:32:41.958619+00:00",
+    "published": "2026-08-13T16:22:16+00:00"
+  },
+  "https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html": {
+    "title": "AI At Home Part 1: A Box Of Scraps",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-13T21:32:41.958619+00:00",
+    "published": "2026-08-13T16:22:05+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/monitor-on-premises-and-multi-cloud-ai-agents-with-agentcore-observability": {
+    "title": "Monitor on-premises and multi-cloud AI agents with AgentCore Observability",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-08-13T21:32:41.958619+00:00",
+    "published": "2026-08-13T16:02:10+00:00"
+  },
+  "https://pytorch.org/blog/fp8-training-on-amd-gpus-with-torchtitan-and-torchao-upstreaming-performance-improvements": {
+    "title": "FP8 Training on AMD GPUs with TorchTitan and TorchAO: Upstreaming Performance Improvements",
+    "source": "PyTorch Blog",
+    "first_seen": "2026-08-13T21:32:41.958619+00:00",
+    "published": "2026-08-13T16:00:31+00:00"
+  },
+  "https://www.hashicorp.com/blog/packer-v1160-brings-verifiable-provenance-to-machine-images": {
+    "title": "Packer v1.16.0 brings verifiable provenance to machine images",
+    "source": "HashiCorp Blog",
+    "first_seen": "2026-08-13T21:32:41.958619+00:00",
+    "published": "2026-08-13T16:00:00+00:00"
+  },
+  "https://thenewstack.io/ai-pipeline-token-optimization": {
+    "title": "Why your AI pipeline costs 10x more after the demo",
+    "source": "The New Stack",
+    "first_seen": "2026-08-13T21:32:41.958619+00:00",
+    "published": "2026-08-13T16:00:00+00:00"
+  },
+  "https://github.blog/open-source/maintainers/what-50-open-source-projects-taught-us-about-security-in-the-ai-era": {
+    "title": "What 50 open source projects taught us about security in the AI era",
+    "source": "GitHub Blog",
+    "first_seen": "2026-08-13T21:32:41.958619+00:00",
+    "published": "2026-08-13T16:00:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/architecture/track-generative-ai-costs-with-amazon-bedrock-inference-profiles": {
+    "title": "Track generative AI costs with Amazon Bedrock inference profiles",
+    "source": "AWS Architecture Blog",
+    "first_seen": "2026-08-13T21:32:41.958619+00:00",
+    "published": "2026-08-13T15:59:39+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/automate-legacy-web-applications-with-amazon-bedrock-agentcore-browser-tool": {
+    "title": "Automate legacy web applications with Amazon Bedrock AgentCore Browser Tool",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-08-13T21:32:41.958619+00:00",
+    "published": "2026-08-13T15:56:07+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/accelerating-ma-due-diligence-with-amazon-bedrock-agentcore": {
+    "title": "Accelerating M&A due diligence with Amazon Bedrock AgentCore",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-08-13T21:32:41.958619+00:00",
+    "published": "2026-08-13T15:52:44+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/how-appfolio-transformed-its-data-streaming-architecture-with-amazon-msk-express-brokers": {
+    "title": "How AppFolio transformed its data streaming architecture with Amazon MSK Express brokers",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-08-13T21:32:41.958619+00:00",
+    "published": "2026-08-13T15:50:30+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/amazon-quick-for-microsoft-365-agentic-ai-where-you-work": {
+    "title": "Amazon Quick for Microsoft 365: Agentic AI where you work",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-08-13T21:32:41.958619+00:00",
+    "published": "2026-08-13T15:48:15+00:00"
+  },
+  "https://openai.com/index/builders-guide-to-gpt-5-6": {
+    "title": "The builder’s guide to GPT‑5.6",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-08-13T21:32:41.958619+00:00",
+    "published": "2026-08-13T11:00:00+00:00"
+  },
+  "https://openai.com/index/previewing-ultrafast": {
+    "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-08-13T21:32:41.958619+00:00",
+    "published": "2026-08-13T10:00:00+00:00"
+  },
+  "https://openai.com/index/dali-rajic-chief-revenue-officer": {
+    "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-08-13T21:32:41.958619+00:00",
+    "published": "2026-08-13T09:00:00+00:00"
+  },
+  "https://blog.sentry.io/claude-routines-agent-triage": {
+    "title": "Automated agent triage with Agent Tracing and Claude Routines",
+    "source": "Sentry Blog",
+    "first_seen": "2026-08-13T21:32:41.958619+00:00",
+    "published": "2026-08-13T09:00:00+00:00"
+  },
+  "https://www.elastic.co/blog/devrel-newsletter-august-2026": {
+    "title": "Elastic community newsletter — August 2026",
+    "source": "Elastic Blog",
+    "first_seen": "2026-08-13T21:32:41.958619+00:00",
+    "published": "2026-08-13T00:00:00+00:00"
+  },
+  "https://svelte.dev/blog/sveltekit-3-release-candidate": {
+    "title": "The SvelteKit 3 Release Candidate is here",
+    "source": "Svelte Blog",
+    "first_seen": "2026-08-13T21:32:41.958619+00:00",
+    "published": "2026-08-13T00:00:00+00:00"
+  },
+  "https://nodeweekly.com/issues/637": {
+    "title": "Building terminal UIs with HTML and CSS",
+    "source": "Node Weekly",
+    "first_seen": "2026-08-13T21:32:41.958619+00:00",
+    "published": "2026-08-13T00:00:00+00:00"
+  },
+  "https://machinelearning.apple.com/research/unlearning-low-influence-points": {
+    "title": "When Unlearning Is Free: Leveraging Low Influence Points to Reduce Computational Costs",
+    "source": "Apple ML Journal",
+    "first_seen": "2026-08-13T21:32:41.958619+00:00",
+    "published": "2026-08-13T00:00:00+00:00"
+  },
+  "https://huggingface.co/blog/icml-2026-open-reproductions": {
+    "title": "What We Learned by Reproducing 2,200 papers from ICML",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-08-13T21:32:41.958619+00:00",
+    "published": "2026-08-13T00:00:00+00:00"
   }
 }
