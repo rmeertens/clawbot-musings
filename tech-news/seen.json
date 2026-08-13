@@ -71594,5 +71594,131 @@
     "source": "Google Research",
     "first_seen": "2026-08-12T21:32:05.173429+00:00",
     "published": "2026-08-12T09:51:00+00:00"
+  },
+  "https://agent-wars.com/news/2026-08-11-mistral-code-tool-calls-patent-b1": {
+    "title": "Mistral got a US patent on tool calls in 118 days. Without prior public notice",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-13T09:51:36.822451+00:00",
+    "published": "2026-08-13T09:02:02+00:00"
+  },
+  "https://openai.com/codex": {
+    "title": "ChatGPT Desktop (Codex Desktop) for Linux",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-13T09:51:36.822451+00:00",
+    "published": "2026-08-13T04:53:41+00:00"
+  },
+  "https://www.phoronix.com/news/Rsync-3.5": {
+    "title": "Rsync 3.5 Released As \"Extraordinary\" Update To Fix 33 Security Issues",
+    "source": "Phoronix",
+    "first_seen": "2026-08-13T09:51:36.822451+00:00",
+    "published": "2026-08-13T01:26:03+00:00"
+  },
+  "https://aws.amazon.com/blogs/architecture/reducing-text2sql-latency-with-parameterized-query-templates": {
+    "title": "Reducing Text2SQL latency with parameterized query templates",
+    "source": "AWS Architecture Blog",
+    "first_seen": "2026-08-13T09:51:36.822451+00:00",
+    "published": "2026-08-13T00:40:32+00:00"
+  },
+  "https://www.phoronix.com/news/Comma.ai-PCIe-Gen4-USB4-Dock": {
+    "title": "Comma.ai Launches A PCIe Gen4 x4 To USB4 Dock With Open-Source Firmware",
+    "source": "Phoronix",
+    "first_seen": "2026-08-13T09:51:36.822451+00:00",
+    "published": "2026-08-13T00:35:57+00:00"
+  },
+  "https://lwn.net/Articles/1087432": {
+    "title": "[$] LWN.net Weekly Edition for August 13, 2026",
+    "source": "LWN.net",
+    "first_seen": "2026-08-13T09:51:36.822451+00:00",
+    "published": "2026-08-13T00:23:17+00:00"
+  },
+  "https://aws.amazon.com/blogs/architecture/adobe-firefly-simplified-observability-with-amazon-managed-prometheus": {
+    "title": "Adobe Firefly: Simplified observability with Amazon Managed Prometheus",
+    "source": "AWS Architecture Blog",
+    "first_seen": "2026-08-13T09:51:36.822451+00:00",
+    "published": "2026-08-13T00:14:19+00:00"
+  },
+  "https://simonwillison.net/2026/Aug/12/deepseek-v4-pro-0813": {
+    "title": "DeepSeek V4 Pro 0813 (on OpenRouter)",
+    "source": "Simon Willison",
+    "first_seen": "2026-08-13T09:51:36.822451+00:00",
+    "published": "2026-08-12T23:59:23+00:00"
+  },
+  "https://sharktastica.co.uk/articles/pc-fxt-45": {
+    "title": "Happy 45th Birthday to the IBM PC and Model F/XT",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-13T09:51:36.822451+00:00",
+    "published": "2026-08-12T23:50:33+00:00"
+  },
+  "https://flutter.dev/blog/whats-new-in-flutter-3-47": {
+    "title": "Flutter 3.47",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-13T09:51:36.822451+00:00",
+    "published": "2026-08-12T23:46:00+00:00"
+  },
+  "https://adapt.com/blog/build-wide-ship-narrow": {
+    "title": "Build Wide, Ship Narrow",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-13T09:51:36.822451+00:00",
+    "published": "2026-08-12T23:43:48+00:00"
+  },
+  "https://okmij.org/ftp/Computation/Impressions/PrincipiaMathematica.html": {
+    "title": "Principia Mathematica is modern and insightful",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-13T09:51:36.822451+00:00",
+    "published": "2026-08-12T23:26:21+00:00"
+  },
+  "https://github.blog/news-insights/company-news/github-availability-report-july-2026": {
+    "title": "GitHub availability report: July 2026",
+    "source": "GitHub Blog",
+    "first_seen": "2026-08-13T09:51:36.822451+00:00",
+    "published": "2026-08-12T22:17:32+00:00"
+  },
+  "https://aws.amazon.com/blogs/security/how-aws-iam-role-manager-rethinks-the-starting-point-for-iam-roles": {
+    "title": "How AWS IAM role manager rethinks the starting point for IAM roles",
+    "source": "AWS Security Blog",
+    "first_seen": "2026-08-13T09:51:36.822451+00:00",
+    "published": "2026-08-12T22:16:55+00:00"
+  },
+  "https://thenewstack.io/coderabbit-agentic-change-management-review": {
+    "title": "“Issue tracking is dead”; How the pull request became the last chokepoint in the SDLC bottleneck",
+    "source": "The New Stack",
+    "first_seen": "2026-08-13T09:51:36.822451+00:00",
+    "published": "2026-08-12T22:00:00+00:00"
+  },
+  "https://corneroffifth.studio/why-cant-you-find-canned-sardines-right-now": {
+    "title": "Thanks to social media, canned sardines are a scarcity on the supermarket shelf",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-13T09:51:36.822451+00:00",
+    "published": "2026-08-12T21:45:29+00:00"
+  },
+  "https://thenewstack.io/claude-chrome-cowork-sessions": {
+    "title": "Anthropic’s Chrome extension is now a Cowork session",
+    "source": "The New Stack",
+    "first_seen": "2026-08-13T09:51:36.822451+00:00",
+    "published": "2026-08-12T21:39:38+00:00"
+  },
+  "https://antithesis.com/blog/2026/wal-reset-bug": {
+    "title": "Breaking the WAL",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-13T09:51:36.822451+00:00",
+    "published": "2026-08-12T20:00:16+00:00"
+  },
+  "https://simonwillison.net/2026/Aug/12/alchemy-utils": {
+    "title": "alchemy-utils 0.1a0",
+    "source": "Simon Willison",
+    "first_seen": "2026-08-13T09:51:36.822451+00:00",
+    "published": "2026-08-12T19:51:30+00:00"
+  },
+  "https://openai.com/index/ringcentral": {
+    "title": "How RingCentral builds AI-native work from engineering to ops",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-08-13T09:51:36.822451+00:00",
+    "published": "2026-08-12T00:00:00+00:00"
+  },
+  "https://blog.python.org/2026/08/python-31214-31116-31021": {
+    "title": "Python 3.12.14, 3.11.16 and 3.10.21 are now available!",
+    "source": "Python Insider",
+    "first_seen": "2026-08-13T09:51:36.822451+00:00",
+    "published": "2026-08-12T00:00:00+00:00"
   }
 }
