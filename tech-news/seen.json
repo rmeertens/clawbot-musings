@@ -72314,5 +72314,95 @@
     "source": "Hugging Face Blog",
     "first_seen": "2026-08-13T21:32:41.958619+00:00",
     "published": "2026-08-13T00:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/Zenwalk-BORE-Kernel": {
+    "title": "Slackware-Based Zenwalk Linux Aims For \"True Low Latency Desktop Experience\"",
+    "source": "Phoronix",
+    "first_seen": "2026-08-14T09:49:00.780364+00:00",
+    "published": "2026-08-14T09:30:21+00:00"
+  },
+  "https://stackoverflow.blog/2026/08/14/solving-integration-woes-with-a-hackathon": {
+    "title": "Solving integration woes with a hackathon",
+    "source": "Stack Overflow Blog",
+    "first_seen": "2026-08-14T09:49:00.780364+00:00",
+    "published": "2026-08-14T07:40:00+00:00"
+  },
+  "https://opentelemetry.io/blog/2026/consuming-opentelemetry-entity-events": {
+    "title": "What can you do with OpenTelemetry entity events?",
+    "source": "OpenTelemetry Blog",
+    "first_seen": "2026-08-14T09:49:00.780364+00:00",
+    "published": "2026-08-14T07:10:08+00:00"
+  },
+  "https://www.frandroid.com/marques/xiaomi/3211257_photo-de-leclipse-on-a-perce-a-jour-la-petite-triche-du-xiaomi-17-ultra-qui-confond-la-lune-et-le-soleil": {
+    "title": "Eclipse: The Xiaomi 17 Ultra Confuses the Moon and the Sun",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-14T09:49:00.780364+00:00",
+    "published": "2026-08-14T07:03:56+00:00"
+  },
+  "https://www.elttam.com/blog/ruby-4-0-universal-rce-deserialization-gadget-chain": {
+    "title": "Ruby 4.0 Universal RCE Deserialization Gadget Chain",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-14T09:49:00.780364+00:00",
+    "published": "2026-08-14T06:09:04+00:00"
+  },
+  "https://z.ai/blog/glm-5.3": {
+    "title": "GLM-5.3: Frontier coding with emergent cyber capabilities",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-14T09:49:00.780364+00:00",
+    "published": "2026-08-14T05:19:59+00:00"
+  },
+  "https://github.com/JustVugg/lumabri": {
+    "title": "Show HN: Lumabri – Run Moe Models on a P2P Swarm with Colibri",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-14T09:49:00.780364+00:00",
+    "published": "2026-08-14T00:47:04+00:00"
+  },
+  "https://www.phoronix.com/news/AMD-GAIA-0.23": {
+    "title": "AMD GAIA 0.23 Delivers Ability To Install/Run AI Agents From The Terminal",
+    "source": "Phoronix",
+    "first_seen": "2026-08-14T09:49:00.780364+00:00",
+    "published": "2026-08-14T00:33:01+00:00"
+  },
+  "https://atproto.com/blog/introducing-bluesky-protocol-services": {
+    "title": "Bluesky Protocol Services",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-14T09:49:00.780364+00:00",
+    "published": "2026-08-14T00:14:28+00:00"
+  },
+  "https://simonwillison.net/2026/Aug/13/sqlite-utils-2": {
+    "title": "sqlite-utils 4.2.1",
+    "source": "Simon Willison",
+    "first_seen": "2026-08-14T09:49:00.780364+00:00",
+    "published": "2026-08-13T23:53:47+00:00"
+  },
+  "https://www.seangoedecke.com/blog-about-things-you-dont-understand-yet": {
+    "title": "Blog about things you don't understand yet",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-14T09:49:00.780364+00:00",
+    "published": "2026-08-13T23:39:33+00:00"
+  },
+  "https://simonwillison.net/2026/Aug/13/sqlite-utils": {
+    "title": "sqlite-utils 4.2",
+    "source": "Simon Willison",
+    "first_seen": "2026-08-14T09:49:00.780364+00:00",
+    "published": "2026-08-13T20:11:29+00:00"
+  },
+  "https://simonwillison.net/2026/Aug/13/llm-gemini": {
+    "title": "llm-gemini 0.33",
+    "source": "Simon Willison",
+    "first_seen": "2026-08-14T09:49:00.780364+00:00",
+    "published": "2026-08-13T19:37:34+00:00"
+  },
+  "https://themech.net/2026/08/hello-me-its-been-a-while": {
+    "title": "Hello, me. It's been a while",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-14T09:49:00.780364+00:00",
+    "published": "2026-08-13T18:37:18+00:00"
+  },
+  "https://simonwillison.net/2026/Aug/13/alchemy-utils": {
+    "title": "alchemy-utils 0.1a1",
+    "source": "Simon Willison",
+    "first_seen": "2026-08-14T09:49:00.780364+00:00",
+    "published": "2026-08-13T03:03:17+00:00"
   }
 }
