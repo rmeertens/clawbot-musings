@@ -72686,5 +72686,101 @@
     "source": "Golang Weekly",
     "first_seen": "2026-08-14T15:39:06.205732+00:00",
     "published": "2026-08-14T00:00:00+00:00"
+  },
+  "https://www.schneier.com/blog/archives/2026/08/friday-squid-blogging-searching-for-the-colossal-squid-2.html": {
+    "title": "Friday Squid Blogging: Searching for the Colossal Squid",
+    "source": "Schneier on Security",
+    "first_seen": "2026-08-14T21:13:47.383564+00:00",
+    "published": "2026-08-14T21:01:49+00:00"
+  },
+  "https://www.phoronix.com/news/D7VK-2.1": {
+    "title": "D7VK 2.1 Brings Faster Load Times, More Performance Tweaks",
+    "source": "Phoronix",
+    "first_seen": "2026-08-14T21:13:47.383564+00:00",
+    "published": "2026-08-14T20:26:46+00:00"
+  },
+  "https://www.phoronix.com/news/Lemonade-SDK-11.6": {
+    "title": "Lemonade 11.6 Integrates Muse-Glimmer 30B, Experimental TheNoise ROCm Image Generation",
+    "source": "Phoronix",
+    "first_seen": "2026-08-14T21:13:47.383564+00:00",
+    "published": "2026-08-14T20:00:22+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/faster-scaling-for-aurora-serverless-to-support-agentic-ai-and-other-spiky-workloads": {
+    "title": "Faster scaling for Aurora serverless to support agentic AI and other spiky workloads",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-08-14T21:13:47.383564+00:00",
+    "published": "2026-08-14T19:30:10+00:00"
+  },
+  "https://thenewstack.io/apple-china-ai-model": {
+    "title": "Apple’s new AI split means your iOS app could behave differently in China",
+    "source": "The New Stack",
+    "first_seen": "2026-08-14T21:13:47.383564+00:00",
+    "published": "2026-08-14T19:21:28+00:00"
+  },
+  "https://thenewstack.io/qwen38-27b-local-inference": {
+    "title": "Alibaba’s new model promises Opus 4.6-level performance on your laptop",
+    "source": "The New Stack",
+    "first_seen": "2026-08-14T21:13:47.383564+00:00",
+    "published": "2026-08-14T18:10:58+00:00"
+  },
+  "https://www.phoronix.com/news/Omarchy-4.0-Released": {
+    "title": "Omarchy 4.0 Linux Distro Released With Desktop Shell Now Implemented Via Quickshell",
+    "source": "Phoronix",
+    "first_seen": "2026-08-14T21:13:47.383564+00:00",
+    "published": "2026-08-14T18:10:15+00:00"
+  },
+  "https://stackoverflow.blog/2026/08/14/ndq-ai-context-architecture-build-buy": {
+    "title": "No Dumb Questions: What is AI context architecture? Why not just build your own?",
+    "source": "Stack Overflow Blog",
+    "first_seen": "2026-08-14T21:13:47.383564+00:00",
+    "published": "2026-08-14T18:00:00+00:00"
+  },
+  "https://stratechery.com/2026/the-capex-train-keeps-rolling": {
+    "title": "2026.33: The CapEx Train Keeps Rolling",
+    "source": "Stratechery",
+    "first_seen": "2026-08-14T21:13:47.383564+00:00",
+    "published": "2026-08-14T17:00:00+00:00"
+  },
+  "https://newsletter.pragmaticengineer.com/p/the-pulse-metas-self-inflicted-resignation": {
+    "title": "The Pulse: Meta’s self-inflicted resignation-wave",
+    "source": "The Pragmatic Engineer",
+    "first_seen": "2026-08-14T21:13:47.383564+00:00",
+    "published": "2026-08-14T16:55:55+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/addressing-clr-assembly-deprecation-in-amazon-rds-for-sql-server": {
+    "title": "Addressing CLR assembly deprecation in Amazon RDS for SQL Server",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-08-14T21:13:47.383564+00:00",
+    "published": "2026-08-14T16:45:13+00:00"
+  },
+  "https://aws.amazon.com/blogs/compute/implementing-dynamic-feature-flags-with-aws-appconfig-on-aws-lambda": {
+    "title": "Implementing dynamic feature flags with AWS AppConfig on AWS Lambda",
+    "source": "AWS Compute Blog",
+    "first_seen": "2026-08-14T21:13:47.383564+00:00",
+    "published": "2026-08-14T16:25:51+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/custom-reward-functions-for-multi-turn-reinforcement-learning-with-amazon-nova-forge": {
+    "title": "Custom reward functions for multi-turn reinforcement learning with Amazon Nova Forge",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-08-14T21:13:47.383564+00:00",
+    "published": "2026-08-14T16:02:10+00:00"
+  },
+  "https://www.schneier.com/blog/archives/2026/08/upcoming-speaking-engagements-59.html": {
+    "title": "Upcoming Speaking Engagements",
+    "source": "Schneier on Security",
+    "first_seen": "2026-08-14T21:13:47.383564+00:00",
+    "published": "2026-08-14T16:01:59+00:00"
+  },
+  "https://github.blog/ai-and-ml/github-copilot/how-to-bring-your-software-delivery-workflow-into-github-with-agent-apps": {
+    "title": "How to bring your software delivery workflow into GitHub with agent apps",
+    "source": "GitHub Blog",
+    "first_seen": "2026-08-14T21:13:47.383564+00:00",
+    "published": "2026-08-14T16:00:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/building-agentic-workflows-with-sagemaker-ai-and-bedrock-agentcore": {
+    "title": "Building agentic workflows with SageMaker AI and Bedrock AgentCore",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-08-14T21:13:47.383564+00:00",
+    "published": "2026-08-14T15:58:44+00:00"
   }
 }
