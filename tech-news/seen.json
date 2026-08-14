@@ -72404,5 +72404,287 @@
     "source": "Simon Willison",
     "first_seen": "2026-08-14T09:49:00.780364+00:00",
     "published": "2026-08-13T03:03:17+00:00"
+  },
+  "https://thenewstack.io/glm-5-3-post-training-coding": {
+    "title": "GLM-5.3 didn’t change the base model — where did its coding gains come from?",
+    "source": "The New Stack",
+    "first_seen": "2026-08-14T15:39:06.205732+00:00",
+    "published": "2026-08-14T15:20:24+00:00"
+  },
+  "https://www.phoronix.com/review/intel-xeon-6-linux-72": {
+    "title": "Linux 7.1, Linux 7.2 Performance On The Intel Xeon 600 Series",
+    "source": "Phoronix",
+    "first_seen": "2026-08-14T15:39:06.205732+00:00",
+    "published": "2026-08-14T15:18:11+00:00"
+  },
+  "https://www.mixedbread.com/blog/toast-1": {
+    "title": "Introducing Toast 1",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-14T15:39:06.205732+00:00",
+    "published": "2026-08-14T15:07:57+00:00"
+  },
+  "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF": {
+    "title": "Unsloth Qwen3.8-27B GGUF files",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-14T15:39:06.205732+00:00",
+    "published": "2026-08-14T15:04:17+00:00"
+  },
+  "https://twitter.com/alibaba_qwen/status/2088280182356611304": {
+    "title": "Qwen3.8-27B",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-14T15:39:06.205732+00:00",
+    "published": "2026-08-14T15:03:54+00:00"
+  },
+  "https://blog.plover.com/2026/08/02": {
+    "title": "Seven books I keep close because I love them",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-14T15:39:06.205732+00:00",
+    "published": "2026-08-14T15:03:26+00:00"
+  },
+  "https://kukuroo.cc": {
+    "title": "Self-hosted web push Cloudflare Worker, works on iOS",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-14T15:39:06.205732+00:00",
+    "published": "2026-08-14T15:03:12+00:00"
+  },
+  "https://huggingface.co/Qwen/Qwen3.8-27B-FP8": {
+    "title": "Qwen 3.8 27B is out: open weights, best local dense model yet",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-14T15:39:06.205732+00:00",
+    "published": "2026-08-14T15:00:00+00:00"
+  },
+  "https://lwn.net/Articles/1087823": {
+    "title": "[$] BPF, continuous testing, and stable kernels",
+    "source": "LWN.net",
+    "first_seen": "2026-08-14T15:39:06.205732+00:00",
+    "published": "2026-08-14T14:46:40+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/how-autodesk-migrated-2-3-billion-documents-to-amazon-opensearch-service-using-migration-assistant-and-intelligent-routing": {
+    "title": "How Autodesk migrated 2.3 billion documents to Amazon OpenSearch Service using Migration Assistant and intelligent routing",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-08-14T15:39:06.205732+00:00",
+    "published": "2026-08-14T14:40:11+00:00"
+  },
+  "https://weightythoughts.com/p/when-genius-failsthe-intellectual": {
+    "title": "When Genius Fails: The Intellectual Arrogance of the AI Labs",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-14T15:39:06.205732+00:00",
+    "published": "2026-08-14T14:34:49+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/trace-cascading-decision-failures-with-a-blame-graph-on-amazon-opensearch-service": {
+    "title": "Trace cascading decision failures with a blame graph on Amazon OpenSearch Service",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-08-14T15:39:06.205732+00:00",
+    "published": "2026-08-14T14:32:13+00:00"
+  },
+  "https://lxe.github.io/everywebsite": {
+    "title": "Every Fucking Website",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-14T15:39:06.205732+00:00",
+    "published": "2026-08-14T14:31:08+00:00"
+  },
+  "https://run.cosmograph.app/public/ca9fd1ad-fe83-4238-8b69-b707c633aef0": {
+    "title": "AI Model Atlas – visualizing populations of ML models as interconnected 3D graph",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-14T15:39:06.205732+00:00",
+    "published": "2026-08-14T14:22:39+00:00"
+  },
+  "https://heyjonny.dev/posts/rss-to-eink-newspaper": {
+    "title": "I turned my RSS feeds into an e-ink newspaper to stop reading on my phone",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-14T15:39:06.205732+00:00",
+    "published": "2026-08-14T14:21:18+00:00"
+  },
+  "https://apimart.ai/register?aff=yScTCM": {
+    "title": "Show HN: APIMart: Discounted AI API Aggregator for GPT-5, Sora 2",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-14T15:39:06.205732+00:00",
+    "published": "2026-08-14T14:14:13+00:00"
+  },
+  "https://e360.yale.edu/digest/australia-home-batteries": {
+    "title": "In Australia, a Home Battery Boom Has Helped Cut Wholesale Power Prices in Half",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-14T15:39:06.205732+00:00",
+    "published": "2026-08-14T14:07:52+00:00"
+  },
+  "https://lwn.net/Articles/1088920": {
+    "title": "Python packaging council candidates announced",
+    "source": "LWN.net",
+    "first_seen": "2026-08-14T15:39:06.205732+00:00",
+    "published": "2026-08-14T14:07:50+00:00"
+  },
+  "https://thenewstack.io/unsigned-container-images-ai": {
+    "title": "Your container images are unsigned. In the AI era, that’s a ticking time bomb.",
+    "source": "The New Stack",
+    "first_seen": "2026-08-14T15:39:06.205732+00:00",
+    "published": "2026-08-14T14:00:00+00:00"
+  },
+  "https://lwn.net/Articles/1088919": {
+    "title": "Security updates for Friday",
+    "source": "LWN.net",
+    "first_seen": "2026-08-14T15:39:06.205732+00:00",
+    "published": "2026-08-14T13:18:05+00:00"
+  },
+  "https://blog.cloudflare.com/mcp-security-updates": {
+    "title": "How Cloudflare detects MCP traffic and helps secure it",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-08-14T15:39:06.205732+00:00",
+    "published": "2026-08-14T13:12:12+00:00"
+  },
+  "https://blog.angular.dev/the-forms-evolution-web-ai-and-architectural-vision-4f96634b0ae3?source=rss----447683c3d9a3---4": {
+    "title": "The Forms Evolution, Web AI, and Architectural Vision!",
+    "source": "Angular Blog",
+    "first_seen": "2026-08-14T15:39:06.205732+00:00",
+    "published": "2026-08-14T13:01:03+00:00"
+  },
+  "https://www.docker.com/blog/reproducible-esp32-firmware-development-with-docker-and-docker-sandboxes": {
+    "title": "Reproducible ESP32 Firmware Development with Docker and Docker Sandboxes",
+    "source": "Docker Blog",
+    "first_seen": "2026-08-14T15:39:06.205732+00:00",
+    "published": "2026-08-14T13:00:00+00:00"
+  },
+  "https://blog.cloudflare.com/workers-protected-by-access": {
+    "title": "Secure all your internal vibe-coded applications — in one click",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-08-14T15:39:06.205732+00:00",
+    "published": "2026-08-14T13:00:00+00:00"
+  },
+  "https://hashagent.pages.dev": {
+    "title": "HashAgent – Share an AI agent as a URL, runs locally via WebGPU",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-14T15:39:06.205732+00:00",
+    "published": "2026-08-14T12:57:02+00:00"
+  },
+  "https://aws.amazon.com/blogs/compute/observability-best-practices-for-lambda-durable-functions-2": {
+    "title": "Observability best practices for Lambda durable functions",
+    "source": "AWS Compute Blog",
+    "first_seen": "2026-08-14T15:39:06.205732+00:00",
+    "published": "2026-08-14T12:49:49+00:00"
+  },
+  "https://goonhost.rocks/blog/implementing-ipv8-internet-draft": {
+    "title": "Show HN: We Implemented the IPv8 Internet-Draft in Linux, Libc, and BGP",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-14T15:39:06.205732+00:00",
+    "published": "2026-08-14T12:45:37+00:00"
+  },
+  "https://www.construction-physics.com/p/how-will-the-21st-century-road-to": {
+    "title": "How Will the 21st Century ROAD to Housing Act Affect Housing Supply? Part II",
+    "source": "Construction Physics",
+    "first_seen": "2026-08-14T15:39:06.205732+00:00",
+    "published": "2026-08-14T12:03:37+00:00"
+  },
+  "https://xn--gckvb8fzb.com/the-temu-fication-of-software-digital-goods-services": {
+    "title": "The TEMU-Fication of Software, Digital Goods and Services",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-14T15:39:06.205732+00:00",
+    "published": "2026-08-14T12:00:51+00:00"
+  },
+  "https://www.tigerdata.com/blog/continuous-aggregate-refresh-demystified": {
+    "title": "Continuous Aggregate Refresh, Demystified: Invalidation, Lookback, and Late-Arriving Data",
+    "source": "Timescale Blog",
+    "first_seen": "2026-08-14T15:39:06.205732+00:00",
+    "published": "2026-08-14T12:00:28+00:00"
+  },
+  "https://realpython.com/quizzes/pypi-publish-python-package": {
+    "title": "Quiz: How to Publish an Open-Source Python Package to PyPI",
+    "source": "Real Python",
+    "first_seen": "2026-08-14T15:39:06.205732+00:00",
+    "published": "2026-08-14T12:00:00+00:00"
+  },
+  "https://realpython.com/podcasts/rpp/307": {
+    "title": "The Real Python Podcast – Episode #307: Improving NumPy Performance on Free-Threaded Python",
+    "source": "Real Python",
+    "first_seen": "2026-08-14T15:39:06.205732+00:00",
+    "published": "2026-08-14T12:00:00+00:00"
+  },
+  "https://www.whatcable.uk": {
+    "title": "WhatCable: Know what your USB-C cable can do",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-14T15:39:06.205732+00:00",
+    "published": "2026-08-14T11:41:34+00:00"
+  },
+  "https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out": {
+    "title": "Who’s Tracking You? Use This New Service to Find Out",
+    "source": "Krebs on Security",
+    "first_seen": "2026-08-14T15:39:06.205732+00:00",
+    "published": "2026-08-14T11:24:35+00:00"
+  },
+  "https://www.cncf.io/blog/2026/08/14/eleven-minutes-zero-humans-building-a-self-healing-kubernetes-upgrade-pipeline-on-kairos": {
+    "title": "Eleven minutes, zero humans: Building a self-healing Kubernetes upgrade pipeline on Kairos",
+    "source": "CNCF Blog",
+    "first_seen": "2026-08-14T15:39:06.205732+00:00",
+    "published": "2026-08-14T11:14:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/compute/collecting-cpu-and-memory-metrics-for-aws-lambda-microvms": {
+    "title": "Collecting CPU and memory metrics for AWS Lambda MicroVMs",
+    "source": "AWS Compute Blog",
+    "first_seen": "2026-08-14T15:39:06.205732+00:00",
+    "published": "2026-08-14T11:11:55+00:00"
+  },
+  "https://www.schneier.com/blog/archives/2026/08/if-the-markets-reject-openai-and-anthropic-the-us-should-nationalize-them.html": {
+    "title": "If the Markets Reject OpenAI and Anthropic, the US Should Nationalize Them",
+    "source": "Schneier on Security",
+    "first_seen": "2026-08-14T15:39:06.205732+00:00",
+    "published": "2026-08-14T11:03:50+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.3-Features-Preview": {
+    "title": "Features Coming For Linux 7.3 From Optimizing Intel Hybrid CPUs To Old AMD Athlon XPs",
+    "source": "Phoronix",
+    "first_seen": "2026-08-14T15:39:06.205732+00:00",
+    "published": "2026-08-14T11:00:45+00:00"
+  },
+  "https://ntfy.sh": {
+    "title": "Ntfy – open-source Push to Mobile",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-14T15:39:06.205732+00:00",
+    "published": "2026-08-14T10:35:43+00:00"
+  },
+  "https://mun-logadan.github.io/why-does-opus-5-feel-worse": {
+    "title": "Why does Opus 5 feel worse to work with?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-14T15:39:06.205732+00:00",
+    "published": "2026-08-14T10:12:48+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-Patches-Fix-DRM-Fair": {
+    "title": "Patches Posted For Fixing The Linux DRM Scheduler's Fair Policy",
+    "source": "Phoronix",
+    "first_seen": "2026-08-14T15:39:06.205732+00:00",
+    "published": "2026-08-14T10:04:16+00:00"
+  },
+  "https://aws.amazon.com/blogs/architecture/serverless-vehicle-tracking-at-scale-bosch-l-os-on-aws": {
+    "title": "Serverless vehicle tracking at scale: Bosch L.OS on AWS",
+    "source": "AWS Architecture Blog",
+    "first_seen": "2026-08-14T15:39:06.205732+00:00",
+    "published": "2026-08-14T10:02:13+00:00"
+  },
+  "https://api-docs.deepseek.com/news/news260813": {
+    "title": "DeepSeek peak/off-peak pricing update",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-14T15:39:06.205732+00:00",
+    "published": "2026-08-14T09:55:33+00:00"
+  },
+  "https://www.phoronix.com/news/exfatprogs-1.4.3": {
+    "title": "Open-Source exFAT Programs 1.4.3 Improves Fsck & Mkfs",
+    "source": "Phoronix",
+    "first_seen": "2026-08-14T15:39:06.205732+00:00",
+    "published": "2026-08-14T09:44:14+00:00"
+  },
+  "https://matklad.github.io/2026/08/14/printing-lists.html": {
+    "title": "Printing Lists",
+    "source": "matklad",
+    "first_seen": "2026-08-14T15:39:06.205732+00:00",
+    "published": "2026-08-14T00:00:00+00:00"
+  },
+  "https://huggingface.co/blog/state-of-open-models-summer-2026": {
+    "title": "State of Open Models: Summer 2026 Observations",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-08-14T15:39:06.205732+00:00",
+    "published": "2026-08-14T00:00:00+00:00"
+  },
+  "https://golangweekly.com/issues/614": {
+    "title": "A slightly unusual issue, in three acts",
+    "source": "Golang Weekly",
+    "first_seen": "2026-08-14T15:39:06.205732+00:00",
+    "published": "2026-08-14T00:00:00+00:00"
   }
 }
