@@ -72902,5 +72902,149 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-08-15T09:13:36.165555+00:00",
     "published": "2026-08-14T15:43:10+00:00"
+  },
+  "https://www.phoronix.com/news/Intel-Jay-Compiler-Xe2-Xe3-CTS": {
+    "title": "Intel's Jay Graphics Shader Compiler Now Passing Vulkan CTS With Xe2/Xe3 Hardware",
+    "source": "Phoronix",
+    "first_seen": "2026-08-15T15:08:29.063353+00:00",
+    "published": "2026-08-15T14:23:19+00:00"
+  },
+  "https://aws.amazon.com/blogs/compute/introducing-public-preview-runtimes-on-aws-lambda-starting-with-node-js-26-and-python-3-15": {
+    "title": "Introducing public preview runtimes on AWS Lambda, starting with Node.js 26 and Python 3.15",
+    "source": "AWS Compute Blog",
+    "first_seen": "2026-08-15T15:08:29.063353+00:00",
+    "published": "2026-08-15T14:09:35+00:00"
+  },
+  "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o": {
+    "title": "Secondhand book sales are booming. Is it because of AI?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-15T15:08:29.063353+00:00",
+    "published": "2026-08-15T14:08:55+00:00"
+  },
+  "https://opensauce.it/cloudflare-ai-psychosis": {
+    "title": "Cloudflare's AI Psychosis",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-15T15:08:29.063353+00:00",
+    "published": "2026-08-15T14:08:40+00:00"
+  },
+  "https://thenewstack.io/new-tenant-is-change": {
+    "title": "Per-developer environments were the goal. Agents moved the goalposts.",
+    "source": "The New Stack",
+    "first_seen": "2026-08-15T15:08:29.063353+00:00",
+    "published": "2026-08-15T14:00:00+00:00"
+  },
+  "https://alexrios.me/blog/writergate": {
+    "title": "Writergate: Zig I/O Interface Overhaul",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-15T15:08:29.063353+00:00",
+    "published": "2026-08-15T13:59:47+00:00"
+  },
+  "https://hypnagogic-quasicrystals.github.io": {
+    "title": "Show HN: Quasicrystals Animation Playground with WebXR",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-15T15:08:29.063353+00:00",
+    "published": "2026-08-15T13:48:43+00:00"
+  },
+  "http://www.stephen-cresswell.com/2026/08/15/Yadda-3.0.0-BDD-in-the-Age-of-AI-Agents.html": {
+    "title": "Yadda 3.0.0: BDD in the Age of AI Agents",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-15T15:08:29.063353+00:00",
+    "published": "2026-08-15T13:43:46+00:00"
+  },
+  "https://stankerstjens.github.io/could-a-computer-scientist-build-a-brain": {
+    "title": "Could a computer scientist build a brain?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-15T15:08:29.063353+00:00",
+    "published": "2026-08-15T13:26:28+00:00"
+  },
+  "https://github.com/xai-org/x-algorithm/blob/main/home-mixer/filters/brazil_2026_election_filter.rs": {
+    "title": "Brazilian election filter in X For You timeline",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-15T15:08:29.063353+00:00",
+    "published": "2026-08-15T13:18:27+00:00"
+  },
+  "https://www.scientificamerican.com/article/388-years-ago-galileo-worked-out-why-human-giants-cant-exist-and-explained-a-law-of-nature": {
+    "title": "388 years ago, Galileo worked out why human giants can't exist",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-15T15:08:29.063353+00:00",
+    "published": "2026-08-15T13:15:48+00:00"
+  },
+  "https://medicalxpress.com/news/2026-07-brain-rem-eeg.html": {
+    "title": "Brain turns listening inward during REM sleep, EEG recordings suggest",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-15T15:08:29.063353+00:00",
+    "published": "2026-08-15T13:09:28+00:00"
+  },
+  "https://netflixtechblog.com/genrec-towards-llm-native-recommendation-at-netflix-f20be6f643e3": {
+    "title": "GenRec: Towards LLM-Native Recommendation at Netflix",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-15T15:08:29.063353+00:00",
+    "published": "2026-08-15T12:56:56+00:00"
+  },
+  "https://www.alanzucconi.com/2026/08/15/xorshift-generators": {
+    "title": "Xorshift Generators",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-15T15:08:29.063353+00:00",
+    "published": "2026-08-15T12:47:52+00:00"
+  },
+  "https://intelligence.org/the-problem": {
+    "title": "The Problem",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-15T15:08:29.063353+00:00",
+    "published": "2026-08-15T12:14:17+00:00"
+  },
+  "https://t3x.org/t3x/0/index.html": {
+    "title": "T3X/0 a Minimal Procedural Language",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-15T15:08:29.063353+00:00",
+    "published": "2026-08-15T12:06:24+00:00"
+  },
+  "https://www.construction-physics.com/p/reading-list-08152026": {
+    "title": "Reading List — 08/15/2026",
+    "source": "Construction Physics",
+    "first_seen": "2026-08-15T15:08:29.063353+00:00",
+    "published": "2026-08-15T12:02:38+00:00"
+  },
+  "https://www.phoronix.com/news/RustConn-0.20-Released": {
+    "title": "RustConn 0.20 Continues Further Polishing This GTK4/libadwaita-Based Connection Manager",
+    "source": "Phoronix",
+    "first_seen": "2026-08-15T15:08:29.063353+00:00",
+    "published": "2026-08-15T11:55:04+00:00"
+  },
+  "https://www.phoronix.com/news/Last-Sound-Fixes-Linux-7.2": {
+    "title": "Late Sound Fixes For Linux 7.2 Bring More Device Quirks, Intel Nova Lake HDMI-In Capture",
+    "source": "Phoronix",
+    "first_seen": "2026-08-15T15:08:29.063353+00:00",
+    "published": "2026-08-15T11:03:00+00:00"
+  },
+  "https://sankalp.bearblog.dev/autoresearch": {
+    "title": "Auto-research with codex: How I achieved a 232x Faster Kernel",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-15T15:08:29.063353+00:00",
+    "published": "2026-08-15T11:00:02+00:00"
+  },
+  "https://www.phoronix.com/news/Plasma-6.8-Tune-Mouse-Speeds": {
+    "title": "KDE Plasma 6.8 To Allow Fine-Tuning Mouse/Touchpad Speeds",
+    "source": "Phoronix",
+    "first_seen": "2026-08-15T15:08:29.063353+00:00",
+    "published": "2026-08-15T10:51:30+00:00"
+  },
+  "https://www.phoronix.com/news/Debian-Votes-On-LLM-Usage": {
+    "title": "Debian Developers Begin Voting Over LLM Usage Within The Project",
+    "source": "Phoronix",
+    "first_seen": "2026-08-15T15:08:29.063353+00:00",
+    "published": "2026-08-15T10:40:04+00:00"
+  },
+  "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership": {
+    "title": "Working with AI Feels More Like Leadership Than Coding",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-15T15:08:29.063353+00:00",
+    "published": "2026-08-15T10:39:41+00:00"
+  },
+  "https://uecker.codeberg.page/2026-07-14.html": {
+    "title": "Using GCC's Nested Functions with Wide Pointers and No Trampolines II",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-15T15:08:29.063353+00:00",
+    "published": "2026-08-15T07:59:42+00:00"
   }
 }
