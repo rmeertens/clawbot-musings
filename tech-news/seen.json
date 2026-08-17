@@ -73436,5 +73436,125 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-08-16T21:08:24.751995+00:00",
     "published": "2026-08-16T14:44:55+00:00"
+  },
+  "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships": {
+    "title": "Get closer to the game with Gemini and Pixel",
+    "source": "Google AI Blog",
+    "first_seen": "2026-08-17T09:27:28.032184+00:00",
+    "published": "2026-08-17T08:00:00+00:00"
+  },
+  "https://duti.dev/blog/2026/spr": {
+    "title": "HackEurope 2026: A short rant on AI and hackathons",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-17T09:27:28.032184+00:00",
+    "published": "2026-08-17T07:28:43+00:00"
+  },
+  "https://linear.axler.net": {
+    "title": "Linear algebra done right",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-17T09:27:28.032184+00:00",
+    "published": "2026-08-17T05:21:34+00:00"
+  },
+  "https://www.gimp.org/news/2026/08/16/dev-update-august-2026": {
+    "title": "GIMP Development Update",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-17T09:27:28.032184+00:00",
+    "published": "2026-08-17T03:08:47+00:00"
+  },
+  "https://infoscience.epfl.ch/entities/publication/644cad8a-6c9b-4b02-bcf3-b8b6e8c614c5": {
+    "title": "Strong gravitational lensing and microlensing of supernovae (2024)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-17T09:27:28.032184+00:00",
+    "published": "2026-08-17T02:55:20+00:00"
+  },
+  "https://twitter.com/DarioAmodei/status/2088758816376807762": {
+    "title": "On A.I. regulation and messaging",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-17T09:27:28.032184+00:00",
+    "published": "2026-08-17T01:59:56+00:00"
+  },
+  "https://meanhamster.com/news/agi-64-brings-sierra-adventures-to-the-commodore-64": {
+    "title": "AGI-64 Brings Sierra Adventures to the Commodore 64",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-17T09:27:28.032184+00:00",
+    "published": "2026-08-17T01:45:36+00:00"
+  },
+  "https://github.com/crabbuild/prolly": {
+    "title": "Prolly: A content-addressed ordered map built on prolly trees",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-17T09:27:28.032184+00:00",
+    "published": "2026-08-17T01:00:45+00:00"
+  },
+  "https://blog.racket-lang.org/2026/08/rhombus-v1.1.html": {
+    "title": "Rhombus 1.1 is now available",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-17T09:27:28.032184+00:00",
+    "published": "2026-08-17T00:48:21+00:00"
+  },
+  "https://www.science.org/content/blog-post/taking-tip-plants-eyes": {
+    "title": "Applying a photosynthetic process to treat “dry eye”",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-17T09:27:28.032184+00:00",
+    "published": "2026-08-17T00:35:29+00:00"
+  },
+  "https://www.ischool.berkeley.edu/sites/default/files/vinton_report_5.pdf": {
+    "title": "The Life and Death of Direct File [pdf]",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-17T09:27:28.032184+00:00",
+    "published": "2026-08-17T00:17:57+00:00"
+  },
+  "https://simonwillison.net/2026/Aug/16/markdown-svg-upgrades": {
+    "title": "Markdown SVG upgrades",
+    "source": "Simon Willison",
+    "first_seen": "2026-08-17T09:27:28.032184+00:00",
+    "published": "2026-08-16T23:59:37+00:00"
+  },
+  "https://reticulum.network": {
+    "title": "Reticulum – Decentralized Mesh Network",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-17T09:27:28.032184+00:00",
+    "published": "2026-08-16T23:59:10+00:00"
+  },
+  "https://simonwillison.net/2026/Aug/16/qwen-38-27b": {
+    "title": "Qwen 3.8 27B is excellent, but it defaults to overthinking things",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-17T09:27:28.032184+00:00",
+    "published": "2026-08-16T23:45:09+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.2-Released": {
+    "title": "Linux 7.2 Released With Faster I/O, New AMD & Intel Driver Improvements",
+    "source": "Phoronix",
+    "first_seen": "2026-08-17T09:27:28.032184+00:00",
+    "published": "2026-08-16T23:12:47+00:00"
+  },
+  "https://lwn.net/Articles/1088991": {
+    "title": "The 7.2 kernel has been released",
+    "source": "LWN.net",
+    "first_seen": "2026-08-17T09:27:28.032184+00:00",
+    "published": "2026-08-16T23:11:28+00:00"
+  },
+  "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing": {
+    "title": "Anthropic's 'watermark' text adulteration in Claude is a perversion of writing",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-17T09:27:28.032184+00:00",
+    "published": "2026-08-16T21:53:43+00:00"
+  },
+  "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b": {
+    "title": "Stripe will reportedly acquire OpenRouter for $7B+",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-17T09:27:28.032184+00:00",
+    "published": "2026-08-16T20:31:16+00:00"
+  },
+  "https://github.com/aleks-ent/pump-dump-crypto-screener": {
+    "title": "An open-source, candle-only crypto pump detector–looking for ML contributors",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-17T09:27:28.032184+00:00",
+    "published": "2026-08-16T20:16:30+00:00"
+  },
+  "https://www.cst.cam.ac.uk/news/red-queen-hypothesis-new-way-forward-self-improving-ai": {
+    "title": "Red queen hypothesis – A new way forward for self-improving AI",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-17T09:27:28.032184+00:00",
+    "published": "2026-08-16T20:01:13+00:00"
   }
 }
