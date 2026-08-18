@@ -74180,5 +74180,257 @@
     "source": "Databricks Blog",
     "first_seen": "2026-08-18T09:19:41.283895+00:00",
     "published": "2026-08-17T19:42:33+00:00"
+  },
+  "https://martinfowler.com/fragments/2026-08-18.html": {
+    "title": "Fragments: August 18",
+    "source": "Martin Fowler",
+    "first_seen": "2026-08-18T15:18:47.830775+00:00",
+    "published": "2026-08-18T15:04:00+00:00"
+  },
+  "https://artemissecurity.com/attack-stories/finger-protocol-python-rat-delivery": {
+    "title": "Finger: A Protocol from 1977 Is Still Delivering Malware in 2026",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-18T15:18:47.830775+00:00",
+    "published": "2026-08-18T14:57:45+00:00"
+  },
+  "https://82mhz.net/posts/2026/08/i-used-to-be-excited-about-new-tech-but-i-rarely-am-anymore": {
+    "title": "I used to be excited about new tech, but I rarely am anymore",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-18T15:18:47.830775+00:00",
+    "published": "2026-08-18T14:54:26+00:00"
+  },
+  "https://www.phoronix.com/review/cachyos-hp-z4g6i": {
+    "title": "The CachyOS Performance vs. Other Linux Operating Systems On A $46k USD Workstation",
+    "source": "Phoronix",
+    "first_seen": "2026-08-18T15:18:47.830775+00:00",
+    "published": "2026-08-18T14:18:06+00:00"
+  },
+  "https://theconversation.com/babies-born-under-sugar-rationing-grew-into-adults-with-lower-cancer-risk-289873": {
+    "title": "Babies born under sugar rationing grew into adults with lower cancer risk",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-18T15:18:47.830775+00:00",
+    "published": "2026-08-18T14:06:50+00:00"
+  },
+  "https://realpython.com/courses/working-with-pythons-deque": {
+    "title": "Working With Python's deque",
+    "source": "Real Python",
+    "first_seen": "2026-08-18T15:18:47.830775+00:00",
+    "published": "2026-08-18T14:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/topics/threat-intelligence/staying-ahead-of-adversarial-ai-through-agentic-source-code-review": {
+    "title": "Staying Ahead of Adversarial AI Through Agentic Source Code Review",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-08-18T15:18:47.830775+00:00",
+    "published": "2026-08-18T14:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/topics/financial-services/building-operational-resilience-with-agentic-ai-in-financial-services": {
+    "title": "Building operational resilience with agentic AI in financial services",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-08-18T15:18:47.830775+00:00",
+    "published": "2026-08-18T14:00:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/aws/in-the-works-aws-builder-lofts-in-berlin-hyderabad-and-sao-paulo": {
+    "title": "In the works: AWS Builder Lofts in Berlin, Hyderabad, and São Paulo",
+    "source": "AWS Blog",
+    "first_seen": "2026-08-18T15:18:47.830775+00:00",
+    "published": "2026-08-18T13:58:41+00:00"
+  },
+  "https://lwn.net/Articles/1088489": {
+    "title": "[$] Fedora prepares for the end of AF_ALG",
+    "source": "LWN.net",
+    "first_seen": "2026-08-18T15:18:47.830775+00:00",
+    "published": "2026-08-18T13:48:22+00:00"
+  },
+  "https://opensource.posit.co/resources/cheatsheets/polars": {
+    "title": "Python Polars Cheatsheet (based on our O'Reilly book)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-18T15:18:47.830775+00:00",
+    "published": "2026-08-18T13:38:23+00:00"
+  },
+  "https://github.com/pitiflautico/neobrowser": {
+    "title": "NeoBrowser: An MCP server that drives real Chrome with your logged-in sessions",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-18T15:18:47.830775+00:00",
+    "published": "2026-08-18T13:25:54+00:00"
+  },
+  "https://seths.blog/2026/08/the-amazon-tax": {
+    "title": "The Amazon Tax",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-18T15:18:47.830775+00:00",
+    "published": "2026-08-18T13:22:38+00:00"
+  },
+  "https://www.phoronix.com/news/Rust-For-Linux-7.3": {
+    "title": "Rust For Linux 7.3 Begins Seeing Fixes To Prepare For Rust's GCC Backend",
+    "source": "Phoronix",
+    "first_seen": "2026-08-18T15:18:47.830775+00:00",
+    "published": "2026-08-18T13:21:00+00:00"
+  },
+  "https://quantum5.ca/2026/08/16/fixing-bricked-amd-7040-series-framework-13-laptop-with-20-tools": {
+    "title": "Fixing a Bricked Framework Laptop",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-18T15:18:47.830775+00:00",
+    "published": "2026-08-18T13:18:40+00:00"
+  },
+  "https://thenewstack.io/openai-open-weight-glm-5-3": {
+    "title": "OpenAI’s Greg Brockman: Z.ai’s GLM-5.3 likely to “significantly accelerate the threat landscape”",
+    "source": "The New Stack",
+    "first_seen": "2026-08-18T15:18:47.830775+00:00",
+    "published": "2026-08-18T13:10:15+00:00"
+  },
+  "https://lwn.net/Articles/1089338": {
+    "title": "Security updates for Tuesday",
+    "source": "LWN.net",
+    "first_seen": "2026-08-18T15:18:47.830775+00:00",
+    "published": "2026-08-18T13:09:50+00:00"
+  },
+  "https://newsletter.kentbeck.com/p/composable-tests": {
+    "title": "Composable Tests",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-18T15:18:47.830775+00:00",
+    "published": "2026-08-18T13:08:32+00:00"
+  },
+  "https://github.com/ytkoka/impersonate-proxy": {
+    "title": "Show HN: A local MitM proxy to control TLS fingerprints",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-18T15:18:47.830775+00:00",
+    "published": "2026-08-18T13:07:50+00:00"
+  },
+  "https://www.videogameschronicle.com/news/its-just-not-as-much-fun-for-me-anymore-deus-ex-creator-warren-spector-is-retiring-from-game-development": {
+    "title": "Deus Ex creator Warren Spector is retiring from game development",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-18T15:18:47.830775+00:00",
+    "published": "2026-08-18T13:06:24+00:00"
+  },
+  "https://www.docker.com/blog/coding-agent-horror-stories-the-command-you-already-approved": {
+    "title": "Coding Agent Horror Stories: The Command You Already Approved",
+    "source": "Docker Blog",
+    "first_seen": "2026-08-18T15:18:47.830775+00:00",
+    "published": "2026-08-18T13:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.3-FAT": {
+    "title": "Linux 7.3 Corrects Faulty Behavior Of FAT File-System Driver For Filenames Too Fat",
+    "source": "Phoronix",
+    "first_seen": "2026-08-18T15:18:47.830775+00:00",
+    "published": "2026-08-18T12:53:57+00:00"
+  },
+  "https://philo.gay/linecam": {
+    "title": "Using the railway network as a flatbed scanner",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-18T15:18:47.830775+00:00",
+    "published": "2026-08-18T12:43:54+00:00"
+  },
+  "https://www.fairphone.com/nl/stories/the-fairphone-gen-6-is-all-about-giving-you-more": {
+    "title": "Fairphone is now officially available in the United States",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-18T15:18:47.830775+00:00",
+    "published": "2026-08-18T12:42:53+00:00"
+  },
+  "https://www.privacyguides.org/news/2026/08/17/meta-files-patent-for-facial-recognition-automatic-recording-of-people": {
+    "title": "Meta Files Patent for Facial Recognition, Automatic Recording of People",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-18T15:18:47.830775+00:00",
+    "published": "2026-08-18T12:23:55+00:00"
+  },
+  "https://twitter.com/kuberwastaken/status/2089377982536388964": {
+    "title": "Claude writing a macOS driver for my obscure HP printer built only for Windows",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-18T15:18:47.830775+00:00",
+    "published": "2026-08-18T12:22:58+00:00"
+  },
+  "https://realpython.com/quizzes/working-with-pythons-deque": {
+    "title": "Quiz: Working With Python's deque",
+    "source": "Real Python",
+    "first_seen": "2026-08-18T15:18:47.830775+00:00",
+    "published": "2026-08-18T12:00:00+00:00"
+  },
+  "https://realpython.com/quizzes/arduino-python": {
+    "title": "Quiz: Arduino With Python: How to Get Started",
+    "source": "Real Python",
+    "first_seen": "2026-08-18T15:18:47.830775+00:00",
+    "published": "2026-08-18T12:00:00+00:00"
+  },
+  "https://www.cncf.io/blog/2026/08/18/cloud-native-platform-sovereignty-through-multi-plane-architecture": {
+    "title": "Cloud Native platform sovereignty through multi-plane architecture",
+    "source": "CNCF Blog",
+    "first_seen": "2026-08-18T15:18:47.830775+00:00",
+    "published": "2026-08-18T11:30:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/architecture/consistency-is-the-new-latency-ai-at-the-data-layer": {
+    "title": "Consistency is the new latency: AI at the data layer",
+    "source": "AWS Architecture Blog",
+    "first_seen": "2026-08-18T15:18:47.830775+00:00",
+    "published": "2026-08-18T11:13:20+00:00"
+  },
+  "https://openai.com/index/partnering-with-codeai": {
+    "title": "Partnering with CodeAI to prepare the first AI generation",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-08-18T15:18:47.830775+00:00",
+    "published": "2026-08-18T11:00:00+00:00"
+  },
+  "https://openai.com/index/chatgpt-for-teens": {
+    "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-08-18T15:18:47.830775+00:00",
+    "published": "2026-08-18T11:00:00+00:00"
+  },
+  "https://www.schneier.com/blog/archives/2026/08/llms-and-contextual-integrity.html": {
+    "title": "LLMs and Contextual Integrity",
+    "source": "Schneier on Security",
+    "first_seen": "2026-08-18T15:18:47.830775+00:00",
+    "published": "2026-08-18T10:40:16+00:00"
+  },
+  "https://www.phoronix.com/news/Fedora-x86-64-v3-Delayed-F46": {
+    "title": "Fedora x86-64-v3 Optimized Packages Pushed Back To At Least Fedora 46",
+    "source": "Phoronix",
+    "first_seen": "2026-08-18T15:18:47.830775+00:00",
+    "published": "2026-08-18T10:21:29+00:00"
+  },
+  "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962": {
+    "title": "Google buys crashed airline Spirit's data at auction",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-18T15:18:47.830775+00:00",
+    "published": "2026-08-18T10:13:28+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.3-Watchdog": {
+    "title": "Lenovo Lands New Watchdog Driver In Linux 7.3 For Their SE30G2 + SE60 Edge AI Computers",
+    "source": "Phoronix",
+    "first_seen": "2026-08-18T15:18:47.830775+00:00",
+    "published": "2026-08-18T10:07:05+00:00"
+  },
+  "https://stratechery.com/2026/nvidia-backs-openai-data-center-anthropic-news-google-buys-spirit-airlines-data": {
+    "title": "Nvidia Backs OpenAI Data Center, Anthropic News, Google Buys Spirit Airlines Data",
+    "source": "Stratechery",
+    "first_seen": "2026-08-18T15:18:47.830775+00:00",
+    "published": "2026-08-18T10:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/Intel-Buffer-Compression-DXVK": {
+    "title": "Intel Enables Buffer Compression For Better Gaming Performance With DXVK",
+    "source": "Phoronix",
+    "first_seen": "2026-08-18T15:18:47.830775+00:00",
+    "published": "2026-08-18T09:50:03+00:00"
+  },
+  "https://www.phoronix.com/news/XFS-FALLOC-FL-WRITE-ZEROES": {
+    "title": "XFS Lands FALLOC_FL_WRITE_ZEROES For Efficiency Improvement In Linux 7.3",
+    "source": "Phoronix",
+    "first_seen": "2026-08-18T15:18:47.830775+00:00",
+    "published": "2026-08-18T09:35:33+00:00"
+  },
+  "https://en.andros.dev/blog/54572bc7/finger-the-1971-social-network-that-never-died": {
+    "title": "Finger: Social network that never died",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-18T15:18:47.830775+00:00",
+    "published": "2026-08-18T07:21:35+00:00"
+  },
+  "https://machinelearning.apple.com/research/grpo-beyond-english": {
+    "title": "GRPO Beyond English: A Large-Scale Study of GRPO in Non-English and Multilingual Settings",
+    "source": "Apple ML Journal",
+    "first_seen": "2026-08-18T15:18:47.830775+00:00",
+    "published": "2026-08-18T00:00:00+00:00"
+  },
+  "https://huggingface.co/blog/multi-vector-encoder": {
+    "title": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-08-18T15:18:47.830775+00:00",
+    "published": "2026-08-18T00:00:00+00:00"
   }
 }
