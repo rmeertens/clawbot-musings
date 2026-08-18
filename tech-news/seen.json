@@ -74054,5 +74054,131 @@
     "source": "Discord Engineering",
     "first_seen": "2026-08-17T21:14:31.060892+00:00",
     "published": "2026-08-17T00:00:00+00:00"
+  },
+  "https://www.databricks.com/blog/evaluating-ai-agents-live-grounded-reasoning-cup": {
+    "title": "Evaluating AI Agents Live at the Grounded Reasoning Cup",
+    "source": "Databricks Blog",
+    "first_seen": "2026-08-18T09:19:41.283895+00:00",
+    "published": "2026-08-18T15:00:00+00:00"
+  },
+  "https://devblogs.microsoft.com/devops/apple-silicon-and-xcode-27-images-availabile-in-pay-as-you-go-preview": {
+    "title": "Apple Silicon and Xcode 27 images available in pay-as-you-go (preview)",
+    "source": "MS DevOps Blog",
+    "first_seen": "2026-08-18T09:19:41.283895+00:00",
+    "published": "2026-08-18T08:10:36+00:00"
+  },
+  "https://pixelcluster.dev/VRAM-Overcommit": {
+    "title": "Linux 7.3 improves performance when running out of vRAM",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-18T09:19:41.283895+00:00",
+    "published": "2026-08-18T07:51:50+00:00"
+  },
+  "https://stackoverflow.blog/2026/08/18/what-does-an-agentic-sdlc-actually-look-like": {
+    "title": "What does an agentic SDLC actually look like?",
+    "source": "Stack Overflow Blog",
+    "first_seen": "2026-08-18T09:19:41.283895+00:00",
+    "published": "2026-08-18T07:40:00+00:00"
+  },
+  "https://acadia.engineering/blog/rethinking-database-programming": {
+    "title": "Rethinking Database Programming",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-18T09:19:41.283895+00:00",
+    "published": "2026-08-18T07:28:27+00:00"
+  },
+  "https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791%2826%2900405-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2666379126004052%3Fshowall%3Dtrue": {
+    "title": "Exercise intensity modulates interorgan communication and is associated with",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-18T09:19:41.283895+00:00",
+    "published": "2026-08-18T04:51:33+00:00"
+  },
+  "https://danluu.com/benchpocalypse": {
+    "title": "The Benchmarkpocalypse",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-18T09:19:41.283895+00:00",
+    "published": "2026-08-18T02:11:02+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-File-System-Changes-7.3": {
+    "title": "EFS & FreeVxFS File-Systems Get Booted While FailFS Merged For Linux 7.3",
+    "source": "Phoronix",
+    "first_seen": "2026-08-18T09:19:41.283895+00:00",
+    "published": "2026-08-18T00:29:44+00:00"
+  },
+  "https://simonwillison.net/2026/Aug/17/qwen-38-27b-scores-52": {
+    "title": "Qwen 3.8 27B scores 52 on the Artificial Analysis Intelligence Index",
+    "source": "Simon Willison",
+    "first_seen": "2026-08-18T09:19:41.283895+00:00",
+    "published": "2026-08-17T23:58:14+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/amazon-aurora-dsql-observability-concepts-and-usage-with-amazon-cloudwatch": {
+    "title": "Amazon Aurora DSQL observability concepts and usage with Amazon CloudWatch",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-08-18T09:19:41.283895+00:00",
+    "published": "2026-08-17T23:37:48+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/unlocking-real-time-analytics-streaming-aurora-dsql-changes-into-apache-iceberg": {
+    "title": "Unlocking real-time analytics: Streaming Aurora DSQL changes into Apache Iceberg",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-08-18T09:19:41.283895+00:00",
+    "published": "2026-08-17T23:36:43+00:00"
+  },
+  "https://www.repaircafe.org": {
+    "title": "Repair Cafe – Fix Your Broken Items",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-18T09:19:41.283895+00:00",
+    "published": "2026-08-17T23:28:28+00:00"
+  },
+  "https://www.databricks.com/blog/how-databricks-feature-store-serves-features-sub-second-freshness": {
+    "title": "How Databricks Feature Store serves features with sub-second freshness",
+    "source": "Databricks Blog",
+    "first_seen": "2026-08-18T09:19:41.283895+00:00",
+    "published": "2026-08-17T23:10:00+00:00"
+  },
+  "https://timmarinin.net/2026/bluesky-screenshots": {
+    "title": "How Bluesky draws its logo on screenshots",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-18T09:19:41.283895+00:00",
+    "published": "2026-08-17T22:20:40+00:00"
+  },
+  "https://fabiensanglard.net/quake_shareware_cd/index.html": {
+    "title": "Quake Shareware, a CD-ROM just a little too full",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-18T09:19:41.283895+00:00",
+    "published": "2026-08-17T22:06:14+00:00"
+  },
+  "https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera": {
+    "title": "Fairphone 6 and PostmarketOS working main camera",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-18T09:19:41.283895+00:00",
+    "published": "2026-08-17T22:01:17+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.3-Improving-vRAM-Mgmt": {
+    "title": "Linux 7.3 To Land Initial Code Improving vRAM Management, More Improvements Coming",
+    "source": "Phoronix",
+    "first_seen": "2026-08-18T09:19:41.283895+00:00",
+    "published": "2026-08-17T21:15:57+00:00"
+  },
+  "https://devblogs.microsoft.com/oldnewthing/20260817-40?p=112617": {
+    "title": "How do functions like alloca allocate memory from the stack?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-18T09:19:41.283895+00:00",
+    "published": "2026-08-17T21:06:10+00:00"
+  },
+  "https://openrouter.ai/openai/gpt-5.6-sol": {
+    "title": "GPT-5.6 Sol Pricing Cut by 50%",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-18T09:19:41.283895+00:00",
+    "published": "2026-08-17T21:03:18+00:00"
+  },
+  "https://responsiblestatecraft.org/israel-influence-chatgpt": {
+    "title": "Israel creates fake think tank in likely attempt to dupe AI chatbots",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-18T09:19:41.283895+00:00",
+    "published": "2026-08-17T20:46:10+00:00"
+  },
+  "https://www.databricks.com/blog/prototyping-tax-killing-your-ai-roadmap": {
+    "title": "The prototyping tax is killing your AI roadmap",
+    "source": "Databricks Blog",
+    "first_seen": "2026-08-18T09:19:41.283895+00:00",
+    "published": "2026-08-17T19:42:33+00:00"
   }
 }
