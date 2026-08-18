@@ -74432,5 +74432,335 @@
     "source": "Hugging Face Blog",
     "first_seen": "2026-08-18T15:18:47.830775+00:00",
     "published": "2026-08-18T00:00:00+00:00"
+  },
+  "https://www.databricks.com/blog/databricks-document-intelligence-pushing-frontier-complex-document-extraction": {
+    "title": "Databricks Document Intelligence: pushing the frontier for complex document extraction",
+    "source": "Databricks Blog",
+    "first_seen": "2026-08-18T21:11:33.984645+00:00",
+    "published": "2026-08-18T22:00:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/security/implement-custom-authentication-for-tools-integration-using-request-lambda-interceptor-in-agentcore-gateway": {
+    "title": "Implement custom authentication for tools integration using request Lambda interceptor in AgentCore Gateway",
+    "source": "AWS Security Blog",
+    "first_seen": "2026-08-18T21:11:33.984645+00:00",
+    "published": "2026-08-18T20:46:26+00:00"
+  },
+  "https://thenewstack.io/mistral-mcp-connector-migration": {
+    "title": "What happens to your indexed data when Mistral flips the switch?",
+    "source": "The New Stack",
+    "first_seen": "2026-08-18T21:11:33.984645+00:00",
+    "published": "2026-08-18T20:07:55+00:00"
+  },
+  "https://thenewstack.io/cursor-origin-github-alternative": {
+    "title": "“If GitHub was stable, these alternatives would not be as interesting”: Cursor launches Origin as GitHub goes dark",
+    "source": "The New Stack",
+    "first_seen": "2026-08-18T21:11:33.984645+00:00",
+    "published": "2026-08-18T19:47:17+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.3-bpf_sock_read_xattr": {
+    "title": "Linux 7.3 Adds New \"bpf_sock_read_xattr\" Feature For systemd, BPF Programs",
+    "source": "Phoronix",
+    "first_seen": "2026-08-18T21:11:33.984645+00:00",
+    "published": "2026-08-18T19:38:32+00:00"
+  },
+  "https://www.onethousandmeans.com/p/norway-should-buy-openai": {
+    "title": "Norway Should Buy OpenAI",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-18T21:11:33.984645+00:00",
+    "published": "2026-08-18T19:30:29+00:00"
+  },
+  "https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants": {
+    "title": "Beware Management Consultants",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-18T21:11:33.984645+00:00",
+    "published": "2026-08-18T19:29:51+00:00"
+  },
+  "https://geojacker.com/llms-txt": {
+    "title": "llms.txt: a proposed standard no major AI platform has confirmed it uses",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-18T21:11:33.984645+00:00",
+    "published": "2026-08-18T19:24:35+00:00"
+  },
+  "https://burgeonlab.com/blog/inaugural-hwc-ap-recap": {
+    "title": "IndieWeb Homebrew Website Club Asia Pacific: Reflections",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-18T21:11:33.984645+00:00",
+    "published": "2026-08-18T19:07:47+00:00"
+  },
+  "https://openai.com/index/strengthening-democratic-oversight-in-national-security": {
+    "title": "Strengthening democratic oversight in national security",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-08-18T21:11:33.984645+00:00",
+    "published": "2026-08-18T19:00:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-agentcore-payments-is-now-generally-available-enabling-agents-to-transact-safely-and-autonomously-at-scale": {
+    "title": "Amazon Bedrock AgentCore payments is now generally available: Enabling agents to transact safely and autonomously at scale",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-08-18T21:11:33.984645+00:00",
+    "published": "2026-08-18T18:56:14+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/querying-raw-log-data-using-sql-and-ppl-with-the-optimized-engine-in-amazon-opensearch-service": {
+    "title": "Querying raw log data using SQL and PPL with the optimized engine in Amazon OpenSearch Service",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-08-18T21:11:33.984645+00:00",
+    "published": "2026-08-18T18:32:05+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/characterizing-sqlnet-latency-in-your-application-for-oracle-databaseaws-migrations": {
+    "title": "Characterizing SQL*Net latency in your application for Oracle Database@AWS migrations",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-08-18T21:11:33.984645+00:00",
+    "published": "2026-08-18T18:17:28+00:00"
+  },
+  "https://openai.com/index/pacing-model-development-cyber-capabilities": {
+    "title": "Pacing model development in an era of cyber-critical capabilities",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-18T21:11:33.984645+00:00",
+    "published": "2026-08-18T18:14:59+00:00"
+  },
+  "https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html": {
+    "title": "How does IKEA come up with names for its products?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-18T21:11:33.984645+00:00",
+    "published": "2026-08-18T18:11:53+00:00"
+  },
+  "https://huggingface.co/blog/ibm-research/altk-evolve-hmm": {
+    "title": "How Much Memory Does Your Agent Actually Need?",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-08-18T21:11:33.984645+00:00",
+    "published": "2026-08-18T18:09:38+00:00"
+  },
+  "https://github.com/RyanCodrai/turbovec": {
+    "title": "Turbovec – Google's TurboQuant for vector search in Rust",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-18T21:11:33.984645+00:00",
+    "published": "2026-08-18T18:07:21+00:00"
+  },
+  "https://developer.nvidia.com/blog/how-ai-coding-agents-can-unlock-materials-simulation-with-nvidia-alchemi-toolkit": {
+    "title": "How AI Coding Agents Can Unlock Materials Simulation with NVIDIA ALCHEMI Toolkit",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-08-18T21:11:33.984645+00:00",
+    "published": "2026-08-18T18:00:00+00:00"
+  },
+  "https://thenewstack.io/claude-code-token-reduction": {
+    "title": "A Claude Code skill was eating 200,000 tokens before answering a single question",
+    "source": "The New Stack",
+    "first_seen": "2026-08-18T21:11:33.984645+00:00",
+    "published": "2026-08-18T17:42:50+00:00"
+  },
+  "https://github.com/biw/keychain-store": {
+    "title": "Show HN: macOS data protection keychain for Electron apps",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-18T21:11:33.984645+00:00",
+    "published": "2026-08-18T17:25:19+00:00"
+  },
+  "https://www.phoronix.com/news/IOmap-Linux-7.3-Faster": {
+    "title": "IOmap Improvement For Linux 7.3 Takes EXT4 & XFS Performance Further",
+    "source": "Phoronix",
+    "first_seen": "2026-08-18T21:11:33.984645+00:00",
+    "published": "2026-08-18T17:25:00+00:00"
+  },
+  "https://asmedigitalcollection.asme.org/sustainablebuildings/article/7/2/024501/1233035/Data-Center-Waste-Heat-as-an-Emerging-Urban": {
+    "title": "Data centers raise nearby temperatures by up to 4 degrees in Phoenix",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-18T21:11:33.984645+00:00",
+    "published": "2026-08-18T17:24:53+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/customize-amazon-quick-embedded-chat-into-your-application": {
+    "title": "Customize Amazon Quick embedded chat into your application",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-08-18T21:11:33.984645+00:00",
+    "published": "2026-08-18T17:13:13+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/implement-vector-prompt-document-classification-using-amazon-bedrock": {
+    "title": "Implement vector-prompt document classification using Amazon Bedrock",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-08-18T21:11:33.984645+00:00",
+    "published": "2026-08-18T17:10:37+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/how-jumio-built-a-real-time-feature-store-on-aws": {
+    "title": "How Jumio built a real-time feature store on AWS",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-08-18T21:11:33.984645+00:00",
+    "published": "2026-08-18T17:05:48+00:00"
+  },
+  "https://aws.amazon.com/blogs/security/security-hub-extended-adds-supply-chain-security-as-its-tenth-category": {
+    "title": "Security Hub Extended adds Supply Chain Security as its tenth category",
+    "source": "AWS Security Blog",
+    "first_seen": "2026-08-18T21:11:33.984645+00:00",
+    "published": "2026-08-18T17:04:28+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/improve-contract-search-accuracy-with-auto-generated-filters-in-amazon-bedrock": {
+    "title": "Improve contract search accuracy with auto-generated filters in Amazon Bedrock",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-08-18T21:11:33.984645+00:00",
+    "published": "2026-08-18T17:02:52+00:00"
+  },
+  "https://dropbox.tech/infrastructure/improving-infrastructure-efficiency-for-growing-demand-in-the-age-of-ai": {
+    "title": "Improving infrastructure efficiency for growing demand in the age of AI",
+    "source": "Dropbox Tech",
+    "first_seen": "2026-08-18T21:11:33.984645+00:00",
+    "published": "2026-08-18T17:00:00+00:00"
+  },
+  "https://thenewstack.io/agentic-ai-latency-infrastructure": {
+    "title": "Agentic AI has a latency problem that more compute won’t solve",
+    "source": "The New Stack",
+    "first_seen": "2026-08-18T21:11:33.984645+00:00",
+    "published": "2026-08-18T16:58:18+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/fresher-insights-faster-decisions-talabats-near-real-time-analytics-across-aws-and-google-cloud": {
+    "title": "Fresher insights, faster decisions: talabat’s near-real-time analytics across AWS and Google Cloud",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-08-18T21:11:33.984645+00:00",
+    "published": "2026-08-18T16:56:53+00:00"
+  },
+  "https://developer.nvidia.com/blog/run-massive-scale-umap-in-minutes-using-multiple-gpus-without-losing-accuracy": {
+    "title": "Run Massive-Scale UMAP in Minutes Using Multiple GPUs—Without Losing Accuracy",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-08-18T21:11:33.984645+00:00",
+    "published": "2026-08-18T16:48:08+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/powering-agentic-ai-with-real-time-streaming-data-on-aws": {
+    "title": "Powering agentic AI with real-time streaming data on AWS",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-08-18T21:11:33.984645+00:00",
+    "published": "2026-08-18T16:42:15+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/integrate-your-spring-boot-application-with-amazon-elasticache-using-spring-data-valkey": {
+    "title": "Integrate your Spring Boot application with Amazon ElastiCache using Spring Data Valkey",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-08-18T21:11:33.984645+00:00",
+    "published": "2026-08-18T16:38:30+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/scale-pgvector-with-binary-quantization-on-amazon-aurora-postgresql": {
+    "title": "Scale pgvector with binary quantization on Amazon Aurora PostgreSQL",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-08-18T21:11:33.984645+00:00",
+    "published": "2026-08-18T16:37:22+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/migrate-oracle-materialized-views-with-aws-dms-and-fast-refresh": {
+    "title": "Migrate Oracle Materialized Views with AWS DMS and Fast Refresh",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-08-18T21:11:33.984645+00:00",
+    "published": "2026-08-18T16:36:11+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/amazon-msk-simplifies-configuring-custom-domain-names": {
+    "title": "Amazon MSK simplifies configuring custom domain names",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-08-18T21:11:33.984645+00:00",
+    "published": "2026-08-18T16:35:06+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/how-axonius-built-secure-multi-tenant-ai-agents-on-bedrock-agentcore": {
+    "title": "How Axonius built secure multi-tenant AI agents on Bedrock AgentCore",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-08-18T21:11:33.984645+00:00",
+    "published": "2026-08-18T16:27:07+00:00"
+  },
+  "https://newsletter.pragmaticengineer.com/p/the-great-engineering-leader-career-break": {
+    "title": "Headed for the Exit: the Great Engineering Leader Career Break",
+    "source": "The Pragmatic Engineer",
+    "first_seen": "2026-08-18T21:11:33.984645+00:00",
+    "published": "2026-08-18T16:21:06+00:00"
+  },
+  "https://www.phoronix.com/news/Framework-Laptop-12-WCL": {
+    "title": "Framework Laptop 12 Updated For Intel Wildcat Lake, Shipping Starts In October",
+    "source": "Phoronix",
+    "first_seen": "2026-08-18T21:11:33.984645+00:00",
+    "published": "2026-08-18T16:14:17+00:00"
+  },
+  "https://www.docker.com/blog/ai-agent-security-systems-problem": {
+    "title": "17,600 Actions: Agent Security Is a Systems Problem",
+    "source": "Docker Blog",
+    "first_seen": "2026-08-18T21:11:33.984645+00:00",
+    "published": "2026-08-18T16:00:00+00:00"
+  },
+  "https://nextjs.org/blog/building-app-like-experiences-with-nextjs-16-3": {
+    "title": "Building App-like Experiences with Next.js 16.3",
+    "source": "Next.js Blog",
+    "first_seen": "2026-08-18T21:11:33.984645+00:00",
+    "published": "2026-08-18T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/topics/partners/box-ai-agents-gemini-embeddings-multimodal-enterprise-ai": {
+    "title": "How Box is unlocking multimodal enterprise agents with Gemini Embeddings 2",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-08-18T21:11:33.984645+00:00",
+    "published": "2026-08-18T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/data-analytics/governance-on-autopilot-automate-data-governance-with-lineage": {
+    "title": "Governance on autopilot, minus the turbulence",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-08-18T21:11:33.984645+00:00",
+    "published": "2026-08-18T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/data-analytics/cost-effective-genai-workflows-in-google-dataflow": {
+    "title": "Building cost-effective, high-throughput gen AI workflows in Google Dataflow",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-08-18T21:11:33.984645+00:00",
+    "published": "2026-08-18T16:00:00+00:00"
+  },
+  "https://github.com/therepanic/openleetcode": {
+    "title": "Show HN: Openleetcode – local LeetCode runner where tests live in the repo",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-18T21:11:33.984645+00:00",
+    "published": "2026-08-18T15:30:40+00:00"
+  },
+  "https://blog.bytebytego.com/p/the-new-american-ai-model-designed": {
+    "title": "The New American AI Model Designed to be Customized",
+    "source": "ByteByteGo",
+    "first_seen": "2026-08-18T21:11:33.984645+00:00",
+    "published": "2026-08-18T15:30:36+00:00"
+  },
+  "https://blog.cloudflare.com/rfc9234-bgp-role-model": {
+    "title": "BGP Role model: tracking the adoption of RFC 9234",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-08-18T21:11:33.984645+00:00",
+    "published": "2026-08-18T15:21:32+00:00"
+  },
+  "https://www.databricks.com/blog/when-it-comes-governance-retailers-need-control-plane-context": {
+    "title": "When it comes to Governance, Retailers need a control plane for context",
+    "source": "Databricks Blog",
+    "first_seen": "2026-08-18T21:11:33.984645+00:00",
+    "published": "2026-08-18T15:18:00+00:00"
+  },
+  "https://neon.com/blog/query-neon-backend-logs": {
+    "title": "Query Neon backend logs",
+    "source": "Neon Blog",
+    "first_seen": "2026-08-18T21:11:33.984645+00:00",
+    "published": "2026-08-18T12:00:00+00:00"
+  },
+  "https://stackoverflow.blog/2026/08/18/building-an-agentic-sdlc-with-a-qa-engineering-mindset": {
+    "title": "Building an agentic SDLC with a QA engineering mindset",
+    "source": "Stack Overflow Blog",
+    "first_seen": "2026-08-18T21:11:33.984645+00:00",
+    "published": "2026-08-18T07:40:00+00:00"
+  },
+  "https://openai.com/index/asana": {
+    "title": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-08-18T21:11:33.984645+00:00",
+    "published": "2026-08-18T07:00:00+00:00"
+  },
+  "https://www.elastic.co/blog/context-engineering-agentic-ai": {
+    "title": "From retrieval to agents: 5 takeaways on production architecture for AI agents",
+    "source": "Elastic Blog",
+    "first_seen": "2026-08-18T21:11:33.984645+00:00",
+    "published": "2026-08-18T00:00:00+00:00"
+  },
+  "https://www.elastic.co/blog/agentic-treasury": {
+    "title": "Agentic treasury runs on searchable, observable context",
+    "source": "Elastic Blog",
+    "first_seen": "2026-08-18T21:11:33.984645+00:00",
+    "published": "2026-08-18T00:00:00+00:00"
+  },
+  "https://planetscale.com/blog/postgres-poisoned-connection-pools": {
+    "title": "Poisoned Postgres connection pools",
+    "source": "PlanetScale Blog",
+    "first_seen": "2026-08-18T21:11:33.984645+00:00",
+    "published": "2026-08-18T00:00:00+00:00"
+  },
+  "https://machinelearning.apple.com/research/mvicad2-delays-dilations": {
+    "title": "MVICAD2: Multi-View Independent Component Analysis with Delays and Dilations",
+    "source": "Apple ML Journal",
+    "first_seen": "2026-08-18T21:11:33.984645+00:00",
+    "published": "2026-08-18T00:00:00+00:00"
   }
 }
