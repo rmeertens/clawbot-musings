@@ -75434,5 +75434,137 @@
     "source": "Apple ML Journal",
     "first_seen": "2026-08-19T21:14:26.788088+00:00",
     "published": "2026-08-19T00:00:00+00:00"
+  },
+  "https://dontpastetheai.com": {
+    "title": "Don't Paste the AI, please",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-20T09:21:03.756287+00:00",
+    "published": "2026-08-20T08:20:44+00:00"
+  },
+  "https://devblogs.microsoft.com/oldnewthing/20030825-00?p=42803": {
+    "title": "Windows brings out the Rorschach test in everyone",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-20T09:21:03.756287+00:00",
+    "published": "2026-08-20T06:16:40+00:00"
+  },
+  "https://devblogs.microsoft.com/oldnewthing/20260818-00?p=112621": {
+    "title": "Why Microsoft Entertainment Pack had a sticker announcing that it had Tetris?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-20T09:21:03.756287+00:00",
+    "published": "2026-08-20T04:42:02+00:00"
+  },
+  "https://www.phoronix.com/news/X.Org-Server-26.1-RC1": {
+    "title": "X.Org Server 26.1 RC1 Prepares For First Feature Release In Five Years",
+    "source": "Phoronix",
+    "first_seen": "2026-08-20T09:21:03.756287+00:00",
+    "published": "2026-08-20T02:18:15+00:00"
+  },
+  "https://www.computerenhance.com/p/turns-are-better-than-radians": {
+    "title": "Turns are Better than Radians (2022)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-20T09:21:03.756287+00:00",
+    "published": "2026-08-20T01:29:12+00:00"
+  },
+  "https://www.phoronix.com/news/EXT4-Linux-7.3": {
+    "title": "EXT4 Preps More Performance Improvements For Linux 7.3",
+    "source": "Phoronix",
+    "first_seen": "2026-08-20T09:21:03.756287+00:00",
+    "published": "2026-08-20T00:55:19+00:00"
+  },
+  "https://aws.amazon.com/blogs/architecture/how-agentflo-built-ai-sales-agents-with-amazon-bedrock-agentcore-part-1": {
+    "title": "How AgentFlo built AI sales agents with Amazon Bedrock AgentCore – Part 1",
+    "source": "AWS Architecture Blog",
+    "first_seen": "2026-08-20T09:21:03.756287+00:00",
+    "published": "2026-08-20T00:32:52+00:00"
+  },
+  "https://lwn.net/Articles/1088565": {
+    "title": "[$] LWN.net Weekly Edition for August 20, 2026",
+    "source": "LWN.net",
+    "first_seen": "2026-08-20T09:21:03.756287+00:00",
+    "published": "2026-08-20T00:05:06+00:00"
+  },
+  "https://simonwillison.net/2026/Aug/19/smolmachines-untrusted-sandbox": {
+    "title": "smolmachines / smolvm as a sandbox for untrusted Python & JavaScript",
+    "source": "Simon Willison",
+    "first_seen": "2026-08-20T09:21:03.756287+00:00",
+    "published": "2026-08-19T23:16:00+00:00"
+  },
+  "https://simonwillison.net/2026/Aug/19/jeremy-morrell": {
+    "title": "Quoting Jeremy Morrell",
+    "source": "Simon Willison",
+    "first_seen": "2026-08-20T09:21:03.756287+00:00",
+    "published": "2026-08-19T22:56:31+00:00"
+  },
+  "https://simonwillison.net/2026/Aug/19/conceptual-integrity-and-counting-lines-of-code": {
+    "title": "Conceptual integrity and counting lines of code",
+    "source": "Simon Willison",
+    "first_seen": "2026-08-20T09:21:03.756287+00:00",
+    "published": "2026-08-19T22:46:07+00:00"
+  },
+  "https://developer.nvidia.com/blog/developing-nvidia-holoscan-applications-with-cli-skills-and-ai-coding-agents": {
+    "title": "Developing NVIDIA Holoscan Applications with CLI, Skills, and AI Coding Agents",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-08-20T09:21:03.756287+00:00",
+    "published": "2026-08-19T22:22:37+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/understand-memory-management-in-amazon-rds-for-postgresql-to-avoid-out-of-memory": {
+    "title": "Understand memory management in Amazon RDS for PostgreSQL to avoid out of memory",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-08-20T09:21:03.756287+00:00",
+    "published": "2026-08-19T22:21:10+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/domain-and-publish-date-filters-for-web-search-on-agentcore": {
+    "title": "Domain and publish date filters for Web Search on AgentCore",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-08-20T09:21:03.756287+00:00",
+    "published": "2026-08-19T22:13:20+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/automate-document-processing-with-quick-automate-and-the-idp-accelerator": {
+    "title": "Automate Document Processing with Quick Automate and the IDP Accelerator",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-08-20T09:21:03.756287+00:00",
+    "published": "2026-08-19T22:09:56+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/asynchronous-patterns-for-calling-amazon-bedrock-agentcore-agents-in-serverless-pipelines": {
+    "title": "Asynchronous patterns for calling Amazon Bedrock AgentCore agents in serverless pipelines",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-08-20T09:21:03.756287+00:00",
+    "published": "2026-08-19T22:06:09+00:00"
+  },
+  "https://thenewstack.io/openai-training-pause-cybersecurity": {
+    "title": "“The opening stages of OpenAI’s unraveling”: OpenAI slows model training — not everyone is buying the explanation",
+    "source": "The New Stack",
+    "first_seen": "2026-08-20T09:21:03.756287+00:00",
+    "published": "2026-08-19T21:53:30+00:00"
+  },
+  "https://github.com/anthropics/claude-code/issues/6235": {
+    "title": "Feature Request: Support AGENTS.md",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-20T09:21:03.756287+00:00",
+    "published": "2026-08-19T21:19:50+00:00"
+  },
+  "https://os8088.com/spotlight": {
+    "title": "Os8088.com: IBM XT OS now has a Browser, CP/M 2.2 with Z80 core and MS Word 1.1a",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-20T09:21:03.756287+00:00",
+    "published": "2026-08-19T21:11:31+00:00"
+  },
+  "https://www.theverge.com/tech/981956/google-pixel-11-pro-fold-review": {
+    "title": "Pixel 11 Pro Fold feels like the end of an era",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-20T09:21:03.756287+00:00",
+    "published": "2026-08-19T19:43:48+00:00"
+  },
+  "https://coca11272000.wixsite.com/manabukosaka": {
+    "title": "Manabu Kosaka's Handmade Paper Sculptures",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-20T09:21:03.756287+00:00",
+    "published": "2026-08-19T14:20:10+00:00"
+  },
+  "https://www.redpanda.com/blog/designing-agentic-systems-architect-faqs": {
+    "title": "4 FAQs about designing agentic systems for production",
+    "source": "Redpanda Blog",
+    "first_seen": "2026-08-20T09:21:03.756287+00:00",
+    "published": "2026-08-19T00:00:00+00:00"
   }
 }
