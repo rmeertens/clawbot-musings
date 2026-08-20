@@ -75824,5 +75824,389 @@
     "source": "Rust Blog",
     "first_seen": "2026-08-20T15:21:42.725194+00:00",
     "published": "2026-08-20T00:00:00+00:00"
+  },
+  "https://pytorch.org/blog/pytorch-conference-north-america-2026-keynote-speaker-sessions-announced": {
+    "title": "PyTorch Conference North America 2026 Keynote Speaker Sessions Announced",
+    "source": "PyTorch Blog",
+    "first_seen": "2026-08-20T21:15:54.146965+00:00",
+    "published": "2026-08-20T20:56:13+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/migrate-multilingual-full-text-search-from-sql-server-to-postgresql": {
+    "title": "Migrate multilingual full-text search from SQL Server to PostgreSQL",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-08-20T21:15:54.146965+00:00",
+    "published": "2026-08-20T20:34:44+00:00"
+  },
+  "https://thenewstack.io/google-antigravity-ide-extensions": {
+    "title": "Google’s AI coding agent just escaped its own IDE",
+    "source": "The New Stack",
+    "first_seen": "2026-08-20T21:15:54.146965+00:00",
+    "published": "2026-08-20T20:17:54+00:00"
+  },
+  "https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence": {
+    "title": "Aaron Swartz was prosecuted for scraping, while Meta does it without consequence",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-20T21:15:54.146965+00:00",
+    "published": "2026-08-20T20:07:26+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.3-Networking": {
+    "title": "Linux 7.3 Network Changes Merged But Developers \"Completely Overwhelmed\" Due To AI/LLMs",
+    "source": "Phoronix",
+    "first_seen": "2026-08-20T21:15:54.146965+00:00",
+    "published": "2026-08-20T20:05:28+00:00"
+  },
+  "https://aws.amazon.com/blogs/compute/amazon-linux-default-ssm-parameter-will-now-track-the-latest-kernel": {
+    "title": "Amazon Linux default SSM parameter will now track the latest kernel",
+    "source": "AWS Compute Blog",
+    "first_seen": "2026-08-20T21:15:54.146965+00:00",
+    "published": "2026-08-20T19:49:05+00:00"
+  },
+  "https://www.experimental-history.com/p/stop-eating-lady-gagas-oreos": {
+    "title": "Stop eating Lady Gaga's Oreos",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-20T21:15:54.146965+00:00",
+    "published": "2026-08-20T19:46:06+00:00"
+  },
+  "https://lwn.net/Articles/1083090": {
+    "title": "[$] A look at the Quickshell desktop-component toolkit",
+    "source": "LWN.net",
+    "first_seen": "2026-08-20T21:15:54.146965+00:00",
+    "published": "2026-08-20T19:39:51+00:00"
+  },
+  "https://surfingcomplexity.blog/2026/08/19/github-autoscaling-and-the-component-substitution-fallacy": {
+    "title": "GitHub, autoscaling, and the component substitution fallacy",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-20T21:15:54.146965+00:00",
+    "published": "2026-08-20T19:28:18+00:00"
+  },
+  "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead": {
+    "title": "The August 17 outage, and the work ahead",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-20T21:15:54.146965+00:00",
+    "published": "2026-08-20T19:22:24+00:00"
+  },
+  "https://tidalcycles.org": {
+    "title": "Tidal Cycles – Live coding music with Algorithmic patterns",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-20T21:15:54.146965+00:00",
+    "published": "2026-08-20T19:21:45+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/long-term-system-tables-retention-in-amazon-redshift-with-amazon-s3-tables": {
+    "title": "Long-term system tables retention in Amazon Redshift with Amazon S3 Tables",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-08-20T21:15:54.146965+00:00",
+    "published": "2026-08-20T19:20:20+00:00"
+  },
+  "https://strn.cat/posts/spacetime": {
+    "title": "SpacetimeDB: A Short Technical Review",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-20T21:15:54.146965+00:00",
+    "published": "2026-08-20T19:19:53+00:00"
+  },
+  "https://stackoverflow.blog/2026/08/20/ai-won-t-replace-project-managers-but-it-is-reshaping-how-work-gets-done": {
+    "title": "AI Won't Replace Project Managers, But It is Reshaping How Work Gets Done",
+    "source": "Stack Overflow Blog",
+    "first_seen": "2026-08-20T21:15:54.146965+00:00",
+    "published": "2026-08-20T19:05:40+00:00"
+  },
+  "https://www.danielvaughn.dev/posts/huzzah": {
+    "title": "Show HN: Huzzah – a novel approach to coding with AI",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-20T21:15:54.146965+00:00",
+    "published": "2026-08-20T19:05:36+00:00"
+  },
+  "https://www.databricks.com/blog/busting-sql-migration-myths-how-new-sql-features-make-lift-and-shift-lakehouse-easier": {
+    "title": "Busting SQL Migration Myths: How New SQL Features Make Lift-and-Shift to Lakehouse Easier",
+    "source": "Databricks Blog",
+    "first_seen": "2026-08-20T21:15:54.146965+00:00",
+    "published": "2026-08-20T19:00:00+00:00"
+  },
+  "https://www.rathbiotaclan.com/tiktok-videos-deactivate-key-cognitive-brain-regions": {
+    "title": "Watching TikTok and Instagram deactivates the cognitive control network: Study",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-20T21:15:54.146965+00:00",
+    "published": "2026-08-20T18:54:32+00:00"
+  },
+  "https://thenewstack.io/debian-ai-contribution-ban-debate": {
+    "title": "Debian just proposed banning AI code. Here’s why it matters for open source developers & maintainers.",
+    "source": "The New Stack",
+    "first_seen": "2026-08-20T21:15:54.146965+00:00",
+    "published": "2026-08-20T18:49:42+00:00"
+  },
+  "https://stackoverflow.blog/2026/08/20/quantum-augmented-applications-integrating-quantum-subroutines-into-classical-software-stacks": {
+    "title": "Quantum-Augmented Applications: Integrating Quantum Subroutines into Classical Software Stacks",
+    "source": "Stack Overflow Blog",
+    "first_seen": "2026-08-20T21:15:54.146965+00:00",
+    "published": "2026-08-20T18:43:39+00:00"
+  },
+  "https://aws.amazon.com/blogs/security/aws-network-firewall-now-supports-rule-hit-count": {
+    "title": "AWS Network Firewall now supports rule hit count",
+    "source": "AWS Security Blog",
+    "first_seen": "2026-08-20T21:15:54.146965+00:00",
+    "published": "2026-08-20T18:40:20+00:00"
+  },
+  "https://www.experimental-history.com/p/why-arent-smart-people-happier": {
+    "title": "Why aren't smart people happier? (2022)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-20T21:15:54.146965+00:00",
+    "published": "2026-08-20T18:38:47+00:00"
+  },
+  "https://thenewstack.io/add-to-slack-agents": {
+    "title": "Slack makes it easier to install agents built with third-party tools",
+    "source": "The New Stack",
+    "first_seen": "2026-08-20T21:15:54.146965+00:00",
+    "published": "2026-08-20T18:30:00+00:00"
+  },
+  "https://consumerrights.wiki/w/Main_Page": {
+    "title": "Consumer Rights Wiki",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-20T21:15:54.146965+00:00",
+    "published": "2026-08-20T18:19:51+00:00"
+  },
+  "https://nextjs.org/blog/upcoming-nextjs-security-release-august-2026": {
+    "title": "Upcoming Next.js August Security Release",
+    "source": "Next.js Blog",
+    "first_seen": "2026-08-20T21:15:54.146965+00:00",
+    "published": "2026-08-20T18:00:00+00:00"
+  },
+  "https://newsletter.pragmaticengineer.com/p/the-pulse-we-need-to-talk-about-migrations": {
+    "title": "The Pulse: We need to talk about migrations with AI",
+    "source": "The Pragmatic Engineer",
+    "first_seen": "2026-08-20T21:15:54.146965+00:00",
+    "published": "2026-08-20T17:53:01+00:00"
+  },
+  "https://thenewstack.io/warp-software-factory-infrastructure": {
+    "title": "Warp wants to make it easier to build your software factory",
+    "source": "The New Stack",
+    "first_seen": "2026-08-20T21:15:54.146965+00:00",
+    "published": "2026-08-20T17:52:29+00:00"
+  },
+  "https://jsomers.net/i-should-have-loved-biology": {
+    "title": "I should have loved biology (2020)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-20T21:15:54.146965+00:00",
+    "published": "2026-08-20T17:50:02+00:00"
+  },
+  "https://www.schneier.com/blog/archives/2026/08/detailed-timeline-of-openais-cyberattack-on-hugging-face.html": {
+    "title": "Detailed Timeline of OpenAI’s Cyberattack on Hugging Face",
+    "source": "Schneier on Security",
+    "first_seen": "2026-08-20T21:15:54.146965+00:00",
+    "published": "2026-08-20T17:44:36+00:00"
+  },
+  "https://bactra.org/notebooks/cybersyn.html": {
+    "title": "Project Cybersyn (2022)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-20T21:15:54.146965+00:00",
+    "published": "2026-08-20T17:40:49+00:00"
+  },
+  "https://thenewstack.io/opensearch-ppl-unified-alerting": {
+    "title": "How to build smarter OpenSearch alerts: Join our live conversation",
+    "source": "The New Stack",
+    "first_seen": "2026-08-20T21:15:54.146965+00:00",
+    "published": "2026-08-20T17:40:44+00:00"
+  },
+  "https://radi8.dev/blog/uplink": {
+    "title": "Show HN: We chased a weather balloon across Montana and never found it",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-20T21:15:54.146965+00:00",
+    "published": "2026-08-20T17:33:32+00:00"
+  },
+  "https://cloud.google.com/blog/products/ai-machine-learning/expanding-google-antigravity-for-enterprise-customers": {
+    "title": "Expanding Google Antigravity for enterprise customers",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-08-20T21:15:54.146965+00:00",
+    "published": "2026-08-20T17:30:00+00:00"
+  },
+  "https://www.phoronix.com/news/Rust-1.98-Released": {
+    "title": "Rust 1.98 Adds Algebraic Floating-Point Methods Akin To \"-ffast-math\"",
+    "source": "Phoronix",
+    "first_seen": "2026-08-20T21:15:54.146965+00:00",
+    "published": "2026-08-20T17:29:25+00:00"
+  },
+  "https://thenewstack.io/stripe-acquires-openrouter-tokens": {
+    "title": "OpenRouter called itself the “Stripe for LLMs” — now Stripe’s swooped in to buy it",
+    "source": "The New Stack",
+    "first_seen": "2026-08-20T21:15:54.146965+00:00",
+    "published": "2026-08-20T17:20:31+00:00"
+  },
+  "https://www.phoronix.com/news/KMSCON-10.0.2-Released": {
+    "title": "KMSCON 10.0.2 Brings asciicast Playback Support, Bug Fixes",
+    "source": "Phoronix",
+    "first_seen": "2026-08-20T21:15:54.146965+00:00",
+    "published": "2026-08-20T17:19:37+00:00"
+  },
+  "https://thenewstack.io/encrypted-prompt-injection-grok": {
+    "title": "Researchers hid an attack inside AES encryption. The AI model cracked it open willingly.",
+    "source": "The New Stack",
+    "first_seen": "2026-08-20T21:15:54.146965+00:00",
+    "published": "2026-08-20T17:15:21+00:00"
+  },
+  "https://blog.cloudflare.com/task-based-oauth-consent": {
+    "title": "From all-or-nothing to task-based OAuth consent",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-08-20T21:15:54.146965+00:00",
+    "published": "2026-08-20T17:03:03+00:00"
+  },
+  "https://www.ycombinator.com/companies/sixtyfour/jobs/39SkSrA-software-engineering-intern": {
+    "title": "Sixtyfour (YC P25) Is Hiring",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-20T21:15:54.146965+00:00",
+    "published": "2026-08-20T17:01:05+00:00"
+  },
+  "https://www.docker.com/blog/docker-verified-publisher-applications-are-now-self-serve": {
+    "title": "Docker Verified Publisher Applications Are Now Self-Serve",
+    "source": "Docker Blog",
+    "first_seen": "2026-08-20T21:15:54.146965+00:00",
+    "published": "2026-08-20T17:00:00+00:00"
+  },
+  "https://huggingface.co/blog/LiquidAI/lfm25-dspark": {
+    "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-08-20T21:15:54.146965+00:00",
+    "published": "2026-08-20T16:52:57+00:00"
+  },
+  "https://thenewstack.io/slack-code-agent-channels": {
+    "title": "Slack has a new channel type — but only agents can create one",
+    "source": "The New Stack",
+    "first_seen": "2026-08-20T21:15:54.146965+00:00",
+    "published": "2026-08-20T16:50:07+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/authoring-dogwood-policies-from-natural-language-in-amazon-bedrock-agentcore": {
+    "title": "Authoring Dogwood policies from natural language in Amazon Bedrock AgentCore",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-08-20T21:15:54.146965+00:00",
+    "published": "2026-08-20T16:31:28+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/scaling-agentic-ai-enterprise-patterns-without-vendor-lock-in": {
+    "title": "Scaling agentic AI: Enterprise patterns without vendor lock-in",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-08-20T21:15:54.146965+00:00",
+    "published": "2026-08-20T16:24:12+00:00"
+  },
+  "https://www.phoronix.com/news/KDE-Btrfs-Snapshots": {
+    "title": "KDE Software Now Has Stable Btrfs Snapshot Integration With KIO-Snapshot 1.0",
+    "source": "Phoronix",
+    "first_seen": "2026-08-20T21:15:54.146965+00:00",
+    "published": "2026-08-20T16:21:31+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/track-sagemaker-unified-studio-project-costs-with-custom-tags-and-aws-cur": {
+    "title": "Track SageMaker Unified Studio project costs with custom tags and AWS CUR",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-08-20T21:15:54.146965+00:00",
+    "published": "2026-08-20T16:19:24+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/scaling-cloud-migrations-with-agentic-ai-on-amazon-bedrock-agentcore": {
+    "title": "Scaling cloud migrations with agentic AI on Amazon Bedrock AgentCore",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-08-20T21:15:54.146965+00:00",
+    "published": "2026-08-20T16:11:18+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/aws-vector-solutions-build-agentic-ai-where-your-data-lives": {
+    "title": "AWS vector solutions: Build agentic AI where your data lives",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-08-20T21:15:54.146965+00:00",
+    "published": "2026-08-20T16:06:06+00:00"
+  },
+  "https://www.cncf.io/blog/2026/08/20/announcing-h1-2027-kcds": {
+    "title": "Announcing H1 2027 KCDs",
+    "source": "CNCF Blog",
+    "first_seen": "2026-08-20T21:15:54.146965+00:00",
+    "published": "2026-08-20T16:00:00+00:00"
+  },
+  "https://developer.nvidia.com/blog/how-generative-recommenders-are-redefining-recsys-at-scale": {
+    "title": "How Generative Recommenders Are Redefining RecSys at Scale",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-08-20T21:15:54.146965+00:00",
+    "published": "2026-08-20T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/topics/developers-practitioners/10-questions-for-your-startup-developers": {
+    "title": "10 questions every startup should answer before moving to production with their AI prototype",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-08-20T21:15:54.146965+00:00",
+    "published": "2026-08-20T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/identity-security/announcing-quantum-safe-key-import-in-cloud-kms": {
+    "title": "Announcing quantum-safe key import in Cloud KMS",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-08-20T21:15:54.146965+00:00",
+    "published": "2026-08-20T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/databases/alloydb-scann-index-four-level-tree-improves-vector-search": {
+    "title": "How AlloyDB ScaNN scales vector search to 10 billion vectors",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-08-20T21:15:54.146965+00:00",
+    "published": "2026-08-20T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/application-development/2026-gartner-mq-for-cloud-native-application-platforms": {
+    "title": "Google is a Leader in the 2026 Gartner® Magic Quadrant™ for Cloud-Native Application Platforms",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-08-20T21:15:54.146965+00:00",
+    "published": "2026-08-20T16:00:00+00:00"
+  },
+  "https://www.codedge.de/posts/how-to-compromise-your-system-with-a-job-interview": {
+    "title": "How to compromise your system with a job interview",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-20T21:15:54.146965+00:00",
+    "published": "2026-08-20T15:50:57+00:00"
+  },
+  "https://www.igalia.com/2026/08/19/Linux-72-Released.html": {
+    "title": "Linux 7.2",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-20T21:15:54.146965+00:00",
+    "published": "2026-08-20T15:46:18+00:00"
+  },
+  "https://pytorch.org/blog/harnessing-ai-for-day-one-model-enablement": {
+    "title": "Harnessing AI for Day-One Model Enablement",
+    "source": "PyTorch Blog",
+    "first_seen": "2026-08-20T21:15:54.146965+00:00",
+    "published": "2026-08-20T15:45:59+00:00"
+  },
+  "https://blog.bytebytego.com/p/schema-evolution-changing-the-contract": {
+    "title": "Schema Evolution: Changing the Contract Without Breaking What Runs",
+    "source": "ByteByteGo",
+    "first_seen": "2026-08-20T21:15:54.146965+00:00",
+    "published": "2026-08-20T15:32:18+00:00"
+  },
+  "https://github.com/zachahn/vomit": {
+    "title": "Vomit: Clean up Claude 5's token output with a separate LLM",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-20T21:15:54.146965+00:00",
+    "published": "2026-08-20T15:26:02+00:00"
+  },
+  "https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful": {
+    "title": "Anti-AI fonts are useless and harmful",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-20T21:15:54.146965+00:00",
+    "published": "2026-08-20T15:06:53+00:00"
+  },
+  "https://openai.com/index/introducing-ai-futures": {
+    "title": "Introducing AI Futures",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-08-20T21:15:54.146965+00:00",
+    "published": "2026-08-20T07:00:00+00:00"
+  },
+  "https://www.elastic.co/blog/whats-new-elastic-cloud-on-kubernetes-3-5": {
+    "title": "What's new in ECK 3.5",
+    "source": "Elastic Blog",
+    "first_seen": "2026-08-20T21:15:54.146965+00:00",
+    "published": "2026-08-20T00:00:00+00:00"
+  },
+  "https://www.elastic.co/blog/elastic-stack-9-5-2-released": {
+    "title": "Elastic Stack 9.5.2 released",
+    "source": "Elastic Blog",
+    "first_seen": "2026-08-20T21:15:54.146965+00:00",
+    "published": "2026-08-20T00:00:00+00:00"
+  },
+  "https://openai.com/index/stampli": {
+    "title": "How ChatGPT Work helps Stampli move ideas to market",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-08-20T21:15:54.146965+00:00",
+    "published": "2026-08-20T00:00:00+00:00"
+  },
+  "https://blog.rust-lang.org/2026/08/20/Rust-1.98.0": {
+    "title": "Announcing Rust 1.98.0",
+    "source": "Rust Blog",
+    "first_seen": "2026-08-20T21:15:54.146965+00:00",
+    "published": "2026-08-20T00:00:00+00:00"
   }
 }
