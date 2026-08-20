@@ -75566,5 +75566,263 @@
     "source": "Redpanda Blog",
     "first_seen": "2026-08-20T09:21:03.756287+00:00",
     "published": "2026-08-19T00:00:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/build-intelligent-security-for-healthcare-apis-with-amazon-bedrock": {
+    "title": "Build intelligent security for healthcare APIs with Amazon Bedrock",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-08-20T15:21:42.725194+00:00",
+    "published": "2026-08-20T15:20:03+00:00"
+  },
+  "https://www.salesforce.com/introducing-slack-code?bc=HL": {
+    "title": "Slack Code",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-20T15:21:42.725194+00:00",
+    "published": "2026-08-20T14:21:25+00:00"
+  },
+  "https://www.phoronix.com/review/intel-xeon-678x-ht": {
+    "title": "Intel Hyper Threading Performance On The Xeon 678X \"Granite Rapids-WS\"",
+    "source": "Phoronix",
+    "first_seen": "2026-08-20T15:21:42.725194+00:00",
+    "published": "2026-08-20T14:21:00+00:00"
+  },
+  "https://www.bbc.com/news/articles/clyq011414eo": {
+    "title": "Harvest hikes bills by 1500% after purchased by Bending Spoons",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-20T15:21:42.725194+00:00",
+    "published": "2026-08-20T14:18:16+00:00"
+  },
+  "https://elliptic-rank.icarm.cloud/curve/273": {
+    "title": "An elliptic curve of rank ≥ 30",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-20T15:21:42.725194+00:00",
+    "published": "2026-08-20T14:14:39+00:00"
+  },
+  "https://bun.com/blog/bun-v1.4": {
+    "title": "Bun 1.4",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-20T15:21:42.725194+00:00",
+    "published": "2026-08-20T14:10:12+00:00"
+  },
+  "https://www.mikekasberg.com/blog/2026/08/19/hacking-with-claude-on-a-27-smart-watch.html": {
+    "title": "Hacking with Claude on a $27 Smart Watch",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-20T15:21:42.725194+00:00",
+    "published": "2026-08-20T14:08:09+00:00"
+  },
+  "https://stwipe.com": {
+    "title": "Stwipe Acquires OpenWouter",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-20T15:21:42.725194+00:00",
+    "published": "2026-08-20T14:04:46+00:00"
+  },
+  "https://thenewstack.io/building-token-efficient-agents": {
+    "title": "Stop the token bleed: building token-efficient multi-agent systems",
+    "source": "The New Stack",
+    "first_seen": "2026-08-20T15:21:42.725194+00:00",
+    "published": "2026-08-20T14:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/topics/threat-intelligence/distinct-clusters-target-individuals-of-interest-to-russia": {
+    "title": "Going with the Flow(s): Distinct Clusters Target Individuals of Interest to Russia",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-08-20T15:21:42.725194+00:00",
+    "published": "2026-08-20T14:00:00+00:00"
+  },
+  "https://dreadnode.io/research/every-model-cheats-prompt-level-mitigation-of-cheating-on-offensive-cyber-tasks": {
+    "title": "Every Model Cheats",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-20T15:21:42.725194+00:00",
+    "published": "2026-08-20T13:56:59+00:00"
+  },
+  "https://deadsimpleci.sparrowhub.io/doc/job-artifacts": {
+    "title": "CI jobs artifacts should not be difficult",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-20T15:21:42.725194+00:00",
+    "published": "2026-08-20T13:44:27+00:00"
+  },
+  "https://lwn.net/Articles/1089721": {
+    "title": "KDE Gear 26.08 released",
+    "source": "LWN.net",
+    "first_seen": "2026-08-20T15:21:42.725194+00:00",
+    "published": "2026-08-20T13:37:26+00:00"
+  },
+  "https://lwn.net/Articles/1089720": {
+    "title": "Supply chain attack on arrayref (Rust blog)",
+    "source": "LWN.net",
+    "first_seen": "2026-08-20T15:21:42.725194+00:00",
+    "published": "2026-08-20T13:26:01+00:00"
+  },
+  "https://arxiv.org/abs/2608.00146": {
+    "title": "DiffusionGemma Technical Report",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-20T15:21:42.725194+00:00",
+    "published": "2026-08-20T13:24:32+00:00"
+  },
+  "https://safedep.io/arrayref-proc-macro1-rust-build-time-malware": {
+    "title": "Malicious Rust Crate Arrayref Runs a Build-Time Payload",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-20T15:21:42.725194+00:00",
+    "published": "2026-08-20T13:23:12+00:00"
+  },
+  "https://lwn.net/Articles/1089719": {
+    "title": "RPM 6.1.0 released",
+    "source": "LWN.net",
+    "first_seen": "2026-08-20T15:21:42.725194+00:00",
+    "published": "2026-08-20T13:22:03+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.3-FSCRYPT": {
+    "title": "FSCRYPT Sees Cleanup With Linux 7.3 To Open Door For More Features Like Btrfs Encryption",
+    "source": "Phoronix",
+    "first_seen": "2026-08-20T15:21:42.725194+00:00",
+    "published": "2026-08-20T13:18:28+00:00"
+  },
+  "https://lwn.net/Articles/1089244": {
+    "title": "[$] The beginning of the 7.3 merge window",
+    "source": "LWN.net",
+    "first_seen": "2026-08-20T15:21:42.725194+00:00",
+    "published": "2026-08-20T13:11:39+00:00"
+  },
+  "https://thenewstack.io/upstage-solar-pro-4": {
+    "title": "“Save frontier models for frontier problems”: Why Korea’s Solar Pro 4 is a workhorse agent reliability play",
+    "source": "The New Stack",
+    "first_seen": "2026-08-20T15:21:42.725194+00:00",
+    "published": "2026-08-20T13:11:35+00:00"
+  },
+  "https://lwn.net/Articles/1089717": {
+    "title": "Security updates for Thursday",
+    "source": "LWN.net",
+    "first_seen": "2026-08-20T15:21:42.725194+00:00",
+    "published": "2026-08-20T13:09:04+00:00"
+  },
+  "https://www.cncf.io/blog/2026/08/20/german-ciphers-telegrams-and-cloud-native-data-sovereignty": {
+    "title": "German ciphers, telegrams, and cloud native data sovereignty",
+    "source": "CNCF Blog",
+    "first_seen": "2026-08-20T15:21:42.725194+00:00",
+    "published": "2026-08-20T13:00:00+00:00"
+  },
+  "https://thenewstack.io/edge-kubernetes-fleet-management": {
+    "title": "Kubernetes at the edge has hit a wall. Fleet management is the way through.",
+    "source": "The New Stack",
+    "first_seen": "2026-08-20T15:21:42.725194+00:00",
+    "published": "2026-08-20T13:00:00+00:00"
+  },
+  "https://therevelator.org/why-ocean-cleanup-has-not-solved-plastic-pollution": {
+    "title": "Why the Ocean Cleanup Hasn't Solved the Plastic Pollution Crisis",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-20T15:21:42.725194+00:00",
+    "published": "2026-08-20T12:58:31+00:00"
+  },
+  "https://lists.x.org/archives/xorg-announce/2026-August/003741.html": {
+    "title": "Xorg-Server 26.0.99.901",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-20T15:21:42.725194+00:00",
+    "published": "2026-08-20T12:50:16+00:00"
+  },
+  "https://zellij.dev/news/nested-sessions-kitty-graphics-new-ui": {
+    "title": "Zellij 0.45.0: nested sessions, Kitty graphics, a fresh UI",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-20T15:21:42.725194+00:00",
+    "published": "2026-08-20T12:45:44+00:00"
+  },
+  "https://www.phoronix.com/news/PreSonus-Quantum-2626-Linux": {
+    "title": "Linux Driver Posted For The PreSonus Quantum 2626: A ~$700 Thunderbolt Audio Interface",
+    "source": "Phoronix",
+    "first_seen": "2026-08-20T15:21:42.725194+00:00",
+    "published": "2026-08-20T12:28:39+00:00"
+  },
+  "https://simedw.com/2026/08/20/midi-autocomplete": {
+    "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-20T15:21:42.725194+00:00",
+    "published": "2026-08-20T12:04:38+00:00"
+  },
+  "https://www.ycombinator.com/companies/proof-of-human/jobs/ZTZHEbb-member-of-technical-staff": {
+    "title": "Proof of Human (YC S23) Is Hiring a Member of Technical Staff",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-20T15:21:42.725194+00:00",
+    "published": "2026-08-20T12:00:23+00:00"
+  },
+  "https://realpython.com/quizzes/cpython-source-code-guide": {
+    "title": "Quiz: Your Guide to the CPython Source Code",
+    "source": "Real Python",
+    "first_seen": "2026-08-20T15:21:42.725194+00:00",
+    "published": "2026-08-20T12:00:00+00:00"
+  },
+  "https://neon.com/blog/open-weight-models-are-fast-on-neon-ai-gateway": {
+    "title": "Open-weight models are fast on Neon AI Gateway. Here's why",
+    "source": "Neon Blog",
+    "first_seen": "2026-08-20T15:21:42.725194+00:00",
+    "published": "2026-08-20T12:00:00+00:00"
+  },
+  "https://franciscotrindade.me/blog/the-kids-are-really-alright": {
+    "title": "AI didn't erase the junior engineer's value, it increased it it",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-20T15:21:42.725194+00:00",
+    "published": "2026-08-20T11:42:20+00:00"
+  },
+  "https://www.phoronix.com/news/RPM-6.1-Released": {
+    "title": "RPM 6.1 Released With Clang Build Fixes, New Release Model",
+    "source": "Phoronix",
+    "first_seen": "2026-08-20T15:21:42.725194+00:00",
+    "published": "2026-08-20T11:35:11+00:00"
+  },
+  "https://www.phoronix.com/news/Mesa-26.2.1-Released": {
+    "title": "Mesa 26.2.1 Released With Dozens Of Fixes",
+    "source": "Phoronix",
+    "first_seen": "2026-08-20T15:21:42.725194+00:00",
+    "published": "2026-08-20T10:35:42+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.3-vDSO-32-bit-Time": {
+    "title": "Linux 7.3 Cleans Up The Code For Disabling Of Legacy 32-bit Time Support",
+    "source": "Phoronix",
+    "first_seen": "2026-08-20T15:21:42.725194+00:00",
+    "published": "2026-08-20T10:21:48+00:00"
+  },
+  "https://risk-engineering.org": {
+    "title": "Risk Engineering",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-20T15:21:42.725194+00:00",
+    "published": "2026-08-20T10:18:58+00:00"
+  },
+  "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html": {
+    "title": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-20T15:21:42.725194+00:00",
+    "published": "2026-08-20T10:08:52+00:00"
+  },
+  "https://www.phoronix.com/news/KDE-Gear-26.08": {
+    "title": "KDE Gear 26.08 Delivers The Latest KDE App Experience",
+    "source": "Phoronix",
+    "first_seen": "2026-08-20T15:21:42.725194+00:00",
+    "published": "2026-08-20T09:58:23+00:00"
+  },
+  "https://www.schneier.com/blog/archives/2026/08/police-are-hiding-their-use-of-flock-surveillance-cameras.html": {
+    "title": "Police Are Hiding Their Use of Flock Surveillance Cameras",
+    "source": "Schneier on Security",
+    "first_seen": "2026-08-20T15:21:42.725194+00:00",
+    "published": "2026-08-20T09:48:55+00:00"
+  },
+  "https://www.elastic.co/blog/the-search-multiplier": {
+    "title": "The search multiplier: Driving revenue, productivity, and AI at scale",
+    "source": "Elastic Blog",
+    "first_seen": "2026-08-20T15:21:42.725194+00:00",
+    "published": "2026-08-20T00:00:00+00:00"
+  },
+  "https://machinelearning.apple.com/research/scaling-laws-mixture-pretraining": {
+    "title": "Scaling Laws for Mixture Pretraining Under Data Constraints",
+    "source": "Apple ML Journal",
+    "first_seen": "2026-08-20T15:21:42.725194+00:00",
+    "published": "2026-08-20T00:00:00+00:00"
+  },
+  "https://machinelearning.apple.com/research/multilingual-knowledge-transfer-lexical-interventions": {
+    "title": "Multilingual Knowledge Transfer under Data Constraints via Lexical Interventions",
+    "source": "Apple ML Journal",
+    "first_seen": "2026-08-20T15:21:42.725194+00:00",
+    "published": "2026-08-20T00:00:00+00:00"
+  },
+  "https://blog.rust-lang.org/2026/08/20/supply-chain-attack-on-arrayref": {
+    "title": "Supply chain attack on arrayref",
+    "source": "Rust Blog",
+    "first_seen": "2026-08-20T15:21:42.725194+00:00",
+    "published": "2026-08-20T00:00:00+00:00"
   }
 }
