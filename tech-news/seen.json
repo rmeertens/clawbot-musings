@@ -76358,5 +76358,269 @@
     "source": "Stack Overflow Blog",
     "first_seen": "2026-08-21T09:22:53.936666+00:00",
     "published": "2026-08-20T07:40:00+00:00"
+  },
+  "https://simonwillison.net/2026/Aug/21/matt-webb": {
+    "title": "Quoting Matt Webb",
+    "source": "Simon Willison",
+    "first_seen": "2026-08-21T15:20:46.351690+00:00",
+    "published": "2026-08-21T15:06:26+00:00"
+  },
+  "https://developer.nvidia.com/blog/maximizing-ai-factory-performance-per-watt-with-nvidia-dsx-maxlps": {
+    "title": "Maximizing AI Factory Performance per Watt with NVIDIA DSX MaxLPS",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-08-21T15:20:46.351690+00:00",
+    "published": "2026-08-21T15:00:00+00:00"
+  },
+  "https://github.com/adnanakil/nobuzz/blob/main/README.md": {
+    "title": "Claudette: Make Claude Stop Talking Like a BuzzFeed Article",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-21T15:20:46.351690+00:00",
+    "published": "2026-08-21T14:31:52+00:00"
+  },
+  "https://thenewstack.io/stripe-ramp-openrouter-router": {
+    "title": "Forget the model wars, Stripe and Ramp just started the router wars",
+    "source": "The New Stack",
+    "first_seen": "2026-08-21T15:20:46.351690+00:00",
+    "published": "2026-08-21T14:28:28+00:00"
+  },
+  "https://blog.8ball.space/what-we-lost-when-search": {
+    "title": "What We Lost When Search Stopped Making Us Think",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-21T15:20:46.351690+00:00",
+    "published": "2026-08-21T14:16:17+00:00"
+  },
+  "https://stackoverflow.blog/2026/08/21/dispatches-from-o-reilly-the-right-amount-of-spec-for-agentic-development": {
+    "title": "Dispatches from O'Reilly: The right amount of spec for agentic development",
+    "source": "Stack Overflow Blog",
+    "first_seen": "2026-08-21T15:20:46.351690+00:00",
+    "published": "2026-08-21T14:00:00+00:00"
+  },
+  "https://invertingvision.com/2026/08/10/kodaks-pre-invented-lunar-orbiter-camera-or-the-fate-of-samos-readout": {
+    "title": "Kodak's \"Pre-Invented\" Lunar Orbiter Camera; Or, the Fate of SAMOS Readout",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-21T15:20:46.351690+00:00",
+    "published": "2026-08-21T13:52:53+00:00"
+  },
+  "https://plabayo.tech/blog/rama-0-4": {
+    "title": "Rama 0.4: System proxy and PAC support",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-21T15:20:46.351690+00:00",
+    "published": "2026-08-21T13:50:59+00:00"
+  },
+  "https://lwn.net/Articles/1089251": {
+    "title": "[$] Considering the OpenMDW license",
+    "source": "LWN.net",
+    "first_seen": "2026-08-21T15:20:46.351690+00:00",
+    "published": "2026-08-21T13:42:29+00:00"
+  },
+  "https://blog.coredump.cx/p/getting-silly-with-c-part-and-int1": {
+    "title": "Getting silly with C, part and((int*)-8)[3]",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-21T15:20:46.351690+00:00",
+    "published": "2026-08-21T13:40:22+00:00"
+  },
+  "https://arxiv.org/abs/2608.18214": {
+    "title": "Radiation damage to Hubble has been 4.3 years out of phase with the Solar cycle",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-21T15:20:46.351690+00:00",
+    "published": "2026-08-21T13:35:17+00:00"
+  },
+  "https://twitter.com/NVIDIAAI/status/2090786258981466231": {
+    "title": "Nvidia AVO scores 100% on the ARC-AGI-3 interactive reasoning benchmark",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-21T15:20:46.351690+00:00",
+    "published": "2026-08-21T13:26:03+00:00"
+  },
+  "https://catalystneuro.com/blog/cost-of-intelligence-drops-100x": {
+    "title": "What Happens When the Cost of Intelligence Drops 100x",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-21T15:20:46.351690+00:00",
+    "published": "2026-08-21T13:24:28+00:00"
+  },
+  "https://lwn.net/Articles/1089999": {
+    "title": "Security updates for Friday",
+    "source": "LWN.net",
+    "first_seen": "2026-08-21T15:20:46.351690+00:00",
+    "published": "2026-08-21T13:17:30+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.3-Media": {
+    "title": "Intel Computer Vision Sensing Driver Now Ready For Nova Lake",
+    "source": "Phoronix",
+    "first_seen": "2026-08-21T15:20:46.351690+00:00",
+    "published": "2026-08-21T13:13:26+00:00"
+  },
+  "https://lina.sh/blog/hijacking-e164-arpa": {
+    "title": "I accidentally logged phone calls to military bases",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-21T15:20:46.351690+00:00",
+    "published": "2026-08-21T13:11:28+00:00"
+  },
+  "https://precastreinforced.co.uk/2026/08/16/new-worlds": {
+    "title": "We are living in a version of the future out of J.G. Ballard or William Gibson",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-21T15:20:46.351690+00:00",
+    "published": "2026-08-21T13:07:26+00:00"
+  },
+  "https://san.com/cc/grand-jury-declines-to-indict-ohio-man-charged-with-destroying-flock-camera": {
+    "title": "Grand jury declines to indict Ohio man charged with destroying Flock camera",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-21T15:20:46.351690+00:00",
+    "published": "2026-08-21T13:04:31+00:00"
+  },
+  "https://www.docker.com/blog/running-ai-agents-in-github-actions-with-docker-sandboxes": {
+    "title": "Running AI agents in GitHub Actions with Docker Sandboxes",
+    "source": "Docker Blog",
+    "first_seen": "2026-08-21T15:20:46.351690+00:00",
+    "published": "2026-08-21T13:00:00+00:00"
+  },
+  "https://thenewstack.io/persistent-ai-agent-identities": {
+    "title": "Grok, Claude, and Hermes agents get job titles — and persistent permissions",
+    "source": "The New Stack",
+    "first_seen": "2026-08-21T15:20:46.351690+00:00",
+    "published": "2026-08-21T13:00:00+00:00"
+  },
+  "https://thenewstack.io/nvidia-avo-arcagi3-benchmark": {
+    "title": "Claude Opus 5 scored 30% on ARC-AGI-3. Wrapped in Nvidia’s AVO, it hit 100%.",
+    "source": "The New Stack",
+    "first_seen": "2026-08-21T15:20:46.351690+00:00",
+    "published": "2026-08-21T13:00:00+00:00"
+  },
+  "https://developer.nvidia.com/blog/where-security-fits-in-an-ai-agent-stack": {
+    "title": "Where Security Fits in an AI Agent Stack",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-08-21T15:20:46.351690+00:00",
+    "published": "2026-08-21T13:00:00+00:00"
+  },
+  "https://developer.nvidia.com/blog/nvidia-avo-reaches-100-on-arc-agi-3-demonstrating-a-frontier-level-general-purpose-architecture-for-long-horizon-autonomous-agents": {
+    "title": "NVIDIA AVO Reaches 100% on ARC-AGI-3, Demonstrating a Frontier-Level General-Purpose Architecture for Long-Horizon Autonomous Agents",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-08-21T15:20:46.351690+00:00",
+    "published": "2026-08-21T13:00:00+00:00"
+  },
+  "https://martin.kleppmann.com/2007/07/19/yes-no-cancel-causes-aspirin-sales-to-soar.html": {
+    "title": "Yes/No/Cancel causes Aspirin sales to soar",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-21T15:20:46.351690+00:00",
+    "published": "2026-08-21T12:58:46+00:00"
+  },
+  "https://duckdb.org/2026/08/20/duckdb-20-peg-parser": {
+    "title": "DuckDB V2 PEG-based SQL parser",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-21T15:20:46.351690+00:00",
+    "published": "2026-08-21T12:52:25+00:00"
+  },
+  "https://www.futilitycloset.com/2026/08/10/nothing-doing-12": {
+    "title": "Nothing Doing",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-21T15:20:46.351690+00:00",
+    "published": "2026-08-21T12:40:10+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.3-Stack-Randomization": {
+    "title": "Linux 7.3 Cleans Up Stack Randomization, Ensures It Happen As Early As Possible",
+    "source": "Phoronix",
+    "first_seen": "2026-08-21T15:20:46.351690+00:00",
+    "published": "2026-08-21T12:29:09+00:00"
+  },
+  "https://theconsensus.dev/p/2026/08/16/transactions-in-cassandra.html": {
+    "title": "The road to ACID transactions in Cassandra 6",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-21T15:20:46.351690+00:00",
+    "published": "2026-08-21T12:08:19+00:00"
+  },
+  "https://www.phoronix.com/news/Intel-CR-26.31.39395.13": {
+    "title": "Intel Compute Runtime 26.31.39395.13 Continues Prepping For Crescent Island, OpenCL LEO",
+    "source": "Phoronix",
+    "first_seen": "2026-08-21T15:20:46.351690+00:00",
+    "published": "2026-08-21T12:03:07+00:00"
+  },
+  "https://realpython.com/quizzes/python-git-github-intro": {
+    "title": "Quiz: Introduction to Git and GitHub for Python Developers",
+    "source": "Real Python",
+    "first_seen": "2026-08-21T15:20:46.351690+00:00",
+    "published": "2026-08-21T12:00:00+00:00"
+  },
+  "https://realpython.com/podcasts/rpp/308": {
+    "title": "The Real Python Podcast – Episode #308: Navigating Silent Failures in AI: Strategies for Effective Oversight",
+    "source": "Real Python",
+    "first_seen": "2026-08-21T15:20:46.351690+00:00",
+    "published": "2026-08-21T12:00:00+00:00"
+  },
+  "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games": {
+    "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
+    "source": "DeepMind Blog",
+    "first_seen": "2026-08-21T15:20:46.351690+00:00",
+    "published": "2026-08-21T11:59:48+00:00"
+  },
+  "https://thenewstack.io/ai-agents-refactoring-benchmarks": {
+    "title": "Most coding agent benchmarks skip large-scale refactoring. Not this one.",
+    "source": "The New Stack",
+    "first_seen": "2026-08-21T15:20:46.351690+00:00",
+    "published": "2026-08-21T11:54:00+00:00"
+  },
+  "https://cymerys.com/w/im-becoming-ai-blind": {
+    "title": "I'm Becoming AI-Blind",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-21T15:20:46.351690+00:00",
+    "published": "2026-08-21T11:48:05+00:00"
+  },
+  "https://ixuvo.com/blog/tigerbeetle-core-system-architecture-performance-engineering": {
+    "title": "TigerBeetle Core System Architecture: Deconstructing Performance Engineering",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-21T15:20:46.351690+00:00",
+    "published": "2026-08-21T11:43:38+00:00"
+  },
+  "https://github.com/yaroslav/kino": {
+    "title": "Kino: A high-performance Ractor web server for Ruby 4.0",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-21T15:20:46.351690+00:00",
+    "published": "2026-08-21T11:06:25+00:00"
+  },
+  "https://www.cncf.io/blog/2026/08/21/how-to-turn-slow-queries-into-actionable-reliability-metrics-with-opentelemetry": {
+    "title": "How to turn slow queries into actionable reliability metrics with OpenTelemetry",
+    "source": "CNCF Blog",
+    "first_seen": "2026-08-21T15:20:46.351690+00:00",
+    "published": "2026-08-21T11:00:00+00:00"
+  },
+  "https://api-docs.deepseek.com/guides/vision": {
+    "title": "DeepSeek-v4-flash-vision-exp",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-21T15:20:46.351690+00:00",
+    "published": "2026-08-21T10:33:56+00:00"
+  },
+  "https://www.phoronix.com/news/AMD-Solarflare-NIC-CXL-Type-2": {
+    "title": "Linux 7.3 Ready With CXL Type-2 Driver Support For AMD Solarflare NICs",
+    "source": "Phoronix",
+    "first_seen": "2026-08-21T15:20:46.351690+00:00",
+    "published": "2026-08-21T10:33:07+00:00"
+  },
+  "https://www.phoronix.com/news/Linus-Torvalds-Debug-AI": {
+    "title": "Linus Torvalds Endures A Debug Session From Hell, \"Enormously Helped\" By AI",
+    "source": "Phoronix",
+    "first_seen": "2026-08-21T15:20:46.351690+00:00",
+    "published": "2026-08-21T10:19:44+00:00"
+  },
+  "https://aws.amazon.com/blogs/architecture/how-agentflo-built-ai-sales-agents-with-amazon-bedrock-agentcore-part-2": {
+    "title": "How AgentFlo built AI sales agents with Amazon Bedrock AgentCore – Part 2",
+    "source": "AWS Architecture Blog",
+    "first_seen": "2026-08-21T15:20:46.351690+00:00",
+    "published": "2026-08-21T10:01:18+00:00"
+  },
+  "https://www.schneier.com/blog/archives/2026/08/more-incidents-of-ais-going-rogue-in-cybersecurity-challenges.html": {
+    "title": "More Incidents of AIs Going Rogue in Cybersecurity Challenges",
+    "source": "Schneier on Security",
+    "first_seen": "2026-08-21T15:20:46.351690+00:00",
+    "published": "2026-08-21T09:42:34+00:00"
+  },
+  "https://huggingface.co/blog/asr-benchmark-optimization": {
+    "title": "Measuring benchmark optimization in speech recognition",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-08-21T15:20:46.351690+00:00",
+    "published": "2026-08-21T00:00:00+00:00"
+  },
+  "https://blog.rust-lang.org/2026/08/21/enabling-next-solver-on-nightly": {
+    "title": "Enabling the next-generation trait solver on nightly",
+    "source": "Rust Blog",
+    "first_seen": "2026-08-21T15:20:46.351690+00:00",
+    "published": "2026-08-21T00:00:00+00:00"
   }
 }
