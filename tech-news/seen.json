@@ -76208,5 +76208,155 @@
     "source": "Rust Blog",
     "first_seen": "2026-08-20T21:15:54.146965+00:00",
     "published": "2026-08-20T00:00:00+00:00"
+  },
+  "https://github.com/emacs-mirror/emacs/blob/062dcd2aead00c3b47c14ff5b6c40313f7a775f5/etc/HISTORY": {
+    "title": "Emacs 31.1 will release on 8/24",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-21T09:22:53.936666+00:00",
+    "published": "2026-08-21T08:19:48+00:00"
+  },
+  "https://stackoverflow.blog/2026/08/21/get-rid-of-your-captcha-the-future-of-the-web-is-bots": {
+    "title": "Get rid of your CAPTCHA, the future of the web is bots",
+    "source": "Stack Overflow Blog",
+    "first_seen": "2026-08-21T09:22:53.936666+00:00",
+    "published": "2026-08-21T07:40:00+00:00"
+  },
+  "https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates": {
+    "title": "The Lost Treasure of Sid Meier's Pirates",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-21T09:22:53.936666+00:00",
+    "published": "2026-08-21T07:23:27+00:00"
+  },
+  "https://encore.dev/blog/firecracker-apple-silicon": {
+    "title": "We Rebuilt the Linux MicroVM Stack on Apple Silicon",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-21T09:22:53.936666+00:00",
+    "published": "2026-08-21T06:59:40+00:00"
+  },
+  "https://argentic.network": {
+    "title": "Show HN: Argentic – An L402 Lightning toll booth for AI scraping agents",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-21T09:22:53.936666+00:00",
+    "published": "2026-08-21T06:24:16+00:00"
+  },
+  "https://philipdick.com/resources/miscellaneous/the-religious-experience-of-philip-k-dick-by-r-crumb-from-weirdo-17": {
+    "title": "The Religious Experience of Philip K. Dick by R. Crumb (1986)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-21T09:22:53.936666+00:00",
+    "published": "2026-08-21T05:39:39+00:00"
+  },
+  "https://www.xda-developers.com/japan-tried-build-operating-system-entire-world-us-government-intervened": {
+    "title": "Japan tried to build an operating system for the world, the US intervened",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-21T09:22:53.936666+00:00",
+    "published": "2026-08-21T05:31:34+00:00"
+  },
+  "https://github.com/vivekhaldar/seed": {
+    "title": "Seed: Minimal, self-modifying agent harness",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-21T09:22:53.936666+00:00",
+    "published": "2026-08-21T05:20:50+00:00"
+  },
+  "https://investors.micron.com/news/press-release/2026/Micron-Unveils-Micron-Research-Labs-a-U-S--Based-Long-Horizon-Innovation-Hub-to-Shape-the-Future-of-Memory-and-AI/default.aspx": {
+    "title": "Micron announces $10B research hub in Boise",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-21T09:22:53.936666+00:00",
+    "published": "2026-08-21T03:51:58+00:00"
+  },
+  "https://github.com/openai/codex/issues/37674": {
+    "title": "Codex on AWS bedrock bug causing 10x charges",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-21T09:22:53.936666+00:00",
+    "published": "2026-08-21T03:17:43+00:00"
+  },
+  "https://annas-archive.gl/blog/physical-destruction.html": {
+    "title": "AI companies destroy physical books – let's scan rare books before it's too late",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-21T09:22:53.936666+00:00",
+    "published": "2026-08-21T02:37:47+00:00"
+  },
+  "https://www.phoronix.com/news/Intel-Mesa-Nova-Lake-Stable": {
+    "title": "Intel Mesa Linux Drivers Now Treating Nova Lake S / U / H / HX As Stable",
+    "source": "Phoronix",
+    "first_seen": "2026-08-21T09:22:53.936666+00:00",
+    "published": "2026-08-21T00:44:45+00:00"
+  },
+  "https://www.thoughtworks.com/insights/blog/technology-strategy/agents-on-databricks-the-platform-is-ready-your-business-context-is-not": {
+    "title": "Agents on Databricks: The platform is ready, your business context is not",
+    "source": "ThoughtWorks",
+    "first_seen": "2026-08-21T09:22:53.936666+00:00",
+    "published": "2026-08-21T00:00:00+00:00"
+  },
+  "https://engineering.grab.com/jarvis-pro-route-firsr-answer-later": {
+    "title": "Building Jarvis Pro: Route first, answer later",
+    "source": "Grab Tech",
+    "first_seen": "2026-08-21T09:22:53.936666+00:00",
+    "published": "2026-08-21T00:00:00+00:00"
+  },
+  "https://simonwillison.net/2026/Aug/20/chatgpt-search-now-uses-the-siteoperator-at-scale": {
+    "title": "ChatGPT search now uses the site:operator at scale",
+    "source": "Simon Willison",
+    "first_seen": "2026-08-21T09:22:53.936666+00:00",
+    "published": "2026-08-20T23:57:32+00:00"
+  },
+  "https://openrouter.ai/stealth/ox-alpha": {
+    "title": "Ox Alpha",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-21T09:22:53.936666+00:00",
+    "published": "2026-08-20T23:56:35+00:00"
+  },
+  "https://www.databricks.com/blog/inbound-private-link-now-supports-account-level-genie-one-account-console-and-custom-urls": {
+    "title": "Inbound Private Link now supports account-level Genie One, the account console, and custom URLs",
+    "source": "Databricks Blog",
+    "first_seen": "2026-08-21T09:22:53.936666+00:00",
+    "published": "2026-08-20T22:00:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/introducing-cross-region-inference-for-openai-gpt-5-6-models-on-amazon-bedrock": {
+    "title": "Introducing cross-Region inference for OpenAI GPT-5.6 models on Amazon Bedrock",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-08-21T09:22:53.936666+00:00",
+    "published": "2026-08-20T21:46:03+00:00"
+  },
+  "https://thenewstack.io/github-2-9b-monthly-commits": {
+    "title": "GitHub now sees 2.9 billion commits a month — and it can’t keep up",
+    "source": "The New Stack",
+    "first_seen": "2026-08-21T09:22:53.936666+00:00",
+    "published": "2026-08-20T21:37:37+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/build-a-no-code-ml-workflow-with-snowflake-amazon-sagemaker-canvas-and-amazon-quick-part-1-setting-up-your-snowflake-environment": {
+    "title": "Build a no-code ML workflow with Snowflake, Amazon SageMaker Canvas and Amazon Quick – Part 1: Setting up your Snowflake environment",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-08-21T09:22:53.936666+00:00",
+    "published": "2026-08-20T21:23:38+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/build-a-no-code-ml-workflow-with-snowflake-amazon-sagemaker-canvas-and-amazon-quick-part-2-data-preparation-and-model-building-with-amazon-sagemaker-canvas": {
+    "title": "Build a no-code ML workflow with Snowflake, Amazon SageMaker Canvas and Amazon Quick – Part 2: Data preparation and model building with Amazon SageMaker Canvas",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-08-21T09:22:53.936666+00:00",
+    "published": "2026-08-20T21:23:29+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/build-a-no-code-ml-workflow-with-snowflake-amazon-sagemaker-canvas-and-amazon-quick-part-3-visualizing-insights-with-amazon-quick-sight": {
+    "title": "Build a no-code ML workflow with Snowflake, Amazon SageMaker Canvas and Amazon Quick – Part 3: Visualizing insights with Amazon Quick Sight",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-08-21T09:22:53.936666+00:00",
+    "published": "2026-08-20T21:23:23+00:00"
+  },
+  "https://simonwillison.net/2026/Aug/20/bun-webview-json-api": {
+    "title": "A shot-scraper-style JSON API on Bun 1.4's new Bun.WebView",
+    "source": "Simon Willison",
+    "first_seen": "2026-08-21T09:22:53.936666+00:00",
+    "published": "2026-08-20T15:37:00+00:00"
+  },
+  "https://github.com/runvendo/vendo": {
+    "title": "Launch HN: Vendo (YC S26) – Let users build features on top of your product",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-21T09:22:53.936666+00:00",
+    "published": "2026-08-20T15:29:52+00:00"
+  },
+  "https://stackoverflow.blog/2026/08/20/rethinking-judgment-review-andi-gutmans": {
+    "title": "From PHP to team lead of agents: rethinking judgment, review, and data with Google's Andi Gutmans (Part 1)",
+    "source": "Stack Overflow Blog",
+    "first_seen": "2026-08-21T09:22:53.936666+00:00",
+    "published": "2026-08-20T07:40:00+00:00"
   }
 }
