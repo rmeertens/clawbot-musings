@@ -76886,5 +76886,89 @@
     "source": "matklad",
     "first_seen": "2026-08-21T21:12:09.371914+00:00",
     "published": "2026-08-21T00:00:00+00:00"
+  },
+  "https://www.bbc.com/news/articles/cvgvyy4x2mvo": {
+    "title": "Canada will match US tariffs 'dollar for dollar' as trade talks break down",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-22T09:15:45.187268+00:00",
+    "published": "2026-08-22T06:16:57+00:00"
+  },
+  "https://danluu.com/perf-opt": {
+    "title": "There's no reason for software to be slow anymore",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-22T09:15:45.187268+00:00",
+    "published": "2026-08-22T01:06:17+00:00"
+  },
+  "https://grapheneos.social/@GrapheneOS/117136278553665985": {
+    "title": "Initial focus for our partnership with Motorola is a regular non-folding device",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-22T09:15:45.187268+00:00",
+    "published": "2026-08-22T01:02:09+00:00"
+  },
+  "https://www.phoronix.com/news/KDE-Plasma-6.8-More-Performance": {
+    "title": "KDE Plasma 6.8 Lands Some Enticing Performance Optimizations This Week",
+    "source": "Phoronix",
+    "first_seen": "2026-08-22T09:15:45.187268+00:00",
+    "published": "2026-08-22T01:01:36+00:00"
+  },
+  "https://www.phoronix.com/news/OpenZFS-2.4.4-Released": {
+    "title": "OpenZFS 2.4.4 Released With Linux 7.2 Support, Dozens Of Fixes",
+    "source": "Phoronix",
+    "first_seen": "2026-08-22T09:15:45.187268+00:00",
+    "published": "2026-08-22T00:40:33+00:00"
+  },
+  "https://danluu.com/hn-comments": {
+    "title": "HN: The Good Parts (2016)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-22T09:15:45.187268+00:00",
+    "published": "2026-08-21T23:53:03+00:00"
+  },
+  "https://blog.cloudflare.com/bot-preference-sync": {
+    "title": "Say it once: introducing Bot Preference Sync",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-08-22T09:15:45.187268+00:00",
+    "published": "2026-08-21T23:19:57+00:00"
+  },
+  "https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process": {
+    "title": "Three important steps in my maturation process",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-22T09:15:45.187268+00:00",
+    "published": "2026-08-21T22:29:00+00:00"
+  },
+  "https://www.phoronix.com/news/Wine-11.16-Released": {
+    "title": "Wine 11.16 Released With VA-API Hardware Decoding, Better ARM64 Support",
+    "source": "Phoronix",
+    "first_seen": "2026-08-22T09:15:45.187268+00:00",
+    "published": "2026-08-21T22:12:01+00:00"
+  },
+  "https://www.phoronix.com/news/Proton-11.0-2": {
+    "title": "Proton 11.0-2 Enables More Titles With Steam Play / Linux Gaming",
+    "source": "Phoronix",
+    "first_seen": "2026-08-22T09:15:45.187268+00:00",
+    "published": "2026-08-21T21:14:07+00:00"
+  },
+  "https://rust-glancer.github.io/blog/hello-world": {
+    "title": "Rust Glancer: Rust LSP using 100x less RAM",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-22T09:15:45.187268+00:00",
+    "published": "2026-08-21T19:51:54+00:00"
+  },
+  "https://zeux.io/2025/09/30/billions-of-triangles-in-minutes": {
+    "title": "Optimizing meshoptimizer to process billions of triangles in minutes (2025)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-22T09:15:45.187268+00:00",
+    "published": "2026-08-21T17:54:06+00:00"
+  },
+  "https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it": {
+    "title": "OTel isn’t going well",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-22T09:15:45.187268+00:00",
+    "published": "2026-08-21T17:45:41+00:00"
+  },
+  "https://matklad.github.io/2026/08/06/neat-io-threaded.html": {
+    "title": "Zig’s io.threaded is neat",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-22T09:15:45.187268+00:00",
+    "published": "2026-08-21T14:28:15+00:00"
   }
 }
