@@ -76970,5 +76970,137 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-08-22T09:15:45.187268+00:00",
     "published": "2026-08-21T14:28:15+00:00"
+  },
+  "https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs": {
+    "title": "Digging the grave of my job: Hollywood creatives training AI to do their jobs",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-22T15:08:34.348236+00:00",
+    "published": "2026-08-22T14:13:05+00:00"
+  },
+  "https://geometridae.bearblog.dev/a-friendly-introduction-to-racket": {
+    "title": "A Friendly Introduction to Racket",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-22T15:08:34.348236+00:00",
+    "published": "2026-08-22T14:08:19+00:00"
+  },
+  "https://thenewstack.io/securing-autonomous-ai-agents": {
+    "title": "Six identity capabilities for securing autonomous AI agents",
+    "source": "The New Stack",
+    "first_seen": "2026-08-22T15:08:34.348236+00:00",
+    "published": "2026-08-22T14:00:00+00:00"
+  },
+  "https://blog.modelcontextprotocol.io/posts/mcp-roadmap": {
+    "title": "The New MCP Roadmap",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-22T15:08:34.348236+00:00",
+    "published": "2026-08-22T13:31:34+00:00"
+  },
+  "https://decodingvibes.com/blog/a-kantian-critique-of-sorry-by-justin-bieber": {
+    "title": "A Kantian Critique of \"Sorry\" by Justin Bieber",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-22T15:08:34.348236+00:00",
+    "published": "2026-08-22T13:24:06+00:00"
+  },
+  "https://www.phoronix.com/news/NTFS3-Vulnerability-For-Root": {
+    "title": "Specially Crafted NTFS File-System Image Allows Root Access On Linux With NTFS3 Driver",
+    "source": "Phoronix",
+    "first_seen": "2026-08-22T15:08:34.348236+00:00",
+    "published": "2026-08-22T12:42:26+00:00"
+  },
+  "https://www.theguardian.com/technology/2026/aug/22/meta-trial-children-privacy": {
+    "title": "Hook, hold, harvest and hide: Meta's alleged strategy laid out in first week",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-22T15:08:34.348236+00:00",
+    "published": "2026-08-22T12:07:06+00:00"
+  },
+  "https://www.construction-physics.com/p/reading-list-082226": {
+    "title": "Reading List 08/22/26",
+    "source": "Construction Physics",
+    "first_seen": "2026-08-22T15:08:34.348236+00:00",
+    "published": "2026-08-22T12:02:58+00:00"
+  },
+  "https://zaksa.zip/blog/formal-education-is-the-answer": {
+    "title": "A formal degree and algorithmic problem-solving is the answer. Always has been",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-22T15:08:34.348236+00:00",
+    "published": "2026-08-22T11:39:12+00:00"
+  },
+  "https://www.phoronix.com/news/AMD-RDNA-4m-Firmware-Published": {
+    "title": "AMD RDNA 4m Firmware Published For Linux Ahead Of Launch",
+    "source": "Phoronix",
+    "first_seen": "2026-08-22T15:08:34.348236+00:00",
+    "published": "2026-08-22T11:08:14+00:00"
+  },
+  "https://www.phoronix.com/news/NVK-Vulkan-Video-Mesa-26.3": {
+    "title": "NVK Vulkan Video Merged For Mesa 26.3",
+    "source": "Phoronix",
+    "first_seen": "2026-08-22T15:08:34.348236+00:00",
+    "published": "2026-08-22T10:55:00+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.3-sched-ext": {
+    "title": "Sched_ext's Sub-Scheduler Support Now \"Feature Complete\" With Linux 7.3",
+    "source": "Phoronix",
+    "first_seen": "2026-08-22T15:08:34.348236+00:00",
+    "published": "2026-08-22T10:43:51+00:00"
+  },
+  "https://www.pm.gc.ca/en/news/statements/2026/08/21/statement-prime-minister-carney-canada-us-trade-negotiations": {
+    "title": "Canada suspends trade negotiations with USA and match tariffs dollar for dollar",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-22T15:08:34.348236+00:00",
+    "published": "2026-08-22T10:26:09+00:00"
+  },
+  "https://www.phoronix.com/news/Red-Hat-Tuned-2.28": {
+    "title": "Red Hat's Tuned 2.28 To Improve Out-Of-The-Box WiFi Power Savings On Fedora",
+    "source": "Phoronix",
+    "first_seen": "2026-08-22T15:08:34.348236+00:00",
+    "published": "2026-08-22T10:18:39+00:00"
+  },
+  "https://www.phoronix.com/news/Etnaviv-YOLOX": {
+    "title": "Open-Source Etnaviv Driver Now Able To Run YOLOX",
+    "source": "Phoronix",
+    "first_seen": "2026-08-22T15:08:34.348236+00:00",
+    "published": "2026-08-22T10:06:04+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.3-x86-mm-Latency": {
+    "title": "Linux 7.3 x86/mm Lands Patches To Greatly Improve Latency-Sensitive Workloads",
+    "source": "Phoronix",
+    "first_seen": "2026-08-22T15:08:34.348236+00:00",
+    "published": "2026-08-22T09:57:36+00:00"
+  },
+  "https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi": {
+    "title": "Z80 – The 1970s Microprocessor Still Alive (2021)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-22T15:08:34.348236+00:00",
+    "published": "2026-08-22T09:49:57+00:00"
+  },
+  "https://munderdiffl.in": {
+    "title": "Munder Difflin – Agent harness to run an office of your clones",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-22T15:08:34.348236+00:00",
+    "published": "2026-08-22T09:49:14+00:00"
+  },
+  "https://nostarch.com/embedded-ai": {
+    "title": "Embedded AI",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-22T15:08:34.348236+00:00",
+    "published": "2026-08-22T09:07:26+00:00"
+  },
+  "https://worksinprogress.co/issue/how-thailand-resisted-colonization": {
+    "title": "How Thailand Resisted Colonization",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-22T15:08:34.348236+00:00",
+    "published": "2026-08-21T18:28:42+00:00"
+  },
+  "https://interconnected.org/home/2026/08/21/galactic": {
+    "title": "Galactic Compass 2: now with new augmented reality mode",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-22T15:08:34.348236+00:00",
+    "published": "2026-08-21T17:30:38+00:00"
+  },
+  "https://static.laszlokorte.de/rotor-reflect": {
+    "title": "Show HN: Rotation via Double Reflection",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-22T15:08:34.348236+00:00",
+    "published": "2026-08-21T17:18:06+00:00"
   }
 }
