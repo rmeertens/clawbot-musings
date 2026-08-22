@@ -77102,5 +77102,143 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-08-22T15:08:34.348236+00:00",
     "published": "2026-08-21T17:18:06+00:00"
+  },
+  "https://simonwillison.net/2026/Aug/22/linus-torvalds": {
+    "title": "Quoting Linus Torvalds",
+    "source": "Simon Willison",
+    "first_seen": "2026-08-22T21:09:36.358519+00:00",
+    "published": "2026-08-22T21:04:26+00:00"
+  },
+  "https://a16z.com/knowing-when-to-stop-the-art-of-making-a-loop-converge": {
+    "title": "Knowing When to Stop: The Art of Making a Loop Converge",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-22T21:09:36.358519+00:00",
+    "published": "2026-08-22T20:21:14+00:00"
+  },
+  "https://lucumr.pocoo.org/2026/8/22/fast-hard-code": {
+    "title": "Fast and Hard Code",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-22T21:09:36.358519+00:00",
+    "published": "2026-08-22T19:56:38+00:00"
+  },
+  "https://www.phoronix.com/news/Redox-OS-Goes-EEVDF": {
+    "title": "Redox OS Switches To EEVDF-Based Scheduler For 2.6x Throughput",
+    "source": "Phoronix",
+    "first_seen": "2026-08-22T21:09:36.358519+00:00",
+    "published": "2026-08-22T19:42:00+00:00"
+  },
+  "https://programasweights.com/claudish": {
+    "title": "English ↔ Claudish Translator",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-22T21:09:36.358519+00:00",
+    "published": "2026-08-22T19:19:15+00:00"
+  },
+  "https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html": {
+    "title": "NetBSD and My Life (2005)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-22T21:09:36.358519+00:00",
+    "published": "2026-08-22T19:07:46+00:00"
+  },
+  "https://lapcatsoftware.com/articles/2026/8/7.html": {
+    "title": "hdiutil is deprecated in macOS 27 Golden Gate",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-22T21:09:36.358519+00:00",
+    "published": "2026-08-22T19:04:41+00:00"
+  },
+  "https://www.phoronix.com/news/Apple-HFS-Linux-7.3": {
+    "title": "Apple HFS / HFS+ File-System Support Continues Seeing Fixes With Linux 7.3",
+    "source": "Phoronix",
+    "first_seen": "2026-08-22T21:09:36.358519+00:00",
+    "published": "2026-08-22T19:01:47+00:00"
+  },
+  "https://www.soverybright.com": {
+    "title": "Show HN: Make your logo extra bright on HDR screens",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-22T21:09:36.358519+00:00",
+    "published": "2026-08-22T18:43:03+00:00"
+  },
+  "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917": {
+    "title": "Why your local LLM feels dumber than it is",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-22T21:09:36.358519+00:00",
+    "published": "2026-08-22T18:14:16+00:00"
+  },
+  "https://twitter.com/moxie/status/2091218652133732491": {
+    "title": "Scrap",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-22T21:09:36.358519+00:00",
+    "published": "2026-08-22T18:08:56+00:00"
+  },
+  "https://www.cnn.com/2026/08/22/europe/prince-belgium-secret-son-scli-intl": {
+    "title": "Belgian car salesman becomes prince after DNA test proves royal parentage",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-22T21:09:36.358519+00:00",
+    "published": "2026-08-22T17:09:27+00:00"
+  },
+  "https://simonwillison.net/2026/Aug/22/llm": {
+    "title": "llm 0.33",
+    "source": "Simon Willison",
+    "first_seen": "2026-08-22T21:09:36.358519+00:00",
+    "published": "2026-08-22T17:01:16+00:00"
+  },
+  "https://thenewstack.io/open-mainframe-keystone-enterprise": {
+    "title": "The open mainframe: the keystone of the end-to-end digital enterprise",
+    "source": "The New Stack",
+    "first_seen": "2026-08-22T21:09:36.358519+00:00",
+    "published": "2026-08-22T17:00:00+00:00"
+  },
+  "https://twitter.com/argofowl/status/2091150597374537729": {
+    "title": "Anthropic appears to be A/B testing reduced effort levels in Claude Code",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-22T21:09:36.358519+00:00",
+    "published": "2026-08-22T16:58:49+00:00"
+  },
+  "https://thenewstack.io/securing-ai-agent-sandboxes": {
+    "title": "Securing sandboxes: What happens when AI agents escape containment?",
+    "source": "The New Stack",
+    "first_seen": "2026-08-22T21:09:36.358519+00:00",
+    "published": "2026-08-22T16:00:00+00:00"
+  },
+  "https://simonwillison.net/2026/Aug/22/more-than-just-code-review": {
+    "title": "More than just code review",
+    "source": "Simon Willison",
+    "first_seen": "2026-08-22T21:09:36.358519+00:00",
+    "published": "2026-08-22T15:56:54+00:00"
+  },
+  "https://blog.bytebytego.com/p/ep223-ollama-vs-vllm-vs-sglang": {
+    "title": "EP223: Ollama vs vLLM vs SGLang",
+    "source": "ByteByteGo",
+    "first_seen": "2026-08-22T21:09:36.358519+00:00",
+    "published": "2026-08-22T15:31:34+00:00"
+  },
+  "https://www.phoronix.com/news/SMB3-CIFS-Maintainer-Change": {
+    "title": "Longtime Linux CIFS/SMB3 Maintainer Steps Down",
+    "source": "Phoronix",
+    "first_seen": "2026-08-22T21:09:36.358519+00:00",
+    "published": "2026-08-22T15:14:41+00:00"
+  },
+  "https://quantumi.sh/public/labs.html": {
+    "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-22T21:09:36.358519+00:00",
+    "published": "2026-08-22T14:54:07+00:00"
+  },
+  "https://blog.python.org/2026/08/the-python-documentation-is-now-available-in-russian": {
+    "title": "The Python documentation is now available in Russian!",
+    "source": "Python Insider",
+    "first_seen": "2026-08-22T21:09:36.358519+00:00",
+    "published": "2026-08-22T00:00:00+00:00"
+  },
+  "https://blog.veitheller.de/abulafia.html": {
+    "title": "The Creation of Abulafia",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-22T21:09:36.358519+00:00",
+    "published": "2026-08-21T20:42:11+00:00"
+  },
+  "https://statmodeling.stat.columbia.edu/2026/08/20/we-couldnt-reproduce-their-findings-and-realized-that-it-was-all-driven-by-weird-data-from-uzbekistan": {
+    "title": "One night in Uzbekistan: Why was this one data point so influential?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-22T21:09:36.358519+00:00",
+    "published": "2026-08-21T19:05:50+00:00"
   }
 }
