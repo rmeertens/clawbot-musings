@@ -77438,5 +77438,35 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-08-23T15:09:46.212104+00:00",
     "published": "2026-08-22T18:38:41+00:00"
+  },
+  "https://simonwillison.net/2026/Aug/23/anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-t": {
+    "title": "Anthropic’s best AI model struggles to attract users as cheaper tools thrive",
+    "source": "Simon Willison",
+    "first_seen": "2026-08-23T21:09:41.636094+00:00",
+    "published": "2026-08-23T20:24:52+00:00"
+  },
+  "https://simonwillison.net/2026/Aug/23/drew-breunig": {
+    "title": "Quoting Drew Breunig",
+    "source": "Simon Willison",
+    "first_seen": "2026-08-23T21:09:41.636094+00:00",
+    "published": "2026-08-23T19:55:30+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.3-EFI": {
+    "title": "Linux 7.3 Better Protects Against Buggy EFI Firmware Taking Down The Rest Of User-Space",
+    "source": "Phoronix",
+    "first_seen": "2026-08-23T21:09:41.636094+00:00",
+    "published": "2026-08-23T19:05:02+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.3-DRM": {
+    "title": "Linux 7.3 Delivers Graphics Driver Improvements From Old GPUs To Next-Gen Hardware",
+    "source": "Phoronix",
+    "first_seen": "2026-08-23T21:09:41.636094+00:00",
+    "published": "2026-08-23T18:10:13+00:00"
+  },
+  "https://thenewstack.io/real-time-ai-scale": {
+    "title": "Why real-time AI at scale is so hard",
+    "source": "The New Stack",
+    "first_seen": "2026-08-23T21:09:41.636094+00:00",
+    "published": "2026-08-23T16:00:00+00:00"
   }
 }
