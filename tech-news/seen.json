@@ -77318,5 +77318,125 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-08-23T09:15:27.983455+00:00",
     "published": "2026-08-22T18:08:25+00:00"
+  },
+  "https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras": {
+    "title": "Slovakia finds Russian backdoor in traffic speed cameras",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-23T15:09:46.212104+00:00",
+    "published": "2026-08-23T14:38:25+00:00"
+  },
+  "https://zedshaw.com/blog/2020-10-07-authoritarianism-of-code": {
+    "title": "Authoritarianism of Code",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-23T15:09:46.212104+00:00",
+    "published": "2026-08-23T14:36:38+00:00"
+  },
+  "https://earendil.com/posts/what-is-a-harness": {
+    "title": "What Is a Harness?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-23T15:09:46.212104+00:00",
+    "published": "2026-08-23T14:24:21+00:00"
+  },
+  "https://thenewstack.io/ai-coding-agent-security": {
+    "title": "One pull to wipe them all",
+    "source": "The New Stack",
+    "first_seen": "2026-08-23T15:09:46.212104+00:00",
+    "published": "2026-08-23T14:00:00+00:00"
+  },
+  "https://shkspr.mobi/blog/2026/08/death-to-px-long-live-ch": {
+    "title": "Death to px, long live ch",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-23T15:09:46.212104+00:00",
+    "published": "2026-08-23T13:56:27+00:00"
+  },
+  "https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes": {
+    "title": "My favorite nonfiction books about cults, scams, and schemes",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-23T15:09:46.212104+00:00",
+    "published": "2026-08-23T13:51:10+00:00"
+  },
+  "https://lwn.net/Articles/1090099": {
+    "title": "Sunday's stable kernel set",
+    "source": "LWN.net",
+    "first_seen": "2026-08-23T15:09:46.212104+00:00",
+    "published": "2026-08-23T13:46:14+00:00"
+  },
+  "https://lwn.net/Articles/1090098": {
+    "title": "Mourning Steve French",
+    "source": "LWN.net",
+    "first_seen": "2026-08-23T15:09:46.212104+00:00",
+    "published": "2026-08-23T13:40:42+00:00"
+  },
+  "https://securelist.com/android-head-unit-malware/121106": {
+    "title": "Malware infects Android-based automotive head unit firmware",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-23T15:09:46.212104+00:00",
+    "published": "2026-08-23T13:05:38+00:00"
+  },
+  "https://www.phoronix.com/news/ReactOS-Job-Objects": {
+    "title": "ReactOS Merges Support For Job Objects As Step To Running Modern Windows Apps",
+    "source": "Phoronix",
+    "first_seen": "2026-08-23T15:09:46.212104+00:00",
+    "published": "2026-08-23T11:41:04+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.3-Preps-Toward-FAMFS": {
+    "title": "Linux 7.3 Makes Preparations Toward Upstreaming FAMFS File-System",
+    "source": "Phoronix",
+    "first_seen": "2026-08-23T15:09:46.212104+00:00",
+    "published": "2026-08-23T11:20:00+00:00"
+  },
+  "https://www.phoronix.com/news/AMD-Zen-5-Mispredict-Cost": {
+    "title": "GCC Patch Adjusting AMD Zen 5 Misprediction Cost Nets 12% Win In Benchmark",
+    "source": "Phoronix",
+    "first_seen": "2026-08-23T15:09:46.212104+00:00",
+    "published": "2026-08-23T10:56:12+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.3-New-Crypto-AES-APIs": {
+    "title": "Linux 7.3 Introduces New AES Encryption APIs - Will Open Up More Performance",
+    "source": "Phoronix",
+    "first_seen": "2026-08-23T15:09:46.212104+00:00",
+    "published": "2026-08-23T10:42:14+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.3-Input": {
+    "title": "Linux 7.3 Input Subsystem Updates Merged With Security Fixes, Other Improvements",
+    "source": "Phoronix",
+    "first_seen": "2026-08-23T15:09:46.212104+00:00",
+    "published": "2026-08-23T10:30:27+00:00"
+  },
+  "https://www.bbc.com/news/articles/cvg92y1wzn8o": {
+    "title": "Sydney Marathon medal mistakenly depicts Munich stadium",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-23T15:09:46.212104+00:00",
+    "published": "2026-08-23T10:14:48+00:00"
+  },
+  "https://www.telegraph.co.uk/news/2026/08/22/iranian-hackers-shut-down-uk-power-plant": {
+    "title": "Iranian hackers shut down UK power plant for 4 days",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-23T15:09:46.212104+00:00",
+    "published": "2026-08-23T10:03:01+00:00"
+  },
+  "https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model": {
+    "title": "I gave Qwen 3.8 27B a reverse-engineering job and it finished in 30 minutes",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-23T15:09:46.212104+00:00",
+    "published": "2026-08-23T10:02:51+00:00"
+  },
+  "https://skylens.yantraai.app": {
+    "title": "Show HN: Live 3D satellite tracker and the declassified Pentagon UFO archive",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-23T15:09:46.212104+00:00",
+    "published": "2026-08-23T09:27:40+00:00"
+  },
+  "https://doi.org/10.1016/S0140-6736(26)00767-1": {
+    "title": "Risk of transmission of amyloid β pathology via transfused blood products",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-23T15:09:46.212104+00:00",
+    "published": "2026-08-23T06:07:06+00:00"
+  },
+  "https://sporks.space/2026/08/19/things-i-want-in-a-modern-relational-query-language": {
+    "title": "Things I want in a modern relational query language",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-23T15:09:46.212104+00:00",
+    "published": "2026-08-22T18:38:41+00:00"
   }
 }
