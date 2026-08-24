@@ -77480,5 +77480,167 @@
     "source": "ThoughtWorks",
     "first_seen": "2026-08-24T09:33:24.020329+00:00",
     "published": "2026-08-24T00:00:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/architecture/how-a-global-payment-processor-preserved-aws-ram-shares-and-lake-formation-permissions-during-an-aws-organizations-migration": {
+    "title": "How a global payment processor preserved AWS RAM shares and Lake Formation permissions during an AWS Organizations migration",
+    "source": "AWS Architecture Blog",
+    "first_seen": "2026-08-24T15:26:31.554661+00:00",
+    "published": "2026-08-24T15:23:21+00:00"
+  },
+  "https://developer.nvidia.com/blog/giga-scale-ai-ethernet-evolution-spectrum-x-ethernet-rewrites-rules": {
+    "title": "Giga-Scale AI and the Ethernet Evolution: How Spectrum-X Ethernet Rewrites the Rules",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-08-24T15:26:31.554661+00:00",
+    "published": "2026-08-24T15:08:39+00:00"
+  },
+  "https://developer.nvidia.com/blog/nvidia-vera-rubin-and-blackwell-set-a-new-standard-for-agentic-ai-performance-per-watt": {
+    "title": "NVIDIA Vera Rubin and Blackwell Set a New Standard for Agentic AI Performance per Watt",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-08-24T15:26:31.554661+00:00",
+    "published": "2026-08-24T15:00:05+00:00"
+  },
+  "https://developer.nvidia.com/blog/solving-agentic-ai-fleet-challenges-with-nvidia-vera-cpu": {
+    "title": "Solving Agentic AI Fleet Challenges with NVIDIA Vera CPU",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-08-24T15:26:31.554661+00:00",
+    "published": "2026-08-24T15:00:00+00:00"
+  },
+  "https://developer.nvidia.com/blog/nvidia-bluefield-4-powers-new-scale-in-network-infrastructure-for-agentic-ai-factories": {
+    "title": "NVIDIA BlueField-4 Powers New Scale-In Network Infrastructure for Agentic AI Factories",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-08-24T15:26:31.554661+00:00",
+    "published": "2026-08-24T15:00:00+00:00"
+  },
+  "https://developer.nvidia.com/blog/how-nvidia-groq-3-lpx-unlocks-ultrafast-interactivity-at-long-context-on-nvidia-vera-rubin": {
+    "title": "How NVIDIA Groq 3 LPX Unlocks Ultrafast Interactivity at Long Context on NVIDIA Vera Rubin",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-08-24T15:26:31.554661+00:00",
+    "published": "2026-08-24T15:00:00+00:00"
+  },
+  "https://lwn.net/Articles/1088305": {
+    "title": "[$] How to be safe from quantum computing",
+    "source": "LWN.net",
+    "first_seen": "2026-08-24T15:26:31.554661+00:00",
+    "published": "2026-08-24T14:57:41+00:00"
+  },
+  "https://tailscale.com/blog/tailscaleup-2026-product-update": {
+    "title": "The TailscaleUp-date",
+    "source": "Tailscale Blog",
+    "first_seen": "2026-08-24T15:26:31.554661+00:00",
+    "published": "2026-08-24T14:30:00+00:00"
+  },
+  "https://stackoverflow.blog/2026/08/24/responsible-ai-adoption-needs-developer-workflow-design": {
+    "title": "Responsible AI adoption needs developer workflow design",
+    "source": "Stack Overflow Blog",
+    "first_seen": "2026-08-24T15:26:31.554661+00:00",
+    "published": "2026-08-24T14:00:00+00:00"
+  },
+  "https://realpython.com/agents-md": {
+    "title": "How to Write an AGENTS.md File for a Python Project",
+    "source": "Real Python",
+    "first_seen": "2026-08-24T15:26:31.554661+00:00",
+    "published": "2026-08-24T14:00:00+00:00"
+  },
+  "https://www.phoronix.com/review/linux-73-early-benchmarks": {
+    "title": "Early Linux 7.3 Kernel Benchmarks Show Some Performance Improvements, Some Regressions",
+    "source": "Phoronix",
+    "first_seen": "2026-08-24T15:26:31.554661+00:00",
+    "published": "2026-08-24T13:38:00+00:00"
+  },
+  "https://lwn.net/Articles/1090308": {
+    "title": "Emacs 31.1 released",
+    "source": "LWN.net",
+    "first_seen": "2026-08-24T15:26:31.554661+00:00",
+    "published": "2026-08-24T13:36:44+00:00"
+  },
+  "https://lwn.net/Articles/1090304": {
+    "title": "Security updates for Monday",
+    "source": "LWN.net",
+    "first_seen": "2026-08-24T15:26:31.554661+00:00",
+    "published": "2026-08-24T13:02:14+00:00"
+  },
+  "https://www.docker.com/blog/minio-end-of-life-how-to-stay-patched-and-audit-ready-with-docker-els": {
+    "title": "MinIO End of Life: How to Stay Patched and Audit-Ready with Docker ELS",
+    "source": "Docker Blog",
+    "first_seen": "2026-08-24T15:26:31.554661+00:00",
+    "published": "2026-08-24T13:00:00+00:00"
+  },
+  "https://thenewstack.io/thomson-reuters-ai-model": {
+    "title": "Thomson Reuters trained its own AI model. Then it kept using Anthropic’s anyway.",
+    "source": "The New Stack",
+    "first_seen": "2026-08-24T15:26:31.554661+00:00",
+    "published": "2026-08-24T13:00:00+00:00"
+  },
+  "https://realpython.com/quizzes/agents-md": {
+    "title": "Quiz: How to Write an AGENTS.md File for a Python Project",
+    "source": "Real Python",
+    "first_seen": "2026-08-24T15:26:31.554661+00:00",
+    "published": "2026-08-24T12:00:00+00:00"
+  },
+  "https://neon.com/blog/wal-s3-lakebase-storage-for-the-era-of-agents": {
+    "title": "WAL + S3: Lakebase storage for the era of agents",
+    "source": "Neon Blog",
+    "first_seen": "2026-08-24T15:26:31.554661+00:00",
+    "published": "2026-08-24T12:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/GNU-Emacs-31.1-Released": {
+    "title": "GNU Emacs 31.1 Released With Mouse Control Enabled By Default, Theme For New Users",
+    "source": "Phoronix",
+    "first_seen": "2026-08-24T15:26:31.554661+00:00",
+    "published": "2026-08-24T11:55:01+00:00"
+  },
+  "https://simonwillison.net/2026/Aug/24/your-executable-is-a-sqlite-database": {
+    "title": "Your executable is a SQLite database",
+    "source": "Simon Willison",
+    "first_seen": "2026-08-24T15:26:31.554661+00:00",
+    "published": "2026-08-24T11:38:15+00:00"
+  },
+  "https://www.cncf.io/blog/2026/08/24/automating-root-cause-analysis-at-scale-multi-signal-correlation-for-cloud-native-incident-response": {
+    "title": "Automating root cause analysis at scale: Multi-signal correlation for cloud native incident response",
+    "source": "CNCF Blog",
+    "first_seen": "2026-08-24T15:26:31.554661+00:00",
+    "published": "2026-08-24T11:00:00+00:00"
+  },
+  "https://www.schneier.com/blog/archives/2026/08/criminal-deception-in-silicon-valley.html": {
+    "title": "Criminal Deception in Silicon Valley",
+    "source": "Schneier on Security",
+    "first_seen": "2026-08-24T15:26:31.554661+00:00",
+    "published": "2026-08-24T10:38:29+00:00"
+  },
+  "https://www.phoronix.com/news/VKD3D-2.1-Released": {
+    "title": "VKD3D 2.1 Released With New Features For Direct3D 12 In Upstream Wine",
+    "source": "Phoronix",
+    "first_seen": "2026-08-24T15:26:31.554661+00:00",
+    "published": "2026-08-24T10:34:10+00:00"
+  },
+  "https://www.phoronix.com/news/DRM-Fabric-Proposal": {
+    "title": "Intel Engineers Propose DRM Fabric For Linux",
+    "source": "Phoronix",
+    "first_seen": "2026-08-24T15:26:31.554661+00:00",
+    "published": "2026-08-24T10:26:22+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.3-RISC-V": {
+    "title": "Linux 7.3 Adds Support For Several Newer RISC-V Extensions",
+    "source": "Phoronix",
+    "first_seen": "2026-08-24T15:26:31.554661+00:00",
+    "published": "2026-08-24T10:12:56+00:00"
+  },
+  "https://stratechery.com/2026/autonomy-and-innovation": {
+    "title": "Autonomy and Innovation",
+    "source": "Stratechery",
+    "first_seen": "2026-08-24T15:26:31.554661+00:00",
+    "published": "2026-08-24T10:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.3-HWMON": {
+    "title": "AMD k10temp Driver Adds EPYC Zen 5 Per-CCD Temperature Monitoring With Linux 7.3",
+    "source": "Phoronix",
+    "first_seen": "2026-08-24T15:26:31.554661+00:00",
+    "published": "2026-08-24T09:56:08+00:00"
+  },
+  "https://planetscale.com/blog/why-another-postgres-sharding-solution": {
+    "title": "Why another Postgres sharding solution?",
+    "source": "PlanetScale Blog",
+    "first_seen": "2026-08-24T15:26:31.554661+00:00",
+    "published": "2026-08-24T00:00:00+00:00"
   }
 }
