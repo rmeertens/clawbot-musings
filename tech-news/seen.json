@@ -78062,5 +78062,293 @@
     "source": "Martin Fowler",
     "first_seen": "2026-08-25T09:22:38.759921+00:00",
     "published": "2026-08-24T15:29:00+00:00"
+  },
+  "https://blog.coredump.cx/p/how-much-of-hn-is-ai": {
+    "title": "How much of HN is AI?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-25T15:31:04.546695+00:00",
+    "published": "2026-08-25T15:23:41+00:00"
+  },
+  "https://newsletter.pragmaticengineer.com/p/why-ramp-built-inspect": {
+    "title": "Why Ramp built its own in-house coding agent, Inspect",
+    "source": "The Pragmatic Engineer",
+    "first_seen": "2026-08-25T15:31:04.546695+00:00",
+    "published": "2026-08-25T15:20:23+00:00"
+  },
+  "https://huggingface.co/blog/ibm-granite/granite-4-2": {
+    "title": "Granite 4.2 LLMs: How They're Built",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-08-25T15:31:04.546695+00:00",
+    "published": "2026-08-25T15:14:14+00:00"
+  },
+  "https://www.historytoday.com/archive/feature/beyond-good-and-evil-nietzsche-and-great-war": {
+    "title": "Beyond Good and Evil: Nietzsche and the Great War",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-25T15:31:04.546695+00:00",
+    "published": "2026-08-25T15:09:20+00:00"
+  },
+  "https://nextjs.org/blog/nextjs-security-release-august-2026-update": {
+    "title": "Update: August Next.js Security Release",
+    "source": "Next.js Blog",
+    "first_seen": "2026-08-25T15:31:04.546695+00:00",
+    "published": "2026-08-25T15:00:00+00:00"
+  },
+  "https://developer.nvidia.com/blog/cuda-python-1-0-stable-apis-one-foundation-full-platform-access": {
+    "title": "CUDA Python 1.0: Stable APIs, One Foundation, Full Platform Access",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-08-25T15:31:04.546695+00:00",
+    "published": "2026-08-25T15:00:00+00:00"
+  },
+  "https://www.apple.com/shop/product/mlh74am/a/polishing-cloth": {
+    "title": "Polishing Cloth",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-25T15:31:04.546695+00:00",
+    "published": "2026-08-25T14:35:20+00:00"
+  },
+  "https://www.macrumors.com/2026/08/25/apple-releases-new-polishing-cloth": {
+    "title": "Apple Releases New Polishing Cloth",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-25T15:31:04.546695+00:00",
+    "published": "2026-08-25T14:30:10+00:00"
+  },
+  "https://e360.yale.edu/digest/bomb-fishing-coral-reefs": {
+    "title": "Bomb Fishing Is Wreaking Havoc on Indonesia's Coral Reefs",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-25T15:31:04.546695+00:00",
+    "published": "2026-08-25T14:29:32+00:00"
+  },
+  "https://www.imkylelambert.com/articles/building-a-backyard-office-the-build-and-cost-breakdown": {
+    "title": "Building a backyard office, the build and cost breakdown",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-25T15:31:04.546695+00:00",
+    "published": "2026-08-25T14:20:36+00:00"
+  },
+  "https://www.phoronix.com/review/linux-73-btrfs": {
+    "title": "Benchmarking Some Incredible Performance Gains With Btrfs On Linux 7.3",
+    "source": "Phoronix",
+    "first_seen": "2026-08-25T15:31:04.546695+00:00",
+    "published": "2026-08-25T14:18:32+00:00"
+  },
+  "https://www.erathos.com/en/blog/mysql-cdc-to-bigquery": {
+    "title": "MySQL CDC to BigQuery: what periodic syncs miss, and how binlog avoids it",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-25T15:31:04.546695+00:00",
+    "published": "2026-08-25T14:18:29+00:00"
+  },
+  "https://lwn.net/Articles/1090376": {
+    "title": "[$] Old-school calendaring at the command line with Remind",
+    "source": "LWN.net",
+    "first_seen": "2026-08-25T15:31:04.546695+00:00",
+    "published": "2026-08-25T14:03:02+00:00"
+  },
+  "https://thenewstack.io/openai-jalapeno-inference-chip": {
+    "title": "OpenAI built a chip in nine months. Then it let AI rewrite the code.",
+    "source": "The New Stack",
+    "first_seen": "2026-08-25T15:31:04.546695+00:00",
+    "published": "2026-08-25T14:00:12+00:00"
+  },
+  "https://thenewstack.io/cli-ide-ai-verification": {
+    "title": "CLI or IDE? Build in verification first",
+    "source": "The New Stack",
+    "first_seen": "2026-08-25T15:31:04.546695+00:00",
+    "published": "2026-08-25T14:00:00+00:00"
+  },
+  "https://lwn.net/Articles/1090527": {
+    "title": "Vanilla OS 3 released",
+    "source": "LWN.net",
+    "first_seen": "2026-08-25T15:31:04.546695+00:00",
+    "published": "2026-08-25T13:54:18+00:00"
+  },
+  "https://www.phoronix.com/news/Apple-M6-M5-Ultra": {
+    "title": "Apple Launches The M6 2nm 12-core CPU, Quad-Die M5 Ultra",
+    "source": "Phoronix",
+    "first_seen": "2026-08-25T15:31:04.546695+00:00",
+    "published": "2026-08-25T13:30:00+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.3-NTFS-Driver-WOF": {
+    "title": "The Modern NTFS Linux Driver Adds Read Support For Windows System Compression (WOF)",
+    "source": "Phoronix",
+    "first_seen": "2026-08-25T15:31:04.546695+00:00",
+    "published": "2026-08-25T13:19:07+00:00"
+  },
+  "https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro": {
+    "title": "Apple's new Mac mini, featuring M6 and M5 Pro",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-25T15:31:04.546695+00:00",
+    "published": "2026-08-25T13:13:00+00:00"
+  },
+  "https://lwn.net/Articles/1090524": {
+    "title": "Security updates for Tuesday",
+    "source": "LWN.net",
+    "first_seen": "2026-08-25T15:31:04.546695+00:00",
+    "published": "2026-08-25T13:12:29+00:00"
+  },
+  "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra": {
+    "title": "Apple Introduces New Mac Studio with M5 Max and M5 Ultra",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-25T15:31:04.546695+00:00",
+    "published": "2026-08-25T13:03:17+00:00"
+  },
+  "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute": {
+    "title": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-25T15:31:04.546695+00:00",
+    "published": "2026-08-25T13:01:22+00:00"
+  },
+  "https://thenewstack.io/motherduck-tower-acquisition-python": {
+    "title": "“You can rent a feature, but you can’t rent a foundation”: why MotherDuck bought the startup already powering its data pipelines",
+    "source": "The New Stack",
+    "first_seen": "2026-08-25T15:31:04.546695+00:00",
+    "published": "2026-08-25T13:00:00+00:00"
+  },
+  "https://thenewstack.io/enterprise-ai-agent-governance": {
+    "title": "AI agents are spreading fast. Their rules are still catching up.",
+    "source": "The New Stack",
+    "first_seen": "2026-08-25T15:31:04.546695+00:00",
+    "published": "2026-08-25T13:00:00+00:00"
+  },
+  "https://www.tigerdata.com/blog/why-we-arent-ready-for-c-3po": {
+    "title": "Why We Aren't Ready for C-3PO",
+    "source": "Timescale Blog",
+    "first_seen": "2026-08-25T15:31:04.546695+00:00",
+    "published": "2026-08-25T12:59:27+00:00"
+  },
+  "https://www.cybernetica.fr/piratage-des-impots-comment-en-est-on-arrive-la": {
+    "title": "France's tax agency got hacked (in French)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-25T15:31:04.546695+00:00",
+    "published": "2026-08-25T12:44:35+00:00"
+  },
+  "https://9to5mac.com/2026/08/24/openai-restores-5-hour-codex-and-work-limits-for-chatgpt-plus-users": {
+    "title": "OpenAI restores 5-hour Codex and Work limits for ChatGPT Plus users",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-25T15:31:04.546695+00:00",
+    "published": "2026-08-25T12:33:00+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.3-Device-Mapper": {
+    "title": "Linux 7.3 Device Mapper Sees Many Fixes, Including Code Cleanups By Claude Opus",
+    "source": "Phoronix",
+    "first_seen": "2026-08-25T15:31:04.546695+00:00",
+    "published": "2026-08-25T12:22:16+00:00"
+  },
+  "https://realpython.com/quizzes/python312-typing": {
+    "title": "Quiz: Python 3.12 Preview: Static Typing Improvements",
+    "source": "Real Python",
+    "first_seen": "2026-08-25T15:31:04.546695+00:00",
+    "published": "2026-08-25T12:00:00+00:00"
+  },
+  "https://realpython.com/quizzes/python-print-course": {
+    "title": "Quiz: The Python print() Function: Go Beyond the Basics",
+    "source": "Real Python",
+    "first_seen": "2026-08-25T15:31:04.546695+00:00",
+    "published": "2026-08-25T12:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/ai-machine-learning/introducing-gemini-enterprise-for-legal": {
+    "title": "Now introducing Gemini Enterprise for Legal",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-08-25T15:31:04.546695+00:00",
+    "published": "2026-08-25T12:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/ai-machine-learning/introducing-gemini-enterprise-for-financial-services": {
+    "title": "Now introducing Gemini Enterprise for Financial Services",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-08-25T15:31:04.546695+00:00",
+    "published": "2026-08-25T12:00:00+00:00"
+  },
+  "https://dontwordle.com": {
+    "title": "Don't Wordle",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-25T15:31:04.546695+00:00",
+    "published": "2026-08-25T11:49:48+00:00"
+  },
+  "https://modelscope.cn/models/Qwen/Qwen3.8-Flash-Next": {
+    "title": "Qwen 3.8-Flash-Next releasing tomorrow (125B a6B)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-25T15:31:04.546695+00:00",
+    "published": "2026-08-25T11:49:43+00:00"
+  },
+  "https://github.com/PlummersSoftwareLLC/HelloAssembly": {
+    "title": "HelloAssembly The smallest possible complete Windows application",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-25T15:31:04.546695+00:00",
+    "published": "2026-08-25T11:40:00+00:00"
+  },
+  "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing": {
+    "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-08-25T15:31:04.546695+00:00",
+    "published": "2026-08-25T11:39:24+00:00"
+  },
+  "https://www.cncf.io/blog/2026/08/25/the-lazy-developers-guide-to-observing-your-own-code": {
+    "title": "The lazy developer’s guide to observing your own code",
+    "source": "CNCF Blog",
+    "first_seen": "2026-08-25T15:31:04.546695+00:00",
+    "published": "2026-08-25T11:34:00+00:00"
+  },
+  "https://www.cncf.io/blog/2026/08/25/stop-trying-to-learn-all-of-kubernetes-at-once": {
+    "title": "Stop trying to learn all of Kubernetes at once",
+    "source": "CNCF Blog",
+    "first_seen": "2026-08-25T15:31:04.546695+00:00",
+    "published": "2026-08-25T11:00:00+00:00"
+  },
+  "https://blog.trailofbits.com/2026/08/25/state-divergence-enables-unauthorized-access": {
+    "title": "State divergence enables unauthorized access",
+    "source": "Trail of Bits",
+    "first_seen": "2026-08-25T15:31:04.546695+00:00",
+    "published": "2026-08-25T11:00:00+00:00"
+  },
+  "https://www.schneier.com/blog/archives/2026/08/black-hat-state-of-security-vendors.html": {
+    "title": "Black Hat State of Security Vendors",
+    "source": "Schneier on Security",
+    "first_seen": "2026-08-25T15:31:04.546695+00:00",
+    "published": "2026-08-25T10:54:50+00:00"
+  },
+  "https://www.phoronix.com/news/Intel-DP-2.1-ALPM-v5": {
+    "title": "DisplayPort 2.1 ALPM Still Being Worked On For Intel Xe3P / Nova Lake",
+    "source": "Phoronix",
+    "first_seen": "2026-08-25T15:31:04.546695+00:00",
+    "published": "2026-08-25T10:25:15+00:00"
+  },
+  "https://www.phoronix.com/news/Plasma-68-Better-Remote-Desktop": {
+    "title": "KDE Remote Desktop Experience Improving For Closing The X11 vs. Wayland Gap",
+    "source": "Phoronix",
+    "first_seen": "2026-08-25T15:31:04.546695+00:00",
+    "published": "2026-08-25T10:00:02+00:00"
+  },
+  "https://stratechery.com/2026/netflix-to-sell-streaming-services-streamers-as-aggregators-revisiting-roku": {
+    "title": "Netflix to Sell Streaming Services?, Streamers as Aggregators, Revisiting Roku",
+    "source": "Stratechery",
+    "first_seen": "2026-08-25T15:31:04.546695+00:00",
+    "published": "2026-08-25T10:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.3-Sound": {
+    "title": "Lots Of New Audio Hardware Support In Linux 7.3",
+    "source": "Phoronix",
+    "first_seen": "2026-08-25T15:31:04.546695+00:00",
+    "published": "2026-08-25T09:51:22+00:00"
+  },
+  "https://openai.com/index/jalapeno-first-results": {
+    "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-08-25T15:31:04.546695+00:00",
+    "published": "2026-08-25T07:00:00+00:00"
+  },
+  "https://dfarq.homeip.net/happy-20th-birthday-to-windows-95": {
+    "title": "Windows 95 released August 24, 1995",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-25T15:31:04.546695+00:00",
+    "published": "2026-08-25T06:56:55+00:00"
+  },
+  "https://www.redpanda.com/blog/migrate-confluent-redpanda-shadowing": {
+    "title": "Push-button migration from Confluent to Redpanda with Shadowing",
+    "source": "Redpanda Blog",
+    "first_seen": "2026-08-25T15:31:04.546695+00:00",
+    "published": "2026-08-25T00:00:00+00:00"
+  },
+  "https://machinelearning.apple.com/research/starflow2-multimodal-generation": {
+    "title": "STARFlow2: Bridging Language Models and Normalizing Flows for Unified Multimodal Generation",
+    "source": "Apple ML Journal",
+    "first_seen": "2026-08-25T15:31:04.546695+00:00",
+    "published": "2026-08-25T00:00:00+00:00"
   }
 }
