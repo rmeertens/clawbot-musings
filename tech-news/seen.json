@@ -78350,5 +78350,323 @@
     "source": "Apple ML Journal",
     "first_seen": "2026-08-25T15:31:04.546695+00:00",
     "published": "2026-08-25T00:00:00+00:00"
+  },
+  "https://developer.nvidia.com/blog/restore-llm-inference-capacity-in-seconds-with-shadow-engine-recovery-in-nvidia-dynamo": {
+    "title": "Restore LLM Inference Capacity in Seconds with Shadow Engine Recovery in NVIDIA Dynamo",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-08-25T21:15:34.455509+00:00",
+    "published": "2026-08-25T20:57:54+00:00"
+  },
+  "https://www.phoronix.com/news/COSMIC-Epoch-1.7": {
+    "title": "COSMIC Epoch 1.7 Released: No Longer Slow Browsing Network Filesystems",
+    "source": "Phoronix",
+    "first_seen": "2026-08-25T21:15:34.455509+00:00",
+    "published": "2026-08-25T20:46:55+00:00"
+  },
+  "https://lwn.net/Articles/1090582": {
+    "title": "mklinux-v7.0-mk2 released",
+    "source": "LWN.net",
+    "first_seen": "2026-08-25T21:15:34.455509+00:00",
+    "published": "2026-08-25T20:34:31+00:00"
+  },
+  "https://www.databricks.com/blog/how-capital-markets-finance-protects-balance-sheet-returns": {
+    "title": "How Capital Markets Finance Protects Balance Sheet Returns",
+    "source": "Databricks Blog",
+    "first_seen": "2026-08-25T21:15:34.455509+00:00",
+    "published": "2026-08-25T20:00:01+00:00"
+  },
+  "https://www.perplexity.ai/hub/blog/introducing-portable-computer-for-local-first-ai": {
+    "title": "Perplexity Portable Computer",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-25T21:15:34.455509+00:00",
+    "published": "2026-08-25T19:41:48+00:00"
+  },
+  "https://www.phoronix.com/news/LLVM-23.1-Released": {
+    "title": "LLVM/Clang 23.1 Released With AMD Zen 6 & NVIDIA Rigel Support, Partial C++26 Support",
+    "source": "Phoronix",
+    "first_seen": "2026-08-25T21:15:34.455509+00:00",
+    "published": "2026-08-25T19:40:00+00:00"
+  },
+  "https://thenewstack.io/shopify-claude-code-agentsmd": {
+    "title": "Shopify’s CEO threatened to ban Claude Code. Anthropic had already closed the feature request.",
+    "source": "The New Stack",
+    "first_seen": "2026-08-25T21:15:34.455509+00:00",
+    "published": "2026-08-25T19:39:17+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/pythonoperator-and-bashoperator-now-available-on-amazon-managed-workflows-for-apache-airflow-amazon-mwaa-serverless": {
+    "title": "PythonOperator and BashOperator Now Available on Amazon Managed Workflows for Apache Airflow (Amazon MWAA) Serverless",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-08-25T21:15:34.455509+00:00",
+    "published": "2026-08-25T19:28:00+00:00"
+  },
+  "https://thenewstack.io/ibm-granite-reasoning-models": {
+    "title": "IBM’s new Granite 4.2 models add reasoning and stay dense",
+    "source": "The New Stack",
+    "first_seen": "2026-08-25T21:15:34.455509+00:00",
+    "published": "2026-08-25T19:13:45+00:00"
+  },
+  "https://research.google/blog/agenthands-generating-interactive-hand-gestures-for-spatially-grounded-agent-conversations-in-xr": {
+    "title": "AgentHands: Generating interactive hand gestures for spatially grounded agent conversations in XR",
+    "source": "Google Research",
+    "first_seen": "2026-08-25T21:15:34.455509+00:00",
+    "published": "2026-08-25T19:10:59+00:00"
+  },
+  "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar": {
+    "title": "FDA authorizes first wearable device that monitors ketone and blood sugar levels",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-25T21:15:34.455509+00:00",
+    "published": "2026-08-25T19:07:01+00:00"
+  },
+  "https://thenewstack.io/agentic-ai-telemetry-costs": {
+    "title": "How telemetry pipelines keep AI agent costs under control",
+    "source": "The New Stack",
+    "first_seen": "2026-08-25T21:15:34.455509+00:00",
+    "published": "2026-08-25T19:01:28+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/agentic-observability-with-amazon-opensearch-service-mcp-apps": {
+    "title": "Agentic observability with Amazon OpenSearch Service MCP Apps",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-08-25T21:15:34.455509+00:00",
+    "published": "2026-08-25T19:00:09+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/how-channel-corporation-modernized-their-architecture-with-amazon-dynamodb-part-3-user-and-badge": {
+    "title": "How Channel Corporation modernized their architecture with Amazon DynamoDB, Part 3: User and Badge",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-08-25T21:15:34.455509+00:00",
+    "published": "2026-08-25T18:39:51+00:00"
+  },
+  "https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-singer-dead": {
+    "title": "Dolly Parton has died",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-25T21:15:34.455509+00:00",
+    "published": "2026-08-25T18:02:22+00:00"
+  },
+  "https://nextjs.org/blog/august-2026-security-release": {
+    "title": "August 2026 Security Release",
+    "source": "Next.js Blog",
+    "first_seen": "2026-08-25T21:15:34.455509+00:00",
+    "published": "2026-08-25T18:00:00+00:00"
+  },
+  "https://groups.google.com/a/mozilla.org/g/dev-platform/c/3YMV4MS34KA?pli=1": {
+    "title": "Firefox 157 will include JPEG XL by default on all platforms",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-25T21:15:34.455509+00:00",
+    "published": "2026-08-25T17:55:23+00:00"
+  },
+  "https://www.phoronix.com/news/Wayland-X11-Performance-PorteuX": {
+    "title": "Wayland Found To Be \"Intrinsically Faster Than X11, But Not Necessarily More Efficient\"",
+    "source": "Phoronix",
+    "first_seen": "2026-08-25T21:15:34.455509+00:00",
+    "published": "2026-08-25T17:37:28+00:00"
+  },
+  "https://grafana.com/blog/the-grafana-ai-sdk-for-go-a-shared-foundation-for-building-ai-applications": {
+    "title": "The Grafana AI SDK for Go: a shared foundation for building AI applications",
+    "source": "Grafana Blog",
+    "first_seen": "2026-08-25T21:15:34.455509+00:00",
+    "published": "2026-08-25T17:33:01+00:00"
+  },
+  "https://www.ycombinator.com/companies/clara-2/jobs/8snci6k-founding-full-stack-growth-engineer": {
+    "title": "Clara (YC P26) is hiring a growth engineer to bring AI doctors to market",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-25T21:15:34.455509+00:00",
+    "published": "2026-08-25T17:28:52+00:00"
+  },
+  "https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month": {
+    "title": "Run OpenBSD on DigitalOcean for $4/month",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-25T21:15:34.455509+00:00",
+    "published": "2026-08-25T17:23:07+00:00"
+  },
+  "https://github.com/leodeim/vpsmon": {
+    "title": "Show HN: Lightweight system monitor for Linux VPS written in Go",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-25T21:15:34.455509+00:00",
+    "published": "2026-08-25T17:13:59+00:00"
+  },
+  "https://github.com/zedeus/nitter/issues/1442": {
+    "title": "Nitter project received cease and desist",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-25T21:15:34.455509+00:00",
+    "published": "2026-08-25T17:08:21+00:00"
+  },
+  "https://arxiv.org/abs/2608.21590": {
+    "title": "Black hole singularity is a surface not a point",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-25T21:15:34.455509+00:00",
+    "published": "2026-08-25T17:02:49+00:00"
+  },
+  "https://medium.com/airbnb-engineering/project-lighthouse-part-3-introducing-project-lighthouse-anonymize-74f8b26653fb?source=rss----53c7c27702d5---4": {
+    "title": "Project Lighthouse — Part 3: Introducing project-lighthouse-anonymize",
+    "source": "Airbnb Engineering",
+    "first_seen": "2026-08-25T21:15:34.455509+00:00",
+    "published": "2026-08-25T17:01:02+00:00"
+  },
+  "https://thenewstack.io/claude-memory-chat-cowork": {
+    "title": "Anthropic gives chat and Cowork one memory",
+    "source": "The New Stack",
+    "first_seen": "2026-08-25T21:15:34.455509+00:00",
+    "published": "2026-08-25T17:00:00+00:00"
+  },
+  "https://www.judegomila.com/posts/riemann-lambda-0.1787854": {
+    "title": "A new ceiling for Λ: the de Bruijn–Newman constant",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-25T21:15:34.455509+00:00",
+    "published": "2026-08-25T16:59:31+00:00"
+  },
+  "https://rorz.io/writing/my-friend-aaron": {
+    "title": "My Friend Aaron",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-25T21:15:34.455509+00:00",
+    "published": "2026-08-25T16:53:33+00:00"
+  },
+  "https://github.com/jeffhajewski/latticedb": {
+    "title": "Show HN: LatticeDB – Like SQLite but for graph databases",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-25T21:15:34.455509+00:00",
+    "published": "2026-08-25T16:52:05+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/enable-cross-cloud-analytics-with-amazon-s3-tables-and-google-bigquery-part-1-iam-based-access-control": {
+    "title": "Enable cross-cloud analytics with Amazon S3 Tables and Google BigQuery, Part 1: IAM-based access control",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-08-25T21:15:34.455509+00:00",
+    "published": "2026-08-25T16:38:49+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/enable-cross-cloud-analytics-with-amazon-s3-tables-and-google-bigquery-part-2-access-control-with-lake-formation": {
+    "title": "Enable cross-cloud analytics with Amazon S3 Tables and Google BigQuery, Part 2: access control with Lake Formation",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-08-25T21:15:34.455509+00:00",
+    "published": "2026-08-25T16:38:46+00:00"
+  },
+  "https://www.spacex.com/sites/starbase-la": {
+    "title": "Starbase, LA",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-25T21:15:34.455509+00:00",
+    "published": "2026-08-25T16:37:52+00:00"
+  },
+  "https://blog.master.dev/tooltips-need-a-delay-and-then-they-need-to-skip-it": {
+    "title": "Tooltips need a delay, and then they need to skip it",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-25T21:15:34.455509+00:00",
+    "published": "2026-08-25T16:35:36+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/governed-reports-with-amazon-quick-desktop-and-amazon-fsx-for-netapp-ontap": {
+    "title": "Governed reports with Amazon Quick Desktop and Amazon FSx for NetApp ONTAP",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-08-25T21:15:34.455509+00:00",
+    "published": "2026-08-25T16:35:01+00:00"
+  },
+  "https://www.kurz.net/posts/fuzzing-gleam-compiler": {
+    "title": "Fuzzing the Gleam Compiler",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-25T21:15:34.455509+00:00",
+    "published": "2026-08-25T16:30:55+00:00"
+  },
+  "https://devblogs.microsoft.com/dotnet/dotnet-conf-2026": {
+    "title": ".NET Conf 2026",
+    "source": "MS .NET Blog",
+    "first_seen": "2026-08-25T21:15:34.455509+00:00",
+    "published": "2026-08-25T16:28:27+00:00"
+  },
+  "https://www.phoronix.com/news/AI-DoS-Attack-Maintainers": {
+    "title": "AI/LLM Usage Becoming A \"Denial of Service Attack\" On Open-Source Project Maintainers",
+    "source": "Phoronix",
+    "first_seen": "2026-08-25T21:15:34.455509+00:00",
+    "published": "2026-08-25T16:20:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/gpu-accelerated-apache-spark-with-amazon-emr-and-nvidia-rtx-pro-4500-on-amazon-ec2-g7-instances-runs-up-to-3-7x-faster": {
+    "title": "GPU-accelerated Apache Spark with Amazon EMR and NVIDIA RTX PRO 4500 on Amazon EC2 G7 instances runs up to 3.7x faster",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-08-25T21:15:34.455509+00:00",
+    "published": "2026-08-25T16:17:45+00:00"
+  },
+  "https://aws.amazon.com/blogs/aws/happy-20th-birthday-amazon-ec2": {
+    "title": "Happy 20th Birthday, Amazon EC2",
+    "source": "AWS Blog",
+    "first_seen": "2026-08-25T21:15:34.455509+00:00",
+    "published": "2026-08-25T16:11:02+00:00"
+  },
+  "https://thenewstack.io/minimize-ai-security-spend": {
+    "title": "Tokenmaxxing is out. How to minimize AI spend without sacrificing security capability.",
+    "source": "The New Stack",
+    "first_seen": "2026-08-25T21:15:34.455509+00:00",
+    "published": "2026-08-25T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/containers-kubernetes/gvisor-sandboxes-for-ray-clusters-on-gke": {
+    "title": "Bringing gVisor sandboxes to distributed Ray clusters",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-08-25T21:15:34.455509+00:00",
+    "published": "2026-08-25T16:00:00+00:00"
+  },
+  "https://blog.google/products-and-platforms/products/search/home-decor-tips": {
+    "title": "5 ways to upgrade your home decor with Google Search",
+    "source": "Google AI Blog",
+    "first_seen": "2026-08-25T21:15:34.455509+00:00",
+    "published": "2026-08-25T16:00:00+00:00"
+  },
+  "https://thenewstack.io/perplexity-portable-computer-nvidia": {
+    "title": "Perplexity’s Computer agent can now run locally — if you can afford it",
+    "source": "The New Stack",
+    "first_seen": "2026-08-25T21:15:34.455509+00:00",
+    "published": "2026-08-25T15:34:14+00:00"
+  },
+  "https://blog.bytebytego.com/p/how-to-steal-an-ai-models-private": {
+    "title": "How to Steal an AI Model’s Private Thoughts",
+    "source": "ByteByteGo",
+    "first_seen": "2026-08-25T21:15:34.455509+00:00",
+    "published": "2026-08-25T15:31:09+00:00"
+  },
+  "https://dl.acm.org/doi/pdf/10.1145/3820012": {
+    "title": "Warnock: Harnessing GPU geometry amplification for vector graphics",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-25T21:15:34.455509+00:00",
+    "published": "2026-08-25T15:26:45+00:00"
+  },
+  "https://github.com/ThinkOffApp/CarWatch": {
+    "title": "Show HN: I made a Raspberry with Qwen my local car AI",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-25T21:15:34.455509+00:00",
+    "published": "2026-08-25T15:20:20+00:00"
+  },
+  "https://www.ctgt.ai/research/behaviorally-fingerprinting-ox-alphas-provenance": {
+    "title": "Behaviorally fingerprinting Ox Alpha's provenance",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-25T21:15:34.455509+00:00",
+    "published": "2026-08-25T15:18:22+00:00"
+  },
+  "https://www.databricks.com/blog/modernizing-sql-etl-lakehouse-declarative-patterns": {
+    "title": "Modernizing SQL ETL in Lakehouse with Declarative Patterns",
+    "source": "Databricks Blog",
+    "first_seen": "2026-08-25T21:15:34.455509+00:00",
+    "published": "2026-08-25T15:00:00+00:00"
+  },
+  "https://realpython.com/courses/python-print": {
+    "title": "The Python print() Function: Go Beyond the Basics",
+    "source": "Real Python",
+    "first_seen": "2026-08-25T21:15:34.455509+00:00",
+    "published": "2026-08-25T14:00:00+00:00"
+  },
+  "https://openai.com/index/the-full-stack-behind-abundant-intelligence": {
+    "title": "The full stack behind abundant intelligence",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-08-25T21:15:34.455509+00:00",
+    "published": "2026-08-25T07:05:00+00:00"
+  },
+  "https://www.thoughtworks.com/insights/blog/careers-at-thoughtworks/getting-to-know-the-stages-of-the-interview-process": {
+    "title": "Getting to know the stages of the interview process at Thoughtworks",
+    "source": "ThoughtWorks",
+    "first_seen": "2026-08-25T21:15:34.455509+00:00",
+    "published": "2026-08-25T00:00:00+00:00"
+  },
+  "https://planetscale.com/blog/dealing-with-large-tables-in-postgres": {
+    "title": "Problems with large tables in Postgres",
+    "source": "PlanetScale Blog",
+    "first_seen": "2026-08-25T21:15:34.455509+00:00",
+    "published": "2026-08-25T00:00:00+00:00"
+  },
+  "https://openai.com/index/introducing-admin-plugin": {
+    "title": "Introducing the Admin plugin for ChatGPT Work and Codex",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-08-25T21:15:34.455509+00:00",
+    "published": "2026-08-25T00:00:00+00:00"
   }
 }
