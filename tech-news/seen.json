@@ -78812,5 +78812,371 @@
     "source": "Databricks Blog",
     "first_seen": "2026-08-26T09:28:23.185179+00:00",
     "published": "2026-08-25T07:37:09+00:00"
+  },
+  "https://tailscale.com/blog/aperture-ga": {
+    "title": "Aperture GA: Building a home(lab) for agentic AI",
+    "source": "Tailscale Blog",
+    "first_seen": "2026-08-26T16:07:54.669867+00:00",
+    "published": "2026-08-26T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/networking/uber-de-risks-hybrid-ai-with-cloud-interconnect": {
+    "title": "How Uber improves network reliability while unblocking cloud migration",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-08-26T16:07:54.669867+00:00",
+    "published": "2026-08-26T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/networking/introducing-google-cloud-fault-injection-testing-in-preview": {
+    "title": "Simplify your resilience testing strategy with Google Cloud Fault Injection Testing",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-08-26T16:07:54.669867+00:00",
+    "published": "2026-08-26T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/data-analytics/scale-okf-bundles-across-an-organization-with-knowledge-catalog": {
+    "title": "Using OKF with Knowledge Catalog to serve context for agents",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-08-26T16:07:54.669867+00:00",
+    "published": "2026-08-26T16:00:00+00:00"
+  },
+  "https://newsletter.pragmaticengineer.com/p/why-performant-code-matters-but-gets": {
+    "title": "Why performant code matters (but gets widely ignored), with Casey Muratori",
+    "source": "The Pragmatic Engineer",
+    "first_seen": "2026-08-26T16:07:54.669867+00:00",
+    "published": "2026-08-26T15:59:59+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/amazon-msk-service-101-how-many-partitions-does-an-amazon-msk-topic-need": {
+    "title": "Amazon MSK Service 101: How many partitions does an Amazon MSK topic need?",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-08-26T16:07:54.669867+00:00",
+    "published": "2026-08-26T15:56:42+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/connect-amazon-bedrock-agentcore-to-cross-account-knowledge-bases": {
+    "title": "Connect Amazon Bedrock AgentCore to cross-account knowledge bases",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-08-26T16:07:54.669867+00:00",
+    "published": "2026-08-26T15:48:10+00:00"
+  },
+  "https://www.phoronix.com/news/Haiku-R1-Beta-6": {
+    "title": "Haiku R1 Beta 6 Released After Two Years, BeOS-Inspired Project Turns 25 Next Week",
+    "source": "Phoronix",
+    "first_seen": "2026-08-26T16:07:54.669867+00:00",
+    "published": "2026-08-26T15:40:10+00:00"
+  },
+  "https://blog.bytebytego.com/p/how-to-make-llms-3x-faster": {
+    "title": "How to Make LLMs 3X Faster",
+    "source": "ByteByteGo",
+    "first_seen": "2026-08-26T16:07:54.669867+00:00",
+    "published": "2026-08-26T15:30:34+00:00"
+  },
+  "https://www.ssp.sh/brain/using-obsidian-with-ai": {
+    "title": "It's so hard to finish an idea that is not yours (and suggested by AI)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-26T16:07:54.669867+00:00",
+    "published": "2026-08-26T15:30:05+00:00"
+  },
+  "https://lwn.net/Articles/1089390": {
+    "title": "[$] An ongoing 3D-printer AGPL violation",
+    "source": "LWN.net",
+    "first_seen": "2026-08-26T16:07:54.669867+00:00",
+    "published": "2026-08-26T15:29:55+00:00"
+  },
+  "https://www.githubstatus.com/incidents/hcbtzksccj2f": {
+    "title": "Disruption with Some GitHub Services",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-26T16:07:54.669867+00:00",
+    "published": "2026-08-26T15:19:40+00:00"
+  },
+  "https://devblogs.microsoft.com/devops/copilot-code-reviews-for-azure-repos-public-preview": {
+    "title": "Copilot Code Reviews for Azure Repos (public preview)",
+    "source": "MS DevOps Blog",
+    "first_seen": "2026-08-26T16:07:54.669867+00:00",
+    "published": "2026-08-26T15:17:16+00:00"
+  },
+  "https://github.com/SWUFE-DB-Group/TexLite": {
+    "title": "Show HN: TexLite – A lightweight self-hosted LaTeX workspace",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-26T16:07:54.669867+00:00",
+    "published": "2026-08-26T15:07:44+00:00"
+  },
+  "https://www.nebulasans.com": {
+    "title": "Nebula Sans",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-26T16:07:54.669867+00:00",
+    "published": "2026-08-26T15:03:52+00:00"
+  },
+  "https://sreenathmenon.com/blog/2026-08-04-webmcp-teaching-websites-to-talk-to-ai-agents": {
+    "title": "WebMCP: Teaching Your Website to Talk to AI Agents",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-26T16:07:54.669867+00:00",
+    "published": "2026-08-26T15:02:15+00:00"
+  },
+  "https://github.com/AurionMail/docs": {
+    "title": "AurionMail: E2EE suite (CryptPad/Stalwart) with single-password UX",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-26T16:07:54.669867+00:00",
+    "published": "2026-08-26T15:01:11+00:00"
+  },
+  "https://artificialanalysis.ai/models/glm-5-3-flash": {
+    "title": "GLM-5.3-Flash Intelligence, Performance and Price Analysis",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-26T16:07:54.669867+00:00",
+    "published": "2026-08-26T14:58:54+00:00"
+  },
+  "https://www.phoronix.com/news/LLVM-fenable-readonly-thp": {
+    "title": "AMD Proposes New LLVM iTHP Option For Squeezing More Performance",
+    "source": "Phoronix",
+    "first_seen": "2026-08-26T16:07:54.669867+00:00",
+    "published": "2026-08-26T14:49:36+00:00"
+  },
+  "https://praveshkoirala.com/2026/08/26/you-could-have-invented-pagerank": {
+    "title": "You could have invented PageRank",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-26T16:07:54.669867+00:00",
+    "published": "2026-08-26T14:29:05+00:00"
+  },
+  "https://www6.slac.stanford.edu/public-tours": {
+    "title": "Take a Tour of SLAC",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-26T16:07:54.669867+00:00",
+    "published": "2026-08-26T14:21:56+00:00"
+  },
+  "https://farmaction.us/taylorfarmsreport": {
+    "title": "Taylor Farms: How One Company's Reach Became a National Risk",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-26T16:07:54.669867+00:00",
+    "published": "2026-08-26T14:21:44+00:00"
+  },
+  "https://hnstats.com": {
+    "title": "Show HN: How much of Hacker News is AI?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-26T16:07:54.669867+00:00",
+    "published": "2026-08-26T14:16:05+00:00"
+  },
+  "https://www.phoronix.com/news/Fedora-Tuned-PPD-Perf-Fix": {
+    "title": "Fedora + Tuned-PPD Performance Regression Should Be Fixed With New Linux Kernel",
+    "source": "Phoronix",
+    "first_seen": "2026-08-26T16:07:54.669867+00:00",
+    "published": "2026-08-26T14:13:00+00:00"
+  },
+  "https://twitterwebviewer.com": {
+    "title": "Twitter Viewer – View Twitter Without Account",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-26T16:07:54.669867+00:00",
+    "published": "2026-08-26T14:11:39+00:00"
+  },
+  "https://z.ai/blog/glm-5.3-flash": {
+    "title": "GLM-5.3-Flash",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-26T16:07:54.669867+00:00",
+    "published": "2026-08-26T14:08:50+00:00"
+  },
+  "https://www.bookandsword.com/2026/08/25/a-citation-to-asimov": {
+    "title": "A Citation to Asimov",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-26T16:07:54.669867+00:00",
+    "published": "2026-08-26T14:06:16+00:00"
+  },
+  "https://github.com/qisutu/qisutu": {
+    "title": "How HN: Qisutu – an open-source, self-hosted ticketing and service desk",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-26T16:07:54.669867+00:00",
+    "published": "2026-08-26T14:05:31+00:00"
+  },
+  "https://medium.com/pinterest-engineering/scaling-conditional-learned-retrieval-for-pinterest-home-feed-ecfba7e5a426?source=rss----4c5a5f6279b6---4": {
+    "title": "Scaling Conditional Learned Retrieval for Pinterest Home Feed",
+    "source": "Pinterest Engineering",
+    "first_seen": "2026-08-26T16:07:54.669867+00:00",
+    "published": "2026-08-26T14:01:05+00:00"
+  },
+  "https://www.allthingsdistributed.com/2026/08/duckdb-and-the-changing-physics-of-analytics.html?utm_campaign=inbound&utm_source=rss": {
+    "title": "DuckDB and the changing physics of analytics",
+    "source": "All Things Distributed",
+    "first_seen": "2026-08-26T16:07:54.669867+00:00",
+    "published": "2026-08-26T14:00:00+00:00"
+  },
+  "https://realpython.com/python315-sampling-profiler": {
+    "title": "Python 3.15 Preview: Sampling Profiler",
+    "source": "Real Python",
+    "first_seen": "2026-08-26T16:07:54.669867+00:00",
+    "published": "2026-08-26T14:00:00+00:00"
+  },
+  "https://lwn.net/Articles/1090741": {
+    "title": "Armbian 26.8 released",
+    "source": "LWN.net",
+    "first_seen": "2026-08-26T16:07:54.669867+00:00",
+    "published": "2026-08-26T13:54:16+00:00"
+  },
+  "https://cacm.acm.org/opinion/ai-is-a-harsh-mistress-on-anima-machina-herd-acceptance-and-the-politics-of-conscious-machines": {
+    "title": "AI Is a Harsh Mistress",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-26T16:07:54.669867+00:00",
+    "published": "2026-08-26T13:45:21+00:00"
+  },
+  "https://thereader.mitpress.mit.edu/the-man-who-saw-humanity-from-two-billion-years-away": {
+    "title": "A Man Who Saw Humanity from Two Billion Years Away",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-26T16:07:54.669867+00:00",
+    "published": "2026-08-26T13:34:39+00:00"
+  },
+  "https://cartefibre.arcep.fr": {
+    "title": "France reaches 94.9% fiber coverage in 2026",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-26T16:07:54.669867+00:00",
+    "published": "2026-08-26T13:32:35+00:00"
+  },
+  "https://cloud.google.com/blog/topics/ai-infrastructure/best-practices-for-dynamic-capacity-management": {
+    "title": "Infrastructure for the AI era: Dynamic capacity management for agents",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-08-26T16:07:54.669867+00:00",
+    "published": "2026-08-26T13:30:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/ai-machine-learning/flexible-billing-and-cost-controls-for-agents-on-google-cloud": {
+    "title": "FinOps for the AI era: New flexible billing and cost controls for agents",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-08-26T16:07:54.669867+00:00",
+    "published": "2026-08-26T13:30:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/aws-and-ducklabs-building-the-future-of-analytics-together": {
+    "title": "AWS and DuckLabs: Building the future of analytics together",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-08-26T16:07:54.669867+00:00",
+    "published": "2026-08-26T13:28:34+00:00"
+  },
+  "https://www.thehistoryblog.com/archives/76809": {
+    "title": "11,000-year-old sculpture of man riding a leopard found in Turkey",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-26T16:07:54.669867+00:00",
+    "published": "2026-08-26T13:20:40+00:00"
+  },
+  "https://lwn.net/Articles/1090732": {
+    "title": "Security updates for Wednesday",
+    "source": "LWN.net",
+    "first_seen": "2026-08-26T16:07:54.669867+00:00",
+    "published": "2026-08-26T13:16:48+00:00"
+  },
+  "https://thenewstack.io/agent-traces-application-data": {
+    "title": "When AI agent traces become application data",
+    "source": "The New Stack",
+    "first_seen": "2026-08-26T16:07:54.669867+00:00",
+    "published": "2026-08-26T13:00:00+00:00"
+  },
+  "https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws": {
+    "title": "AWS Acquires DuckDB",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-26T16:07:54.669867+00:00",
+    "published": "2026-08-26T12:59:26+00:00"
+  },
+  "https://www.phoronix.com/news/Intel-BFF-Driver-Stuck-Bits": {
+    "title": "Intel Introduces New \"BFF\" Linux Driver To Deal With Aging Silicon & Stuck Bits",
+    "source": "Phoronix",
+    "first_seen": "2026-08-26T16:07:54.669867+00:00",
+    "published": "2026-08-26T12:56:10+00:00"
+  },
+  "https://lwn.net/Articles/1090606": {
+    "title": "LibreOffice 26.8 released",
+    "source": "LWN.net",
+    "first_seen": "2026-08-26T16:07:54.669867+00:00",
+    "published": "2026-08-26T12:50:59+00:00"
+  },
+  "https://www.phoronix.com/news/Armbian-26.8-Released": {
+    "title": "Armbian 26.8 Released With Installer Rewrite, UEFI ISO Images",
+    "source": "Phoronix",
+    "first_seen": "2026-08-26T16:07:54.669867+00:00",
+    "published": "2026-08-26T12:41:00+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.3-FUSE": {
+    "title": "Linux 7.3 FUSE Delivering Nice Performance Improvements",
+    "source": "Phoronix",
+    "first_seen": "2026-08-26T16:07:54.669867+00:00",
+    "published": "2026-08-26T12:31:00+00:00"
+  },
+  "https://thenewstack.io/microsoft-agent-lightning-harness": {
+    "title": "Microsoft just released Agent Lightning v1.0. Here’s why it matters for platform engineers.",
+    "source": "The New Stack",
+    "first_seen": "2026-08-26T16:07:54.669867+00:00",
+    "published": "2026-08-26T12:30:00+00:00"
+  },
+  "https://www.schneier.com/blog/archives/2026/08/spyware-for-babies.html": {
+    "title": "Spyware for Babies",
+    "source": "Schneier on Security",
+    "first_seen": "2026-08-26T16:07:54.669867+00:00",
+    "published": "2026-08-26T12:05:52+00:00"
+  },
+  "https://realpython.com/quizzes/python315-sampling-profiler": {
+    "title": "Quiz: Python 3.15 Preview: Sampling Profiler",
+    "source": "Real Python",
+    "first_seen": "2026-08-26T16:07:54.669867+00:00",
+    "published": "2026-08-26T12:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/LibreOffice-26.8": {
+    "title": "LibreOffice 26.8 Released With Many Nice Improvements",
+    "source": "Phoronix",
+    "first_seen": "2026-08-26T16:07:54.669867+00:00",
+    "published": "2026-08-26T11:30:28+00:00"
+  },
+  "https://www.cncf.io/blog/2026/08/26/governance-guidance-for-cncf-projects-choosing-the-right-structure-for-your-projects-size-and-stage": {
+    "title": "Governance guidance for CNCF projects: Choosing the right structure for your project’s size and stage",
+    "source": "CNCF Blog",
+    "first_seen": "2026-08-26T16:07:54.669867+00:00",
+    "published": "2026-08-26T11:30:00+00:00"
+  },
+  "https://blog.trailofbits.com/2026/08/26/vms-wont-contain-cyber-capable-agents": {
+    "title": "VMs won't contain cyber-capable agents",
+    "source": "Trail of Bits",
+    "first_seen": "2026-08-26T16:07:54.669867+00:00",
+    "published": "2026-08-26T11:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/AMD-gfx1250-strict": {
+    "title": "AMD Introduces New \"GFX1250-STRICT\" GPU Target In LLVM",
+    "source": "Phoronix",
+    "first_seen": "2026-08-26T16:07:54.669867+00:00",
+    "published": "2026-08-26T10:22:43+00:00"
+  },
+  "https://www.phoronix.com/news/GCC-RISC-V-mcpu-mtune-native": {
+    "title": "GCC Patches Added -mcpu=native -mtune=native Support For RISC-V",
+    "source": "Phoronix",
+    "first_seen": "2026-08-26T16:07:54.669867+00:00",
+    "published": "2026-08-26T10:08:15+00:00"
+  },
+  "https://stratechery.com/2026/apple-updates-mini-and-studio-ai-computers-openai-jalapeno": {
+    "title": "Apple Updates Mini and Studio, AI Computers, OpenAI Jalapeño",
+    "source": "Stratechery",
+    "first_seen": "2026-08-26T16:07:54.669867+00:00",
+    "published": "2026-08-26T10:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.3-PCI": {
+    "title": "Linux 7.3 PCI Code Adds Advisory Non-Fatal Errors, Intel Dunlow Support",
+    "source": "Phoronix",
+    "first_seen": "2026-08-26T16:07:54.669867+00:00",
+    "published": "2026-08-26T09:53:14+00:00"
+  },
+  "https://cloud.google.com/blog/topics/developers-practitioners/your-chance-to-start-building-ai-agents-from-the-absolute-basics": {
+    "title": "Your chance to start building AI agents from the absolute basics",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-08-26T16:07:54.669867+00:00",
+    "published": "2026-08-26T09:07:00+00:00"
+  },
+  "https://blog.sentry.io/evaluate-session-replay-software": {
+    "title": "How to evaluate session replay software: a developer's guide",
+    "source": "Sentry Blog",
+    "first_seen": "2026-08-26T16:07:54.669867+00:00",
+    "published": "2026-08-26T09:00:00+00:00"
+  },
+  "https://openai.com/index/loveholidays": {
+    "title": "How loveholidays is making everyone a builder with Codex",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-08-26T16:07:54.669867+00:00",
+    "published": "2026-08-26T00:00:00+00:00"
+  },
+  "https://huggingface.co/blog/train-multi-vector-encoder": {
+    "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-08-26T16:07:54.669867+00:00",
+    "published": "2026-08-26T00:00:00+00:00"
+  },
+  "https://blog.rust-lang.org/2026/08/26/announcing-our-first-maintainers-in-residence": {
+    "title": "Announcing our first Maintainers in Residence",
+    "source": "Rust Blog",
+    "first_seen": "2026-08-26T16:07:54.669867+00:00",
+    "published": "2026-08-26T00:00:00+00:00"
   }
 }
