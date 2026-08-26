@@ -78668,5 +78668,149 @@
     "source": "OpenAI Blog",
     "first_seen": "2026-08-25T21:15:34.455509+00:00",
     "published": "2026-08-25T00:00:00+00:00"
+  },
+  "https://simonwillison.net/2026/Aug/26/paul-dix": {
+    "title": "Quoting Paul Dix",
+    "source": "Simon Willison",
+    "first_seen": "2026-08-26T09:28:23.185179+00:00",
+    "published": "2026-08-26T08:07:55+00:00"
+  },
+  "https://rupertlinacre.com/buslens": {
+    "title": "Show HN: Buslens – where can I get to by bus? (UK)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-26T09:28:23.185179+00:00",
+    "published": "2026-08-26T07:36:52+00:00"
+  },
+  "https://www.psu.edu/news/research/story/more-half-adults-us-say-they-lack-basic-statistical-understanding": {
+    "title": "More than half of adults in U.S. say they lack basic statistical understanding",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-26T09:28:23.185179+00:00",
+    "published": "2026-08-26T05:49:20+00:00"
+  },
+  "https://spectrum.ieee.org/cold-war-codebreaker-nsa-ibm": {
+    "title": "Harvest (IBM 7950): Supercomputer for cryptanalysis at the NSA in the Cold War",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-26T09:28:23.185179+00:00",
+    "published": "2026-08-26T05:09:07+00:00"
+  },
+  "https://www.databricks.com/blog/introducing-governance-hub-intelligent-account-level-governance-over-your-databricks-estate": {
+    "title": "Introducing Governance Hub: Intelligent, account-level governance over your Databricks estate",
+    "source": "Databricks Blog",
+    "first_seen": "2026-08-26T09:28:23.185179+00:00",
+    "published": "2026-08-26T03:00:00+00:00"
+  },
+  "https://arxiv.org/abs/2607.21503": {
+    "title": "Agentic Context Management: Memory and Cost as Architecture Problems",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-26T09:28:23.185179+00:00",
+    "published": "2026-08-26T02:35:25+00:00"
+  },
+  "https://www.phoronix.com/news/Chrome-Chromium-Flatpak": {
+    "title": "Chrome/Chromium Experimenting With Flatpak Packaging",
+    "source": "Phoronix",
+    "first_seen": "2026-08-26T09:28:23.185179+00:00",
+    "published": "2026-08-26T00:22:59+00:00"
+  },
+  "https://fzakaria.com/2026/08/24/actually-queryable-executables": {
+    "title": "Queryable Executables",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-26T09:28:23.185179+00:00",
+    "published": "2026-08-26T00:20:49+00:00"
+  },
+  "https://www.elastic.co/blog/elasticon-mumbai-2026": {
+    "title": "Forging India's Digital Future: Elastic{ON} Comes to Mumbai",
+    "source": "Elastic Blog",
+    "first_seen": "2026-08-26T09:28:23.185179+00:00",
+    "published": "2026-08-26T00:00:00+00:00"
+  },
+  "https://www.elastic.co/blog/cybersecurity-in-australia-new-zealand": {
+    "title": "Machine vs. machine: The new reality of cybersecurity in ANZ",
+    "source": "Elastic Blog",
+    "first_seen": "2026-08-26T09:28:23.185179+00:00",
+    "published": "2026-08-26T00:00:00+00:00"
+  },
+  "https://www.databricks.com/blog/leveraging-databricks-support-fisc-security-guidelines": {
+    "title": "Leveraging Databricks to Support FISC Security Guidelines",
+    "source": "Databricks Blog",
+    "first_seen": "2026-08-26T09:28:23.185179+00:00",
+    "published": "2026-08-26T00:00:00+00:00"
+  },
+  "https://simonwillison.net/2026/Aug/25/eve-online-move-to-python-3": {
+    "title": "EVE Online: The Move to Python 3 Begins!",
+    "source": "Simon Willison",
+    "first_seen": "2026-08-26T09:28:23.185179+00:00",
+    "published": "2026-08-25T22:59:30+00:00"
+  },
+  "https://github.com/runetes/maiao": {
+    "title": "Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-26T09:28:23.185179+00:00",
+    "published": "2026-08-25T22:40:07+00:00"
+  },
+  "https://www.docker.com/blog/moving-from-minimus-to-docker-hardened-images": {
+    "title": "Moving from Minimus to Docker Hardened Images",
+    "source": "Docker Blog",
+    "first_seen": "2026-08-26T09:28:23.185179+00:00",
+    "published": "2026-08-25T22:27:06+00:00"
+  },
+  "https://github.com/swimmingbrain/texbrain": {
+    "title": "Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-26T09:28:23.185179+00:00",
+    "published": "2026-08-25T22:08:50+00:00"
+  },
+  "https://aws.amazon.com/blogs/security/fast-track-ism-ready-cloud-environments-and-irap-assessments-with-landing-zone-accelerator-on-aws": {
+    "title": "Fast Track ISM-ready cloud environments and IRAP Assessments with Landing Zone Accelerator on AWS",
+    "source": "AWS Security Blog",
+    "first_seen": "2026-08-26T09:28:23.185179+00:00",
+    "published": "2026-08-25T21:53:49+00:00"
+  },
+  "https://github.blog/ai-and-ml/llms/how-to-evaluate-llms-before-production": {
+    "title": "How to evaluate LLMs before production",
+    "source": "GitHub Blog",
+    "first_seen": "2026-08-26T09:28:23.185179+00:00",
+    "published": "2026-08-25T21:35:11+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.0-mk2-Multikernel": {
+    "title": "Linux 7.0-mk2 Released For Multi-Kernel Linux With Promising Performance Results",
+    "source": "Phoronix",
+    "first_seen": "2026-08-26T09:28:23.185179+00:00",
+    "published": "2026-08-25T21:30:00+00:00"
+  },
+  "https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability": {
+    "title": "When str.lower() is a security vulnerability in Python",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-26T09:28:23.185179+00:00",
+    "published": "2026-08-25T20:49:03+00:00"
+  },
+  "https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html": {
+    "title": "C2PA Cameras Do Not Survive Contact with Reality",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-26T09:28:23.185179+00:00",
+    "published": "2026-08-25T19:38:24+00:00"
+  },
+  "https://www.databricks.com/blog/data-governance-tools": {
+    "title": "Choosing Data Governance Tools for Enterprise Data Governance",
+    "source": "Databricks Blog",
+    "first_seen": "2026-08-26T09:28:23.185179+00:00",
+    "published": "2026-08-25T16:17:44+00:00"
+  },
+  "https://www.databricks.com/blog/data-mesh-vs-data-fabric": {
+    "title": "Data Mesh vs. Data Fabric: Key Differences and How the Lakehouse Resolves the Debate",
+    "source": "Databricks Blog",
+    "first_seen": "2026-08-26T09:28:23.185179+00:00",
+    "published": "2026-08-25T16:05:34+00:00"
+  },
+  "https://neon.com/blog/just-landed-in-the-neon-cli": {
+    "title": "Just landed in the Neon CLI",
+    "source": "Neon Blog",
+    "first_seen": "2026-08-26T09:28:23.185179+00:00",
+    "published": "2026-08-25T12:00:00+00:00"
+  },
+  "https://www.databricks.com/blog/open-table-formats": {
+    "title": "Open Table Formats Explained: Iceberg vs. Delta vs. Hudi",
+    "source": "Databricks Blog",
+    "first_seen": "2026-08-26T09:28:23.185179+00:00",
+    "published": "2026-08-25T07:37:09+00:00"
   }
 }
