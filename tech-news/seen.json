@@ -79178,5 +79178,347 @@
     "source": "Rust Blog",
     "first_seen": "2026-08-26T16:07:54.669867+00:00",
     "published": "2026-08-26T00:00:00+00:00"
+  },
+  "https://www.mturk.com": {
+    "title": "Mechanical Turk shutting down September 30",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-27T00:19:21.378535+00:00",
+    "published": "2026-08-26T23:55:44+00:00"
+  },
+  "https://simonwillison.net/2026/Aug/26/qwen38-flash-next": {
+    "title": "Qwen3.8-Flash-Next",
+    "source": "Simon Willison",
+    "first_seen": "2026-08-27T00:19:21.378535+00:00",
+    "published": "2026-08-26T23:52:58+00:00"
+  },
+  "https://nhess.copernicus.org/articles/22/3765/2022/nhess-22-3765-2022.html": {
+    "title": "Worst-case glacial lake flood scenarios in a transboundary Himalayan basin 2022",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-27T00:19:21.378535+00:00",
+    "published": "2026-08-26T22:44:03+00:00"
+  },
+  "https://asahilinux.org/2026/08/progress-report-7-2": {
+    "title": "Progress Linux 7.2 – Asahi Linux",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-27T00:19:21.378535+00:00",
+    "published": "2026-08-26T22:35:02+00:00"
+  },
+  "https://thenewstack.io/claude-built-in-browser-cowork": {
+    "title": "Anthropic’s Claude now has a browser of its own",
+    "source": "The New Stack",
+    "first_seen": "2026-08-27T00:19:21.378535+00:00",
+    "published": "2026-08-26T22:05:58+00:00"
+  },
+  "https://webkit.org/blog/18194/release-notes-for-safari-technology-preview-251": {
+    "title": "Release Notes for Safari Technology Preview 251",
+    "source": "WebKit Blog",
+    "first_seen": "2026-08-27T00:19:21.378535+00:00",
+    "published": "2026-08-26T21:36:31+00:00"
+  },
+  "https://developer.nvidia.com/blog/nvidia-nvlink-fusion-brings-nvhbm-to-next-generation-ai-infrastructure": {
+    "title": "NVIDIA NVLink Fusion Brings NVHBM to Next-Generation AI Infrastructure",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-08-27T00:19:21.378535+00:00",
+    "published": "2026-08-26T21:06:58+00:00"
+  },
+  "https://thenewstack.io/x-nitter-open-source-takedown": {
+    "title": "X sent Nitter a cease-and-desist. Then it went after the source code.",
+    "source": "The New Stack",
+    "first_seen": "2026-08-27T00:19:21.378535+00:00",
+    "published": "2026-08-26T21:04:31+00:00"
+  },
+  "https://pytorch.org/blog/pytorch-ecosystem-landscape-q3-update": {
+    "title": "PyTorch Ecosystem Landscape Welcomes Perforated, AReaL, TorchJD, RLinf, Miles, SMG, FiftyOne, TokenSpeed, VisualTorch, and TorchSurv",
+    "source": "PyTorch Blog",
+    "first_seen": "2026-08-27T00:19:21.378535+00:00",
+    "published": "2026-08-26T20:53:37+00:00"
+  },
+  "https://arxiv.org/abs/2608.23228": {
+    "title": "mold: A Parallel Linker",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-27T00:19:21.378535+00:00",
+    "published": "2026-08-26T20:37:02+00:00"
+  },
+  "https://newsroom.ibm.com/2026-08-24-ibm-unveils-next-generation-dual-architecture-processor-for-ibm-z-and-linuxone": {
+    "title": "IBM Unveils Next Generation Dual-Architecture Processor for IBM Z and LinuxONE",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-27T00:19:21.378535+00:00",
+    "published": "2026-08-26T20:32:29+00:00"
+  },
+  "https://thenewstack.io/openai-astra-persistent-agents": {
+    "title": "OpenAI’s Astra can do a researcher’s week of work. That’s the problem.",
+    "source": "The New Stack",
+    "first_seen": "2026-08-27T00:19:21.378535+00:00",
+    "published": "2026-08-26T20:24:20+00:00"
+  },
+  "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-automate-dependabot-pull-request-triage": {
+    "title": "GitHub Copilot app for Beginners: Automate Dependabot pull request triage",
+    "source": "GitHub Blog",
+    "first_seen": "2026-08-27T00:19:21.378535+00:00",
+    "published": "2026-08-26T20:12:53+00:00"
+  },
+  "https://thenewstack.io/opentelemetry-observability-telemetry-storage": {
+    "title": "Observability has a data problem. AI is about to make it worse.",
+    "source": "The New Stack",
+    "first_seen": "2026-08-27T00:19:21.378535+00:00",
+    "published": "2026-08-26T20:08:10+00:00"
+  },
+  "https://developer.nvidia.com/blog/how-to-train-a-cross-embodiment-robot-navigation-policy-with-ai-agents": {
+    "title": "How to Train a Cross-Embodiment Robot Navigation Policy with AI Agents",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-08-27T00:19:21.378535+00:00",
+    "published": "2026-08-26T20:05:06+00:00"
+  },
+  "https://www.phoronix.com/news/In-Kernel-Zstd-BMI2-Probing": {
+    "title": "Patches Provide For Much Faster In-Kernel Zstd Due To Embarrassingly Bad Inefficiency",
+    "source": "Phoronix",
+    "first_seen": "2026-08-27T00:19:21.378535+00:00",
+    "published": "2026-08-26T19:55:10+00:00"
+  },
+  "https://acceptmarkdown.com": {
+    "title": "Serve Markdown to AI Agents with Accept Headers",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-27T00:19:21.378535+00:00",
+    "published": "2026-08-26T19:45:59+00:00"
+  },
+  "https://isgithubcooked.com": {
+    "title": "GitHub Outage Tracker: Is GitHub Cooked?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-27T00:19:21.378535+00:00",
+    "published": "2026-08-26T19:43:48+00:00"
+  },
+  "https://aws.amazon.com/blogs/security/icymi-july-2026-aws-security": {
+    "title": "ICYMI: July 2026 @AWS Security",
+    "source": "AWS Security Blog",
+    "first_seen": "2026-08-27T00:19:21.378535+00:00",
+    "published": "2026-08-26T19:32:55+00:00"
+  },
+  "https://www.actinideinc.com/press/actinide-becomes-first-startup-to-ever-enrich-natural-uranium-to-produce-haleu": {
+    "title": "Actinide is first startup to produce high-assay low-enriched uranium (HALEU)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-27T00:19:21.378535+00:00",
+    "published": "2026-08-26T19:23:01+00:00"
+  },
+  "https://openai.com/index/hugging-face-incident-and-the-road-ahead": {
+    "title": "The Hugging Face incident and the road ahead",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-27T00:19:21.378535+00:00",
+    "published": "2026-08-26T19:15:23+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/evaluate-any-agent-framework-with-amazon-bedrock-agentcore-evaluations": {
+    "title": "Evaluate any agent framework with Amazon Bedrock AgentCore Evaluations",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-08-27T00:19:21.378535+00:00",
+    "published": "2026-08-26T19:13:35+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/migrate-an-oauth-2-0-authenticated-apache-kafka-cluster-to-amazon-msk-with-msk-replicator": {
+    "title": "Migrate an OAuth 2.0 authenticated Apache Kafka cluster to Amazon MSK with MSK Replicator",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-08-27T00:19:21.378535+00:00",
+    "published": "2026-08-26T19:11:40+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.3-KSMBD": {
+    "title": "Linux 7.3 KSMBD Adds Interoperability For Apple Time Machine Backups",
+    "source": "Phoronix",
+    "first_seen": "2026-08-27T00:19:21.378535+00:00",
+    "published": "2026-08-26T19:09:15+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/announcing-in-place-zookeeper-to-kraft-cluster-upgrades-for-amazon-msk": {
+    "title": "Announcing in-place ZooKeeper-to-KRaft cluster upgrades for Amazon MSK",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-08-27T00:19:21.378535+00:00",
+    "published": "2026-08-26T18:59:47+00:00"
+  },
+  "https://research.google/blog/glucofm-foundation-model-for-continuous-glucose-monitoring": {
+    "title": "GlucoFM: Foundation model for continuous glucose monitoring",
+    "source": "Google Research",
+    "first_seen": "2026-08-27T00:19:21.378535+00:00",
+    "published": "2026-08-26T18:42:43+00:00"
+  },
+  "https://thetariffcost.com": {
+    "title": "The Tariff Cost: analysis of the costs to Americans from new tariffs on Canada",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-27T00:19:21.378535+00:00",
+    "published": "2026-08-26T17:54:51+00:00"
+  },
+  "https://github.com/tailscale/tailcat": {
+    "title": "Tailcat – Like netcat, but over Tailscale’s data plane",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-27T00:19:21.378535+00:00",
+    "published": "2026-08-26T17:42:22+00:00"
+  },
+  "https://lwn.net/SubscriberLink/1089390/46116614cc74b814": {
+    "title": "An ongoing 3D-printer AGPL violation",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-27T00:19:21.378535+00:00",
+    "published": "2026-08-26T17:41:40+00:00"
+  },
+  "https://aws.amazon.com/blogs/security/detecting-multi-stage-attacks-on-aws-a-guide-to-cross-service-signal-correlation": {
+    "title": "Detecting multi-stage attacks on AWS: A guide to cross-service signal correlation",
+    "source": "AWS Security Blog",
+    "first_seen": "2026-08-27T00:19:21.378535+00:00",
+    "published": "2026-08-26T17:39:19+00:00"
+  },
+  "https://aws.amazon.com/blogs/architecture/gallup-delivers-real-time-workplace-coaching-to-thousands-of-leaders-with-amazon-bedrock": {
+    "title": "Gallup scales real-time coaching for thousands with Amazon Bedrock",
+    "source": "AWS Architecture Blog",
+    "first_seen": "2026-08-27T00:19:21.378535+00:00",
+    "published": "2026-08-26T17:36:23+00:00"
+  },
+  "https://aws.amazon.com/blogs/architecture/closing-the-ai-agent-trust-gap-with-graduated-autonomy": {
+    "title": "Closing the AI agent trust gap with graduated autonomy",
+    "source": "AWS Architecture Blog",
+    "first_seen": "2026-08-27T00:19:21.378535+00:00",
+    "published": "2026-08-26T17:33:03+00:00"
+  },
+  "https://www.wsj.com/politics/policy/u-s-state-department-pauses-immigrant-visa-applications-25b31b23": {
+    "title": "U.S. State Department Pauses Immigrant Visa Applications",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-27T00:19:21.378535+00:00",
+    "published": "2026-08-26T17:22:16+00:00"
+  },
+  "https://hotosm.org/en/news/comaps-the-offline-app-that-guided-rescuers-without-a-signal-in-the-venezuela-response": {
+    "title": "CoMaps: The Offline App That Guided Rescuers Without a Signal in Venezuela",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-27T00:19:21.378535+00:00",
+    "published": "2026-08-26T17:20:12+00:00"
+  },
+  "https://developer.nvidia.com/blog/experiment-with-qwen3-8-flash-next-176b-model-on-nvidia-gb300-nvl72-for-agentic-coding": {
+    "title": "Experiment with Qwen3.8-Flash-Next 176B Model on NVIDIA GB300 NVL72 for Agentic Coding",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-08-27T00:19:21.378535+00:00",
+    "published": "2026-08-26T17:07:12+00:00"
+  },
+  "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe": {
+    "title": "Intelligent transcription with Gemini 3.5 Transcribe",
+    "source": "DeepMind Blog",
+    "first_seen": "2026-08-27T00:19:21.378535+00:00",
+    "published": "2026-08-26T17:01:00+00:00"
+  },
+  "https://scott-fryxell.github.io/blog/the-harness-is-the-thing": {
+    "title": "The Harness Is the Thing",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-27T00:19:21.378535+00:00",
+    "published": "2026-08-26T16:59:59+00:00"
+  },
+  "https://thenewstack.io/ollama-claude-desktop-integration": {
+    "title": "Claude Desktop can now easily run Qwen, DeepSeek and Kimi models — after Ollama’s first effort stalled",
+    "source": "The New Stack",
+    "first_seen": "2026-08-27T00:19:21.378535+00:00",
+    "published": "2026-08-26T16:59:39+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/how-godaddy-transformed-its-analytics-with-amazon-quick": {
+    "title": "How GoDaddy transformed its analytics with Amazon Quick",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-08-27T00:19:21.378535+00:00",
+    "published": "2026-08-26T16:51:53+00:00"
+  },
+  "https://www.magicpatterns.com/theme-park": {
+    "title": "Show HN: Build your own theme park",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-27T00:19:21.378535+00:00",
+    "published": "2026-08-26T16:40:01+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/cortos-billion-scale-legal-semantic-search-with-aurora-postgresql-pgvector": {
+    "title": "CORTO’s billion-scale legal semantic search with Aurora PostgreSQL pgvector",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-08-27T00:19:21.378535+00:00",
+    "published": "2026-08-26T16:40:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/nateras-intelligent-appointment-scheduling-with-amazon-bedrock-agentcore": {
+    "title": "Natera’s intelligent appointment scheduling with Amazon Bedrock AgentCore",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-08-27T00:19:21.378535+00:00",
+    "published": "2026-08-26T16:36:35+00:00"
+  },
+  "https://thenewstack.io/google-thomson-specialized-ai": {
+    "title": "Google’s new legal AI exposes a bigger battle over the enterprise stack",
+    "source": "The New Stack",
+    "first_seen": "2026-08-27T00:19:21.378535+00:00",
+    "published": "2026-08-26T16:33:23+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/bring-your-own-model-with-amazon-sagemaker-ai-script-mode-in-sdk-v3": {
+    "title": "Bring your own model with Amazon SageMaker AI: Script mode in SDK v3",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-08-27T00:19:21.378535+00:00",
+    "published": "2026-08-26T16:31:32+00:00"
+  },
+  "https://thenewstack.io/glm-5-3-flash-chinese-chips": {
+    "title": "Z.ai’s GLM-5.3-Flash is cheap, good, and served on Chinese chips",
+    "source": "The New Stack",
+    "first_seen": "2026-08-27T00:19:21.378535+00:00",
+    "published": "2026-08-26T16:26:03+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/preparing-data-for-supervised-fine-tuning-part-2-advanced-data-strategies": {
+    "title": "Preparing data for supervised fine-tuning Part 2: Advanced data strategies",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-08-27T00:19:21.378535+00:00",
+    "published": "2026-08-26T16:24:05+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/preparing-data-for-supervised-fine-tuning-part-1-formatting-and-quality": {
+    "title": "Preparing data for supervised fine-tuning Part 1: Formatting and quality",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-08-27T00:19:21.378535+00:00",
+    "published": "2026-08-26T16:24:02+00:00"
+  },
+  "https://aws.amazon.com/blogs/containers/break-glass-access-for-amazon-eks-when-federated-identity-fails": {
+    "title": "Break-glass access for Amazon EKS when federated identity fails",
+    "source": "AWS Containers Blog",
+    "first_seen": "2026-08-27T00:19:21.378535+00:00",
+    "published": "2026-08-26T16:20:28+00:00"
+  },
+  "https://www.phoronix.com/review/intel-xeon-678x-scaling": {
+    "title": "Intel Granite Rapids WS Core Scaling Performance With The Xeon 678X",
+    "source": "Phoronix",
+    "first_seen": "2026-08-27T00:19:21.378535+00:00",
+    "published": "2026-08-26T16:20:00+00:00"
+  },
+  "https://www.fda.gov/news-events/press-announcements/fda-approves-first-class-targeted-therapy-metastatic-pancreatic-cancer": {
+    "title": "FDA Approves First in Class Targeted Therapy for Metastatic Pancreatic Cancer",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-27T00:19:21.378535+00:00",
+    "published": "2026-08-26T16:19:03+00:00"
+  },
+  "https://thenewstack.io/perplexity-agent-harness-security": {
+    "title": "Perplexity just separated reasoning from authority. Here’s why it matters for enterprises.",
+    "source": "The New Stack",
+    "first_seen": "2026-08-27T00:19:21.378535+00:00",
+    "published": "2026-08-26T16:18:18+00:00"
+  },
+  "https://www.risklytics.ai": {
+    "title": "Launch HN: Risklytics (YC S26) – Insurance brokerage for frontier tech companies",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-27T00:19:21.378535+00:00",
+    "published": "2026-08-26T16:06:01+00:00"
+  },
+  "https://www.theguardian.com/film/2026/aug/26/tim-curry-dies-rocky-horror-show-stephen-king-it-legend-film": {
+    "title": "Tim Curry has died",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-27T00:19:21.378535+00:00",
+    "published": "2026-08-26T16:03:37+00:00"
+  },
+  "https://home.treasury.gov/news/press-releases/sb0616": {
+    "title": "US sanctions Italian hosting provider Autistici Inventati",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-27T00:19:21.378535+00:00",
+    "published": "2026-08-26T15:56:49+00:00"
+  },
+  "https://www.hashicorp.com/blog/streamline-identity-lifecycle-management-on-hcp-with-scim-provisioning": {
+    "title": "Streamline identity lifecycle management on HCP with SCIM provisioning",
+    "source": "HashiCorp Blog",
+    "first_seen": "2026-08-27T00:19:21.378535+00:00",
+    "published": "2026-08-26T15:00:00+00:00"
+  },
+  "https://openai.com/index/learning-never-stops": {
+    "title": "Learning never stops: How AI makes learning continuous",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-08-27T00:19:21.378535+00:00",
+    "published": "2026-08-26T10:00:00+00:00"
+  },
+  "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts": {
+    "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-08-27T00:19:21.378535+00:00",
+    "published": "2026-08-26T10:00:00+00:00"
   }
 }
