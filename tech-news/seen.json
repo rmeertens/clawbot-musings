@@ -80006,5 +80006,161 @@
     "source": "Replit Blog",
     "first_seen": "2026-08-27T19:18:21.294485+00:00",
     "published": "2026-08-26T22:18:53+00:00"
+  },
+  "https://stackoverflow.blog/2026/08/28/when-you-keep-ai-lean-you-keep-ai-correct": {
+    "title": "When you keep AI Lean, you keep AI correct",
+    "source": "Stack Overflow Blog",
+    "first_seen": "2026-08-28T04:59:54.292640+00:00",
+    "published": "2026-08-28T07:40:00+00:00"
+  },
+  "https://neilalexander.dev/2026/06/30/flooding-contributions": {
+    "title": "Please stop flooding our projects with AI slop to furnish your CV",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-28T04:59:54.292640+00:00",
+    "published": "2026-08-28T03:49:33+00:00"
+  },
+  "https://github.com/IndexFlowing/IndexFlow-core": {
+    "title": "Show HN: IndexFlow – Open-source indexing infrastructure built with Rust",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-28T04:59:54.292640+00:00",
+    "published": "2026-08-28T02:46:39+00:00"
+  },
+  "https://cbsaustin.com/news/local/usda-recalls-30000-pounds-of-argentine-beef-sold-in-texas-and-florida": {
+    "title": "USDA recalls 30k pounds of Argentine beef sold in Texas and Florida",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-28T04:59:54.292640+00:00",
+    "published": "2026-08-28T02:05:57+00:00"
+  },
+  "https://www.nytimes.com/2026/08/27/technology/anthropic-government-blacklisting-ruling.html": {
+    "title": "Judge Rules Trump Administration’s Blacklisting of Anthropic Was Illegal",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-28T04:59:54.292640+00:00",
+    "published": "2026-08-28T02:03:38+00:00"
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-28/advent-stripe-consortium-is-said-to-drop-pursuit-of-paypal": {
+    "title": "Stripe said to abandon $50B pursuit of PayPal",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-28T04:59:54.292640+00:00",
+    "published": "2026-08-28T01:57:26+00:00"
+  },
+  "https://www.databricks.com/blog/fast-fault-tolerant-pytorch-training-ai-runtime": {
+    "title": "Fast, fault-tolerant PyTorch training on AI Runtime",
+    "source": "Databricks Blog",
+    "first_seen": "2026-08-28T04:59:54.292640+00:00",
+    "published": "2026-08-28T01:15:00+00:00"
+  },
+  "https://www.phoronix.com/news/Sovereign-Tech-Agency-Flatpak": {
+    "title": "Sovereign Tech Agency Providing Massive Investment Into Flatpak",
+    "source": "Phoronix",
+    "first_seen": "2026-08-28T04:59:54.292640+00:00",
+    "published": "2026-08-28T00:38:03+00:00"
+  },
+  "https://www.phoronix.com/news/Ubuntu-26.04.1-LTS-Released": {
+    "title": "Ubuntu 26.04.1 LTS Released With Initial Collection Of Fixes",
+    "source": "Phoronix",
+    "first_seen": "2026-08-28T04:59:54.292640+00:00",
+    "published": "2026-08-28T00:13:09+00:00"
+  },
+  "https://www.terminal-bench-science.ai/announcement": {
+    "title": "Terminal-Bench-Science: Evaluating AI agents on scientific research workflows",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-28T04:59:54.292640+00:00",
+    "published": "2026-08-28T00:06:51+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/build-agentic-creative-workflows-with-amazon-quick-and-fal": {
+    "title": "Build agentic creative workflows with Amazon Quick and fal",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-08-28T04:59:54.292640+00:00",
+    "published": "2026-08-27T23:04:22+00:00"
+  },
+  "https://simonwillison.net/2026/Aug/27/breaking-claude-code-opus-5-auto-mode": {
+    "title": "Breaking Claude Code Opus 5 Auto Mode",
+    "source": "Simon Willison",
+    "first_seen": "2026-08-28T04:59:54.292640+00:00",
+    "published": "2026-08-27T22:50:25+00:00"
+  },
+  "https://pfrazee.leaflet.pub/3mu3p2smmis22": {
+    "title": "Select * from Internet.blogposts",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-28T04:59:54.292640+00:00",
+    "published": "2026-08-27T22:34:32+00:00"
+  },
+  "https://github.com/elyosh/OpenTIE": {
+    "title": "Show HN: OpenTIE and OpenXWA, Modern Ports of Tie Fighter and X-Wing Alliance",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-28T04:59:54.292640+00:00",
+    "published": "2026-08-27T22:10:47+00:00"
+  },
+  "https://github.com/calmrocks/ai-engineer-notebooks": {
+    "title": "AI Engineer Notebooks – free, framework-free RAG/agents/evals on Colab",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-28T04:59:54.292640+00:00",
+    "published": "2026-08-27T21:46:39+00:00"
+  },
+  "https://github.com/experientiallabs/experiential": {
+    "title": "Show HN: We built open OpenRouter that turns usage into a better model",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-28T04:59:54.292640+00:00",
+    "published": "2026-08-27T21:18:35+00:00"
+  },
+  "https://www.phoronix.com/news/Intel-Linux-SAR-Driver-Orphaned": {
+    "title": "Intel Linux Driver Orphaned For Limiting RF Exposure To Humans",
+    "source": "Phoronix",
+    "first_seen": "2026-08-28T04:59:54.292640+00:00",
+    "published": "2026-08-27T21:13:01+00:00"
+  },
+  "https://thenewstack.io/google-double-blind-evaluation": {
+    "title": "Google found a way to test Gemini without seeing the questions",
+    "source": "The New Stack",
+    "first_seen": "2026-08-28T04:59:54.292640+00:00",
+    "published": "2026-08-27T20:49:52+00:00"
+  },
+  "https://pytorch.org/blog/core-pytorch-sessions-at-pytorch-conference-north-america-2026": {
+    "title": "Core PyTorch Sessions at PyTorch Conference North America 2026",
+    "source": "PyTorch Blog",
+    "first_seen": "2026-08-28T04:59:54.292640+00:00",
+    "published": "2026-08-27T20:49:08+00:00"
+  },
+  "https://www.phoronix.com/news/AMDGPU-HDMI-2.1-FRL-Default": {
+    "title": "AMD Preparing To Enable HDMI 2.1 FRL Support By Default For Linux",
+    "source": "Phoronix",
+    "first_seen": "2026-08-28T04:59:54.292640+00:00",
+    "published": "2026-08-27T19:45:06+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/introducing-openai-models-on-amazon-bedrock-for-in-country-inferencing-in-india": {
+    "title": "Introducing OpenAI models on Amazon Bedrock for in-country inferencing in India",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-08-28T04:59:54.292640+00:00",
+    "published": "2026-08-27T18:36:08+00:00"
+  },
+  "https://kubernetes.io/blog/2026/08/27/kubernetes-v1-37-metrics-api-ga": {
+    "title": "Kubernetes v1.37: Metrics API graduates to stable",
+    "source": "Kubernetes Blog",
+    "first_seen": "2026-08-28T04:59:54.292640+00:00",
+    "published": "2026-08-27T18:30:00+00:00"
+  },
+  "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe": {
+    "title": "Gemini-3.5-Transcribe",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-28T04:59:54.292640+00:00",
+    "published": "2026-08-27T18:03:42+00:00"
+  },
+  "https://voronoigo.com": {
+    "title": "Show HN: Voronoi Go",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-28T04:59:54.292640+00:00",
+    "published": "2026-08-27T18:03:37+00:00"
+  },
+  "https://grafana.com/blog/how-to-measure-and-improve-instrumentation-quality-for-better-full-stack-observability": {
+    "title": "How to measure and improve instrumentation quality for better full-stack observability",
+    "source": "Grafana Blog",
+    "first_seen": "2026-08-28T04:59:54.292640+00:00",
+    "published": "2026-08-27T13:03:49+00:00"
+  },
+  "https://machinelearning.apple.com/research/rubric-based-alignment": {
+    "title": "From Preferences to Principles: Rubric-Based Alignment for Grounded Knowledge Answers",
+    "source": "Apple ML Journal",
+    "first_seen": "2026-08-28T04:59:54.292640+00:00",
+    "published": "2026-08-27T00:00:00+00:00"
   }
 }
