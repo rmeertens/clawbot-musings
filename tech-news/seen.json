@@ -80162,5 +80162,389 @@
     "source": "Apple ML Journal",
     "first_seen": "2026-08-28T04:59:54.292640+00:00",
     "published": "2026-08-27T00:00:00+00:00"
+  },
+  "https://www.databricks.com/blog/beyond-answers-new-genie-one-features-turn-insights-action": {
+    "title": "Beyond answers: New Genie One features to turn insights into action",
+    "source": "Databricks Blog",
+    "first_seen": "2026-08-28T20:27:39.637389+00:00",
+    "published": "2026-08-28T21:00:00+00:00"
+  },
+  "https://lwn.net/Articles/1091177": {
+    "title": "Car: Dolphin 26.08 and KIO performance improvements",
+    "source": "LWN.net",
+    "first_seen": "2026-08-28T20:27:39.637389+00:00",
+    "published": "2026-08-28T20:00:27+00:00"
+  },
+  "https://tmog.org": {
+    "title": "The OG Creator of Task Manager on Windows Built a New Task Manager",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-28T20:27:39.637389+00:00",
+    "published": "2026-08-28T19:35:18+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/batch-write-and-discover-records-in-amazon-sagemaker-feature-store": {
+    "title": "Batch write and discover records in Amazon SageMaker Feature Store",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-08-28T20:27:39.637389+00:00",
+    "published": "2026-08-28T19:31:05+00:00"
+  },
+  "https://isitdoneyet.gg": {
+    "title": "Isitdoneyet.gg is a website I made to figure out if games are complete",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-28T20:27:39.637389+00:00",
+    "published": "2026-08-28T19:30:46+00:00"
+  },
+  "https://www.thehealthy.com/news/chicken-recall-fsis-august-2026": {
+    "title": "25,000 Lbs. Of Chicken Products Recalled in 5 States: USDA",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-28T20:27:39.637389+00:00",
+    "published": "2026-08-28T19:30:15+00:00"
+  },
+  "https://github.com/sseshachala/conductai": {
+    "title": "Show HN: Conduct, open-source guardrails for LLM and MCP tool calls",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-28T20:27:39.637389+00:00",
+    "published": "2026-08-28T19:29:20+00:00"
+  },
+  "https://bumbletap.com/blog/chrome-manifest-v2-extensions-removed": {
+    "title": "Chrome Deletes the Last Manifest V2 Extensions on August 31",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-28T20:27:39.637389+00:00",
+    "published": "2026-08-28T19:18:42+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.3-TPM": {
+    "title": "Linux 7.3 TPM Makes Cleanup Preparations For TrenchBoot",
+    "source": "Phoronix",
+    "first_seen": "2026-08-28T20:27:39.637389+00:00",
+    "published": "2026-08-28T19:05:56+00:00"
+  },
+  "https://handbook.sutro.sh": {
+    "title": "The Analytical AI Handbook",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-28T20:27:39.637389+00:00",
+    "published": "2026-08-28T19:01:47+00:00"
+  },
+  "https://aws.amazon.com/blogs/security/extend-your-data-perimeter-to-the-aws-management-console-with-private-access": {
+    "title": "Extend your data perimeter to the AWS Management Console with Private Access",
+    "source": "AWS Security Blog",
+    "first_seen": "2026-08-28T20:27:39.637389+00:00",
+    "published": "2026-08-28T18:53:57+00:00"
+  },
+  "https://thenewstack.io/bionic-shell-command-safety": {
+    "title": "LM Studio built a judge for AI commands. Then the judge started agreeing with the defendant.",
+    "source": "The New Stack",
+    "first_seen": "2026-08-28T20:27:39.637389+00:00",
+    "published": "2026-08-28T18:31:38+00:00"
+  },
+  "https://thenewstack.io/qwen38-flash-previews-qwen4": {
+    "title": "Alibaba just released Qwen3.8-Flash: “An early preview of the architecture in Qwen4”",
+    "source": "The New Stack",
+    "first_seen": "2026-08-28T20:27:39.637389+00:00",
+    "published": "2026-08-28T18:27:06+00:00"
+  },
+  "https://lwn.net/Articles/1090378": {
+    "title": "[$] The \"rnull\" Rust block driver",
+    "source": "LWN.net",
+    "first_seen": "2026-08-28T20:27:39.637389+00:00",
+    "published": "2026-08-28T18:26:23+00:00"
+  },
+  "https://thenewstack.io/zai-glm-weights-license": {
+    "title": "Z.ai’s GLM-5.3 goes open weight, but its new license aims at hyperscalers",
+    "source": "The New Stack",
+    "first_seen": "2026-08-28T20:27:39.637389+00:00",
+    "published": "2026-08-28T17:42:54+00:00"
+  },
+  "https://www.databricks.com/blog/how-trackunit-turns-construction-data-decisions-ai": {
+    "title": "How Trackunit turns construction data into decisions with AI",
+    "source": "Databricks Blog",
+    "first_seen": "2026-08-28T20:27:39.637389+00:00",
+    "published": "2026-08-28T17:30:00+00:00"
+  },
+  "https://www.databricks.com/blog/how-indra-unified-ev-charging-data-databricks": {
+    "title": "How Indra unified EV charging data on Databricks",
+    "source": "Databricks Blog",
+    "first_seen": "2026-08-28T20:27:39.637389+00:00",
+    "published": "2026-08-28T17:30:00+00:00"
+  },
+  "https://developer.nvidia.com/blog/deploy-an-open-model-from-checkpoint-to-inference-in-two-commands-with-nvidia-tensorrt-model-connect": {
+    "title": "Deploy an Open Model from Checkpoint to Inference in Two Commands with NVIDIA TensorRT Model Connect",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-08-28T20:27:39.637389+00:00",
+    "published": "2026-08-28T17:06:28+00:00"
+  },
+  "https://arxiv.org/abs/2608.23691": {
+    "title": "Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-28T20:27:39.637389+00:00",
+    "published": "2026-08-28T17:01:12+00:00"
+  },
+  "https://www.ycombinator.com/companies/attimet/jobs/6btZFDg-member-of-technical-staff-engineering": {
+    "title": "Attimet (YC F24) Is Hiring Members of Technical Staff – Engineering and Research",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-28T20:27:39.637389+00:00",
+    "published": "2026-08-28T17:00:06+00:00"
+  },
+  "https://stratechery.com/2026/internet-hype-and-real-world-change": {
+    "title": "2026.35: Internet Hype and Real World Change",
+    "source": "Stratechery",
+    "first_seen": "2026-08-28T20:27:39.637389+00:00",
+    "published": "2026-08-28T17:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/DXVK-3.1-Released": {
+    "title": "DXVK 3.1 Released With DXGI Incremental Presentation, D3D11 Buffer Render Targets",
+    "source": "Phoronix",
+    "first_seen": "2026-08-28T20:27:39.637389+00:00",
+    "published": "2026-08-28T16:33:22+00:00"
+  },
+  "https://www.tigerdata.com/blog/time-series-cardinality": {
+    "title": "Time-Series Cardinality: Why One More Indexed Column Costs More Than a Million More Rows",
+    "source": "Timescale Blog",
+    "first_seen": "2026-08-28T20:27:39.637389+00:00",
+    "published": "2026-08-28T16:29:32+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/razor-groups-journey-to-a-modern-data-lakehouse-on-aws": {
+    "title": "Razor Group’s journey to a modern data lakehouse on AWS",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-08-28T20:27:39.637389+00:00",
+    "published": "2026-08-28T16:25:02+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/how-decathlon-runs-demand-forecasting-at-scale-with-chronos-2": {
+    "title": "How Decathlon runs demand forecasting at scale with Chronos-2",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-08-28T20:27:39.637389+00:00",
+    "published": "2026-08-28T16:22:30+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/spreading-the-load-how-salesforce-met-multi-az-ha-with-sagemaker-inference-components": {
+    "title": "Spreading the load: How Salesforce met Multi-AZ HA with SageMaker Inference Components",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-08-28T20:27:39.637389+00:00",
+    "published": "2026-08-28T16:20:40+00:00"
+  },
+  "https://netflixtechblog.com/maps-netflixs-multimodal-asset-personalization-at-scale-32f96320785e?source=rss----2615bd06b42e---4": {
+    "title": "MAPS: Netflix’s Multimodal Asset Personalization at Scale",
+    "source": "Netflix Tech Blog",
+    "first_seen": "2026-08-28T20:27:39.637389+00:00",
+    "published": "2026-08-28T16:01:02+00:00"
+  },
+  "https://www.hashicorp.com/blog/relaunching-hashicorp-validated-designs-with-improved-usability": {
+    "title": "Relaunching HashiCorp Validated Designs with improved usability",
+    "source": "HashiCorp Blog",
+    "first_seen": "2026-08-28T20:27:39.637389+00:00",
+    "published": "2026-08-28T16:00:00+00:00"
+  },
+  "https://anil.recoil.org/notes/rumour-is-the-exploit": {
+    "title": "Just the rumour of a bug is enough to find an exploit these days",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-28T20:27:39.637389+00:00",
+    "published": "2026-08-28T15:58:46+00:00"
+  },
+  "https://thenewstack.io/nvidia-open-models-chips": {
+    "title": "Nvidia is paying $12.9 billion to keep open models on its chips",
+    "source": "The New Stack",
+    "first_seen": "2026-08-28T20:27:39.637389+00:00",
+    "published": "2026-08-28T15:43:25+00:00"
+  },
+  "https://kathmandupost.com/national/2026/08/28/barrier-lake-continues-to-pose-flood-risk-china-warns": {
+    "title": "Barrier lake continues to pose flood risk, China warns",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-28T20:27:39.637389+00:00",
+    "published": "2026-08-28T15:21:26+00:00"
+  },
+  "https://huggingface.co/zai-org/GLM-5.3": {
+    "title": "GLM-5.3 is now open-weight",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-28T20:27:39.637389+00:00",
+    "published": "2026-08-28T15:20:13+00:00"
+  },
+  "https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html": {
+    "title": "GUIs should be fully keyboard-driven",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-28T20:27:39.637389+00:00",
+    "published": "2026-08-28T15:17:09+00:00"
+  },
+  "https://www.smithsonianmag.com/science-nature/africa-wild-dogs-most-hated-carnivores-continent-heres-why-conservationists-saving-them-anyway-180989287": {
+    "title": "Some conservationists are helping to restore Africa’s wild dog populations",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-28T20:27:39.637389+00:00",
+    "published": "2026-08-28T14:44:51+00:00"
+  },
+  "https://geekyschmidt.com/post/2026-08-25-verschlimmbesserung": {
+    "title": "Verschlimmbesserung: The Word Your Software Updates Need",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-28T20:27:39.637389+00:00",
+    "published": "2026-08-28T14:30:33+00:00"
+  },
+  "https://www.phoronix.com/review/hp-z4-g6i": {
+    "title": "HP Z4 G6i: A Linux-Friendly Workstation Powered By The Intel Xeon 600 Series",
+    "source": "Phoronix",
+    "first_seen": "2026-08-28T20:27:39.637389+00:00",
+    "published": "2026-08-28T14:25:27+00:00"
+  },
+  "https://tailscale.com/blog/dns-filtering-by-control-d": {
+    "title": "Introducing DNS filtering by Control D",
+    "source": "Tailscale Blog",
+    "first_seen": "2026-08-28T20:27:39.637389+00:00",
+    "published": "2026-08-28T14:00:00+00:00"
+  },
+  "https://2026.stateofthemap.org": {
+    "title": "State of the Map 2026",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-28T20:27:39.637389+00:00",
+    "published": "2026-08-28T13:46:28+00:00"
+  },
+  "https://en.refund4freedom.org": {
+    "title": "Get your Windows license refund",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-28T20:27:39.637389+00:00",
+    "published": "2026-08-28T13:42:40+00:00"
+  },
+  "https://lwn.net/Articles/1091118": {
+    "title": "Eight stable kernels with fix for a single vulnerability",
+    "source": "LWN.net",
+    "first_seen": "2026-08-28T20:27:39.637389+00:00",
+    "published": "2026-08-28T13:42:06+00:00"
+  },
+  "https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released": {
+    "title": "Htmx 4.0",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-28T20:27:39.637389+00:00",
+    "published": "2026-08-28T13:28:56+00:00"
+  },
+  "https://lwn.net/Articles/1091117": {
+    "title": "Security updates for Friday",
+    "source": "LWN.net",
+    "first_seen": "2026-08-28T20:27:39.637389+00:00",
+    "published": "2026-08-28T13:16:19+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-Kernel-CVEs-Nearly-2000": {
+    "title": "The Linux Kernel Is Approaching 2,000 CVEs Per Release",
+    "source": "Phoronix",
+    "first_seen": "2026-08-28T20:27:39.637389+00:00",
+    "published": "2026-08-28T13:02:16+00:00"
+  },
+  "https://blog.cloudflare.com/botbase-for-operators": {
+    "title": "BotBase for Operators: A clearer path to joining Cloudflare's directory of bots and agents",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-08-28T20:27:39.637389+00:00",
+    "published": "2026-08-28T12:59:44+00:00"
+  },
+  "https://www.inventati.org": {
+    "title": "U.S. sanctions against the A/I Collective",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-28T20:27:39.637389+00:00",
+    "published": "2026-08-28T12:58:53+00:00"
+  },
+  "https://www.audubon.org/magazine/are-crows-really-our-friends": {
+    "title": "An investigation into the state of corvid–human relations",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-28T20:27:39.637389+00:00",
+    "published": "2026-08-28T12:53:42+00:00"
+  },
+  "https://www.orbify.eu/demo": {
+    "title": "Inception-style curved map for turn-by-turn directions",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-28T20:27:39.637389+00:00",
+    "published": "2026-08-28T12:29:05+00:00"
+  },
+  "https://www.phoronix.com/news/GNOME-GPU-Reset-Recovery-PR": {
+    "title": "GPU Reset Recovery Merge Request For GNOME Mutter Submitted",
+    "source": "Phoronix",
+    "first_seen": "2026-08-28T20:27:39.637389+00:00",
+    "published": "2026-08-28T12:17:17+00:00"
+  },
+  "https://realpython.com/quizzes/python-rock-paper-scissors-game": {
+    "title": "Quiz: Rock, Paper, Scissors With Python: A Command Line Game",
+    "source": "Real Python",
+    "first_seen": "2026-08-28T20:27:39.637389+00:00",
+    "published": "2026-08-28T12:00:00+00:00"
+  },
+  "https://realpython.com/podcasts/rpp/309": {
+    "title": "The Real Python Podcast – Episode #309: Exploring Complex Systems & Maintainable Data Science Pipelines",
+    "source": "Real Python",
+    "first_seen": "2026-08-28T20:27:39.637389+00:00",
+    "published": "2026-08-28T12:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/Vulkan-1.4.361": {
+    "title": "Vulkan 1.4.361 Released With New NVIDIA Vendor Extension",
+    "source": "Phoronix",
+    "first_seen": "2026-08-28T20:27:39.637389+00:00",
+    "published": "2026-08-28T11:52:00+00:00"
+  },
+  "https://www.cncf.io/blog/2026/08/28/scale-before-the-spike-predictive-autoscaling-for-gpu-workloads-on-kubernetes": {
+    "title": "Scale before the spike: Predictive autoscaling for GPU workloads on Kubernetes",
+    "source": "CNCF Blog",
+    "first_seen": "2026-08-28T20:27:39.637389+00:00",
+    "published": "2026-08-28T11:30:00+00:00"
+  },
+  "https://www.phoronix.com/news/Chris-Mason-Leaving-Meta": {
+    "title": "Chris Mason Steps Down As Btrfs Co-Maintainer, Departing Meta",
+    "source": "Phoronix",
+    "first_seen": "2026-08-28T20:27:39.637389+00:00",
+    "published": "2026-08-28T11:17:55+00:00"
+  },
+  "https://www.schneier.com/blog/archives/2026/08/ai-doesnt-mean-the-end-of-mathematics-at-least-not-yet.html": {
+    "title": "AI Doesn’t Mean the End of Mathematics—at Least Not Yet",
+    "source": "Schneier on Security",
+    "first_seen": "2026-08-28T20:27:39.637389+00:00",
+    "published": "2026-08-28T11:02:22+00:00"
+  },
+  "https://blog.angular.dev/styling-mastery-and-declarative-form-submissions-743bb9bd0b0e?source=rss----447683c3d9a3---4": {
+    "title": "Styling Mastery and Declarative Form Submissions",
+    "source": "Angular Blog",
+    "first_seen": "2026-08-28T20:27:39.637389+00:00",
+    "published": "2026-08-28T11:01:01+00:00"
+  },
+  "https://www.cncf.io/blog/2026/08/28/your-kubernetes-platform-is-ready-for-containers-is-it-ready-for-ai": {
+    "title": "Your Kubernetes platform is ready for containers. Is it ready for AI?",
+    "source": "CNCF Blog",
+    "first_seen": "2026-08-28T20:27:39.637389+00:00",
+    "published": "2026-08-28T11:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.3-USB": {
+    "title": "Linux 7.3 Will Begin Checking USB-C Cables For Alt-Mode Support",
+    "source": "Phoronix",
+    "first_seen": "2026-08-28T20:27:39.637389+00:00",
+    "published": "2026-08-28T10:15:13+00:00"
+  },
+  "https://www.phoronix.com/news/Old-IBM-SGI-Drivers-Linux-7.3": {
+    "title": "Old IBM Driver Joins Insecure SGI Drivers In Being Removed For Linux 7.3",
+    "source": "Phoronix",
+    "first_seen": "2026-08-28T20:27:39.637389+00:00",
+    "published": "2026-08-28T09:58:09+00:00"
+  },
+  "https://blog.sentry.io/datacollection-control-panel": {
+    "title": "From one switch to a control panel: meet `dataCollection`",
+    "source": "Sentry Blog",
+    "first_seen": "2026-08-28T20:27:39.637389+00:00",
+    "published": "2026-08-28T09:00:00+00:00"
+  },
+  "https://openai.com/index/supporting-next-generation-ai-startups-thailand": {
+    "title": "Supporting Thailand’s next generation of AI startups",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-08-28T20:27:39.637389+00:00",
+    "published": "2026-08-28T02:00:00+00:00"
+  },
+  "https://machinelearning.apple.com/research/llms-not-consistently-bayesian": {
+    "title": "LLMs Are Not (Consistently) Bayesian: Quantifying Internal (In)consistencies of LLMs’ Probabilistic Beliefs",
+    "source": "Apple ML Journal",
+    "first_seen": "2026-08-28T20:27:39.637389+00:00",
+    "published": "2026-08-28T00:00:00+00:00"
+  },
+  "https://machinelearning.apple.com/research/agent-seer-synthesizing-scenarios": {
+    "title": "Agent Seer: Synthesizing Scenarios from Specification Understanding",
+    "source": "Apple ML Journal",
+    "first_seen": "2026-08-28T20:27:39.637389+00:00",
+    "published": "2026-08-28T00:00:00+00:00"
+  },
+  "https://golangweekly.com/issues/615": {
+    "title": "Generic methods land in Go 1.27",
+    "source": "Golang Weekly",
+    "first_seen": "2026-08-28T20:27:39.637389+00:00",
+    "published": "2026-08-28T00:00:00+00:00"
+  },
+  "https://engineering.grab.com/data-mesh-at-grab-part-three": {
+    "title": "Data Mesh at Grab (Part III): Operationalizing data reliability with automated DPIs",
+    "source": "Grab Tech",
+    "first_seen": "2026-08-28T20:27:39.637389+00:00",
+    "published": "2026-08-28T00:00:00+00:00"
   }
 }
