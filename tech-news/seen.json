@@ -80546,5 +80546,131 @@
     "source": "Grab Tech",
     "first_seen": "2026-08-28T20:27:39.637389+00:00",
     "published": "2026-08-28T00:00:00+00:00"
+  },
+  "https://github.com/kingroryg/turbokv": {
+    "title": "TurboKV: Insanely fast Rust key-value store",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-29T02:56:14.088256+00:00",
+    "published": "2026-08-29T02:23:37+00:00"
+  },
+  "https://www.kumander.org": {
+    "title": "Kumander Linux – A Linux Distro with a Windows 7 Desktop",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-29T02:56:14.088256+00:00",
+    "published": "2026-08-29T01:48:15+00:00"
+  },
+  "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex": {
+    "title": "Our decision on Cursor following its acquisition by SpaceX",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-29T02:56:14.088256+00:00",
+    "published": "2026-08-29T01:47:53+00:00"
+  },
+  "https://github.com/stemdeckapp/stemdeck": {
+    "title": "StemDeck, a free, open-source and local AI stem separator",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-29T02:56:14.088256+00:00",
+    "published": "2026-08-29T01:24:13+00:00"
+  },
+  "https://www.phoronix.com/news/Debian-Votes-Responsible-AI-Use": {
+    "title": "Debian Votes To Allow \"Responsible Use Of Generative AI\"",
+    "source": "Phoronix",
+    "first_seen": "2026-08-29T02:56:14.088256+00:00",
+    "published": "2026-08-29T00:43:52+00:00"
+  },
+  "https://www.vectorian.be/articles/2026-06-07/sumerian-king-list-paleoclimate-alignment-explorer": {
+    "title": "Does the Sumerian King List Align with Paleoclimate Events?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-29T02:56:14.088256+00:00",
+    "published": "2026-08-28T23:46:10+00:00"
+  },
+  "https://www.rascal.news/ppwr-lands-another-blow-to-an-already-precarious-tabletop-industry": {
+    "title": "PPWR lands another blow to an precarious tabletop industry",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-29T02:56:14.088256+00:00",
+    "published": "2026-08-28T23:41:05+00:00"
+  },
+  "https://azmirror.com/2026/08/28/9th-circuit-sides-with-states-in-kalshi-gambling-fight-potentially-reviving-arizonas-prosecution": {
+    "title": "9th Circuit sides with states in Kalshi gambling fight",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-29T02:56:14.088256+00:00",
+    "published": "2026-08-28T23:32:22+00:00"
+  },
+  "https://pwning.systems/posts/llm-memory-program-analysis": {
+    "title": "I accidentally turned LLM memory into program analysis",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-29T02:56:14.088256+00:00",
+    "published": "2026-08-28T23:27:45+00:00"
+  },
+  "https://github.com/Lakr233/vphone-cli": {
+    "title": "Boot a Virtual iPhone via Apple's Virtualization.framework",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-29T02:56:14.088256+00:00",
+    "published": "2026-08-28T23:02:21+00:00"
+  },
+  "https://groverlab.org/hnbfpr/2026-08-26-ai-counterfeit-cosmetics.html": {
+    "title": "Identifying fake cosmetics using AI",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-29T02:56:14.088256+00:00",
+    "published": "2026-08-28T22:18:27+00:00"
+  },
+  "https://simonwillison.net/2026/Aug/28/just-a-rumour-of-a-bug": {
+    "title": "Just a rumour of a bug is enough to find a security exploit these days",
+    "source": "Simon Willison",
+    "first_seen": "2026-08-29T02:56:14.088256+00:00",
+    "published": "2026-08-28T22:12:02+00:00"
+  },
+  "https://pytorch.org/blog/vllm-sessions-at-pytorch-conference-north-america-2026": {
+    "title": "vLLM Sessions at PyTorch Conference North America 2026",
+    "source": "PyTorch Blog",
+    "first_seen": "2026-08-29T02:56:14.088256+00:00",
+    "published": "2026-08-28T21:30:18+00:00"
+  },
+  "https://www.phoronix.com/news/KDE-Union-QtWidgets": {
+    "title": "Union QtWidgets Sees Initial Release For Advancing KDE Plasma's Union",
+    "source": "Phoronix",
+    "first_seen": "2026-08-29T02:56:14.088256+00:00",
+    "published": "2026-08-28T21:05:24+00:00"
+  },
+  "https://www.schneier.com/blog/archives/2026/08/friday-squid-blogging-truckload-of-squid-spills-in-rhode-island.html": {
+    "title": "Friday Squid Blogging: Truckload of Squid Spills in Rhode Island",
+    "source": "Schneier on Security",
+    "first_seen": "2026-08-29T02:56:14.088256+00:00",
+    "published": "2026-08-28T21:02:44+00:00"
+  },
+  "https://thenewstack.io/jetbrains-told-everyone-to-patch-it-didnt-patch-itself": {
+    "title": "JetBrains told everyone to patch. It didn’t patch itself.",
+    "source": "The New Stack",
+    "first_seen": "2026-08-29T02:56:14.088256+00:00",
+    "published": "2026-08-28T20:51:48+00:00"
+  },
+  "https://charlesleifer.com/blog/aspirational-clownmaxxing-and-joey-s-cadillac-todo-list": {
+    "title": "Aspirational Clownmaxxing and Joey's cadillac todo list",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-29T02:56:14.088256+00:00",
+    "published": "2026-08-28T19:18:22+00:00"
+  },
+  "https://usesesame.app": {
+    "title": "Show HN: Sesame - a local-first, open-source password manager",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-29T02:56:14.088256+00:00",
+    "published": "2026-08-28T19:14:14+00:00"
+  },
+  "https://kubernetes.io/blog/2026/08/28/kubernetes-v1-37-pod-certificates-and-cluster-trust-bundles": {
+    "title": "Kubernetes v1.37: Pod Certificates and Cluster Trust Bundles",
+    "source": "Kubernetes Blog",
+    "first_seen": "2026-08-29T02:56:14.088256+00:00",
+    "published": "2026-08-28T18:30:00+00:00"
+  },
+  "https://www.osnews.com/story/145883/easyeffects-should-be-part-of-every-linux-distribution-and-desktop-environment-to-massively-improve-laptop-speaker-sound-quality": {
+    "title": "EasyEffects can improve laptop speaker sound quality",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-29T02:56:14.088256+00:00",
+    "published": "2026-08-28T15:23:10+00:00"
+  },
+  "https://huggingface.co/blog/open-asr-leaderboard-global-south": {
+    "title": "The Open ASR Leaderboard Adds Its First Global South Language",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-08-29T02:56:14.088256+00:00",
+    "published": "2026-08-28T00:00:00+00:00"
   }
 }
