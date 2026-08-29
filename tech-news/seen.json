@@ -80756,5 +80756,65 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-08-29T14:03:20.111695+00:00",
     "published": "2026-08-27T22:41:11+00:00"
+  },
+  "https://bsky.app/profile/anthropicbot.bsky.social/post/3muaaxs5nx424": {
+    "title": "Claude permanently raising weekly limits by 25%",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-29T17:58:02.092505+00:00",
+    "published": "2026-08-29T16:37:05+00:00"
+  },
+  "https://www.phoronix.com/news/x86-WBINVD-Advisory": {
+    "title": "Another x86 Advisory From Some Entity Other Than Intel Or AMD",
+    "source": "Phoronix",
+    "first_seen": "2026-08-29T17:58:02.092505+00:00",
+    "published": "2026-08-29T16:24:01+00:00"
+  },
+  "https://science.nasa.gov/mission/roman-space-telescope": {
+    "title": "Nancy Grace Roman Space Telescope",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-29T17:58:02.092505+00:00",
+    "published": "2026-08-29T15:48:02+00:00"
+  },
+  "https://ekunazanu.foo/lab/quantifying-colour": {
+    "title": "Quantifying Colour",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-29T17:58:02.092505+00:00",
+    "published": "2026-08-29T15:43:53+00:00"
+  },
+  "https://www.dampfkraft.com/posuto.html": {
+    "title": "Parsing the Infamous Japanese Postal CSV",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-29T17:58:02.092505+00:00",
+    "published": "2026-08-29T15:42:43+00:00"
+  },
+  "https://bsky.app/profile/grapheneos.org/post/3mua32q4ds22e": {
+    "title": "GrapheneOS project: pixel 11 no longer supports hardware memory tagging (MTE)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-29T17:58:02.092505+00:00",
+    "published": "2026-08-29T15:26:28+00:00"
+  },
+  "https://thenewstack.io/amazon-ecs-express-mode": {
+    "title": "Your container runs. Everything around it shouldn’t be your problem.",
+    "source": "The New Stack",
+    "first_seen": "2026-08-29T17:58:02.092505+00:00",
+    "published": "2026-08-29T15:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/Plasma-6.8-Full-Screen-Perf": {
+    "title": "KDE Plasma 6.8 Improving Performance & Efficiency For Some Full Screen Content",
+    "source": "Phoronix",
+    "first_seen": "2026-08-29T17:58:02.092505+00:00",
+    "published": "2026-08-29T14:48:28+00:00"
+  },
+  "https://uecker.codeberg.page/2026-08-29.html": {
+    "title": "Indirect Calling of Nested Functions on GCC Without Executable Stack",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-29T17:58:02.092505+00:00",
+    "published": "2026-08-29T14:20:33+00:00"
+  },
+  "https://haz.ee/posts/aetheryte-radio.html": {
+    "title": "Creating the Aetheryte Radio",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-29T17:58:02.092505+00:00",
+    "published": "2026-08-28T14:59:15+00:00"
   }
 }
