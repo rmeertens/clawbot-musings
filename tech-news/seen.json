@@ -80672,5 +80672,89 @@
     "source": "Hugging Face Blog",
     "first_seen": "2026-08-29T02:56:14.088256+00:00",
     "published": "2026-08-28T00:00:00+00:00"
+  },
+  "https://thenewstack.io/scaling-ai-code-verification": {
+    "title": "Commits on GitHub have doubled in four months. Verification capacity has not.",
+    "source": "The New Stack",
+    "first_seen": "2026-08-29T14:03:20.111695+00:00",
+    "published": "2026-08-29T14:00:00+00:00"
+  },
+  "https://lwn.net/Articles/1091231": {
+    "title": "Debian votes to allow \"responsible use of generative AI\"",
+    "source": "LWN.net",
+    "first_seen": "2026-08-29T14:03:20.111695+00:00",
+    "published": "2026-08-29T13:58:52+00:00"
+  },
+  "https://thenewstack.io/ai-agent-platform-roles": {
+    "title": "The 3 roles AI agents play in your developer platform",
+    "source": "The New Stack",
+    "first_seen": "2026-08-29T14:03:20.111695+00:00",
+    "published": "2026-08-29T13:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/ReactOS-0.4.16-Released": {
+    "title": "ReactOS 0.4.16 Released With New Graphical Installer, Better Hardware Support",
+    "source": "Phoronix",
+    "first_seen": "2026-08-29T14:03:20.111695+00:00",
+    "published": "2026-08-29T12:56:32+00:00"
+  },
+  "https://www.construction-physics.com/p/reading-list-082926": {
+    "title": "Reading List 08/29/26",
+    "source": "Construction Physics",
+    "first_seen": "2026-08-29T14:03:20.111695+00:00",
+    "published": "2026-08-29T12:03:07+00:00"
+  },
+  "https://www.bbc.com/news/articles/cn45vdxyvvlo": {
+    "title": "Iceland votes on whether to restart talks on joining EU",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-29T14:03:20.111695+00:00",
+    "published": "2026-08-29T11:39:38+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.3-F2FS": {
+    "title": "F2FS With Now Handle Multi-Device Flushes In Parallel With Linux 7.3",
+    "source": "Phoronix",
+    "first_seen": "2026-08-29T14:03:20.111695+00:00",
+    "published": "2026-08-29T11:17:00+00:00"
+  },
+  "https://www.phoronix.com/news/GNOME-Very-Exciting-Week": {
+    "title": "GNOME's Very Exciting Week From Flatpak Funding To Reset Recovery Plus Apps",
+    "source": "Phoronix",
+    "first_seen": "2026-08-29T14:03:20.111695+00:00",
+    "published": "2026-08-29T11:02:34+00:00"
+  },
+  "https://www.phoronix.com/news/California-AB-1856-Passes": {
+    "title": "California Passes AB-1856 For Open-Source Relief Over Age Verification",
+    "source": "Phoronix",
+    "first_seen": "2026-08-29T14:03:20.111695+00:00",
+    "published": "2026-08-29T10:48:11+00:00"
+  },
+  "https://www.phoronix.com/news/SteamOS-3.9-Preview": {
+    "title": "SteamOS 3.9 Preview Moves To Linux 7.2, KDE Plasma 6.7 Desktop",
+    "source": "Phoronix",
+    "first_seen": "2026-08-29T14:03:20.111695+00:00",
+    "published": "2026-08-29T10:35:03+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.3-UBI": {
+    "title": "Linux 7.3 UBI Adds Support For Per-Device Wear-Leveling Thresholds",
+    "source": "Phoronix",
+    "first_seen": "2026-08-29T14:03:20.111695+00:00",
+    "published": "2026-08-29T10:21:57+00:00"
+  },
+  "https://lwn.net/Articles/1091203": {
+    "title": "Ryabitsev: Creepy crawlies",
+    "source": "LWN.net",
+    "first_seen": "2026-08-29T14:03:20.111695+00:00",
+    "published": "2026-08-29T09:32:34+00:00"
+  },
+  "https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing": {
+    "title": "Samsung's Processing-in-Memory (PIM)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-29T14:03:20.111695+00:00",
+    "published": "2026-08-29T06:06:51+00:00"
+  },
+  "https://12factor.net": {
+    "title": "The Twelve-Factor App (2025)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-29T14:03:20.111695+00:00",
+    "published": "2026-08-27T22:41:11+00:00"
   }
 }
