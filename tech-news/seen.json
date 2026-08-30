@@ -81116,5 +81116,59 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-08-30T18:13:36.000919+00:00",
     "published": "2026-08-30T09:52:15+00:00"
+  },
+  "https://lwn.net/Articles/1091421": {
+    "title": "Kernel prepatch 7.3-rc1",
+    "source": "LWN.net",
+    "first_seen": "2026-08-30T22:58:16.531551+00:00",
+    "published": "2026-08-30T22:52:23+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.3-rc1-Released": {
+    "title": "Linux 7.3-rc1 With AMD Zen 6 Additions, Better Btrfs Performance & 2026 Steam Controller",
+    "source": "Phoronix",
+    "first_seen": "2026-08-30T22:58:16.531551+00:00",
+    "published": "2026-08-30T21:51:00+00:00"
+  },
+  "https://sander.ai/2026/08/24/continuous-dlms.html": {
+    "title": "Continuous Diffusion Language Models (CDLM's)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-30T22:58:16.531551+00:00",
+    "published": "2026-08-30T20:46:53+00:00"
+  },
+  "https://www.righto.com/2026/08/spacelab-core-memory.html": {
+    "title": "Cores in space: The core memory module from a 1980 Spacelab computer",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-30T22:58:16.531551+00:00",
+    "published": "2026-08-30T20:00:25+00:00"
+  },
+  "https://www.phoronix.com/news/OpenShot-4.0": {
+    "title": "OpenShot 4.0 Released In Adapting Video Editor UI To Qt6",
+    "source": "Phoronix",
+    "first_seen": "2026-08-30T22:58:16.531551+00:00",
+    "published": "2026-08-30T19:55:27+00:00"
+  },
+  "https://github.com/KodeMunkie/sm750hdmifb": {
+    "title": "Why open source rocks – a new SM750 (Silicon Motion GPU) HDMI Driver",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-30T22:58:16.531551+00:00",
+    "published": "2026-08-30T18:49:08+00:00"
+  },
+  "https://www.itamarnovick.com/intro-to-startup-anti-pattern-series": {
+    "title": "Startup Anti-Patterns",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-30T22:58:16.531551+00:00",
+    "published": "2026-08-30T15:57:30+00:00"
+  },
+  "https://people.kernel.org/monsieuricon/creepy-crawlies": {
+    "title": "Creepy Crawlies",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-30T22:58:16.531551+00:00",
+    "published": "2026-08-29T17:49:01+00:00"
+  },
+  "https://www.smithsonianmag.com/smart-news/when-fruit-is-scarce-these-monkeys-hunt-animals-the-behavior-may-offer-clues-about-the-origins-of-humans-meat-eating-habits-180989412": {
+    "title": "When fruit is scarce, these monkeys hunt animals",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-30T22:58:16.531551+00:00",
+    "published": "2026-08-29T12:14:18+00:00"
   }
 }
