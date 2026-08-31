@@ -81170,5 +81170,359 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-08-30T22:58:16.531551+00:00",
     "published": "2026-08-29T12:14:18+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/build-a-real-time-event-pipeline-with-spark-real-time-mode-on-aws-glue-6-0": {
+    "title": "Build a real-time event pipeline with Spark Real-Time Mode on AWS Glue 6.0",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-08-31T16:27:21.959129+00:00",
+    "published": "2026-08-31T16:22:11+00:00"
+  },
+  "https://www.phoronix.com/news/OSS-Firmware-UEFI-Updates-Cap": {
+    "title": "3mdeb Enhancing The UEFI Update Capsules Experience For Open-Source Firmware",
+    "source": "Phoronix",
+    "first_seen": "2026-08-31T16:27:21.959129+00:00",
+    "published": "2026-08-31T16:08:21+00:00"
+  },
+  "https://thenewstack.io/shai-hulud-pipeline-security": {
+    "title": "Shai-Hulud: Whoever controls your package registry controls your pipeline",
+    "source": "The New Stack",
+    "first_seen": "2026-08-31T16:27:21.959129+00:00",
+    "published": "2026-08-31T16:00:00+00:00"
+  },
+  "https://developer.nvidia.com/blog/scale-av-perception-across-vehicle-platforms-with-nvidia-omniverse-nurec": {
+    "title": "Scale AV Perception Across Vehicle Platforms with NVIDIA Omniverse NuRec",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-08-31T16:27:21.959129+00:00",
+    "published": "2026-08-31T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-tips-on-securing-water-sector-ai-era": {
+    "title": "Cloud CISO Perspectives: Tips on securing the water sector in the AI era",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-08-31T16:27:21.959129+00:00",
+    "published": "2026-08-31T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/data-analytics/build-data-pipelines-in-less-time-with-data-agent-kit": {
+    "title": "From weeks to minutes: The new agentic era of data pipelines",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-08-31T16:27:21.959129+00:00",
+    "published": "2026-08-31T16:00:00+00:00"
+  },
+  "https://opentelemetry.io/blog/2026/go-logs-api-sdk-rc": {
+    "title": "OpenTelemetry Go Logs API and SDK reach release candidate status",
+    "source": "OpenTelemetry Blog",
+    "first_seen": "2026-08-31T16:27:21.959129+00:00",
+    "published": "2026-08-31T15:40:58+00:00"
+  },
+  "https://usealmanac.com": {
+    "title": "Launch HN: Almanac (YC S26) – AI that knows your company",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-31T16:27:21.959129+00:00",
+    "published": "2026-08-31T15:34:34+00:00"
+  },
+  "https://blog.bytebytego.com/p/what-happens-inside-an-ai-chatbot": {
+    "title": "What Happens Inside an AI Chatbot Between Enter and the First Word?",
+    "source": "ByteByteGo",
+    "first_seen": "2026-08-31T16:27:21.959129+00:00",
+    "published": "2026-08-31T15:31:20+00:00"
+  },
+  "https://lwn.net/Articles/1091606": {
+    "title": "OpenShot 4.0 released",
+    "source": "LWN.net",
+    "first_seen": "2026-08-31T16:27:21.959129+00:00",
+    "published": "2026-08-31T15:03:32+00:00"
+  },
+  "https://github.com/Hebbian-Robotics/hflow": {
+    "title": "Launch HN: Hebbian Robotics (YC S26) – Build scalable robotics data pipelines",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-31T16:27:21.959129+00:00",
+    "published": "2026-08-31T15:02:41+00:00"
+  },
+  "https://trustcontrols.ai": {
+    "title": "Agentic Trust Controls",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-31T16:27:21.959129+00:00",
+    "published": "2026-08-31T15:01:04+00:00"
+  },
+  "https://thenewstack.io/cut-coding-agent-tokens": {
+    "title": "Cut coding agent token use with better tool output",
+    "source": "The New Stack",
+    "first_seen": "2026-08-31T16:27:21.959129+00:00",
+    "published": "2026-08-31T15:00:00+00:00"
+  },
+  "https://iggy.apache.org/blogs/2026/08/24/apache-iggy-top-level-project-tlp-graduation": {
+    "title": "Apache Iggy, a message streaming platform in Rust, graduates to an Apache TLP",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-31T16:27:21.959129+00:00",
+    "published": "2026-08-31T14:54:20+00:00"
+  },
+  "https://www.reddit.com/r/kobo/comments/1w20azv/the_doubling_of_kobos_us_sales_in_both_2025_and": {
+    "title": "Doubling of Kobo's U.S. sales in both 2025 and 2026, 70% US female customer base",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-31T16:27:21.959129+00:00",
+    "published": "2026-08-31T14:53:34+00:00"
+  },
+  "https://playaphone.com": {
+    "title": "Playa Phone",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-31T16:27:21.959129+00:00",
+    "published": "2026-08-31T14:52:26+00:00"
+  },
+  "https://www.cppstories.com/2026/hardening-experiments": {
+    "title": "C++26: Standard Library Hardening Experiments",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-31T16:27:21.959129+00:00",
+    "published": "2026-08-31T14:52:24+00:00"
+  },
+  "https://aeon.co/essays/at-the-heart-of-the-snow-leavis-two-cultures-clash": {
+    "title": "Culture Clash",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-31T16:27:21.959129+00:00",
+    "published": "2026-08-31T14:50:24+00:00"
+  },
+  "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-welcome-ducklabs-to-the-team-agentic-resource-discovery-ard-and-more-august-31-2026": {
+    "title": "AWS Weekly Roundup: Welcome DuckLabs to the team, Agentic Resource Discovery (ARD), and more (August 31, 2026)",
+    "source": "AWS Blog",
+    "first_seen": "2026-08-31T16:27:21.959129+00:00",
+    "published": "2026-08-31T14:45:25+00:00"
+  },
+  "https://lwn.net/Articles/1091600": {
+    "title": "Netdev 0x1A videos and slides are now live",
+    "source": "LWN.net",
+    "first_seen": "2026-08-31T16:27:21.959129+00:00",
+    "published": "2026-08-31T14:44:44+00:00"
+  },
+  "https://blog.jim-nielsen.com/2026/nuance-for-me-none-for-you": {
+    "title": "My Experience Has Nuance, Yours Is a Data Point",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-31T16:27:21.959129+00:00",
+    "published": "2026-08-31T14:37:28+00:00"
+  },
+  "https://lwn.net/Articles/1089791": {
+    "title": "[$] The rest of the 7.3 merge window",
+    "source": "LWN.net",
+    "first_seen": "2026-08-31T16:27:21.959129+00:00",
+    "published": "2026-08-31T14:12:19+00:00"
+  },
+  "https://codex-tool-reference.simonw.chatgpt.site": {
+    "title": "ChatGPT Work Tool and Skill Reference",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-31T16:27:21.959129+00:00",
+    "published": "2026-08-31T14:07:15+00:00"
+  },
+  "https://tailscale.com/blog/tailcat": {
+    "title": "Tailcat: Tailscale without Tailscale, by Tailscale",
+    "source": "Tailscale Blog",
+    "first_seen": "2026-08-31T16:27:21.959129+00:00",
+    "published": "2026-08-31T14:00:00+00:00"
+  },
+  "https://tailscale.com/blog/easier-building-with-tailscale": {
+    "title": "Build with Tailscale. Build on Tailscale.",
+    "source": "Tailscale Blog",
+    "first_seen": "2026-08-31T16:27:21.959129+00:00",
+    "published": "2026-08-31T14:00:00+00:00"
+  },
+  "https://realpython.com/python-async-features": {
+    "title": "Async Programming in Python: From Generators to asyncio",
+    "source": "Real Python",
+    "first_seen": "2026-08-31T16:27:21.959129+00:00",
+    "published": "2026-08-31T14:00:00+00:00"
+  },
+  "https://serverbox.stupidlabs.lol": {
+    "title": "Show HN: Linux server management over SSH – written in Rust and Tauri",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-31T16:27:21.959129+00:00",
+    "published": "2026-08-31T13:39:43+00:00"
+  },
+  "https://www.phoronix.com/review/linux-73-features": {
+    "title": "Linux 7.3 Features Many Exciting Improvements, New Hardware Support & Faster Btrfs",
+    "source": "Phoronix",
+    "first_seen": "2026-08-31T16:27:21.959129+00:00",
+    "published": "2026-08-31T13:33:00+00:00"
+  },
+  "https://thenewstack.io/claude-automated-alignment-research": {
+    "title": "Anthropic’s Claude fixed all 10 alignment failures. Then it tried to cheat 2.4% of the time.",
+    "source": "The New Stack",
+    "first_seen": "2026-08-31T16:27:21.959129+00:00",
+    "published": "2026-08-31T13:09:17+00:00"
+  },
+  "https://lwn.net/Articles/1091536": {
+    "title": "Security updates for Monday",
+    "source": "LWN.net",
+    "first_seen": "2026-08-31T16:27:21.959129+00:00",
+    "published": "2026-08-31T13:07:18+00:00"
+  },
+  "https://www.docker.com/blog/secure-by-default-is-your-only-way-forward": {
+    "title": "Secure by default is your only way forward",
+    "source": "Docker Blog",
+    "first_seen": "2026-08-31T16:27:21.959129+00:00",
+    "published": "2026-08-31T13:00:00+00:00"
+  },
+  "https://thenewstack.io/agent-context-development-lifecycle": {
+    "title": "Your agent context needs a development lifecycle",
+    "source": "The New Stack",
+    "first_seen": "2026-08-31T16:27:21.959129+00:00",
+    "published": "2026-08-31T13:00:00+00:00"
+  },
+  "https://blog.cloudflare.com/introducing-adaptive-intelligence": {
+    "title": "Introducing Adaptive Intelligence: undermining the economics of every bot attack",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-08-31T16:27:21.959129+00:00",
+    "published": "2026-08-31T12:59:00+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-USB4-Apple-Silicon": {
+    "title": "Linux Kernel Patches Out For Review To Enable USB4/Thunderbolt For Apple M1 / M2 / M3",
+    "source": "Phoronix",
+    "first_seen": "2026-08-31T16:27:21.959129+00:00",
+    "published": "2026-08-31T12:55:11+00:00"
+  },
+  "https://thenewstack.io/deepseek-gemini-vision-comparison": {
+    "title": "DeepSeek’s first vision model vs. Gemini 3.7 Flash: It comes down to spend vs. speed",
+    "source": "The New Stack",
+    "first_seen": "2026-08-31T16:27:21.959129+00:00",
+    "published": "2026-08-31T12:00:00+00:00"
+  },
+  "https://realpython.com/quizzes/python-async-features": {
+    "title": "Quiz: Async Programming in Python: From Generators to asyncio",
+    "source": "Real Python",
+    "first_seen": "2026-08-31T16:27:21.959129+00:00",
+    "published": "2026-08-31T12:00:00+00:00"
+  },
+  "https://www.cncf.io/blog/2026/08/31/opentelemetry-has-graduated-now-what-2": {
+    "title": "OpenTelemetry has graduated… now what?",
+    "source": "CNCF Blog",
+    "first_seen": "2026-08-31T16:27:21.959129+00:00",
+    "published": "2026-08-31T11:30:00+00:00"
+  },
+  "https://calpaterson.com/memoryfields.html": {
+    "title": "Agent Memory as a File Format",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-31T16:27:21.959129+00:00",
+    "published": "2026-08-31T11:17:25+00:00"
+  },
+  "https://www.schneier.com/blog/archives/2026/08/hiding-prompt-injection-in-legal-filing.html": {
+    "title": "Hiding Prompt Injection in Legal Filing",
+    "source": "Schneier on Security",
+    "first_seen": "2026-08-31T16:27:21.959129+00:00",
+    "published": "2026-08-31T11:03:40+00:00"
+  },
+  "https://www.mdubakov.me/malleable-software-solid-bases-custom-code": {
+    "title": "Malleable software = solid bases and custom code",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-31T16:27:21.959129+00:00",
+    "published": "2026-08-31T10:36:43+00:00"
+  },
+  "https://www.phoronix.com/news/Servo-0.5-Released": {
+    "title": "Servo 0.5 Released: DuckDuckGo Properly Rendering, Up To 10x Faster Text Rendering",
+    "source": "Phoronix",
+    "first_seen": "2026-08-31T16:27:21.959129+00:00",
+    "published": "2026-08-31T10:36:28+00:00"
+  },
+  "https://www.phoronix.com/news/AMD-Zen-6-Client-EPP-Tunings": {
+    "title": "New Linux Patches Tune AMD Ryzen Zen 6 To Optimize Performance & Power Consumption",
+    "source": "Phoronix",
+    "first_seen": "2026-08-31T16:27:21.959129+00:00",
+    "published": "2026-08-31T10:23:32+00:00"
+  },
+  "https://www.phoronix.com/news/Mesa-Vulkan-Faster-Sorting": {
+    "title": "A Faster Merge Sort For Mesa 26.3 Vulkan Drivers To Benefit Ray-Tracing",
+    "source": "Phoronix",
+    "first_seen": "2026-08-31T16:27:21.959129+00:00",
+    "published": "2026-08-31T10:07:13+00:00"
+  },
+  "https://thenewstack.io/tide-raziel-emergent-authority": {
+    "title": "Tide launched Raziel for AI security. It assumes hackers are inside.",
+    "source": "The New Stack",
+    "first_seen": "2026-08-31T16:27:21.959129+00:00",
+    "published": "2026-08-31T10:00:00+00:00"
+  },
+  "https://stratechery.com/2026/meta-settles-a-framework-for-regulating-content-the-rest-of-big-tech": {
+    "title": "Meta Settles, A Framework For Regulating Content, The Rest of Big Tech",
+    "source": "Stratechery",
+    "first_seen": "2026-08-31T16:27:21.959129+00:00",
+    "published": "2026-08-31T10:00:00+00:00"
+  },
+  "https://www.openshot.org/blog/2026/08/30/openshot-40-record-edit-color-like-never-before": {
+    "title": "OpenShot 4.0: Record, Edit, and Color Like Never Before",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-31T16:27:21.959129+00:00",
+    "published": "2026-08-31T09:59:05+00:00"
+  },
+  "https://www.phoronix.com/news/NVIDIA-VA-API-Driver-0.0.18": {
+    "title": "NVIDIA VA-API Driver 0.0.18 Ships More Fixes, Chrome/Chromium Decode On Direct Backend",
+    "source": "Phoronix",
+    "first_seen": "2026-08-31T16:27:21.959129+00:00",
+    "published": "2026-08-31T09:48:13+00:00"
+  },
+  "https://povesham.wordpress.com/2026/08/30/state-of-the-map-2026-openstreetmap-conference": {
+    "title": "State of the Map 2026: OpenStreetMap conference",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-31T16:27:21.959129+00:00",
+    "published": "2026-08-31T08:57:35+00:00"
+  },
+  "https://research.uga.edu/news/blue-light-has-a-surprising-effect-on-your-eyes-study-finds": {
+    "title": "Study: Blue light impairs the eye's ability to distinguish fine detail most",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-31T16:27:21.959129+00:00",
+    "published": "2026-08-31T08:33:01+00:00"
+  },
+  "https://reactos.org/project-news/reactos-0416-released": {
+    "title": "ReactOS 0.4.16",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-31T16:27:21.959129+00:00",
+    "published": "2026-08-31T08:13:37+00:00"
+  },
+  "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode": {
+    "title": "Breaking Claude Code Opus 5 Auto Mode",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-31T16:27:21.959129+00:00",
+    "published": "2026-08-31T07:49:18+00:00"
+  },
+  "https://arstechnica.com/gaming/2026/08/a-12tb-steam-teraleak-spills-more-than-a-decade-of-lost-pc-gaming-history": {
+    "title": "A 12TB Steam “teraleak” spills more than a decade of lost PC gaming history",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-31T16:27:21.959129+00:00",
+    "published": "2026-08-31T06:10:44+00:00"
+  },
+  "https://github.com/astral-sh/uv/pull/21327": {
+    "title": "uv: Deduplicate all files in the wheel cache",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-08-31T16:27:21.959129+00:00",
+    "published": "2026-08-31T06:03:02+00:00"
+  },
+  "https://blog.codinghorror.com/you-cant-vibe-code-love": {
+    "title": "You Can't \"Vibe Code\" Love",
+    "source": "Coding Horror",
+    "first_seen": "2026-08-31T16:27:21.959129+00:00",
+    "published": "2026-08-31T04:35:57+00:00"
+  },
+  "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads": {
+    "title": "A milestone in expanding access to AI",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-08-31T16:27:21.959129+00:00",
+    "published": "2026-08-31T04:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.3-rc1-Code-Stats": {
+    "title": "Linux 7.3-rc1 Close To 41 Million Lines, AMD Kernel Graphics Driver At 6.5 Million Lines",
+    "source": "Phoronix",
+    "first_seen": "2026-08-31T16:27:21.959129+00:00",
+    "published": "2026-08-31T00:23:22+00:00"
+  },
+  "https://matklad.github.io/2026/08/31/cancelation-terminology.html": {
+    "title": "Cancelation Terminology",
+    "source": "matklad",
+    "first_seen": "2026-08-31T16:27:21.959129+00:00",
+    "published": "2026-08-31T00:00:00+00:00"
+  },
+  "https://astro.build/blog/whats-new-august-2026": {
+    "title": "What's new in Astro - August 2026",
+    "source": "Astro Blog",
+    "first_seen": "2026-08-31T16:27:21.959129+00:00",
+    "published": "2026-08-31T00:00:00+00:00"
+  },
+  "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work": {
+    "title": "Understanding ChatGPT Work",
+    "source": "Simon Willison",
+    "first_seen": "2026-08-31T16:27:21.959129+00:00",
+    "published": "2026-08-30T23:59:47+00:00"
   }
 }
