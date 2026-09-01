@@ -81836,5 +81836,233 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-09-01T00:10:03.446867+00:00",
     "published": "2026-08-30T22:37:01+00:00"
+  },
+  "https://www.databricks.com/blog/new-brickbuilder-partner-network-tiers-isvs-and-data-providers-are-here": {
+    "title": "The new Brickbuilder Partner Network tiers for ISVs and Data Providers are here",
+    "source": "Databricks Blog",
+    "first_seen": "2026-09-01T13:45:05.153014+00:00",
+    "published": "2026-09-01T14:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/topics/threat-intelligence/financially-motivated-threat-actor-breeze-comet-targets-brazil": {
+    "title": "Financially Motivated Threat Actor BREEZE COMET Targets Brazil",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-09-01T13:45:05.153014+00:00",
+    "published": "2026-09-01T14:00:00+00:00"
+  },
+  "https://www.databricks.com/blog/how-discovery-bank-delivers-hyper-personalized-banking-scale-behavioral-ai-governed-data-and": {
+    "title": "How Discovery Bank delivers hyper-personalized banking at scale: behavioral AI, governed data, and real-time decisioning",
+    "source": "Databricks Blog",
+    "first_seen": "2026-09-01T13:45:05.153014+00:00",
+    "published": "2026-09-01T13:30:00+00:00"
+  },
+  "https://lwn.net/Articles/1091919": {
+    "title": "Security updates for Tuesday",
+    "source": "LWN.net",
+    "first_seen": "2026-09-01T13:45:05.153014+00:00",
+    "published": "2026-09-01T13:17:25+00:00"
+  },
+  "https://martin.kleppmann.com/2015/05/11/please-stop-calling-databases-cp-or-ap.html": {
+    "title": "Please stop calling databases CP or AP (2015)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-01T13:45:05.153014+00:00",
+    "published": "2026-09-01T13:09:28+00:00"
+  },
+  "https://aws.amazon.com/blogs/architecture/mcp-went-stateless-is-your-aws-mcp-server-deployment-well-architected": {
+    "title": "MCP went stateless: Is your AWS MCP server deployment well-architected?",
+    "source": "AWS Architecture Blog",
+    "first_seen": "2026-09-01T13:45:05.153014+00:00",
+    "published": "2026-09-01T13:09:19+00:00"
+  },
+  "https://aws.amazon.com/blogs/compute/scheduling-email-campaigns-at-scale-with-amazon-eventbridge-scheduler": {
+    "title": "Scheduling email campaigns at scale with Amazon EventBridge Scheduler",
+    "source": "AWS Compute Blog",
+    "first_seen": "2026-09-01T13:45:05.153014+00:00",
+    "published": "2026-09-01T13:09:17+00:00"
+  },
+  "https://blog.cloudflare.com/cache-transcoding": {
+    "title": "How we could save petabytes of cache storage with Zstandard and Pingora",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-09-01T13:45:05.153014+00:00",
+    "published": "2026-09-01T12:59:00+00:00"
+  },
+  "https://www.eff.org/deeplinks/2026/08/eff-courts-dont-rewrite-copyright-over-ai-hype": {
+    "title": "EFF to Courts: Don't Rewrite Copyright over AI Hype",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-01T13:45:05.153014+00:00",
+    "published": "2026-09-01T12:53:51+00:00"
+  },
+  "https://www.phoronix.com/news/systemd-262-rc1": {
+    "title": "systemd 262-rc1 Released With Live Update Orchestrator Integration & More",
+    "source": "Phoronix",
+    "first_seen": "2026-09-01T13:45:05.153014+00:00",
+    "published": "2026-09-01T12:07:54+00:00"
+  },
+  "https://realpython.com/quizzes/automating-eda-with-fg-data-profiling": {
+    "title": "Quiz: Automating EDA With fg-data-profiling",
+    "source": "Real Python",
+    "first_seen": "2026-09-01T13:45:05.153014+00:00",
+    "published": "2026-09-01T12:00:00+00:00"
+  },
+  "https://neon.com/blog/neon-is-now-available-in-grok-bot": {
+    "title": "Neon is now available in Grok Bot",
+    "source": "Neon Blog",
+    "first_seen": "2026-09-01T13:45:05.153014+00:00",
+    "published": "2026-09-01T12:00:00+00:00"
+  },
+  "https://www.cncf.io/blog/2026/09/01/platform-engineering-maturity-from-toolchain-to-self-service": {
+    "title": "Platform engineering maturity: From toolchain to self-service",
+    "source": "CNCF Blog",
+    "first_seen": "2026-09-01T13:45:05.153014+00:00",
+    "published": "2026-09-01T11:35:00+00:00"
+  },
+  "https://www.phoronix.com/news/AMD-Zen-6-Client-CPPC-Changes": {
+    "title": "Linux Changes For CPPC On Zen 6 Clients - Hard-Coded Default Puts Low-Power Core At 0.47x",
+    "source": "Phoronix",
+    "first_seen": "2026-09-01T13:45:05.153014+00:00",
+    "published": "2026-09-01T10:36:00+00:00"
+  },
+  "https://www.phoronix.com/news/Intel-Xe-Linux-7.4-First-PR": {
+    "title": "Intel Graphics Driver Introducing Cold Reset Recovery For Linux 7.4, Panther Lake IBC v3",
+    "source": "Phoronix",
+    "first_seen": "2026-09-01T13:45:05.153014+00:00",
+    "published": "2026-09-01T10:15:20+00:00"
+  },
+  "https://github.com/ankidroid/Anki-Android/issues/21656": {
+    "title": "AnkiDroid: Google Play no longer allowing Open Collective donation link",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-01T13:45:05.153014+00:00",
+    "published": "2026-09-01T10:11:02+00:00"
+  },
+  "https://www.phoronix.com/news/August-2026-Highlights": {
+    "title": "The Linux Kernel AI Flood, Linux 7.2 Release & Other August Highlights",
+    "source": "Phoronix",
+    "first_seen": "2026-09-01T13:45:05.153014+00:00",
+    "published": "2026-09-01T10:01:31+00:00"
+  },
+  "https://stratechery.com/2026/nvidia-earnings-dollars-per-gigawatt-open-and-hugging-face": {
+    "title": "Nvidia Earnings, Dollars Per Gigawatt, Open and Hugging Face",
+    "source": "Stratechery",
+    "first_seen": "2026-09-01T13:45:05.153014+00:00",
+    "published": "2026-09-01T10:00:00+00:00"
+  },
+  "https://www.schneier.com/blog/archives/2026/09/rewiring-democracy-series-on-the-renovator.html": {
+    "title": "Rewiring Democracy Series on The Renovator",
+    "source": "Schneier on Security",
+    "first_seen": "2026-09-01T13:45:05.153014+00:00",
+    "published": "2026-09-01T09:59:07+00:00"
+  },
+  "https://mvakde.github.io/blog/44-on-arc-1": {
+    "title": "44% on ARC-AGI-1 in 67 cents",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-01T13:45:05.153014+00:00",
+    "published": "2026-09-01T09:52:45+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.3-EDAC": {
+    "title": "EDAC Changes Merged For Linux 7.3 After Being Forgotten About During The Merge Window",
+    "source": "Phoronix",
+    "first_seen": "2026-09-01T13:45:05.153014+00:00",
+    "published": "2026-09-01T09:52:03+00:00"
+  },
+  "https://science.nasa.gov/mission/roman-space-telescope/adopt-a-pixel": {
+    "title": "NASA: Fill in a name, and you can have an exclusive coordinate in the universe",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-01T13:45:05.153014+00:00",
+    "published": "2026-09-01T09:46:39+00:00"
+  },
+  "https://stackoverflow.blog/2026/09/01/the-good-ol-days-of-building-java": {
+    "title": "The good ol’ days of building Java",
+    "source": "Stack Overflow Blog",
+    "first_seen": "2026-09-01T13:45:05.153014+00:00",
+    "published": "2026-09-01T07:40:00+00:00"
+  },
+  "https://www.ycombinator.com/companies/collectwise/jobs/7U500pP-founding-customer-success-engineer": {
+    "title": "CollectWise (YC F24) Is Hiring",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-01T13:45:05.153014+00:00",
+    "published": "2026-09-01T07:01:49+00:00"
+  },
+  "https://restroomarchive.com": {
+    "title": "Restroom Archive",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-01T13:45:05.153014+00:00",
+    "published": "2026-09-01T03:23:48+00:00"
+  },
+  "https://www.gpuworld.org": {
+    "title": "GPU World",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-01T13:45:05.153014+00:00",
+    "published": "2026-09-01T03:16:36+00:00"
+  },
+  "https://fastpotify.rocks": {
+    "title": "Fastpotify",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-01T13:45:05.153014+00:00",
+    "published": "2026-09-01T02:52:14+00:00"
+  },
+  "https://github.com/fregacmols/RotaryCell": {
+    "title": "RotaryCell: Making an unmodified rotary phone work over LTE with an ESP32-S3",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-01T13:45:05.153014+00:00",
+    "published": "2026-09-01T02:29:23+00:00"
+  },
+  "https://www.phoronix.com/news/KDE-Linux-August-2026": {
+    "title": "KDE Linux Now Providing Automatic Btrfs Snapshots For All User Files",
+    "source": "Phoronix",
+    "first_seen": "2026-09-01T13:45:05.153014+00:00",
+    "published": "2026-09-01T00:49:02+00:00"
+  },
+  "https://www.phoronix.com/news/NVIDIA-Linux-Sched-Vera-SMT": {
+    "title": "NVIDIA Posts Linux Scheduler Patches To Further Boost SMT Performance On NVIDIA Vera",
+    "source": "Phoronix",
+    "first_seen": "2026-09-01T13:45:05.153014+00:00",
+    "published": "2026-09-01T00:26:40+00:00"
+  },
+  "https://blog.rust-lang.org/2026/09/01/Rustup-1.29.1": {
+    "title": "Announcing rustup 1.29.1",
+    "source": "Rust Blog",
+    "first_seen": "2026-09-01T13:45:05.153014+00:00",
+    "published": "2026-09-01T00:00:00+00:00"
+  },
+  "https://blog.python.org/2026/09/python-3150-rc2": {
+    "title": "Python 3.15.0 candidate 2 is here!",
+    "source": "Python Insider",
+    "first_seen": "2026-09-01T13:45:05.153014+00:00",
+    "published": "2026-09-01T00:00:00+00:00"
+  },
+  "https://simonwillison.net/2026/Aug/31/introducing-wrapture": {
+    "title": "Introducing wrapture",
+    "source": "Simon Willison",
+    "first_seen": "2026-09-01T13:45:05.153014+00:00",
+    "published": "2026-08-31T23:59:36+00:00"
+  },
+  "https://datacolada.org/138": {
+    "title": "Evidence of Fraud in an Influential Study About Procrastination",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-01T13:45:05.153014+00:00",
+    "published": "2026-08-31T23:45:56+00:00"
+  },
+  "https://tmpout.sh/5": {
+    "title": "Tmp.0ut Volume 5",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-01T13:45:05.153014+00:00",
+    "published": "2026-08-31T23:26:08+00:00"
+  },
+  "https://simonwillison.net/2026/Aug/31/andrew-digby": {
+    "title": "Quoting Andrew Digby",
+    "source": "Simon Willison",
+    "first_seen": "2026-09-01T13:45:05.153014+00:00",
+    "published": "2026-08-31T22:25:02+00:00"
+  },
+  "https://azure.microsoft.com/en-us/blog/introducing-azure-multicloud-interconnect-for-aws": {
+    "title": "Introducing Azure Multicloud Interconnect for AWS",
+    "source": "Azure Blog",
+    "first_seen": "2026-09-01T13:45:05.153014+00:00",
+    "published": "2026-08-31T18:00:00+00:00"
+  },
+  "https://azure.microsoft.com/en-us/blog/inside-microsofts-marketing-team-scaling-expertise-with-ai": {
+    "title": "Inside Microsoft’s marketing team: Scaling expertise with AI",
+    "source": "Azure Blog",
+    "first_seen": "2026-09-01T13:45:05.153014+00:00",
+    "published": "2026-08-31T16:00:00+00:00"
   }
 }
