@@ -81524,5 +81524,317 @@
     "source": "Simon Willison",
     "first_seen": "2026-08-31T16:27:21.959129+00:00",
     "published": "2026-08-30T23:59:47+00:00"
+  },
+  "https://svelte.dev/blog/whats-new-in-svelte-september-2026": {
+    "title": "What’s new in Svelte: September 2026",
+    "source": "Svelte Blog",
+    "first_seen": "2026-09-01T00:10:03.446867+00:00",
+    "published": "2026-09-01T00:00:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/resolve-circular-role-dependencies-during-upgrades-of-amazon-rds-for-postgresql-and-amazon-aurora": {
+    "title": "Fix circular role dependencies before upgrading Amazon RDS and Amazon Aurora PostgreSQL",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-09-01T00:10:03.446867+00:00",
+    "published": "2026-08-31T23:42:55+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/deliver-real-time-data-to-streaming-tables-for-apache-iceberg-with-amazon-kinesis-data-streams": {
+    "title": "Deliver real-time data to streaming tables for Apache Iceberg with Amazon Kinesis Data Streams",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-09-01T00:10:03.446867+00:00",
+    "published": "2026-08-31T23:03:25+00:00"
+  },
+  "https://cloud.google.com/blog/products/data-analytics/bigquery-graph-connecting-data-and-ai-at-scale": {
+    "title": "BigQuery Graph is now GA: the knowledge foundation for the agentic era",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-09-01T00:10:03.446867+00:00",
+    "published": "2026-08-31T23:00:00+00:00"
+  },
+  "https://www.darlinghq.org": {
+    "title": "Run macOS Software on Linux",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-01T00:10:03.446867+00:00",
+    "published": "2026-08-31T22:53:45+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/connect-an-agentcore-runtime-hosted-mcp-server-to-amazon-quick": {
+    "title": "Connect an AgentCore Runtime hosted MCP server to Amazon Quick",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-09-01T00:10:03.446867+00:00",
+    "published": "2026-08-31T22:47:53+00:00"
+  },
+  "https://cgicoffee.com/blog/2026/04/tcl-tk-develop-cross-platform-cli-gui-tools-tutorial-guide": {
+    "title": "Develop Cross-Platform CLI and GUI Tools with Tcl/Tk",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-01T00:10:03.446867+00:00",
+    "published": "2026-08-31T22:32:22+00:00"
+  },
+  "https://thenewstack.io/anthropic-spacex-cursor-compute-openai": {
+    "title": "SpaceX is in an “enviable position”: why Anthropic is sticking with Cursor as OpenAI cuts access",
+    "source": "The New Stack",
+    "first_seen": "2026-09-01T00:10:03.446867+00:00",
+    "published": "2026-08-31T21:47:04+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/measuring-and-improving-search-quality-with-amazon-opensearch-service": {
+    "title": "Measuring and improving search quality with Amazon OpenSearch Service",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-09-01T00:10:03.446867+00:00",
+    "published": "2026-08-31T21:13:36+00:00"
+  },
+  "https://www.sixpatterns.com/blog/how-we-configured-opentelemetry-logs-in-rails": {
+    "title": "How we configured OpenTelemetry logs in Rails",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-01T00:10:03.446867+00:00",
+    "published": "2026-08-31T21:12:22+00:00"
+  },
+  "https://webiterate.dev/google-removed-extensions-ublock-origin-108": {
+    "title": "Google Has Removed MV2 Extensions from the Chrome Web Store, Including UBO",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-01T00:10:03.446867+00:00",
+    "published": "2026-08-31T21:10:58+00:00"
+  },
+  "https://www.phoronix.com/news/Rust-Coreutils-0.11": {
+    "title": "Rust Coreutils 0.11 Released With Some Nifty Debug Helper Messages",
+    "source": "Phoronix",
+    "first_seen": "2026-09-01T00:10:03.446867+00:00",
+    "published": "2026-08-31T21:03:00+00:00"
+  },
+  "https://news.ycombinator.com/item?id=49514781": {
+    "title": "Autonomous (YC F25) is hiring engineers",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-01T00:10:03.446867+00:00",
+    "published": "2026-08-31T21:00:09+00:00"
+  },
+  "https://devblogs.microsoft.com/devops/enterprise-live-migrations-public-preview": {
+    "title": "Enterprise Live Migrations is now in public preview",
+    "source": "MS DevOps Blog",
+    "first_seen": "2026-09-01T00:10:03.446867+00:00",
+    "published": "2026-08-31T20:52:38+00:00"
+  },
+  "https://www.phoronix.com/news/Firefox-155-Released": {
+    "title": "Firefox 155 Available With Faster Page Loads Via Happy Eyeballs v3, QUIC v2 For HTTP/3",
+    "source": "Phoronix",
+    "first_seen": "2026-09-01T00:10:03.446867+00:00",
+    "published": "2026-08-31T20:48:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/provision-a-secure-amazon-documentdb-cluster-with-terraform": {
+    "title": "Provision a secure Amazon DocumentDB cluster with Terraform",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-09-01T00:10:03.446867+00:00",
+    "published": "2026-08-31T20:24:23+00:00"
+  },
+  "https://thenewstack.io/ard-agent-discovery-specification": {
+    "title": "MCP was supposed to solve the agent tooling problem. It missed a step.",
+    "source": "The New Stack",
+    "first_seen": "2026-09-01T00:10:03.446867+00:00",
+    "published": "2026-08-31T20:04:20+00:00"
+  },
+  "https://aws.amazon.com/blogs/aws/amazon-ec2-r9g-and-r9gd-instances-powered-by-aws-graviton5-processors-are-now-generally-available": {
+    "title": "Amazon EC2 R9g and R9gd instances powered by AWS Graviton5 processors are now generally available",
+    "source": "AWS Blog",
+    "first_seen": "2026-09-01T00:10:03.446867+00:00",
+    "published": "2026-08-31T19:53:34+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/aws-recognized-as-a-leader-in-the-forrester-wave-ai-infrastructure-solutions-q4-2025": {
+    "title": "AWS recognized as a Leader in The Forrester Wave: AI Infrastructure Solutions, Q4 2025",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-09-01T00:10:03.446867+00:00",
+    "published": "2026-08-31T19:50:12+00:00"
+  },
+  "https://thenewstack.io/google-timesfm-3-multivariate-forecasting": {
+    "title": "Google’s new forecasting model beats everyone. You can’t use it at work (yet).",
+    "source": "The New Stack",
+    "first_seen": "2026-09-01T00:10:03.446867+00:00",
+    "published": "2026-08-31T19:41:54+00:00"
+  },
+  "https://www.phoronix.com/news/AMD-UALink-Linux-Patches-v2": {
+    "title": "AMD Updates UALink Patches To Get The Linux Kernel Ready For UALoE On Helios",
+    "source": "Phoronix",
+    "first_seen": "2026-09-01T00:10:03.446867+00:00",
+    "published": "2026-08-31T19:39:10+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/manage-agents-tools-and-skills-at-scale-with-aws-agent-registry": {
+    "title": "Manage agents, tools and skills at scale with AWS Agent Registry",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-09-01T00:10:03.446867+00:00",
+    "published": "2026-08-31T19:18:09+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/build-observable-enterprise-agentic-retrieval-using-managed-amazon-bedrock-knowledge-base-with-aws-cloudformation": {
+    "title": "Build observable enterprise agentic retrieval using Managed Amazon Bedrock Knowledge Base with AWS CloudFormation",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-09-01T00:10:03.446867+00:00",
+    "published": "2026-08-31T19:08:45+00:00"
+  },
+  "https://eng.lyft.com/rerouting-the-stream-how-lyft-moved-to-the-apache-flink-operator-36f20246d250?source=rss----25cd379abb8---4": {
+    "title": "Rerouting the Stream: How Lyft Moved to the Apache Flink Operator",
+    "source": "Lyft Engineering",
+    "first_seen": "2026-09-01T00:10:03.446867+00:00",
+    "published": "2026-08-31T19:08:16+00:00"
+  },
+  "https://www.tigerdata.com/blog/companion-energy-case-study-tiger-data": {
+    "title": "How Companion.energy Reduced Query Latency 25x and Compressed Terabytes to Gigabytes with Tiger Cloud",
+    "source": "Timescale Blog",
+    "first_seen": "2026-09-01T00:10:03.446867+00:00",
+    "published": "2026-08-31T19:04:26+00:00"
+  },
+  "https://aws.amazon.com/blogs/security/we-invited-a-direct-competitor-into-security-hub-extended-heres-why": {
+    "title": "We invited a direct competitor into Security Hub Extended. Here’s why.",
+    "source": "AWS Security Blog",
+    "first_seen": "2026-09-01T00:10:03.446867+00:00",
+    "published": "2026-08-31T19:00:07+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/build-multi-tenant-agentic-chat-applications-on-enterprise-data-with-amazon-bedrock-managed-knowledge-base": {
+    "title": "Build multi-tenant agentic chat applications on enterprise data with Amazon Bedrock Managed Knowledge Base",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-09-01T00:10:03.446867+00:00",
+    "published": "2026-08-31T18:56:12+00:00"
+  },
+  "https://thenewstack.io/spacex-nvidia-orbital-ai": {
+    "title": "SpaceX designed an orbital Vera Rubin. Radiation comes next.",
+    "source": "The New Stack",
+    "first_seen": "2026-09-01T00:10:03.446867+00:00",
+    "published": "2026-08-31T18:55:35+00:00"
+  },
+  "https://thenewstack.io/openai-outcome-based-pricing": {
+    "title": "OpenAI wants to charge only when AI gets it right — here’s the catch",
+    "source": "The New Stack",
+    "first_seen": "2026-09-01T00:10:03.446867+00:00",
+    "published": "2026-08-31T18:47:25+00:00"
+  },
+  "https://www.phoronix.com/news/The-Ur-Project": {
+    "title": "Former Intel Engineer Who Was One Of The Clear Linux Architects Is Starting A New Distro",
+    "source": "Phoronix",
+    "first_seen": "2026-09-01T00:10:03.446867+00:00",
+    "published": "2026-08-31T18:30:09+00:00"
+  },
+  "https://kubernetes.io/blog/2026/08/31/kubernetes-v1-37-storage-version-migration-ga": {
+    "title": "Kubernetes v1.37: Storage Version Migration Enabled by Default",
+    "source": "Kubernetes Blog",
+    "first_seen": "2026-09-01T00:10:03.446867+00:00",
+    "published": "2026-08-31T18:30:00+00:00"
+  },
+  "https://www.youtube.com/watch?v=3YtygAx_C6A": {
+    "title": "A walkable ASCII cyberpunk city in one HTML file [video]",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-01T00:10:03.446867+00:00",
+    "published": "2026-08-31T18:21:33+00:00"
+  },
+  "https://www.schneier.com/blog/archives/2026/08/is-someone-hacking-dod-refrigerators.html": {
+    "title": "Is Someone Hacking DoD Refrigerators?",
+    "source": "Schneier on Security",
+    "first_seen": "2026-09-01T00:10:03.446867+00:00",
+    "published": "2026-08-31T18:20:35+00:00"
+  },
+  "http://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html": {
+    "title": "The safest job from AI may be writing",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-01T00:10:03.446867+00:00",
+    "published": "2026-08-31T18:12:20+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/integrate-amazon-redshift-and-iam-identity-center-with-enhanced-vpc-routing": {
+    "title": "Integrate Amazon Redshift and IAM Identity Center with enhanced VPC routing",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-09-01T00:10:03.446867+00:00",
+    "published": "2026-08-31T17:22:40+00:00"
+  },
+  "https://research.google/blog/timesfm-3-a-zero-shot-foundation-model-for-multivariate-forecasting": {
+    "title": "TimesFM-3: A zero-shot foundation model for multivariate forecasting",
+    "source": "Google Research",
+    "first_seen": "2026-09-01T00:10:03.446867+00:00",
+    "published": "2026-08-31T17:19:40+00:00"
+  },
+  "https://aws.amazon.com/blogs/security/automate-iam-identity-center-governance-with-continuous-discovery-and-reporting": {
+    "title": "Automate IAM Identity Center governance with continuous discovery and reporting",
+    "source": "AWS Security Blog",
+    "first_seen": "2026-09-01T00:10:03.446867+00:00",
+    "published": "2026-08-31T17:18:31+00:00"
+  },
+  "https://www.databricks.com/blog/autoscaling-lakebase-postgres": {
+    "title": "Autoscaling Lakebase Postgres",
+    "source": "Databricks Blog",
+    "first_seen": "2026-09-01T00:10:03.446867+00:00",
+    "published": "2026-08-31T17:00:00+00:00"
+  },
+  "https://dropbox.tech/security/how-our-inhouse-auditor-tests-cookie-behavior-across-hundreds-of-web-surfaces": {
+    "title": "Testing cookie behavior across hundreds of web surfaces with our in-house auditor",
+    "source": "Dropbox Tech",
+    "first_seen": "2026-09-01T00:10:03.446867+00:00",
+    "published": "2026-08-31T17:00:00+00:00"
+  },
+  "https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go": {
+    "title": "I turned my security cameras into an automatic bird identification system",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-01T00:10:03.446867+00:00",
+    "published": "2026-08-31T16:47:11+00:00"
+  },
+  "https://developer.nvidia.com/blog/run-nvidia-bionemo-nim-microservices-for-protein-structure-prediction-in-claude-science": {
+    "title": "Run NVIDIA BioNeMo NIM Microservices for Protein Structure Prediction in Claude Science",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-09-01T00:10:03.446867+00:00",
+    "published": "2026-08-31T16:30:00+00:00"
+  },
+  "https://ravynos.com": {
+    "title": "ravynOS: Pre-alpha open-source OS based on Darwin, FreeBSD, Apple open-source",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-01T00:10:03.446867+00:00",
+    "published": "2026-08-31T16:19:36+00:00"
+  },
+  "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand": {
+    "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-01T00:10:03.446867+00:00",
+    "published": "2026-08-31T12:41:22+00:00"
+  },
+  "https://neon.com/blog/autoscaling-lakebase-postgres": {
+    "title": "Autoscaling Lakebase Postgres",
+    "source": "Neon Blog",
+    "first_seen": "2026-09-01T00:10:03.446867+00:00",
+    "published": "2026-08-31T12:00:00+00:00"
+  },
+  "https://signalandsilence.substack.com/p/i-think-someone-hacked-the-commissary": {
+    "title": "I think the military commissary's freezers were hacked",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-01T00:10:03.446867+00:00",
+    "published": "2026-08-31T11:45:48+00:00"
+  },
+  "https://openai.com/index/polimill": {
+    "title": "Polimill builds Japan's next-generation public AI infrastructure",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-09-01T00:10:03.446867+00:00",
+    "published": "2026-08-31T07:00:00+00:00"
+  },
+  "https://www.theguardian.com/science/2026/aug/31/forbidden-planet-was-plutos-2006-demotion-a-big-mistake": {
+    "title": "Since it was stripped of planetary status, Pluto’s defenders have been fighting",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-01T00:10:03.446867+00:00",
+    "published": "2026-08-31T06:05:07+00:00"
+  },
+  "https://dreamstation.systems/personal/ntppost.html": {
+    "title": "Internet centralization and the original sin of NAT",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-01T00:10:03.446867+00:00",
+    "published": "2026-08-31T02:23:03+00:00"
+  },
+  "https://www.redpanda.com/blog/corebreak-ai-agent-vulnerability": {
+    "title": "CoreBreak proves agent guardrails need to live outside the agent",
+    "source": "Redpanda Blog",
+    "first_seen": "2026-09-01T00:10:03.446867+00:00",
+    "published": "2026-08-31T00:00:00+00:00"
+  },
+  "https://remix.run/blog/remix-3-release-candidate": {
+    "title": "Remix 3 Release Candidate",
+    "source": "Remix Blog",
+    "first_seen": "2026-09-01T00:10:03.446867+00:00",
+    "published": "2026-08-31T00:00:00+00:00"
+  },
+  "https://planetscale.com/blog/debugging-live-database-connections": {
+    "title": "How one connection kills a database",
+    "source": "PlanetScale Blog",
+    "first_seen": "2026-09-01T00:10:03.446867+00:00",
+    "published": "2026-08-31T00:00:00+00:00"
+  },
+  "https://www.youtube.com/watch?v=OOMx2BHHWtE": {
+    "title": "Terence Tao explains 6 essential mathematical concepts [video]",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-01T00:10:03.446867+00:00",
+    "published": "2026-08-30T22:37:01+00:00"
   }
 }
