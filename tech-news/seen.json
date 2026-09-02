@@ -82820,5 +82820,347 @@
     "source": "Simon Willison",
     "first_seen": "2026-09-02T13:01:44.052537+00:00",
     "published": "2026-09-01T15:30:12+00:00"
+  },
+  "https://www.databricks.com/blog/expanding-genie-agents-deep-analysis-file-reasoning-and-more": {
+    "title": "Expanding Genie Agents: Deep analysis, file reasoning, and more",
+    "source": "Databricks Blog",
+    "first_seen": "2026-09-02T18:11:51.065004+00:00",
+    "published": "2026-09-02T19:30:00+00:00"
+  },
+  "https://github.blog/ai-and-ml/github-copilot/how-we-make-ai-coding-more-cost-efficient-without-sacrificing-task-quality": {
+    "title": "How we make AI coding more cost efficient without sacrificing task quality",
+    "source": "GitHub Blog",
+    "first_seen": "2026-09-02T18:11:51.065004+00:00",
+    "published": "2026-09-02T18:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/KDE-Plasma-6.8-Dwell-Clicker": {
+    "title": "KDE Plasma 6.8 Lands Dwell Clicker Support To Improve Accessibility On Wayland",
+    "source": "Phoronix",
+    "first_seen": "2026-09-02T18:11:51.065004+00:00",
+    "published": "2026-09-02T17:51:36+00:00"
+  },
+  "https://ploum.net/2026-09-02-i_dont_have_a_smartphone.html": {
+    "title": "I Don't Have a Smartphone",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-02T18:11:51.065004+00:00",
+    "published": "2026-09-02T17:51:29+00:00"
+  },
+  "https://forums.paint.net/topic/134562-paintnet-52-alpha-build-9739": {
+    "title": "Paint.net 5.2 alpha now runs on Linux",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-02T18:11:51.065004+00:00",
+    "published": "2026-09-02T17:18:39+00:00"
+  },
+  "https://developer.nvidia.com/blog/the-modern-cuda-toolbox-in-practice-a-step-by-step-optimization-walkthrough": {
+    "title": "The Modern CUDA Toolbox in Practice: A Step-by-Step Optimization Walkthrough",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-09-02T18:11:51.065004+00:00",
+    "published": "2026-09-02T17:15:57+00:00"
+  },
+  "https://lwn.net/Articles/1090568": {
+    "title": "[$] Securely suspending LUKS-encrypted disks",
+    "source": "LWN.net",
+    "first_seen": "2026-09-02T18:11:51.065004+00:00",
+    "published": "2026-09-02T17:14:15+00:00"
+  },
+  "https://www.phoronix.com/news/Mesa-26.2.2-Released": {
+    "title": "Mesa 26.2.2 Enables Intel Nova Lake Graphics By Default",
+    "source": "Phoronix",
+    "first_seen": "2026-09-02T18:11:51.065004+00:00",
+    "published": "2026-09-02T17:05:41+00:00"
+  },
+  "https://webkit.org/blog/18227/fixing-top-level-await-in-safari": {
+    "title": "Fixing Top-Level Await in Safari",
+    "source": "WebKit Blog",
+    "first_seen": "2026-09-02T18:11:51.065004+00:00",
+    "published": "2026-09-02T17:05:29+00:00"
+  },
+  "https://successfulsoftware.net/2026/09/02/chatgpt-ad-targeting-is-garbage": {
+    "title": "ChatGPT ad targeting is garbage",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-02T18:11:51.065004+00:00",
+    "published": "2026-09-02T17:04:58+00:00"
+  },
+  "https://thenewstack.io/google-ships-its-third-gemini-flash-model-in-six-weeks": {
+    "title": "Google ships its third Gemini Flash model in six weeks",
+    "source": "The New Stack",
+    "first_seen": "2026-09-02T18:11:51.065004+00:00",
+    "published": "2026-09-02T16:56:52+00:00"
+  },
+  "https://practical.engineering/blog/2023/12/29/how-railroad-crossings-work": {
+    "title": "How Railroad Crossings Work",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-02T18:11:51.065004+00:00",
+    "published": "2026-09-02T16:52:20+00:00"
+  },
+  "https://pytorch.org/blog/agentic-ai-and-next-gen-intelligence-sessions-at-pytorch-conference-north-america-2026": {
+    "title": "Agentic AI and Next-Gen Intelligence Sessions at PyTorch Conference North America 2026",
+    "source": "PyTorch Blog",
+    "first_seen": "2026-09-02T18:11:51.065004+00:00",
+    "published": "2026-09-02T16:50:44+00:00"
+  },
+  "https://tangleml.com": {
+    "title": "Tangle – Visual ML Pipeline Editor",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-02T18:11:51.065004+00:00",
+    "published": "2026-09-02T16:49:29+00:00"
+  },
+  "https://simonwillison.net/2026/Sep/2/llm-gemini": {
+    "title": "llm-gemini 0.34",
+    "source": "Simon Willison",
+    "first_seen": "2026-09-02T18:11:51.065004+00:00",
+    "published": "2026-09-02T16:39:38+00:00"
+  },
+  "https://trackerninja.codeberg.page/post/how-to-debloat-your-xiaomi-15-ultra-without-rooting-and-connecting-it-to-the-computer": {
+    "title": "How to debloat your Xiaomi 15 Ultra without root access",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-02T18:11:51.065004+00:00",
+    "published": "2026-09-02T16:33:07+00:00"
+  },
+  "https://www.neuroai.science/p/the-race-to-engineer-new-knobs-for": {
+    "title": "The race to engineer new knobs for the human brain",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-02T18:11:51.065004+00:00",
+    "published": "2026-09-02T16:25:28+00:00"
+  },
+  "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises": {
+    "title": "Proactive cyber defense for governments and enterprises",
+    "source": "DeepMind Blog",
+    "first_seen": "2026-09-02T18:11:51.065004+00:00",
+    "published": "2026-09-02T16:24:24+00:00"
+  },
+  "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber": {
+    "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
+    "source": "DeepMind Blog",
+    "first_seen": "2026-09-02T18:11:51.065004+00:00",
+    "published": "2026-09-02T16:18:31+00:00"
+  },
+  "https://frontierharness.org": {
+    "title": "Show HN: FrontierHarness Eval – 9 harness, same model, cost per pass varies 17x",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-02T18:11:51.065004+00:00",
+    "published": "2026-09-02T16:14:52+00:00"
+  },
+  "https://developer.nvidia.com/blog/co-designing-ai-models-using-speculative-decoding-for-faster-llm-inference": {
+    "title": "Co-Designing AI Models Using Speculative Decoding for Faster LLM Inference",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-09-02T18:11:51.065004+00:00",
+    "published": "2026-09-02T16:04:19+00:00"
+  },
+  "https://cloud.google.com/blog/products/identity-security/getting-started-with-the-mantis-harness-to-find-and-fix-bugs": {
+    "title": "Getting started with Mantis, our open-source bug finding-and-fixing harness",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-09-02T18:11:51.065004+00:00",
+    "published": "2026-09-02T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/data-analytics/bigquery-identity-columns-to-auto-generate-sequential-integers": {
+    "title": "Simplify pipelines with new BigQuery identity columns",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-09-02T18:11:51.065004+00:00",
+    "published": "2026-09-02T16:00:00+00:00"
+  },
+  "https://www.phoronix.com/review/linux-73-amd-epyc": {
+    "title": "Early Benchmarks Of AMD EPYC On Linux 7.3 Show Some Performance Gains On The Horizon",
+    "source": "Phoronix",
+    "first_seen": "2026-09-02T18:11:51.065004+00:00",
+    "published": "2026-09-02T15:53:17+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/introducing-strands-dynamodb-storage-durable-agent-storage-for-the-strands-agents-sdk": {
+    "title": "Introducing strands-dynamodb-storage: Durable agent storage for the Strands Agents SDK",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-09-02T18:11:51.065004+00:00",
+    "published": "2026-09-02T15:48:06+00:00"
+  },
+  "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program": {
+    "title": "Proactive cyber defense for governments and enterprises",
+    "source": "Google AI Blog",
+    "first_seen": "2026-09-02T18:11:51.065004+00:00",
+    "published": "2026-09-02T15:40:00+00:00"
+  },
+  "https://dbushell.com/ai": {
+    "title": "AI Policy",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-02T18:11:51.065004+00:00",
+    "published": "2026-09-02T15:36:24+00:00"
+  },
+  "https://blog.bytebytego.com/p/how-to-shrink-a-language-model-without": {
+    "title": "Why Your RAG System Is Only as Good as Its Translator Model",
+    "source": "ByteByteGo",
+    "first_seen": "2026-09-02T18:11:51.065004+00:00",
+    "published": "2026-09-02T15:31:12+00:00"
+  },
+  "https://thenewstack.io/vercel-agent-design-guidance": {
+    "title": "Vercel built a feedback loop that treats agent instructions like software",
+    "source": "The New Stack",
+    "first_seen": "2026-09-02T18:11:51.065004+00:00",
+    "published": "2026-09-02T15:29:58+00:00"
+  },
+  "https://www.nexusmods.com/news/15597": {
+    "title": "SteamdDB Joins Nexus Mods",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-02T18:11:51.065004+00:00",
+    "published": "2026-09-02T15:25:55+00:00"
+  },
+  "https://www.phoronix.com/news/CERN-Goes-Debian-Leaving-RHEL": {
+    "title": "CERN Transitioning To Debian After Being A Longtime RHEL Institution",
+    "source": "Phoronix",
+    "first_seen": "2026-09-02T18:11:51.065004+00:00",
+    "published": "2026-09-02T15:17:21+00:00"
+  },
+  "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber": {
+    "title": "Gemini 3.8 Flash and 3.8 Flash Cyber",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-02T18:11:51.065004+00:00",
+    "published": "2026-09-02T15:12:40+00:00"
+  },
+  "https://lwn.net/Articles/1091619": {
+    "title": "[$] Governing GNOMEs: how the project's technical decision-making is evolving",
+    "source": "LWN.net",
+    "first_seen": "2026-09-02T18:11:51.065004+00:00",
+    "published": "2026-09-02T15:03:58+00:00"
+  },
+  "https://lwn.net/Articles/1092229": {
+    "title": "Incus 7.4 released",
+    "source": "LWN.net",
+    "first_seen": "2026-09-02T18:11:51.065004+00:00",
+    "published": "2026-09-02T15:03:21+00:00"
+  },
+  "https://thenewstack.io/ai-fluency-operating-model": {
+    "title": "Your organization prioritized AI adoption, but you actually need AI fluency.",
+    "source": "The New Stack",
+    "first_seen": "2026-09-02T18:11:51.065004+00:00",
+    "published": "2026-09-02T15:00:00+00:00"
+  },
+  "https://martinfowler.com/articles/exploring-gen-ai/an-accidental-blackboard.html": {
+    "title": "An Accidental Blackboard",
+    "source": "Martin Fowler",
+    "first_seen": "2026-09-02T18:11:51.065004+00:00",
+    "published": "2026-09-02T14:45:00+00:00"
+  },
+  "https://turtlespace.blog/p/exit-the-cave": {
+    "title": "Exit the Cave",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-02T18:11:51.065004+00:00",
+    "published": "2026-09-02T14:16:45+00:00"
+  },
+  "https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt": {
+    "title": "Claude's new system prompt really doesn't want to reproduce song lyrics",
+    "source": "Simon Willison",
+    "first_seen": "2026-09-02T18:11:51.065004+00:00",
+    "published": "2026-09-02T14:16:42+00:00"
+  },
+  "https://github.com/mlc-ai/web-llm": {
+    "title": "WebLLM: high-performance in-browser LLM inference engine",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-02T18:11:51.065004+00:00",
+    "published": "2026-09-02T14:02:35+00:00"
+  },
+  "https://grapheneos.social/@GrapheneOS/117194007157499435": {
+    "title": "GrapheneOS says Pixel 11 has MTE support after all",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-02T18:11:51.065004+00:00",
+    "published": "2026-09-02T14:00:28+00:00"
+  },
+  "https://realpython.com/python315-utf8-default": {
+    "title": "Python 3.15 Preview: UTF-8 by Default",
+    "source": "Real Python",
+    "first_seen": "2026-09-02T18:11:51.065004+00:00",
+    "published": "2026-09-02T14:00:00+00:00"
+  },
+  "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations": {
+    "title": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-02T18:11:51.065004+00:00",
+    "published": "2026-09-02T13:59:59+00:00"
+  },
+  "https://www.tigerdata.com/blog/reading-table-bloat-before-it-reads-you": {
+    "title": "Reading Table Bloat Before It Reads You",
+    "source": "Timescale Blog",
+    "first_seen": "2026-09-02T18:11:51.065004+00:00",
+    "published": "2026-09-02T13:50:10+00:00"
+  },
+  "https://hausresearch.com/reports/perplexity-citation-audit": {
+    "title": "A third of Perplexity's citations don't contain the number they're cited for",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-02T18:11:51.065004+00:00",
+    "published": "2026-09-02T13:49:23+00:00"
+  },
+  "https://huggingface.co/blog/ibm-research/real-time-intelligence": {
+    "title": "Real-Time Intelligence with IBM Time Series Models on Confluent",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-09-02T18:11:51.065004+00:00",
+    "published": "2026-09-02T13:49:14+00:00"
+  },
+  "https://stripeacross.com/posts/poisson-disk-sampling": {
+    "title": "Poisson Disk Sampling",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-02T18:11:51.065004+00:00",
+    "published": "2026-09-02T13:47:49+00:00"
+  },
+  "https://aisle.com/blog/aisle-discovered-six-curl-cves-after-openai-and-anthropic-found-zero": {
+    "title": "Six curl CVEs after OpenAI and Anthropic came back with zero",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-02T18:11:51.065004+00:00",
+    "published": "2026-09-02T13:43:14+00:00"
+  },
+  "https://www.science.org/content/article/world-s-biggest-dark-matter-detector-spots-single-weird-particle": {
+    "title": "Biggest dark matter detector spots a single weird particle",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-02T18:11:51.065004+00:00",
+    "published": "2026-09-02T13:40:29+00:00"
+  },
+  "https://martinfowler.com/rachels-ramblings/code-review.html": {
+    "title": "Maybe We Shouldn't Be Reviewing All This Code",
+    "source": "Martin Fowler",
+    "first_seen": "2026-09-02T18:11:51.065004+00:00",
+    "published": "2026-09-02T13:32:00+00:00"
+  },
+  "https://lwn.net/Articles/1092151": {
+    "title": "Eight stable kernels for Wednesday",
+    "source": "LWN.net",
+    "first_seen": "2026-09-02T18:11:51.065004+00:00",
+    "published": "2026-09-02T13:28:26+00:00"
+  },
+  "https://www.phoronix.com/news/AVX-512-xor-gen-v5": {
+    "title": "AVX-512 xor_gen For Linux Updated & Looking Real Good For RAID Arrays",
+    "source": "Phoronix",
+    "first_seen": "2026-09-02T18:11:51.065004+00:00",
+    "published": "2026-09-02T13:20:11+00:00"
+  },
+  "https://lwn.net/Articles/1092149": {
+    "title": "Security updates for Wednesday",
+    "source": "LWN.net",
+    "first_seen": "2026-09-02T18:11:51.065004+00:00",
+    "published": "2026-09-02T13:16:54+00:00"
+  },
+  "https://www.phoronix.com/news/GNOME-Shell-Mutter-51-RC": {
+    "title": "GNOME Mutter 51.rc Adds Cross-GPU Buffer Scan-Out Support, Other Last Minute Work",
+    "source": "Phoronix",
+    "first_seen": "2026-09-02T18:11:51.065004+00:00",
+    "published": "2026-09-02T13:02:13+00:00"
+  },
+  "https://www.docker.com/blog/building-reproducible-ai-evaluation-workflows-with-docker-sandboxes": {
+    "title": "Building Reproducible AI Evaluation Workflows with Docker Sandboxes",
+    "source": "Docker Blog",
+    "first_seen": "2026-09-02T18:11:51.065004+00:00",
+    "published": "2026-09-02T13:00:00+00:00"
+  },
+  "https://matklad.github.io/2026/09/02/static-allocation-constant-work.html": {
+    "title": "Static Allocation, Constant Work",
+    "source": "matklad",
+    "first_seen": "2026-09-02T18:11:51.065004+00:00",
+    "published": "2026-09-02T00:00:00+00:00"
+  },
+  "https://machinelearning.apple.com/research/refactor-vla-motor-programs": {
+    "title": "REFACTOR-VLA: Unsupervised Library Learning of Typed Motor Programs",
+    "source": "Apple ML Journal",
+    "first_seen": "2026-09-02T18:11:51.065004+00:00",
+    "published": "2026-09-02T00:00:00+00:00"
+  },
+  "https://go.dev/blog/goroutine-leak-profiles": {
+    "title": "Goroutine Leak Profiles",
+    "source": "Go Blog",
+    "first_seen": "2026-09-02T18:11:51.065004+00:00",
+    "published": "2026-09-02T00:00:00+00:00"
   }
 }
