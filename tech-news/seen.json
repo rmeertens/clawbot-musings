@@ -83360,5 +83360,185 @@
     "source": "Meta Engineering",
     "first_seen": "2026-09-02T22:53:47.757888+00:00",
     "published": "2026-09-02T09:00:29+00:00"
+  },
+  "https://www.thoughtworks.com/insights/articles/strategic-ai-delivery-platform-modernization": {
+    "title": "Lessons from platform modernization that every AI program needs",
+    "source": "ThoughtWorks",
+    "first_seen": "2026-09-03T13:04:11.011014+00:00",
+    "published": "2026-09-04T00:00:00+00:00"
+  },
+  "https://stackoverflow.blog/2026/09/03/security-control-and-accessibility-si-2026-6": {
+    "title": "Elevating security, control, and accessibility: Stack Internal 2026.6",
+    "source": "Stack Overflow Blog",
+    "first_seen": "2026-09-03T13:04:11.011014+00:00",
+    "published": "2026-09-03T16:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/NVIDIA-Hugging-Face": {
+    "title": "NVIDIA Acquiring Hugging Face For $12.93 Billion",
+    "source": "Phoronix",
+    "first_seen": "2026-09-03T13:04:11.011014+00:00",
+    "published": "2026-09-03T12:40:04+00:00"
+  },
+  "https://www.cncf.io/blog/2026/09/03/join-ospology-ospo-summit-china-2026-in-shanghai": {
+    "title": "Join OSPOlogy + OSPO Summit China 2026 in Shanghai",
+    "source": "CNCF Blog",
+    "first_seen": "2026-09-03T13:04:11.011014+00:00",
+    "published": "2026-09-03T12:32:33+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.3-RandStruct-Rust": {
+    "title": "Linux 7.3 Now Disabling RandStruct Security Feature By Default If Rust Support Present",
+    "source": "Phoronix",
+    "first_seen": "2026-09-03T13:04:11.011014+00:00",
+    "published": "2026-09-03T12:22:27+00:00"
+  },
+  "https://realpython.com/quizzes/python-ai-neural-network": {
+    "title": "Quiz: Python AI: How to Build a Neural Network & Make Predictions",
+    "source": "Real Python",
+    "first_seen": "2026-09-03T13:04:11.011014+00:00",
+    "published": "2026-09-03T12:00:00+00:00"
+  },
+  "https://www.schneier.com/blog/archives/2026/09/researching-employment-scams.html": {
+    "title": "Researching Employment Scams",
+    "source": "Schneier on Security",
+    "first_seen": "2026-09-03T13:04:11.011014+00:00",
+    "published": "2026-09-03T11:18:14+00:00"
+  },
+  "https://chinaonchina.com/article/chen-dawei-returns-enters-the-large-model-sector": {
+    "title": "A dark horse enters China's AI race: StartLux",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-03T13:04:11.011014+00:00",
+    "published": "2026-09-03T11:12:57+00:00"
+  },
+  "https://twitter.com/GergelyOrosz/status/2095453567955968398": {
+    "title": "Google Antigravity TOS: 3rd party usage can get Google account suspended",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-03T13:04:11.011014+00:00",
+    "published": "2026-09-03T11:01:04+00:00"
+  },
+  "https://www.cncf.io/blog/2026/09/03/migrating-a-critical-kubernetes-deployment-from-the-default-namespace-without-any-downtime": {
+    "title": "Migrating a critical Kubernetes deployment from the default namespace without any downtime",
+    "source": "CNCF Blog",
+    "first_seen": "2026-09-03T13:04:11.011014+00:00",
+    "published": "2026-09-03T11:00:00+00:00"
+  },
+  "https://github.com/audacity/audacity/releases/tag/Audacity-4.0.0": {
+    "title": "Audacity 4.0",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-03T13:04:11.011014+00:00",
+    "published": "2026-09-03T10:53:08+00:00"
+  },
+  "https://www.phoronix.com/news/Audacity-4.0-Released": {
+    "title": "Audacity 4.0 Audio Editor Released With Qt6 Based UI",
+    "source": "Phoronix",
+    "first_seen": "2026-09-03T13:04:11.011014+00:00",
+    "published": "2026-09-03T10:30:52+00:00"
+  },
+  "https://www.phoronix.com/news/GCC-17-RISC-V-mtune-mcpu-native": {
+    "title": "GCC 17 Now Supports Using -mtune=native -mcpu=native On RISC-V",
+    "source": "Phoronix",
+    "first_seen": "2026-09-03T13:04:11.011014+00:00",
+    "published": "2026-09-03T10:20:07+00:00"
+  },
+  "https://www.phoronix.com/news/InputPlumber-0.79": {
+    "title": "InputPlumber 0.79 Adds Support For More Handhelds",
+    "source": "Phoronix",
+    "first_seen": "2026-09-03T13:04:11.011014+00:00",
+    "published": "2026-09-03T10:06:00+00:00"
+  },
+  "https://stackoverflow.blog/2026/09/03/the-economics-of-agent-scale": {
+    "title": "The economics of agent scale: tokens, ROI, and building platforms for AI-first teams (Part 2)",
+    "source": "Stack Overflow Blog",
+    "first_seen": "2026-09-03T13:04:11.011014+00:00",
+    "published": "2026-09-03T07:40:00+00:00"
+  },
+  "https://scienceblog.com/b-three-schoolgirls-in-kinsale-pulled-up-a-pea-plant-covered-in-warts-and-instead-of-binning-it-spent-three-years-testing-13000-seeds-in-a-spare-bedroom-the-bacteria-living-in-those-warts-made-barley": {
+    "title": "Three schoolgirls in Kinsale pulled up a pea plant covered in warts (2016)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-03T13:04:11.011014+00:00",
+    "published": "2026-09-03T07:04:13+00:00"
+  },
+  "https://pola.rs/posts/announcing-polars-2": {
+    "title": "Pre-Release of Polars 2.0",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-03T13:04:11.011014+00:00",
+    "published": "2026-09-03T06:59:08+00:00"
+  },
+  "https://www.phoronix.com/news/Lemonade-11.9-ROCm-HRX": {
+    "title": "Lemonade 11.9 Local AI Server Released With Super Exciting AMD ROCm HRX Backend",
+    "source": "Phoronix",
+    "first_seen": "2026-09-03T13:04:11.011014+00:00",
+    "published": "2026-09-03T00:32:40+00:00"
+  },
+  "https://lwn.net/Articles/1090824": {
+    "title": "[$] LWN.net Weekly Edition for September 3, 2026",
+    "source": "LWN.net",
+    "first_seen": "2026-09-03T13:04:11.011014+00:00",
+    "published": "2026-09-03T00:22:18+00:00"
+  },
+  "https://www.thoughtworks.com/insights/blog/generative-ai/why-generative-ai-wont-create-ten-x-developers": {
+    "title": "Why generative AI won't create 10x developers",
+    "source": "ThoughtWorks",
+    "first_seen": "2026-09-03T13:04:11.011014+00:00",
+    "published": "2026-09-03T00:00:00+00:00"
+  },
+  "https://www.thoughtworks.com/insights/blog/generative-ai/from-specification-to-production-building-enterprise-software-with-agentic-ai": {
+    "title": "From specification to production: Building enterprise software with agentic AI",
+    "source": "ThoughtWorks",
+    "first_seen": "2026-09-03T13:04:11.011014+00:00",
+    "published": "2026-09-03T00:00:00+00:00"
+  },
+  "https://huggingface.co/blog/train-to-paint-with-code": {
+    "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-09-03T13:04:11.011014+00:00",
+    "published": "2026-09-03T00:00:00+00:00"
+  },
+  "https://huggingface.co/blog/grpo-with-trl-ifstruct": {
+    "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-09-03T13:04:11.011014+00:00",
+    "published": "2026-09-03T00:00:00+00:00"
+  },
+  "https://huggingface.co/blog/funes": {
+    "title": "Give Your Coding Agents a Memory You Own",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-09-03T13:04:11.011014+00:00",
+    "published": "2026-09-03T00:00:00+00:00"
+  },
+  "https://fly.io/blog/sprites-mcp": {
+    "title": "Your Agent Speaks MCP. Give It a Computer.",
+    "source": "Fly.io Blog",
+    "first_seen": "2026-09-03T13:04:11.011014+00:00",
+    "published": "2026-09-03T00:00:00+00:00"
+  },
+  "https://www.databricks.com/blog/southern-companys-scout-completing-storm-intelligence-story": {
+    "title": "Southern Company’s SCOUT: Completing the Storm Intelligence Story",
+    "source": "Databricks Blog",
+    "first_seen": "2026-09-03T13:04:11.011014+00:00",
+    "published": "2026-09-02T23:20:00+00:00"
+  },
+  "https://news.ycombinator.com/item?id=49543530": {
+    "title": "Launch HN: RonanRX (YC S26) – Personalized Peptides and GLP-1s",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-03T13:04:11.011014+00:00",
+    "published": "2026-09-02T22:36:04+00:00"
+  },
+  "https://kubernetes.io/blog/2026/09/02/kubernetes-v1-37-hpa-scale-to-zero-beta": {
+    "title": "Kubernetes v1.37: Scale Workloads to Zero with HorizontalPodAutoscaler",
+    "source": "Kubernetes Blog",
+    "first_seen": "2026-09-03T13:04:11.011014+00:00",
+    "published": "2026-09-02T18:30:00+00:00"
+  },
+  "https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-context-engineering-for-enterprise-ai-agents": {
+    "title": "The Economics of Agent Optimization: Context engineering for enterprise AI agents",
+    "source": "Azure Blog",
+    "first_seen": "2026-09-03T13:04:11.011014+00:00",
+    "published": "2026-09-02T16:00:00+00:00"
+  },
+  "https://openai.com/index/atv-big-air-tour": {
+    "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-09-03T13:04:11.011014+00:00",
+    "published": "2026-09-02T12:00:00+00:00"
   }
 }
