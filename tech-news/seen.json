@@ -83906,5 +83906,221 @@
     "source": "Astro Blog",
     "first_seen": "2026-09-03T18:10:14.228079+00:00",
     "published": "2026-09-03T00:00:00+00:00"
+  },
+  "https://developer.nvidia.com/blog/how-to-carry-user-identity-across-federated-kubernetes-and-ai-platforms": {
+    "title": "How to Carry User Identity Across Federated Kubernetes and AI Platforms",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-09-03T22:52:26.843970+00:00",
+    "published": "2026-09-03T22:36:02+00:00"
+  },
+  "https://webkit.org/blog/18283/submit-your-ideas-for-interop-2027": {
+    "title": "Submit your ideas for Interop 2027",
+    "source": "WebKit Blog",
+    "first_seen": "2026-09-03T22:52:26.843970+00:00",
+    "published": "2026-09-03T21:53:33+00:00"
+  },
+  "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation": {
+    "title": "AI, tools and transformation",
+    "source": "Ben Evans",
+    "first_seen": "2026-09-03T22:52:26.843970+00:00",
+    "published": "2026-09-03T21:26:04+00:00"
+  },
+  "https://thenewstack.io/openai-daybreak-frontline-defenders": {
+    "title": "OpenAI spends $1 billion to expand Daybreak to defend power, water, and banking",
+    "source": "The New Stack",
+    "first_seen": "2026-09-03T22:52:26.843970+00:00",
+    "published": "2026-09-03T21:22:31+00:00"
+  },
+  "https://armature.tech/blog/which-tools-coding-agents-install": {
+    "title": "Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-03T22:52:26.843970+00:00",
+    "published": "2026-09-03T21:20:34+00:00"
+  },
+  "https://aws.amazon.com/blogs/security/incident-response-guide-for-aws-cloudtrail-investigations-part-2": {
+    "title": "Incident response guide for AWS CloudTrail investigations – Part 2",
+    "source": "AWS Security Blog",
+    "first_seen": "2026-09-03T22:52:26.843970+00:00",
+    "published": "2026-09-03T21:15:53+00:00"
+  },
+  "https://aws.amazon.com/blogs/security/incident-response-guide-for-aws-cloudtrail-investigations-part-1": {
+    "title": "Incident response guide for AWS CloudTrail investigations – Part 1",
+    "source": "AWS Security Blog",
+    "first_seen": "2026-09-03T22:52:26.843970+00:00",
+    "published": "2026-09-03T21:15:39+00:00"
+  },
+  "https://www.phoronix.com/news/Amazon-Linux-2027-Preview": {
+    "title": "Amazon Linux 2027 Now in Preview: Powered By Linux 7.1, x86-64-v3 & Built With LTO",
+    "source": "Phoronix",
+    "first_seen": "2026-09-03T22:52:26.843970+00:00",
+    "published": "2026-09-03T21:13:55+00:00"
+  },
+  "https://blog.cloudflare.com/vulnerability-discovery-remediation": {
+    "title": "Introducing context-aware vulnerability discovery and remediation with Cloudflare Managed Defense and OpenAI Daybreak models",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-09-03T22:52:26.843970+00:00",
+    "published": "2026-09-03T21:03:02+00:00"
+  },
+  "https://tasklet.ai/careers/customer-success-engineer": {
+    "title": "Tasklet (YC P26) Is Hiring a Customer Success Engineer",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-03T22:52:26.843970+00:00",
+    "published": "2026-09-03T21:01:10+00:00"
+  },
+  "https://www.databricks.com/blog/governance-beyond-security-knowledge-context-ontology-lakehouse": {
+    "title": "Governance beyond security: knowledge, context & ontology on the lakehouse",
+    "source": "Databricks Blog",
+    "first_seen": "2026-09-03T22:52:26.843970+00:00",
+    "published": "2026-09-03T20:20:00+00:00"
+  },
+  "https://simonwillison.net/2026/Sep/3/gpt6-astra": {
+    "title": "GPT‑6 Astra",
+    "source": "Simon Willison",
+    "first_seen": "2026-09-03T22:52:26.843970+00:00",
+    "published": "2026-09-03T20:18:41+00:00"
+  },
+  "https://thenewstack.io/tracing-data-overload-sampling": {
+    "title": "How to find failures without drowning in tracing data",
+    "source": "The New Stack",
+    "first_seen": "2026-09-03T22:52:26.843970+00:00",
+    "published": "2026-09-03T20:17:25+00:00"
+  },
+  "https://www.databricks.com/blog/building-high-quality-and-trusted-data-products-databricks": {
+    "title": "Building High-Quality and Trusted Data Products with Databricks",
+    "source": "Databricks Blog",
+    "first_seen": "2026-09-03T22:52:26.843970+00:00",
+    "published": "2026-09-03T19:55:00+00:00"
+  },
+  "https://www.databricks.com/blog/what-is-data-transformation": {
+    "title": "What is Data Transformation?",
+    "source": "Databricks Blog",
+    "first_seen": "2026-09-03T22:52:26.843970+00:00",
+    "published": "2026-09-03T19:54:00+00:00"
+  },
+  "https://arcprize.org/blog/astra": {
+    "title": "OpenAI's GPT-6 Astra on ARC-AGI-3",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-03T22:52:26.843970+00:00",
+    "published": "2026-09-03T19:45:00+00:00"
+  },
+  "https://www.construction-physics.com/p/how-will-the-21st-century-road-to-21c": {
+    "title": "How Will the 21st Century ROAD to Housing Act Affect Housing Supply? Part III",
+    "source": "Construction Physics",
+    "first_seen": "2026-09-03T22:52:26.843970+00:00",
+    "published": "2026-09-03T19:20:13+00:00"
+  },
+  "https://nolanlawson.com/2026/08/23/the-asteroid-currently-hitting-frontend-web-development": {
+    "title": "The asteroid currently hitting front end web development",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-03T22:52:26.843970+00:00",
+    "published": "2026-09-03T19:17:24+00:00"
+  },
+  "https://thenewstack.io/astra-arc-agi-benchmark": {
+    "title": "GPT-6 Astra aced the hardest AI benchmark. The asterisk matters more than the score.",
+    "source": "The New Stack",
+    "first_seen": "2026-09-03T22:52:26.843970+00:00",
+    "published": "2026-09-03T19:05:24+00:00"
+  },
+  "https://openai.com/index/gpt-6-astra": {
+    "title": "GPT-6 Astra",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-03T22:52:26.843970+00:00",
+    "published": "2026-09-03T18:41:05+00:00"
+  },
+  "https://inference-docs.cerebras.ai/models/overview": {
+    "title": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-03T22:52:26.843970+00:00",
+    "published": "2026-09-03T18:32:13+00:00"
+  },
+  "https://thenewstack.io/production-token-optimization-guide": {
+    "title": "The systems guide to production token optimization",
+    "source": "The New Stack",
+    "first_seen": "2026-09-03T22:52:26.843970+00:00",
+    "published": "2026-09-03T18:30:00+00:00"
+  },
+  "https://thenewstack.io/cut-gpu-cold-starts": {
+    "title": "Cut GPU inference cold start from 8 minutes to less than a minute",
+    "source": "The New Stack",
+    "first_seen": "2026-09-03T22:52:26.843970+00:00",
+    "published": "2026-09-03T18:30:00+00:00"
+  },
+  "https://kubernetes.io/blog/2026/09/03/kubernetes-v1-37-dra-updates": {
+    "title": "Kubernetes v1.37: DRA Updates",
+    "source": "Kubernetes Blog",
+    "first_seen": "2026-09-03T22:52:26.843970+00:00",
+    "published": "2026-09-03T18:30:00+00:00"
+  },
+  "https://research.google/blog/transfer-learning-for-genomic-prediction-in-underrepresented-populations": {
+    "title": "Transfer learning for genomic prediction in underrepresented populations",
+    "source": "Google Research",
+    "first_seen": "2026-09-03T22:52:26.843970+00:00",
+    "published": "2026-09-03T18:20:31+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/monitor-self-managed-databases-with-amazon-cloudwatch-database-insights": {
+    "title": "Monitor self-managed databases with Amazon CloudWatch Database Insights",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-09-03T22:52:26.843970+00:00",
+    "published": "2026-09-03T18:10:43+00:00"
+  },
+  "https://www.lesswrong.com/posts/PLisnSFir8y5AHkmP/how-concerned-should-we-be-about-astra-s-recurrent": {
+    "title": "How concerned should we be about Astra's recurrent architecture?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-03T22:52:26.843970+00:00",
+    "published": "2026-09-03T17:10:06+00:00"
+  },
+  "https://www.discoverwildlife.com/animal-facts/artificial-beaver-dams-california": {
+    "title": "Artificial beaver dams saw juvenile coho salmon survival rates go from 8% to 60%",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-03T22:52:26.843970+00:00",
+    "published": "2026-09-03T16:21:33+00:00"
+  },
+  "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90": {
+    "title": "Portal by Spotify cut my Claude Code token usage by 90%",
+    "source": "Spotify Engineering",
+    "first_seen": "2026-09-03T22:52:26.843970+00:00",
+    "published": "2026-09-03T16:06:40+00:00"
+  },
+  "https://www.sciencealert.com/astronomers-spot-an-uncannily-geometric-10-sided-structure-in-saturns-atmosphere": {
+    "title": "Astronomers Detect a 10-Sided Structure in Saturn's Atmosphere",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-03T22:52:26.843970+00:00",
+    "published": "2026-09-03T13:47:38+00:00"
+  },
+  "https://openai.com/index/daybreak-for-frontline-defenders": {
+    "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-09-03T22:52:26.843970+00:00",
+    "published": "2026-09-03T13:15:00+00:00"
+  },
+  "https://openai.com/index/playco-game-prototyping-with-astra": {
+    "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-09-03T22:52:26.843970+00:00",
+    "published": "2026-09-03T12:00:00+00:00"
+  },
+  "https://openai.com/index/legora-financial-statement-review-with-astra": {
+    "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-09-03T22:52:26.843970+00:00",
+    "published": "2026-09-03T12:00:00+00:00"
+  },
+  "https://www.theguardian.com/books/2026/sep/03/gloria-steinem-groundbreaking-feminist-campaigner-dies-aged-92": {
+    "title": "Gloria Steinem has died",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-03T22:52:26.843970+00:00",
+    "published": "2026-09-03T10:31:18+00:00"
+  },
+  "https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007": {
+    "title": "Go grandmaster Shin defeats AI KataGo with a two-stone handicap",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-03T22:52:26.843970+00:00",
+    "published": "2026-09-03T01:11:22+00:00"
+  },
+  "https://www.sciencealert.com/gps-glitched-across-the-us-by-as-much-as-33-feet-scientists-have-never-seen-this-before": {
+    "title": "GPS glitched across the US by as much as 33 feet",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-03T22:52:26.843970+00:00",
+    "published": "2026-09-03T00:49:07+00:00"
   }
 }
