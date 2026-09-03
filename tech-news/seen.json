@@ -83540,5 +83540,371 @@
     "source": "OpenAI Blog",
     "first_seen": "2026-09-03T13:04:11.011014+00:00",
     "published": "2026-09-02T12:00:00+00:00"
+  },
+  "https://thenewstack.io/openai-gpt6-astra-benchmarks": {
+    "title": "OpenAI launches GPT-6 Astra and says welcome to the “AGI era”",
+    "source": "The New Stack",
+    "first_seen": "2026-09-03T18:10:14.228079+00:00",
+    "published": "2026-09-03T18:02:40+00:00"
+  },
+  "https://www.docker.com/blog/what-is-yolo-mode": {
+    "title": "YOLO Mode: Agent Autonomy Without the Guardrails",
+    "source": "Docker Blog",
+    "first_seen": "2026-09-03T18:10:14.228079+00:00",
+    "published": "2026-09-03T18:00:00+00:00"
+  },
+  "https://devblogs.microsoft.com/dotnet/mstest-source-generation": {
+    "title": "Test what you ship: MSTest and Native AOT",
+    "source": "MS .NET Blog",
+    "first_seen": "2026-09-03T18:10:14.228079+00:00",
+    "published": "2026-09-03T18:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/Intel-Graphics-CMRR-Linux-7.4": {
+    "title": "Intel Improving Its Content Match Refresh Rate \"CMRR\" Feature With Linux 7.4",
+    "source": "Phoronix",
+    "first_seen": "2026-09-03T18:10:14.228079+00:00",
+    "published": "2026-09-03T17:57:03+00:00"
+  },
+  "https://thenewstack.io/nvidia-acquires-hugging-face": {
+    "title": "“Hugging Face will remain an open platform”: Nvidia strikes $12.9B deal for the ‘GitHub of AI’",
+    "source": "The New Stack",
+    "first_seen": "2026-09-03T18:10:14.228079+00:00",
+    "published": "2026-09-03T17:52:31+00:00"
+  },
+  "https://www.tigerdata.com/blog/tiger-cloud-on-azure-why-fully-managed-timescaledb-beats-self-hosting-and-other-managed-options": {
+    "title": "Tiger Cloud on Azure: Why Fully-Managed Timescaledb Beats Self-Hosting And Other Managed Options",
+    "source": "Timescale Blog",
+    "first_seen": "2026-09-03T18:10:14.228079+00:00",
+    "published": "2026-09-03T17:50:14+00:00"
+  },
+  "https://thenewstack.io/ai-agents-3d-playwright": {
+    "title": "It cost $33 to build a virtual Union Square. Here’s what the agents got wrong.",
+    "source": "The New Stack",
+    "first_seen": "2026-09-03T18:10:14.228079+00:00",
+    "published": "2026-09-03T17:34:31+00:00"
+  },
+  "https://www.caranddriver.com/news/a73583741/hyundai-instrument-cluster-paid-option": {
+    "title": "Instrument Clusters Are Now Paid Extras in Two Hyundai Models",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-03T18:10:14.228079+00:00",
+    "published": "2026-09-03T17:25:47+00:00"
+  },
+  "https://www.sanders.senate.gov/press-releases/news-sanders-casar-introduce-legislation-to-ban-artificial-superintelligence-and-temporarily-pause-advanced-ai-development": {
+    "title": "Sanders introduces bill to ban artificial superintelligence and pause AI",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-03T18:10:14.228079+00:00",
+    "published": "2026-09-03T17:20:29+00:00"
+  },
+  "https://www.phoronix.com/news/Mir-2.29-Released": {
+    "title": "Mir 2.29 Released With Additional Wayland Protocols",
+    "source": "Phoronix",
+    "first_seen": "2026-09-03T18:10:14.228079+00:00",
+    "published": "2026-09-03T17:18:12+00:00"
+  },
+  "https://smallrun.net/blog/loud/usbsid-pico-sids-on-usb": {
+    "title": "Usbsid-Pico: Bridging Real Commodore 64 Sound to Modern USB",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-03T18:10:14.228079+00:00",
+    "published": "2026-09-03T17:09:04+00:00"
+  },
+  "https://www.servethehome.com/mikrotik-crs804-4ddq-hrm-review-marvell-annapurna-labs-400gbe": {
+    "title": "Cheap Desktop 400GbE Switch MikroTik CRS804-4DDQ-HRM Review",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-03T18:10:14.228079+00:00",
+    "published": "2026-09-03T17:05:24+00:00"
+  },
+  "https://www.ycombinator.com/companies/gooseworks/jobs/rfgY8La-founding-creative-engineer": {
+    "title": "Founding Creative Engineer – Gooseworks (YC W23) Is Hiring",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-03T18:10:14.228079+00:00",
+    "published": "2026-09-03T17:00:16+00:00"
+  },
+  "https://newsletter.pragmaticengineer.com/p/the-pulse-tech-companies-move-to": {
+    "title": "The Pulse: tech companies move to open AI models",
+    "source": "The Pragmatic Engineer",
+    "first_seen": "2026-09-03T18:10:14.228079+00:00",
+    "published": "2026-09-03T17:00:14+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/network-connectivity-patterns-for-the-next-generation-of-amazon-opensearch-serverless": {
+    "title": "Network connectivity patterns for the next generation of Amazon OpenSearch Serverless",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-09-03T18:10:14.228079+00:00",
+    "published": "2026-09-03T16:26:58+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/troubleshoot-aws-advanced-jdbc-wrapper-configuration-for-aurora-global-database-write-forwarding": {
+    "title": "Troubleshoot AWS Advanced JDBC Wrapper configuration for Aurora Global Database write forwarding",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-09-03T18:10:14.228079+00:00",
+    "published": "2026-09-03T16:26:20+00:00"
+  },
+  "https://www.mireye.com": {
+    "title": "Launch HN: Mireye (YC S26) – Infrastructure for Physical World AI Agents",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-03T18:10:14.228079+00:00",
+    "published": "2026-09-03T16:24:13+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/how-moovit-achieved-33-cost-optimization-through-architectural-modernization": {
+    "title": "How Moovit achieved 33% cost optimization through architectural modernization",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-09-03T18:10:14.228079+00:00",
+    "published": "2026-09-03T16:23:46+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/ai-driven-development-lifecycle-using-amazon-bedrock-agentcore": {
+    "title": "AI-driven development lifecycle using Amazon Bedrock AgentCore",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-09-03T18:10:14.228079+00:00",
+    "published": "2026-09-03T16:16:28+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/migrate-agentic-workloads-to-amazon-bedrock-agentcore": {
+    "title": "Migrate agentic workloads to Amazon Bedrock AgentCore",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-09-03T18:10:14.228079+00:00",
+    "published": "2026-09-03T16:14:12+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/integrating-outlook-with-amazon-quick-for-ai-powered-email-automation": {
+    "title": "Integrating Outlook with Amazon Quick for AI-powered email automation",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-09-03T18:10:14.228079+00:00",
+    "published": "2026-09-03T16:11:57+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/set-up-openai-chatgpt-codex-with-litellm-on-amazon-ecs-and-amazon-bedrock": {
+    "title": "Set up OpenAI ChatGPT Codex with LiteLLM on Amazon ECS and Amazon Bedrock",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-09-03T18:10:14.228079+00:00",
+    "published": "2026-09-03T16:10:39+00:00"
+  },
+  "https://www.kxan.com/news/texas/texas-data-center-tracker-see-where-600-projects-are-operating-or-planned-across-state-in-interactive-map": {
+    "title": "Texas Data Center Map: See where data centers are operating or planned",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-03T18:10:14.228079+00:00",
+    "published": "2026-09-03T16:10:12+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/best-practices-for-building-agentic-automations-with-amazon-quick-automate": {
+    "title": "Best practices for building agentic automations with Amazon Quick Automate",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-09-03T18:10:14.228079+00:00",
+    "published": "2026-09-03T16:08:28+00:00"
+  },
+  "https://engineering.atspotify.com/2026/9/spotifys-backstage-portal-cut-my-claude-code-token-usage-by-90": {
+    "title": "Spotify’s Backstage Portal cut my Claude Code token usage by 90%",
+    "source": "Spotify Engineering",
+    "first_seen": "2026-09-03T18:10:14.228079+00:00",
+    "published": "2026-09-03T16:06:40+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/embed-quick-sight-visuals-using-cognito-user-authentication": {
+    "title": "Embed Quick Sight visuals using Cognito user authentication",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-09-03T18:10:14.228079+00:00",
+    "published": "2026-09-03T16:01:56+00:00"
+  },
+  "https://engineering.fb.com/2026/09/03/core-infra/zgateway-proxy-zippydb-meta": {
+    "title": "ZGateway: Learnings from Putting a Proxy in Front of ZippyDB",
+    "source": "Meta Engineering",
+    "first_seen": "2026-09-03T18:10:14.228079+00:00",
+    "published": "2026-09-03T16:00:20+00:00"
+  },
+  "https://research.google/blog/a-connectomics-milestone-mapping-the-complete-male-fruit-fly-brain": {
+    "title": "A connectomics milestone: Mapping the complete male fruit fly brain",
+    "source": "Google Research",
+    "first_seen": "2026-09-03T18:10:14.228079+00:00",
+    "published": "2026-09-03T16:00:03+00:00"
+  },
+  "https://www.hashicorp.com/blog/the-common-security-controls-behind-indias-regulatory-wave": {
+    "title": "The common security controls behind India's regulatory wave",
+    "source": "HashiCorp Blog",
+    "first_seen": "2026-09-03T18:10:14.228079+00:00",
+    "published": "2026-09-03T16:00:00+00:00"
+  },
+  "https://thenewstack.io/nvidia-pair-local-inference": {
+    "title": "Nvidia PAIR lets you put your idle Macs and PCs to work for AI agents",
+    "source": "The New Stack",
+    "first_seen": "2026-09-03T18:10:14.228079+00:00",
+    "published": "2026-09-03T16:00:00+00:00"
+  },
+  "https://nextjs.org/blog/turbopack-chunking": {
+    "title": "How Turbopack chunks your JavaScript",
+    "source": "Next.js Blog",
+    "first_seen": "2026-09-03T18:10:14.228079+00:00",
+    "published": "2026-09-03T16:00:00+00:00"
+  },
+  "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-run-several-agents-at-once": {
+    "title": "GitHub Copilot app for Beginners: Run several agents at once",
+    "source": "GitHub Blog",
+    "first_seen": "2026-09-03T18:10:14.228079+00:00",
+    "published": "2026-09-03T16:00:00+00:00"
+  },
+  "https://developer.nvidia.com/blog/nvidia-pair-virtual-inference-router-expands-available-compute-on-your-local-network": {
+    "title": "NVIDIA PAIR Virtual Inference Router Expands Available Compute on Your Local Network",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-09-03T18:10:14.228079+00:00",
+    "published": "2026-09-03T16:00:00+00:00"
+  },
+  "https://www.anildash.com/2026/09/02/cancer-capital": {
+    "title": "VC isn't VC anymore – understanding the rise of Cancer Capital",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-03T18:10:14.228079+00:00",
+    "published": "2026-09-03T15:51:53+00:00"
+  },
+  "https://www.phoronix.com/news/LLVM-Debates-AGENTS-MD": {
+    "title": "LLVM Developers Begin Debate Over AGENTS.md For Helping AI Agents",
+    "source": "Phoronix",
+    "first_seen": "2026-09-03T18:10:14.228079+00:00",
+    "published": "2026-09-03T15:45:12+00:00"
+  },
+  "https://aginggamer.net/game-industry/sony-makes-bold-claim-about-game-ownership": {
+    "title": "Sony makes bold claim about game ownership",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-03T18:10:14.228079+00:00",
+    "published": "2026-09-03T15:44:54+00:00"
+  },
+  "https://thenewstack.io/ai-agent-retrieval-infrastructure": {
+    "title": "Want to scale AI agents without breaking anything? Retrieval engineering is the answer.",
+    "source": "The New Stack",
+    "first_seen": "2026-09-03T18:10:14.228079+00:00",
+    "published": "2026-09-03T15:38:20+00:00"
+  },
+  "https://thenewstack.io/muse-spark-1-3-gemini": {
+    "title": "“Google was ahead only a few hours”: Muse Spark 1.3 edges out Gemini as Meta claims its biggest coding leap yet",
+    "source": "The New Stack",
+    "first_seen": "2026-09-03T18:10:14.228079+00:00",
+    "published": "2026-09-03T15:37:07+00:00"
+  },
+  "https://ifm.ai/blog/k2": {
+    "title": "K2 Horizon: Frontier Performance, Radically Open",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-03T18:10:14.228079+00:00",
+    "published": "2026-09-03T15:36:43+00:00"
+  },
+  "https://blog.bytebytego.com/p/how-databases-keep-their-sanity-with": {
+    "title": "How Databases Keep Their Sanity with Concurrency Control",
+    "source": "ByteByteGo",
+    "first_seen": "2026-09-03T18:10:14.228079+00:00",
+    "published": "2026-09-03T15:31:17+00:00"
+  },
+  "https://status.x.ai": {
+    "title": "Grok outage",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-03T18:10:14.228079+00:00",
+    "published": "2026-09-03T15:26:01+00:00"
+  },
+  "https://news.ycombinator.com/item?id=49551096": {
+    "title": "Ask HN: Why are OpenAI, Claude, and Grok simultaneously down? Coincidence?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-03T18:10:14.228079+00:00",
+    "published": "2026-09-03T15:07:01+00:00"
+  },
+  "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model": {
+    "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+    "source": "DeepMind Blog",
+    "first_seen": "2026-09-03T18:10:14.228079+00:00",
+    "published": "2026-09-03T15:02:08+00:00"
+  },
+  "https://neil.fraser.name/news/2026/09/03": {
+    "title": ".name Termination",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-03T18:10:14.228079+00:00",
+    "published": "2026-09-03T14:54:39+00:00"
+  },
+  "https://anyhumanever.com": {
+    "title": "Any Human Ever – One life, drawn at random from all who have ever lived",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-03T18:10:14.228079+00:00",
+    "published": "2026-09-03T14:51:10+00:00"
+  },
+  "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot": {
+    "title": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-03T18:10:14.228079+00:00",
+    "published": "2026-09-03T14:28:18+00:00"
+  },
+  "https://lwn.net/Articles/1092001": {
+    "title": "[$] Recent work in memory tiering",
+    "source": "LWN.net",
+    "first_seen": "2026-09-03T18:10:14.228079+00:00",
+    "published": "2026-09-03T14:11:26+00:00"
+  },
+  "https://lwn.net/Articles/1092439": {
+    "title": "Audacity 4.0 released",
+    "source": "LWN.net",
+    "first_seen": "2026-09-03T18:10:14.228079+00:00",
+    "published": "2026-09-03T13:58:06+00:00"
+  },
+  "https://newsguild.org/new-york-times-and-the-athletic-workers-demand-company-scrap-kalshi-deal": {
+    "title": "New York Times and The Athletic workers demand company scrap Kalshi deal",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-03T18:10:14.228079+00:00",
+    "published": "2026-09-03T13:51:44+00:00"
+  },
+  "https://huggingface.co/blog/Hcompany/neomme": {
+    "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-09-03T18:10:14.228079+00:00",
+    "published": "2026-09-03T13:13:48+00:00"
+  },
+  "https://lwn.net/Articles/1092419": {
+    "title": "Security updates for Thursday",
+    "source": "LWN.net",
+    "first_seen": "2026-09-03T18:10:14.228079+00:00",
+    "published": "2026-09-03T13:07:14+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-Shutdown-Async-21": {
+    "title": "21st Revision Of Patches For Getting Linux To Shutdown Devices Asynchronously",
+    "source": "Phoronix",
+    "first_seen": "2026-09-03T18:10:14.228079+00:00",
+    "published": "2026-09-03T13:03:51+00:00"
+  },
+  "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face": {
+    "title": "Nvidia to Acquire Hugging Face",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-03T18:10:14.228079+00:00",
+    "published": "2026-09-03T12:10:33+00:00"
+  },
+  "https://cloud.google.com/blog/products/compute/google-named-a-leader-in-2026-gartner-magic-quadrant-for-scps": {
+    "title": "Google named a Leader in 2026 Gartner® Magic Quadrant™ for Strategic Cloud Platform Services",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-09-03T18:10:14.228079+00:00",
+    "published": "2026-09-03T07:30:00+00:00"
+  },
+  "https://www.yahoo.com/news/16-old-girls-win-google-science-fair-simple-194434703.html": {
+    "title": "Three schoolgirls in Kinsale pulled up a pea plant covered in warts (2014)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-03T18:10:14.228079+00:00",
+    "published": "2026-09-03T07:04:13+00:00"
+  },
+  "https://www.elastic.co/blog/security-attack-hiding-in-observability-data": {
+    "title": "The security attack that hid inside your observability data",
+    "source": "Elastic Blog",
+    "first_seen": "2026-09-03T18:10:14.228079+00:00",
+    "published": "2026-09-03T00:00:00+00:00"
+  },
+  "https://www.elastic.co/blog/elastic-stack-9-5-3-released": {
+    "title": "Elastic Stack 9.5.3 released",
+    "source": "Elastic Blog",
+    "first_seen": "2026-09-03T18:10:14.228079+00:00",
+    "published": "2026-09-03T00:00:00+00:00"
+  },
+  "https://nodeweekly.com/issues/639": {
+    "title": "Bun now passes 80.5% of Node's test suite",
+    "source": "Node Weekly",
+    "first_seen": "2026-09-03T18:10:14.228079+00:00",
+    "published": "2026-09-03T00:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/topics/developers-practitioners/announcing-the-google-gen-ai-sdk-for-kotlin-10-idiomatic-multiplatform-access-to-gemini": {
+    "title": "Announcing the Google Gen AI SDK for Kotlin 1.0: Idiomatic multiplatform access to Gemini",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-09-03T18:10:14.228079+00:00",
+    "published": "2026-09-03T00:00:00+00:00"
+  },
+  "https://blog.rust-lang.org/2026/09/03/Rust-1.98.1": {
+    "title": "Announcing Rust 1.98.1",
+    "source": "Rust Blog",
+    "first_seen": "2026-09-03T18:10:14.228079+00:00",
+    "published": "2026-09-03T00:00:00+00:00"
+  },
+  "https://astro.build/blog/astro-730": {
+    "title": "Astro 7.3",
+    "source": "Astro Blog",
+    "first_seen": "2026-09-03T18:10:14.228079+00:00",
+    "published": "2026-09-03T00:00:00+00:00"
   }
 }
