@@ -84122,5 +84122,155 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-09-03T22:52:26.843970+00:00",
     "published": "2026-09-03T00:49:07+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-Apple-Audio-Shared-GPIO": {
+    "title": "Linux 7.4 To Improve Apple Silicon Audio Support & Its \"Impossible\" Power Management",
+    "source": "Phoronix",
+    "first_seen": "2026-09-04T12:58:56.986946+00:00",
+    "published": "2026-09-04T12:13:01+00:00"
+  },
+  "https://www.ycombinator.com/companies/subimage/jobs/NCTFgKK-founding-engineer": {
+    "title": "SubImage (YC W25) Is Hiring a Founding Engineer in SF",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-04T12:58:56.986946+00:00",
+    "published": "2026-09-04T12:01:07+00:00"
+  },
+  "https://thenewstack.io/coder-cursor-agent-relay": {
+    "title": "“1% of my engineers are responsible for 40% of token spend”: Why Coder and SpaceXAI want to give developers nice things",
+    "source": "The New Stack",
+    "first_seen": "2026-09-04T12:58:56.986946+00:00",
+    "published": "2026-09-04T12:00:00+00:00"
+  },
+  "https://realpython.com/quizzes/common-python-data-structures": {
+    "title": "Quiz: Common Python Data Structures (Guide)",
+    "source": "Real Python",
+    "first_seen": "2026-09-04T12:58:56.986946+00:00",
+    "published": "2026-09-04T12:00:00+00:00"
+  },
+  "https://realpython.com/podcasts/rpp/310": {
+    "title": "The Real Python Podcast – Episode #310: Performance Engineering: Profiling and Making Apps Fast by Default",
+    "source": "Real Python",
+    "first_seen": "2026-09-04T12:58:56.986946+00:00",
+    "published": "2026-09-04T12:00:00+00:00"
+  },
+  "https://collusion.wiki": {
+    "title": "Discovery of a new OpenAI agent message board",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-04T12:58:56.986946+00:00",
+    "published": "2026-09-04T11:54:53+00:00"
+  },
+  "https://www.schneier.com/blog/archives/2026/09/security-vulnerability-in-a-voting-system.html": {
+    "title": "Security Vulnerability in a Voting System",
+    "source": "Schneier on Security",
+    "first_seen": "2026-09-04T12:58:56.986946+00:00",
+    "published": "2026-09-04T11:09:35+00:00"
+  },
+  "https://www.cncf.io/blog/2026/09/04/kubernetes-isnt-new-but-ai-makes-it-scary-again": {
+    "title": "Kubernetes isn’t new, but AI makes It scary again",
+    "source": "CNCF Blog",
+    "first_seen": "2026-09-04T12:58:56.986946+00:00",
+    "published": "2026-09-04T11:00:00+00:00"
+  },
+  "https://www.cncf.io/blog/2026/09/04/cpu-gpu-why-ai-platform-engineering-is-a-heterogeneous-infrastructure-problem": {
+    "title": "CPU + GPU: Why AI platform engineering is a heterogeneous infrastructure problem",
+    "source": "CNCF Blog",
+    "first_seen": "2026-09-04T12:58:56.986946+00:00",
+    "published": "2026-09-04T11:00:00+00:00"
+  },
+  "https://www.oo-software.com/en/shutup10": {
+    "title": "O&O ShutUp10 – The antispy tool for Windows 10 and 11",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-04T12:58:56.986946+00:00",
+    "published": "2026-09-04T10:56:07+00:00"
+  },
+  "https://apnews.com/article/gas-diesel-prices-us-iran-war-ebd01b9773365ee40550dcfd7d3ebf87": {
+    "title": "US diesel prices hit a record high of $5.85 on average",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-04T12:58:56.986946+00:00",
+    "published": "2026-09-04T10:42:19+00:00"
+  },
+  "https://www.schneier.com/blog/archives/2026/09/ai-coding-agents-are-installing-unknown-untrusted-code-on-corporate-networks.html": {
+    "title": "AI Coding Agents Are Installing Unknown/Untrusted Code on Corporate Networks",
+    "source": "Schneier on Security",
+    "first_seen": "2026-09-04T12:58:56.986946+00:00",
+    "published": "2026-09-04T10:35:17+00:00"
+  },
+  "https://www.phoronix.com/news/Fedora-47-Considers-Thin-LTO": {
+    "title": "Fedora 47 Considering Use Of Thin LTO Compiler Optimizations",
+    "source": "Phoronix",
+    "first_seen": "2026-09-04T12:58:56.986946+00:00",
+    "published": "2026-09-04T10:32:00+00:00"
+  },
+  "https://www.phoronix.com/news/Intel-Nova-Lake-P-64-bit-Mode": {
+    "title": "Mesa 26.3 Preps For Intel Nova Lake P's New 64-bit GPU Mode",
+    "source": "Phoronix",
+    "first_seen": "2026-09-04T12:58:56.986946+00:00",
+    "published": "2026-09-04T10:20:57+00:00"
+  },
+  "https://jestoph.com/2026/09/04/jane-street-challenge.html": {
+    "title": "Solving the Jane Street Reverse Engineering Challenge",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-04T12:58:56.986946+00:00",
+    "published": "2026-09-04T10:17:01+00:00"
+  },
+  "https://stratechery.com/2026/an-interview-with-openai-president-greg-brockman-about-astra-and-alignment": {
+    "title": "An Interview with OpenAI President Greg Brockman About Astra and Alignment",
+    "source": "Stratechery",
+    "first_seen": "2026-09-04T12:58:56.986946+00:00",
+    "published": "2026-09-04T10:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/Vulkan-1.4.362": {
+    "title": "Vulkan 1.4.362 Released With New Extension Developed By Valve",
+    "source": "Phoronix",
+    "first_seen": "2026-09-04T12:58:56.986946+00:00",
+    "published": "2026-09-04T09:56:48+00:00"
+  },
+  "https://carbonawarepricing.com": {
+    "title": "Carbon-aware electricity pricing, measured daily on 38 grids",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-04T12:58:56.986946+00:00",
+    "published": "2026-09-04T08:19:57+00:00"
+  },
+  "http://www.techdirt.com/2026/09/03/hackers-had-a-live-feed-of-every-id-this-verification-company-scanned-for-over-a-year": {
+    "title": "Hackers Had a Live Feed of Every ID Verification Company Scanned for over a Year",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-04T12:58:56.986946+00:00",
+    "published": "2026-09-04T06:47:51+00:00"
+  },
+  "https://simonwillison.net/2026/Sep/4/august-newsletter": {
+    "title": "August newsletter is out",
+    "source": "Simon Willison",
+    "first_seen": "2026-09-04T12:58:56.986946+00:00",
+    "published": "2026-09-04T05:54:40+00:00"
+  },
+  "https://computer.rip/2026-06-14-hookswitch-to-grave.html": {
+    "title": "From Hookswitch to Grave",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-04T12:58:56.986946+00:00",
+    "published": "2026-09-04T02:40:12+00:00"
+  },
+  "https://gwern.net/xanadu": {
+    "title": "Project Xanadu: Even More Hindsight (2025)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-04T12:58:56.986946+00:00",
+    "published": "2026-09-04T01:45:23+00:00"
+  },
+  "https://www.phoronix.com/news/Ubuntu-26.10-Snapshot-3": {
+    "title": "Ubuntu 26.10 Snapshot 3 Monthly ISOs Released For Testing",
+    "source": "Phoronix",
+    "first_seen": "2026-09-04T12:58:56.986946+00:00",
+    "published": "2026-09-04T00:15:30+00:00"
+  },
+  "https://reactoratlas.com": {
+    "title": "Show HN: Reactor Atlas",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-04T12:58:56.986946+00:00",
+    "published": "2026-09-03T12:33:01+00:00"
+  },
+  "https://news.ycombinator.com/item?id=49548600": {
+    "title": "Ask HN: Who is using MCP in production?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-04T12:58:56.986946+00:00",
+    "published": "2026-09-03T11:21:18+00:00"
   }
 }
