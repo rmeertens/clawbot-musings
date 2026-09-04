@@ -84272,5 +84272,251 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-09-04T12:58:56.986946+00:00",
     "published": "2026-09-03T11:21:18+00:00"
+  },
+  "https://pytorch.org/blog/your-guide-to-hardware-acceleration-compute-infrastructure-at-pytorch-conference-north-america-2026": {
+    "title": "Your Guide to Hardware Acceleration & Compute Infrastructure at PyTorch Conference North America 2026",
+    "source": "PyTorch Blog",
+    "first_seen": "2026-09-04T17:52:32.477707+00:00",
+    "published": "2026-09-04T17:45:31+00:00"
+  },
+  "https://simonwillison.net/2026/Sep/4/rogue-agent-wikis": {
+    "title": "OpenAI's rogue agents were caught communicating via public wikis",
+    "source": "Simon Willison",
+    "first_seen": "2026-09-04T17:52:32.477707+00:00",
+    "published": "2026-09-04T17:38:48+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/designing-lifecycle-policies-for-agentcore-memory": {
+    "title": "Designing lifecycle policies for AgentCore memory",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-09-04T17:52:32.477707+00:00",
+    "published": "2026-09-04T17:20:04+00:00"
+  },
+  "https://opentrailpaper.com": {
+    "title": "Show HN: Open-Source eInk Bike Computer",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-04T17:52:32.477707+00:00",
+    "published": "2026-09-04T17:18:08+00:00"
+  },
+  "https://twitter.com/ggerganov/status/2095897173376618881": {
+    "title": "Georgi Gerganov on llama.cpp/ggml future after Nvidia acquisition of HuggingFace",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-04T17:52:32.477707+00:00",
+    "published": "2026-09-04T17:12:22+00:00"
+  },
+  "https://torrentfreak.com/adult-film-producer-unmasks-prolific-john-doe-torrent-pirate-as-meta-executive": {
+    "title": "Adult Film Producer Unmasks Prolific 'John DOE' Torrent Pirate as Meta Executive",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-04T17:52:32.477707+00:00",
+    "published": "2026-09-04T16:46:59+00:00"
+  },
+  "https://www.schneier.com/blog/archives/2026/09/using-a-vm-to-contain-an-ai-agent.html": {
+    "title": "Using a VM to Contain an AI Agent",
+    "source": "Schneier on Security",
+    "first_seen": "2026-09-04T17:52:32.477707+00:00",
+    "published": "2026-09-04T16:31:38+00:00"
+  },
+  "https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration": {
+    "title": "Project HydraFusion: Frontier quality via multi-model orchestration",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-04T17:52:32.477707+00:00",
+    "published": "2026-09-04T16:24:50+00:00"
+  },
+  "https://developer.nvidia.com/blog/frontier-reasoning-reaches-the-edge-how-to-deploy-and-optimize-models-on-nvidia-jetson": {
+    "title": "Frontier Reasoning Reaches the Edge: How to Deploy and Optimize Models on NVIDIA Jetson",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-09-04T17:52:32.477707+00:00",
+    "published": "2026-09-04T16:21:04+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/build-a-physical-ai-model-factory-with-nvidia-cosmos-3-on-sagemaker-hyperpod": {
+    "title": "Build a Physical AI model factory with NVIDIA Cosmos 3 on SageMaker HyperPod",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-09-04T17:52:32.477707+00:00",
+    "published": "2026-09-04T16:16:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/run-agent-driven-amazon-sagemaker-hyperpod-operations-with-instantstart": {
+    "title": "Run agent-driven Amazon SageMaker HyperPod operations with InstantStart",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-09-04T17:52:32.477707+00:00",
+    "published": "2026-09-04T16:12:17+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/customizing-your-knowledge-base-on-amazon-bedrock-for-large-and-complex-documents-using-amazon-textract": {
+    "title": "Customizing your knowledge base on Amazon Bedrock for large and complex documents using Amazon Textract",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-09-04T17:52:32.477707+00:00",
+    "published": "2026-09-04T16:08:10+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/how-intuit-built-an-agentic-disaster-recovery-assistant-with-amazon-bedrock": {
+    "title": "How Intuit built an agentic disaster recovery assistant with Amazon Bedrock",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-09-04T17:52:32.477707+00:00",
+    "published": "2026-09-04T16:06:01+00:00"
+  },
+  "https://thenewstack.io/gpt6-astra-developer-access-delayed": {
+    "title": "“Sorry for the messy rollout”: OpenAI launched GPT-6 Astra, but developers are locked out",
+    "source": "The New Stack",
+    "first_seen": "2026-09-04T17:52:32.477707+00:00",
+    "published": "2026-09-04T16:04:42+00:00"
+  },
+  "https://cloud.google.com/blog/topics/developers-practitioners/using-antigravity-cli-to-streamline-dual-write-database-migration": {
+    "title": "Spanner migrations: Automating dual-write with Antigravity CLI for minimal disruption",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-09-04T17:52:32.477707+00:00",
+    "published": "2026-09-04T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/data-analytics/how-yahoo-optimizes-apache-spark-with-flexible-vms": {
+    "title": "How Yahoo optimizes resources with flexible VMs in Managed Service for Apache Spark",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-09-04T17:52:32.477707+00:00",
+    "published": "2026-09-04T16:00:00+00:00"
+  },
+  "https://desec.io": {
+    "title": "deSEC – Free Secure DNS",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-04T17:52:32.477707+00:00",
+    "published": "2026-09-04T15:38:58+00:00"
+  },
+  "https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html": {
+    "title": "Corporate America is getting hooked on open-source AI",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-04T17:52:32.477707+00:00",
+    "published": "2026-09-04T15:33:45+00:00"
+  },
+  "https://www.phoronix.com/review/amazon-linux-2027-benchmarks": {
+    "title": "Amazon Linux 2027 Shows Off Nice Performance Gains On AMD EPYC In The AWS Cloud",
+    "source": "Phoronix",
+    "first_seen": "2026-09-04T17:52:32.477707+00:00",
+    "published": "2026-09-04T15:33:21+00:00"
+  },
+  "https://lwn.net/Articles/1090579": {
+    "title": "[$] Deterministic testing for multithreaded Python",
+    "source": "LWN.net",
+    "first_seen": "2026-09-04T17:52:32.477707+00:00",
+    "published": "2026-09-04T15:29:17+00:00"
+  },
+  "https://thenewstack.io/openai-astra-harness-arc-agi-3": {
+    "title": "OpenAI will sell you Astra, but not the system that scored 98.6% on ARC-AGI-3",
+    "source": "The New Stack",
+    "first_seen": "2026-09-04T17:52:32.477707+00:00",
+    "published": "2026-09-04T15:25:17+00:00"
+  },
+  "https://www.phoronix.com/news/NetworkManager-AI-Canary": {
+    "title": "NetworkManager Works To Enforce AI Policy By Tricking AI Agents To Add A Canary",
+    "source": "Phoronix",
+    "first_seen": "2026-09-04T17:52:32.477707+00:00",
+    "published": "2026-09-04T14:52:01+00:00"
+  },
+  "https://www.phoronix.com/news/PoCL-7.2-Released": {
+    "title": "PoCL 7.2 Released With Official OpenCL 3.0 Conformance On RISC-V & x86_64 CPUs",
+    "source": "Phoronix",
+    "first_seen": "2026-09-04T17:52:32.477707+00:00",
+    "published": "2026-09-04T14:33:57+00:00"
+  },
+  "https://www.pnas.org/doi/10.1073/pnas.1118373109": {
+    "title": "Higher social class predicts increased unethical behavior",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-04T17:52:32.477707+00:00",
+    "published": "2026-09-04T14:02:50+00:00"
+  },
+  "https://thenewstack.io/ai-agent-evaluation-gates": {
+    "title": "AI agent evaluations are part of the product",
+    "source": "The New Stack",
+    "first_seen": "2026-09-04T17:52:32.477707+00:00",
+    "published": "2026-09-04T14:00:00+00:00"
+  },
+  "https://prospect.org/2026/08/21/pentagon-minerals-deal-department-defense-cerberus-capital-alan-waldenberg-stephen-feinberg": {
+    "title": "Top Pentagon Official Contracted Personal Lawyer to Handle Minerals Deal",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-04T17:52:32.477707+00:00",
+    "published": "2026-09-04T13:54:26+00:00"
+  },
+  "https://www.theguardian.com/us-news/2026/sep/04/military-disables-phone-ad-trackers": {
+    "title": "US Military disables ad trackers on troops' phones",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-04T17:52:32.477707+00:00",
+    "published": "2026-09-04T13:44:14+00:00"
+  },
+  "https://lwn.net/Articles/1092660": {
+    "title": "Grml 2026.09 released",
+    "source": "LWN.net",
+    "first_seen": "2026-09-04T17:52:32.477707+00:00",
+    "published": "2026-09-04T13:30:13+00:00"
+  },
+  "https://lwn.net/Articles/1092659": {
+    "title": "Security updates for Friday",
+    "source": "LWN.net",
+    "first_seen": "2026-09-04T17:52:32.477707+00:00",
+    "published": "2026-09-04T13:18:27+00:00"
+  },
+  "https://www.phoronix.com/news/XDC-2026-Talks": {
+    "title": "XDC 2026 Will Feature Many Interesting Talks: Vulkan Gallium, OpenCL On CUDA & More",
+    "source": "Phoronix",
+    "first_seen": "2026-09-04T17:52:32.477707+00:00",
+    "published": "2026-09-04T13:05:43+00:00"
+  },
+  "https://bob.ibm.com": {
+    "title": "IBM Bob",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-04T17:52:32.477707+00:00",
+    "published": "2026-09-04T12:50:29+00:00"
+  },
+  "https://github.com/hawshemi/lg-c5-webos25-region-change": {
+    "title": "Restoring 5 GHz Wi-Fi on an LG C5 by changing its webOS region",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-04T17:52:32.477707+00:00",
+    "published": "2026-09-04T12:49:44+00:00"
+  },
+  "https://arstechnica.com/gadgets/2026/09/nearly-impossible-how-fairphone-built-the-ethical-repairable-fairphone-gen-6": {
+    "title": "How Fairphone built the Fairphone Gen 6+",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-04T17:52:32.477707+00:00",
+    "published": "2026-09-04T12:43:49+00:00"
+  },
+  "https://spacetimedb.com/blog/how-does-spacetime-scale": {
+    "title": "Ok, but does it scale?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-04T17:52:32.477707+00:00",
+    "published": "2026-09-04T12:42:08+00:00"
+  },
+  "https://neon.com/blog/comparing-token-economics-across-42-ai-models": {
+    "title": "Comparing token economics across 42 AI models",
+    "source": "Neon Blog",
+    "first_seen": "2026-09-04T17:52:32.477707+00:00",
+    "published": "2026-09-04T12:00:00+00:00"
+  },
+  "https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products": {
+    "title": "Google AI Mode shows same products 21.6% more expensive than traditional search",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-04T17:52:32.477707+00:00",
+    "published": "2026-09-04T11:59:15+00:00"
+  },
+  "https://stackoverflow.blog/2026/09/04/how-to-build-a-secure-by-default-ai-coding-agent": {
+    "title": "How to build a secure-by-default AI coding agent",
+    "source": "Stack Overflow Blog",
+    "first_seen": "2026-09-04T17:52:32.477707+00:00",
+    "published": "2026-09-04T07:40:00+00:00"
+  },
+  "https://nextjs.org/blog/how-we-closed-1500-github-issues": {
+    "title": "How we closed 1,500 GitHub issues in one month",
+    "source": "Next.js Blog",
+    "first_seen": "2026-09-04T17:52:32.477707+00:00",
+    "published": "2026-09-04T04:00:00+00:00"
+  },
+  "https://www.elastic.co/blog/token-costs-ai-bills": {
+    "title": "Why your AI bill tripled while token prices fell 75%",
+    "source": "Elastic Blog",
+    "first_seen": "2026-09-04T17:52:32.477707+00:00",
+    "published": "2026-09-04T00:00:00+00:00"
+  },
+  "https://www.elastic.co/blog/how-elastic-supports-mosa-modular-open-systems-approach": {
+    "title": "Open by design: How Elastic supports MOSA, the DoD's Modular Open Systems Approach",
+    "source": "Elastic Blog",
+    "first_seen": "2026-09-04T17:52:32.477707+00:00",
+    "published": "2026-09-04T00:00:00+00:00"
+  },
+  "https://golangweekly.com/issues/616": {
+    "title": "Go code can now run before your OS does",
+    "source": "Golang Weekly",
+    "first_seen": "2026-09-04T17:52:32.477707+00:00",
+    "published": "2026-09-04T00:00:00+00:00"
   }
 }
