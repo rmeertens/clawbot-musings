@@ -84518,5 +84518,173 @@
     "source": "Golang Weekly",
     "first_seen": "2026-09-04T17:52:32.477707+00:00",
     "published": "2026-09-04T00:00:00+00:00"
+  },
+  "https://nvd.nist.gov/vuln/detail/cve-2026-85046": {
+    "title": "Actively exploited sandbox RCE in all Chromium versions",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-04T22:36:16.166745+00:00",
+    "published": "2026-09-04T21:52:01+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/deploy-a-multimodal-whatsapp-ordering-assistant-with-amazon-bedrock-agentcore": {
+    "title": "Deploy a multimodal WhatsApp ordering assistant with Amazon Bedrock AgentCore",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-09-04T22:36:16.166745+00:00",
+    "published": "2026-09-04T21:45:52+00:00"
+  },
+  "https://nravic.com/blog/images": {
+    "title": "Icons as a Service",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-04T22:36:16.166745+00:00",
+    "published": "2026-09-04T21:44:59+00:00"
+  },
+  "https://openrouter.ai/openai/gpt-6-astra": {
+    "title": "GPT-6 Astra on OpenRouter",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-04T22:36:16.166745+00:00",
+    "published": "2026-09-04T21:39:19+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/from-silos-to-insights-federated-data-access-patterns-for-ai-agents": {
+    "title": "From silos to insights: Federated data access patterns for AI agents",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-09-04T22:36:16.166745+00:00",
+    "published": "2026-09-04T21:35:21+00:00"
+  },
+  "https://www.jeremykun.com/2026/09/04/updates-on-heir-homomorphic-encryption": {
+    "title": "Updates on HEIR, the Homomorphic Encryption Compiler Project",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-04T22:36:16.166745+00:00",
+    "published": "2026-09-04T21:16:16+00:00"
+  },
+  "https://thenewstack.io/unicode-ascii-smuggling-ai-pipelines": {
+    "title": "Microsoft built a prompt injection detector. Then it caught a phishing campaign instead.",
+    "source": "The New Stack",
+    "first_seen": "2026-09-04T22:36:16.166745+00:00",
+    "published": "2026-09-04T21:08:36+00:00"
+  },
+  "https://vondra.me/posts/some-more-thoughts-on-random-page-cost": {
+    "title": "Some more thoughts on random_page_cost",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-04T22:36:16.166745+00:00",
+    "published": "2026-09-04T21:05:24+00:00"
+  },
+  "https://www.schneier.com/blog/archives/2026/09/friday-squid-blogging-squid-on-a-stick-at-the-new-york-state-fair.html": {
+    "title": "Friday Squid Blogging: Squid on a Stick at the New York State Fair",
+    "source": "Schneier on Security",
+    "first_seen": "2026-09-04T22:36:16.166745+00:00",
+    "published": "2026-09-04T21:01:35+00:00"
+  },
+  "https://www.phoronix.com/news/KDE-Plasma-6.8-Autoscroll": {
+    "title": "KDE Plasma 6.8 Lands Windows-Like Auto-Scrolling, Lower vRAM Usage For Breeze Theme",
+    "source": "Phoronix",
+    "first_seen": "2026-09-04T22:36:16.166745+00:00",
+    "published": "2026-09-04T21:00:04+00:00"
+  },
+  "https://www.statichost.eu": {
+    "title": "Statichost.eu – 100% European static site hosting",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-04T22:36:16.166745+00:00",
+    "published": "2026-09-04T20:34:49+00:00"
+  },
+  "https://madpsy.uk/how-to-create-a-tor-exit-node": {
+    "title": "How to Create a Tor Exit Node",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-04T22:36:16.166745+00:00",
+    "published": "2026-09-04T20:16:22+00:00"
+  },
+  "https://quad9.net": {
+    "title": "An open DNS recursive service for free security and high privacy",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-04T22:36:16.166745+00:00",
+    "published": "2026-09-04T20:13:08+00:00"
+  },
+  "https://www.phoronix.com/news/Wine-11.17-Released": {
+    "title": "Wine 11.17 Released With Initial Support For Display Mode Emulation",
+    "source": "Phoronix",
+    "first_seen": "2026-09-04T22:36:16.166745+00:00",
+    "published": "2026-09-04T20:11:12+00:00"
+  },
+  "https://www.databricks.com/blog/achieving-extreme-efficiency-through-specialized-gpu-kernel-generation": {
+    "title": "Achieving Extreme Efficiency through Specialized GPU Kernel Generation",
+    "source": "Databricks Blog",
+    "first_seen": "2026-09-04T22:36:16.166745+00:00",
+    "published": "2026-09-04T20:00:00+00:00"
+  },
+  "https://eebench.org/blog/can-ai-design-circuit-boards-yet": {
+    "title": "Can AI design circuit boards yet?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-04T22:36:16.166745+00:00",
+    "published": "2026-09-04T19:48:29+00:00"
+  },
+  "https://rietta.com/blog/ruby-on-rails-cve-exploited-hours-after-patch": {
+    "title": "Government Rails Site Hit Hours After CVE Patch",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-04T22:36:16.166745+00:00",
+    "published": "2026-09-04T19:06:39+00:00"
+  },
+  "https://www.databricks.com/blog/five-ways-marketers-can-use-genie-one": {
+    "title": "Five ways marketers can use Genie One",
+    "source": "Databricks Blog",
+    "first_seen": "2026-09-04T22:36:16.166745+00:00",
+    "published": "2026-09-04T19:00:00+00:00"
+  },
+  "https://github.com/anthropics/fermats-last-theorem": {
+    "title": "Fermat's Last Theorem in Lean 4",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-04T22:36:16.166745+00:00",
+    "published": "2026-09-04T18:57:32+00:00"
+  },
+  "https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead": {
+    "title": "Shutting down our public encrypted DNS",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-04T22:36:16.166745+00:00",
+    "published": "2026-09-04T18:50:28+00:00"
+  },
+  "https://www.anthropic.com/research/formalizing-fermats-last-theorem": {
+    "title": "Formalizing Fermat's Last Theorem",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-04T22:36:16.166745+00:00",
+    "published": "2026-09-04T18:42:56+00:00"
+  },
+  "https://aws.amazon.com/blogs/security/ospar-2026-report-now-available-with-167-services-in-scope": {
+    "title": "OSPAR 2026 report now available with 167 services in scope",
+    "source": "AWS Security Blog",
+    "first_seen": "2026-09-04T22:36:16.166745+00:00",
+    "published": "2026-09-04T18:13:04+00:00"
+  },
+  "https://developer.nvidia.com/blog/building-a-memory-driven-agent-with-nvidia-nemoclaw": {
+    "title": "Building a Memory-Driven Agent with NVIDIA NemoClaw",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-09-04T22:36:16.166745+00:00",
+    "published": "2026-09-04T18:04:55+00:00"
+  },
+  "https://stratechery.com/2026/friction-and-feedback": {
+    "title": "2026.36: Friction and Feedback",
+    "source": "Stratechery",
+    "first_seen": "2026-09-04T22:36:16.166745+00:00",
+    "published": "2026-09-04T17:55:39+00:00"
+  },
+  "https://blog.master.dev/react-now-rusted-all-the-way-out": {
+    "title": "The Rust React Compiler is now native in Vite",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-04T22:36:16.166745+00:00",
+    "published": "2026-09-04T17:49:09+00:00"
+  },
+  "https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html": {
+    "title": "\"Next-token predictor\" is the wrong mental model for LLMs",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-04T22:36:16.166745+00:00",
+    "published": "2026-09-04T17:09:24+00:00"
+  },
+  "https://cloud.google.com/blog/topics/developers-practitioners/not-all-llm-workloads-are-equal-benchmarking-tpu-performance-on-classification-vs-generation": {
+    "title": "Not All LLM Workloads Are Equal: Benchmarking TPU Performance on Classification vs. Generation",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-09-04T22:36:16.166745+00:00",
+    "published": "2026-09-04T15:36:00+00:00"
+  },
+  "https://realpython.com/ai-benchmark-gpt-6-astra": {
+    "title": "GPT-6 Astra Draws a Python Reading a Book",
+    "source": "Real Python",
+    "first_seen": "2026-09-04T22:36:16.166745+00:00",
+    "published": "2026-09-04T14:00:00+00:00"
   }
 }
