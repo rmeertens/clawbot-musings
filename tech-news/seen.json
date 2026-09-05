@@ -84782,5 +84782,101 @@
     "source": "Kubernetes Blog",
     "first_seen": "2026-09-05T12:11:11.587299+00:00",
     "published": "2026-09-04T18:30:00+00:00"
+  },
+  "https://marco.org/2026/09/04/bob-and-van": {
+    "title": "Bob and Van",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-05T16:59:03.167473+00:00",
+    "published": "2026-09-05T16:30:35+00:00"
+  },
+  "https://vcresearch.berkeley.edu/news/how-tobacco-industry-drove-rise-ultra-processed-foods": {
+    "title": "How the Tobacco Industry Drove the Rise of Ultra-Processed Foods",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-05T16:59:03.167473+00:00",
+    "published": "2026-09-05T16:14:34+00:00"
+  },
+  "https://wikiworkersunited.org/announcements/2026-09-04-us-wikimedia-foundation-workers-overwhelmingly-vote-to-form-union-with-cwa": {
+    "title": "Wikimedia Foundation Workers Overwhelmingly Vote to Form Union with CWA",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-05T16:59:03.167473+00:00",
+    "published": "2026-09-05T16:13:57+00:00"
+  },
+  "https://simonwillison.net/2026/Sep/5/blender-coding-agents-macos": {
+    "title": "Using Blender with coding agents on macOS",
+    "source": "Simon Willison",
+    "first_seen": "2026-09-05T16:59:03.167473+00:00",
+    "published": "2026-09-05T15:51:09+00:00"
+  },
+  "https://blog.bytebytego.com/p/ep224-mcp-vs-rag-vs-ai-agents": {
+    "title": "EP224: MCP vs RAG vs AI Agents",
+    "source": "ByteByteGo",
+    "first_seen": "2026-09-05T16:59:03.167473+00:00",
+    "published": "2026-09-05T15:30:58+00:00"
+  },
+  "https://www.phoronix.com/news/NVIDIA-Nova-vGPU-Manager": {
+    "title": "NVIDIA Posts vGPU Manager & VFIO Variant Driver For Open-Source Nova",
+    "source": "Phoronix",
+    "first_seen": "2026-09-05T16:59:03.167473+00:00",
+    "published": "2026-09-05T15:02:15+00:00"
+  },
+  "https://thenewstack.io/claude-fable-upgrade-tested": {
+    "title": "Claude Fable 5.1 vs. Fable 5: On real work, I couldn’t tell them apart.",
+    "source": "The New Stack",
+    "first_seen": "2026-09-05T16:59:03.167473+00:00",
+    "published": "2026-09-05T15:00:00+00:00"
+  },
+  "https://thenewstack.io/building-trust-agentic-rag": {
+    "title": "Building trust in agentic RAG starts with evidence",
+    "source": "The New Stack",
+    "first_seen": "2026-09-05T16:59:03.167473+00:00",
+    "published": "2026-09-05T15:00:00+00:00"
+  },
+  "https://www.propublica.org/podcast/forever-chemicals-pfas-pfos-3m-secret-kris-hansen": {
+    "title": "How the Planet-Altering Disaster of \"Forever Chemicals\" Was Kept Secret",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-05T16:59:03.167473+00:00",
+    "published": "2026-09-05T14:40:52+00:00"
+  },
+  "https://arstechnica.com/science/2026/09/meet-the-2026-ig-nobel-prize-winners": {
+    "title": "Meet the Ig Nobel Prize Winners",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-05T16:59:03.167473+00:00",
+    "published": "2026-09-05T14:02:44+00:00"
+  },
+  "https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250": {
+    "title": "The \"$60 Gaming PC\" – AMD BC-250 (2025)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-05T16:59:03.167473+00:00",
+    "published": "2026-09-05T13:36:38+00:00"
+  },
+  "https://packagemain.tech/p/gitignore-everything-by-default": {
+    "title": ".gitignore Everything by Default",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-05T16:59:03.167473+00:00",
+    "published": "2026-09-05T13:19:42+00:00"
+  },
+  "https://www.pbs.org/newshour/science/global-warming-will-exceed-1-5-degree-limit-un-says-in-report-that-maps-path-back-below-danger-zone": {
+    "title": "Global warming will exceed 1.5-degree limit, UN says",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-05T16:59:03.167473+00:00",
+    "published": "2026-09-05T13:02:14+00:00"
+  },
+  "https://buttondown.com/suchbadtechads/archive/spartan-and-the-mime": {
+    "title": "A bizarre Commodore 64 peripheral, a mime, and some pretty bad ads",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-05T16:59:03.167473+00:00",
+    "published": "2026-09-05T12:23:51+00:00"
+  },
+  "http://terpstrakeyboard.com": {
+    "title": "Terpstra Keyboard",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-05T16:59:03.167473+00:00",
+    "published": "2026-09-05T10:33:01+00:00"
+  },
+  "https://pushin.eu": {
+    "title": "Git hosting that never leaves Europe",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-05T16:59:03.167473+00:00",
+    "published": "2026-09-05T06:31:49+00:00"
   }
 }
