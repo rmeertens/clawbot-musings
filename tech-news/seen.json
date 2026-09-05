@@ -84686,5 +84686,101 @@
     "source": "Real Python",
     "first_seen": "2026-09-04T22:36:16.166745+00:00",
     "published": "2026-09-04T14:00:00+00:00"
+  },
+  "https://www.construction-physics.com/p/reading-list-09052026": {
+    "title": "Reading List - 09/05/2026",
+    "source": "Construction Physics",
+    "first_seen": "2026-09-05T12:11:11.587299+00:00",
+    "published": "2026-09-05T12:03:33+00:00"
+  },
+  "https://realpython.com/quizzes/face-recognition-with-python": {
+    "title": "Quiz: Build Your Own Face Recognition Tool With Python",
+    "source": "Real Python",
+    "first_seen": "2026-09-05T12:11:11.587299+00:00",
+    "published": "2026-09-05T12:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/Nouveau-Blackwell-Display-Fixes": {
+    "title": "Nouveau Lands Display Fixes For NVIDIA Blackwell GPUs As It Works Toward HDMI 2.1",
+    "source": "Phoronix",
+    "first_seen": "2026-09-05T12:11:11.587299+00:00",
+    "published": "2026-09-05T11:20:00+00:00"
+  },
+  "https://www.phoronix.com/news/Apple-A18-Pro-MacBook-Neo-Patch": {
+    "title": "Linux Patches Posted For Initial Enablement Of The Apple A18 Pro + MacBook Neo",
+    "source": "Phoronix",
+    "first_seen": "2026-09-05T12:11:11.587299+00:00",
+    "published": "2026-09-05T11:11:11+00:00"
+  },
+  "https://www.phoronix.com/news/AMD-Rust-Deep-Into-GPU-Stack": {
+    "title": "AMD Working To \"Push Rust Deep Into The GPU Stack\"",
+    "source": "Phoronix",
+    "first_seen": "2026-09-05T12:11:11.587299+00:00",
+    "published": "2026-09-05T10:48:48+00:00"
+  },
+  "https://www.youtube.com/watch?v=IvFu343KNek": {
+    "title": "LG TVs aren't the only ones spying on you [video]",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-05T12:11:11.587299+00:00",
+    "published": "2026-09-05T10:36:14+00:00"
+  },
+  "https://www.phoronix.com/news/GNOME-RFC-Process-Discussion": {
+    "title": "GNOME Stakeholders Discussing RFC Process For Solving Major Technical Changes",
+    "source": "Phoronix",
+    "first_seen": "2026-09-05T12:11:11.587299+00:00",
+    "published": "2026-09-05T10:31:45+00:00"
+  },
+  "https://www.abc.net.au/news/2026-09-04/why-the-netherlands-moved-its-gold-from-us-and-canada/107111990": {
+    "title": "Netherlands pulls gold out of the US for fears of 'geopolitical unrest'",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-05T12:11:11.587299+00:00",
+    "published": "2026-09-05T10:14:28+00:00"
+  },
+  "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems": {
+    "title": "AI handles incidents, engineers lose touch with their systems",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-05T12:11:11.587299+00:00",
+    "published": "2026-09-05T07:52:50+00:00"
+  },
+  "https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation": {
+    "title": "GPT-6 Astra in code review: Gains, privacy, and cost",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-05T12:11:11.587299+00:00",
+    "published": "2026-09-05T03:38:56+00:00"
+  },
+  "https://codeberg.org/mv12star/shitter/wiki/Instances": {
+    "title": "Nitter has more working instances than before the takedowns",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-05T12:11:11.587299+00:00",
+    "published": "2026-09-05T00:04:16+00:00"
+  },
+  "https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2": {
+    "title": "Artificial Analysis Intelligence Index v4.2",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-05T12:11:11.587299+00:00",
+    "published": "2026-09-05T00:04:14+00:00"
+  },
+  "https://simonwillison.net/2026/Sep/4/astra-pelicans": {
+    "title": "The Pelican comparison grid for Astra is pretty interesting",
+    "source": "Simon Willison",
+    "first_seen": "2026-09-05T12:11:11.587299+00:00",
+    "published": "2026-09-04T23:59:05+00:00"
+  },
+  "https://www.charlespetzold.com/blog/2026/09/Can-Guitar-Frets-Perform-Multiplication.html": {
+    "title": "Can guitar frets perform multiplication?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-05T12:11:11.587299+00:00",
+    "published": "2026-09-04T22:40:30+00:00"
+  },
+  "https://news.gallup.com/poll/713933/record-high-say-government-corruption-widespread.aspx": {
+    "title": "Record-High 89% in U.S. Say Government Corruption Widespread",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-05T12:11:11.587299+00:00",
+    "published": "2026-09-04T22:03:16+00:00"
+  },
+  "https://kubernetes.io/blog/2026/09/04/kubernetes-v1-37-rootless-beta": {
+    "title": "Kubernetes v1.37: KubeletInUserNamespace (aka Rootless mode) Graduates to Beta",
+    "source": "Kubernetes Blog",
+    "first_seen": "2026-09-05T12:11:11.587299+00:00",
+    "published": "2026-09-04T18:30:00+00:00"
   }
 }
