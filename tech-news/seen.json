@@ -85166,5 +85166,83 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-09-06T17:23:24.317624+00:00",
     "published": "2026-09-06T11:53:40+00:00"
+  },
+  "https://www.neowin.net/opinions/windows-11s-special-developer-edition-sounds-like-yet-another-marketing-misfire": {
+    "title": "Windows 11's \"special\" developer edition looks like another marketing misfire",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-06T22:30:22.053885+00:00",
+    "published": "2026-09-06T21:16:10+00:00"
+  },
+  "https://github.com/marsbos/mador": {
+    "title": "Show HN: Mador – Make any DOM reactive with a tiny 80-line Proxy state tuple",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-06T22:30:22.053885+00:00",
+    "published": "2026-09-06T20:45:13+00:00"
+  },
+  "https://anubis.techaro.lol/blog/2026/anubis-wasm": {
+    "title": "It took a year to ship WebAssembly in Anubis",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-06T22:30:22.053885+00:00",
+    "published": "2026-09-06T20:32:38+00:00"
+  },
+  "https://arxiv.org/abs/2505.12540": {
+    "title": "Harnessing the Universal Geometry of Embeddings",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-06T22:30:22.053885+00:00",
+    "published": "2026-09-06T20:31:20+00:00"
+  },
+  "https://grapheneos.social/@GrapheneOS/117225539756835649": {
+    "title": "GrapheneOS Overhauled Default Apps and Secure Clipboard",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-06T22:30:22.053885+00:00",
+    "published": "2026-09-06T20:24:00+00:00"
+  },
+  "https://getvodforge.com": {
+    "title": "Show HN: VODForge – a free local desktop UI for YouTube video/playlist downloads",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-06T22:30:22.053885+00:00",
+    "published": "2026-09-06T20:07:30+00:00"
+  },
+  "https://www.phoronix.com/news/Shotcut-26.9-Beta": {
+    "title": "Shotcut 26.9 Video Editor Beta Brings UI Improvements, Better Audio Quality",
+    "source": "Phoronix",
+    "first_seen": "2026-09-06T22:30:22.053885+00:00",
+    "published": "2026-09-06T19:58:05+00:00"
+  },
+  "https://a.wholelottanothing.org/the-car-industry-a-b-tested-selling-the-same-car-with-and-without-carplay-and-the-results-are-not-shocking": {
+    "title": "The car industry A/B tested selling a car with and without CarPlay",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-06T22:30:22.053885+00:00",
+    "published": "2026-09-06T19:53:23+00:00"
+  },
+  "https://www.phoronix.com/news/NetBSD-9.5-Released": {
+    "title": "NetBSD 9.5 Released To Cap Off The Series",
+    "source": "Phoronix",
+    "first_seen": "2026-09-06T22:30:22.053885+00:00",
+    "published": "2026-09-06T17:52:15+00:00"
+  },
+  "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3": {
+    "title": "Nitter and XCancel resume service after legal advice",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-06T22:30:22.053885+00:00",
+    "published": "2026-09-06T17:49:47+00:00"
+  },
+  "https://asahilinux.org/2026/09/m2-episode-1": {
+    "title": "Asahi Linux on M3",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-06T22:30:22.053885+00:00",
+    "published": "2026-09-06T14:08:59+00:00"
+  },
+  "https://mceglowski.substack.com/p/icy-moons-are-ocean-worlds": {
+    "title": "Icy Moons Are Ocean Worlds",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-06T22:30:22.053885+00:00",
+    "published": "2026-09-06T13:07:52+00:00"
+  },
+  "https://simonwillison.net/2026/Sep/6/theres-no-limit-to-how-bad-code-can-get": {
+    "title": "There's No Limit to How Bad Code Can Get",
+    "source": "Simon Willison",
+    "first_seen": "2026-09-06T22:30:22.053885+00:00",
+    "published": "2026-09-06T09:08:06+00:00"
   }
 }
