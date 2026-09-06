@@ -84938,5 +84938,113 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-09-05T22:25:17.077933+00:00",
     "published": "2026-09-05T13:31:05+00:00"
+  },
+  "https://realpython.com/quizzes/python-traceback": {
+    "title": "Quiz: Understanding the Python Traceback",
+    "source": "Real Python",
+    "first_seen": "2026-09-06T12:25:53.536096+00:00",
+    "published": "2026-09-06T12:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/Asahi-Linux-Official-M3": {
+    "title": "Asahi Linux Now Officially Supports Apple M3 Macs - With Caveats",
+    "source": "Phoronix",
+    "first_seen": "2026-09-06T12:25:53.536096+00:00",
+    "published": "2026-09-06T10:53:22+00:00"
+  },
+  "https://www.phoronix.com/news/ClangIR-Build-Default-Maybe": {
+    "title": "LLVM Developers Discuss Enabling ClangIR Build By Default",
+    "source": "Phoronix",
+    "first_seen": "2026-09-06T12:25:53.536096+00:00",
+    "published": "2026-09-06T10:43:10+00:00"
+  },
+  "https://bergie.iki.fi/blog/eupl": {
+    "title": "I Changed My License",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-06T12:25:53.536096+00:00",
+    "published": "2026-09-06T10:39:44+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.3-rc2-kmalloc-obj": {
+    "title": "Linux 7.3-rc2 Transitions More kmalloc Calls To The Superior kmalloc_obj",
+    "source": "Phoronix",
+    "first_seen": "2026-09-06T12:25:53.536096+00:00",
+    "published": "2026-09-06T10:28:25+00:00"
+  },
+  "https://www.phoronix.com/news/Slackware-16-Alpha": {
+    "title": "Slackware 16 Alpha 1 Available Following GCC 16.2, Glibc 2.44 & Binutils 2.47 Upgrade",
+    "source": "Phoronix",
+    "first_seen": "2026-09-06T12:25:53.536096+00:00",
+    "published": "2026-09-06T10:16:15+00:00"
+  },
+  "https://keenbean.app": {
+    "title": "Show HN: Keen Bean – Mac meeting notes that draft the spec while you talk",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-06T12:25:53.536096+00:00",
+    "published": "2026-09-06T09:53:12+00:00"
+  },
+  "https://www.motherjones.com/politics/2026/09/drinking-water-mississippi-lawsuit": {
+    "title": "You Don't Have a Right to Safe Drinking Water, US Court Rules",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-06T12:25:53.536096+00:00",
+    "published": "2026-09-06T09:14:22+00:00"
+  },
+  "https://simonwillison.net/2026/Sep/6/zach-kehs": {
+    "title": "Quoting Zach Kehs",
+    "source": "Simon Willison",
+    "first_seen": "2026-09-06T12:25:53.536096+00:00",
+    "published": "2026-09-06T08:42:49+00:00"
+  },
+  "https://www.trendingtopics.eu/emad-mostaque-ai-internet-outlook-english": {
+    "title": "\"We Have to Assume That the Internet Will Go Offline in the Next Few Years\"",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-06T12:25:53.536096+00:00",
+    "published": "2026-09-06T08:31:01+00:00"
+  },
+  "https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight": {
+    "title": "Isar Aerospace reaches orbit and deploys payloads on second flight",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-06T12:25:53.536096+00:00",
+    "published": "2026-09-06T07:21:06+00:00"
+  },
+  "https://vermaden.wordpress.com/2026/09/06/amd-based-freebsd-desktop-reloaded": {
+    "title": "AMD Based FreeBSD Desktop Reloaded",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-06T12:25:53.536096+00:00",
+    "published": "2026-09-06T02:24:57+00:00"
+  },
+  "https://openai.robocurve.org/gpt-6-astra": {
+    "title": "GPT-6 Astra on robot arms",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-06T12:25:53.536096+00:00",
+    "published": "2026-09-06T01:52:45+00:00"
+  },
+  "https://cloudinabottle.org/blog/launch-post": {
+    "title": "Cloud in a Bottle: making self-hosting accessible to everyone",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-06T12:25:53.536096+00:00",
+    "published": "2026-09-06T00:03:29+00:00"
+  },
+  "https://lapcatsoftware.com/articles/2026/9/1.html": {
+    "title": "Chrome again exempts Google from user site data settings",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-06T12:25:53.536096+00:00",
+    "published": "2026-09-05T23:39:47+00:00"
+  },
+  "https://simonwillison.net/2026/Sep/5/introducing-gpt-6-astra-for-developers": {
+    "title": "Introducing GPT-6 Astra for developers",
+    "source": "Simon Willison",
+    "first_seen": "2026-09-06T12:25:53.536096+00:00",
+    "published": "2026-09-05T23:27:48+00:00"
+  },
+  "https://www.phoronix.com/news/Zenwalk-2026-Current": {
+    "title": "Slackware-Based Zenwalk ISOs Updated With Linux 7.1, Flatpak Integrated + Xfce 4.20",
+    "source": "Phoronix",
+    "first_seen": "2026-09-06T12:25:53.536096+00:00",
+    "published": "2026-09-05T22:27:47+00:00"
+  },
+  "https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader": {
+    "title": "The revolt of the reader",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-06T12:25:53.536096+00:00",
+    "published": "2026-09-05T21:37:49+00:00"
   }
 }
