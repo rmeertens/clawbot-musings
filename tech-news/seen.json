@@ -85244,5 +85244,251 @@
     "source": "Simon Willison",
     "first_seen": "2026-09-06T22:30:22.053885+00:00",
     "published": "2026-09-06T09:08:06+00:00"
+  },
+  "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-fable-5-1-on-aws-amazon-linux-2027-preview-aws-certified-ai-business-strategist-and-more-september-7-2026": {
+    "title": "AWS Weekly Roundup: Claude Fable 5.1 on AWS, Amazon Linux 2027 preview, AWS Certified AI Business Strategist, and more (September 7, 2026)",
+    "source": "AWS Blog",
+    "first_seen": "2026-09-07T14:31:53.444623+00:00",
+    "published": "2026-09-07T14:24:08+00:00"
+  },
+  "https://realpython.com/python-news-september-2026": {
+    "title": "Async Generators Get yield from and Other Python News for September 2026",
+    "source": "Real Python",
+    "first_seen": "2026-09-07T14:31:53.444623+00:00",
+    "published": "2026-09-07T14:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/Ubuntu-26.10-amd64v3-Daily": {
+    "title": "Ubuntu 26.10 amd64v3 Daily ISOs Now Being Published",
+    "source": "Phoronix",
+    "first_seen": "2026-09-07T14:31:53.444623+00:00",
+    "published": "2026-09-07T13:36:20+00:00"
+  },
+  "https://github.com/iczelia/bzip3": {
+    "title": "bzip3",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-07T14:31:53.444623+00:00",
+    "published": "2026-09-07T13:35:13+00:00"
+  },
+  "https://lwn.net/Articles/1092913": {
+    "title": "Buildroot 2026.08 released",
+    "source": "LWN.net",
+    "first_seen": "2026-09-07T14:31:53.444623+00:00",
+    "published": "2026-09-07T13:18:09+00:00"
+  },
+  "https://lwn.net/Articles/1092911": {
+    "title": "Security updates for Monday",
+    "source": "LWN.net",
+    "first_seen": "2026-09-07T14:31:53.444623+00:00",
+    "published": "2026-09-07T13:07:27+00:00"
+  },
+  "https://pytorch.org/blog/pytorch-x-hugging-face-in-bengaluru-building-indias-next-generation-of-ml-systems-contributors": {
+    "title": "PyTorch x Hugging Face in Bengaluru: Building India’s Next Generation of ML Systems Contributors",
+    "source": "PyTorch Blog",
+    "first_seen": "2026-09-07T14:31:53.444623+00:00",
+    "published": "2026-09-07T13:05:37+00:00"
+  },
+  "https://devz.cl/posts/i-spent-my-vacations-de-brainrotting": {
+    "title": "De-Brainrot Vacations",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-07T14:31:53.444623+00:00",
+    "published": "2026-09-07T13:00:48+00:00"
+  },
+  "https://academic.oup.com/pnasnexus/article/4/4/pgaf087/8098745?login=false": {
+    "title": "Splash-free urinals for global sustainability and accessibility",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-07T14:31:53.444623+00:00",
+    "published": "2026-09-07T12:58:57+00:00"
+  },
+  "https://lwn.net/Articles/1092768": {
+    "title": "Asahi Linux now supports M3-series Macs",
+    "source": "LWN.net",
+    "first_seen": "2026-09-07T14:31:53.444623+00:00",
+    "published": "2026-09-07T12:25:38+00:00"
+  },
+  "https://thenewstack.io/coding-agents-tool-choice": {
+    "title": "“Twenty years of brand building simply froze in time”: How coding agents select their tools of choice",
+    "source": "The New Stack",
+    "first_seen": "2026-09-07T14:31:53.444623+00:00",
+    "published": "2026-09-07T12:02:31+00:00"
+  },
+  "https://realpython.com/quizzes/python-statistics": {
+    "title": "Quiz: Python Statistics Fundamentals: How to Describe Your Data",
+    "source": "Real Python",
+    "first_seen": "2026-09-07T14:31:53.444623+00:00",
+    "published": "2026-09-07T12:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-Preps-AMD-BTB-CTX": {
+    "title": "Linux Preps For New AMD Zen 6 BTB CTX Isolation Security Feature",
+    "source": "Phoronix",
+    "first_seen": "2026-09-07T14:31:53.444623+00:00",
+    "published": "2026-09-07T11:55:33+00:00"
+  },
+  "https://www.theregister.com/personal-tech/2026/09/07/smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements/5294532": {
+    "title": "Smartphone makers don't bother to comply with EU repairability requirements",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-07T14:31:53.444623+00:00",
+    "published": "2026-09-07T11:46:37+00:00"
+  },
+  "https://www.cncf.io/blog/2026/09/07/handling-vulnerability-reports-recipe-card": {
+    "title": "Handling vulnerability reports: Recipe card",
+    "source": "CNCF Blog",
+    "first_seen": "2026-09-07T14:31:53.444623+00:00",
+    "published": "2026-09-07T11:30:00+00:00"
+  },
+  "https://news.ycombinator.com/item?id=49596976": {
+    "title": "Apparently CodePen 2.0 sends data to their servers as you type",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-07T14:31:53.444623+00:00",
+    "published": "2026-09-07T11:22:40+00:00"
+  },
+  "https://www.schneier.com/blog/archives/2026/09/automobile-camouflage-to-hide-from-flock-cameras.html": {
+    "title": "Automobile Camouflage to Hide from Flock Cameras",
+    "source": "Schneier on Security",
+    "first_seen": "2026-09-07T14:31:53.444623+00:00",
+    "published": "2026-09-07T11:06:40+00:00"
+  },
+  "https://arstechnica.com/information-technology/2026/09/vmware-migration-reduces-tottenham-hotspurs-licensing-fees-by-85-percent": {
+    "title": "VMware migration reduces Tottenham Hotspur's licensing fees by 85 percent",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-07T14:31:53.444623+00:00",
+    "published": "2026-09-07T11:01:06+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.4-DRM-Misc-Next-1": {
+    "title": "Nouveau Preparations For HDMI 2.1 DSC, AMD HDMI FreeSync Fixes For Linux 7.4",
+    "source": "Phoronix",
+    "first_seen": "2026-09-07T14:31:53.444623+00:00",
+    "published": "2026-09-07T10:48:48+00:00"
+  },
+  "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here": {
+    "title": "The jobs apocalypse is postponed. An AI jobs boom is here",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-07T14:31:53.444623+00:00",
+    "published": "2026-09-07T10:38:32+00:00"
+  },
+  "https://www.phoronix.com/news/Intel-Dynamic-PAMT-For-7.4": {
+    "title": "Intel's Dynamic PAMT Appears Ready For Linux 7.4  To Help With TDX Memory Overhead",
+    "source": "Phoronix",
+    "first_seen": "2026-09-07T14:31:53.444623+00:00",
+    "published": "2026-09-07T10:21:12+00:00"
+  },
+  "https://www.phoronix.com/news/Rustls-0.23.44-Released": {
+    "title": "Rustls 0.23.44 Released With ML-DSA Certificates Enabled By Default",
+    "source": "Phoronix",
+    "first_seen": "2026-09-07T14:31:53.444623+00:00",
+    "published": "2026-09-07T09:59:42+00:00"
+  },
+  "https://www.edge.org/response-detail/27238": {
+    "title": "Impedance Matching (2017)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-07T14:31:53.444623+00:00",
+    "published": "2026-09-07T09:52:26+00:00"
+  },
+  "https://variety.com/2026/film/reviews/nathan-fielder-surprise-film-telluride-elizabeth-holmes-1236853513": {
+    "title": "'You Can See Everything' Review: Nathan Fielder's Doc About Elizabeth Holmes",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-07T14:31:53.444623+00:00",
+    "published": "2026-09-07T09:33:39+00:00"
+  },
+  "https://mathathonchallenge.com/index.html": {
+    "title": "Caltech Mathathon – first hackathon ever devoted to research level mathematics",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-07T14:31:53.444623+00:00",
+    "published": "2026-09-07T09:26:53+00:00"
+  },
+  "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus": {
+    "title": "Speculative Decoding in vLLM on AMD GPUs",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-07T14:31:53.444623+00:00",
+    "published": "2026-09-07T09:26:41+00:00"
+  },
+  "https://openbaarvervoerbelgie.be": {
+    "title": "Live map of public transport in Belgium",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-07T14:31:53.444623+00:00",
+    "published": "2026-09-07T09:02:47+00:00"
+  },
+  "https://orchidfiles.com/programming-is-art": {
+    "title": "Programming is Art",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-07T14:31:53.444623+00:00",
+    "published": "2026-09-07T08:05:00+00:00"
+  },
+  "https://www.notebookcheck.net/LG-smart-TVs-caught-logging-audio-with-screen-off-and-snooping-on-local-devices.1391214.0.html": {
+    "title": "LG smart TVs caught logging audio with screen off and snooping on local devices",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-07T14:31:53.444623+00:00",
+    "published": "2026-09-07T07:03:20+00:00"
+  },
+  "https://github.com/timgordontg/engrim": {
+    "title": "Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-07T14:31:53.444623+00:00",
+    "published": "2026-09-07T04:49:36+00:00"
+  },
+  "https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september": {
+    "title": "Keep Our Servers Running",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-07T14:31:53.444623+00:00",
+    "published": "2026-09-07T03:29:51+00:00"
+  },
+  "https://gettogether.dev": {
+    "title": "Show HN: GET Together – A social network where you don't need POST to Post",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-07T14:31:53.444623+00:00",
+    "published": "2026-09-07T01:41:11+00:00"
+  },
+  "https://lwn.net/Articles/1092757": {
+    "title": "Kernel prepatch 7.3-rc2",
+    "source": "LWN.net",
+    "first_seen": "2026-09-07T14:31:53.444623+00:00",
+    "published": "2026-09-07T00:52:57+00:00"
+  },
+  "https://www.thoughtworks.com/insights/articles/thoughtworks-combines-ai-works-with-aws-transform-to-modernize-legacy-systems-for-the-ai-era": {
+    "title": "AI that works: How Thoughtworks combines AI/works™ with AWS Transform to modernize legacy systems for the AI era",
+    "source": "ThoughtWorks",
+    "first_seen": "2026-09-07T14:31:53.444623+00:00",
+    "published": "2026-09-07T00:00:00+00:00"
+  },
+  "https://openai.com/index/supporting-independent-journalism-in-ukraine": {
+    "title": "Supporting independent journalism in Ukraine",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-09-07T14:31:53.444623+00:00",
+    "published": "2026-09-07T00:00:00+00:00"
+  },
+  "https://blog.rust-lang.org/2026/09/07/rust-debugging-survey-2026-results": {
+    "title": "Rust debugging survey 2026 results",
+    "source": "Rust Blog",
+    "first_seen": "2026-09-07T14:31:53.444623+00:00",
+    "published": "2026-09-07T00:00:00+00:00"
+  },
+  "https://simonwillison.net/2026/Sep/6/research-acceleration-the-view-inside-openai": {
+    "title": "Research acceleration: The view inside OpenAI",
+    "source": "Simon Willison",
+    "first_seen": "2026-09-07T14:31:53.444623+00:00",
+    "published": "2026-09-06T23:57:40+00:00"
+  },
+  "https://austinhenley.com/blog/python1024.html": {
+    "title": "Making a Python interpreter in 1024 bytes",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-07T14:31:53.444623+00:00",
+    "published": "2026-09-06T23:14:08+00:00"
+  },
+  "https://mbmccoy.dev/posts/mathematical-conservatory": {
+    "title": "Is mathematics about to enter the conservatory?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-07T14:31:53.444623+00:00",
+    "published": "2026-09-06T23:02:11+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.3-rc2-Released": {
+    "title": "Linux 7.3-rc2 Released Following Another Busy Week",
+    "source": "Phoronix",
+    "first_seen": "2026-09-07T14:31:53.444623+00:00",
+    "published": "2026-09-06T22:22:25+00:00"
+  },
+  "https://thenewstack.io/enterprise-rag-permission-assembly": {
+    "title": "Permissions belong in the assembly context",
+    "source": "The New Stack",
+    "first_seen": "2026-09-07T14:31:53.444623+00:00",
+    "published": "2026-09-06T15:00:00+00:00"
   }
 }
