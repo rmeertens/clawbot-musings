@@ -86246,5 +86246,173 @@
     "source": "Discord Engineering",
     "first_seen": "2026-09-08T18:10:12.501076+00:00",
     "published": "2026-09-08T00:00:00+00:00"
+  },
+  "https://simonwillison.net/2026/Sep/8/introducing-chatgpt-images-25": {
+    "title": "Introducing ChatGPT Images 2.5",
+    "source": "Simon Willison",
+    "first_seen": "2026-09-08T23:02:26.501401+00:00",
+    "published": "2026-09-08T22:46:33+00:00"
+  },
+  "https://www.phoronix.com/news/systemd-262-rc2": {
+    "title": "systemd 262-rc2 Adds An AI Canary For Detecting Unreviewed AI/LLM Code Contributions",
+    "source": "Phoronix",
+    "first_seen": "2026-09-08T23:02:26.501401+00:00",
+    "published": "2026-09-08T22:30:34+00:00"
+  },
+  "https://thenewstack.io/anthropic-claude-max-lawsuit": {
+    "title": "Anthropic promised 20x more usage. Then developers hit a weekly ceiling.",
+    "source": "The New Stack",
+    "first_seen": "2026-09-08T23:02:26.501401+00:00",
+    "published": "2026-09-08T22:16:28+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/take-on-your-most-ambitious-work-with-gpt-6-astra-on-amazon-bedrock": {
+    "title": "Take on your most ambitious work with GPT-6 Astra on Amazon Bedrock",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-09-08T23:02:26.501401+00:00",
+    "published": "2026-09-08T22:06:58+00:00"
+  },
+  "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH": {
+    "title": "Large Language Models Develop Novel Social Biases Through Adaptive Exploration",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-08T23:02:26.501401+00:00",
+    "published": "2026-09-08T21:47:38+00:00"
+  },
+  "https://aws.amazon.com/blogs/compute/bring-your-own-client-certificate-for-backend-mtls-in-amazon-api-gateway": {
+    "title": "Bring your own client certificate for backend mTLS in Amazon API Gateway",
+    "source": "AWS Compute Blog",
+    "first_seen": "2026-09-08T23:02:26.501401+00:00",
+    "published": "2026-09-08T21:46:39+00:00"
+  },
+  "https://krebsonsecurity.com/2026/09/microsoft-plugs-nearly-1000-security-holes": {
+    "title": "Microsoft Plugs Nearly 1,000 Security Holes",
+    "source": "Krebs on Security",
+    "first_seen": "2026-09-08T23:02:26.501401+00:00",
+    "published": "2026-09-08T21:44:22+00:00"
+  },
+  "https://devblogs.microsoft.com/dotnet/dotnet-11-rc-1": {
+    "title": "Announcing .NET 11 Release Candidate 1",
+    "source": "MS .NET Blog",
+    "first_seen": "2026-09-08T23:02:26.501401+00:00",
+    "published": "2026-09-08T21:30:00+00:00"
+  },
+  "https://nishantjosh.dev/blogs/how-to-build-a-fking-printer": {
+    "title": "How to Build a Printer",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-08T23:02:26.501401+00:00",
+    "published": "2026-09-08T21:22:11+00:00"
+  },
+  "https://mathstodon.xyz/@tao/117237320796901560": {
+    "title": "Tao: Open math problems being non-renewably mined by AI",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-08T23:02:26.501401+00:00",
+    "published": "2026-09-08T21:00:52+00:00"
+  },
+  "https://devblogs.microsoft.com/dotnet/dotnet-conf-2026-community-days-call-for-presenters": {
+    "title": ".NET Conf 2026 Community Days Call for Presenters Is Open",
+    "source": "MS .NET Blog",
+    "first_seen": "2026-09-08T23:02:26.501401+00:00",
+    "published": "2026-09-08T20:30:00+00:00"
+  },
+  "https://www.inceptionlabs.ai/blog/introducing-mercury-2-5": {
+    "title": "Mercury 2.5",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-08T23:02:26.501401+00:00",
+    "published": "2026-09-08T20:14:52+00:00"
+  },
+  "https://glocq.com/en/blog/20260827": {
+    "title": "Animation in Bevy: The Big Picture",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-08T23:02:26.501401+00:00",
+    "published": "2026-09-08T20:08:44+00:00"
+  },
+  "https://github.com/argonautlabsai/deltafin": {
+    "title": "Kimi K3 (2.8T) at 1 token/s on a MacBook Pro, streamed from four SSDs",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-08T23:02:26.501401+00:00",
+    "published": "2026-09-08T20:07:55+00:00"
+  },
+  "https://twitter.com/SouthPark/status/2097364141237539116": {
+    "title": "Trey Parker and Matt Stone Are Changing the Name of South Park to South America",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-08T23:02:26.501401+00:00",
+    "published": "2026-09-08T20:06:33+00:00"
+  },
+  "https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-september-2026-servicing-updates": {
+    "title": ".NET and .NET Framework September 2026 servicing releases updates",
+    "source": "MS .NET Blog",
+    "first_seen": "2026-09-08T23:02:26.501401+00:00",
+    "published": "2026-09-08T20:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/DLSS5VKLayer": {
+    "title": "DLSS5VKLayer Wires Up NVIDIA DLSS 5 For Native Linux Games & Steam Play",
+    "source": "Phoronix",
+    "first_seen": "2026-09-08T23:02:26.501401+00:00",
+    "published": "2026-09-08T19:31:22+00:00"
+  },
+  "https://ai.meta.com/muse": {
+    "title": "Muse: Meta's personal AI agent, features and capabilities",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-08T23:02:26.501401+00:00",
+    "published": "2026-09-08T19:25:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/pathways-brain-inspired-architecture-development-on-amazon-sagemaker-hyperpod": {
+    "title": "Pathway’s brain-inspired architecture development on Amazon SageMaker HyperPod",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-09-08T23:02:26.501401+00:00",
+    "published": "2026-09-08T19:12:51+00:00"
+  },
+  "https://jerf.org/iri/post/2026/func_args_are_not_colors": {
+    "title": "Function Arguments Are Not Function Colors",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-08T23:02:26.501401+00:00",
+    "published": "2026-09-08T19:04:26+00:00"
+  },
+  "https://thenewstack.io/deepseek-dsec-agent-hiring": {
+    "title": "DeepSeek is hiring 150 engineers, and none of them will touch a model",
+    "source": "The New Stack",
+    "first_seen": "2026-09-08T23:02:26.501401+00:00",
+    "published": "2026-09-08T19:01:08+00:00"
+  },
+  "https://blog.bytebytego.com/p/built-for-reliability-how-american": {
+    "title": "Built for Reliability: How American Express Processes Payments at Scale",
+    "source": "ByteByteGo",
+    "first_seen": "2026-09-08T23:02:26.501401+00:00",
+    "published": "2026-09-08T18:31:03+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-feature-store-introduces-updaterecord-for-feature-level-writes": {
+    "title": "Amazon SageMaker Feature Store introduces UpdateRecord for feature-level writes",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-09-08T23:02:26.501401+00:00",
+    "published": "2026-09-08T18:29:15+00:00"
+  },
+  "https://www.databricks.com/blog/sql-data-types": {
+    "title": "SQL Data Types: Reference and Best Practices",
+    "source": "Databricks Blog",
+    "first_seen": "2026-09-08T23:02:26.501401+00:00",
+    "published": "2026-09-08T17:16:06+00:00"
+  },
+  "https://openai.com/index/codex-quantum-computing-experiments": {
+    "title": "How GPT-5.6 Sol helps run quantum computing experiments",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-09-08T23:02:26.501401+00:00",
+    "published": "2026-09-08T17:00:00+00:00"
+  },
+  "https://openai.com/index/introducing-chatgpt-images-2-5": {
+    "title": "Introducing ChatGPT Images 2.5",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-09-08T23:02:26.501401+00:00",
+    "published": "2026-09-08T11:30:00+00:00"
+  },
+  "https://openai.com/index/1password": {
+    "title": "1Password increases engineering productivity 21% with Codex",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-09-08T23:02:26.501401+00:00",
+    "published": "2026-09-08T00:00:00+00:00"
+  },
+  "https://astro.build/case-studies/evil-martians": {
+    "title": "Affordable and Fast Migration",
+    "source": "Astro Blog",
+    "first_seen": "2026-09-08T23:02:26.501401+00:00",
+    "published": "2026-09-08T00:00:00+00:00"
   }
 }
