@@ -85910,5 +85910,341 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-09-08T13:07:58.118389+00:00",
     "published": "2026-09-06T05:47:05+00:00"
+  },
+  "https://openai.com/index/navier-stokes-solution": {
+    "title": "On the Navier–Stokes Millennium Prize Problem",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-08T18:10:12.501076+00:00",
+    "published": "2026-09-08T17:13:21+00:00"
+  },
+  "https://www.schneier.com/blog/archives/2026/09/ais-as-modern-genies.html": {
+    "title": "AIs as Modern Genies",
+    "source": "Schneier on Security",
+    "first_seen": "2026-09-08T18:10:12.501076+00:00",
+    "published": "2026-09-08T17:12:42+00:00"
+  },
+  "https://www.openui.com/blog/oui-1": {
+    "title": "OUI-1: world's first model for Generative UI",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-08T18:10:12.501076+00:00",
+    "published": "2026-09-08T17:07:54+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/govern-models-with-mlflow-and-amazon-sagemaker-ai-model-registry-sync-part-2": {
+    "title": "Govern models with MLflow and Amazon SageMaker AI Model Registry sync: Part 2",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-09-08T18:10:12.501076+00:00",
+    "published": "2026-09-08T17:03:50+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/govern-models-with-mlflow-and-amazon-sagemaker-ai-model-registry-sync-part-1": {
+    "title": "Govern models with MLflow and Amazon SageMaker AI Model Registry sync: Part 1",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-09-08T18:10:12.501076+00:00",
+    "published": "2026-09-08T17:03:20+00:00"
+  },
+  "https://cepr.org/publications/dp21706": {
+    "title": "Making Teenagers Read Newspapers. A Nationwide Experiment in French High Schools",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-08T18:10:12.501076+00:00",
+    "published": "2026-09-08T17:00:45+00:00"
+  },
+  "https://ishamf.dev/p/llm-attention-visualizer": {
+    "title": "Show HN: LLM Attention Visualization",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-08T18:10:12.501076+00:00",
+    "published": "2026-09-08T16:59:41+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/getting-started-with-oracle-databaseaws-a-complete-onboarding-guide": {
+    "title": "Getting started with Oracle Database@AWS: A complete onboarding guide",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-09-08T18:10:12.501076+00:00",
+    "published": "2026-09-08T16:59:29+00:00"
+  },
+  "https://www.phoronix.com/news/KDE-KWin-Wayland-Commit-Timing": {
+    "title": "KDE's KWin Merges Wayland Commit-Timing Protocol Support",
+    "source": "Phoronix",
+    "first_seen": "2026-09-08T18:10:12.501076+00:00",
+    "published": "2026-09-08T16:55:36+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/aws-recognized-as-a-leader-in-the-2026-gartner-magic-quadrant-for-strategic-cloud-platform-services-for-the-16th-consecutive-year": {
+    "title": "AWS recognized as a Leader in the 2026 Gartner Magic Quadrant for Strategic Cloud Platform Services for the 16th consecutive year",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-09-08T18:10:12.501076+00:00",
+    "published": "2026-09-08T16:46:49+00:00"
+  },
+  "https://herdr.dev/blog/connecting-the-machines": {
+    "title": "Connecting the Machines",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-08T18:10:12.501076+00:00",
+    "published": "2026-09-08T16:43:55+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/how-sony-liv-built-real-time-video-streaming-analytics-with-aws": {
+    "title": "How Sony LIV built real-time video streaming analytics with AWS",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-09-08T18:10:12.501076+00:00",
+    "published": "2026-09-08T16:43:05+00:00"
+  },
+  "https://newsletter.pragmaticengineer.com/p/what-is-happening-with-code-reviews": {
+    "title": "What is happening with code reviews?",
+    "source": "The Pragmatic Engineer",
+    "first_seen": "2026-09-08T18:10:12.501076+00:00",
+    "published": "2026-09-08T16:32:01+00:00"
+  },
+  "https://events.ycombinator.com/yc-early-access-fall-26": {
+    "title": "Y Combinator Early Access Network",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-08T18:10:12.501076+00:00",
+    "published": "2026-09-08T16:31:01+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/automated-agent-evaluation-with-amazon-bedrock-agentcore-and-github-actions": {
+    "title": "Automated agent evaluation with Amazon Bedrock AgentCore and GitHub Actions",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-09-08T18:10:12.501076+00:00",
+    "published": "2026-09-08T16:23:21+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/benchmarking-small-llm-inference-on-sagemaker-ai-g7-vs-g5-and-g6": {
+    "title": "Benchmarking small LLM inference on SageMaker AI: G7 vs G5 and G6",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-09-08T18:10:12.501076+00:00",
+    "published": "2026-09-08T16:21:57+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/how-hpe-zerto-built-an-agentic-troubleshooting-system-with-amazon-bedrock": {
+    "title": "How HPE Zerto built an agentic troubleshooting system with Amazon Bedrock",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-09-08T18:10:12.501076+00:00",
+    "published": "2026-09-08T16:15:23+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/how-didi-built-intelligent-contact-center-qa-with-amazon-bedrock": {
+    "title": "How DiDi built intelligent contact center QA with Amazon Bedrock",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-09-08T18:10:12.501076+00:00",
+    "published": "2026-09-08T16:11:11+00:00"
+  },
+  "https://www.theverge.com/tech/991190/lg-tv-spying-standby-recording-wi-fi-scanning-gamers-nexus": {
+    "title": "LG TVs caught spying even when offline or on standby",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-08T18:10:12.501076+00:00",
+    "published": "2026-09-08T16:07:08+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-Dropping-Old-ARM-Ahead": {
+    "title": "The Linux Kernel Planning To Remove Around ~55k Lines Of Old ARM Platform Code",
+    "source": "Phoronix",
+    "first_seen": "2026-09-08T18:10:12.501076+00:00",
+    "published": "2026-09-08T16:06:16+00:00"
+  },
+  "https://cloud.google.com/blog/topics/developers-practitioners/power-agent-hubs-or-custom-harnesses-with-the-antigravity-sdk": {
+    "title": "Power agent hubs or custom harnesses with the Antigravity SDK in one toolkit",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-09-08T18:10:12.501076+00:00",
+    "published": "2026-09-08T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/topics/customers/how-kddi-optimized-rag-performance-with-agent-development-kit": {
+    "title": "How KDDI built Buffmee, a faster, reliable consumer RAG app",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-09-08T18:10:12.501076+00:00",
+    "published": "2026-09-08T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/data-analytics/agentic-analytics-with-the-data-agent-kit": {
+    "title": "Agentic analytics with the Data Agent Kit",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-09-08T18:10:12.501076+00:00",
+    "published": "2026-09-08T16:00:00+00:00"
+  },
+  "https://arxiv.org/abs/2504.02246": {
+    "title": "C*: Unifying Programming and Verification in C",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-08T18:10:12.501076+00:00",
+    "published": "2026-09-08T15:56:56+00:00"
+  },
+  "https://www.databricks.com/blog/build-durable-agents-temporal-and-lakebase": {
+    "title": "Build durable agents with Temporal and Lakebase",
+    "source": "Databricks Blog",
+    "first_seen": "2026-09-08T18:10:12.501076+00:00",
+    "published": "2026-09-08T15:46:40+00:00"
+  },
+  "https://thenewstack.io/ai-code-review-pipelines": {
+    "title": "AI broke code review. Two experts disagree on what replaces it.",
+    "source": "The New Stack",
+    "first_seen": "2026-09-08T18:10:12.501076+00:00",
+    "published": "2026-09-08T15:35:42+00:00"
+  },
+  "https://martinfowler.com/fragments/2026-09-08.html": {
+    "title": "Fragments: September  8",
+    "source": "Martin Fowler",
+    "first_seen": "2026-09-08T18:10:12.501076+00:00",
+    "published": "2026-09-08T15:22:00+00:00"
+  },
+  "https://cwodtke.com/disappointed-optimists": {
+    "title": "Disappointed Optimists",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-08T18:10:12.501076+00:00",
+    "published": "2026-09-08T15:13:56+00:00"
+  },
+  "https://logicola.org/blog/the-new-logicola": {
+    "title": "Reverse engineering the 2008 LogiCola, a logic drill program",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-08T18:10:12.501076+00:00",
+    "published": "2026-09-08T15:00:43+00:00"
+  },
+  "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas": {
+    "title": "Google DeepMind Releases AlphaGenome Atlas",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-08T18:10:12.501076+00:00",
+    "published": "2026-09-08T14:55:45+00:00"
+  },
+  "https://bumbershootsoft.wordpress.com/2026/09/05/zx-spectrum-experimenting-with-1-bit-sound": {
+    "title": "ZX Spectrum: Experimenting with 1-Bit Sound",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-08T18:10:12.501076+00:00",
+    "published": "2026-09-08T14:54:29+00:00"
+  },
+  "https://quesma.com/blog/qwen38-27b-quantizations-benchmarked": {
+    "title": "Benchmarking Qwen3.8 27B quantizations: 4-bit holds up, 1-bit collapses",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-08T18:10:12.501076+00:00",
+    "published": "2026-09-08T14:49:19+00:00"
+  },
+  "https://signoregalilei.com/2026/08/30/the-two-christian-saints-who-are-secretly-the-buddha": {
+    "title": "The two Christian saints who are the Buddha",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-08T18:10:12.501076+00:00",
+    "published": "2026-09-08T14:44:25+00:00"
+  },
+  "https://www.404media.co/a-secretive-dhs-predictive-policing-unit-is-analyzing-americans-financial-habits-and-pulling-them-over": {
+    "title": "DHS 'Predictive Policing' Unit Is Analyzing Americans' Financial Habits",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-08T18:10:12.501076+00:00",
+    "published": "2026-09-08T14:40:30+00:00"
+  },
+  "https://www.techdirt.com/2026/09/08/paramount-caught-using-astroturf-group-to-drum-up-fake-support-for-merger": {
+    "title": "Paramount Caught Using 'Astroturf' Group to Drum Up Fake Support for Merger",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-08T18:10:12.501076+00:00",
+    "published": "2026-09-08T14:33:52+00:00"
+  },
+  "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom": {
+    "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-09-08T18:10:12.501076+00:00",
+    "published": "2026-09-08T14:23:07+00:00"
+  },
+  "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome": {
+    "title": "AlphaGenome Atlas predictive map of every DNA letter change in the human genome",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-08T18:10:12.501076+00:00",
+    "published": "2026-09-08T14:14:15+00:00"
+  },
+  "https://github.com/ayghri/i-have-adhd": {
+    "title": "I-have-ADHD: A skill to stop coding agents from burying the answer",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-08T18:10:12.501076+00:00",
+    "published": "2026-09-08T14:13:26+00:00"
+  },
+  "https://www.phoronix.com/review/chuwi-unibook-wildcat-lake": {
+    "title": "CHUWI UniBook With Intel Wildcat Lake For A $449 Linux-Friendly Laptop",
+    "source": "Phoronix",
+    "first_seen": "2026-09-08T18:10:12.501076+00:00",
+    "published": "2026-09-08T14:05:00+00:00"
+  },
+  "https://www.allthingsdistributed.com/2026/09/the-oldest-architecture-in-computing.html?utm_campaign=inbound&utm_source=rss": {
+    "title": "The oldest architecture in computing",
+    "source": "All Things Distributed",
+    "first_seen": "2026-09-08T18:10:12.501076+00:00",
+    "published": "2026-09-08T14:00:00+00:00"
+  },
+  "https://realpython.com/courses/python-timer-functions": {
+    "title": "Python Timer Functions",
+    "source": "Real Python",
+    "first_seen": "2026-09-08T18:10:12.501076+00:00",
+    "published": "2026-09-08T14:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/DaVinci-Resolve-21.1": {
+    "title": "DaVinci Resolve 21.1 Released - Now With AI Assistant Integration",
+    "source": "Phoronix",
+    "first_seen": "2026-09-08T18:10:12.501076+00:00",
+    "published": "2026-09-08T13:58:41+00:00"
+  },
+  "https://martinfowler.com/articles/never-send-slides/need-presentation.html": {
+    "title": "Do you even need a presentation?",
+    "source": "Martin Fowler",
+    "first_seen": "2026-09-08T18:10:12.501076+00:00",
+    "published": "2026-09-08T13:42:00+00:00"
+  },
+  "https://www.blackmagicdesign.com/media/release/20260908-03": {
+    "title": "DaVinci Resolve 21.1",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-08T18:10:12.501076+00:00",
+    "published": "2026-09-08T13:36:53+00:00"
+  },
+  "https://lwn.net/Articles/1091015": {
+    "title": "[$] Stabilizing Rust's never type",
+    "source": "LWN.net",
+    "first_seen": "2026-09-08T18:10:12.501076+00:00",
+    "published": "2026-09-08T13:34:38+00:00"
+  },
+  "https://copperhead.sh": {
+    "title": "Show HN: Copperhead – Hardware as Fast as Software",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-08T18:10:12.501076+00:00",
+    "published": "2026-09-08T13:26:45+00:00"
+  },
+  "https://lwn.net/Articles/1093145": {
+    "title": "Jellyfin 12.0 released",
+    "source": "LWN.net",
+    "first_seen": "2026-09-08T18:10:12.501076+00:00",
+    "published": "2026-09-08T13:20:02+00:00"
+  },
+  "https://www.tigerdata.com/blog/ai-agent-production-database-access": {
+    "title": "Is It Safe to Give an AI Agent Access to Your Production Database?",
+    "source": "Timescale Blog",
+    "first_seen": "2026-09-08T18:10:12.501076+00:00",
+    "published": "2026-09-08T13:19:27+00:00"
+  },
+  "https://engineering.atspotify.com/2026/9/why-spotify-is-not-using-bayesian-a-b-testing": {
+    "title": "Why Spotify Is Not Using Bayesian A/B Testing",
+    "source": "Spotify Engineering",
+    "first_seen": "2026-09-08T18:10:12.501076+00:00",
+    "published": "2026-09-08T13:18:44+00:00"
+  },
+  "https://lwn.net/Articles/1093144": {
+    "title": "Security updates for Tuesday",
+    "source": "LWN.net",
+    "first_seen": "2026-09-08T18:10:12.501076+00:00",
+    "published": "2026-09-08T13:11:34+00:00"
+  },
+  "https://www.phoronix.com/news/AMDGPU-HDMI-1.4-3D-Mode": {
+    "title": "New Patches Provide HDMI 1.4 3D Mode Support For AMD Radeon Graphics On Linux",
+    "source": "Phoronix",
+    "first_seen": "2026-09-08T18:10:12.501076+00:00",
+    "published": "2026-09-08T13:11:10+00:00"
+  },
+  "https://blog.cloudflare.com/automatic-key-exchange-for-origins": {
+    "title": "Automatic Key Exchange: faster, post-quantum secure origin handshakes for 45 billion daily connections (and counting)",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-09-08T18:10:12.501076+00:00",
+    "published": "2026-09-08T13:10:00+00:00"
+  },
+  "https://openai.com/index/teen-development-research-grants": {
+    "title": "Funding grants for new research into AI and teen development",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-09-08T18:10:12.501076+00:00",
+    "published": "2026-09-08T09:00:00+00:00"
+  },
+  "https://www.elastic.co/blog/elasticon-2026": {
+    "title": "See you at Elastic{ON} 2026",
+    "source": "Elastic Blog",
+    "first_seen": "2026-09-08T18:10:12.501076+00:00",
+    "published": "2026-09-08T00:00:00+00:00"
+  },
+  "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms": {
+    "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-09-08T18:10:12.501076+00:00",
+    "published": "2026-09-08T00:00:00+00:00"
+  },
+  "https://discord.com/blog/discord-patch-notes-september-8-2026": {
+    "title": "Discord Patch Notes: September 8, 2026",
+    "source": "Discord Engineering",
+    "first_seen": "2026-09-08T18:10:12.501076+00:00",
+    "published": "2026-09-08T00:00:00+00:00"
   }
 }
