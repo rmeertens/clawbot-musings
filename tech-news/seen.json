@@ -85688,5 +85688,227 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-09-07T23:06:18.188446+00:00",
     "published": "2026-09-04T20:20:07+00:00"
+  },
+  "https://cloud.google.com/blog/topics/threat-intelligence/from-prompting-to-autonomy-the-evolution-of-adversarial-ai": {
+    "title": "GTIG AI Threat Tracker: From Prompting to Autonomy – The Evolution of Adversarial AI",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-09-08T13:07:58.118389+00:00",
+    "published": "2026-09-08T14:00:00+00:00"
+  },
+  "https://openai.com/index/the-work-now-within-reach": {
+    "title": "The Work Now Within Reach",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-09-08T13:07:58.118389+00:00",
+    "published": "2026-09-08T13:00:00+00:00"
+  },
+  "https://thenewstack.io/hashicorp-mcjannet-dome-agents": {
+    "title": "After nine years as HashiCorp CEO, Dave McJannet now wants to “unblock” enterprise AI agents",
+    "source": "The New Stack",
+    "first_seen": "2026-09-08T13:07:58.118389+00:00",
+    "published": "2026-09-08T12:59:00+00:00"
+  },
+  "https://realpython.com/quizzes/python-timer-functions": {
+    "title": "Quiz: Python Timer Functions",
+    "source": "Real Python",
+    "first_seen": "2026-09-08T13:07:58.118389+00:00",
+    "published": "2026-09-08T12:00:00+00:00"
+  },
+  "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels": {
+    "title": "Introducing CUDA Rust: Two Tracks for Writing GPU Kernels",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-09-08T13:07:58.118389+00:00",
+    "published": "2026-09-08T12:00:00+00:00"
+  },
+  "https://www.cncf.io/blog/2026/09/08/kubernetes-access-via-an-identity-provider-public-client-not-confidential": {
+    "title": "Kubernetes access via an identity provider: Public client, not confidential",
+    "source": "CNCF Blog",
+    "first_seen": "2026-09-08T13:07:58.118389+00:00",
+    "published": "2026-09-08T11:30:00+00:00"
+  },
+  "https://www.oecd.org/en/about/news/press-releases/2026/09/pisa-2025-students-reading-and-mathematics-performance-declined-sharply-across-the-oecd.html": {
+    "title": "PISA 2025 Students' reading and mathematics performance declined across the OECD",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-08T13:07:58.118389+00:00",
+    "published": "2026-09-08T11:13:03+00:00"
+  },
+  "https://www.cncf.io/blog/2026/09/08/distributed-tracing-for-ci-pipelines-without-touching-a-single-workflow-file": {
+    "title": "Distributed tracing for CI pipelines without touching a single workflow file",
+    "source": "CNCF Blog",
+    "first_seen": "2026-09-08T13:07:58.118389+00:00",
+    "published": "2026-09-08T11:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.4-RTL8127atf-RTL8116af": {
+    "title": "Linux 7.4 To Support Realtek RTL8127atf & RTL8116af Networking",
+    "source": "Phoronix",
+    "first_seen": "2026-09-08T13:07:58.118389+00:00",
+    "published": "2026-09-08T10:41:09+00:00"
+  },
+  "https://www.phoronix.com/news/LLVM-DirectX-Backend-Official": {
+    "title": "DirectX Support Promoted To Official Target Within LLVM",
+    "source": "Phoronix",
+    "first_seen": "2026-09-08T13:07:58.118389+00:00",
+    "published": "2026-09-08T10:21:51+00:00"
+  },
+  "https://www.schneier.com/blog/archives/2026/09/stealing-ai-reasoning-traces.html": {
+    "title": "Stealing AI Reasoning Traces",
+    "source": "Schneier on Security",
+    "first_seen": "2026-09-08T13:07:58.118389+00:00",
+    "published": "2026-09-08T10:20:04+00:00"
+  },
+  "https://www.phoronix.com/news/FEX-2609-Released": {
+    "title": "FEX 2609 Released With Speedier JIT Performance, JIT Disk Cache Option",
+    "source": "Phoronix",
+    "first_seen": "2026-09-08T13:07:58.118389+00:00",
+    "published": "2026-09-08T10:09:20+00:00"
+  },
+  "https://stratechery.com/2026/write-things-down": {
+    "title": "Write Things Down",
+    "source": "Stratechery",
+    "first_seen": "2026-09-08T13:07:58.118389+00:00",
+    "published": "2026-09-08T10:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/LLVM-Zen5-Zen6-RMPOPT": {
+    "title": "LLVM Merges Support For AMD's RMPCHKD, RMPREAD & RMPOPT Instructions",
+    "source": "Phoronix",
+    "first_seen": "2026-09-08T13:07:58.118389+00:00",
+    "published": "2026-09-08T09:58:27+00:00"
+  },
+  "https://www.bbc.com/future/article/20260904-how-getting-your-hands-dirty-boosts-your-health-within-weeks": {
+    "title": "Why getting your hands dirty is good for you",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-08T13:07:58.118389+00:00",
+    "published": "2026-09-08T09:48:24+00:00"
+  },
+  "https://vale.rocks/posts/html-relics": {
+    "title": "Antiquated HTML Snippets and Artefacts",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-08T13:07:58.118389+00:00",
+    "published": "2026-09-08T09:43:14+00:00"
+  },
+  "https://ciphercue.com/blog/european-cdn-concentration-cloudflare-nine-in-ten": {
+    "title": "Among European Companies That Use a CDN, Nearly 9 in 10 Use Cloudflare",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-08T13:07:58.118389+00:00",
+    "published": "2026-09-08T08:42:56+00:00"
+  },
+  "https://stackoverflow.blog/2026/09/08/scaling-your-money-safely-with-ai": {
+    "title": "Scaling your money safely with AI",
+    "source": "Stack Overflow Blog",
+    "first_seen": "2026-09-08T13:07:58.118389+00:00",
+    "published": "2026-09-08T07:40:00+00:00"
+  },
+  "https://github.com/TauricResearch/TradingAgents": {
+    "title": "Multi-Agents LLM Financial Trading Framework",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-08T13:07:58.118389+00:00",
+    "published": "2026-09-08T05:20:23+00:00"
+  },
+  "https://www.pm.gov.au/media/my-feed-my-way": {
+    "title": "My Feed, My Way",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-08T13:07:58.118389+00:00",
+    "published": "2026-09-08T05:10:36+00:00"
+  },
+  "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier": {
+    "title": "Mistral raises €3B",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-08T13:07:58.118389+00:00",
+    "published": "2026-09-08T05:06:23+00:00"
+  },
+  "https://rohanadwankar.github.io/posts/platforms.html": {
+    "title": "The VMs Powering Mobile Agents (Instinct, Claude Code)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-08T13:07:58.118389+00:00",
+    "published": "2026-09-08T04:36:26+00:00"
+  },
+  "https://newsroom.arm.com/blog/arm-mali-g2-ultra-nx-ai-native-mobile-graphics": {
+    "title": "Arm Mali G2-Ultra NX GPU: desktop-class mobile gameplay with AI-native graphics",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-08T13:07:58.118389+00:00",
+    "published": "2026-09-08T04:06:20+00:00"
+  },
+  "https://danluu.com/agentic-testing": {
+    "title": "How well do agents use test/verification techniques?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-08T13:07:58.118389+00:00",
+    "published": "2026-09-08T02:58:16+00:00"
+  },
+  "https://weirdgloop.org/blog/google-jail": {
+    "title": "There's a new \"Google Jail\" for independent wikis",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-08T13:07:58.118389+00:00",
+    "published": "2026-09-08T01:57:23+00:00"
+  },
+  "https://jellyfin.org/posts/jellyfin-release-12.0": {
+    "title": "Jellyfin 12.0",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-08T13:07:58.118389+00:00",
+    "published": "2026-09-08T01:56:35+00:00"
+  },
+  "https://mcpherrin.ca/2026/09/07/rsa.html": {
+    "title": "I've factored the RSA keys of a Certificate Authority from the 90s",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-08T13:07:58.118389+00:00",
+    "published": "2026-09-08T01:16:59+00:00"
+  },
+  "https://pytorch.org/blog/alibaba-cloud-ant-group-cambricon-and-huawei-come-together-in-shanghai-to-advance-the-open-source-ai-stack-at-pytorch-conference-china": {
+    "title": "Alibaba Cloud, Ant Group, Cambricon and Huawei Come Together in Shanghai to Advance the Open Source AI Stack at PyTorch Conference China",
+    "source": "PyTorch Blog",
+    "first_seen": "2026-09-08T13:07:58.118389+00:00",
+    "published": "2026-09-08T01:00:02+00:00"
+  },
+  "https://pytorch.org/blog/cambricon-joins-the-pytorch-foundation-as-a-platinum-member": {
+    "title": "Cambricon Joins the PyTorch Foundation as a Platinum Member",
+    "source": "PyTorch Blog",
+    "first_seen": "2026-09-08T13:07:58.118389+00:00",
+    "published": "2026-09-08T00:59:13+00:00"
+  },
+  "https://www.phoronix.com/news/FreeBSD-14.5-RELEASE": {
+    "title": "FreeBSD 14.5 Released With Hardware Support Improvements, Many Bug & Security Fixes",
+    "source": "Phoronix",
+    "first_seen": "2026-09-08T13:07:58.118389+00:00",
+    "published": "2026-09-08T00:35:33+00:00"
+  },
+  "https://simonwillison.net/2026/Sep/7/llm": {
+    "title": "llm 0.35",
+    "source": "Simon Willison",
+    "first_seen": "2026-09-08T13:07:58.118389+00:00",
+    "published": "2026-09-07T23:54:54+00:00"
+  },
+  "https://d2lang.com/blog/tala-is-open-source": {
+    "title": "TALA Is Open-Source",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-08T13:07:58.118389+00:00",
+    "published": "2026-09-07T23:37:42+00:00"
+  },
+  "https://thenewstack.io/openai-voluntary-slowdown-safety": {
+    "title": "“Some agents will be pursuing their own objectives”: OpenAI’s chief scientist warns AI could trick and blackmail humans",
+    "source": "The New Stack",
+    "first_seen": "2026-09-08T13:07:58.118389+00:00",
+    "published": "2026-09-07T23:37:39+00:00"
+  },
+  "https://simonwillison.net/2026/Sep/7/creepy-crawlies": {
+    "title": "Creepy crawlies",
+    "source": "Simon Willison",
+    "first_seen": "2026-09-08T13:07:58.118389+00:00",
+    "published": "2026-09-07T23:08:58+00:00"
+  },
+  "https://lambdaland.org/posts/2026-09-06-bedrock-v2": {
+    "title": "Emacs Bedrock 2.0",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-08T13:07:58.118389+00:00",
+    "published": "2026-09-07T20:12:12+00:00"
+  },
+  "https://codingpirate.com/understanding-computer-memory-architecture-ac9320110787": {
+    "title": "Understanding Computer Memory Architecture and SSD Internals",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-08T13:07:58.118389+00:00",
+    "published": "2026-09-06T19:51:28+00:00"
+  },
+  "https://www.wired.com/story/robot-writing": {
+    "title": "Robot writes in languages it has never seen before (2019)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-08T13:07:58.118389+00:00",
+    "published": "2026-09-06T05:47:05+00:00"
   }
 }
