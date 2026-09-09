@@ -86924,5 +86924,173 @@
     "source": "Neon Blog",
     "first_seen": "2026-09-09T18:05:15.599683+00:00",
     "published": "2026-09-09T12:00:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/compute/customize-amazon-api-gateway-destinations-for-execution-logs": {
+    "title": "Customize Amazon API Gateway destinations for execution logs",
+    "source": "AWS Compute Blog",
+    "first_seen": "2026-09-09T22:49:00.863942+00:00",
+    "published": "2026-09-09T22:35:42+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/deploying-qwen3-8-2-4t-a95b-on-amazon-sagemaker-hyperpod-with-vllm": {
+    "title": "Deploying Qwen3.8-2.4T-A95B on Amazon SageMaker HyperPod with vLLM",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-09-09T22:49:00.863942+00:00",
+    "published": "2026-09-09T22:26:29+00:00"
+  },
+  "https://www.bbc.co.uk/news/articles/cp9340rg7k8o": {
+    "title": "South Park creators rename show 'South America'",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-09T22:49:00.863942+00:00",
+    "published": "2026-09-09T21:53:43+00:00"
+  },
+  "https://aws.amazon.com/blogs/architecture/testing-application-resilience-with-amazon-sqs-and-aws-fault-injection-service": {
+    "title": "Testing application resilience with Amazon SQS and AWS Fault Injection Service",
+    "source": "AWS Architecture Blog",
+    "first_seen": "2026-09-09T22:49:00.863942+00:00",
+    "published": "2026-09-09T21:33:59+00:00"
+  },
+  "https://www.404media.co/wordpress-automattic-ceo-matt-mullenweg-put-on-leave-of-absence": {
+    "title": "Matt Mullenweg put on 'leave of absence'",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-09T22:49:00.863942+00:00",
+    "published": "2026-09-09T21:28:56+00:00"
+  },
+  "https://aws.amazon.com/blogs/architecture/validating-multi-region-dr-for-terraform-enterprise-with-aws-fis": {
+    "title": "Validating multi-Region DR for Terraform Enterprise with AWS FIS",
+    "source": "AWS Architecture Blog",
+    "first_seen": "2026-09-09T22:49:00.863942+00:00",
+    "published": "2026-09-09T21:05:02+00:00"
+  },
+  "https://aws.amazon.com/blogs/compute/architecting-sase-solutions-using-aws-local-zones": {
+    "title": "Architecting SASE solutions using AWS Local Zones",
+    "source": "AWS Compute Blog",
+    "first_seen": "2026-09-09T22:49:00.863942+00:00",
+    "published": "2026-09-09T20:36:09+00:00"
+  },
+  "https://developer.nvidia.com/blog/when-to-use-encode-prefill-decode-disaggregation-to-accelerate-multimodal-model-serving": {
+    "title": "When to Use Encode-Prefill-Decode Disaggregation to Accelerate Multimodal Model Serving",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-09-09T22:49:00.863942+00:00",
+    "published": "2026-09-09T20:31:04+00:00"
+  },
+  "https://developer.nvidia.com/blog/cuda-toolkit-13-4-adds-windows-on-arm-support-and-greater-control-over-shared-gpus": {
+    "title": "CUDA Toolkit 13.4 Adds Windows on Arm Support and Greater Control over Shared GPUs",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-09-09T22:49:00.863942+00:00",
+    "published": "2026-09-09T20:24:12+00:00"
+  },
+  "https://www.phoronix.com/news/ReactOS-FEX-ARM64-Stacking": {
+    "title": "ReactOS Dev Gets FEX Running For x86_64 Games On This \"Open-Source Windows\" OS Under ARM",
+    "source": "Phoronix",
+    "first_seen": "2026-09-09T22:49:00.863942+00:00",
+    "published": "2026-09-09T20:15:11+00:00"
+  },
+  "https://thenewstack.io/claude-build-agents-benchmark": {
+    "title": "Claude did best on a new benchmark for agents that build agents. It still passed fewer than a quarter of the tests.",
+    "source": "The New Stack",
+    "first_seen": "2026-09-09T22:49:00.863942+00:00",
+    "published": "2026-09-09T20:14:09+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/icymi-what-landed-for-ai-builders-in-august-2026": {
+    "title": "ICYMI: What landed for AI builders in August 2026",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-09-09T22:49:00.863942+00:00",
+    "published": "2026-09-09T20:01:03+00:00"
+  },
+  "https://thenewstack.io/openai-ai-code-review": {
+    "title": "OpenAI gave an AI the power to block its own engineers’ code",
+    "source": "The New Stack",
+    "first_seen": "2026-09-09T22:49:00.863942+00:00",
+    "published": "2026-09-09T19:53:08+00:00"
+  },
+  "https://thenewstack.io/anthropic-alignment-superintelligence-warnings": {
+    "title": "“It could kill us all”: what Anthropic’s own researchers really think about superintelligence",
+    "source": "The New Stack",
+    "first_seen": "2026-09-09T22:49:00.863942+00:00",
+    "published": "2026-09-09T19:51:46+00:00"
+  },
+  "https://aws.amazon.com/blogs/security/the-state-of-ai-for-security-measuring-what-matters-most-for-building-trust": {
+    "title": "The state of AI for security: Measuring what matters most for building trust",
+    "source": "AWS Security Blog",
+    "first_seen": "2026-09-09T22:49:00.863942+00:00",
+    "published": "2026-09-09T19:09:14+00:00"
+  },
+  "https://aws.amazon.com/blogs/compute/announcing-90-minute-function-timeout-on-aws-lambda-managed-instances": {
+    "title": "Announcing 90-minute function timeout on AWS Lambda Managed Instances",
+    "source": "AWS Compute Blog",
+    "first_seen": "2026-09-09T22:49:00.863942+00:00",
+    "published": "2026-09-09T19:08:14+00:00"
+  },
+  "https://cloud.google.com/blog/products/databases/alloydb-omni-rpm-orchestrator-is-generally-available": {
+    "title": "Enterprise-grade PostgreSQL with AlloyDB Omni RPM Orchestrator is generally available",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-09-09T22:49:00.863942+00:00",
+    "published": "2026-09-09T19:00:00+00:00"
+  },
+  "https://www.apple.com/iphone-duo": {
+    "title": "iPhone Duo",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-09T22:49:00.863942+00:00",
+    "published": "2026-09-09T18:15:43+00:00"
+  },
+  "https://lwn.net/Articles/1093391": {
+    "title": "A decade of Rustls",
+    "source": "LWN.net",
+    "first_seen": "2026-09-09T22:49:00.863942+00:00",
+    "published": "2026-09-09T18:11:54+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/how-heurist-finance-built-an-ai-native-investment-workbench-on-amazon-bedrock-agentcore": {
+    "title": "How Heurist Finance built an AI-native investment workbench on Amazon Bedrock AgentCore",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-09-09T22:49:00.863942+00:00",
+    "published": "2026-09-09T18:11:12+00:00"
+  },
+  "https://www.databricks.com/blog/five-ai-questions-were-hearing-financial-services-leaders": {
+    "title": "Five AI Questions We're Hearing from Financial Services Leaders",
+    "source": "Databricks Blog",
+    "first_seen": "2026-09-09T22:49:00.863942+00:00",
+    "published": "2026-09-09T18:09:29+00:00"
+  },
+  "https://cloud.google.com/blog/products/ai-machine-learning/google-is-a-leader-in-2026-gartner-magic-quadrant-for-enterprise-ai-assistants": {
+    "title": "Google is a Leader in the 2026 Gartner® Magic Quadrant™ for Enterprise AI Assistants",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-09-09T22:49:00.863942+00:00",
+    "published": "2026-09-09T18:00:00+00:00"
+  },
+  "https://github.com/OtoDock/oto-dock": {
+    "title": "Show HN: Self-hosted company OS, Claude Code and Codex agents in departments",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-09T22:49:00.863942+00:00",
+    "published": "2026-09-09T17:57:55+00:00"
+  },
+  "https://www.apple.com/newsroom/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system": {
+    "title": "Apple Watch Series 12",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-09T22:49:00.863942+00:00",
+    "published": "2026-09-09T17:56:17+00:00"
+  },
+  "https://arxiv.org/abs/2609.09153": {
+    "title": "Procedural Graphs: Self-Evolving Execution Structures for LLM Agents",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-09T22:49:00.863942+00:00",
+    "published": "2026-09-09T17:13:52+00:00"
+  },
+  "https://www.anthropic.com/institute/econ-scenarios": {
+    "title": "What will our economic future look like?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-09T22:49:00.863942+00:00",
+    "published": "2026-09-09T13:38:23+00:00"
+  },
+  "https://grafana.com/blog/how-to-monitor-cypress-tests-with-grafana-cloud": {
+    "title": "How to monitor Cypress tests with Grafana Cloud",
+    "source": "Grafana Blog",
+    "first_seen": "2026-09-09T22:49:00.863942+00:00",
+    "published": "2026-09-09T13:35:09+00:00"
+  },
+  "https://openai.com/index/gpt-6-astra-next-generation-work": {
+    "title": "GPT-6 Astra: The next generation in intelligence for work",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-09-09T22:49:00.863942+00:00",
+    "published": "2026-09-09T11:00:00+00:00"
   }
 }
