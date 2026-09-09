@@ -86630,5 +86630,299 @@
     "source": "Kubernetes Blog",
     "first_seen": "2026-09-09T13:12:53.651163+00:00",
     "published": "2026-09-08T18:30:00+00:00"
+  },
+  "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation": {
+    "title": "Apple Introduces AirPods 5",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-09T18:05:15.599683+00:00",
+    "published": "2026-09-09T17:39:24+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/build-declarative-etl-pipelines-with-aws-glue-6-0": {
+    "title": "Build declarative ETL pipelines with AWS Glue 6.0",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-09-09T18:05:15.599683+00:00",
+    "published": "2026-09-09T17:38:22+00:00"
+  },
+  "https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max": {
+    "title": "Apple debuts iPhone 18 Pro and iPhone 18 Pro Max",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-09T18:05:15.599683+00:00",
+    "published": "2026-09-09T17:33:20+00:00"
+  },
+  "https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3": {
+    "title": "Qwen 3.8 follows GPT-5.5 Pro reasoning prefills",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-09T18:05:15.599683+00:00",
+    "published": "2026-09-09T17:24:28+00:00"
+  },
+  "https://spectrum.ieee.org/are-self-driving-cars-safe": {
+    "title": "Growing proof that autonomous cars save lives",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-09T18:05:15.599683+00:00",
+    "published": "2026-09-09T17:14:59+00:00"
+  },
+  "https://www.jamescherti.com/emacs-consult-speed-async-searche-grep-ripgrep-fd-find": {
+    "title": "Why Emacs Consult async searches feel slow and how to speed them up",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-09T18:05:15.599683+00:00",
+    "published": "2026-09-09T17:13:43+00:00"
+  },
+  "https://lwn.net/Articles/1093388": {
+    "title": "LibreOffice Base survey results",
+    "source": "LWN.net",
+    "first_seen": "2026-09-09T18:05:15.599683+00:00",
+    "published": "2026-09-09T17:07:42+00:00"
+  },
+  "https://openai.com/index/paul-christiano-joins-openai-foundation-board": {
+    "title": "Paul Christiano joins OpenAI Foundation Board",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-09-09T18:05:15.599683+00:00",
+    "published": "2026-09-09T17:00:00+00:00"
+  },
+  "https://jordivillar.com/blog/every-millisecond-counts": {
+    "title": "Every Millisecond Counts",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-09T18:05:15.599683+00:00",
+    "published": "2026-09-09T16:57:34+00:00"
+  },
+  "https://www.not-ship.com/united-nations-map": {
+    "title": "The UN challenges five centuries of cartography",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-09T18:05:15.599683+00:00",
+    "published": "2026-09-09T16:33:44+00:00"
+  },
+  "https://cloud.google.com/blog/products/databases/how-to-replicate-sql-server-logins-and-passwords-to-cloud-sql": {
+    "title": "Beyond DMS: Accelerating Migrations SQL Server Logins and Users to Cloud SQL",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-09-09T18:05:15.599683+00:00",
+    "published": "2026-09-09T16:30:00+00:00"
+  },
+  "https://martinfowler.com/articles/2026-social-traffic.html": {
+    "title": "Social Media Engagement: summer 2026",
+    "source": "Martin Fowler",
+    "first_seen": "2026-09-09T18:05:15.599683+00:00",
+    "published": "2026-09-09T16:21:00+00:00"
+  },
+  "https://www.databricks.com/blog/practical-approach-end-end-solvency-ii-reporting-databricks": {
+    "title": "A practical approach to end-to-end Solvency II reporting in Databricks",
+    "source": "Databricks Blog",
+    "first_seen": "2026-09-09T18:05:15.599683+00:00",
+    "published": "2026-09-09T16:20:00+00:00"
+  },
+  "https://www.sudomoin.com/p/consumer-claims": {
+    "title": "I haven't lost a customer service fight in seven months",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-09T18:05:15.599683+00:00",
+    "published": "2026-09-09T16:18:38+00:00"
+  },
+  "https://www.phoronix.com/review/msi-b850p-coreboot-opensil": {
+    "title": "Running AMD openSIL + Coreboot On The First Available Ryzen AM5 Motherboard",
+    "source": "Phoronix",
+    "first_seen": "2026-09-09T18:05:15.599683+00:00",
+    "published": "2026-09-09T16:10:00+00:00"
+  },
+  "https://www.schneier.com/blog/archives/2026/09/drivers-license-data-for-sale.html": {
+    "title": "Driver’s License Data for Sale",
+    "source": "Schneier on Security",
+    "first_seen": "2026-09-09T18:05:15.599683+00:00",
+    "published": "2026-09-09T16:05:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/media-entertainment/how-airtel-delivered-its-flawless-indian-premiere-league-2026-cricket-broadcasts": {
+    "title": "How Airtel delivered its flawless Indian Premiere League 2026 cricket broadcasts",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-09-09T18:05:15.599683+00:00",
+    "published": "2026-09-09T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/databases/spanner-removes-dml-mutation-limits": {
+    "title": "Spanner: Removing cumulative mutation limits for DML transactions",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-09-09T18:05:15.599683+00:00",
+    "published": "2026-09-09T16:00:00+00:00"
+  },
+  "https://blog.google/products-and-platforms/products/search/football-features-google-search": {
+    "title": "Get ready for the game with new football features in Search",
+    "source": "Google AI Blog",
+    "first_seen": "2026-09-09T18:05:15.599683+00:00",
+    "published": "2026-09-09T16:00:00+00:00"
+  },
+  "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film": {
+    "title": "Recreating a 70-year love story frame by frame",
+    "source": "Google AI Blog",
+    "first_seen": "2026-09-09T18:05:15.599683+00:00",
+    "published": "2026-09-09T16:00:00+00:00"
+  },
+  "https://newsletter.pragmaticengineer.com/p/building-codex-with-tibo-sottiaux": {
+    "title": "Building Codex with Tibo Sottiaux",
+    "source": "The Pragmatic Engineer",
+    "first_seen": "2026-09-09T18:05:15.599683+00:00",
+    "published": "2026-09-09T15:57:24+00:00"
+  },
+  "https://about.readthedocs.com/blog/2026/09/2026-ddos-attack": {
+    "title": "Understanding the recent DDoS attack against Read the Docs",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-09T18:05:15.599683+00:00",
+    "published": "2026-09-09T15:55:53+00:00"
+  },
+  "https://gnuradioworld.com": {
+    "title": "GNU Radio in the browser",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-09T18:05:15.599683+00:00",
+    "published": "2026-09-09T15:53:06+00:00"
+  },
+  "https://www.phoronix.com/news/XWayland-26.1-RC2": {
+    "title": "XWayland 26.1 RC2 Released For Testing With More Fixes",
+    "source": "Phoronix",
+    "first_seen": "2026-09-09T18:05:15.599683+00:00",
+    "published": "2026-09-09T15:52:32+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/simplify-and-support-your-torchserve-workloads-using-ray-serve-deep-learning-containers": {
+    "title": "Simplify and support your TorchServe workloads using Ray Serve Deep Learning Containers",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-09-09T18:05:15.599683+00:00",
+    "published": "2026-09-09T15:51:29+00:00"
+  },
+  "https://www.nomanssky.com/cosmos-update": {
+    "title": "No Man's Sky Cosmos",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-09T18:05:15.599683+00:00",
+    "published": "2026-09-09T15:47:42+00:00"
+  },
+  "https://entropicthoughts.com/better-ai-comment-classifier": {
+    "title": "Better AI code comment detector",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-09T18:05:15.599683+00:00",
+    "published": "2026-09-09T15:45:43+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/automate-user-level-custom-permissions-for-amazon-quick": {
+    "title": "Automate user-level custom permissions for Amazon Quick",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-09-09T18:05:15.599683+00:00",
+    "published": "2026-09-09T15:45:24+00:00"
+  },
+  "https://tech.marksblogg.com/planet-labs-open-satellite-feed.html": {
+    "title": "Planet Labs' open satellite feed",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-09T18:05:15.599683+00:00",
+    "published": "2026-09-09T15:44:09+00:00"
+  },
+  "https://thenewstack.io/ai-agents-soc-autonomy": {
+    "title": "How much control should AI get? A CISO roundtable takes on SOC autonomy",
+    "source": "The New Stack",
+    "first_seen": "2026-09-09T18:05:15.599683+00:00",
+    "published": "2026-09-09T15:38:58+00:00"
+  },
+  "https://lwn.net/Articles/1092993": {
+    "title": "[$] Typst makes big strides",
+    "source": "LWN.net",
+    "first_seen": "2026-09-09T18:05:15.599683+00:00",
+    "published": "2026-09-09T15:37:55+00:00"
+  },
+  "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series": {
+    "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-09-09T18:05:15.599683+00:00",
+    "published": "2026-09-09T15:36:24+00:00"
+  },
+  "https://bnext.bio/post/we-accidentally-built-a-synthetic-cell-factory": {
+    "title": "We accidentally built a synthetic cell factory",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-09T18:05:15.599683+00:00",
+    "published": "2026-09-09T15:34:51+00:00"
+  },
+  "https://blog.bytebytego.com/p/how-smart-model-routing-can-cut-llm": {
+    "title": "How Smart Model Routing Can Cut LLM Costs by 10X",
+    "source": "ByteByteGo",
+    "first_seen": "2026-09-09T18:05:15.599683+00:00",
+    "published": "2026-09-09T15:30:26+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/building-async-python-applications-with-tortoise-orm-and-amazon-aurora-dsql": {
+    "title": "Building async Python applications with Tortoise ORM and Amazon Aurora DSQL",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-09-09T18:05:15.599683+00:00",
+    "published": "2026-09-09T15:27:43+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/from-noise-to-signal-monitoring-amazon-documentdb-like-a-pro": {
+    "title": "From noise to signal: Monitoring Amazon DocumentDB like a pro",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-09-09T18:05:15.599683+00:00",
+    "published": "2026-09-09T15:23:20+00:00"
+  },
+  "https://news.ycombinator.com/item?id=49627872": {
+    "title": "Show HN: Give your AI agent on-screen guides that show users where to click",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-09T18:05:15.599683+00:00",
+    "published": "2026-09-09T15:09:05+00:00"
+  },
+  "https://www.phoronix.com/news/System76-Thelio-Mira-AI": {
+    "title": "System76 Launches The Thelio Mira AI With AMD Ryzen + NVIDIA Or AMD Graphics",
+    "source": "Phoronix",
+    "first_seen": "2026-09-09T18:05:15.599683+00:00",
+    "published": "2026-09-09T14:57:09+00:00"
+  },
+  "https://www.phoronix.com/news/OpenSSL-4.1-Alpha-1": {
+    "title": "OpenSSL 4.1 Alpha 1 Released With DTLS 1.3, GREASE & More AVX-512 Optimizations",
+    "source": "Phoronix",
+    "first_seen": "2026-09-09T18:05:15.599683+00:00",
+    "published": "2026-09-09T14:46:00+00:00"
+  },
+  "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and": {
+    "title": "GPT-6 Astra, looped transformers, and hidden reasoning",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-09T18:05:15.599683+00:00",
+    "published": "2026-09-09T14:37:47+00:00"
+  },
+  "https://www.databricks.com/blog/beyond-embedding-how-secure-aibi-dashboards-every-viewer": {
+    "title": "Beyond embedding: How to secure AI/BI Dashboards for every viewer",
+    "source": "Databricks Blog",
+    "first_seen": "2026-09-09T18:05:15.599683+00:00",
+    "published": "2026-09-09T14:04:44+00:00"
+  },
+  "https://www.phoronix.com/news/NVIDIA-615.71.09-Linux-Driver": {
+    "title": "NVIDIA 615.71.09 Linux Driver Released With Vulkan Improvements",
+    "source": "Phoronix",
+    "first_seen": "2026-09-09T18:05:15.599683+00:00",
+    "published": "2026-09-09T14:02:37+00:00"
+  },
+  "https://tailscale.com/blog/kubernetes-operator-1102": {
+    "title": "Tailscale Kubernetes Operator 1.102: In-cluster Peer Relays, better IPv6, and optimized certificates",
+    "source": "Tailscale Blog",
+    "first_seen": "2026-09-09T18:05:15.599683+00:00",
+    "published": "2026-09-09T14:00:00+00:00"
+  },
+  "https://realpython.com/python315-lazy-imports": {
+    "title": "Python 3.15 Preview: Lazy Imports",
+    "source": "Real Python",
+    "first_seen": "2026-09-09T18:05:15.599683+00:00",
+    "published": "2026-09-09T14:00:00+00:00"
+  },
+  "https://dadrian.io/blog/posts/whack-a-mole-is-losing": {
+    "title": "Playing whack-a-mole is losing",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-09T18:05:15.599683+00:00",
+    "published": "2026-09-09T13:41:53+00:00"
+  },
+  "https://www.databricks.com/blog/introducing-consort-test-driven-development-branching-database": {
+    "title": "Introducing Consort: Test-driven development on a branching database",
+    "source": "Databricks Blog",
+    "first_seen": "2026-09-09T18:05:15.599683+00:00",
+    "published": "2026-09-09T13:41:25+00:00"
+  },
+  "https://www.databricks.com/blog/adaptive-instructed-retriever-frontier-quality-search-2x-lower-latency": {
+    "title": "Adaptive Instructed-Retriever: Frontier-Quality Search at 2x Lower Latency",
+    "source": "Databricks Blog",
+    "first_seen": "2026-09-09T18:05:15.599683+00:00",
+    "published": "2026-09-09T13:30:00+00:00"
+  },
+  "https://tailwindcss.com/blog/tailwind-is-joining-shopify": {
+    "title": "Tailwind Labs is joining Shopify",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-09T18:05:15.599683+00:00",
+    "published": "2026-09-09T13:27:11+00:00"
+  },
+  "https://neon.com/blog/improving-lakebase-compute-cache-part-1": {
+    "title": "Improving Lakebase Postgres Compute Cache on Neon, Part 1",
+    "source": "Neon Blog",
+    "first_seen": "2026-09-09T18:05:15.599683+00:00",
+    "published": "2026-09-09T12:00:00+00:00"
   }
 }
