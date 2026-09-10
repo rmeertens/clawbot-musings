@@ -87644,5 +87644,185 @@
     "source": "AWS Blog",
     "first_seen": "2026-09-10T17:56:18.256772+00:00",
     "published": "2026-09-09T22:01:47+00:00"
+  },
+  "https://devblogs.microsoft.com/devops/september-patches-for-azure-devops-server-3": {
+    "title": "September Patches for Azure DevOps Server",
+    "source": "MS DevOps Blog",
+    "first_seen": "2026-09-10T22:50:05.095886+00:00",
+    "published": "2026-09-10T22:25:52+00:00"
+  },
+  "https://www.phoronix.com/news/GIMP-3.2.6-Released": {
+    "title": "GIMP 3.2.6 Released With Some Early Preparations Toward Eventual GTK4 Port",
+    "source": "Phoronix",
+    "first_seen": "2026-09-10T22:50:05.095886+00:00",
+    "published": "2026-09-10T22:12:22+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/reduce-llm-latency-with-prefix-aware-routing-on-amazon-sagemaker-inference": {
+    "title": "Reduce LLM latency with prefix-aware routing on Amazon SageMaker Inference",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-09-10T22:50:05.095886+00:00",
+    "published": "2026-09-10T21:58:09+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/reduce-inference-cold-starts-on-amazon-sagemaker-hyperpod-with-model-caching": {
+    "title": "Reduce inference cold starts on Amazon SageMaker HyperPod with model caching",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-09-10T22:50:05.095886+00:00",
+    "published": "2026-09-10T21:37:49+00:00"
+  },
+  "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-using-the-diff-terminal-and-browser": {
+    "title": "GitHub Copilot app for Beginners: Using the diff, terminal, and browser",
+    "source": "GitHub Blog",
+    "first_seen": "2026-09-10T22:50:05.095886+00:00",
+    "published": "2026-09-10T21:31:19+00:00"
+  },
+  "https://www.ntsb.gov:443/news/press-releases/Pages/NR20260909.aspx": {
+    "title": "NTSB Issues Investigative Update on B-767 Runway Excursion Accident in Miami",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-10T22:50:05.095886+00:00",
+    "published": "2026-09-10T21:30:55+00:00"
+  },
+  "https://www.johndcook.com/blog/2026/09/09/formal-method-revolution": {
+    "title": "The part of Navier-Stokes no one is talking about",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-10T22:50:05.095886+00:00",
+    "published": "2026-09-10T21:22:59+00:00"
+  },
+  "https://www.phoronix.com/news/Mesa-26.3-GFX6-GFX8-Modifiers": {
+    "title": "Mesa 26.3 RADV + RadeonSI Ready With DRM Format Modifiers For Older AMD GPUs",
+    "source": "Phoronix",
+    "first_seen": "2026-09-10T22:50:05.095886+00:00",
+    "published": "2026-09-10T21:19:11+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/video-and-image-search-in-amazon-bedrock-knowledge-base-using-marengo-3-0": {
+    "title": "Video and image search in Amazon Bedrock Knowledge Base using Marengo 3.0",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-09-10T22:50:05.095886+00:00",
+    "published": "2026-09-10T21:15:39+00:00"
+  },
+  "https://simonwillison.net/2026/Sep/10/shopify-react-native": {
+    "title": "Native is now the future of mobile at Shopify",
+    "source": "Simon Willison",
+    "first_seen": "2026-09-10T22:50:05.095886+00:00",
+    "published": "2026-09-10T21:11:15+00:00"
+  },
+  "https://vester.si/bodily-oddities": {
+    "title": "Bodily Oddities",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-10T22:50:05.095886+00:00",
+    "published": "2026-09-10T20:33:11+00:00"
+  },
+  "https://thenewstack.io/gpt-live-1-voice-api": {
+    "title": "OpenAI split a voice model’s brain. Then one team deleted 23,000 lines of code.",
+    "source": "The New Stack",
+    "first_seen": "2026-09-10T22:50:05.095886+00:00",
+    "published": "2026-09-10T20:08:18+00:00"
+  },
+  "https://lwn.net/Articles/1093671": {
+    "title": "Forgejo 16.0.4 and 15.0.8 address critical security vulnerability",
+    "source": "LWN.net",
+    "first_seen": "2026-09-10T22:50:05.095886+00:00",
+    "published": "2026-09-10T20:05:50+00:00"
+  },
+  "https://thenewstack.io/salesforce-enterprise-ai-harness": {
+    "title": "“Six tools, one harness”: Salesforce loops together a six-pack of favorites",
+    "source": "The New Stack",
+    "first_seen": "2026-09-10T22:50:05.095886+00:00",
+    "published": "2026-09-10T20:03:25+00:00"
+  },
+  "https://thenewstack.io/anthropic-claude-cyber-alignment": {
+    "title": "“Valuable warning shots”: How Anthropic now views Claude’s cyber incidents",
+    "source": "The New Stack",
+    "first_seen": "2026-09-10T22:50:05.095886+00:00",
+    "published": "2026-09-10T19:54:35+00:00"
+  },
+  "https://thenewstack.io/shopify-native-ai-agents": {
+    "title": "Shopify spent years on React Native — then rebuilt everything in 12 weeks",
+    "source": "The New Stack",
+    "first_seen": "2026-09-10T22:50:05.095886+00:00",
+    "published": "2026-09-10T19:46:50+00:00"
+  },
+  "https://thenewstack.io/gpt-images-2-5-sunburst-flare": {
+    "title": "GPT Images 2.5 promises edits that leave the rest of your image alone",
+    "source": "The New Stack",
+    "first_seen": "2026-09-10T22:50:05.095886+00:00",
+    "published": "2026-09-10T19:46:32+00:00"
+  },
+  "https://merybenavente.me/blog/proof-of-capture": {
+    "title": "Proof of Capture: Apple Reference Image, but open source and using steganography",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-10T22:50:05.095886+00:00",
+    "published": "2026-09-10T19:44:15+00:00"
+  },
+  "https://developers.openai.com/api/docs/guides/agents-api/overview": {
+    "title": "OpenAI Agents API",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-10T22:50:05.095886+00:00",
+    "published": "2026-09-10T19:43:22+00:00"
+  },
+  "https://thenewstack.io/mistral-funding-open-infrastructure": {
+    "title": "Mistral wants open-weight AI to compete at the frontier. It just raised $3.5 billion to do it.",
+    "source": "The New Stack",
+    "first_seen": "2026-09-10T22:50:05.095886+00:00",
+    "published": "2026-09-10T19:37:30+00:00"
+  },
+  "https://www.inventbuild.studio/blog/genuine-creativity-is-your-new-moat": {
+    "title": "Creativity is the New Moat",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-10T22:50:05.095886+00:00",
+    "published": "2026-09-10T19:03:34+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/amazon-quick-is-now-generally-available-on-desktop": {
+    "title": "Amazon Quick is now generally available on desktop",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-09-10T22:50:05.095886+00:00",
+    "published": "2026-09-10T18:16:37+00:00"
+  },
+  "https://stackoverflow.blog/2026/09/10/re-introducing-developer-story": {
+    "title": "(Re)introducing Developer Story",
+    "source": "Stack Overflow Blog",
+    "first_seen": "2026-09-10T22:50:05.095886+00:00",
+    "published": "2026-09-10T18:01:54+00:00"
+  },
+  "https://www.anthropic.com/threat-intelligence-report-september-2026": {
+    "title": "Detecting and countering misuse of AI: September 2026",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-10T22:50:05.095886+00:00",
+    "published": "2026-09-10T17:23:42+00:00"
+  },
+  "https://musictheory.pugetsound.edu/mt21c/MusicTheory.html": {
+    "title": "Music Theory for the 21st-Century Classroom",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-10T22:50:05.095886+00:00",
+    "published": "2026-09-10T17:14:12+00:00"
+  },
+  "https://grafana.com/blog/synthetic-monitoring-labels-update": {
+    "title": "Custom labels in Grafana Cloud Synthetic Monitoring: New updates for consistency and ease-of-use",
+    "source": "Grafana Blog",
+    "first_seen": "2026-09-10T22:50:05.095886+00:00",
+    "published": "2026-09-10T16:11:53+00:00"
+  },
+  "https://blog.jim-nielsen.com/2026/hands-off-my-cables": {
+    "title": "Don't let anyone take away your big box of cables",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-10T22:50:05.095886+00:00",
+    "published": "2026-09-10T15:27:22+00:00"
+  },
+  "https://www.databricks.com/blog/unifying-governance-across-engines-and-catalogs-open-lakehouse": {
+    "title": "Unifying governance across engines and catalogs in the Open Lakehouse",
+    "source": "Databricks Blog",
+    "first_seen": "2026-09-10T22:50:05.095886+00:00",
+    "published": "2026-09-10T15:05:10+00:00"
+  },
+  "https://openai.com/index/introducing-chatgpt-financial-services": {
+    "title": "Introducing ChatGPT for Financial Services",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-09-10T22:50:05.095886+00:00",
+    "published": "2026-09-10T07:00:00+00:00"
+  },
+  "https://openai.com/index/introducing-the-agents-api": {
+    "title": "Introducing the Agents API",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-09-10T22:50:05.095886+00:00",
+    "published": "2026-09-10T00:00:00+00:00"
   }
 }
