@@ -87092,5 +87092,227 @@
     "source": "OpenAI Blog",
     "first_seen": "2026-09-09T22:49:00.863942+00:00",
     "published": "2026-09-09T11:00:00+00:00"
+  },
+  "https://thenewstack.io/ai-engineering-roles-emerging": {
+    "title": "47,000 job listings reveal the engineering roles that AI is creating",
+    "source": "The New Stack",
+    "first_seen": "2026-09-10T13:10:46.987031+00:00",
+    "published": "2026-09-10T13:09:28+00:00"
+  },
+  "https://www.phoronix.com/news/Intel-BFF-Driver-For-Linux-7.4": {
+    "title": "Intel BFF Driver Slated For Linux 7.4 Introduction",
+    "source": "Phoronix",
+    "first_seen": "2026-09-10T13:10:46.987031+00:00",
+    "published": "2026-09-10T12:54:35+00:00"
+  },
+  "https://thenewstack.io/stop-ai-code-sprawl": {
+    "title": "Stop AI code sprawl before it destroys your software design",
+    "source": "The New Stack",
+    "first_seen": "2026-09-10T13:10:46.987031+00:00",
+    "published": "2026-09-10T12:30:00+00:00"
+  },
+  "https://consumerrights.wiki/w/Sony_PlayStation_digital_game_ownership_lawsuit": {
+    "title": "List of references on Sony websites to players \"owning\" their digital games",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-10T13:10:46.987031+00:00",
+    "published": "2026-09-10T12:18:06+00:00"
+  },
+  "https://thenewstack.io/vulnerability-prioritization-business-context": {
+    "title": "AI floods security teams with flaws — business context sets priorities",
+    "source": "The New Stack",
+    "first_seen": "2026-09-10T13:10:46.987031+00:00",
+    "published": "2026-09-10T12:00:00+00:00"
+  },
+  "https://realpython.com/quizzes/effective-python-environment": {
+    "title": "Quiz: An Effective Python Environment: Making Yourself at Home",
+    "source": "Real Python",
+    "first_seen": "2026-09-10T13:10:46.987031+00:00",
+    "published": "2026-09-10T12:00:00+00:00"
+  },
+  "https://www.cncf.io/blog/2026/09/10/kubernetes-disaster-recovery-guidance-from-three-reproducible-failure-scenarios": {
+    "title": "Kubernetes disaster recovery: Guidance from three reproducible failure scenarios",
+    "source": "CNCF Blog",
+    "first_seen": "2026-09-10T13:10:46.987031+00:00",
+    "published": "2026-09-10T11:37:00+00:00"
+  },
+  "https://www.phoronix.com/news/NVIDIA-NVK-BAR-Host-Cached": {
+    "title": "NVIDIA NVK Driver Lands Improvement To Help With Valve's Gamescope",
+    "source": "Phoronix",
+    "first_seen": "2026-09-10T13:10:46.987031+00:00",
+    "published": "2026-09-10T11:17:47+00:00"
+  },
+  "https://www.schneier.com/blog/archives/2026/09/ais-compress-exploit-timeline.html": {
+    "title": "AIs Compress Exploit Timeline",
+    "source": "Schneier on Security",
+    "first_seen": "2026-09-10T13:10:46.987031+00:00",
+    "published": "2026-09-10T10:40:35+00:00"
+  },
+  "https://www.techradar.com/health-fitness/smartwatches/thanks-to-siri-recaps-your-apple-watch-is-always-listening-as-you-go-about-your-day-but-apple-may-be-risking-a-meta-glasses-style-backlash": {
+    "title": "Thanks to Siri Recaps, your Apple Watch is always listening",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-10T13:10:46.987031+00:00",
+    "published": "2026-09-10T10:36:00+00:00"
+  },
+  "https://twitter.com/hideo_kojima_en/status/2097877506401681753": {
+    "title": "PlayStation cancels Kojima's PHYSINT, Xbox steps in",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-10T13:10:46.987031+00:00",
+    "published": "2026-09-10T10:35:09+00:00"
+  },
+  "https://www.phoronix.com/news/X.Org-Server-26.1-Released": {
+    "title": "X.Org Server 26.1 Moves Closer To Release As Half-Decade Update",
+    "source": "Phoronix",
+    "first_seen": "2026-09-10T13:10:46.987031+00:00",
+    "published": "2026-09-10T10:29:00+00:00"
+  },
+  "https://www.phoronix.com/news/GNOME-51-Custom-Accel-Profiles": {
+    "title": "GNOME 51 Adds Support For Custom Pointer Acceleration Profiles",
+    "source": "Phoronix",
+    "first_seen": "2026-09-10T13:10:46.987031+00:00",
+    "published": "2026-09-10T10:16:56+00:00"
+  },
+  "https://honestlyranked.com/guides/streaming-price-increases": {
+    "title": "Show HN: The same nine streaming subscriptions cost $702/year more than in 2021",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-10T13:10:46.987031+00:00",
+    "published": "2026-09-10T10:13:59+00:00"
+  },
+  "https://www.phoronix.com/news/COSMIC-Epoch-1.8": {
+    "title": "COSMIC Epoch 1.8 Provides Latest Fixes & Minor Improvements For This Rust Desktop",
+    "source": "Phoronix",
+    "first_seen": "2026-09-10T13:10:46.987031+00:00",
+    "published": "2026-09-10T10:04:04+00:00"
+  },
+  "https://stratechery.com/2026/the-iphone-duo-the-intelligent-personal-hub-apple-watch-audio-intelligence": {
+    "title": "The iPhone Duo, The Intelligent Personal Hub, Apple Watch Audio Intelligence",
+    "source": "Stratechery",
+    "first_seen": "2026-09-10T13:10:46.987031+00:00",
+    "published": "2026-09-10T10:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/GNU-Automake-1.19": {
+    "title": "GNU Automake 1.19 Released With More Than One Year Worth Of Fixes",
+    "source": "Phoronix",
+    "first_seen": "2026-09-10T13:10:46.987031+00:00",
+    "published": "2026-09-10T09:50:14+00:00"
+  },
+  "https://devblogs.microsoft.com/oldnewthing/20260909-00?p=112683": {
+    "title": "What algorithm did Windows XP use to choose your initial user picture?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-10T13:10:46.987031+00:00",
+    "published": "2026-09-10T09:04:14+00:00"
+  },
+  "https://thenewstack.io/ai-factories-are-among-the-most-complex-systems-ever-built-nvidia-and-palantir-turn-nvidias-supply-chain-into-a-proving-ground-for-sovereign-ai": {
+    "title": "Nvidia and Palantir fine-tune a 30B Nemotron model for Nvidia’s supply chain. It beats a model 18 times its size.",
+    "source": "The New Stack",
+    "first_seen": "2026-09-10T13:10:46.987031+00:00",
+    "published": "2026-09-10T09:00:43+00:00"
+  },
+  "https://developer.nvidia.com/blog/from-wafer-out-to-first-token-codifying-supply-chain-expertise-with-nemotron-and-palantir-foundry": {
+    "title": "From Wafer-Out to First Token: Codifying Supply Chain Expertise with Nemotron and Palantir Foundry",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-09-10T13:10:46.987031+00:00",
+    "published": "2026-09-10T09:00:00+00:00"
+  },
+  "https://twitter.com/deepseek_ai/status/2097930608790167907": {
+    "title": "DeepSeek v4.1 Flash",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-10T13:10:46.987031+00:00",
+    "published": "2026-09-10T06:11:05+00:00"
+  },
+  "https://mathstodon.xyz/@tao/117244102901892965": {
+    "title": "All grown-ups were once children, but only few of them remember it",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-10T13:10:46.987031+00:00",
+    "published": "2026-09-10T04:04:38+00:00"
+  },
+  "https://github.blog/news-insights/company-news/github-availability-report-august-2026": {
+    "title": "GitHub availability report: August 2026",
+    "source": "GitHub Blog",
+    "first_seen": "2026-09-10T13:10:46.987031+00:00",
+    "published": "2026-09-10T02:05:17+00:00"
+  },
+  "https://rivendell.dmitrybrant.com/relativity": {
+    "title": "Show HN: What if the speed of light was 5 km/h?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-10T13:10:46.987031+00:00",
+    "published": "2026-09-10T01:58:00+00:00"
+  },
+  "https://lwn.net/Articles/1092273": {
+    "title": "[$] LWN.net Weekly Edition for September 10, 2026",
+    "source": "LWN.net",
+    "first_seen": "2026-09-10T13:10:46.987031+00:00",
+    "published": "2026-09-10T01:43:03+00:00"
+  },
+  "https://simonwillison.net/2026/Sep/10/calif-research": {
+    "title": "Quoting Calif Research",
+    "source": "Simon Willison",
+    "first_seen": "2026-09-10T13:10:46.987031+00:00",
+    "published": "2026-09-10T00:56:41+00:00"
+  },
+  "https://www.phoronix.com/news/Steam-Beta-9-September-2026": {
+    "title": "Steam Client Beta Improves Big Picture Mode, Several Linux Enhancements",
+    "source": "Phoronix",
+    "first_seen": "2026-09-10T13:10:46.987031+00:00",
+    "published": "2026-09-10T00:27:02+00:00"
+  },
+  "https://pytorch.org/blog/pytorch-conference-china-2026-advancing-the-open-source-ai-stack": {
+    "title": "PyTorch Conference China 2026: Advancing the Open Source AI Stack",
+    "source": "PyTorch Blog",
+    "first_seen": "2026-09-10T13:10:46.987031+00:00",
+    "published": "2026-09-10T00:01:29+00:00"
+  },
+  "https://huggingface.co/blog/gradio-workflow-1111": {
+    "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-09-10T13:10:46.987031+00:00",
+    "published": "2026-09-10T00:00:00+00:00"
+  },
+  "https://simonwillison.net/2026/Sep/9/blender-viewer": {
+    "title": ".blend URL Viewer",
+    "source": "Simon Willison",
+    "first_seen": "2026-09-10T13:10:46.987031+00:00",
+    "published": "2026-09-09T23:58:32+00:00"
+  },
+  "https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence": {
+    "title": "Automattic's board forces CEO Matt Mullenweg into leave of absence",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-10T13:10:46.987031+00:00",
+    "published": "2026-09-09T23:49:29+00:00"
+  },
+  "https://kubernetes.io/blog/2026/09/09/kubernetes-v1-37-node-lifecycle-conditions": {
+    "title": "Kubernetes v1.37: Introducing Node Lifecycle Conditions",
+    "source": "Kubernetes Blog",
+    "first_seen": "2026-09-10T13:10:46.987031+00:00",
+    "published": "2026-09-09T18:30:00+00:00"
+  },
+  "https://www.pv-magazine.com/2026/09/07/hitachi-launches-co2-heat-pump-water-heaters-with-solar-friendly-tariff-controls": {
+    "title": "Hitachi launches CO2 heat pump water heaters with solar-friendly tariff controls",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-10T13:10:46.987031+00:00",
+    "published": "2026-09-09T14:54:12+00:00"
+  },
+  "https://realpython.com/effective-python-environment": {
+    "title": "An Effective Python Development Environment",
+    "source": "Real Python",
+    "first_seen": "2026-09-10T13:10:46.987031+00:00",
+    "published": "2026-09-09T14:00:00+00:00"
+  },
+  "https://github.com/rnoro/tithon": {
+    "title": "Show HN: Persistent Jupyter kernel execution and live output streaming in VSCode",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-10T13:10:46.987031+00:00",
+    "published": "2026-09-09T13:23:45+00:00"
+  },
+  "https://chillphysicsenjoyer.substack.com/p/liesegang-rings": {
+    "title": "Liesegang Rings",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-10T13:10:46.987031+00:00",
+    "published": "2026-09-09T13:20:36+00:00"
+  },
+  "https://openai.com/index/ai-policy-window": {
+    "title": "The AI policy window is open. We need to act.",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-09-10T13:10:46.987031+00:00",
+    "published": "2026-09-09T13:00:00+00:00"
   }
 }
