@@ -87314,5 +87314,335 @@
     "source": "OpenAI Blog",
     "first_seen": "2026-09-10T13:10:46.987031+00:00",
     "published": "2026-09-09T13:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/topics/developers-practitioners/introducing-the-google-cloud-developer-plugin-for-ai-coding-agents": {
+    "title": "Introducing the Google Cloud Developer Plugin for AI Coding Agents",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-09-10T17:56:18.256772+00:00",
+    "published": "2026-09-10T19:53:00+00:00"
+  },
+  "https://www.phoronix.com/news/Ubuntu-24.04.5-LTS": {
+    "title": "Ubuntu 24.04.5 LTS Released With Linux 7.0 HWE Stack",
+    "source": "Phoronix",
+    "first_seen": "2026-09-10T17:56:18.256772+00:00",
+    "published": "2026-09-10T17:49:03+00:00"
+  },
+  "https://openjdk.org/jeps/544": {
+    "title": "JEP 544: Ahead-of-Time Code Compilation",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-10T17:56:18.256772+00:00",
+    "published": "2026-09-10T17:30:39+00:00"
+  },
+  "https://lwn.net/Articles/1092003": {
+    "title": "[$] PostgreSQL 19's \"scary patch contest\"",
+    "source": "LWN.net",
+    "first_seen": "2026-09-10T17:56:18.256772+00:00",
+    "published": "2026-09-10T17:29:06+00:00"
+  },
+  "https://newsletter.pragmaticengineer.com/p/the-pulse-191-a-new-trend-of-cpu": {
+    "title": "The Pulse #191: a new trend of CPU shortages",
+    "source": "The Pragmatic Engineer",
+    "first_seen": "2026-09-10T17:56:18.256772+00:00",
+    "published": "2026-09-10T17:13:44+00:00"
+  },
+  "https://thenewstack.io/red-hat-ai-multitenancy": {
+    "title": "Red Hat AI 3.5 tackles the GPU queue that can stall AI pilots",
+    "source": "The New Stack",
+    "first_seen": "2026-09-10T17:56:18.256772+00:00",
+    "published": "2026-09-10T17:01:36+00:00"
+  },
+  "https://devblogs.microsoft.com/dotnet/unions-and-closed-hierarchies-in-aspnetcore": {
+    "title": "Use C# unions and closed hierarchies in ASP.NET Core",
+    "source": "MS .NET Blog",
+    "first_seen": "2026-09-10T17:56:18.256772+00:00",
+    "published": "2026-09-10T17:00:00+00:00"
+  },
+  "https://developer.nvidia.com/blog/how-full-stack-nim-optimizations-deliver-2-5x-more-users-on-nemotron-3-ultra": {
+    "title": "How Full-Stack NIM Optimizations Deliver 2.5x More Users on Nemotron 3 Ultra",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-09-10T17:56:18.256772+00:00",
+    "published": "2026-09-10T16:55:32+00:00"
+  },
+  "https://tokenstead.ai/models/swe-2": {
+    "title": "Cognition's SWE-2 achieves 92.8 on Terminal-Bench 2.1",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-10T17:56:18.256772+00:00",
+    "published": "2026-09-10T16:52:11+00:00"
+  },
+  "https://www.phoronix.com/review/intel-xeon-600-amd-threadripper-9000": {
+    "title": "Intel Xeon 600 Workstation Performance vs. AMD Threadripper 9000 In Nearly 400 Benchmarks",
+    "source": "Phoronix",
+    "first_seen": "2026-09-10T17:56:18.256772+00:00",
+    "published": "2026-09-10T16:43:00+00:00"
+  },
+  "https://www.phoronix.com/news/KDE-Plasma-6.8-Beta": {
+    "title": "KDE Plasma 6.8 Beta Released With Many Great Improvements, Kup Backup Scheduler",
+    "source": "Phoronix",
+    "first_seen": "2026-09-10T17:56:18.256772+00:00",
+    "published": "2026-09-10T16:39:24+00:00"
+  },
+  "https://aws.amazon.com/blogs/architecture/building-resilient-real-time-streaming-workers-with-amazon-dynamodb-leases": {
+    "title": "Building resilient real-time streaming workers with Amazon DynamoDB leases",
+    "source": "AWS Architecture Blog",
+    "first_seen": "2026-09-10T17:56:18.256772+00:00",
+    "published": "2026-09-10T16:14:22+00:00"
+  },
+  "https://graybeard.ing/software-drives-people-insane": {
+    "title": "Software Drives People Insane",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-10T17:56:18.256772+00:00",
+    "published": "2026-09-10T16:13:42+00:00"
+  },
+  "https://eng.lyft.com/refreshing-the-travel-time-map-behind-lyfts-marketplace-rebuilding-neighborhood-reachability-5be3efbc82ea?source=rss----25cd379abb8---4": {
+    "title": "Refreshing the Travel-Time Map Behind Lyft’s Marketplace: Rebuilding Neighborhood Reachability…",
+    "source": "Lyft Engineering",
+    "first_seen": "2026-09-10T17:56:18.256772+00:00",
+    "published": "2026-09-10T16:12:28+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/build-an-end-to-end-rfi-questionnaire-workflow-using-amazon-quick-automate": {
+    "title": "Build an end-to-end RFI questionnaire workflow using Amazon Quick Automate",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-09-10T17:56:18.256772+00:00",
+    "published": "2026-09-10T16:08:57+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/how-to-migrate-from-amazon-cloudsearch-to-amazon-opensearch-serverless": {
+    "title": "How to migrate from Amazon CloudSearch to Amazon OpenSearch Serverless",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-09-10T17:56:18.256772+00:00",
+    "published": "2026-09-10T16:06:42+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/accelerating-spark-queries-with-iceberg-materialized-views": {
+    "title": "Accelerating Spark queries with Iceberg materialized views",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-09-10T17:56:18.256772+00:00",
+    "published": "2026-09-10T16:05:45+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/model-agnostic-pii-detection-with-llms": {
+    "title": "Model-agnostic PII detection with LLMs",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-09-10T17:56:18.256772+00:00",
+    "published": "2026-09-10T16:02:16+00:00"
+  },
+  "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials": {
+    "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-09-10T17:56:18.256772+00:00",
+    "published": "2026-09-10T16:00:00+00:00"
+  },
+  "https://blog.google/products-and-platforms/products/search/running-race-training-tips": {
+    "title": "3 ways to prep for your next big race with Search",
+    "source": "Google AI Blog",
+    "first_seen": "2026-09-10T17:56:18.256772+00:00",
+    "published": "2026-09-10T16:00:00+00:00"
+  },
+  "https://codeberg.org/forgejo/forgejo/src/branch/forgejo/release-notes-published/16.0.4.md": {
+    "title": "Forgejo <=16.0.3 Critical RCE",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-10T17:56:18.256772+00:00",
+    "published": "2026-09-10T15:57:40+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/agent-evaluation-metric-for-multi-turn-conversations": {
+    "title": "Agent Evaluation Metric for multi-turn conversations",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-09-10T17:56:18.256772+00:00",
+    "published": "2026-09-10T15:55:41+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/how-aviobook-uses-generative-ai-to-drive-airline-turnaround-insights": {
+    "title": "How AvioBook builds turnaround insights from operational data with Amazon Bedrock AgentCore",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-09-10T17:56:18.256772+00:00",
+    "published": "2026-09-10T15:53:05+00:00"
+  },
+  "https://www.thecollector.com/casablanca-unproduced-play-movie-history": {
+    "title": "Casablanca: How an unproduced play marched into movie history",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-10T17:56:18.256772+00:00",
+    "published": "2026-09-10T15:52:02+00:00"
+  },
+  "https://proxylity.com/docs/listeners/dtls.html": {
+    "title": "Serverless DTLS",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-10T17:56:18.256772+00:00",
+    "published": "2026-09-10T15:50:30+00:00"
+  },
+  "https://usefeyn.com/blog/multimatte": {
+    "title": "Show HN: MultiMatte, a Promptable Image Background Removal Model",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-10T17:56:18.256772+00:00",
+    "published": "2026-09-10T15:50:25+00:00"
+  },
+  "https://neki.dev": {
+    "title": "Neki by PlanetScale",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-10T17:56:18.256772+00:00",
+    "published": "2026-09-10T15:48:14+00:00"
+  },
+  "https://costsofwar.watson.brown.edu/paper/how-big-tech-and-silicon-valley-are-transforming-military-industrial-complex": {
+    "title": "Silicon Valley Is Transforming the Military-Industrial Complex",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-10T17:56:18.256772+00:00",
+    "published": "2026-09-10T15:47:50+00:00"
+  },
+  "https://planetscale.com/blog/introducing-neki": {
+    "title": "Neki",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-10T17:56:18.256772+00:00",
+    "published": "2026-09-10T15:43:49+00:00"
+  },
+  "https://blog.bytebytego.com/p/a-guide-to-application-networking": {
+    "title": "A Guide to Application Networking Basics",
+    "source": "ByteByteGo",
+    "first_seen": "2026-09-10T17:56:18.256772+00:00",
+    "published": "2026-09-10T15:31:28+00:00"
+  },
+  "https://cognition.com/blog/swe-2": {
+    "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-10T17:56:18.256772+00:00",
+    "published": "2026-09-10T15:29:47+00:00"
+  },
+  "https://gizmodo.com/this-nasa-color-trick-was-meant-for-mars-now-its-unveiling-rock-art-on-earth-2000809844": {
+    "title": "NASA Color Trick Was Meant for Mars. Now It's Unveiling Rock Art on Earth",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-10T17:56:18.256772+00:00",
+    "published": "2026-09-10T15:29:30+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/every-team-is-a-data-team-bring-amazon-redshift-analytics-to-chatgpt-work": {
+    "title": "Every team is a data team — bring Amazon Redshift analytics to ChatGPT Work",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-09-10T17:56:18.256772+00:00",
+    "published": "2026-09-10T15:14:01+00:00"
+  },
+  "https://greaber.github.io/syq": {
+    "title": "Show HN: Syq – copy files between machines fast (better than rsync)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-10T17:56:18.256772+00:00",
+    "published": "2026-09-10T15:01:27+00:00"
+  },
+  "https://thenewstack.io/mcp-vibe-coding-security": {
+    "title": "Researchers found that 1 in 5 MCP access policies came back broken or missing",
+    "source": "The New Stack",
+    "first_seen": "2026-09-10T17:56:18.256772+00:00",
+    "published": "2026-09-10T15:00:00+00:00"
+  },
+  "https://openai.com/index/put-data-to-work": {
+    "title": "Now everyone can put data to work",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-09-10T17:56:18.256772+00:00",
+    "published": "2026-09-10T15:00:00+00:00"
+  },
+  "https://developer.nvidia.com/blog/high-throughput-structure-prediction-with-bionemo-inference-runtime": {
+    "title": "High-Throughput Structure Prediction with BioNeMo Inference Runtime",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-09-10T17:56:18.256772+00:00",
+    "published": "2026-09-10T15:00:00+00:00"
+  },
+  "https://www.quantamagazine.org/the-four-color-theorem-gets-a-rare-new-proof-20260910": {
+    "title": "The Four-Color Theorem Gets a Rare New Proof",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-10T17:56:18.256772+00:00",
+    "published": "2026-09-10T14:46:08+00:00"
+  },
+  "https://shopify.engineering/back-to-native": {
+    "title": "Shopify moves back to Native from React Native",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-10T17:56:18.256772+00:00",
+    "published": "2026-09-10T14:09:31+00:00"
+  },
+  "https://thenewstack.io/claude-fable-benchmark-budget": {
+    "title": "Fable 5.1 vs. Fable 5: Results on a real-world budget, not the spec sheet",
+    "source": "The New Stack",
+    "first_seen": "2026-09-10T17:56:18.256772+00:00",
+    "published": "2026-09-10T14:00:00+00:00"
+  },
+  "https://replit.com/blog/databricks2026": {
+    "title": "Replit | Databricks Integration is Now Generally Available with Native Lakebase Support",
+    "source": "Replit Blog",
+    "first_seen": "2026-09-10T17:56:18.256772+00:00",
+    "published": "2026-09-10T14:00:00+00:00"
+  },
+  "https://www.databricks.com/blog/improving-lakebase-postgres-compute-cache": {
+    "title": "Improving Lakebase Postgres compute cache",
+    "source": "Databricks Blog",
+    "first_seen": "2026-09-10T17:56:18.256772+00:00",
+    "published": "2026-09-10T13:47:03+00:00"
+  },
+  "https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft": {
+    "title": "Rust Is Tier-1 Language at Microsoft",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-10T17:56:18.256772+00:00",
+    "published": "2026-09-10T13:39:16+00:00"
+  },
+  "https://lwn.net/Articles/1093567": {
+    "title": "Julia 1.13 released",
+    "source": "LWN.net",
+    "first_seen": "2026-09-10T17:56:18.256772+00:00",
+    "published": "2026-09-10T13:23:50+00:00"
+  },
+  "https://lwn.net/Articles/1093566": {
+    "title": "Security updates for Thursday",
+    "source": "LWN.net",
+    "first_seen": "2026-09-10T17:56:18.256772+00:00",
+    "published": "2026-09-10T13:14:35+00:00"
+  },
+  "https://blog.cloudflare.com/post-quantum-dnssec-1111": {
+    "title": "1.1.1.1 now supports post-quantum DNSSEC, all 2,420 bytes of it",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-09-10T17:56:18.256772+00:00",
+    "published": "2026-09-10T13:00:00+00:00"
+  },
+  "https://neon.com/blog/an-agent-provisions-a-neon-backend-a-human-claims-it-later": {
+    "title": "Claimable Neon: Provisioned by agents, claimed by humans",
+    "source": "Neon Blog",
+    "first_seen": "2026-09-10T17:56:18.256772+00:00",
+    "published": "2026-09-10T12:00:00+00:00"
+  },
+  "https://www.ianvisits.co.uk/articles/the-worlds-first-drink-driving-conviction-may-have-happened-in-london-92107": {
+    "title": "The first drink-driving conviction may have happened in London",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-10T17:56:18.256772+00:00",
+    "published": "2026-09-10T07:29:21+00:00"
+  },
+  "https://openai.com/index/expanding-ai-access-us-government": {
+    "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-09-10T17:56:18.256772+00:00",
+    "published": "2026-09-10T07:00:00+00:00"
+  },
+  "https://mathstodon.xyz/@andreasthom/117240535270608201": {
+    "title": "More questions about whether researchers can trust OpenAI with unpublished math",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-10T17:56:18.256772+00:00",
+    "published": "2026-09-10T06:49:43+00:00"
+  },
+  "https://planetscale.com/blog/the-lifecycle-of-a-sharded-postgres-query": {
+    "title": "The lifecycle of a sharded Postgres query",
+    "source": "PlanetScale Blog",
+    "first_seen": "2026-09-10T17:56:18.256772+00:00",
+    "published": "2026-09-10T00:00:00+00:00"
+  },
+  "https://openai.com/index/introducing-gpt-live-1-in-the-api": {
+    "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-09-10T17:56:18.256772+00:00",
+    "published": "2026-09-10T00:00:00+00:00"
+  },
+  "https://nodeweekly.com/issues/640": {
+    "title": "Node is getting a built-in benchmark runner",
+    "source": "Node Weekly",
+    "first_seen": "2026-09-10T17:56:18.256772+00:00",
+    "published": "2026-09-10T00:00:00+00:00"
+  },
+  "https://blog.janestreet.com/protocol-emulator-asic-competition": {
+    "title": "Can you design a chip? Announcing the protocol emulator ASIC competition",
+    "source": "Jane Street Tech",
+    "first_seen": "2026-09-10T17:56:18.256772+00:00",
+    "published": "2026-09-10T00:00:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/aws/introducing-amazon-ebs-volume-clones-across-aws-accounts": {
+    "title": "Introducing Amazon EBS Volume Clones across AWS accounts",
+    "source": "AWS Blog",
+    "first_seen": "2026-09-10T17:56:18.256772+00:00",
+    "published": "2026-09-09T22:01:47+00:00"
   }
 }
