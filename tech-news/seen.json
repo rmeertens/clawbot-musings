@@ -87824,5 +87824,209 @@
     "source": "OpenAI Blog",
     "first_seen": "2026-09-10T22:50:05.095886+00:00",
     "published": "2026-09-10T00:00:00+00:00"
+  },
+  "https://www.thenextmove.org/p/remember-hong-kong": {
+    "title": "Remember Hong Kong",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-11T13:04:25.582174+00:00",
+    "published": "2026-09-11T12:34:25+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-Mint-Xepub-Clockenstein": {
+    "title": "Linux Mint Debuts Xepub As New EPUB Reader, Clockenstein Calendar App",
+    "source": "Phoronix",
+    "first_seen": "2026-09-11T13:04:25.582174+00:00",
+    "published": "2026-09-11T12:20:48+00:00"
+  },
+  "https://www.construction-physics.com/p/where-has-construction-automation": {
+    "title": "Where Has Construction Automation Been Successful?",
+    "source": "Construction Physics",
+    "first_seen": "2026-09-11T13:04:25.582174+00:00",
+    "published": "2026-09-11T12:04:09+00:00"
+  },
+  "https://thenewstack.io/aws-lambda-ebpf-rust": {
+    "title": "How AWS Lambda logs every flow across thousands of microVMs per host with eBPF and Rust",
+    "source": "The New Stack",
+    "first_seen": "2026-09-11T13:04:25.582174+00:00",
+    "published": "2026-09-11T12:00:00+00:00"
+  },
+  "https://realpython.com/quizzes/python-subprocess": {
+    "title": "Quiz: The subprocess Module: Wrapping Programs With Python",
+    "source": "Real Python",
+    "first_seen": "2026-09-11T13:04:25.582174+00:00",
+    "published": "2026-09-11T12:00:00+00:00"
+  },
+  "https://realpython.com/podcasts/rpp/311": {
+    "title": "The Real Python Podcast – Episode #311: Django Developers Survey Results & Reproducible Python Builds",
+    "source": "Real Python",
+    "first_seen": "2026-09-11T13:04:25.582174+00:00",
+    "published": "2026-09-11T12:00:00+00:00"
+  },
+  "https://twitter.com/DavidAgranovich/status/2098168522862215449": {
+    "title": "Moonshot serves Claude instead of Kimi and collects exchanges for model training",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-11T13:04:25.582174+00:00",
+    "published": "2026-09-11T11:36:24+00:00"
+  },
+  "https://thenextweb.com/news/mosseri-instagram-algorithm-opt-out-engagement-australia": {
+    "title": "Instagram's head says engagement falls by half without the algorithm",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-11T13:04:25.582174+00:00",
+    "published": "2026-09-11T11:24:10+00:00"
+  },
+  "https://www.researchagenda.news/articles/the-waymo-effect.html": {
+    "title": "The Waymo effect: how AI is quietly making research less collaborative",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-11T13:04:25.582174+00:00",
+    "published": "2026-09-11T11:17:50+00:00"
+  },
+  "https://quesma.com/blog/does-rtk-make-ai-coding-cheaper": {
+    "title": "RTK reports token savings, but our cost benchmarks disagree",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-11T13:04:25.582174+00:00",
+    "published": "2026-09-11T11:15:13+00:00"
+  },
+  "https://www.schneier.com/blog/archives/2026/09/cliff-stolls-def-con-talk.html": {
+    "title": "Cliff Stoll’s DEF CON Talk",
+    "source": "Schneier on Security",
+    "first_seen": "2026-09-11T13:04:25.582174+00:00",
+    "published": "2026-09-11T11:09:55+00:00"
+  },
+  "https://opentelemetry.io/blog/2026/environment-variable-context-propagation": {
+    "title": "Help us stabilize environment variable context propagation",
+    "source": "OpenTelemetry Blog",
+    "first_seen": "2026-09-11T13:04:25.582174+00:00",
+    "published": "2026-09-11T11:01:22+00:00"
+  },
+  "https://www.cncf.io/blog/2026/09/11/building-a-reliable-cloud-native-foundation-for-distributed-ai-training": {
+    "title": "Building a reliable cloud native foundation for distributed AI training",
+    "source": "CNCF Blog",
+    "first_seen": "2026-09-11T13:04:25.582174+00:00",
+    "published": "2026-09-11T11:00:00+00:00"
+  },
+  "https://support.claude.com/en/articles/15171100-age-assurance-on-claude": {
+    "title": "Claude is no longer available for minors",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-11T13:04:25.582174+00:00",
+    "published": "2026-09-11T10:48:00+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.4-AMDGPU-HDMI-2.1-Go": {
+    "title": "Patches Ready For AMDGPU HDMI 2.1 Enabled By Default With Linux 7.4 With FreeSync, VRR & ALLM",
+    "source": "Phoronix",
+    "first_seen": "2026-09-11T13:04:25.582174+00:00",
+    "published": "2026-09-11T10:39:00+00:00"
+  },
+  "https://www.phoronix.com/news/Git-2.56-rc0": {
+    "title": "Git 2.56-rc0 Released With Updated Contribution Guidelines, Improvements For Swift",
+    "source": "Phoronix",
+    "first_seen": "2026-09-11T13:04:25.582174+00:00",
+    "published": "2026-09-11T10:20:00+00:00"
+  },
+  "https://www.phoronix.com/news/Intel-Thermald-2.5.13": {
+    "title": "Intel Thermald 2.5.13 Restores Accidentally Deleted Wildcat Lake Support",
+    "source": "Phoronix",
+    "first_seen": "2026-09-11T13:04:25.582174+00:00",
+    "published": "2026-09-11T10:01:22+00:00"
+  },
+  "https://www.phoronix.com/news/GCC-13.5-Released": {
+    "title": "GCC 13.5 Released With 265+ Bug Fixes",
+    "source": "Phoronix",
+    "first_seen": "2026-09-11T13:04:25.582174+00:00",
+    "published": "2026-09-11T09:47:06+00:00"
+  },
+  "http://www.iaea.org/newscenter/news/what-is-cherenkov-radiation": {
+    "title": "Cherenkov Radiation - traveling faster than light",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-11T13:04:25.582174+00:00",
+    "published": "2026-09-11T08:42:04+00:00"
+  },
+  "https://en.wikipedia.org/wiki/Neijuan": {
+    "title": "Neijuan",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-11T13:04:25.582174+00:00",
+    "published": "2026-09-11T08:26:56+00:00"
+  },
+  "https://vale.rocks/posts/css-relics": {
+    "title": "CSS Curiosities of the Past",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-11T13:04:25.582174+00:00",
+    "published": "2026-09-11T07:57:17+00:00"
+  },
+  "https://stackoverflow.blog/2026/09/11/ai-cybersecurity-is-a-cat-and-mouse-game": {
+    "title": "AI cybersecurity is a cat and mouse game",
+    "source": "Stack Overflow Blog",
+    "first_seen": "2026-09-11T13:04:25.582174+00:00",
+    "published": "2026-09-11T07:40:00+00:00"
+  },
+  "https://simonwillison.net/2026/Sep/11/datasette-security": {
+    "title": "Datasette 1.0a39 and 0.65.4 security releases",
+    "source": "Simon Willison",
+    "first_seen": "2026-09-11T13:04:25.582174+00:00",
+    "published": "2026-09-11T03:27:16+00:00"
+  },
+  "https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds": {
+    "title": "Mexican student creates an acoustic fire extinguisher to put out fire in seconds",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-11T13:04:25.582174+00:00",
+    "published": "2026-09-11T01:00:56+00:00"
+  },
+  "https://www.phoronix.com/news/Haiku-OS-August-2026": {
+    "title": "BeOS-Inspired Haiku Now Supports Changing Audio Outputs Live, Other Improvements",
+    "source": "Phoronix",
+    "first_seen": "2026-09-11T13:04:25.582174+00:00",
+    "published": "2026-09-11T00:55:29+00:00"
+  },
+  "https://golangweekly.com/issues/617": {
+    "title": "Building cgo code without a C compiler?",
+    "source": "Golang Weekly",
+    "first_seen": "2026-09-11T13:04:25.582174+00:00",
+    "published": "2026-09-11T00:00:00+00:00"
+  },
+  "https://simonwillison.net/2026/Sep/10/trynix": {
+    "title": "Any Nix package, live in your browser",
+    "source": "Simon Willison",
+    "first_seen": "2026-09-11T13:04:25.582174+00:00",
+    "published": "2026-09-10T23:44:15+00:00"
+  },
+  "https://medium.com/pinterest-engineering/building-pinterests-vlm-serving-stack-on-nvidia-dynamo-0dce6e93d0f3?source=rss----4c5a5f6279b6---4": {
+    "title": "Building Pinterest’s VLM Serving Stack on NVIDIA Dynamo",
+    "source": "Pinterest Engineering",
+    "first_seen": "2026-09-11T13:04:25.582174+00:00",
+    "published": "2026-09-10T23:08:16+00:00"
+  },
+  "https://nasutton.notion.site/Nine-coding-harnesses-vs-your-laptop-3d139990182b80d59fa3cf500f0450ba?pvs=74": {
+    "title": "Nine coding harnesses vs. your laptop",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-11T13:04:25.582174+00:00",
+    "published": "2026-09-10T22:54:01+00:00"
+  },
+  "https://thenewstack.io/aws-pizza-bot-agent-inbox": {
+    "title": "AWS open-sources Pizza Bot: email-style inbox for background AI agents",
+    "source": "The New Stack",
+    "first_seen": "2026-09-11T13:04:25.582174+00:00",
+    "published": "2026-09-10T22:54:00+00:00"
+  },
+  "https://research.google/blog/toolgrad-efficient-tool-use-dataset-generation-with-textual-gradients": {
+    "title": "ToolGrad: Efficient tool-use dataset generation with textual \"gradients\"",
+    "source": "Google Research",
+    "first_seen": "2026-09-11T13:04:25.582174+00:00",
+    "published": "2026-09-10T22:50:22+00:00"
+  },
+  "https://auberon.xyz/blog/posts/deathray": {
+    "title": "The Deathray: A simple way for an untrusted site to freeze a Mac",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-11T13:04:25.582174+00:00",
+    "published": "2026-09-10T19:34:20+00:00"
+  },
+  "https://kubernetes.io/blog/2026/09/10/kubernetes-v1-37-scheduler-preemption-for-in-place-pod-resize-alpha": {
+    "title": "Kubernetes v1.37: Scheduler Preemption for In-Place Pod Resize (Alpha)",
+    "source": "Kubernetes Blog",
+    "first_seen": "2026-09-11T13:04:25.582174+00:00",
+    "published": "2026-09-10T18:30:00+00:00"
+  },
+  "https://spinoff.nasa.gov/Manipulating_Satellite_Photos_Now_Reveals_Ancient_Images": {
+    "title": "Technique for Manipulating Satellite Photos Now Reveals Ancient Images (2025)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-11T13:04:25.582174+00:00",
+    "published": "2026-09-10T15:29:30+00:00"
   }
 }
