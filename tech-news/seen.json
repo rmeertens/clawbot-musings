@@ -88298,5 +88298,167 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-09-11T17:58:13.338836+00:00",
     "published": "2026-09-10T22:33:45+00:00"
+  },
+  "https://simonwillison.net/2026/Sep/11/so-you-want-to-use-openrouter": {
+    "title": "So you want to use OpenRouter?",
+    "source": "Simon Willison",
+    "first_seen": "2026-09-11T22:51:06.465381+00:00",
+    "published": "2026-09-11T22:49:18+00:00"
+  },
+  "https://blinkenlights.de/en": {
+    "title": "Project Blinkenlights",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-11T22:51:06.465381+00:00",
+    "published": "2026-09-11T22:15:00+00:00"
+  },
+  "https://github.com/mirza-rizvi/ResolveHQ": {
+    "title": "Show HN: ResolveHQ – A Helpdesk Built on Cloudflare Workers, D1, R2 and Queues",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-11T22:51:06.465381+00:00",
+    "published": "2026-09-11T21:48:00+00:00"
+  },
+  "https://earth.ethanplus.ai": {
+    "title": "GPT-6 built this earth exploration site in 5 prompts",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-11T22:51:06.465381+00:00",
+    "published": "2026-09-11T21:39:52+00:00"
+  },
+  "https://thenewstack.io/openai-agents-api-compute": {
+    "title": "OpenAI’s researchers burned $7,000 a day on AI agents — now it’s opening the floodgates",
+    "source": "The New Stack",
+    "first_seen": "2026-09-11T22:51:06.465381+00:00",
+    "published": "2026-09-11T21:27:42+00:00"
+  },
+  "https://www.schneier.com/blog/archives/2026/09/friday-squid-blogging-rotting-squid-on-a-beached-california-boat.html": {
+    "title": "Friday Squid Blogging: Rotting Squid on a Beached California Boat",
+    "source": "Schneier on Security",
+    "first_seen": "2026-09-11T22:51:06.465381+00:00",
+    "published": "2026-09-11T21:03:27+00:00"
+  },
+  "https://www.tigerdata.com/blog/real-cost-of-single-insert-in-postgres": {
+    "title": "The Real Cost of a Single Insert in Postgres",
+    "source": "Timescale Blog",
+    "first_seen": "2026-09-11T22:51:06.465381+00:00",
+    "published": "2026-09-11T20:23:58+00:00"
+  },
+  "https://txt.hellman.io": {
+    "title": "Txt: A fast, keyboard-driven terminal text editor for engineers",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-11T22:51:06.465381+00:00",
+    "published": "2026-09-11T19:46:43+00:00"
+  },
+  "https://github.com/GrapheneOS/Messaging/releases/tag/13": {
+    "title": "GrapheneOS' rewritten Messages app is released",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-11T22:51:06.465381+00:00",
+    "published": "2026-09-11T18:50:36+00:00"
+  },
+  "https://www.cia.gov/stories/story/cia-releases-presidents-daily-briefs-in-commemoration-of-the-25th-anniversary-of-9-11": {
+    "title": "CIA Releases President's Daily Briefs in Commemoration of 9/11",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-11T22:51:06.465381+00:00",
+    "published": "2026-09-11T18:30:07+00:00"
+  },
+  "https://www.databricks.com/blog/health-plans-your-bi-tells-you-mlr-moved-can-your-ai-tell-you-why": {
+    "title": "Health Plans: Your BI Tells You MLR Moved. Can Your AI Tell You Why?",
+    "source": "Databricks Blog",
+    "first_seen": "2026-09-11T22:51:06.465381+00:00",
+    "published": "2026-09-11T18:26:59+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/monitoring-production-agent-lifecycle-with-aws-devops-agent-and-agentcore-evaluations": {
+    "title": "Monitoring production agent lifecycle with AWS DevOps Agent and AgentCore Evaluations",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-09-11T22:51:06.465381+00:00",
+    "published": "2026-09-11T18:26:38+00:00"
+  },
+  "https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github": {
+    "title": "Marketing ops as code: Automating events from planning to follow-up on GitHub",
+    "source": "GitHub Blog",
+    "first_seen": "2026-09-11T22:51:06.465381+00:00",
+    "published": "2026-09-11T18:26:10+00:00"
+  },
+  "https://dayzlegame.com/blog/google-ads-bot-farm": {
+    "title": "I spent $220 on Google app ads and 60% of the installs were robots",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-11T22:51:06.465381+00:00",
+    "published": "2026-09-11T18:24:55+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/beyond-the-price-per-token-choosing-the-right-openai-model-on-amazon-bedrock-for-your-workload": {
+    "title": "Beyond the price per token: Choosing the right OpenAI model on Amazon Bedrock for your workload",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-09-11T22:51:06.465381+00:00",
+    "published": "2026-09-11T18:24:38+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/build-interactive-mcp-apps-using-amazon-bedrock-agentcore": {
+    "title": "Build interactive MCP Apps using Amazon Bedrock AgentCore",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-09-11T22:51:06.465381+00:00",
+    "published": "2026-09-11T18:23:17+00:00"
+  },
+  "https://github.com/kennethwolters/litelm": {
+    "title": "Litelm: LiteLLM Without the Bloat",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-11T22:51:06.465381+00:00",
+    "published": "2026-09-11T18:10:20+00:00"
+  },
+  "https://www.schneier.com/blog/archives/2026/09/my-talk-at-def-con.html": {
+    "title": "My Talk at DEF CON",
+    "source": "Schneier on Security",
+    "first_seen": "2026-09-11T22:51:06.465381+00:00",
+    "published": "2026-09-11T18:06:24+00:00"
+  },
+  "https://capitalbnews.org/data-centers-permit-rules-epa": {
+    "title": "The EPA is planning to scrap public review rules for data center pollution",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-11T22:51:06.465381+00:00",
+    "published": "2026-09-11T18:05:21+00:00"
+  },
+  "https://www.phoronix.com/news/Cache-Aware-Scheduling-4-Patch": {
+    "title": "New Cache Aware Scheduling Fixes Out For Testing",
+    "source": "Phoronix",
+    "first_seen": "2026-09-11T22:51:06.465381+00:00",
+    "published": "2026-09-11T18:00:14+00:00"
+  },
+  "https://www.databricks.com/blog/unify-your-marketing-data-lakeflow-connect": {
+    "title": "Unify your marketing data with Lakeflow Connect",
+    "source": "Databricks Blog",
+    "first_seen": "2026-09-11T22:51:06.465381+00:00",
+    "published": "2026-09-11T18:00:00+00:00"
+  },
+  "https://mathandai.org": {
+    "title": "A misalignment of AI in mathematics",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-11T22:51:06.465381+00:00",
+    "published": "2026-09-11T17:45:12+00:00"
+  },
+  "https://snap.berkeley.edu": {
+    "title": "Λ Snap – An inviting programming language for kids and adults for CS study",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-11T22:51:06.465381+00:00",
+    "published": "2026-09-11T17:36:11+00:00"
+  },
+  "https://simonwillison.net/2026/Sep/11/feeling-sad-about-ai": {
+    "title": "Feeling sad about AI",
+    "source": "Simon Willison",
+    "first_seen": "2026-09-11T22:51:06.465381+00:00",
+    "published": "2026-09-11T17:28:37+00:00"
+  },
+  "https://www.science.org/content/article/mind-altering-drugs-played-key-role-rise-andean-civilization": {
+    "title": "Mind-altering drugs played key role in rise of Andean civilization",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-11T22:51:06.465381+00:00",
+    "published": "2026-09-11T17:25:23+00:00"
+  },
+  "https://cloud.google.com/blog/topics/inside-google-cloud/highlights-from-the-goldman-sachs-communicopia-and-technology-conference": {
+    "title": "3 Highlights from Thomas Kurian’s Keynote at the Goldman Sachs Communicopia & Technology Conference",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-09-11T22:51:06.465381+00:00",
+    "published": "2026-09-11T09:00:00+00:00"
+  },
+  "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-container-management": {
+    "title": "Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Container Management",
+    "source": "Azure Blog",
+    "first_seen": "2026-09-11T22:51:06.465381+00:00",
+    "published": "2026-09-10T21:00:00+00:00"
   }
 }
