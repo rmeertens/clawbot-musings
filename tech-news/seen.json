@@ -88028,5 +88028,275 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-09-11T13:04:25.582174+00:00",
     "published": "2026-09-10T15:29:30+00:00"
+  },
+  "https://thenewstack.io/openai-slowing-ai-development": {
+    "title": "OpenAI’s safety system is already cutting off API responses mid-task",
+    "source": "The New Stack",
+    "first_seen": "2026-09-11T17:58:13.338836+00:00",
+    "published": "2026-09-11T17:52:56+00:00"
+  },
+  "https://thenewstack.io/cohere-translation-commercial-licensing": {
+    "title": "Cohere says AI sovereignty matters — except it just gated its new translation model for commercial use",
+    "source": "The New Stack",
+    "first_seen": "2026-09-11T17:58:13.338836+00:00",
+    "published": "2026-09-11T17:50:11+00:00"
+  },
+  "https://simonwillison.net/2026/Sep/11/boris-cherny": {
+    "title": "Quoting Boris Cherny",
+    "source": "Simon Willison",
+    "first_seen": "2026-09-11T17:58:13.338836+00:00",
+    "published": "2026-09-11T17:47:11+00:00"
+  },
+  "https://pytorch.org/blog/helion-x-%f0%9f%a4%97-hf-kernels-building-and-shipping-out-of-the-box-performant-kernels": {
+    "title": "Helion x 🤗 HF Kernels: Building and Shipping Out-of-the-box Performant Kernels",
+    "source": "PyTorch Blog",
+    "first_seen": "2026-09-11T17:58:13.338836+00:00",
+    "published": "2026-09-11T17:45:57+00:00"
+  },
+  "https://thenewstack.io/kubecon-kubernetes-updates-security": {
+    "title": "Kubernetes v1.37 brings 67 enhancements. Which matter for operators?",
+    "source": "The New Stack",
+    "first_seen": "2026-09-11T17:58:13.338836+00:00",
+    "published": "2026-09-11T17:40:04+00:00"
+  },
+  "https://webkit.org/blog/18304/release-notes-for-safari-technology-preview-252": {
+    "title": "Release Notes for Safari Technology Preview 252",
+    "source": "WebKit Blog",
+    "first_seen": "2026-09-11T17:58:13.338836+00:00",
+    "published": "2026-09-11T17:02:22+00:00"
+  },
+  "https://www.getzep.com/careers": {
+    "title": "Zep AI (YC W24) Is Hiring a Head of Forward Deployed Engineering",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-11T17:58:13.338836+00:00",
+    "published": "2026-09-11T17:00:17+00:00"
+  },
+  "https://stratechery.com/2026/duo-threats": {
+    "title": "2026.37: Duo Threats",
+    "source": "Stratechery",
+    "first_seen": "2026-09-11T17:58:13.338836+00:00",
+    "published": "2026-09-11T17:00:00+00:00"
+  },
+  "https://artificialworlds.net/blog/2026/09/11/feeling-sad-about-ai": {
+    "title": "Feeling Sad about AI",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-11T17:58:13.338836+00:00",
+    "published": "2026-09-11T16:50:51+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-IO-uring-Crazy-Friday": {
+    "title": "Linux's IO_uring Sees Some \"Crazy\" Patches That Deliver Very Nice Improvements",
+    "source": "Phoronix",
+    "first_seen": "2026-09-11T17:58:13.338836+00:00",
+    "published": "2026-09-11T16:21:33+00:00"
+  },
+  "https://cultaholic.com/posts/triple-h-writes-anniversary-story-for-amazing-spider-man-1000": {
+    "title": "Triple H Writes Anniversary Story for Spider-Man #1000",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-11T17:58:13.338836+00:00",
+    "published": "2026-09-11T16:13:51+00:00"
+  },
+  "https://www.unslop.news": {
+    "title": "Show HN: Hacker News, Without AI",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-11T17:58:13.338836+00:00",
+    "published": "2026-09-11T16:08:50+00:00"
+  },
+  "https://simonwillison.net/2026/Sep/11/hugging-face-security": {
+    "title": "Quoting huggingface.co/security.txt",
+    "source": "Simon Willison",
+    "first_seen": "2026-09-11T17:58:13.338836+00:00",
+    "published": "2026-09-11T16:04:53+00:00"
+  },
+  "https://github.com/godot-pty/gpty": {
+    "title": "Godot and Rust based multiplexer (terminal panes and more)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-11T17:58:13.338836+00:00",
+    "published": "2026-09-11T16:03:05+00:00"
+  },
+  "https://tailscale.com/blog/built-in-router-nas-vpns": {
+    "title": "Your built-in router VPN might be more trouble than it's worth",
+    "source": "Tailscale Blog",
+    "first_seen": "2026-09-11T17:58:13.338836+00:00",
+    "published": "2026-09-11T16:00:00+00:00"
+  },
+  "https://glacierextinction.com": {
+    "title": "Global Glacier Extinction Explorer",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-11T17:58:13.338836+00:00",
+    "published": "2026-09-11T15:58:06+00:00"
+  },
+  "https://planetscale.com/blog/118-million-queries-per-second-on-neki": {
+    "title": "118M Queries per Second on Neki",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-11T17:58:13.338836+00:00",
+    "published": "2026-09-11T15:56:37+00:00"
+  },
+  "https://blog.bytebytego.com/p/learn-claude-code-evals-ai-systems": {
+    "title": "Learn Claude Code, evals, AI systems, and more: ByteByteGo Live is here",
+    "source": "ByteByteGo",
+    "first_seen": "2026-09-11T17:58:13.338836+00:00",
+    "published": "2026-09-11T15:32:16+00:00"
+  },
+  "https://rune.build/blog/rune-is-now-open-source": {
+    "title": "Rune is now open source",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-11T17:58:13.338836+00:00",
+    "published": "2026-09-11T15:31:47+00:00"
+  },
+  "https://www.phoronix.com/review/wildcat-lake-windows-linux": {
+    "title": "CachyOS vs. Windows 11 vs. Ubuntu 26.04 LTS On Intel Wildcat Lake + 8GB RAM",
+    "source": "Phoronix",
+    "first_seen": "2026-09-11T17:58:13.338836+00:00",
+    "published": "2026-09-11T15:08:55+00:00"
+  },
+  "https://lwn.net/Articles/1093825": {
+    "title": "EuroPython 2026 videos published",
+    "source": "LWN.net",
+    "first_seen": "2026-09-11T17:58:13.338836+00:00",
+    "published": "2026-09-11T15:08:45+00:00"
+  },
+  "https://medium.com/pinterest-engineering/evolving-pinterests-embedding-retrieval-platform-aede4e831e01?source=rss----4c5a5f6279b6---4": {
+    "title": "Evolving Pinterest’s Embedding Retrieval Platform",
+    "source": "Pinterest Engineering",
+    "first_seen": "2026-09-11T17:58:13.338836+00:00",
+    "published": "2026-09-11T15:01:03+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/run-duckdb-analytics-on-your-amazon-dynamodb-data-with-zero-etl": {
+    "title": "Run DuckDB analytics on your Amazon DynamoDB data with zero-ETL",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-09-11T17:58:13.338836+00:00",
+    "published": "2026-09-11T14:53:57+00:00"
+  },
+  "https://simonwillison.net/2026/Sep/11/soft-deprecating-re-match": {
+    "title": "Soft-deprecating re.match()",
+    "source": "Simon Willison",
+    "first_seen": "2026-09-11T17:58:13.338836+00:00",
+    "published": "2026-09-11T14:47:57+00:00"
+  },
+  "https://huggingface.co/security.txt": {
+    "title": "HuggingFace: Security.txt",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-11T17:58:13.338836+00:00",
+    "published": "2026-09-11T14:38:13+00:00"
+  },
+  "https://lwn.net/Articles/1093398": {
+    "title": "[$] Accelerating the kernel's build process",
+    "source": "LWN.net",
+    "first_seen": "2026-09-11T17:58:13.338836+00:00",
+    "published": "2026-09-11T14:15:32+00:00"
+  },
+  "https://www.statnews.com/2026/09/11/sept-11-25th-anniversary-ground-zero-exposure-cancer-moment-of-silence": {
+    "title": "New York thoracic surgeon: \"For many patients 9/11 is not over\"",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-11T17:58:13.338836+00:00",
+    "published": "2026-09-11T14:14:56+00:00"
+  },
+  "https://aws.amazon.com/blogs/architecture/from-zero-shot-forecast-to-purchase-order-with-amazon-bedrock-agentcore": {
+    "title": "From zero-shot forecast to purchase order with Amazon Bedrock AgentCore",
+    "source": "AWS Architecture Blog",
+    "first_seen": "2026-09-11T17:58:13.338836+00:00",
+    "published": "2026-09-11T14:08:01+00:00"
+  },
+  "https://clawfight.ai/agents.md": {
+    "title": "Show HN: Clawfight.ai MCP-driven agentic game play",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-11T17:58:13.338836+00:00",
+    "published": "2026-09-11T13:54:17+00:00"
+  },
+  "https://simonwillison.net/2026/Sep/11/wrapture": {
+    "title": "Don't sleep on wrapture",
+    "source": "Simon Willison",
+    "first_seen": "2026-09-11T17:58:13.338836+00:00",
+    "published": "2026-09-11T13:51:32+00:00"
+  },
+  "https://earendil.com/posts/measuring-code-sloppiness": {
+    "title": "Measuring the sloppiness of code",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-11T17:58:13.338836+00:00",
+    "published": "2026-09-11T13:42:28+00:00"
+  },
+  "https://www.collabora.com/news-and-blog/news-and-events/re-engineering-youtube-for-the-living-room-bringing-%E2%80%9Cchrobalt%E2%80%9D-to-rdk.html": {
+    "title": "Re-Engineering YouTube for the Living Room: Bringing \"Chrobalt\" to RDK",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-11T17:58:13.338836+00:00",
+    "published": "2026-09-11T13:41:58+00:00"
+  },
+  "https://www.bbc.com/news/live/cmd683p01eljt": {
+    "title": "Houthis 'take control' of key island in global shipping route",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-11T17:58:13.338836+00:00",
+    "published": "2026-09-11T13:41:38+00:00"
+  },
+  "https://lwn.net/Articles/1093766": {
+    "title": "Two stable kernel updates for Friday",
+    "source": "LWN.net",
+    "first_seen": "2026-09-11T17:58:13.338836+00:00",
+    "published": "2026-09-11T13:27:35+00:00"
+  },
+  "https://www.phoronix.com/news/Mold-Linker-In-Rust-Coming": {
+    "title": "Mold High Speed Linker Being Rewritten In Rust, Hopes To Be The Default Linker On Linux",
+    "source": "Phoronix",
+    "first_seen": "2026-09-11T17:58:13.338836+00:00",
+    "published": "2026-09-11T13:21:42+00:00"
+  },
+  "https://lwn.net/Articles/1093765": {
+    "title": "Security updates for Friday",
+    "source": "LWN.net",
+    "first_seen": "2026-09-11T17:58:13.338836+00:00",
+    "published": "2026-09-11T13:14:32+00:00"
+  },
+  "https://blog.cloudflare.com/casb-policies": {
+    "title": "Introducing automatic remediation policies with Cloudflare CASB",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-09-11T17:58:13.338836+00:00",
+    "published": "2026-09-11T13:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/Erik-Faye-Lund-Mesa-Arm": {
+    "title": "Prominent Mesa Developer Now Working For Arm On PanVK & Panfrost Code",
+    "source": "Phoronix",
+    "first_seen": "2026-09-11T17:58:13.338836+00:00",
+    "published": "2026-09-11T12:55:26+00:00"
+  },
+  "https://openai.com/index/scaling-storage-one-billion-users-part-one": {
+    "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-09-11T17:58:13.338836+00:00",
+    "published": "2026-09-11T10:00:00+00:00"
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-11/openai-is-open-to-slowing-cutting-edge-ai-ceo-sam-altman-tells-staff": {
+    "title": "OpenAI considers slowing advanced AI development, Sam Altman tells employees",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-11T17:58:13.338836+00:00",
+    "published": "2026-09-11T01:05:59+00:00"
+  },
+  "https://www.bbc.com/news/articles/c8r6y4me2g6o": {
+    "title": "Google will buy half the electricity from one of Finland's nuclear power plants",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-11T17:58:13.338836+00:00",
+    "published": "2026-09-11T00:42:41+00:00"
+  },
+  "https://machinelearning.apple.com/research/video-caption-quality": {
+    "title": "Putting Captions to the Test: Evaluating Video Caption Quality through Multiple-Choice Question Answering",
+    "source": "Apple ML Journal",
+    "first_seen": "2026-09-11T17:58:13.338836+00:00",
+    "published": "2026-09-11T00:00:00+00:00"
+  },
+  "https://machinelearning.apple.com/research/simpledesign-protein-codesign": {
+    "title": "SimpleDesign: A Joint Model for Protein Sequence and Structure Codesign",
+    "source": "Apple ML Journal",
+    "first_seen": "2026-09-11T17:58:13.338836+00:00",
+    "published": "2026-09-11T00:00:00+00:00"
+  },
+  "https://machinelearning.apple.com/research/discosign-gloss-translation": {
+    "title": "DiscoSign: Discourse-Aware Text to Sign Language Gloss Translation",
+    "source": "Apple ML Journal",
+    "first_seen": "2026-09-11T17:58:13.338836+00:00",
+    "published": "2026-09-11T00:00:00+00:00"
+  },
+  "https://derflounder.wordpress.com/2026/09/08/manually-copying-login-keychain-files-from-one-mac-to-another-no-longer-works-on-secure-enclave-equipped-macs-running-macos-tahoe": {
+    "title": "Copying login keychains between Macs fails on Secure Enclave Macs with Tahoe",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-11T17:58:13.338836+00:00",
+    "published": "2026-09-10T22:33:45+00:00"
   }
 }
