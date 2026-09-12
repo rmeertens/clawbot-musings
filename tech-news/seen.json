@@ -88460,5 +88460,167 @@
     "source": "Azure Blog",
     "first_seen": "2026-09-11T22:51:06.465381+00:00",
     "published": "2026-09-10T21:00:00+00:00"
+  },
+  "https://openai.com/index/perplexity-improving-accuracy-with-astra": {
+    "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-09-12T12:27:51.295250+00:00",
+    "published": "2026-09-14T00:00:00+00:00"
+  },
+  "https://realpython.com/quizzes/python-debugging-pdb": {
+    "title": "Quiz: Python Debugging With Pdb",
+    "source": "Real Python",
+    "first_seen": "2026-09-12T12:27:51.295250+00:00",
+    "published": "2026-09-12T12:00:00+00:00"
+  },
+  "https://www.joelotter.com/posts/2026/09/make-it-anyway": {
+    "title": "Fuck it, make it anyway",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-12T12:27:51.295250+00:00",
+    "published": "2026-09-12T11:42:32+00:00"
+  },
+  "https://www.reuters.com/world/americas/hidden-crypto-farm-mexican-mountains-puts-spotlight-cartel-funding-2026-09-12": {
+    "title": "Crypto farm in Mexican mountains puts spotlight on cartel funding",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-12T12:27:51.295250+00:00",
+    "published": "2026-09-12T11:37:22+00:00"
+  },
+  "https://www.reuters.com/business/altman-tells-staff-openai-is-open-slowing-ai-development-bloomberg-news-reports-2026-09-11": {
+    "title": "Altman tells staff OpenAI is open to slowing AI development",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-12T12:27:51.295250+00:00",
+    "published": "2026-09-12T11:33:02+00:00"
+  },
+  "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang": {
+    "title": "The Worst Spam Emails: Inside iLands' AI Agent Hustle",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-12T12:27:51.295250+00:00",
+    "published": "2026-09-12T11:13:38+00:00"
+  },
+  "https://www.theguardian.com/books/2026/sep/12/naomi-klein-extreme-wealth-has-a-deranging-effect-it-turns-you-into-a-supremacist": {
+    "title": "Naomi Klein: Extreme wealth has a deranging effect. Turns you into a supremacist",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-12T12:27:51.295250+00:00",
+    "published": "2026-09-12T11:08:58+00:00"
+  },
+  "https://thenewstack.io/coxon-anthropic-ai-monitoring-failures": {
+    "title": "Jacob Coxon warns AI could kill us all. Anthropic’s own report exposes safety gaps.",
+    "source": "The New Stack",
+    "first_seen": "2026-09-12T12:27:51.295250+00:00",
+    "published": "2026-09-12T11:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/GTK-4.24-Released": {
+    "title": "GTK 4.24 Released With Better Fractional Scaling, More Precise GDK Frame-Clock",
+    "source": "Phoronix",
+    "first_seen": "2026-09-12T12:27:51.295250+00:00",
+    "published": "2026-09-12T10:52:32+00:00"
+  },
+  "https://www.bbc.co.uk/news/articles/crm932el3yjo": {
+    "title": "We've followed their lives for six decades; now the stars of 7 Up are bowing out",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-12T12:27:51.295250+00:00",
+    "published": "2026-09-12T10:39:03+00:00"
+  },
+  "https://www.phoronix.com/news/Intel-Linux-NPU-Driver-1.38": {
+    "title": "Intel Linux NPU Driver Only Now Officially Supports Ubuntu 26.04 LTS",
+    "source": "Phoronix",
+    "first_seen": "2026-09-12T12:27:51.295250+00:00",
+    "published": "2026-09-12T10:34:25+00:00"
+  },
+  "https://www.phoronix.com/news/Ubuntu-Considers-Linux-Firm-HWE": {
+    "title": "Ubuntu Developers Contemplate Linux Firmware HWE Package",
+    "source": "Phoronix",
+    "first_seen": "2026-09-12T12:27:51.295250+00:00",
+    "published": "2026-09-12T10:25:11+00:00"
+  },
+  "https://www.phoronix.com/news/KDE-Plasma-6.8-KRDP-Lower-Lat": {
+    "title": "KDE Plasma 6.8 Remote Desktop To Enjoy Lower Latency Performance",
+    "source": "Phoronix",
+    "first_seen": "2026-09-12T12:27:51.295250+00:00",
+    "published": "2026-09-12T10:07:48+00:00"
+  },
+  "https://pmc.ncbi.nlm.nih.gov/articles/PMC12965823": {
+    "title": "Resistance Training Prescription for Muscle Function, Hypertrophy in Health",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-12T12:27:51.295250+00:00",
+    "published": "2026-09-12T09:08:54+00:00"
+  },
+  "https://eiln.github.io/posts/ane.html": {
+    "title": "Retrospectively Reverse-Engineering Apple's Neural Engine",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-12T12:27:51.295250+00:00",
+    "published": "2026-09-12T07:54:03+00:00"
+  },
+  "https://www.usenet-rewind.com": {
+    "title": "Usenet rewind archive search engine",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-12T12:27:51.295250+00:00",
+    "published": "2026-09-12T04:19:52+00:00"
+  },
+  "https://www.claymath.org/news/navier-stokes-announcement": {
+    "title": "Navier-Stokes Announcement",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-12T12:27:51.295250+00:00",
+    "published": "2026-09-12T04:09:43+00:00"
+  },
+  "https://www.autom.dev/blog/google-search-goto-links": {
+    "title": "google.com/goto: Google's anti-scraping update",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-12T12:27:51.295250+00:00",
+    "published": "2026-09-12T03:14:20+00:00"
+  },
+  "https://simonwillison.net/2026/Sep/12/openai-agents-rubygems": {
+    "title": "OpenAI agents attacked RubyGems back in May",
+    "source": "Simon Willison",
+    "first_seen": "2026-09-12T12:27:51.295250+00:00",
+    "published": "2026-09-12T00:42:25+00:00"
+  },
+  "https://www.phoronix.com/news/Gitte-0.10-Released": {
+    "title": "Gitte As Git Client For GNOME Continues Maturing Quite Nicely",
+    "source": "Phoronix",
+    "first_seen": "2026-09-12T12:27:51.295250+00:00",
+    "published": "2026-09-12T00:35:39+00:00"
+  },
+  "https://www.rubyhack.ai": {
+    "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-12T12:27:51.295250+00:00",
+    "published": "2026-09-11T23:17:42+00:00"
+  },
+  "https://kubernetes.io/blog/2026/09/11/kubernetes-v1-37-native-histograms-beta": {
+    "title": "Kubernetes v1.37: Native Histograms Graduates to Beta",
+    "source": "Kubernetes Blog",
+    "first_seen": "2026-09-12T12:27:51.295250+00:00",
+    "published": "2026-09-11T18:30:00+00:00"
+  },
+  "https://openai.com/index/cognition-devin-testing-with-astra": {
+    "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-09-12T12:27:51.295250+00:00",
+    "published": "2026-09-11T16:00:00+00:00"
+  },
+  "https://simonwillison.net/2026/Sep/11/datasette-publish-fly": {
+    "title": "datasette-publish-fly 1.4",
+    "source": "Simon Willison",
+    "first_seen": "2026-09-12T12:27:51.295250+00:00",
+    "published": "2026-09-11T02:58:52+00:00"
+  },
+  "https://simonwillison.net/2026/Sep/11/github-to-sqlite": {
+    "title": "github-to-sqlite 2.9.1",
+    "source": "Simon Willison",
+    "first_seen": "2026-09-12T12:27:51.295250+00:00",
+    "published": "2026-09-11T00:28:39+00:00"
+  },
+  "https://simonwillison.net/2026/Sep/11/datasette": {
+    "title": "datasette 0.65.4",
+    "source": "Simon Willison",
+    "first_seen": "2026-09-12T12:27:51.295250+00:00",
+    "published": "2026-09-11T00:06:55+00:00"
+  },
+  "https://simonwillison.net/2026/Sep/11/datasette-2": {
+    "title": "datasette 1.0a39",
+    "source": "Simon Willison",
+    "first_seen": "2026-09-12T12:27:51.295250+00:00",
+    "published": "2026-09-11T00:05:54+00:00"
   }
 }
