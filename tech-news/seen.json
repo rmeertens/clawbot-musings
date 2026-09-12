@@ -88622,5 +88622,119 @@
     "source": "Simon Willison",
     "first_seen": "2026-09-12T12:27:51.295250+00:00",
     "published": "2026-09-11T00:05:54+00:00"
+  },
+  "https://www.phoronix.com/news/Debian-13.7-Released": {
+    "title": "Debian 13.7 Released With Many Bug Fixes",
+    "source": "Phoronix",
+    "first_seen": "2026-09-12T17:29:38.136931+00:00",
+    "published": "2026-09-12T17:06:53+00:00"
+  },
+  "https://www.bbc.com/news/articles/c14dpgm0rg4o": {
+    "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-12T17:29:38.136931+00:00",
+    "published": "2026-09-12T16:56:52+00:00"
+  },
+  "https://high5apps.github.io/josm-plugin-website-wizard": {
+    "title": "Make Your First Edit to OpenStreetMap in the Next 15 Minutes",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-12T17:29:38.136931+00:00",
+    "published": "2026-09-12T16:25:08+00:00"
+  },
+  "https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html": {
+    "title": "Microcode in Intel's 8087 floating-point chip: the scale instruction",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-12T17:29:38.136931+00:00",
+    "published": "2026-09-12T15:49:52+00:00"
+  },
+  "https://www.theverge.com/tech/994333/lg-responds-to-tv-spying-allegations": {
+    "title": "LG responds to TV spying allegations",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-12T17:29:38.136931+00:00",
+    "published": "2026-09-12T15:33:48+00:00"
+  },
+  "https://blog.bytebytego.com/p/ep225-why-does-git-revert-cause-conflicts": {
+    "title": "EP225: Why Does Git Revert Cause Conflicts?",
+    "source": "ByteByteGo",
+    "first_seen": "2026-09-12T17:29:38.136931+00:00",
+    "published": "2026-09-12T15:30:46+00:00"
+  },
+  "https://www.npr.org/2026/09/08/nx-s1-5955618/is-it-time-for-a-luddite-renaissance": {
+    "title": "Is it time for a Luddite Renaissance?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-12T17:29:38.136931+00:00",
+    "published": "2026-09-12T15:24:47+00:00"
+  },
+  "https://www.phoronix.com/news/Void-Linux-AI-Policy-Orphan": {
+    "title": "Void Linux Maintainer Orphans 100+ Packages Over AI Policy Dispute",
+    "source": "Phoronix",
+    "first_seen": "2026-09-12T17:29:38.136931+00:00",
+    "published": "2026-09-12T15:11:26+00:00"
+  },
+  "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai": {
+    "title": "Nvidia is the central bank of AI",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-12T17:29:38.136931+00:00",
+    "published": "2026-09-12T15:08:27+00:00"
+  },
+  "https://thenewstack.io/mcp-security-permissions-overhaul": {
+    "title": "Why MCP security is about permissions overhaul",
+    "source": "The New Stack",
+    "first_seen": "2026-09-12T17:29:38.136931+00:00",
+    "published": "2026-09-12T15:00:00+00:00"
+  },
+  "https://thenewstack.io/openai-hires-git-ai": {
+    "title": "“Same mission, bigger stage”: OpenAI hires Git AI founders to help Codex prove its ROI",
+    "source": "The New Stack",
+    "first_seen": "2026-09-12T17:29:38.136931+00:00",
+    "published": "2026-09-12T14:46:53+00:00"
+  },
+  "https://github.com/nefarius/vd_agent": {
+    "title": "I refuse to let SPICE die",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-12T17:29:38.136931+00:00",
+    "published": "2026-09-12T14:25:07+00:00"
+  },
+  "https://oilprice.com/Energy/Energy-General/Europes-Less-Is-Doing-More-Than-Anyone-Gives-It-Credit-For.html": {
+    "title": "Europe's \"Less\" Is Doing More Than Anyone Gives It Credit For",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-12T17:29:38.136931+00:00",
+    "published": "2026-09-12T14:17:28+00:00"
+  },
+  "https://thenewstack.io/spec-driven-sdlc-gates": {
+    "title": "The AI-native SDLC won’t be one process",
+    "source": "The New Stack",
+    "first_seen": "2026-09-12T17:29:38.136931+00:00",
+    "published": "2026-09-12T14:00:00+00:00"
+  },
+  "https://transformer-circuits.pub/2021/framework/index.html": {
+    "title": "A Mathematical Framework for Transformer Circuits (2021)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-12T17:29:38.136931+00:00",
+    "published": "2026-09-12T13:56:58+00:00"
+  },
+  "https://www.phoronix.com/news/Intel-One-Mono-Saved": {
+    "title": "Intel Reverses Decision To Cancel Their Open-Source Font Project",
+    "source": "Phoronix",
+    "first_seen": "2026-09-12T17:29:38.136931+00:00",
+    "published": "2026-09-12T13:45:00+00:00"
+  },
+  "https://prydt.xyz/blog/a-few-good-ideas-in-pl": {
+    "title": "A Few Good Ideas in Programming Languages",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-12T17:29:38.136931+00:00",
+    "published": "2026-09-12T13:07:52+00:00"
+  },
+  "https://www.construction-physics.com/p/reading-list-09122026": {
+    "title": "Reading List — 09/12/2026",
+    "source": "Construction Physics",
+    "first_seen": "2026-09-12T17:29:38.136931+00:00",
+    "published": "2026-09-12T12:32:46+00:00"
+  },
+  "https://storymaps.arcgis.com/stories/9b790daf22ba4e87836f467abb1c7e49": {
+    "title": "Forgotten Woodlands",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-12T17:29:38.136931+00:00",
+    "published": "2026-09-11T21:21:04+00:00"
   }
 }
