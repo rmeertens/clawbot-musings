@@ -88736,5 +88736,71 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-09-12T17:29:38.136931+00:00",
     "published": "2026-09-11T21:21:04+00:00"
+  },
+  "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026": {
+    "title": "OpenAI's Sam Altman says it would be 'ill-advised' to go public in 2026",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-12T22:41:17.797988+00:00",
+    "published": "2026-09-12T20:28:29+00:00"
+  },
+  "https://withspecific.com/benchmarks/real-swe": {
+    "title": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-12T22:41:17.797988+00:00",
+    "published": "2026-09-12T20:25:48+00:00"
+  },
+  "https://modelrift.com/blog/cadquery-vs-openscad": {
+    "title": "Benchmark: CadQuery vs. OpenSCAD for agentic CAD work",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-12T22:41:17.797988+00:00",
+    "published": "2026-09-12T19:57:19+00:00"
+  },
+  "https://www.youtube.com/watch?v=ToP9xfLDSME": {
+    "title": "LG Says We're Fake News [video]",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-12T22:41:17.797988+00:00",
+    "published": "2026-09-12T19:35:36+00:00"
+  },
+  "https://hachyderm.io/@simontatham/117201594980991062": {
+    "title": "Linux Zoom client proactively reading everything written to X11 clipboard",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-12T22:41:17.797988+00:00",
+    "published": "2026-09-12T18:58:57+00:00"
+  },
+  "https://simonwillison.net/2026/Sep/12/paul-ford": {
+    "title": "Quoting Paul Ford",
+    "source": "Simon Willison",
+    "first_seen": "2026-09-12T22:41:17.797988+00:00",
+    "published": "2026-09-12T18:00:21+00:00"
+  },
+  "https://arxiv.org/abs/2609.01877": {
+    "title": "Will There Be a 7G?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-12T22:41:17.797988+00:00",
+    "published": "2026-09-12T17:05:31+00:00"
+  },
+  "https://lalitm.com/post/buildprof": {
+    "title": "I made a build visualizer to understand Bun's compile times",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-12T22:41:17.797988+00:00",
+    "published": "2026-09-12T14:45:28+00:00"
+  },
+  "https://darioamodei.com/post/we-must-pace-the-frontier": {
+    "title": "We must pace the frontier",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-12T22:41:17.797988+00:00",
+    "published": "2026-09-12T14:10:49+00:00"
+  },
+  "https://supuk.ch/papers/android-natt-keepalive-vpn-bypass": {
+    "title": "Android NAT-T keepalive offload bypasses VPN lockdown",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-12T22:41:17.797988+00:00",
+    "published": "2026-09-11T21:16:48+00:00"
+  },
+  "https://www.wired.com/story/i-fixed-a-tractor-john-deere-self-repair-service": {
+    "title": "I fixed a tractor using John Deere's self-repair service. Farmers aren't sold",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-12T22:41:17.797988+00:00",
+    "published": "2026-09-11T14:07:08+00:00"
   }
 }
