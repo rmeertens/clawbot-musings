@@ -88940,5 +88940,113 @@
     "source": "Simon Willison",
     "first_seen": "2026-09-13T13:30:26.694744+00:00",
     "published": "2026-09-12T21:16:09+00:00"
+  },
+  "https://news.ycombinator.com/item?id=49686233": {
+    "title": "Ask HN: How can I browse HN in dark mode?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-13T17:46:13.707775+00:00",
+    "published": "2026-09-13T17:18:41+00:00"
+  },
+  "https://www.nytimes.com/athletic/7586821/2026/09/12/football-black-card-referee": {
+    "title": "Romania soccer introduces black card to 'combat abusive behaviour' from parents",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-13T17:46:13.707775+00:00",
+    "published": "2026-09-13T17:08:16+00:00"
+  },
+  "https://twitter.com/DavidSacks/status/2098973625252708460": {
+    "title": "David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-13T17:46:13.707775+00:00",
+    "published": "2026-09-13T16:52:33+00:00"
+  },
+  "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too": {
+    "title": "Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-13T17:46:13.707775+00:00",
+    "published": "2026-09-13T15:44:38+00:00"
+  },
+  "https://belderbos.dev/blog/how-libraries-run-rust-inside-python": {
+    "title": "Libraries Run Rust Inside Python (With PyO3)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-13T17:46:13.707775+00:00",
+    "published": "2026-09-13T15:24:05+00:00"
+  },
+  "https://prior.chat": {
+    "title": "Predictive intelligence to anticipate anything.",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-13T17:46:13.707775+00:00",
+    "published": "2026-09-13T15:11:22+00:00"
+  },
+  "https://cpak.it": {
+    "title": "Cpak – OCI application package format for Linux desktops, servers and devices",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-13T17:46:13.707775+00:00",
+    "published": "2026-09-13T15:02:56+00:00"
+  },
+  "https://thenewstack.io/pg-99-conf-2026-inference-costs": {
+    "title": "Chip Huyen explains how to cut inference costs without new hardware",
+    "source": "The New Stack",
+    "first_seen": "2026-09-13T17:46:13.707775+00:00",
+    "published": "2026-09-13T15:00:00+00:00"
+  },
+  "https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment": {
+    "title": "Astra and Fable still hack on simple variants of alignment evals from 2025",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-13T17:46:13.707775+00:00",
+    "published": "2026-09-13T14:28:36+00:00"
+  },
+  "https://github.com/Speedstu/CUDA-for-AMD-Windows": {
+    "title": "CUDA for AMD on Windows",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-13T17:46:13.707775+00:00",
+    "published": "2026-09-13T14:25:13+00:00"
+  },
+  "https://thenewstack.io/cohere-north-translate-sovereignty": {
+    "title": "“Machine translation is still broken for most of the world’s languages”: Cohere builds non-reasoning for a reason",
+    "source": "The New Stack",
+    "first_seen": "2026-09-13T17:46:13.707775+00:00",
+    "published": "2026-09-13T14:21:46+00:00"
+  },
+  "https://paulgraham.com/powerful.html": {
+    "title": "Making Startups Powerful",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-13T17:46:13.707775+00:00",
+    "published": "2026-09-13T14:09:53+00:00"
+  },
+  "https://www.phoronix.com/news/Zstd-Linux-7.4-Avoid-Redundant": {
+    "title": "Zstd Improvement For Linux 7.4 To Avoid Redundant Initialization",
+    "source": "Phoronix",
+    "first_seen": "2026-09-13T17:46:13.707775+00:00",
+    "published": "2026-09-13T14:04:23+00:00"
+  },
+  "https://unsung.aresluna.org/key-symbols-we-lost-to-time-pt-1-the-pc-side": {
+    "title": "Key symbols we lost to time, pt. 1: The PC side",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-13T17:46:13.707775+00:00",
+    "published": "2026-09-13T14:00:44+00:00"
+  },
+  "https://thenewstack.io/ai-agent-trace-debugging": {
+    "title": "It passed CI. It passed your evals. The customer still got the wrong answer.",
+    "source": "The New Stack",
+    "first_seen": "2026-09-13T17:46:13.707775+00:00",
+    "published": "2026-09-13T14:00:00+00:00"
+  },
+  "https://realpython.com/python-interview-problem-parsing-csv-files": {
+    "title": "Python Practice Problems: Parsing CSV Files",
+    "source": "Real Python",
+    "first_seen": "2026-09-13T17:46:13.707775+00:00",
+    "published": "2026-09-13T14:00:00+00:00"
+  },
+  "https://realpython.com/primer-on-jinja-templating": {
+    "title": "Primer on Jinja Templating",
+    "source": "Real Python",
+    "first_seen": "2026-09-13T17:46:13.707775+00:00",
+    "published": "2026-09-13T14:00:00+00:00"
+  },
+  "https://devblogs.microsoft.com/oldnewthing/20260910-00?p=112689": {
+    "title": "Why is the x86 undefined instruction called ud2? Why 2?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-13T17:46:13.707775+00:00",
+    "published": "2026-09-13T12:30:15+00:00"
   }
 }
