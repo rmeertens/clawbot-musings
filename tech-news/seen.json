@@ -89048,5 +89048,89 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-09-13T17:46:13.707775+00:00",
     "published": "2026-09-13T12:30:15+00:00"
+  },
+  "https://lwn.net/Articles/1093929": {
+    "title": "Reminder: subscription price change coming",
+    "source": "LWN.net",
+    "first_seen": "2026-09-13T22:42:25.014025+00:00",
+    "published": "2026-09-13T22:34:53+00:00"
+  },
+  "https://lwn.net/Articles/1093962": {
+    "title": "Kernel prepatch 7.3-rc3",
+    "source": "LWN.net",
+    "first_seen": "2026-09-13T22:42:25.014025+00:00",
+    "published": "2026-09-13T22:32:53+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.3-rc3-Released": {
+    "title": "Linux 7.3-rc3 Released: \"Another Fairly Large RC\"",
+    "source": "Phoronix",
+    "first_seen": "2026-09-13T22:42:25.014025+00:00",
+    "published": "2026-09-13T22:00:23+00:00"
+  },
+  "https://news.ycombinator.com/item?id=49688761": {
+    "title": "Ask HN: In The Matrix, the bad guys are the 'agents'. Coincidence? Clairvoyance?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-13T22:42:25.014025+00:00",
+    "published": "2026-09-13T21:13:13+00:00"
+  },
+  "https://www.vals.ai/blogs/fable-solves-cyphral-distich": {
+    "title": "Claude Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-13T22:42:25.014025+00:00",
+    "published": "2026-09-13T21:06:13+00:00"
+  },
+  "https://pages.cs.wisc.edu/~plonka/netgear-sntp": {
+    "title": "Flawed Routers Flood University of Wisconsin Internet Time Server (2003)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-13T22:42:25.014025+00:00",
+    "published": "2026-09-13T20:33:18+00:00"
+  },
+  "https://twitter.com/TechEmails/status/2099214399840059428": {
+    "title": "Mark Zuckerberg: \"Cambridge Analytica\" (2017)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-13T22:42:25.014025+00:00",
+    "published": "2026-09-13T20:08:45+00:00"
+  },
+  "https://singjupost.com/startalk-there-is-no-ai-really-its-just-people-w-jaron-lanier-transcript": {
+    "title": "There Is No AI (It's Just People) with Jaron Lanier",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-13T22:42:25.014025+00:00",
+    "published": "2026-09-13T19:41:06+00:00"
+  },
+  "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement": {
+    "title": "AI recursive self-improvement might not come so quickly after all (August 2026)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-13T22:42:25.014025+00:00",
+    "published": "2026-09-13T18:49:44+00:00"
+  },
+  "https://dreamstation.systems/personal/tesla.html": {
+    "title": "I'm being cyberattacked by Tesla, Inc",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-13T22:42:25.014025+00:00",
+    "published": "2026-09-13T18:03:09+00:00"
+  },
+  "https://guessingheadlights.com/global-shortage-has-led-to-motor-oil-rationing-at-costco": {
+    "title": "Global Shortage Has Led to Motor Oil Rationing at Costco",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-13T22:42:25.014025+00:00",
+    "published": "2026-09-13T17:57:59+00:00"
+  },
+  "https://web.eecs.utk.edu/~smarz1/courses/cosc562/drivers.html": {
+    "title": "Device Drivers lab exercise – COSC562",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-13T22:42:25.014025+00:00",
+    "published": "2026-09-13T17:41:50+00:00"
+  },
+  "https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads": {
+    "title": "Why is Google still serving dodgy ads?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-13T22:42:25.014025+00:00",
+    "published": "2026-09-13T17:37:44+00:00"
+  },
+  "https://www.theverge.com/column/994172/your-car-is-selling-your-data": {
+    "title": "Data collected by cars and sold to third parties",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-13T22:42:25.014025+00:00",
+    "published": "2026-09-13T13:45:08+00:00"
   }
 }
