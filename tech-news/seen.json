@@ -89132,5 +89132,245 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-09-13T22:42:25.014025+00:00",
     "published": "2026-09-13T13:45:08+00:00"
+  },
+  "https://www.phoronix.com/news/Firefox-156": {
+    "title": "Firefox 156 Available With Its Built-In PDF Viewer Starting Up To 45% Faster",
+    "source": "Phoronix",
+    "first_seen": "2026-09-14T15:19:25.228373+00:00",
+    "published": "2026-09-14T15:09:09+00:00"
+  },
+  "https://www.phoronix.com/review/linux-73-panther-lake": {
+    "title": "Linux 7.3 Delivering Some Performance Gains On Intel Panther Lake / Framework Laptop 13 Pro",
+    "source": "Phoronix",
+    "first_seen": "2026-09-14T15:19:25.228373+00:00",
+    "published": "2026-09-14T14:42:00+00:00"
+  },
+  "https://thenewstack.io/ai-coding-duplication-rose": {
+    "title": "Your AI coding spend bought 25% more output. Duplication rose 81%.",
+    "source": "The New Stack",
+    "first_seen": "2026-09-14T15:19:25.228373+00:00",
+    "published": "2026-09-14T14:39:14+00:00"
+  },
+  "https://rietta.com/blog/rubygems-supply-chain-openai": {
+    "title": "RubyGems Open Source Supply Chain Security and OpenAI",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-14T15:19:25.228373+00:00",
+    "published": "2026-09-14T14:39:01+00:00"
+  },
+  "https://gultsch.de/posts/how-do-we-gain-traction": {
+    "title": "Jabber/XMPP: How Do We Gain Traction?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-14T15:19:25.228373+00:00",
+    "published": "2026-09-14T14:37:49+00:00"
+  },
+  "https://simonwillison.net/2026/Sep/14/laurie-voss": {
+    "title": "Quoting Laurie Voss",
+    "source": "Simon Willison",
+    "first_seen": "2026-09-14T15:19:25.228373+00:00",
+    "published": "2026-09-14T14:34:29+00:00"
+  },
+  "http://graphicrants.blogspot.com/2026/02/nanite-tessellation.html": {
+    "title": "Graphic Rants: Nanite Tessellation",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-14T15:19:25.228373+00:00",
+    "published": "2026-09-14T14:27:24+00:00"
+  },
+  "https://spectrum.ieee.org/h-1b-visa-us-government": {
+    "title": "New $100K H-1B Visa Fee Pushes Tech Jobs Offshore",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-14T15:19:25.228373+00:00",
+    "published": "2026-09-14T14:09:10+00:00"
+  },
+  "https://chizkidd.github.io//2026/09/13/flashattention": {
+    "title": "Understanding FlashAttention Pt 1: Personal Notes",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-14T15:19:25.228373+00:00",
+    "published": "2026-09-14T14:01:04+00:00"
+  },
+  "https://realpython.com/agentic-engineering": {
+    "title": "Agentic Engineering in Python: From Vibes to Evidence",
+    "source": "Real Python",
+    "first_seen": "2026-09-14T15:19:25.228373+00:00",
+    "published": "2026-09-14T14:00:00+00:00"
+  },
+  "https://thenewstack.io/openrouter-us-region-routing": {
+    "title": "Chinese AI models dominate OpenRouter’s US token consumption. It can now guarantee that traffic stays entirely in the US.",
+    "source": "The New Stack",
+    "first_seen": "2026-09-14T15:19:25.228373+00:00",
+    "published": "2026-09-14T13:59:33+00:00"
+  },
+  "https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms": {
+    "title": "Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-14T15:19:25.228373+00:00",
+    "published": "2026-09-14T13:59:09+00:00"
+  },
+  "https://www.ilinmaks.com/blog/en/ai-jobs-market-2026": {
+    "title": "The AI job market in 2026",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-14T15:19:25.228373+00:00",
+    "published": "2026-09-14T13:49:57+00:00"
+  },
+  "https://www.omgubuntu.co.uk/2026/09/ubuntu-2610-rust-coreutils-complete": {
+    "title": "Ubuntu 26.10 completes transition to Rust-based coreutils",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-14T15:19:25.228373+00:00",
+    "published": "2026-09-14T13:38:58+00:00"
+  },
+  "https://www.phoronix.com/news/Branch-Remove-Old-ARM-Drivers": {
+    "title": "Removing Drivers For Outdated ARM Platforms Will Lighten The Kernel By ~247k Lines",
+    "source": "Phoronix",
+    "first_seen": "2026-09-14T15:19:25.228373+00:00",
+    "published": "2026-09-14T13:32:47+00:00"
+  },
+  "https://gally.net/temp/20260914pelican-alternatives/index.html": {
+    "title": "Show HN: Pelican-bicycle alternatives (updated for 2026)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-14T15:19:25.228373+00:00",
+    "published": "2026-09-14T13:20:22+00:00"
+  },
+  "https://lwn.net/Articles/1094211": {
+    "title": "Security updates for Monday",
+    "source": "LWN.net",
+    "first_seen": "2026-09-14T15:19:25.228373+00:00",
+    "published": "2026-09-14T13:18:14+00:00"
+  },
+  "https://temporal.io/blog/temporal-raises-usd550m-series-e-at-usd12-55b-valuation-ai": {
+    "title": "Temporal raises $550M at a $12.55B valuation",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-14T15:19:25.228373+00:00",
+    "published": "2026-09-14T13:16:31+00:00"
+  },
+  "https://www.theartnewspaper.com/2026/09/14/largest-roman-mosaic-opens-to-the-public": {
+    "title": "Largest known Roman mosaic, beneath Baths of Trajan, opens to the public",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-14T15:19:25.228373+00:00",
+    "published": "2026-09-14T13:01:04+00:00"
+  },
+  "https://refactoringenglish.com/excerpts/write-an-effective-design-doc": {
+    "title": "How to Write an Effective Software Design Document",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-14T15:19:25.228373+00:00",
+    "published": "2026-09-14T13:00:46+00:00"
+  },
+  "https://lwn.net/Articles/1093985": {
+    "title": "More than 9,000 patches total in the seven stable kernels for Monday",
+    "source": "LWN.net",
+    "first_seen": "2026-09-14T15:19:25.228373+00:00",
+    "published": "2026-09-14T13:00:07+00:00"
+  },
+  "https://www.reuters.com/legal/litigation/texas-judge-rules-tiktok-misled-users-child-safety-feature-2026-09-11": {
+    "title": "Texas judge rules TikTok misled users on child safety feature",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-14T15:19:25.228373+00:00",
+    "published": "2026-09-14T12:37:42+00:00"
+  },
+  "https://github.com/Newspicel/sdrminusminus": {
+    "title": "SDR–; open source SDR with a patchable signal graph, Rust DSP, web UI",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-14T15:19:25.228373+00:00",
+    "published": "2026-09-14T12:35:56+00:00"
+  },
+  "https://www.htx.com/en-in/news/internet-shocked-unsolved-problem-by-fields-medalist-breache-IBDgZG2j": {
+    "title": "Unsolved Problem by Fields Medalist Breached by Two High School Students",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-14T15:19:25.228373+00:00",
+    "published": "2026-09-14T12:23:11+00:00"
+  },
+  "https://xcancel.com/twitter": {
+    "title": "XCancel suspended \"due to a new development in the ongoing legal proceedings\"",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-14T15:19:25.228373+00:00",
+    "published": "2026-09-14T12:05:52+00:00"
+  },
+  "https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude": {
+    "title": "Apple's Siri AI Can Be Swapped Out for Claude, ChatGPT, Code Shows",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-14T15:19:25.228373+00:00",
+    "published": "2026-09-14T12:01:32+00:00"
+  },
+  "https://github.com/callbacked/kinesis": {
+    "title": "Show HN: Kinesis – Control your Mac with the Meta Neural Band",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-14T15:19:25.228373+00:00",
+    "published": "2026-09-14T12:01:31+00:00"
+  },
+  "https://realpython.com/quizzes/agentic-engineering": {
+    "title": "Quiz: Agentic Engineering in Python: From Vibes to Evidence",
+    "source": "Real Python",
+    "first_seen": "2026-09-14T15:19:25.228373+00:00",
+    "published": "2026-09-14T12:00:00+00:00"
+  },
+  "https://neon.com/blog/inside-lubots-database-per-tenant-architecture": {
+    "title": "Inside LuBot's database-per-tenant architecture",
+    "source": "Neon Blog",
+    "first_seen": "2026-09-14T15:19:25.228373+00:00",
+    "published": "2026-09-14T12:00:00+00:00"
+  },
+  "https://www.schneier.com/blog/archives/2026/09/microsofts-patching.html": {
+    "title": "Microsoft’s Patching",
+    "source": "Schneier on Security",
+    "first_seen": "2026-09-14T15:19:25.228373+00:00",
+    "published": "2026-09-14T11:03:26+00:00"
+  },
+  "https://thenewstack.io/llm-response-caching-costs": {
+    "title": "Why an old caching trick is your secret to lower LLM costs",
+    "source": "The New Stack",
+    "first_seen": "2026-09-14T15:19:25.228373+00:00",
+    "published": "2026-09-14T11:00:00+00:00"
+  },
+  "https://www.cncf.io/blog/2026/09/14/cilium-1-20-gateway-api-externalauth-tcproute-udproute-eni-ipam-for-ipv6-and-more": {
+    "title": "Cilium 1.20: Gateway API ExternalAuth, TCPRoute/UDPRoute, ENI IPAM for IPv6, and more",
+    "source": "CNCF Blog",
+    "first_seen": "2026-09-14T15:19:25.228373+00:00",
+    "published": "2026-09-14T10:45:49+00:00"
+  },
+  "https://www.phoronix.com/news/Faster-Kernel-Builds-AI-v2": {
+    "title": "Linux 7.4 Could End Up Seeing Kernel Builds ~36% Faster, Incremental Builds ~70% Faster",
+    "source": "Phoronix",
+    "first_seen": "2026-09-14T15:19:25.228373+00:00",
+    "published": "2026-09-14T10:31:16+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.3-Fix-Silent-Data-Loss": {
+    "title": "Linux Patched For Silent User-Space Data Loss Bug That's Existed Since 2023",
+    "source": "Phoronix",
+    "first_seen": "2026-09-14T15:19:25.228373+00:00",
+    "published": "2026-09-14T10:13:45+00:00"
+  },
+  "https://stratechery.com/2026/pacing-the-frontier-ais-digital-limits-ai-commissars": {
+    "title": "Pacing the Frontier, AI’s Digital Limits, AI Commissars",
+    "source": "Stratechery",
+    "first_seen": "2026-09-14T15:19:25.228373+00:00",
+    "published": "2026-09-14T10:00:00+00:00"
+  },
+  "https://github.com/rh1tech/frank-386": {
+    "title": "A 386 PC for Your RP2350",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-14T15:19:25.228373+00:00",
+    "published": "2026-09-14T08:25:57+00:00"
+  },
+  "https://charity.wtf/p/confessions-of-an-unrepentant-slop": {
+    "title": "Confessions of an Unrepentant Slop Snob",
+    "source": "Charity Majors",
+    "first_seen": "2026-09-14T15:19:25.228373+00:00",
+    "published": "2026-09-14T00:58:18+00:00"
+  },
+  "https://simonwillison.net/2026/Sep/14/commit-rewriter": {
+    "title": "commit-rewriter 0.1",
+    "source": "Simon Willison",
+    "first_seen": "2026-09-14T15:19:25.228373+00:00",
+    "published": "2026-09-14T00:28:10+00:00"
+  },
+  "https://www.thoughtworks.com/insights/blog/machine-learning-and-ai/ai-ready-data-part-1": {
+    "title": "AI-ready data: The anthology - Part 1 of 2",
+    "source": "ThoughtWorks",
+    "first_seen": "2026-09-14T15:19:25.228373+00:00",
+    "published": "2026-09-14T00:00:00+00:00"
+  },
+  "https://simonwillison.net/2026/Sep/13/shot-scraper": {
+    "title": "shot-scraper 1.12",
+    "source": "Simon Willison",
+    "first_seen": "2026-09-14T15:19:25.228373+00:00",
+    "published": "2026-09-13T23:58:14+00:00"
   }
 }
