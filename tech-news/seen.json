@@ -89372,5 +89372,341 @@
     "source": "Simon Willison",
     "first_seen": "2026-09-14T15:19:25.228373+00:00",
     "published": "2026-09-13T23:58:14+00:00"
+  },
+  "https://github.com/JamesRyanATX/fcbnerd": {
+    "title": "Show HN: Macros with a Behringer FCB1010 MIDI Pedalboard in macOS",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-14T23:33:19.717994+00:00",
+    "published": "2026-09-14T23:01:36+00:00"
+  },
+  "https://thenewstack.io/real-swe-coding-benchmark": {
+    "title": "AI’s best coding agent fails 60% of the time — and the data backs it up",
+    "source": "The New Stack",
+    "first_seen": "2026-09-14T23:33:19.717994+00:00",
+    "published": "2026-09-14T22:22:27+00:00"
+  },
+  "https://dbtcharts.com/blog/charts-built-for-chat": {
+    "title": "Charts built for Chat",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-14T23:33:19.717994+00:00",
+    "published": "2026-09-14T21:22:54+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/abnormal-ai-amazon-bedrock-agentcore-for-agentic-email-security-at-scale": {
+    "title": "Abnormal AI: Amazon Bedrock AgentCore for agentic email security at scale",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-09-14T23:33:19.717994+00:00",
+    "published": "2026-09-14T21:22:45+00:00"
+  },
+  "https://simonwillison.net/2026/Sep/14/the-contagion-of-fear": {
+    "title": "The contagion of fear",
+    "source": "Simon Willison",
+    "first_seen": "2026-09-14T23:33:19.717994+00:00",
+    "published": "2026-09-14T21:18:13+00:00"
+  },
+  "https://law.justia.com/cases/federal/appellate-courts/ca9/26-1444/26-1444-2026-08-04.html": {
+    "title": "Amazon vs. Perplexity – U.S. Court of Appeals for the Ninth Circuit",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-14T23:33:19.717994+00:00",
+    "published": "2026-09-14T21:05:22+00:00"
+  },
+  "https://www.databricks.com/blog/announcing-demand-state-repartitioning-apache-sparktm-structured-streaming-databricks": {
+    "title": "Announcing On-Demand State Repartitioning for Apache Spark™ Structured Streaming on Databricks",
+    "source": "Databricks Blog",
+    "first_seen": "2026-09-14T23:33:19.717994+00:00",
+    "published": "2026-09-14T21:04:30+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/manage-end-user-oauth-consent-for-ai-agents-with-amazon-bedrock-agentcore": {
+    "title": "Manage end-user OAuth consent for AI agents with Amazon Bedrock AgentCore",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-09-14T23:33:19.717994+00:00",
+    "published": "2026-09-14T20:35:45+00:00"
+  },
+  "https://simonwillison.net/2026/Sep/14/influences": {
+    "title": "What blog posts influenced your thinking the most?",
+    "source": "Simon Willison",
+    "first_seen": "2026-09-14T23:33:19.717994+00:00",
+    "published": "2026-09-14T20:21:48+00:00"
+  },
+  "https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review": {
+    "title": "GPT-5.6 Luna vs. GPT-6 Astra: Is a $1.20 Model Good Enough for Code Review?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-14T23:33:19.717994+00:00",
+    "published": "2026-09-14T19:56:20+00:00"
+  },
+  "https://lwn.net/Articles/1094312": {
+    "title": "GNU Core Utilities 9.12 released",
+    "source": "LWN.net",
+    "first_seen": "2026-09-14T23:33:19.717994+00:00",
+    "published": "2026-09-14T19:53:59+00:00"
+  },
+  "https://www.schneier.com/blog/archives/2026/09/upcoming-speaking-engagements-60.html": {
+    "title": "Upcoming Speaking Engagements",
+    "source": "Schneier on Security",
+    "first_seen": "2026-09-14T23:33:19.717994+00:00",
+    "published": "2026-09-14T19:02:45+00:00"
+  },
+  "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch": {
+    "title": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
+    "source": "Google AI Blog",
+    "first_seen": "2026-09-14T23:33:19.717994+00:00",
+    "published": "2026-09-14T19:00:00+00:00"
+  },
+  "https://kubernetes.io/blog/2026/09/14/kubernetes-v1-37-memory-qos-graduates-to-beta": {
+    "title": "Kubernetes v1.37: Memory QoS Graduates to Beta",
+    "source": "Kubernetes Blog",
+    "first_seen": "2026-09-14T23:33:19.717994+00:00",
+    "published": "2026-09-14T18:30:00+00:00"
+  },
+  "https://kubernetes.io/blog/2026/09/14/csi-changed-block-tracking-beta": {
+    "title": "Kubernetes Changed Block Tracking API - Beta Differences",
+    "source": "Kubernetes Blog",
+    "first_seen": "2026-09-14T23:33:19.717994+00:00",
+    "published": "2026-09-14T18:30:00+00:00"
+  },
+  "https://thenewstack.io/perplexity-portable-computer-windows": {
+    "title": "Perplexity’s new agent runs entirely on your GPU — with one expensive catch",
+    "source": "The New Stack",
+    "first_seen": "2026-09-14T23:33:19.717994+00:00",
+    "published": "2026-09-14T18:21:44+00:00"
+  },
+  "https://www.phoronix.com/news/AMD-Enhanced-SMT-Protection": {
+    "title": "AMD Preparing Linux For Enhanced SMT Protection \"ESMTP\" For EPYC VMs",
+    "source": "Phoronix",
+    "first_seen": "2026-09-14T23:33:19.717994+00:00",
+    "published": "2026-09-14T18:03:38+00:00"
+  },
+  "https://pub.sakana.ai/pc-alm": {
+    "title": "Backprop Alternative: Augmented Lagrangian Predictive Coding",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-14T23:33:19.717994+00:00",
+    "published": "2026-09-14T18:03:12+00:00"
+  },
+  "https://grafana.com/blog/digital-experience-monitoring-with-grafana-cloud-session-replay-synthetic-checks-and-faster-investigations": {
+    "title": "Digital Experience Monitoring with Grafana Cloud: Session Replay, synthetic checks, and faster investigations",
+    "source": "Grafana Blog",
+    "first_seen": "2026-09-14T23:33:19.717994+00:00",
+    "published": "2026-09-14T18:02:58+00:00"
+  },
+  "https://aws.amazon.com/blogs/security/aws-security-reference-architecture-a-deep-dive-into-pci-dss-compliance": {
+    "title": "AWS Security Reference Architecture: A deep dive into PCI DSS compliance",
+    "source": "AWS Security Blog",
+    "first_seen": "2026-09-14T23:33:19.717994+00:00",
+    "published": "2026-09-14T17:46:56+00:00"
+  },
+  "https://www.phoronix.com/news/GNU-Coreutils-9.12": {
+    "title": "GNU Coreutils 9.12 Released With Performance Optimizations, New uname Option",
+    "source": "Phoronix",
+    "first_seen": "2026-09-14T23:33:19.717994+00:00",
+    "published": "2026-09-14T17:45:05+00:00"
+  },
+  "https://andonlabs.com/blog/why-we-built-pion": {
+    "title": "Pion, an agent designed to run any company autonomously",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-14T23:33:19.717994+00:00",
+    "published": "2026-09-14T17:16:06+00:00"
+  },
+  "https://www.phoronix.com/news/Valve-Steam-Frame-1059": {
+    "title": "Valve's Steam Frame Now Available At $1059+ USD",
+    "source": "Phoronix",
+    "first_seen": "2026-09-14T23:33:19.717994+00:00",
+    "published": "2026-09-14T17:05:37+00:00"
+  },
+  "https://devblogs.microsoft.com/dotnet/share-your-dotnet-story": {
+    "title": "Share your .NET story with the community",
+    "source": "MS .NET Blog",
+    "first_seen": "2026-09-14T23:33:19.717994+00:00",
+    "published": "2026-09-14T17:05:00+00:00"
+  },
+  "https://www.ycombinator.com/companies/cua/jobs/1IWEKVH-founding-technical-gtm-lead": {
+    "title": "Cua (YC P25) Is Hiring a Founding Technical GTM Lead",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-14T23:33:19.717994+00:00",
+    "published": "2026-09-14T17:00:53+00:00"
+  },
+  "https://aws.amazon.com/blogs/compute/validating-multi-agent-decisions-with-step-functions-and-bedrock-agentcore": {
+    "title": "Validating multi-agent decisions with Step Functions and Bedrock AgentCore",
+    "source": "AWS Compute Blog",
+    "first_seen": "2026-09-14T23:33:19.717994+00:00",
+    "published": "2026-09-14T16:47:23+00:00"
+  },
+  "https://developer.nvidia.com/blog/accelerating-dropless-moe-training-in-jax-with-nvidia-transformer-engine": {
+    "title": "Accelerating Dropless MoE Training in JAX with NVIDIA Transformer Engine",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-09-14T23:33:19.717994+00:00",
+    "published": "2026-09-14T16:39:15+00:00"
+  },
+  "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit": {
+    "title": "Why don't machine learning research agents overfit?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-14T23:33:19.717994+00:00",
+    "published": "2026-09-14T16:32:23+00:00"
+  },
+  "https://www.serpentine.com/posts/2026/x3-stripes": {
+    "title": "How my e-reader lost its stripes",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-14T23:33:19.717994+00:00",
+    "published": "2026-09-14T16:23:16+00:00"
+  },
+  "https://www.theregister.com/os-platforms/2026/09/14/microsoft-patches-windows-and-excel-breaks-audio-remote-access-and-paste/5296085": {
+    "title": "Microsoft patches Windows and Excel – breaks audio, remote access, and paste",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-14T23:33:19.717994+00:00",
+    "published": "2026-09-14T16:09:45+00:00"
+  },
+  "https://narilabs.com/blog/nari-labs-leads-coval-voice-ai-benchmarks": {
+    "title": "Show HN: Nari Qwen3-TTS and Qwen3-ASR – High accuracy, low latency and cost",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-14T23:33:19.717994+00:00",
+    "published": "2026-09-14T16:07:58+00:00"
+  },
+  "https://www.schneier.com/blog/archives/2026/09/using-ai-for-weapons-development.html": {
+    "title": "Using AI for Weapons Development",
+    "source": "Schneier on Security",
+    "first_seen": "2026-09-14T23:33:19.717994+00:00",
+    "published": "2026-09-14T16:07:46+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/resolve-amazon-aurora-postgresql-lock-contention-with-database-insights-part-2": {
+    "title": "Resolve Amazon Aurora PostgreSQL lock contention with Database Insights: Part 2",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-09-14T23:33:19.717994+00:00",
+    "published": "2026-09-14T16:02:16+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/troubleshooting-row-lock-contention-in-amazon-aurora-postgresql-part-1-understanding-row-lock-contention-in-postgresql": {
+    "title": "Troubleshooting row lock contention in Amazon Aurora PostgreSQL: Part 1 – Understanding row lock contention in PostgreSQL",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-09-14T23:33:19.717994+00:00",
+    "published": "2026-09-14T16:02:08+00:00"
+  },
+  "https://www.neobrutalism.dev": {
+    "title": "Show HN: Neobrutalism.dev – Just added Base UI support and added new color theme",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-14T23:33:19.717994+00:00",
+    "published": "2026-09-14T16:02:02+00:00"
+  },
+  "https://nvartolomei.com/dist-sys-classics": {
+    "title": "Distributed Systems Classics (2017)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-14T23:33:19.717994+00:00",
+    "published": "2026-09-14T16:02:01+00:00"
+  },
+  "https://brashandplucky.com/2023/09/09/truncated-svd.html": {
+    "title": "Truncated SVD (2023)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-14T23:33:19.717994+00:00",
+    "published": "2026-09-14T16:00:33+00:00"
+  },
+  "https://cloud.google.com/blog/products/data-analytics/new-dataflow-features-to-enable-large-scale-ai-workloads": {
+    "title": "Announcing Pause/Resume and NVIDIA RTX PRO 6000 Blackwell GPU support in Dataflow",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-09-14T23:33:19.717994+00:00",
+    "published": "2026-09-14T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/data-analytics/bigquery-augmented-analytics-tvfs": {
+    "title": "Agent-ready analytics: Unlocking insights with BigQuery augmented analytics",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-09-14T23:33:19.717994+00:00",
+    "published": "2026-09-14T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/compute/forrester-wave-public-cloud-platforms-q3-2026-report": {
+    "title": "Google is a leader in The Forrester Wave™: Public Cloud Platforms, Q3 2026",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-09-14T23:33:19.717994+00:00",
+    "published": "2026-09-14T16:00:00+00:00"
+  },
+  "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026": {
+    "title": "DevFest is back",
+    "source": "Google AI Blog",
+    "first_seen": "2026-09-14T23:33:19.717994+00:00",
+    "published": "2026-09-14T16:00:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/how-ninth-wave-built-ai-powered-open-finance-onboarding-on-amazon-bedrock": {
+    "title": "How Ninth Wave built AI-powered open finance onboarding on Amazon Bedrock",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-09-14T23:33:19.717994+00:00",
+    "published": "2026-09-14T15:58:57+00:00"
+  },
+  "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-openai-gpt-6-astra-on-amazon-bedrock-amazon-quick-desktop-ga-kiro-for-students-and-more-september-14-2026": {
+    "title": "AWS Weekly Roundup: OpenAI GPT-6 Astra on Amazon Bedrock, Amazon Quick desktop GA, Kiro for students, and more (September 14, 2026)",
+    "source": "AWS Blog",
+    "first_seen": "2026-09-14T23:33:19.717994+00:00",
+    "published": "2026-09-14T15:56:33+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/the-generative-ai-customization-spectrum-from-prompt-engineering-to-custom-models-on-aws": {
+    "title": "The generative AI customization spectrum: From prompt engineering to custom models on AWS",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-09-14T23:33:19.717994+00:00",
+    "published": "2026-09-14T15:47:12+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/automate-replenishment-with-mmf-databricks-genie-and-amazon-quick": {
+    "title": "Automate replenishment with MMF, Databricks Genie, and Amazon Quick",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-09-14T23:33:19.717994+00:00",
+    "published": "2026-09-14T15:42:06+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/scale-down-kinesis-data-streams-on-demand-capacity-with-oda-warm-throughput": {
+    "title": "Scale down Kinesis Data Streams on-demand capacity with ODA warm throughput",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-09-14T23:33:19.717994+00:00",
+    "published": "2026-09-14T15:36:36+00:00"
+  },
+  "https://www.phoronix.com/news/Rustls-0.23.45-Released": {
+    "title": "Rustls 0.23.45 Released To Fix Two Year Old Security Issue",
+    "source": "Phoronix",
+    "first_seen": "2026-09-14T23:33:19.717994+00:00",
+    "published": "2026-09-14T15:35:11+00:00"
+  },
+  "https://lwn.net/Articles/1093381": {
+    "title": "[$] Lessons learned as the Debian Project Leader",
+    "source": "LWN.net",
+    "first_seen": "2026-09-14T23:33:19.717994+00:00",
+    "published": "2026-09-14T15:34:44+00:00"
+  },
+  "https://www.daniellitt.com/blog/2026/9/13/a-beginning-for-mathematics": {
+    "title": "A Beginning for Mathematics",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-14T23:33:19.717994+00:00",
+    "published": "2026-09-14T15:33:07+00:00"
+  },
+  "https://blog.bytebytego.com/p/llms-as-a-judge-how-to-know-if-your": {
+    "title": "LLMs as a Judge: How to Know if Your LLM is Healthy",
+    "source": "ByteByteGo",
+    "first_seen": "2026-09-14T23:33:19.717994+00:00",
+    "published": "2026-09-14T15:31:02+00:00"
+  },
+  "https://dial9-rs.github.io/blog/principles-for-fast-tokio-applications": {
+    "title": "Principles for Fast Tokio Applications",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-14T23:33:19.717994+00:00",
+    "published": "2026-09-14T15:27:56+00:00"
+  },
+  "https://lwn.net/Articles/1094224": {
+    "title": "Emacs arbitrary code execution flaw",
+    "source": "LWN.net",
+    "first_seen": "2026-09-14T23:33:19.717994+00:00",
+    "published": "2026-09-14T15:20:00+00:00"
+  },
+  "https://pop.rdi.sh/dario-please": {
+    "title": "Dario, Please",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-14T23:33:19.717994+00:00",
+    "published": "2026-09-14T14:50:32+00:00"
+  },
+  "https://spectrum.ieee.org/adversarial-fashion": {
+    "title": "Adversarial Fashion Makes a Statement on AI Panopticon",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-14T23:33:19.717994+00:00",
+    "published": "2026-09-14T14:04:53+00:00"
+  },
+  "https://openai.com/index/fyxer": {
+    "title": "How Fyxer built an AI executive assistant people trust",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-09-14T23:33:19.717994+00:00",
+    "published": "2026-09-14T12:00:00+00:00"
+  },
+  "https://blog.janestreet.com/a-study-of-sequence-weighting-at-scale": {
+    "title": "A study of sequence weighting at scale",
+    "source": "Jane Street Tech",
+    "first_seen": "2026-09-14T23:33:19.717994+00:00",
+    "published": "2026-09-14T00:00:00+00:00"
   }
 }
