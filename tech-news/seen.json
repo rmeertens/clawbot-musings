@@ -89924,5 +89924,311 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-09-15T13:55:36.234562+00:00",
     "published": "2026-09-14T14:33:00+00:00"
+  },
+  "https://www.strix.ai/blog/baseten-harbor-github-pat-takeover": {
+    "title": "We got admin access to Baseten's production GitHub in 25 minutes",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-15T18:33:23.818778+00:00",
+    "published": "2026-09-15T18:11:24+00:00"
+  },
+  "https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access": {
+    "title": "An Update on Wayback Machine Access",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-15T18:33:23.818778+00:00",
+    "published": "2026-09-15T17:52:18+00:00"
+  },
+  "https://dallincrump.com/dystopian-surveillance-is-becoming-a-reality": {
+    "title": "Dystopian Surveillance Is Becoming a Reality",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-15T18:33:23.818778+00:00",
+    "published": "2026-09-15T17:37:36+00:00"
+  },
+  "https://cloud.google.com/blog/products/identity-security/introducing-new-session-management-tools-with-native-granular-controls": {
+    "title": "Introducing new session management tools with native, granular controls",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-09-15T18:33:23.818778+00:00",
+    "published": "2026-09-15T17:30:00+00:00"
+  },
+  "https://marc.info?l=openbsd-tech&m=178948744271633&w=2": {
+    "title": "GEFS on OpenBSD: A Early Preview",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-15T18:33:23.818778+00:00",
+    "published": "2026-09-15T17:12:19+00:00"
+  },
+  "https://medium.com/airbnb-engineering/beyond-the-model-engineering-ai-infra-with-scientific-judgement-371316d43261?source=rss----53c7c27702d5---4": {
+    "title": "Beyond the Model: Engineering AI Infra with Scientific Judgement",
+    "source": "Airbnb Engineering",
+    "first_seen": "2026-09-15T18:33:23.818778+00:00",
+    "published": "2026-09-15T17:06:18+00:00"
+  },
+  "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking": {
+    "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+    "source": "DeepMind Blog",
+    "first_seen": "2026-09-15T18:33:23.818778+00:00",
+    "published": "2026-09-15T17:05:57+00:00"
+  },
+  "https://jiga.io/about-us?ashby_jid=0b75d72d-c92b-4dca-8062-09d298ada0bd": {
+    "title": "Jiga (YC W21) Is Hiring Product Engineer (Remote/US)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-15T18:33:23.818778+00:00",
+    "published": "2026-09-15T17:00:31+00:00"
+  },
+  "https://developer.nvidia.com/blog/dense-vs-moe-models-active-parameters-throughput-and-when-to-choose-each": {
+    "title": "Dense vs. MoE Models: Active Parameters, Throughput, and When to Choose Each",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-09-15T18:33:23.818778+00:00",
+    "published": "2026-09-15T17:00:11+00:00"
+  },
+  "https://developer.nvidia.com/blog/how-nvidia-nvlink-6-delivers-multi-layer-resiliency-for-ai-factories": {
+    "title": "How NVIDIA NVLink 6 Delivers Multi-Layer Resiliency for AI Factories",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-09-15T18:33:23.818778+00:00",
+    "published": "2026-09-15T16:55:00+00:00"
+  },
+  "https://developer.nvidia.com/blog/how-nvidia-groq-3-lpx-deterministic-execution-drives-power-efficient-high-interactivity-inference-on-nvidia-vera-rubin": {
+    "title": "How NVIDIA Groq 3 LPX Deterministic Execution Drives Power-Efficient High-Interactivity Inference on NVIDIA Vera Rubin",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-09-15T18:33:23.818778+00:00",
+    "published": "2026-09-15T16:55:00+00:00"
+  },
+  "https://www.phoronix.com/news/SDL3-Ported--To-HarmonyOS": {
+    "title": "SDL3 Ported To HarmonyOS / OpenHarmony",
+    "source": "Phoronix",
+    "first_seen": "2026-09-15T18:33:23.818778+00:00",
+    "published": "2026-09-15T16:54:08+00:00"
+  },
+  "https://www.databricks.com/blog/how-energy-teams-turn-theft-detection-governed-action-genie-and-ai-business-processes": {
+    "title": "How energy teams turn theft detection into governed action with Genie and AI business processes",
+    "source": "Databricks Blog",
+    "first_seen": "2026-09-15T18:33:23.818778+00:00",
+    "published": "2026-09-15T16:50:00+00:00"
+  },
+  "https://www.cncf.io/blog/2026/09/15/what-i-learned-organizing-kcd-lima-2026": {
+    "title": "What I learned organizing KCD Lima 2026",
+    "source": "CNCF Blog",
+    "first_seen": "2026-09-15T18:33:23.818778+00:00",
+    "published": "2026-09-15T16:24:05+00:00"
+  },
+  "https://thenewstack.io/azure-sre-agent-operations": {
+    "title": "Agents operate, humans govern: Scale your operations and reduce toil with Azure SRE Agent",
+    "source": "The New Stack",
+    "first_seen": "2026-09-15T18:33:23.818778+00:00",
+    "published": "2026-09-15T16:21:45+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/optimizing-cost-and-latency-with-amazon-bedrock-prompt-caching": {
+    "title": "Optimizing cost and latency with Amazon Bedrock prompt caching",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-09-15T18:33:23.818778+00:00",
+    "published": "2026-09-15T16:18:19+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/build-an-ai-powered-product-tagging-system-with-amazon-sagemaker-serverless-model-customization": {
+    "title": "Build an AI-powered product tagging system with Amazon SageMaker serverless model customization",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-09-15T18:33:23.818778+00:00",
+    "published": "2026-09-15T16:11:36+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/announcing-instance-preference-lists-for-amazon-sagemaker-ai-training-jobs": {
+    "title": "Announcing instance preference lists for Amazon SageMaker AI training jobs",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-09-15T18:33:23.818778+00:00",
+    "published": "2026-09-15T16:01:47+00:00"
+  },
+  "https://huggingface.co/blog/ibm-research/altk-evolve-consistency": {
+    "title": "Your Agent Aced the Task. Will It Do It Again?",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-09-15T18:33:23.818778+00:00",
+    "published": "2026-09-15T16:00:44+00:00"
+  },
+  "https://www.hashicorp.com/blog/simplifying-terraform-for-ibm-z-with-intent-driven-workflows": {
+    "title": "Simplifying Terraform for IBM Z with intent-driven workflows",
+    "source": "HashiCorp Blog",
+    "first_seen": "2026-09-15T18:33:23.818778+00:00",
+    "published": "2026-09-15T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/topics/developers-practitioners/cloud-reliability-incident-handling-best-practices": {
+    "title": "Best practices for handling cloud reliability incidents",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-09-15T18:33:23.818778+00:00",
+    "published": "2026-09-15T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/storage-data-transfer/filestore-agent-volumes": {
+    "title": "Introducing Filestore agent volumes: fully managed storage for agent workspaces",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-09-15T18:33:23.818778+00:00",
+    "published": "2026-09-15T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/databases/run-gnns-at-scale-with-ease-introducing-distributed-graphflow": {
+    "title": "Scaling Telco Autonomy: Leveraging GNNs with Distributed GraphFlow",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-09-15T18:33:23.818778+00:00",
+    "published": "2026-09-15T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/containers-kubernetes/agent-substrate-available-on-gke": {
+    "title": "Agent Substrate brings high-density, scalable, trusted infrastructure to GKE",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-09-15T18:33:23.818778+00:00",
+    "published": "2026-09-15T16:00:00+00:00"
+  },
+  "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact": {
+    "title": "AI for Societal Impact",
+    "source": "Google AI Blog",
+    "first_seen": "2026-09-15T18:33:23.818778+00:00",
+    "published": "2026-09-15T16:00:00+00:00"
+  },
+  "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language": {
+    "title": "AI for everyone in every language",
+    "source": "Google AI Blog",
+    "first_seen": "2026-09-15T18:33:23.818778+00:00",
+    "published": "2026-09-15T16:00:00+00:00"
+  },
+  "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people": {
+    "title": "Building AI to accelerate science and improve lives",
+    "source": "Google AI Blog",
+    "first_seen": "2026-09-15T18:33:23.818778+00:00",
+    "published": "2026-09-15T16:00:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/how-united-airlines-uses-amazon-redshift-and-aws-glue-data-catalog-federation-to-query-databricks-managed-data": {
+    "title": "How United Airlines uses Amazon Redshift and AWS Glue Data Catalog federation to query Databricks-managed data",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-09-15T18:33:23.818778+00:00",
+    "published": "2026-09-15T15:59:48+00:00"
+  },
+  "https://www.lawfaremedia.org/article/america%27s-drivers-licence-breach-is-a-national-security-disaster": {
+    "title": "America's Driver's License Breach Is a National Security Disaster",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-15T18:33:23.818778+00:00",
+    "published": "2026-09-15T15:58:48+00:00"
+  },
+  "https://aws.amazon.com/blogs/security/operationalizing-least-privilege-automate-iam-remediation-through-your-ci-cd-pipeline": {
+    "title": "Operationalizing least privilege: Automate IAM remediation through your CI/CD pipeline",
+    "source": "AWS Security Blog",
+    "first_seen": "2026-09-15T18:33:23.818778+00:00",
+    "published": "2026-09-15T15:53:51+00:00"
+  },
+  "https://newsletter.pragmaticengineer.com/p/openai-software-factory": {
+    "title": "Inside OpenAI’s agentic software factory",
+    "source": "The Pragmatic Engineer",
+    "first_seen": "2026-09-15T18:33:23.818778+00:00",
+    "published": "2026-09-15T15:41:25+00:00"
+  },
+  "https://www.phoronix.com/review/ubuntu-2610-wildcat-lake": {
+    "title": "Ubuntu 26.10 Set To Deliver Better Performance For Intel Core 3 Wildcat Lake",
+    "source": "Phoronix",
+    "first_seen": "2026-09-15T18:33:23.818778+00:00",
+    "published": "2026-09-15T15:34:07+00:00"
+  },
+  "https://blog.bytebytego.com/p/do-llms-have-the-memory-of-a-goldfish": {
+    "title": "Do LLMs Have the Memory of a Goldfish?",
+    "source": "ByteByteGo",
+    "first_seen": "2026-09-15T18:33:23.818778+00:00",
+    "published": "2026-09-15T15:31:12+00:00"
+  },
+  "https://www.formas.ai/cartesian": {
+    "title": "Cartesian – AI 3D Modeling for Design",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-15T18:33:23.818778+00:00",
+    "published": "2026-09-15T15:26:45+00:00"
+  },
+  "https://whats-left-over.pages.dev": {
+    "title": "Show HN: The bottom 50% of U.S. households are short after essentials (BLS data)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-15T18:33:23.818778+00:00",
+    "published": "2026-09-15T15:24:11+00:00"
+  },
+  "https://martinfowler.com/articles/never-send-slides/nail-your-narrative.html": {
+    "title": "Nail the Narrative",
+    "source": "Martin Fowler",
+    "first_seen": "2026-09-15T18:33:23.818778+00:00",
+    "published": "2026-09-15T15:11:00+00:00"
+  },
+  "https://developer.nvidia.com/blog/scaling-federated-learning-across-docker-kubernetes-and-slurm-with-nvidia-flare": {
+    "title": "Scaling Federated Learning Across Docker, Kubernetes, and Slurm with NVIDIA FLARE",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-09-15T18:33:23.818778+00:00",
+    "published": "2026-09-15T15:00:00+00:00"
+  },
+  "https://josprague.com/blog/the-css-zen-garden-dream-finally-shipped": {
+    "title": "The CSS Zen Garden dream, finally shipped",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-15T18:33:23.818778+00:00",
+    "published": "2026-09-15T14:40:08+00:00"
+  },
+  "https://nvidia.github.io/OpenShell-Research/dev-notes/posts/2026-09-10-learning-formal-methods-agent-policy-prover": {
+    "title": "What we have learned at OpenShell applying formal methods to control AI agents",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-15T18:33:23.818778+00:00",
+    "published": "2026-09-15T14:40:05+00:00"
+  },
+  "https://lwn.net/Articles/1093661": {
+    "title": "[$] Adding BPF to blk-iocost",
+    "source": "LWN.net",
+    "first_seen": "2026-09-15T18:33:23.818778+00:00",
+    "published": "2026-09-15T14:37:30+00:00"
+  },
+  "https://www.phoronix.com/news/Fedora-45-Beta": {
+    "title": "Fedora 45 Beta Released With KMSCON Console, GNOME 51 & Other Updates",
+    "source": "Phoronix",
+    "first_seen": "2026-09-15T18:33:23.818778+00:00",
+    "published": "2026-09-15T14:30:08+00:00"
+  },
+  "https://spectrum.ieee.org/inference-hardware-revolution": {
+    "title": "The Inference Hardware Revolution of 2026",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-15T18:33:23.818778+00:00",
+    "published": "2026-09-15T14:24:08+00:00"
+  },
+  "https://thenewstack.io/attach-owner-cloud-resources": {
+    "title": "How to attach an owner to every cloud resource you find",
+    "source": "The New Stack",
+    "first_seen": "2026-09-15T18:33:23.818778+00:00",
+    "published": "2026-09-15T14:00:00+00:00"
+  },
+  "https://realpython.com/courses/automating-eda-with-fg-data-profiling": {
+    "title": "Automating EDA With fg-data-profiling",
+    "source": "Real Python",
+    "first_seen": "2026-09-15T18:33:23.818778+00:00",
+    "published": "2026-09-15T14:00:00+00:00"
+  },
+  "https://github.com/greentfrapp/panel": {
+    "title": "Show HN: Panel – A research workspace where the agent can build its own panes",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-15T18:33:23.818778+00:00",
+    "published": "2026-09-15T13:58:37+00:00"
+  },
+  "https://withcapsule.app": {
+    "title": "Show HN: Capsule – Single-file web apps that save their data into SQLite",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-15T18:33:23.818778+00:00",
+    "published": "2026-09-15T13:31:40+00:00"
+  },
+  "https://www.forbrukerradet.no/short-life": {
+    "title": "Let's make quality the norm again",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-15T18:33:23.818778+00:00",
+    "published": "2026-09-15T10:00:16+00:00"
+  },
+  "https://tintotint.eu/whacky-corner/f-droid_slop": {
+    "title": "How much of F-Droid is LLM generated?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-15T18:33:23.818778+00:00",
+    "published": "2026-09-15T09:47:48+00:00"
+  },
+  "https://www.databricks.com/blog/databricks-marketers-use-data-3x-genie-ai-analytics-assistant": {
+    "title": "How Databricks’ marketers use data 3x more with Genie, an AI analytics assistant",
+    "source": "Databricks Blog",
+    "first_seen": "2026-09-15T18:33:23.818778+00:00",
+    "published": "2026-09-15T00:36:33+00:00"
+  },
+  "https://www.redpanda.com/blog/streamhouse-working-group-ai-infrastructure": {
+    "title": "Why Streamhouse: mission-critical data and AI need infrastructure built for live",
+    "source": "Redpanda Blog",
+    "first_seen": "2026-09-15T18:33:23.818778+00:00",
+    "published": "2026-09-15T00:00:00+00:00"
+  },
+  "https://www.elastic.co/blog/av-comparatives-epr-test-2026": {
+    "title": "The only perfect Endpoint Prevention and Response (EPR) score in 2026 belongs to Elastic",
+    "source": "Elastic Blog",
+    "first_seen": "2026-09-15T18:33:23.818778+00:00",
+    "published": "2026-09-15T00:00:00+00:00"
   }
 }
