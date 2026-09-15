@@ -90230,5 +90230,143 @@
     "source": "Elastic Blog",
     "first_seen": "2026-09-15T18:33:23.818778+00:00",
     "published": "2026-09-15T00:00:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/security/aws-sts-simplifies-session-token-size-limits-and-adds-session-token-size-monitoring": {
+    "title": "AWS STS simplifies session token size limits and adds session token size monitoring",
+    "source": "AWS Security Blog",
+    "first_seen": "2026-09-15T23:15:20.122575+00:00",
+    "published": "2026-09-15T22:21:59+00:00"
+  },
+  "https://thenewstack.io/meta-mcp-whatsapp-business-claude": {
+    "title": "Meta lets Claude and Codex configure WhatsApp Business via MCP",
+    "source": "The New Stack",
+    "first_seen": "2026-09-15T23:15:20.122575+00:00",
+    "published": "2026-09-15T22:08:56+00:00"
+  },
+  "https://thenewstack.io/voice-agent-latency-architectures": {
+    "title": "OpenAI’s voice model doesn’t think. That’s the point.",
+    "source": "The New Stack",
+    "first_seen": "2026-09-15T23:15:20.122575+00:00",
+    "published": "2026-09-15T21:50:15+00:00"
+  },
+  "https://thenewstack.io/aws-agents-deterministic-validation": {
+    "title": "AWS agents will suggest your new flights. Code decides what gets booked.",
+    "source": "The New Stack",
+    "first_seen": "2026-09-15T23:15:20.122575+00:00",
+    "published": "2026-09-15T21:27:21+00:00"
+  },
+  "https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html": {
+    "title": "German Rheinmetall open-sources its Battlesuite connected weapon system protcol",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-15T23:15:20.122575+00:00",
+    "published": "2026-09-15T21:07:47+00:00"
+  },
+  "https://mathshistory.st-andrews.ac.uk/Biographies/Serre": {
+    "title": "Jean-Pierre Serre is 100 years old today",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-15T23:15:20.122575+00:00",
+    "published": "2026-09-15T20:57:18+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/connect-amazon-sagemaker-unified-studio-to-microsoft-power-bi-part-1-iam-identity-center-idc-based-domains": {
+    "title": "Connect Amazon SageMaker Unified Studio to Microsoft Power BI – Part 1: IAM Identity Center (IDC)-based domains",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-09-15T23:15:20.122575+00:00",
+    "published": "2026-09-15T20:55:26+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/connect-amazon-sagemaker-unified-studio-to-microsoft-power-bi-part-2-iam-based-domains": {
+    "title": "Connect Amazon SageMaker Unified Studio to Microsoft Power BI – Part 2: IAM-based domains",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-09-15T23:15:20.122575+00:00",
+    "published": "2026-09-15T20:55:16+00:00"
+  },
+  "https://research.google/blog/bypassing-inference-bottlenecks-accelerating-complex-ai-search-with-retrieve-for-train": {
+    "title": "Bypassing inference bottlenecks: Accelerating complex AI search with Retrieve-for-Train",
+    "source": "Google Research",
+    "first_seen": "2026-09-15T23:15:20.122575+00:00",
+    "published": "2026-09-15T20:00:35+00:00"
+  },
+  "https://blog.bytebytego.com/p/last-call-for-enrollment-build-with-d63": {
+    "title": "LAST CALL FOR ENROLLMENT: Build with Claude Code",
+    "source": "ByteByteGo",
+    "first_seen": "2026-09-15T23:15:20.122575+00:00",
+    "published": "2026-09-15T19:31:01+00:00"
+  },
+  "https://codyho.dev/blog/gpu-driver": {
+    "title": "Building a Linux GPU Driver for the M4 Mac Mini in One Month",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-15T23:15:20.122575+00:00",
+    "published": "2026-09-15T19:30:03+00:00"
+  },
+  "https://github.com/GraafHenk/numberwang": {
+    "title": "WangNet – 1.8 MB, zero-dependency Numberwang adjudication in 11 languages",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-15T23:15:20.122575+00:00",
+    "published": "2026-09-15T19:27:35+00:00"
+  },
+  "https://typesafe.ai/blog/introducing-system-one-models-and-jev": {
+    "title": "Introducing System One Models and Jev",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-15T23:15:20.122575+00:00",
+    "published": "2026-09-15T19:25:03+00:00"
+  },
+  "https://mnoukhov.github.io/posts/ngu": {
+    "title": "Learning to solve hard problems in RL for LLMs by never giving up",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-15T23:15:20.122575+00:00",
+    "published": "2026-09-15T19:07:38+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.4-AMD-P-State-Zen-6": {
+    "title": "AMD P-State Driver For Linux 7.4 Will Tune For Zen 6 Client CPUs",
+    "source": "Phoronix",
+    "first_seen": "2026-09-15T23:15:20.122575+00:00",
+    "published": "2026-09-15T19:03:22+00:00"
+  },
+  "https://aws.amazon.com/blogs/security/architecting-resilient-authentication-with-amazon-cognito-multi-region-replication": {
+    "title": "Architecting resilient authentication with Amazon Cognito multi-Region replication",
+    "source": "AWS Security Blog",
+    "first_seen": "2026-09-15T23:15:20.122575+00:00",
+    "published": "2026-09-15T19:00:52+00:00"
+  },
+  "https://thenewstack.io/bolt-forge-training-data": {
+    "title": "Bolt is giving developers 50x more compute. But there’s a catch.",
+    "source": "The New Stack",
+    "first_seen": "2026-09-15T23:15:20.122575+00:00",
+    "published": "2026-09-15T18:47:23+00:00"
+  },
+  "https://attainablefelicity.mattkirkland.com/20260915/cut-up-your-books.html": {
+    "title": "Chopping up books when they're physically too big",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-15T23:15:20.122575+00:00",
+    "published": "2026-09-15T18:45:31+00:00"
+  },
+  "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking": {
+    "title": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-15T23:15:20.122575+00:00",
+    "published": "2026-09-15T17:38:18+00:00"
+  },
+  "https://dank.systems/posts/2026-09-15-ai-bear.html": {
+    "title": "Why I'm still bearish on LLMs after Navier-Stokes",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-15T23:15:20.122575+00:00",
+    "published": "2026-09-15T17:37:12+00:00"
+  },
+  "https://github.com/pizza-bot-app/pizza-bot": {
+    "title": "Show HN: Pizza Bot – An inbox for AI agents that work in the background",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-15T23:15:20.122575+00:00",
+    "published": "2026-09-15T15:20:26+00:00"
+  },
+  "https://www.elastic.co/blog/elastic-stack-9-5-4-released": {
+    "title": "Elastic Stack 9.5.4 released",
+    "source": "Elastic Blog",
+    "first_seen": "2026-09-15T23:15:20.122575+00:00",
+    "published": "2026-09-15T00:00:00+00:00"
+  },
+  "https://www.elastic.co/blog/elastic-stack-9-4-7-released": {
+    "title": "Elastic Stack 9.4.7 released",
+    "source": "Elastic Blog",
+    "first_seen": "2026-09-15T23:15:20.122575+00:00",
+    "published": "2026-09-15T00:00:00+00:00"
   }
 }
