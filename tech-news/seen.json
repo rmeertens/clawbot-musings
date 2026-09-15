@@ -89708,5 +89708,221 @@
     "source": "Jane Street Tech",
     "first_seen": "2026-09-14T23:33:19.717994+00:00",
     "published": "2026-09-14T00:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/OpenJDK-27-Java-27": {
+    "title": "Java 27 Reaches GA With The G1 Garbage Collector By Default Everywhere",
+    "source": "Phoronix",
+    "first_seen": "2026-09-15T13:55:36.234562+00:00",
+    "published": "2026-09-15T13:39:00+00:00"
+  },
+  "https://lwn.net/Articles/1094470": {
+    "title": "Vondra: PostgreSQL development activity",
+    "source": "LWN.net",
+    "first_seen": "2026-09-15T13:55:36.234562+00:00",
+    "published": "2026-09-15T13:20:30+00:00"
+  },
+  "https://bkovac.github.io/modem-thing": {
+    "title": "Show HN: Hacking a $20 4G wireless hotspot into a texting device",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-15T13:55:36.234562+00:00",
+    "published": "2026-09-15T13:20:24+00:00"
+  },
+  "https://mail.openjdk.org/archives/list/announce@openjdk.org/thread/ORGGLMN75HFEWP7YL3ZLGHLYHVIBJDYT": {
+    "title": "Java 27 Released",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-15T13:55:36.234562+00:00",
+    "published": "2026-09-15T13:13:43+00:00"
+  },
+  "https://lwn.net/Articles/1094469": {
+    "title": "Security updates for Tuesday",
+    "source": "LWN.net",
+    "first_seen": "2026-09-15T13:55:36.234562+00:00",
+    "published": "2026-09-15T13:10:46+00:00"
+  },
+  "https://www.phoronix.com/news/Sound-Open-Firmware-2.15": {
+    "title": "Sound Open Firmware 2.15 Released With AMD ACP 7.x Support, Intel UAOL",
+    "source": "Phoronix",
+    "first_seen": "2026-09-15T13:55:36.234562+00:00",
+    "published": "2026-09-15T13:04:40+00:00"
+  },
+  "https://thenewstack.io/kubernetes-volume-group-snapshots": {
+    "title": "Kubernetes 1.36 restores a lost guarantee for database backups",
+    "source": "The New Stack",
+    "first_seen": "2026-09-15T13:55:36.234562+00:00",
+    "published": "2026-09-15T13:00:00+00:00"
+  },
+  "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026": {
+    "title": "New insights from Google’s AI & Economy ATLAS",
+    "source": "Google AI Blog",
+    "first_seen": "2026-09-15T13:55:36.234562+00:00",
+    "published": "2026-09-15T13:00:00+00:00"
+  },
+  "https://blog.cloudflare.com/workers-granular-authorization": {
+    "title": "Give every teammate and agent the right level of access to your Workers",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-09-15T13:55:36.234562+00:00",
+    "published": "2026-09-15T13:00:00+00:00"
+  },
+  "https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers": {
+    "title": "Have it both ways: stay discoverable in search while disallowing AI training",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-09-15T13:55:36.234562+00:00",
+    "published": "2026-09-15T13:00:00+00:00"
+  },
+  "https://github.com/arnegiacomo/fugleramme": {
+    "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-15T13:55:36.234562+00:00",
+    "published": "2026-09-15T12:31:10+00:00"
+  },
+  "https://www.phoronix.com/news/Firefox-157-Beta": {
+    "title": "Firefox 157 Beta Released With Latest Enhancements",
+    "source": "Phoronix",
+    "first_seen": "2026-09-15T13:55:36.234562+00:00",
+    "published": "2026-09-15T12:31:03+00:00"
+  },
+  "https://www.lawfaremedia.org/article/25-years-of-mass-surveillance-is-enough": {
+    "title": "25 Years of Mass Surveillance Is Enough [Auth: Cindy Cohn; Bruce Schneier]",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-15T13:55:36.234562+00:00",
+    "published": "2026-09-15T12:08:26+00:00"
+  },
+  "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says": {
+    "title": "OpenAI buys smartphone camera maker Glass Imaging for $300M",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-15T13:55:36.234562+00:00",
+    "published": "2026-09-15T12:01:31+00:00"
+  },
+  "https://realpython.com/quizzes/get-started-with-ollama": {
+    "title": "Quiz: How to Get Started With Ollama",
+    "source": "Real Python",
+    "first_seen": "2026-09-15T13:55:36.234562+00:00",
+    "published": "2026-09-15T12:00:00+00:00"
+  },
+  "https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-11": {
+    "title": "Performance Improvements in .NET 11",
+    "source": "MS .NET Blog",
+    "first_seen": "2026-09-15T13:55:36.234562+00:00",
+    "published": "2026-09-15T12:00:00+00:00"
+  },
+  "https://www.schneier.com/blog/archives/2026/09/25-years-of-mass-surveillance-is-enough.html": {
+    "title": "25 Years of Mass Surveillance Is Enough",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-15T13:55:36.234562+00:00",
+    "published": "2026-09-15T11:26:48+00:00"
+  },
+  "https://blog.trailofbits.com/2026/09/15/1passwords-ai-patching-benchmark-is-misleading": {
+    "title": "1Password's AI patching benchmark is misleading",
+    "source": "Trail of Bits",
+    "first_seen": "2026-09-15T13:55:36.234562+00:00",
+    "published": "2026-09-15T11:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-Improv-Hibernation-2026": {
+    "title": "New Linux Patches Improving Hibernation Speed In 2026",
+    "source": "Phoronix",
+    "first_seen": "2026-09-15T13:55:36.234562+00:00",
+    "published": "2026-09-15T10:30:22+00:00"
+  },
+  "https://www.bbc.com/news/articles/c8ly49w9g1edo": {
+    "title": "Suspected sabotage causes major Netherlands rail disruption",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-15T13:55:36.234562+00:00",
+    "published": "2026-09-15T10:22:46+00:00"
+  },
+  "https://www.schneier.com/blog/archives/2026/09/on-the-nsas-supercomputer-from-the-1960s.html": {
+    "title": "On the NSA’s Supercomputer from the 1960s",
+    "source": "Schneier on Security",
+    "first_seen": "2026-09-15T13:55:36.234562+00:00",
+    "published": "2026-09-15T10:16:24+00:00"
+  },
+  "https://www.phoronix.com/news/Raspberry-Pi-Desktop-2026": {
+    "title": "Raspberry Pi Desktop Overhauled On Raspberry Pi OS, Adds Icon Dock",
+    "source": "Phoronix",
+    "first_seen": "2026-09-15T13:55:36.234562+00:00",
+    "published": "2026-09-15T10:14:58+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-Fix-AMD-Zen-5-TLB-Sizes": {
+    "title": "Linux Patch Coming To Fix Under-Reported AMD Zen 5 TLB Sizes",
+    "source": "Phoronix",
+    "first_seen": "2026-09-15T13:55:36.234562+00:00",
+    "published": "2026-09-15T10:05:51+00:00"
+  },
+  "https://stratechery.com/2026/openai-ads-amazon-ads-in-chatgpt-walmart-to-accept-apple-pay": {
+    "title": "OpenAI Ads, Amazon Ads in ChatGPT, Walmart to Accept Apple Pay",
+    "source": "Stratechery",
+    "first_seen": "2026-09-15T13:55:36.234562+00:00",
+    "published": "2026-09-15T10:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/OpenAPV-1.1.1": {
+    "title": "OpenAPV Sees Big Update For Advancing The Advanced Professional Video Codec",
+    "source": "Phoronix",
+    "first_seen": "2026-09-15T13:55:36.234562+00:00",
+    "published": "2026-09-15T09:56:41+00:00"
+  },
+  "https://rmoff.net/2026/01/14/alternatives-to-minio-for-single-node-local-s3": {
+    "title": "Alternatives to MinIO for single-node local S3",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-15T13:55:36.234562+00:00",
+    "published": "2026-09-15T08:21:27+00:00"
+  },
+  "https://arxiv.org/abs/2609.15979": {
+    "title": "The k-server conjecture is true",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-15T13:55:36.234562+00:00",
+    "published": "2026-09-15T07:45:31+00:00"
+  },
+  "https://stackoverflow.blog/2026/09/15/ai-jd-and-other-letters-of-the-law": {
+    "title": "AI, JD, and other letters of the law",
+    "source": "Stack Overflow Blog",
+    "first_seen": "2026-09-15T13:55:36.234562+00:00",
+    "published": "2026-09-15T07:40:00+00:00"
+  },
+  "https://vale.rocks/micros/20260915-0135": {
+    "title": "CSS-Tricks in Limbo",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-15T13:55:36.234562+00:00",
+    "published": "2026-09-15T07:27:46+00:00"
+  },
+  "https://lingo.dev/en/careers/ff88132a-cb79-4d35-a6a0-a6230de7a013": {
+    "title": "Lingo.dev (YC F24) is hiring a senior content engineer (Remote, worldwide)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-15T13:55:36.234562+00:00",
+    "published": "2026-09-15T07:00:30+00:00"
+  },
+  "https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua": {
+    "title": "I can't stop thinking about Papua New Guinea",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-15T13:55:36.234562+00:00",
+    "published": "2026-09-15T06:16:24+00:00"
+  },
+  "https://www.linuxfromscratch.org": {
+    "title": "Linux from Scratch",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-15T13:55:36.234562+00:00",
+    "published": "2026-09-15T04:15:23+00:00"
+  },
+  "https://www.bbc.com/news/articles/ck790xg41ygro": {
+    "title": "US confirms for first time it has deployed space weapons",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-15T13:55:36.234562+00:00",
+    "published": "2026-09-15T03:47:56+00:00"
+  },
+  "https://www.databricks.com/blog/managed-postgres": {
+    "title": "Managed Postgres: What Lakebase Actually Takes Off Your Plate",
+    "source": "Databricks Blog",
+    "first_seen": "2026-09-15T13:55:36.234562+00:00",
+    "published": "2026-09-14T23:36:59+00:00"
+  },
+  "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available": {
+    "title": "iOS 27, iPadOS 27, and macOS 27",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-15T13:55:36.234562+00:00",
+    "published": "2026-09-14T17:50:29+00:00"
+  },
+  "https://research.ibm.com/blog/nasa-ibm-lunar-foundation-model": {
+    "title": "A rough guide for going back to the Moon",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-15T13:55:36.234562+00:00",
+    "published": "2026-09-14T14:33:00+00:00"
   }
 }
