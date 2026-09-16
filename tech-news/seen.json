@@ -90818,5 +90818,191 @@
     "source": "Stack Overflow Blog",
     "first_seen": "2026-09-16T18:31:16.993011+00:00",
     "published": "2026-09-15T17:00:00+00:00"
+  },
+  "https://thenewstack.io/perplexity-cobbledb-ai-database": {
+    "title": "Perplexity’s AI agents helped build a database. They weren’t allowed to run it.",
+    "source": "The New Stack",
+    "first_seen": "2026-09-16T23:20:04.108988+00:00",
+    "published": "2026-09-16T21:51:15+00:00"
+  },
+  "https://aws.amazon.com/blogs/security/architecting-a-secure-landing-zone-in-the-aws-european-sovereign-cloud": {
+    "title": "Architecting a secure landing zone in the AWS European Sovereign Cloud",
+    "source": "AWS Security Blog",
+    "first_seen": "2026-09-16T23:20:04.108988+00:00",
+    "published": "2026-09-16T21:20:48+00:00"
+  },
+  "https://www.phoronix.com/news/Mesa-26.2.3-Released": {
+    "title": "Mesa 26.2.3 Released With AMD GFX1171 Support, Other Fixes",
+    "source": "Phoronix",
+    "first_seen": "2026-09-16T23:20:04.108988+00:00",
+    "published": "2026-09-16T21:18:50+00:00"
+  },
+  "https://devblogs.microsoft.com/dotnet/build-your-own-ai-agent-harness-in-csharp-the-maf-claw-live-series": {
+    "title": "Build Your Own AI Agent Harness in C#, the MafClaw Live Series",
+    "source": "MS .NET Blog",
+    "first_seen": "2026-09-16T23:20:04.108988+00:00",
+    "published": "2026-09-16T21:00:00+00:00"
+  },
+  "https://arxiv.org/abs/2609.16338": {
+    "title": "Breaking the 1.58-bit Barrier for Ternary LLMs",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-16T23:20:04.108988+00:00",
+    "published": "2026-09-16T20:59:24+00:00"
+  },
+  "https://thenewstack.io/automattic-mullenweg-boardroom-reversal": {
+    "title": "Automattic says CEO Mullenweg was gone and back inside 33 hours. What happened between?",
+    "source": "The New Stack",
+    "first_seen": "2026-09-16T23:20:04.108988+00:00",
+    "published": "2026-09-16T20:39:42+00:00"
+  },
+  "https://developer.nvidia.com/blog/tensorrt-edge-llm-completes-the-mlperf-edge-agentic-benchmark-6-4x-faster-on-jetson-agx-thor": {
+    "title": "TensorRT Edge-LLM Completes the MLPerf Edge Agentic Benchmark 6.4x Faster on Jetson AGX Thor",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-09-16T23:20:04.108988+00:00",
+    "published": "2026-09-16T20:37:07+00:00"
+  },
+  "https://filipovski.net/2026/09/16/backups-arent-simple.html": {
+    "title": "Backups Aren't Simple",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-16T23:20:04.108988+00:00",
+    "published": "2026-09-16T20:27:16+00:00"
+  },
+  "https://mimo.xiaomi.com/rl": {
+    "title": "Xiaomi Mimo 2.6 live post-training dashboard",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-16T23:20:04.108988+00:00",
+    "published": "2026-09-16T20:09:18+00:00"
+  },
+  "https://blog.cloudflare.com/client-side-security-finds-4-malicious-campaigns": {
+    "title": "When scanners miss the attack: how Cloudflare Client-Side Security protects storefronts",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-09-16T23:20:04.108988+00:00",
+    "published": "2026-09-16T20:06:17+00:00"
+  },
+  "https://martinfowler.com/fragments/2026-09-16.html": {
+    "title": "Fragments: September 16",
+    "source": "Martin Fowler",
+    "first_seen": "2026-09-16T23:20:04.108988+00:00",
+    "published": "2026-09-16T20:05:00+00:00"
+  },
+  "https://cosmicave.org/2026/09/15/why-does-the-universe-expand": {
+    "title": "Why Does the Universe Expand?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-16T23:20:04.108988+00:00",
+    "published": "2026-09-16T19:56:38+00:00"
+  },
+  "https://thenewstack.io/zed-delta-github-alternative": {
+    "title": "“Everyone’s in a race to replace GitHub”: Zed launches Delta because agents made pull requests obsolete",
+    "source": "The New Stack",
+    "first_seen": "2026-09-16T23:20:04.108988+00:00",
+    "published": "2026-09-16T19:45:30+00:00"
+  },
+  "https://arxiv.org/abs/2609.13009": {
+    "title": "How good are frontier models at physics?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-16T23:20:04.108988+00:00",
+    "published": "2026-09-16T19:19:08+00:00"
+  },
+  "https://pytorch.org/blog/open-research-tooling-optimization-at-pytorch-conference-north-america-2026": {
+    "title": "Open Research, Tooling & Optimization at PyTorch Conference North America 2026",
+    "source": "PyTorch Blog",
+    "first_seen": "2026-09-16T23:20:04.108988+00:00",
+    "published": "2026-09-16T19:00:47+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/improving-hcls-ai-reasoning-with-open-source-agent-skills": {
+    "title": "Improving HCLS AI reasoning with open-source agent skills",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-09-16T23:20:04.108988+00:00",
+    "published": "2026-09-16T19:00:00+00:00"
+  },
+  "https://blogs.microsoft.com/blog/2026/09/16/microsofts-commitment-for-ai-in-education": {
+    "title": "Microsoft’s commitment for AI in education",
+    "source": "Microsoft Blog",
+    "first_seen": "2026-09-16T23:20:04.108988+00:00",
+    "published": "2026-09-16T18:59:58+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/fault-tolerant-distributed-training-on-amazon-eks-using-nvrx": {
+    "title": "Fault tolerant distributed training on Amazon EKS using NVRx",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-09-16T23:20:04.108988+00:00",
+    "published": "2026-09-16T18:59:25+00:00"
+  },
+  "https://arxiv.org/abs/2609.14845": {
+    "title": "Accurate Models of AMD Matrix Cores",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-16T23:20:04.108988+00:00",
+    "published": "2026-09-16T18:56:05+00:00"
+  },
+  "https://pytorch.org/blog/low-precision-flash-attention-4-end-to-end-block-scaled-attention-for-blackwell": {
+    "title": "Low Precision Flash Attention 4: End-to-End Block-Scaled Attention for Blackwell",
+    "source": "PyTorch Blog",
+    "first_seen": "2026-09-16T23:20:04.108988+00:00",
+    "published": "2026-09-16T18:55:21+00:00"
+  },
+  "https://rohanbansal.com/qorl": {
+    "title": "Training a 4B model to produce 81% faster query plans than Postgres",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-16T23:20:04.108988+00:00",
+    "published": "2026-09-16T18:50:00+00:00"
+  },
+  "https://github.com/vinnylarouge/jevlike": {
+    "title": "Reverse-engineered Jev-like model",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-16T23:20:04.108988+00:00",
+    "published": "2026-09-16T18:49:57+00:00"
+  },
+  "https://opensource.googleblog.com/2022/06/Vectorized%20and%20performance%20portable%20Quicksort.html": {
+    "title": "Vectorized and performance-portable Quicksort (2022)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-16T23:20:04.108988+00:00",
+    "published": "2026-09-16T18:31:35+00:00"
+  },
+  "https://openai.com/index/model-misalignment-reporting-framework": {
+    "title": "Our framework for reporting model misalignment",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-09-16T23:20:04.108988+00:00",
+    "published": "2026-09-16T17:00:00+00:00"
+  },
+  "https://www.linum.ai/field-notes/jit-ddt": {
+    "title": "Training Text-to-Image Models 3.6× Faster",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-16T23:20:04.108988+00:00",
+    "published": "2026-09-16T16:58:13+00:00"
+  },
+  "https://oldmanrahul.com/2026/09/14/hush": {
+    "title": "I replaced my brown-noise browser tab with a menu bar app",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-16T23:20:04.108988+00:00",
+    "published": "2026-09-16T13:11:57+00:00"
+  },
+  "https://openai.com/index/how-to-connect-ai-usage-to-business-value": {
+    "title": "How to connect AI usage to business value",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-09-16T23:20:04.108988+00:00",
+    "published": "2026-09-16T12:00:00+00:00"
+  },
+  "https://machinelearning.apple.com/research/trajectory-teacher-flow-matching": {
+    "title": "Trajectory as the Teacher: Few-Step Discrete Flow Matching via Energy-Navigated Distillation",
+    "source": "Apple ML Journal",
+    "first_seen": "2026-09-16T23:20:04.108988+00:00",
+    "published": "2026-09-16T00:00:00+00:00"
+  },
+  "https://machinelearning.apple.com/research/glyph-column-description-tagging": {
+    "title": "Glyph: A Multi-Strategy Agentic System for Column Description and Sensitivity-Ontology Tagging of Enterprise Data Catalogs",
+    "source": "Apple ML Journal",
+    "first_seen": "2026-09-16T23:20:04.108988+00:00",
+    "published": "2026-09-16T00:00:00+00:00"
+  },
+  "https://machinelearning.apple.com/research/denoising-aware-credit-assignment": {
+    "title": "DACA-GRPO: Denoising-Aware Credit Assignment for Reinforcement Learning in Diffusion Language Models",
+    "source": "Apple ML Journal",
+    "first_seen": "2026-09-16T23:20:04.108988+00:00",
+    "published": "2026-09-16T00:00:00+00:00"
+  },
+  "https://johnjwang.com/post/2026/09/15/engineering-behind-us-strategic-petroleum-reserve": {
+    "title": "The engineering behind the US Strategic Petroleum Reserve",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-16T23:20:04.108988+00:00",
+    "published": "2026-09-15T22:15:25+00:00"
   }
 }
