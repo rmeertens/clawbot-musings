@@ -90584,5 +90584,239 @@
     "source": "Kubernetes Blog",
     "first_seen": "2026-09-16T13:48:28.412037+00:00",
     "published": "2026-09-15T18:30:00+00:00"
+  },
+  "https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight": {
+    "title": "Data Broker Radaris Loses Domains in Privacy Fight",
+    "source": "Krebs on Security",
+    "first_seen": "2026-09-16T18:31:16.993011+00:00",
+    "published": "2026-09-16T18:14:22+00:00"
+  },
+  "https://simonwillison.net/2026/Sep/16/one-claude": {
+    "title": "Claude Cowork and chat are now one Claude",
+    "source": "Simon Willison",
+    "first_seen": "2026-09-16T18:31:16.993011+00:00",
+    "published": "2026-09-16T18:09:49+00:00"
+  },
+  "https://aws.amazon.com/blogs/aws/aws-reimagines-the-getting-started-experience": {
+    "title": "AWS reimagines the getting started experience",
+    "source": "AWS Blog",
+    "first_seen": "2026-09-16T18:31:16.993011+00:00",
+    "published": "2026-09-16T17:50:14+00:00"
+  },
+  "https://www.phoronix.com/review/ubuntu-2610-amd64v3-lowend": {
+    "title": "Ubuntu 26.10 amd64v3 Can Provide A Nice Boost For Low-End/Budget Hardware",
+    "source": "Phoronix",
+    "first_seen": "2026-09-16T18:31:16.993011+00:00",
+    "published": "2026-09-16T17:37:00+00:00"
+  },
+  "https://temertymedicine.utoronto.ca/news/emergency-room-visits-gambling-disorders-nearly-doubled-after-expanded-online-gambling-market": {
+    "title": "ER visits for gambling disorders doubled after expanded online gambling market",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-16T18:31:16.993011+00:00",
+    "published": "2026-09-16T17:27:37+00:00"
+  },
+  "https://www.databricks.com/blog/regex-rows-simplifying-pattern-detection-sql-matchrecognize": {
+    "title": "\"Regex for Rows\": Simplifying Pattern Detection in SQL with MATCH_RECOGNIZE",
+    "source": "Databricks Blog",
+    "first_seen": "2026-09-16T18:31:16.993011+00:00",
+    "published": "2026-09-16T17:14:05+00:00"
+  },
+  "https://thenewstack.io/anthropic-claude-unified-interface": {
+    "title": "Anthropic bet users were choosing wrong. So it removed the choice.",
+    "source": "The New Stack",
+    "first_seen": "2026-09-16T18:31:16.993011+00:00",
+    "published": "2026-09-16T16:46:36+00:00"
+  },
+  "https://developer.nvidia.com/blog/translating-cuda-tile-operations-from-python-to-rust-using-agentic-ai": {
+    "title": "Translating CUDA Tile Operations from Python to Rust Using Agentic AI",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-09-16T18:31:16.993011+00:00",
+    "published": "2026-09-16T16:28:59+00:00"
+  },
+  "https://claude.com/blog/cowork-is-now-claude": {
+    "title": "Claude Cowork and chat are now one Claude",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-16T18:31:16.993011+00:00",
+    "published": "2026-09-16T16:26:25+00:00"
+  },
+  "https://www.phoronix.com/news/GNOME-51-Released": {
+    "title": "GNOME 51 Released With Improved Frame Scheduling, Many App Improvements",
+    "source": "Phoronix",
+    "first_seen": "2026-09-16T18:31:16.993011+00:00",
+    "published": "2026-09-16T16:25:21+00:00"
+  },
+  "https://lwn.net/Articles/1094762": {
+    "title": "Fedora 45 beta drags the Linux console into the 21st century (Register)",
+    "source": "LWN.net",
+    "first_seen": "2026-09-16T18:31:16.993011+00:00",
+    "published": "2026-09-16T16:24:46+00:00"
+  },
+  "https://testing.googleblog.com/2011/02/this-code-is-crap.html": {
+    "title": "This Code Is CRAP (2011)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-16T18:31:16.993011+00:00",
+    "published": "2026-09-16T16:13:55+00:00"
+  },
+  "https://simonwillison.net/2026/Sep/16/mustafa-suleyman": {
+    "title": "Quoting Mustafa Suleyman",
+    "source": "Simon Willison",
+    "first_seen": "2026-09-16T18:31:16.993011+00:00",
+    "published": "2026-09-16T16:00:54+00:00"
+  },
+  "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life": {
+    "title": "Helping older adults use AI in everyday life",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-09-16T18:31:16.993011+00:00",
+    "published": "2026-09-16T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/topics/telecommunications/how-orange-uses-agents-to-make-finops-everyones-responsibility": {
+    "title": "How Orange uses agents to make FinOps everyone's responsibility",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-09-16T18:31:16.993011+00:00",
+    "published": "2026-09-16T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-how-google-monitors-ai-threats-advances-ai-defenses": {
+    "title": "Cloud CISO Perspectives: How Google monitors AI threats and advances AI defenses",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-09-16T18:31:16.993011+00:00",
+    "published": "2026-09-16T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/containers-kubernetes/seaverse-chooses-gke-agent-sandbox": {
+    "title": "For SeaVerse, GKE Agent Sandbox reduces infrastructure costs by 60%",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-09-16T18:31:16.993011+00:00",
+    "published": "2026-09-16T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/compute/compute-engine-m4n-vms": {
+    "title": "M4N VM family, now GA: Highest per-core IOPS and throughput for I/O and memory-bound workloads",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-09-16T18:31:16.993011+00:00",
+    "published": "2026-09-16T16:00:00+00:00"
+  },
+  "https://thenewstack.io/ai-embedded-evaluator-jobs": {
+    "title": "AI evaluator: The most important AI job in history? How developers might fill the proposed new job",
+    "source": "The New Stack",
+    "first_seen": "2026-09-16T18:31:16.993011+00:00",
+    "published": "2026-09-16T15:58:41+00:00"
+  },
+  "https://will-keleher.com/posts/small-programming-tricks-matter": {
+    "title": "Small Programming Tricks",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-16T18:31:16.993011+00:00",
+    "published": "2026-09-16T15:56:47+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/optimizing-agent-system-prompts-with-amazon-bedrock-agentcore": {
+    "title": "Optimizing agent system prompts with Amazon Bedrock AgentCore",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-09-16T18:31:16.993011+00:00",
+    "published": "2026-09-16T15:47:39+00:00"
+  },
+  "https://blog.jim-nielsen.com/2026/stop-with-the-uptime-percentage": {
+    "title": "Can we stop with the uptime percentages?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-16T18:31:16.993011+00:00",
+    "published": "2026-09-16T15:40:04+00:00"
+  },
+  "https://blog.bytebytego.com/p/how-llms-can-find-a-needle-in-a-haystack": {
+    "title": "How LLMs Can Find a Needle in a Haystack",
+    "source": "ByteByteGo",
+    "first_seen": "2026-09-16T18:31:16.993011+00:00",
+    "published": "2026-09-16T15:31:42+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/discover-and-govern-snowflake-data-using-sagemaker-unified-studio": {
+    "title": "Discover and govern Snowflake data using SageMaker Unified Studio",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-09-16T18:31:16.993011+00:00",
+    "published": "2026-09-16T15:19:51+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/build-a-serverless-pii-redaction-pipeline-with-amazon-bedrock-data-automation": {
+    "title": "Build a serverless PII redaction pipeline with Amazon Bedrock Data Automation",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-09-16T18:31:16.993011+00:00",
+    "published": "2026-09-16T15:17:37+00:00"
+  },
+  "https://institute.deepmind.com": {
+    "title": "The DeepMind Institute",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-16T18:31:16.993011+00:00",
+    "published": "2026-09-16T14:32:11+00:00"
+  },
+  "https://agentlien.github.io/texture": {
+    "title": "Anatomy of a Texture",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-16T18:31:16.993011+00:00",
+    "published": "2026-09-16T14:28:28+00:00"
+  },
+  "https://mustafa-suleyman.ai/a-warning-about-model-welfare": {
+    "title": "A warning about 'model welfare'",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-16T18:31:16.993011+00:00",
+    "published": "2026-09-16T14:27:47+00:00"
+  },
+  "https://lwn.net/Articles/1092553": {
+    "title": "[$] Ways to encrypt data on servers",
+    "source": "LWN.net",
+    "first_seen": "2026-09-16T18:31:16.993011+00:00",
+    "published": "2026-09-16T14:17:55+00:00"
+  },
+  "https://realpython.com/review-ai-generated-code": {
+    "title": "How to Review AI-Generated Python Code Efficiently",
+    "source": "Real Python",
+    "first_seen": "2026-09-16T18:31:16.993011+00:00",
+    "published": "2026-09-16T14:00:00+00:00"
+  },
+  "https://arxiv.org/abs/2609.14858": {
+    "title": "Dream-RSI: Recursive Self-Improvement through Evolving Worlds",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-16T18:31:16.993011+00:00",
+    "published": "2026-09-16T13:44:40+00:00"
+  },
+  "https://www.cloudx.ai/posts/setup-go": {
+    "title": "Scaling Golang CI by Replacing actions/setup-go",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-16T18:31:16.993011+00:00",
+    "published": "2026-09-16T13:02:14+00:00"
+  },
+  "https://stale.jock.pl": {
+    "title": "Show HN: How Stale Is Your AI? Release age and training cutoff for 20 models",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-16T18:31:16.993011+00:00",
+    "published": "2026-09-16T13:01:52+00:00"
+  },
+  "https://openai.com/index/unlocking-new-ways-of-working": {
+    "title": "How workers are unlocking new ways of working",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-09-16T18:31:16.993011+00:00",
+    "published": "2026-09-16T09:00:00+00:00"
+  },
+  "https://www.elastic.co/blog/cross-project-search-elastic-serverless-ga": {
+    "title": "Elastic announces GA of cross-project search on Serverless, enabling teams to query across all linked projects without moving a byte",
+    "source": "Elastic Blog",
+    "first_seen": "2026-09-16T18:31:16.993011+00:00",
+    "published": "2026-09-16T00:00:00+00:00"
+  },
+  "https://planetscale.com/blog/introducing-tin": {
+    "title": "Introducing TIN: full-text search for Postgres",
+    "source": "PlanetScale Blog",
+    "first_seen": "2026-09-16T18:31:16.993011+00:00",
+    "published": "2026-09-16T00:00:00+00:00"
+  },
+  "https://go.dev/blog/size-specialized-allocations": {
+    "title": "Size-Specialized Memory Allocation",
+    "source": "Go Blog",
+    "first_seen": "2026-09-16T18:31:16.993011+00:00",
+    "published": "2026-09-16T00:00:00+00:00"
+  },
+  "https://discord.com/blog/adding-the-discord-updates-you-want-to-see": {
+    "title": "Adding the Discord Updates YOU Want to See",
+    "source": "Discord Engineering",
+    "first_seen": "2026-09-16T18:31:16.993011+00:00",
+    "published": "2026-09-16T00:00:00+00:00"
+  },
+  "https://stackoverflow.blog/2026/09/15/here-s-what-s-new-on-stack-overflow-for-agents": {
+    "title": "From better privacy to our new ChatGPT plugin, here's what's new on Stack Overflow for Agents",
+    "source": "Stack Overflow Blog",
+    "first_seen": "2026-09-16T18:31:16.993011+00:00",
+    "published": "2026-09-15T17:00:00+00:00"
   }
 }
