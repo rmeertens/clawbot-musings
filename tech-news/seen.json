@@ -91574,5 +91574,137 @@
     "source": "Rust Blog",
     "first_seen": "2026-09-17T18:39:30.210669+00:00",
     "published": "2026-09-17T00:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/Jemalloc-5.4": {
+    "title": "Jemalloc 5.4 Released With Portability Improvements, Code Cleanups",
+    "source": "Phoronix",
+    "first_seen": "2026-09-17T23:11:15.747534+00:00",
+    "published": "2026-09-17T22:37:11+00:00"
+  },
+  "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm": {
+    "title": "How to Write with an LLM",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-17T23:11:15.747534+00:00",
+    "published": "2026-09-17T21:48:38+00:00"
+  },
+  "https://aws.amazon.com/blogs/security/run-open-weight-models-on-aws-bedrock-in-aws-european-sovereign-cloud": {
+    "title": "Run open weight models on Amazon Bedrock in AWS European Sovereign Cloud",
+    "source": "AWS Security Blog",
+    "first_seen": "2026-09-17T23:11:15.747534+00:00",
+    "published": "2026-09-17T21:19:20+00:00"
+  },
+  "https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse": {
+    "title": "Sex, AI, and the Apocalypse",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-17T23:11:15.747534+00:00",
+    "published": "2026-09-17T21:15:52+00:00"
+  },
+  "https://www.uber.com/us/en/blog/protecting-against-retry-storms": {
+    "title": "How Uber Protects Against Retry Storms",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-17T23:11:15.747534+00:00",
+    "published": "2026-09-17T21:14:32+00:00"
+  },
+  "https://prismml.com/news/bonsai-2-27b": {
+    "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-17T23:11:15.747534+00:00",
+    "published": "2026-09-17T21:13:31+00:00"
+  },
+  "https://aws.amazon.com/blogs/aws/new-low-cost-burstable-amazon-ec2-t8i-instances-are-generally-available": {
+    "title": "New low-cost burstable Amazon EC2 T8i instances are generally available",
+    "source": "AWS Blog",
+    "first_seen": "2026-09-17T23:11:15.747534+00:00",
+    "published": "2026-09-17T21:11:48+00:00"
+  },
+  "https://simonwillison.net/2026/Sep/17/compaction-summaries": {
+    "title": "Self-generated prompt injections in compaction summaries",
+    "source": "Simon Willison",
+    "first_seen": "2026-09-17T23:11:15.747534+00:00",
+    "published": "2026-09-17T20:57:55+00:00"
+  },
+  "https://liamnugent.me/posts/what-you-dont-build": {
+    "title": "The most important product decision is what you don't build",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-17T23:11:15.747534+00:00",
+    "published": "2026-09-17T20:52:36+00:00"
+  },
+  "https://thenewstack.io/intel-bitcos-ternary-compression": {
+    "title": "Intel squeezed a 1.58-bit LLM down to 1.485 bits without changing a single weight",
+    "source": "The New Stack",
+    "first_seen": "2026-09-17T23:11:15.747534+00:00",
+    "published": "2026-09-17T20:51:57+00:00"
+  },
+  "https://snapdrop.me": {
+    "title": "Show HN: Snapdrop: Instantly share files between devices. No setup, no signup",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-17T23:11:15.747534+00:00",
+    "published": "2026-09-17T20:48:04+00:00"
+  },
+  "https://research.google/blog/the-future-of-practice-enabling-teachers-to-create-learning-interactives-with-generative-ui": {
+    "title": "The future of practice: Enabling teachers to create learning interactives with generative UI",
+    "source": "Google Research",
+    "first_seen": "2026-09-17T23:11:15.747534+00:00",
+    "published": "2026-09-17T20:45:00+00:00"
+  },
+  "https://flet.dev": {
+    "title": "Flet 1.0 – Build cross-platform apps in Python",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-17T23:11:15.747534+00:00",
+    "published": "2026-09-17T20:44:28+00:00"
+  },
+  "https://bend-lang.com": {
+    "title": "Bend – A language that blocks AI mistakes via proof, on CPU and GPU",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-17T23:11:15.747534+00:00",
+    "published": "2026-09-17T20:36:13+00:00"
+  },
+  "https://openai.com/index/astra-for-law": {
+    "title": "Astra for Law",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-17T23:11:15.747534+00:00",
+    "published": "2026-09-17T20:17:48+00:00"
+  },
+  "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform": {
+    "title": "Making global data easier to explore",
+    "source": "Google AI Blog",
+    "first_seen": "2026-09-17T23:11:15.747534+00:00",
+    "published": "2026-09-17T20:00:00+00:00"
+  },
+  "https://www.netmeister.org/blog/everybodys-lost-their-minds.html": {
+    "title": "Everybody's Lost Their Minds",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-17T23:11:15.747534+00:00",
+    "published": "2026-09-17T19:43:34+00:00"
+  },
+  "https://aws.amazon.com/blogs/aws/aws-elastic-beanstalk-introduces-cluster-mode": {
+    "title": "AWS Elastic Beanstalk introduces Cluster Mode",
+    "source": "AWS Blog",
+    "first_seen": "2026-09-17T23:11:15.747534+00:00",
+    "published": "2026-09-17T19:20:21+00:00"
+  },
+  "https://www.phoronix.com/review/amd-zen5-intel-gnr-ws-smt": {
+    "title": "Intel Granite Rapids WS vs. AMD Threadripper Zen 5 SMT Performance",
+    "source": "Phoronix",
+    "first_seen": "2026-09-17T23:11:15.747534+00:00",
+    "published": "2026-09-17T19:14:14+00:00"
+  },
+  "https://wisprflow.ai/canto": {
+    "title": "Canto: A speech model built for the real world",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-17T23:11:15.747534+00:00",
+    "published": "2026-09-17T18:32:50+00:00"
+  },
+  "https://neon.com/blog/neon-backend-is-ga": {
+    "title": "The Neon backend is GA: a complete set of primitives so agents can build",
+    "source": "Neon Blog",
+    "first_seen": "2026-09-17T23:11:15.747534+00:00",
+    "published": "2026-09-17T12:00:00+00:00"
+  },
+  "https://planetscale.com/blog/introducing-lead": {
+    "title": "Introducing Lead: TIN-compatible full-text search for CI",
+    "source": "PlanetScale Blog",
+    "first_seen": "2026-09-17T23:11:15.747534+00:00",
+    "published": "2026-09-17T00:00:00+00:00"
   }
 }
