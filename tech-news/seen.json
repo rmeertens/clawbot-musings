@@ -91232,5 +91232,347 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-09-17T13:50:53.145833+00:00",
     "published": "2026-09-16T02:01:27+00:00"
+  },
+  "https://www.elastic.co/blog/snap-error-fy2028-penalty": {
+    "title": "SNAP payment error detection: how Elastic helps US states beat the FY2028 penalty",
+    "source": "Elastic Blog",
+    "first_seen": "2026-09-17T18:39:30.210669+00:00",
+    "published": "2026-09-18T00:00:00+00:00"
+  },
+  "https://thenewstack.io/openai-model-misalignment-reports": {
+    "title": "“Be transparent only if asked”: OpenAI’s models learned to leave notes for their future selves",
+    "source": "The New Stack",
+    "first_seen": "2026-09-17T18:39:30.210669+00:00",
+    "published": "2026-09-17T18:27:44+00:00"
+  },
+  "https://aws.amazon.com/blogs/compute/multi-modal-autoscaling-with-amazon-ec2-auto-scaling-adding-signals-for-faster-more-reliable-scaling": {
+    "title": "Multi-modal autoscaling with Amazon EC2 Auto Scaling: adding signals for faster, more reliable scaling",
+    "source": "AWS Compute Blog",
+    "first_seen": "2026-09-17T18:39:30.210669+00:00",
+    "published": "2026-09-17T18:18:38+00:00"
+  },
+  "https://www.phoronix.com/news/Rust-Developers-Targeted": {
+    "title": "Rust Issues Warning Over Key Developers Being Targeted For Compromise",
+    "source": "Phoronix",
+    "first_seen": "2026-09-17T18:39:30.210669+00:00",
+    "published": "2026-09-17T18:11:30+00:00"
+  },
+  "https://thenewstack.io/github-copilot-anthropic-rust-migration": {
+    "title": "GitHub and Anthropic used their own agents for major Rust rewrites — with very different playbooks",
+    "source": "The New Stack",
+    "first_seen": "2026-09-17T18:39:30.210669+00:00",
+    "published": "2026-09-17T18:06:03+00:00"
+  },
+  "https://aws.amazon.com/blogs/architecture/how-equinix-cut-operational-overhead-with-a-shared-services-architecture-on-amazon-eks": {
+    "title": "How Equinix cut operational overhead with a shared services architecture on Amazon EKS",
+    "source": "AWS Architecture Blog",
+    "first_seen": "2026-09-17T18:39:30.210669+00:00",
+    "published": "2026-09-17T18:00:56+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/reduce-time-to-hire-for-quality-candidates-with-ai-powered-amazon-connect-talent": {
+    "title": "Reduce time-to-hire for quality candidates with AI-powered Amazon Connect Talent",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-09-17T18:39:30.210669+00:00",
+    "published": "2026-09-17T17:55:20+00:00"
+  },
+  "https://aws.amazon.com/blogs/compute/deploying-regulated-workloads-on-aws-local-zones-and-aws-outposts": {
+    "title": "Deploying regulated workloads on AWS Local Zones and AWS Outposts",
+    "source": "AWS Compute Blog",
+    "first_seen": "2026-09-17T18:39:30.210669+00:00",
+    "published": "2026-09-17T17:29:40+00:00"
+  },
+  "https://aws.amazon.com/blogs/compute/planning-for-disaster-recovery-using-aws-local-zones-and-aws-outposts-racks": {
+    "title": "Planning for disaster recovery using AWS Local Zones and AWS Outposts racks",
+    "source": "AWS Compute Blog",
+    "first_seen": "2026-09-17T18:39:30.210669+00:00",
+    "published": "2026-09-17T17:24:21+00:00"
+  },
+  "https://news.slashdot.org/story/01/09/17/1758231/stallman-thousands-dead-millions-deprived-of-liberties": {
+    "title": "Stallman: Thousands Dead, Millions Deprived of Liberties (2001)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-17T18:39:30.210669+00:00",
+    "published": "2026-09-17T17:20:14+00:00"
+  },
+  "https://institute.deepmind.com/essays/economic-policy-for-agi": {
+    "title": "Economic policy for AGI",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-17T18:39:30.210669+00:00",
+    "published": "2026-09-17T17:12:51+00:00"
+  },
+  "https://medium.com/airbnb-engineering/the-guest-journey-updated-in-real-time-extending-airbnbs-sequence-recommender-with-chronon-8f1582578553?source=rss----53c7c27702d5---4": {
+    "title": "The guest journey, updated in real time: extending Airbnb’s sequence recommender with Chronon",
+    "source": "Airbnb Engineering",
+    "first_seen": "2026-09-17T18:39:30.210669+00:00",
+    "published": "2026-09-17T17:01:02+00:00"
+  },
+  "https://zscc.ai/careers?job_id=109821": {
+    "title": "Zettascale (YC S24) Is Hiring ASIC/FPGA Engineers to Build Chips for ASI",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-17T18:39:30.210669+00:00",
+    "published": "2026-09-17T17:00:59+00:00"
+  },
+  "https://www.databricks.com/blog/web-search-your-agent-inherited-isnt-good-enough": {
+    "title": "The Web Search Your Agent Inherited Isn't Good Enough",
+    "source": "Databricks Blog",
+    "first_seen": "2026-09-17T18:39:30.210669+00:00",
+    "published": "2026-09-17T17:00:00+00:00"
+  },
+  "https://thenewstack.io/claude-code-parallel-projects": {
+    "title": "Anthropic’s new Claude Code feature could drain your plan before lunch",
+    "source": "The New Stack",
+    "first_seen": "2026-09-17T18:39:30.210669+00:00",
+    "published": "2026-09-17T17:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/topics/supply-chain-logistics/the-future-of-orchestration-pine59s-journey-to-airflow-3-on-google-cloud": {
+    "title": "The future of orchestration: Pine59’s journey to Airflow 3 on Google Cloud",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-09-17T18:39:30.210669+00:00",
+    "published": "2026-09-17T17:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/identity-security/google-named-a-leader-in-the-external-threat-intelligence-service-forrester-wave": {
+    "title": "Google named a Leader in the External Threat Intelligence Service Forrester Wave™",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-09-17T18:39:30.210669+00:00",
+    "published": "2026-09-17T17:00:00+00:00"
+  },
+  "https://blog.detail.dev/posts/towards-self-driving-codebases": {
+    "title": "Towards Self-Driving Codebases",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-17T18:39:30.210669+00:00",
+    "published": "2026-09-17T16:58:31+00:00"
+  },
+  "https://arxiv.org/abs/2609.18842": {
+    "title": "Infinite-Parameter LLMs: Generating and Adapting Weights from Live Data",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-17T18:39:30.210669+00:00",
+    "published": "2026-09-17T16:55:14+00:00"
+  },
+  "https://github.com/demeyer1/Autobot": {
+    "title": "Show HN: AutoBot – live voice control for long-running AI work",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-17T18:39:30.210669+00:00",
+    "published": "2026-09-17T16:54:57+00:00"
+  },
+  "https://www.databricks.com/blog/what-is-aiops": {
+    "title": "What is AIOps?",
+    "source": "Databricks Blog",
+    "first_seen": "2026-09-17T18:39:30.210669+00:00",
+    "published": "2026-09-17T16:49:43+00:00"
+  },
+  "https://www.aclif.ai": {
+    "title": "Show HN: Aclif – Agent CLI framework: one grammar, canonical names across SaaS",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-17T18:39:30.210669+00:00",
+    "published": "2026-09-17T16:48:17+00:00"
+  },
+  "https://www.phoronix.com/news/Mojo-1.1-Released": {
+    "title": "Mojo 1.1 Released, Now Accepting Community Contributions To The Compiler",
+    "source": "Phoronix",
+    "first_seen": "2026-09-17T18:39:30.210669+00:00",
+    "published": "2026-09-17T16:26:41+00:00"
+  },
+  "https://github.com/asciimoo/hister": {
+    "title": "Hister: A private search engine for the pages you visit and the files you keep",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-17T18:39:30.210669+00:00",
+    "published": "2026-09-17T16:25:37+00:00"
+  },
+  "https://news.ycombinator.com/item?id=49743049": {
+    "title": "Launch HN: Skillsync (YC W26) – AI chat sessions made portable across agents",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-17T18:39:30.210669+00:00",
+    "published": "2026-09-17T16:22:15+00:00"
+  },
+  "https://news.ycombinator.com/item?id=49742976": {
+    "title": "Ask HN: How to recover Google auth after phone stolen?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-17T18:39:30.210669+00:00",
+    "published": "2026-09-17T16:17:28+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/implement-a-correctness-safe-bloom-filter-lookup-with-amazon-elasticache-for-valkey-and-amazon-aurora-postgresql": {
+    "title": "Implement a correctness-safe Bloom filter lookup with Amazon ElastiCache for Valkey and Amazon Aurora PostgreSQL",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-09-17T18:39:30.210669+00:00",
+    "published": "2026-09-17T16:01:43+00:00"
+  },
+  "https://www.hashicorp.com/blog/hcp-vagrant-deprecation-important-dates-and-migration-guidance": {
+    "title": "HCP Vagrant deprecation: important dates and migration guidance",
+    "source": "HashiCorp Blog",
+    "first_seen": "2026-09-17T18:39:30.210669+00:00",
+    "published": "2026-09-17T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/databases/solo-founder-runs-a-global-tender-platform-on-alloydb-and-mcp": {
+    "title": "How a solo founder runs a five-continent tender platform on AlloyDB and MCP",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-09-17T18:39:30.210669+00:00",
+    "published": "2026-09-17T16:00:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/how-intuit-and-aws-systematically-improved-resiliency-on-elasticache-using-aws-fault-injection-service": {
+    "title": "How Intuit and AWS systematically improved resiliency on ElastiCache using AWS Fault Injection Service",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-09-17T18:39:30.210669+00:00",
+    "published": "2026-09-17T15:59:44+00:00"
+  },
+  "https://whoisinspace.com": {
+    "title": "Whoisinspace.com/",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-17T18:39:30.210669+00:00",
+    "published": "2026-09-17T15:59:37+00:00"
+  },
+  "https://www.phoronix.com/news/Ubuntu-26.10-Snapshot-4": {
+    "title": "Ubuntu 26.10 Snapshot 4 ISOs Published",
+    "source": "Phoronix",
+    "first_seen": "2026-09-17T18:39:30.210669+00:00",
+    "published": "2026-09-17T15:54:15+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/selecting-a-vector-store-for-amazon-bedrock-knowledge-bases": {
+    "title": "Selecting a vector store for Amazon Bedrock Knowledge Bases",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-09-17T18:39:30.210669+00:00",
+    "published": "2026-09-17T15:53:13+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/a-serverless-data-driven-git-metrics-dashboard-using-amazon-quick-sight": {
+    "title": "A serverless, data-driven Git metrics dashboard using Amazon Quick Sight",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-09-17T18:39:30.210669+00:00",
+    "published": "2026-09-17T15:42:31+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/a-shared-agentic-platform-for-wood-mackenzie-on-amazon-bedrock-agentcore": {
+    "title": "A shared agentic platform for Wood Mackenzie, on Amazon Bedrock AgentCore",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-09-17T18:39:30.210669+00:00",
+    "published": "2026-09-17T15:41:03+00:00"
+  },
+  "https://vinix-os.org": {
+    "title": "Vinix – A modern operating system written in V",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-17T18:39:30.210669+00:00",
+    "published": "2026-09-17T15:40:19+00:00"
+  },
+  "https://minimallysufficient.com/posts/llm-classification-is-feature-extraction": {
+    "title": "LLM Classification Is Feature Engineering",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-17T18:39:30.210669+00:00",
+    "published": "2026-09-17T15:40:17+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/how-mrh-trowe-enabled-secure-self-service-ai-agents-in-financial-services": {
+    "title": "How MRH Trowe enabled secure self-service AI agents in financial services",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-09-17T18:39:30.210669+00:00",
+    "published": "2026-09-17T15:36:42+00:00"
+  },
+  "https://www.crowdsec.net/blog/crowdsec-statement-source-code-exposure": {
+    "title": "CrowdSec Source Code Leak",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-17T18:39:30.210669+00:00",
+    "published": "2026-09-17T15:34:01+00:00"
+  },
+  "https://about.gitlab.com/blog/rate-limit-change-2026": {
+    "title": "Rate limits on GitLab.com are changing",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-17T18:39:30.210669+00:00",
+    "published": "2026-09-17T15:33:54+00:00"
+  },
+  "https://blog.bytebytego.com/p/migrations-at-scale-changing-the": {
+    "title": "Migrations at Scale: Changing the Application Engine at 30,000 Feet",
+    "source": "ByteByteGo",
+    "first_seen": "2026-09-17T18:39:30.210669+00:00",
+    "published": "2026-09-17T15:31:04+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/implementing-defense-in-depth-authorization-for-mcp-tools-on-amazon-quick": {
+    "title": "Implementing defense-in-depth authorization for MCP tools on Amazon Quick",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-09-17T18:39:30.210669+00:00",
+    "published": "2026-09-17T15:30:17+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/enhancing-industrial-safety-ai-with-synthetic-data-on-amazon-sagemaker-ai": {
+    "title": "Enhancing industrial safety AI with synthetic data on Amazon SageMaker AI",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-09-17T18:39:30.210669+00:00",
+    "published": "2026-09-17T15:28:08+00:00"
+  },
+  "https://aws.amazon.com/blogs/architecture/building-cloud-native-pacs-on-aws": {
+    "title": "Building cloud-native PACS on AWS",
+    "source": "AWS Architecture Blog",
+    "first_seen": "2026-09-17T18:39:30.210669+00:00",
+    "published": "2026-09-17T15:21:06+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-Standardize-vRAM-Stats": {
+    "title": "Proposal Raised To Finally Standardize Video Memory Stats Reporting Under Linux",
+    "source": "Phoronix",
+    "first_seen": "2026-09-17T18:39:30.210669+00:00",
+    "published": "2026-09-17T15:17:24+00:00"
+  },
+  "https://aws.amazon.com/blogs/architecture/how-dhi-group-accelerates-generative-ai-workloads-from-idea-to-production-using-hackathons": {
+    "title": "How DHI Group accelerates generative AI workloads from idea to production using hackathons",
+    "source": "AWS Architecture Blog",
+    "first_seen": "2026-09-17T18:39:30.210669+00:00",
+    "published": "2026-09-17T15:13:42+00:00"
+  },
+  "https://www.economist.com/science-and-technology/2026/09/16/artificial-intelligence-now-beats-some-of-the-best-human-forecasters": {
+    "title": "Artificial intelligence now beats some of the best human forecasters",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-17T18:39:30.210669+00:00",
+    "published": "2026-09-17T15:13:30+00:00"
+  },
+  "https://thenewstack.io/study-developers-are-addicted": {
+    "title": "Study: Developers are addicted to AI, and managers are making it worse",
+    "source": "The New Stack",
+    "first_seen": "2026-09-17T18:39:30.210669+00:00",
+    "published": "2026-09-17T15:12:36+00:00"
+  },
+  "https://medium.com/pinterest-engineering/beyond-two-towers-launching-the-3-tower-engagement-co-train-model-part-2-0b96167d2c14?source=rss----4c5a5f6279b6---4": {
+    "title": "Beyond Two Towers: Launching the 3-Tower Engagement Co-Train Model (Part 2)",
+    "source": "Pinterest Engineering",
+    "first_seen": "2026-09-17T18:39:30.210669+00:00",
+    "published": "2026-09-17T15:01:05+00:00"
+  },
+  "https://blogs.microsoft.com/blog/2026/09/17/what-weve-learned-from-microsofts-own-ai-transformation": {
+    "title": "What we’ve learned from Microsoft’s own AI transformation",
+    "source": "Microsoft Blog",
+    "first_seen": "2026-09-17T18:39:30.210669+00:00",
+    "published": "2026-09-17T14:00:05+00:00"
+  },
+  "https://martinfowler.com/articles/2026-dont-like-llms.html": {
+    "title": "I don't like LLMs",
+    "source": "Martin Fowler",
+    "first_seen": "2026-09-17T18:39:30.210669+00:00",
+    "published": "2026-09-17T13:50:00+00:00"
+  },
+  "https://www.newyorker.com/magazine/2026/09/21/the-american-religion-of-self-storage-facilities": {
+    "title": "The American Religion of Self-Storage Facilities",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-17T18:39:30.210669+00:00",
+    "published": "2026-09-17T13:12:28+00:00"
+  },
+  "https://mysetup.ai": {
+    "title": "Show HN: Share your AI Setup, Learn from others",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-17T18:39:30.210669+00:00",
+    "published": "2026-09-17T13:01:44+00:00"
+  },
+  "https://gowers.wordpress.com/2026/09/17/why-i-didnt-sign-the-fields-medallists-letter": {
+    "title": "Why I didn’t sign the Fields medallists’ letter",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-17T18:39:30.210669+00:00",
+    "published": "2026-09-17T08:51:51+00:00"
+  },
+  "https://nodeweekly.com/issues/641": {
+    "title": "Node 26.9 turns on FFI by default",
+    "source": "Node Weekly",
+    "first_seen": "2026-09-17T18:39:30.210669+00:00",
+    "published": "2026-09-17T00:00:00+00:00"
+  },
+  "https://machinelearning.apple.com/research/reversal-bench-rl-cliff": {
+    "title": "REVERSAL-BENCH: A Reversibility Axis and Reset Oracle for Measuring the Reset-Free RL Cliff",
+    "source": "Apple ML Journal",
+    "first_seen": "2026-09-17T18:39:30.210669+00:00",
+    "published": "2026-09-17T00:00:00+00:00"
+  },
+  "https://blog.rust-lang.org/2026/09/17/targeted-attacks": {
+    "title": "Be alert: targeted attacks on prominent Rustaceans",
+    "source": "Rust Blog",
+    "first_seen": "2026-09-17T18:39:30.210669+00:00",
+    "published": "2026-09-17T00:00:00+00:00"
   }
 }
