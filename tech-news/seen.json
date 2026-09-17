@@ -91004,5 +91004,233 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-09-16T23:20:04.108988+00:00",
     "published": "2026-09-15T22:15:25+00:00"
+  },
+  "https://lwn.net/Articles/1094303": {
+    "title": "[$] Thread-identity switcheroo for io_uring",
+    "source": "LWN.net",
+    "first_seen": "2026-09-17T13:50:53.145833+00:00",
+    "published": "2026-09-17T13:49:59+00:00"
+  },
+  "https://www.phoronix.com/news/Fujitsu-MONAKA-Launches": {
+    "title": "Fujitsu Formally Announces Their MONAKA 144 Core CPU",
+    "source": "Phoronix",
+    "first_seen": "2026-09-17T13:50:53.145833+00:00",
+    "published": "2026-09-17T13:42:37+00:00"
+  },
+  "https://lwn.net/Articles/1094963": {
+    "title": "GNOME 51 released",
+    "source": "LWN.net",
+    "first_seen": "2026-09-17T13:50:53.145833+00:00",
+    "published": "2026-09-17T13:08:12+00:00"
+  },
+  "https://www.phoronix.com/news/Intel-Compute-Runtime-26.35.397": {
+    "title": "Intel Compute Stack Enables LEO For Nova Lake, Introduces Intel Portable ISA \"PISA\"",
+    "source": "Phoronix",
+    "first_seen": "2026-09-17T13:50:53.145833+00:00",
+    "published": "2026-09-17T13:05:07+00:00"
+  },
+  "https://thenewstack.io/human-oversight-defining-requirements": {
+    "title": "Why human oversight is shifting from writing code to defining requirements",
+    "source": "The New Stack",
+    "first_seen": "2026-09-17T13:50:53.145833+00:00",
+    "published": "2026-09-17T13:00:00+00:00"
+  },
+  "https://flat.social": {
+    "title": "Show HN: I built a new version of my fun spatial 3D online meeting app",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-17T13:50:53.145833+00:00",
+    "published": "2026-09-17T12:57:09+00:00"
+  },
+  "https://lwn.net/Articles/1094962": {
+    "title": "Security updates for Thursday",
+    "source": "LWN.net",
+    "first_seen": "2026-09-17T13:50:53.145833+00:00",
+    "published": "2026-09-17T12:48:01+00:00"
+  },
+  "https://www.phoronix.com/news/ASUS-Zenbook-Snapdragon-X2-EC": {
+    "title": "New Linux Driver Coming To Improve ASUS Zenbook Snapdragon X2 Support",
+    "source": "Phoronix",
+    "first_seen": "2026-09-17T13:50:53.145833+00:00",
+    "published": "2026-09-17T12:04:09+00:00"
+  },
+  "https://www.construction-physics.com/p/how-spacex-streamlined-the-raptor": {
+    "title": "How SpaceX Streamlined the Raptor Engine",
+    "source": "Construction Physics",
+    "first_seen": "2026-09-17T13:50:53.145833+00:00",
+    "published": "2026-09-17T12:02:08+00:00"
+  },
+  "https://realpython.com/quizzes/html-css-foundations": {
+    "title": "Quiz: HTML and CSS Foundations for Python Developers",
+    "source": "Real Python",
+    "first_seen": "2026-09-17T13:50:53.145833+00:00",
+    "published": "2026-09-17T12:00:00+00:00"
+  },
+  "https://newsletter.pragmaticengineer.com/p/ai-skills-with-matt-pocock": {
+    "title": "AI Skills with Matt Pocock",
+    "source": "The Pragmatic Engineer",
+    "first_seen": "2026-09-17T13:50:53.145833+00:00",
+    "published": "2026-09-17T11:29:00+00:00"
+  },
+  "https://www.schneier.com/blog/archives/2026/09/how-candidates-could-use-ai-for-good.html": {
+    "title": "How Candidates Could Use AI for Good",
+    "source": "Schneier on Security",
+    "first_seen": "2026-09-17T13:50:53.145833+00:00",
+    "published": "2026-09-17T11:06:31+00:00"
+  },
+  "https://www.cncf.io/blog/2026/09/17/opentelemetry-everywhere-migrating-a-metrics-platform-at-scale": {
+    "title": "OpenTelemetry everywhere: Migrating a metrics platform at scale",
+    "source": "CNCF Blog",
+    "first_seen": "2026-09-17T13:50:53.145833+00:00",
+    "published": "2026-09-17T11:00:00+00:00"
+  },
+  "https://news.ycombinator.com/item?id=49738879": {
+    "title": "Neovim have a ~$800k Bitcoin donation sitting untouched since 2023",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-17T13:50:53.145833+00:00",
+    "published": "2026-09-17T10:44:49+00:00"
+  },
+  "https://manticoresearch.com/blog/auto-chunking": {
+    "title": "Better Vector Search for Long Documents: Chunking Inside Manticore Search",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-17T13:50:53.145833+00:00",
+    "published": "2026-09-17T10:30:52+00:00"
+  },
+  "https://www.phoronix.com/news/Intel-NPU-Linux-7.4-CQ-Priority": {
+    "title": "Intel NPU Linux Driver Adding Command-Queue Priority ioctl For Linux 7.4",
+    "source": "Phoronix",
+    "first_seen": "2026-09-17T13:50:53.145833+00:00",
+    "published": "2026-09-17T10:25:13+00:00"
+  },
+  "https://www.phoronix.com/news/Rust-Coreutils-0.12-Released": {
+    "title": "Rust Coreutils 0.12 Released With Fixes Sought By Ubuntu",
+    "source": "Phoronix",
+    "first_seen": "2026-09-17T13:50:53.145833+00:00",
+    "published": "2026-09-17T10:14:24+00:00"
+  },
+  "https://www.phoronix.com/news/Dragonfly-2.0-Released": {
+    "title": "Dragonfly 2.0 Delivers More Performance For This Modern Replacement To Redis & Memcached",
+    "source": "Phoronix",
+    "first_seen": "2026-09-17T13:50:53.145833+00:00",
+    "published": "2026-09-17T10:02:19+00:00"
+  },
+  "https://stratechery.com/2026/an-interview-with-joanna-stern-about-the-iphone-duo-and-ai-for-normal-people": {
+    "title": "An Interview with Joanna Stern About the iPhone Duo and AI for Normal People",
+    "source": "Stratechery",
+    "first_seen": "2026-09-17T13:50:53.145833+00:00",
+    "published": "2026-09-17T10:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/libinput-1.32-Released": {
+    "title": "libinput 1.32 Released With Circular Scrolling Support For Circular Touchpads",
+    "source": "Phoronix",
+    "first_seen": "2026-09-17T13:50:53.145833+00:00",
+    "published": "2026-09-17T09:51:27+00:00"
+  },
+  "https://z.ai/blog/glm-built-its-inference-infrastructure": {
+    "title": "GLM Built Its Own Inference Infrastructure",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-17T13:50:53.145833+00:00",
+    "published": "2026-09-17T08:27:09+00:00"
+  },
+  "https://servo.org/blog/2026/09/15/one-year-of-sponsorship": {
+    "title": "One Year of Sponsored Servo Development",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-17T13:50:53.145833+00:00",
+    "published": "2026-09-17T08:13:54+00:00"
+  },
+  "https://events.ccc.de/en/2026/09/12/40c3-model-citizens": {
+    "title": "CCC invites all model citizens to 40C3",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-17T13:50:53.145833+00:00",
+    "published": "2026-09-17T08:03:54+00:00"
+  },
+  "https://github.com/cloudflare/security-audit-skill": {
+    "title": "Cloudflare/Security-Audit-Skill",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-17T13:50:53.145833+00:00",
+    "published": "2026-09-17T04:36:55+00:00"
+  },
+  "https://ryan.science/blog/keys-not-included": {
+    "title": "Keys Not Included: recovering the signing keys for US driver's license barcodes",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-17T13:50:53.145833+00:00",
+    "published": "2026-09-17T03:03:23+00:00"
+  },
+  "https://lwn.net/Articles/1093434": {
+    "title": "[$] LWN.net Weekly Edition for September 17, 2026",
+    "source": "LWN.net",
+    "first_seen": "2026-09-17T13:50:53.145833+00:00",
+    "published": "2026-09-17T01:12:53+00:00"
+  },
+  "https://www.elastic.co/blog/australia-parliamentary-ai-showcase": {
+    "title": "Australia's AI opportunity starts with data",
+    "source": "Elastic Blog",
+    "first_seen": "2026-09-17T13:50:53.145833+00:00",
+    "published": "2026-09-17T01:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/Miracle-WM-0.11": {
+    "title": "Mir/Wayland-Powered Miracle-WM 0.11 Released With New Overview Mode, Window Urgency",
+    "source": "Phoronix",
+    "first_seen": "2026-09-17T13:50:53.145833+00:00",
+    "published": "2026-09-17T00:58:42+00:00"
+  },
+  "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot": {
+    "title": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
+    "source": "GitHub Blog",
+    "first_seen": "2026-09-17T13:50:53.145833+00:00",
+    "published": "2026-09-17T00:26:43+00:00"
+  },
+  "https://www.thoughtworks.com/insights/blog/agile-engineering-practices/ai-makes-agile-more-alive": {
+    "title": "AI makes Agile more alive",
+    "source": "ThoughtWorks",
+    "first_seen": "2026-09-17T13:50:53.145833+00:00",
+    "published": "2026-09-17T00:00:00+00:00"
+  },
+  "https://simonwillison.net/2026/Sep/16/datasette": {
+    "title": "datasette 1.0a40",
+    "source": "Simon Willison",
+    "first_seen": "2026-09-17T13:50:53.145833+00:00",
+    "published": "2026-09-16T23:51:43+00:00"
+  },
+  "https://simonwillison.net/2026/Sep/16/datasette-2": {
+    "title": "datasette 0.65.5",
+    "source": "Simon Willison",
+    "first_seen": "2026-09-17T13:50:53.145833+00:00",
+    "published": "2026-09-16T23:51:08+00:00"
+  },
+  "https://developer.nvidia.com/blog/how-to-use-ai-agents-to-prepare-3d-scenes-for-simulation": {
+    "title": "How to Use AI Agents to Prepare 3D Scenes for Simulation",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-09-17T13:50:53.145833+00:00",
+    "published": "2026-09-16T23:20:33+00:00"
+  },
+  "https://openspec.dev": {
+    "title": "OpenSpec – A lightweight and configurable AI spec framework",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-17T13:50:53.145833+00:00",
+    "published": "2026-09-16T23:06:39+00:00"
+  },
+  "https://harnesstax.github.io": {
+    "title": "HarnessTax: How Much Does the Harness Matter for Coding Agents?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-17T13:50:53.145833+00:00",
+    "published": "2026-09-16T22:10:13+00:00"
+  },
+  "https://engineering.atspotify.com/2026/9/ai-changed-how-spotify-builds-what-we-learned-and-fixed-about-quality-at-higher-velocity": {
+    "title": "AI Changed How Spotify Builds. What We Learned (and Fixed) About Quality at Higher Velocity",
+    "source": "Spotify Engineering",
+    "first_seen": "2026-09-17T13:50:53.145833+00:00",
+    "published": "2026-09-16T19:13:53+00:00"
+  },
+  "https://kubernetes.io/blog/2026/09/16/kubernetes-v1-37-hardening-container-storage": {
+    "title": "Kubernetes v1.37: Hardening Container Storage with Bind Mount Options and EmptyDir Permissions",
+    "source": "Kubernetes Blog",
+    "first_seen": "2026-09-17T13:50:53.145833+00:00",
+    "published": "2026-09-16T18:30:00+00:00"
+  },
+  "https://labs.watchtowr.com/a-32-year-old-bug-walks-into-a-telnet-server-gnu-inetutils-telnetd-cve-2026-32746": {
+    "title": "A 32-year-old bug walks into a Telnet server",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-17T13:50:53.145833+00:00",
+    "published": "2026-09-16T02:01:27+00:00"
   }
 }
