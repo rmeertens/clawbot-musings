@@ -91940,5 +91940,257 @@
     "source": "Databricks Blog",
     "first_seen": "2026-09-18T13:12:49.283830+00:00",
     "published": "2026-09-17T14:00:00+00:00"
+  },
+  "https://research.google/blog/millemiglia-a-realistic-instance-generator-for-middle-mile-logistics": {
+    "title": "MilleMiglia: A realistic instance generator for middle-mile logistics",
+    "source": "Google Research",
+    "first_seen": "2026-09-18T17:55:53.887425+00:00",
+    "published": "2026-09-18T17:46:09+00:00"
+  },
+  "https://www.databricks.com/blog/enabling-secure-productive-work-personal-devices": {
+    "title": "Enabling secure, productive work on personal devices",
+    "source": "Databricks Blog",
+    "first_seen": "2026-09-18T17:55:53.887425+00:00",
+    "published": "2026-09-18T17:45:00+00:00"
+  },
+  "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math": {
+    "title": "Saving another 100TB of RAM with math (and Rust)",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-09-18T17:55:53.887425+00:00",
+    "published": "2026-09-18T17:23:58+00:00"
+  },
+  "https://danluu.com/brain-off": {
+    "title": "There's no point at which turning your brain off will work",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-18T17:55:53.887425+00:00",
+    "published": "2026-09-18T17:02:52+00:00"
+  },
+  "https://stratechery.com/2026/doomforce": {
+    "title": "2026.38: Doomforce",
+    "source": "Stratechery",
+    "first_seen": "2026-09-18T17:55:53.887425+00:00",
+    "published": "2026-09-18T17:00:00+00:00"
+  },
+  "https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection": {
+    "title": "Photon-Emission-Guided Laser Fault Injection Enables RP2350 Secure Debug",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-18T17:55:53.887425+00:00",
+    "published": "2026-09-18T16:54:18+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/introducing-kimi-k3-on-amazon-bedrock": {
+    "title": "Introducing Kimi K3 on Amazon Bedrock",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-09-18T17:55:53.887425+00:00",
+    "published": "2026-09-18T16:52:01+00:00"
+  },
+  "https://cloud.google.com/blog/products/databases/native-bm25-search-in-alloydb-and-cloud-sql": {
+    "title": "Announcing Native BM25 Ranking in AlloyDB and Cloud SQL",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-09-18T17:55:53.887425+00:00",
+    "published": "2026-09-18T16:30:00+00:00"
+  },
+  "https://www.phoronix.com/news/Google-Binder-C-Goodbye": {
+    "title": "Google's \"Painful To Maintain\" Binder C Linux Driver Being Removed In Favor Of Rust",
+    "source": "Phoronix",
+    "first_seen": "2026-09-18T17:55:53.887425+00:00",
+    "published": "2026-09-18T16:26:32+00:00"
+  },
+  "https://netflixtechblog.com/leave-the-class-path-in-the-rearview-mirror-67a85b15b6be?source=rss----2615bd06b42e---4": {
+    "title": "Leave the Class Path in the Rearview Mirror",
+    "source": "Netflix Tech Blog",
+    "first_seen": "2026-09-18T17:55:53.887425+00:00",
+    "published": "2026-09-18T16:01:02+00:00"
+  },
+  "https://cloud.google.com/blog/topics/systems/using-ai-agents-to-secure-google-infrastructure": {
+    "title": "Changing the game: How Google uses agentic AI to secure hundreds of millions of lines of code",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-09-18T17:55:53.887425+00:00",
+    "published": "2026-09-18T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/topics/public-sector/reimagining-service-delivery-in-the-agentic-era-with-google-public-sector": {
+    "title": "Reimagining service delivery in the agentic era with Google Public Sector",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-09-18T17:55:53.887425+00:00",
+    "published": "2026-09-18T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/topics/developers-practitioners/the-devfest-community-workshop-experience-building-real-agents-together": {
+    "title": "The DevFest Community Workshop Experience: Building Real Agents Together",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-09-18T17:55:53.887425+00:00",
+    "published": "2026-09-18T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/topics/consulting/upskill-your-ai-using-daily-micro-habits": {
+    "title": "How to upskill enterprise AI builders by using daily micro habits",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-09-18T17:55:53.887425+00:00",
+    "published": "2026-09-18T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/data-analytics/borderless-lakehouse-cross-cloud-caching-and-connections": {
+    "title": "Accelerating the borderless Lakehouse: Announcing preview of cross-cloud caching",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-09-18T17:55:53.887425+00:00",
+    "published": "2026-09-18T16:00:00+00:00"
+  },
+  "https://thenewstack.io/kubernetes-ai-inference-costs": {
+    "title": "Kubernetes can run AI inference. But can it count the real cost?",
+    "source": "The New Stack",
+    "first_seen": "2026-09-18T17:55:53.887425+00:00",
+    "published": "2026-09-18T15:53:21+00:00"
+  },
+  "https://www.phoronix.com/news/Apple-Video-Decode-AVD-Linux": {
+    "title": "Apple Video Decode Driver Posted For Upstream Linux Kernel Review",
+    "source": "Phoronix",
+    "first_seen": "2026-09-18T17:55:53.887425+00:00",
+    "published": "2026-09-18T15:52:30+00:00"
+  },
+  "https://wolfstreet.com/2026/09/17/treasuries-have-become-badly-unappetizing-for-foreign-central-banks-governments": {
+    "title": "US Treasuries Have Become Unappetizing for Foreign Central Banks and Governments",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-18T17:55:53.887425+00:00",
+    "published": "2026-09-18T15:50:29+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/migrating-multi-model-ai-agents-to-amazon-bedrock-agentcore-runtime": {
+    "title": "Migrating multi-model AI agents to Amazon Bedrock AgentCore runtime",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-09-18T17:55:53.887425+00:00",
+    "published": "2026-09-18T15:38:53+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/the-new-agentcore-runtime-elastic-optimized-and-consistently-fast-starts": {
+    "title": "The new AgentCore runtime: Elastic, optimized, and consistently fast starts",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-09-18T17:55:53.887425+00:00",
+    "published": "2026-09-18T15:31:34+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/deploy-hugging-face-models-on-amazon-sagemaker-ai-with-coding-agents": {
+    "title": "Deploy Hugging Face models on Amazon SageMaker AI with coding agents",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-09-18T17:55:53.887425+00:00",
+    "published": "2026-09-18T15:25:23+00:00"
+  },
+  "https://aws.amazon.com/blogs/compute/running-self-hosted-ai-agent-sandboxes-with-aws-lambda-microvms": {
+    "title": "Running self-hosted AI agent sandboxes with AWS Lambda MicroVMs",
+    "source": "AWS Compute Blog",
+    "first_seen": "2026-09-18T17:55:53.887425+00:00",
+    "published": "2026-09-18T15:10:33+00:00"
+  },
+  "https://www.miro.vision/index.php/2026/09/17/grasslobbster": {
+    "title": "GrassLobster: AI Agentic Generation of Parametric Geometry Workflows",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-18T17:55:53.887425+00:00",
+    "published": "2026-09-18T15:04:54+00:00"
+  },
+  "https://github.blog/ai-and-ml/should-you-read-the-code-is-rag-dead-and-did-skills-kill-mcp": {
+    "title": "Should you read the code, is RAG dead, and did Skills kill MCP?",
+    "source": "GitHub Blog",
+    "first_seen": "2026-09-18T17:55:53.887425+00:00",
+    "published": "2026-09-18T15:00:00+00:00"
+  },
+  "https://blog.nseldeib.com/p/build-faster-feedback-loops-using": {
+    "title": "Build Faster Feedback Loops Using Qualitative User Research",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-18T17:55:53.887425+00:00",
+    "published": "2026-09-18T14:58:09+00:00"
+  },
+  "https://www.science.org/content/article/north-korean-nuclear-test-sets-years-earthquakes": {
+    "title": "North Korean nuclear test sets off years of earthquakes",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-18T17:55:53.887425+00:00",
+    "published": "2026-09-18T14:45:32+00:00"
+  },
+  "https://www.quantamagazine.org/mathematicians-build-long-awaited-graph-sandwich-20260918": {
+    "title": "Mathematicians Build Long-Awaited Graph Sandwich",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-18T17:55:53.887425+00:00",
+    "published": "2026-09-18T14:41:02+00:00"
+  },
+  "https://simonwillison.net/2026/Sep/18/the-creative-spirit-of-who-framed-roger-rabbit": {
+    "title": "The Creative Spirit of Who Framed Roger Rabbit",
+    "source": "Simon Willison",
+    "first_seen": "2026-09-18T17:55:53.887425+00:00",
+    "published": "2026-09-18T14:36:41+00:00"
+  },
+  "https://overreacted.io/how-i-vibed-a-proof-of-conways-conjecture": {
+    "title": "I vibed a proof of Conway's conjecture",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-18T17:55:53.887425+00:00",
+    "published": "2026-09-18T14:36:10+00:00"
+  },
+  "https://aws.amazon.com/blogs/architecture/how-csiro-built-scalable-cost-optimized-genomic-variant-querying-on-aws": {
+    "title": "How CSIRO built scalable, cost-optimized genomic variant querying on AWS",
+    "source": "AWS Architecture Blog",
+    "first_seen": "2026-09-18T17:55:53.887425+00:00",
+    "published": "2026-09-18T14:35:42+00:00"
+  },
+  "https://beanshell.github.io/home.html": {
+    "title": "BeanShell3 in Development",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-18T17:55:53.887425+00:00",
+    "published": "2026-09-18T14:21:24+00:00"
+  },
+  "https://try.cloudflare.com": {
+    "title": "Cloudflare Quick Tunnels",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-18T17:55:53.887425+00:00",
+    "published": "2026-09-18T14:18:41+00:00"
+  },
+  "https://lwn.net/Articles/1094575": {
+    "title": "[$] Looking forward to Git 2.56 — and 3.0",
+    "source": "LWN.net",
+    "first_seen": "2026-09-18T17:55:53.887425+00:00",
+    "published": "2026-09-18T14:14:09+00:00"
+  },
+  "https://knightcolumbia.org/content/second-circuit-allows-government-to-search-electronic-devices-at-the-border-without-any-suspicion": {
+    "title": "Second Circuit Allows Government to Search Electronic Devices at the Border",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-18T17:55:53.887425+00:00",
+    "published": "2026-09-18T14:11:22+00:00"
+  },
+  "https://www.phoronix.com/review/ubuntu-2610-strix-halo": {
+    "title": "AMD Strix Halo Enjoys Some Performance Gains On Ubuntu 26.10, Especially With amd64v3",
+    "source": "Phoronix",
+    "first_seen": "2026-09-18T17:55:53.887425+00:00",
+    "published": "2026-09-18T14:00:00+00:00"
+  },
+  "https://thenewstack.io/buildpacks-container-security-scale": {
+    "title": "How buildpacks help enterprises finally operate container security controls at scale",
+    "source": "The New Stack",
+    "first_seen": "2026-09-18T17:55:53.887425+00:00",
+    "published": "2026-09-18T14:00:00+00:00"
+  },
+  "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench": {
+    "title": "New experts join Google’s AI & Economy team",
+    "source": "Google AI Blog",
+    "first_seen": "2026-09-18T17:55:53.887425+00:00",
+    "published": "2026-09-18T14:00:00+00:00"
+  },
+  "https://www.nats.aero/news/nats-publishes-preliminary-report-on-technical-incident-of-8-september": {
+    "title": "NATS publishes preliminary report on technical incident of 8 September",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-18T17:55:53.887425+00:00",
+    "published": "2026-09-18T13:24:35+00:00"
+  },
+  "https://arxiv.org/abs/2609.20804": {
+    "title": "An Empirical Study of Harness Design for Coding Agents",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-18T17:55:53.887425+00:00",
+    "published": "2026-09-18T13:06:30+00:00"
+  },
+  "https://www.thoughtworks.com/insights/articles/saaspocalypse-hollow-core-rebuild-what-matters": {
+    "title": "SaaSpocalypse: Hollow out the core, rebuild what matters",
+    "source": "ThoughtWorks",
+    "first_seen": "2026-09-18T17:55:53.887425+00:00",
+    "published": "2026-09-18T00:00:00+00:00"
+  },
+  "https://planetscale.com/blog/the-architecture-of-neki": {
+    "title": "The architecture of Neki",
+    "source": "PlanetScale Blog",
+    "first_seen": "2026-09-18T17:55:53.887425+00:00",
+    "published": "2026-09-18T00:00:00+00:00"
+  },
+  "https://machinelearning.apple.com/research/dynamically-scaled-activation-steering": {
+    "title": "Dynamically Scaled Activation Steering",
+    "source": "Apple ML Journal",
+    "first_seen": "2026-09-18T17:55:53.887425+00:00",
+    "published": "2026-09-18T00:00:00+00:00"
   }
 }
