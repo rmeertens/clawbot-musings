@@ -91706,5 +91706,239 @@
     "source": "PlanetScale Blog",
     "first_seen": "2026-09-17T23:11:15.747534+00:00",
     "published": "2026-09-17T00:00:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/introducing-amazon-sagemaker-hyperpod-inference-gateway": {
+    "title": "Introducing Amazon SageMaker HyperPod Inference Gateway",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-09-18T13:12:49.283830+00:00",
+    "published": "2026-09-18T13:08:34+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-FRED-Fix-For-Wine-Games": {
+    "title": "Linux Ready With Fix For Intel's FRED Crashing Some Games Under Wine / Steam Play",
+    "source": "Phoronix",
+    "first_seen": "2026-09-18T13:12:49.283830+00:00",
+    "published": "2026-09-18T13:03:06+00:00"
+  },
+  "https://thenewstack.io/ai-agent-infrastructure-performance": {
+    "title": "Your agent is only as good as your infrastructure",
+    "source": "The New Stack",
+    "first_seen": "2026-09-18T13:12:49.283830+00:00",
+    "published": "2026-09-18T13:00:00+00:00"
+  },
+  "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week": {
+    "title": "Co-creating the future of fashion with Google",
+    "source": "Google AI Blog",
+    "first_seen": "2026-09-18T13:12:49.283830+00:00",
+    "published": "2026-09-18T13:00:00+00:00"
+  },
+  "https://lwn.net/Articles/1095220": {
+    "title": "Systemtap 5.6 released",
+    "source": "LWN.net",
+    "first_seen": "2026-09-18T13:12:49.283830+00:00",
+    "published": "2026-09-18T12:58:42+00:00"
+  },
+  "https://lwn.net/Articles/1095219": {
+    "title": "Security updates for Friday",
+    "source": "LWN.net",
+    "first_seen": "2026-09-18T13:12:49.283830+00:00",
+    "published": "2026-09-18T12:52:10+00:00"
+  },
+  "https://www.tigerdata.com/blog/knowing-when-composite-index-earns-write-cost": {
+    "title": "Knowing When Your Composite Index Earns Its Write Cost",
+    "source": "Timescale Blog",
+    "first_seen": "2026-09-18T13:12:49.283830+00:00",
+    "published": "2026-09-18T12:49:15+00:00"
+  },
+  "https://thenewstack.io/open-weight-anthropic-spend": {
+    "title": "Open-weight models now handle a majority of tokens on Vercel’s AI Gateway. But Anthropic still takes 64% of the spend.",
+    "source": "The New Stack",
+    "first_seen": "2026-09-18T13:12:49.283830+00:00",
+    "published": "2026-09-18T12:42:58+00:00"
+  },
+  "https://opentelemetry.io/blog/2026/dual-dotnet-metrics-export-with-otlp-and-prometheus": {
+    "title": "Dual-exporting .NET metrics with OTLP and Prometheus",
+    "source": "OpenTelemetry Blog",
+    "first_seen": "2026-09-18T13:12:49.283830+00:00",
+    "published": "2026-09-18T12:07:36+00:00"
+  },
+  "https://hawksley.dev/blog/i-dont-like-passkeys": {
+    "title": "I don't like passkeys",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-18T13:12:49.283830+00:00",
+    "published": "2026-09-18T12:06:50+00:00"
+  },
+  "https://blog.liampwll.com/posts/bend_vibe_coding": {
+    "title": "Bend 2 and the Vibe-Coding Trap",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-18T13:12:49.283830+00:00",
+    "published": "2026-09-18T12:03:55+00:00"
+  },
+  "https://thenewstack.io/ai-code-review-burnout": {
+    "title": "Code review is burning out your best engineers",
+    "source": "The New Stack",
+    "first_seen": "2026-09-18T13:12:49.283830+00:00",
+    "published": "2026-09-18T12:00:00+00:00"
+  },
+  "https://realpython.com/quizzes/introduction-pandas": {
+    "title": "Quiz: Introduction to pandas",
+    "source": "Real Python",
+    "first_seen": "2026-09-18T13:12:49.283830+00:00",
+    "published": "2026-09-18T12:00:00+00:00"
+  },
+  "https://www.schneier.com/blog/archives/2026/09/are-ais-still-struggling-with-captchas.html": {
+    "title": "Are AIs Still Struggling with CAPTCHAs?",
+    "source": "Schneier on Security",
+    "first_seen": "2026-09-18T13:12:49.283830+00:00",
+    "published": "2026-09-18T11:05:52+00:00"
+  },
+  "https://www.nytimes.com/2026/09/18/business/warren-buffett-berkshire-chairman.html": {
+    "title": "Warren Buffett Steps Down as Berkshire Chairman, Names Son to Replace Him",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-18T13:12:49.283830+00:00",
+    "published": "2026-09-18T11:01:44+00:00"
+  },
+  "https://blog.trailofbits.com/2026/09/18/auditing-in-the-age-of-good-enough-ai": {
+    "title": "Auditing in the age of (good enough) AI",
+    "source": "Trail of Bits",
+    "first_seen": "2026-09-18T13:12:49.283830+00:00",
+    "published": "2026-09-18T11:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/Ubuntu-26.10-OOM-Adjustments": {
+    "title": "Ubuntu 26.10 Desktop Adjusting Its Behavior Under Memory Pressure",
+    "source": "Phoronix",
+    "first_seen": "2026-09-18T13:12:49.283830+00:00",
+    "published": "2026-09-18T10:40:00+00:00"
+  },
+  "https://tokenstead.ai/guides/zcode-silent-git-history-upload": {
+    "title": "ZCode, the GLM coding agent, silently uploads your Git history",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-18T13:12:49.283830+00:00",
+    "published": "2026-09-18T10:35:28+00:00"
+  },
+  "https://www.phoronix.com/news/Phoronix-Oktoberfest-2026": {
+    "title": "Help Linux Hardware Testing & Reviews Continue While Enjoying Phoronix Without Ads",
+    "source": "Phoronix",
+    "first_seen": "2026-09-18T13:12:49.283830+00:00",
+    "published": "2026-09-18T10:30:00+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-Kbuild-Faster-v3": {
+    "title": "Linux Kernel Build Times Ready To Be Significantly Reduced With Latest Patches",
+    "source": "Phoronix",
+    "first_seen": "2026-09-18T13:12:49.283830+00:00",
+    "published": "2026-09-18T10:26:22+00:00"
+  },
+  "https://www.phoronix.com/news/More-AMDGPU-For-Linux-7.4": {
+    "title": "AMD Sends In More HDMI FRL Updates For Linux 7.4, Fixes For Upcoming Hardware",
+    "source": "Phoronix",
+    "first_seen": "2026-09-18T13:12:49.283830+00:00",
+    "published": "2026-09-18T10:06:39+00:00"
+  },
+  "https://www.phoronix.com/news/Intel-Bug-Bounty-Program-Ends": {
+    "title": "Intel Appears To End Its Bug Bounty Program",
+    "source": "Phoronix",
+    "first_seen": "2026-09-18T13:12:49.283830+00:00",
+    "published": "2026-09-18T09:54:22+00:00"
+  },
+  "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal": {
+    "title": "Microsoft exec called AI scraping 'the largest theft of labor in human history'",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-18T13:12:49.283830+00:00",
+    "published": "2026-09-18T09:45:07+00:00"
+  },
+  "https://openjev.com": {
+    "title": "OpenJev",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-18T13:12:49.283830+00:00",
+    "published": "2026-09-18T09:42:22+00:00"
+  },
+  "https://github.com/jemalloc/jemalloc/releases/tag/5.4.0": {
+    "title": "Jemalloc 5.4.0",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-18T13:12:49.283830+00:00",
+    "published": "2026-09-18T04:20:24+00:00"
+  },
+  "https://fex-emu.com/Scourge-of-emulation": {
+    "title": "The scourge of x86 emulation",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-18T13:12:49.283830+00:00",
+    "published": "2026-09-18T04:09:48+00:00"
+  },
+  "https://linguisticdiscovery.com/posts/pre-greek": {
+    "title": "Pre-Greek: The lost language hidden within Ancient Greek",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-18T13:12:49.283830+00:00",
+    "published": "2026-09-18T03:04:38+00:00"
+  },
+  "https://www.hacktron.ai/blog/hacking-openai": {
+    "title": "A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-18T13:12:49.283830+00:00",
+    "published": "2026-09-18T02:47:24+00:00"
+  },
+  "https://byteshape.com/blogs/Qwen3.8-27B": {
+    "title": "Shapelearn Qwen 3.8 27B (13.1 GB VRAM)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-18T13:12:49.283830+00:00",
+    "published": "2026-09-18T02:04:19+00:00"
+  },
+  "https://askamonk.online": {
+    "title": "Ask A Monk – A digital wilderness for thoughts with no immediate answer",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-18T13:12:49.283830+00:00",
+    "published": "2026-09-18T01:34:08+00:00"
+  },
+  "https://www.netnod.se/blog/telstra-outage-night-network-decided-year-was-2006": {
+    "title": "Telstra outage: The night a network decided the year was 2006",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-18T13:12:49.283830+00:00",
+    "published": "2026-09-18T01:05:03+00:00"
+  },
+  "https://www.phoronix.com/news/OpenCL-3.1.2-Released": {
+    "title": "OpenCL 3.1.2 Released With cl_khr_command_buffer Promoted",
+    "source": "Phoronix",
+    "first_seen": "2026-09-18T13:12:49.283830+00:00",
+    "published": "2026-09-18T00:33:22+00:00"
+  },
+  "https://pytorch.org/blog/pytorch-day-japan-2026-comes-to-tokyo": {
+    "title": "PyTorch Day Japan 2026 Comes to Tokyo on December 10",
+    "source": "PyTorch Blog",
+    "first_seen": "2026-09-18T13:12:49.283830+00:00",
+    "published": "2026-09-18T00:25:32+00:00"
+  },
+  "https://golangweekly.com/issues/618": {
+    "title": "A native IDE written in Go goes open source",
+    "source": "Golang Weekly",
+    "first_seen": "2026-09-18T13:12:49.283830+00:00",
+    "published": "2026-09-18T00:00:00+00:00"
+  },
+  "https://simonwillison.net/2026/Sep/17/targeted-attacks-on-rustaceans": {
+    "title": "Be alert: targeted attacks on prominent Rustaceans",
+    "source": "Simon Willison",
+    "first_seen": "2026-09-18T13:12:49.283830+00:00",
+    "published": "2026-09-17T23:59:19+00:00"
+  },
+  "https://simonwillison.net/2026/Sep/17/how-to-write-with-an-llm": {
+    "title": "How To Write With An LLM",
+    "source": "Simon Willison",
+    "first_seen": "2026-09-18T13:12:49.283830+00:00",
+    "published": "2026-09-17T23:37:27+00:00"
+  },
+  "https://qwen.ai/blog?id=qwen3.8-omni-flash": {
+    "title": "Qwen 3.8 Omni Flash",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-18T13:12:49.283830+00:00",
+    "published": "2026-09-17T23:05:48+00:00"
+  },
+  "https://www.databricks.com/blog/database-for-ai-agents": {
+    "title": "Database for AI Agents: 5 Evaluation Criteria",
+    "source": "Databricks Blog",
+    "first_seen": "2026-09-18T13:12:49.283830+00:00",
+    "published": "2026-09-17T17:27:40+00:00"
+  },
+  "https://www.databricks.com/blog/modernizing-trade-lifecycle-governed-data-and-ai": {
+    "title": "Modernizing the Trade Lifecycle With Governed Data and AI",
+    "source": "Databricks Blog",
+    "first_seen": "2026-09-18T13:12:49.283830+00:00",
+    "published": "2026-09-17T14:00:00+00:00"
   }
 }
