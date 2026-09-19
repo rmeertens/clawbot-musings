@@ -92444,5 +92444,89 @@
     "source": "OpenAI Blog",
     "first_seen": "2026-09-19T12:44:03.556639+00:00",
     "published": "2026-09-18T12:00:00+00:00"
+  },
+  "https://simonwillison.net/2026/Sep/19/sighting-401567341": {
+    "title": "California Sea Lion, Brandt's Cormorant",
+    "source": "Simon Willison",
+    "first_seen": "2026-09-19T17:33:04.648555+00:00",
+    "published": "2026-09-19T17:10:08+00:00"
+  },
+  "https://supabase.link/orioledbjob": {
+    "title": "Supabase (YC S20) Is Hiring for OrioleDB",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-19T17:33:04.648555+00:00",
+    "published": "2026-09-19T17:01:30+00:00"
+  },
+  "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai": {
+    "title": "Almost Never Use AI to Write Anything Substantive",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-19T17:33:04.648555+00:00",
+    "published": "2026-09-19T16:35:24+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.4-Faster-Do-Open": {
+    "title": "Simple Optimization For Linux 7.4 Can Open Files For Reading ~39% Faster",
+    "source": "Phoronix",
+    "first_seen": "2026-09-19T17:33:04.648555+00:00",
+    "published": "2026-09-19T16:28:05+00:00"
+  },
+  "https://blog.bytebytego.com/p/ep226-api-concepts-every-software": {
+    "title": "EP226: API Concepts Every Software Engineer Should Know",
+    "source": "ByteByteGo",
+    "first_seen": "2026-09-19T17:33:04.648555+00:00",
+    "published": "2026-09-19T15:31:06+00:00"
+  },
+  "https://www.state.gov/wp-content/uploads/2019/02/04-806-Denmark-Defense.done_.pdf": {
+    "title": "Agreement between the USA and Denmark (1951,2004) [pdf]",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-19T17:33:04.648555+00:00",
+    "published": "2026-09-19T14:45:12+00:00"
+  },
+  "https://github.com/mindbox77/zxdesk": {
+    "title": "A graphical desktop for the ZX Spectrum",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-19T17:33:04.648555+00:00",
+    "published": "2026-09-19T14:01:58+00:00"
+  },
+  "https://thenewstack.io/agentic-verification-distributed-systems": {
+    "title": "One engineer shipped 2,000 PRs a month to production. Verification is the key.",
+    "source": "The New Stack",
+    "first_seen": "2026-09-19T17:33:04.648555+00:00",
+    "published": "2026-09-19T14:00:00+00:00"
+  },
+  "https://realpython.com/python-statistics": {
+    "title": "Python Statistics Fundamentals: How to Describe Your Data",
+    "source": "Real Python",
+    "first_seen": "2026-09-19T17:33:04.648555+00:00",
+    "published": "2026-09-19T14:00:00+00:00"
+  },
+  "https://besok.github.io/posts/what-zig-felt-like-coming-from-rust": {
+    "title": "What Zig felt like, coming from Rust",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-19T17:33:04.648555+00:00",
+    "published": "2026-09-19T13:55:18+00:00"
+  },
+  "https://www.phoronix.com/news/Wine-Staging-11.18": {
+    "title": "Wine-Staging 11.18 Adds New Patches To Further Improve WoW64",
+    "source": "Phoronix",
+    "first_seen": "2026-09-19T17:33:04.648555+00:00",
+    "published": "2026-09-19T13:22:39+00:00"
+  },
+  "https://thenewstack.io/vercel-hobby-deployment-retention": {
+    "title": "“Dormant deployments were quietly consuming storage”: Why Vercel tightened its free-tier rules",
+    "source": "The New Stack",
+    "first_seen": "2026-09-19T17:33:04.648555+00:00",
+    "published": "2026-09-19T13:00:00+00:00"
+  },
+  "https://www.quantamagazine.org/black-holes-or-black-hole-stars-astronomers-spar-over-webb-telescopes-little-red-dots-20260914": {
+    "title": "Black Holes or Black Hole Stars? Astronomers Spar over 'Little Red Dots'",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-19T17:33:04.648555+00:00",
+    "published": "2026-09-18T15:47:14+00:00"
+  },
+  "https://qbixserver.com": {
+    "title": "I built the fastest PHP webserver in the world",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-19T17:33:04.648555+00:00",
+    "published": "2026-09-18T03:08:04+00:00"
   }
 }
