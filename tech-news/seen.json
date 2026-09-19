@@ -92318,5 +92318,131 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-09-18T22:53:30.300678+00:00",
     "published": "2026-09-18T02:56:48+00:00"
+  },
+  "https://www.construction-physics.com/p/reading-list-09192026": {
+    "title": "Reading List 09/19/2026",
+    "source": "Construction Physics",
+    "first_seen": "2026-09-19T12:44:03.556639+00:00",
+    "published": "2026-09-19T12:03:09+00:00"
+  },
+  "https://realpython.com/quizzes/python-thinking-recursively": {
+    "title": "Quiz: Thinking Recursively in Python",
+    "source": "Real Python",
+    "first_seen": "2026-09-19T12:44:03.556639+00:00",
+    "published": "2026-09-19T12:00:00+00:00"
+  },
+  "https://laya.convaiinnovations.com": {
+    "title": "Laya the open source version of Jev",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-19T12:44:03.556639+00:00",
+    "published": "2026-09-19T10:46:58+00:00"
+  },
+  "https://www.phoronix.com/news/GNOME-OS-Goes-Zswap": {
+    "title": "GNOME OS Turns To Zswap To Deal With OOM Issues, Progress On Geary Email Client Fork",
+    "source": "Phoronix",
+    "first_seen": "2026-09-19T12:44:03.556639+00:00",
+    "published": "2026-09-19T10:38:08+00:00"
+  },
+  "https://www.phoronix.com/news/Intel-Xe-vRAM-Health-Check": {
+    "title": "Intel Xe Driver For Linux 7.4 Adds vRAM Health Check, Degraded Memory Handling",
+    "source": "Phoronix",
+    "first_seen": "2026-09-19T12:44:03.556639+00:00",
+    "published": "2026-09-19T10:24:15+00:00"
+  },
+  "https://www.phoronix.com/news/Plasma-6.8-Post-Beta-Fixes": {
+    "title": "KDE Plasma 6.8 Seeing More Polishing & Fixes, Plasma 6.9 Begins Seeing More Activity",
+    "source": "Phoronix",
+    "first_seen": "2026-09-19T12:44:03.556639+00:00",
+    "published": "2026-09-19T10:10:34+00:00"
+  },
+  "https://thenewstack.io/ai-agent-harness-economics": {
+    "title": "This week’s news from Zed, Anthropic, and OpenRouter shows why better harnesses matter more than better models",
+    "source": "The New Stack",
+    "first_seen": "2026-09-19T12:44:03.556639+00:00",
+    "published": "2026-09-19T10:00:00+00:00"
+  },
+  "https://john.hartnup.uk/2026/06/07/ai-event-posters.html": {
+    "title": "AI-generated posters don’t have to be horrible",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-19T12:44:03.556639+00:00",
+    "published": "2026-09-19T09:20:58+00:00"
+  },
+  "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio": {
+    "title": "GPT-6 Astra Solves a WWI German Radio Cipher",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-19T12:44:03.556639+00:00",
+    "published": "2026-09-19T06:41:44+00:00"
+  },
+  "https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it": {
+    "title": "If math is more than proof, we need to better celebrate the rest of it",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-19T12:44:03.556639+00:00",
+    "published": "2026-09-19T06:28:02+00:00"
+  },
+  "https://browser.geekbench.com/v7/cpu/389219": {
+    "title": "Apple M6 Pro Achieves the Highest Single-Core CPU Score in Geekbench 7",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-19T12:44:03.556639+00:00",
+    "published": "2026-09-19T06:19:24+00:00"
+  },
+  "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html": {
+    "title": "Human brain is two separate organs, Stanford Medicine-led research finds",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-19T12:44:03.556639+00:00",
+    "published": "2026-09-19T05:48:50+00:00"
+  },
+  "https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model": {
+    "title": "NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-19T12:44:03.556639+00:00",
+    "published": "2026-09-19T04:44:35+00:00"
+  },
+  "https://onionfutures.com": {
+    "title": "San Francisco Onion Futures Company",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-19T12:44:03.556639+00:00",
+    "published": "2026-09-19T04:23:30+00:00"
+  },
+  "https://sdcc.sourceforge.net": {
+    "title": "SDCC – Small Device C Compiler",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-19T12:44:03.556639+00:00",
+    "published": "2026-09-19T02:32:36+00:00"
+  },
+  "https://jepedersen.dk/blog/202505_research": {
+    "title": "Science Is Open Software",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-19T12:44:03.556639+00:00",
+    "published": "2026-09-19T02:21:35+00:00"
+  },
+  "https://www.phoronix.com/news/Ubuntu-26.10-With-Linux-7.3": {
+    "title": "Ubuntu 26.10 Switches To The Linux 7.3 Kernel",
+    "source": "Phoronix",
+    "first_seen": "2026-09-19T12:44:03.556639+00:00",
+    "published": "2026-09-19T00:50:25+00:00"
+  },
+  "https://www.databricks.com/blog/radar-catch-gray-failures-anomaly-detection": {
+    "title": "RADAR: Catch gray failures with anomaly detection",
+    "source": "Databricks Blog",
+    "first_seen": "2026-09-19T12:44:03.556639+00:00",
+    "published": "2026-09-19T00:00:00+00:00"
+  },
+  "https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies": {
+    "title": "Gemini Hacked Three Companies in First Known Breakout by Google’s AI",
+    "source": "Simon Willison",
+    "first_seen": "2026-09-19T12:44:03.556639+00:00",
+    "published": "2026-09-18T23:57:57+00:00"
+  },
+  "https://spectrum.ieee.org/llms-for-chip-design": {
+    "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-19T12:44:03.556639+00:00",
+    "published": "2026-09-18T23:04:17+00:00"
+  },
+  "https://openai.com/index/australian-youth-safety-blueprint": {
+    "title": "Introducing the Australian Youth Safety Blueprint",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-09-19T12:44:03.556639+00:00",
+    "published": "2026-09-18T12:00:00+00:00"
   }
 }
