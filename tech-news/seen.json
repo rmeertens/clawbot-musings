@@ -92912,5 +92912,275 @@
     "source": "Simon Willison",
     "first_seen": "2026-09-20T22:46:10.711873+00:00",
     "published": "2026-09-20T00:22:04+00:00"
+  },
+  "https://www.phoronix.com/review/linux-618-73-amd-epyc": {
+    "title": "AMD EPYC Server Performance Up ~8% Geo Mean For 2026 With Linux Kernel Improvements",
+    "source": "Phoronix",
+    "first_seen": "2026-09-21T15:23:43.231741+00:00",
+    "published": "2026-09-21T15:00:00+00:00"
+  },
+  "https://developer.nvidia.com/blog/turn-your-latest-observations-into-timely-weather-decisions-with-nvidia-earth-2": {
+    "title": "Turn Your Latest Observations Into Timely Weather Decisions With NVIDIA Earth-2",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-09-21T15:23:43.231741+00:00",
+    "published": "2026-09-21T15:00:00+00:00"
+  },
+  "https://lwn.net/Articles/1095703": {
+    "title": "Three new stable kernels",
+    "source": "LWN.net",
+    "first_seen": "2026-09-21T15:23:43.231741+00:00",
+    "published": "2026-09-21T14:43:18+00:00"
+  },
+  "https://www.schneier.com/blog/archives/2026/09/reverse-engineering-flock-cameras.html": {
+    "title": "Reverse-Engineering Flock Cameras",
+    "source": "Schneier on Security",
+    "first_seen": "2026-09-21T15:23:43.231741+00:00",
+    "published": "2026-09-21T14:37:45+00:00"
+  },
+  "https://www.theguardian.com/technology/2026/sep/21/meta-ban-virginia-woolf-a-room-of-ones-own-barcelona-teatre-raval": {
+    "title": "Meta bans ads for Virginia Woolf play in Spain",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-21T15:23:43.231741+00:00",
+    "published": "2026-09-21T14:30:39+00:00"
+  },
+  "https://pluralistic.net/2026/09/21/sunsetting": {
+    "title": "The Claude Delusion",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-21T15:23:43.231741+00:00",
+    "published": "2026-09-21T14:30:24+00:00"
+  },
+  "https://dropbox.tech/developers/new-dropbox-api-documentation": {
+    "title": "Introducing Our New Dropbox API Documentation",
+    "source": "Dropbox Tech",
+    "first_seen": "2026-09-21T15:23:43.231741+00:00",
+    "published": "2026-09-21T14:30:00+00:00"
+  },
+  "https://lwn.net/Articles/1094310": {
+    "title": "[$] Testing compat_linux on NetBSD with the Linux Test Project",
+    "source": "LWN.net",
+    "first_seen": "2026-09-21T15:23:43.231741+00:00",
+    "published": "2026-09-21T14:22:55+00:00"
+  },
+  "https://lwn.net/Articles/1095702": {
+    "title": "Security updates for Monday",
+    "source": "LWN.net",
+    "first_seen": "2026-09-21T15:23:43.231741+00:00",
+    "published": "2026-09-21T14:13:08+00:00"
+  },
+  "https://arstechnica.com/gadgets/2026/09/apple-m6-mac-mini-review-300-price-hike-spoils-a-nice-upgrade": {
+    "title": "Ars Technica's Mac Mini review: The new M6 impresses but the price hike is rough",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-21T15:23:43.231741+00:00",
+    "published": "2026-09-21T14:11:45+00:00"
+  },
+  "https://www.reddit.com/r/MacOSBeta/comments/1vlnf13/workaround_to_avoid_downloading_ai_models_and": {
+    "title": "macOS 27: Workaround to avoid downloading AI models and save storage",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-21T15:23:43.231741+00:00",
+    "published": "2026-09-21T14:10:49+00:00"
+  },
+  "https://consumerrights.wiki/w/Uber_arbitration_award_over_Emily_Normandin-Parker%27s_death": {
+    "title": "Uber arbitration award over Emily Normandin-Parker's death",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-21T15:23:43.231741+00:00",
+    "published": "2026-09-21T14:09:48+00:00"
+  },
+  "https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong": {
+    "title": "What Sun Got Wrong",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-21T15:23:43.231741+00:00",
+    "published": "2026-09-21T14:03:18+00:00"
+  },
+  "https://realpython.com/python315-frozendict": {
+    "title": "Python 3.15 Preview: frozendict",
+    "source": "Real Python",
+    "first_seen": "2026-09-21T15:23:43.231741+00:00",
+    "published": "2026-09-21T14:00:00+00:00"
+  },
+  "https://www.macstories.net/stories/m5-ultra-mac-studio-review-the-dream-mac-for-local-ai-agents": {
+    "title": "M5 Ultra Mac Studio Review: The Dream Mac for Local AI Agents",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-21T15:23:43.231741+00:00",
+    "published": "2026-09-21T13:53:27+00:00"
+  },
+  "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an": {
+    "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-09-21T15:23:43.231741+00:00",
+    "published": "2026-09-21T13:44:34+00:00"
+  },
+  "https://www.phoronix.com/news/Amazon-Kindle-4-Linux-Patches": {
+    "title": "Patches Posted With Aim To Mainline Linux Kernel Support For The Amazon Kindle 4",
+    "source": "Phoronix",
+    "first_seen": "2026-09-21T15:23:43.231741+00:00",
+    "published": "2026-09-21T13:05:33+00:00"
+  },
+  "https://blog.cloudflare.com/python-workers-ga": {
+    "title": "Python Workers are now generally available",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-09-21T15:23:43.231741+00:00",
+    "published": "2026-09-21T13:00:00+00:00"
+  },
+  "https://forums.raspberrypi.com/viewtopic.php?p=2380887": {
+    "title": "Raspberry Pi blocks changing RAM chips",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-21T15:23:43.231741+00:00",
+    "published": "2026-09-21T12:54:24+00:00"
+  },
+  "https://news.ycombinator.com/item?id=49786609": {
+    "title": "Ask HN: Is it impossible to disable Siri on macOS 27?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-21T15:23:43.231741+00:00",
+    "published": "2026-09-21T12:47:05+00:00"
+  },
+  "https://github.com/aru-labs/lossless-memory": {
+    "title": "Show HN: Lossless-memory – a personal AI memory that never summarizes",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-21T15:23:43.231741+00:00",
+    "published": "2026-09-21T12:28:17+00:00"
+  },
+  "https://realpython.com/quizzes/python315-frozendict": {
+    "title": "Quiz: Python 3.15 Preview: frozendict",
+    "source": "Real Python",
+    "first_seen": "2026-09-21T15:23:43.231741+00:00",
+    "published": "2026-09-21T12:00:00+00:00"
+  },
+  "https://realpython.com/quizzes/python-constants": {
+    "title": "Quiz: Python Constants: Improve Your Code's Maintainability",
+    "source": "Real Python",
+    "first_seen": "2026-09-21T15:23:43.231741+00:00",
+    "published": "2026-09-21T12:00:00+00:00"
+  },
+  "https://neon.com/blog/your-neon-functions-can-now-run-on-a-schedule": {
+    "title": "Your Neon Functions can now run on a schedule",
+    "source": "Neon Blog",
+    "first_seen": "2026-09-21T15:23:43.231741+00:00",
+    "published": "2026-09-21T12:00:00+00:00"
+  },
+  "https://engineering.fb.com/2026/09/21/connectivity/petal-petabit-transoceanic-subsea-cable": {
+    "title": "Inside Petal: Building the World’s First Petabit-Class Transoceanic Subsea Cable",
+    "source": "Meta Engineering",
+    "first_seen": "2026-09-21T15:23:43.231741+00:00",
+    "published": "2026-09-21T12:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/Orphaned-VMs-Linux-Patches": {
+    "title": "Orphaned VMs: Running VMs Uninterrupted While Host Kernel Is Offline For Reboots/Updates",
+    "source": "Phoronix",
+    "first_seen": "2026-09-21T15:23:43.231741+00:00",
+    "published": "2026-09-21T11:38:44+00:00"
+  },
+  "https://www.phoronix.com/news/GNU-Wget-2.3-Released": {
+    "title": "GNU Wget 2.3 Released With --progress=dot, OS/2 Improvements",
+    "source": "Phoronix",
+    "first_seen": "2026-09-21T15:23:43.231741+00:00",
+    "published": "2026-09-21T11:26:18+00:00"
+  },
+  "https://blog.trailofbits.com/2026/09/21/saml-a-fractal-of-bad-design": {
+    "title": "SAML: A fractal of bad design",
+    "source": "Trail of Bits",
+    "first_seen": "2026-09-21T15:23:43.231741+00:00",
+    "published": "2026-09-21T11:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/AMD-BC-250-Linux-PSP-Support": {
+    "title": "AMD BC-250 Continues Being Improved Under Linux With Patches Now Enabling The PSP",
+    "source": "Phoronix",
+    "first_seen": "2026-09-21T15:23:43.231741+00:00",
+    "published": "2026-09-21T10:22:16+00:00"
+  },
+  "https://www.phoronix.com/news/Igalia-Turns-25": {
+    "title": "Igalia Celebrates 25 Years Of Advancing Linux & Open-Source",
+    "source": "Phoronix",
+    "first_seen": "2026-09-21T15:23:43.231741+00:00",
+    "published": "2026-09-21T10:07:11+00:00"
+  },
+  "https://stratechery.com/2026/frontier-overhangs": {
+    "title": "Frontier Overhangs",
+    "source": "Stratechery",
+    "first_seen": "2026-09-21T15:23:43.231741+00:00",
+    "published": "2026-09-21T10:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-Perf-Python-Module": {
+    "title": "Linux's Perf Script Command Much Faster With Overhaul As Python Module",
+    "source": "Phoronix",
+    "first_seen": "2026-09-21T15:23:43.231741+00:00",
+    "published": "2026-09-21T09:57:16+00:00"
+  },
+  "https://paulbakker.io/writing/no-ai-for-writing": {
+    "title": "Don't Use AI to Write",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-21T15:23:43.231741+00:00",
+    "published": "2026-09-21T08:54:44+00:00"
+  },
+  "https://github.com/f/jev-leftpad": {
+    "title": "Jev-Leftpad",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-21T15:23:43.231741+00:00",
+    "published": "2026-09-21T08:39:32+00:00"
+  },
+  "https://consumerrights.wiki/w/Disney%2B_ad_policy_change": {
+    "title": "Disney+: New user agreement allows ads before movies in all subscriptions",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-21T15:23:43.231741+00:00",
+    "published": "2026-09-21T07:55:28+00:00"
+  },
+  "https://github.com/jaredpalmer/kev/tree/main": {
+    "title": "Kev: Tiny Jev-like family of decision models built on top of Qwen3.5",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-21T15:23:43.231741+00:00",
+    "published": "2026-09-21T07:11:55+00:00"
+  },
+  "https://machinedrum-study.pages.dev": {
+    "title": "Elektron Machinedrum in the Browser",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-21T15:23:43.231741+00:00",
+    "published": "2026-09-21T06:07:52+00:00"
+  },
+  "http://gameshelf.jmac.org/2008/11/13/GrimPuzzleDoc_small.pdf": {
+    "title": "Grim Fandango Puzzle Document (1996) [pdf]",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-21T15:23:43.231741+00:00",
+    "published": "2026-09-21T05:55:22+00:00"
+  },
+  "https://github.com/volotat/mini-AGI": {
+    "title": "Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-21T15:23:43.231741+00:00",
+    "published": "2026-09-21T04:42:37+00:00"
+  },
+  "https://heretic-project.org": {
+    "title": "Heretic removes restrictions from language models",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-21T15:23:43.231741+00:00",
+    "published": "2026-09-21T04:35:22+00:00"
+  },
+  "https://openai.com/index/v7": {
+    "title": "How V7 gives AI agents institutional memory",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-09-21T15:23:43.231741+00:00",
+    "published": "2026-09-21T00:00:00+00:00"
+  },
+  "https://huggingface.co/blog/tokenizers-v1": {
+    "title": "tokenizers v1: encode, decode and scaling, measured",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-09-21T15:23:43.231741+00:00",
+    "published": "2026-09-21T00:00:00+00:00"
+  },
+  "https://amigaux.org": {
+    "title": "Amiga Unix, Again",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-21T15:23:43.231741+00:00",
+    "published": "2026-09-20T23:57:10+00:00"
+  },
+  "https://lwn.net/Articles/1095491": {
+    "title": "Kernel prepatch 7.3-rc4",
+    "source": "LWN.net",
+    "first_seen": "2026-09-21T15:23:43.231741+00:00",
+    "published": "2026-09-20T22:52:25+00:00"
+  },
+  "https://libroot.org/posts/what-happened-to-the-snowden-archive": {
+    "title": "What happened to the Snowden archive",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-21T15:23:43.231741+00:00",
+    "published": "2026-09-20T22:35:49+00:00"
   }
 }
