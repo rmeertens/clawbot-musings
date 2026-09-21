@@ -93182,5 +93182,383 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-09-21T15:23:43.231741+00:00",
     "published": "2026-09-20T22:35:49+00:00"
+  },
+  "https://simonwillison.net/2026/Sep/21/jev": {
+    "title": "Jev introduces a new shape of LLM - System One, aka Decision Models",
+    "source": "Simon Willison",
+    "first_seen": "2026-09-21T23:42:09.684152+00:00",
+    "published": "2026-09-21T23:09:20+00:00"
+  },
+  "https://brand.io/article/spymarks": {
+    "title": "Spymarks, Not Watermarks",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-21T23:42:09.684152+00:00",
+    "published": "2026-09-21T23:03:49+00:00"
+  },
+  "https://df7sc6o35ljoz.cloudfront.net/posts/do-not-fear-ai-rev-2.html": {
+    "title": "Do not fear AI. Fear AI companies",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-21T23:42:09.684152+00:00",
+    "published": "2026-09-21T22:40:31+00:00"
+  },
+  "https://www.dataprotection.ie/en/news-media/latest-news/data-protection-commission-fines-google-eu403-million-following-inquiry-googles-processing-location": {
+    "title": "Data Protection Commission fines Google €403M over processing of location data",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-21T23:42:09.684152+00:00",
+    "published": "2026-09-21T22:33:45+00:00"
+  },
+  "https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write": {
+    "title": "I don't want to read what you didn't write",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-21T23:42:09.684152+00:00",
+    "published": "2026-09-21T22:30:41+00:00"
+  },
+  "https://simonwillison.net/2026/Sep/21/cloudflare-python-worker": {
+    "title": "Cloudflare Python Workers are now generally available",
+    "source": "Simon Willison",
+    "first_seen": "2026-09-21T23:42:09.684152+00:00",
+    "published": "2026-09-21T22:25:44+00:00"
+  },
+  "https://developer.nvidia.com/blog/simplifying-model-serving-across-multiple-gpus-with-nvidia-tensorrt-multi-device-integration-in-nvidia-dynamo-triton": {
+    "title": "Simplifying Model Serving Across Multiple GPUs with NVIDIA TensorRT Multi-Device Integration in NVIDIA Dynamo-Triton",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-09-21T23:42:09.684152+00:00",
+    "published": "2026-09-21T21:51:06+00:00"
+  },
+  "https://developer.nvidia.com/blog/how-to-evaluate-ai-agents-from-tool-calls-to-task-completion": {
+    "title": "How to Evaluate AI Agents From Tool Calls to Task Completion",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-09-21T23:42:09.684152+00:00",
+    "published": "2026-09-21T21:05:28+00:00"
+  },
+  "https://www.personalimportation.org/advocacy": {
+    "title": "Suspension of the de minimis administrative exemption for imports $800 or less",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-21T23:42:09.684152+00:00",
+    "published": "2026-09-21T20:58:17+00:00"
+  },
+  "https://www.phoronix.com/news/AMDGPU-Linux-Prep-GDDR7": {
+    "title": "AMD Begins Preparing Open-Source Linux Driver For Graphics Cards With GDDR7",
+    "source": "Phoronix",
+    "first_seen": "2026-09-21T23:42:09.684152+00:00",
+    "published": "2026-09-21T20:52:36+00:00"
+  },
+  "https://pytorch.org/blog/tinytorch-dont-just-import-pytorch-build-it": {
+    "title": "TinyTorch: Don’t Just Import PyTorch. Build It.",
+    "source": "PyTorch Blog",
+    "first_seen": "2026-09-21T23:42:09.684152+00:00",
+    "published": "2026-09-21T20:41:14+00:00"
+  },
+  "https://mimo.xiaomi.com/mimo-v2-6": {
+    "title": "Xiaomi MiMo v2.6",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-21T23:42:09.684152+00:00",
+    "published": "2026-09-21T20:12:12+00:00"
+  },
+  "https://thenewstack.io/grok-build-vs-claude-code-memory": {
+    "title": "Grok Build vs. Claude Code: I tested which one has the better memory",
+    "source": "The New Stack",
+    "first_seen": "2026-09-21T23:42:09.684152+00:00",
+    "published": "2026-09-21T20:04:18+00:00"
+  },
+  "https://nextjs.org/blog/upcoming-nextjs-security-release-september-22-2026": {
+    "title": "Upcoming Next.js Security Update for a Critical Upstream Issue",
+    "source": "Next.js Blog",
+    "first_seen": "2026-09-21T23:42:09.684152+00:00",
+    "published": "2026-09-21T20:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/Gravity-Linux-M4-Mac-Mini-Alpha": {
+    "title": "Gravity Linux Aims To Provide A Nice Experience For Apple M4 & Newer",
+    "source": "Phoronix",
+    "first_seen": "2026-09-21T23:42:09.684152+00:00",
+    "published": "2026-09-21T19:58:02+00:00"
+  },
+  "https://poloclub.github.io/transformer-explainer": {
+    "title": "Transformers Explained Visually",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-21T23:42:09.684152+00:00",
+    "published": "2026-09-21T19:43:49+00:00"
+  },
+  "https://thenewstack.io/typesafe-jev-system-one": {
+    "title": "TypeSafe launched Jev because sequential LLMs are “totally useless for computers”",
+    "source": "The New Stack",
+    "first_seen": "2026-09-21T23:42:09.684152+00:00",
+    "published": "2026-09-21T19:36:29+00:00"
+  },
+  "https://linear.app/now/ci-bottleneck-reworked": {
+    "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-21T23:42:09.684152+00:00",
+    "published": "2026-09-21T19:23:33+00:00"
+  },
+  "https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence": {
+    "title": "The Advisory Group on Mathematics and Artificial Intelligence",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-21T23:42:09.684152+00:00",
+    "published": "2026-09-21T19:17:42+00:00"
+  },
+  "https://www.science.org/content/article/nasa-s-mars-sample-return-mission-dead": {
+    "title": "NASA’s Mars Sample Return mission is dead",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-21T23:42:09.684152+00:00",
+    "published": "2026-09-21T19:14:12+00:00"
+  },
+  "https://thenewstack.io/kev-skips-text-generation": {
+    "title": "Your AI agent is burning tokens on choices that don’t need words",
+    "source": "The New Stack",
+    "first_seen": "2026-09-21T23:42:09.684152+00:00",
+    "published": "2026-09-21T19:13:46+00:00"
+  },
+  "https://thenewstack.io/grok-4-7-agent-stamina": {
+    "title": "Grok 4.7 was built to work for hours. It still fails most of the time.",
+    "source": "The New Stack",
+    "first_seen": "2026-09-21T23:42:09.684152+00:00",
+    "published": "2026-09-21T19:13:23+00:00"
+  },
+  "http://muratbuffalo.blogspot.com/2026/09/in-search-of-compositional-theory-of.html": {
+    "title": "In Search of a Compositional Theory of Self-Stabilization",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-21T23:42:09.684152+00:00",
+    "published": "2026-09-21T19:04:36+00:00"
+  },
+  "https://robocurve.org/roboharm": {
+    "title": "Roboharm: Do frontier robot policies refuse unsafe instructions?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-21T23:42:09.684152+00:00",
+    "published": "2026-09-21T18:58:26+00:00"
+  },
+  "https://timdettmers.com/2026/09/21/dlab-open-source-week": {
+    "title": "Frontier AI on Your Own Hardware",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-21T23:42:09.684152+00:00",
+    "published": "2026-09-21T18:53:01+00:00"
+  },
+  "https://www.reuters.com/world/us/faa-halts-some-us-east-coast-flights-due-communication-issues-2026-09-21": {
+    "title": "US halts flights at busy East Coast airports, says fiber line cut",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-21T23:42:09.684152+00:00",
+    "published": "2026-09-21T18:41:59+00:00"
+  },
+  "https://aws.amazon.com/blogs/containers/how-ramp-runs-gpu-ai-workloads-at-scale-with-ecs-managed-instances": {
+    "title": "How Ramp runs GPU AI workloads at scale with ECS Managed Instances",
+    "source": "AWS Containers Blog",
+    "first_seen": "2026-09-21T23:42:09.684152+00:00",
+    "published": "2026-09-21T18:41:27+00:00"
+  },
+  "https://safedep.io/mathmain-encrypted-loader": {
+    "title": "Why does mathmain need an encrypted loader?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-21T23:42:09.684152+00:00",
+    "published": "2026-09-21T18:33:44+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/xais-grok-4-6-is-now-available-in-amazon-bedrock": {
+    "title": "xAI’s Grok 4.6 is now available in Amazon Bedrock",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-09-21T23:42:09.684152+00:00",
+    "published": "2026-09-21T18:30:34+00:00"
+  },
+  "https://thenewstack.io/aws-strands-harness-agent": {
+    "title": "AWS open-sources an AI agent it says is 45% cheaper than Claude Code and Codex",
+    "source": "The New Stack",
+    "first_seen": "2026-09-21T23:42:09.684152+00:00",
+    "published": "2026-09-21T18:30:16+00:00"
+  },
+  "https://kubernetes.io/blog/2026/09/21/kubernetes-v1-37-pvc-last-used-time": {
+    "title": "Kubernetes v1.37: Tracking When a PersistentVolumeClaim Was Last Used (Beta)",
+    "source": "Kubernetes Blog",
+    "first_seen": "2026-09-21T23:42:09.684152+00:00",
+    "published": "2026-09-21T18:30:00+00:00"
+  },
+  "https://www.pagetable.com/300": {
+    "title": "Apple Copland D11E4 Booting in the Browser",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-21T23:42:09.684152+00:00",
+    "published": "2026-09-21T18:15:32+00:00"
+  },
+  "https://ieeexplore.ieee.org/document/689473": {
+    "title": "Avoiding the babbling-idiot failure in a time-triggered communication system",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-21T23:42:09.684152+00:00",
+    "published": "2026-09-21T18:14:56+00:00"
+  },
+  "https://www.phoronix.com/news/Apple-Mac-Speaker-Headset-Linux": {
+    "title": "Patches Posted For Enabling Apple Silicon Mac Speaker & Headset Jack Support On Linux",
+    "source": "Phoronix",
+    "first_seen": "2026-09-21T23:42:09.684152+00:00",
+    "published": "2026-09-21T18:03:01+00:00"
+  },
+  "https://charity.wtf/p/where-do-ai-norms-come-from": {
+    "title": "Where do AI norms come from?",
+    "source": "Charity Majors",
+    "first_seen": "2026-09-21T23:42:09.684152+00:00",
+    "published": "2026-09-21T17:45:55+00:00"
+  },
+  "https://support.apple.com/guide/mac-help/turn-restrict-access-apple-intelligence-mchlb2e44f94/mac": {
+    "title": "Turn off and restrict access to Apple Intelligence features on Mac",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-21T23:42:09.684152+00:00",
+    "published": "2026-09-21T17:30:21+00:00"
+  },
+  "https://www.phoronix.com/news/Nebula-Matrix-NIC-Linux-7.4": {
+    "title": "Nebula Matrix Network Driver Queued Ahead Of Linux 7.4",
+    "source": "Phoronix",
+    "first_seen": "2026-09-21T23:42:09.684152+00:00",
+    "published": "2026-09-21T17:23:27+00:00"
+  },
+  "https://opentelemetry.io/blog/2026/gc-elections": {
+    "title": "Announcing the 2026 OpenTelemetry Governance Committee Election",
+    "source": "OpenTelemetry Blog",
+    "first_seen": "2026-09-21T23:42:09.684152+00:00",
+    "published": "2026-09-21T17:09:33+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/migrate-sql-server-multi-result-set-procedures-to-postgresql": {
+    "title": "Migrate SQL Server multi-result-set procedures to PostgreSQL",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-09-21T23:42:09.684152+00:00",
+    "published": "2026-09-21T16:45:03+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/how-bmw-group-detects-cost-anomalies-across-14000-cloud-accounts": {
+    "title": "How BMW Group detects cost anomalies across 14,000 cloud accounts",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-09-21T23:42:09.684152+00:00",
+    "published": "2026-09-21T16:36:10+00:00"
+  },
+  "https://lwn.net/Articles/1095723": {
+    "title": "Igalia celebrates \"Twenty-Five Years Upstream\"",
+    "source": "LWN.net",
+    "first_seen": "2026-09-21T23:42:09.684152+00:00",
+    "published": "2026-09-21T16:35:32+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/run-positron-on-amazon-sagemaker-ai-for-data-science-workflows": {
+    "title": "Run Positron on Amazon SageMaker AI for data science workflows",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-09-21T23:42:09.684152+00:00",
+    "published": "2026-09-21T16:34:21+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/how-benchling-secured-multi-tenant-ai-agents-with-amazon-bedrock-agentcore": {
+    "title": "How Benchling secured multi-tenant AI agents with Amazon Bedrock AgentCore",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-09-21T23:42:09.684152+00:00",
+    "published": "2026-09-21T16:27:34+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/reducing-medical-claims-review-time-with-ai-on-aws-the-exl-medical-idp-solution": {
+    "title": "Reducing medical claims review time with AI on AWS: The EXL Medical IDP solution",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-09-21T23:42:09.684152+00:00",
+    "published": "2026-09-21T16:24:40+00:00"
+  },
+  "https://github.com/naw103/foremerge": {
+    "title": "Show HN: Foremerge – Catch intent conflicts between parallel coding agents",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-21T23:42:09.684152+00:00",
+    "published": "2026-09-21T16:22:06+00:00"
+  },
+  "https://spectrum.ieee.org/hermes-shortwave-radio-digital-data": {
+    "title": "HERMES radio enables voice and data communication over vast distances",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-21T23:42:09.684152+00:00",
+    "published": "2026-09-21T16:14:16+00:00"
+  },
+  "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-builder-center-mobile-apps-amazon-connect-talent-ga-amazon-corretto-27-and-more-september-14-2026": {
+    "title": "AWS Weekly Roundup: AWS Builder Center mobile apps, Amazon Connect Talent GA, Amazon Corretto 27, and more (September 21, 2026)",
+    "source": "AWS Blog",
+    "first_seen": "2026-09-21T23:42:09.684152+00:00",
+    "published": "2026-09-21T16:11:24+00:00"
+  },
+  "https://engineering.fb.com/2026/09/21/open-source/rebalancer-generic-high-performance-library-assignment-problems": {
+    "title": "Open-Sourcing Rebalancer: A Generic, High-Performance Library for Solving Assignment Problems",
+    "source": "Meta Engineering",
+    "first_seen": "2026-09-21T23:42:09.684152+00:00",
+    "published": "2026-09-21T16:00:37+00:00"
+  },
+  "https://cloud.google.com/blog/products/identity-security/strengthen-your-cicd-pipeline-with-new-secure-source-manager-capabilities": {
+    "title": "Strengthen your CI/CD pipeline with new Secure Source Manager capabilities",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-09-21T23:42:09.684152+00:00",
+    "published": "2026-09-21T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/data-analytics/maximize-apache-spark-availability-with-flexible-vms": {
+    "title": "Maximizing Apache Spark availability: Mitigating compute stockouts with flexible VMs and other best practices",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-09-21T23:42:09.684152+00:00",
+    "published": "2026-09-21T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/containers-kubernetes/gpu-and-tpu-utilization-with-multi-cluster-gke-inference-gateway": {
+    "title": "Global AI routing with <1% overhead on multi-cluster GKE Inference Gateway",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-09-21T23:42:09.684152+00:00",
+    "published": "2026-09-21T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/containers-kubernetes/gke-pod-snapshots": {
+    "title": "Scale your AI workloads faster and more efficiently with GKE Pod snapshots",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-09-21T23:42:09.684152+00:00",
+    "published": "2026-09-21T16:00:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/security/transforming-bedrock-guardrails-events-into-ocsf-with-cloudwatch": {
+    "title": "Transforming Bedrock Guardrails events into OCSF with CloudWatch",
+    "source": "AWS Security Blog",
+    "first_seen": "2026-09-21T23:42:09.684152+00:00",
+    "published": "2026-09-21T15:33:25+00:00"
+  },
+  "https://blog.bytebytego.com/p/how-to-run-a-big-model-on-cheap-hardware": {
+    "title": "How to Run a Big Model on Cheap Hardware?",
+    "source": "ByteByteGo",
+    "first_seen": "2026-09-21T23:42:09.684152+00:00",
+    "published": "2026-09-21T15:32:11+00:00"
+  },
+  "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra": {
+    "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-09-21T23:42:09.684152+00:00",
+    "published": "2026-09-21T12:00:00+00:00"
+  },
+  "https://openai.com/index/advisory-group-on-mathematics-and-ai": {
+    "title": "Advisory Group on Mathematics and Artificial Intelligence",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-09-21T23:42:09.684152+00:00",
+    "published": "2026-09-21T12:00:00+00:00"
+  },
+  "https://neon.com/blog/custom-domains-for-neon-functions": {
+    "title": "Custom domains for Neon Functions",
+    "source": "Neon Blog",
+    "first_seen": "2026-09-21T23:42:09.684152+00:00",
+    "published": "2026-09-21T12:00:00+00:00"
+  },
+  "https://openai.com/index/building-standards-next-phase-ai": {
+    "title": "Building standards for the next phase of AI",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-09-21T23:42:09.684152+00:00",
+    "published": "2026-09-21T10:00:00+00:00"
+  },
+  "https://blog.sentry.io/sentry-laravel-ai-integration": {
+    "title": "Building Sentry's Laravel AI Integration",
+    "source": "Sentry Blog",
+    "first_seen": "2026-09-21T23:42:09.684152+00:00",
+    "published": "2026-09-21T09:00:00+00:00"
+  },
+  "https://openai.com/index/expanding-openai-academy-with-new-learning-paths": {
+    "title": "Expanding OpenAI Academy with new learning paths",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-09-21T23:42:09.684152+00:00",
+    "published": "2026-09-21T07:00:00+00:00"
+  },
+  "https://planetscale.com/blog/how-to-make-a-replication-slot-survive-a-cutover": {
+    "title": "Blocking cutovers to save replication slots",
+    "source": "PlanetScale Blog",
+    "first_seen": "2026-09-21T23:42:09.684152+00:00",
+    "published": "2026-09-21T00:00:00+00:00"
+  },
+  "https://blog.rust-lang.org/2026/09/21/github-actions-leaking-secrets-when-miri-output-is-cached": {
+    "title": "GitHub Actions leaking secrets when Miri output is cached",
+    "source": "Rust Blog",
+    "first_seen": "2026-09-21T23:42:09.684152+00:00",
+    "published": "2026-09-21T00:00:00+00:00"
+  },
+  "https://simonwillison.net/2026/Sep/20/hn-49779718": {
+    "title": "MCP was always a bad idea?",
+    "source": "Simon Willison",
+    "first_seen": "2026-09-21T23:42:09.684152+00:00",
+    "published": "2026-09-20T20:24:41+00:00"
   }
 }
