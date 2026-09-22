@@ -93764,5 +93764,395 @@
     "source": "Grafana Blog",
     "first_seen": "2026-09-22T13:43:24.774915+00:00",
     "published": "2026-09-21T18:45:23+00:00"
+  },
+  "https://www.hashicorp.com/blog/secure-ai-agents-with-hashicorp-boundary": {
+    "title": "Secure AI agents with HashiCorp Boundary",
+    "source": "HashiCorp Blog",
+    "first_seen": "2026-09-22T18:22:57.957648+00:00",
+    "published": "2026-09-29T07:00:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/bring-more-intelligence-to-everyday-work-with-gpt-6-sol-and-gpt-6-luna-on-amazon-bedrock": {
+    "title": "Bring more intelligence to everyday work with GPT-6 Sol and GPT-6 Luna on Amazon Bedrock",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-09-22T18:22:57.957648+00:00",
+    "published": "2026-09-22T18:10:22+00:00"
+  },
+  "https://simonwillison.net/2026/Sep/22/therealcornpop": {
+    "title": "Quoting @therealcornpop",
+    "source": "Simon Willison",
+    "first_seen": "2026-09-22T18:22:57.957648+00:00",
+    "published": "2026-09-22T18:03:21+00:00"
+  },
+  "https://openai.com/index/introducing-gpt-6-sol-and-luna": {
+    "title": "GPT-6 Sol and Luna",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-22T18:22:57.957648+00:00",
+    "published": "2026-09-22T18:00:34+00:00"
+  },
+  "https://thenewstack.io/openai-gpt-6-sol-luna-release": {
+    "title": "OpenAI releases GPT-6 Sol and Luna — and cuts token prices in half",
+    "source": "The New Stack",
+    "first_seen": "2026-09-22T18:22:57.957648+00:00",
+    "published": "2026-09-22T18:00:02+00:00"
+  },
+  "https://nextjs.org/blog/nextjs-security-update-september-22-2026": {
+    "title": "Next.js Security Update for a Critical Upstream Issue",
+    "source": "Next.js Blog",
+    "first_seen": "2026-09-22T18:22:57.957648+00:00",
+    "published": "2026-09-22T18:00:00+00:00"
+  },
+  "https://thenewstack.io/claude-cowork-vs-chatgpt-work-benchmark": {
+    "title": "Claude’s merged chat and Cowork vs. ChatGPT’s Work mode: ChatGPT is faster, Claude is more thorough",
+    "source": "The New Stack",
+    "first_seen": "2026-09-22T18:22:57.957648+00:00",
+    "published": "2026-09-22T17:45:46+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/claude-opus-5-5-is-now-available-on-aws": {
+    "title": "Claude Opus 5.5 is now available on AWS",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-09-22T18:22:57.957648+00:00",
+    "published": "2026-09-22T17:28:01+00:00"
+  },
+  "https://developer.nvidia.com/blog/enabling-private-high-performance-production-ai-inference-with-nvidia-confidential-computing": {
+    "title": "Enabling Private High-Performance Production AI Inference with NVIDIA Confidential Computing",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-09-22T18:22:57.957648+00:00",
+    "published": "2026-09-22T17:27:41+00:00"
+  },
+  "https://www.coveragecat.com": {
+    "title": "Launch HN: Coverage Cat (YC S22) – Umbrella insurance via your personal agent",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-22T18:22:57.957648+00:00",
+    "published": "2026-09-22T17:26:36+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/evaluate-skill-equipped-agents-with-strands-evals-and-amazon-bedrock-agentcore": {
+    "title": "Evaluate skill-equipped agents with Strands Evals and Amazon Bedrock AgentCore",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-09-22T18:22:57.957648+00:00",
+    "published": "2026-09-22T17:18:13+00:00"
+  },
+  "https://newsletter.pragmaticengineer.com/p/windows-and-ai": {
+    "title": "How will AI change operating systems? Part 2: Windows",
+    "source": "The Pragmatic Engineer",
+    "first_seen": "2026-09-22T18:22:57.957648+00:00",
+    "published": "2026-09-22T17:17:31+00:00"
+  },
+  "https://developer.nvidia.com/blog/topology-aware-workload-scheduling-with-nvidia-topograph": {
+    "title": "Topology-Aware Workload Scheduling with NVIDIA Topograph",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-09-22T18:22:57.957648+00:00",
+    "published": "2026-09-22T17:16:28+00:00"
+  },
+  "https://grapheneos.social/@GrapheneOS/117299954135808210": {
+    "title": "There's a high chance of devices being sold with GrapheneOS preinstalled in 2027",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-22T18:22:57.957648+00:00",
+    "published": "2026-09-22T17:12:51+00:00"
+  },
+  "https://devblogs.microsoft.com/dotnet/creating-a-memory-dump-in-csharp": {
+    "title": "Creating a memory dump in C#",
+    "source": "MS .NET Blog",
+    "first_seen": "2026-09-22T18:22:57.957648+00:00",
+    "published": "2026-09-22T17:05:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/containers/implement-per-pod-image-pull-permissions-with-ecr-repository-policies-on-amazon-eks": {
+    "title": "Implement per-pod image pull permissions with ECR repository policies on Amazon EKS",
+    "source": "AWS Containers Blog",
+    "first_seen": "2026-09-22T18:22:57.957648+00:00",
+    "published": "2026-09-22T16:58:07+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/intuitive-risk-investigation-with-amazon-neptune-and-linkurious-enterprise": {
+    "title": "Intuitive risk investigation with Amazon Neptune and Linkurious Enterprise",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-09-22T18:22:57.957648+00:00",
+    "published": "2026-09-22T16:54:37+00:00"
+  },
+  "https://artificialanalysis.ai/models/claude-opus-5-5": {
+    "title": "Claude Opus 5.5 Intelligence, Performance and Price Analysis (Max)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-22T18:22:57.957648+00:00",
+    "published": "2026-09-22T16:51:31+00:00"
+  },
+  "https://aws.amazon.com/blogs/compute/adding-custom-domains-to-aws-lambda-microvms-with-application-load-balancer": {
+    "title": "Adding custom domains to AWS Lambda MicroVMs with Application Load Balancer",
+    "source": "AWS Compute Blog",
+    "first_seen": "2026-09-22T18:22:57.957648+00:00",
+    "published": "2026-09-22T16:48:32+00:00"
+  },
+  "https://github.com/WordPress/wordpress-develop/security/advisories/GHSA-7hp8-65ch-5whp": {
+    "title": "WordPress: Unauthenticated path traversal leading to conditional RCE",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-22T18:22:57.957648+00:00",
+    "published": "2026-09-22T16:33:45+00:00"
+  },
+  "https://thenewstack.io/claude-opus-5-5-release": {
+    "title": "Anthropic releases Opus 5.5 and cuts pricing by 20%. Your agent calls might secretly get routed to an older model.",
+    "source": "The New Stack",
+    "first_seen": "2026-09-22T18:22:57.957648+00:00",
+    "published": "2026-09-22T16:30:15+00:00"
+  },
+  "https://www.anthropic.com/claude-opus-5-5": {
+    "title": "Claude Opus 5.5",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-22T18:22:57.957648+00:00",
+    "published": "2026-09-22T16:29:05+00:00"
+  },
+  "https://ai-rete-rag.com": {
+    "title": "Show HN: AI·rete·RAG – a Rete rule engine decides, RAG explains why",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-22T18:22:57.957648+00:00",
+    "published": "2026-09-22T16:15:06+00:00"
+  },
+  "https://allpoetry.com/16-bit-Intel-8088-chip": {
+    "title": "16-bit Intel 8088 chip (c. 1985)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-22T18:22:57.957648+00:00",
+    "published": "2026-09-22T16:11:34+00:00"
+  },
+  "https://www.databricks.com/blog/genie-one-mcp-now-generally-available": {
+    "title": "The Genie One MCP is now Generally Available",
+    "source": "Databricks Blog",
+    "first_seen": "2026-09-22T18:22:57.957648+00:00",
+    "published": "2026-09-22T16:00:00+00:00"
+  },
+  "https://www.databricks.com/blog/genie-one-mcp-give-any-ai-agent-right-business-context": {
+    "title": "Genie One MCP: Give any AI Agent the Right Business Context",
+    "source": "Databricks Blog",
+    "first_seen": "2026-09-22T18:22:57.957648+00:00",
+    "published": "2026-09-22T16:00:00+00:00"
+  },
+  "https://simonwillison.net/2026/Sep/22/llm-typesafe": {
+    "title": "llm-typesafe 0.1a0",
+    "source": "Simon Willison",
+    "first_seen": "2026-09-22T18:22:57.957648+00:00",
+    "published": "2026-09-22T15:54:16+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/how-reactiv-automates-mobile-commerce-80-faster-with-amazon-bedrock-agentcore": {
+    "title": "How Reactiv automates mobile commerce 80% faster with Amazon Bedrock AgentCore",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-09-22T18:22:57.957648+00:00",
+    "published": "2026-09-22T15:46:07+00:00"
+  },
+  "https://pytorch.org/blog/hardware-agnostic-models-in-vllm": {
+    "title": "Hardware-Agnostic Models in vLLM",
+    "source": "PyTorch Blog",
+    "first_seen": "2026-09-22T18:22:57.957648+00:00",
+    "published": "2026-09-22T15:45:46+00:00"
+  },
+  "https://minimaxir.com/2026/09/agentic-iteration": {
+    "title": "Writing Rust code that's fast by asking agents to make the code faster",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-22T18:22:57.957648+00:00",
+    "published": "2026-09-22T15:38:24+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/right-size-generative-ai-endpoints-with-concurrency-sweeps-on-amazon-sagemaker-ai": {
+    "title": "Right-size generative AI endpoints with concurrency sweeps on Amazon SageMaker AI",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-09-22T18:22:57.957648+00:00",
+    "published": "2026-09-22T15:35:53+00:00"
+  },
+  "https://blog.bytebytego.com/p/how-openai-built-gpt-live": {
+    "title": "How OpenAI Built GPT-Live",
+    "source": "ByteByteGo",
+    "first_seen": "2026-09-22T18:22:57.957648+00:00",
+    "published": "2026-09-22T15:32:06+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/how-trane-gets-building-insights-60x-faster-with-amazon-bedrock-agentcore": {
+    "title": "How Trane gets building insights 60x faster with Amazon Bedrock AgentCore",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-09-22T18:22:57.957648+00:00",
+    "published": "2026-09-22T15:30:34+00:00"
+  },
+  "https://www.phoronix.com/news/VRR-Target-Rate-Limiter-uAPI": {
+    "title": "Variable Refresh Rate \"VRR\" Target Limiter Proposed For Linux Graphics Drivers",
+    "source": "Phoronix",
+    "first_seen": "2026-09-22T18:22:57.957648+00:00",
+    "published": "2026-09-22T15:29:30+00:00"
+  },
+  "https://lwn.net/Articles/1095553": {
+    "title": "[$] Compiling the kernel with gccrs",
+    "source": "LWN.net",
+    "first_seen": "2026-09-22T18:22:57.957648+00:00",
+    "published": "2026-09-22T15:27:35+00:00"
+  },
+  "https://mouse.dev/blog/muse-runtime-export": {
+    "title": "I asked Meta’s Muse for its filesystem and it sent me 6.8GB",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-22T18:22:57.957648+00:00",
+    "published": "2026-09-22T15:25:12+00:00"
+  },
+  "https://github.com/General-Instinct/InstinctFlash": {
+    "title": "Show HN: InstinctFlash – Run 5B world-action models in real time on Jetson Thor",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-22T18:22:57.957648+00:00",
+    "published": "2026-09-22T15:20:06+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/how-tata-elxsi-detects-industrial-safety-risks-in-seconds-on-aws": {
+    "title": "How Tata Elxsi detects industrial safety risks in seconds on AWS",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-09-22T18:22:57.957648+00:00",
+    "published": "2026-09-22T15:19:54+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/extending-public-sector-intelligence-with-agentforce-and-aws": {
+    "title": "Extending public sector intelligence with Agentforce and AWS",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-09-22T18:22:57.957648+00:00",
+    "published": "2026-09-22T15:17:45+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/best-practices-for-scaling-large-consumer-groups-on-amazon-msk": {
+    "title": "Best practices for scaling large consumer groups on Amazon MSK",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-09-22T18:22:57.957648+00:00",
+    "published": "2026-09-22T15:16:06+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/how-moeve-standardized-dbt-runs-across-data-lakes-with-amazon-athena": {
+    "title": "How Moeve standardized dbt runs across data lakes with Amazon Athena",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-09-22T18:22:57.957648+00:00",
+    "published": "2026-09-22T15:13:31+00:00"
+  },
+  "https://lwn.net/Articles/1096022": {
+    "title": "Security updates for Tuesday",
+    "source": "LWN.net",
+    "first_seen": "2026-09-22T18:22:57.957648+00:00",
+    "published": "2026-09-22T15:10:11+00:00"
+  },
+  "https://www.eff.org/deeplinks/2026/09/dc-circuit-must-vacate-drone-flight-restriction-criminalized-recording-immigration": {
+    "title": "Vacate a drone restriction that criminalized recording immigration agents",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-22T18:22:57.957648+00:00",
+    "published": "2026-09-22T15:07:03+00:00"
+  },
+  "https://opentelemetry.io/blog/2026/otel-prometheus-interoperability": {
+    "title": "Prometheus and OpenTelemetry interoperability in 2026: Survey results",
+    "source": "OpenTelemetry Blog",
+    "first_seen": "2026-09-22T18:22:57.957648+00:00",
+    "published": "2026-09-22T15:06:22+00:00"
+  },
+  "https://www.docker.com/blog/wearedevelopers-partner-customer-sessions-2026": {
+    "title": "Meet the Ecosystem: Partners and Customers at WeAreDevelopers with Docker",
+    "source": "Docker Blog",
+    "first_seen": "2026-09-22T18:22:57.957648+00:00",
+    "published": "2026-09-22T15:06:15+00:00"
+  },
+  "https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch": {
+    "title": "OpenAI is well positioned to fast-follow Jev",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-22T18:22:57.957648+00:00",
+    "published": "2026-09-22T14:42:59+00:00"
+  },
+  "https://www.phoronix.com/news/SPECviewperf-15.0.1-Linux": {
+    "title": "SPEC Releases SPECviewperf 15.0.1 For Linux",
+    "source": "Phoronix",
+    "first_seen": "2026-09-22T18:22:57.957648+00:00",
+    "published": "2026-09-22T14:36:00+00:00"
+  },
+  "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day": {
+    "title": "Meta’s Muse has a serious 0-day",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-22T18:22:57.957648+00:00",
+    "published": "2026-09-22T14:35:15+00:00"
+  },
+  "https://www.techradar.com/phones/iphone/i-wish-apple-would-just-stop-that-crap-apple-has-added-persistent-ads-to-ios-and-its-driving-users-crazy": {
+    "title": "Apple has added persistent 'ads' to iOS, and it's driving users crazy",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-22T18:22:57.957648+00:00",
+    "published": "2026-09-22T14:30:12+00:00"
+  },
+  "https://blog.cloudflare.com/vary-support": {
+    "title": "We just shipped support for the ugliest part of HTTP: Vary",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-09-22T18:22:57.957648+00:00",
+    "published": "2026-09-22T14:04:31+00:00"
+  },
+  "https://thenewstack.io/elastic-beanstalk-operational-ownership": {
+    "title": "The cloud reduced operational complexity. But many teams need someone to own it completely.",
+    "source": "The New Stack",
+    "first_seen": "2026-09-22T18:22:57.957648+00:00",
+    "published": "2026-09-22T14:00:00+00:00"
+  },
+  "https://tailscale.com/blog/making-tailscale-faster": {
+    "title": "We're making Tailscale faster",
+    "source": "Tailscale Blog",
+    "first_seen": "2026-09-22T18:22:57.957648+00:00",
+    "published": "2026-09-22T14:00:00+00:00"
+  },
+  "https://realpython.com/courses/using-claude-api-python": {
+    "title": "Using the Claude API in Python",
+    "source": "Real Python",
+    "first_seen": "2026-09-22T18:22:57.957648+00:00",
+    "published": "2026-09-22T14:00:00+00:00"
+  },
+  "https://droprun.sh": {
+    "title": "Show HN: Drop – A rootless Linux sandbox with gVisor support",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-22T18:22:57.957648+00:00",
+    "published": "2026-09-22T13:52:47+00:00"
+  },
+  "https://www.cryptocellar.org/bgac/the-mvueh-break.html": {
+    "title": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-22T18:22:57.957648+00:00",
+    "published": "2026-09-22T13:52:15+00:00"
+  },
+  "https://data.ornn.com/publications/the-economics-of-open-weight-inference": {
+    "title": "The Economics of Open-Weight Inference",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-22T18:22:57.957648+00:00",
+    "published": "2026-09-22T13:45:32+00:00"
+  },
+  "https://pytorch.org/blog/how-shopify-built-a-continual-learning-loop-with-pytorch-and-vllm": {
+    "title": "How Shopify built a continual learning loop with PyTorch and vLLM",
+    "source": "PyTorch Blog",
+    "first_seen": "2026-09-22T18:22:57.957648+00:00",
+    "published": "2026-09-22T13:45:18+00:00"
+  },
+  "https://arxiv.org/abs/2609.15369": {
+    "title": "Training a model to identify AI-generated web content from structure alone",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-22T18:22:57.957648+00:00",
+    "published": "2026-09-22T13:00:49+00:00"
+  },
+  "https://neon.com/blog/when-a-file-is-uploaded-run-the-job-on-neon": {
+    "title": "When a file is uploaded, run the job on Neon",
+    "source": "Neon Blog",
+    "first_seen": "2026-09-22T18:22:57.957648+00:00",
+    "published": "2026-09-22T12:00:00+00:00"
+  },
+  "https://www.thoughtworks.com/insights/articles/the-quantum-countdown": {
+    "title": "The quantum countdown: Why post-quantum cryptography is a strategic imperative",
+    "source": "ThoughtWorks",
+    "first_seen": "2026-09-22T18:22:57.957648+00:00",
+    "published": "2026-09-22T00:00:00+00:00"
+  },
+  "https://planetscale.com/blog/anatomy-of-a-postgres-search-engine": {
+    "title": "Anatomy of a (Postgres) search engine",
+    "source": "PlanetScale Blog",
+    "first_seen": "2026-09-22T18:22:57.957648+00:00",
+    "published": "2026-09-22T00:00:00+00:00"
+  },
+  "https://openai.com/index/priorities-principles-third-party-assessments": {
+    "title": "Priorities and principles for effective third party assessments",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-09-22T18:22:57.957648+00:00",
+    "published": "2026-09-22T00:00:00+00:00"
+  },
+  "https://huggingface.co/blog/evaleval-aisi": {
+    "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-09-22T18:22:57.957648+00:00",
+    "published": "2026-09-22T00:00:00+00:00"
+  },
+  "https://discord.com/blog/safer-for-teens-same-discord-for-adults": {
+    "title": "Safer for Teens, Same Discord for Adults",
+    "source": "Discord Engineering",
+    "first_seen": "2026-09-22T18:22:57.957648+00:00",
+    "published": "2026-09-22T00:00:00+00:00"
+  },
+  "https://blog.rust-lang.org/2026/09/22/announcing-a-maintainer-in-residence-scott-schafer-for-the-cargo-team": {
+    "title": "Announcing a Maintainer in Residence: Scott Schafer for the Cargo team",
+    "source": "Rust Blog",
+    "first_seen": "2026-09-22T18:22:57.957648+00:00",
+    "published": "2026-09-22T00:00:00+00:00"
   }
 }
