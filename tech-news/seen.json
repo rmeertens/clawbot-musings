@@ -93560,5 +93560,209 @@
     "source": "Simon Willison",
     "first_seen": "2026-09-21T23:42:09.684152+00:00",
     "published": "2026-09-20T20:24:41+00:00"
+  },
+  "https://www.phoronix.com/news/systemd-262": {
+    "title": "systemd 262 Released With AI/LLM Canary For Unreviewed Code, LUO Integration",
+    "source": "Phoronix",
+    "first_seen": "2026-09-22T13:43:24.774915+00:00",
+    "published": "2026-09-22T13:35:05+00:00"
+  },
+  "https://www.cncf.io/blog/2026/09/22/from-attendee-badge-to-speaker-badge-my-first-kubecon-at-kubecon-cloudnativecon-india-2026": {
+    "title": "From attendee badge to speaker badge: My first KubeCon at KubeCon + CloudNativeCon India 2026",
+    "source": "CNCF Blog",
+    "first_seen": "2026-09-22T13:43:24.774915+00:00",
+    "published": "2026-09-22T13:34:05+00:00"
+  },
+  "https://www.phoronix.com/news/YSERVER-1.6-Released": {
+    "title": "Vibe Coded YSERVER Adds XDMCP Support For Multi-User Shared Desktops",
+    "source": "Phoronix",
+    "first_seen": "2026-09-22T13:43:24.774915+00:00",
+    "published": "2026-09-22T13:28:11+00:00"
+  },
+  "https://jola.dev/posts/ai-antithetical-learning": {
+    "title": "AI Is Antithetical to Learning",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-22T13:43:24.774915+00:00",
+    "published": "2026-09-22T13:24:40+00:00"
+  },
+  "https://thenewstack.io/ai-agent-context-boundary": {
+    "title": "AI coding agents need a secrets-safe context boundary",
+    "source": "The New Stack",
+    "first_seen": "2026-09-22T13:43:24.774915+00:00",
+    "published": "2026-09-22T13:00:00+00:00"
+  },
+  "https://developer.nvidia.com/blog/whats-new-for-game-developers-dlss-5-with-3d-guided-neural-rendering-nvidia-ace-updates-and-new-rtx-kit-capabilities": {
+    "title": "What’s New for Game Developers: DLSS 5 with 3D-Guided Neural Rendering, NVIDIA ACE Updates, and New RTX Kit Capabilities",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-09-22T13:43:24.774915+00:00",
+    "published": "2026-09-22T13:00:00+00:00"
+  },
+  "https://blog.cloudflare.com/worker-previews": {
+    "title": "Introducing Worker Previews: isolated preview environments for every change your agent makes",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-09-22T13:43:24.774915+00:00",
+    "published": "2026-09-22T13:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/Omarchy-Alibaba-3M": {
+    "title": "Alibaba Contributing $3M USD To Omarchy To Work On Making \"Ideal\" Agentic OS",
+    "source": "Phoronix",
+    "first_seen": "2026-09-22T13:43:24.774915+00:00",
+    "published": "2026-09-22T12:24:11+00:00"
+  },
+  "https://www.phoronix.com/news/September-2026-Phoronix-Ad-Free": {
+    "title": "Promotion Reminder For Ad-Free Viewing, Multi-Page Articles On A Single Page",
+    "source": "Phoronix",
+    "first_seen": "2026-09-22T13:43:24.774915+00:00",
+    "published": "2026-09-22T12:15:16+00:00"
+  },
+  "https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you": {
+    "title": "AI Has No Wisdom and Neither Will You",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-22T13:43:24.774915+00:00",
+    "published": "2026-09-22T12:11:09+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.3-HID-G502X-USB": {
+    "title": "Linux 7.3 Adding Logitech G502 X Lightspeed USB Support, ELECOM M-XT4DRBK",
+    "source": "Phoronix",
+    "first_seen": "2026-09-22T13:43:24.774915+00:00",
+    "published": "2026-09-22T12:10:33+00:00"
+  },
+  "https://realpython.com/quizzes/using-claude-api-python": {
+    "title": "Quiz: Using the Claude API in Python",
+    "source": "Real Python",
+    "first_seen": "2026-09-22T13:43:24.774915+00:00",
+    "published": "2026-09-22T12:00:00+00:00"
+  },
+  "https://realpython.com/quizzes/python-windows-machine-learning-setup": {
+    "title": "Quiz: Setting Up Python for Machine Learning on Windows",
+    "source": "Real Python",
+    "first_seen": "2026-09-22T13:43:24.774915+00:00",
+    "published": "2026-09-22T12:00:00+00:00"
+  },
+  "https://developer.nvidia.com/blog/accelerating-a-ros-2-node-with-an-ai-agent-and-nvidia-isaac-ros": {
+    "title": "Accelerating a ROS 2 Node with an AI Agent and NVIDIA Isaac ROS",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-09-22T13:43:24.774915+00:00",
+    "published": "2026-09-22T12:00:00+00:00"
+  },
+  "https://blog.pwkf.org/2026/09/21/correct-type-punning-in-c.html": {
+    "title": "Type Punning in C and C++",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-22T13:43:24.774915+00:00",
+    "published": "2026-09-22T11:29:47+00:00"
+  },
+  "https://www.schneier.com/blog/archives/2026/09/gpt-6-astra-breaks-an-old-enigma-message.html": {
+    "title": "GPT-6 Astra Breaks an Old Enigma Message",
+    "source": "Schneier on Security",
+    "first_seen": "2026-09-22T13:43:24.774915+00:00",
+    "published": "2026-09-22T11:02:45+00:00"
+  },
+  "https://www.bristol.ac.uk/news/2026/september/world-cup-viewers.html": {
+    "title": "9 Ads per Minute: FIFA Cup 26 – \"the price of the beautiful game\"",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-22T13:43:24.774915+00:00",
+    "published": "2026-09-22T10:36:44+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.3-CAS-Fixes-Coming": {
+    "title": "Cache Aware Scheduling Fixes Queued For Submission To Linux 7.3, Backporting To 7.2",
+    "source": "Phoronix",
+    "first_seen": "2026-09-22T13:43:24.774915+00:00",
+    "published": "2026-09-22T10:32:45+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-sysfs-AMD-SEV-Status": {
+    "title": "Linux Adding New Interface For Reporting AMD SEV Status",
+    "source": "Phoronix",
+    "first_seen": "2026-09-22T13:43:24.774915+00:00",
+    "published": "2026-09-22T10:21:43+00:00"
+  },
+  "https://www.phoronix.com/news/ZLUDA-cuFFT-APIs-hipFFT": {
+    "title": "ZLUDA Now Implements Some NVIDIA cuFFT APIs With hipFFT",
+    "source": "Phoronix",
+    "first_seen": "2026-09-22T13:43:24.774915+00:00",
+    "published": "2026-09-22T10:03:38+00:00"
+  },
+  "https://stratechery.com/2026/amazon-blocks-muse-amazons-moat-aggregator-v-aggregator": {
+    "title": "Amazon Blocks Muse, Amazon’s Moat, Aggregator v Aggregator",
+    "source": "Stratechery",
+    "first_seen": "2026-09-22T13:43:24.774915+00:00",
+    "published": "2026-09-22T10:00:00+00:00"
+  },
+  "https://verda.com/blog/what-189m-in-funding-unlocks-for-verda-customers": {
+    "title": "Verda (Finland) raises $189M in Series B",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-22T13:43:24.774915+00:00",
+    "published": "2026-09-22T09:36:31+00:00"
+  },
+  "https://board.flatassembler.net/topic.php?t=24261": {
+    "title": "AMD's random number generator can't generate a 0?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-22T13:43:24.774915+00:00",
+    "published": "2026-09-22T08:39:43+00:00"
+  },
+  "https://dbushell.com/2026/09/22/apple-intelligence": {
+    "title": "I said no and Apple said yes",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-22T13:43:24.774915+00:00",
+    "published": "2026-09-22T08:04:55+00:00"
+  },
+  "https://stackoverflow.blog/2026/09/22/haters-think-ai-can-t-gpu-code-this-ll-rocm": {
+    "title": "Haters think AI agents can't write GPU code? This'll ROCm",
+    "source": "Stack Overflow Blog",
+    "first_seen": "2026-09-22T13:43:24.774915+00:00",
+    "published": "2026-09-22T07:40:00+00:00"
+  },
+  "https://nathan.rs/posts/gzip-lm": {
+    "title": "Can gzip be a language model?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-22T13:43:24.774915+00:00",
+    "published": "2026-09-22T06:08:39+00:00"
+  },
+  "https://artificialanalysis.ai/models/mimo-v2-6-pro": {
+    "title": "MiMo-v2.6-Pro: Intelligence, Performance and Price Analysis",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-22T13:43:24.774915+00:00",
+    "published": "2026-09-22T04:02:09+00:00"
+  },
+  "https://status.claude.com/incidents/7g1qpkyz5gxh": {
+    "title": "Claude Status – Elevated errors for multiple models",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-22T13:43:24.774915+00:00",
+    "published": "2026-09-22T01:05:19+00:00"
+  },
+  "https://www.phoronix.com/news/Valve-Steam-Beta-Pyrowave": {
+    "title": "Valve Introduces Pyrowave Video Codec In Beta For Low Latency Streaming",
+    "source": "Phoronix",
+    "first_seen": "2026-09-22T13:43:24.774915+00:00",
+    "published": "2026-09-22T01:00:00+00:00"
+  },
+  "https://wondermark.com/socrates-vs-writing": {
+    "title": "Socrates vs. the Written Word (2011)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-22T13:43:24.774915+00:00",
+    "published": "2026-09-22T00:06:55+00:00"
+  },
+  "https://huggingface.co/blog/transformers-llama-cpp-quants": {
+    "title": "Transformers now runs llama.cpp quants",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-09-22T13:43:24.774915+00:00",
+    "published": "2026-09-22T00:00:00+00:00"
+  },
+  "https://huggingface.co/blog/omlx": {
+    "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-09-22T13:43:24.774915+00:00",
+    "published": "2026-09-22T00:00:00+00:00"
+  },
+  "https://lwn.net/SubscriberLink/1094575/2385e98583715c2b": {
+    "title": "Looking forward to Git 2.56 – and 3.0",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-22T13:43:24.774915+00:00",
+    "published": "2026-09-21T23:16:51+00:00"
+  },
+  "https://grafana.com/blog/grafana-alerting-scale-alert-routing-without-scaling-complexity-using-multiple-notification-policies": {
+    "title": "Grafana Alerting: Scale alert routing without scaling complexity using multiple notification policies",
+    "source": "Grafana Blog",
+    "first_seen": "2026-09-22T13:43:24.774915+00:00",
+    "published": "2026-09-21T18:45:23+00:00"
   }
 }
