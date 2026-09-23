@@ -94508,5 +94508,323 @@
     "source": "Simon Willison",
     "first_seen": "2026-09-23T13:54:52.359734+00:00",
     "published": "2026-09-22T17:14:55+00:00"
+  },
+  "https://openai.com/index/ringg": {
+    "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-09-23T18:42:06.553359+00:00",
+    "published": "2026-09-24T12:00:00+00:00"
+  },
+  "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp": {
+    "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-09-23T18:42:06.553359+00:00",
+    "published": "2026-09-23T18:41:40+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/from-portal-hopping-to-instant-answers-hemas-journey-with-mcp-and-amazon-bedrock": {
+    "title": "From portal-hopping to instant answers: HEMA’s journey with MCP and Amazon Bedrock",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-09-23T18:42:06.553359+00:00",
+    "published": "2026-09-23T18:41:09+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/configure-domain-level-vpc-networking-in-amazon-sagemaker-unified-studio": {
+    "title": "Configure domain-level VPC networking in Amazon SageMaker Unified Studio",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-09-23T18:42:06.553359+00:00",
+    "published": "2026-09-23T18:36:56+00:00"
+  },
+  "https://aws.amazon.com/blogs/containers/building-a-single-pane-noc-dashboard-for-amazon-eks-with-amazon-cloudwatch": {
+    "title": "Building a single-pane NOC dashboard for Amazon EKS with Amazon CloudWatch",
+    "source": "AWS Containers Blog",
+    "first_seen": "2026-09-23T18:42:06.553359+00:00",
+    "published": "2026-09-23T18:30:21+00:00"
+  },
+  "https://github.blog/engineering/user-experience/rendering-huge-pull-requests-in-the-github-copilot-app": {
+    "title": "Rendering huge pull requests in the GitHub Copilot app",
+    "source": "GitHub Blog",
+    "first_seen": "2026-09-23T18:42:06.553359+00:00",
+    "published": "2026-09-23T18:29:49+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/announcing-spark-connect-on-amazon-emr-on-ec2-interactive-pyspark-anywhere": {
+    "title": "Announcing Spark Connect on Amazon EMR on EC2: Interactive PySpark anywhere",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-09-23T18:42:06.553359+00:00",
+    "published": "2026-09-23T18:28:32+00:00"
+  },
+  "https://developer.nvidia.com/blog/manage-kubernetes-node-fleets-with-nodewright": {
+    "title": "Manage Kubernetes Node Fleets with NodeWright",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-09-23T18:42:06.553359+00:00",
+    "published": "2026-09-23T18:25:49+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/query-unstructured-data-in-amazon-sagemaker-catalog-using-generative-ai": {
+    "title": "Query unstructured data in Amazon SageMaker Catalog using generative AI",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-09-23T18:42:06.553359+00:00",
+    "published": "2026-09-23T18:22:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/agentic-conversational-video-intelligence-built-on-aws": {
+    "title": "Agentic conversational video intelligence built on AWS",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-09-23T18:42:06.553359+00:00",
+    "published": "2026-09-23T18:21:54+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/use-open-weight-models-as-your-ai-coding-agent-with-amazon-bedrock": {
+    "title": "Use open weight models as your AI coding agent with Amazon Bedrock",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-09-23T18:42:06.553359+00:00",
+    "published": "2026-09-23T18:17:44+00:00"
+  },
+  "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system": {
+    "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-23T18:42:06.553359+00:00",
+    "published": "2026-09-23T18:06:47+00:00"
+  },
+  "https://devblogs.microsoft.com/oldnewthing/20260922-00?p=112719/": {
+    "title": "A brief history of Windows scroll bar shortcuts",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-23T18:42:06.553359+00:00",
+    "published": "2026-09-23T18:02:08+00:00"
+  },
+  "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion": {
+    "title": "Google Beam expands with new regions, partners, and customers",
+    "source": "Google AI Blog",
+    "first_seen": "2026-09-23T18:42:06.553359+00:00",
+    "published": "2026-09-23T18:00:00+00:00"
+  },
+  "https://www.bbc.com/news/articles/c32l8y8kygdvo": {
+    "title": "UK military jamming other nations' satellites to defend itself, BBC told",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-23T18:42:06.553359+00:00",
+    "published": "2026-09-23T17:45:30+00:00"
+  },
+  "https://www.ft.com/content/9cc479a6-8206-4af3-a6e5-77176b8d43c4": {
+    "title": "What to do when your Waymo holds up a Secret Service motorcade",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-23T18:42:06.553359+00:00",
+    "published": "2026-09-23T17:34:12+00:00"
+  },
+  "https://newsletter.pragmaticengineer.com/p/design-engineering-with-maggie-appleton": {
+    "title": "Design Engineering with Maggie Appleton",
+    "source": "The Pragmatic Engineer",
+    "first_seen": "2026-09-23T18:42:06.553359+00:00",
+    "published": "2026-09-23T17:07:22+00:00"
+  },
+  "https://apnews.com/article/italy-nuclear-chernobyl-4891b6b7c7791ae84db6b0bf0f7cf567": {
+    "title": "Italian parliament votes for return to nuclear energy",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-23T18:42:06.553359+00:00",
+    "published": "2026-09-23T17:06:16+00:00"
+  },
+  "https://thenewstack.io/huang-ai-agents-engineers": {
+    "title": "Jensen Huang says the junior developer problem ends in two years. Here’s his math.",
+    "source": "The New Stack",
+    "first_seen": "2026-09-23T18:42:06.553359+00:00",
+    "published": "2026-09-23T16:55:30+00:00"
+  },
+  "https://thenewstack.io/amazon-meta-muse-block": {
+    "title": "Amazon blocked Meta’s Muse. Then Shopify wired it into every store.",
+    "source": "The New Stack",
+    "first_seen": "2026-09-23T18:42:06.553359+00:00",
+    "published": "2026-09-23T16:39:15+00:00"
+  },
+  "https://unlisted.careers/ghost-jobs/report/2026-09": {
+    "title": "28% of job postings on company career sites have been open over 90 days",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-23T18:42:06.553359+00:00",
+    "published": "2026-09-23T16:35:34+00:00"
+  },
+  "https://thenewstack.io/confidential-ai-sensitive-enterprise-data": {
+    "title": "How confidential AI splits control between data and model owners — and opens new opportunities for both",
+    "source": "The New Stack",
+    "first_seen": "2026-09-23T18:42:06.553359+00:00",
+    "published": "2026-09-23T16:15:17+00:00"
+  },
+  "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory": {
+    "title": "Advancing Private AI Compute with secure, server-side memory",
+    "source": "DeepMind Blog",
+    "first_seen": "2026-09-23T18:42:06.553359+00:00",
+    "published": "2026-09-23T16:00:57+00:00"
+  },
+  "https://openai.com/index/two-years-of-openai-academy": {
+    "title": "Two years of OpenAI Academy",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-09-23T18:42:06.553359+00:00",
+    "published": "2026-09-23T16:00:00+00:00"
+  },
+  "https://developer.nvidia.com/blog/how-swe-serve-exposes-the-gap-between-local-tests-and-live-serving": {
+    "title": "How SWE-Serve Exposes the Gap Between Local Tests and Live Serving",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-09-23T18:42:06.553359+00:00",
+    "published": "2026-09-23T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/topics/developers-practitioners/how-to-speed-up-your-video-processing-with-alphaevolve": {
+    "title": "A guide to speeding up your video processing with AlphaEvolve",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-09-23T18:42:06.553359+00:00",
+    "published": "2026-09-23T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/containers-kubernetes/native-support-for-prometheus-metrics-in-gke": {
+    "title": "Scale your own way, using HPA with built-in support for PromQL metrics queries in GKE",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-09-23T18:42:06.553359+00:00",
+    "published": "2026-09-23T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/containers-kubernetes/gke-adds-native-scale-to-zero-capabilities": {
+    "title": "GKE becomes more elastic: Scale to zero, save costs, and keep workloads responsive",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-09-23T18:42:06.553359+00:00",
+    "published": "2026-09-23T16:00:00+00:00"
+  },
+  "https://lwn.net/Articles/1095425": {
+    "title": "[$] Ideas on modernizing the open-source desktop",
+    "source": "LWN.net",
+    "first_seen": "2026-09-23T18:42:06.553359+00:00",
+    "published": "2026-09-23T15:39:30+00:00"
+  },
+  "https://blog.master.dev/what-to-know-in-javascript-2026-edition": {
+    "title": "What to Know About JavaScript in 2026",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-23T18:42:06.553359+00:00",
+    "published": "2026-09-23T15:30:47+00:00"
+  },
+  "https://blog.bytebytego.com/p/how-to-customize-a-model-to-learn": {
+    "title": "How to Customize a Model to Learn New Tricks",
+    "source": "ByteByteGo",
+    "first_seen": "2026-09-23T18:42:06.553359+00:00",
+    "published": "2026-09-23T15:30:40+00:00"
+  },
+  "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech": {
+    "title": "Gemini 3.8 text-to-speech",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-23T18:42:06.553359+00:00",
+    "published": "2026-09-23T15:29:23+00:00"
+  },
+  "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech": {
+    "title": "Gemini 3.8 text-to-speech says hello",
+    "source": "DeepMind Blog",
+    "first_seen": "2026-09-23T18:42:06.553359+00:00",
+    "published": "2026-09-23T15:25:14+00:00"
+  },
+  "https://radicle.dev/2026/09/23/disclosure-of-vulnerability-in-network-protocol": {
+    "title": "Radicle: Disclosure of Vulnerability in the Network Protocol",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-23T18:42:06.553359+00:00",
+    "published": "2026-09-23T15:23:05+00:00"
+  },
+  "https://pointinthecloud.com/2026-04-11-211700.html": {
+    "title": "Fixing the Portobello Police Station Clock",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-23T18:42:06.553359+00:00",
+    "published": "2026-09-23T15:18:53+00:00"
+  },
+  "https://drivingbench.com": {
+    "title": "GPT-6 Astra has gained the ability to drive a car",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-23T18:42:06.553359+00:00",
+    "published": "2026-09-23T15:14:22+00:00"
+  },
+  "https://strandsagents.com/blog/introducing-strands-harness": {
+    "title": "Strands Harness",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-23T18:42:06.553359+00:00",
+    "published": "2026-09-23T15:05:46+00:00"
+  },
+  "https://www.phoronix.com/news/DXVK-IGDEXT": {
+    "title": "Intel Developing Their DXVK-IGDEXT For Improved Linux Gaming On Arc Graphics",
+    "source": "Phoronix",
+    "first_seen": "2026-09-23T18:42:06.553359+00:00",
+    "published": "2026-09-23T14:54:44+00:00"
+  },
+  "https://lwn.net/Articles/1096204": {
+    "title": "Systemd v262 released",
+    "source": "LWN.net",
+    "first_seen": "2026-09-23T18:42:06.553359+00:00",
+    "published": "2026-09-23T14:51:37+00:00"
+  },
+  "https://www.cncf.io/blog/2026/09/23/which-hat-am-i-wearing-right-now": {
+    "title": "Which hat am I wearing right now?",
+    "source": "CNCF Blog",
+    "first_seen": "2026-09-23T18:42:06.553359+00:00",
+    "published": "2026-09-23T14:47:15+00:00"
+  },
+  "https://aws.amazon.com/blogs/security/supporting-asds-multi-factor-authentication-campaign-why-mfa-matters-more-than-ever": {
+    "title": "Supporting ASD’s multi-factor authentication campaign: Why MFA matters more than ever",
+    "source": "AWS Security Blog",
+    "first_seen": "2026-09-23T18:42:06.553359+00:00",
+    "published": "2026-09-23T14:45:44+00:00"
+  },
+  "https://lwn.net/Articles/1096200": {
+    "title": "Critical security vulnerabilities in the Radicle network protocol",
+    "source": "LWN.net",
+    "first_seen": "2026-09-23T18:42:06.553359+00:00",
+    "published": "2026-09-23T14:20:46+00:00"
+  },
+  "https://www.phoronix.com/review/java-8-openjdk-27-benchmarks": {
+    "title": "Benchmarking Java Performance Of JDK 8 Through OpenJDK 27",
+    "source": "Phoronix",
+    "first_seen": "2026-09-23T18:42:06.553359+00:00",
+    "published": "2026-09-23T14:17:09+00:00"
+  },
+  "https://advocacy.consumerreports.org/press_release/seattle-city-council-votes-to-ban-surveillance-pricing-in-sale-of-groceries": {
+    "title": "Seattle City Council votes to ban surveillance pricing in sale of groceries",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-23T18:42:06.553359+00:00",
+    "published": "2026-09-23T14:04:34+00:00"
+  },
+  "https://thenewstack.io/ai-supply-chain-security": {
+    "title": "The software supply chain is the new battlefield. AI just changed the rules.",
+    "source": "The New Stack",
+    "first_seen": "2026-09-23T18:42:06.553359+00:00",
+    "published": "2026-09-23T14:00:00+00:00"
+  },
+  "https://realpython.com/cursor-vs-copilot": {
+    "title": "Cursor vs Copilot: Which AI Editor Is Better for Python?",
+    "source": "Real Python",
+    "first_seen": "2026-09-23T18:42:06.553359+00:00",
+    "published": "2026-09-23T14:00:00+00:00"
+  },
+  "https://lwn.net/Articles/1096195": {
+    "title": "Critical WordPress RCE vulnerability announced",
+    "source": "LWN.net",
+    "first_seen": "2026-09-23T18:42:06.553359+00:00",
+    "published": "2026-09-23T13:55:40+00:00"
+  },
+  "https://stripe.dev/blog/meet-stripes-knowledge-ai-platform": {
+    "title": "Stripe's Knowledge AI Platform",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-23T18:42:06.553359+00:00",
+    "published": "2026-09-23T13:38:00+00:00"
+  },
+  "https://www.databricks.com/blog/how-concurrence-governs-clinical-ai-trillion-token-scale-unity-gateway": {
+    "title": "How Concurrence governs clinical AI at a trillion-token scale with Unity Gateway",
+    "source": "Databricks Blog",
+    "first_seen": "2026-09-23T18:42:06.553359+00:00",
+    "published": "2026-09-23T12:19:55+00:00"
+  },
+  "https://cloud.google.com/blog/products/chrome-enterprise/secure-intelligent-experiences-across-every-endpoint": {
+    "title": "Secure, intelligent experiences across every endpoint",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-09-23T18:42:06.553359+00:00",
+    "published": "2026-09-23T11:00:00+00:00"
+  },
+  "https://www.elastic.co/blog/elastic-stack-8-19-22-released": {
+    "title": "Elastic Stack 8.19.22 released",
+    "source": "Elastic Blog",
+    "first_seen": "2026-09-23T18:42:06.553359+00:00",
+    "published": "2026-09-23T00:00:00+00:00"
+  },
+  "https://planetscale.com/blog/searching-hn-with-tin": {
+    "title": "TIN Postgres search is faster, better, and cheaper",
+    "source": "PlanetScale Blog",
+    "first_seen": "2026-09-23T18:42:06.553359+00:00",
+    "published": "2026-09-23T00:00:00+00:00"
+  },
+  "https://blog.python.org/2026/09/the-python-documentation-is-now-available-in-persian": {
+    "title": "The Python documentation is now available in Persian",
+    "source": "Python Insider",
+    "first_seen": "2026-09-23T18:42:06.553359+00:00",
+    "published": "2026-09-23T00:00:00+00:00"
   }
 }
