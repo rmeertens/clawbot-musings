@@ -94826,5 +94826,179 @@
     "source": "Python Insider",
     "first_seen": "2026-09-23T18:42:06.553359+00:00",
     "published": "2026-09-23T00:00:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/security/icymi-august-2026-aws-security": {
+    "title": "ICYMI: August 2026 @AWS Security",
+    "source": "AWS Security Blog",
+    "first_seen": "2026-09-23T23:16:11.906488+00:00",
+    "published": "2026-09-23T23:07:36+00:00"
+  },
+  "https://developer.nvidia.com/blog/introducing-nv-reason-ct-open-3d-ct-vlm-for-radiologist-chain-of-thought-reasoning": {
+    "title": "Introducing NV-Reason-CT Open 3D CT VLM for Radiologist Chain-of-Thought Reasoning",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-09-23T23:16:11.906488+00:00",
+    "published": "2026-09-23T22:54:56+00:00"
+  },
+  "https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux": {
+    "title": "Linux support is coming to Snapdragon X2 Series",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-23T23:16:11.906488+00:00",
+    "published": "2026-09-23T22:38:16+00:00"
+  },
+  "https://thenewstack.io/q-ant-open-sources-cuda": {
+    "title": "Q.ANT gives away the software for its light-powered AI chips in a CUDA-style bet on developers",
+    "source": "The New Stack",
+    "first_seen": "2026-09-23T23:16:11.906488+00:00",
+    "published": "2026-09-23T22:23:45+00:00"
+  },
+  "https://artificialanalysis.ai/models/mercury-2-5": {
+    "title": "Mercury 2.5 LLM hits 770 tokens per second",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-23T23:16:11.906488+00:00",
+    "published": "2026-09-23T22:16:19+00:00"
+  },
+  "https://webkit.org/blog/18357/release-notes-for-safari-technology-preview-253": {
+    "title": "Release Notes for Safari Technology Preview 253",
+    "source": "WebKit Blog",
+    "first_seen": "2026-09-23T23:16:11.906488+00:00",
+    "published": "2026-09-23T21:46:47+00:00"
+  },
+  "https://www.phoronix.com/news/Debian-Inference-Portal": {
+    "title": "Debian Inference Portal Launches To Provide Free AI/LLM Inferencing To Debian Developers",
+    "source": "Phoronix",
+    "first_seen": "2026-09-23T23:16:11.906488+00:00",
+    "published": "2026-09-23T21:08:01+00:00"
+  },
+  "https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html": {
+    "title": "OpenAI breaches Medicare, Albanese reveals",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-23T23:16:11.906488+00:00",
+    "published": "2026-09-23T21:01:48+00:00"
+  },
+  "https://fly.io/blog/vscode-ssh-wtf": {
+    "title": "VSCode's SSH Agent Is Bananas (2025)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-23T23:16:11.906488+00:00",
+    "published": "2026-09-23T21:01:48+00:00"
+  },
+  "https://www.phoronix.com/news/Qualcomm-Talks-Up-X2-Linux": {
+    "title": "Qualcomm Talks Up Linux On Snapdragon X2 Laptops",
+    "source": "Phoronix",
+    "first_seen": "2026-09-23T23:16:11.906488+00:00",
+    "published": "2026-09-23T20:49:30+00:00"
+  },
+  "https://pytorch.org/blog/from-research-project-to-open-source-ecosystem-bring-your-academic-pytorch-project-to-pytorchcon-na": {
+    "title": "From Research Project to Open Source Ecosystem: Bring Your Academic PyTorch Project to PyTorchCon NA",
+    "source": "PyTorch Blog",
+    "first_seen": "2026-09-23T23:16:11.906488+00:00",
+    "published": "2026-09-23T20:18:34+00:00"
+  },
+  "https://thenewstack.io/xiaomi-mimo-vs-6-open-source": {
+    "title": "“Impressive level of openness”: Xiaomi goes way beyond the usual open-weight playbook with MiMo-V2.6",
+    "source": "The New Stack",
+    "first_seen": "2026-09-23T23:16:11.906488+00:00",
+    "published": "2026-09-23T20:00:12+00:00"
+  },
+  "https://devblogs.microsoft.com/dotnet/microsoft-author-signing-certificate-update-2026": {
+    "title": "Microsoft is updating its author-signing certificate starting September 23, 2026",
+    "source": "MS .NET Blog",
+    "first_seen": "2026-09-23T23:16:11.906488+00:00",
+    "published": "2026-09-23T20:00:00+00:00"
+  },
+  "https://developer.nvidia.com/blog/validate-gpu-cluster-readiness-before-ai-workloads-land": {
+    "title": "Validate GPU Cluster Readiness Before AI Workloads Land",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-09-23T23:16:11.906488+00:00",
+    "published": "2026-09-23T19:45:19+00:00"
+  },
+  "https://www.phoronix.com/news/Lemonade-2026.40-RC": {
+    "title": "Lemonade Fixes AMD APU Model Streaming, Drops OpenMOSS ROCm As ~40x Slower Than Vulkan",
+    "source": "Phoronix",
+    "first_seen": "2026-09-23T23:16:11.906488+00:00",
+    "published": "2026-09-23T19:41:24+00:00"
+  },
+  "https://thenewstack.io/vast-dataenclave-confidential-computing": {
+    "title": "A third option is emerging in the fight over AI and your data",
+    "source": "The New Stack",
+    "first_seen": "2026-09-23T23:16:11.906488+00:00",
+    "published": "2026-09-23T19:31:42+00:00"
+  },
+  "https://claude.dev/blog/how-we-made-claude-ai-faster": {
+    "title": "Once Claude can measure something, it can make it faster",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-23T23:16:11.906488+00:00",
+    "published": "2026-09-23T19:23:40+00:00"
+  },
+  "https://www.forensicdbg.com": {
+    "title": "Show HN: I built a post-mortem debugger for native Windows x64/x86 crashes",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-23T23:16:11.906488+00:00",
+    "published": "2026-09-23T19:15:55+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/megabytes-in-milliseconds-how-firetv-uses-parallel-queries-and-vertical-partitioning-to-serve-millions-of-customers-in-amazon-dynamodb": {
+    "title": "Megabytes in milliseconds: How FireTV uses parallel queries and vertical partitioning to serve millions of customers in Amazon DynamoDB",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-09-23T23:16:11.906488+00:00",
+    "published": "2026-09-23T18:56:35+00:00"
+  },
+  "https://huggingface.co/apple/LensVLM-9B": {
+    "title": "LensVLM: Compressing long context as images, expanding only relevant pages",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-23T23:16:11.906488+00:00",
+    "published": "2026-09-23T18:36:29+00:00"
+  },
+  "https://blog.matthewbrunelle.com/swap-zram-zswap-and-hibernate-on-nixos": {
+    "title": "Swap, ZRAM, Zswap and Hibernate on NixOS",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-23T23:16:11.906488+00:00",
+    "published": "2026-09-23T18:07:04+00:00"
+  },
+  "https://nextjs.org/blog/upcoming-nextjs-security-release-september-2026": {
+    "title": "Upcoming Next.js September Security Release",
+    "source": "Next.js Blog",
+    "first_seen": "2026-09-23T23:16:11.906488+00:00",
+    "published": "2026-09-23T18:00:00+00:00"
+  },
+  "https://simonwillison.net/2026/Sep/23/gemini-tts-playground": {
+    "title": "Gemini 3.8 TTS Playground",
+    "source": "Simon Willison",
+    "first_seen": "2026-09-23T23:16:11.906488+00:00",
+    "published": "2026-09-23T17:12:27+00:00"
+  },
+  "https://simonwillison.net/2026/Sep/23/shadow-roots": {
+    "title": "Shadow roots, explained with live examples",
+    "source": "Simon Willison",
+    "first_seen": "2026-09-23T23:16:11.906488+00:00",
+    "published": "2026-09-23T16:37:18+00:00"
+  },
+  "https://openai.com/index/sam-altman-un-security-council-remarks": {
+    "title": "Sam Altman’s remarks at the United Nations Security Council",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-09-23T23:16:11.906488+00:00",
+    "published": "2026-09-23T12:00:00+00:00"
+  },
+  "https://openai.com/index/invideo-builds-with-gpt-6-astra": {
+    "title": "How invideo improves color grading 3x with GPT‑6 Astra",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-09-23T23:16:11.906488+00:00",
+    "published": "2026-09-23T12:00:00+00:00"
+  },
+  "https://openai.com/index/harvey-from-context-to-confidence-with-astra": {
+    "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-09-23T23:16:11.906488+00:00",
+    "published": "2026-09-23T12:00:00+00:00"
+  },
+  "https://openai.com/index/introducing-mentalhealthbench": {
+    "title": "Introducing MentalHealthBench",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-09-23T23:16:11.906488+00:00",
+    "published": "2026-09-23T10:00:00+00:00"
+  },
+  "https://openai.com/index/airbnb-gpt-6-astra": {
+    "title": "Airbnb widens access to GPT-6 Astra and OpenAI frontier models",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-09-23T23:16:11.906488+00:00",
+    "published": "2026-09-23T01:00:00+00:00"
   }
 }
