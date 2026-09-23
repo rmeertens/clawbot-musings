@@ -94268,5 +94268,245 @@
     "source": "OpenAI Blog",
     "first_seen": "2026-09-22T23:20:09.783322+00:00",
     "published": "2026-09-22T12:00:00+00:00"
+  },
+  "https://thenewstack.io/whoop-automated-vulnerability-response-workflow": {
+    "title": "Vulnerability alert fatigue nearly swamped WHOOP. But its fix still keeps a human in charge.",
+    "source": "The New Stack",
+    "first_seen": "2026-09-23T13:54:52.359734+00:00",
+    "published": "2026-09-23T13:23:43+00:00"
+  },
+  "https://lwn.net/Articles/1096191": {
+    "title": "Security updates for Wednesday",
+    "source": "LWN.net",
+    "first_seen": "2026-09-23T13:54:52.359734+00:00",
+    "published": "2026-09-23T13:20:48+00:00"
+  },
+  "https://huggingface.co/blog/nvidia/nemotron-diarization": {
+    "title": "**Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-09-23T13:54:52.359734+00:00",
+    "published": "2026-09-23T13:17:01+00:00"
+  },
+  "https://michaelheap.com/github-wiki-is-an-antipattern": {
+    "title": "The GitHub wiki is an anti-pattern",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-23T13:54:52.359734+00:00",
+    "published": "2026-09-23T13:05:49+00:00"
+  },
+  "https://michaelheap.com/i-dont-want-the-details": {
+    "title": "I Don't Want the Details",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-23T13:54:52.359734+00:00",
+    "published": "2026-09-23T13:04:44+00:00"
+  },
+  "https://thenewstack.io/qodo-ai-roi-equation": {
+    "title": "AI spending can run negative. Qodo’s CEO built an ROI equation to fix it.",
+    "source": "The New Stack",
+    "first_seen": "2026-09-23T13:54:52.359734+00:00",
+    "published": "2026-09-23T13:00:00+00:00"
+  },
+  "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense": {
+    "title": "OpenAI extends cyber access to Ukraine for civilian defense",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-09-23T13:54:52.359734+00:00",
+    "published": "2026-09-23T13:00:00+00:00"
+  },
+  "https://github.blog/news-insights/research/developers-want-more-efficient-software-heres-what-over-1000-github-users-told-us-they-need": {
+    "title": "Developers want more efficient software. Here’s what over 1000 GitHub users told us they need.",
+    "source": "GitHub Blog",
+    "first_seen": "2026-09-23T13:54:52.359734+00:00",
+    "published": "2026-09-23T13:00:00+00:00"
+  },
+  "https://www.androidauthority.com/samsung-accidentally-freezes-its-smart-fridges-with-a-software-update-3714472": {
+    "title": "Samsung accidentally freezes its smart fridges with a software update",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-23T13:54:52.359734+00:00",
+    "published": "2026-09-23T12:57:59+00:00"
+  },
+  "https://ivesentit.com": {
+    "title": "Show HN: Ive Sent It – online courier for files, with signed proof of delivery",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-23T13:54:52.359734+00:00",
+    "published": "2026-09-23T12:36:01+00:00"
+  },
+  "https://www.businessinsider.com/inside-open-ai-influencer-marketing-strategy-chatgpt-ads-sponsorships-instagram-2026-9": {
+    "title": "OpenAI is enlisting an influencer army to make it look 'good for the world'",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-23T13:54:52.359734+00:00",
+    "published": "2026-09-23T12:32:00+00:00"
+  },
+  "https://filmstudio.rxlab.app": {
+    "title": "Show HN: RxFilm Studio–Create and edit your product videos with AI agent",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-23T13:54:52.359734+00:00",
+    "published": "2026-09-23T12:28:40+00:00"
+  },
+  "https://www.phoronix.com/news/NTFS-3G-2026.9.18": {
+    "title": "NTFS-3G Update Brings Many Security Fixes",
+    "source": "Phoronix",
+    "first_seen": "2026-09-23T13:54:52.359734+00:00",
+    "published": "2026-09-23T12:27:01+00:00"
+  },
+  "https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on": {
+    "title": "Claude Code reads AGENTS.md only when telemetry is on",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-23T13:54:52.359734+00:00",
+    "published": "2026-09-23T12:15:33+00:00"
+  },
+  "https://questdb.com/careers/pre-sales-engineer-north-america": {
+    "title": "QuestDB (YC S20) Is Hiring a Sales Engineer",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-23T13:54:52.359734+00:00",
+    "published": "2026-09-23T12:01:04+00:00"
+  },
+  "https://thenewstack.io/claude-opus-agent-migration": {
+    "title": "Anthropic made Opus 5.5 cheaper. Then it broke four things your agent depends on.",
+    "source": "The New Stack",
+    "first_seen": "2026-09-23T13:54:52.359734+00:00",
+    "published": "2026-09-23T12:00:00+00:00"
+  },
+  "https://realpython.com/quizzes/sorting-algorithms-python": {
+    "title": "Quiz: Sorting Algorithms in Python",
+    "source": "Real Python",
+    "first_seen": "2026-09-23T13:54:52.359734+00:00",
+    "published": "2026-09-23T12:00:00+00:00"
+  },
+  "https://realpython.com/quizzes/cursor-vs-copilot": {
+    "title": "Quiz: Cursor vs Copilot: Which AI Editor Is Better for Python?",
+    "source": "Real Python",
+    "first_seen": "2026-09-23T13:54:52.359734+00:00",
+    "published": "2026-09-23T12:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/Qualcomm-Adreno-850-Open-Source": {
+    "title": "Qualcomm Posts Open-Source GPU Driver Patches For Adreno 850 One Day After Announcement",
+    "source": "Phoronix",
+    "first_seen": "2026-09-23T13:54:52.359734+00:00",
+    "published": "2026-09-23T11:45:48+00:00"
+  },
+  "https://mihai.dinculescu.dev/posts/two-git-ignore-files-nobody-told-me-about": {
+    "title": "Two Git ignore files nobody told me about",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-23T13:54:52.359734+00:00",
+    "published": "2026-09-23T11:28:47+00:00"
+  },
+  "https://abagames.github.io/z80-repl/index.html": {
+    "title": "Z80 REPL",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-23T13:54:52.359734+00:00",
+    "published": "2026-09-23T11:04:52+00:00"
+  },
+  "https://www.schneier.com/blog/archives/2026/09/research-on-models-engaging-in-genie-like-behavior.html": {
+    "title": "Research on Models Engaging in Genie-Like Behavior",
+    "source": "Schneier on Security",
+    "first_seen": "2026-09-23T13:54:52.359734+00:00",
+    "published": "2026-09-23T11:03:36+00:00"
+  },
+  "https://thenewstack.io/openai-prompt-caching-costs": {
+    "title": "OpenAI cut GPT-6 token prices in half. The bigger lever may be the cache.",
+    "source": "The New Stack",
+    "first_seen": "2026-09-23T13:54:52.359734+00:00",
+    "published": "2026-09-23T11:00:00+00:00"
+  },
+  "https://drericlevi.pages.dev/the-darker-side-of-being-a-doctor": {
+    "title": "The darker side of being a doctor",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-23T13:54:52.359734+00:00",
+    "published": "2026-09-23T10:54:55+00:00"
+  },
+  "https://www.phoronix.com/news/LLVM-Clang-AVX10_V2_AUX": {
+    "title": "AMD Upstreams AVX10_V2_AUX Support Into LLVM Clang 24",
+    "source": "Phoronix",
+    "first_seen": "2026-09-23T13:54:52.359734+00:00",
+    "published": "2026-09-23T10:25:58+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-Reverting-Logitech-Bolt": {
+    "title": "Linux 7.3 Reverting Logitech Bolt Receiver HID++ After Too Many Bugs Encountered",
+    "source": "Phoronix",
+    "first_seen": "2026-09-23T13:54:52.359734+00:00",
+    "published": "2026-09-23T10:15:37+00:00"
+  },
+  "https://stratechery.com/2026/more-on-muse-amazon-and-walmart-muse-and-expedia-whither-google": {
+    "title": "More on Muse, Amazon, and Walmart; Muse and Expedia; Whither Google?",
+    "source": "Stratechery",
+    "first_seen": "2026-09-23T13:54:52.359734+00:00",
+    "published": "2026-09-23T10:00:00+00:00"
+  },
+  "https://jyn.dev/tokens-too-cheap-to-meter": {
+    "title": "Tokens Too Cheap to Meter",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-23T13:54:52.359734+00:00",
+    "published": "2026-09-23T09:21:17+00:00"
+  },
+  "https://www.nobodywho.ai/posts/jev-in-25-lines": {
+    "title": "Jev in 25 Lines of Python",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-23T13:54:52.359734+00:00",
+    "published": "2026-09-23T07:26:23+00:00"
+  },
+  "https://dropbox.tech/culture/learnings-from-deploying-ai-at-company-scale": {
+    "title": "What Dropbox has learned from deploying AI at company scale",
+    "source": "Dropbox Tech",
+    "first_seen": "2026-09-23T13:54:52.359734+00:00",
+    "published": "2026-09-23T07:00:00+00:00"
+  },
+  "https://stackoverflow.blog/2026/09/23/multiplayer-ai-why-your-team-and-its-agents-need-a-group-chat": {
+    "title": "Multiplayer AI: Why your team (and its agents) need a group chat",
+    "source": "Stack Overflow Blog",
+    "first_seen": "2026-09-23T13:54:52.359734+00:00",
+    "published": "2026-09-23T04:40:00+00:00"
+  },
+  "https://www.hashicorp.com/blog/terraform-provider-for-google-cloud-80-now-generally-available": {
+    "title": "Terraform provider for Google Cloud 8.0 now generally available",
+    "source": "HashiCorp Blog",
+    "first_seen": "2026-09-23T13:54:52.359734+00:00",
+    "published": "2026-09-23T04:00:00+00:00"
+  },
+  "https://www.usenix.org/publications/loginonline/data-only-attacks-are-easier-you-think": {
+    "title": "Data-only attacks are easier than you think (2024)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-23T13:54:52.359734+00:00",
+    "published": "2026-09-23T03:49:28+00:00"
+  },
+  "https://simonwillison.net/2026/Sep/23/bof-agentic-engineering": {
+    "title": "SF October 14th: A Birds of a Feather Session on Agentic Engineering",
+    "source": "Simon Willison",
+    "first_seen": "2026-09-23T13:54:52.359734+00:00",
+    "published": "2026-09-23T02:53:19+00:00"
+  },
+  "https://waymo.com/blog/2026/09/transit-rewards": {
+    "title": "Transit rewards",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-23T13:54:52.359734+00:00",
+    "published": "2026-09-23T02:52:29+00:00"
+  },
+  "https://www.phoronix.com/news/Nouveau-Deep-Color-Patches": {
+    "title": "Open-Source NVIDIA \"Nouveau\" Driver Sees Patches For HDMI Deep Color Support",
+    "source": "Phoronix",
+    "first_seen": "2026-09-23T13:54:52.359734+00:00",
+    "published": "2026-09-23T00:54:21+00:00"
+  },
+  "https://openai.com/index/grab-openai-ai-skills-southeast-asia": {
+    "title": "Grab and OpenAI bring practical AI skills to Southeast Asia",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-09-23T13:54:52.359734+00:00",
+    "published": "2026-09-23T00:00:00+00:00"
+  },
+  "https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna": {
+    "title": "Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war",
+    "source": "Simon Willison",
+    "first_seen": "2026-09-23T13:54:52.359734+00:00",
+    "published": "2026-09-22T23:46:41+00:00"
+  },
+  "https://simonwillison.net/2026/Sep/22/llm": {
+    "title": "llm 0.36",
+    "source": "Simon Willison",
+    "first_seen": "2026-09-23T13:54:52.359734+00:00",
+    "published": "2026-09-22T18:48:37+00:00"
+  },
+  "https://simonwillison.net/2026/Sep/22/llm-anthropic": {
+    "title": "llm-anthropic 0.29",
+    "source": "Simon Willison",
+    "first_seen": "2026-09-23T13:54:52.359734+00:00",
+    "published": "2026-09-22T17:14:55+00:00"
   }
 }
