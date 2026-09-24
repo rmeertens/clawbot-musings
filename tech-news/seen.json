@@ -95000,5 +95000,281 @@
     "source": "OpenAI Blog",
     "first_seen": "2026-09-23T23:16:11.906488+00:00",
     "published": "2026-09-23T01:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/Fedora-Discuss-Collabora-Office": {
+    "title": "Fedora Discussion Raises The Idea Of Replacing LibreOffice With Collabora Office",
+    "source": "Phoronix",
+    "first_seen": "2026-09-24T13:51:39.715551+00:00",
+    "published": "2026-09-24T13:39:00+00:00"
+  },
+  "https://www.phoronix.com/news/KDE-Plasma-6.8-Beta-2": {
+    "title": "KDE Plasma 6.8 Beta 2 Released With Union Theming Engine Maturing",
+    "source": "Phoronix",
+    "first_seen": "2026-09-24T13:51:39.715551+00:00",
+    "published": "2026-09-24T13:27:33+00:00"
+  },
+  "https://thenewstack.io/gemini-tts-voice-replication-api": {
+    "title": "OpenAI makes you call sales for a custom voice. Google just made it self-serve.",
+    "source": "The New Stack",
+    "first_seen": "2026-09-24T13:51:39.715551+00:00",
+    "published": "2026-09-24T13:20:11+00:00"
+  },
+  "https://thenewstack.io/ai-agents-database-administrators": {
+    "title": "What managing 150,000 AI agents could look like for database teams",
+    "source": "The New Stack",
+    "first_seen": "2026-09-24T13:51:39.715551+00:00",
+    "published": "2026-09-24T13:11:55+00:00"
+  },
+  "https://lwn.net/Articles/1096407": {
+    "title": "Security updates for Thursday",
+    "source": "LWN.net",
+    "first_seen": "2026-09-24T13:51:39.715551+00:00",
+    "published": "2026-09-24T13:05:18+00:00"
+  },
+  "https://www.phoronix.com/news/AlmaLinux-New-Certification": {
+    "title": "AlmaLinux Rolls Out New Software/Hardware Certification Portal, Self-Certify App",
+    "source": "Phoronix",
+    "first_seen": "2026-09-24T13:51:39.715551+00:00",
+    "published": "2026-09-24T13:02:47+00:00"
+  },
+  "https://thenewstack.io/query-decomposition-context-starvation": {
+    "title": "Query decomposition doesn’t fix context starvation — it just moves it",
+    "source": "The New Stack",
+    "first_seen": "2026-09-24T13:51:39.715551+00:00",
+    "published": "2026-09-24T13:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/topics/startups/the-three-things-todays-hottest-startups-are-looking-for-in-their-ai-stack": {
+    "title": "The three things today's hottest startups are looking for in their AI stack",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-09-24T13:51:39.715551+00:00",
+    "published": "2026-09-24T13:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/topics/developers-practitioners/how-google-cloud-networking-supports-your-fluid-compute-choices-for-ai-workloads": {
+    "title": "How Google Cloud Networking Supports Your Fluid Compute Choices for AI Workloads",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-09-24T13:51:39.715551+00:00",
+    "published": "2026-09-24T13:00:00+00:00"
+  },
+  "https://arstechnica.com/gadgets/2026/09/owners-mourn-spoiled-food-after-firmware-update-bricks-samsung-smart-fridges": {
+    "title": "Owners mourn spoiled food after firmware update bricks Samsung smart fridges",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-24T13:51:39.715551+00:00",
+    "published": "2026-09-24T12:58:08+00:00"
+  },
+  "https://thenewstack.io/cursor-rollouts-firetiger-production": {
+    "title": "Cursor acquired Firetiger. A month later, Cursor launched a bot that tracks code changes through to production.",
+    "source": "The New Stack",
+    "first_seen": "2026-09-24T13:51:39.715551+00:00",
+    "published": "2026-09-24T12:56:28+00:00"
+  },
+  "https://www.theguardian.com/society/2026/sep/24/thats-so-ai-what-gen-alphas-biggest-insult-tells-us": {
+    "title": "'That's so AI ' What gen Alpha's biggest insult tells us",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-24T13:51:39.715551+00:00",
+    "published": "2026-09-24T12:23:41+00:00"
+  },
+  "https://www.cncf.io/blog/2026/09/24/observability-day-where-the-community-comes-together-at-kubecon-cloudnativecon-north-america-2026": {
+    "title": "Observability Day: Where the community comes together at KubeCon + CloudNativeCon North America 2026",
+    "source": "CNCF Blog",
+    "first_seen": "2026-09-24T13:51:39.715551+00:00",
+    "published": "2026-09-24T12:22:50+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-Taint-Forced-Bind": {
+    "title": "Linux Kernel Introducing New Taint Due To Fuzzing Bots Yielding Impractical Bug Reports",
+    "source": "Phoronix",
+    "first_seen": "2026-09-24T13:51:39.715551+00:00",
+    "published": "2026-09-24T12:08:36+00:00"
+  },
+  "https://thenewstack.io/protecting-enterprise-ai-data": {
+    "title": "Can enterprises protect data without making AI less reliable?",
+    "source": "The New Stack",
+    "first_seen": "2026-09-24T13:51:39.715551+00:00",
+    "published": "2026-09-24T12:00:00+00:00"
+  },
+  "https://realpython.com/quizzes/terminal-commands": {
+    "title": "Quiz: The Terminal: First Steps and Useful Commands for Python Developers",
+    "source": "Real Python",
+    "first_seen": "2026-09-24T13:51:39.715551+00:00",
+    "published": "2026-09-24T12:00:00+00:00"
+  },
+  "https://realpython.com/quizzes/jev-python": {
+    "title": "Quiz: How to Get Started With Jev in Python",
+    "source": "Real Python",
+    "first_seen": "2026-09-24T13:51:39.715551+00:00",
+    "published": "2026-09-24T12:00:00+00:00"
+  },
+  "https://neon.com/blog/electrifying-neon-building-the-realtime-backend": {
+    "title": "Electrifying Neon: building the realtime backend",
+    "source": "Neon Blog",
+    "first_seen": "2026-09-24T13:51:39.715551+00:00",
+    "published": "2026-09-24T12:00:00+00:00"
+  },
+  "https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073": {
+    "title": "Hackers influence ChatGPT and Gemini to direct users to scam centers",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-24T13:51:39.715551+00:00",
+    "published": "2026-09-24T11:54:38+00:00"
+  },
+  "https://www.phoronix.com/news/Mir-2.30-Released": {
+    "title": "Mir 2.30 Released Now With Rust Required, Mir Roadmap Published",
+    "source": "Phoronix",
+    "first_seen": "2026-09-24T13:51:39.715551+00:00",
+    "published": "2026-09-24T11:51:11+00:00"
+  },
+  "https://www.xda-developers.com/newest-esp32-run-linux-close-to-raspberry-pi": {
+    "title": "The newest ESP32 can run Linux and it's getting close to a Raspberry Pi",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-24T13:51:39.715551+00:00",
+    "published": "2026-09-24T11:08:39+00:00"
+  },
+  "https://www.schneier.com/blog/archives/2026/09/malicious-npm-packages-that-evade-defenses.html": {
+    "title": "Malicious npm Packages That Evade Defenses",
+    "source": "Schneier on Security",
+    "first_seen": "2026-09-24T13:51:39.715551+00:00",
+    "published": "2026-09-24T11:07:42+00:00"
+  },
+  "https://macanorak.com/two-tier-encryption-in-the-uk": {
+    "title": "Two-Tier Encryption in the UK – Identical Apple Devices, Different Protection",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-24T13:51:39.715551+00:00",
+    "published": "2026-09-24T10:39:19+00:00"
+  },
+  "https://www.phoronix.com/news/Fwupd-2.1.8-Released": {
+    "title": "Fwupd 2.1.8 Released With New Hardware Support From ASUS, Lenovo & Others",
+    "source": "Phoronix",
+    "first_seen": "2026-09-24T13:51:39.715551+00:00",
+    "published": "2026-09-24T10:23:18+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-Slab-Tiny-Boot-Option": {
+    "title": "\"slab_tiny\" Boot Option Proposed For Tiny Linux Systems With Very Limited RAM",
+    "source": "Phoronix",
+    "first_seen": "2026-09-24T13:51:39.715551+00:00",
+    "published": "2026-09-24T10:10:30+00:00"
+  },
+  "https://stratechery.com/2026/an-interview-with-colossus-eic-jeremy-stern-about-profiling-mark-zuckerberg": {
+    "title": "An Interview with Colossus EIC Jeremy Stern About Profiling Mark Zuckerberg",
+    "source": "Stratechery",
+    "first_seen": "2026-09-24T13:51:39.715551+00:00",
+    "published": "2026-09-24T10:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.4-DRM-Helpers-HDMI-2.0": {
+    "title": "Linux 7.4 DRM Infrastructure Better Supporting HDMI 2.0 With New Helpers",
+    "source": "Phoronix",
+    "first_seen": "2026-09-24T13:51:39.715551+00:00",
+    "published": "2026-09-24T09:49:36+00:00"
+  },
+  "https://nokiadesignarchive.aalto.fi/index.html": {
+    "title": "Nokia Design Archive (2025)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-24T13:51:39.715551+00:00",
+    "published": "2026-09-24T09:49:33+00:00"
+  },
+  "https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai": {
+    "title": "Meta takes down a critical video about meta AI Glasses after filming at Meta",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-24T13:51:39.715551+00:00",
+    "published": "2026-09-24T08:23:03+00:00"
+  },
+  "https://www.geocod.io/code-and-coordinates/2026-09-23-the-year-of-internal-tools": {
+    "title": "The Year of Internal Tools",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-24T13:51:39.715551+00:00",
+    "published": "2026-09-24T07:23:07+00:00"
+  },
+  "https://transluce.org/agent-activity": {
+    "title": "Early rogue AI agent activity and attempts to hack found on urlquery.net",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-24T13:51:39.715551+00:00",
+    "published": "2026-09-24T05:21:10+00:00"
+  },
+  "https://contrastive-lm.notion.site": {
+    "title": "Contrastive Language Models",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-24T13:51:39.715551+00:00",
+    "published": "2026-09-24T04:20:59+00:00"
+  },
+  "https://lwn.net/SubscriberLink/1095425/2d9f411252325784": {
+    "title": "Ideas on modernizing the open-source desktop",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-24T13:51:39.715551+00:00",
+    "published": "2026-09-24T02:52:09+00:00"
+  },
+  "https://www.bbc.com/news/live/cvgl73pxgndwt": {
+    "title": "OpenAI agent hacked Australian government website, PM says",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-24T13:51:39.715551+00:00",
+    "published": "2026-09-24T02:44:48+00:00"
+  },
+  "https://www.databricks.com/blog/how-i-built-agent-based-security-reviews-databricks": {
+    "title": "How I built agent-based security reviews on Databricks",
+    "source": "Databricks Blog",
+    "first_seen": "2026-09-24T13:51:39.715551+00:00",
+    "published": "2026-09-24T02:00:00+00:00"
+  },
+  "https://github.com/nestrilabs/virtio-nvgpu": {
+    "title": "Virtio-nvgpu: Near-native Nvidia GPU access inside a KVM guest",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-24T13:51:39.715551+00:00",
+    "published": "2026-09-24T01:02:23+00:00"
+  },
+  "https://lwn.net/Articles/1094840": {
+    "title": "[$] LWN.net Weekly Edition for September 24, 2026",
+    "source": "LWN.net",
+    "first_seen": "2026-09-24T13:51:39.715551+00:00",
+    "published": "2026-09-24T00:22:42+00:00"
+  },
+  "https://www.thoughtworks.com/insights/blog/legacy-modernization/what-is-data-modernization": {
+    "title": "Data modernization: A practical guide for getting it right",
+    "source": "ThoughtWorks",
+    "first_seen": "2026-09-24T13:51:39.715551+00:00",
+    "published": "2026-09-24T00:00:00+00:00"
+  },
+  "https://www.elastic.co/blog/elastic-cloud-azure-cobalt-arm": {
+    "title": "Elastic Cloud on Azure gets a speed boost: Compute-optimized instances on Azure Cobalt ARM",
+    "source": "Elastic Blog",
+    "first_seen": "2026-09-24T13:51:39.715551+00:00",
+    "published": "2026-09-24T00:00:00+00:00"
+  },
+  "https://www.elastic.co/blog/atomic-claim-checking-against-llm-hallucinations": {
+    "title": "Trust, but verify: Atomic claim checking against LLM hallucinations",
+    "source": "Elastic Blog",
+    "first_seen": "2026-09-24T13:51:39.715551+00:00",
+    "published": "2026-09-24T00:00:00+00:00"
+  },
+  "https://nodeweekly.com/issues/642": {
+    "title": "12 Node built-ins that replace npm packages",
+    "source": "Node Weekly",
+    "first_seen": "2026-09-24T13:51:39.715551+00:00",
+    "published": "2026-09-24T00:00:00+00:00"
+  },
+  "https://engineering.fb.com/2026/09/23/security/private-processing-meta-ai-glasses": {
+    "title": "Bringing Private Processing to Meta AI Glasses",
+    "source": "Meta Engineering",
+    "first_seen": "2026-09-24T13:51:39.715551+00:00",
+    "published": "2026-09-24T00:00:00+00:00"
+  },
+  "https://www.meta.com/vr-glasses": {
+    "title": "Meta VR Glasses",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-24T13:51:39.715551+00:00",
+    "published": "2026-09-23T23:47:56+00:00"
+  },
+  "https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment": {
+    "title": "ArXiv receives multiyear commitments to support it as an independent nonprofit",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-24T13:51:39.715551+00:00",
+    "published": "2026-09-23T22:45:49+00:00"
+  },
+  "https://azure.microsoft.com/en-us/blog/your-architecture-diagram-is-not-your-resilience": {
+    "title": "Your architecture diagram is not your resilience",
+    "source": "Azure Blog",
+    "first_seen": "2026-09-24T13:51:39.715551+00:00",
+    "published": "2026-09-23T16:00:00+00:00"
+  },
+  "https://azure.microsoft.com/en-us/blog/designing-agent-first-platforms-what-changes-when-agents-do-the-work": {
+    "title": "Designing agent-first platforms: What changes when agents do the work",
+    "source": "Azure Blog",
+    "first_seen": "2026-09-24T13:51:39.715551+00:00",
+    "published": "2026-09-23T15:00:00+00:00"
   }
 }
