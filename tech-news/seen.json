@@ -95276,5 +95276,317 @@
     "source": "Azure Blog",
     "first_seen": "2026-09-24T13:51:39.715551+00:00",
     "published": "2026-09-23T15:00:00+00:00"
+  },
+  "https://www.usestable.com/careers/product-engineer": {
+    "title": "Stable (YC W20) Is Hiring Product Engineers",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-24T18:43:21.764191+00:00",
+    "published": "2026-09-24T18:29:18+00:00"
+  },
+  "https://github.blog/security/application-security/ai-powered-fuzzing-with-the-github-security-lab-taskflow-agent": {
+    "title": "AI-powered fuzzing with the GitHub Security Lab Taskflow Agent",
+    "source": "GitHub Blog",
+    "first_seen": "2026-09-24T18:43:21.764191+00:00",
+    "published": "2026-09-24T18:26:12+00:00"
+  },
+  "https://www.cell.com/iscience/fulltext/S2589-0042(26)00811-4": {
+    "title": "Creatine uptake enhances antitumor immunity",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-24T18:43:21.764191+00:00",
+    "published": "2026-09-24T18:24:52+00:00"
+  },
+  "https://lwn.net/Articles/1096444": {
+    "title": "F-Droid 2.0: A new chapter for Android freedom",
+    "source": "LWN.net",
+    "first_seen": "2026-09-24T18:43:21.764191+00:00",
+    "published": "2026-09-24T18:01:55+00:00"
+  },
+  "https://thenewstack.io/azul-ai-assistant-java-risk": {
+    "title": "How a forgotten node can put Oracle Java back in production",
+    "source": "The New Stack",
+    "first_seen": "2026-09-24T18:43:21.764191+00:00",
+    "published": "2026-09-24T17:50:35+00:00"
+  },
+  "https://lwn.net/Articles/1096431": {
+    "title": "Research into file-notification attacks on Linux",
+    "source": "LWN.net",
+    "first_seen": "2026-09-24T18:43:21.764191+00:00",
+    "published": "2026-09-24T17:40:36+00:00"
+  },
+  "https://github.com/devdotfast/whiteboard": {
+    "title": "Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-24T18:43:21.764191+00:00",
+    "published": "2026-09-24T17:21:36+00:00"
+  },
+  "https://www.docker.com/blog/manufacturing-trust-for-ai-agents-keynote": {
+    "title": "Manufacturing Trust for AI Agents | Docker’s WeAreDevelopers Keynote",
+    "source": "Docker Blog",
+    "first_seen": "2026-09-24T18:43:21.764191+00:00",
+    "published": "2026-09-24T17:15:00+00:00"
+  },
+  "https://www.phoronix.com/news/COSMIC-Epoch-1.9-Released": {
+    "title": "COSMIC Epoch 1.9 Brings New Image Viewer & On-Screen Keyboard",
+    "source": "Phoronix",
+    "first_seen": "2026-09-24T18:43:21.764191+00:00",
+    "published": "2026-09-24T17:11:51+00:00"
+  },
+  "https://www.databricks.com/blog/deploy-and-manage-coding-agents-scale-unity-gateway-cli": {
+    "title": "Deploy and manage coding agents at scale with the Unity Gateway CLI",
+    "source": "Databricks Blog",
+    "first_seen": "2026-09-24T18:43:21.764191+00:00",
+    "published": "2026-09-24T16:46:05+00:00"
+  },
+  "https://newsletter.pragmaticengineer.com/p/the-pulse-end-of-coding-by-hand": {
+    "title": "The Pulse: RoR creator sparks new “death of coding by hand” debate",
+    "source": "The Pragmatic Engineer",
+    "first_seen": "2026-09-24T18:43:21.764191+00:00",
+    "published": "2026-09-24T16:44:27+00:00"
+  },
+  "https://dynomight.substack.com/p/liver": {
+    "title": "Why is the liver so weirdly regenerative?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-24T18:43:21.764191+00:00",
+    "published": "2026-09-24T16:23:00+00:00"
+  },
+  "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar": {
+    "title": "Introducing Gemini 3.8 Live with Live Avatar",
+    "source": "DeepMind Blog",
+    "first_seen": "2026-09-24T18:43:21.764191+00:00",
+    "published": "2026-09-24T16:20:39+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/speaker-labeled-transcription-with-whisperx-on-sagemaker-ai": {
+    "title": "Speaker-labeled transcription with WhisperX on SageMaker AI",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-09-24T18:43:21.764191+00:00",
+    "published": "2026-09-24T16:20:12+00:00"
+  },
+  "https://www.phoronix.com/news/GCC-Patches-AVX10V1AUX": {
+    "title": "AMD Posts GCC Compiler Patches For AVX10V1AUX ISA Support",
+    "source": "Phoronix",
+    "first_seen": "2026-09-24T18:43:21.764191+00:00",
+    "published": "2026-09-24T16:12:57+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/build-a-multi-account-ai-agent-with-agentcore-gateway-and-mcp": {
+    "title": "Build a multi-account AI agent with AgentCore Gateway and MCP",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-09-24T18:43:21.764191+00:00",
+    "published": "2026-09-24T16:12:47+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/how-delivery-hero-rebuilt-real-time-ad-measurement-with-apache-flink": {
+    "title": "How Delivery Hero rebuilt real-time ad measurement with Apache Flink",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-09-24T18:43:21.764191+00:00",
+    "published": "2026-09-24T16:09:12+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/aderant-builds-intelligent-ticket-triage-with-amazon-nova": {
+    "title": "Aderant builds intelligent ticket triage with Amazon Nova",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-09-24T18:43:21.764191+00:00",
+    "published": "2026-09-24T16:06:46+00:00"
+  },
+  "https://thenewstack.io/kubernetes-self-service-platform-teams": {
+    "title": "Developers and platform teams both want Kubernetes self-service. They disagree on who owns it.",
+    "source": "The New Stack",
+    "first_seen": "2026-09-24T18:43:21.764191+00:00",
+    "published": "2026-09-24T16:06:27+00:00"
+  },
+  "https://www.docker.com/blog/introducing-cloud-sandboxes-start-on-your-laptop-finish-in-the-cloud": {
+    "title": "Introducing Cloud Sandboxes: Start on Your Laptop, Finish in the Cloud",
+    "source": "Docker Blog",
+    "first_seen": "2026-09-24T18:43:21.764191+00:00",
+    "published": "2026-09-24T16:00:00+00:00"
+  },
+  "https://www.docker.com/blog/docker-sandbox-kit-spec": {
+    "title": "From Dockerfile to Kit: the Docker Sandboxes Kit Specification",
+    "source": "Docker Blog",
+    "first_seen": "2026-09-24T18:43:21.764191+00:00",
+    "published": "2026-09-24T16:00:00+00:00"
+  },
+  "https://www.docker.com/blog/docker-sandbox-kit-spec-cncf": {
+    "title": "Docker and CNCF partner on an open spec for agent permissions",
+    "source": "Docker Blog",
+    "first_seen": "2026-09-24T18:43:21.764191+00:00",
+    "published": "2026-09-24T16:00:00+00:00"
+  },
+  "https://oxide.computer/blog/oxide-computer-company-and-carahsoft": {
+    "title": "Oxide Computer Company and Carahsoft Partner to Bring On-Premises Cloud Computing to the Public Sector",
+    "source": "Oxide Computer",
+    "first_seen": "2026-09-24T18:43:21.764191+00:00",
+    "published": "2026-09-24T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/topics/customers/scribd-inc-classifies-millions-of-documents-on-gemini-enterprise": {
+    "title": "Scribd, Inc. classifies more than 400 million documents with Gemini batch inference on Gemini Enterprise",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-09-24T18:43:21.764191+00:00",
+    "published": "2026-09-24T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/containers-kubernetes/gke-agentic-migration": {
+    "title": "Introducing GKE agentic migration for AI-assisted EKS-to-GKE migrations with built-in governance",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-09-24T18:43:21.764191+00:00",
+    "published": "2026-09-24T16:00:00+00:00"
+  },
+  "https://successfulsoftware.net/2026/09/24/github-has-not-removed-malicious-imitation-software-after-3-weeks": {
+    "title": "GitHub has not removed malicious imitation software after 3 weeks",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-24T18:43:21.764191+00:00",
+    "published": "2026-09-24T15:50:26+00:00"
+  },
+  "https://viewsproject.wordpress.com/2026/09/06/chinese-calligraphy-workshop": {
+    "title": "Experiencing writing at our recent Chinese calligraphy workshop",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-24T18:43:21.764191+00:00",
+    "published": "2026-09-24T15:40:03+00:00"
+  },
+  "https://martinfowler.com/fragments/2026-09-24.html": {
+    "title": "Fragments: September 24",
+    "source": "Martin Fowler",
+    "first_seen": "2026-09-24T18:43:21.764191+00:00",
+    "published": "2026-09-24T15:35:00+00:00"
+  },
+  "https://blog.bytebytego.com/p/the-life-of-data-from-creation-to": {
+    "title": "The Life of Data: From Creation to Deletion",
+    "source": "ByteByteGo",
+    "first_seen": "2026-09-24T18:43:21.764191+00:00",
+    "published": "2026-09-24T15:31:06+00:00"
+  },
+  "https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html": {
+    "title": "F-Droid 2.0",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-24T18:43:21.764191+00:00",
+    "published": "2026-09-24T15:26:12+00:00"
+  },
+  "https://developer.nvidia.com/blog/efficient-moe-training-for-biological-foundation-models": {
+    "title": "Efficient MoE Training for Biological Foundation Models",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-09-24T18:43:21.764191+00:00",
+    "published": "2026-09-24T15:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/ai-machine-learning/gemini-3-8-live-with-live-avatar-is-now-generally-available": {
+    "title": "Power your agents: Gemini 3.8 Live with Live Avatar is now generally available",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-09-24T18:43:21.764191+00:00",
+    "published": "2026-09-24T15:00:00+00:00"
+  },
+  "https://blog.cloudflare.com/containers-cross-tenant-vulnerability": {
+    "title": "How Cloudflare addressed a cross-tenant data exposure vulnerability in Containers",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-09-24T18:43:21.764191+00:00",
+    "published": "2026-09-24T15:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/topics/customers/how-midsize-latam-companies-build-with-ai": {
+    "title": "How growing Latin American midsize businesses are building in the AI era",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-09-24T18:43:21.764191+00:00",
+    "published": "2026-09-24T14:30:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/databases/announcing-postgresql-for-agents-in-alloydb": {
+    "title": "AlloyDB delivers PostgreSQL for agents: Real-time data at agent scale, with full workload isolation",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-09-24T18:43:21.764191+00:00",
+    "published": "2026-09-24T14:30:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/databases/alloydbs-agentic-database-architecture": {
+    "title": "A new, no-compromises database architecture for the agentic era",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-09-24T18:43:21.764191+00:00",
+    "published": "2026-09-24T14:30:00+00:00"
+  },
+  "https://thenewstack.io/gemini-cli-prompt-injection-safeguards": {
+    "title": "Google’s Gemini CLI now asks before editing your build files",
+    "source": "The New Stack",
+    "first_seen": "2026-09-24T18:43:21.764191+00:00",
+    "published": "2026-09-24T14:27:27+00:00"
+  },
+  "https://eprint.iacr.org/2026/2131.pdf": {
+    "title": "Forging 1024-bit RSA signatures in nearly SNFS time [pdf]",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-24T18:43:21.764191+00:00",
+    "published": "2026-09-24T14:26:32+00:00"
+  },
+  "https://lwn.net/Articles/1095721": {
+    "title": "[$] Listening to the radio with Rust",
+    "source": "LWN.net",
+    "first_seen": "2026-09-24T18:43:21.764191+00:00",
+    "published": "2026-09-24T14:26:30+00:00"
+  },
+  "https://martinfowler.com/articles/healthy-peer-feedback.html": {
+    "title": "Healthy Feedback",
+    "source": "Martin Fowler",
+    "first_seen": "2026-09-24T18:43:21.764191+00:00",
+    "published": "2026-09-24T14:10:00+00:00"
+  },
+  "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark": {
+    "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-09-24T18:43:21.764191+00:00",
+    "published": "2026-09-24T14:08:57+00:00"
+  },
+  "https://realpython.com/jev-python": {
+    "title": "How to Get Started With Jev in Python",
+    "source": "Real Python",
+    "first_seen": "2026-09-24T18:43:21.764191+00:00",
+    "published": "2026-09-24T14:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/topics/threat-intelligence/hardening-code-pipelines-and-ci-cd-infrastructure": {
+    "title": "Proactive Defense: Hardening Code Pipelines and CI/CD Infrastructure",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-09-24T18:43:21.764191+00:00",
+    "published": "2026-09-24T14:00:00+00:00"
+  },
+  "https://lwn.net/Articles/1096411": {
+    "title": "The Kernel Report 2026 edition",
+    "source": "LWN.net",
+    "first_seen": "2026-09-24T18:43:21.764191+00:00",
+    "published": "2026-09-24T13:57:44+00:00"
+  },
+  "https://repo.aalto.fi/index.php?name=SO_b66a9391-dcf8-4399-8e87-611f84c3fc4c": {
+    "title": "Nokia Design Archive (2025)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-24T18:43:21.764191+00:00",
+    "published": "2026-09-24T09:49:33+00:00"
+  },
+  "https://github.com/driceroland/Search": {
+    "title": "Search – A small, fast WebKit browser for macOS",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-24T18:43:21.764191+00:00",
+    "published": "2026-09-24T09:11:52+00:00"
+  },
+  "https://cms-sfx-demo.apeleg.com": {
+    "title": "Show HN: Air-gapped file encryption as self-decrypting HTML page",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-24T18:43:21.764191+00:00",
+    "published": "2026-09-24T07:22:17+00:00"
+  },
+  "https://machinelearning.apple.com/research/latent-space-distillation": {
+    "title": "Compressing Streaming Neural Audio Encoders via Latent-Space Distillation",
+    "source": "Apple ML Journal",
+    "first_seen": "2026-09-24T18:43:21.764191+00:00",
+    "published": "2026-09-24T00:00:00+00:00"
+  },
+  "https://bastardica.mitpit.com": {
+    "title": "Show HN: Make cursed fonts like Times New Bastard",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-24T18:43:21.764191+00:00",
+    "published": "2026-09-23T22:53:28+00:00"
+  },
+  "https://electrek.co/2026/09/23/toyota-best-selling-corolla-electric": {
+    "title": "Toyota is taking the Corolla electric",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-24T18:43:21.764191+00:00",
+    "published": "2026-09-23T22:37:28+00:00"
+  },
+  "https://www.soakingsprings.com/hot-springs/geothermal-map": {
+    "title": "Geothermal heat map of US hot springs",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-24T18:43:21.764191+00:00",
+    "published": "2026-09-23T20:12:10+00:00"
+  },
+  "https://github.com/Parcha-ai/agentrun": {
+    "title": "Show HN: AgentRun: DSL to turn agents into workflows",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-24T18:43:21.764191+00:00",
+    "published": "2026-09-23T19:42:58+00:00"
   }
 }
