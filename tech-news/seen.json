@@ -95588,5 +95588,161 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-09-24T18:43:21.764191+00:00",
     "published": "2026-09-23T19:42:58+00:00"
+  },
+  "https://status.gitlab.com": {
+    "title": "GitLab Outage",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-24T23:36:31.671173+00:00",
+    "published": "2026-09-24T23:10:44+00:00"
+  },
+  "https://cloud.google.com/blog/topics/developers-practitioners/agent-factory-recap-agent-harnesses-shifting-left-and-autonomous-coding": {
+    "title": "Agent Factory recap: Agent harnesses, shifting left, and autonomous coding",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-09-24T23:36:31.671173+00:00",
+    "published": "2026-09-24T23:00:00+00:00"
+  },
+  "https://www.economist.com/leaders/2026/09/24/back-and-shoulder-surgery-is-often-worse-than-useless": {
+    "title": "Back and shoulder surgery is often worse than useless",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-24T23:36:31.671173+00:00",
+    "published": "2026-09-24T22:15:58+00:00"
+  },
+  "https://www.phoronix.com/news/ReactOS-Updated-Wine-DirectX": {
+    "title": "ReactOS Lands Significant DirectX Stack Update From Wine For Enabling More Games",
+    "source": "Phoronix",
+    "first_seen": "2026-09-24T23:36:31.671173+00:00",
+    "published": "2026-09-24T21:43:49+00:00"
+  },
+  "https://koi.rest": {
+    "title": "Show HN: Koi.rest – watch some fish and regain your balance",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-24T23:36:31.671173+00:00",
+    "published": "2026-09-24T21:33:03+00:00"
+  },
+  "https://pytorch.org/blog/accelerate-your-ai-journey-with-new-introduction-track-at-pytorch-conference-na-2026-and-pytorch-associate-training": {
+    "title": "Accelerate Your AI Journey with new Introduction Track at PyTorch Conference NA 2026 and PyTorch Associate Training",
+    "source": "PyTorch Blog",
+    "first_seen": "2026-09-24T23:36:31.671173+00:00",
+    "published": "2026-09-24T21:06:09+00:00"
+  },
+  "https://aws.amazon.com/blogs/aws/introducing-enhanced-custom-event-buses-in-amazon-eventbridge-for-enterprise-scale-event-driven-applications": {
+    "title": "Introducing enhanced custom event buses in Amazon EventBridge for enterprise-scale event-driven applications",
+    "source": "AWS Blog",
+    "first_seen": "2026-09-24T23:36:31.671173+00:00",
+    "published": "2026-09-24T20:58:46+00:00"
+  },
+  "https://www.tv4.se/artikel/37VDHaUBmbgXCIRAP1bR8f/internationell-valobservatoer-ska-foelja-upp-misstaenkta-valfusken": {
+    "title": "International observers to investigate Swedish election fraud",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-24T23:36:31.671173+00:00",
+    "published": "2026-09-24T20:55:44+00:00"
+  },
+  "https://grantland.com/features/diplomacy-the-board-game-of-the-alpha-nerds": {
+    "title": "The Board Game of the Alpha Nerds (2014)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-24T23:36:31.671173+00:00",
+    "published": "2026-09-24T20:53:39+00:00"
+  },
+  "https://blog.landeconomics.org/p/california-is-chasing-wealth-that": {
+    "title": "California is chasing wealth that has feet",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-24T23:36:31.671173+00:00",
+    "published": "2026-09-24T20:34:32+00:00"
+  },
+  "https://launchvideo.io": {
+    "title": "Opus 5.5 is good at explainer videos",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-24T23:36:31.671173+00:00",
+    "published": "2026-09-24T20:28:47+00:00"
+  },
+  "https://simonwillison.net/2026/Sep/24/commit-rewriter": {
+    "title": "commit-rewriter 0.2",
+    "source": "Simon Willison",
+    "first_seen": "2026-09-24T23:36:31.671173+00:00",
+    "published": "2026-09-24T20:06:53+00:00"
+  },
+  "https://github.blog/ai-and-ml/github-copilot/when-chat-is-the-wrong-ui": {
+    "title": "When chat is the wrong UI",
+    "source": "GitHub Blog",
+    "first_seen": "2026-09-24T23:36:31.671173+00:00",
+    "published": "2026-09-24T20:00:00+00:00"
+  },
+  "https://blog.arusekk.pl/posts/srht-account-takeover": {
+    "title": "Sourcehut account takeover via build logs (XSS in ansi2html)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-24T23:36:31.671173+00:00",
+    "published": "2026-09-24T19:54:21+00:00"
+  },
+  "https://research.google/blog/coherent-long-form-video-generation": {
+    "title": "Automating coherent long-form video generation",
+    "source": "Google Research",
+    "first_seen": "2026-09-24T23:36:31.671173+00:00",
+    "published": "2026-09-24T19:40:00+00:00"
+  },
+  "https://thenewstack.io/ai-agents-probe-vulnerabilities": {
+    "title": "OpenAI’s agent had a routine task. It breached a government portal.",
+    "source": "The New Stack",
+    "first_seen": "2026-09-24T23:36:31.671173+00:00",
+    "published": "2026-09-24T19:16:28+00:00"
+  },
+  "https://simonwillison.net/2026/Sep/24/datasette": {
+    "title": "datasette 1.0a41",
+    "source": "Simon Willison",
+    "first_seen": "2026-09-24T23:36:31.671173+00:00",
+    "published": "2026-09-24T19:15:23+00:00"
+  },
+  "https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical": {
+    "title": "Using LLMs to trace alchemical knowledge and decode 17th century letters",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-24T23:36:31.671173+00:00",
+    "published": "2026-09-24T19:14:27+00:00"
+  },
+  "https://cloud.google.com/blog/products/containers-kubernetes/2026-gartner-magic-quadrant-for-container-management": {
+    "title": "Google is a Leader in the 2026 Gartner Magic Quadrant for Container Management",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-09-24T23:36:31.671173+00:00",
+    "published": "2026-09-24T19:00:00+00:00"
+  },
+  "https://www.phoronix.com/review/ubuntu-2610-panther-lake": {
+    "title": "Ubuntu 26.10 Delivers Some Nice Gains For Intel Panther Lake / Framework Laptop 13 Pro",
+    "source": "Phoronix",
+    "first_seen": "2026-09-24T23:36:31.671173+00:00",
+    "published": "2026-09-24T18:46:13+00:00"
+  },
+  "https://grafana.com/blog/what-if-your-agent-s-hallucinations-had-a-budget-how-to-start-using-slos-for-agent-behavior": {
+    "title": "What if your agent's hallucinations had a budget? How to start using SLOs for agent behavior",
+    "source": "Grafana Blog",
+    "first_seen": "2026-09-24T23:36:31.671173+00:00",
+    "published": "2026-09-24T17:14:13+00:00"
+  },
+  "https://www.databricks.com/blog/running-open-jev-sql-databricks": {
+    "title": "Running open-Jev in SQL on Databricks",
+    "source": "Databricks Blog",
+    "first_seen": "2026-09-24T23:36:31.671173+00:00",
+    "published": "2026-09-24T16:55:01+00:00"
+  },
+  "https://www.afr.com/policy/health-and-education/tutoring-company-tell-parents-to-save-their-money-and-use-ai-instead-20260923-p60z0r": {
+    "title": "Tutoring company tells parents to save their money and 'use AI instead'",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-24T23:36:31.671173+00:00",
+    "published": "2026-09-24T15:09:38+00:00"
+  },
+  "https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-suncatcher-facts": {
+    "title": "Google’s Project Suncatcher to put ML infrastructure in space",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-24T23:36:31.671173+00:00",
+    "published": "2026-09-24T13:53:29+00:00"
+  },
+  "https://machinelearning.apple.com/research/practical-recipe-federated-asr": {
+    "title": "A Practical Recipe for Semi-Supervised Federated ASR: Online Pseudo-Labels with Server Update Stabilization",
+    "source": "Apple ML Journal",
+    "first_seen": "2026-09-24T23:36:31.671173+00:00",
+    "published": "2026-09-24T00:00:00+00:00"
+  },
+  "https://go.dev/blog/simd-experiment": {
+    "title": "Platform-independent SIMD in Go",
+    "source": "Go Blog",
+    "first_seen": "2026-09-24T23:36:31.671173+00:00",
+    "published": "2026-09-24T00:00:00+00:00"
   }
 }
