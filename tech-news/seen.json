@@ -95744,5 +95744,239 @@
     "source": "Go Blog",
     "first_seen": "2026-09-24T23:36:31.671173+00:00",
     "published": "2026-09-24T00:00:00+00:00"
+  },
+  "https://blog.angular.dev/architecting-the-modern-web-debounce-apis-rendering-strategies-and-automated-ai-setup-826bc54ae3a9?source=rss----447683c3d9a3---4": {
+    "title": "Architecting the Modern Web: Debounce APIs, Rendering Strategies, and Automated AI Setup! ⚡",
+    "source": "Angular Blog",
+    "first_seen": "2026-09-25T14:14:19.184754+00:00",
+    "published": "2026-09-25T13:59:49+00:00"
+  },
+  "https://blog.angular.dev/an-update-on-angulars-typescript-7-powered-compiler-9619a35e2b0a?source=rss----447683c3d9a3---4": {
+    "title": "An update on Angular’s TypeScript 7-powered Compiler",
+    "source": "Angular Blog",
+    "first_seen": "2026-09-25T14:14:19.184754+00:00",
+    "published": "2026-09-25T13:59:11+00:00"
+  },
+  "https://www.tomshardware.com/tech-industry/semiconductors/asml-says-its-sells-absolutely-nothing-in-europe-calls-on-eu-to-help-create-demand": {
+    "title": "ASML says it sold 'absolutely nothing' in Europe in 2026",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-25T14:14:19.184754+00:00",
+    "published": "2026-09-25T13:49:06+00:00"
+  },
+  "https://lwn.net/Articles/1096637": {
+    "title": "Security updates for Friday",
+    "source": "LWN.net",
+    "first_seen": "2026-09-25T14:14:19.184754+00:00",
+    "published": "2026-09-25T13:17:10+00:00"
+  },
+  "https://blog.cloudflare.com/turnstile-spin": {
+    "title": "Agents can now set up your website’s security with Turnstile Spin",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-09-25T14:14:19.184754+00:00",
+    "published": "2026-09-25T13:00:00+00:00"
+  },
+  "https://newmobility.com/nobody-asked-for-a-crab-chair": {
+    "title": "Nobody Asked for a Crab Chair",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-25T14:14:19.184754+00:00",
+    "published": "2026-09-25T12:48:00+00:00"
+  },
+  "https://tante.cc/2026/09/24/the-test": {
+    "title": "The Test",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-25T14:14:19.184754+00:00",
+    "published": "2026-09-25T12:14:02+00:00"
+  },
+  "https://matduggan.com/im-tired-of-being-on-the-network": {
+    "title": "I'm Tired of Being on the Network",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-25T14:14:19.184754+00:00",
+    "published": "2026-09-25T12:13:55+00:00"
+  },
+  "https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot": {
+    "title": "Introducing the new Copilot with Home, Code and Autopilot",
+    "source": "Microsoft Blog",
+    "first_seen": "2026-09-25T14:14:19.184754+00:00",
+    "published": "2026-09-25T12:03:50+00:00"
+  },
+  "https://thenewstack.io/openai-cursor-coordinator-agents": {
+    "title": "OpenAI and Cursor agree on agent coordinators. They disagree on who runs them.",
+    "source": "The New Stack",
+    "first_seen": "2026-09-25T14:14:19.184754+00:00",
+    "published": "2026-09-25T12:00:00+00:00"
+  },
+  "https://realpython.com/quizzes/jupyter-notebook-introduction": {
+    "title": "Quiz: Jupyter Notebook: An Introduction",
+    "source": "Real Python",
+    "first_seen": "2026-09-25T14:14:19.184754+00:00",
+    "published": "2026-09-25T12:00:00+00:00"
+  },
+  "https://realpython.com/podcasts/rpp/312": {
+    "title": "The Real Python Podcast – Episode #312: Navigating AI in Open Source: Insights From Wagtail",
+    "source": "Real Python",
+    "first_seen": "2026-09-25T14:14:19.184754+00:00",
+    "published": "2026-09-25T12:00:00+00:00"
+  },
+  "https://www.tigerdata.com/blog/sizing-your-iiot-table-before-you-deploy": {
+    "title": "Sizing Your IIoT Table Before You Deploy",
+    "source": "Timescale Blog",
+    "first_seen": "2026-09-25T14:14:19.184754+00:00",
+    "published": "2026-09-25T11:57:49+00:00"
+  },
+  "https://github.com/git-bug/git-bug": {
+    "title": "Git-bug: Distributed, offline-first bug tracker embedded in Git",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-25T14:14:19.184754+00:00",
+    "published": "2026-09-25T11:38:31+00:00"
+  },
+  "https://opentelemetry.io/blog/2026/exploring-instrumentation-ecosystem": {
+    "title": "Exploring the OpenTelemetry Instrumentation Ecosystem",
+    "source": "OpenTelemetry Blog",
+    "first_seen": "2026-09-25T14:14:19.184754+00:00",
+    "published": "2026-09-25T11:24:23+00:00"
+  },
+  "https://www.schneier.com/blog/archives/2026/09/on-anthropics-ai-misuse-report.html": {
+    "title": "On Anthropic’s AI Misuse Report",
+    "source": "Schneier on Security",
+    "first_seen": "2026-09-25T14:14:19.184754+00:00",
+    "published": "2026-09-25T11:07:22+00:00"
+  },
+  "https://www.cncf.io/blog/2026/09/25/security-slam-2026-fall-edition": {
+    "title": "Security Slam 2026 – Fall edition",
+    "source": "CNCF Blog",
+    "first_seen": "2026-09-25T14:14:19.184754+00:00",
+    "published": "2026-09-25T11:00:00+00:00"
+  },
+  "https://blog.trailofbits.com/2026/09/25/dont-let-tees-break-your-mpc": {
+    "title": "Don't let TEEs break your MPC",
+    "source": "Trail of Bits",
+    "first_seen": "2026-09-25T14:14:19.184754+00:00",
+    "published": "2026-09-25T11:00:00+00:00"
+  },
+  "https://github.com/bertaye/agentic-cuda-optimizer": {
+    "title": "Show HN: Agentic CUDA Kernel Optimizer",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-25T14:14:19.184754+00:00",
+    "published": "2026-09-25T10:32:58+00:00"
+  },
+  "https://www.phoronix.com/news/NVMe-Apple-M3-Linux-Patches": {
+    "title": "Patches Posted For Enabling NVMe On All Apple M3 Based SoCs With Linux",
+    "source": "Phoronix",
+    "first_seen": "2026-09-25T14:14:19.184754+00:00",
+    "published": "2026-09-25T10:27:51+00:00"
+  },
+  "https://economist.com/europe/2026/09/24/the-mafia-may-be-keeping-fentanyl-out-of-italy": {
+    "title": "The Mafia may be keeping fentanyl out of Italy",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-25T14:14:19.184754+00:00",
+    "published": "2026-09-25T10:20:20+00:00"
+  },
+  "https://www.ft.com/content/a96bf05a-a299-4d6a-a753-b298dd0f4016": {
+    "title": "Oracle on the hook to pay data centre investors even if site has no electricity",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-25T14:14:19.184754+00:00",
+    "published": "2026-09-25T10:19:36+00:00"
+  },
+  "https://www.phoronix.com/news/AMDGPU-HDMI-2.1-Reliability": {
+    "title": "AMD Sends Out New Linux Patches Further Enhancing HDMI 2.1 Reliability",
+    "source": "Phoronix",
+    "first_seen": "2026-09-25T14:14:19.184754+00:00",
+    "published": "2026-09-25T10:12:09+00:00"
+  },
+  "https://www.phoronix.com/news/Autumn-2026-Special-Final-Call": {
+    "title": "Last Call For The Autumn Special For Ad-Free Viewing & Supporting Linux Hardware Testing",
+    "source": "Phoronix",
+    "first_seen": "2026-09-25T14:14:19.184754+00:00",
+    "published": "2026-09-25T10:00:26+00:00"
+  },
+  "https://tokio.rs/blog/2026-09-24-topcoat-server-applications": {
+    "title": "Topcoat is pushing the boundary of server applications with Rust",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-25T14:14:19.184754+00:00",
+    "published": "2026-09-25T09:59:40+00:00"
+  },
+  "https://www.inkandswitch.com": {
+    "title": "Ink and Switch Interactive Homepage",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-25T14:14:19.184754+00:00",
+    "published": "2026-09-25T09:50:25+00:00"
+  },
+  "https://www.phoronix.com/news/Go-SIMD-2026": {
+    "title": "Go's Improving SIMD Support, Platform-Independent SIMD Interface",
+    "source": "Phoronix",
+    "first_seen": "2026-09-25T14:14:19.184754+00:00",
+    "published": "2026-09-25T09:50:22+00:00"
+  },
+  "https://www.phoronix.com/news/Samba-4.25-Released": {
+    "title": "Samba 4.25 Released With Experimental SMB3 Persistent Handles",
+    "source": "Phoronix",
+    "first_seen": "2026-09-25T14:14:19.184754+00:00",
+    "published": "2026-09-25T09:38:43+00:00"
+  },
+  "https://www.ambionix.com/blog/boards-of-casio": {
+    "title": "Boards of Casio",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-25T14:14:19.184754+00:00",
+    "published": "2026-09-25T09:26:01+00:00"
+  },
+  "https://openai.com/index/special-projects": {
+    "title": "Special Projects (2016)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-25T14:14:19.184754+00:00",
+    "published": "2026-09-25T08:55:43+00:00"
+  },
+  "https://www.dawo.community/en": {
+    "title": "Dutch governments builds alternative for Microsoft based on NixOS",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-25T14:14:19.184754+00:00",
+    "published": "2026-09-25T08:06:49+00:00"
+  },
+  "https://stackoverflow.blog/2026/09/25/professional-skepticism-is-a-dev-s-best-skill": {
+    "title": "Professional skepticism is a dev’s best skill",
+    "source": "Stack Overflow Blog",
+    "first_seen": "2026-09-25T14:14:19.184754+00:00",
+    "published": "2026-09-25T07:40:00+00:00"
+  },
+  "https://www.datagubbe.se/amscr": {
+    "title": "Amiga Screens: A Primer",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-25T14:14:19.184754+00:00",
+    "published": "2026-09-25T07:31:12+00:00"
+  },
+  "https://nyaa.sh/reviews/mac-mini-m6-emulation": {
+    "title": "Pentium II at 600Mhz with Voodoo 3 Emulated on 86Box with M6 Mac Mini",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-25T14:14:19.184754+00:00",
+    "published": "2026-09-25T07:27:45+00:00"
+  },
+  "https://www.safateam.com/intelligence-hub/research/technical-articles/cve-2025-13032-entering-and-breaking-the-avast-antivirus-sandbox-part-2": {
+    "title": "CVE-2025-13032: Entering and Breaking the Avast Antivirus Sandbox Part 2",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-25T14:14:19.184754+00:00",
+    "published": "2026-09-25T07:03:46+00:00"
+  },
+  "https://jardo.dev/what-about-rails": {
+    "title": "What About Rails?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-25T14:14:19.184754+00:00",
+    "published": "2026-09-25T02:50:16+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-Considers-AGENTS-MD": {
+    "title": "Linux Kernel Developers Consider Adding AGENTS.md To Help Guide AI/LLM Agents",
+    "source": "Phoronix",
+    "first_seen": "2026-09-25T14:14:19.184754+00:00",
+    "published": "2026-09-25T00:53:14+00:00"
+  },
+  "https://www.phoronix.com/news/Qualcomm-Mahua-GPU-Support": {
+    "title": "Qualcomm Posts Patches For Enabling GPU Support In Their Snapdragon X2 Mahua SoC",
+    "source": "Phoronix",
+    "first_seen": "2026-09-25T14:14:19.184754+00:00",
+    "published": "2026-09-25T00:25:01+00:00"
+  },
+  "https://golangweekly.com/issues/619": {
+    "title": "Go 1.27's portable SIMD",
+    "source": "Golang Weekly",
+    "first_seen": "2026-09-25T14:14:19.184754+00:00",
+    "published": "2026-09-25T00:00:00+00:00"
   }
 }
