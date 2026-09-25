@@ -95978,5 +95978,299 @@
     "source": "Golang Weekly",
     "first_seen": "2026-09-25T14:14:19.184754+00:00",
     "published": "2026-09-25T00:00:00+00:00"
+  },
+  "https://openai.com/index/proaction": {
+    "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-09-25T18:59:43.928053+00:00",
+    "published": "2026-09-25T19:00:00+00:00"
+  },
+  "https://www.youtube.com/watch?v=Cjntrqhn8pk": {
+    "title": "Alan Kay: Shannon gave us a way of dealing with noisy channels [video]",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-25T18:59:43.928053+00:00",
+    "published": "2026-09-25T18:37:05+00:00"
+  },
+  "https://ollaya.dev": {
+    "title": "Ollaya – Ollama for open-source, Jev-style decision models",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-25T18:59:43.928053+00:00",
+    "published": "2026-09-25T18:33:50+00:00"
+  },
+  "https://mouse.dev/blog/muse-special": {
+    "title": "Meta's Muse appears to use an OpenAI model labeled muse-special",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-25T18:59:43.928053+00:00",
+    "published": "2026-09-25T18:18:06+00:00"
+  },
+  "https://www.anthropic.com/research/yes-claude-can-do-nine-loops": {
+    "title": "Yes, Claude can do Nine Loops",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-25T18:59:43.928053+00:00",
+    "published": "2026-09-25T18:11:48+00:00"
+  },
+  "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-build-custom-workflows-with-canvases": {
+    "title": "GitHub Copilot app for Beginners: How to build custom workflows with canvases",
+    "source": "GitHub Blog",
+    "first_seen": "2026-09-25T18:59:43.928053+00:00",
+    "published": "2026-09-25T18:00:00+00:00"
+  },
+  "https://simonwillison.net/2026/Sep/25/john-gruber": {
+    "title": "Quoting John Gruber",
+    "source": "Simon Willison",
+    "first_seen": "2026-09-25T18:59:43.928053+00:00",
+    "published": "2026-09-25T17:22:01+00:00"
+  },
+  "https://www.avidfayaz.com/writings/post-agi/the-post-agi-era": {
+    "title": "The Post-AGI Era",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-25T18:59:43.928053+00:00",
+    "published": "2026-09-25T17:19:50+00:00"
+  },
+  "https://thenewstack.io/copilot-agents-identity-runtime": {
+    "title": "Microsoft’s new Copilot agents get their own email, calendar — and a place in the org chart",
+    "source": "The New Stack",
+    "first_seen": "2026-09-25T18:59:43.928053+00:00",
+    "published": "2026-09-25T17:16:31+00:00"
+  },
+  "https://devblogs.microsoft.com/dotnet/ag-ui-dotnet-sdk": {
+    "title": "AG-UI Protocol now has a first-class .NET SDK",
+    "source": "MS .NET Blog",
+    "first_seen": "2026-09-25T18:59:43.928053+00:00",
+    "published": "2026-09-25T17:05:00+00:00"
+  },
+  "https://stratechery.com/2026/begun-the-aggregator-wars-have": {
+    "title": "2026.39: Begun, the Aggregator Wars Have",
+    "source": "Stratechery",
+    "first_seen": "2026-09-25T18:59:43.928053+00:00",
+    "published": "2026-09-25T17:00:00+00:00"
+  },
+  "https://thenewstack.io/opentelemetry-prometheus-observability-interoperability": {
+    "title": "OpenTelemetry and Prometheus are getting along. What’s still missing?",
+    "source": "The New Stack",
+    "first_seen": "2026-09-25T18:59:43.928053+00:00",
+    "published": "2026-09-25T16:56:47+00:00"
+  },
+  "https://www.doom-or-bloom.com": {
+    "title": "Show HN: Doom or Bloom, map your AI worldview with Jev",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-25T18:59:43.928053+00:00",
+    "published": "2026-09-25T16:51:28+00:00"
+  },
+  "https://www.phoronix.com/news/GNU-Debugger-GDB-18.1": {
+    "title": "GDB 18.1 Debugger Brings Better Windows Support",
+    "source": "Phoronix",
+    "first_seen": "2026-09-25T18:59:43.928053+00:00",
+    "published": "2026-09-25T16:47:52+00:00"
+  },
+  "https://blog.coredump.cx/p/a-skillmd-for-commenting-on-hacker": {
+    "title": "A Skill.md for Commenting on Hacker News",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-25T18:59:43.928053+00:00",
+    "published": "2026-09-25T16:45:10+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/scaling-moe-reinforcement-learning-on-amazon-eks-with-efa-and-deepep-with-40-more-throughput": {
+    "title": "Scaling MoE reinforcement learning on Amazon EKS with EFA and DeepEP with 40% more throughput",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-09-25T18:59:43.928053+00:00",
+    "published": "2026-09-25T16:29:50+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/how-to-stream-postgresql-changes-to-amazon-s3-with-aws-fargate": {
+    "title": "How to stream PostgreSQL changes to Amazon S3 with AWS Fargate",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-09-25T18:59:43.928053+00:00",
+    "published": "2026-09-25T16:25:06+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/accelerate-multimodal-rl-training-with-skyrl-on-amazon-sagemaker-hyperpod": {
+    "title": "Accelerate multimodal RL training with SkyRL on Amazon SageMaker HyperPod",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-09-25T18:59:43.928053+00:00",
+    "published": "2026-09-25T16:18:07+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/narrateai-production-ready-llm-quality-assurance-on-amazon-bedrock": {
+    "title": "NarrateAI: production-ready LLM quality assurance on Amazon Bedrock",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-09-25T18:59:43.928053+00:00",
+    "published": "2026-09-25T16:15:22+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/deploying-real-time-personalized-speech-with-qwen3-tts-on-amazon-sagemaker-ai": {
+    "title": "Deploying real-time personalized speech with Qwen3-TTS on Amazon SageMaker AI",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-09-25T18:59:43.928053+00:00",
+    "published": "2026-09-25T16:09:46+00:00"
+  },
+  "https://github.com/Avinash-jetwani/jevmem": {
+    "title": "Jevmem – automatic project memory for Claude Code, built on Jev",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-25T18:59:43.928053+00:00",
+    "published": "2026-09-25T16:04:04+00:00"
+  },
+  "https://netflixtechblog.com/trading-a-cloud-identity-for-your-own-workload-attestation-on-managed-compute-516d5a29b252?source=rss----2615bd06b42e---4": {
+    "title": "Trading a Cloud Identity for Your Own: Workload Attestation on Managed Compute",
+    "source": "Netflix Tech Blog",
+    "first_seen": "2026-09-25T18:59:43.928053+00:00",
+    "published": "2026-09-25T16:01:03+00:00"
+  },
+  "https://www.databricks.com/blog/data-dialogue-how-sp-global-energy-made-its-structured-data-estate-conversational-databricks": {
+    "title": "From Data to Dialogue: How S&P Global Energy Made Its Structured Data Estate Conversational with Databricks Genie Agents and MCP",
+    "source": "Databricks Blog",
+    "first_seen": "2026-09-25T18:59:43.928053+00:00",
+    "published": "2026-09-25T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/topics/developers-practitioners/best-practices-guide-for-customizing-gemini-models": {
+    "title": "Best practices guide for customizing Gemini models via Reinforcement Learning (RL)",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-09-25T18:59:43.928053+00:00",
+    "published": "2026-09-25T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/storage-data-transfer/storage-intelligence-advisor-and-batch-operations-updates": {
+    "title": "Storage Intelligence advisor: Know what changed in your storage estate and act on it",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-09-25T18:59:43.928053+00:00",
+    "published": "2026-09-25T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/databases/memorystore-for-valkey-9-1-3x-qps-caching": {
+    "title": "Unlock 3x QPS and microsecond latency with Memorystore for Valkey 9.1",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-09-25T18:59:43.928053+00:00",
+    "published": "2026-09-25T16:00:00+00:00"
+  },
+  "https://lwn.net/Articles/1096245": {
+    "title": "[$] How KDE got funding to add enterprise features",
+    "source": "LWN.net",
+    "first_seen": "2026-09-25T18:59:43.928053+00:00",
+    "published": "2026-09-25T15:59:55+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/how-datacor-built-self-service-rental-analytics-with-amazon-quick-sight": {
+    "title": "How Datacor built self-service rental analytics with Amazon Quick Sight",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-09-25T18:59:43.928053+00:00",
+    "published": "2026-09-25T15:54:42+00:00"
+  },
+  "https://aws.amazon.com/blogs/containers/one-amazon-eks-many-edges-how-to-choose-your-edge-container-strategy-on-aws": {
+    "title": "One Amazon EKS, many edges: How to choose your edge container strategy on AWS",
+    "source": "AWS Containers Blog",
+    "first_seen": "2026-09-25T18:59:43.928053+00:00",
+    "published": "2026-09-25T15:52:19+00:00"
+  },
+  "https://www.phoronix.com/news/Redox-OS-August-2026": {
+    "title": "Redox OS Adds IO_uring-Like API, NUMA & Gets QEMU Working",
+    "source": "Phoronix",
+    "first_seen": "2026-09-25T18:59:43.928053+00:00",
+    "published": "2026-09-25T15:51:38+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/multi-region-training-with-amazon-sagemaker-hyperpod-and-qumulo": {
+    "title": "Multi-Region training with Amazon SageMaker HyperPod and Qumulo",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-09-25T18:59:43.928053+00:00",
+    "published": "2026-09-25T15:49:44+00:00"
+  },
+  "https://www.quantamagazine.org/gravity-seems-holographic-what-does-that-mean-for-reality-20260925": {
+    "title": "Gravity Seems Holographic. What Does That Mean for Reality?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-25T18:59:43.928053+00:00",
+    "published": "2026-09-25T15:31:02+00:00"
+  },
+  "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html": {
+    "title": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-25T18:59:43.928053+00:00",
+    "published": "2026-09-25T15:29:25+00:00"
+  },
+  "https://www.washingtonsun.com/technology/classified-estimates-nsa-paying-billions-to-test-ai-models": {
+    "title": "Classified Estimates Show the NSA Is Paying Billions to Test AI Models",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-25T18:59:43.928053+00:00",
+    "published": "2026-09-25T15:27:35+00:00"
+  },
+  "https://lwn.net/Articles/1096818": {
+    "title": "Two stable kernels for Friday",
+    "source": "LWN.net",
+    "first_seen": "2026-09-25T18:59:43.928053+00:00",
+    "published": "2026-09-25T15:13:25+00:00"
+  },
+  "https://lwn.net/Articles/1096819": {
+    "title": "A summary from the 2026 Git Contributors' Summit",
+    "source": "LWN.net",
+    "first_seen": "2026-09-25T18:59:43.928053+00:00",
+    "published": "2026-09-25T15:12:05+00:00"
+  },
+  "https://replit.com/blog/replit-acquires-atta": {
+    "title": "Putting business analysis in everyone’s hands",
+    "source": "Replit Blog",
+    "first_seen": "2026-09-25T18:59:43.928053+00:00",
+    "published": "2026-09-25T15:12:00+00:00"
+  },
+  "https://blog.bytebytego.com/p/last-call-for-enrollment-rebuild": {
+    "title": "LAST CALL FOR ENROLLMENT: Rebuild YouTube with AI",
+    "source": "ByteByteGo",
+    "first_seen": "2026-09-25T18:59:43.928053+00:00",
+    "published": "2026-09-25T15:02:53+00:00"
+  },
+  "https://medium.com/pinterest-engineering/partition-finalization-in-pinterests-next-generation-db-ingestion-framework-4c7da6e4cc8f?source=rss----4c5a5f6279b6---4": {
+    "title": "Partition Finalization in Pinterest’s Next-Generation DB Ingestion Framework",
+    "source": "Pinterest Engineering",
+    "first_seen": "2026-09-25T18:59:43.928053+00:00",
+    "published": "2026-09-25T15:01:03+00:00"
+  },
+  "https://github.blog/engineering/architecture-optimization/improving-site-performance-by-shipping-more-css": {
+    "title": "Improving site performance by shipping more CSS",
+    "source": "GitHub Blog",
+    "first_seen": "2026-09-25T18:59:43.928053+00:00",
+    "published": "2026-09-25T15:00:00+00:00"
+  },
+  "https://www.phoronix.com/review/near-10-sec-kernel-build": {
+    "title": "Approaching A 10 Second Linux Kernel Build",
+    "source": "Phoronix",
+    "first_seen": "2026-09-25T18:59:43.928053+00:00",
+    "published": "2026-09-25T14:46:26+00:00"
+  },
+  "https://factorio.com/blog/post/fff-447": {
+    "title": "Factorio that you can touch",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-25T18:59:43.928053+00:00",
+    "published": "2026-09-25T14:24:42+00:00"
+  },
+  "https://sunilsadasivan.com/writing/first-principles-thinking": {
+    "title": "First Principles Thinking",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-25T18:59:43.928053+00:00",
+    "published": "2026-09-25T13:55:37+00:00"
+  },
+  "https://www.cultivatelabs.com/posts/what-happens-when-you-analyze-college-football-like-the-cia": {
+    "title": "What happens when you analyze your favorite college football team like the CIA?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-25T18:59:43.928053+00:00",
+    "published": "2026-09-25T13:47:21+00:00"
+  },
+  "https://simonwillison.net/2026/Sep/25/sighting-403293902": {
+    "title": "Northern Gannet, Great Blue Heron, California Brown Pelican",
+    "source": "Simon Willison",
+    "first_seen": "2026-09-25T18:59:43.928053+00:00",
+    "published": "2026-09-25T02:07:04+00:00"
+  },
+  "https://www.elastic.co/blog/devrel-newsletter-september-2026": {
+    "title": "DevRel newsletter — September 2026",
+    "source": "Elastic Blog",
+    "first_seen": "2026-09-25T18:59:43.928053+00:00",
+    "published": "2026-09-25T00:00:00+00:00"
+  },
+  "https://planetscale.com/blog/when-to-choose-x86-64-vs-aarch64": {
+    "title": "When to choose x86-64 vs aarch64",
+    "source": "PlanetScale Blog",
+    "first_seen": "2026-09-25T18:59:43.928053+00:00",
+    "published": "2026-09-25T00:00:00+00:00"
+  },
+  "https://discord.com/blog/discord-update-september-25-2026": {
+    "title": "Discord Update: September 25, 2026",
+    "source": "Discord Engineering",
+    "first_seen": "2026-09-25T18:59:43.928053+00:00",
+    "published": "2026-09-25T00:00:00+00:00"
+  },
+  "https://simonwillison.net/2026/Sep/24/harder": {
+    "title": "Note on 24th September 2026",
+    "source": "Simon Willison",
+    "first_seen": "2026-09-25T18:59:43.928053+00:00",
+    "published": "2026-09-24T23:31:08+00:00"
   }
 }
