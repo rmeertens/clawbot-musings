@@ -96272,5 +96272,101 @@
     "source": "Simon Willison",
     "first_seen": "2026-09-25T18:59:43.928053+00:00",
     "published": "2026-09-24T23:31:08+00:00"
+  },
+  "https://status.openai.com/incidents/01M3DCNWMW57HYK8FJ5FBFPA39": {
+    "title": "Issues with Codex – Identified – Full Outage",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-25T23:39:53.443636+00:00",
+    "published": "2026-09-25T23:04:25+00:00"
+  },
+  "https://news.ycombinator.com/item?id=49851032": {
+    "title": "Tell HN: Codex Is Down",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-25T23:39:53.443636+00:00",
+    "published": "2026-09-25T22:51:44+00:00"
+  },
+  "https://www.phoronix.com/news/FUTEX-Robust-List2-Syscalls": {
+    "title": "New FUTEX Syscalls Back To Being Worked On For Helping Valve's ARM64 Gaming Ambitions",
+    "source": "Phoronix",
+    "first_seen": "2026-09-25T23:39:53.443636+00:00",
+    "published": "2026-09-25T22:42:16+00:00"
+  },
+  "https://krebsonsecurity.com/2026/09/u-s-soldier-gets-70-months-in-prison-for-att-verizon-extortions": {
+    "title": "U.S. Soldier Gets 70 Months in Prison for AT&T, Verizon Extortions",
+    "source": "Krebs on Security",
+    "first_seen": "2026-09-25T23:39:53.443636+00:00",
+    "published": "2026-09-25T21:44:40+00:00"
+  },
+  "https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now": {
+    "title": "What even is an OS now?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-25T23:39:53.443636+00:00",
+    "published": "2026-09-25T21:36:56+00:00"
+  },
+  "https://aws.amazon.com/blogs/containers/aws-named-a-leader-in-the-2026-gartner-magic-quadrant-for-container-management": {
+    "title": "AWS named a Leader in the 2026 Gartner Magic Quadrant for Container Management",
+    "source": "AWS Containers Blog",
+    "first_seen": "2026-09-25T23:39:53.443636+00:00",
+    "published": "2026-09-25T21:18:33+00:00"
+  },
+  "https://swarmtraces.org": {
+    "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-25T23:39:53.443636+00:00",
+    "published": "2026-09-25T21:09:27+00:00"
+  },
+  "https://www.schneier.com/blog/archives/2026/09/friday-squid-blogging-participatory-squid-dissection-in-october-in-tennessee.html": {
+    "title": "Friday Squid Blogging: Participatory Squid Dissection in October in Tennessee",
+    "source": "Schneier on Security",
+    "first_seen": "2026-09-25T23:39:53.443636+00:00",
+    "published": "2026-09-25T21:08:14+00:00"
+  },
+  "https://techcommunity.microsoft.com/blog/excelblog/excel-now-supports-multiple-values-in-a-single-cell/4549756": {
+    "title": "Excel now supports multiple values in a single cell",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-25T23:39:53.443636+00:00",
+    "published": "2026-09-25T20:55:00+00:00"
+  },
+  "https://blog.codinghorror.com/if-we-do-not-stop-to-help-each-other-what-do-we-become": {
+    "title": "If we do not stop to help each other, what do we become?",
+    "source": "Coding Horror",
+    "first_seen": "2026-09-25T23:39:53.443636+00:00",
+    "published": "2026-09-25T20:54:04+00:00"
+  },
+  "https://fnl.mit.edu/how-we-learned-to-stop-worrying-and-love-campus-surveillance": {
+    "title": "How we learned to stop worrying and love campus surveillance",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-25T23:39:53.443636+00:00",
+    "published": "2026-09-25T19:56:57+00:00"
+  },
+  "https://news.ycombinator.com/item?id=49848955": {
+    "title": "Ask HN: Who's still keeping a DOS machine up because the business depends on it?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-25T23:39:53.443636+00:00",
+    "published": "2026-09-25T19:37:55+00:00"
+  },
+  "https://road-about-a-theme.pinedesk.biz": {
+    "title": "Show HN: I discovered roads in the US across > 1000 themes",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-25T23:39:53.443636+00:00",
+    "published": "2026-09-25T16:05:08+00:00"
+  },
+  "https://jev-pokemon.vercel.app": {
+    "title": "Show HN: Jev Plays Pokémon Red",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-25T23:39:53.443636+00:00",
+    "published": "2026-09-25T14:28:07+00:00"
+  },
+  "https://cloud.google.com/blog/topics/threat-intelligence/shinyhunters-renewed-mass-exploitation-campaign-targeting-oracle-peoplesoft": {
+    "title": "ShinyHunters Renewed Mass Exploitation Campaign Targeting Oracle PeopleSoft",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-09-25T23:39:53.443636+00:00",
+    "published": "2026-09-25T14:00:00+00:00"
+  },
+  "https://www.theguardian.com/environment/2026/sep/25/didnt-need-air-conditioning-airport-cooled-natural-ventilation-reunion": {
+    "title": "An airport cooled by natural ventilation",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-25T23:39:53.443636+00:00",
+    "published": "2026-09-25T10:16:50+00:00"
   }
 }
