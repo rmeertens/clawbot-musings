@@ -96368,5 +96368,131 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-09-25T23:39:53.443636+00:00",
     "published": "2026-09-25T10:16:50+00:00"
+  },
+  "https://thenewstack.io/claude-opus-5-5-vs-opus-5": {
+    "title": "Claude Opus 5.5 vs. Opus 5 on reasoning tasks: Cheaper, faster, but not better",
+    "source": "The New Stack",
+    "first_seen": "2026-09-26T13:25:52.207708+00:00",
+    "published": "2026-09-26T13:00:00+00:00"
+  },
+  "https://www.lemonde.fr/en/economy/article/2026/09/24/arthur-mensch-ceo-of-french-start-up-mistral-ai-ai-is-software-it-can-be-controlled_6757890_19.html": {
+    "title": "CEO of Mistral: AI is software. It can be controlled",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-26T13:25:52.207708+00:00",
+    "published": "2026-09-26T12:52:04+00:00"
+  },
+  "https://realpython.com/quizzes/python-ellipsis": {
+    "title": "Quiz: When Do You Use an Ellipsis in Python?",
+    "source": "Real Python",
+    "first_seen": "2026-09-26T13:25:52.207708+00:00",
+    "published": "2026-09-26T12:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.3-rc5-DRM": {
+    "title": "AI Bug Fixes, Crescent Island Power Brake & Nouveau Fixes For Linux 7.3-rc5 DRM",
+    "source": "Phoronix",
+    "first_seen": "2026-09-26T13:25:52.207708+00:00",
+    "published": "2026-09-26T11:13:16+00:00"
+  },
+  "https://gultsch.de/posts/breaking-up-with-google-play": {
+    "title": "Breaking Up with Google Play: Why Conversations Is Now Free",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-26T13:25:52.207708+00:00",
+    "published": "2026-09-26T10:55:56+00:00"
+  },
+  "https://www.phoronix.com/news/GNOME-Wisp-Btrfs-Snapshots": {
+    "title": "Wisp Makes It Easier To Manage Btrfs Snapshots From The GNOME Desktop",
+    "source": "Phoronix",
+    "first_seen": "2026-09-26T13:25:52.207708+00:00",
+    "published": "2026-09-26T10:45:13+00:00"
+  },
+  "https://www.phoronix.com/news/AMDXDNA-NPU3-Enhancements": {
+    "title": "AMDXDNA Linux Driver Being Enhanced For Current NPU3 Hardware",
+    "source": "Phoronix",
+    "first_seen": "2026-09-26T13:25:52.207708+00:00",
+    "published": "2026-09-26T10:33:18+00:00"
+  },
+  "https://www.construction-physics.com/p/reading-list-2026-09-26": {
+    "title": "Reading List 2026-09-26",
+    "source": "Construction Physics",
+    "first_seen": "2026-09-26T13:25:52.207708+00:00",
+    "published": "2026-09-26T10:17:46+00:00"
+  },
+  "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html": {
+    "title": "One Month Without AI",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-26T13:25:52.207708+00:00",
+    "published": "2026-09-26T10:08:21+00:00"
+  },
+  "https://www.phoronix.com/news/Plasma-6.8-Last-Minute-UI-Fixes": {
+    "title": "KDE Plasma 6.8 Continues With Last Minute Tweaks & Fixes",
+    "source": "Phoronix",
+    "first_seen": "2026-09-26T13:25:52.207708+00:00",
+    "published": "2026-09-26T09:56:52+00:00"
+  },
+  "https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding": {
+    "title": "The Copilot+ PC brand is dead",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-26T13:25:52.207708+00:00",
+    "published": "2026-09-26T09:55:38+00:00"
+  },
+  "https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story": {
+    "title": "Fifteen years later, the Apple Cards origin story",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-26T13:25:52.207708+00:00",
+    "published": "2026-09-26T09:13:41+00:00"
+  },
+  "https://floci.io": {
+    "title": "Floci: Locally emulating any cloud service",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-26T13:25:52.207708+00:00",
+    "published": "2026-09-26T08:31:02+00:00"
+  },
+  "https://ethz.ch/en/news-and-events/eth-news/news/2026/09/the-far-side-of-the-moon-provides-clues-to-a-previous-magnetic-field.html": {
+    "title": "The far side of the Moon provides clues to a previous magnetic field",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-26T13:25:52.207708+00:00",
+    "published": "2026-09-26T07:49:50+00:00"
+  },
+  "https://safenotsafe.dev": {
+    "title": "Is your Postgres migration safe or not safe?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-26T13:25:52.207708+00:00",
+    "published": "2026-09-26T07:33:12+00:00"
+  },
+  "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html": {
+    "title": "A single function Jev-like wrapper for LLMs, including vision models",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-26T13:25:52.207708+00:00",
+    "published": "2026-09-26T04:20:58+00:00"
+  },
+  "https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians": {
+    "title": "We're gonna need a lot more mathematicians",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-26T13:25:52.207708+00:00",
+    "published": "2026-09-26T02:46:54+00:00"
+  },
+  "https://www.homelabfest.org": {
+    "title": "HomelabFest will be in St. Louis in September 2027",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-26T13:25:52.207708+00:00",
+    "published": "2026-09-26T02:03:24+00:00"
+  },
+  "https://www.cbsnews.com/news/facebook-liable-deceiving-users-cambridge-analytica": {
+    "title": "Jury finds Facebook liable for deceiving users in Cambridge Analytica case",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-26T13:25:52.207708+00:00",
+    "published": "2026-09-26T01:36:50+00:00"
+  },
+  "https://spectrum.ieee.org/serotonin-stress-smart-contact-lens": {
+    "title": "Lab on a Contact Lens Can Measure Stress Through Serotonin",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-26T13:25:52.207708+00:00",
+    "published": "2026-09-25T22:28:02+00:00"
+  },
+  "https://techcommunity.microsoft.com/blog/microsoft365insiderblog/put-multiple-values-in-one-cell-with-lists-and-arrays-in-excel/4559395": {
+    "title": "Excel now supports multiple values in a single cell",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-26T13:25:52.207708+00:00",
+    "published": "2026-09-25T20:55:00+00:00"
   }
 }
