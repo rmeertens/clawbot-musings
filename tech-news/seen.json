@@ -96656,5 +96656,161 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-09-26T23:12:58.275625+00:00",
     "published": "2026-09-25T10:55:40+00:00"
+  },
+  "https://thenewstack.io/agentic-ai-kubernetes-management": {
+    "title": "The rise of agentic AI on Kubernetes: unleashing the new infrastructure layer",
+    "source": "The New Stack",
+    "first_seen": "2026-09-27T14:22:06.589980+00:00",
+    "published": "2026-09-27T14:00:00+00:00"
+  },
+  "https://realpython.com/python-copy": {
+    "title": "How to Copy Objects in Python: Shallow vs Deep Copy Explained",
+    "source": "Real Python",
+    "first_seen": "2026-09-27T14:22:06.589980+00:00",
+    "published": "2026-09-27T14:00:00+00:00"
+  },
+  "https://realpython.com/pipenv-guide": {
+    "title": "Pipenv: A Guide to the Python Packaging Tool",
+    "source": "Real Python",
+    "first_seen": "2026-09-27T14:22:06.589980+00:00",
+    "published": "2026-09-27T14:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-LZ4-Clean-Resync": {
+    "title": "Linux Kernel's LZ4 Compression Code Being Resynced For Better Performance & Cleanliness",
+    "source": "Phoronix",
+    "first_seen": "2026-09-27T14:22:06.589980+00:00",
+    "published": "2026-09-27T13:16:20+00:00"
+  },
+  "https://realpython.com/quizzes/flask-database": {
+    "title": "Quiz: Enhance Your Flask Web Project With a Database",
+    "source": "Real Python",
+    "first_seen": "2026-09-27T14:22:06.589980+00:00",
+    "published": "2026-09-27T12:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.4-Faster-RAM-Hotplug": {
+    "title": "Intel Delivers A Significant Memory Hotplugging Performance Optimization For Linux",
+    "source": "Phoronix",
+    "first_seen": "2026-09-27T14:22:06.589980+00:00",
+    "published": "2026-09-27T10:49:05+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-X1-Carbon-G14-MIPI-Cam": {
+    "title": "New Linux Patches For Supporting Lenovo ThinkPad X1 Carbon G14's Second Camera",
+    "source": "Phoronix",
+    "first_seen": "2026-09-27T14:22:06.589980+00:00",
+    "published": "2026-09-27T10:33:00+00:00"
+  },
+  "https://arxiv.org/abs/2609.25021": {
+    "title": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-27T14:22:06.589980+00:00",
+    "published": "2026-09-27T10:26:25+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-Patches-Toward-DRBD-9": {
+    "title": "New Patch Series Working Toward DRBD 9 Support In The Linux Kernel",
+    "source": "Phoronix",
+    "first_seen": "2026-09-27T14:22:06.589980+00:00",
+    "published": "2026-09-27T10:23:07+00:00"
+  },
+  "https://eli.thegreenplace.net/2026/rusty-thoughts-on-parse-dont-validate": {
+    "title": "Rusty thoughts on \"Parse, don't validate\"",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-27T14:22:06.589980+00:00",
+    "published": "2026-09-27T08:59:59+00:00"
+  },
+  "https://www.reddit.com/r/worldnews/comments/1wr3id3/meta_blocks_president_lulas_facebook_page_and": {
+    "title": "Meta Blocks President Lula's Facebook Page, Campaign Ads 2 Weeks from Election",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-27T14:22:06.589980+00:00",
+    "published": "2026-09-27T08:44:04+00:00"
+  },
+  "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal": {
+    "title": "OpenAI Feared \"Optics\" of what might appear on Hacker News",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-27T14:22:06.589980+00:00",
+    "published": "2026-09-27T06:19:33+00:00"
+  },
+  "https://reasonable.io/blog/tla-tutorial": {
+    "title": "The internet discovers TLA+. Now what?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-27T14:22:06.589980+00:00",
+    "published": "2026-09-27T05:26:15+00:00"
+  },
+  "https://theborys.substack.com/p/what-is-the-size-of-yemen": {
+    "title": "What is the size of Yemen? (2024)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-27T14:22:06.589980+00:00",
+    "published": "2026-09-27T02:40:26+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.4-Better-RPI-GPU-Reset": {
+    "title": "Improved GPU Reset Coming For Raspberry Pi Boards With Linux 7.4",
+    "source": "Phoronix",
+    "first_seen": "2026-09-27T14:22:06.589980+00:00",
+    "published": "2026-09-27T00:45:33+00:00"
+  },
+  "https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights": {
+    "title": "Replacing the old battery on rechargeable bike lights",
+    "source": "Julia Evans",
+    "first_seen": "2026-09-27T14:22:06.589980+00:00",
+    "published": "2026-09-27T00:00:00+00:00"
+  },
+  "https://simonwillison.net/2026/Sep/26/kakapo-party": {
+    "title": "Kākāpō Party",
+    "source": "Simon Willison",
+    "first_seen": "2026-09-27T14:22:06.589980+00:00",
+    "published": "2026-09-26T23:39:06+00:00"
+  },
+  "https://www.righto.com/2026/09/8087-tangent-cordic.html": {
+    "title": "Reverse-engineering the Intel 8087's tangent algorithm: more than CORDIC",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-27T14:22:06.589980+00:00",
+    "published": "2026-09-26T17:26:54+00:00"
+  },
+  "https://www.privatemode.ai/blog/system-one-from-glm-flash": {
+    "title": "Turning GLM-5.3-Flash into a Jev-like decision model",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-27T14:22:06.589980+00:00",
+    "published": "2026-09-26T15:49:04+00:00"
+  },
+  "https://antonz.org/go-concurrency-distilled": {
+    "title": "Go Concurrency Distilled",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-27T14:22:06.589980+00:00",
+    "published": "2026-09-26T14:34:49+00:00"
+  },
+  "https://fakecloud.dev": {
+    "title": "Fakecloud: Local AWS cloud emulator for integration tests",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-27T14:22:06.589980+00:00",
+    "published": "2026-09-26T14:25:16+00:00"
+  },
+  "https://mitxela.com/projects/flipflip": {
+    "title": "Flip Fluid on Flip Dots",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-27T14:22:06.589980+00:00",
+    "published": "2026-09-26T07:50:24+00:00"
+  },
+  "https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot": {
+    "title": "An agent used DNS to reach an external chatbot",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-27T14:22:06.589980+00:00",
+    "published": "2026-09-26T04:14:11+00:00"
+  },
+  "https://www.fu-berlin.de/en/presse/informationen/fup/2026/fup_26_116-enceladus-cassini-mikroben-science-postberg/index.html": {
+    "title": "Promising discoveries about the potential for life on one of Saturn’s icy moons",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-27T14:22:06.589980+00:00",
+    "published": "2026-09-26T03:23:31+00:00"
+  },
+  "https://ampdot.mesh.host/token-space-fonts.html": {
+    "title": "Generate fonts where every LLM token is the same width",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-27T14:22:06.589980+00:00",
+    "published": "2026-09-26T00:30:03+00:00"
+  },
+  "https://francisbach.com/spectral_log_density_estimation": {
+    "title": "Exploding variance of means of exponentials: least-squares to the rescue",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-27T14:22:06.589980+00:00",
+    "published": "2026-09-25T22:48:52+00:00"
   }
 }
