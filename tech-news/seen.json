@@ -98114,5 +98114,365 @@
     "source": "OpenAI Blog",
     "first_seen": "2026-09-29T15:10:30.318838+00:00",
     "published": "2026-09-28T19:00:00+00:00"
+  },
+  "https://railcode.dev/blog/vibe-coded-website": {
+    "title": "How our vibe coded website looks like a designer made it",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-29T23:59:07.338730+00:00",
+    "published": "2026-09-29T22:59:28+00:00"
+  },
+  "https://github.com/ninjahawk/livenerf": {
+    "title": "Livenerf: Has Opus 5.5 been nerfed yet?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-29T23:59:07.338730+00:00",
+    "published": "2026-09-29T22:36:14+00:00"
+  },
+  "https://simonwillison.net/2026/Sep/29/anthropic-frontier-red-team": {
+    "title": "Quoting Anthropic Frontier Red Team",
+    "source": "Simon Willison",
+    "first_seen": "2026-09-29T23:59:07.338730+00:00",
+    "published": "2026-09-29T22:20:28+00:00"
+  },
+  "https://github.com/hmofet/unodos": {
+    "title": "UnoDOS",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-29T23:59:07.338730+00:00",
+    "published": "2026-09-29T22:10:23+00:00"
+  },
+  "https://lucumr.pocoo.org/2026/9/29/deser": {
+    "title": "Deser: Rethinking Rust Serialization",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-29T23:59:07.338730+00:00",
+    "published": "2026-09-29T21:48:27+00:00"
+  },
+  "https://lwn.net/Articles/1097495": {
+    "title": "Firefox 157.0 released",
+    "source": "LWN.net",
+    "first_seen": "2026-09-29T23:59:07.338730+00:00",
+    "published": "2026-09-29T21:47:51+00:00"
+  },
+  "https://thenewstack.io/featherless-simple-jev-classifier": {
+    "title": "Why Featherless says you don’t need a tank to deliver a pizza",
+    "source": "The New Stack",
+    "first_seen": "2026-09-29T23:59:07.338730+00:00",
+    "published": "2026-09-29T19:38:59+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/bring-near-astra-intelligence-to-everyday-work-with-gpt-6-1-sol-on-amazon-bedrock": {
+    "title": "Bring near-Astra intelligence to everyday work with GPT-6.1 Sol on Amazon Bedrock",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-09-29T23:59:07.338730+00:00",
+    "published": "2026-09-29T19:34:14+00:00"
+  },
+  "https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels": {
+    "title": "U.S. postal inspectors shut down website selling counterfeit postage labels",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-29T23:59:07.338730+00:00",
+    "published": "2026-09-29T19:30:17+00:00"
+  },
+  "https://developer.nvidia.com/blog/ai-native-by-design-lessons-learned-from-building-nvidia-tensorrt-model-connect": {
+    "title": "AI Native by Design: Lessons Learned from Building NVIDIA TensorRT Model Connect",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-09-29T23:59:07.338730+00:00",
+    "published": "2026-09-29T19:10:51+00:00"
+  },
+  "https://space.bl2.net": {
+    "title": "Show HN: Real-time Solar System with 526k asteroids and all tracked satellites",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-29T23:59:07.338730+00:00",
+    "published": "2026-09-29T19:08:01+00:00"
+  },
+  "https://www.phoronix.com/review/amd-perfopt": {
+    "title": "AMD Boosting AI/LLM Performance For Radeon iGPUs As Much As 18~23% With Linux 7.4",
+    "source": "Phoronix",
+    "first_seen": "2026-09-29T23:59:07.338730+00:00",
+    "published": "2026-09-29T18:57:00+00:00"
+  },
+  "https://research.google/blog/how-diffusion-controller-unifies-and-simplifies-ai-image-generation": {
+    "title": "How Diffusion Controller unifies and simplifies AI image generation",
+    "source": "Google Research",
+    "first_seen": "2026-09-29T23:59:07.338730+00:00",
+    "published": "2026-09-29T18:38:27+00:00"
+  },
+  "https://developer.nvidia.com/blog/lower-the-cost-of-building-and-running-visual-ai-agents-with-nvidia-vss-blueprint-3-3": {
+    "title": "Lower the Cost of Building and Running Visual AI Agents with NVIDIA VSS Blueprint 3.3",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-09-29T23:59:07.338730+00:00",
+    "published": "2026-09-29T18:35:09+00:00"
+  },
+  "https://www.theguardian.com/environment/2026/sep/29/night-sky-darkness-city-regulation": {
+    "title": "We’re forgetting what darkness feels like",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-29T23:59:07.338730+00:00",
+    "published": "2026-09-29T18:22:40+00:00"
+  },
+  "https://www.bbc.com/future/article/20260928-a-virtual-power-plant-hidden-in-vermont-homes-is-keeping-the-lights-on-during-storms": {
+    "title": "Vermont replacing power plants with home batteries",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-29T23:59:07.338730+00:00",
+    "published": "2026-09-29T18:19:02+00:00"
+  },
+  "https://lwn.net/Articles/1095731": {
+    "title": "[$] Native support for Rust on the GPU",
+    "source": "LWN.net",
+    "first_seen": "2026-09-29T23:59:07.338730+00:00",
+    "published": "2026-09-29T17:57:20+00:00"
+  },
+  "https://thenewstack.io/sign-in-with-chatgpt": {
+    "title": "OpenAI makes ‘Sign in with ChatGPT’ a way to use your subscription in third-party developer tools",
+    "source": "The New Stack",
+    "first_seen": "2026-09-29T23:59:07.338730+00:00",
+    "published": "2026-09-29T17:31:05+00:00"
+  },
+  "https://enigma.design": {
+    "title": "Show HN: A working 3D model of an Enigma machine",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-29T23:59:07.338730+00:00",
+    "published": "2026-09-29T17:15:56+00:00"
+  },
+  "https://thenewstack.io/openai-halves-200-plan": {
+    "title": "OpenAI halves $200 plan allowance, launches $500 plan",
+    "source": "The New Stack",
+    "first_seen": "2026-09-29T23:59:07.338730+00:00",
+    "published": "2026-09-29T17:15:00+00:00"
+  },
+  "https://thenewstack.io/openai-gpt-6-1-sol": {
+    "title": "OpenAI’s new GPT-6.1 Sol undercuts its own Astra flagship",
+    "source": "The New Stack",
+    "first_seen": "2026-09-29T23:59:07.338730+00:00",
+    "published": "2026-09-29T17:15:00+00:00"
+  },
+  "https://thenewstack.io/openai-dots-gpt6-agents": {
+    "title": "OpenAI just launched Dots. Here’s why they matter for developers.",
+    "source": "The New Stack",
+    "first_seen": "2026-09-29T23:59:07.338730+00:00",
+    "published": "2026-09-29T17:15:00+00:00"
+  },
+  "https://thenewstack.io/openai-decision-api-luna": {
+    "title": "OpenAI answers TypeSafe’s Jev with a Decision API built on Luna",
+    "source": "The New Stack",
+    "first_seen": "2026-09-29T23:59:07.338730+00:00",
+    "published": "2026-09-29T17:15:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/compute/implementing-customer-managed-keys-for-aws-lambda-durable-functions-with-terraform": {
+    "title": "Implementing customer managed keys for AWS Lambda durable functions with Terraform",
+    "source": "AWS Compute Blog",
+    "first_seen": "2026-09-29T23:59:07.338730+00:00",
+    "published": "2026-09-29T17:14:00+00:00"
+  },
+  "https://www.tcl-lang.org/software/tcltk/9.1.html": {
+    "title": "Tcl/Tk 9.1",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-29T23:59:07.338730+00:00",
+    "published": "2026-09-29T17:13:38+00:00"
+  },
+  "https://www.phoronix.com/news/Microsoft-WSLC-Linux-Containers": {
+    "title": "Microsoft Announces General Availability Of WSLC: Linux Containers On Windows",
+    "source": "Phoronix",
+    "first_seen": "2026-09-29T23:59:07.338730+00:00",
+    "published": "2026-09-29T17:09:12+00:00"
+  },
+  "https://openai.com/index/introducing-dots": {
+    "title": "Dots: Always-on agents",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-29T23:59:07.338730+00:00",
+    "published": "2026-09-29T17:07:57+00:00"
+  },
+  "https://openai.com/index/introducing-gpt-6-1-sol": {
+    "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-29T23:59:07.338730+00:00",
+    "published": "2026-09-29T17:06:45+00:00"
+  },
+  "https://medium.com/airbnb-engineering/personalization-without-user-identity-8e7891a1d486?source=rss----53c7c27702d5---4": {
+    "title": "Personalization without user identity",
+    "source": "Airbnb Engineering",
+    "first_seen": "2026-09-29T23:59:07.338730+00:00",
+    "published": "2026-09-29T17:01:01+00:00"
+  },
+  "https://www.phoronix.com/news/Branch-Target-Reuse-BTR": {
+    "title": "Branch Target Reuse, BTR: New Spectre V2 Attack Targeting JIT Compilers",
+    "source": "Phoronix",
+    "first_seen": "2026-09-29T23:59:07.338730+00:00",
+    "published": "2026-09-29T17:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/containers-kubernetes/accelerate-agentic-rl-with-gke-agent-sandbox": {
+    "title": "Accelerating agentic RL and evaluation research velocity with 45x faster GKE Agent Sandbox",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-09-29T23:59:07.338730+00:00",
+    "published": "2026-09-29T17:00:00+00:00"
+  },
+  "https://www.databricks.com/blog/your-data-your-storage-your-rules-2026-guide-storing-unity-catalog-managed-tables": {
+    "title": "Your data, your storage, your rules: a 2026 guide to storing Unity Catalog managed tables",
+    "source": "Databricks Blog",
+    "first_seen": "2026-09-29T23:59:07.338730+00:00",
+    "published": "2026-09-29T16:40:16+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/prompt-engineering-fundamentals-for-amazon-quick": {
+    "title": "Prompt engineering fundamentals for Amazon Quick",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-09-29T23:59:07.338730+00:00",
+    "published": "2026-09-29T16:27:57+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/prompt-engineering-by-quick-component-patterns-and-pitfalls": {
+    "title": "Prompt engineering by Quick component: Patterns and pitfalls",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-09-29T23:59:07.338730+00:00",
+    "published": "2026-09-29T16:27:33+00:00"
+  },
+  "https://hereticpleb.vercel.app/blog/needed-one-plus-one": {
+    "title": "Needed 1+1, built a functional programming language",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-29T23:59:07.338730+00:00",
+    "published": "2026-09-29T16:18:26+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/building-an-llm-powered-dag-failure-analysis-plugin-for-amazon-mwaa": {
+    "title": "Building an LLM-powered DAG failure analysis plugin for Amazon MWAA",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-09-29T23:59:07.338730+00:00",
+    "published": "2026-09-29T16:17:09+00:00"
+  },
+  "https://www.phoronix.com/news/Ubuntu-26.10-Snapdragon-Concept": {
+    "title": "New Ubuntu Concept ISO For Snapdragon Laptops Brings First X2 Laptop Support",
+    "source": "Phoronix",
+    "first_seen": "2026-09-29T23:59:07.338730+00:00",
+    "published": "2026-09-29T16:15:36+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/building-an-ai-powered-contract-intelligence-platform-with-amazon-quick-and-amazon-bedrock-agentcore": {
+    "title": "Building an AI-powered contract intelligence platform with Amazon Quick and Amazon Bedrock AgentCore",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-09-29T23:59:07.338730+00:00",
+    "published": "2026-09-29T16:14:24+00:00"
+  },
+  "https://aws.amazon.com/blogs/compute/simplify-ami-discovery-with-amazon-ec2-and-ssm-parameter-store": {
+    "title": "Simplify AMI discovery with Amazon EC2 and SSM Parameter Store",
+    "source": "AWS Compute Blog",
+    "first_seen": "2026-09-29T23:59:07.338730+00:00",
+    "published": "2026-09-29T16:14:17+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/announcing-spark-connect-on-amazon-emr-on-eks": {
+    "title": "Announcing Spark Connect on Amazon EMR on EKS: Interactive PySpark development, anywhere",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-09-29T23:59:07.338730+00:00",
+    "published": "2026-09-29T16:12:17+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/aurora-postgresql-zero-etl-integration-with-amazon-sagemaker": {
+    "title": "Aurora PostgreSQL zero-ETL integration with Amazon SageMaker",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-09-29T23:59:07.338730+00:00",
+    "published": "2026-09-29T16:10:14+00:00"
+  },
+  "https://www.phoronix.com/news/OpenZL-0.3-Released": {
+    "title": "Meta Releases OpenZL 0.3 With Decompression Speed 144% Faster Than Zstd",
+    "source": "Phoronix",
+    "first_seen": "2026-09-29T23:59:07.338730+00:00",
+    "published": "2026-09-29T16:06:44+00:00"
+  },
+  "https://replit.com/blog/free-the-models": {
+    "title": "Free the models: Harness design at the frontier",
+    "source": "Replit Blog",
+    "first_seen": "2026-09-29T23:59:07.338730+00:00",
+    "published": "2026-09-29T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/topics/developers-practitioners/graph-workflows-in-adk-everything-you-need-to-know": {
+    "title": "Graph Workflows in ADK: Everything You Need to Know",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-09-29T23:59:07.338730+00:00",
+    "published": "2026-09-29T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/identity-security/google-cloud-partners-deliver-new-security-agents-and-ai-defenses-with-gemini-enterprise": {
+    "title": "Google Cloud partners deliver new security agents and AI defenses with Gemini Enterprise",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-09-29T23:59:07.338730+00:00",
+    "published": "2026-09-29T16:00:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/how-conde-nast-built-multimodal-video-discovery-with-amazon-bedrock": {
+    "title": "How Condé Nast built multimodal video discovery with Amazon Bedrock",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-09-29T23:59:07.338730+00:00",
+    "published": "2026-09-29T15:55:17+00:00"
+  },
+  "https://simonwillison.net/2026/Sep/29/openai-devday-2026-live-blog": {
+    "title": "OpenAI DevDay 2026 live blog",
+    "source": "Simon Willison",
+    "first_seen": "2026-09-29T23:59:07.338730+00:00",
+    "published": "2026-09-29T15:55:13+00:00"
+  },
+  "https://aws.amazon.com/blogs/compute/frozen-package-management-for-air-gapped-rhel-family-amis": {
+    "title": "Frozen package management for air-gapped RHEL-family AMIs",
+    "source": "AWS Compute Blog",
+    "first_seen": "2026-09-29T23:59:07.338730+00:00",
+    "published": "2026-09-29T15:55:07+00:00"
+  },
+  "https://newsletter.pragmaticengineer.com/p/shopify-native-mobile": {
+    "title": "Why has Shopify dropped React Native?",
+    "source": "The Pragmatic Engineer",
+    "first_seen": "2026-09-29T23:59:07.338730+00:00",
+    "published": "2026-09-29T15:53:19+00:00"
+  },
+  "https://github.com/ntfargo/Relapse-Exploit": {
+    "title": "PS5 Relapse Exploit",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-29T23:59:07.338730+00:00",
+    "published": "2026-09-29T15:44:41+00:00"
+  },
+  "https://lwn.net/Articles/1096827": {
+    "title": "[$] The kernel from a PostgreSQL point of view",
+    "source": "LWN.net",
+    "first_seen": "2026-09-29T23:59:07.338730+00:00",
+    "published": "2026-09-29T15:42:30+00:00"
+  },
+  "https://lwn.net/Articles/1097466": {
+    "title": "Security updates for Tuesday",
+    "source": "LWN.net",
+    "first_seen": "2026-09-29T23:59:07.338730+00:00",
+    "published": "2026-09-29T15:38:42+00:00"
+  },
+  "https://blog.bytebytego.com/p/why-do-llms-lie": {
+    "title": "Why Do LLMs Lie?",
+    "source": "ByteByteGo",
+    "first_seen": "2026-09-29T23:59:07.338730+00:00",
+    "published": "2026-09-29T15:31:36+00:00"
+  },
+  "https://huggingface.co/blog/nvidia/kumo-tabular": {
+    "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-09-29T23:59:07.338730+00:00",
+    "published": "2026-09-29T15:30:38+00:00"
+  },
+  "https://frostyard.github.io/nsl": {
+    "title": "Show HN: NSL – WSL for Linux",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-29T23:59:07.338730+00:00",
+    "published": "2026-09-29T14:51:36+00:00"
+  },
+  "https://america.gov": {
+    "title": "America.gov",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-29T23:59:07.338730+00:00",
+    "published": "2026-09-29T14:04:57+00:00"
+  },
+  "https://news.ycombinator.com/item?id=49893157": {
+    "title": "Ask HN: What are you reading?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-29T23:59:07.338730+00:00",
+    "published": "2026-09-29T13:44:43+00:00"
+  },
+  "https://www.backblaze.com/blog/backblaze-drive-stats-for-q2-2026": {
+    "title": "Backblaze drive stats for Q2 2026",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-29T23:59:07.338730+00:00",
+    "published": "2026-09-29T13:34:20+00:00"
+  },
+  "https://openai.com/index/devday-2026-recap": {
+    "title": "DevDay 2026 Recap",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-09-29T23:59:07.338730+00:00",
+    "published": "2026-09-29T10:00:00+00:00"
+  },
+  "https://blog.sentry.io/big-improvements-to-seer-agent": {
+    "title": "Big improvements to Seer Agent",
+    "source": "Sentry Blog",
+    "first_seen": "2026-09-29T23:59:07.338730+00:00",
+    "published": "2026-09-29T07:00:00+00:00"
   }
 }
