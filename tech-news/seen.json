@@ -97736,5 +97736,383 @@
     "source": "OpenAI Blog",
     "first_seen": "2026-09-29T00:40:57.639155+00:00",
     "published": "2026-09-28T07:00:00+00:00"
+  },
+  "https://thenewstack.io/claude-opus-5-5-vs-fable-5-1": {
+    "title": "Claude Opus 5.5 vs. Fable 5.1: One overthinks, the other cuts corners",
+    "source": "The New Stack",
+    "first_seen": "2026-09-29T15:10:30.318838+00:00",
+    "published": "2026-09-29T15:00:00+00:00"
+  },
+  "https://github.blog/news-insights/policy-news-and-insights/developer-policy-update-transparency-state-policy-and-whats-ahead": {
+    "title": "Developer policy update: Transparency, state policy, and what’s ahead",
+    "source": "GitHub Blog",
+    "first_seen": "2026-09-29T15:10:30.318838+00:00",
+    "published": "2026-09-29T15:00:00+00:00"
+  },
+  "https://www.squareorbits.com/blog/2026/09/macos-golden-gate-is-a-buggy-mess": {
+    "title": "macOS Golden Gate Is a Buggy Mess",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-29T15:10:30.318838+00:00",
+    "published": "2026-09-29T14:32:33+00:00"
+  },
+  "https://status.claude.com/incidents/4xvtc2gnq73l": {
+    "title": "Claude partial outage",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-29T15:10:30.318838+00:00",
+    "published": "2026-09-29T14:25:41+00:00"
+  },
+  "https://www.phoronix.com/news/hw-monitor-0.6": {
+    "title": "hw-monitor 0.6 Released With Per-Process GPU Usage & Memory Reporting",
+    "source": "Phoronix",
+    "first_seen": "2026-09-29T15:10:30.318838+00:00",
+    "published": "2026-09-29T14:23:58+00:00"
+  },
+  "https://appleinsider.com/articles/26/09/28/metas-new-ai-agent-blatantly-ignores-users-permissions": {
+    "title": "Unsurprisingly, Meta's new Muse AI agent blatantly ignores users permissions",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-29T15:10:30.318838+00:00",
+    "published": "2026-09-29T14:15:24+00:00"
+  },
+  "https://www.theregister.com/os-platforms/2026/09/29/google-ending-chromeos-support-two-years-early/5299674": {
+    "title": "Google ending ChromeOS support two years early",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-29T15:10:30.318838+00:00",
+    "published": "2026-09-29T14:12:15+00:00"
+  },
+  "https://thenewstack.io/reassign-cloud-resource-ownership": {
+    "title": "How to reassign resource ownership before someone’s last day",
+    "source": "The New Stack",
+    "first_seen": "2026-09-29T15:10:30.318838+00:00",
+    "published": "2026-09-29T14:00:00+00:00"
+  },
+  "https://realpython.com/courses/whats-new-in-python-315": {
+    "title": "What's New in Python 3.15",
+    "source": "Real Python",
+    "first_seen": "2026-09-29T15:10:30.318838+00:00",
+    "published": "2026-09-29T14:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/topics/public-sector/defending-at-machine-speed-securing-the-public-sector-in-the-agentic-era": {
+    "title": "Defending at machine speed: Securing the public sector in the agentic era",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-09-29T15:10:30.318838+00:00",
+    "published": "2026-09-29T14:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/NOCL-OpenCL-CUDA": {
+    "title": "NOCL Making Progress As Mesa Gallium/OpenCL Atop NVIDIA CUDA",
+    "source": "Phoronix",
+    "first_seen": "2026-09-29T15:10:30.318838+00:00",
+    "published": "2026-09-29T13:53:05+00:00"
+  },
+  "https://aws.amazon.com/blogs/architecture/build-adaptive-ai-interfaces-with-the-ag-ui-protocol-agent-swarms-and-nova-act-on-aws": {
+    "title": "Build adaptive AI interfaces with the AG-UI protocol, agent swarms, and Nova Act on AWS",
+    "source": "AWS Architecture Blog",
+    "first_seen": "2026-09-29T15:10:30.318838+00:00",
+    "published": "2026-09-29T13:44:23+00:00"
+  },
+  "https://martinfowler.com/bliki/SensibleDefault.html": {
+    "title": "Bliki: Sensible Default",
+    "source": "Martin Fowler",
+    "first_seen": "2026-09-29T15:10:30.318838+00:00",
+    "published": "2026-09-29T13:43:00+00:00"
+  },
+  "https://parksb.github.io/en/article/44.html": {
+    "title": "What makes software development engineering",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-29T15:10:30.318838+00:00",
+    "published": "2026-09-29T13:31:31+00:00"
+  },
+  "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source": {
+    "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-09-29T15:10:30.318838+00:00",
+    "published": "2026-09-29T13:07:00+00:00"
+  },
+  "https://thenewstack.io/mcp-ai-agents-api": {
+    "title": "MCP gets AI agents into your APIs. It doesn’t decide what they should see.",
+    "source": "The New Stack",
+    "first_seen": "2026-09-29T15:10:30.318838+00:00",
+    "published": "2026-09-29T13:06:00+00:00"
+  },
+  "https://www.tigerdata.com/blog/agent-memory-search-problem-not-storage-problem": {
+    "title": "Agent Memory Is a Search Problem, Not a Storage Problem",
+    "source": "Timescale Blog",
+    "first_seen": "2026-09-29T15:10:30.318838+00:00",
+    "published": "2026-09-29T13:00:52+00:00"
+  },
+  "https://dropbox.tech/machine-learning/evolving-calendar-assistant-reclaim-to-be-ai-native": {
+    "title": "Evolving our calendar assistant Reclaim to be AI-native without starting over",
+    "source": "Dropbox Tech",
+    "first_seen": "2026-09-29T15:10:30.318838+00:00",
+    "published": "2026-09-29T13:00:00+00:00"
+  },
+  "https://blog.cloudflare.com/threat-signals": {
+    "title": "Introducing Threat Signals: agentic skills for open-source threat intelligence, free for every Cloudflare account",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-09-29T15:10:30.318838+00:00",
+    "published": "2026-09-29T13:00:00+00:00"
+  },
+  "https://blog.cloudflare.com/pq-ca-with-mtcs": {
+    "title": "Building a post-quantum certificate authority with Merkle Tree Certificates",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-09-29T15:10:30.318838+00:00",
+    "published": "2026-09-29T13:00:00+00:00"
+  },
+  "https://blog.cloudflare.com/post-quantum-visibility": {
+    "title": "Is your domain using post-quantum encryption? Now you can see for yourself",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-09-29T15:10:30.318838+00:00",
+    "published": "2026-09-29T13:00:00+00:00"
+  },
+  "https://blog.cloudflare.com/ipsec-downgrade-protection": {
+    "title": "Preventing quantum downgrade attacks against IPsec",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-09-29T15:10:30.318838+00:00",
+    "published": "2026-09-29T13:00:00+00:00"
+  },
+  "https://blog.cloudflare.com/cloudflare-certificate-authority": {
+    "title": "Building a certificate authority for the whole Internet",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-09-29T15:10:30.318838+00:00",
+    "published": "2026-09-29T13:00:00+00:00"
+  },
+  "https://blog.cloudflare.com/application-profiles": {
+    "title": "Enforce positive security with Cloudflare Application Profiles",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-09-29T15:10:30.318838+00:00",
+    "published": "2026-09-29T13:00:00+00:00"
+  },
+  "https://blog.cloudflare.com/ai-era-framework": {
+    "title": "Adaptive application security for the AI era: how Cloudflare connects code, traffic, and intelligence to stop attacks",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-09-29T15:10:30.318838+00:00",
+    "published": "2026-09-29T13:00:00+00:00"
+  },
+  "https://blog.cloudflare.com/ai-driven-cryptography-discovery": {
+    "title": "Using AI to chart a course for our post-quantum migration",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-09-29T15:10:30.318838+00:00",
+    "published": "2026-09-29T13:00:00+00:00"
+  },
+  "https://blog.cloudflare.com/adaptive-ai-waf-testing": {
+    "title": "We tested our own WAF with frontier AI models. Here’s what we found",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-09-29T15:10:30.318838+00:00",
+    "published": "2026-09-29T13:00:00+00:00"
+  },
+  "https://spectrum.ieee.org/delhi-electricity-loss": {
+    "title": "How Delhi Cut Electricity Loss from 50 to 5 Percent",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-29T15:10:30.318838+00:00",
+    "published": "2026-09-29T12:43:29+00:00"
+  },
+  "https://martinfowler.com/fragments/2026-09-29.html": {
+    "title": "Fragments: September 29",
+    "source": "Martin Fowler",
+    "first_seen": "2026-09-29T15:10:30.318838+00:00",
+    "published": "2026-09-29T12:41:00+00:00"
+  },
+  "https://www.withouthotair.com": {
+    "title": "Without the Hot Air",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-29T15:10:30.318838+00:00",
+    "published": "2026-09-29T12:38:18+00:00"
+  },
+  "https://www.cbc.ca/lite/story/9.7361622": {
+    "title": "1 in 8 cancer cases worldwide are caused by infections, study finds",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-29T15:10:30.318838+00:00",
+    "published": "2026-09-29T12:33:50+00:00"
+  },
+  "https://www.phoronix.com/news/Mesa-26.3-Intel-Jay-Compiler": {
+    "title": "Mesa 26.3 Enables Intel's New Jay Shader Compiler By Default, Compile Times 55% Faster Or 66% Faster Than Windows",
+    "source": "Phoronix",
+    "first_seen": "2026-09-29T15:10:30.318838+00:00",
+    "published": "2026-09-29T12:31:30+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-BPF-Panel-Drivers": {
+    "title": "BPF-Based Display Panel Drivers Being Explored For Linux",
+    "source": "Phoronix",
+    "first_seen": "2026-09-29T15:10:30.318838+00:00",
+    "published": "2026-09-29T12:10:26+00:00"
+  },
+  "https://jevstiller.pages.dev/posts/the-guarantee": {
+    "title": "Show HN: Jevstiller – Distill Jev into a local model, with a disagreement bound",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-29T15:10:30.318838+00:00",
+    "published": "2026-09-29T12:05:07+00:00"
+  },
+  "https://thenewstack.io/ember1-kimik3-speed-comparison": {
+    "title": "Ember-1 vs. Kimi K3: Nearly identical results at 3.4 times the speed",
+    "source": "The New Stack",
+    "first_seen": "2026-09-29T15:10:30.318838+00:00",
+    "published": "2026-09-29T12:00:00+00:00"
+  },
+  "https://realpython.com/quizzes/whats-new-in-python-315": {
+    "title": "Quiz: What's New in Python 3.15",
+    "source": "Real Python",
+    "first_seen": "2026-09-29T15:10:30.318838+00:00",
+    "published": "2026-09-29T12:00:00+00:00"
+  },
+  "https://realpython.com/quizzes/llm-application-development-python": {
+    "title": "Quiz: LLM Application Development With Python",
+    "source": "Real Python",
+    "first_seen": "2026-09-29T15:10:30.318838+00:00",
+    "published": "2026-09-29T12:00:00+00:00"
+  },
+  "https://realpython.com/quizzes/first-steps-python": {
+    "title": "Quiz: How to Use Python: Taking Your First Steps",
+    "source": "Real Python",
+    "first_seen": "2026-09-29T15:10:30.318838+00:00",
+    "published": "2026-09-29T12:00:00+00:00"
+  },
+  "https://neon.com/blog/inside-skydive-building-virtual-coworkers-powered-by-neon": {
+    "title": "Inside Skydive: building virtual coworkers, powered by Neon",
+    "source": "Neon Blog",
+    "first_seen": "2026-09-29T15:10:30.318838+00:00",
+    "published": "2026-09-29T12:00:00+00:00"
+  },
+  "https://www.tomshardware.com/software/the-netherlands-is-rolling-alternative-nixos-based-software-ecosystem-after-u-s-sanctions-on-icc-took-microsoft-off-the-table-trial-programs-running-now-first-release-expected-at-end-of-2027": {
+    "title": "US sanctions force The Netherlands off Microsoft and toward alternative NixOS",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-29T15:10:30.318838+00:00",
+    "published": "2026-09-29T11:44:25+00:00"
+  },
+  "https://www.phoronix.com/news/D7VK-2.3-Released": {
+    "title": "D7VK Reaches Maturity For Older Direct3D APIs Atop Vulkan",
+    "source": "Phoronix",
+    "first_seen": "2026-09-29T15:10:30.318838+00:00",
+    "published": "2026-09-29T11:43:30+00:00"
+  },
+  "https://www.theguardian.com/technology/2026/sep/29/trial-live-facial-recognition-cameras-london-stations-false-positive": {
+    "title": "500k facial scans at UK stations yield no arrests, 1 false positive",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-29T15:10:30.318838+00:00",
+    "published": "2026-09-29T11:35:18+00:00"
+  },
+  "https://www.derekthompson.org/p/the-death-of-the-american-host": {
+    "title": "You Are No Longer Invited to Dinner",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-29T15:10:30.318838+00:00",
+    "published": "2026-09-29T11:14:45+00:00"
+  },
+  "https://github.com/PostHog/jeeves": {
+    "title": "Jeeves. Reasoning improves Jev-like decision models",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-29T15:10:30.318838+00:00",
+    "published": "2026-09-29T11:13:54+00:00"
+  },
+  "https://www.schneier.com/blog/archives/2026/09/using-device-linking-to-eavesdrop-on-whatsapp-and-signal.html": {
+    "title": "Using Device Linking to Eavesdrop on WhatsApp and Signal",
+    "source": "Schneier on Security",
+    "first_seen": "2026-09-29T15:10:30.318838+00:00",
+    "published": "2026-09-29T11:02:19+00:00"
+  },
+  "https://www.phoronix.com/news/FUSE-Large-Folios": {
+    "title": "Large Folios Able To Deliver Big Performance Gains For FUSE With Linux 7.4",
+    "source": "Phoronix",
+    "first_seen": "2026-09-29T15:10:30.318838+00:00",
+    "published": "2026-09-29T10:30:23+00:00"
+  },
+  "https://www.phoronix.com/news/Steam-Deck-Better-Firefox": {
+    "title": "Igalia Improving The Firefox Experience For Valve's Steam Deck",
+    "source": "Phoronix",
+    "first_seen": "2026-09-29T15:10:30.318838+00:00",
+    "published": "2026-09-29T10:15:26+00:00"
+  },
+  "https://stratechery.com/2026/one-more-note-on-agents-meta-connect-meta-enterprise-platform": {
+    "title": "One More Note on Agents, Meta Connect, Meta Enterprise Platform",
+    "source": "Stratechery",
+    "first_seen": "2026-09-29T15:10:30.318838+00:00",
+    "published": "2026-09-29T10:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/AMD-Zen-6-More-Client-Tuning": {
+    "title": "AMD Ryzen Zen 6 CPU Power Values Being Further Tuned For Linux",
+    "source": "Phoronix",
+    "first_seen": "2026-09-29T15:10:30.318838+00:00",
+    "published": "2026-09-29T09:59:57+00:00"
+  },
+  "https://github.com/EverMind-AI/Raven": {
+    "title": "Show HN: Raven – The harness of harnesses, built for RSI",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-29T15:10:30.318838+00:00",
+    "published": "2026-09-29T09:58:24+00:00"
+  },
+  "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf": {
+    "title": "AI companies leak data to advertisers [pdf]",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-29T15:10:30.318838+00:00",
+    "published": "2026-09-29T09:03:41+00:00"
+  },
+  "https://blog.conan.io/cpp/conan/gamedev/godot/cmake/2026/09/29/Using-Any-Cpp-Library-In-Godot.html": {
+    "title": "Using any C++ library in Godot",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-29T15:10:30.318838+00:00",
+    "published": "2026-09-29T08:40:37+00:00"
+  },
+  "https://www.startup-nights.ch/event": {
+    "title": "Startup Nights 2026 is comming up on 5-6 Nov. in Switzerland",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-29T15:10:30.318838+00:00",
+    "published": "2026-09-29T07:49:12+00:00"
+  },
+  "https://stackoverflow.blog/2026/09/29/your-phone-is-ai-s-newest-hardware": {
+    "title": "Your phone is AI’s newest hardware",
+    "source": "Stack Overflow Blog",
+    "first_seen": "2026-09-29T15:10:30.318838+00:00",
+    "published": "2026-09-29T07:40:00+00:00"
+  },
+  "https://blogs.microsoft.com/blog/2026/09/28/new-microsoft-data-innovations-unlock-what-only-your-business-knows": {
+    "title": "New Microsoft data innovations unlock what only your business knows",
+    "source": "Microsoft Blog",
+    "first_seen": "2026-09-29T15:10:30.318838+00:00",
+    "published": "2026-09-29T06:30:04+00:00"
+  },
+  "https://cloud.google.com/blog/topics/threat-intelligence/defending-against-active-exploitation-of-citrix-netscaler-adc-and-gateway-appliances": {
+    "title": "Defending Against Active Exploitation of Citrix NetScaler ADC and Gateway Appliances",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-09-29T15:10:30.318838+00:00",
+    "published": "2026-09-29T05:00:00+00:00"
+  },
+  "http://www.jimsitu.com": {
+    "title": "Tank Body Problem",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-29T15:10:30.318838+00:00",
+    "published": "2026-09-29T00:41:45+00:00"
+  },
+  "https://www.thoughtworks.com/insights/blog/architecture/engineering-the-harness-a-practical-pattern-for-reliable-coding-agents": {
+    "title": "Engineering the harness: A practical pattern for reliable coding agents",
+    "source": "ThoughtWorks",
+    "first_seen": "2026-09-29T15:10:30.318838+00:00",
+    "published": "2026-09-29T00:00:00+00:00"
+  },
+  "https://www.elastic.co/blog/elastic-cloud-serverless-now-available-azure-iowa": {
+    "title": "Elastic Cloud Serverless: Another Azure region",
+    "source": "Elastic Blog",
+    "first_seen": "2026-09-29T15:10:30.318838+00:00",
+    "published": "2026-09-29T00:00:00+00:00"
+  },
+  "https://machinelearning.apple.com/research/communication-bottleneck-serialization": {
+    "title": "The Communication Bottleneck: A Round-Trip Study of Tree-Structured Expression Serialization in Language Models",
+    "source": "Apple ML Journal",
+    "first_seen": "2026-09-29T15:10:30.318838+00:00",
+    "published": "2026-09-29T00:00:00+00:00"
+  },
+  "https://www.kqed.org/news/12101534/california-farmers-are-struggling-to-sell-grapes-as-demand-for-wine-drops": {
+    "title": "California farmers are struggling to sell grapes as demand for wine drops",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-29T15:10:30.318838+00:00",
+    "published": "2026-09-28T20:00:06+00:00"
+  },
+  "https://openai.com/index/towards-safety-cases-for-frontier-ai-training": {
+    "title": "Towards safety cases for frontier AI training",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-09-29T15:10:30.318838+00:00",
+    "published": "2026-09-28T19:00:00+00:00"
+  },
+  "https://openai.com/index/how-we-will-do-better-for-australia": {
+    "title": "How we will do better for Australia",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-09-29T15:10:30.318838+00:00",
+    "published": "2026-09-28T19:00:00+00:00"
   }
 }
