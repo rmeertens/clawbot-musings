@@ -98474,5 +98474,449 @@
     "source": "Sentry Blog",
     "first_seen": "2026-09-29T23:59:07.338730+00:00",
     "published": "2026-09-29T07:00:00+00:00"
+  },
+  "https://lwn.net/Articles/1097802": {
+    "title": "Kernel Recipes videos posted",
+    "source": "LWN.net",
+    "first_seen": "2026-09-30T15:25:50.350716+00:00",
+    "published": "2026-09-30T15:24:51+00:00"
+  },
+  "https://www.cncf.io/blog/2026/09/30/argocon-north-america-2026-what-to-expect-as-the-argo-community-looks-toward-cd-4-0": {
+    "title": "ArgoCon North America 2026: What to expect as the Argo community looks toward CD 4.0",
+    "source": "CNCF Blog",
+    "first_seen": "2026-09-30T15:25:50.350716+00:00",
+    "published": "2026-09-30T15:24:47+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/build-a-multi-agent-music-production-pipeline-on-amazon-bedrock-agentcore-runtime-instances": {
+    "title": "Build a multi-agent music production pipeline on Amazon Bedrock AgentCore Runtime Instances",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-09-30T15:25:50.350716+00:00",
+    "published": "2026-09-30T15:21:57+00:00"
+  },
+  "https://aws.amazon.com/blogs/containers/how-athenahealth-modernized-healthcare-workloads-with-amazon-eks-hybrid-nodes": {
+    "title": "How athenahealth modernized healthcare workloads with Amazon EKS Hybrid Nodes",
+    "source": "AWS Containers Blog",
+    "first_seen": "2026-09-30T15:25:50.350716+00:00",
+    "published": "2026-09-30T15:16:52+00:00"
+  },
+  "https://www.phoronix.com/news/Framework-Desktop-Gorgon-Halo": {
+    "title": "Framework Desktop With AMD Ryzen AI Max+ PRO 495 Starts Out At $6799 USD",
+    "source": "Phoronix",
+    "first_seen": "2026-09-30T15:25:50.350716+00:00",
+    "published": "2026-09-30T15:15:58+00:00"
+  },
+  "https://deepmind.google/blog/introducing-synthid-bio": {
+    "title": "Introducing SynthID Bio",
+    "source": "DeepMind Blog",
+    "first_seen": "2026-09-30T15:25:50.350716+00:00",
+    "published": "2026-09-30T15:03:07+00:00"
+  },
+  "https://thenewstack.io/ai-agents-production-data": {
+    "title": "Your AI agent aced the demo. Your data may still derail it.",
+    "source": "The New Stack",
+    "first_seen": "2026-09-30T15:25:50.350716+00:00",
+    "published": "2026-09-30T15:00:00+00:00"
+  },
+  "https://tailscale.com/blog/meta-muse-ai-agent-tailscale": {
+    "title": "Your agent, your network: How Meta’s Muse agent works with Tailscale",
+    "source": "Tailscale Blog",
+    "first_seen": "2026-09-30T15:25:50.350716+00:00",
+    "published": "2026-09-30T15:00:00+00:00"
+  },
+  "https://thenewstack.io/microsoft-fabric-agent-context": {
+    "title": "Microsoft Fabric is where AI agents learn how the business works",
+    "source": "The New Stack",
+    "first_seen": "2026-09-30T15:25:50.350716+00:00",
+    "published": "2026-09-30T14:46:32+00:00"
+  },
+  "https://www.phoronix.com/review/openjdk-graalvm-temurin-semeru": {
+    "title": "OpenJDK vs. GraalVM vs. Eclipse Temurin vs. Semeru Java Performance",
+    "source": "Phoronix",
+    "first_seen": "2026-09-30T15:25:50.350716+00:00",
+    "published": "2026-09-30T14:42:29+00:00"
+  },
+  "https://blog.murphytrueman.com/i-cant-tell-whos-teaching-who-anymore": {
+    "title": "I can't tell who's teaching who anymore",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-30T15:25:50.350716+00:00",
+    "published": "2026-09-30T14:37:08+00:00"
+  },
+  "https://lwn.net/Articles/1097761": {
+    "title": "Reports from the 2026 Python Language Summit",
+    "source": "LWN.net",
+    "first_seen": "2026-09-30T15:25:50.350716+00:00",
+    "published": "2026-09-30T14:32:36+00:00"
+  },
+  "https://lwn.net/Articles/1094721": {
+    "title": "[$] Comparing Chromium development at Google and Igalia",
+    "source": "LWN.net",
+    "first_seen": "2026-09-30T15:25:50.350716+00:00",
+    "published": "2026-09-30T14:16:19+00:00"
+  },
+  "https://martinfowler.com/articles/never-send-slides/slide-principles.html": {
+    "title": "Principles for effective slides",
+    "source": "Martin Fowler",
+    "first_seen": "2026-09-30T15:25:50.350716+00:00",
+    "published": "2026-09-30T14:14:00+00:00"
+  },
+  "https://thenewstack.io/kill-code-review-theater": {
+    "title": "Kill the code review theater, keep the review",
+    "source": "The New Stack",
+    "first_seen": "2026-09-30T15:25:50.350716+00:00",
+    "published": "2026-09-30T14:00:00+00:00"
+  },
+  "https://stackoverflow.blog/2026/09/30/getting-ready-for-2026-results-a-look-back-on-developer-survey-findings": {
+    "title": "Getting ready for 2026 results: A look back on Developer Survey findings",
+    "source": "Stack Overflow Blog",
+    "first_seen": "2026-09-30T15:25:50.350716+00:00",
+    "published": "2026-09-30T14:00:00+00:00"
+  },
+  "https://realpython.com/python315-new-features": {
+    "title": "Python 3.15: Cool New Features for You to Try",
+    "source": "Real Python",
+    "first_seen": "2026-09-30T15:25:50.350716+00:00",
+    "published": "2026-09-30T14:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/topics/threat-intelligence/vulnerability-discovery-and-exploitation-trends-in-the-ai-era": {
+    "title": "Vulnerability Discovery and Exploitation Trends in the AI Era",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-09-30T15:25:50.350716+00:00",
+    "published": "2026-09-30T14:00:00+00:00"
+  },
+  "https://www.tigerdata.com/blog/normalizing-wide-well-pipeline-telemetry-table-without-re-ingesting-history": {
+    "title": "Normalizing a Wide Well and Pipeline Telemetry Table Without Re-Ingesting History",
+    "source": "Timescale Blog",
+    "first_seen": "2026-09-30T15:25:50.350716+00:00",
+    "published": "2026-09-30T13:58:45+00:00"
+  },
+  "https://lwn.net/Articles/1097758": {
+    "title": "The Linux Foundation Technical Advisory Board 2026 election approaches",
+    "source": "LWN.net",
+    "first_seen": "2026-09-30T15:25:50.350716+00:00",
+    "published": "2026-09-30T13:55:20+00:00"
+  },
+  "https://alphapixeldev.com/sdf-vs-msdf-vs-slug-vs-rive-gpu-text-rendering": {
+    "title": "SDF vs. MSDF vs. Slug: GPU Text Rendering",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-30T15:25:50.350716+00:00",
+    "published": "2026-09-30T13:50:50+00:00"
+  },
+  "https://pytorch.org/blog/from-upstream-changes-to-downstream-confidence-inside-torch-spyres-integration-with-pytorch-crcr": {
+    "title": "From Upstream Changes to Downstream Confidence: Inside Torch Spyre’s Integration with PyTorch CRCR",
+    "source": "PyTorch Blog",
+    "first_seen": "2026-09-30T15:25:50.350716+00:00",
+    "published": "2026-09-30T13:40:56+00:00"
+  },
+  "https://lwn.net/Articles/1097753": {
+    "title": "Security updates for Wednesday",
+    "source": "LWN.net",
+    "first_seen": "2026-09-30T15:25:50.350716+00:00",
+    "published": "2026-09-30T13:20:42+00:00"
+  },
+  "https://www.phoronix.com/news/Qt-6.12-LTS-Released": {
+    "title": "Qt 6.12 LTS Released With QML Hot Reloading, StyleKit In Experimental Form",
+    "source": "Phoronix",
+    "first_seen": "2026-09-30T15:25:50.350716+00:00",
+    "published": "2026-09-30T13:20:00+00:00"
+  },
+  "https://www.phoronix.com/news/Rusticl-2026": {
+    "title": "Rusticl Had A Great Year For Rust OpenCL In Mesa With 3.1 Support, More Drivers",
+    "source": "Phoronix",
+    "first_seen": "2026-09-30T15:25:50.350716+00:00",
+    "published": "2026-09-30T13:03:20+00:00"
+  },
+  "https://blog.cloudflare.com/100-million-donations": {
+    "title": "Cloudflare Impact reaches $100 million in donations",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-09-30T15:25:50.350716+00:00",
+    "published": "2026-09-30T13:01:55+00:00"
+  },
+  "https://thenewstack.io/cra-readiness-starts-codebase": {
+    "title": "CRA readiness starts in the codebase",
+    "source": "The New Stack",
+    "first_seen": "2026-09-30T15:25:50.350716+00:00",
+    "published": "2026-09-30T13:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/topics/developers-practitioners/data-agent-kit-is-now-ga-bring-google-data-cloud-to-any-coding-agent": {
+    "title": "Data Agent Kit is now GA: Bring Google Data Cloud to any coding agent",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-09-30T15:25:50.350716+00:00",
+    "published": "2026-09-30T13:00:00+00:00"
+  },
+  "https://blog.cloudflare.com/simplifying-domains": {
+    "title": "Simplifying domains for people and agents",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-09-30T15:25:50.350716+00:00",
+    "published": "2026-09-30T13:00:00+00:00"
+  },
+  "https://blog.cloudflare.com/real-time-issue-detection": {
+    "title": "Detect and send production issues straight to your agent",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-09-30T15:25:50.350716+00:00",
+    "published": "2026-09-30T13:00:00+00:00"
+  },
+  "https://blog.cloudflare.com/pay-per-use": {
+    "title": "Pay Per Use: when AI uses your work, you should get paid",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-09-30T15:25:50.350716+00:00",
+    "published": "2026-09-30T13:00:00+00:00"
+  },
+  "https://blog.cloudflare.com/monetization-gateway-beta": {
+    "title": "Monetization Gateway beta: charge AI agents for consumption with HTTP 402",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-09-30T15:25:50.350716+00:00",
+    "published": "2026-09-30T13:00:00+00:00"
+  },
+  "https://blog.cloudflare.com/auto-router": {
+    "title": "Cut your AI spend with AI Gateway's Auto Router",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-09-30T15:25:50.350716+00:00",
+    "published": "2026-09-30T13:00:00+00:00"
+  },
+  "https://blog.cloudflare.com/ai-model-overuse-user-insights": {
+    "title": "Identify AI model overuse with User Insights",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-09-30T15:25:50.350716+00:00",
+    "published": "2026-09-30T13:00:00+00:00"
+  },
+  "https://blog.cloudflare.com/faster-agent-sandboxes": {
+    "title": "Cloudflare Containers, rebuilt to scale agent sandboxes",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-09-30T15:25:50.350716+00:00",
+    "published": "2026-09-30T12:58:00+00:00"
+  },
+  "https://blog.cloudflare.com/agentic-web": {
+    "title": "The Internet has a second audience",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-09-30T15:25:50.350716+00:00",
+    "published": "2026-09-30T12:58:00+00:00"
+  },
+  "https://www.phoronix.com/news/AMD-Gorgon-Halo-NPU-LInux": {
+    "title": "Linux 7.4 To Support The NPU On AMD Ryzen AI Max 400 Series \"Gorgon Halo\"",
+    "source": "Phoronix",
+    "first_seen": "2026-09-30T15:25:50.350716+00:00",
+    "published": "2026-09-30T12:20:14+00:00"
+  },
+  "https://blog.python.org/2026/09/language-summit-2026": {
+    "title": "Python Language Summit 2026",
+    "source": "Python Insider",
+    "first_seen": "2026-09-30T15:25:50.350716+00:00",
+    "published": "2026-09-30T12:00:11+00:00"
+  },
+  "https://blog.python.org/2026/09/language-summit-2026-lightning-talks": {
+    "title": "Lightning Talks (Python Language Summit 2026)",
+    "source": "Python Insider",
+    "first_seen": "2026-09-30T15:25:50.350716+00:00",
+    "published": "2026-09-30T12:00:10+00:00"
+  },
+  "https://blog.python.org/2026/09/language-summit-2026-pep-827-type-manipulation": {
+    "title": "PEP 827: Type Manipulation (Python Language Summit 2026)",
+    "source": "Python Insider",
+    "first_seen": "2026-09-30T15:25:50.350716+00:00",
+    "published": "2026-09-30T12:00:09+00:00"
+  },
+  "https://blog.python.org/2026/09/language-summit-2026-free-threading-post-era": {
+    "title": "Free-Threaded Python Post-Era (Python Language Summit 2026)",
+    "source": "Python Insider",
+    "first_seen": "2026-09-30T15:25:50.350716+00:00",
+    "published": "2026-09-30T12:00:08+00:00"
+  },
+  "https://blog.python.org/2026/09/language-summit-2026-developer-in-residence-update-and-future": {
+    "title": "Developer-in-Residence Update & Future (Python Language Summit 2026)",
+    "source": "Python Insider",
+    "first_seen": "2026-09-30T15:25:50.350716+00:00",
+    "published": "2026-09-30T12:00:07+00:00"
+  },
+  "https://blog.python.org/2026/09/language-summit-2026-spicycrab": {
+    "title": "Spicycrab (Python Language Summit 2026)",
+    "source": "Python Insider",
+    "first_seen": "2026-09-30T15:25:50.350716+00:00",
+    "published": "2026-09-30T12:00:06+00:00"
+  },
+  "https://blog.python.org/2026/09/language-summit-2026-rust-for-cpython": {
+    "title": "Rust for CPython (Python Language Summit 2026)",
+    "source": "Python Insider",
+    "first_seen": "2026-09-30T15:25:50.350716+00:00",
+    "published": "2026-09-30T12:00:05+00:00"
+  },
+  "https://blog.python.org/2026/09/language-summit-2026-memory-snapshots": {
+    "title": "Memory Snapshots for CPython (Python Language Summit 2026)",
+    "source": "Python Insider",
+    "first_seen": "2026-09-30T15:25:50.350716+00:00",
+    "published": "2026-09-30T12:00:04+00:00"
+  },
+  "https://blog.python.org/2026/09/language-summit-2026-memory-buffer-protocol": {
+    "title": "Memory Buffer Protocol (Python Language Summit 2026)",
+    "source": "Python Insider",
+    "first_seen": "2026-09-30T15:25:50.350716+00:00",
+    "published": "2026-09-30T12:00:03+00:00"
+  },
+  "https://blog.python.org/2026/09/language-summit-2026-garbage-collection-generational-incremental-both": {
+    "title": "Garbage Collection: Generational? Incremental? Both! (Python Language Summit 2026)",
+    "source": "Python Insider",
+    "first_seen": "2026-09-30T15:25:50.350716+00:00",
+    "published": "2026-09-30T12:00:02+00:00"
+  },
+  "https://blog.python.org/2026/09/language-summit-2026-macos-python": {
+    "title": "macOS and Python (Python Language Summit 2026)",
+    "source": "Python Insider",
+    "first_seen": "2026-09-30T15:25:50.350716+00:00",
+    "published": "2026-09-30T12:00:01+00:00"
+  },
+  "https://realpython.com/quizzes/python315-new-features": {
+    "title": "Quiz: Python 3.15: Cool New Features for You to Try",
+    "source": "Real Python",
+    "first_seen": "2026-09-30T15:25:50.350716+00:00",
+    "published": "2026-09-30T12:00:00+00:00"
+  },
+  "https://realpython.com/quizzes/python-web-applications": {
+    "title": "Quiz: Python Web Applications: Deploy Your Script as a Flask App",
+    "source": "Real Python",
+    "first_seen": "2026-09-30T15:25:50.350716+00:00",
+    "published": "2026-09-30T12:00:00+00:00"
+  },
+  "https://blog.python.org/2026/09/language-summit-2026-namespaces": {
+    "title": "One namespace to namespace them all (Python Language Summit 2026)",
+    "source": "Python Insider",
+    "first_seen": "2026-09-30T15:25:50.350716+00:00",
+    "published": "2026-09-30T12:00:00+00:00"
+  },
+  "https://www.schneier.com/blog/archives/2026/09/i-want-better-reporting-on-ai-genie-behavior.html": {
+    "title": "I Want Better Reporting on AI Genie Behavior",
+    "source": "Schneier on Security",
+    "first_seen": "2026-09-30T15:25:50.350716+00:00",
+    "published": "2026-09-30T11:05:35+00:00"
+  },
+  "https://www.cncf.io/blog/2026/09/30/from-40-seconds-to-under-10-rebuilding-incident-detection-on-opentelemetry-apache-kafka-and-apache-flink-on-kubernetes": {
+    "title": "From 40 seconds to under 10: rebuilding incident detection on OpenTelemetry, Apache Kafka, and Apache Flink on Kubernetes",
+    "source": "CNCF Blog",
+    "first_seen": "2026-09-30T15:25:50.350716+00:00",
+    "published": "2026-09-30T11:00:00+00:00"
+  },
+  "https://thenewstack.io/eclipse-sovereign-ai-foundation": {
+    "title": "Eclipse wants companies to be free to switch AI providers. Today, doing so can mean a costly rebuild.",
+    "source": "The New Stack",
+    "first_seen": "2026-09-30T15:25:50.350716+00:00",
+    "published": "2026-09-30T11:00:00+00:00"
+  },
+  "https://thenewstack.io/openclaw-enterprise-kubernetes-agents": {
+    "title": "“Think of it as Kubernetes for agents”: OpenClaw lands in the enterprise with Nvidia and Red Hat on board",
+    "source": "The New Stack",
+    "first_seen": "2026-09-30T15:25:50.350716+00:00",
+    "published": "2026-09-30T10:36:01+00:00"
+  },
+  "https://www.phoronix.com/news/ARM64-Linux-Stack-Size-Boot": {
+    "title": "Proposal To Set ARM64 Kernel Stack Size At Boot Time To Reduce Memory Consumption",
+    "source": "Phoronix",
+    "first_seen": "2026-09-30T15:25:50.350716+00:00",
+    "published": "2026-09-30T10:27:00+00:00"
+  },
+  "https://www.phoronix.com/news/Intel-Media-Crescent-Island": {
+    "title": "Intel Media Driver 2026Q3 Introduces Crescent Island Support",
+    "source": "Phoronix",
+    "first_seen": "2026-09-30T15:25:50.350716+00:00",
+    "published": "2026-09-30T10:11:06+00:00"
+  },
+  "https://stratechery.com/2026/openai-dev-day-dot-and-openais-product-transition-sign-in-with-chatgpt": {
+    "title": "OpenAI Dev Day, Dot and OpenAI’s Product Transition, Sign In With ChatGPT",
+    "source": "Stratechery",
+    "first_seen": "2026-09-30T15:25:50.350716+00:00",
+    "published": "2026-09-30T10:00:00+00:00"
+  },
+  "https://earendil.com/posts/you-said-no-mcp": {
+    "title": "Pi.dev: You Said No MCP",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-30T15:25:50.350716+00:00",
+    "published": "2026-09-30T09:55:23+00:00"
+  },
+  "https://www.phoronix.com/news/Mesa-Toward-Eliminating-TGSI": {
+    "title": "Mesa Developers To Work Toward Eliminating TGSI IR",
+    "source": "Phoronix",
+    "first_seen": "2026-09-30T15:25:50.350716+00:00",
+    "published": "2026-09-30T09:55:14+00:00"
+  },
+  "https://tomwojcik.com/posts/2026-09-21/september-2026-the-world-today": {
+    "title": "September 2026: The world today, as seen by one Polish guy",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-30T15:25:50.350716+00:00",
+    "published": "2026-09-30T07:12:31+00:00"
+  },
+  "https://lfm.xiffy.nl": {
+    "title": "RSS Feeds for Last.fm",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-30T15:25:50.350716+00:00",
+    "published": "2026-09-30T03:00:05+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-expands-claude-model-availability-to-india-cross-region-inference": {
+    "title": "Amazon Bedrock expands Claude model availability to in-country inferencing in India",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-09-30T15:25:50.350716+00:00",
+    "published": "2026-09-30T01:13:14+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/introducing-anthropic-models-on-amazon-bedrock-for-in-region-inference-in-seoul-and-singapore": {
+    "title": "Introducing Anthropic models on Amazon Bedrock for in-region inference in Seoul and Singapore",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-09-30T15:25:50.350716+00:00",
+    "published": "2026-09-30T01:13:12+00:00"
+  },
+  "https://www.phoronix.com/news/Arch-Linux-Archinstall-4.5": {
+    "title": "Archinstall 4.5 For Arch Linux Brings AArch64 Improvements, RT Kernel Options",
+    "source": "Phoronix",
+    "first_seen": "2026-09-30T15:25:50.350716+00:00",
+    "published": "2026-09-30T00:25:51+00:00"
+  },
+  "https://www.elastic.co/blog/mumbai-forge-the-future-hackathon-2026": {
+    "title": "Building production-ready AI in India",
+    "source": "Elastic Blog",
+    "first_seen": "2026-09-30T15:25:50.350716+00:00",
+    "published": "2026-09-30T00:00:00+00:00"
+  },
+  "https://www.elastic.co/blog/elastic-partner-awards-2026": {
+    "title": "Better together: Celebrating the 2026–2027 Elastic Partner Awards",
+    "source": "Elastic Blog",
+    "first_seen": "2026-09-30T15:25:50.350716+00:00",
+    "published": "2026-09-30T00:00:00+00:00"
+  },
+  "https://www.elastic.co/blog/banks-ai-agents-visibility": {
+    "title": "When AI agents move at machine speed, banks need machine-speed visibility",
+    "source": "Elastic Blog",
+    "first_seen": "2026-09-30T15:25:50.350716+00:00",
+    "published": "2026-09-30T00:00:00+00:00"
+  },
+  "https://huggingface.co/blog/open-tts-leaderboard": {
+    "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-09-30T15:25:50.350716+00:00",
+    "published": "2026-09-30T00:00:00+00:00"
+  },
+  "https://astro.build/blog/whats-new-september-2026": {
+    "title": "What's new in Astro - September 2026",
+    "source": "Astro Blog",
+    "first_seen": "2026-09-30T15:25:50.350716+00:00",
+    "published": "2026-09-30T00:00:00+00:00"
+  },
+  "https://www.bigmessowires.com/2026/09/29/floppy-emu-hardware-failure-analysis-results": {
+    "title": "Floppy Emu Hardware Failure Analysis Results",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-30T15:25:50.350716+00:00",
+    "published": "2026-09-29T23:10:26+00:00"
+  },
+  "https://www.gevernova.com/news/press-releases/nrc-issues-first-us-construction-permit-bwrx-300-small-modular-reactor-tva-clinch-river": {
+    "title": "NRC issues first U.S. construction permit for a BWRX-300 small modular reactor",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-09-30T15:25:50.350716+00:00",
+    "published": "2026-09-29T23:03:38+00:00"
+  },
+  "https://simonwillison.net/2026/Sep/29/hn-49898129": {
+    "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
+    "source": "Simon Willison",
+    "first_seen": "2026-09-30T15:25:50.350716+00:00",
+    "published": "2026-09-29T18:27:48+00:00"
+  },
+  "https://simonwillison.net/2026/Sep/29/photo-scrubber": {
+    "title": "Photo Scrubber — local face blur & metadata removal",
+    "source": "Simon Willison",
+    "first_seen": "2026-09-30T15:25:50.350716+00:00",
+    "published": "2026-09-29T16:45:27+00:00"
   }
 }
