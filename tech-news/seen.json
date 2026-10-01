@@ -98918,5 +98918,251 @@
     "source": "Simon Willison",
     "first_seen": "2026-09-30T15:25:50.350716+00:00",
     "published": "2026-09-29T16:45:27+00:00"
+  },
+  "https://www.databricks.com/blog/ip-functions-are-generally-available-bringing-high-performance-network-analytics-lakehouse": {
+    "title": "IP Functions are Generally Available, bringing high-performance network analytics to the Lakehouse",
+    "source": "Databricks Blog",
+    "first_seen": "2026-10-01T00:14:05.466717+00:00",
+    "published": "2026-10-01T01:46:05+00:00"
+  },
+  "https://aws.amazon.com/blogs/aws/amazon-s3-tables-now-support-all-apache-iceberg-v3-data-types": {
+    "title": "Amazon S3 Tables now support all Apache Iceberg V3 data types",
+    "source": "AWS Blog",
+    "first_seen": "2026-10-01T00:14:05.466717+00:00",
+    "published": "2026-09-30T22:10:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/aws-and-amd-bring-5th-generation-amd-epyc-processors-to-amazon-aurora-and-amazon-rds": {
+    "title": "AWS and AMD bring 5th generation AMD EPYC processors to Amazon Aurora and Amazon RDS",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-10-01T00:14:05.466717+00:00",
+    "published": "2026-09-30T22:06:18+00:00"
+  },
+  "https://simonwillison.net/2026/Sep/30/he-built-this-city": {
+    "title": "He Built This City",
+    "source": "Simon Willison",
+    "first_seen": "2026-10-01T00:14:05.466717+00:00",
+    "published": "2026-09-30T21:54:19+00:00"
+  },
+  "https://developer.nvidia.com/blog/deploying-an-hstu-generative-recommender-with-nvidia-dynamo-triton": {
+    "title": "Deploying an HSTU Generative Recommender with NVIDIA Dynamo-Triton",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-10-01T00:14:05.466717+00:00",
+    "published": "2026-09-30T20:54:59+00:00"
+  },
+  "https://aws.amazon.com/blogs/aws/amazon-s3-vectors-now-supports-metadata-pre-filtering-for-higher-recall-on-filtered-searches": {
+    "title": "Amazon S3 Vectors now supports metadata pre-filtering for higher recall on filtered searches",
+    "source": "AWS Blog",
+    "first_seen": "2026-10-01T00:14:05.466717+00:00",
+    "published": "2026-09-30T20:03:34+00:00"
+  },
+  "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence": {
+    "title": "Gemini 4 Argon: our next era of frontier intelligence",
+    "source": "DeepMind Blog",
+    "first_seen": "2026-10-01T00:14:05.466717+00:00",
+    "published": "2026-09-30T20:01:45+00:00"
+  },
+  "https://thenewstack.io/google-gemini-4-argon": {
+    "title": "Gemini 4 Argon is here: It’s great, and you can’t have it yet",
+    "source": "The New Stack",
+    "first_seen": "2026-10-01T00:14:05.466717+00:00",
+    "published": "2026-09-30T20:00:00+00:00"
+  },
+  "https://developer.nvidia.com/blog/expanding-ai-storage-access-with-nvidia-cuobject-and-the-nvidia-scada-server-sdk": {
+    "title": "Expanding AI Storage Access with NVIDIA cuObject and the NVIDIA SCADA Server SDK",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-10-01T00:14:05.466717+00:00",
+    "published": "2026-09-30T19:13:02+00:00"
+  },
+  "https://aws.amazon.com/blogs/architecture/running-multi-day-az-evacuation-drills-with-arc-zonal-shift": {
+    "title": "Running multi-day AZ evacuation drills with ARC Zonal Shift",
+    "source": "AWS Architecture Blog",
+    "first_seen": "2026-10-01T00:14:05.466717+00:00",
+    "published": "2026-09-30T19:01:57+00:00"
+  },
+  "https://www.phoronix.com/news/Q3-2026-Highlights": {
+    "title": "More AI In Open-Source, CachyOS, Ryzen AI Halo, Framework Laptop 13 Pro & Other Q3 Hits",
+    "source": "Phoronix",
+    "first_seen": "2026-10-01T00:14:05.466717+00:00",
+    "published": "2026-09-30T18:57:43+00:00"
+  },
+  "https://thenewstack.io/cohere-embed-pro-fast": {
+    "title": "Cohere’s faster query model barely dents retrieval quality in its tests",
+    "source": "The New Stack",
+    "first_seen": "2026-10-01T00:14:05.466717+00:00",
+    "published": "2026-09-30T18:41:53+00:00"
+  },
+  "https://aws.amazon.com/blogs/architecture/how-mhk-built-a-hipaa-eligible-agentic-ai-solution-on-amazon-bedrock": {
+    "title": "How MHK built a HIPAA-eligible agentic AI solution on Amazon Bedrock",
+    "source": "AWS Architecture Blog",
+    "first_seen": "2026-10-01T00:14:05.466717+00:00",
+    "published": "2026-09-30T18:30:24+00:00"
+  },
+  "https://thenewstack.io/cloudbees-ceo-ai-transformation": {
+    "title": "CloudBees just committed to an AI-first pivot. Here’s why it matters for enterprise DevOps teams",
+    "source": "The New Stack",
+    "first_seen": "2026-10-01T00:14:05.466717+00:00",
+    "published": "2026-09-30T18:08:49+00:00"
+  },
+  "https://nextjs.org/blog/september-2026-security-release": {
+    "title": "September 2026 Security Release",
+    "source": "Next.js Blog",
+    "first_seen": "2026-10-01T00:14:05.466717+00:00",
+    "published": "2026-09-30T18:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/EDG-CPP-Open-Sourced": {
+    "title": "EDG C/C++ Front-End Open-Sourced",
+    "source": "Phoronix",
+    "first_seen": "2026-10-01T00:14:05.466717+00:00",
+    "published": "2026-09-30T17:53:32+00:00"
+  },
+  "https://aws.amazon.com/blogs/aws/amazon-aurora-postgresql-now-supports-direct-querying-of-apache-iceberg-and-parquet-data-in-your-data-lake": {
+    "title": "Amazon Aurora PostgreSQL now supports direct querying of Apache Iceberg and Parquet data in your data lake",
+    "source": "AWS Blog",
+    "first_seen": "2026-10-01T00:14:05.466717+00:00",
+    "published": "2026-09-30T17:22:31+00:00"
+  },
+  "https://devblogs.microsoft.com/devops/updates-to-copilot-code-reviews-for-azure-repos": {
+    "title": "Updates to Copilot Code Reviews for Azure Repos",
+    "source": "MS DevOps Blog",
+    "first_seen": "2026-10-01T00:14:05.466717+00:00",
+    "published": "2026-09-30T17:05:16+00:00"
+  },
+  "https://aws.amazon.com/blogs/aws/celebrating-our-newest-aws-heroes-september-2026": {
+    "title": "Celebrating Our Newest AWS Heroes – September 2026",
+    "source": "AWS Blog",
+    "first_seen": "2026-10-01T00:14:05.466717+00:00",
+    "published": "2026-09-30T17:04:05+00:00"
+  },
+  "https://stackoverflow.blog/2026/09/30/organizations-need-decision-grade-knowledge-ai-makes-it-urgent": {
+    "title": "Organizations need decision-grade knowledge. AI makes it urgent.",
+    "source": "Stack Overflow Blog",
+    "first_seen": "2026-10-01T00:14:05.466717+00:00",
+    "published": "2026-09-30T17:00:00+00:00"
+  },
+  "https://www.databricks.com/blog/introducing-aidecide-make-fast-decisions-your-governed-data": {
+    "title": "Introducing ai_decide: make fast decisions on your governed data",
+    "source": "Databricks Blog",
+    "first_seen": "2026-10-01T00:14:05.466717+00:00",
+    "published": "2026-09-30T16:59:34+00:00"
+  },
+  "https://www.databricks.com/blog/practical-guide-cost-optimization-lakebase-postgres": {
+    "title": "A practical guide to cost optimization with Lakebase Postgres",
+    "source": "Databricks Blog",
+    "first_seen": "2026-10-01T00:14:05.466717+00:00",
+    "published": "2026-09-30T16:53:12+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/resolving-postgresql-replication-lag-with-heartbeat-tables-in-change-data-capture-scenarios": {
+    "title": "Resolving PostgreSQL replication lag with heartbeat tables in change data capture scenarios",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-10-01T00:14:05.466717+00:00",
+    "published": "2026-09-30T16:47:04+00:00"
+  },
+  "https://www.databricks.com/blog/how-scale-agentic-applications-without-creating-ai-sprawl": {
+    "title": "How to scale agentic applications without creating AI sprawl",
+    "source": "Databricks Blog",
+    "first_seen": "2026-10-01T00:14:05.466717+00:00",
+    "published": "2026-09-30T16:46:25+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/migrate-db2-z-os-to-amazon-aurora-postgresql-using-aws-dms-and-gateway-server": {
+    "title": "Migrate Db2 z/OS to Amazon Aurora PostgreSQL using AWS DMS and gateway server",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-10-01T00:14:05.466717+00:00",
+    "published": "2026-09-30T16:45:26+00:00"
+  },
+  "https://pytorch.org/blog/a-ray-focused-guide-to-pytorch-conference-north-america": {
+    "title": "A Ray-Focused Guide to PyTorch Conference North America",
+    "source": "PyTorch Blog",
+    "first_seen": "2026-10-01T00:14:05.466717+00:00",
+    "published": "2026-09-30T16:45:20+00:00"
+  },
+  "https://newsletter.pragmaticengineer.com/p/distributed-databases-with-peter": {
+    "title": "Distributed databases with Peter Mattis",
+    "source": "The Pragmatic Engineer",
+    "first_seen": "2026-10-01T00:14:05.466717+00:00",
+    "published": "2026-09-30T16:30:05+00:00"
+  },
+  "https://stackoverflow.blog/2026/09/30/anyone-can-start-building-verified-knowledge-with-stack-internal": {
+    "title": "Anyone can start building verified knowledge with Stack Internal",
+    "source": "Stack Overflow Blog",
+    "first_seen": "2026-10-01T00:14:05.466717+00:00",
+    "published": "2026-09-30T16:00:00+00:00"
+  },
+  "https://developer.nvidia.com/blog/tracing-agent-harness-behavior-with-nvidia-nemo-relay": {
+    "title": "Tracing Agent Harness Behavior with NVIDIA NeMo Relay",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-10-01T00:14:05.466717+00:00",
+    "published": "2026-09-30T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-how-cybersecurity-startups-can-win-cisos": {
+    "title": "Cloud CISO Perspectives: How cybersecurity startups can win CISOs",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-10-01T00:14:05.466717+00:00",
+    "published": "2026-09-30T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/databases/spanner-omni-deploy-anywhere-version-of-spanner-is-now-ga": {
+    "title": "Spanner Omni, now GA: A distributed, multi-model database that you can deploy anywhere",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-10-01T00:14:05.466717+00:00",
+    "published": "2026-09-30T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/ai-machine-learning/google-cloud-cli-remote-mcp-server-in-preview": {
+    "title": "Empower your agents with the Google Cloud CLI remote MCP server",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-10-01T00:14:05.466717+00:00",
+    "published": "2026-09-30T16:00:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/query-claims-in-natural-language-with-amazon-bedrock-knowledge-bases": {
+    "title": "Query claims in natural language with Amazon Bedrock Knowledge Bases",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-10-01T00:14:05.466717+00:00",
+    "published": "2026-09-30T15:37:15+00:00"
+  },
+  "https://aws.amazon.com/blogs/containers/ai-powered-eks-migration-assessment-with-amazon-bedrock-agentcore": {
+    "title": "AI-powered EKS migration assessment with Amazon Bedrock AgentCore",
+    "source": "AWS Containers Blog",
+    "first_seen": "2026-10-01T00:14:05.466717+00:00",
+    "published": "2026-09-30T15:34:19+00:00"
+  },
+  "https://lwn.net/Articles/1096518": {
+    "title": "[$] The year in Plasma and what's ahead",
+    "source": "LWN.net",
+    "first_seen": "2026-10-01T00:14:05.466717+00:00",
+    "published": "2026-09-30T15:31:42+00:00"
+  },
+  "https://blog.bytebytego.com/p/how-doordash-built-a-toolbox-for": {
+    "title": "How DoorDash Built a Toolbox for AI Agents",
+    "source": "ByteByteGo",
+    "first_seen": "2026-10-01T00:14:05.466717+00:00",
+    "published": "2026-09-30T15:31:13+00:00"
+  },
+  "https://thenewstack.io/openai-dots-agent-permissions": {
+    "title": "OpenAI’s Dots boundary problem rate doubled in longer tests",
+    "source": "The New Stack",
+    "first_seen": "2026-10-01T00:14:05.466717+00:00",
+    "published": "2026-09-30T15:26:15+00:00"
+  },
+  "https://neon.com/blog/how-we-systematically-improved-our-reliability": {
+    "title": "How we systematically improved our reliability",
+    "source": "Neon Blog",
+    "first_seen": "2026-10-01T00:14:05.466717+00:00",
+    "published": "2026-09-30T12:00:00+00:00"
+  },
+  "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign": {
+    "title": "Disrupting a coordinated model-distillation campaign",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-10-01T00:14:05.466717+00:00",
+    "published": "2026-09-30T10:30:00+00:00"
+  },
+  "https://openai.com/index/helping-small-businesses-put-ai-to-work": {
+    "title": "Helping small businesses put AI to work",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-10-01T00:14:05.466717+00:00",
+    "published": "2026-09-30T10:00:00+00:00"
+  },
+  "https://blog.sentry.io/etsy-peak-traffic-prep": {
+    "title": "How Etsy gets its mobile apps ready for peak traffic",
+    "source": "Sentry Blog",
+    "first_seen": "2026-10-01T00:14:05.466717+00:00",
+    "published": "2026-09-30T09:00:00+00:00"
   }
 }
