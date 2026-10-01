@@ -99164,5 +99164,431 @@
     "source": "Sentry Blog",
     "first_seen": "2026-10-01T00:14:05.466717+00:00",
     "published": "2026-09-30T09:00:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/architecture/accelerating-airline-retailing-innovation-how-datalex-modernized-with-aws-experience-based-acceleration-and-agentic-ai": {
+    "title": "Accelerating airline retailing innovation: how Datalex modernized with AWS Experience-Based Acceleration and agentic AI",
+    "source": "AWS Architecture Blog",
+    "first_seen": "2026-10-01T15:46:17.651902+00:00",
+    "published": "2026-10-01T15:37:06+00:00"
+  },
+  "https://blog.cloudflare.com/clef-decision-models": {
+    "title": "Introducing Clef: our open-source decision models, and new RL fine-tuning platform",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-10-01T15:46:17.651902+00:00",
+    "published": "2026-10-01T15:34:02+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/how-uniopen-customized-amazon-nova-to-their-retail-moderation-policies-for-production-deployment": {
+    "title": "How uniopen customized Amazon Nova to their retail moderation policies for production deployment",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-10-01T15:46:17.651902+00:00",
+    "published": "2026-10-01T15:33:01+00:00"
+  },
+  "https://blog.bytebytego.com/p/why-state-is-the-hardest-thing-in": {
+    "title": "Why State is the Hardest Thing in Software Design",
+    "source": "ByteByteGo",
+    "first_seen": "2026-10-01T15:46:17.651902+00:00",
+    "published": "2026-10-01T15:31:21+00:00"
+  },
+  "https://thenewstack.io/kubernetes-operations-ownership-governance": {
+    "title": "A live Kubernetes cluster can still have an ownership gap",
+    "source": "The New Stack",
+    "first_seen": "2026-10-01T15:46:17.651902+00:00",
+    "published": "2026-10-01T15:30:00+00:00"
+  },
+  "https://openid.net/wp-content/uploads/2025/10/Identity-Management-for-Agentic-AI.pdf": {
+    "title": "OpenID Foundation: Identity Management for Agentic AI [pdf]",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-01T15:46:17.651902+00:00",
+    "published": "2026-10-01T15:11:10+00:00"
+  },
+  "https://twitter.com/GayaniFigma/status/2105295629941350454": {
+    "title": "Figma restricts MCP access to whitelisted clients, excluding Pi",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-01T15:46:17.651902+00:00",
+    "published": "2026-10-01T15:10:46+00:00"
+  },
+  "https://github.blog/news-insights/company-news/10-technical-talks-im-excited-about-at-github-universe-2026": {
+    "title": "10 technical talks I’m excited about at GitHub Universe 2026",
+    "source": "GitHub Blog",
+    "first_seen": "2026-10-01T15:46:17.651902+00:00",
+    "published": "2026-10-01T15:07:16+00:00"
+  },
+  "https://blogs.microsoft.com/blog/2026/10/01/microsoft-365-and-linkedin-leadership-update": {
+    "title": "Microsoft 365 and LinkedIn leadership update",
+    "source": "Microsoft Blog",
+    "first_seen": "2026-10-01T15:46:17.651902+00:00",
+    "published": "2026-10-01T15:03:27+00:00"
+  },
+  "https://lwn.net/Articles/1096908": {
+    "title": "[$] Coping with the onslaught of kernel security bugs",
+    "source": "LWN.net",
+    "first_seen": "2026-10-01T15:46:17.651902+00:00",
+    "published": "2026-10-01T15:03:25+00:00"
+  },
+  "https://www.polyedergarten.de/e_index.htm": {
+    "title": "Polyedergarten: Garden of Paper Polyhedron Models",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-01T15:46:17.651902+00:00",
+    "published": "2026-10-01T15:02:51+00:00"
+  },
+  "https://huggingface.co/blog/allenai/olmocore3": {
+    "title": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-10-01T15:46:17.651902+00:00",
+    "published": "2026-10-01T15:01:43+00:00"
+  },
+  "https://con.racket-lang.org": {
+    "title": "RacketCon Is Saturday",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-01T15:46:17.651902+00:00",
+    "published": "2026-10-01T14:58:13+00:00"
+  },
+  "https://stackoverflow.blog/2026/10/01/a-look-back-before-we-look-forward-a-developer-survey-retrospective": {
+    "title": "A look back before we look forward: A Developer Survey retrospective",
+    "source": "Stack Overflow Blog",
+    "first_seen": "2026-10-01T15:46:17.651902+00:00",
+    "published": "2026-10-01T14:47:33+00:00"
+  },
+  "https://www.404media.co/cops-can-bypass-iphone-automatic-inactivity-reboot-graykey": {
+    "title": "Cops Can Bypass iPhone's Automatic Reboot to Get into Locked Phones",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-01T15:46:17.651902+00:00",
+    "published": "2026-10-01T14:38:35+00:00"
+  },
+  "https://www.phoronix.com/news/Qt-Creator-21-Beta": {
+    "title": "Qt Creator 21 IDE Beta Enables More AI Functionality By Default",
+    "source": "Phoronix",
+    "first_seen": "2026-10-01T15:46:17.651902+00:00",
+    "published": "2026-10-01T14:10:01+00:00"
+  },
+  "https://thenewstack.io/when-to-use-graph-rag": {
+    "title": "Use Graph RAG when relationships are part of the evidence",
+    "source": "The New Stack",
+    "first_seen": "2026-10-01T15:46:17.651902+00:00",
+    "published": "2026-10-01T13:30:00+00:00"
+  },
+  "https://lwn.net/Articles/1098068": {
+    "title": "Rust 1.99.0 released",
+    "source": "LWN.net",
+    "first_seen": "2026-10-01T15:46:17.651902+00:00",
+    "published": "2026-10-01T13:25:17+00:00"
+  },
+  "https://lwn.net/Articles/1098067": {
+    "title": "Security updates for Thursday",
+    "source": "LWN.net",
+    "first_seen": "2026-10-01T15:46:17.651902+00:00",
+    "published": "2026-10-01T13:12:52+00:00"
+  },
+  "https://www.nytimes.com/2026/09/30/technology/meta-ai-data-centers-taxes.html": {
+    "title": "Meta Uses A.I. Data Centers to Avoid Billions in Federal Taxes",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-01T15:46:17.651902+00:00",
+    "published": "2026-10-01T13:05:51+00:00"
+  },
+  "https://blog.cloudflare.com/sovereign-ai-choice-one-year-later": {
+    "title": "One year later: Sovereign AI and the fight for choice",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-10-01T15:46:17.651902+00:00",
+    "published": "2026-10-01T13:04:19+00:00"
+  },
+  "https://www.ft.com/content/bc178357-793b-45d8-ae3b-d5929159c243": {
+    "title": "An AI sovereign wealth fund isn't progressive – it's techno-imperialism",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-01T15:46:17.651902+00:00",
+    "published": "2026-10-01T13:01:02+00:00"
+  },
+  "https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html": {
+    "title": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-01T15:46:17.651902+00:00",
+    "published": "2026-10-01T13:00:55+00:00"
+  },
+  "https://cloud.google.com/blog/topics/developers-practitioners/introducing-the-server-side-cloud-swift-sdk": {
+    "title": "Introducing the Server Side Cloud Swift SDK",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-10-01T15:46:17.651902+00:00",
+    "published": "2026-10-01T13:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/topics/developers-practitioners/democratizing-managed-lustre-with-lower-cost-and-frictionless-development": {
+    "title": "Democratizing Managed Lustre with lower cost and frictionless development",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-10-01T15:46:17.651902+00:00",
+    "published": "2026-10-01T13:00:00+00:00"
+  },
+  "https://blog.cloudflare.com/workers-ml-kem-ml-dsa-support": {
+    "title": "Support for modern cryptographic algorithms in Workers",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-10-01T15:46:17.651902+00:00",
+    "published": "2026-10-01T13:00:00+00:00"
+  },
+  "https://blog.cloudflare.com/workers-kv-instant": {
+    "title": "Introducing Workers KV Instant — powered by Quicksilver",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-10-01T15:46:17.651902+00:00",
+    "published": "2026-10-01T13:00:00+00:00"
+  },
+  "https://blog.cloudflare.com/next-git-platform-on-cloudflare": {
+    "title": "We want you to build the next Git platform on Cloudflare",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-10-01T15:46:17.651902+00:00",
+    "published": "2026-10-01T13:00:00+00:00"
+  },
+  "https://blog.cloudflare.com/managed-cloudflare-os": {
+    "title": "Cloudflare OS: your company’s agent workspace, managed for you",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-10-01T15:46:17.651902+00:00",
+    "published": "2026-10-01T13:00:00+00:00"
+  },
+  "https://blog.cloudflare.com/cloudflare-k2-streams": {
+    "title": "Announcing Cloudflare K2: serverless event streams",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-10-01T15:46:17.651902+00:00",
+    "published": "2026-10-01T13:00:00+00:00"
+  },
+  "https://blog.cloudflare.com/ai-search-ga": {
+    "title": "AI Search is now generally available",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-10-01T15:46:17.651902+00:00",
+    "published": "2026-10-01T13:00:00+00:00"
+  },
+  "https://blog.cloudflare.com/cloudflare-basin": {
+    "title": "Introducing Cloudflare Basin: an open, serverless data platform, now generally available",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-10-01T15:46:17.651902+00:00",
+    "published": "2026-10-01T12:58:00+00:00"
+  },
+  "https://www.osnews.com/story/146052/google-breaks-promise-to-provide-10-years-of-updates-to-chromebooks": {
+    "title": "Google breaks promise to provide 10 years of updates to Chromebooks",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-01T15:46:17.651902+00:00",
+    "published": "2026-10-01T12:55:27+00:00"
+  },
+  "https://www.phoronix.com/news/AMD-RMPOPT-For-Linux-7.4": {
+    "title": "AMD RMPOPT Optimization Queued Ahead Of Linux 7.4",
+    "source": "Phoronix",
+    "first_seen": "2026-10-01T15:46:17.651902+00:00",
+    "published": "2026-10-01T12:52:00+00:00"
+  },
+  "https://www.techpowerup.com/353296/micron-ceo-says-memory-supply-will-be-much-tighter-in-2027-and-2028-than-in-2026": {
+    "title": "Micron CEO Says Memory Supply Will Be Much Tighter in 2027 and 2028 Than in 2026",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-01T15:46:17.651902+00:00",
+    "published": "2026-10-01T12:48:59+00:00"
+  },
+  "https://nnethercote.github.io/2026/09/30/how-to-speed-up-the-rust-compiler-in-september-2026.html": {
+    "title": "How to speed up the Rust compiler in September 2026",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-01T15:46:17.651902+00:00",
+    "published": "2026-10-01T12:44:38+00:00"
+  },
+  "https://thenewstack.io/ai-security-attacker-mindset": {
+    "title": "In AI security, there’s no room for a defender’s mindset",
+    "source": "The New Stack",
+    "first_seen": "2026-10-01T15:46:17.651902+00:00",
+    "published": "2026-10-01T12:30:00+00:00"
+  },
+  "https://devblogs.microsoft.com/devops/github-hosted-agents-with-pay-as-you-go-pricing-are-now-generally-available-in-azure-pipelines": {
+    "title": "GitHub-hosted agents with Pay-as-you-Go pricing are now generally available in Azure Pipelines",
+    "source": "MS DevOps Blog",
+    "first_seen": "2026-10-01T15:46:17.651902+00:00",
+    "published": "2026-10-01T12:27:54+00:00"
+  },
+  "https://www.databricks.com/blog/connecting-customer-context-measurable-roi-agentic-marketing": {
+    "title": "Connecting customer context to measurable ROI with agentic marketing",
+    "source": "Databricks Blog",
+    "first_seen": "2026-10-01T15:46:17.651902+00:00",
+    "published": "2026-10-01T12:11:31+00:00"
+  },
+  "https://www.construction-physics.com/p/understanding-the-ai-that-drives": {
+    "title": "Understanding the AI That Drives Robots",
+    "source": "Construction Physics",
+    "first_seen": "2026-10-01T15:46:17.651902+00:00",
+    "published": "2026-10-01T12:04:36+00:00"
+  },
+  "https://www.phoronix.com/news/Clearing-Old-ARM-Code-Challenge": {
+    "title": "Clearing Out Linux's Old 32-bit ARM Platform Code Is Itself A Challenge",
+    "source": "Phoronix",
+    "first_seen": "2026-10-01T15:46:17.651902+00:00",
+    "published": "2026-10-01T12:04:18+00:00"
+  },
+  "https://thenewstack.io/coding-agents-leaked-screenshots": {
+    "title": "AI coding agents leaked 13,000 screenshots, and nobody hacked them.",
+    "source": "The New Stack",
+    "first_seen": "2026-10-01T15:46:17.651902+00:00",
+    "published": "2026-10-01T12:00:00+00:00"
+  },
+  "https://realpython.com/quizzes/pygame-a-primer": {
+    "title": "Quiz: Pygame: A Primer on Game Programming in Python",
+    "source": "Real Python",
+    "first_seen": "2026-10-01T15:46:17.651902+00:00",
+    "published": "2026-10-01T12:00:00+00:00"
+  },
+  "https://www.cncf.io/blog/2026/10/01/guardrails-not-gates-rethinking-policy-in-platform-teams": {
+    "title": "Guardrails, not gates: rethinking policy in platform teams",
+    "source": "CNCF Blog",
+    "first_seen": "2026-10-01T15:46:17.651902+00:00",
+    "published": "2026-10-01T11:30:00+00:00"
+  },
+  "https://arstechnica.com/tech-policy/2026/09/immigration-advocate-sues-border-agents-for-demanding-his-cell-phone": {
+    "title": "Returning from vacation? The government can search your phone without a warrant",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-01T15:46:17.651902+00:00",
+    "published": "2026-10-01T11:13:59+00:00"
+  },
+  "https://www.schneier.com/blog/archives/2026/10/connected-cars-are-a-surveillance-platform.html": {
+    "title": "Connected Cars Are a Surveillance Platform",
+    "source": "Schneier on Security",
+    "first_seen": "2026-10-01T15:46:17.651902+00:00",
+    "published": "2026-10-01T11:06:14+00:00"
+  },
+  "https://www.phoronix.com/news/Intel-Optimization-Zone-1.2": {
+    "title": "Intel Optimization Zone 1.2 Released With New Guides & Recommendations",
+    "source": "Phoronix",
+    "first_seen": "2026-10-01T15:46:17.651902+00:00",
+    "published": "2026-10-01T11:06:11+00:00"
+  },
+  "https://thenewstack.io/unified-api-layer-agents": {
+    "title": "AI agents speed up development — data access slows them down",
+    "source": "The New Stack",
+    "first_seen": "2026-10-01T15:46:17.651902+00:00",
+    "published": "2026-10-01T11:00:00+00:00"
+  },
+  "https://github.com/streetcomplete/StreetComplete/issues/5421": {
+    "title": "StreetComplete on iOS is now in public beta",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-01T15:46:17.651902+00:00",
+    "published": "2026-10-01T10:59:57+00:00"
+  },
+  "https://www.phoronix.com/news/NVIDIA-Olympus-SMT-Better": {
+    "title": "NVIDIA Olympus SMT Optimizations For Vera CPU Showing 3~6% Performance Gains",
+    "source": "Phoronix",
+    "first_seen": "2026-10-01T15:46:17.651902+00:00",
+    "published": "2026-10-01T10:27:41+00:00"
+  },
+  "https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design": {
+    "title": "GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-01T15:46:17.651902+00:00",
+    "published": "2026-10-01T10:21:36+00:00"
+  },
+  "https://www.phoronix.com/news/Qualcomm-More-OSS-GPU-2026": {
+    "title": "Qualcomm Continues Doing More For Their Open-Source Linux Graphics Drivers",
+    "source": "Phoronix",
+    "first_seen": "2026-10-01T15:46:17.651902+00:00",
+    "published": "2026-10-01T10:17:00+00:00"
+  },
+  "https://stratechery.com/2026/an-interview-with-jason-del-rey-about-muse-amazon-and-walmart": {
+    "title": "An Interview with Jason Del Rey About Muse, Amazon, and Walmart",
+    "source": "Stratechery",
+    "first_seen": "2026-10-01T15:46:17.651902+00:00",
+    "published": "2026-10-01T10:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/Renesas-SH7305-Linux-Patches": {
+    "title": "New Linux Patches Trying To Mainline Renesas SH7305 CPU Support",
+    "source": "Phoronix",
+    "first_seen": "2026-10-01T15:46:17.651902+00:00",
+    "published": "2026-10-01T09:55:08+00:00"
+  },
+  "https://www.ycombinator.com/companies/truemetrics/jobs/THLEzXI-gtm-founder-s-associate": {
+    "title": "Truemetrics (YC S23) Is Hiring a GTM Founder's Associate",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-01T15:46:17.651902+00:00",
+    "published": "2026-10-01T09:48:18+00:00"
+  },
+  "https://www.phoronix.com/news/Raspberry-Pi-5-2GB-Price-77.50": {
+    "title": "Raspberry Pi 5 2GB Price Increases To $77.50 USD",
+    "source": "Phoronix",
+    "first_seen": "2026-10-01T15:46:17.651902+00:00",
+    "published": "2026-10-01T09:29:41+00:00"
+  },
+  "https://simonwillison.net/2026/Oct/1/matthew-green": {
+    "title": "Quoting Matthew Green",
+    "source": "Simon Willison",
+    "first_seen": "2026-10-01T15:46:17.651902+00:00",
+    "published": "2026-10-01T06:29:01+00:00"
+  },
+  "https://developer.nvidia.com/blog/fine-tuning-nvidia-nemotron-for-saudi-arabic-dialects-with-a-path-to-other-languages": {
+    "title": "Fine-Tuning NVIDIA Nemotron for Saudi Arabic Dialects, with a Path to Other Languages",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-10-01T15:46:17.651902+00:00",
+    "published": "2026-10-01T05:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/OpenMandriva-ROME-26.09": {
+    "title": "OpenMandriva ROME 26.09 Released With More AI Apps, Snaps & PGO + LTO Optimizations",
+    "source": "Phoronix",
+    "first_seen": "2026-10-01T15:46:17.651902+00:00",
+    "published": "2026-10-01T01:36:25+00:00"
+  },
+  "https://lwn.net/Articles/1096293": {
+    "title": "[$] LWN.net Weekly Edition for October 1, 2026",
+    "source": "LWN.net",
+    "first_seen": "2026-10-01T15:46:17.651902+00:00",
+    "published": "2026-10-01T00:30:07+00:00"
+  },
+  "https://www.phoronix.com/news/Steam-Frame-Turnip-Foveated": {
+    "title": "Valve's Work On Foveated Rendering For The Open-Source Turnip Driver On The Steam Frame",
+    "source": "Phoronix",
+    "first_seen": "2026-10-01T15:46:17.651902+00:00",
+    "published": "2026-10-01T00:18:48+00:00"
+  },
+  "https://machinelearning.apple.com/research/rltl-dr-self-improvement": {
+    "title": "RLTL;DR: Self-Improvement by Internalizing Self-Generated Feedback",
+    "source": "Apple ML Journal",
+    "first_seen": "2026-10-01T15:46:17.651902+00:00",
+    "published": "2026-10-01T00:00:00+00:00"
+  },
+  "https://machinelearning.apple.com/research/harness-autonomous-ml-engineering": {
+    "title": "How Much of a Harness Does a Strong Agent Need for Autonomous ML Engineering?",
+    "source": "Apple ML Journal",
+    "first_seen": "2026-10-01T15:46:17.651902+00:00",
+    "published": "2026-10-01T00:00:00+00:00"
+  },
+  "https://blog.rust-lang.org/2026/10/01/Rust-1.99.0": {
+    "title": "Announcing Rust 1.99.0",
+    "source": "Rust Blog",
+    "first_seen": "2026-10-01T15:46:17.651902+00:00",
+    "published": "2026-10-01T00:00:00+00:00"
+  },
+  "https://blog.python.org/2026/10/python-31022-31117": {
+    "title": "Python 3.10.22, 3.11.17, 3.12.15, 3.13.16 and 3.14.8 are now available!",
+    "source": "Python Insider",
+    "first_seen": "2026-10-01T15:46:17.651902+00:00",
+    "published": "2026-10-01T00:00:00+00:00"
+  },
+  "https://www.thespacereview.com/article/4951/1": {
+    "title": "The top secret URSALA, RAQUEL, and FARRAH satellites (2025)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-01T15:46:17.651902+00:00",
+    "published": "2026-09-30T22:03:04+00:00"
+  },
+  "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon": {
+    "title": "Gemini 4 Argon",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-01T15:46:17.651902+00:00",
+    "published": "2026-09-30T20:04:37+00:00"
+  },
+  "https://www.mattkeeter.com/projects/halfspace": {
+    "title": "Halfspace experimental IDE for solid modeling with distance fields",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-01T15:46:17.651902+00:00",
+    "published": "2026-09-30T19:44:37+00:00"
+  },
+  "https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930": {
+    "title": "Surprisingly complex waves reveal the brain's inner workings",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-01T15:46:17.651902+00:00",
+    "published": "2026-09-30T19:04:50+00:00"
+  },
+  "https://grafana.com/blog/tempo-3-1-release-all-the-latest-features": {
+    "title": "Tempo 3.1 release: new features for Kafka, TraceQL metrics updates, trace redaction, and more",
+    "source": "Grafana Blog",
+    "first_seen": "2026-10-01T15:46:17.651902+00:00",
+    "published": "2026-09-30T19:03:30+00:00"
+  },
+  "https://unsung.aresluna.org/before-pixels-modular-industrial-dashboards": {
+    "title": "Before pixels: Modular industrial dashboards",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-01T15:46:17.651902+00:00",
+    "published": "2026-09-30T18:49:06+00:00"
   }
 }
