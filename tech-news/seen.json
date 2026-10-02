@@ -99590,5 +99590,365 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-10-01T15:46:17.651902+00:00",
     "published": "2026-09-30T18:49:06+00:00"
+  },
+  "https://www.cncf.io/blog/2026/10/01/kubecon-cloudnativecon-north-america-2026-from-user-to-contributor-to-maintainer": {
+    "title": "KubeCon + CloudNativeCon North America 2026: From user to contributor to maintainer",
+    "source": "CNCF Blog",
+    "first_seen": "2026-10-02T00:17:04.383490+00:00",
+    "published": "2026-10-02T00:13:19+00:00"
+  },
+  "https://www.cncf.io/blog/2026/10/01/kubecon-cloudnativecon-north-america-2026-build-your-infrastructure-engineer-journey": {
+    "title": "KubeCon + CloudNativeCon North America 2026: Build your infrastructure engineer journey",
+    "source": "CNCF Blog",
+    "first_seen": "2026-10-02T00:17:04.383490+00:00",
+    "published": "2026-10-02T00:06:46+00:00"
+  },
+  "https://www.cncf.io/blog/2026/10/01/kubecon-cloudnativecon-north-america-2026-build-your-application-developer-journey": {
+    "title": "KubeCon + CloudNativeCon North America 2026: Build your application developer journey",
+    "source": "CNCF Blog",
+    "first_seen": "2026-10-02T00:17:04.383490+00:00",
+    "published": "2026-10-01T23:52:52+00:00"
+  },
+  "https://lwn.net/Articles/1097401": {
+    "title": "Several vulnerabilities have been discovered in the Linux kernel",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-02T00:17:04.383490+00:00",
+    "published": "2026-10-01T23:10:44+00:00"
+  },
+  "https://dogbench.ai": {
+    "title": "DoGBench: The first user-facing docs generation benchmark. No model scores >50%",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-02T00:17:04.383490+00:00",
+    "published": "2026-10-01T23:10:32+00:00"
+  },
+  "https://www.theapplepost.com/2026/10/01/72882/apples-smart-home-camera-reportedly-wont-record-video": {
+    "title": "Apple's smart home camera reportedly won't record video",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-02T00:17:04.383490+00:00",
+    "published": "2026-10-01T23:00:10+00:00"
+  },
+  "https://locaterodeo.net": {
+    "title": "2026 International Utility Locate Rodeo",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-02T00:17:04.383490+00:00",
+    "published": "2026-10-01T22:33:23+00:00"
+  },
+  "https://pytorch.org/blog/optimizing-jagged-flash-attention-with-tlx-the-road-toward-sota-fa4-on-blackwell": {
+    "title": "Optimizing Jagged Flash Attention with TLX: The Road Toward SOTA FA4 on Blackwell",
+    "source": "PyTorch Blog",
+    "first_seen": "2026-10-02T00:17:04.383490+00:00",
+    "published": "2026-10-01T22:26:57+00:00"
+  },
+  "https://aweb.ai": {
+    "title": "Aweb – Communication for AI Agents",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-02T00:17:04.383490+00:00",
+    "published": "2026-10-01T22:02:31+00:00"
+  },
+  "https://thenewstack.io/openai-dots-codex-usage": {
+    "title": "OpenAI’s always-on agents are free, until one specific thing happens",
+    "source": "The New Stack",
+    "first_seen": "2026-10-02T00:17:04.383490+00:00",
+    "published": "2026-10-01T22:00:57+00:00"
+  },
+  "https://www.cssbed.com": {
+    "title": "CSS Bed: Classless CSS themes to use as starting points in web development",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-02T00:17:04.383490+00:00",
+    "published": "2026-10-01T21:21:32+00:00"
+  },
+  "https://molily.de/web-dev-education": {
+    "title": "The death of web development education",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-02T00:17:04.383490+00:00",
+    "published": "2026-10-01T21:07:37+00:00"
+  },
+  "https://www.phoronix.com/review/fedora-45-beta-benchmarks": {
+    "title": "Fedora 45 Beta Performance: The Satisfyingly Boring Benchmarks",
+    "source": "Phoronix",
+    "first_seen": "2026-10-02T00:17:04.383490+00:00",
+    "published": "2026-10-01T20:57:58+00:00"
+  },
+  "https://resobscura.substack.com/p/using-opus-55-to-discover-a-new-eyewitness": {
+    "title": "Using Opus 5.5 to discover a new eyewitness record of the dodo",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-02T00:17:04.383490+00:00",
+    "published": "2026-10-01T20:48:37+00:00"
+  },
+  "https://www.databricks.com/blog/read-restrictions-and-catalog-labels-unifying-governance-across-engines-and-catalogs": {
+    "title": "Read Restrictions and Catalog Labels: Unifying governance across engines and catalogs",
+    "source": "Databricks Blog",
+    "first_seen": "2026-10-02T00:17:04.383490+00:00",
+    "published": "2026-10-01T20:37:30+00:00"
+  },
+  "https://github.com/Vibra-Ingenn/Janus": {
+    "title": "Show HN: Janus – Go binary that runs GGUF models via Vulkan on AMD/Intel/Nvidia",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-02T00:17:04.383490+00:00",
+    "published": "2026-10-01T20:36:47+00:00"
+  },
+  "https://automatictransmission.khoury.northeastern.edu/index.html": {
+    "title": "Automatic Transmission – a data-privacy study of connected vehicles",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-02T00:17:04.383490+00:00",
+    "published": "2026-10-01T20:23:27+00:00"
+  },
+  "https://svelte.dev/blog/sveltekit-3-is-here": {
+    "title": "SvelteKit 3",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-02T00:17:04.383490+00:00",
+    "published": "2026-10-01T20:14:23+00:00"
+  },
+  "https://blog.arxiv.org/2026/10/01/updated-rate-limit-policy": {
+    "title": "ArXiv's Updated Rate Limit Policy",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-02T00:17:04.383490+00:00",
+    "published": "2026-10-01T20:12:15+00:00"
+  },
+  "https://thenewstack.io/cloudflare-x402-agent-spending": {
+    "title": "Cloudflare brings paid access to MCP tools — who controls the agent’s spending?",
+    "source": "The New Stack",
+    "first_seen": "2026-10-02T00:17:04.383490+00:00",
+    "published": "2026-10-01T20:09:20+00:00"
+  },
+  "https://thenewstack.io/dynatrace-arize-agents-observability": {
+    "title": "“No human wants to look at billions of traces”: Dynatrace bought Arize because agents need a new kind of observability",
+    "source": "The New Stack",
+    "first_seen": "2026-10-02T00:17:04.383490+00:00",
+    "published": "2026-10-01T20:05:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/aws/announcing-aws-well-architected-agent-an-ai-powered-intelligence-to-optimize-your-cloud-environment-preview": {
+    "title": "Announcing AWS Well-Architected Agent, an AI-powered intelligence to optimize your cloud environment (preview)",
+    "source": "AWS Blog",
+    "first_seen": "2026-10-02T00:17:04.383490+00:00",
+    "published": "2026-10-01T20:04:04+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/introducing-filtered-export-from-amazon-dynamodb-to-amazon-s3": {
+    "title": "Introducing filtered export from Amazon DynamoDB to Amazon S3",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-10-02T00:17:04.383490+00:00",
+    "published": "2026-10-01T20:01:13+00:00"
+  },
+  "https://www.phoronix.com/news/Mesa-Drops-Direct3D-10-UMD": {
+    "title": "Mesa Drops Its Poorly Maintained & Rarely Used Direct3D 10 User-Mode Driver",
+    "source": "Phoronix",
+    "first_seen": "2026-10-02T00:17:04.383490+00:00",
+    "published": "2026-10-01T20:00:08+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/serve-live-governed-data-in-ai-built-apps-with-amazon-quick": {
+    "title": "Serve live, governed data in AI-built apps with Amazon Quick",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-10-02T00:17:04.383490+00:00",
+    "published": "2026-10-01T19:49:06+00:00"
+  },
+  "https://www.cncf.io/blog/2026/10/01/kubecon-cloudnativecon-north-america-2026-build-your-sre-journey": {
+    "title": "KubeCon + CloudNativeCon North America 2026: Build your SRE journey",
+    "source": "CNCF Blog",
+    "first_seen": "2026-10-02T00:17:04.383490+00:00",
+    "published": "2026-10-01T19:34:20+00:00"
+  },
+  "https://earendil.com/posts/pi-1-0": {
+    "title": "Pi 1.0",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-02T00:17:04.383490+00:00",
+    "published": "2026-10-01T19:33:05+00:00"
+  },
+  "https://www.phoronix.com/news/Ubuntu-26.10-Beta-Released": {
+    "title": "Ubuntu 26.10 Beta Released With Linux 7.3 Kernel, GNOME 51 Desktop",
+    "source": "Phoronix",
+    "first_seen": "2026-10-02T00:17:04.383490+00:00",
+    "published": "2026-10-01T19:26:05+00:00"
+  },
+  "https://earendil.com/posts/pi-durable": {
+    "title": "Pi Durable",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-02T00:17:04.383490+00:00",
+    "published": "2026-10-01T19:24:08+00:00"
+  },
+  "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026AV002570": {
+    "title": "Oxygen-deprived underwater zones may not be “dead zones” but clue to early life",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-02T00:17:04.383490+00:00",
+    "published": "2026-10-01T19:03:42+00:00"
+  },
+  "https://www.docker.com/blog/docker-cloud-sandboxes-wearedevelopers-recap": {
+    "title": "Trust Docker for the agents you don’t",
+    "source": "Docker Blog",
+    "first_seen": "2026-10-02T00:17:04.383490+00:00",
+    "published": "2026-10-01T18:26:12+00:00"
+  },
+  "https://developer.nvidia.com/blog/build-applications-on-nvidia-bluefield-faster-with-nvidia-doca-agent-skills": {
+    "title": "Build Applications on NVIDIA BlueField Faster with NVIDIA DOCA Agent Skills",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-10-02T00:17:04.383490+00:00",
+    "published": "2026-10-01T18:13:29+00:00"
+  },
+  "https://tangled.org/burrito.space/bez": {
+    "title": "Bez: Generating a browser engine from specs and tests",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-02T00:17:04.383490+00:00",
+    "published": "2026-10-01T18:08:03+00:00"
+  },
+  "https://developer.nvidia.com/blog/build-local-ai-apps-with-c-and-nvidia-tensorrt-rtx-samples": {
+    "title": "Build Local AI Apps with C++ and NVIDIA TensorRT RTX Samples",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-10-02T00:17:04.383490+00:00",
+    "published": "2026-10-01T17:59:27+00:00"
+  },
+  "https://www.databricks.com/blog/lakebase-postgres-branch-based-restores-fast-recovery-scale": {
+    "title": "Lakebase Postgres branch-based restores for fast recovery at scale",
+    "source": "Databricks Blog",
+    "first_seen": "2026-10-02T00:17:04.383490+00:00",
+    "published": "2026-10-01T17:53:52+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/build-agent-memory-with-nvidia-nemo-agent-toolkit-and-amazon-s3-vectors": {
+    "title": "Build agent memory with NVIDIA NeMo Agent Toolkit and Amazon S3 Vectors",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-10-02T00:17:04.383490+00:00",
+    "published": "2026-10-01T17:34:56+00:00"
+  },
+  "https://stoppels.ch/goalposts": {
+    "title": "Vote on which of Hacker News' challenges for AI have been met",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-02T00:17:04.383490+00:00",
+    "published": "2026-10-01T17:32:43+00:00"
+  },
+  "https://www.phoronix.com/news/September-2026-Highlights": {
+    "title": "Nearing A 10 Second Kernel Build, Xeon 600 & Other September Excitement On Phoronix",
+    "source": "Phoronix",
+    "first_seen": "2026-10-02T00:17:04.383490+00:00",
+    "published": "2026-10-01T17:07:48+00:00"
+  },
+  "https://thenewstack.io/bit-cloud-component-reuse": {
+    "title": "Bit Cloud’s next chapter starts after the AI builds your app",
+    "source": "The New Stack",
+    "first_seen": "2026-10-02T00:17:04.383490+00:00",
+    "published": "2026-10-01T17:00:00+00:00"
+  },
+  "https://openai.com/index/the-eternal-complement": {
+    "title": "The eternal complement",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-10-02T00:17:04.383490+00:00",
+    "published": "2026-10-01T17:00:00+00:00"
+  },
+  "https://blog.gitbutler.com/git-3-sha-256": {
+    "title": "Git 3.0's upcoming SHA-256 default will be a costly mistake",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-02T00:17:04.383490+00:00",
+    "published": "2026-10-01T16:57:03+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/uplifting-conversion-across-the-acquisition-funnel-with-personalization-using-contextual-bandits-on-aws": {
+    "title": "Uplifting conversion across the acquisition funnel with personalization using contextual bandits on AWS",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-10-02T00:17:04.383490+00:00",
+    "published": "2026-10-01T16:51:04+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/optimize-consumer-rebalancing-on-amazon-msk-with-next-generation-protocol": {
+    "title": "Optimize consumer rebalancing on Amazon MSK with next generation protocol",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-10-02T00:17:04.383490+00:00",
+    "published": "2026-10-01T16:43:54+00:00"
+  },
+  "https://newsletter.pragmaticengineer.com/p/the-pulse-firebases-global-outage": {
+    "title": "The Pulse: Firebase’s global outage & poor response",
+    "source": "The Pragmatic Engineer",
+    "first_seen": "2026-10-02T00:17:04.383490+00:00",
+    "published": "2026-10-01T16:43:19+00:00"
+  },
+  "https://aws.amazon.com/blogs/containers/implementing-feature-flags-in-container-environments-with-aws-appconfig": {
+    "title": "Implementing feature flags in container environments with AWS AppConfig",
+    "source": "AWS Containers Blog",
+    "first_seen": "2026-10-02T00:17:04.383490+00:00",
+    "published": "2026-10-01T16:42:33+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/working-with-foreign-key-constraints-in-aurora-dsql": {
+    "title": "Working with foreign key constraints in Aurora DSQL",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-10-02T00:17:04.383490+00:00",
+    "published": "2026-10-01T16:42:03+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/babelfish-for-aurora-postgresql-performance-tuning": {
+    "title": "Babelfish for Aurora PostgreSQL performance tuning",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-10-02T00:17:04.383490+00:00",
+    "published": "2026-10-01T16:40:53+00:00"
+  },
+  "https://thenewstack.io/shadow-ai-ciso-governance": {
+    "title": "Transform AI from a security blind spot into a roadmap",
+    "source": "The New Stack",
+    "first_seen": "2026-10-02T00:17:04.383490+00:00",
+    "published": "2026-10-01T16:40:44+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/building-ambient-agents-with-amazon-bedrock-agentcore-from-event-driven-signals-to-human-in-the-loop-workflows": {
+    "title": "Building ambient agents with Amazon Bedrock AgentCore: From event-driven signals to human-in-the-loop workflows",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-10-02T00:17:04.383490+00:00",
+    "published": "2026-10-01T16:40:24+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/implementing-multi-environment-access-for-claude-platform-on-aws": {
+    "title": "Implementing Multi-Environment Access for Claude Platform on AWS",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-10-02T00:17:04.383490+00:00",
+    "published": "2026-10-01T16:32:23+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/simplify-dashboard-drill-down-with-the-amazon-quick-sight-hierarchy-filter": {
+    "title": "Simplify dashboard drill-down with the Amazon Quick Sight hierarchy filter",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-10-02T00:17:04.383490+00:00",
+    "published": "2026-10-01T16:28:14+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-Networking-Linux-7.3-rc6": {
+    "title": "Some Networking Fixes Being Diverted To Linux 7.4, AI/LLM Activity Still Increasing",
+    "source": "Phoronix",
+    "first_seen": "2026-10-02T00:17:04.383490+00:00",
+    "published": "2026-10-01T16:24:40+00:00"
+  },
+  "https://turbopuffer.com/blog/rip-vector-database": {
+    "title": "RIP, vector database",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-02T00:17:04.383490+00:00",
+    "published": "2026-10-01T16:01:56+00:00"
+  },
+  "https://thenewstack.io/aws-strands-decider-model": {
+    "title": "AWS launches a local answer to TypeSafe’s Jev decision model",
+    "source": "The New Stack",
+    "first_seen": "2026-10-02T00:17:04.383490+00:00",
+    "published": "2026-10-01T16:00:00+00:00"
+  },
+  "https://opensource.microsoft.com/blog/2026/10/01/from-standards-to-software-microsofts-ongoing-work-on-openapi-and-developer-tooling": {
+    "title": "From standards to software: Microsoft’s ongoing work on OpenAPI and developer tooling",
+    "source": "Microsoft Open Source",
+    "first_seen": "2026-10-02T00:17:04.383490+00:00",
+    "published": "2026-10-01T16:00:00+00:00"
+  },
+  "https://openai.com/index/albertsons-reimagining-retail": {
+    "title": "How Albertsons Companies is reimagining retail from the inside out",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-10-02T00:17:04.383490+00:00",
+    "published": "2026-10-01T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/storage-data-transfer/enabling-end-to-end-checksums-in-cloud-storage": {
+    "title": "Enabling Cloud Storage end-to-end checksums for improved data integrity and durability",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-10-02T00:17:04.383490+00:00",
+    "published": "2026-10-01T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/data-analytics/paypals-journey-with-managed-service-for-apache-spark": {
+    "title": "Accelerating analytics: PayPal’s journey with Managed Service for Apache Spark",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-10-02T00:17:04.383490+00:00",
+    "published": "2026-10-01T16:00:00+00:00"
+  },
+  "https://neon.com/blog/pg-redact-content-aware-pii-redaction-with-jev-enforced-in-postgres": {
+    "title": "pg_redact: Content-aware PII redaction with Jev, enforced in Postgres",
+    "source": "Neon Blog",
+    "first_seen": "2026-10-02T00:17:04.383490+00:00",
+    "published": "2026-10-01T12:00:00+00:00"
+  },
+  "https://neon.com/blog/announcing-neon-effect": {
+    "title": "Announcing @neon/effect",
+    "source": "Neon Blog",
+    "first_seen": "2026-10-02T00:17:04.383490+00:00",
+    "published": "2026-10-01T12:00:00+00:00"
   }
 }
