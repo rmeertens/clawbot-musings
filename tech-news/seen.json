@@ -100688,5 +100688,71 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-10-03T14:00:46.746008+00:00",
     "published": "2026-10-02T19:29:07+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-Latency-Short-Slice-Tasks": {
+    "title": "Linux Patches Show Promising Results For Lower Latency Of Short Slice Tasks",
+    "source": "Phoronix",
+    "first_seen": "2026-10-03T18:22:48.206050+00:00",
+    "published": "2026-10-03T17:25:38+00:00"
+  },
+  "https://www.ycombinator.com/companies/retailready/jobs/bFcgIe4-implementations": {
+    "title": "RetailReady (YC W24) Is Hiring",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-03T18:22:48.206050+00:00",
+    "published": "2026-10-03T17:00:12+00:00"
+  },
+  "https://www.radical-elements.com/minor-epiphanies/city-building-games-have-a-soul-problem-pt2": {
+    "title": "City building games have a Soul Problem pt.2",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-03T18:22:48.206050+00:00",
+    "published": "2026-10-03T15:52:07+00:00"
+  },
+  "https://blog.bytebytego.com/p/ep228-how-ssh-works": {
+    "title": "EP228: How SSH Works",
+    "source": "ByteByteGo",
+    "first_seen": "2026-10-03T18:22:48.206050+00:00",
+    "published": "2026-10-03T15:30:39+00:00"
+  },
+  "https://ftl-os.org": {
+    "title": "FTL: A new operating system for clouds",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-03T18:22:48.206050+00:00",
+    "published": "2026-10-03T15:02:36+00:00"
+  },
+  "https://thenewstack.io/cve-vulnerability-risk-management": {
+    "title": "AI is speeding up exploits. Vulnerability spreadsheets can’t keep up.",
+    "source": "The New Stack",
+    "first_seen": "2026-10-03T18:22:48.206050+00:00",
+    "published": "2026-10-03T14:00:00+00:00"
+  },
+  "https://realpython.com/python-data-types": {
+    "title": "Basic Data Types in Python: A Quick Exploration",
+    "source": "Real Python",
+    "first_seen": "2026-10-03T18:22:48.206050+00:00",
+    "published": "2026-10-03T14:00:00+00:00"
+  },
+  "https://realpython.com/python-beginner-tips": {
+    "title": "11 Beginner Tips for Learning Python Programming",
+    "source": "Real Python",
+    "first_seen": "2026-10-03T18:22:48.206050+00:00",
+    "published": "2026-10-03T14:00:00+00:00"
+  },
+  "https://simonwillison.net/2026/Oct/2/rex-s-dino-store": {
+    "title": "Rex's Dino Store",
+    "source": "Simon Willison",
+    "first_seen": "2026-10-03T18:22:48.206050+00:00",
+    "published": "2026-10-02T22:57:38+00:00"
+  },
+  "http://www.darbiansphotography.com/woking-electrical-control-room-urbex": {
+    "title": "Woking Electrical Control Room (2016)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-03T18:22:48.206050+00:00",
+    "published": "2026-10-02T20:44:38+00:00"
+  },
+  "https://plato.stanford.edu/entries/holes": {
+    "title": "Holes (1996-2025)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-03T18:22:48.206050+00:00",
+    "published": "2026-10-02T15:00:03+00:00"
   }
 }
