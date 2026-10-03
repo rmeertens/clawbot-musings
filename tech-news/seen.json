@@ -100244,5 +100244,317 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-10-02T15:08:15.729556+00:00",
     "published": "2026-10-01T22:23:38+00:00"
+  },
+  "https://allenai.org/blog/astabrief": {
+    "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-03T00:02:54.134263+00:00",
+    "published": "2026-10-02T21:25:25+00:00"
+  },
+  "https://blog.sshh.io/p/the-harness-is-the-company": {
+    "title": "Every SaaS business will become a harness around a model",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-03T00:02:54.134263+00:00",
+    "published": "2026-10-02T21:06:56+00:00"
+  },
+  "https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-eu-is-trying-to-fight-unregulated-squid-fishing.html": {
+    "title": "Friday Squid Blogging: EU is Trying to Fight Unregulated Squid Fishing",
+    "source": "Schneier on Security",
+    "first_seen": "2026-10-03T00:02:54.134263+00:00",
+    "published": "2026-10-02T21:02:18+00:00"
+  },
+  "https://ziglang.org/download/0.17.0/release-notes.html": {
+    "title": "Zig v0.17.0",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-03T00:02:54.134263+00:00",
+    "published": "2026-10-02T20:56:36+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.4-Apple-Device-Trees": {
+    "title": "Linux 7.4 To Introduce Initial Device Trees For Apple M4, A18 Pro For MacBook Neo",
+    "source": "Phoronix",
+    "first_seen": "2026-10-03T00:02:54.134263+00:00",
+    "published": "2026-10-02T20:32:41+00:00"
+  },
+  "https://github.com/anteloc/ldraw-nova": {
+    "title": "Show HN: Made an open-source Lego AI generator",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-03T00:02:54.134263+00:00",
+    "published": "2026-10-02T20:00:15+00:00"
+  },
+  "https://pytorch.org/blog/building-a-high-performance-and-portable-vllm-linear-backend-with-helion": {
+    "title": "Building a High-Performance and Portable vLLM Linear Backend with Helion",
+    "source": "PyTorch Blog",
+    "first_seen": "2026-10-03T00:02:54.134263+00:00",
+    "published": "2026-10-02T19:55:07+00:00"
+  },
+  "https://developer.apple.com/news?id=p6zjojqw": {
+    "title": "Updates to Full Disk Access in macOS",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-03T00:02:54.134263+00:00",
+    "published": "2026-10-02T19:37:01+00:00"
+  },
+  "https://pytorch.org/blog/new-pathway-to-pytorch-certified-associate-ptca-certification": {
+    "title": "New Pathway to PyTorch Certified Associate (PTCA) Certification",
+    "source": "PyTorch Blog",
+    "first_seen": "2026-10-03T00:02:54.134263+00:00",
+    "published": "2026-10-02T19:33:47+00:00"
+  },
+  "https://gadgets.muse.ai": {
+    "title": "Muse Gadgets",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-03T00:02:54.134263+00:00",
+    "published": "2026-10-02T19:26:54+00:00"
+  },
+  "https://developer.apple.com/pass-designer": {
+    "title": "Apple Pass Designer",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-03T00:02:54.134263+00:00",
+    "published": "2026-10-02T19:06:56+00:00"
+  },
+  "https://cloud.google.com/blog/products/containers-kubernetes/ai21-trains-its-models-on-ai-hypercomputer": {
+    "title": "AI21 achieves an 83% reduction in time-to-start for AI workloads with AI Hypercomputer",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-10-03T00:02:54.134263+00:00",
+    "published": "2026-10-02T19:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/Intel-CPU-Binds-ULLS-Migration": {
+    "title": "Intel Ready With A Big Improvement For Battlemage With Linux 7.4",
+    "source": "Phoronix",
+    "first_seen": "2026-10-03T00:02:54.134263+00:00",
+    "published": "2026-10-02T18:34:00+00:00"
+  },
+  "https://thenewstack.io/github-copilot-computer-use-desktop": {
+    "title": "GitHub’s advice for its new Copilot feature is to try something else first",
+    "source": "The New Stack",
+    "first_seen": "2026-10-03T00:02:54.134263+00:00",
+    "published": "2026-10-02T18:25:27+00:00"
+  },
+  "https://www.phoronix.com/news/Ubuntu-SHA3-For-Debian-APT": {
+    "title": "Ubuntu Working On SHA3 For Debian's APT For If/When SHA2 Is Broken",
+    "source": "Phoronix",
+    "first_seen": "2026-10-03T00:02:54.134263+00:00",
+    "published": "2026-10-02T18:10:00+00:00"
+  },
+  "https://dwarfstar.sh": {
+    "title": "From the creator of Redis; run LLM locally with ds4",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-03T00:02:54.134263+00:00",
+    "published": "2026-10-02T18:01:16+00:00"
+  },
+  "https://aws.amazon.com/blogs/architecture/deploy-oracle-database-step-by-step-on-amazon-evs-with-fsx-for-ontap": {
+    "title": "Deploy Oracle Database step by step on Amazon EVS with FSx for ONTAP",
+    "source": "AWS Architecture Blog",
+    "first_seen": "2026-10-03T00:02:54.134263+00:00",
+    "published": "2026-10-02T17:57:15+00:00"
+  },
+  "https://aws.amazon.com/blogs/architecture/architect-highly-available-oracle-database-on-amazon-evs-and-fsx-for-ontap": {
+    "title": "Architect highly available Oracle Database on Amazon EVS and FSx for ONTAP",
+    "source": "AWS Architecture Blog",
+    "first_seen": "2026-10-03T00:02:54.134263+00:00",
+    "published": "2026-10-02T17:57:01+00:00"
+  },
+  "https://aws.amazon.com/blogs/architecture/deploy-open-source-regional-availability-tools-in-your-vpc": {
+    "title": "Deploy open source Regional availability tools in your VPC",
+    "source": "AWS Architecture Blog",
+    "first_seen": "2026-10-03T00:02:54.134263+00:00",
+    "published": "2026-10-02T17:50:56+00:00"
+  },
+  "https://www.databricks.com/blog/capital-markets-buy-side-runs-nav-finance-protects-fee": {
+    "title": "In Capital Markets, the Buy Side Runs on NAV. Finance Protects the Fee.",
+    "source": "Databricks Blog",
+    "first_seen": "2026-10-03T00:02:54.134263+00:00",
+    "published": "2026-10-02T17:40:26+00:00"
+  },
+  "https://stratechery.com/2026/dots-and-question-marks": {
+    "title": "2026.40: Dots and Question Marks",
+    "source": "Stratechery",
+    "first_seen": "2026-10-03T00:02:54.134263+00:00",
+    "published": "2026-10-02T17:00:00+00:00"
+  },
+  "https://en.wikipedia.org/wiki/STS-51-F": {
+    "title": "STS-51-F Abort-to-Orbit (1985)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-03T00:02:54.134263+00:00",
+    "published": "2026-10-02T16:56:47+00:00"
+  },
+  "https://thenewstack.io/kubecon-agent-harness-koordinator": {
+    "title": "What Kubernetes’ “monolith” lesson means for AI agent harnesses",
+    "source": "The New Stack",
+    "first_seen": "2026-10-03T00:02:54.134263+00:00",
+    "published": "2026-10-02T16:31:26+00:00"
+  },
+  "https://www.databricks.com/blog/how-choose-your-first-genie-agents-maximum-impact": {
+    "title": "How to choose your first Genie Agents for maximum impact",
+    "source": "Databricks Blog",
+    "first_seen": "2026-10-03T00:02:54.134263+00:00",
+    "published": "2026-10-02T16:15:00+00:00"
+  },
+  "https://openai.com/index/practical-guide-building-gpt-6": {
+    "title": "A model guide for the GPT-6 family",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-10-03T00:02:54.134263+00:00",
+    "published": "2026-10-02T16:15:00+00:00"
+  },
+  "https://blog.cloudflare.com/streamline": {
+    "title": "Streamline: custom video pipelines with Cloudflare Stream and Workers",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-10-03T00:02:54.134263+00:00",
+    "published": "2026-10-02T16:13:45+00:00"
+  },
+  "https://cloud.google.com/blog/products/databases/spanner-queues-provide-native-transactional-messaging": {
+    "title": "Announcing Spanner queues: Transactional messaging for agentic workloads and beyond",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-10-03T00:02:54.134263+00:00",
+    "published": "2026-10-02T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/containers-kubernetes/gke-cpu-startup-boost-faster-pod-starts-lower-costs": {
+    "title": "GKE CPU startup boost: Accelerate app starts without over-provisioning",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-10-03T00:02:54.134263+00:00",
+    "published": "2026-10-02T16:00:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/sweep-thousands-of-leases-for-compliance-using-amazon-quick-and-the-adjudicated-query-pattern": {
+    "title": "Sweep thousands of leases for compliance using Amazon Quick and the Adjudicated Query pattern",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-10-03T00:02:54.134263+00:00",
+    "published": "2026-10-02T15:48:26+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/add-secure-web-search-to-claude-desktop-with-amazon-bedrock-agentcore": {
+    "title": "Add secure Web Search to Claude Desktop with Amazon Bedrock AgentCore",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-10-03T00:02:54.134263+00:00",
+    "published": "2026-10-02T15:46:05+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/fine-tune-a-search-agent-with-multi-turn-rl-on-amazon-sagemaker-ai": {
+    "title": "Fine-tune a search agent with multi-turn RL on Amazon SageMaker AI",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-10-03T00:02:54.134263+00:00",
+    "published": "2026-10-02T15:44:20+00:00"
+  },
+  "https://wagtail.org/blog/one-month-on-glm-53-flash": {
+    "title": "One month coding with GLM 5.3 Flash",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-03T00:02:54.134263+00:00",
+    "published": "2026-10-02T15:29:15+00:00"
+  },
+  "https://www.cncf.io/blog/2026/10/02/kubecon-cloudnativecon-north-america-2026-join-the-cloud-native-community-at-opentofu-day": {
+    "title": "KubeCon + CloudNativeCon North America 2026: Join the cloud native community at OpenTofu Day",
+    "source": "CNCF Blog",
+    "first_seen": "2026-10-03T00:02:54.134263+00:00",
+    "published": "2026-10-02T15:22:44+00:00"
+  },
+  "https://huggingface.co/blog/allenai/astabrief": {
+    "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-10-03T00:02:54.134263+00:00",
+    "published": "2026-10-02T15:19:50+00:00"
+  },
+  "https://lwn.net/Articles/1096028": {
+    "title": "[$] Beyond the &",
+    "source": "LWN.net",
+    "first_seen": "2026-10-03T00:02:54.134263+00:00",
+    "published": "2026-10-02T15:11:11+00:00"
+  },
+  "https://yuka.dev/blog-2026-10-02-linux-m4.html": {
+    "title": "The Forgetful CPU (Linux on M4)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-03T00:02:54.134263+00:00",
+    "published": "2026-10-02T14:22:12+00:00"
+  },
+  "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget": {
+    "title": "With most information hidden, the game Stratego had stumped AI until now",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-03T00:02:54.134263+00:00",
+    "published": "2026-10-02T14:11:24+00:00"
+  },
+  "https://bigthink.com/books/a-fabulous-debt": {
+    "title": "Venice’s failed war against Constantinople led to the first bond market",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-03T00:02:54.134263+00:00",
+    "published": "2026-10-02T13:17:47+00:00"
+  },
+  "https://onlineonly.christies.com/s/fine-printed-books-manuscripts-science/carrier-pigeon-internet-protocol-150/325216": {
+    "title": "The first packet sent via RFC1149 avian carrier is up for auction at Christie's",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-03T00:02:54.134263+00:00",
+    "published": "2026-10-02T12:46:50+00:00"
+  },
+  "https://neon.com/blog/generate-embeddings-with-neon-ai-gateway": {
+    "title": "Generate embeddings with Neon AI Gateway",
+    "source": "Neon Blog",
+    "first_seen": "2026-10-03T00:02:54.134263+00:00",
+    "published": "2026-10-02T12:00:00+00:00"
+  },
+  "https://www.lesswrong.com/posts/b5cSYh4emQb2qrGmK/on-social-reality-in-china": {
+    "title": "On social reality in China",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-03T00:02:54.134263+00:00",
+    "published": "2026-10-02T11:42:26+00:00"
+  },
+  "https://byzantine-systems.github.io/blogging-with-gleam-org-mode-and-pandoc": {
+    "title": "Blogging with Gleam, Org-Mode and Pandoc",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-03T00:02:54.134263+00:00",
+    "published": "2026-10-02T11:34:28+00:00"
+  },
+  "https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-prototype": {
+    "title": "Our Project Suncatcher prototype satellite is in orbit",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-03T00:02:54.134263+00:00",
+    "published": "2026-10-02T11:13:02+00:00"
+  },
+  "https://bsky.app/profile/theplanetaryguy.com/post/3mwucf5ert22f": {
+    "title": "A 12-year sequence of telescope images of a star and four planets orbiting",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-03T00:02:54.134263+00:00",
+    "published": "2026-10-02T11:07:17+00:00"
+  },
+  "https://www.figure.ai/news/f-02-decommission": {
+    "title": "F.02 Decommission",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-03T00:02:54.134263+00:00",
+    "published": "2026-10-02T10:57:27+00:00"
+  },
+  "https://cloud.google.com/blog/products/databases/implementing-long-term-ai-agent-memory-in-alloydb-and-memorystore": {
+    "title": "How to implement long-term AI agent memory in AlloyDB and Memorystore for Valkey",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-10-03T00:02:54.134263+00:00",
+    "published": "2026-10-02T07:00:00+00:00"
+  },
+  "https://ziglang.org/news/0.17.0-released": {
+    "title": "0.17.0 Released",
+    "source": "Zig Lang",
+    "first_seen": "2026-10-03T00:02:54.134263+00:00",
+    "published": "2026-10-02T00:00:00+00:00"
+  },
+  "https://openai.com/index/chatham-financial": {
+    "title": "Chatham scales its capital markets expertise with OpenAI",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-10-03T00:02:54.134263+00:00",
+    "published": "2026-10-02T00:00:00+00:00"
+  },
+  "https://machinelearning.apple.com/research/limits-confidence-diffusion": {
+    "title": "Limits of Confidence in Diffusion",
+    "source": "Apple ML Journal",
+    "first_seen": "2026-10-03T00:02:54.134263+00:00",
+    "published": "2026-10-02T00:00:00+00:00"
+  },
+  "https://go.dev/blog/archsimd": {
+    "title": "Arch-specific SIMD in Go",
+    "source": "Go Blog",
+    "first_seen": "2026-10-03T00:02:54.134263+00:00",
+    "published": "2026-10-02T00:00:00+00:00"
+  },
+  "https://blog.python.org/2026/10/python-3150-rc3": {
+    "title": "Python 3.15.0 candidate 3 is here!",
+    "source": "Python Insider",
+    "first_seen": "2026-10-03T00:02:54.134263+00:00",
+    "published": "2026-10-02T00:00:00+00:00"
+  },
+  "https://www.databricks.com/blog/how-genie-one-reshapes-work-finance-teams": {
+    "title": "How Genie One reshapes work for finance teams",
+    "source": "Databricks Blog",
+    "first_seen": "2026-10-03T00:02:54.134263+00:00",
+    "published": "2026-10-01T22:46:51+00:00"
   }
 }
