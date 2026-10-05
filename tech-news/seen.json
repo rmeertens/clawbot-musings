@@ -101138,5 +101138,377 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-10-04T23:39:17.759796+00:00",
     "published": "2026-10-03T20:41:15+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/supercharge-regulated-workloads-with-claude-code-and-amazon-bedrock": {
+    "title": "Supercharge regulated workloads with Claude Code and Amazon Bedrock",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-10-05T17:30:28.246035+00:00",
+    "published": "2026-10-05T17:25:20+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/new-agent-skill-amazon-sagemaker-optimized-generative-ai-inference-for-your-coding-agent": {
+    "title": "New agent skill: Amazon SageMaker optimized generative AI inference for your coding agent",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-10-05T17:30:28.246035+00:00",
+    "published": "2026-10-05T17:23:19+00:00"
+  },
+  "https://devblogs.microsoft.com/dotnet/testing-uwp-and-winui-3-apps-with-mstest": {
+    "title": "UWP and WinUI 3 apps: UI testing with MSTest",
+    "source": "MS .NET Blog",
+    "first_seen": "2026-10-05T17:30:28.246035+00:00",
+    "published": "2026-10-05T17:05:00+00:00"
+  },
+  "https://www.theguardian.com/world/2026/oct/05/russia-lab-worker-possibly-dies-of-plague-siberia-quarantine-measures-irkutsk": {
+    "title": "US closely monitoring case of lab worker who possibly died of plague in Siberia",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-05T17:30:28.246035+00:00",
+    "published": "2026-10-05T17:01:27+00:00"
+  },
+  "https://cloud.google.com/blog/products/infrastructure-modernization/google-cloud-modernize-accelerate-transformation-with-ai": {
+    "title": "Introducing Google Cloud Modernize, transforming for (and with) AI",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-10-05T17:30:28.246035+00:00",
+    "published": "2026-10-05T16:00:00+00:00"
+  },
+  "https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review": {
+    "title": "ReviewBench: An open benchmark for AI code review",
+    "source": "GitHub Blog",
+    "first_seen": "2026-10-05T17:30:28.246035+00:00",
+    "published": "2026-10-05T15:59:40+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/making-amazon-quick-enterprise-ready-automated-auditable-cross-account-resource-promotion": {
+    "title": "Making Amazon Quick enterprise-ready: Automated, auditable cross-account resource promotion",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-10-05T17:30:28.246035+00:00",
+    "published": "2026-10-05T15:56:28+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/agentic-retrieval-with-langchain-and-amazon-bedrock-knowledge-bases": {
+    "title": "Agentic retrieval with LangChain and Amazon Bedrock Knowledge Bases",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-10-05T17:30:28.246035+00:00",
+    "published": "2026-10-05T15:53:56+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/downgrading-user-roles-in-amazon-quick": {
+    "title": "Downgrading user roles in Amazon Quick",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-10-05T17:30:28.246035+00:00",
+    "published": "2026-10-05T15:51:38+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/evaluating-multi-agent-systems-for-explainability-and-helpfulness-with-amazon-bedrock-agentcore": {
+    "title": "Evaluating multi-agent systems for explainability and helpfulness with Amazon Bedrock AgentCore",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-10-05T17:30:28.246035+00:00",
+    "published": "2026-10-05T15:50:01+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/run-an-automated-operational-review-with-the-amazon-redshift-mcp-server": {
+    "title": "Run an automated operational review with the Amazon Redshift MCP server",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-10-05T17:30:28.246035+00:00",
+    "published": "2026-10-05T15:44:45+00:00"
+  },
+  "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-bedrock-managed-agents-powered-by-openai-q3-service-availability-updates-kiro-workflows-and-more-october-5-2026": {
+    "title": "AWS Weekly Roundup: Amazon Bedrock Managed Agents powered by OpenAI, Q3 service availability updates, Kiro workflows, and more (October 5, 2026)",
+    "source": "AWS Blog",
+    "first_seen": "2026-10-05T17:30:28.246035+00:00",
+    "published": "2026-10-05T15:41:19+00:00"
+  },
+  "https://openai.com/index/eu-text-provenance": {
+    "title": "Our approach to EU text provenance rules",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-05T17:30:28.246035+00:00",
+    "published": "2026-10-05T15:38:55+00:00"
+  },
+  "https://www.phoronix.com/news/Auto-CPUFreq-3.2": {
+    "title": "Auto-CPUFreq 3.2 Adds Configurable HWP Dynamic Boost, Platform Profile Reporting",
+    "source": "Phoronix",
+    "first_seen": "2026-10-05T17:30:28.246035+00:00",
+    "published": "2026-10-05T15:36:12+00:00"
+  },
+  "https://blog.bytebytego.com/p/the-llm-blindspot-why-models-forget": {
+    "title": "The LLM Blindspot: Why Models Forget What’s in the Middle of Your Prompt",
+    "source": "ByteByteGo",
+    "first_seen": "2026-10-05T17:30:28.246035+00:00",
+    "published": "2026-10-05T15:30:51+00:00"
+  },
+  "https://onlys.ky/independence-is-interdependence": {
+    "title": "The future of independence is interdependence",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-05T17:30:28.246035+00:00",
+    "published": "2026-10-05T15:30:08+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/assess-and-migrate-sql-server-full-text-search-to-babelfish-for-aurora-postgresql": {
+    "title": "Assess and migrate SQL Server Full-Text Search to Babelfish for Aurora PostgreSQL",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-10-05T17:30:28.246035+00:00",
+    "published": "2026-10-05T15:25:20+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/amagis-intelligent-media-operations-with-amazon-neptune": {
+    "title": "Amagi’s intelligent media operations with Amazon Neptune",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-10-05T17:30:28.246035+00:00",
+    "published": "2026-10-05T15:24:12+00:00"
+  },
+  "https://dosdays.co.uk/topics/Software/borland_turbo_basic.php": {
+    "title": "Borland Turbo Basic",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-05T17:30:28.246035+00:00",
+    "published": "2026-10-05T15:11:31+00:00"
+  },
+  "https://lwn.net/Articles/1098610": {
+    "title": "RustConf recordings",
+    "source": "LWN.net",
+    "first_seen": "2026-10-05T17:30:28.246035+00:00",
+    "published": "2026-10-05T15:11:11+00:00"
+  },
+  "https://lwn.net/Articles/1096963": {
+    "title": "[$] An update on the Sashiko patch-review system",
+    "source": "LWN.net",
+    "first_seen": "2026-10-05T17:30:28.246035+00:00",
+    "published": "2026-10-05T15:10:37+00:00"
+  },
+  "https://www.databricks.com/blog/how-genie-ontology-powers-product-development-databricks": {
+    "title": "How Genie Ontology powers product development at Databricks",
+    "source": "Databricks Blog",
+    "first_seen": "2026-10-05T17:30:28.246035+00:00",
+    "published": "2026-10-05T15:07:02+00:00"
+  },
+  "https://www.npr.org/2026/10/05/nx-s1-5977852/ai-chatbots-midterm-election": {
+    "title": "People are asking ChatGPT to help them decide how to vote in the midterms",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-05T17:30:28.246035+00:00",
+    "published": "2026-10-05T15:06:27+00:00"
+  },
+  "https://thenewstack.io/cortex-xcor-ai-observability": {
+    "title": "XCOR launches to trace outages in minutes. It still pages engineers.",
+    "source": "The New Stack",
+    "first_seen": "2026-10-05T17:30:28.246035+00:00",
+    "published": "2026-10-05T15:04:53+00:00"
+  },
+  "https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1": {
+    "title": "Making a GTK application in Haskell, part 1",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-05T17:30:28.246035+00:00",
+    "published": "2026-10-05T14:23:47+00:00"
+  },
+  "https://arslan.io/2026/10/05/the-lamps-in-my-house": {
+    "title": "The designer lamps in my house",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-05T17:30:28.246035+00:00",
+    "published": "2026-10-05T14:12:14+00:00"
+  },
+  "https://blog.metabrainz.org/2026/10/04/picard-3-0-released": {
+    "title": "Picard 3.0",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-05T17:30:28.246035+00:00",
+    "published": "2026-10-05T14:03:01+00:00"
+  },
+  "https://realpython.com/python-news-october-2026": {
+    "title": "Python 3.15 Gets a Surprise RC3 and Other Python News for October 2026",
+    "source": "Real Python",
+    "first_seen": "2026-10-05T17:30:28.246035+00:00",
+    "published": "2026-10-05T14:00:00+00:00"
+  },
+  "https://www.phoronix.com/review/lemonade-vulkan-rocm": {
+    "title": "AMD ROCm vs. Vulkan Performance For Lemonade Local AI Server With Llama.cpp",
+    "source": "Phoronix",
+    "first_seen": "2026-10-05T17:30:28.246035+00:00",
+    "published": "2026-10-05T13:50:34+00:00"
+  },
+  "https://lwn.net/Articles/1098600": {
+    "title": "Picard 3.0 released",
+    "source": "LWN.net",
+    "first_seen": "2026-10-05T17:30:28.246035+00:00",
+    "published": "2026-10-05T13:21:44+00:00"
+  },
+  "https://pytorch.org/blog/pytorch-hardware-enablement-updates-from-the-acceleration-integration-working-group": {
+    "title": "PyTorch Hardware Enablement: Updates from the Accelerator Integration Working Group",
+    "source": "PyTorch Blog",
+    "first_seen": "2026-10-05T17:30:28.246035+00:00",
+    "published": "2026-10-05T13:12:59+00:00"
+  },
+  "https://lwn.net/Articles/1098599": {
+    "title": "Security updates for Monday",
+    "source": "LWN.net",
+    "first_seen": "2026-10-05T17:30:28.246035+00:00",
+    "published": "2026-10-05T13:11:21+00:00"
+  },
+  "https://www.phoronix.com/news/Mesa-Governance-Model": {
+    "title": "Mesa Developers Looking At A Formal Governance Model",
+    "source": "Phoronix",
+    "first_seen": "2026-10-05T17:30:28.246035+00:00",
+    "published": "2026-10-05T13:04:00+00:00"
+  },
+  "https://discuss.grapheneos.org/d/41564-pixel-11-doesnt-yet-meet-the-grapheneos-security-standards-and-may-be-skipped": {
+    "title": "Pixel 11 doesn't yet meet the GrapheneOS security standards and may be skipped",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-05T17:30:28.246035+00:00",
+    "published": "2026-10-05T13:02:25+00:00"
+  },
+  "https://blog.cloudflare.com/one-year-later-1111-interns": {
+    "title": "One year later: the power of 1.1.1.1 interns",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-10-05T17:30:28.246035+00:00",
+    "published": "2026-10-05T13:00:00+00:00"
+  },
+  "https://blog.cloudflare.com/birthday-week-2026-wrap-up": {
+    "title": "Everything we launched during Birthday Week 2026",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-10-05T17:30:28.246035+00:00",
+    "published": "2026-10-05T13:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-ZRAM-Rework-Savings": {
+    "title": "Linux's ZRAM Reworked For Greater Memory Savings, Better Performance",
+    "source": "Phoronix",
+    "first_seen": "2026-10-05T17:30:28.246035+00:00",
+    "published": "2026-10-05T12:44:11+00:00"
+  },
+  "https://realpython.com/quizzes/python-http-server": {
+    "title": "Quiz: How to Launch an HTTP Server in One Line of Python Code",
+    "source": "Real Python",
+    "first_seen": "2026-10-05T17:30:28.246035+00:00",
+    "published": "2026-10-05T12:00:00+00:00"
+  },
+  "https://neon.com/blog/building-a-private-searchable-photo-library-on-the-neon-backend": {
+    "title": "Building a searchable photo library on the Neon backend with TanStack",
+    "source": "Neon Blog",
+    "first_seen": "2026-10-05T17:30:28.246035+00:00",
+    "published": "2026-10-05T12:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.4-Google-Tensor-G5": {
+    "title": "Linux 7.4 To Mainline Support For The Google Tensor G5, Pixel 10 Devices",
+    "source": "Phoronix",
+    "first_seen": "2026-10-05T17:30:28.246035+00:00",
+    "published": "2026-10-05T11:33:00+00:00"
+  },
+  "https://github.com/project-minigraf/minigraf": {
+    "title": "Show HN: Minigraf – An embedded, bi-temporal graph database in Rust",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-05T17:30:28.246035+00:00",
+    "published": "2026-10-05T11:18:18+00:00"
+  },
+  "https://github.com/rui314/mold/releases/tag/v3.0.0": {
+    "title": "Mold Linker Version 3.0.0 Release – Rewritten in Rust",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-05T17:30:28.246035+00:00",
+    "published": "2026-10-05T11:17:18+00:00"
+  },
+  "https://techfundingnews.com/europes-new-robotics-unicorn-germanys-robco-hits-1b-valuation": {
+    "title": "Germany’s RobCo hits $1B valuation",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-05T17:30:28.246035+00:00",
+    "published": "2026-10-05T11:13:51+00:00"
+  },
+  "https://www.schneier.com/blog/archives/2026/10/another-historic-cipher-falls-to-ai.html": {
+    "title": "Another Historic Cipher Falls to AI",
+    "source": "Schneier on Security",
+    "first_seen": "2026-10-05T17:30:28.246035+00:00",
+    "published": "2026-10-05T11:04:47+00:00"
+  },
+  "https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api": {
+    "title": "Web Search API",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-05T17:30:28.246035+00:00",
+    "published": "2026-10-05T10:47:06+00:00"
+  },
+  "https://www.phoronix.com/news/Mold-3.0-Released": {
+    "title": "Mold 3.0 High Speed Linker Released Following Rust Rewrite",
+    "source": "Phoronix",
+    "first_seen": "2026-10-05T17:30:28.246035+00:00",
+    "published": "2026-10-05T10:29:15+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.4-Rugged-Panther-Lake": {
+    "title": "Linux 7.4 Continues Preparing For Intel's Rugged Panther Lake",
+    "source": "Phoronix",
+    "first_seen": "2026-10-05T17:30:28.246035+00:00",
+    "published": "2026-10-05T10:23:18+00:00"
+  },
+  "https://www.phoronix.com/news/Qualcomm-HW-BIn-Trip-Point": {
+    "title": "Qualcomm Patching Linux For Hardware Thermal Binning To Benefit Snapdragon X Laptops",
+    "source": "Phoronix",
+    "first_seen": "2026-10-05T17:30:28.246035+00:00",
+    "published": "2026-10-05T10:04:53+00:00"
+  },
+  "https://stratechery.com/2026/apple-and-a-hackers-future": {
+    "title": "Apple and a Hacker’s Future",
+    "source": "Stratechery",
+    "first_seen": "2026-10-05T17:30:28.246035+00:00",
+    "published": "2026-10-05T10:00:00+00:00"
+  },
+  "https://openai.com/index/new-chatgpt-ads-format-and-measurement": {
+    "title": "Building advertising for the way people use AI",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-10-05T17:30:28.246035+00:00",
+    "published": "2026-10-05T10:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.4-AMD-PState-Zen-6": {
+    "title": "Linux 7.4 AMD P-State Driver Will Be Ready For Ryzen Zen 6 CPUs",
+    "source": "Phoronix",
+    "first_seen": "2026-10-05T17:30:28.246035+00:00",
+    "published": "2026-10-05T09:45:05+00:00"
+  },
+  "https://www.nobelprize.org/prizes/medicine/2026/summary": {
+    "title": "2026 Nobel Prize in Physiology or Medicine: Deisseroth, Hegemann, Nagel",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-05T17:30:28.246035+00:00",
+    "published": "2026-10-05T09:33:13+00:00"
+  },
+  "https://www.cpr.dk/cpr-nyt/nyhedsarkiv/2026/okt/omfattende-uautoriseret-adgang-til-borgeres-cpr-oplysninger": {
+    "title": "Denmark Data Breach Exposes 8.8M People's Personal Data",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-05T17:30:28.246035+00:00",
+    "published": "2026-10-05T08:09:36+00:00"
+  },
+  "https://www.huawei.com/en/news/2026/10/qualcomm-broad-patent-agreement": {
+    "title": "Huawei and Qualcomm announce broad patent license agreement",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-05T17:30:28.246035+00:00",
+    "published": "2026-10-05T07:46:10+00:00"
+  },
+  "https://lwn.net/Articles/1098476": {
+    "title": "Kernel prepatch 7.3-rc6",
+    "source": "LWN.net",
+    "first_seen": "2026-10-05T17:30:28.246035+00:00",
+    "published": "2026-10-05T05:47:41+00:00"
+  },
+  "https://martinfowler.com/fragments/2026-10-04.html": {
+    "title": "Fragments: October  4",
+    "source": "Martin Fowler",
+    "first_seen": "2026-10-05T17:30:28.246035+00:00",
+    "published": "2026-10-05T04:28:00+00:00"
+  },
+  "https://matklad.github.io/2026/10/05/benchmark-milliseconds.html": {
+    "title": "Benchmark In Milliseconds",
+    "source": "matklad",
+    "first_seen": "2026-10-05T17:30:28.246035+00:00",
+    "published": "2026-10-05T00:00:00+00:00"
+  },
+  "https://machinelearning.apple.com/research/ontological-boundary-negotiation": {
+    "title": "Negotiating Ontological Boundaries in User-Authored Personal Sensing Systems",
+    "source": "Apple ML Journal",
+    "first_seen": "2026-10-05T17:30:28.246035+00:00",
+    "published": "2026-10-05T00:00:00+00:00"
+  },
+  "https://engineering.grab.com/powering-ai-led-research-through-simulation": {
+    "title": "Powering AI-led research through simulation",
+    "source": "Grab Tech",
+    "first_seen": "2026-10-05T17:30:28.246035+00:00",
+    "published": "2026-10-05T00:00:00+00:00"
+  },
+  "https://simonwillison.net/2026/Oct/4/qwen38-addition-in-words": {
+    "title": "Qwen3.8 27B addition in words",
+    "source": "Simon Willison",
+    "first_seen": "2026-10-05T17:30:28.246035+00:00",
+    "published": "2026-10-04T23:34:00+00:00"
+  },
+  "https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online": {
+    "title": "In the wake of Tippett Studios’ closure, a digital archive appears online",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-05T17:30:28.246035+00:00",
+    "published": "2026-10-04T21:01:28+00:00"
+  },
+  "https://worksinprogress.co/issue/mosquitoes-are-a-choice": {
+    "title": "The technology to eradicate mosquito-borne disease exists",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-05T17:30:28.246035+00:00",
+    "published": "2026-10-04T18:06:04+00:00"
   }
 }
