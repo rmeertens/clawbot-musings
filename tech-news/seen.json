@@ -101510,5 +101510,227 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-10-05T17:30:28.246035+00:00",
     "published": "2026-10-04T18:06:04+00:00"
+  },
+  "https://www.phoronix.com/news/TrueNAS-27-RC.1-Release": {
+    "title": "TrueNAS 27 RC.1 Released: Linux 6.18 LTS + OpenZFS 2.4",
+    "source": "Phoronix",
+    "first_seen": "2026-10-06T01:34:22.615834+00:00",
+    "published": "2026-10-06T00:25:45+00:00"
+  },
+  "https://edworkingpapers.com/ai26-1551": {
+    "title": "AI Tutoring with Khanmigo in a Two-Year School Experiment",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-06T01:34:22.615834+00:00",
+    "published": "2026-10-06T00:00:45+00:00"
+  },
+  "https://simonwillison.net/2026/Oct/5/felix-rieseberg": {
+    "title": "Quoting Felix Rieseberg",
+    "source": "Simon Willison",
+    "first_seen": "2026-10-06T01:34:22.615834+00:00",
+    "published": "2026-10-05T23:56:47+00:00"
+  },
+  "https://gwern.net/doc/design/2026-10-03-gwern-samon.html": {
+    "title": "Samon: Designing a Zen Garden Raking Puzzle",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-06T01:34:22.615834+00:00",
+    "published": "2026-10-05T23:35:35+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/introducing-glm-5-3-on-amazon-bedrock": {
+    "title": "Introducing GLM 5.3 on Amazon Bedrock",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-10-06T01:34:22.615834+00:00",
+    "published": "2026-10-05T23:25:17+00:00"
+  },
+  "https://lemire.me/blog/2026/10/05/ephemeral-testing": {
+    "title": "Ephemeral Testing",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-06T01:34:22.615834+00:00",
+    "published": "2026-10-05T23:06:36+00:00"
+  },
+  "https://armstr.ng/writing/worth-building": {
+    "title": "Worth Building",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-06T01:34:22.615834+00:00",
+    "published": "2026-10-05T22:59:24+00:00"
+  },
+  "https://www.debugbear.com/blog/example-dot-com-redesign-history": {
+    "title": "Example.com Just Launched the Biggest Redesign in Decades",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-06T01:34:22.615834+00:00",
+    "published": "2026-10-05T22:55:11+00:00"
+  },
+  "https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons": {
+    "title": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-06T01:34:22.615834+00:00",
+    "published": "2026-10-05T22:46:45+00:00"
+  },
+  "https://globalsolaratlas.info": {
+    "title": "Global Solar Atlas: summary of solar power potential globally",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-06T01:34:22.615834+00:00",
+    "published": "2026-10-05T22:37:58+00:00"
+  },
+  "https://almostimplemented.github.io/jazz-pianist-style": {
+    "title": "Learning Jazz Pianist Style with Cross-Attention Conditioning",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-06T01:34:22.615834+00:00",
+    "published": "2026-10-05T22:30:52+00:00"
+  },
+  "https://dbushell.com/2026/10/03/deno-to-node": {
+    "title": "Friendship ended with Deno, now Node is my best friend",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-06T01:34:22.615834+00:00",
+    "published": "2026-10-05T22:30:02+00:00"
+  },
+  "https://nivdayan.github.io/dostoevsky.pdf": {
+    "title": "Better Space-Time Trade-Offs for LSM-Tree Based Key-Value Stores [pdf]",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-06T01:34:22.615834+00:00",
+    "published": "2026-10-05T22:25:47+00:00"
+  },
+  "https://www.phoronix.com/news/AMD-ROCm-10.1": {
+    "title": "AMD ROCm 10.1 Released With Many Improvements",
+    "source": "Phoronix",
+    "first_seen": "2026-10-06T01:34:22.615834+00:00",
+    "published": "2026-10-05T22:08:56+00:00"
+  },
+  "https://arstechnica.com/tech-policy/2026/10/texas-city-demands-2m-for-public-records-on-flock-usage": {
+    "title": "Texas city demands $2M for public records on Flock usage",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-06T01:34:22.615834+00:00",
+    "published": "2026-10-05T22:05:57+00:00"
+  },
+  "https://thenewstack.io/pi-agent-mcp-codemode": {
+    "title": "One MCP server used 18,000 tokens before doing anything. Here’s the workaround.",
+    "source": "The New Stack",
+    "first_seen": "2026-10-06T01:34:22.615834+00:00",
+    "published": "2026-10-05T21:55:12+00:00"
+  },
+  "https://thenewstack.io/openai-codex-shipping-sprint": {
+    "title": "Developers are secretly hoping OpenAI fails to ship this month",
+    "source": "The New Stack",
+    "first_seen": "2026-10-06T01:34:22.615834+00:00",
+    "published": "2026-10-05T21:49:57+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/materialize-once-query-anywhere-introducing-iceberg-materialized-views-in-amazon-redshift": {
+    "title": "Materialize once, query anywhere: Introducing Iceberg materialized views in Amazon Redshift",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-10-06T01:34:22.615834+00:00",
+    "published": "2026-10-05T21:41:49+00:00"
+  },
+  "https://aws.amazon.com/blogs/security/aws-continuum-sets-a-new-standard-in-autonomous-code-security": {
+    "title": "AWS Continuum sets a new standard in autonomous code security",
+    "source": "AWS Security Blog",
+    "first_seen": "2026-10-06T01:34:22.615834+00:00",
+    "published": "2026-10-05T21:41:01+00:00"
+  },
+  "https://flattensf.com": {
+    "title": "Find the flattest route between any two points in SF",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-06T01:34:22.615834+00:00",
+    "published": "2026-10-05T21:40:50+00:00"
+  },
+  "https://www.cncf.io/blog/2026/10/05/kubelet-watches-inodes-just-not-until-its-an-emergency": {
+    "title": "Kubelet watches inodes. Just not until it’s an emergency.",
+    "source": "CNCF Blog",
+    "first_seen": "2026-10-06T01:34:22.615834+00:00",
+    "published": "2026-10-05T21:27:03+00:00"
+  },
+  "https://qlabs.sh/research/dust": {
+    "title": "Dust: Pretraining Transformers Without Backpropagation",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-06T01:34:22.615834+00:00",
+    "published": "2026-10-05T21:15:07+00:00"
+  },
+  "https://research.google/blog/open-and-emergent-problems-in-agentic-privacy-and-security-a-contextual-angle": {
+    "title": "Open and Emergent Problems in Agentic Privacy and Security: A Contextual Angle",
+    "source": "Google Research",
+    "first_seen": "2026-10-06T01:34:22.615834+00:00",
+    "published": "2026-10-05T21:08:31+00:00"
+  },
+  "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors": {
+    "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-06T01:34:22.615834+00:00",
+    "published": "2026-10-05T21:00:21+00:00"
+  },
+  "https://pytorch.org/blog/evolution-of-the-pytorch-media-processing-landscape": {
+    "title": "Evolution of the PyTorch Media Processing Landscape",
+    "source": "PyTorch Blog",
+    "first_seen": "2026-10-06T01:34:22.615834+00:00",
+    "published": "2026-10-05T20:45:50+00:00"
+  },
+  "https://www.databricks.com/blog/nearest-join-scaling-vector-search-databricks-runtime": {
+    "title": "NEAREST BY Join: Scaling Vector Search in Databricks Runtime",
+    "source": "Databricks Blog",
+    "first_seen": "2026-10-06T01:34:22.615834+00:00",
+    "published": "2026-10-05T20:00:00+00:00"
+  },
+  "https://thenewstack.io/openai-api-text-watermarking": {
+    "title": "OpenAI brings text watermarking to its API — and unlike Anthropic, it’s off by default",
+    "source": "The New Stack",
+    "first_seen": "2026-10-06T01:34:22.615834+00:00",
+    "published": "2026-10-05T19:29:15+00:00"
+  },
+  "https://terrytao.wordpress.com/2026/10/05/the-future-of-mathematics": {
+    "title": "The Future of Mathematics",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-06T01:34:22.615834+00:00",
+    "published": "2026-10-05T19:22:40+00:00"
+  },
+  "https://reflection.ai/blog/introducing-beam": {
+    "title": "Beam: Reflection's 501B open-weight model",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-06T01:34:22.615834+00:00",
+    "published": "2026-10-05T19:16:35+00:00"
+  },
+  "https://thenewstack.io/dynatrace-arize-ai-observability": {
+    "title": "Dynatrace’s $915M Arize deal bets AI agents are just another app to monitor",
+    "source": "The New Stack",
+    "first_seen": "2026-10-06T01:34:22.615834+00:00",
+    "published": "2026-10-05T19:06:17+00:00"
+  },
+  "https://aws.amazon.com/blogs/compute/introducing-ec2-ami-tag-sharing-share-ec2-tags-across-aws-accounts": {
+    "title": "Introducing EC2 AMI Tag Sharing: Share EC2 tags across AWS accounts",
+    "source": "AWS Compute Blog",
+    "first_seen": "2026-10-06T01:34:22.615834+00:00",
+    "published": "2026-10-05T19:05:04+00:00"
+  },
+  "https://www.phoronix.com/news/AMD-Zen-6-BTB-CTX-Linux-7.4": {
+    "title": "Linux 7.4 To Land New BTB CTX Isolation Feature Of AMD Zen 6",
+    "source": "Phoronix",
+    "first_seen": "2026-10-06T01:34:22.615834+00:00",
+    "published": "2026-10-05T18:47:01+00:00"
+  },
+  "https://thenewstack.io/red-hat-guardrail-benchmark": {
+    "title": "The AI safety check that runs on a laptop and nearly matched a 35B model",
+    "source": "The New Stack",
+    "first_seen": "2026-10-06T01:34:22.615834+00:00",
+    "published": "2026-10-05T18:36:28+00:00"
+  },
+  "https://kubernetes.io/blog/2026/10/05/scaling-kubernetes-workloads-with-node-swap": {
+    "title": "Scaling Kubernetes Workloads with Node Swap",
+    "source": "Kubernetes Blog",
+    "first_seen": "2026-10-06T01:34:22.615834+00:00",
+    "published": "2026-10-05T18:00:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/architecture/announcing-the-aws-digital-sovereignty-well-architected-lens": {
+    "title": "Announcing the AWS Digital Sovereignty Lens for the Well-Architected Framework",
+    "source": "AWS Architecture Blog",
+    "first_seen": "2026-10-06T01:34:22.615834+00:00",
+    "published": "2026-10-05T17:54:56+00:00"
+  },
+  "https://blog.lizzie.io/linux-containers-in-500-loc.html": {
+    "title": "Linux containers in 500 lines of code (2016)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-06T01:34:22.615834+00:00",
+    "published": "2026-10-05T14:09:15+00:00"
+  },
+  "https://docs.google.com/document/d/e/2PACX-1vTSh-pyNP3Gi99WMmsinnLmE9V5CDI0HEm6WGbIPMNt3V5SGlClHF8-BetotKHOImrvQDSXmFdiOw8D/pub": {
+    "title": "Is mathematics over, or just graduating?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-06T01:34:22.615834+00:00",
+    "published": "2026-10-05T11:16:32+00:00"
   }
 }
