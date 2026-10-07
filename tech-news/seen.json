@@ -102050,5 +102050,443 @@
     "source": "Nuxt Blog",
     "first_seen": "2026-10-06T15:30:26.911425+00:00",
     "published": "2026-10-05T23:00:00+00:00"
+  },
+  "https://simonwillison.net/2026/Oct/6/victoria-kim": {
+    "title": "Quoting Victoria Kim",
+    "source": "Simon Willison",
+    "first_seen": "2026-10-07T00:12:31.831146+00:00",
+    "published": "2026-10-06T23:58:56+00:00"
+  },
+  "https://github.com/openai/math/tree/main/preprints": {
+    "title": "OpenAI just dropped 700 preprints of mathematical proofs and counterexamples",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-07T00:12:31.831146+00:00",
+    "published": "2026-10-06T23:37:02+00:00"
+  },
+  "https://2026.stateofdevs.com/en-US": {
+    "title": "State of Devs 2026 survey results: developers are exhausted",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-07T00:12:31.831146+00:00",
+    "published": "2026-10-06T23:26:30+00:00"
+  },
+  "https://github.com/openai/math/tree/main/preprints/Integer-multiplication-below-n-log-n-September-23-2026": {
+    "title": "Integer multiplication below n log n",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-07T00:12:31.831146+00:00",
+    "published": "2026-10-06T23:14:52+00:00"
+  },
+  "https://pytorch.org/blog/modernizing-table-batched-embeddings-with-fbtriton": {
+    "title": "Modernizing Table Batched Embeddings with FBTriton",
+    "source": "PyTorch Blog",
+    "first_seen": "2026-10-07T00:12:31.831146+00:00",
+    "published": "2026-10-06T22:57:33+00:00"
+  },
+  "https://openai.com/index/sharing-ai-progress-in-mathematics": {
+    "title": "Sharing AI Progress in Mathematics",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-07T00:12:31.831146+00:00",
+    "published": "2026-10-06T22:17:21+00:00"
+  },
+  "https://readyset.io/blog/how-readyset-rewrites-your-sql-inside-the-query-transformation-pipeline": {
+    "title": "The Query Transformation Pipeline",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-07T00:12:31.831146+00:00",
+    "published": "2026-10-06T22:09:14+00:00"
+  },
+  "https://penguin-mail.com": {
+    "title": "Penguin Mail – open-source Rust email client for Linux with AI",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-07T00:12:31.831146+00:00",
+    "published": "2026-10-06T21:59:43+00:00"
+  },
+  "https://blog.miguelgrinberg.com/post/how-fast-is-python-3-15": {
+    "title": "How Fast is Python 3.15?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-07T00:12:31.831146+00:00",
+    "published": "2026-10-06T21:52:57+00:00"
+  },
+  "https://news.ycombinator.com/item?id=49984484": {
+    "title": "Ask HN: Why is Ask HN only showing me 14 posts?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-07T00:12:31.831146+00:00",
+    "published": "2026-10-06T21:37:01+00:00"
+  },
+  "https://simonwillison.net/2026/Oct/6/llm-mistral": {
+    "title": "llm-mistral 0.16",
+    "source": "Simon Willison",
+    "first_seen": "2026-10-07T00:12:31.831146+00:00",
+    "published": "2026-10-06T21:32:34+00:00"
+  },
+  "https://www.phoronix.com/news/Ubuntu-27.04-ntpd-rs-Plans": {
+    "title": "Canonical Reaffirms Plans For Ubuntu 27.04 To Use ntpd-rs By Default",
+    "source": "Phoronix",
+    "first_seen": "2026-10-07T00:12:31.831146+00:00",
+    "published": "2026-10-06T21:08:51+00:00"
+  },
+  "https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development": {
+    "title": "Building Git infrastructure for agent-scale development",
+    "source": "GitHub Blog",
+    "first_seen": "2026-10-07T00:12:31.831146+00:00",
+    "published": "2026-10-06T20:57:56+00:00"
+  },
+  "https://developers.openai.com/api/docs/guides/decisions": {
+    "title": "Decisions API is in public beta",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-07T00:12:31.831146+00:00",
+    "published": "2026-10-06T20:57:25+00:00"
+  },
+  "https://andreklein.net/vibecoding-photoshop-time-and-pressure": {
+    "title": "Vibecoding Photoshop: Time and pressure",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-07T00:12:31.831146+00:00",
+    "published": "2026-10-06T20:40:48+00:00"
+  },
+  "https://simonwillison.net/2026/Oct/6/hn-49983751": {
+    "title": "EmbeddingGemma 2",
+    "source": "Simon Willison",
+    "first_seen": "2026-10-07T00:12:31.831146+00:00",
+    "published": "2026-10-06T20:37:53+00:00"
+  },
+  "https://arstechnica.com/tech-policy/2026/10/paramount-completes-111b-warner-merger-creating-skydance-behemoth": {
+    "title": "Paramount Skydance has completed its $111B merger with Warner Bros. Discovery",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-07T00:12:31.831146+00:00",
+    "published": "2026-10-06T20:33:47+00:00"
+  },
+  "https://kevinboone.me/adblock.html": {
+    "title": "System-level ad-blocking in Android",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-07T00:12:31.831146+00:00",
+    "published": "2026-10-06T20:29:10+00:00"
+  },
+  "https://simonwillison.net/2026/Oct/6/le-chonk": {
+    "title": "Introducing Mistral Large 4: Le chonk",
+    "source": "Simon Willison",
+    "first_seen": "2026-10-07T00:12:31.831146+00:00",
+    "published": "2026-10-06T20:18:19+00:00"
+  },
+  "https://ersc.io/blog/when-random-isnt-random-enough": {
+    "title": "When random is not actually random enough",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-07T00:12:31.831146+00:00",
+    "published": "2026-10-06T20:12:05+00:00"
+  },
+  "https://thenewstack.io/open-source-ai-kubernetes": {
+    "title": "The CNCF is graduating projects faster than ever. AI agents are helping with the due diligence.",
+    "source": "The New Stack",
+    "first_seen": "2026-10-07T00:12:31.831146+00:00",
+    "published": "2026-10-06T20:02:17+00:00"
+  },
+  "https://nextjs.org/blog/next-16-4": {
+    "title": "Next.js 16.4",
+    "source": "Next.js Blog",
+    "first_seen": "2026-10-07T00:12:31.831146+00:00",
+    "published": "2026-10-06T20:00:00+00:00"
+  },
+  "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model": {
+    "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+    "source": "DeepMind Blog",
+    "first_seen": "2026-10-07T00:12:31.831146+00:00",
+    "published": "2026-10-06T19:57:04+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/building-a-context-aware-ai-assistant-on-agentcore-and-openclaw": {
+    "title": "Building a context-aware AI assistant on AgentCore and OpenClaw",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-10-07T00:12:31.831146+00:00",
+    "published": "2026-10-06T19:19:15+00:00"
+  },
+  "https://berthd.app": {
+    "title": "Berthd",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-07T00:12:31.831146+00:00",
+    "published": "2026-10-06T19:14:19+00:00"
+  },
+  "https://simonwillison.net/2026/Oct/6/datasette-parseable-opentelemetry": {
+    "title": "Using Parseable with Datasette for OpenTelemetry traces",
+    "source": "Simon Willison",
+    "first_seen": "2026-10-07T00:12:31.831146+00:00",
+    "published": "2026-10-06T19:07:31+00:00"
+  },
+  "https://developer.nvidia.com/blog/doca-gpunetio-gda-ki-unified-gpu-networking": {
+    "title": "How DOCA GPUNetIO Unifies GPU-Initiated Networking Across the NVIDIA Software Stack",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-10-07T00:12:31.831146+00:00",
+    "published": "2026-10-06T19:07:02+00:00"
+  },
+  "https://cloud.google.com/blog/topics/developers-practitioners/announcing-mcp-toolbox-java-sdk-v10-agentic-data-access-for-the-enterprise": {
+    "title": "Announcing MCP Toolbox Java SDK v1.0: Agentic data access for the enterprise",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-10-07T00:12:31.831146+00:00",
+    "published": "2026-10-06T19:00:00+00:00"
+  },
+  "https://news.ycombinator.com/item?id=49982498": {
+    "title": "Tell HN: GitHub refuses to remove cracked copies of my software after a month",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-07T00:12:31.831146+00:00",
+    "published": "2026-10-06T18:54:01+00:00"
+  },
+  "https://thenewstack.io/google-embeddinggemma-multimodal-search": {
+    "title": "Your phone’s vector index might be bigger than the AI model running it",
+    "source": "The New Stack",
+    "first_seen": "2026-10-07T00:12:31.831146+00:00",
+    "published": "2026-10-06T18:53:07+00:00"
+  },
+  "https://aws.amazon.com/blogs/security/improving-spire-security-and-resiliency-with-aws-managed-services": {
+    "title": "Improving SPIRE security and resiliency with AWS managed services",
+    "source": "AWS Security Blog",
+    "first_seen": "2026-10-07T00:12:31.831146+00:00",
+    "published": "2026-10-06T18:52:25+00:00"
+  },
+  "https://citizenlab.ca/toronto-based-vpn-provider-plans-to-quit-canada-over-lawful-access-bill": {
+    "title": "Toronto-Based VPN Provider Plans to Quit Canada over Lawful-Access Bill",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-07T00:12:31.831146+00:00",
+    "published": "2026-10-06T18:52:18+00:00"
+  },
+  "https://www.phoronix.com/news/Boost-Recently-Busy-CPUs": {
+    "title": "Meta Engineer's Linux Patches For Boosting AMD P-State / Steam Deck Gaming Performance",
+    "source": "Phoronix",
+    "first_seen": "2026-10-07T00:12:31.831146+00:00",
+    "published": "2026-10-06T18:21:01+00:00"
+  },
+  "https://simonwillison.net/2026/Oct/6/hn-49982139": {
+    "title": "Mistral Large 4",
+    "source": "Simon Willison",
+    "first_seen": "2026-10-07T00:12:31.831146+00:00",
+    "published": "2026-10-06T18:20:58+00:00"
+  },
+  "https://thenewstack.io/github-reviewbench-code-review": {
+    "title": "Copilot tops GitHub’s own AI code review benchmark. An independent one tells a different story.",
+    "source": "The New Stack",
+    "first_seen": "2026-10-07T00:12:31.831146+00:00",
+    "published": "2026-10-06T18:06:25+00:00"
+  },
+  "https://www.zohaib.cc/blog/smartest-claude-code-feature": {
+    "title": "Claude Code’s suggested message feature: I think the real customer is the model",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-07T00:12:31.831146+00:00",
+    "published": "2026-10-06T18:00:34+00:00"
+  },
+  "https://kubernetes.io/blog/2026/10/06/kubernetes-cgroups-v2-shift": {
+    "title": "The Shift to cgroup v2 in Kubernetes: What You Need to Know",
+    "source": "Kubernetes Blog",
+    "first_seen": "2026-10-07T00:12:31.831146+00:00",
+    "published": "2026-10-06T18:00:00+00:00"
+  },
+  "https://blog.cloudflare.com/root-ksk-2024-rollover": {
+    "title": "The keys to the Internet change on October 11. Are you ready?",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-10-07T00:12:31.831146+00:00",
+    "published": "2026-10-06T17:50:11+00:00"
+  },
+  "https://simonwillison.net/2026/Oct/6/datasette-atom": {
+    "title": "datasette-atom 0.11a0",
+    "source": "Simon Willison",
+    "first_seen": "2026-10-07T00:12:31.831146+00:00",
+    "published": "2026-10-06T17:35:39+00:00"
+  },
+  "https://thenewstack.io/mistral-large-4-weights": {
+    "title": "Mistral’s new AI tried to escape its test environment. In three weeks, anyone can download it",
+    "source": "The New Stack",
+    "first_seen": "2026-10-07T00:12:31.831146+00:00",
+    "published": "2026-10-06T17:26:01+00:00"
+  },
+  "https://devblogs.microsoft.com/dotnet/faster-lighter-csharp-dev-kit": {
+    "title": "A faster, lighter C# Dev Kit",
+    "source": "MS .NET Blog",
+    "first_seen": "2026-10-07T00:12:31.831146+00:00",
+    "published": "2026-10-06T17:05:00+00:00"
+  },
+  "https://medium.com/airbnb-engineering/beyond-synthetic-testing-capturing-and-replaying-real-database-workloads-at-airbnb-cea7ee9b1ab2?source=rss----53c7c27702d5---4": {
+    "title": "Beyond synthetic testing: Capturing and replaying real database workloads at Airbnb",
+    "source": "Airbnb Engineering",
+    "first_seen": "2026-10-07T00:12:31.831146+00:00",
+    "published": "2026-10-06T17:01:04+00:00"
+  },
+  "https://aws.amazon.com/blogs/compute/get-started-with-aws-lambda-snapstart-for-container-images": {
+    "title": "Get started with AWS Lambda SnapStart for container images",
+    "source": "AWS Compute Blog",
+    "first_seen": "2026-10-07T00:12:31.831146+00:00",
+    "published": "2026-10-06T16:59:51+00:00"
+  },
+  "https://thenewstack.io/sap-acquires-techwolf-skills": {
+    "title": "SAP acquires TechWolf to feed more context into its HR agents",
+    "source": "The New Stack",
+    "first_seen": "2026-10-07T00:12:31.831146+00:00",
+    "published": "2026-10-06T16:52:54+00:00"
+  },
+  "https://opentelemetry.io/blog/2026/java-agent-3.0-preview": {
+    "title": "The OpenTelemetry Java agent 3.0 is almost here — preview it today",
+    "source": "OpenTelemetry Blog",
+    "first_seen": "2026-10-07T00:12:31.831146+00:00",
+    "published": "2026-10-06T16:43:08+00:00"
+  },
+  "https://thenewstack.io/sap-connect-joule-assistants": {
+    "title": "“There is just not a room for error”: SAP is putting its AI agents in the back office",
+    "source": "The New Stack",
+    "first_seen": "2026-10-07T00:12:31.831146+00:00",
+    "published": "2026-10-06T16:38:04+00:00"
+  },
+  "https://www.databricks.com/blog/lakehouse-better-data-warehouse-2026-benchmarks-and-proof": {
+    "title": "The lakehouse is a better data warehouse: 2026 benchmarks and proof",
+    "source": "Databricks Blog",
+    "first_seen": "2026-10-07T00:12:31.831146+00:00",
+    "published": "2026-10-06T16:35:12+00:00"
+  },
+  "https://newsletter.pragmaticengineer.com/p/the-state-of-the-tech-industry-in": {
+    "title": "The state of the tech industry in 2026",
+    "source": "The Pragmatic Engineer",
+    "first_seen": "2026-10-07T00:12:31.831146+00:00",
+    "published": "2026-10-06T16:25:03+00:00"
+  },
+  "https://github.com/FeSens/openTPU": {
+    "title": "OpenTPU – An open-source AI accelerator, developed by AI",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-07T00:12:31.831146+00:00",
+    "published": "2026-10-06T16:23:25+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/monitoring-mwaa-orchestrated-etl-pipelines-with-amazon-opensearch-service": {
+    "title": "Monitoring MWAA-orchestrated ETL pipelines with Amazon OpenSearch Service",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-10-07T00:12:31.831146+00:00",
+    "published": "2026-10-06T16:17:46+00:00"
+  },
+  "https://developer.nvidia.com/blog/aicr-v1-0-open-stable-and-verifiable-gpu-cluster-configuration": {
+    "title": "AICR v1.0: Open, stable, and verifiable GPU cluster configuration",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-10-07T00:12:31.831146+00:00",
+    "published": "2026-10-06T16:13:47+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/cost-effective-etl-with-duckdb-and-amazon-s3-tables-on-aws-glue": {
+    "title": "Cost-effective ETL with DuckDB and Amazon S3 Tables on AWS Glue",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-10-07T00:12:31.831146+00:00",
+    "published": "2026-10-06T16:13:02+00:00"
+  },
+  "https://aws.amazon.com/blogs/aws/all-the-numbers-amazon-prime-day-2026-powered-by-aws": {
+    "title": "All the numbers: Amazon Prime Day 2026 powered by AWS",
+    "source": "AWS Blog",
+    "first_seen": "2026-10-07T00:12:31.831146+00:00",
+    "published": "2026-10-06T16:09:36+00:00"
+  },
+  "https://aws.amazon.com/blogs/security/identity-aware-ai-data-agents-with-aws-lake-formation-and-trusted-identity-propagation": {
+    "title": "Identity-aware AI data agents with AWS Lake Formation and Trusted Identity Propagation",
+    "source": "AWS Security Blog",
+    "first_seen": "2026-10-07T00:12:31.831146+00:00",
+    "published": "2026-10-06T16:07:06+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/query-across-accounts-and-table-formats-with-multi-catalog-in-amazon-emr": {
+    "title": "Query across accounts and table formats with multi-catalog in Amazon EMR",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-10-07T00:12:31.831146+00:00",
+    "published": "2026-10-06T16:05:27+00:00"
+  },
+  "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2": {
+    "title": "EmbeddingGemma 2: An open, lightweight multimodal embedding model",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-07T00:12:31.831146+00:00",
+    "published": "2026-10-06T16:03:49+00:00"
+  },
+  "https://medium.com/pinterest-engineering/metrics-board-building-an-agent-ready-metrics-layer-2c8fefe68756?source=rss----4c5a5f6279b6---4": {
+    "title": "Metrics Board: Building an Agent-ready Metrics Layer",
+    "source": "Pinterest Engineering",
+    "first_seen": "2026-10-07T00:12:31.831146+00:00",
+    "published": "2026-10-06T16:01:02+00:00"
+  },
+  "https://www.phoronix.com/review/nvidia-vera-hpc": {
+    "title": "NVIDIA Vera HPC Performance Benchmarks Take On AMD EPYC, Intel Xeon",
+    "source": "Phoronix",
+    "first_seen": "2026-10-07T00:12:31.831146+00:00",
+    "published": "2026-10-06T16:00:08+00:00"
+  },
+  "https://engineering.fb.com/2026/10/06/production-engineering/nts-authenticated-time-at-meta": {
+    "title": "NTS: Authenticated Time at Meta",
+    "source": "Meta Engineering",
+    "first_seen": "2026-10-07T00:12:31.831146+00:00",
+    "published": "2026-10-06T16:00:06+00:00"
+  },
+  "https://openai.com/index/atlassian-partnership": {
+    "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-10-07T00:12:31.831146+00:00",
+    "published": "2026-10-06T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/data-analytics/lakehouse-runtime-catalog-powered-by-spanner": {
+    "title": "Managed Apache Iceberg at scale: How Spanner powers Lakehouse runtime catalog",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-10-07T00:12:31.831146+00:00",
+    "published": "2026-10-06T16:00:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/containers/migrating-from-nginx-ingress-to-alb-handling-oauth2-proxy": {
+    "title": "Migrating from NGINX Ingress to ALB: Handling oauth2-proxy",
+    "source": "AWS Containers Blog",
+    "first_seen": "2026-10-07T00:12:31.831146+00:00",
+    "published": "2026-10-06T15:54:29+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/responsible-ai-governance-how-aws-positions-customers-to-align-with-iso-iec-420052025": {
+    "title": "Responsible AI governance: How AWS positions customers to align with ISO/IEC 42005:2025",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-10-07T00:12:31.831146+00:00",
+    "published": "2026-10-06T15:53:28+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/best-practices-for-amazon-sagemaker-hyperpod-administration-and-governance": {
+    "title": "Best practices for Amazon SageMaker HyperPod administration and governance",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-10-07T00:12:31.831146+00:00",
+    "published": "2026-10-06T15:50:23+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/manage-amazon-sagemaker-hyperpod-spaces-directly-from-sagemaker-studio": {
+    "title": "Manage Amazon SageMaker HyperPod Spaces directly from SageMaker Studio",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-10-07T00:12:31.831146+00:00",
+    "published": "2026-10-06T15:47:02+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/build-a-voice-travel-concierge-with-amazon-bedrock-agentcore-managed-knowledge-base-and-nova-sonic": {
+    "title": "Build a voice travel concierge with Amazon Bedrock AgentCore, Managed Knowledge Base and Nova Sonic",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-10-07T00:12:31.831146+00:00",
+    "published": "2026-10-06T15:45:42+00:00"
+  },
+  "https://blog.bytebytego.com/p/why-llms-agree-with-you-even-when": {
+    "title": "Why LLMs Agree With You Even When You’re Wrong",
+    "source": "ByteByteGo",
+    "first_seen": "2026-10-07T00:12:31.831146+00:00",
+    "published": "2026-10-06T15:31:18+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/run-least-privilege-aws-dms-cdc-migration-from-sql-server": {
+    "title": "Run least-privilege AWS DMS CDC migration from SQL Server",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-10-07T00:12:31.831146+00:00",
+    "published": "2026-10-06T15:29:59+00:00"
+  },
+  "https://simonwillison.net/2026/Oct/6/scrimshaw-jukebox": {
+    "title": "Scrimshaw Jukebox",
+    "source": "Simon Willison",
+    "first_seen": "2026-10-07T00:12:31.831146+00:00",
+    "published": "2026-10-06T15:17:39+00:00"
+  },
+  "https://openai.com/index/jump-trading": {
+    "title": "How Jump Trading is scaling quant research with ChatGPT",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-10-07T00:12:31.831146+00:00",
+    "published": "2026-10-06T12:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/topics/developers-practitioners/networking-for-ai-inference-model-serving-gke-only-and-for-all-other-backends": {
+    "title": "Networking for AI inference model serving - GKE only and for all other backends",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-10-07T00:12:31.831146+00:00",
+    "published": "2026-10-06T12:00:00+00:00"
+  },
+  "https://openai.com/index/advancing-computer-use-with-ironclad": {
+    "title": "Advancing computer use with Ironclad",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-10-07T00:12:31.831146+00:00",
+    "published": "2026-10-06T10:00:00+00:00"
+  },
+  "https://blog.sentry.io/unreal-mcp-sentry": {
+    "title": "Unreal MCP now speaks Sentry",
+    "source": "Sentry Blog",
+    "first_seen": "2026-10-07T00:12:31.831146+00:00",
+    "published": "2026-10-06T09:00:00+00:00"
   }
 }
