@@ -102488,5 +102488,365 @@
     "source": "Sentry Blog",
     "first_seen": "2026-10-07T00:12:31.831146+00:00",
     "published": "2026-10-06T09:00:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/beyond-hours-saved-building-the-business-case-for-agentic-automation": {
+    "title": "Beyond hours saved: Building the business case for agentic automation",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-10-07T15:51:35.004370+00:00",
+    "published": "2026-10-07T15:50:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/how-qlik-built-grounded-enterprise-scale-ai-with-amazon-bedrock": {
+    "title": "How Qlik built grounded, enterprise-scale AI with Amazon Bedrock",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-10-07T15:51:35.004370+00:00",
+    "published": "2026-10-07T15:48:46+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/automate-remediation-post-aws-devops-agent-investigation": {
+    "title": "Automate remediation post AWS DevOps Agent investigation",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-10-07T15:51:35.004370+00:00",
+    "published": "2026-10-07T15:46:49+00:00"
+  },
+  "https://developer.nvidia.com/blog/scaling-decision-optimization-to-100-million-variables-and-beyond-with-mpdlp-in-nvidia-cuopt": {
+    "title": "Scaling Decision Optimization to 100 Million Variables and Beyond with mPDLP in NVIDIA cuOpt",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-10-07T15:51:35.004370+00:00",
+    "published": "2026-10-07T15:45:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/building-ai-builders-playbook-for-closing-the-ai-knowledge-capability-gap": {
+    "title": "Building AI builders: Playbook for closing the AI knowledge-capability gap",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-10-07T15:51:35.004370+00:00",
+    "published": "2026-10-07T15:44:27+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/how-cornerstone-ondemand-cut-database-diagnosis-by-78-with-amazon-bedrock": {
+    "title": "How Cornerstone OnDemand cut database diagnosis by 78% with Amazon Bedrock",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-10-07T15:51:35.004370+00:00",
+    "published": "2026-10-07T15:38:28+00:00"
+  },
+  "https://blog.bytebytego.com/p/how-uber-built-a-genie-to-answer": {
+    "title": "How Netflix Taught an LLM to Recommend Movies So That You Keep Watching",
+    "source": "ByteByteGo",
+    "first_seen": "2026-10-07T15:51:35.004370+00:00",
+    "published": "2026-10-07T15:31:48+00:00"
+  },
+  "https://humxn.io/humxn-launches-free-home-service-program": {
+    "title": "AI firm HUMXN offers free plumbing and HVAC service in Minnesota to train robots",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-07T15:51:35.004370+00:00",
+    "published": "2026-10-07T15:28:49+00:00"
+  },
+  "https://www.pewresearch.org/global/2026/10/01/across-the-globe-people-increasingly-say-social-media-is-harming-democracy": {
+    "title": "Across the Globe, People Increasingly Say Social Media Is Harming Democracy",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-07T15:51:35.004370+00:00",
+    "published": "2026-10-07T15:23:29+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/migrate-ssis-packages-to-aurora-postgresql-part-2": {
+    "title": "Migrate SSIS packages to Aurora PostgreSQL – Part 2",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-10-07T15:51:35.004370+00:00",
+    "published": "2026-10-07T15:21:26+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/migrate-ssis-packages-to-aurora-postgresql-part-1": {
+    "title": "Migrate SSIS packages to Aurora PostgreSQL – Part 1",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-10-07T15:51:35.004370+00:00",
+    "published": "2026-10-07T15:21:02+00:00"
+  },
+  "https://lwn.net/Articles/1097198": {
+    "title": "[$] Analyzing Rust programs with Charon",
+    "source": "LWN.net",
+    "first_seen": "2026-10-07T15:51:35.004370+00:00",
+    "published": "2026-10-07T15:19:59+00:00"
+  },
+  "https://www.githubstatus.com/incidents/djlmxz2zd0j7": {
+    "title": "GitHub Incident with Git Operations, Pull Requests and Actions",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-07T15:51:35.004370+00:00",
+    "published": "2026-10-07T15:17:23+00:00"
+  },
+  "https://worksinprogress.co/issue/the-seven-vices-of-highly-effective-victorians": {
+    "title": "Why Were Victorian Elites So Effective?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-07T15:51:35.004370+00:00",
+    "published": "2026-10-07T15:09:33+00:00"
+  },
+  "https://ascii.rest": {
+    "title": "Animated ASCII Art for Web Pages",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-07T15:51:35.004370+00:00",
+    "published": "2026-10-07T15:05:37+00:00"
+  },
+  "https://grafana.com/blog/manage-synthetic-checks-at-scale-introducing-folders-in-grafana-cloud-synthetic-monitoring": {
+    "title": "Manage synthetic checks at scale: Introducing folders in Grafana Cloud Synthetic Monitoring",
+    "source": "Grafana Blog",
+    "first_seen": "2026-10-07T15:51:35.004370+00:00",
+    "published": "2026-10-07T15:00:41+00:00"
+  },
+  "https://developer.nvidia.com/blog/faster-scientific-image-analysis-with-nvidia-cuphoton": {
+    "title": "Faster Scientific Image Analysis with NVIDIA cuPhoton",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-10-07T15:51:35.004370+00:00",
+    "published": "2026-10-07T15:00:00+00:00"
+  },
+  "https://simonwillison.net/2026/Oct/7/anti-patterns-in-software-blogging": {
+    "title": "Anti-Patterns in Software Blogging",
+    "source": "Simon Willison",
+    "first_seen": "2026-10-07T15:51:35.004370+00:00",
+    "published": "2026-10-07T14:53:51+00:00"
+  },
+  "https://thenewstack.io/infino-agent-retrieval-layer": {
+    "title": "OpenSearch veterans launch Infino. Here’s why it matters for agent builders.",
+    "source": "The New Stack",
+    "first_seen": "2026-10-07T15:51:35.004370+00:00",
+    "published": "2026-10-07T14:25:54+00:00"
+  },
+  "https://thenewstack.io/gpt-6-1-sol-vs-gpt-6-astra": {
+    "title": "GPT-6.1 Sol vs. GPT-6 Astra: Same accuracy at 18% of the cost",
+    "source": "The New Stack",
+    "first_seen": "2026-10-07T15:51:35.004370+00:00",
+    "published": "2026-10-07T14:17:13+00:00"
+  },
+  "https://synthid.com": {
+    "title": "SynthID Detector",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-07T15:51:35.004370+00:00",
+    "published": "2026-10-07T14:16:44+00:00"
+  },
+  "https://github.com/Queuingtheorydotcom/11SquaresFormalized": {
+    "title": "AI-assisted proof of optimal packing for 11 squares",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-07T15:51:35.004370+00:00",
+    "published": "2026-10-07T14:10:55+00:00"
+  },
+  "https://opentelemetry.io/blog/2026/community-awards": {
+    "title": "OpenTelemetry Community Awards 2026",
+    "source": "OpenTelemetry Blog",
+    "first_seen": "2026-10-07T15:51:35.004370+00:00",
+    "published": "2026-10-07T14:01:16+00:00"
+  },
+  "https://realpython.com/python-ides-code-editors-guide": {
+    "title": "The Best IDEs and Code Editors for Python (Guide)",
+    "source": "Real Python",
+    "first_seen": "2026-10-07T15:51:35.004370+00:00",
+    "published": "2026-10-07T14:00:00+00:00"
+  },
+  "https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests": {
+    "title": "ShinyHunters Extorted Boeing Spin-off Prior to Arrests",
+    "source": "Krebs on Security",
+    "first_seen": "2026-10-07T15:51:35.004370+00:00",
+    "published": "2026-10-07T13:48:45+00:00"
+  },
+  "https://www.phoronix.com/news/NVIDIA-615.78.08-Linux": {
+    "title": "NVIDIA 615.78.08 Linux Driver Adds VK_NV_low_latency2 r3 For Improved VKD3D-Proton",
+    "source": "Phoronix",
+    "first_seen": "2026-10-07T15:51:35.004370+00:00",
+    "published": "2026-10-07T13:45:10+00:00"
+  },
+  "https://labs.google/playground": {
+    "title": "Google Playground",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-07T15:51:35.004370+00:00",
+    "published": "2026-10-07T13:42:03+00:00"
+  },
+  "https://lwn.net/Articles/1097209": {
+    "title": "[$] Evolving the LAVD scheduler from gaming to servers",
+    "source": "LWN.net",
+    "first_seen": "2026-10-07T15:51:35.004370+00:00",
+    "published": "2026-10-07T13:33:48+00:00"
+  },
+  "https://lwn.net/Articles/1099206": {
+    "title": "A new Raspberry Pi Desktop release is finally available for x86-64",
+    "source": "LWN.net",
+    "first_seen": "2026-10-07T15:51:35.004370+00:00",
+    "published": "2026-10-07T13:26:25+00:00"
+  },
+  "https://lwn.net/Articles/1099202": {
+    "title": "Security updates for Wednesday",
+    "source": "LWN.net",
+    "first_seen": "2026-10-07T15:51:35.004370+00:00",
+    "published": "2026-10-07T13:08:53+00:00"
+  },
+  "https://refactoringenglish.com/blog/anti-patterns-software-blogging": {
+    "title": "Anti-Patterns in Software Blogging",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-07T15:51:35.004370+00:00",
+    "published": "2026-10-07T13:08:26+00:00"
+  },
+  "https://www.readingchronicle.co.uk/news/26612080.house-15m-underground-tunnels-sale-300k": {
+    "title": "House with 15m underground tunnels for sale for 300k",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-07T15:51:35.004370+00:00",
+    "published": "2026-10-07T12:57:10+00:00"
+  },
+  "https://artmuseum.artfrompixels.com": {
+    "title": "Show HN: A walkable 3D art history museum built from Wikipedia",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-07T15:51:35.004370+00:00",
+    "published": "2026-10-07T12:51:08+00:00"
+  },
+  "https://www.phoronix.com/news/Kage-Linux-Driver-Isolation": {
+    "title": "Kage: Google Experimenting With Linux Driver Isolation Using In-Kernel LFI Sandboxes",
+    "source": "Phoronix",
+    "first_seen": "2026-10-07T15:51:35.004370+00:00",
+    "published": "2026-10-07T12:50:16+00:00"
+  },
+  "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026": {
+    "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-10-07T15:51:35.004370+00:00",
+    "published": "2026-10-07T12:45:31+00:00"
+  },
+  "https://github.com/akawashiro/procinsh": {
+    "title": "Show HN: Procinsh – A 3D Linux process inspector",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-07T15:51:35.004370+00:00",
+    "published": "2026-10-07T12:45:06+00:00"
+  },
+  "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform": {
+    "title": "Google Playground: Create and play custom games",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-07T15:51:35.004370+00:00",
+    "published": "2026-10-07T12:28:36+00:00"
+  },
+  "https://www.tigerdata.com/blog/continuous-aggregate-refresh-policies-solar-wind-scada": {
+    "title": "Continuous Aggregate Refresh Policies for Solar and Wind SCADA Data: Choosing the Right Policy Shape",
+    "source": "Timescale Blog",
+    "first_seen": "2026-10-07T15:51:35.004370+00:00",
+    "published": "2026-10-07T12:14:21+00:00"
+  },
+  "https://www.cncf.io/blog/2026/10/07/meshery-becomes-a-cncf-incubating-project": {
+    "title": "Meshery becomes a CNCF Incubating project",
+    "source": "CNCF Blog",
+    "first_seen": "2026-10-07T15:51:35.004370+00:00",
+    "published": "2026-10-07T12:05:16+00:00"
+  },
+  "https://fiveminutesforward.com/post/2026-10-04-telegraph-test": {
+    "title": "Write Like It's 1866: LLMs Relearn Telegraphese",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-07T15:51:35.004370+00:00",
+    "published": "2026-10-07T12:04:36+00:00"
+  },
+  "https://realpython.com/quizzes/python-ides-code-editors-guide": {
+    "title": "Quiz: The Best IDEs and Code Editors for Python (Guide)",
+    "source": "Real Python",
+    "first_seen": "2026-10-07T15:51:35.004370+00:00",
+    "published": "2026-10-07T12:00:00+00:00"
+  },
+  "https://github.com/snuri00/psp-web-recomp": {
+    "title": "God of War on PSP, recompiled to WebAssembly and running in the browser",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-07T15:51:35.004370+00:00",
+    "published": "2026-10-07T11:27:27+00:00"
+  },
+  "https://developer.chrome.com/blog/jpeg-xl-in-chrome": {
+    "title": "Shipping JPEG XL in Chrome",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-07T15:51:35.004370+00:00",
+    "published": "2026-10-07T11:25:02+00:00"
+  },
+  "https://www.phoronix.com/news/Qialcomm-QPaCE-Linux-ZRAM": {
+    "title": "Qualcomm Posts QPaCE Linux Driver Code For Faster ZRAM On Newest SoCs",
+    "source": "Phoronix",
+    "first_seen": "2026-10-07T15:51:35.004370+00:00",
+    "published": "2026-10-07T11:21:40+00:00"
+  },
+  "https://thenewstack.io/docsy-linux-foundation-agents": {
+    "title": "What’s up, Docsy? Google’s docs project joins the Linux Foundation as AI agents become readers",
+    "source": "The New Stack",
+    "first_seen": "2026-10-07T15:51:35.004370+00:00",
+    "published": "2026-10-07T11:02:46+00:00"
+  },
+  "https://www.phoronix.com/news/XMFS-Linux-File-System": {
+    "title": "XMFS: Experimental File-System Being Worked On By Huawei For Modern Linux Servers",
+    "source": "Phoronix",
+    "first_seen": "2026-10-07T15:51:35.004370+00:00",
+    "published": "2026-10-07T10:20:28+00:00"
+  },
+  "https://www.phoronix.com/news/WSL2-Linux-Kernel-Fence-Sharing": {
+    "title": "Microsoft Updates Its WSL2 Linux Kernel With DXGKRNL Improvement, More Features Enabled",
+    "source": "Phoronix",
+    "first_seen": "2026-10-07T15:51:35.004370+00:00",
+    "published": "2026-10-07T09:57:35+00:00"
+  },
+  "https://www.nobelprize.org/prizes/chemistry/2026/press-release": {
+    "title": "Nobel Prize in Chemistry 2026 to Henri B. Kagan and Kenso Soai",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-07T15:51:35.004370+00:00",
+    "published": "2026-10-07T09:51:43+00:00"
+  },
+  "https://www.phoronix.com/news/AMD-Zen-6-IBS-Memory-Profiler": {
+    "title": "AMD Engineer Talks Up New IBS Memory Profiler Feature Found On Zen 6",
+    "source": "Phoronix",
+    "first_seen": "2026-10-07T15:51:35.004370+00:00",
+    "published": "2026-10-07T09:47:54+00:00"
+  },
+  "https://github.com/szabadkai/c64-keyboard-font": {
+    "title": "A font recreated from photographs of classic Commodore 64 keycaps",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-07T15:51:35.004370+00:00",
+    "published": "2026-10-07T09:17:55+00:00"
+  },
+  "https://simonwillison.net/2026/Oct/7/jake-boggan": {
+    "title": "Quoting Jake Boggan",
+    "source": "Simon Willison",
+    "first_seen": "2026-10-07T15:51:35.004370+00:00",
+    "published": "2026-10-07T04:47:55+00:00"
+  },
+  "https://strandsagents.com/blog/introducing-strands-decider": {
+    "title": "Strands Decider 2B: a small, open-source, decision model",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-07T15:51:35.004370+00:00",
+    "published": "2026-10-07T02:02:11+00:00"
+  },
+  "https://github.com/M-Abozaid/esp32-c3-adblock": {
+    "title": "ESP32-C3 Adblock",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-07T15:51:35.004370+00:00",
+    "published": "2026-10-07T01:39:21+00:00"
+  },
+  "https://www.phoronix.com/news/X.Org-12-New-Issues-2026": {
+    "title": "Another Dozen Vulnerabilities Found In The X.Org Server & XWayland",
+    "source": "Phoronix",
+    "first_seen": "2026-10-07T15:51:35.004370+00:00",
+    "published": "2026-10-07T01:31:11+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-Better-Zswap-Performance": {
+    "title": "New Patches For Linux's Zswap Show Major Improvements",
+    "source": "Phoronix",
+    "first_seen": "2026-10-07T15:51:35.004370+00:00",
+    "published": "2026-10-07T00:56:04+00:00"
+  },
+  "https://simonwillison.net/2026/Oct/7/openai-rogue-agents-wikimedia": {
+    "title": "OpenAI “rogue” agent activities found on Wikimedia projects",
+    "source": "Simon Willison",
+    "first_seen": "2026-10-07T15:51:35.004370+00:00",
+    "published": "2026-10-07T00:16:45+00:00"
+  },
+  "https://www.thoughtworks.com/insights/articles/the-action-gap-customer-insight": {
+    "title": "The action gap: All that customer insight. Now what?",
+    "source": "ThoughtWorks",
+    "first_seen": "2026-10-07T15:51:35.004370+00:00",
+    "published": "2026-10-07T00:00:00+00:00"
+  },
+  "https://www.elastic.co/blog/elastic-leader-gartner-magic-quadrant-enterprise-ai-search-2026": {
+    "title": "Elastic named a Leader in the 2026 Gartner® Magic Quadrant™ for Enterprise AI Search",
+    "source": "Elastic Blog",
+    "first_seen": "2026-10-07T15:51:35.004370+00:00",
+    "published": "2026-10-07T00:00:00+00:00"
+  },
+  "https://planetscale.com/blog/leaky-buckets-in-software-explained": {
+    "title": "What today's software owes to Bronze Age clocks",
+    "source": "PlanetScale Blog",
+    "first_seen": "2026-10-07T15:51:35.004370+00:00",
+    "published": "2026-10-07T00:00:00+00:00"
+  },
+  "https://simonwillison.net/2026/Oct/6/llm-openai-decisions": {
+    "title": "llm-openai-decisions 0.1a0",
+    "source": "Simon Willison",
+    "first_seen": "2026-10-07T15:51:35.004370+00:00",
+    "published": "2026-10-06T23:04:13+00:00"
   }
 }
