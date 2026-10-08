@@ -103154,5 +103154,311 @@
     "source": "matklad",
     "first_seen": "2026-10-08T00:31:12.176239+00:00",
     "published": "2026-10-07T00:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/Ubuntu-DDoS-October-2026": {
+    "title": "Ubuntu Currently Suffering From Sustained DDoS Attack",
+    "source": "Phoronix",
+    "first_seen": "2026-10-08T15:55:03.181207+00:00",
+    "published": "2026-10-08T15:41:51+00:00"
+  },
+  "https://blog.bytebytego.com/p/how-software-boundaries-are-the-most": {
+    "title": "How Software Boundaries Are The Most Important Skill for Developers",
+    "source": "ByteByteGo",
+    "first_seen": "2026-10-08T15:55:03.181207+00:00",
+    "published": "2026-10-08T15:31:01+00:00"
+  },
+  "https://www.phoronix.com/review/ubuntu-2610-amd-epyc": {
+    "title": "Ubuntu 26.10 Delivers Nice I/O Performance Wins Over Ubuntu 26.04 On AMD EPYC",
+    "source": "Phoronix",
+    "first_seen": "2026-10-08T15:55:03.181207+00:00",
+    "published": "2026-10-08T15:28:51+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/how-mufg-bank-aims-to-cut-flowchart-work-by-up-to-90-with-ontology-grounded-ai-on-amazon-neptune-and-amazon-bedrock": {
+    "title": "How MUFG Bank aims to cut flowchart work by up to 90% with ontology-grounded AI on Amazon Neptune and Amazon Bedrock",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-10-08T15:55:03.181207+00:00",
+    "published": "2026-10-08T15:24:02+00:00"
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-08/us-suspends-visa-program-for-tech-firms-including-microsoft": {
+    "title": "US Suspends Visa Program for Tech Firms Including Microsoft",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-08T15:55:03.181207+00:00",
+    "published": "2026-10-08T15:15:00+00:00"
+  },
+  "https://thenewstack.io/ai-agent-credential-risks": {
+    "title": "The audit log says my name: what an agent inherits when you hand it your credentials",
+    "source": "The New Stack",
+    "first_seen": "2026-10-08T15:55:03.181207+00:00",
+    "published": "2026-10-08T15:00:00+00:00"
+  },
+  "https://tanzaniaeducationproject.org": {
+    "title": "Show HN: I've been paying for a rural Tanzanian's education for 10 years",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-08T15:55:03.181207+00:00",
+    "published": "2026-10-08T14:39:47+00:00"
+  },
+  "https://www.phoronix.com/news/H-Peter-Anvin-Rosaic-Labs": {
+    "title": "Secretive Rosaic Labs Hires Legendary Linux x86 Developer",
+    "source": "Phoronix",
+    "first_seen": "2026-10-08T15:55:03.181207+00:00",
+    "published": "2026-10-08T14:33:55+00:00"
+  },
+  "https://devblogs.microsoft.com/devops/new-wiki-editor-experience": {
+    "title": "New Wiki Editor Experience",
+    "source": "MS DevOps Blog",
+    "first_seen": "2026-10-08T15:55:03.181207+00:00",
+    "published": "2026-10-08T14:24:03+00:00"
+  },
+  "https://grafana.com/blog/manage-your-opentelemetry-collectors-with-fleet-management-in-grafana-cloud": {
+    "title": "Manage your OpenTelemetry Collectors with Fleet Management in Grafana Cloud",
+    "source": "Grafana Blog",
+    "first_seen": "2026-10-08T15:55:03.181207+00:00",
+    "published": "2026-10-08T14:04:56+00:00"
+  },
+  "https://stackoverflow.blog/2026/10/08/a-green-exit-code-is-not-evidence-that-the-work-happened": {
+    "title": "A green exit code is not evidence that the work happened",
+    "source": "Stack Overflow Blog",
+    "first_seen": "2026-10-08T15:55:03.181207+00:00",
+    "published": "2026-10-08T14:00:00+00:00"
+  },
+  "https://realpython.com/what-is-meta-muse": {
+    "title": "What Is Meta Muse? A Plain-English Guide to Meta's New AI",
+    "source": "Real Python",
+    "first_seen": "2026-10-08T15:55:03.181207+00:00",
+    "published": "2026-10-08T14:00:00+00:00"
+  },
+  "https://realpython.com/junior-developers-ahead-on-ai": {
+    "title": "Why Junior Developers Might Know More About AI Than Seniors",
+    "source": "Real Python",
+    "first_seen": "2026-10-08T15:55:03.181207+00:00",
+    "published": "2026-10-08T14:00:00+00:00"
+  },
+  "https://lwn.net/Articles/1098399": {
+    "title": "[$] The [vx]swap showdown",
+    "source": "LWN.net",
+    "first_seen": "2026-10-08T15:55:03.181207+00:00",
+    "published": "2026-10-08T13:43:27+00:00"
+  },
+  "https://interop-rank.fxdx.dev": {
+    "title": "2027 Web Platform Feature Ranking",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-08T15:55:03.181207+00:00",
+    "published": "2026-10-08T13:34:22+00:00"
+  },
+  "https://thenewstack.io/autonomous-cloud-context-layer": {
+    "title": "The API tax: Why AI agents stall without infrastructure context",
+    "source": "The New Stack",
+    "first_seen": "2026-10-08T15:55:03.181207+00:00",
+    "published": "2026-10-08T13:30:00+00:00"
+  },
+  "https://www.phoronix.com/news/Nova-Driver-LPC-2026": {
+    "title": "Nova Driver Continues Progressing With Long-Term Goal For Official NVIDIA Linux Use",
+    "source": "Phoronix",
+    "first_seen": "2026-10-08T15:55:03.181207+00:00",
+    "published": "2026-10-08T13:29:37+00:00"
+  },
+  "https://vale.rocks/posts/dvd-menus": {
+    "title": "Beauty in DVD Menus",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-08T15:55:03.181207+00:00",
+    "published": "2026-10-08T13:22:01+00:00"
+  },
+  "https://lwn.net/Articles/1099388": {
+    "title": "Security updates for Thursday",
+    "source": "LWN.net",
+    "first_seen": "2026-10-08T15:55:03.181207+00:00",
+    "published": "2026-10-08T13:11:00+00:00"
+  },
+  "https://www.databricks.com/blog/how-build-governed-enterprise-apps-databricks-replit-and-lakebase": {
+    "title": "How to build governed enterprise apps on Databricks with Replit and Lakebase",
+    "source": "Databricks Blog",
+    "first_seen": "2026-10-08T15:55:03.181207+00:00",
+    "published": "2026-10-08T13:00:00+00:00"
+  },
+  "https://thenewstack.io/ai-incident-response-tabletops": {
+    "title": "AI changed how you respond to incidents. Your tabletops haven’t caught up.",
+    "source": "The New Stack",
+    "first_seen": "2026-10-08T15:55:03.181207+00:00",
+    "published": "2026-10-08T13:00:00+00:00"
+  },
+  "https://blog.cloudflare.com/radar-redesign": {
+    "title": "Bridging technical depth and usability: The story behind Radar’s redesign",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-10-08T15:55:03.181207+00:00",
+    "published": "2026-10-08T13:00:00+00:00"
+  },
+  "https://pytorch.org/blog/building-spyre-as-a-native-pytorch-device": {
+    "title": "Building Spyre as a Native PyTorch Device",
+    "source": "PyTorch Blog",
+    "first_seen": "2026-10-08T15:55:03.181207+00:00",
+    "published": "2026-10-08T12:45:49+00:00"
+  },
+  "https://engineering.atspotify.com/2026/10/introducing-spotify-technology-proven-at-spotify-now-yours": {
+    "title": "Introducing: Spotify Technology. Proven at Spotify, now yours.",
+    "source": "Spotify Engineering",
+    "first_seen": "2026-10-08T15:55:03.181207+00:00",
+    "published": "2026-10-08T12:30:10+00:00"
+  },
+  "https://www.telnetbbsguide.com": {
+    "title": "Telnet BBS Guide",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-08T15:55:03.181207+00:00",
+    "published": "2026-10-08T12:28:35+00:00"
+  },
+  "https://www.phoronix.com/news/Patches-Removing-Linux-x32-ABI": {
+    "title": "Patches Updated To Begin Removing The Linux x32 ABI",
+    "source": "Phoronix",
+    "first_seen": "2026-10-08T15:55:03.181207+00:00",
+    "published": "2026-10-08T12:09:53+00:00"
+  },
+  "https://www.construction-physics.com/p/the-rise-and-fall-of-the-plasma-screen": {
+    "title": "The Rise and Fall of the Plasma Screen",
+    "source": "Construction Physics",
+    "first_seen": "2026-10-08T15:55:03.181207+00:00",
+    "published": "2026-10-08T12:02:36+00:00"
+  },
+  "https://quesma.com/blog/invisible-cities-one-shot": {
+    "title": "I gave Opus 5.5 one prompt and six hours to visualize Invisible Cities",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-08T15:55:03.181207+00:00",
+    "published": "2026-10-08T12:00:20+00:00"
+  },
+  "https://thenewstack.io/claude-sonnet-5-5-vs-opus-5-5": {
+    "title": "Claude Sonnet 5.5 vs. Opus 5.5: 42% cheaper and perfect on every run",
+    "source": "The New Stack",
+    "first_seen": "2026-10-08T15:55:03.181207+00:00",
+    "published": "2026-10-08T12:00:00+00:00"
+  },
+  "https://realpython.com/quizzes/python-boto3-aws-s3": {
+    "title": "Quiz: Python, Boto3, and AWS S3: Demystified",
+    "source": "Real Python",
+    "first_seen": "2026-10-08T15:55:03.181207+00:00",
+    "published": "2026-10-08T12:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/topics/startups/how-to-grow-your-small-business-using-google-gemini": {
+    "title": "Empowering SMBs to do more with Gemini",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-10-08T15:55:03.181207+00:00",
+    "published": "2026-10-08T12:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/topics/public-sector/gps-suny-launch-ai-enabled-platform-to-accelerate-university-research": {
+    "title": "Google Public Sector and SUNY launch AI-enabled platform to accelerate university research",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-10-08T15:55:03.181207+00:00",
+    "published": "2026-10-08T12:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/topics/customers/ireland-innovation-companies-startups-governments-scale-with-gemini": {
+    "title": "Innovation in Ireland: How Irish brands scale with Gemini Enterprise",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-10-08T15:55:03.181207+00:00",
+    "published": "2026-10-08T12:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026": {
+    "title": "Welcome to Gemini at Work 2026: Introducing the Gemini agent",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-10-08T15:55:03.181207+00:00",
+    "published": "2026-10-08T12:00:00+00:00"
+  },
+  "https://www.theguardian.com/books/2026/oct/08/wins-the-nobel-prize-in-literature-2026": {
+    "title": "Anne Carson wins Nobel Prize in literature 2026",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-08T15:55:03.181207+00:00",
+    "published": "2026-10-08T11:58:50+00:00"
+  },
+  "https://www.phoronix.com/news/Sashiko-Linux-AI-Metrics": {
+    "title": "Google's Sashiko AI Has Completed 191k Patch Reviews, Cited On Nearly 500 Kernel CVEs",
+    "source": "Phoronix",
+    "first_seen": "2026-10-08T15:55:03.181207+00:00",
+    "published": "2026-10-08T11:18:03+00:00"
+  },
+  "https://thenewstack.io/building-agent-friendly-apis": {
+    "title": "Building scalable, agent-friendly APIs for AI applications",
+    "source": "The New Stack",
+    "first_seen": "2026-10-08T15:55:03.181207+00:00",
+    "published": "2026-10-08T11:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/SpacemiT-Linux-7.4": {
+    "title": "SpacemiT RISC-V SoCs To See More Improvements With Linux 7.4",
+    "source": "Phoronix",
+    "first_seen": "2026-10-08T15:55:03.181207+00:00",
+    "published": "2026-10-08T10:13:54+00:00"
+  },
+  "https://www.phoronix.com/news/Google-More-Kernel-Compiler-Opt": {
+    "title": "Google Working To Leverage More Compiler Optimizations Within The Linux Kernel",
+    "source": "Phoronix",
+    "first_seen": "2026-10-08T15:55:03.181207+00:00",
+    "published": "2026-10-08T09:57:36+00:00"
+  },
+  "https://github.com/openai/math/blob/main/history.md": {
+    "title": "OpenAI Withdraws 3 Math Papers",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-08T15:55:03.181207+00:00",
+    "published": "2026-10-08T08:08:37+00:00"
+  },
+  "https://thenewstack.io/valkey-proxy-redis-percona": {
+    "title": "Redis by proxy: Percona targets the last major hurdle to Valkey adoption",
+    "source": "The New Stack",
+    "first_seen": "2026-10-08T15:55:03.181207+00:00",
+    "published": "2026-10-08T06:54:15+00:00"
+  },
+  "https://dat-ecosystem.org": {
+    "title": "Dat-ecosystem: high level applications built on top of P2P protocols",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-08T15:55:03.181207+00:00",
+    "published": "2026-10-08T06:43:13+00:00"
+  },
+  "https://mathstodon.xyz/@tao/117395269325940185": {
+    "title": "“Math 2.0” will need to value mathematical progress more holistically",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-08T15:55:03.181207+00:00",
+    "published": "2026-10-08T05:14:14+00:00"
+  },
+  "https://www.phoronix.com/news/Steam-Beta-Use-Proton-Default": {
+    "title": "Steam Beta Now Defaults Non-Steam Windows Binaries To Using Proton",
+    "source": "Phoronix",
+    "first_seen": "2026-10-08T15:55:03.181207+00:00",
+    "published": "2026-10-08T01:09:05+00:00"
+  },
+  "https://www.phoronix.com/news/Microsoft-LiteBox-0.1": {
+    "title": "Microsoft Issues First Release Of Their LiteBox Sandboxing Library OS",
+    "source": "Phoronix",
+    "first_seen": "2026-10-08T15:55:03.181207+00:00",
+    "published": "2026-10-08T00:43:11+00:00"
+  },
+  "https://www.thoughtworks.com/insights/articles/real-world-lessons-agentic-authority-overreach": {
+    "title": "Real-world lessons in agentic authority and overreach",
+    "source": "ThoughtWorks",
+    "first_seen": "2026-10-08T15:55:03.181207+00:00",
+    "published": "2026-10-08T00:00:00+00:00"
+  },
+  "https://openai.com/index/disrupting-ai-enabled-false-front-operations": {
+    "title": "Disrupting AI-enabled “false front” operations",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-10-08T15:55:03.181207+00:00",
+    "published": "2026-10-08T00:00:00+00:00"
+  },
+  "https://nodeweekly.com/issues/643": {
+    "title": "When worker threads beat processes for Node efficiency",
+    "source": "Node Weekly",
+    "first_seen": "2026-10-08T15:55:03.181207+00:00",
+    "published": "2026-10-08T00:00:00+00:00"
+  },
+  "https://machinelearning.apple.com/research/normalizing-trajectory-models": {
+    "title": "Normalizing Trajectory Models",
+    "source": "Apple ML Journal",
+    "first_seen": "2026-10-08T15:55:03.181207+00:00",
+    "published": "2026-10-08T00:00:00+00:00"
+  },
+  "https://www.smithsonianmag.com/science-nature/archaeologists-are-reconstructing-the-invisible-technologies-of-the-stone-age-from-rope-to-thread-and-twine-180989534": {
+    "title": "Archaeologists Are Reconstructing the 'Invisible' Technologies of the Stone Age",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-08T15:55:03.181207+00:00",
+    "published": "2026-10-07T21:25:16+00:00"
+  },
+  "https://scottaaronson.blog?p=10169": {
+    "title": "The Mathocalypse",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-08T15:55:03.181207+00:00",
+    "published": "2026-10-07T19:33:40+00:00"
   }
 }
