@@ -102848,5 +102848,311 @@
     "source": "Simon Willison",
     "first_seen": "2026-10-07T15:51:35.004370+00:00",
     "published": "2026-10-06T23:04:13+00:00"
+  },
+  "https://www.databricks.com/blog/announcing-workday-data-connect-federation-unity-catalog": {
+    "title": "Announcing Workday Data Connect federation in Unity Catalog",
+    "source": "Databricks Blog",
+    "first_seen": "2026-10-08T00:31:12.176239+00:00",
+    "published": "2026-10-08T23:00:00+00:00"
+  },
+  "https://lwn.net/Articles/1097859": {
+    "title": "[$] LWN.net Weekly Edition for October 8, 2026",
+    "source": "LWN.net",
+    "first_seen": "2026-10-08T00:31:12.176239+00:00",
+    "published": "2026-10-08T00:22:31+00:00"
+  },
+  "https://www.phoronix.com/news/Photocraft-Filmcraft-AI": {
+    "title": "AI Makes \"Open-Source, Clean Room\" Implementations Of Adobe Photoshop & Premier In Rust",
+    "source": "Phoronix",
+    "first_seen": "2026-10-08T00:31:12.176239+00:00",
+    "published": "2026-10-08T00:12:44+00:00"
+  },
+  "https://simonwillison.net/2026/Oct/7/ben-affleck": {
+    "title": "Quoting Ben Affleck",
+    "source": "Simon Willison",
+    "first_seen": "2026-10-08T00:31:12.176239+00:00",
+    "published": "2026-10-07T23:14:58+00:00"
+  },
+  "https://www.cncf.io/blog/2026/10/07/ciliumcon-is-back-at-kubecon-cloudnativecon-north-america-2026": {
+    "title": "CiliumCon is back at KubeCon + CloudNativeCon North America 2026",
+    "source": "CNCF Blog",
+    "first_seen": "2026-10-08T00:31:12.176239+00:00",
+    "published": "2026-10-07T22:38:50+00:00"
+  },
+  "https://www.cncf.io/blog/2026/10/07/backstagecon-comes-to-kubecon-cloudnativecon-north-america-2026-in-salt-lake-city": {
+    "title": "BackstageCon comes to KubeCon + CloudNativeCon North America 2026 in Salt Lake City",
+    "source": "CNCF Blog",
+    "first_seen": "2026-10-08T00:31:12.176239+00:00",
+    "published": "2026-10-07T21:59:53+00:00"
+  },
+  "https://aws.amazon.com/blogs/security/configuring-your-ai-vulnerability-harness-part-2-the-steering-file": {
+    "title": "Configuring your AI vulnerability harness, Part 2: The steering file",
+    "source": "AWS Security Blog",
+    "first_seen": "2026-10-08T00:31:12.176239+00:00",
+    "published": "2026-10-07T21:49:50+00:00"
+  },
+  "https://aws.amazon.com/blogs/security/building-your-ai-vulnerability-harness-part-1": {
+    "title": "Building your AI vulnerability harness, Part 1",
+    "source": "AWS Security Blog",
+    "first_seen": "2026-10-08T00:31:12.176239+00:00",
+    "published": "2026-10-07T21:49:43+00:00"
+  },
+  "https://www.cncf.io/blog/2026/10/07/kubernetes-on-edge-day-returns-to-kubecon-cloudnativecon-north-america-2026": {
+    "title": "Kubernetes on Edge Day returns to KubeCon + CloudNativeCon North America 2026",
+    "source": "CNCF Blog",
+    "first_seen": "2026-10-08T00:31:12.176239+00:00",
+    "published": "2026-10-07T21:33:31+00:00"
+  },
+  "https://thenewstack.io/openssh-breaks-compression-usernames": {
+    "title": "OpenSSH 10.6 deliberately breaks two features in the name of security",
+    "source": "The New Stack",
+    "first_seen": "2026-10-08T00:31:12.176239+00:00",
+    "published": "2026-10-07T21:27:33+00:00"
+  },
+  "https://thenewstack.io/anthropic-cyber-access-tiers": {
+    "title": "Claude’s cyber safeguards are getting more flexible — but not for everyone.",
+    "source": "The New Stack",
+    "first_seen": "2026-10-08T00:31:12.176239+00:00",
+    "published": "2026-10-07T21:25:06+00:00"
+  },
+  "https://www.phoronix.com/news/FEX-2610-Released": {
+    "title": "FEX 2610 Released With Handling For AVX-VNNI, Disk Cache Improvements",
+    "source": "Phoronix",
+    "first_seen": "2026-10-08T00:31:12.176239+00:00",
+    "published": "2026-10-07T21:16:47+00:00"
+  },
+  "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007": {
+    "title": "Margaret Hamilton has died",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-08T00:31:12.176239+00:00",
+    "published": "2026-10-07T21:16:18+00:00"
+  },
+  "https://thenewstack.io/openai-decision-models-deployment": {
+    "title": "Decision models are suddenly everywhere. OpenAI’s is now public.",
+    "source": "The New Stack",
+    "first_seen": "2026-10-08T00:31:12.176239+00:00",
+    "published": "2026-10-07T21:11:26+00:00"
+  },
+  "https://simonwillison.net/2026/Oct/7/claude-haiku-5-5": {
+    "title": "Claude Haiku 5.5",
+    "source": "Simon Willison",
+    "first_seen": "2026-10-08T00:31:12.176239+00:00",
+    "published": "2026-10-07T20:56:21+00:00"
+  },
+  "https://stackoverflow.blog/2026/10/07/part-3-knowing-when-your-agent-doesn-t-know-the-confidence-layer": {
+    "title": "Part 3: Knowing when your agent doesn’t know: the confidence layer",
+    "source": "Stack Overflow Blog",
+    "first_seen": "2026-10-08T00:31:12.176239+00:00",
+    "published": "2026-10-07T20:40:29+00:00"
+  },
+  "https://stackoverflow.blog/2026/10/07/evals-as-a-deployment-gate-and-how-to-know-when-they-drift": {
+    "title": "Part 2: Evals as a deployment gate — and how to know when they drift",
+    "source": "Stack Overflow Blog",
+    "first_seen": "2026-10-08T00:31:12.176239+00:00",
+    "published": "2026-10-07T20:31:12+00:00"
+  },
+  "https://research.google/blog/does-better-work-always-mean-better-workers": {
+    "title": "Does better work always mean better workers?",
+    "source": "Google Research",
+    "first_seen": "2026-10-08T00:31:12.176239+00:00",
+    "published": "2026-10-07T20:19:57+00:00"
+  },
+  "https://stackoverflow.blog/2026/10/07/part-1-make-your-ai-agents-boring-the-determinism-layer": {
+    "title": "Part 1: Make your AI agents boring: the determinism layer",
+    "source": "Stack Overflow Blog",
+    "first_seen": "2026-10-08T00:31:12.176239+00:00",
+    "published": "2026-10-07T20:14:49+00:00"
+  },
+  "https://stackoverflow.blog/2026/10/07/implementing-a-modular-master-agent-telemetry-and-diagnostic-framework-in-python-prime-sentinel-command-psc": {
+    "title": "Implementing a Modular Master-Agent Telemetry & Diagnostic Framework in Python: Prime-Sentinel Command (PSC)",
+    "source": "Stack Overflow Blog",
+    "first_seen": "2026-10-08T00:31:12.176239+00:00",
+    "published": "2026-10-07T20:03:47+00:00"
+  },
+  "https://www.404media.co/oldest-living-land-animal-jonathan-the-tortoise": {
+    "title": "'Jonathan' is the oldest land animal on Earth",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-08T00:31:12.176239+00:00",
+    "published": "2026-10-07T20:01:37+00:00"
+  },
+  "https://thenewstack.io/kubernetes-teams-ai-automation": {
+    "title": "Kubernetes won the orchestration wars. Its teams are still fighting.",
+    "source": "The New Stack",
+    "first_seen": "2026-10-08T00:31:12.176239+00:00",
+    "published": "2026-10-07T19:57:34+00:00"
+  },
+  "https://www.databricks.com/blog/set-budgets-and-alerts-cloud-data-warehouse-costs": {
+    "title": "Set Budgets and Alerts for Cloud Data Warehouse Costs",
+    "source": "Databricks Blog",
+    "first_seen": "2026-10-08T00:31:12.176239+00:00",
+    "published": "2026-10-07T19:02:06+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/introducing-claude-haiku-5-5-on-aws": {
+    "title": "Introducing Claude Haiku 5.5 on AWS",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-10-08T00:31:12.176239+00:00",
+    "published": "2026-10-07T18:52:10+00:00"
+  },
+  "https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai": {
+    "title": "Meta and Microsoft take steps to reduce employee usage of Claude AI",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-08T00:31:12.176239+00:00",
+    "published": "2026-10-07T18:49:40+00:00"
+  },
+  "https://debasishg.github.io/blog/push-ifs-up-fors-down": {
+    "title": "Push ifs up and fors down: The idiom, its algebra, and its limits",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-08T00:31:12.176239+00:00",
+    "published": "2026-10-07T18:43:18+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/rethinking-access-control-for-rag-with-amazon-quick-and-amazon-bedrock": {
+    "title": "Rethinking access control for RAG with Amazon Quick and Amazon Bedrock",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-10-08T00:31:12.176239+00:00",
+    "published": "2026-10-07T18:34:44+00:00"
+  },
+  "https://developer.nvidia.com/blog/the-machines-that-make-the-machines": {
+    "title": "The Machines that Make the Machines",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-10-08T00:31:12.176239+00:00",
+    "published": "2026-10-07T18:21:03+00:00"
+  },
+  "https://thenewstack.io/openai-safety-release-cycle": {
+    "title": "OpenAI’s former safety lead says it’s shipping ‘new capability and risk every Tuesday’",
+    "source": "The New Stack",
+    "first_seen": "2026-10-08T00:31:12.176239+00:00",
+    "published": "2026-10-07T18:18:24+00:00"
+  },
+  "https://www.anthropic.com/claude-haiku-5-5": {
+    "title": "Claude Haiku 5.5",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-08T00:31:12.176239+00:00",
+    "published": "2026-10-07T18:01:32+00:00"
+  },
+  "https://openai.com/index/gpt-6-for-everyone": {
+    "title": "GPT‑6 and Intelligent UI for everyone",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-08T00:31:12.176239+00:00",
+    "published": "2026-10-07T18:00:58+00:00"
+  },
+  "https://thenewstack.io/anthropic-claude-haiku-5-5": {
+    "title": "Anthropic launches Haiku 5.5 at a much lower price",
+    "source": "The New Stack",
+    "first_seen": "2026-10-08T00:31:12.176239+00:00",
+    "published": "2026-10-07T18:00:00+00:00"
+  },
+  "https://www.nytimes.com/2026/10/07/science/first-nuclear-clocks-thorium-229.html": {
+    "title": "In Vienna and Beijing, the first (thorium) nuclear clocks begin to tick",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-08T00:31:12.176239+00:00",
+    "published": "2026-10-07T17:59:34+00:00"
+  },
+  "https://github.com/docker/docker-agent": {
+    "title": "Docker Agent",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-08T00:31:12.176239+00:00",
+    "published": "2026-10-07T17:48:38+00:00"
+  },
+  "https://github.blog/ai-and-ml/github-copilot/secret-protection-must-scale-with-software": {
+    "title": "Secret protection must scale with software",
+    "source": "GitHub Blog",
+    "first_seen": "2026-10-08T00:31:12.176239+00:00",
+    "published": "2026-10-07T17:45:34+00:00"
+  },
+  "https://newsletter.pragmaticengineer.com/p/building-resilient-systems-with-sam": {
+    "title": "Building resilient systems with Sam Newman",
+    "source": "The Pragmatic Engineer",
+    "first_seen": "2026-10-08T00:31:12.176239+00:00",
+    "published": "2026-10-07T17:19:58+00:00"
+  },
+  "https://agent.reviews": {
+    "title": "Show HN: Agent.reviews – Where AI agents read and write reviews on tools",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-08T00:31:12.176239+00:00",
+    "published": "2026-10-07T16:59:11+00:00"
+  },
+  "https://huggingface.co/blog/LiquidAI/open-d1": {
+    "title": "Multimodal open d1 decision models for the edge",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-10-08T00:31:12.176239+00:00",
+    "published": "2026-10-07T16:54:33+00:00"
+  },
+  "https://www.databricks.com/blog/now-ga-building-permission-aware-databricks-apps-behalf-user-authorization": {
+    "title": "Now GA: Building permission-aware Databricks Apps with on-behalf-of-user authorization",
+    "source": "Databricks Blog",
+    "first_seen": "2026-10-08T00:31:12.176239+00:00",
+    "published": "2026-10-07T16:40:00+00:00"
+  },
+  "https://blog.cloudflare.com/agentic-security-operations": {
+    "title": "Building an evidence-grounded agentic security operations harness on Cloudflare",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-10-08T00:31:12.176239+00:00",
+    "published": "2026-10-07T16:30:36+00:00"
+  },
+  "https://aws.amazon.com/blogs/security/part-1-cybersecurity-journeys-i-didnt-plan-this": {
+    "title": "Part 1 – Cybersecurity journeys: I didn’t plan this",
+    "source": "AWS Security Blog",
+    "first_seen": "2026-10-08T00:31:12.176239+00:00",
+    "published": "2026-10-07T16:21:19+00:00"
+  },
+  "https://www.phoronix.com/review/star-labs-starfighter": {
+    "title": "Star Labs StarFighter Ultra: A Modern High-End Linux Laptop With Coreboot",
+    "source": "Phoronix",
+    "first_seen": "2026-10-08T00:31:12.176239+00:00",
+    "published": "2026-10-07T16:00:00+00:00"
+  },
+  "https://developer.nvidia.com/blog/validate-ai-factory-changes-with-digital-twins-and-ai-agents": {
+    "title": "Validate AI Factory Changes with Digital Twins and AI Agents",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-10-08T00:31:12.176239+00:00",
+    "published": "2026-10-07T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/topics/financial-services/ultra-low-latency-solution-with-u4-enables-high-velocity-trading": {
+    "title": "Introducing Google Cloud’s U4 compute: Enabling ultra-low latency trading",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-10-08T00:31:12.176239+00:00",
+    "published": "2026-10-07T16:00:00+00:00"
+  },
+  "https://bigwords.page": {
+    "title": "Show HN: Bigwords.page – Turn any screen into a sign. The URL is the app",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-08T00:31:12.176239+00:00",
+    "published": "2026-10-07T15:44:21+00:00"
+  },
+  "https://arxiv.org/abs/2610.08144": {
+    "title": "Navier–Stokes Lost in Translation",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-08T00:31:12.176239+00:00",
+    "published": "2026-10-07T15:24:38+00:00"
+  },
+  "https://www.classaction.org/news/visa-mastercard-major-banks-facing-new-litigation-over-anticompetitive-merchant-credit-card-transaction-fees": {
+    "title": "Visa, Mastercard, major banks facing new litigation over 'anticompetitive' fees",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-08T00:31:12.176239+00:00",
+    "published": "2026-10-07T15:09:59+00:00"
+  },
+  "https://openai.com/index/teens-learn-and-plan": {
+    "title": "Helping teens learn, plan, and shape the future of AI",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-10-08T00:31:12.176239+00:00",
+    "published": "2026-10-07T12:00:00+00:00"
+  },
+  "https://neon.com/blog/bm25-is-only-as-good-as-your-tokens": {
+    "title": "BM25 is only as good as your tokens",
+    "source": "Neon Blog",
+    "first_seen": "2026-10-08T00:31:12.176239+00:00",
+    "published": "2026-10-07T12:00:00+00:00"
+  },
+  "https://openai.com/index/radisson": {
+    "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-10-08T00:31:12.176239+00:00",
+    "published": "2026-10-07T07:00:00+00:00"
+  },
+  "https://matklad.github.io/2026/10/07/git-ref.html": {
+    "title": "On Git Refs",
+    "source": "matklad",
+    "first_seen": "2026-10-08T00:31:12.176239+00:00",
+    "published": "2026-10-07T00:00:00+00:00"
   }
 }
