@@ -103460,5 +103460,335 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-10-08T15:55:03.181207+00:00",
     "published": "2026-10-07T19:33:40+00:00"
+  },
+  "https://www.phoronix.com/news/Mesa-26.3-RADV-VK_AMD_anti_lag": {
+    "title": "Valve Lands VK_AMD_anti_lag Support For AMD RADV Driver In Mesa 26.3",
+    "source": "Phoronix",
+    "first_seen": "2026-10-09T00:45:05.371919+00:00",
+    "published": "2026-10-09T00:23:33+00:00"
+  },
+  "https://github.com/edrisranjbar/lifeos": {
+    "title": "Show HN: Edi Life OS – self-hosted life dashboard with an MCP server for AI",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-09T00:45:05.371919+00:00",
+    "published": "2026-10-09T00:02:19+00:00"
+  },
+  "https://svg-spark.vercel.app": {
+    "title": "Show HN: SVG Spark – 10 client-side SVG design and dev tools",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-09T00:45:05.371919+00:00",
+    "published": "2026-10-08T23:32:49+00:00"
+  },
+  "https://karagila.org/2026/openai-pp": {
+    "title": "OpenAI, the Partition Principle, and Mathematics",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-09T00:45:05.371919+00:00",
+    "published": "2026-10-08T23:29:43+00:00"
+  },
+  "https://webkit.org/blog/18420/release-notes-for-safari-technology-preview-254": {
+    "title": "Release Notes for Safari Technology Preview 254",
+    "source": "WebKit Blog",
+    "first_seen": "2026-10-09T00:45:05.371919+00:00",
+    "published": "2026-10-08T23:29:40+00:00"
+  },
+  "https://spinal.sh": {
+    "title": "Spinal: A near-instant, predictive surface for any codebase",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-09T00:45:05.371919+00:00",
+    "published": "2026-10-08T22:48:30+00:00"
+  },
+  "https://www.cncf.io/blog/2026/10/08/dont-give-ai-agents-root-make-them-propose-the-next-system-state": {
+    "title": "Don’t give AI agents root. Make them propose the next system state.",
+    "source": "CNCF Blog",
+    "first_seen": "2026-10-09T00:45:05.371919+00:00",
+    "published": "2026-10-08T22:21:41+00:00"
+  },
+  "https://www.databricks.com/blog/lakebase-and-agentic-sdlc-branching-databases-coding-agents": {
+    "title": "Lakebase and Agentic SDLC: Branching Databases for Coding Agents",
+    "source": "Databricks Blog",
+    "first_seen": "2026-10-09T00:45:05.371919+00:00",
+    "published": "2026-10-08T22:00:00+00:00"
+  },
+  "https://www.databricks.com/blog/introducing-funke-native-hl7v2-parsing-databricks": {
+    "title": "Introducing Funke: Native HL7v2 Parsing on Databricks",
+    "source": "Databricks Blog",
+    "first_seen": "2026-10-09T00:45:05.371919+00:00",
+    "published": "2026-10-08T22:00:00+00:00"
+  },
+  "https://thenewstack.io/harness-augment-cosmos-acquisition": {
+    "title": "Harness bought Augment’s coding agents. The best feature hasn’t shipped yet.",
+    "source": "The New Stack",
+    "first_seen": "2026-10-09T00:45:05.371919+00:00",
+    "published": "2026-10-08T21:38:41+00:00"
+  },
+  "https://simonwillison.net/2026/Oct/8/carson-gross": {
+    "title": "Quoting Carson Gross",
+    "source": "Simon Willison",
+    "first_seen": "2026-10-09T00:45:05.371919+00:00",
+    "published": "2026-10-08T21:05:44+00:00"
+  },
+  "https://www.databricks.com/blog/biomedical-imagings-real-bottleneck-data-not-model": {
+    "title": "Biomedical Imaging's Real Bottleneck Is the Data, Not the Model",
+    "source": "Databricks Blog",
+    "first_seen": "2026-10-09T00:45:05.371919+00:00",
+    "published": "2026-10-08T21:00:00+00:00"
+  },
+  "https://developer.nvidia.com/blog/5-steps-to-create-simready-assets-for-robotics-with-frontier-ai-models": {
+    "title": "5 Steps to Create SimReady Assets for Robotics with Frontier AI Models",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-10-09T00:45:05.371919+00:00",
+    "published": "2026-10-08T20:57:55+00:00"
+  },
+  "https://biohub.org/news/virtual-biology-initiative-expansion": {
+    "title": "AI-ready biological data: $1.8B global commitment",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-09T00:45:05.371919+00:00",
+    "published": "2026-10-08T20:46:25+00:00"
+  },
+  "https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1697900/full": {
+    "title": "ADHD as a circadian rhythm disorder: evidence and implications for chronotherapy (2025)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-09T00:45:05.371919+00:00",
+    "published": "2026-10-08T20:42:16+00:00"
+  },
+  "https://stackoverflow.blog/2026/10/08/part-5-operating-an-llm-system-observability-cost-routing-and-the-platform-underneath": {
+    "title": "Part 5: Operating an LLM system: observability, cost, routing, and the platform underneath",
+    "source": "Stack Overflow Blog",
+    "first_seen": "2026-10-09T00:45:05.371919+00:00",
+    "published": "2026-10-08T20:08:53+00:00"
+  },
+  "https://ken.arneson.name/2015/11/the-value-of-not-getting-to-the-point": {
+    "title": "The value of not getting to the point (2015)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-09T00:45:05.371919+00:00",
+    "published": "2026-10-08T19:04:56+00:00"
+  },
+  "https://thenewstack.io/claude-dashboards-data-motion": {
+    "title": "Claude can now build your dashboards",
+    "source": "The New Stack",
+    "first_seen": "2026-10-09T00:45:05.371919+00:00",
+    "published": "2026-10-08T19:00:00+00:00"
+  },
+  "https://charity.wtf/p/if-your-team-is-happy-are-you-doing": {
+    "title": "If your team is happy, are you doing a good job?",
+    "source": "Charity Majors",
+    "first_seen": "2026-10-09T00:45:05.371919+00:00",
+    "published": "2026-10-08T18:50:46+00:00"
+  },
+  "https://www.databricks.com/blog/load-terabytes-data-minutes-lakebase-postgres": {
+    "title": "Load terabytes of data in minutes into Lakebase Postgres",
+    "source": "Databricks Blog",
+    "first_seen": "2026-10-09T00:45:05.371919+00:00",
+    "published": "2026-10-08T18:49:31+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/pay-per-inference-for-ai-agents-how-blockrun-and-incarna-use-amazon-bedrock-agentcore-payments": {
+    "title": "Pay-per-inference for AI agents: How BlockRun and Incarna use Amazon Bedrock AgentCore payments",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-10-09T00:45:05.371919+00:00",
+    "published": "2026-10-08T18:33:29+00:00"
+  },
+  "https://developer.nvidia.com/blog/building-reliable-data-analytics-agents-lessons-from-the-kdd-cup": {
+    "title": "Building Reliable Data Analytics Agents: Lessons from the KDD Cup",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-10-09T00:45:05.371919+00:00",
+    "published": "2026-10-08T18:30:02+00:00"
+  },
+  "https://pytorch.org/blog/session-aware-agentic-inference-with-nvidia-dynamo": {
+    "title": "Session-Aware Agentic Inference with NVIDIA Dynamo",
+    "source": "PyTorch Blog",
+    "first_seen": "2026-10-09T00:45:05.371919+00:00",
+    "published": "2026-10-08T18:13:46+00:00"
+  },
+  "https://pocketty.app": {
+    "title": "Show HN: Pocketty – iPhone SSH terminal that pings you when an agent is blocked",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-09T00:45:05.371919+00:00",
+    "published": "2026-10-08T18:11:52+00:00"
+  },
+  "https://nextjs.org/blog/upcoming-nextjs-security-update-october-2026": {
+    "title": "Upcoming Next.js Security Update for Upstream Vulnerabilities",
+    "source": "Next.js Blog",
+    "first_seen": "2026-10-09T00:45:05.371919+00:00",
+    "published": "2026-10-08T18:00:00+00:00"
+  },
+  "https://www.theranos.world": {
+    "title": "Theranos.world",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-09T00:45:05.371919+00:00",
+    "published": "2026-10-08T17:51:49+00:00"
+  },
+  "https://thenewstack.io/https-thenewstack-io-copilot-local-inference-routing": {
+    "title": "GitHub Copilot is going local — but Microsoft won’t say what gets sent to the cloud",
+    "source": "The New Stack",
+    "first_seen": "2026-10-09T00:45:05.371919+00:00",
+    "published": "2026-10-08T17:49:31+00:00"
+  },
+  "https://www.phoronix.com/news/EXT4-Deprecates-Journal-Mode": {
+    "title": "EXT4 Deprecates Its Journaled \"data=journal\" Mode",
+    "source": "Phoronix",
+    "first_seen": "2026-10-09T00:45:05.371919+00:00",
+    "published": "2026-10-08T17:04:01+00:00"
+  },
+  "https://github.blog/security/how-one-bug-bounty-researcher-chooses-the-features-they-investigate": {
+    "title": "How one bug bounty researcher chooses the features they investigate",
+    "source": "GitHub Blog",
+    "first_seen": "2026-10-09T00:45:05.371919+00:00",
+    "published": "2026-10-08T17:02:52+00:00"
+  },
+  "https://lwn.net/Articles/1098617": {
+    "title": "[$] An update on Rust's project goals",
+    "source": "LWN.net",
+    "first_seen": "2026-10-09T00:45:05.371919+00:00",
+    "published": "2026-10-08T17:00:30+00:00"
+  },
+  "https://grafana.com/blog/take-grafana-labs-5th-annual-observability-survey": {
+    "title": "Take Grafana Labs' 5th annual Observability Survey",
+    "source": "Grafana Blog",
+    "first_seen": "2026-10-09T00:45:05.371919+00:00",
+    "published": "2026-10-08T17:00:28+00:00"
+  },
+  "https://cactuscompute.com/blog/whistle": {
+    "title": "Whistle: Speech to Text in 16.9 MB",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-09T00:45:05.371919+00:00",
+    "published": "2026-10-08T16:59:39+00:00"
+  },
+  "https://newsletter.pragmaticengineer.com/p/the-pulse-new-trend-of-building-internal": {
+    "title": "The Pulse: new trend of building “internal vibe-coding apps” at tech companies",
+    "source": "The Pragmatic Engineer",
+    "first_seen": "2026-10-09T00:45:05.371919+00:00",
+    "published": "2026-10-08T16:55:51+00:00"
+  },
+  "https://www.phoronix.com/news/COSMIC-Epoch-1.10": {
+    "title": "COSMIC Epoch 1.10 Released With Launcher Now Using GPU Accelerated Rendering",
+    "source": "Phoronix",
+    "first_seen": "2026-10-09T00:45:05.371919+00:00",
+    "published": "2026-10-08T16:43:19+00:00"
+  },
+  "http://scottbezek.blogspot.com/2026/10/making-flexible-neon-t-shirt-with-leds.html": {
+    "title": "Show HN: Making a flexible \"neon\" t-shirt with LED filaments",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-09T00:45:05.371919+00:00",
+    "published": "2026-10-08T16:37:24+00:00"
+  },
+  "https://opper.ai/jevman-benchmark": {
+    "title": "Show HN: Jevman – AI decision models play Pac-Man",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-09T00:45:05.371919+00:00",
+    "published": "2026-10-08T16:34:13+00:00"
+  },
+  "https://thenewstack.io/postgres-at-scale-why-it-struggles": {
+    "title": "You can outgrow vanilla Postgres without abandoning Postgres",
+    "source": "The New Stack",
+    "first_seen": "2026-10-09T00:45:05.371919+00:00",
+    "published": "2026-10-08T16:23:19+00:00"
+  },
+  "https://thenewstack.io/ai-sre-agent-autonomy-phases": {
+    "title": "Most AI incident tools still leave a key decision to humans",
+    "source": "The New Stack",
+    "first_seen": "2026-10-09T00:45:05.371919+00:00",
+    "published": "2026-10-08T16:20:24+00:00"
+  },
+  "https://openrouter.ai/stepfun/step-5-preview": {
+    "title": "Step 5 Preview, a 1M-context MoE from StepFun, shows up on OpenRouter",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-09T00:45:05.371919+00:00",
+    "published": "2026-10-08T16:20:20+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/share-gpu-clusters-across-teams-with-isolation-and-fairness-using-amazon-sagemaker-hyperpod": {
+    "title": "Share GPU clusters across teams with isolation and fairness using Amazon SageMaker HyperPod",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-10-09T00:45:05.371919+00:00",
+    "published": "2026-10-08T16:20:04+00:00"
+  },
+  "https://opentelemetry.io/blog/2026/otel-native-by-design": {
+    "title": "OTel-Native by Design - Building Products That Export to Any Observability Stack",
+    "source": "OpenTelemetry Blog",
+    "first_seen": "2026-10-09T00:45:05.371919+00:00",
+    "published": "2026-10-08T16:01:11+00:00"
+  },
+  "https://thenewstack.io/ai-agent-cloud-ownership": {
+    "title": "Your AI agent just provisioned a resource. Who owns it?",
+    "source": "The New Stack",
+    "first_seen": "2026-10-09T00:45:05.371919+00:00",
+    "published": "2026-10-08T16:00:00+00:00"
+  },
+  "https://opensource.microsoft.com/blog/2026/10/08/open-source-databases-in-the-ai-era-meet-microsoft-at-all-things-open": {
+    "title": "Open-source databases in the AI era: Meet Microsoft at All Things Open",
+    "source": "Microsoft Open Source",
+    "first_seen": "2026-10-09T00:45:05.371919+00:00",
+    "published": "2026-10-08T16:00:00+00:00"
+  },
+  "https://openai.com/index/oracle": {
+    "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-10-09T00:45:05.371919+00:00",
+    "published": "2026-10-08T16:00:00+00:00"
+  },
+  "https://orkut.com": {
+    "title": "Orkut.com",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-09T00:45:05.371919+00:00",
+    "published": "2026-10-08T14:09:53+00:00"
+  },
+  "https://thenewstack.io/ai-data-lakes-storage": {
+    "title": "AI data lakes are driving new storage demands",
+    "source": "The New Stack",
+    "first_seen": "2026-10-09T00:45:05.371919+00:00",
+    "published": "2026-10-08T14:00:00+00:00"
+  },
+  "https://openai.com/index/pollo-ai": {
+    "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-10-09T00:45:05.371919+00:00",
+    "published": "2026-10-08T12:00:00+00:00"
+  },
+  "https://openai.com/index/legalon-halves-codex-costs": {
+    "title": "LegalOn halves Codex costs while maintaining development speed",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-10-09T00:45:05.371919+00:00",
+    "published": "2026-10-08T12:00:00+00:00"
+  },
+  "https://www.techspot.com/article/3178-oled-burn-in-test": {
+    "title": "OLED burn-in test: 30-month update",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-09T00:45:05.371919+00:00",
+    "published": "2026-10-08T10:34:15+00:00"
+  },
+  "https://htmx.org/essays/yes-and": {
+    "title": "Yes, and",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-09T00:45:05.371919+00:00",
+    "published": "2026-10-08T09:48:18+00:00"
+  },
+  "https://thequietus.com/news/us-man-given-prison-sentence-for-bot-farming-music-streams": {
+    "title": "US man given prison sentence for bot-farming music streams",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-09T00:45:05.371919+00:00",
+    "published": "2026-10-08T01:33:17+00:00"
+  },
+  "https://www.dgt.is/blog/2026-10-07-deepseek-freek-out": {
+    "title": "Why isn't the industry freaking out about DeepSeek 4.1 Flash?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-09T00:45:05.371919+00:00",
+    "published": "2026-10-08T00:14:48+00:00"
+  },
+  "https://planetscale.com/blog/tin-v106": {
+    "title": "TIN v1.0.6: 2-3x faster, with support for stemming",
+    "source": "PlanetScale Blog",
+    "first_seen": "2026-10-09T00:45:05.371919+00:00",
+    "published": "2026-10-08T00:00:00+00:00"
+  },
+  "https://huggingface.co/blog/building-with-ml-intern": {
+    "title": "The model that didn't exist, so you made it yourself",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-10-09T00:45:05.371919+00:00",
+    "published": "2026-10-08T00:00:00+00:00"
+  },
+  "https://blog.sentry.io/flutter-android-scope-sync": {
+    "title": "Reducing Android scope-sync overhead in Sentry Flutter",
+    "source": "Sentry Blog",
+    "first_seen": "2026-10-09T00:45:05.371919+00:00",
+    "published": "2026-10-08T00:00:00+00:00"
   }
 }
