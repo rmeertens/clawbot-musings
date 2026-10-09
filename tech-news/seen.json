@@ -103790,5 +103790,389 @@
     "source": "Sentry Blog",
     "first_seen": "2026-10-09T00:45:05.371919+00:00",
     "published": "2026-10-08T00:00:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/how-postman-runs-agent-mode-for-40-million-developers-on-amazon-bedrock": {
+    "title": "How Postman runs Agent Mode for 40 million developers on Amazon Bedrock",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-10-09T15:37:28.630724+00:00",
+    "published": "2026-10-09T15:35:02+00:00"
+  },
+  "https://huggingface.co/blog/allenai/impactful-scheduling": {
+    "title": "Impactful scheduling for GPU clusters",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-10-09T15:37:28.630724+00:00",
+    "published": "2026-10-09T15:20:29+00:00"
+  },
+  "https://timesofindia.indiatimes.com/world/europe/germany-is-turning-abandoned-coal-mines-into-23-lakes-the-former-mining-landscape-is-becoming-europes-largest-artificial-wetland/articleshow/134725669.cms": {
+    "title": "Germany turning abandoned coal mines into 23 lakes, becoming artificial wetland",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-09T15:37:28.630724+00:00",
+    "published": "2026-10-09T15:05:24+00:00"
+  },
+  "https://simonwillison.net/2026/Oct/9/matthew-green": {
+    "title": "Quoting Matthew Green",
+    "source": "Simon Willison",
+    "first_seen": "2026-10-09T15:37:28.630724+00:00",
+    "published": "2026-10-09T15:02:29+00:00"
+  },
+  "https://medium.com/pinterest-engineering/from-activity-to-intent-generating-user-journeys-with-llms-9652b9417626?source=rss----4c5a5f6279b6---4": {
+    "title": "From Activity to Intent: Generating User Journeys with LLMs",
+    "source": "Pinterest Engineering",
+    "first_seen": "2026-10-09T15:37:28.630724+00:00",
+    "published": "2026-10-09T15:01:02+00:00"
+  },
+  "https://deno.com/blog/cloudflare": {
+    "title": "Deno is joining Cloudflare",
+    "source": "Deno Blog",
+    "first_seen": "2026-10-09T15:37:28.630724+00:00",
+    "published": "2026-10-09T15:00:00+00:00"
+  },
+  "https://lwn.net/Articles/1099024": {
+    "title": "[$] The state of systemd: 2026 edition",
+    "source": "LWN.net",
+    "first_seen": "2026-10-09T15:37:28.630724+00:00",
+    "published": "2026-10-09T14:58:15+00:00"
+  },
+  "https://www.phoronix.com/news/Python-3.15-Released": {
+    "title": "Python 3.15 Released With Experimental JIT Compiler Running Faster",
+    "source": "Phoronix",
+    "first_seen": "2026-10-09T15:37:28.630724+00:00",
+    "published": "2026-10-09T14:58:00+00:00"
+  },
+  "https://www.state.gov/releases/office-of-the-spokesman/2026/10/imposing-sanctions-on-the-international-criminal-court": {
+    "title": "Imposing Sanctions on the International Criminal Court",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-09T15:37:28.630724+00:00",
+    "published": "2026-10-09T14:55:57+00:00"
+  },
+  "https://www.phoronix.com/review/amd-perfopt-prior-gen": {
+    "title": "AMD PerfOpt Boosting Prior-Gen Ryzen APU Performance For AI",
+    "source": "Phoronix",
+    "first_seen": "2026-10-09T15:37:28.630724+00:00",
+    "published": "2026-10-09T14:38:27+00:00"
+  },
+  "https://aws.amazon.com/blogs/compute/scaling-rl-rollouts-with-firecracker-on-amazon-ec2-metal": {
+    "title": "Scaling RL rollouts with Firecracker on Amazon EC2 metal",
+    "source": "AWS Compute Blog",
+    "first_seen": "2026-10-09T15:37:28.630724+00:00",
+    "published": "2026-10-09T14:38:27+00:00"
+  },
+  "https://www.python.org/downloads/release/python-3150": {
+    "title": "Python 3.15.0",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-09T15:37:28.630724+00:00",
+    "published": "2026-10-09T14:35:42+00:00"
+  },
+  "https://www.reuters.com/world/us-imposes-sanctions-international-criminal-court-hours-after-former-judge-wins-2026-10-09": {
+    "title": "US imposes sanctions on ICC hours after former judge wins Nobel Peace Prize",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-09T15:37:28.630724+00:00",
+    "published": "2026-10-09T14:31:54+00:00"
+  },
+  "https://united24media.com/war-in-ukraine/yandex-takes-a-second-data-center-hit-in-48-hours-now-its-biggest-russian-site-is-damaged-23277": {
+    "title": "Yandex Takes a Second Data Center Hit in 48 Hours",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-09T15:37:28.630724+00:00",
+    "published": "2026-10-09T14:20:19+00:00"
+  },
+  "https://www.nbcnews.com/news/us-news/sentence-vacated-ai-video-dead-victim-rcna601457": {
+    "title": "Court throws out killer's sentence after judge said he loved AI video of victim",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-09T15:37:28.630724+00:00",
+    "published": "2026-10-09T14:14:08+00:00"
+  },
+  "https://lwn.net/Articles/1099588": {
+    "title": "Let's Encrypt moving to 64-day certificate lifetimes in 2027",
+    "source": "LWN.net",
+    "first_seen": "2026-10-09T15:37:28.630724+00:00",
+    "published": "2026-10-09T14:02:44+00:00"
+  },
+  "https://blog.angular.dev/signal-value-transforms-routing-essentials-and-video-extension-with-veo-3846cae9283a?source=rss----447683c3d9a3---4": {
+    "title": "Signal Value Transforms, Routing Essentials, and Video Extension with Veo! ⚡",
+    "source": "Angular Blog",
+    "first_seen": "2026-10-09T15:37:28.630724+00:00",
+    "published": "2026-10-09T14:01:05+00:00"
+  },
+  "https://www.databricks.com/blog/solving-defense-supply-chain-visibility-through-governed-data-sharing": {
+    "title": "Solving defense supply chain visibility through governed data sharing",
+    "source": "Databricks Blog",
+    "first_seen": "2026-10-09T15:37:28.630724+00:00",
+    "published": "2026-10-09T14:00:00+00:00"
+  },
+  "https://realpython.com/modern-web-automation-with-python-and-selenium": {
+    "title": "Modern Web Automation With Python and Selenium",
+    "source": "Real Python",
+    "first_seen": "2026-10-09T15:37:28.630724+00:00",
+    "published": "2026-10-09T14:00:00+00:00"
+  },
+  "https://realpython.com/huggingface-transformers": {
+    "title": "Hugging Face Transformers: Leverage Open-Source AI in Python",
+    "source": "Real Python",
+    "first_seen": "2026-10-09T15:37:28.630724+00:00",
+    "published": "2026-10-09T14:00:00+00:00"
+  },
+  "https://realpython.com/generate-images-openai": {
+    "title": "Generate Images in Python With OpenAI's GPT Image API",
+    "source": "Real Python",
+    "first_seen": "2026-10-09T15:37:28.630724+00:00",
+    "published": "2026-10-09T14:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/Ubuntu-26.10-GCC-15-Default": {
+    "title": "Ubuntu 26.10 Sticks To Using GCC 15 By Default",
+    "source": "Phoronix",
+    "first_seen": "2026-10-09T15:37:28.630724+00:00",
+    "published": "2026-10-09T13:38:58+00:00"
+  },
+  "https://oxide.computer/blog/our-445m-series-d": {
+    "title": "Our $445M Series D",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-09T15:37:28.630724+00:00",
+    "published": "2026-10-09T13:12:47+00:00"
+  },
+  "https://lwn.net/Articles/1099587": {
+    "title": "Security updates for Friday",
+    "source": "LWN.net",
+    "first_seen": "2026-10-09T15:37:28.630724+00:00",
+    "published": "2026-10-09T13:08:14+00:00"
+  },
+  "https://thenewstack.io/amazon-ecs-auto-repair": {
+    "title": "Amazon ECS now auto-repairs failing GPUs and instances. Here’s why it matters for SREs.",
+    "source": "The New Stack",
+    "first_seen": "2026-10-09T15:37:28.630724+00:00",
+    "published": "2026-10-09T13:00:00+00:00"
+  },
+  "https://blog.cloudflare.com/workers-on-demand-profiling": {
+    "title": "Introducing on-demand CPU and memory profiling with flamegraphs for Workers and Durable Objects",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-10-09T15:37:28.630724+00:00",
+    "published": "2026-10-09T13:00:00+00:00"
+  },
+  "https://simonwillison.net/2026/Oct/9/built-using-my-voice": {
+    "title": "A new feature for my blog, built using my voice",
+    "source": "Simon Willison",
+    "first_seen": "2026-10-09T15:37:28.630724+00:00",
+    "published": "2026-10-09T12:54:06+00:00"
+  },
+  "https://blog.cloudflare.com/deno-joins-cloudflare": {
+    "title": "Deno is joining Cloudflare",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-10-09T15:37:28.630724+00:00",
+    "published": "2026-10-09T12:50:00+00:00"
+  },
+  "https://www.nejm.org/doi/10.1056/NEJMoa2502760": {
+    "title": "Study: Exercise increases cancer survival rates",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-09T15:37:28.630724+00:00",
+    "published": "2026-10-09T12:49:41+00:00"
+  },
+  "https://lorezzed.github.io/meadows": {
+    "title": "Meadows – a small language for stock-and-flow diagrams that run",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-09T15:37:28.630724+00:00",
+    "published": "2026-10-09T12:29:40+00:00"
+  },
+  "https://proofsandprompts.com/2026/10/08/100-reactions-to-100-solutions": {
+    "title": "Reactions to 100 Solutions",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-09T15:37:28.630724+00:00",
+    "published": "2026-10-09T12:26:12+00:00"
+  },
+  "https://www.washingtonpost.com/technology/2026/10/09/chatgpt-users-iran-planted-ai-generated-articles-us-news-media": {
+    "title": "Iranian campaign planted fake articles in real U.S. publications using ChatGPT",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-09T15:37:28.630724+00:00",
+    "published": "2026-10-09T12:21:24+00:00"
+  },
+  "https://www.hetzner.com/blog/the-hetzner-cloud-network-stack-history-and-technical-overview": {
+    "title": "The Hetzner Cloud network stack – history and technical overview",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-09T15:37:28.630724+00:00",
+    "published": "2026-10-09T12:20:55+00:00"
+  },
+  "https://www.tigerdata.com/blog/measuring-how-fast-iiot-queries-degrading": {
+    "title": "Measuring How Fast Your IIoT Queries Are Degrading",
+    "source": "Timescale Blog",
+    "first_seen": "2026-10-09T15:37:28.630724+00:00",
+    "published": "2026-10-09T12:00:40+00:00"
+  },
+  "https://www.cncf.io/blog/2026/10/09/join-platform-engineering-day-at-kubecon-cloudnativecon-north-america-2026": {
+    "title": "Join Platform Engineering Day at KubeCon + CloudNativeCon North America 2026",
+    "source": "CNCF Blog",
+    "first_seen": "2026-10-09T15:37:28.630724+00:00",
+    "published": "2026-10-09T12:00:00+00:00"
+  },
+  "https://thenewstack.io/decision-models-system-one": {
+    "title": "AWS, Upstage and Ollama agree on a decision-model API. OpenAI hasn’t signed on.",
+    "source": "The New Stack",
+    "first_seen": "2026-10-09T15:37:28.630724+00:00",
+    "published": "2026-10-09T12:00:00+00:00"
+  },
+  "https://realpython.com/quizzes/python-exercises-string-methods": {
+    "title": "Quiz: Python Basics Exercises: Strings and String Methods",
+    "source": "Real Python",
+    "first_seen": "2026-10-09T15:37:28.630724+00:00",
+    "published": "2026-10-09T12:00:00+00:00"
+  },
+  "https://realpython.com/quizzes/generate-images-openai": {
+    "title": "Quiz: Generate Images in Python With OpenAI's GPT Image API",
+    "source": "Real Python",
+    "first_seen": "2026-10-09T15:37:28.630724+00:00",
+    "published": "2026-10-09T12:00:00+00:00"
+  },
+  "https://realpython.com/podcasts/rpp/314": {
+    "title": "The Real Python Podcast – Episode #314: Codemoo: Demonstrating How Coding Agents Work",
+    "source": "Real Python",
+    "first_seen": "2026-10-09T15:37:28.630724+00:00",
+    "published": "2026-10-09T12:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/Faster-Zswap-Batch-Writeback-IO": {
+    "title": "Faster Zswap With Patches To Batch The Writeback I/O",
+    "source": "Phoronix",
+    "first_seen": "2026-10-09T15:37:28.630724+00:00",
+    "published": "2026-10-09T11:34:56+00:00"
+  },
+  "https://www.cncf.io/blog/2026/10/09/making-the-golden-kubestronaut-a-little-more-golden": {
+    "title": "Making the Golden Kubestronaut a little more golden",
+    "source": "CNCF Blog",
+    "first_seen": "2026-10-09T15:37:28.630724+00:00",
+    "published": "2026-10-09T11:30:00+00:00"
+  },
+  "https://github.com/franzenzenhofer/big-arrow-on-the-screen": {
+    "title": "Let your AI agents paint big arrows, boxes and text on your screen",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-09T15:37:28.630724+00:00",
+    "published": "2026-10-09T11:03:48+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-Hibernation-With-Lockdown": {
+    "title": "Linux Patches Finally Make Hibernation Possible In Secure Boot / Lockdown Mode",
+    "source": "Phoronix",
+    "first_seen": "2026-10-09T15:37:28.630724+00:00",
+    "published": "2026-10-09T10:27:04+00:00"
+  },
+  "https://www.nobelprize.org/prizes/peace/2026/press-release": {
+    "title": "Nobel Peace Prize for 2026 to Navanethem \"NAVI\" Pillay",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-09T15:37:28.630724+00:00",
+    "published": "2026-10-09T10:12:11+00:00"
+  },
+  "https://www.phoronix.com/news/NVIDIA-Boro-Linux-Kernel-AI": {
+    "title": "Boro: NVIDIA's Open-Source Effort For AI-Assisted Linux Kernel Development",
+    "source": "Phoronix",
+    "first_seen": "2026-10-09T15:37:28.630724+00:00",
+    "published": "2026-10-09T10:06:04+00:00"
+  },
+  "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect": {
+    "title": "OpenAI fires three safety researchers for \"mishandling research information\"",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-09T15:37:28.630724+00:00",
+    "published": "2026-10-09T10:00:26+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.4-AMDGPU-Final": {
+    "title": "AMD Caps Off Linux 7.4 Graphics Driver Development With More HDMI 2.1 Fixes",
+    "source": "Phoronix",
+    "first_seen": "2026-10-09T15:37:28.630724+00:00",
+    "published": "2026-10-09T09:54:00+00:00"
+  },
+  "https://github.com/alex0ptr/once": {
+    "title": "Once: Cache CLI Commands",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-09T15:37:28.630724+00:00",
+    "published": "2026-10-09T09:43:06+00:00"
+  },
+  "https://www.phoronix.com/news/Qualcomm-MSM-DRM-HDR": {
+    "title": "HDR Support Coming For Qualcomm MSM Driver To Benefit Snapdragon X Laptops On Linux",
+    "source": "Phoronix",
+    "first_seen": "2026-10-09T15:37:28.630724+00:00",
+    "published": "2026-10-09T09:37:05+00:00"
+  },
+  "https://iminafleeting.com": {
+    "title": "I'm in a Meeting",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-09T15:37:28.630724+00:00",
+    "published": "2026-10-09T09:21:48+00:00"
+  },
+  "https://www.cncf.io/blog/2026/10/09/who-owns-nis2-and-dora-on-a-kubernetes-platform-team": {
+    "title": "Who owns NIS2 and DORA on a Kubernetes platform team",
+    "source": "CNCF Blog",
+    "first_seen": "2026-10-09T15:37:28.630724+00:00",
+    "published": "2026-10-09T08:07:47+00:00"
+  },
+  "https://stackoverflow.blog/2026/10/09/taking-a-look-under-your-agent-s-hood": {
+    "title": "Taking a look under your agent’s hood",
+    "source": "Stack Overflow Blog",
+    "first_seen": "2026-10-09T15:37:28.630724+00:00",
+    "published": "2026-10-09T07:40:00+00:00"
+  },
+  "https://openai.com/index/sophos": {
+    "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-10-09T15:37:28.630724+00:00",
+    "published": "2026-10-09T07:00:00+00:00"
+  },
+  "https://thenewstack.io/open-weight-open-source-ai": {
+    "title": "“Don’t use ‘open weight’ and ‘open source’ interchangeably”: Percona CEO on why AI terminology matters",
+    "source": "The New Stack",
+    "first_seen": "2026-10-09T15:37:28.630724+00:00",
+    "published": "2026-10-09T06:43:21+00:00"
+  },
+  "https://github.com/microsoft/mxc": {
+    "title": "MXC - a sandboxed code execution system",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-09T15:37:28.630724+00:00",
+    "published": "2026-10-09T05:51:29+00:00"
+  },
+  "https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs": {
+    "title": "Keyboard differences between Windows and Macs",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-09T15:37:28.630724+00:00",
+    "published": "2026-10-09T03:08:05+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-AI-Agent-Resources": {
+    "title": "New AI Agent Resources Proposed For The Linux Kernel, AI Skills To Help Developers",
+    "source": "Phoronix",
+    "first_seen": "2026-10-09T15:37:28.630724+00:00",
+    "published": "2026-10-09T00:41:17+00:00"
+  },
+  "https://simonwillison.net/2026/Oct/9/ttok": {
+    "title": "ttok 1.0",
+    "source": "Simon Willison",
+    "first_seen": "2026-10-09T15:37:28.630724+00:00",
+    "published": "2026-10-09T00:34:43+00:00"
+  },
+  "https://www.thoughtworks.com/insights/blog/leadership/leadership-in-the-age-of-agents": {
+    "title": "Leadership in the age of AI agents",
+    "source": "ThoughtWorks",
+    "first_seen": "2026-10-09T15:37:28.630724+00:00",
+    "published": "2026-10-09T00:00:00+00:00"
+  },
+  "https://www.thoughtworks.com/insights/blog/leadership/leadership-contract-effective-program-delivery": {
+    "title": "The leadership contract behind effective program delivery",
+    "source": "ThoughtWorks",
+    "first_seen": "2026-10-09T15:37:28.630724+00:00",
+    "published": "2026-10-09T00:00:00+00:00"
+  },
+  "https://golangweekly.com/issues/620": {
+    "title": "Hooking into the Go toolchain",
+    "source": "Golang Weekly",
+    "first_seen": "2026-10-09T15:37:28.630724+00:00",
+    "published": "2026-10-09T00:00:00+00:00"
+  },
+  "https://blog.python.org/2026/10/python-3150-final-is-here": {
+    "title": "Python 3.15.0 (final) is here!",
+    "source": "Python Insider",
+    "first_seen": "2026-10-09T15:37:28.630724+00:00",
+    "published": "2026-10-09T00:00:00+00:00"
+  },
+  "https://simonwillison.net/2026/Oct/8/ttok": {
+    "title": "ttok 0.4",
+    "source": "Simon Willison",
+    "first_seen": "2026-10-09T15:37:28.630724+00:00",
+    "published": "2026-10-08T23:34:28+00:00"
+  },
+  "https://stackoverflow.blog/2026/10/08/production-grade-llms-and-agents-a-field-guide": {
+    "title": "Production-grade LLMs and agents: a field guide",
+    "source": "Stack Overflow Blog",
+    "first_seen": "2026-10-09T15:37:28.630724+00:00",
+    "published": "2026-10-08T20:22:56+00:00"
   }
 }
