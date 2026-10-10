@@ -104366,5 +104366,143 @@
     "source": "Sentry Blog",
     "first_seen": "2026-10-10T00:22:08.722570+00:00",
     "published": "2026-10-09T00:00:00+00:00"
+  },
+  "https://realpython.com/python-namespace": {
+    "title": "Namespaces in Python",
+    "source": "Real Python",
+    "first_seen": "2026-10-10T14:52:05.217908+00:00",
+    "published": "2026-10-10T14:00:00+00:00"
+  },
+  "https://realpython.com/python-for-loop": {
+    "title": "Python for Loops: The Pythonic Way",
+    "source": "Real Python",
+    "first_seen": "2026-10-10T14:52:05.217908+00:00",
+    "published": "2026-10-10T14:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.4-Laptops-Handhelds": {
+    "title": "Many Laptop & Gaming Handheld Support Improvements Coming For Linux 7.4",
+    "source": "Phoronix",
+    "first_seen": "2026-10-10T14:52:05.217908+00:00",
+    "published": "2026-10-10T13:40:51+00:00"
+  },
+  "https://carette.xyz/posts/lobbying_and_corruption": {
+    "title": "Lobbying Is Corruption",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-10T14:52:05.217908+00:00",
+    "published": "2026-10-10T13:05:58+00:00"
+  },
+  "https://thenewstack.io/microsoft-decision-model-foundry": {
+    "title": "Microsoft skipped OpenAI’s decision model and built its own on Alibaba’s Qwen",
+    "source": "The New Stack",
+    "first_seen": "2026-10-10T14:52:05.217908+00:00",
+    "published": "2026-10-10T13:00:00+00:00"
+  },
+  "https://realpython.com/quizzes/get-all-files-in-directory-python": {
+    "title": "Quiz: How to Get a List of All Files in a Directory With Python",
+    "source": "Real Python",
+    "first_seen": "2026-10-10T14:52:05.217908+00:00",
+    "published": "2026-10-10T12:00:00+00:00"
+  },
+  "https://www.opengroup.org//openbrand/register": {
+    "title": "Apple/macOS silently removed from official Unix registry",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-10T14:52:05.217908+00:00",
+    "published": "2026-10-10T10:57:31+00:00"
+  },
+  "https://github.com/rociiu/talorys": {
+    "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-10T14:52:05.217908+00:00",
+    "published": "2026-10-10T10:52:09+00:00"
+  },
+  "https://www.phoronix.com/news/KNOD-2026-GPU-Network-Process": {
+    "title": "KNOD Progressing For Linux In-Kernel GPU Offloading For Network Packet Processing",
+    "source": "Phoronix",
+    "first_seen": "2026-10-10T14:52:05.217908+00:00",
+    "published": "2026-10-10T10:25:00+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.3-rc7-Networking": {
+    "title": "Linux Networking Diverts 50+ Fixes To Next Kernel, Still Bombarded With AI Fueled Churn",
+    "source": "Phoronix",
+    "first_seen": "2026-10-10T14:52:05.217908+00:00",
+    "published": "2026-10-10T10:11:36+00:00"
+  },
+  "https://www.phoronix.com/news/KDE-Plasma-6.8-Next-Week": {
+    "title": "KDE Plasma 6.8 Ready For Release Next Week, Sees Last Minute NVIDIA Fix",
+    "source": "Phoronix",
+    "first_seen": "2026-10-10T14:52:05.217908+00:00",
+    "published": "2026-10-10T10:00:51+00:00"
+  },
+  "https://thenewstack.io/musk-claude-model-triage": {
+    "title": "Elon Musk’s Grok Bot will pick Claude over Grok when it’s better. One-model loyalty is dead.",
+    "source": "The New Stack",
+    "first_seen": "2026-10-10T14:52:05.217908+00:00",
+    "published": "2026-10-10T10:00:00+00:00"
+  },
+  "https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach": {
+    "title": "`123456' password used in Danish CPR data breach",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-10T14:52:05.217908+00:00",
+    "published": "2026-10-10T09:51:49+00:00"
+  },
+  "https://wiki.cateat.fish/art:computers_cannot_make_decisions": {
+    "title": "Computers Cannot Make Decisions",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-10T14:52:05.217908+00:00",
+    "published": "2026-10-10T05:47:46+00:00"
+  },
+  "https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover": {
+    "title": "Telegram Desktop vulnerability allowed any user's file to be stolen",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-10T14:52:05.217908+00:00",
+    "published": "2026-10-10T03:02:47+00:00"
+  },
+  "https://simonwillison.net/2026/Oct/10/the-new-york-times": {
+    "title": "Quoting The New York Times",
+    "source": "Simon Willison",
+    "first_seen": "2026-10-10T14:52:05.217908+00:00",
+    "published": "2026-10-10T02:04:12+00:00"
+  },
+  "https://www.phoronix.com/news/SQLite-3.54-Released": {
+    "title": "SQLite 3.54 Released With Faster Performance, Drops Windows XP Support",
+    "source": "Phoronix",
+    "first_seen": "2026-10-10T14:52:05.217908+00:00",
+    "published": "2026-10-10T00:41:04+00:00"
+  },
+  "https://rea.tools": {
+    "title": "REA Reverse – Engineer Anything",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-10T14:52:05.217908+00:00",
+    "published": "2026-10-10T00:37:07+00:00"
+  },
+  "https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm": {
+    "title": "FBI Arrests Executive at Ransomware Negotiation Firm",
+    "source": "Krebs on Security",
+    "first_seen": "2026-10-10T14:52:05.217908+00:00",
+    "published": "2026-10-10T00:17:42+00:00"
+  },
+  "https://www.broadinstitute.org/news/clinical-trial-prion-disease-drug-candidate-begins-enrolling-participants": {
+    "title": "Clinical trial of a prion disease drug candidate begins enrolling participants",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-10T14:52:05.217908+00:00",
+    "published": "2026-10-09T23:53:08+00:00"
+  },
+  "https://lwn.net/Articles/1055211": {
+    "title": "Compiling Rust to readable C with Eurydice",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-10T14:52:05.217908+00:00",
+    "published": "2026-10-09T23:28:36+00:00"
+  },
+  "https://twitter.com/WallStreetApes/status/2108594998656807078": {
+    "title": "Scam American companies are using to manipulate ingredient lists",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-10T14:52:05.217908+00:00",
+    "published": "2026-10-09T17:35:40+00:00"
+  },
+  "https://blog.janestreet.com/can-you-use-autoregressive-diffusion-to-generate-market-data": {
+    "title": "Can you use autoregressive diffusion to generate market data?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-10T14:52:05.217908+00:00",
+    "published": "2026-10-09T14:56:13+00:00"
   }
 }
