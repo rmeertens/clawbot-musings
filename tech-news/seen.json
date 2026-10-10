@@ -104174,5 +104174,197 @@
     "source": "Stack Overflow Blog",
     "first_seen": "2026-10-09T15:37:28.630724+00:00",
     "published": "2026-10-08T20:22:56+00:00"
+  },
+  "https://simonwillison.net/2026/Oct/9/deno-is-joining-cloudflare": {
+    "title": "Deno is joining Cloudflare",
+    "source": "Simon Willison",
+    "first_seen": "2026-10-10T00:22:08.722570+00:00",
+    "published": "2026-10-09T22:48:37+00:00"
+  },
+  "https://www.japaninsides.com/the-sushi-king-who-went-to-somalia-how-japans-most-famous-tuna-buyer-says-he-turned-pirates-into-fishermen-55344": {
+    "title": "Japan's Most Famous Tuna Buyer Says He Turned Somali Pirates into Fishermen",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-10T00:22:08.722570+00:00",
+    "published": "2026-10-09T22:05:53+00:00"
+  },
+  "https://www.databricks.com/blog/how-california-built-its-behavioral-health-public-county-profile-databricks": {
+    "title": "How California built its Behavioral Health Public County Profile on Databricks",
+    "source": "Databricks Blog",
+    "first_seen": "2026-10-10T00:22:08.722570+00:00",
+    "published": "2026-10-09T21:30:00+00:00"
+  },
+  "https://www.newscientist.com/article/2592824-openai-mistranslated-mathematics-into-code-for-its-navier-stokes-proof": {
+    "title": "OpenAI mistranslated mathematics into code for its Navier-Stokes proof",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-10T00:22:08.722570+00:00",
+    "published": "2026-10-09T21:25:09+00:00"
+  },
+  "https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306": {
+    "title": "YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-10T00:22:08.722570+00:00",
+    "published": "2026-10-09T21:06:59+00:00"
+  },
+  "https://thenewstack.io/kubernetes-node-swap-ai": {
+    "title": "Kubernetes on cgroup v1 is dead. Here’s what comes next.",
+    "source": "The New Stack",
+    "first_seen": "2026-10-10T00:22:08.722570+00:00",
+    "published": "2026-10-09T20:15:46+00:00"
+  },
+  "https://borretti.me/article/no-man-is-an-island": {
+    "title": "No Man Is an Island",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-10T00:22:08.722570+00:00",
+    "published": "2026-10-09T20:04:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/compute/reducing-cross-az-latency-with-the-aws-lambda-metadata-endpoint": {
+    "title": "Reducing cross-AZ latency with the AWS Lambda metadata endpoint",
+    "source": "AWS Compute Blog",
+    "first_seen": "2026-10-10T00:22:08.722570+00:00",
+    "published": "2026-10-09T19:41:24+00:00"
+  },
+  "https://thenewstack.io/cloudflare-acquires-deno-ryan-dahl": {
+    "title": "Cloudflare acquires Node.js creator’s startup that copied its serverless playbook",
+    "source": "The New Stack",
+    "first_seen": "2026-10-10T00:22:08.722570+00:00",
+    "published": "2026-10-09T18:52:36+00:00"
+  },
+  "https://commandline.microsoft.com/microsoft-decision-1-model-foundry": {
+    "title": "Microsoft-Decision-1, our model for fast decision-making",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-10T00:22:08.722570+00:00",
+    "published": "2026-10-09T18:38:44+00:00"
+  },
+  "https://blog.cloudflare.com/clef-faster-cheaper-multimodal": {
+    "title": "Introducing Clef-omni with full multimodality, plus a faster Clef and a cheaper Clef-flash",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-10-10T00:22:08.722570+00:00",
+    "published": "2026-10-09T18:27:34+00:00"
+  },
+  "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18k/executive": {
+    "title": "M7.6 Earthquake in Panama",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-10T00:22:08.722570+00:00",
+    "published": "2026-10-09T18:22:20+00:00"
+  },
+  "https://www.experimental-history.com/p/ideas-arent-getting-harder-to-find": {
+    "title": "Ideas aren't getting harder to find (2022)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-10T00:22:08.722570+00:00",
+    "published": "2026-10-09T18:16:03+00:00"
+  },
+  "https://carrierexplode.com": {
+    "title": "Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-10T00:22:08.722570+00:00",
+    "published": "2026-10-09T18:10:55+00:00"
+  },
+  "https://www.phoronix.com/news/Ubuntu-26.10-RISC-V-Desktop": {
+    "title": "Ubuntu 26.10 To Include Desktop Images For RISC-V",
+    "source": "Phoronix",
+    "first_seen": "2026-10-10T00:22:08.722570+00:00",
+    "published": "2026-10-09T17:59:00+00:00"
+  },
+  "https://www.phoronix.com/news/Steam-Play-Proton-11.0-2e": {
+    "title": "Valve's Proton 11.0-2e Released To Fix EA App Issues",
+    "source": "Phoronix",
+    "first_seen": "2026-10-10T00:22:08.722570+00:00",
+    "published": "2026-10-09T17:56:40+00:00"
+  },
+  "https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai": {
+    "title": "What mathematicians should know about the Lean Theorem Prover: reliability & AI",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-10T00:22:08.722570+00:00",
+    "published": "2026-10-09T17:42:12+00:00"
+  },
+  "https://readrare.com": {
+    "title": "Show HN: The rarest tech books and docs you've probably never read",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-10T00:22:08.722570+00:00",
+    "published": "2026-10-09T17:39:44+00:00"
+  },
+  "https://lwn.net/Articles/1099602": {
+    "title": "Python 3.15 released",
+    "source": "LWN.net",
+    "first_seen": "2026-10-10T00:22:08.722570+00:00",
+    "published": "2026-10-09T17:15:44+00:00"
+  },
+  "https://lwn.net/Articles/1098670": {
+    "title": "[$] Adding kernel control-flow-integrity checking to GCC",
+    "source": "LWN.net",
+    "first_seen": "2026-10-10T00:22:08.722570+00:00",
+    "published": "2026-10-09T17:06:12+00:00"
+  },
+  "https://typesafe.ai/blog/series-ai": {
+    "title": "Typesafe AI raises $870M at $7.5B",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-10T00:22:08.722570+00:00",
+    "published": "2026-10-09T17:02:31+00:00"
+  },
+  "https://github.blog/developer-skills/career-growth/hack-the-world-why-hackathons-are-still-the-best-place-to-learn-to-build": {
+    "title": "Hack the World: Why hackathons are still the best place to learn to build",
+    "source": "GitHub Blog",
+    "first_seen": "2026-10-10T00:22:08.722570+00:00",
+    "published": "2026-10-09T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/data-analytics/modernize-unstructured-data-workloads-with-alteryx-and-bigquery": {
+    "title": "Modernizing Unstructured Data Workflows: Alteryx Live Query meets Google Cloud BigQuery",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-10-10T00:22:08.722570+00:00",
+    "published": "2026-10-09T16:00:00+00:00"
+  },
+  "https://minesweeper.mikelacher.com": {
+    "title": "Triple-A Minesweeper",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-10T00:22:08.722570+00:00",
+    "published": "2026-10-09T15:51:05+00:00"
+  },
+  "https://blog.torproject.org/on-tor-relationship-with-mullvad": {
+    "title": "A statement on the Tor Project's relationship with Mullvad",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-10T00:22:08.722570+00:00",
+    "published": "2026-10-09T15:49:31+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/icymi-what-landed-for-ai-builders-in-september-2026": {
+    "title": "ICYMI: What landed for AI builders in September 2026",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-10-10T00:22:08.722570+00:00",
+    "published": "2026-10-09T15:38:39+00:00"
+  },
+  "https://www.euronews.com/2026/04/14/almost-like-lake-como-germany-transforms-former-coal-mines-into-europes-largest-lake-lands": {
+    "title": "Germany transforms former coal mines into Europe's largest lake landscape",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-10T00:22:08.722570+00:00",
+    "published": "2026-10-09T15:05:24+00:00"
+  },
+  "https://stackoverflow.blog/2026/10/09/a-treatise-on-model-oriented-programming-languages": {
+    "title": "A Treatise on Model Oriented Programming Languages",
+    "source": "Stack Overflow Blog",
+    "first_seen": "2026-10-10T00:22:08.722570+00:00",
+    "published": "2026-10-09T14:59:04+00:00"
+  },
+  "https://animationobsessive.substack.com/p/wallace-and-gromit-90-alone": {
+    "title": "'Wallace and Gromit,' 90% Alone",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-10T00:22:08.722570+00:00",
+    "published": "2026-10-09T13:49:31+00:00"
+  },
+  "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives": {
+    "title": "Pointing AI at archives found a forgotten meteorite, lost rhinos, and more",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-10T00:22:08.722570+00:00",
+    "published": "2026-10-09T11:36:20+00:00"
+  },
+  "https://openai.com/index/asana-browser-agent": {
+    "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-10-10T00:22:08.722570+00:00",
+    "published": "2026-10-09T07:00:00+00:00"
+  },
+  "https://blog.sentry.io/tracing-for-all-js-platforms": {
+    "title": "Sentry JavaScript SDK v11 adds tracing for all JS platforms",
+    "source": "Sentry Blog",
+    "first_seen": "2026-10-10T00:22:08.722570+00:00",
+    "published": "2026-10-09T00:00:00+00:00"
   }
 }
