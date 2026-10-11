@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-04T11:30:05Z",
-  "count": 150,
+  "generated_at": "2026-10-11T11:43:52Z",
+  "count": 152,
   "results": [
     {
       "name": "Greenwich",
@@ -1153,6 +1153,16 @@
       "rank": 115
     },
     {
+      "name": "Mildenhall Hub Parkrun (Temporary Route)",
+      "raw_name": "Mildenhall Hub Parkrun (Temporary Route)",
+      "osm_type": "relation",
+      "osm_id": 21581770,
+      "perimeter_m": 5033.9,
+      "area_m2": 82553.9,
+      "Q": 0.0409,
+      "rank": 116
+    },
+    {
       "name": "Beeston",
       "raw_name": "Beeston Parkrun",
       "osm_type": "relation",
@@ -1160,7 +1170,7 @@
       "perimeter_m": 2100.1,
       "area_m2": 14059.2,
       "Q": 0.0401,
-      "rank": 116
+      "rank": 117
     },
     {
       "name": "Lingwood",
@@ -1170,7 +1180,7 @@
       "perimeter_m": 5247.3,
       "area_m2": 78110.3,
       "Q": 0.0356,
-      "rank": 117
+      "rank": 118
     },
     {
       "name": "Kesgrave",
@@ -1180,17 +1190,17 @@
       "perimeter_m": 5123.4,
       "area_m2": 66207.2,
       "Q": 0.0317,
-      "rank": 118
+      "rank": 119
     },
     {
       "name": "Mildenhall Hub",
       "raw_name": "Mildenhall Hub Parkrun",
       "osm_type": "relation",
       "osm_id": 14940719,
-      "perimeter_m": 5138.5,
-      "area_m2": 64598.5,
-      "Q": 0.0307,
-      "rank": 119
+      "perimeter_m": 5141.9,
+      "area_m2": 65530.1,
+      "Q": 0.0311,
+      "rank": 120
     },
     {
       "name": "Conkers",
@@ -1200,7 +1210,7 @@
       "perimeter_m": 5047.5,
       "area_m2": 57928.6,
       "Q": 0.0286,
-      "rank": 120
+      "rank": 121
     },
     {
       "name": "Gorleston Cliffs",
@@ -1210,7 +1220,7 @@
       "perimeter_m": 5142.4,
       "area_m2": 57517.5,
       "Q": 0.0273,
-      "rank": 121
+      "rank": 122
     },
     {
       "name": "Lews Castle",
@@ -1220,7 +1230,7 @@
       "perimeter_m": 5050.5,
       "area_m2": 53991.2,
       "Q": 0.0266,
-      "rank": 122
+      "rank": 123
     },
     {
       "name": "Thetford",
@@ -1230,17 +1240,17 @@
       "perimeter_m": 5132.5,
       "area_m2": 54872.7,
       "Q": 0.0262,
-      "rank": 123
+      "rank": 124
     },
     {
       "name": "Walmer and Deal Seafront",
       "raw_name": "Walmer and Deal Seafront parkrun",
       "osm_type": "relation",
       "osm_id": 20414477,
-      "perimeter_m": 4970.7,
-      "area_m2": 48291.1,
+      "perimeter_m": 4970.6,
+      "area_m2": 48424.7,
       "Q": 0.0246,
-      "rank": 124
+      "rank": 125
     },
     {
       "name": "Fitzmaurice Park",
@@ -1250,7 +1260,17 @@
       "perimeter_m": 5132.0,
       "area_m2": 51212.5,
       "Q": 0.0244,
-      "rank": 125
+      "rank": 126
+    },
+    {
+      "name": "Sizewell",
+      "raw_name": "Sizewell Parkrun",
+      "osm_type": "relation",
+      "osm_id": 21605875,
+      "perimeter_m": 5240.9,
+      "area_m2": 49104.7,
+      "Q": 0.0225,
+      "rank": 127
     },
     {
       "name": "Thames Path Parkrun, Woolwich",
@@ -1260,7 +1280,7 @@
       "perimeter_m": 3437.9,
       "area_m2": 20137.7,
       "Q": 0.0214,
-      "rank": 126
+      "rank": 128
     },
     {
       "name": "Harleston Magpies",
@@ -1270,7 +1290,7 @@
       "perimeter_m": 5025.5,
       "area_m2": 42880.6,
       "Q": 0.0213,
-      "rank": 127
+      "rank": 129
     },
     {
       "name": "Parkrun Strathclyde Country Park",
@@ -1280,7 +1300,7 @@
       "perimeter_m": 2827.3,
       "area_m2": 13451.8,
       "Q": 0.0211,
-      "rank": 128
+      "rank": 130
     },
     {
       "name": "Mile End",
@@ -1290,7 +1310,7 @@
       "perimeter_m": 4171.7,
       "area_m2": 25616.0,
       "Q": 0.0185,
-      "rank": 129
+      "rank": 131
     },
     {
       "name": "Great Lines",
@@ -1300,7 +1320,7 @@
       "perimeter_m": 4286.7,
       "area_m2": 25044.2,
       "Q": 0.0171,
-      "rank": 130
+      "rank": 132
     },
     {
       "name": "Burgess",
@@ -1310,7 +1330,7 @@
       "perimeter_m": 4896.3,
       "area_m2": 31968.9,
       "Q": 0.0168,
-      "rank": 131
+      "rank": 133
     },
     {
       "name": "Edinburgh",
@@ -1320,7 +1340,7 @@
       "perimeter_m": 4866.2,
       "area_m2": 30372.3,
       "Q": 0.0161,
-      "rank": 132
+      "rank": 134
     },
     {
       "name": "Guernsey",
@@ -1330,7 +1350,7 @@
       "perimeter_m": 5021.9,
       "area_m2": 29792.7,
       "Q": 0.0148,
-      "rank": 133
+      "rank": 135
     },
     {
       "name": "Kingston",
@@ -1340,7 +1360,7 @@
       "perimeter_m": 5207.6,
       "area_m2": 27461.4,
       "Q": 0.0127,
-      "rank": 134
+      "rank": 136
     },
     {
       "name": "Melton Mowbray",
@@ -1350,7 +1370,7 @@
       "perimeter_m": 5125.3,
       "area_m2": 25879.1,
       "Q": 0.0124,
-      "rank": 135
+      "rank": 137
     },
     {
       "name": "Exeter Riverside",
@@ -1360,7 +1380,7 @@
       "perimeter_m": 5363.1,
       "area_m2": 21610.5,
       "Q": 0.0094,
-      "rank": 136
+      "rank": 138
     },
     {
       "name": "Beckton",
@@ -1370,7 +1390,7 @@
       "perimeter_m": 4176.1,
       "area_m2": 11321.0,
       "Q": 0.0082,
-      "rank": 137
+      "rank": 139
     },
     {
       "name": "Evesham",
@@ -1380,7 +1400,7 @@
       "perimeter_m": 5131.5,
       "area_m2": 12877.6,
       "Q": 0.0061,
-      "rank": 138
+      "rank": 140
     },
     {
       "name": "Ferry Meadows",
@@ -1390,7 +1410,7 @@
       "perimeter_m": 5158.0,
       "area_m2": 7941.5,
       "Q": 0.0038,
-      "rank": 139
+      "rank": 141
     },
     {
       "name": "Worthing",
@@ -1400,7 +1420,7 @@
       "perimeter_m": 5265.9,
       "area_m2": 7622.0,
       "Q": 0.0035,
-      "rank": 140
+      "rank": 142
     },
     {
       "name": "Conwy",
@@ -1410,7 +1430,7 @@
       "perimeter_m": 4909.4,
       "area_m2": 5124.6,
       "Q": 0.0027,
-      "rank": 141
+      "rank": 143
     },
     {
       "name": "Oaklands College",
@@ -1420,7 +1440,7 @@
       "perimeter_m": 4951.3,
       "area_m2": 5242.3,
       "Q": 0.0027,
-      "rank": 142
+      "rank": 144
     },
     {
       "name": "Sloughbottom",
@@ -1430,7 +1450,7 @@
       "perimeter_m": 1963.4,
       "area_m2": 75.2,
       "Q": 0.0002,
-      "rank": 143
+      "rank": 145
     },
     {
       "name": "Chalkwell Beach",
@@ -1440,7 +1460,7 @@
       "perimeter_m": 5070.2,
       "area_m2": 135.0,
       "Q": 0.0001,
-      "rank": 144
+      "rank": 146
     },
     {
       "name": "Southsea",
@@ -1450,7 +1470,7 @@
       "perimeter_m": 5036.6,
       "area_m2": 0.0,
       "Q": 0.0,
-      "rank": 145
+      "rank": 147
     },
     {
       "name": "Bicester",
@@ -1460,7 +1480,7 @@
       "perimeter_m": 4891.4,
       "area_m2": 0.0,
       "Q": 0.0,
-      "rank": 146
+      "rank": 148
     },
     {
       "name": "Hackney Marshes",
@@ -1470,7 +1490,7 @@
       "perimeter_m": 4846.3,
       "area_m2": 0.0,
       "Q": 0.0,
-      "rank": 147
+      "rank": 149
     },
     {
       "name": "Valentines",
@@ -1480,7 +1500,7 @@
       "perimeter_m": 5124.1,
       "area_m2": 0.0,
       "Q": 0.0,
-      "rank": 148
+      "rank": 150
     },
     {
       "name": "Felixstowe",
@@ -1490,7 +1510,7 @@
       "perimeter_m": 4984.4,
       "area_m2": 17.2,
       "Q": 0.0,
-      "rank": 149
+      "rank": 151
     },
     {
       "name": "Millennium Country Parkrun, Forest of Marston Vale",
@@ -1500,7 +1520,7 @@
       "perimeter_m": 5056.6,
       "area_m2": 1.6,
       "Q": 0.0,
-      "rank": 150
+      "rank": 152
     }
   ]
 }
