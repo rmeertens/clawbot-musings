@@ -105932,5 +105932,239 @@
     "source": "Apple ML Journal",
     "first_seen": "2026-10-13T16:32:12.799291+00:00",
     "published": "2026-10-13T00:00:00+00:00"
+  },
+  "https://opentelemetry.io/blog/2026/hostmetrics-process-scraper-rc": {
+    "title": "Versioned metrics: Shipping the first Release Candidate metrics in hostmetrics",
+    "source": "OpenTelemetry Blog",
+    "first_seen": "2026-10-13T23:59:55.658207+00:00",
+    "published": "2026-10-13T23:35:21+00:00"
+  },
+  "https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws": {
+    "title": "Microsoft Patches More Than 1,400 Security Flaws",
+    "source": "Krebs on Security",
+    "first_seen": "2026-10-13T23:59:55.658207+00:00",
+    "published": "2026-10-13T23:24:53+00:00"
+  },
+  "https://pulseos.finance": {
+    "title": "Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-13T23:59:55.658207+00:00",
+    "published": "2026-10-13T23:13:23+00:00"
+  },
+  "https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic": {
+    "title": "Redesigning source control at Anthropic",
+    "source": "Simon Willison",
+    "first_seen": "2026-10-13T23:59:55.658207+00:00",
+    "published": "2026-10-13T23:00:06+00:00"
+  },
+  "https://www.cphiri.dev/presentations/recreational-programming": {
+    "title": "Recreational Programming",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-13T23:59:55.658207+00:00",
+    "published": "2026-10-13T22:33:33+00:00"
+  },
+  "https://simonwillison.net/2026/Oct/13/llm-gemini": {
+    "title": "llm-gemini 0.35",
+    "source": "Simon Willison",
+    "first_seen": "2026-10-13T23:59:55.658207+00:00",
+    "published": "2026-10-13T22:28:54+00:00"
+  },
+  "https://alpha-nist.github.io": {
+    "title": "AlphaNIST",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-13T23:59:55.658207+00:00",
+    "published": "2026-10-13T21:57:29+00:00"
+  },
+  "https://www.pi.website/blog/api-beta": {
+    "title": "Physical Intelligence API Beta: Frontier Models for Every Robot",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-13T23:59:55.658207+00:00",
+    "published": "2026-10-13T21:55:25+00:00"
+  },
+  "https://developer.nvidia.com/blog/rewrite-apache-spark-udfs-gpu-acceleration-ai-agents": {
+    "title": "How to Rewrite Apache Spark UDFs for GPU Acceleration with AI Agents",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-10-13T23:59:55.658207+00:00",
+    "published": "2026-10-13T21:33:21+00:00"
+  },
+  "https://aws.amazon.com/blogs/architecture/scope-workloads-and-share-resilience-policies-with-aws-resilience-hub": {
+    "title": "Scope workloads and share resilience policies with AWS Resilience Hub",
+    "source": "AWS Architecture Blog",
+    "first_seen": "2026-10-13T23:59:55.658207+00:00",
+    "published": "2026-10-13T21:30:10+00:00"
+  },
+  "https://jobs.lever.co/postera/c7d50a36-db0a-4574-bfe4-8700b74a22c0": {
+    "title": "PostEra (YC W20) Is Hiring AI Researchers for Drug Discovery",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-13T23:59:55.658207+00:00",
+    "published": "2026-10-13T21:01:12+00:00"
+  },
+  "https://aws.amazon.com/blogs/security/part-2-cybersecurity-journeys-what-even-is-this-job": {
+    "title": "Part 2 – Cybersecurity journeys: What even is this job?",
+    "source": "AWS Security Blog",
+    "first_seen": "2026-10-13T23:59:55.658207+00:00",
+    "published": "2026-10-13T20:58:01+00:00"
+  },
+  "https://www.phoronix.com/news/Intel-ISPC-1.32-Released": {
+    "title": "Intel ISPC 1.32 Released With AVX10.2 & APX Support, Even AMD Zen 6 Too",
+    "source": "Phoronix",
+    "first_seen": "2026-10-13T23:59:55.658207+00:00",
+    "published": "2026-10-13T20:57:52+00:00"
+  },
+  "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room": {
+    "title": "OpenAI engineer arrested in bugging of executive conference room",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-13T23:59:55.658207+00:00",
+    "published": "2026-10-13T20:23:55+00:00"
+  },
+  "https://devblogs.microsoft.com/devops/october-patches-for-azure-devops-server-4": {
+    "title": "October Patches for Azure DevOps Server",
+    "source": "MS DevOps Blog",
+    "first_seen": "2026-10-13T23:59:55.658207+00:00",
+    "published": "2026-10-13T20:20:06+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/resolving-concurrent-write-conflicts-for-apache-iceberg-tables-in-amazon-redshift": {
+    "title": "Resolving concurrent write conflicts for Apache Iceberg tables in Amazon Redshift",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-10-13T23:59:55.658207+00:00",
+    "published": "2026-10-13T20:16:48+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/building-agents-that-transact-with-anchor-browser-and-agentcore-payments": {
+    "title": "Building agents that transact with Anchor Browser and AgentCore payments",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-10-13T23:59:55.658207+00:00",
+    "published": "2026-10-13T20:10:33+00:00"
+  },
+  "https://parsimony.lasu.dev": {
+    "title": "Show HN: Parsimony – an open-source benchmark for how much code AI models add",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-13T23:59:55.658207+00:00",
+    "published": "2026-10-13T19:50:31+00:00"
+  },
+  "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely": {
+    "title": "Developing Gemini 4 Argon responsibly and safely",
+    "source": "DeepMind Blog",
+    "first_seen": "2026-10-13T23:59:55.658207+00:00",
+    "published": "2026-10-13T19:43:07+00:00"
+  },
+  "https://devblogs.microsoft.com/dotnet/dotnet-11-rc-2": {
+    "title": "Announcing .NET 11 Release Candidate 2",
+    "source": "MS .NET Blog",
+    "first_seen": "2026-10-13T23:59:55.658207+00:00",
+    "published": "2026-10-13T19:40:00+00:00"
+  },
+  "https://www.databricks.com/blog/practical-guide-real-time-analytics-2026": {
+    "title": "A practical guide to real-time analytics in 2026",
+    "source": "Databricks Blog",
+    "first_seen": "2026-10-13T23:59:55.658207+00:00",
+    "published": "2026-10-13T19:17:26+00:00"
+  },
+  "https://newsletter.pessimistsarchive.org/p/the-1st-time-machines-mogged-mathematicians": {
+    "title": "The Four Colour Theorem: The first time machines mogged mathematicians",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-13T23:59:55.658207+00:00",
+    "published": "2026-10-13T19:17:19+00:00"
+  },
+  "https://guitoro.com": {
+    "title": "Show HN: Guitoro, a virtual guitar you strum with your keyboard",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-13T23:59:55.658207+00:00",
+    "published": "2026-10-13T19:11:48+00:00"
+  },
+  "https://www.databricks.com/blog/whats-new-lakeflow-designer-october-2026-roundup": {
+    "title": "What's New in Lakeflow Designer - October 2026 Roundup",
+    "source": "Databricks Blog",
+    "first_seen": "2026-10-13T23:59:55.658207+00:00",
+    "published": "2026-10-13T19:00:00+00:00"
+  },
+  "https://www.databricks.com/blog/databricks-visionary-gartnerr-magic-quadranttm-analytics-and-business-intelligence-platforms": {
+    "title": "Databricks is a Visionary the Gartner® Magic Quadrant™ for Analytics and Business Intelligence Platforms",
+    "source": "Databricks Blog",
+    "first_seen": "2026-10-13T23:59:55.658207+00:00",
+    "published": "2026-10-13T18:00:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/compute/exploring-aws-lambda-web-functions-for-building-web-applications": {
+    "title": "Exploring AWS Lambda Web Functions for building web applications",
+    "source": "AWS Compute Blog",
+    "first_seen": "2026-10-13T23:59:55.658207+00:00",
+    "published": "2026-10-13T17:59:52+00:00"
+  },
+  "https://github.blog/ai-and-ml/githubs-model-for-secret-detection-finding-more-secrets-with-less-noise": {
+    "title": "GitHub’s model for secret detection: Finding more secrets with less noise",
+    "source": "GitHub Blog",
+    "first_seen": "2026-10-13T23:59:55.658207+00:00",
+    "published": "2026-10-13T17:56:33+00:00"
+  },
+  "https://replit.com/blog/introducing-replit-solutions-partners": {
+    "title": "Introducing Replit Solutions Partners",
+    "source": "Replit Blog",
+    "first_seen": "2026-10-13T23:59:55.658207+00:00",
+    "published": "2026-10-13T17:25:04+00:00"
+  },
+  "https://lwn.net/Articles/1099486": {
+    "title": "[$] KDE Linux at two",
+    "source": "LWN.net",
+    "first_seen": "2026-10-13T23:59:55.658207+00:00",
+    "published": "2026-10-13T17:21:14+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/manage-private-pricing-offers-for-amazon-bedrock-with-managed-entitlements": {
+    "title": "Manage private pricing offers for Amazon Bedrock with managed entitlements",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-10-13T23:59:55.658207+00:00",
+    "published": "2026-10-13T17:17:25+00:00"
+  },
+  "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b": {
+    "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-10-13T23:59:55.658207+00:00",
+    "published": "2026-10-13T17:05:48+00:00"
+  },
+  "https://medium.com/airbnb-engineering/castle-training-natural-language-search-before-the-first-real-query-3818ef8b4828?source=rss----53c7c27702d5---4": {
+    "title": "CASTLE: training natural language search before the first real query",
+    "source": "Airbnb Engineering",
+    "first_seen": "2026-10-13T23:59:55.658207+00:00",
+    "published": "2026-10-13T17:01:02+00:00"
+  },
+  "https://developers.googleblog.com/gemini-4-argon-for-robotics": {
+    "title": "Gemini 4 Argon for Robotics",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-13T23:59:55.658207+00:00",
+    "published": "2026-10-13T16:55:47+00:00"
+  },
+  "https://thenewstack.io/self-replicating-ai-worms": {
+    "title": "Anthropic’s red team ran AI on 15 cheap TV boxes. Then the math got unsettling.",
+    "source": "The New Stack",
+    "first_seen": "2026-10-13T23:59:55.658207+00:00",
+    "published": "2026-10-13T16:40:24+00:00"
+  },
+  "https://stackoverflow.blog/2026/10/13/why-your-sandbox-never-quite-matches-production-and-why-that-s-fine": {
+    "title": "Why Your Sandbox Never Quite Matches Production (And Why That's Fine)",
+    "source": "Stack Overflow Blog",
+    "first_seen": "2026-10-13T23:59:55.658207+00:00",
+    "published": "2026-10-13T16:35:35+00:00"
+  },
+  "https://www.anthropic.com/engineering/redesigning-source-control": {
+    "title": "Redesigning source control at Anthropic",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-13T23:59:55.658207+00:00",
+    "published": "2026-10-13T15:49:56+00:00"
+  },
+  "https://9to5mac.com/2026/10/12/apples-new-switch-to-safari-campaign-details-why-you-should-ditch-chrome": {
+    "title": "Apple's new 'Switch to Safari' campaign details why you should ditch Chrome",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-13T23:59:55.658207+00:00",
+    "published": "2026-10-13T14:26:08+00:00"
+  },
+  "https://openai.com/index/higgsfield-longer-videos-voice": {
+    "title": "Higgsfield takes AI video from 1 minute to over 10",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-10-13T23:59:55.658207+00:00",
+    "published": "2026-10-13T12:00:00+00:00"
+  },
+  "https://simonwillison.net/2026/Oct/13/web-edit": {
+    "title": "web-edit 0.1a1",
+    "source": "Simon Willison",
+    "first_seen": "2026-10-13T23:59:55.658207+00:00",
+    "published": "2026-10-13T01:40:05+00:00"
   }
 }
