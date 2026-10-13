@@ -105512,5 +105512,425 @@
     "source": "Apple ML Journal",
     "first_seen": "2026-10-13T02:17:06.666399+00:00",
     "published": "2026-10-12T00:00:00+00:00"
+  },
+  "https://blog.cloudflare.com/d1-control-plane": {
+    "title": "Under the hood, off the hot path: how D1 scales to millions of databases",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-10-13T16:32:12.799291+00:00",
+    "published": "2026-10-13T16:20:18+00:00"
+  },
+  "https://lwn.net/Articles/1100247": {
+    "title": "Nix and Lix local root-privilege-escalation vulnerabilities",
+    "source": "LWN.net",
+    "first_seen": "2026-10-13T16:32:12.799291+00:00",
+    "published": "2026-10-13T16:13:24+00:00"
+  },
+  "https://newsletter.pragmaticengineer.com/p/building-resilient-systems": {
+    "title": "Building resilient AI-powered software, and planning for when things go wrong",
+    "source": "The Pragmatic Engineer",
+    "first_seen": "2026-10-13T16:32:12.799291+00:00",
+    "published": "2026-10-13T16:03:33+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/natural-language-security-queries-at-orca-security-using-amazon-bedrock": {
+    "title": "Natural language security queries at Orca Security using Amazon Bedrock",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-10-13T16:32:12.799291+00:00",
+    "published": "2026-10-13T16:03:31+00:00"
+  },
+  "https://deepmind.google/models/gemini": {
+    "title": "Gemini 4 Argon",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-13T16:32:12.799291+00:00",
+    "published": "2026-10-13T16:03:16+00:00"
+  },
+  "https://deepmind.google/blog/gemini-4-argon-for-robotics": {
+    "title": "Gemini 4 Argon for Robotics",
+    "source": "DeepMind Blog",
+    "first_seen": "2026-10-13T16:32:12.799291+00:00",
+    "published": "2026-10-13T16:01:58+00:00"
+  },
+  "https://deepmind.google/blog/introducing-gemini-4-argon": {
+    "title": "Gemini 4 Argon: Built to solve your hardest problems",
+    "source": "DeepMind Blog",
+    "first_seen": "2026-10-13T16:32:12.799291+00:00",
+    "published": "2026-10-13T16:01:52+00:00"
+  },
+  "https://engineering.fb.com/2026/10/13/ml-applications/generative-ads-model-gem-scaling-frontier-ads-ai": {
+    "title": "Meta’s Generative Ads Model (GEM): Scaling the Central Model and Compute Engine for Frontier Ads AI",
+    "source": "Meta Engineering",
+    "first_seen": "2026-10-13T16:32:12.799291+00:00",
+    "published": "2026-10-13T16:01:00+00:00"
+  },
+  "https://thenewstack.io/gemini-4-argon-live": {
+    "title": "Gemini 4 Argon debuts with a unified 1M input/output token limit",
+    "source": "The New Stack",
+    "first_seen": "2026-10-13T16:32:12.799291+00:00",
+    "published": "2026-10-13T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/data-analytics/cross-cloud-conversational-analytics-with-borderless-lakehouse": {
+    "title": "Cross-cloud conversational analytics made simple with open standards",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-10-13T16:32:12.799291+00:00",
+    "published": "2026-10-13T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/ai-machine-learning/gemini-4-argon-available-on-google-cloud": {
+    "title": "Gemini 4 Argon available on Google Cloud, built to help solve your business’ hardest problems",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-10-13T16:32:12.799291+00:00",
+    "published": "2026-10-13T16:00:00+00:00"
+  },
+  "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon": {
+    "title": "Gemini 4 Argon: Built to solve your hardest problems",
+    "source": "Google AI Blog",
+    "first_seen": "2026-10-13T16:32:12.799291+00:00",
+    "published": "2026-10-13T16:00:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-prime-day-2026-by-the-numbers-claude-haiku-5-5-amazon-nova-2-5-sonic-and-more-october-13-2026": {
+    "title": "AWS Weekly Roundup: Prime Day 2026 by the numbers, Claude Haiku 5.5, Amazon Nova 2.5 Sonic, and more (October 13, 2026)",
+    "source": "AWS Blog",
+    "first_seen": "2026-10-13T16:32:12.799291+00:00",
+    "published": "2026-10-13T15:59:06+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/how-shipstation-global-built-an-ai-it-help-desk-on-amazon-bedrock-agentcore": {
+    "title": "How ShipStation Global built an AI IT help desk on Amazon Bedrock AgentCore",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-10-13T16:32:12.799291+00:00",
+    "published": "2026-10-13T15:54:49+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/build-long-horizon-agents-with-grok-4-7-on-amazon-bedrock": {
+    "title": "Build long-horizon agents with Grok 4.7 on Amazon Bedrock",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-10-13T16:32:12.799291+00:00",
+    "published": "2026-10-13T15:52:20+00:00"
+  },
+  "https://blog.cloudflare.com/rewinding-the-exponential": {
+    "title": "Rewinding the exponential: How we keep hardware usage down",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-10-13T16:32:12.799291+00:00",
+    "published": "2026-10-13T15:51:41+00:00"
+  },
+  "https://news.ycombinator.com/item?id=50073471": {
+    "title": "Launch HN: Consus (YC F24) – LLM gateway for companies handling sensitive data",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-13T16:32:12.799291+00:00",
+    "published": "2026-10-13T15:41:00+00:00"
+  },
+  "https://blog.bytebytego.com/p/how-the-math-used-in-19th-century": {
+    "title": "How the Math Used in 19th-Century Heat Physics Helps LLMs Understand Sentences",
+    "source": "ByteByteGo",
+    "first_seen": "2026-10-13T16:32:12.799291+00:00",
+    "published": "2026-10-13T15:30:44+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/monitor-amazon-aurora-dsql-costs-with-the-aurora-dsql-console-and-cloudwatch-alarms": {
+    "title": "Monitor Amazon Aurora DSQL costs with the Aurora DSQL console and CloudWatch alarms",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-10-13T16:32:12.799291+00:00",
+    "published": "2026-10-13T15:28:52+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/storage-layout-and-best-practices-for-amazon-rds-custom-for-sql-server": {
+    "title": "Storage layout and best practices for Amazon RDS Custom for SQL Server",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-10-13T16:32:12.799291+00:00",
+    "published": "2026-10-13T15:26:21+00:00"
+  },
+  "https://www.sammystraus.com": {
+    "title": "I posted to HN, and then my website was flooded with AI bot traffic",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-13T16:32:12.799291+00:00",
+    "published": "2026-10-13T15:25:50+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/modernizing-document-storage-for-search-scale-and-agility": {
+    "title": "Modernizing document storage for search, scale, and agility",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-10-13T16:32:12.799291+00:00",
+    "published": "2026-10-13T15:23:39+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/mixture-of-experts-kernel-engineering-on-amazon-sagemaker-ai": {
+    "title": "Mixture-of-Experts kernel engineering on Amazon SageMaker AI",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-10-13T16:32:12.799291+00:00",
+    "published": "2026-10-13T15:17:09+00:00"
+  },
+  "https://ourworldindata.org/data-insights/electricity-generation-per-person-in-the-united-kingdom-has-fallen-by-a-third-from-its-early-2000s-peak": {
+    "title": "The United Kingdom Generates Less Electricity per Person Than in the 1970s",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-13T16:32:12.799291+00:00",
+    "published": "2026-10-13T15:12:57+00:00"
+  },
+  "https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development": {
+    "title": "Thunderbird for iOS",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-13T16:32:12.799291+00:00",
+    "published": "2026-10-13T15:07:37+00:00"
+  },
+  "https://thenewstack.io/ai-agent-credentials-identity-provider": {
+    "title": "The agent did the work. The audit log couldn’t say who asked.",
+    "source": "The New Stack",
+    "first_seen": "2026-10-13T16:32:12.799291+00:00",
+    "published": "2026-10-13T15:00:48+00:00"
+  },
+  "https://www.phoronix.com/review/framework-laptop-12-wildcat-lake": {
+    "title": "Framework Laptop 12 Offers Improved Performance & Efficiency With Intel Core 3 Wildcat Lake",
+    "source": "Phoronix",
+    "first_seen": "2026-10-13T16:32:12.799291+00:00",
+    "published": "2026-10-13T15:00:00+00:00"
+  },
+  "https://www.tigerdata.com/blog/announcing-pg_vectorsearch-scalable-open-source-vector-search-postgresql": {
+    "title": "Announcing pg_vectorsearch: Scalable Open-Source Vector Search in PostgreSQL",
+    "source": "Timescale Blog",
+    "first_seen": "2026-10-13T16:32:12.799291+00:00",
+    "published": "2026-10-13T14:40:36+00:00"
+  },
+  "https://aws.amazon.com/blogs/architecture/stopping-business-email-compromise-with-ai-driven-email-security-how-vipre-protects-modern-enterprises-on-aws": {
+    "title": "Stopping business email compromise with AI-driven email security: How VIPRE protects modern enterprises on AWS",
+    "source": "AWS Architecture Blog",
+    "first_seen": "2026-10-13T16:32:12.799291+00:00",
+    "published": "2026-10-13T14:32:42+00:00"
+  },
+  "https://aws.amazon.com/blogs/architecture/bulk-executor-for-amazon-dynamodb-part-2-lessons-we-learned-the-hard-way": {
+    "title": "Bulk Executor for Amazon DynamoDB, Part 2: Lessons we learned the hard way",
+    "source": "AWS Architecture Blog",
+    "first_seen": "2026-10-13T16:32:12.799291+00:00",
+    "published": "2026-10-13T14:23:33+00:00"
+  },
+  "https://forbetterscience.com/2026/09/22/a-book-that-will-never-be-read": {
+    "title": "A Book That Will Never Be Read",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-13T16:32:12.799291+00:00",
+    "published": "2026-10-13T14:21:40+00:00"
+  },
+  "https://developer.nvidia.com/blog/nvidia-runai-is-now-open-source-as-part-of-nvidia-dsx-ai-factory-platform": {
+    "title": "NVIDIA Run:ai Is Now Open Source as Part of NVIDIA DSX AI Factory Platform",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-10-13T16:32:12.799291+00:00",
+    "published": "2026-10-13T14:19:40+00:00"
+  },
+  "https://kylekukshtel.com/ai-harness-engineering-game-development-claude-code": {
+    "title": "How to engineer an AI harness for game development",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-13T16:32:12.799291+00:00",
+    "published": "2026-10-13T14:14:23+00:00"
+  },
+  "https://realpython.com/courses/python-first-steps": {
+    "title": "How to Use Python: Taking Your First Steps",
+    "source": "Real Python",
+    "first_seen": "2026-10-13T16:32:12.799291+00:00",
+    "published": "2026-10-13T14:00:00+00:00"
+  },
+  "https://martinfowler.com/articles/are-harnesses-worth-the-cost.html": {
+    "title": "Are Harnesses Worth the Cost?",
+    "source": "Martin Fowler",
+    "first_seen": "2026-10-13T16:32:12.799291+00:00",
+    "published": "2026-10-13T13:35:00+00:00"
+  },
+  "https://lwn.net/Articles/1099015": {
+    "title": "[$] Owning C types from Rust code",
+    "source": "LWN.net",
+    "first_seen": "2026-10-13T16:32:12.799291+00:00",
+    "published": "2026-10-13T13:33:13+00:00"
+  },
+  "https://simonwillison.net/2026/Oct/13/geoffrey-huntley": {
+    "title": "Quoting Geoffrey Huntley",
+    "source": "Simon Willison",
+    "first_seen": "2026-10-13T16:32:12.799291+00:00",
+    "published": "2026-10-13T13:32:00+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-Dropping-Assisted-By-Req": {
+    "title": "Linux Kernel Developers Plan To Remove \"Assisted-By\" Tag Requirement For AI/LLM Usage",
+    "source": "Phoronix",
+    "first_seen": "2026-10-13T16:32:12.799291+00:00",
+    "published": "2026-10-13T13:28:54+00:00"
+  },
+  "https://www.apple.com/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k": {
+    "title": "New Apple TV 4K",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-13T16:32:12.799291+00:00",
+    "published": "2026-10-13T13:21:35+00:00"
+  },
+  "https://lwn.net/Articles/1100182": {
+    "title": "Eisentraut: The reverts will continue until morale improves",
+    "source": "LWN.net",
+    "first_seen": "2026-10-13T16:32:12.799291+00:00",
+    "published": "2026-10-13T13:21:34+00:00"
+  },
+  "https://tailscale.com/blog/sovereign-ai-patricia-prewitt": {
+    "title": "Sovereign AI starts with open infrastructure",
+    "source": "Tailscale Blog",
+    "first_seen": "2026-10-13T16:32:12.799291+00:00",
+    "published": "2026-10-13T13:15:00+00:00"
+  },
+  "https://www.phoronix.com/news/Firefox-159-Beta": {
+    "title": "Firefox 159 Beta Released With Fix For Tabs On Wayland",
+    "source": "Phoronix",
+    "first_seen": "2026-10-13T16:32:12.799291+00:00",
+    "published": "2026-10-13T13:14:11+00:00"
+  },
+  "https://lwn.net/Articles/1100181": {
+    "title": "Security updates for Tuesday",
+    "source": "LWN.net",
+    "first_seen": "2026-10-13T16:32:12.799291+00:00",
+    "published": "2026-10-13T13:10:55+00:00"
+  },
+  "https://www.apple.com/apple-homeview": {
+    "title": "Apple HomeView",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-13T16:32:12.799291+00:00",
+    "published": "2026-10-13T13:02:12+00:00"
+  },
+  "https://thenewstack.io/workday-is-using-typesafes-jev-to-build-user-interfaces-on-the-fly": {
+    "title": "Workday is using TypeSafe’s Jev to build user interfaces on the fly",
+    "source": "The New Stack",
+    "first_seen": "2026-10-13T16:32:12.799291+00:00",
+    "published": "2026-10-13T13:00:00+00:00"
+  },
+  "https://thenewstack.io/workday-headless-mcp-agents": {
+    "title": "Workday goes headless, opening its HR and finance data to outside AI agents",
+    "source": "The New Stack",
+    "first_seen": "2026-10-13T16:32:12.799291+00:00",
+    "published": "2026-10-13T13:00:00+00:00"
+  },
+  "https://lwn.net/Articles/1100055": {
+    "title": "Asterinas 0.19.0 released",
+    "source": "LWN.net",
+    "first_seen": "2026-10-13T16:32:12.799291+00:00",
+    "published": "2026-10-13T12:55:20+00:00"
+  },
+  "https://pytorch.org/blog/extending-inductor-for-the-ibm-spyre-accelerator": {
+    "title": "Extending Inductor for the IBM Spyre Accelerator",
+    "source": "PyTorch Blog",
+    "first_seen": "2026-10-13T16:32:12.799291+00:00",
+    "published": "2026-10-13T12:45:30+00:00"
+  },
+  "https://github.com/jeff87654/busy-beaver/blob/main/BB10/1RB0RA_1LC1LF_1RD0LB_1RA1LE_1LI0LC_0RG1LD_1RH1LG_1LC0RG_0LJ0LI_1RZ0LC.md": {
+    "title": "BB(10) > Graham's Number",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-13T16:32:12.799291+00:00",
+    "published": "2026-10-13T12:40:04+00:00"
+  },
+  "https://thenewstack.io/x-subscription-cursor-pricing": {
+    "title": "The X Subscription bundles Cursor with Grok and X Premium. But Claude now costs extra.",
+    "source": "The New Stack",
+    "first_seen": "2026-10-13T16:32:12.799291+00:00",
+    "published": "2026-10-13T12:25:19+00:00"
+  },
+  "https://www.nytimes.com/2026/10/13/science/inhabitable-planets-solar-system.html": {
+    "title": "Worlds More Habitable Than Earth? They're Out There",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-13T16:32:12.799291+00:00",
+    "published": "2026-10-13T12:23:34+00:00"
+  },
+  "https://cloud.google.com/blog/topics/developers-practitioners/one-agent-development-kit-five-languages": {
+    "title": "One Agent Development Kit, five languages",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-10-13T16:32:12.799291+00:00",
+    "published": "2026-10-13T12:22:00+00:00"
+  },
+  "https://www.firefox.com/en-US/enterprise": {
+    "title": "Mozilla Introduces Firefox Enterprise",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-13T16:32:12.799291+00:00",
+    "published": "2026-10-13T12:00:42+00:00"
+  },
+  "https://photonlines.substack.com/p/a-visual-intro-to-complex-numbers": {
+    "title": "A Visual Intro to Complex Numbers",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-13T16:32:12.799291+00:00",
+    "published": "2026-10-13T12:00:04+00:00"
+  },
+  "https://realpython.com/quizzes/pythons-len-function": {
+    "title": "Quiz: Python's len() Function",
+    "source": "Real Python",
+    "first_seen": "2026-10-13T16:32:12.799291+00:00",
+    "published": "2026-10-13T12:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-Mint-27-Many-Features": {
+    "title": "Linux Mint 27 Continues Working Toward Christmas Release With Many Features",
+    "source": "Phoronix",
+    "first_seen": "2026-10-13T16:32:12.799291+00:00",
+    "published": "2026-10-13T11:58:21+00:00"
+  },
+  "https://www.phoronix.com/news/ONLYOFFICE-10.0": {
+    "title": "ONLYOFFICE 10.0 Released With AI Features, 1,000+ Bug Fixes",
+    "source": "Phoronix",
+    "first_seen": "2026-10-13T16:32:12.799291+00:00",
+    "published": "2026-10-13T11:43:23+00:00"
+  },
+  "https://eg2.haku.sh": {
+    "title": "We turned EmbeddingGemma 2 into a speech-to-text model",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-13T16:32:12.799291+00:00",
+    "published": "2026-10-13T11:27:14+00:00"
+  },
+  "https://www.phoronix.com/news/NVIDIA-Nova-Linux-7.4-Changes": {
+    "title": "NVIDIA's Nova Driver Continues Leading The Way For Linux Rust GPU Drivers",
+    "source": "Phoronix",
+    "first_seen": "2026-10-13T16:32:12.799291+00:00",
+    "published": "2026-10-13T10:28:11+00:00"
+  },
+  "https://github.com/rust-lang/rust/issues/164250": {
+    "title": "11 year old unsoundness bugs found in Rust borrow checker",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-13T16:32:12.799291+00:00",
+    "published": "2026-10-13T10:27:00+00:00"
+  },
+  "https://www.phoronix.com/news/Asterinas-0.19-Released": {
+    "title": "Asterinas 0.19.0 Brings Up X.Org & Other Improvements To This Rust-Written OS",
+    "source": "Phoronix",
+    "first_seen": "2026-10-13T16:32:12.799291+00:00",
+    "published": "2026-10-13T10:14:11+00:00"
+  },
+  "https://pdftomp3.com/connect-ai": {
+    "title": "Show HN: Use your OpenAI subscription to create audiobooks",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-13T16:32:12.799291+00:00",
+    "published": "2026-10-13T10:08:34+00:00"
+  },
+  "https://www.bloomberg.com/news/features/2026-10-13/cftc-staff-told-to-retract-analysis-of-suspicious-oil-trades-on-iran": {
+    "title": "CFTC Staff Were Told to Retract Analysis of Suspicious Oil Trades",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-13T16:32:12.799291+00:00",
+    "published": "2026-10-13T10:08:00+00:00"
+  },
+  "https://www.phoronix.com/news/IREE-3.12-Released": {
+    "title": "IREE 3.12 Introduces Rolls Out Rewritten Vulkan Driver, Experimental AMD HSA HAL",
+    "source": "Phoronix",
+    "first_seen": "2026-10-13T16:32:12.799291+00:00",
+    "published": "2026-10-13T10:00:22+00:00"
+  },
+  "https://www.unsiloed.ai/blog/document-review-unsiloed-typesafe-jev": {
+    "title": "Document Review with Unsiloed and TypeSafe Jev",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-13T16:32:12.799291+00:00",
+    "published": "2026-10-13T08:24:51+00:00"
+  },
+  "https://stackoverflow.blog/2026/10/13/keep-calm-and-call-clone-with-rust": {
+    "title": "Keep calm and call clone with Rust",
+    "source": "Stack Overflow Blog",
+    "first_seen": "2026-10-13T16:32:12.799291+00:00",
+    "published": "2026-10-13T07:40:00+00:00"
+  },
+  "https://blog.character.ai/an-update-on-character-ai": {
+    "title": "Character.ai has initiated voluntary Chapter 11 bankruptcy",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-13T16:32:12.799291+00:00",
+    "published": "2026-10-13T07:28:34+00:00"
+  },
+  "https://www.thoughtworks.com/insights/blog/product-innovation/using-grafana-ai-to-accelerate-incident-investigation": {
+    "title": "Using Grafana AI to accelerate incident investigation",
+    "source": "ThoughtWorks",
+    "first_seen": "2026-10-13T16:32:12.799291+00:00",
+    "published": "2026-10-13T00:00:00+00:00"
+  },
+  "https://planetscale.com/blog/planetscale-is-now-on-azure": {
+    "title": "PlanetScale is now available on Azure",
+    "source": "PlanetScale Blog",
+    "first_seen": "2026-10-13T16:32:12.799291+00:00",
+    "published": "2026-10-13T00:00:00+00:00"
+  },
+  "https://machinelearning.apple.com/research/mix-dont-tune": {
+    "title": "Mix, Don't Tune: Bilingual Pre-Training Outperforms Hyperparameter Search in Data-Constrained Settings",
+    "source": "Apple ML Journal",
+    "first_seen": "2026-10-13T16:32:12.799291+00:00",
+    "published": "2026-10-13T00:00:00+00:00"
   }
 }
