@@ -106166,5 +106166,257 @@
     "source": "Simon Willison",
     "first_seen": "2026-10-13T23:59:55.658207+00:00",
     "published": "2026-10-13T01:40:05+00:00"
+  },
+  "https://www.databricks.com/blog/sizing-lakebase-search-lessons-real-app-and-4-million-passages": {
+    "title": "Sizing Lakebase Search: lessons from a real app and 4 million passages",
+    "source": "Databricks Blog",
+    "first_seen": "2026-10-14T14:06:48.875915+00:00",
+    "published": "2026-10-15T00:06:48+00:00"
+  },
+  "https://www.databricks.com/blog/introducing-private-network-gateway": {
+    "title": "Introducing Private Network Gateway",
+    "source": "Databricks Blog",
+    "first_seen": "2026-10-14T14:06:48.875915+00:00",
+    "published": "2026-10-14T14:00:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/generate-presentations-with-amazon-bedrock-agentcore": {
+    "title": "Generate presentations with Amazon Bedrock AgentCore",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-10-14T14:06:48.875915+00:00",
+    "published": "2026-10-14T13:58:43+00:00"
+  },
+  "https://lwn.net/Articles/1099300": {
+    "title": "[$] Collaborating with out-of-tree tracers",
+    "source": "LWN.net",
+    "first_seen": "2026-10-14T14:06:48.875915+00:00",
+    "published": "2026-10-14T13:56:50+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/how-tamnoon-built-ai-powered-cloud-security-remediation-with-amazon-bedrock": {
+    "title": "How Tamnoon built AI-powered cloud security remediation with Amazon Bedrock",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-10-14T14:06:48.875915+00:00",
+    "published": "2026-10-14T13:53:33+00:00"
+  },
+  "https://lwn.net/Articles/1100449": {
+    "title": "Linus Torvalds's first LLM-assisted patch series",
+    "source": "LWN.net",
+    "first_seen": "2026-10-14T14:06:48.875915+00:00",
+    "published": "2026-10-14T13:50:29+00:00"
+  },
+  "https://lwn.net/Articles/1100429": {
+    "title": "KDE Plasma 6.8 released",
+    "source": "LWN.net",
+    "first_seen": "2026-10-14T14:06:48.875915+00:00",
+    "published": "2026-10-14T13:41:09+00:00"
+  },
+  "https://thenewstack.io/subquadratic-snap-jev-decision-model": {
+    "title": "“Take work away from frontier LLMs”: Subquadratic’s decision model claims 12x Jev’s context window",
+    "source": "The New Stack",
+    "first_seen": "2026-10-14T14:06:48.875915+00:00",
+    "published": "2026-10-14T13:35:15+00:00"
+  },
+  "https://www.mediaite.com/media/news/details-leak-from-explosive-meeting-where-bari-weisss-handpicked-editor-threatened-cbs-staff-legal-grounds-for-firing": {
+    "title": "Details Leak from Meeting Where Weiss's 'Handpicked' Editor Threatened CBS Staff",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-14T14:06:48.875915+00:00",
+    "published": "2026-10-14T13:20:39+00:00"
+  },
+  "https://www.admin.ch/en/newnsb/NMn5s24l8NjQ": {
+    "title": "Switzerland proposes banning profiling-based ads to minors",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-14T14:06:48.875915+00:00",
+    "published": "2026-10-14T13:20:02+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/deploy-and-evaluate-models-with-amazon-sagemaker-jumpstart": {
+    "title": "Deploy and evaluate models with Amazon SageMaker JumpStart",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-10-14T14:06:48.875915+00:00",
+    "published": "2026-10-14T13:14:36+00:00"
+  },
+  "https://lwn.net/Articles/1098672": {
+    "title": "[$] GCC development with large-language models",
+    "source": "LWN.net",
+    "first_seen": "2026-10-14T14:06:48.875915+00:00",
+    "published": "2026-10-14T13:13:53+00:00"
+  },
+  "https://www.phoronix.com/news/HP-EliteBook-6-Q1q-Linux-Patch": {
+    "title": "HP EliteBook 6 G1q Powered By Snapdragon X1 Plus Sees Linux Patches",
+    "source": "Phoronix",
+    "first_seen": "2026-10-14T14:06:48.875915+00:00",
+    "published": "2026-10-14T13:10:14+00:00"
+  },
+  "https://lwn.net/Articles/1100426": {
+    "title": "Security updates for Wednesday",
+    "source": "LWN.net",
+    "first_seen": "2026-10-14T14:06:48.875915+00:00",
+    "published": "2026-10-14T13:02:10+00:00"
+  },
+  "https://blog.cloudflare.com/hyperdrive-mysql": {
+    "title": "Inside Hyperdrive: How we solved a rare Hyperdrive MySQL caching bug",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-10-14T14:06:48.875915+00:00",
+    "published": "2026-10-14T13:00:00+00:00"
+  },
+  "https://ma.tt/2026/10/rip-eric": {
+    "title": "RIP Eric Binnion",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-14T14:06:48.875915+00:00",
+    "published": "2026-10-14T12:58:32+00:00"
+  },
+  "https://aaronsonoracle.com": {
+    "title": "The Aaronson Oracle",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-14T14:06:48.875915+00:00",
+    "published": "2026-10-14T12:16:35+00:00"
+  },
+  "https://realpython.com/quizzes/python-pyqt-gui-calculator": {
+    "title": "Quiz: Python and PyQt: Building a GUI Desktop Calculator",
+    "source": "Real Python",
+    "first_seen": "2026-10-14T14:06:48.875915+00:00",
+    "published": "2026-10-14T12:00:00+00:00"
+  },
+  "https://github.com/timescale/pg_vectorsearch": {
+    "title": "Pg_vectorsearch: An index that is faster than pgvector's IVFFlat and HNSW",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-14T14:06:48.875915+00:00",
+    "published": "2026-10-14T11:47:53+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-Answering-RVA23-Question": {
+    "title": "Linux Finally Making It Easier To Answer The Question: \"Is This RISC-V System RVA23?\"",
+    "source": "Phoronix",
+    "first_seen": "2026-10-14T14:06:48.875915+00:00",
+    "published": "2026-10-14T11:47:39+00:00"
+  },
+  "https://www.phoronix.com/news/Haiku-September-2026": {
+    "title": "BeOS-Inspired Haiku Landed More Hardware Improvements & Other Changes In September",
+    "source": "Phoronix",
+    "first_seen": "2026-10-14T14:06:48.875915+00:00",
+    "published": "2026-10-14T11:34:14+00:00"
+  },
+  "https://blog.trailofbits.com/2026/10/14/package-managers-have-an-integrity-problem": {
+    "title": "Package managers have an integrity problem",
+    "source": "Trail of Bits",
+    "first_seen": "2026-10-14T14:06:48.875915+00:00",
+    "published": "2026-10-14T11:00:00+00:00"
+  },
+  "https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage": {
+    "title": "TV4 postpones show after AI agent erases edited material",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-14T14:06:48.875915+00:00",
+    "published": "2026-10-14T10:28:26+00:00"
+  },
+  "https://blog.lorenzano.eu/pulsar-at-esug-2026": {
+    "title": "Pulsar at ESUG 2026 (new Smalltalk IDE)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-14T14:06:48.875915+00:00",
+    "published": "2026-10-14T10:26:53+00:00"
+  },
+  "https://www.quera.com/blog-posts/holding-the-light-teaching-an-ai-to-lock-and-tune-our-quantum-computers-lasers": {
+    "title": "AI Laser Locking for Quantum Computers: How QuEra Automates It",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-14T14:06:48.875915+00:00",
+    "published": "2026-10-14T10:26:24+00:00"
+  },
+  "https://www.phoronix.com/news/Cloud-Hypervisor-54": {
+    "title": "Cloud Hypervisor 54 Released With Live Migration Improvements",
+    "source": "Phoronix",
+    "first_seen": "2026-10-14T14:06:48.875915+00:00",
+    "published": "2026-10-14T10:17:59+00:00"
+  },
+  "https://www.phoronix.com/news/Rustls-0.23.46-Released": {
+    "title": "Rustls 0.23.46 Released With Four Security Fixes",
+    "source": "Phoronix",
+    "first_seen": "2026-10-14T14:06:48.875915+00:00",
+    "published": "2026-10-14T10:05:34+00:00"
+  },
+  "https://museumofages.org/w/vinci": {
+    "title": "Show HN: A guided 3D Leonardo da Vinci museum, built in code",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-14T14:06:48.875915+00:00",
+    "published": "2026-10-14T10:00:24+00:00"
+  },
+  "https://www.zetter-zeroday.com/who-is-planting-backdoors-in-ledger-crypto-wallets": {
+    "title": "Who Is Planting Backdoors in Ledger Crypto Wallets?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-14T14:06:48.875915+00:00",
+    "published": "2026-10-14T09:37:24+00:00"
+  },
+  "https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet": {
+    "title": "Amazon pushes up prices across the Internet",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-14T14:06:48.875915+00:00",
+    "published": "2026-10-14T09:28:17+00:00"
+  },
+  "https://www.phoronix.com/news/KDE-Plasma-6.8-Released": {
+    "title": "KDE Plasma 6.8 Released, Marks 30 Years Of The KDE Project",
+    "source": "Phoronix",
+    "first_seen": "2026-10-14T14:06:48.875915+00:00",
+    "published": "2026-10-14T09:15:37+00:00"
+  },
+  "https://typeof.net/Iosevka": {
+    "title": "Iosevka is an open-source, sans-serif and slab-serif, monospace font",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-14T14:06:48.875915+00:00",
+    "published": "2026-10-14T08:27:59+00:00"
+  },
+  "https://github.com/android/ndk/issues/2260": {
+    "title": "AOSP Source Releases Are So Late Developers Disassemble Libraries to Report Bugs",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-14T14:06:48.875915+00:00",
+    "published": "2026-10-14T06:18:01+00:00"
+  },
+  "https://thenewstack.io/chainguard-mythos-security-harness": {
+    "title": "66% of billion-dollar companies leave critical bugs unpatched — the part the AI bug-hunting hype leaves out",
+    "source": "The New Stack",
+    "first_seen": "2026-10-14T14:06:48.875915+00:00",
+    "published": "2026-10-14T05:00:00+00:00"
+  },
+  "https://felixrieseberg.com": {
+    "title": "Felix Rieseberg Homepage",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-14T14:06:48.875915+00:00",
+    "published": "2026-10-14T04:42:33+00:00"
+  },
+  "https://strafe.chat": {
+    "title": "Strafe: A new open-source, E2E Encrypted, and federated alternative to Discord",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-14T14:06:48.875915+00:00",
+    "published": "2026-10-14T03:28:00+00:00"
+  },
+  "https://deepmind.google/blog/on-device-ai-scam-detection-mddi": {
+    "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
+    "source": "DeepMind Blog",
+    "first_seen": "2026-10-14T14:06:48.875915+00:00",
+    "published": "2026-10-14T02:00:14+00:00"
+  },
+  "https://www.phoronix.com/news/Mesa-Torx-YOLOX-PyTorch": {
+    "title": "Mesa Expands NPU Capabilities With Support For YOLOX With PyTorch",
+    "source": "Phoronix",
+    "first_seen": "2026-10-14T14:06:48.875915+00:00",
+    "published": "2026-10-14T00:54:50+00:00"
+  },
+  "https://www.thoughtworks.com/insights/blog/technology-strategy/the-real-ai-project-at-your-airport-isnt-an-ai-project": {
+    "title": "The real AI project at your airport isn't an AI project",
+    "source": "ThoughtWorks",
+    "first_seen": "2026-10-14T14:06:48.875915+00:00",
+    "published": "2026-10-14T00:00:00+00:00"
+  },
+  "https://www.thoughtworks.com/insights/blog/machine-learning-and-ai/ai-agent-harness": {
+    "title": "AI Agent Harness",
+    "source": "ThoughtWorks",
+    "first_seen": "2026-10-14T14:06:48.875915+00:00",
+    "published": "2026-10-14T00:00:00+00:00"
+  },
+  "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic": {
+    "title": "The EU’s next chapter in AI is agentic",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-10-14T14:06:48.875915+00:00",
+    "published": "2026-10-14T00:00:00+00:00"
+  },
+  "https://lab.specr.net/rigged-draw": {
+    "title": "Show HN: How random are you?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-14T14:06:48.875915+00:00",
+    "published": "2026-10-13T16:57:57+00:00"
   }
 }
