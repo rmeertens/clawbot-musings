@@ -106754,5 +106754,209 @@
     "source": "Databricks Blog",
     "first_seen": "2026-10-14T18:59:56.661312+00:00",
     "published": "2026-10-13T18:41:48+00:00"
+  },
+  "https://www.databricks.com/blog/unlock-powerful-insights-and-forecasts-predictive-ai-functions": {
+    "title": "Unlock powerful insights and forecasts with Predictive AI Functions",
+    "source": "Databricks Blog",
+    "first_seen": "2026-10-14T23:31:01.120773+00:00",
+    "published": "2026-10-14T23:30:00+00:00"
+  },
+  "https://thenewstack.io/torvalds-claude-code-kernel": {
+    "title": "Linus Torvalds let Claude Code fix the Linux page cache. Then reviewers found a race.",
+    "source": "The New Stack",
+    "first_seen": "2026-10-14T23:31:01.120773+00:00",
+    "published": "2026-10-14T22:59:18+00:00"
+  },
+  "https://tinylittleoffice.com": {
+    "title": "Tiny Little Office",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-14T23:31:01.120773+00:00",
+    "published": "2026-10-14T22:10:08+00:00"
+  },
+  "https://www.docker.com/blog/ai-agent-security-risks": {
+    "title": "AI Agent Security Risks: What Can Go Wrong When Agents Act on Their Own",
+    "source": "Docker Blog",
+    "first_seen": "2026-10-14T23:31:01.120773+00:00",
+    "published": "2026-10-14T22:08:33+00:00"
+  },
+  "https://www.docker.com/blog/harbor-docker-sandboxes-run-safe-reproducible-agent-evals": {
+    "title": "Harbor + Docker Sandboxes: Run Safe, Reproducible Agent Evals",
+    "source": "Docker Blog",
+    "first_seen": "2026-10-14T23:31:01.120773+00:00",
+    "published": "2026-10-14T21:45:27+00:00"
+  },
+  "https://typesafe.ai/blog/jev-1-14": {
+    "title": "We’re releasing Jev 1.14.0 along with experimental features for dreamers",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-14T23:31:01.120773+00:00",
+    "published": "2026-10-14T21:11:03+00:00"
+  },
+  "https://anoma.ly/notes/opencode-2-0": {
+    "title": "OpenCode 2.0",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-14T23:31:01.120773+00:00",
+    "published": "2026-10-14T20:48:24+00:00"
+  },
+  "https://sunshowers.io/posts/anthropic-mononoke": {
+    "title": "Anthropic's Scion is heavily inspired by Mononoke",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-14T23:31:01.120773+00:00",
+    "published": "2026-10-14T20:30:54+00:00"
+  },
+  "https://blog.cloudflare.com/yandex-outage": {
+    "title": "Yandex outage: data shows that instead of going dark, malicious bots moved",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-14T23:31:01.120773+00:00",
+    "published": "2026-10-14T20:29:13+00:00"
+  },
+  "https://aws.amazon.com/blogs/security/penetration-testing-every-deployment-with-aws-continuum": {
+    "title": "Penetration testing every deployment with AWS Continuum",
+    "source": "AWS Security Blog",
+    "first_seen": "2026-10-14T23:31:01.120773+00:00",
+    "published": "2026-10-14T20:21:52+00:00"
+  },
+  "https://netflixtechblog.com/integrating-netflixs-foundation-model-into-personalization-applications-cf176b5860eb?source=rss----2615bd06b42e---4": {
+    "title": "Integrating Netflix’s Foundation Model into Personalization applications",
+    "source": "Netflix Tech Blog",
+    "first_seen": "2026-10-14T23:31:01.120773+00:00",
+    "published": "2026-10-14T20:02:22+00:00"
+  },
+  "https://github.blog/news-insights/company-news/github-availability-report-september-2026": {
+    "title": "GitHub availability report: September 2026",
+    "source": "GitHub Blog",
+    "first_seen": "2026-10-14T23:31:01.120773+00:00",
+    "published": "2026-10-14T20:01:35+00:00"
+  },
+  "https://www.databricks.com/blog/power-real-time-applications-and-agents-document-intelligence": {
+    "title": "Power real-time applications and agents with Document Intelligence",
+    "source": "Databricks Blog",
+    "first_seen": "2026-10-14T23:31:01.120773+00:00",
+    "published": "2026-10-14T20:00:00+00:00"
+  },
+  "https://netflixtechblog.com/datajunction-as-netflixs-answer-to-the-missing-piece-of-the-modern-data-stack-92af926b40a5?source=rss----2615bd06b42e---4": {
+    "title": "DataJunction as Netflix’s answer to the missing piece of the modern data stack",
+    "source": "Netflix Tech Blog",
+    "first_seen": "2026-10-14T23:31:01.120773+00:00",
+    "published": "2026-10-14T19:59:08+00:00"
+  },
+  "https://netflixtechblog.com/measuring-the-impact-of-personalized-recommendations-4c26be3a4d96?source=rss----2615bd06b42e---4": {
+    "title": "Measuring the Impact of Personalized Recommendations",
+    "source": "Netflix Tech Blog",
+    "first_seen": "2026-10-14T23:31:01.120773+00:00",
+    "published": "2026-10-14T19:57:43+00:00"
+  },
+  "https://netflixtechblog.com/timeseries-tiered-storage-journey-kafka-flink-streams-to-native-cassandra-cold-reads-e59d597c9d60?source=rss----2615bd06b42e---4": {
+    "title": "TimeSeries Tiered Storage Journey: Kafka/Flink Streams to Native Cassandra Cold Reads",
+    "source": "Netflix Tech Blog",
+    "first_seen": "2026-10-14T23:31:01.120773+00:00",
+    "published": "2026-10-14T19:56:08+00:00"
+  },
+  "https://netflixtechblog.com/behind-the-scenes-evolving-netflixs-ads-event-pipeline-for-live-part-ii-826ebf9ad9fb?source=rss----2615bd06b42e---4": {
+    "title": "Behind the Scenes: Evolving Netflix’s Ads Event Pipeline for Live — Part II",
+    "source": "Netflix Tech Blog",
+    "first_seen": "2026-10-14T23:31:01.120773+00:00",
+    "published": "2026-10-14T19:51:35+00:00"
+  },
+  "https://netflixtechblog.com/netflix-conductor-the-next-chapter-41ad21067649?source=rss----2615bd06b42e---4": {
+    "title": "Netflix Conductor: The Next Chapter",
+    "source": "Netflix Tech Blog",
+    "first_seen": "2026-10-14T23:31:01.120773+00:00",
+    "published": "2026-10-14T19:50:17+00:00"
+  },
+  "https://netflixtechblog.com/running-apache-spark-experiments-in-my-sleep-and-on-a-plane-588816b6b5f8?source=rss----2615bd06b42e---4": {
+    "title": "Running Apache Spark experiments in my sleep (and on a plane)",
+    "source": "Netflix Tech Blog",
+    "first_seen": "2026-10-14T23:31:01.120773+00:00",
+    "published": "2026-10-14T19:49:11+00:00"
+  },
+  "https://netflixtechblog.com/the-lifecycle-of-llm-as-a-judge-building-aligning-and-monitoring-at-scale-c95bd8283508?source=rss----2615bd06b42e---4": {
+    "title": "The Lifecycle of LLM-as-a-Judge: Building, Aligning, and Monitoring at scale",
+    "source": "Netflix Tech Blog",
+    "first_seen": "2026-10-14T23:31:01.120773+00:00",
+    "published": "2026-10-14T19:48:49+00:00"
+  },
+  "https://netflixtechblog.com/netflix-stratum-media-processing-automated-container-right-sizing-ddf9aa68a801?source=rss----2615bd06b42e---4": {
+    "title": "Netflix Stratum Media Processing: Automated Container Right-Sizing",
+    "source": "Netflix Tech Blog",
+    "first_seen": "2026-10-14T23:31:01.120773+00:00",
+    "published": "2026-10-14T19:48:20+00:00"
+  },
+  "https://netflixtechblog.com/reliable-gpu-compute-for-large-training-inference-jobs-d62b03a96d7a?source=rss----2615bd06b42e---4": {
+    "title": "Reliable GPU compute for large training & inference jobs",
+    "source": "Netflix Tech Blog",
+    "first_seen": "2026-10-14T23:31:01.120773+00:00",
+    "published": "2026-10-14T19:47:42+00:00"
+  },
+  "https://aws.amazon.com/blogs/aws/amazon-s3-vercel-marketplace-v0": {
+    "title": "Amazon S3 is now available on the Vercel Marketplace and v0 by Vercel",
+    "source": "AWS Blog",
+    "first_seen": "2026-10-14T23:31:01.120773+00:00",
+    "published": "2026-10-14T19:30:48+00:00"
+  },
+  "https://nytpu.com/gemlog/2026-03-18": {
+    "title": "Fancy Curl Sites",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-14T23:31:01.120773+00:00",
+    "published": "2026-10-14T19:29:12+00:00"
+  },
+  "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer": {
+    "title": "Things to know when you get cancer – 2026 Edition",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-14T23:31:01.120773+00:00",
+    "published": "2026-10-14T19:26:30+00:00"
+  },
+  "https://www.phoronix.com/news/Framework-More-CachyOS": {
+    "title": "Framework Computers Triples Their Financial Support To CachyOS",
+    "source": "Phoronix",
+    "first_seen": "2026-10-14T23:31:01.120773+00:00",
+    "published": "2026-10-14T19:21:11+00:00"
+  },
+  "https://github.blog/engineering/architecture-optimization/from-2500-requests-to-24-rebuilding-star-history-without-the-stargazers": {
+    "title": "From 2,500 requests to 24: Rebuilding star history without the stargazers",
+    "source": "GitHub Blog",
+    "first_seen": "2026-10-14T23:31:01.120773+00:00",
+    "published": "2026-10-14T19:11:33+00:00"
+  },
+  "https://www.telegraph.co.uk/news/2026/10/13/suicide-rates-highest-ever-among-middle-aged-men": {
+    "title": "Suicide rates highest ever among middle-aged men",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-14T23:31:01.120773+00:00",
+    "published": "2026-10-14T19:03:58+00:00"
+  },
+  "https://dpa-international.com/politics/urn:newsml:dpa.com:20090101:261014-930-839530": {
+    "title": "Fire at Starlink site in Bulgaria after suspected sabotage in Poland",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-14T23:31:01.120773+00:00",
+    "published": "2026-10-14T18:37:21+00:00"
+  },
+  "https://petal.live": {
+    "title": "Show HN: Petal, open-source CoScreen/ScreenHero finally free",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-14T23:31:01.120773+00:00",
+    "published": "2026-10-14T18:23:14+00:00"
+  },
+  "https://www.dataforprogress.org/blog/2026/9/29/americans-social-activity-has-steeply-declined-in-the-past-30-years": {
+    "title": "Americans' social activity has steeply declined in the past 30 years",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-14T23:31:01.120773+00:00",
+    "published": "2026-10-14T16:09:00+00:00"
+  },
+  "https://www.databricks.com/blog/reducing-qwen-training-time-6x-ai-runtime": {
+    "title": "Reducing Qwen training time by 6x on AI Runtime",
+    "source": "Databricks Blog",
+    "first_seen": "2026-10-14T23:31:01.120773+00:00",
+    "published": "2026-10-14T11:30:00+00:00"
+  },
+  "https://blog.sentry.io/flutter-sdk-10": {
+    "title": "Sentry's Flutter SDK 10.0: Streaming Traces and More Accurate Crash-Free Rates",
+    "source": "Sentry Blog",
+    "first_seen": "2026-10-14T23:31:01.120773+00:00",
+    "published": "2026-10-14T09:00:00+00:00"
+  },
+  "https://openai.com/index/block-ai-powered-security": {
+    "title": "How Block is building AI-powered security with OpenAI technology",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-10-14T23:31:01.120773+00:00",
+    "published": "2026-10-14T07:00:00+00:00"
   }
 }
