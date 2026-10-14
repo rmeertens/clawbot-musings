@@ -106418,5 +106418,341 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-10-14T14:06:48.875915+00:00",
     "published": "2026-10-13T16:57:57+00:00"
+  },
+  "https://www.phoronix.com/news/Apple-Clang-SSAF-Driver": {
+    "title": "Apple Contributes SSAF Driver To LLVM Clang For Source Code Transformations",
+    "source": "Phoronix",
+    "first_seen": "2026-10-14T18:59:56.661312+00:00",
+    "published": "2026-10-14T18:45:29+00:00"
+  },
+  "https://www.kenklippenstein.com/p/how-the-military-will-hack-the-election": {
+    "title": "How the Military Will Hack the Election",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-14T18:59:56.661312+00:00",
+    "published": "2026-10-14T18:43:57+00:00"
+  },
+  "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote": {
+    "title": "Banks are now trying to offload the AI data center debt they just underwrote",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-14T18:59:56.661312+00:00",
+    "published": "2026-10-14T18:32:52+00:00"
+  },
+  "https://www.cnbc.com/2026/10/14/container-ship-sinks-strait-hormuz-as-iran-war-attacks.html": {
+    "title": "Container ship sinks in Strait of Hormuz as Iran steps up attacks",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-14T18:59:56.661312+00:00",
+    "published": "2026-10-14T18:20:44+00:00"
+  },
+  "https://nextjs.org/blog/nextjs-security-update-october-14-2026": {
+    "title": "Next.js Security Update for Upstream Vulnerabilities",
+    "source": "Next.js Blog",
+    "first_seen": "2026-10-14T18:59:56.661312+00:00",
+    "published": "2026-10-14T18:00:00+00:00"
+  },
+  "https://www.lawfaremedia.org/article/america-didn-t-lose-its-rare-earth-industry.-it-sold-it": {
+    "title": "America Didn't Lose Its Rare Earth Industry. It Sold It",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-14T18:59:56.661312+00:00",
+    "published": "2026-10-14T17:50:26+00:00"
+  },
+  "https://thenewstack.io/rogue-ai-agent-fleet-tencent": {
+    "title": "Researchers left a hidden message for rogue AI agents. Then the agents wrote back.",
+    "source": "The New Stack",
+    "first_seen": "2026-10-14T18:59:56.661312+00:00",
+    "published": "2026-10-14T17:47:11+00:00"
+  },
+  "https://github.com/bealesh/neckbeard": {
+    "title": "Neckbeard – a DevOps/platform/SRE plugin for your agent",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-14T18:59:56.661312+00:00",
+    "published": "2026-10-14T17:45:34+00:00"
+  },
+  "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html": {
+    "title": "AI agents aren't 'going rogue.' Frontier labs are skipping security basics",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-14T18:59:56.661312+00:00",
+    "published": "2026-10-14T17:45:23+00:00"
+  },
+  "https://thenewstack.io/kubernetes-hidden-latency-telemetry": {
+    "title": "Where do you look when Kubernetes is healthy but requests stall?",
+    "source": "The New Stack",
+    "first_seen": "2026-10-14T18:59:56.661312+00:00",
+    "published": "2026-10-14T17:43:51+00:00"
+  },
+  "https://grafana.com/blog/go-from-alert-to-post-incident-review-with-grafana-cloud-irm-and-ai": {
+    "title": "Go from alert to post-incident review with Grafana Cloud IRM and AI",
+    "source": "Grafana Blog",
+    "first_seen": "2026-10-14T18:59:56.661312+00:00",
+    "published": "2026-10-14T17:39:29+00:00"
+  },
+  "https://www.theguardian.com/us-news/2026/oct/14/dating-app-scams-us-congress": {
+    "title": "US report details extent of 'devastating' dating-app scams",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-14T18:59:56.661312+00:00",
+    "published": "2026-10-14T17:31:24+00:00"
+  },
+  "https://stackoverflow.blog/2026/10/14/your-next-job-doesn-t-have-a-title-yet-emerging-role-skills-q-and-a-with-corey-hymel-of-andela": {
+    "title": "Your next job doesn’t have a title yet: Emerging role skills Q&A with Corey Hymel of Andela",
+    "source": "Stack Overflow Blog",
+    "first_seen": "2026-10-14T18:59:56.661312+00:00",
+    "published": "2026-10-14T17:12:00+00:00"
+  },
+  "https://newsletter.pragmaticengineer.com/p/ubers-ai-infra-from-the-inside": {
+    "title": "Uber’s AI infra, from the inside",
+    "source": "The Pragmatic Engineer",
+    "first_seen": "2026-10-14T18:59:56.661312+00:00",
+    "published": "2026-10-14T17:06:56+00:00"
+  },
+  "https://clova.email": {
+    "title": "Show HN: I wrote an email app that accepts only one sender per inbox",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-14T18:59:56.661312+00:00",
+    "published": "2026-10-14T17:00:59+00:00"
+  },
+  "https://aws.amazon.com/blogs/compute/your-serverless-attendees-guide-to-aws-reinvent-2026": {
+    "title": "Your serverless attendee’s guide to AWS re:Invent 2026",
+    "source": "AWS Compute Blog",
+    "first_seen": "2026-10-14T18:59:56.661312+00:00",
+    "published": "2026-10-14T16:55:24+00:00"
+  },
+  "https://theconsensus.dev/blog/2026/10/14/has-ai-tells.html?focus=1": {
+    "title": "Has AI Tells",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-14T18:59:56.661312+00:00",
+    "published": "2026-10-14T16:52:42+00:00"
+  },
+  "https://www.extremetech.com/cars/teslas-robotaxis-blow-through-school-zones-nhtsa-petition-alleges": {
+    "title": "Tesla's Robotaxis Blow Through School Zones, NHTSA Petition Alleges",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-14T18:59:56.661312+00:00",
+    "published": "2026-10-14T16:45:19+00:00"
+  },
+  "https://go.dev/blog/http-connection-reuse": {
+    "title": "Better HTTP/1 connection reuse in Go 1.27",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-14T18:59:56.661312+00:00",
+    "published": "2026-10-14T16:29:33+00:00"
+  },
+  "https://www.androidauthority.com/google-auto-phone-number-verification-android-3723117": {
+    "title": "Google is silently linking your phone number across all signed-in accounts",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-14T18:59:56.661312+00:00",
+    "published": "2026-10-14T16:28:51+00:00"
+  },
+  "https://simonwillison.net/2026/Oct/14/ai-is-mass-decompiling-games": {
+    "title": "AI is mass decompiling games. That's both awesome and scary.",
+    "source": "Simon Willison",
+    "first_seen": "2026-10-14T18:59:56.661312+00:00",
+    "published": "2026-10-14T16:26:53+00:00"
+  },
+  "https://prospect.org/2026/10/14/ice-planning-nightmare-domestic-spy-program-ero-one": {
+    "title": "ICE Planning $100M 'Nightmare' Domestic Spy Program",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-14T18:59:56.661312+00:00",
+    "published": "2026-10-14T16:24:11+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/build-self-improving-document-processing-using-amazon-bedrock-agentcore": {
+    "title": "Build self-improving document processing using Amazon Bedrock AgentCore",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-10-14T18:59:56.661312+00:00",
+    "published": "2026-10-14T16:24:07+00:00"
+  },
+  "https://research.google/blog/research-2026-10-ways-were-amplifying-human-ingenuity": {
+    "title": "Research@ 2026: 10 ways we're amplifying human ingenuity",
+    "source": "Google Research",
+    "first_seen": "2026-10-14T18:59:56.661312+00:00",
+    "published": "2026-10-14T16:14:34+00:00"
+  },
+  "https://research.google/blog/putting-earth-ai-to-work-geospatial-agents-for-our-planets-biggest-challenges": {
+    "title": "Putting Earth AI to work: Geospatial agents for our planet's biggest challenges",
+    "source": "Google Research",
+    "first_seen": "2026-10-14T18:59:56.661312+00:00",
+    "published": "2026-10-14T16:14:00+00:00"
+  },
+  "https://research.google/blog/analyzing-technical-documents-with-deep-review": {
+    "title": "Analyzing technical documents with Deep Review",
+    "source": "Google Research",
+    "first_seen": "2026-10-14T18:59:56.661312+00:00",
+    "published": "2026-10-14T16:14:00+00:00"
+  },
+  "https://huggingface.co/blog/allenai/hiro-acev2": {
+    "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-10-14T18:59:56.661312+00:00",
+    "published": "2026-10-14T16:12:42+00:00"
+  },
+  "https://developer.nvidia.com/blog/optimizing-agent-reliability-and-tool-calling-efficiency-for-chip-design-using-nvidia-nemo-gym": {
+    "title": "Optimizing Agent Reliability and Tool Calling Efficiency for Chip Design Using NVIDIA NeMo Gym",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-10-14T18:59:56.661312+00:00",
+    "published": "2026-10-14T16:10:45+00:00"
+  },
+  "https://oxide.computer/blog/voxel-labs": {
+    "title": "Virtual Oxide Labs: Emulating a Full Oxide Rack",
+    "source": "Oxide Computer",
+    "first_seen": "2026-10-14T18:59:56.661312+00:00",
+    "published": "2026-10-14T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-new-gemini-notebook-can-help-cisos-policymakers-prepare-for-pqc": {
+    "title": "Cloud CISO Perspectives: New Gemini Notebook can help CISOs and policymakers prepare for PQC",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-10-14T18:59:56.661312+00:00",
+    "published": "2026-10-14T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/data-analytics/using-bigquerys-generative-ai-cost-management-features": {
+    "title": "Predictable AI spend in BigQuery: Introducing cost management for generative AI functions",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-10-14T18:59:56.661312+00:00",
+    "published": "2026-10-14T16:00:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/building-node-js-applications-with-sequelize-orm-and-amazon-aurora-dsql": {
+    "title": "Building Node.js applications with Sequelize ORM and Amazon Aurora DSQL",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-10-14T18:59:56.661312+00:00",
+    "published": "2026-10-14T15:56:52+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/reducing-storage-initialization-impact-in-amazon-rds-for-postgresql-after-snapshot-restore": {
+    "title": "Reducing storage initialization impact in Amazon RDS for PostgreSQL after snapshot restore",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-10-14T18:59:56.661312+00:00",
+    "published": "2026-10-14T15:52:26+00:00"
+  },
+  "https://www.phoronix.com/news/Easy-Anti-Cheat-Better-Linux": {
+    "title": "Epic Games To Improve Easy Anti-Cheat On Linux With Anti-Cheat Systemd Service & eBPF",
+    "source": "Phoronix",
+    "first_seen": "2026-10-14T18:59:56.661312+00:00",
+    "published": "2026-10-14T15:39:04+00:00"
+  },
+  "https://blog.apnic.net/2026/10/14/submarine-cable-resilience": {
+    "title": "Submarine cable resilience",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-14T18:59:56.661312+00:00",
+    "published": "2026-10-14T15:31:15+00:00"
+  },
+  "https://blog.bytebytego.com/p/the-terminator-problem-how-teaching": {
+    "title": "The Terminator Problem: How Teaching an LLM One Bad Habit Can Change Its Behavior",
+    "source": "ByteByteGo",
+    "first_seen": "2026-10-14T18:59:56.661312+00:00",
+    "published": "2026-10-14T15:30:42+00:00"
+  },
+  "https://github.com/graphicle-ai/graphicle": {
+    "title": "Show HN: Graphicle, a Rust port of Graphify with memory for coding agents",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-14T18:59:56.661312+00:00",
+    "published": "2026-10-14T15:00:41+00:00"
+  },
+  "https://thenewstack.io/ai-prototypes-database-replatforming": {
+    "title": "Your database decision could come back to haunt you",
+    "source": "The New Stack",
+    "first_seen": "2026-10-14T18:59:56.661312+00:00",
+    "published": "2026-10-14T15:00:00+00:00"
+  },
+  "https://www.qawolf.com/blog/how-we-solved-windows-desktop-automation": {
+    "title": "Running Windows desktop tests from Linux with disposable VMs",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-14T18:59:56.661312+00:00",
+    "published": "2026-10-14T14:55:19+00:00"
+  },
+  "https://brooker.co.za:443/blog/2026/10/04/encoders.html": {
+    "title": "Strands Decider: Why Not an Encoder?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-14T18:59:56.661312+00:00",
+    "published": "2026-10-14T14:40:03+00:00"
+  },
+  "https://thenewstack.io/agentic-ai-production-readiness": {
+    "title": "Why 88% of AI pilots never make it to production",
+    "source": "The New Stack",
+    "first_seen": "2026-10-14T18:59:56.661312+00:00",
+    "published": "2026-10-14T14:38:57+00:00"
+  },
+  "https://aws.amazon.com/blogs/architecture/multi-region-disaster-recovery-for-amazon-api-gateway-websocket-apis": {
+    "title": "Multi-region disaster recovery for Amazon API Gateway WebSocket APIs",
+    "source": "AWS Architecture Blog",
+    "first_seen": "2026-10-14T18:59:56.661312+00:00",
+    "published": "2026-10-14T14:31:55+00:00"
+  },
+  "https://aws.amazon.com/blogs/architecture/how-uts-established-a-modern-curriculum-data-services-foundation-on-aws": {
+    "title": "How UTS established a modern curriculum data services foundation on AWS",
+    "source": "AWS Architecture Blog",
+    "first_seen": "2026-10-14T18:59:56.661312+00:00",
+    "published": "2026-10-14T14:29:10+00:00"
+  },
+  "https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering": {
+    "title": "U.K. Sanctions Cryptomus for RU Money Laundering",
+    "source": "Krebs on Security",
+    "first_seen": "2026-10-14T18:59:56.661312+00:00",
+    "published": "2026-10-14T14:22:49+00:00"
+  },
+  "https://martinfowler.com/articles/never-send-slides/build-your-slide-template.html": {
+    "title": "Build your slide template",
+    "source": "Martin Fowler",
+    "first_seen": "2026-10-14T18:59:56.661312+00:00",
+    "published": "2026-10-14T14:20:00+00:00"
+  },
+  "https://www.phoronix.com/review/ubuntu-2610-amd64v3-epyc": {
+    "title": "Ubuntu 26.10 amd64v3 Packages Provide Some Additional Uplift On AMD EPYC",
+    "source": "Phoronix",
+    "first_seen": "2026-10-14T18:59:56.661312+00:00",
+    "published": "2026-10-14T14:16:17+00:00"
+  },
+  "https://realpython.com/ai-benchmark-gemini-4-argon": {
+    "title": "Gemini 4 Argon Draws a Python Reading a Book",
+    "source": "Real Python",
+    "first_seen": "2026-10-14T18:59:56.661312+00:00",
+    "published": "2026-10-14T14:00:00+00:00"
+  },
+  "https://e360.yale.edu/digest/teaching-birds-lost-songs": {
+    "title": "Scientists Are Teaching Birds to Sing Lost Songs",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-14T18:59:56.661312+00:00",
+    "published": "2026-10-14T13:20:44+00:00"
+  },
+  "https://dfarq.homeip.net/nvidias-first-gpu-geforce-256": {
+    "title": "Nvidia's first GPU: GeForce 256",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-14T18:59:56.661312+00:00",
+    "published": "2026-10-14T12:05:44+00:00"
+  },
+  "https://openai.com/index/sentinelone": {
+    "title": "SentinelOne cuts malware analysis from weeks to hours",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-10-14T18:59:56.661312+00:00",
+    "published": "2026-10-14T12:00:00+00:00"
+  },
+  "https://openai.com/index/amp-beyond-coding": {
+    "title": "Amp puts AI agents to work beyond code with OpenAI models",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-10-14T18:59:56.661312+00:00",
+    "published": "2026-10-14T12:00:00+00:00"
+  },
+  "https://openai.com/index/third-moment-research": {
+    "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-10-14T18:59:56.661312+00:00",
+    "published": "2026-10-14T07:00:00+00:00"
+  },
+  "https://planetscale.com/blog/neki-volatile-expressions": {
+    "title": "Sequences and other volatiles in Neki",
+    "source": "PlanetScale Blog",
+    "first_seen": "2026-10-14T18:59:56.661312+00:00",
+    "published": "2026-10-14T00:00:00+00:00"
+  },
+  "https://machinelearning.apple.com/research/tri-modal-masked-diffusion": {
+    "title": "The Design Space of Tri-Modal Masked Diffusion Models",
+    "source": "Apple ML Journal",
+    "first_seen": "2026-10-14T18:59:56.661312+00:00",
+    "published": "2026-10-14T00:00:00+00:00"
+  },
+  "https://machinelearning.apple.com/research/code-switching-detection": {
+    "title": "Code-Switching Detection via Language-Selective Dimensions in Speech Foundation Models",
+    "source": "Apple ML Journal",
+    "first_seen": "2026-10-14T18:59:56.661312+00:00",
+    "published": "2026-10-14T00:00:00+00:00"
+  },
+  "https://www.databricks.com/blog/everyones-adopting-ai-agents-almost-no-one-can-prove-roi-heres-why": {
+    "title": "Everyone's adopting AI agents. Almost no one can prove the ROI. Here's why",
+    "source": "Databricks Blog",
+    "first_seen": "2026-10-14T18:59:56.661312+00:00",
+    "published": "2026-10-13T18:41:48+00:00"
   }
 }
