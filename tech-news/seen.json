@@ -106958,5 +106958,197 @@
     "source": "OpenAI Blog",
     "first_seen": "2026-10-14T23:31:01.120773+00:00",
     "published": "2026-10-14T07:00:00+00:00"
+  },
+  "https://martinfowler.com/articles/software-meets-hardware.html": {
+    "title": "When Software Meets Hardware",
+    "source": "Martin Fowler",
+    "first_seen": "2026-10-15T13:45:02.337621+00:00",
+    "published": "2026-10-15T13:25:00+00:00"
+  },
+  "https://lwn.net/Articles/1100787": {
+    "title": "KDE releases documentary",
+    "source": "LWN.net",
+    "first_seen": "2026-10-15T13:45:02.337621+00:00",
+    "published": "2026-10-15T13:24:31+00:00"
+  },
+  "https://lwn.net/Articles/1100786": {
+    "title": "Ubuntu 26.10 released",
+    "source": "LWN.net",
+    "first_seen": "2026-10-15T13:45:02.337621+00:00",
+    "published": "2026-10-15T13:19:23+00:00"
+  },
+  "https://lwn.net/Articles/1100785": {
+    "title": "Security updates for Thursday",
+    "source": "LWN.net",
+    "first_seen": "2026-10-15T13:45:02.337621+00:00",
+    "published": "2026-10-15T13:09:44+00:00"
+  },
+  "https://simonwillison.net/2026/Oct/15/anthropic-tells-investors": {
+    "title": "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO",
+    "source": "Simon Willison",
+    "first_seen": "2026-10-15T13:45:02.337621+00:00",
+    "published": "2026-10-15T13:04:03+00:00"
+  },
+  "https://lwn.net/Articles/1100611": {
+    "title": "Seven stable kernels for Thursday with fix for critical vulnerability",
+    "source": "LWN.net",
+    "first_seen": "2026-10-15T13:45:02.337621+00:00",
+    "published": "2026-10-15T13:01:31+00:00"
+  },
+  "https://thenewstack.io/ai-code-confidence-gap": {
+    "title": "The code confidence gap nobody’s talking about",
+    "source": "The New Stack",
+    "first_seen": "2026-10-15T13:45:02.337621+00:00",
+    "published": "2026-10-15T13:00:00+00:00"
+  },
+  "https://blog.cloudflare.com/cloudflare-openai-discovery-agentic-web": {
+    "title": "Cloudflare and OpenAI: making AI discovery better for everyone",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-10-15T13:45:02.337621+00:00",
+    "published": "2026-10-15T13:00:00+00:00"
+  },
+  "https://www.theguardian.com/technology/2026/oct/15/israeli-firm-digital-ads-enabling-installation-of-zero-click-spyware-researchers-say": {
+    "title": "Israeli firm's digital ads enabling installation of 'zero-click' spyware",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-15T13:45:02.337621+00:00",
+    "published": "2026-10-15T12:58:32+00:00"
+  },
+  "https://libreboot.org/news/libreboot2610.html": {
+    "title": "Libreboot 26.10 \"Ominous Olive\" released with UEFI, Chromebook support",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-15T13:45:02.337621+00:00",
+    "published": "2026-10-15T12:52:16+00:00"
+  },
+  "https://www.theregister.com/security/2026/10/15/x-purges-13000-accounts-linked-to-suspected-meddling-ahead-of-us-midterms/5303234": {
+    "title": "X purges 13,000 accounts linked to suspected meddling ahead of US midterms",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-15T13:45:02.337621+00:00",
+    "published": "2026-10-15T12:45:59+00:00"
+  },
+  "https://thenewstack.io/agentic-ai-retrieval-problem": {
+    "title": "Agentic AI doesn’t have a model problem. It has a retrieval problem.",
+    "source": "The New Stack",
+    "first_seen": "2026-10-15T13:45:02.337621+00:00",
+    "published": "2026-10-15T12:00:00+00:00"
+  },
+  "https://realpython.com/quizzes/python-pyqt-layout": {
+    "title": "Quiz: PyQt Layouts: Create Professional-Looking GUI Applications",
+    "source": "Real Python",
+    "first_seen": "2026-10-15T13:45:02.337621+00:00",
+    "published": "2026-10-15T12:00:00+00:00"
+  },
+  "https://lists.ubuntu.com/archives/ubuntu-announce/2026-October/000330.html": {
+    "title": "Ubuntu 26.10 (Stonking Stingray) released",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-15T13:45:02.337621+00:00",
+    "published": "2026-10-15T11:59:09+00:00"
+  },
+  "https://unfenced.land": {
+    "title": "Show HN: Unfenced – Land for sale that borders public land",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-15T13:45:02.337621+00:00",
+    "published": "2026-10-15T11:38:57+00:00"
+  },
+  "https://www.phoronix.com/news/Ubuntu-26.10-Released": {
+    "title": "Ubuntu 26.10 Released With Linux 7.3 + GNOME 51, Rust Coreutils Migration Complete",
+    "source": "Phoronix",
+    "first_seen": "2026-10-15T13:45:02.337621+00:00",
+    "published": "2026-10-15T11:19:06+00:00"
+  },
+  "https://www.phoronix.com/news/Huawei-Proposes-Boost-Default": {
+    "title": "Huawei Proposes Enabling CPU Boost By Default For ACPI CPPC Linux Driver",
+    "source": "Phoronix",
+    "first_seen": "2026-10-15T13:45:02.337621+00:00",
+    "published": "2026-10-15T10:24:24+00:00"
+  },
+  "https://www.phoronix.com/news/Mutter-2nd-GPU-Damage-Track": {
+    "title": "GNOME Mutter Improves Damage Tracking For Secondary GPU Copy Buffers",
+    "source": "Phoronix",
+    "first_seen": "2026-10-15T13:45:02.337621+00:00",
+    "published": "2026-10-15T10:12:29+00:00"
+  },
+  "https://www.phoronix.com/news/Microsoft-Defender-For-Linux-D": {
+    "title": "Microsoft Releases Microsoft Defender For The Linux Desktop",
+    "source": "Phoronix",
+    "first_seen": "2026-10-15T13:45:02.337621+00:00",
+    "published": "2026-10-15T09:52:45+00:00"
+  },
+  "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes": {
+    "title": "Apertus 1.5 Release Notes",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-10-15T13:45:02.337621+00:00",
+    "published": "2026-10-15T09:08:45+00:00"
+  },
+  "https://github.com/andunieee/flipflop": {
+    "title": "Show HN: Flipflop, Iroh-powered persistent tunnels for filesharing",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-15T13:45:02.337621+00:00",
+    "published": "2026-10-15T04:25:28+00:00"
+  },
+  "https://blog.demofox.org/2026/10/03/the-double-headed-stack-allocator": {
+    "title": "The Double Headed Stack Allocator",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-15T13:45:02.337621+00:00",
+    "published": "2026-10-15T02:06:36+00:00"
+  },
+  "https://lwn.net/Articles/1099247": {
+    "title": "[$] LWN.net Weekly Edition for October 15, 2026",
+    "source": "LWN.net",
+    "first_seen": "2026-10-15T13:45:02.337621+00:00",
+    "published": "2026-10-15T00:04:00+00:00"
+  },
+  "https://www.thoughtworks.com/insights/blog/technology-strategy/the-shift-to-the-ai-first-enterprise-technology-forum-2026-insights": {
+    "title": "The shift to the AI-first enterprise: Insights from technology leaders forum",
+    "source": "ThoughtWorks",
+    "first_seen": "2026-10-15T13:45:02.337621+00:00",
+    "published": "2026-10-15T00:00:00+00:00"
+  },
+  "https://www.thoughtworks.com/insights/blog/technology-strategy/the-future-of-saas-in-the-agentic-world--beyond-the-disruption-n": {
+    "title": "The future of SaaS in the agentic world: Beyond the disruption narrative",
+    "source": "ThoughtWorks",
+    "first_seen": "2026-10-15T13:45:02.337621+00:00",
+    "published": "2026-10-15T00:00:00+00:00"
+  },
+  "https://www.thoughtworks.com/insights/blog/generative-ai/evaluating-decision-models-for-document-categorization": {
+    "title": "Evaluating decision models for document categorization",
+    "source": "ThoughtWorks",
+    "first_seen": "2026-10-15T13:45:02.337621+00:00",
+    "published": "2026-10-15T00:00:00+00:00"
+  },
+  "https://nodeweekly.com/issues/644": {
+    "title": "The NodeConf EU 2026 talks are online",
+    "source": "Node Weekly",
+    "first_seen": "2026-10-15T13:45:02.337621+00:00",
+    "published": "2026-10-15T00:00:00+00:00"
+  },
+  "https://www.liquid.ai/blog/lfm2-5-24b-a2b": {
+    "title": "LFM2.5-24B-A2B: Built for fast on-device agents",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-15T13:45:02.337621+00:00",
+    "published": "2026-10-14T23:59:37+00:00"
+  },
+  "https://uji.sh/ito": {
+    "title": "Show HN: Ito – Build Terminal UIs in Lua",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-15T13:45:02.337621+00:00",
+    "published": "2026-10-14T22:23:53+00:00"
+  },
+  "https://simonwillison.net/2026/Oct/14/tree-appreciator": {
+    "title": "Tree Appreciator",
+    "source": "Simon Willison",
+    "first_seen": "2026-10-15T13:45:02.337621+00:00",
+    "published": "2026-10-14T21:23:01+00:00"
+  },
+  "https://kubernetes.io/blog/2026/10/14/tracing-kueue-admission-with-headlamp": {
+    "title": "Why Is My Kubernetes Job Still Pending? Tracing Kueue Admission with Headlamp",
+    "source": "Kubernetes Blog",
+    "first_seen": "2026-10-15T13:45:02.337621+00:00",
+    "published": "2026-10-14T18:35:00+00:00"
+  },
+  "https://realpython.com/python-application-layouts": {
+    "title": "Python Project Structure: How to Choose the Right Layout",
+    "source": "Real Python",
+    "first_seen": "2026-10-15T13:45:02.337621+00:00",
+    "published": "2026-10-14T14:00:00+00:00"
   }
 }
