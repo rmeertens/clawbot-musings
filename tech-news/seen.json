@@ -107150,5 +107150,389 @@
     "source": "Real Python",
     "first_seen": "2026-10-15T13:45:02.337621+00:00",
     "published": "2026-10-14T14:00:00+00:00"
+  },
+  "https://engineering.fb.com/2026/10/15/production-engineering/2026-world-cup-record-traffic-reliability-at-scale": {
+    "title": "2026 World Cup: Breaking Records, Spiky Charts and Reliability at Scale",
+    "source": "Meta Engineering",
+    "first_seen": "2026-10-15T18:43:53.809612+00:00",
+    "published": "2026-10-15T18:30:29+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/dbt-and-amazon-redshift-data-sharing-multi-cluster-pipelines-without-moving-a-byte": {
+    "title": "dbt and Amazon Redshift Data Sharing: Multi-cluster pipelines without moving a byte",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-10-15T18:43:53.809612+00:00",
+    "published": "2026-10-15T18:01:07+00:00"
+  },
+  "https://developer.nvidia.com/blog/nvidia-nemotron-3-5-super-vl-powers-specialized-agents-with-multimodal-reasoning": {
+    "title": "NVIDIA Nemotron 3.5 Super VL Powers Specialized Agents with Multimodal Reasoning",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-10-15T18:43:53.809612+00:00",
+    "published": "2026-10-15T18:01:00+00:00"
+  },
+  "https://developer.nvidia.com/blog/scale-agentic-coding-workflows-with-metas-muse-spark-open-on-nvidia-gb300-nvl72": {
+    "title": "Scale Agentic Coding Workflows with Meta’s Muse Spark Open on NVIDIA GB300 NVL72",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-10-15T18:43:53.809612+00:00",
+    "published": "2026-10-15T18:00:01+00:00"
+  },
+  "https://www.phoronix.com/news/memtest86-Plus-9.0": {
+    "title": "Memtest86+ v9.00 Released With Support For ARM64 Memory Testing",
+    "source": "Phoronix",
+    "first_seen": "2026-10-15T18:43:53.809612+00:00",
+    "published": "2026-10-15T17:58:00+00:00"
+  },
+  "https://pytorch.org/blog/muse-spark-open": {
+    "title": "Muse Spark 1.2 Is Now Open Weights",
+    "source": "PyTorch Blog",
+    "first_seen": "2026-10-15T18:43:53.809612+00:00",
+    "published": "2026-10-15T17:55:52+00:00"
+  },
+  "https://thenewstack.io/openai-gpt4o-api-shutdown": {
+    "title": "OpenAI promised developers six months’ notice. GPT-4o users got three.",
+    "source": "The New Stack",
+    "first_seen": "2026-10-15T18:43:53.809612+00:00",
+    "published": "2026-10-15T17:52:00+00:00"
+  },
+  "https://research.meta.ai/blog/muse-spark-open": {
+    "title": "Muse Spark Open",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-15T18:43:53.809612+00:00",
+    "published": "2026-10-15T17:47:39+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/metas-muse-spark-open-now-available-in-amazon-sagemaker-jumpstart": {
+    "title": "Meta’s Muse Spark Open now available in Amazon SageMaker JumpStart",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-10-15T18:43:53.809612+00:00",
+    "published": "2026-10-15T17:43:35+00:00"
+  },
+  "https://www.anthropic.com/news/an-update-on-independent-evaluators": {
+    "title": "An update on independent evaluators",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-15T18:43:53.809612+00:00",
+    "published": "2026-10-15T17:30:10+00:00"
+  },
+  "https://opentelemetry.io/blog/2026/humans-of-otel-japan": {
+    "title": "The Humans of OpenTelemetry - KubeCon Japan 2026",
+    "source": "OpenTelemetry Blog",
+    "first_seen": "2026-10-15T18:43:53.809612+00:00",
+    "published": "2026-10-15T17:11:30+00:00"
+  },
+  "https://blog.cloudflare.com/programmable-gateway-dlp": {
+    "title": "A fully programmable secure web gateway",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-10-15T18:43:53.809612+00:00",
+    "published": "2026-10-15T17:11:12+00:00"
+  },
+  "https://sunshowers.io/posts/anthropic-mononoke-2": {
+    "title": "More on Anthropic's Scion ripping off Mononoke",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-15T18:43:53.809612+00:00",
+    "published": "2026-10-15T17:05:19+00:00"
+  },
+  "https://www.theverge.com/tech/1011956/discover-tech-zero-click-ads-spyware": {
+    "title": "An Israeli firm is sending zero-click spyware through online ads",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-15T18:43:53.809612+00:00",
+    "published": "2026-10-15T17:01:56+00:00"
+  },
+  "https://thenewstack.io/meta-muse-spark-open": {
+    "title": "Meta ships Muse Spark Open, its answer to China’s best open-weight models",
+    "source": "The New Stack",
+    "first_seen": "2026-10-15T18:43:53.809612+00:00",
+    "published": "2026-10-15T17:00:00+00:00"
+  },
+  "https://stackoverflow.blog/2026/10/15/your-team-shouldnt-build-an-ai-context-layer": {
+    "title": "Why your platform team shouldn't build an AI context layer (even though they probably could)",
+    "source": "Stack Overflow Blog",
+    "first_seen": "2026-10-15T18:43:53.809612+00:00",
+    "published": "2026-10-15T17:00:00+00:00"
+  },
+  "https://newsletter.pragmaticengineer.com/p/the-pulse-openai-software-engineer": {
+    "title": "The Pulse: OpenAI software engineer accused of spying",
+    "source": "The Pragmatic Engineer",
+    "first_seen": "2026-10-15T18:43:53.809612+00:00",
+    "published": "2026-10-15T16:55:18+00:00"
+  },
+  "https://devblogs.microsoft.com/dotnet/introducing-dotnetup": {
+    "title": "Introducing dotnetup: A toolchain manager for .NET",
+    "source": "MS .NET Blog",
+    "first_seen": "2026-10-15T18:43:53.809612+00:00",
+    "published": "2026-10-15T16:50:00+00:00"
+  },
+  "https://sygal.app": {
+    "title": "Show HN: Sygal – Convert PDFs, scans and web pages to Markdown, locally",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-15T18:43:53.809612+00:00",
+    "published": "2026-10-15T16:26:16+00:00"
+  },
+  "https://zachlandes.com/trolley-problem": {
+    "title": "Jev Meets the Trolley Problem",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-15T18:43:53.809612+00:00",
+    "published": "2026-10-15T16:24:52+00:00"
+  },
+  "https://www.bipm.org/en/cgpm-2026/resolution-5": {
+    "title": "The technical actions needed to ensure the continuity of UTC",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-15T18:43:53.809612+00:00",
+    "published": "2026-10-15T16:11:36+00:00"
+  },
+  "https://aws.amazon.com/blogs/security/aws-security-agent-now-part-of-aws-continuum-exploited-33-of-37-new-real-world-cves": {
+    "title": "AWS Security Agent (now part of AWS Continuum) exploited 33 of 37 new real-world CVEs",
+    "source": "AWS Security Blog",
+    "first_seen": "2026-10-15T18:43:53.809612+00:00",
+    "published": "2026-10-15T16:10:14+00:00"
+  },
+  "https://deepmind.google/blog/accelerating-antimicrobial-discovery": {
+    "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+    "source": "DeepMind Blog",
+    "first_seen": "2026-10-15T18:43:53.809612+00:00",
+    "published": "2026-10-15T16:08:03+00:00"
+  },
+  "https://www.krea.ai/krea-3": {
+    "title": "Krea 3 – An image model built for editing at scale",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-15T18:43:53.809612+00:00",
+    "published": "2026-10-15T16:04:05+00:00"
+  },
+  "https://already-clean.goodfire.com": {
+    "title": "Neural networks are clean",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-15T18:43:53.809612+00:00",
+    "published": "2026-10-15T16:04:01+00:00"
+  },
+  "https://respawnfirst.com/steam-client-is-now-faster-than-epics-new-vibe-coded-launcher": {
+    "title": "Steam Client is now faster than Epic's new vibe coded launcher",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-15T18:43:53.809612+00:00",
+    "published": "2026-10-15T16:03:19+00:00"
+  },
+  "https://engineering.fb.com/2026/10/15/developer-tools/sapienz-issta-2026-impact-paper-award-meta": {
+    "title": "Sapienz Receives ISSTA 2026 Impact Paper Award",
+    "source": "Meta Engineering",
+    "first_seen": "2026-10-15T18:43:53.809612+00:00",
+    "published": "2026-10-15T16:00:59+00:00"
+  },
+  "https://thenewstack.io/nvidia-nemotron-bolt-laptop": {
+    "title": "Nvidia squeezed a 74B agent model into 24GB so it can run on your laptop",
+    "source": "The New Stack",
+    "first_seen": "2026-10-15T18:43:53.809612+00:00",
+    "published": "2026-10-15T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/topics/startups/what-the-gemini-agent-means-for-startups": {
+    "title": "What the Gemini agent means for startups",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-10-15T18:43:53.809612+00:00",
+    "published": "2026-10-15T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/serverless/temporal-serverless-workers-on-cloud-run-worker-pools": {
+    "title": "Temporal Serverless Workers on Cloud Run: Scale workers ahead of demand",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-10-15T18:43:53.809612+00:00",
+    "published": "2026-10-15T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/media-entertainment/how-visko-streams-real-time-world-models-on-google-cloud-tpus": {
+    "title": "How Visko streams real-time world models on Google Cloud TPUs",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-10-15T18:43:53.809612+00:00",
+    "published": "2026-10-15T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/identity-security/introducing-new-scalable-perimeter-options-with-vpc-service-controls": {
+    "title": "Modernizing perimeter security: Scalable perimeters with VPC Service Controls",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-10-15T18:43:53.809612+00:00",
+    "published": "2026-10-15T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/data-analytics/borderless-lakehouse-integrates-with-gemini": {
+    "title": "Bringing the borderless Lakehouse into the agentic era with innovations for Gemini",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-10-15T18:43:53.809612+00:00",
+    "published": "2026-10-15T16:00:00+00:00"
+  },
+  "https://proa.so": {
+    "title": "Show HN: Proa – A Rust web framework with fast SSR and multi-target rendering",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-15T18:43:53.809612+00:00",
+    "published": "2026-10-15T15:52:08+00:00"
+  },
+  "https://aws.amazon.com/blogs/architecture/how-dynata-scaled-ai-across-the-development-lifecycle-with-ai-dlc-and-kiro-ide": {
+    "title": "How Dynata scaled AI across the development lifecycle with AI-DLC and Kiro IDE",
+    "source": "AWS Architecture Blog",
+    "first_seen": "2026-10-15T18:43:53.809612+00:00",
+    "published": "2026-10-15T15:50:31+00:00"
+  },
+  "https://blog.bytebytego.com/p/how-to-design-for-failures": {
+    "title": "How to Design for Failures",
+    "source": "ByteByteGo",
+    "first_seen": "2026-10-15T18:43:53.809612+00:00",
+    "published": "2026-10-15T15:31:01+00:00"
+  },
+  "https://lwn.net/Articles/1098493": {
+    "title": "[$] Vendor hooks in the Android kernel",
+    "source": "LWN.net",
+    "first_seen": "2026-10-15T18:43:53.809612+00:00",
+    "published": "2026-10-15T15:09:15+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/trust-in-depth-giving-agents-more-autonomy-without-losing-control": {
+    "title": "Trust in Depth: Giving agents more autonomy without losing control",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-10-15T18:43:53.809612+00:00",
+    "published": "2026-10-15T15:05:35+00:00"
+  },
+  "https://fortran-lang.org/news/2026/09-15-Fortran-birthday": {
+    "title": "Celebrating 70 Years of Fortran",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-15T18:43:53.809612+00:00",
+    "published": "2026-10-15T15:03:17+00:00"
+  },
+  "https://thenewstack.io/becoming-an-ai-company": {
+    "title": "What it takes to become an AI company: Four lessons from the top",
+    "source": "The New Stack",
+    "first_seen": "2026-10-15T18:43:53.809612+00:00",
+    "published": "2026-10-15T15:00:00+00:00"
+  },
+  "https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era": {
+    "title": "Simons Foundation launches $15M effort to help mathematicians navigate AI era",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-15T18:43:53.809612+00:00",
+    "published": "2026-10-15T14:58:48+00:00"
+  },
+  "https://www.phoronix.com/news/Dasharo-0.9-ASRock-SPC741D8": {
+    "title": "3mdeb Releases Updated Dasharo/Coreboot Firmware For ASRock Rack SPC741D8-2L2T",
+    "source": "Phoronix",
+    "first_seen": "2026-10-15T18:43:53.809612+00:00",
+    "published": "2026-10-15T14:56:51+00:00"
+  },
+  "https://thenewstack.io/anthropic-opaque-confidential-computing": {
+    "title": "Anthropic’s been eyeing confidential AI. It just made its move with another acquihire.",
+    "source": "The New Stack",
+    "first_seen": "2026-10-15T18:43:53.809612+00:00",
+    "published": "2026-10-15T14:43:55+00:00"
+  },
+  "https://pytorch.org/blog/bringing-executorch-to-arm-cortex-m-cpus": {
+    "title": "Bringing ExecuTorch to Arm Cortex-M CPUs",
+    "source": "PyTorch Blog",
+    "first_seen": "2026-10-15T18:43:53.809612+00:00",
+    "published": "2026-10-15T14:40:35+00:00"
+  },
+  "https://www.signalscorps.com/blog/prompt-injection-in-http-headers": {
+    "title": "Prompt injection in HTTP headers: what 217M web responses show",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-15T18:43:53.809612+00:00",
+    "published": "2026-10-15T14:36:22+00:00"
+  },
+  "https://www.phoronix.com/news/AI-Reverse-Engineer-Linux-HW": {
+    "title": "Claude Code / AI Shows Potential For Reverse-Engineering Hardware For Linux Support",
+    "source": "Phoronix",
+    "first_seen": "2026-10-15T18:43:53.809612+00:00",
+    "published": "2026-10-15T14:29:06+00:00"
+  },
+  "https://thenewstack.io/akrites-ai-vulnerability-reports": {
+    "title": "“Everybody with a $20 account is now a researcher”: How Akrites is tackling the flood of AI bug reports",
+    "source": "The New Stack",
+    "first_seen": "2026-10-15T18:43:53.809612+00:00",
+    "published": "2026-10-15T14:28:20+00:00"
+  },
+  "https://www.construction-physics.com/p/how-to-train-your-robot": {
+    "title": "How to Train Your Robot",
+    "source": "Construction Physics",
+    "first_seen": "2026-10-15T18:43:53.809612+00:00",
+    "published": "2026-10-15T14:23:58+00:00"
+  },
+  "https://thenewstack.io/anthropic-scion-git-replacement": {
+    "title": "Anthropic built its own git replacement for AI-scale coding. But you can’t have it.",
+    "source": "The New Stack",
+    "first_seen": "2026-10-15T18:43:53.809612+00:00",
+    "published": "2026-10-15T14:12:53+00:00"
+  },
+  "https://thenewstack.io/least-privilege-ai-agents": {
+    "title": "The permission you denied today is your safety net for tomorrow",
+    "source": "The New Stack",
+    "first_seen": "2026-10-15T18:43:53.809612+00:00",
+    "published": "2026-10-15T14:00:00+00:00"
+  },
+  "https://blog.cloudflare.com/deploy-with-void": {
+    "title": "Deploy with Void",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-10-15T18:43:53.809612+00:00",
+    "published": "2026-10-15T14:00:00+00:00"
+  },
+  "https://grafana.com/blog/coverage-first-or-cost-first-two-ways-to-automatically-apply-adaptive-metrics-recommendations": {
+    "title": "Coverage-first or cost-first: two ways to automatically apply Adaptive Metrics' recommendations",
+    "source": "Grafana Blog",
+    "first_seen": "2026-10-15T18:43:53.809612+00:00",
+    "published": "2026-10-15T13:50:51+00:00"
+  },
+  "https://www.derekthompson.org/p/i-know-why-the-mathematicians-weep": {
+    "title": "I Know Why the Mathematicians Weep",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-15T18:43:53.809612+00:00",
+    "published": "2026-10-15T13:44:32+00:00"
+  },
+  "https://github.com/fyzugx/DEsk": {
+    "title": "Wayland desktop for Linux with skeuomorphic design",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-15T18:43:53.809612+00:00",
+    "published": "2026-10-15T13:23:44+00:00"
+  },
+  "https://github.com/konieczkow/gridsnap": {
+    "title": "GridSnap – an open-source Divvy-style window snapper for macOS",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-15T18:43:53.809612+00:00",
+    "published": "2026-10-15T13:19:07+00:00"
+  },
+  "https://www.cppstories.com/2026/cpp26_contracts": {
+    "title": "C++26 Contracts: Introduction to Preconditions and Postconditions",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-15T18:43:53.809612+00:00",
+    "published": "2026-10-15T13:11:26+00:00"
+  },
+  "https://openai.com/index/teaching-students-to-think-and-learn-through-questions": {
+    "title": "Teaching students to think and learn through questions",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-10-15T18:43:53.809612+00:00",
+    "published": "2026-10-15T13:00:00+00:00"
+  },
+  "https://neon.com/blog/neon-now-has-realtime": {
+    "title": "Neon now has realtime",
+    "source": "Neon Blog",
+    "first_seen": "2026-10-15T18:43:53.809612+00:00",
+    "published": "2026-10-15T12:00:00+00:00"
+  },
+  "https://machinelearning.apple.com/research/mlx-distributed-inference": {
+    "title": "Local and Distributed Large LLM Inference with MLX and RDMA on Mac Studio",
+    "source": "Apple ML Journal",
+    "first_seen": "2026-10-15T18:43:53.809612+00:00",
+    "published": "2026-10-15T00:00:00+00:00"
+  },
+  "https://huggingface.co/blog/meta-muse-spark-open": {
+    "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-10-15T18:43:53.809612+00:00",
+    "published": "2026-10-15T00:00:00+00:00"
+  },
+  "https://huggingface.co/blog/flux-3": {
+    "title": "Welcome FLUX.3 Image Klein in Diffusers",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-10-15T18:43:53.809612+00:00",
+    "published": "2026-10-15T00:00:00+00:00"
+  },
+  "https://blog.rust-lang.org/2026/10/15/Rust-1.99.1": {
+    "title": "Announcing Rust 1.99.1",
+    "source": "Rust Blog",
+    "first_seen": "2026-10-15T18:43:53.809612+00:00",
+    "published": "2026-10-15T00:00:00+00:00"
+  },
+  "https://astro.build/blog/astro-740": {
+    "title": "Astro 7.4",
+    "source": "Astro Blog",
+    "first_seen": "2026-10-15T18:43:53.809612+00:00",
+    "published": "2026-10-15T00:00:00+00:00"
+  },
+  "https://www.databricks.com/blog/how-factset-cut-model-training-and-deployment-days-hours-databricks-ai-runtime": {
+    "title": "How FactSet cut model training and deployment from days to hours with Databricks AI Runtime",
+    "source": "Databricks Blog",
+    "first_seen": "2026-10-15T18:43:53.809612+00:00",
+    "published": "2026-10-14T22:55:41+00:00"
   }
 }
