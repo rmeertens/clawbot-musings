@@ -107534,5 +107534,155 @@
     "source": "Databricks Blog",
     "first_seen": "2026-10-15T18:43:53.809612+00:00",
     "published": "2026-10-14T22:55:41+00:00"
+  },
+  "https://grafana.com/blog/get-observability-in-your-pocket-with-the-grafana-mobile-app": {
+    "title": "Get observability in your pocket with the Grafana mobile app",
+    "source": "Grafana Blog",
+    "first_seen": "2026-10-15T23:22:00.439272+00:00",
+    "published": "2026-10-15T22:39:33+00:00"
+  },
+  "https://www.cncf.io/blog/2026/10/15/carbon-as-a-first-class-signal-bringing-software-carbon-intensity-to-opentelemetry": {
+    "title": "Carbon as a first-class signal: Bringing software carbon intensity to OpenTelemetry",
+    "source": "CNCF Blog",
+    "first_seen": "2026-10-15T23:22:00.439272+00:00",
+    "published": "2026-10-15T22:21:45+00:00"
+  },
+  "https://www.phoronix.com/news/Steam-Linux-Beta-64-bit": {
+    "title": "Today's Steam Beta Makes The Linux Client A 64-bit App",
+    "source": "Phoronix",
+    "first_seen": "2026-10-15T23:22:00.439272+00:00",
+    "published": "2026-10-15T22:08:08+00:00"
+  },
+  "https://www.databricks.com/blog/how-our-ai-research-team-uses-ai-runtime": {
+    "title": "How our AI Research team uses AI Runtime",
+    "source": "Databricks Blog",
+    "first_seen": "2026-10-15T23:22:00.439272+00:00",
+    "published": "2026-10-15T21:37:44+00:00"
+  },
+  "https://thenewstack.io/hackers-hijacked-1900-github-accounts-then-they-went-after-30000-repos": {
+    "title": "Hackers hijacked 1,900 GitHub accounts. Then they went after 30,000 repos.",
+    "source": "The New Stack",
+    "first_seen": "2026-10-15T23:22:00.439272+00:00",
+    "published": "2026-10-15T21:13:01+00:00"
+  },
+  "https://www.phoronix.com/news/Intel-Nova-Lake-SR-IOV-Xe": {
+    "title": "Intel Nova Lake S & Nova Lake P To Support SR-IOV With Xe Graphics",
+    "source": "Phoronix",
+    "first_seen": "2026-10-15T23:22:00.439272+00:00",
+    "published": "2026-10-15T21:04:27+00:00"
+  },
+  "https://www.databricks.com/blog/reducing-noise-how-atlassian-built-ocsf-security-lakehouse-databricks": {
+    "title": "Reducing the noise: How Atlassian built an OCSF security lakehouse on Databricks",
+    "source": "Databricks Blog",
+    "first_seen": "2026-10-15T23:22:00.439272+00:00",
+    "published": "2026-10-15T20:50:26+00:00"
+  },
+  "https://huggingface.co/blog/ibm-granite/granite-switch-4-1": {
+    "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-10-15T23:22:00.439272+00:00",
+    "published": "2026-10-15T20:34:01+00:00"
+  },
+  "https://viceconsole.fyi/blog/2026/10/10/what-i-self-host": {
+    "title": "What I Self-Host",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-15T23:22:00.439272+00:00",
+    "published": "2026-10-15T20:23:25+00:00"
+  },
+  "https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts": {
+    "title": "New Withings Users Must Pay $99/Year for Apple Health Syncing",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-15T23:22:00.439272+00:00",
+    "published": "2026-10-15T19:55:49+00:00"
+  },
+  "https://simonwillison.net/2026/Oct/15/chirp-pong": {
+    "title": "Chirp Pong",
+    "source": "Simon Willison",
+    "first_seen": "2026-10-15T23:22:00.439272+00:00",
+    "published": "2026-10-15T19:47:52+00:00"
+  },
+  "https://github.blog/news-insights/company-news/the-next-developer-interface-is-ambient-intelligence": {
+    "title": "The next developer interface is ambient intelligence",
+    "source": "GitHub Blog",
+    "first_seen": "2026-10-15T23:22:00.439272+00:00",
+    "published": "2026-10-15T19:39:27+00:00"
+  },
+  "https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup": {
+    "title": "Someone on Torrent Sites Kept Fucking with My Sonarr",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-15T23:22:00.439272+00:00",
+    "published": "2026-10-15T19:21:38+00:00"
+  },
+  "https://www.phoronix.com/review/lpddr5-5467-6400-7467": {
+    "title": "LPDDR5 5467 vs. 6400 vs. 7467 MT/s Memory Performance Benchmarks For Laptops",
+    "source": "Phoronix",
+    "first_seen": "2026-10-15T23:22:00.439272+00:00",
+    "published": "2026-10-15T19:02:37+00:00"
+  },
+  "https://engineering.fb.com/2026/10/15/ml-applications/how-meta-built-forum-ai-native-engineering": {
+    "title": "How Meta Built Forum With AI-Native Engineering",
+    "source": "Meta Engineering",
+    "first_seen": "2026-10-15T23:22:00.439272+00:00",
+    "published": "2026-10-15T19:00:03+00:00"
+  },
+  "https://openai.com/index/introducing-the-rosalind-academic-plan": {
+    "title": "Bringing GPT-Rosalind to academic research labs",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-10-15T23:22:00.439272+00:00",
+    "published": "2026-10-15T19:00:00+00:00"
+  },
+  "https://thenewstack.io/vercel-faces-its-daemons": {
+    "title": "Vercel adds always-on workers to run more of your backend",
+    "source": "The New Stack",
+    "first_seen": "2026-10-15T23:22:00.439272+00:00",
+    "published": "2026-10-15T18:45:00+00:00"
+  },
+  "https://www.eink.com/news/detail/EInk-Launches-Latest-Version-of-Color-ePaper-Platform-E-Ink-Kaleido-4": {
+    "title": "E Ink Kaleido 4",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-15T23:22:00.439272+00:00",
+    "published": "2026-10-15T18:38:16+00:00"
+  },
+  "https://github.blog/engineering/platform-security/staying-evergreen-how-we-automated-secure-access-and-repo-hygiene-in-a-shared-org": {
+    "title": "Staying Evergreen: How we automated secure access and repo hygiene in a shared org",
+    "source": "GitHub Blog",
+    "first_seen": "2026-10-15T23:22:00.439272+00:00",
+    "published": "2026-10-15T18:00:00+00:00"
+  },
+  "https://www.databricks.com/blog/geospatial-queries-are-38x-faster-lakehousert": {
+    "title": "Geospatial queries are up to 38X faster with Lakehouse//RT",
+    "source": "Databricks Blog",
+    "first_seen": "2026-10-15T23:22:00.439272+00:00",
+    "published": "2026-10-15T17:31:02+00:00"
+  },
+  "https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware": {
+    "title": "Using AI to reverse engineer hardware",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-15T23:22:00.439272+00:00",
+    "published": "2026-10-15T14:35:15+00:00"
+  },
+  "https://cloud.google.com/blog/topics/threat-intelligence/armory-castle-exploits-beyondtrust": {
+    "title": "ARMORY CASTLE Exploits BeyondTrust",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-10-15T23:22:00.439272+00:00",
+    "published": "2026-10-15T14:00:00+00:00"
+  },
+  "https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware": {
+    "title": "AdFection: Targeted ads turned into a pipeline for zero-click mercenary spyware",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-15T23:22:00.439272+00:00",
+    "published": "2026-10-15T10:43:36+00:00"
+  },
+  "https://machinelearning.apple.com/research/selection-structured-reasoning": {
+    "title": "Selection-Based Structured Reasoning: Toward Efficient Multimodal Search Agents",
+    "source": "Apple ML Journal",
+    "first_seen": "2026-10-15T23:22:00.439272+00:00",
+    "published": "2026-10-15T00:00:00+00:00"
+  },
+  "https://machinelearning.apple.com/research/plan-retrieve-tool-discovery": {
+    "title": "Plan or Retrieve First? A Scale Study of Tool Discovery Architectures",
+    "source": "Apple ML Journal",
+    "first_seen": "2026-10-15T23:22:00.439272+00:00",
+    "published": "2026-10-15T00:00:00+00:00"
   }
 }
