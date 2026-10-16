@@ -107684,5 +107684,179 @@
     "source": "Apple ML Journal",
     "first_seen": "2026-10-15T23:22:00.439272+00:00",
     "published": "2026-10-15T00:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/AI-Starling-Desktop-Office": {
+    "title": "AI-Generated Starling Desktop Environment Rolls Out Its Own Office Suite",
+    "source": "Phoronix",
+    "first_seen": "2026-10-16T13:34:47.410572+00:00",
+    "published": "2026-10-16T13:20:22+00:00"
+  },
+  "https://lwn.net/Articles/1101015": {
+    "title": "Security updates for Friday",
+    "source": "LWN.net",
+    "first_seen": "2026-10-16T13:34:47.410572+00:00",
+    "published": "2026-10-16T13:17:44+00:00"
+  },
+  "https://www.phoronix.com/news/Fedora-46-RPM-v6": {
+    "title": "Fedora 46 Looking At Moving To RPM v6 Package Format",
+    "source": "Phoronix",
+    "first_seen": "2026-10-16T13:34:47.410572+00:00",
+    "published": "2026-10-16T13:03:26+00:00"
+  },
+  "https://blog.cloudflare.com/verified-bots-accountability": {
+    "title": "Continuous accountability for Verified bots",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-10-16T13:34:47.410572+00:00",
+    "published": "2026-10-16T13:00:00+00:00"
+  },
+  "https://www.tigerdata.com/blog/building-ingest-safety-monitor-iiot-pipeline-sql": {
+    "title": "Building an Ingest Safety Monitor for Your IIoT Pipeline in SQL",
+    "source": "Timescale Blog",
+    "first_seen": "2026-10-16T13:34:47.410572+00:00",
+    "published": "2026-10-16T12:55:08+00:00"
+  },
+  "https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering": {
+    "title": "I Love Software Rendering",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-16T13:34:47.410572+00:00",
+    "published": "2026-10-16T12:52:08+00:00"
+  },
+  "https://thenewstack.io/cloudflare-voidzero-void-vibe-coding": {
+    "title": "Employees are vibe-coding their own apps. Cloudflare open-sources Void to give IT a handle on them",
+    "source": "The New Stack",
+    "first_seen": "2026-10-16T13:34:47.410572+00:00",
+    "published": "2026-10-16T12:16:01+00:00"
+  },
+  "https://thenewstack.io/surface-ultra-local-ai": {
+    "title": "Running local AI models on Microsoft’s Surface Laptop Ultra: What we found",
+    "source": "The New Stack",
+    "first_seen": "2026-10-16T13:34:47.410572+00:00",
+    "published": "2026-10-16T12:00:00+00:00"
+  },
+  "https://thenewstack.io/muse-wonder-claude-fable": {
+    "title": "Muse Wonder vs. Claude Fable 5.1: Meta’s new model came closer than I expected",
+    "source": "The New Stack",
+    "first_seen": "2026-10-16T13:34:47.410572+00:00",
+    "published": "2026-10-16T12:00:00+00:00"
+  },
+  "https://realpython.com/quizzes/python-profiling": {
+    "title": "Quiz: Profiling in Python: How to Find Performance Bottlenecks",
+    "source": "Real Python",
+    "first_seen": "2026-10-16T13:34:47.410572+00:00",
+    "published": "2026-10-16T12:00:00+00:00"
+  },
+  "https://realpython.com/podcasts/rpp/315": {
+    "title": "The Real Python Podcast – Episode #315: Python Pitfalls: Common Mistakes and How to Avoid Them",
+    "source": "Real Python",
+    "first_seen": "2026-10-16T13:34:47.410572+00:00",
+    "published": "2026-10-16T12:00:00+00:00"
+  },
+  "https://www.cncf.io/blog/2026/10/16/putting-nepal-on-the-cncf-golden-kubestronaut-map": {
+    "title": "Putting Nepal on the CNCF Golden Kubestronaut map",
+    "source": "CNCF Blog",
+    "first_seen": "2026-10-16T13:34:47.410572+00:00",
+    "published": "2026-10-16T11:30:00+00:00"
+  },
+  "https://thenewstack.io/uvi-ai-agent-context": {
+    "title": "“Developers are paying frontier prices for amnesia”: Uvi wants to stop the agent relearning brain drain",
+    "source": "The New Stack",
+    "first_seen": "2026-10-16T13:34:47.410572+00:00",
+    "published": "2026-10-16T11:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/LLVMpipe-AVX-512-MR": {
+    "title": "AI Resurrects AVX-512 Support For Mesa's LLVMpipe Software Driver",
+    "source": "Phoronix",
+    "first_seen": "2026-10-16T13:34:47.410572+00:00",
+    "published": "2026-10-16T10:28:51+00:00"
+  },
+  "https://www.phoronix.com/news/Intel-Instruction-Timeout-Linux": {
+    "title": "Linux 7.4 To Enable Intel Instruction Timeout For Fending Off TDX VM DoS Attacks",
+    "source": "Phoronix",
+    "first_seen": "2026-10-16T13:34:47.410572+00:00",
+    "published": "2026-10-16T10:13:51+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.3-Threadripper-9995WX": {
+    "title": "Linux 7.3 Squeezes Even More Performance Out Of The AMD Threadripper PRO 9995WX",
+    "source": "Phoronix",
+    "first_seen": "2026-10-16T13:34:47.410572+00:00",
+    "published": "2026-10-16T09:22:01+00:00"
+  },
+  "https://www.phoronix.com/news/Intel-LLM-Scaler-vLLM-PV-1.5": {
+    "title": "Intel LLM-Scaler-vLLM PV 1.5 Brings Big Improvements",
+    "source": "Phoronix",
+    "first_seen": "2026-10-16T13:34:47.410572+00:00",
+    "published": "2026-10-16T09:04:22+00:00"
+  },
+  "https://www.phoronix.com/news/Mesa-Zink-VA-API-On-Vulkan": {
+    "title": "Mesa's Zink Now Offers VA-API Video Acceleration Atop Vulkan Video",
+    "source": "Phoronix",
+    "first_seen": "2026-10-16T13:34:47.410572+00:00",
+    "published": "2026-10-16T08:54:45+00:00"
+  },
+  "https://stackoverflow.blog/2026/10/16/formal-methods-say-you-re-wrong": {
+    "title": "AI says you’re right, formal methods say you’re wrong",
+    "source": "Stack Overflow Blog",
+    "first_seen": "2026-10-16T13:34:47.410572+00:00",
+    "published": "2026-10-16T07:40:00+00:00"
+  },
+  "https://danieltemkin.com/esolangs/folders": {
+    "title": "The Folders Programming Language",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-16T13:34:47.410572+00:00",
+    "published": "2026-10-16T05:11:28+00:00"
+  },
+  "https://www.phoronix.com/news/Fedora-45-First-No-Go": {
+    "title": "Fedora 45 Will Not Be Released Next Week",
+    "source": "Phoronix",
+    "first_seen": "2026-10-16T13:34:47.410572+00:00",
+    "published": "2026-10-16T01:50:44+00:00"
+  },
+  "https://huggingface.co/blog/nvidia/scaling-indic-pretraining": {
+    "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-10-16T13:34:47.410572+00:00",
+    "published": "2026-10-16T01:44:47+00:00"
+  },
+  "https://github.com/Saffsanity/sill": {
+    "title": "Any window from your Mac, on your iPhone and iPad",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-16T13:34:47.410572+00:00",
+    "published": "2026-10-16T01:43:17+00:00"
+  },
+  "https://www.vlt.io/blog/competition-keeps-javascript-moving": {
+    "title": "Thank You, Deno",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-16T13:34:47.410572+00:00",
+    "published": "2026-10-16T00:52:40+00:00"
+  },
+  "https://ipinfo.io/blog/rpki-protects-70-internet-routes": {
+    "title": "RPKI now protects 70% of internet routes",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-16T13:34:47.410572+00:00",
+    "published": "2026-10-16T00:52:35+00:00"
+  },
+  "https://www.thoughtworks.com/insights/blog/technology-strategy/why-executive-judgment-decides-who-wins-with-ai": {
+    "title": "Why executive judgment decides who wins with AI",
+    "source": "ThoughtWorks",
+    "first_seen": "2026-10-16T13:34:47.410572+00:00",
+    "published": "2026-10-16T00:00:00+00:00"
+  },
+  "https://huggingface.co/blog/reflection-beam": {
+    "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-10-16T13:34:47.410572+00:00",
+    "published": "2026-10-16T00:00:00+00:00"
+  },
+  "https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say": {
+    "title": "Meta’s new commercial terms will allow the scraping of news sites: experts",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-16T13:34:47.410572+00:00",
+    "published": "2026-10-15T23:37:42+00:00"
+  },
+  "https://stackoverflow.blog/2026/10/15/mcp-standardized-tools-now-we-need-the-infrastructure-around-them": {
+    "title": "MCP standardized tools. Now we need the infrastructure around them.",
+    "source": "Stack Overflow Blog",
+    "first_seen": "2026-10-16T13:34:47.410572+00:00",
+    "published": "2026-10-15T20:39:29+00:00"
   }
 }
