@@ -108134,5 +108134,155 @@
     "source": "Databricks Blog",
     "first_seen": "2026-10-16T18:28:54.648292+00:00",
     "published": "2026-10-15T21:08:14+00:00"
+  },
+  "https://simonwillison.net/2026/Oct/16/code-review": {
+    "title": "Quoting Addy Osmani, Morgan Westlee Lunt, and Qing Wang",
+    "source": "Simon Willison",
+    "first_seen": "2026-10-16T23:04:37.344120+00:00",
+    "published": "2026-10-16T22:06:37+00:00"
+  },
+  "https://neuralwatt.com/news/why-harnesses-matter-for-energy-efficiency": {
+    "title": "Why harnesses matter for energy (and token) efficiency",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-16T23:04:37.344120+00:00",
+    "published": "2026-10-16T21:01:23+00:00"
+  },
+  "https://www.databricks.com/blog/transactions-are-generally-available-advancing-warehousing-lakehouse": {
+    "title": "Transactions are Generally Available, advancing warehousing on the Lakehouse",
+    "source": "Databricks Blog",
+    "first_seen": "2026-10-16T23:04:37.344120+00:00",
+    "published": "2026-10-16T21:00:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/building-trust-in-ai-agents-a-production-ready-evaluation-framework-with-amazon-bedrock-agentcore": {
+    "title": "Building trust in AI agents: A production-ready evaluation framework with Amazon Bedrock AgentCore",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-10-16T23:04:37.344120+00:00",
+    "published": "2026-10-16T20:48:16+00:00"
+  },
+  "https://github.com/home-assistant/home-assistant.io/issues/49314": {
+    "title": "I never authorized an integration that scans my secrets",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-16T23:04:37.344120+00:00",
+    "published": "2026-10-16T20:33:41+00:00"
+  },
+  "https://bfl.ai/blog/flux-3-image-klein": {
+    "title": "FLUX 3 Image Klein",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-16T23:04:37.344120+00:00",
+    "published": "2026-10-16T19:47:13+00:00"
+  },
+  "https://www.phoronix.com/news/17-Vulnerabilities-Xorg-Libs": {
+    "title": "17 More Security Vulnerabilities Made Public For X.Org Libraries",
+    "source": "Phoronix",
+    "first_seen": "2026-10-16T23:04:37.344120+00:00",
+    "published": "2026-10-16T19:20:39+00:00"
+  },
+  "https://lwn.net/Articles/1101057": {
+    "title": "Introducing GNOME OS Preview",
+    "source": "LWN.net",
+    "first_seen": "2026-10-16T23:04:37.344120+00:00",
+    "published": "2026-10-16T19:05:57+00:00"
+  },
+  "https://claude.dev/blog/solving-code-review-at-anthropic": {
+    "title": "How the Claude Code team does code review",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-16T23:04:37.344120+00:00",
+    "published": "2026-10-16T19:04:47+00:00"
+  },
+  "https://alexwang.ai/posts/associative-memory": {
+    "title": "You could have invented transformers from memory",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-16T23:04:37.344120+00:00",
+    "published": "2026-10-16T19:01:17+00:00"
+  },
+  "https://words.filippo.io/seeds-solved": {
+    "title": "The NIST Elliptic Curves Seeds Bounty Has Been Claimed",
+    "source": "Filippo Valsorda",
+    "first_seen": "2026-10-16T23:04:37.344120+00:00",
+    "published": "2026-10-16T18:57:20+00:00"
+  },
+  "https://www.anthropic.com/research/ecdsa-curve-origins": {
+    "title": "Claude reveals ECDSA curve origins",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-16T23:04:37.344120+00:00",
+    "published": "2026-10-16T18:55:59+00:00"
+  },
+  "https://www.sandordargo.com/blog/2026/09/30/cpp26-debugging": {
+    "title": "C++26: The New Debugging Header",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-16T23:04:37.344120+00:00",
+    "published": "2026-10-16T18:52:39+00:00"
+  },
+  "https://www.phoronix.com/news/GNOME-OS-Preview": {
+    "title": "GNOME OS Preview Announced In Road Toward A Stable Release",
+    "source": "Phoronix",
+    "first_seen": "2026-10-16T23:04:37.344120+00:00",
+    "published": "2026-10-16T18:37:11+00:00"
+  },
+  "https://thenewstack.io/kagent-kubernetes-ai-agents": {
+    "title": "AI agents turn one request into about 20. Kubernetes is evolving to handle it.",
+    "source": "The New Stack",
+    "first_seen": "2026-10-16T23:04:37.344120+00:00",
+    "published": "2026-10-16T18:37:03+00:00"
+  },
+  "https://github.com/cobanov/PS5LM": {
+    "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-16T23:04:37.344120+00:00",
+    "published": "2026-10-16T18:32:35+00:00"
+  },
+  "https://lwn.net/Articles/1099224": {
+    "title": "[$] Safe self-referential data structures in kernel Rust",
+    "source": "LWN.net",
+    "first_seen": "2026-10-16T23:04:37.344120+00:00",
+    "published": "2026-10-16T18:30:00+00:00"
+  },
+  "https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d": {
+    "title": "Anthropic assigned highest junk credit rating in June",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-16T23:04:37.344120+00:00",
+    "published": "2026-10-16T18:11:42+00:00"
+  },
+  "https://gifcities.org": {
+    "title": "GifCities",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-16T23:04:37.344120+00:00",
+    "published": "2026-10-16T17:35:07+00:00"
+  },
+  "https://dev-null.sh": {
+    "title": "/dev/null: social network for developers",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-16T23:04:37.344120+00:00",
+    "published": "2026-10-16T16:57:49+00:00"
+  },
+  "https://waymo.com/blog/2026/10/waymo-in-toronto": {
+    "title": "Waymo in Toronto",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-16T23:04:37.344120+00:00",
+    "published": "2026-10-16T14:44:17+00:00"
+  },
+  "https://replit.com/blog/bring-your-own-cloud": {
+    "title": "Bring Your Own Cloud to Replit",
+    "source": "Replit Blog",
+    "first_seen": "2026-10-16T23:04:37.344120+00:00",
+    "published": "2026-10-16T09:30:00+00:00"
+  },
+  "https://www.elastic.co/blog/elastic-security-integration-with-google-distributed-cloud": {
+    "title": "Elastic Security integration with Google Distributed Cloud: Closing the velocity gap in air-gapped environments",
+    "source": "Elastic Blog",
+    "first_seen": "2026-10-16T23:04:37.344120+00:00",
+    "published": "2026-10-16T00:00:00+00:00"
+  },
+  "https://openai.com/index/stack-overflow-chatgpt-plugin": {
+    "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-10-16T23:04:37.344120+00:00",
+    "published": "2026-10-16T00:00:00+00:00"
+  },
+  "https://go.dev/blog/interactive-refactoring": {
+    "title": "Interactive refactoring in gopls",
+    "source": "Go Blog",
+    "first_seen": "2026-10-16T23:04:37.344120+00:00",
+    "published": "2026-10-16T00:00:00+00:00"
   }
 }
