@@ -108380,5 +108380,137 @@
     "source": "OpenAI Blog",
     "first_seen": "2026-10-17T12:31:09.527218+00:00",
     "published": "2026-10-16T00:00:00+00:00"
+  },
+  "https://www.artie.com/careers": {
+    "title": "Artie (YC S23) Is Hiring Enterprise AES and Senior Engineers",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-17T17:34:32.258096+00:00",
+    "published": "2026-10-17T17:02:50+00:00"
+  },
+  "https://www.phoronix.com/news/MeshXFS-XFS-Clustered": {
+    "title": "MeshXFS: AI Adapts XFS Into A Clustered File-System",
+    "source": "Phoronix",
+    "first_seen": "2026-10-17T17:34:32.258096+00:00",
+    "published": "2026-10-17T17:02:40+00:00"
+  },
+  "https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data": {
+    "title": "OpenAI discloses four more rogue incidents",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-17T17:34:32.258096+00:00",
+    "published": "2026-10-17T16:31:12+00:00"
+  },
+  "https://www.universityofcalifornia.edu/news/new-study-shows-popular-glp-1-weight-loss-drug-may-slow-biological-aging": {
+    "title": "GLP-1 may slow biological aging",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-17T17:34:32.258096+00:00",
+    "published": "2026-10-17T16:10:21+00:00"
+  },
+  "https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield": {
+    "title": "Amazon uses union-busting AI surveillance to monitor union risk in UK warehouses",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-17T17:34:32.258096+00:00",
+    "published": "2026-10-17T16:04:23+00:00"
+  },
+  "https://thenewstack.io/live-streaming-engineering-lessons": {
+    "title": "Here are the engineering lessons we learned when live-streaming sports to 32 million people",
+    "source": "The New Stack",
+    "first_seen": "2026-10-17T17:34:32.258096+00:00",
+    "published": "2026-10-17T16:00:00+00:00"
+  },
+  "https://blog.bytebytego.com/p/ep229-8-chunking-strategies-for-rag": {
+    "title": "EP229: 8 Chunking strategies for RAG-based agents",
+    "source": "ByteByteGo",
+    "first_seen": "2026-10-17T17:34:32.258096+00:00",
+    "published": "2026-10-17T15:30:51+00:00"
+  },
+  "https://thenewstack.io/ai-lowering-building-barrier": {
+    "title": "AI has lowered the barrier to building. Here’s what that means for engineers.",
+    "source": "The New Stack",
+    "first_seen": "2026-10-17T17:34:32.258096+00:00",
+    "published": "2026-10-17T15:00:00+00:00"
+  },
+  "https://thenewstack.io/claude-code-linux-driver": {
+    "title": "His scanner wouldn’t work on Linux — so he let Claude study the Windows driver",
+    "source": "The New Stack",
+    "first_seen": "2026-10-17T17:34:32.258096+00:00",
+    "published": "2026-10-17T14:30:00+00:00"
+  },
+  "https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time": {
+    "title": "Solar surpasses nuclear power globally for first time",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-17T17:34:32.258096+00:00",
+    "published": "2026-10-17T14:01:01+00:00"
+  },
+  "https://thenewstack.io/ai-agents-kubernetes-control": {
+    "title": "AI agents vs. Kubernetes: where each belongs in the control loop",
+    "source": "The New Stack",
+    "first_seen": "2026-10-17T17:34:32.258096+00:00",
+    "published": "2026-10-17T14:00:00+00:00"
+  },
+  "https://realpython.com/python-histograms": {
+    "title": "Python Histogram Plotting: NumPy, Matplotlib, pandas & Seaborn",
+    "source": "Real Python",
+    "first_seen": "2026-10-17T17:34:32.258096+00:00",
+    "published": "2026-10-17T14:00:00+00:00"
+  },
+  "https://realpython.com/instance-class-and-static-methods-demystified": {
+    "title": "Python's Instance, Class, and Static Methods Demystified",
+    "source": "Real Python",
+    "first_seen": "2026-10-17T17:34:32.258096+00:00",
+    "published": "2026-10-17T14:00:00+00:00"
+  },
+  "https://realpython.com/django-setup": {
+    "title": "How to Create a Django Project",
+    "source": "Real Python",
+    "first_seen": "2026-10-17T17:34:32.258096+00:00",
+    "published": "2026-10-17T14:00:00+00:00"
+  },
+  "https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using": {
+    "title": "Making Chicken Transparent Using Dorito Dust",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-17T17:34:32.258096+00:00",
+    "published": "2026-10-17T13:55:28+00:00"
+  },
+  "https://github.com/mikroverk/esp32sim": {
+    "title": "Show HN: Esp32sim – Run ESP32 firmware in the browser",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-17T17:34:32.258096+00:00",
+    "published": "2026-10-17T13:51:08+00:00"
+  },
+  "https://lethain.com/small-changes": {
+    "title": "Speeding up code review with `small-change`",
+    "source": "Will Larson",
+    "first_seen": "2026-10-17T17:34:32.258096+00:00",
+    "published": "2026-10-17T12:00:00+00:00"
+  },
+  "https://www.engadget.com/2288729/mapquest-will-now-show-you-where-flock-cameras-are-in-your-neighborhood": {
+    "title": "MapQuest will now show you where Flock cameras are in your neighborhood",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-17T17:34:32.258096+00:00",
+    "published": "2026-10-17T10:59:31+00:00"
+  },
+  "https://nos.nl/video/2635315-wildcamera-s-tonen-hoe-zwijnen-en-herten-zich-aanpassen-aan-de-wolf": {
+    "title": "\"Tame\" boar and deer are instinctively adapting to the wolf in the Netherlands",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-17T17:34:32.258096+00:00",
+    "published": "2026-10-17T09:08:16+00:00"
+  },
+  "https://www.newyorker.com/magazine/2026/10/19/the-first-candid": {
+    "title": "The First Candid",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-17T17:34:32.258096+00:00",
+    "published": "2026-10-16T17:28:19+00:00"
+  },
+  "https://frozenfractal.com/blog/2026/10/12/around-the-world-34-a-pretty-sky": {
+    "title": "Rendering pretty sky in Around The World game",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-17T17:34:32.258096+00:00",
+    "published": "2026-10-16T15:06:43+00:00"
+  },
+  "https://softpanorama.org/OFM/Paradigm/Ch03/norton_commander.shtml": {
+    "title": "Development of Norton Commander",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-17T17:34:32.258096+00:00",
+    "published": "2026-10-16T07:41:36+00:00"
   }
 }
