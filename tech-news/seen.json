@@ -108710,5 +108710,137 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-10-18T12:49:55.346067+00:00",
     "published": "2026-10-16T21:07:24+00:00"
+  },
+  "https://liveandletsfly.com/british-airways-meta-smart-glasses-filming": {
+    "title": "British Airways: Filming Crew W Meta Glasses Could Get Your Tickets Cancelled",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-18T17:37:25.590029+00:00",
+    "published": "2026-10-18T17:27:30+00:00"
+  },
+  "https://karrisaarinen.com/posts/someone-behind-the-software": {
+    "title": "Someone Behind the Software",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-18T17:37:25.590029+00:00",
+    "published": "2026-10-18T16:32:00+00:00"
+  },
+  "https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html": {
+    "title": "The Intel 8087 chip: floating-point addition and subtraction",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-18T17:37:25.590029+00:00",
+    "published": "2026-10-18T16:20:27+00:00"
+  },
+  "https://thenewstack.io/gemini-argon-claude-opus": {
+    "title": "Gemini 4 Argon vs. Claude Opus 5.5: Half the price and about half as accurate",
+    "source": "The New Stack",
+    "first_seen": "2026-10-18T17:37:25.590029+00:00",
+    "published": "2026-10-18T15:30:00+00:00"
+  },
+  "https://developer.apple.com/forums/verify-human/verify.html?next=/forums/thread/850550": {
+    "title": "macOS 15.8.2 Breaks OpenGL",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-18T17:37:25.590029+00:00",
+    "published": "2026-10-18T15:26:06+00:00"
+  },
+  "https://terrytao.wordpress.com/2026/10/18/will-it-be-a-golden-age-or-a-dark-age-for-mathematics-and-science": {
+    "title": "Will it be a golden age or a dark age for mathematics (and science)?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-18T17:37:25.590029+00:00",
+    "published": "2026-10-18T15:00:40+00:00"
+  },
+  "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web": {
+    "title": "Websites are closing their doors to AI agents",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-18T17:37:25.590029+00:00",
+    "published": "2026-10-18T14:58:10+00:00"
+  },
+  "https://neilmadden.blog/2026/04/24/java-sealed-classes-and-exhaustive-pattern-matching": {
+    "title": "Java sealed classes and exhaustive pattern matching",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-18T17:37:25.590029+00:00",
+    "published": "2026-10-18T14:47:37+00:00"
+  },
+  "https://thenewstack.io/liquid-ai-reward-hacking": {
+    "title": "Liquid AI caught its model cheating on coding tests — then it recognized the sandbox",
+    "source": "The New Stack",
+    "first_seen": "2026-10-18T17:37:25.590029+00:00",
+    "published": "2026-10-18T14:30:00+00:00"
+  },
+  "https://thenewstack.io/scaling-kubernetes-control-planes": {
+    "title": "Scale isn’t one number: three ways a Kubernetes control plane runs out of room",
+    "source": "The New Stack",
+    "first_seen": "2026-10-18T17:37:25.590029+00:00",
+    "published": "2026-10-18T14:00:00+00:00"
+  },
+  "https://realpython.com/python-rounding": {
+    "title": "How to Round Numbers in Python",
+    "source": "Real Python",
+    "first_seen": "2026-10-18T17:37:25.590029+00:00",
+    "published": "2026-10-18T14:00:00+00:00"
+  },
+  "https://realpython.com/python-mutable-vs-immutable-types": {
+    "title": "Python's Mutable vs Immutable Types: What's the Difference?",
+    "source": "Real Python",
+    "first_seen": "2026-10-18T17:37:25.590029+00:00",
+    "published": "2026-10-18T14:00:00+00:00"
+  },
+  "https://realpython.com/django-migrations-a-primer": {
+    "title": "Django Migrations: A Primer",
+    "source": "Real Python",
+    "first_seen": "2026-10-18T17:37:25.590029+00:00",
+    "published": "2026-10-18T14:00:00+00:00"
+  },
+  "https://realpython.com/digging-deeper-into-migrations": {
+    "title": "Digging Deeper Into Django Migrations",
+    "source": "Real Python",
+    "first_seen": "2026-10-18T17:37:25.590029+00:00",
+    "published": "2026-10-18T14:00:00+00:00"
+  },
+  "https://realpython.com/asynchronous-tasks-with-django-and-celery": {
+    "title": "Asynchronous Tasks With Django and Celery",
+    "source": "Real Python",
+    "first_seen": "2026-10-18T17:37:25.590029+00:00",
+    "published": "2026-10-18T14:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/Intel-TDX-Less-Cache-Flushing": {
+    "title": "It Turns Out Intel TDX Doesn't Need So Much Cache Flushing",
+    "source": "Phoronix",
+    "first_seen": "2026-10-18T17:37:25.590029+00:00",
+    "published": "2026-10-18T13:53:24+00:00"
+  },
+  "https://github.com/VikOlliver/RepRapMicron/wiki": {
+    "title": "RepRapMicron",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-18T17:37:25.590029+00:00",
+    "published": "2026-10-18T13:48:48+00:00"
+  },
+  "https://www.thing.net/~rdom/ecd/EDTECD.html": {
+    "title": "The Electronic Disturbance Theater and Electronic Civil Disobedience (1998)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-18T17:37:25.590029+00:00",
+    "published": "2026-10-18T13:41:06+00:00"
+  },
+  "https://legendofhyrule.com": {
+    "title": "Show HN: The Zelda timeline to catch up before the Ocarina of Time remake",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-18T17:37:25.590029+00:00",
+    "published": "2026-10-18T13:06:54+00:00"
+  },
+  "https://www.vals.ai/blogs/impossible-refund": {
+    "title": "How Far Will AI Assistants Go for a Refund They Can't Get?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-18T17:37:25.590029+00:00",
+    "published": "2026-10-18T12:22:58+00:00"
+  },
+  "https://terriblesoftware.org/2026/10/02/the-brain-sandwich": {
+    "title": "The Brain Sandwich",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-18T17:37:25.590029+00:00",
+    "published": "2026-10-18T11:15:37+00:00"
+  },
+  "https://www.youtube.com/watch?v=QH_LPimUJMs": {
+    "title": "Beyond Tetris: The Other Games of Alexey Pajitnov [video]",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-18T17:37:25.590029+00:00",
+    "published": "2026-10-17T23:08:30+00:00"
   }
 }
