@@ -108596,5 +108596,119 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-10-17T22:44:02.257981+00:00",
     "published": "2026-10-16T23:58:34+00:00"
+  },
+  "https://realpython.com/quizzes/python-comments-guide": {
+    "title": "Quiz: Writing Comments in Python (Guide)",
+    "source": "Real Python",
+    "first_seen": "2026-10-18T12:49:55.346067+00:00",
+    "published": "2026-10-18T12:00:00+00:00"
+  },
+  "https://github.com/0x23/MicroManipulatorStepper": {
+    "title": "Open MicroManipulator – A sub-micrometer 3D motion control plattform",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-18T12:49:55.346067+00:00",
+    "published": "2026-10-18T11:16:22+00:00"
+  },
+  "https://www.technologyreview.com/2026/10/16/1146834/kids-are-outsmarting-social-media-bans-thats-not-a-problem-we-need-to-solve": {
+    "title": "Kids are outsmarting social media bans. That's not a problem we need to solve",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-18T12:49:55.346067+00:00",
+    "published": "2026-10-18T11:02:28+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.4-Features-Preview": {
+    "title": "Linux 7.4 Features Very Exciting With Radeon HDMI 2.1 By Default, AMD PerfOpt, Apple M4",
+    "source": "Phoronix",
+    "first_seen": "2026-10-18T12:49:55.346067+00:00",
+    "published": "2026-10-18T10:50:00+00:00"
+  },
+  "https://www.phoronix.com/news/Omarchy-Faster-Web-Browser": {
+    "title": "Omarchy Gets The Web Browser Launching Faster By Avoiding XDG Overhead",
+    "source": "Phoronix",
+    "first_seen": "2026-10-18T12:49:55.346067+00:00",
+    "published": "2026-10-18T10:23:00+00:00"
+  },
+  "https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes": {
+    "title": "Legal experts warn Meta's new terms still grant broad scraping permissions",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-18T12:49:55.346067+00:00",
+    "published": "2026-10-18T10:21:51+00:00"
+  },
+  "https://www.phoronix.com/news/Servo-0.6-Changes": {
+    "title": "Servo Gets CSS Grid Working, Threadboost Offering Big Speed-Ups",
+    "source": "Phoronix",
+    "first_seen": "2026-10-18T12:49:55.346067+00:00",
+    "published": "2026-10-18T10:05:40+00:00"
+  },
+  "https://t3.at/blog/2026-10-17-parser-combinators": {
+    "title": "Parser Combinators",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-18T12:49:55.346067+00:00",
+    "published": "2026-10-18T08:19:53+00:00"
+  },
+  "https://api-docs.deepseek.com/guides/search": {
+    "title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-18T12:49:55.346067+00:00",
+    "published": "2026-10-18T06:50:36+00:00"
+  },
+  "https://sphinx-six-theta.vercel.app": {
+    "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-18T12:49:55.346067+00:00",
+    "published": "2026-10-18T04:33:49+00:00"
+  },
+  "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything": {
+    "title": "How the Elizabeth Holmes documentary “You Can See Everything” is deceiving",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-18T12:49:55.346067+00:00",
+    "published": "2026-10-18T03:19:49+00:00"
+  },
+  "https://www.phoronix.com/news/Synchronous-VirtIO-FS": {
+    "title": "Synchronous Queues For VirtIO-FS Show Huge Performance Potential",
+    "source": "Phoronix",
+    "first_seen": "2026-10-18T12:49:55.346067+00:00",
+    "published": "2026-10-18T00:55:35+00:00"
+  },
+  "https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends": {
+    "title": "NY announces game ownership bill requiring ownership rather than licensing",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-18T12:49:55.346067+00:00",
+    "published": "2026-10-18T00:14:22+00:00"
+  },
+  "https://simonwillison.net/2026/Oct/17/document-currentscript": {
+    "title": "Inline rendering with document​.currentScript",
+    "source": "Simon Willison",
+    "first_seen": "2026-10-18T12:49:55.346067+00:00",
+    "published": "2026-10-17T21:11:12+00:00"
+  },
+  "https://simonwillison.net/2026/Oct/17/web-edit": {
+    "title": "web-edit 0.1a2",
+    "source": "Simon Willison",
+    "first_seen": "2026-10-18T12:49:55.346067+00:00",
+    "published": "2026-10-17T13:16:49+00:00"
+  },
+  "https://lpviz.net": {
+    "title": "Interactive Linear Programming in the Browser",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-18T12:49:55.346067+00:00",
+    "published": "2026-10-17T12:06:44+00:00"
+  },
+  "https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679": {
+    "title": "Dam removals are bringing fish back across the northeastern United States",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-18T12:49:55.346067+00:00",
+    "published": "2026-10-16T23:47:31+00:00"
+  },
+  "https://www.nature.com/articles/d41586-026-03266-x": {
+    "title": "Bleached corals thrive within days when touching healthy neighbour",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-18T12:49:55.346067+00:00",
+    "published": "2026-10-16T23:38:27+00:00"
+  },
+  "https://teal-language.org": {
+    "title": "Teal – A statically-typed dialect of Lua",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-18T12:49:55.346067+00:00",
+    "published": "2026-10-16T21:07:24+00:00"
   }
 }
