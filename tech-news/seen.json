@@ -109214,5 +109214,317 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-10-19T15:56:23.604702+00:00",
     "published": "2026-10-18T21:09:12+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/structured-outputs-for-anthropic-claude-models-on-amazon-bedrock": {
+    "title": "Structured outputs for Anthropic Claude models on Amazon Bedrock",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-10-19T23:59:50.934320+00:00",
+    "published": "2026-10-19T23:32:19+00:00"
+  },
+  "https://www.globus.org/blog/gridftp-a-brief-history-of-fast-file-transfer": {
+    "title": "GridFTP: A Brief History of Fast File Transfer (2024)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-19T23:59:50.934320+00:00",
+    "published": "2026-10-19T22:53:38+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/developers-can-now-access-sagemaker-studio-through-the-new-aws-experience": {
+    "title": "Developers can now access SageMaker Studio through the new AWS experience",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-10-19T23:59:50.934320+00:00",
+    "published": "2026-10-19T22:39:24+00:00"
+  },
+  "https://thenewstack.io/minimax-flash-agent-costs": {
+    "title": "MiniMax just halved its token prices. Your AI agent bill may not follow.",
+    "source": "The New Stack",
+    "first_seen": "2026-10-19T23:59:50.934320+00:00",
+    "published": "2026-10-19T22:00:19+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.4-EDAC": {
+    "title": "Linux 7.4 Sunsetting Old EDAC Drivers Due To \"AI Generated Fixes Frenzy\"",
+    "source": "Phoronix",
+    "first_seen": "2026-10-19T23:59:50.934320+00:00",
+    "published": "2026-10-19T21:38:28+00:00"
+  },
+  "https://dri.es/state-of-drupal-presentation-september-2026": {
+    "title": "Drupal is now light-years ahead of its reputation",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-19T23:59:50.934320+00:00",
+    "published": "2026-10-19T21:38:02+00:00"
+  },
+  "https://www.databricks.com/blog/what-makes-catalog-open-unity-catalog-advances-open-lakehouse": {
+    "title": "What makes a catalog open? Unity Catalog Advances the Open Lakehouse",
+    "source": "Databricks Blog",
+    "first_seen": "2026-10-19T23:59:50.934320+00:00",
+    "published": "2026-10-19T21:20:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-jumpstart-2026-year-to-date-in-review": {
+    "title": "Amazon SageMaker JumpStart: 2026 year-to-date in review",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-10-19T23:59:50.934320+00:00",
+    "published": "2026-10-19T21:14:44+00:00"
+  },
+  "https://bsd.network/@brynet/117407035545900963": {
+    "title": "OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-19T23:59:50.934320+00:00",
+    "published": "2026-10-19T21:11:45+00:00"
+  },
+  "https://josie.lol/blog/linux-rtx-spark": {
+    "title": "Putting Linux on my RTX Spark laptop because I don't have a Microsoft account",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-19T23:59:50.934320+00:00",
+    "published": "2026-10-19T21:08:18+00:00"
+  },
+  "https://calabro.io/ohbf": {
+    "title": "One Hash Bloom Filters",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-19T23:59:50.934320+00:00",
+    "published": "2026-10-19T20:50:08+00:00"
+  },
+  "https://www.databricks.com/blog/how-get-most-out-running-dbt-databricks": {
+    "title": "How to get the most out of running dbt on Databricks",
+    "source": "Databricks Blog",
+    "first_seen": "2026-10-19T23:59:50.934320+00:00",
+    "published": "2026-10-19T19:45:59+00:00"
+  },
+  "https://sanketsaurav.com/writing/end-of-rationing": {
+    "title": "The End of Rationing",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-19T23:59:50.934320+00:00",
+    "published": "2026-10-19T19:19:33+00:00"
+  },
+  "https://blog.cloudflare.com/obsessive-inference-optimization": {
+    "title": "Cutting our inference bill by 68% by being obsessive about optimization",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-10-19T23:59:50.934320+00:00",
+    "published": "2026-10-19T19:12:53+00:00"
+  },
+  "https://lwn.net/Articles/1101483": {
+    "title": "Linux Plumbers Conference videos now available",
+    "source": "LWN.net",
+    "first_seen": "2026-10-19T23:59:50.934320+00:00",
+    "published": "2026-10-19T19:04:55+00:00"
+  },
+  "https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code": {
+    "title": "How to continue a GitHub Copilot app session in VS Code",
+    "source": "GitHub Blog",
+    "first_seen": "2026-10-19T23:59:50.934320+00:00",
+    "published": "2026-10-19T18:47:22+00:00"
+  },
+  "http://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves": {
+    "title": "The reverts will continue until morale improves",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-19T23:59:50.934320+00:00",
+    "published": "2026-10-19T18:42:32+00:00"
+  },
+  "https://thenewstack.io/coding-agents-overstep-scope": {
+    "title": "One sentence changed Claude Code’s overreach rate from 0% to 17.1%",
+    "source": "The New Stack",
+    "first_seen": "2026-10-19T23:59:50.934320+00:00",
+    "published": "2026-10-19T18:36:02+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.4-Btrfs": {
+    "title": "Btrfs Brings More Performance Improvements For Linux 7.4",
+    "source": "Phoronix",
+    "first_seen": "2026-10-19T23:59:50.934320+00:00",
+    "published": "2026-10-19T18:17:17+00:00"
+  },
+  "https://grafana.com/blog/six-improvements-that-make-grafana-assistant-better-at-helping-your-workflows": {
+    "title": "6 improvements that make Grafana Assistant better at helping your workflows",
+    "source": "Grafana Blog",
+    "first_seen": "2026-10-19T23:59:50.934320+00:00",
+    "published": "2026-10-19T18:10:01+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/analyzing-aurora-mysql-issues-with-kiro-ide-and-aurora-mysql-mcp-server": {
+    "title": "Analyzing Aurora MySQL issues with Kiro IDE and Aurora MySQL MCP server",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-10-19T23:59:50.934320+00:00",
+    "published": "2026-10-19T17:59:27+00:00"
+  },
+  "https://webkit.org/blog/18438/blocking-identity-resolution-infrastructure": {
+    "title": "Blocking Identity Resolution Infrastructure",
+    "source": "WebKit Blog",
+    "first_seen": "2026-10-19T23:59:50.934320+00:00",
+    "published": "2026-10-19T17:50:24+00:00"
+  },
+  "https://blog.cloudflare.com/clairic-extraction-model": {
+    "title": "Introducing Clairic, a new System One class of extraction models",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-10-19T23:59:50.934320+00:00",
+    "published": "2026-10-19T17:48:26+00:00"
+  },
+  "https://www.inceptionlabs.ai/blog/introducing-mercury-3": {
+    "title": "Mercury 3: Diffusion at scale",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-19T23:59:50.934320+00:00",
+    "published": "2026-10-19T17:27:11+00:00"
+  },
+  "https://evidence.dev/jobs": {
+    "title": "Evidence (YC S21) Is Hiring Software Engineers",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-19T23:59:50.934320+00:00",
+    "published": "2026-10-19T17:21:33+00:00"
+  },
+  "https://www.phoronix.com/news/Intel-XeSS-Steam-Play-Proton": {
+    "title": "Intel Working To Add XMX-Accelerated XeSS To Valve's Steam Play (Proton)",
+    "source": "Phoronix",
+    "first_seen": "2026-10-19T23:59:50.934320+00:00",
+    "published": "2026-10-19T17:00:49+00:00"
+  },
+  "https://developer.nvidia.com/blog/accelerating-mamba-2-with-high-performance-forward-pass-kernels-in-nvidia-cuda-tile": {
+    "title": "Accelerating Mamba-2 with High-Performance Forward Pass Kernels in NVIDIA CUDA Tile",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-10-19T23:59:50.934320+00:00",
+    "published": "2026-10-19T17:00:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/pegasus-1-5-from-twelvelabs-is-now-available-in-amazon-bedrock": {
+    "title": "Pegasus 1.5 from TwelveLabs is now available in Amazon Bedrock",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-10-19T23:59:50.934320+00:00",
+    "published": "2026-10-19T16:49:19+00:00"
+  },
+  "https://github.com/kksimp/Mac.apk": {
+    "title": "Android apps running native on macOS",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-19T23:59:50.934320+00:00",
+    "published": "2026-10-19T16:45:30+00:00"
+  },
+  "https://www.minimax.io/blog/minimax-m31f": {
+    "title": "MiniMax M3.1 Flash",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-19T23:59:50.934320+00:00",
+    "published": "2026-10-19T16:39:09+00:00"
+  },
+  "https://www.phoronix.com/news/Reading-Page-Cache-WO-Folio-Ref": {
+    "title": "Linus Torvalds' AI Code Improved: Huge Performance Wins With Reworked Code",
+    "source": "Phoronix",
+    "first_seen": "2026-10-19T23:59:50.934320+00:00",
+    "published": "2026-10-19T16:32:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/how-deepgram-optimized-voice-ai-at-scale-with-aws-trainium": {
+    "title": "How Deepgram optimized voice AI at scale with AWS Trainium",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-10-19T23:59:50.934320+00:00",
+    "published": "2026-10-19T16:23:22+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/trace-security-threats-in-multi-agent-pipelines-with-amazon-opensearch-service": {
+    "title": "Trace security threats in multi-agent pipelines with Amazon OpenSearch Service",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-10-19T23:59:50.934320+00:00",
+    "published": "2026-10-19T16:10:31+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/push-based-kv-transfer-to-improve-ttft-and-tpot-for-disaggregated-inference-in-vllm": {
+    "title": "Push-based KV transfer to improve TTFT and TPOT for disaggregated inference in vLLM",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-10-19T23:59:50.934320+00:00",
+    "published": "2026-10-19T16:05:17+00:00"
+  },
+  "https://devblogs.microsoft.com/dotnet/migrate-dotnet-maui-apps-uikit-scene-lifecycle": {
+    "title": "Get Your .NET MAUI App Ready for Xcode 27",
+    "source": "MS .NET Blog",
+    "first_seen": "2026-10-19T23:59:50.934320+00:00",
+    "published": "2026-10-19T16:05:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/improve-ttft-for-multi-turn-agentic-workloads-with-bi-directional-kv-transfer-in-vllm": {
+    "title": "Improve TTFT for multi-turn agentic workloads with bi-directional KV transfer in vLLM",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-10-19T23:59:50.934320+00:00",
+    "published": "2026-10-19T16:03:23+00:00"
+  },
+  "https://engineering.fb.com/2026/10/19/ml-applications/genrecs-tokenization-transforming-ads-recommendation-at-meta-with-stable-model-vocabulary": {
+    "title": "GenRecs Tokenization: Transforming Ads Recommendation at Meta with Stable Model Vocabulary",
+    "source": "Meta Engineering",
+    "first_seen": "2026-10-19T23:59:50.934320+00:00",
+    "published": "2026-10-19T16:00:47+00:00"
+  },
+  "https://news.ycombinator.com/item?id=50154029": {
+    "title": "Launch HN: Laminar (YC S24) – RL-trained model that finds errors in agent traces",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-19T23:59:50.934320+00:00",
+    "published": "2026-10-19T16:00:18+00:00"
+  },
+  "https://devblogs.microsoft.com/dotnet/bring-your-own-model-to-the-github-copilot-sdk-with-csharp": {
+    "title": "Bring Your Own Model to the GitHub Copilot SDK with C#",
+    "source": "MS .NET Blog",
+    "first_seen": "2026-10-19T23:59:50.934320+00:00",
+    "published": "2026-10-19T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/topics/developers-practitioners/devs-guide-to-mcp-apps-in-gemini": {
+    "title": "Developer’s guide to implementing MCP apps in Gemini",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-10-19T23:59:50.934320+00:00",
+    "published": "2026-10-19T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/topics/consulting/three-ways-to-audit-your-llm-evaluators": {
+    "title": "Who judges the judge? Three helpful ways to audit your LLM evaluators",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-10-19T23:59:50.934320+00:00",
+    "published": "2026-10-19T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/data-analytics/python-udf-logging-for-pipeline-observability-in-bigquery": {
+    "title": "How to Use Python UDF Logging for Pipeline Observability",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-10-19T23:59:50.934320+00:00",
+    "published": "2026-10-19T16:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.4-m68k": {
+    "title": "Linux In 2026 Continues Improving Support For Benefiting Old Atari & Amiga Hardware",
+    "source": "Phoronix",
+    "first_seen": "2026-10-19T23:59:50.934320+00:00",
+    "published": "2026-10-19T15:55:47+00:00"
+  },
+  "https://www.nbcnews.com/world/ukraine/ukraine-first-drone-evacuation-wounded-soldier-frontlines-hexacopter-rcna604310": {
+    "title": "Ukraine claims first drone evacuation of wounded soldier",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-19T23:59:50.934320+00:00",
+    "published": "2026-10-19T15:31:34+00:00"
+  },
+  "https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science": {
+    "title": "CERN and Mistral sign a statement of intent to establish a strategic partnership",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-19T23:59:50.934320+00:00",
+    "published": "2026-10-19T15:28:24+00:00"
+  },
+  "https://benjamincongdon.me/blog/2026/10/19/Agentic-Monitoring": {
+    "title": "Agentic Monitoring",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-19T23:59:50.934320+00:00",
+    "published": "2026-10-19T14:52:04+00:00"
+  },
+  "http://www.boredhackerblog.info/2026/10/plex-vulnerabilities-being-exploited-in.html": {
+    "title": "Plex vulnerabilities being exploited in the wild to drop a cryptominer",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-19T23:59:50.934320+00:00",
+    "published": "2026-10-19T13:36:43+00:00"
+  },
+  "https://cakehonolulu.github.io/honey-i-shrunk-the-tv": {
+    "title": "Honey, I shrunk the TV",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-19T23:59:50.934320+00:00",
+    "published": "2026-10-19T13:06:21+00:00"
+  },
+  "https://openai.com/index/low-resource-programming-languages": {
+    "title": "Advancing coding in low‑resource programming languages",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-10-19T23:59:50.934320+00:00",
+    "published": "2026-10-19T12:00:00+00:00"
+  },
+  "https://news.ycombinator.com/item?id=50151036": {
+    "title": "Ask HN: How to deal with shipping AI-written code you don't understand?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-19T23:59:50.934320+00:00",
+    "published": "2026-10-19T11:24:34+00:00"
+  },
+  "https://cloud.google.com/blog/products/ai-machine-learning/google-named-leader-in-2026-idc-marketscape-for-agentic-ai-platforms": {
+    "title": "Google named a Leader in the 2026 IDC MarketScape for Agentic AI Platforms",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-10-19T23:59:50.934320+00:00",
+    "published": "2026-10-19T07:00:00+00:00"
+  },
+  "https://huggingface.co/blog/hf-torchneuron": {
+    "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-10-19T23:59:50.934320+00:00",
+    "published": "2026-10-19T00:00:00+00:00"
   }
 }
