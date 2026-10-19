@@ -108902,5 +108902,317 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-10-18T22:39:05.987677+00:00",
     "published": "2026-10-17T23:26:35+00:00"
+  },
+  "https://cloud.google.com/blog/topics/manufacturing/building-full-virtual-vehicles-on-google-cloud-from-aaos-to-the-smallest-mcu": {
+    "title": "Building full virtual vehicles on Google Cloud: From AAOS to the smallest MCU",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-10-19T15:56:23.604702+00:00",
+    "published": "2026-10-19T16:00:00+00:00"
+  },
+  "https://lwn.net/Articles/1100241": {
+    "title": "[$] Development statistics for the 7.3 kernel",
+    "source": "LWN.net",
+    "first_seen": "2026-10-19T15:56:23.604702+00:00",
+    "published": "2026-10-19T15:45:24+00:00"
+  },
+  "https://pytorch.org/blog/one-search-two-layers-compiler-controls-inside-pytorch-helion-using-nvidia-compileiq": {
+    "title": "One Search, Two Layers: Compiler Controls Inside PyTorch Helion using NVIDIA CompileIQ",
+    "source": "PyTorch Blog",
+    "first_seen": "2026-10-19T15:56:23.604702+00:00",
+    "published": "2026-10-19T15:45:05+00:00"
+  },
+  "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-lambda-web-functions-amazon-s3-on-the-vercel-marketplace-and-more-october-19-2026": {
+    "title": "AWS Weekly Roundup: AWS Lambda Web Functions, Amazon S3 on the Vercel Marketplace, and more (October 19, 2026)",
+    "source": "AWS Blog",
+    "first_seen": "2026-10-19T15:56:23.604702+00:00",
+    "published": "2026-10-19T15:34:59+00:00"
+  },
+  "https://stackoverflow.blog/2026/10/19/production-grade-llms-and-agents-a-field-guide": {
+    "title": "Production-grade LLMs and agents: a field guide",
+    "source": "Stack Overflow Blog",
+    "first_seen": "2026-10-19T15:56:23.604702+00:00",
+    "published": "2026-10-19T15:32:01+00:00"
+  },
+  "https://blog.bytebytego.com/p/how-uber-built-a-genie-to-answer-051": {
+    "title": "How Uber Built a Genie to Answer Questions Correctly",
+    "source": "ByteByteGo",
+    "first_seen": "2026-10-19T15:56:23.604702+00:00",
+    "published": "2026-10-19T15:31:03+00:00"
+  },
+  "https://engineering.fb.com/2026/10/19/ml-applications/thin-orchestrator-ai-agent-architecture": {
+    "title": "The Thin Orchestrator: How We Made Our AI Agents More Reliable by Giving the Router Less to Do",
+    "source": "Meta Engineering",
+    "first_seen": "2026-10-19T15:56:23.604702+00:00",
+    "published": "2026-10-19T15:30:37+00:00"
+  },
+  "https://netflixtechblog.com/ontology-driven-observability-building-an-end-to-end-knowledge-graph-at-netflix-scale-421392cf5adf": {
+    "title": "Ontology-Driven Observability: Building an End-to-End Knowledge Graph at Netflix",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-19T15:56:23.604702+00:00",
+    "published": "2026-10-19T15:10:20+00:00"
+  },
+  "https://medium.com/pinterest-engineering/introducing-modulelens-zooming-into-pytorch-modules-for-human-and-agentic-engineering-b7e9be9d29f8?source=rss----4c5a5f6279b6---4": {
+    "title": "Introducing ModuleLens: Zooming into PyTorch Modules for Human and Agentic Engineering",
+    "source": "Pinterest Engineering",
+    "first_seen": "2026-10-19T15:56:23.604702+00:00",
+    "published": "2026-10-19T15:01:04+00:00"
+  },
+  "https://thenewstack.io/deepseek-web-search-api": {
+    "title": "DeepSeek made its name with cheap AI models. Now it’s undercutting search API rivals, too.",
+    "source": "The New Stack",
+    "first_seen": "2026-10-19T15:56:23.604702+00:00",
+    "published": "2026-10-19T14:29:42+00:00"
+  },
+  "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins": {
+    "title": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-19T15:56:23.604702+00:00",
+    "published": "2026-10-19T14:23:17+00:00"
+  },
+  "https://www.databricks.com/blog/databricks-doubling-down-new-york-city-premier-ai-talent-hub": {
+    "title": "Databricks Is Doubling Down On New York City As A Premier AI Talent Hub",
+    "source": "Databricks Blog",
+    "first_seen": "2026-10-19T15:56:23.604702+00:00",
+    "published": "2026-10-19T14:00:50+00:00"
+  },
+  "https://tailscale.com/blog/magicroute-beta": {
+    "title": "MagicRoute: Routing without physical routers",
+    "source": "Tailscale Blog",
+    "first_seen": "2026-10-19T15:56:23.604702+00:00",
+    "published": "2026-10-19T14:00:00+00:00"
+  },
+  "https://realpython.com/claude-code-hooks": {
+    "title": "How to Automate Your Workflow With Claude Code Hooks",
+    "source": "Real Python",
+    "first_seen": "2026-10-19T15:56:23.604702+00:00",
+    "published": "2026-10-19T14:00:00+00:00"
+  },
+  "https://github.com/kividbio/kividb": {
+    "title": "Show HN: KiviDB, a faster Redis-compatible memory database and vector cache",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-19T15:56:23.604702+00:00",
+    "published": "2026-10-19T13:53:52+00:00"
+  },
+  "https://lwn.net/Articles/1099596": {
+    "title": "[$] Cross-crate forward declarations in Rust",
+    "source": "LWN.net",
+    "first_seen": "2026-10-19T15:56:23.604702+00:00",
+    "published": "2026-10-19T13:50:49+00:00"
+  },
+  "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site": {
+    "title": "Feds Suspect Ransom Negotiator Ran ShinyHunters Extortion Site",
+    "source": "Krebs on Security",
+    "first_seen": "2026-10-19T15:56:23.604702+00:00",
+    "published": "2026-10-19T13:48:56+00:00"
+  },
+  "https://marc.info?l=openbsd-ports&m=179236125692175": {
+    "title": "Wine Ported to OpenBSD",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-19T15:56:23.604702+00:00",
+    "published": "2026-10-19T13:35:34+00:00"
+  },
+  "https://www.phoronix.com/news/Multipass-1.17": {
+    "title": "Canonical's Multipass 1.17 Adds Direct Support For Non-Ubuntu Linux Distros",
+    "source": "Phoronix",
+    "first_seen": "2026-10-19T15:56:23.604702+00:00",
+    "published": "2026-10-19T13:17:18+00:00"
+  },
+  "https://lwn.net/Articles/1101421": {
+    "title": "Security updates for Monday",
+    "source": "LWN.net",
+    "first_seen": "2026-10-19T15:56:23.604702+00:00",
+    "published": "2026-10-19T13:10:19+00:00"
+  },
+  "https://100toolkit.com/blog/deslop-model": {
+    "title": "Show HN: Qwen3-4B with the AI writing tics trained out",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-19T15:56:23.604702+00:00",
+    "published": "2026-10-19T13:00:47+00:00"
+  },
+  "https://engineering.fb.com/2026/10/19/data-center-engineering/inside-prometheus-meta-gigawatt-scale-supercluster": {
+    "title": "Inside Prometheus: Meta’s Journey to a Gigawatt-Scale Supercluster",
+    "source": "Meta Engineering",
+    "first_seen": "2026-10-19T15:56:23.604702+00:00",
+    "published": "2026-10-19T13:00:10+00:00"
+  },
+  "https://blogs.microsoft.com/blog/2026/10/19/securing-the-agentic-insider": {
+    "title": "Securing the agentic insider",
+    "source": "Microsoft Blog",
+    "first_seen": "2026-10-19T15:56:23.604702+00:00",
+    "published": "2026-10-19T13:00:02+00:00"
+  },
+  "https://thenewstack.io/distroless-container-security-gap": {
+    "title": "The distroless security gap: Why bottom-up containers are the next evolution in OCI images",
+    "source": "The New Stack",
+    "first_seen": "2026-10-19T15:56:23.604702+00:00",
+    "published": "2026-10-19T13:00:00+00:00"
+  },
+  "https://oxide.computer/blog/oxide-computer-company-and-l-labs": {
+    "title": "Oxide Computer Company and L Labs Set 18 World Records in STAC-M3 Market Data Benchmarks",
+    "source": "Oxide Computer",
+    "first_seen": "2026-10-19T15:56:23.604702+00:00",
+    "published": "2026-10-19T13:00:00+00:00"
+  },
+  "https://blog.cloudflare.com/protect-your-netscaler-gateway": {
+    "title": "Beyond the patch: Protecting your NetScaler gateway against future vulnerabilities",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-10-19T15:56:23.604702+00:00",
+    "published": "2026-10-19T13:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/GNU-Linux-Libre-7.3": {
+    "title": "GNU Linux-libre 7.3-gnu Removes More Firmware Blobs",
+    "source": "Phoronix",
+    "first_seen": "2026-10-19T15:56:23.604702+00:00",
+    "published": "2026-10-19T12:57:58+00:00"
+  },
+  "https://pytorch.org/blog/introducing-torchneuron-native-pytorch-backend-for-aws-trainium": {
+    "title": "Introducing TorchNeuron: Native PyTorch backend for AWS Trainium",
+    "source": "PyTorch Blog",
+    "first_seen": "2026-10-19T15:56:23.604702+00:00",
+    "published": "2026-10-19T12:45:23+00:00"
+  },
+  "https://www.phoronix.com/news/GNOME-Power-Savings-GPU": {
+    "title": "GNOME Mutter Lands Improvement For Reducing GPU Work While In Power Savings Mode",
+    "source": "Phoronix",
+    "first_seen": "2026-10-19T15:56:23.604702+00:00",
+    "published": "2026-10-19T12:20:09+00:00"
+  },
+  "https://www.phoronix.com/news/SpacemiT-V100": {
+    "title": "SpacemiT Announces The V100 Server-Class RISC-V Processor",
+    "source": "Phoronix",
+    "first_seen": "2026-10-19T15:56:23.604702+00:00",
+    "published": "2026-10-19T12:00:00+00:00"
+  },
+  "https://realpython.com/quizzes/claude-code-hooks": {
+    "title": "Quiz: How to Automate Your Workflow With Claude Code Hooks",
+    "source": "Real Python",
+    "first_seen": "2026-10-19T15:56:23.604702+00:00",
+    "published": "2026-10-19T12:00:00+00:00"
+  },
+  "https://github.com/google-research/harness2": {
+    "title": "Harness2 by Google Research – Recursive Agent Harnessing",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-19T15:56:23.604702+00:00",
+    "published": "2026-10-19T11:28:45+00:00"
+  },
+  "https://spectrum.ieee.org/esa-hera-dimorphos-rendezvous": {
+    "title": "ESA's Hera Will View Asteroid Scars from DART's Strike",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-19T15:56:23.604702+00:00",
+    "published": "2026-10-19T11:12:02+00:00"
+  },
+  "https://spectrum.ieee.org/alternatives-to-animal-testing": {
+    "title": "Alternatives to Animal Testing Are Finally Taking Off",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-19T15:56:23.604702+00:00",
+    "published": "2026-10-19T11:10:54+00:00"
+  },
+  "https://www.cncf.io/blog/2026/10/19/how-ai-workloads-are-reshaping-kubernetes-autoscaling": {
+    "title": "How AI workloads are reshaping Kubernetes autoscaling",
+    "source": "CNCF Blog",
+    "first_seen": "2026-10-19T15:56:23.604702+00:00",
+    "published": "2026-10-19T11:00:00+00:00"
+  },
+  "https://opentelemetry.io/blog/2026/gc-candidates": {
+    "title": "Announcing the 2026 OpenTelemetry Governance Committee Election Candidates",
+    "source": "OpenTelemetry Blog",
+    "first_seen": "2026-10-19T15:56:23.604702+00:00",
+    "published": "2026-10-19T10:59:07+00:00"
+  },
+  "https://community.letsencrypt.org/t/lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation/252166": {
+    "title": "Let's Encrypt is adding two additional remote perspectives for domain validation",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-19T15:56:23.604702+00:00",
+    "published": "2026-10-19T10:53:39+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-BeamFS": {
+    "title": "BeamFS Sent Out As Newest File-System Proposal For Linux",
+    "source": "Phoronix",
+    "first_seen": "2026-10-19T15:56:23.604702+00:00",
+    "published": "2026-10-19T10:16:14+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.4-Removes-ARM64-BE": {
+    "title": "Linux 7.4 Removing Its Broken & Rarely Touched Code For ARM64 Big Endian",
+    "source": "Phoronix",
+    "first_seen": "2026-10-19T15:56:23.604702+00:00",
+    "published": "2026-10-19T10:01:00+00:00"
+  },
+  "https://mistral.ai/news/timestral": {
+    "title": "Timestral: Mistral release time-series foundation models",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-19T15:56:23.604702+00:00",
+    "published": "2026-10-19T09:59:32+00:00"
+  },
+  "https://www.phoronix.com/news/RADV-GFX10-Host-Image-Copy": {
+    "title": "RADV Promotes VK_EXT_host_image_copy To Enabled By Default For RDNA1 GPUs",
+    "source": "Phoronix",
+    "first_seen": "2026-10-19T15:56:23.604702+00:00",
+    "published": "2026-10-19T09:48:43+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.4-TAINT-FORCED-BIND": {
+    "title": "TAINT_FORCED_BIND Sent In For Linux 7.4 To Deal With Major Fuzzing Attack",
+    "source": "Phoronix",
+    "first_seen": "2026-10-19T15:56:23.604702+00:00",
+    "published": "2026-10-19T09:37:16+00:00"
+  },
+  "https://lwn.net/Articles/1101143": {
+    "title": "Linux 7.3",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-19T15:56:23.604702+00:00",
+    "published": "2026-10-19T07:23:57+00:00"
+  },
+  "https://crystl.dev/guides/tmux-for-ai-agents": {
+    "title": "Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-19T15:56:23.604702+00:00",
+    "published": "2026-10-19T05:55:31+00:00"
+  },
+  "https://contextfirst.blog/superlite-hand-an-agent-a-spec": {
+    "title": "Superlite: A Faster Alternatie to Superpowers",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-19T15:56:23.604702+00:00",
+    "published": "2026-10-19T02:01:16+00:00"
+  },
+  "https://www.thoughtworks.com/insights/articles/cheaper-code-wont-kill-software-development": {
+    "title": "Cheaper code won't kill software development, but it’s already reshaping it",
+    "source": "ThoughtWorks",
+    "first_seen": "2026-10-19T15:56:23.604702+00:00",
+    "published": "2026-10-19T00:00:00+00:00"
+  },
+  "https://simonwillison.net/2026/Oct/18/llm-tools-datasette": {
+    "title": "llm-tools-datasette 0.1.1",
+    "source": "Simon Willison",
+    "first_seen": "2026-10-19T15:56:23.604702+00:00",
+    "published": "2026-10-18T23:43:09+00:00"
+  },
+  "https://colo.to/cyberspace.html": {
+    "title": "William Gibson and the trademarking of cyberspace",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-19T15:56:23.604702+00:00",
+    "published": "2026-10-18T23:37:57+00:00"
+  },
+  "https://www.csis.org/analysis/how-quickly-can-dod-rebuild-and-recast-munitions-industrial-base": {
+    "title": "How Quickly Can the DoD Rebuild and Recast the Munitions Industrial Base?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-19T15:56:23.604702+00:00",
+    "published": "2026-10-18T23:37:54+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.3-Released": {
+    "title": "Linux 7.3 Released With Faster I/O Performance, AMD Zen 6 Preparations & More",
+    "source": "Phoronix",
+    "first_seen": "2026-10-19T15:56:23.604702+00:00",
+    "published": "2026-10-18T23:28:09+00:00"
+  },
+  "https://simonwillison.net/2026/Oct/18/llm-echo": {
+    "title": "llm-echo 0.5",
+    "source": "Simon Willison",
+    "first_seen": "2026-10-19T15:56:23.604702+00:00",
+    "published": "2026-10-18T23:16:16+00:00"
+  },
+  "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on": {
+    "title": "If you don't run your own LLM proxy, how do you know whats going on?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-19T15:56:23.604702+00:00",
+    "published": "2026-10-18T21:09:12+00:00"
   }
 }
