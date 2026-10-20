@@ -109820,5 +109820,413 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-10-20T13:55:05.005486+00:00",
     "published": "2026-10-19T13:47:56+00:00"
+  },
+  "https://thenewstack.io/elevenlabs-voice-agent-tradeoffs": {
+    "title": "ElevenLabs wants to run your voice agent. Here’s what developers give up.",
+    "source": "The New Stack",
+    "first_seen": "2026-10-20T18:47:35.579446+00:00",
+    "published": "2026-10-20T18:43:47+00:00"
+  },
+  "https://lwn.net/Articles/1100257": {
+    "title": "[$] SUSE's efforts to disable setuid system-wide",
+    "source": "LWN.net",
+    "first_seen": "2026-10-20T18:47:35.579446+00:00",
+    "published": "2026-10-20T18:36:10+00:00"
+  },
+  "https://huggingface.co/blog/nvidia/cosmos3-h-dreams": {
+    "title": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-10-20T18:47:35.579446+00:00",
+    "published": "2026-10-20T18:17:47+00:00"
+  },
+  "https://www.databricks.com/blog/memcurrent-designing-persistent-memory-production-agents": {
+    "title": "MemCurrent: Designing Persistent Memory for Production Agents",
+    "source": "Databricks Blog",
+    "first_seen": "2026-10-20T18:47:35.579446+00:00",
+    "published": "2026-10-20T18:15:47+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/work-management-context-for-ai-agents-with-smartsheet-mcp-on-aws": {
+    "title": "Work management context for AI agents with Smartsheet MCP on AWS",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-10-20T18:47:35.579446+00:00",
+    "published": "2026-10-20T17:59:07+00:00"
+  },
+  "https://devblogs.microsoft.com/typescript/announcing-typescript-7-1-beta": {
+    "title": "Announcing TypeScript 7.1 Beta",
+    "source": "MS TypeScript Blog",
+    "first_seen": "2026-10-20T18:47:35.579446+00:00",
+    "published": "2026-10-20T17:53:06+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/from-data-to-decisions-conversational-supply-chain-intelligence-with-amazon-quick-and-amazon-bedrock-agentcore": {
+    "title": "From data to decisions: Conversational supply chain intelligence with Amazon Quick and Amazon Bedrock AgentCore",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-10-20T18:47:35.579446+00:00",
+    "published": "2026-10-20T17:52:50+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/fine-tuning-gpt-oss-20b-for-multilingual-reasoning-on-amazon-sagemaker-hyperpod": {
+    "title": "Fine-tuning GPT-OSS-20B for multilingual reasoning on Amazon SageMaker HyperPod",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-10-20T18:47:35.579446+00:00",
+    "published": "2026-10-20T17:48:27+00:00"
+  },
+  "https://aws.amazon.com/blogs/compute/building-an-aeo-scoring-pipeline-with-aws-lambda-durable-functions": {
+    "title": "Building an AEO scoring pipeline with AWS Lambda durable functions",
+    "source": "AWS Compute Blog",
+    "first_seen": "2026-10-20T18:47:35.579446+00:00",
+    "published": "2026-10-20T17:45:29+00:00"
+  },
+  "https://newsletter.pragmaticengineer.com/p/whats-the-roi-of-software-engineers": {
+    "title": "What’s the ROI of software engineers’ spending on AI?",
+    "source": "The Pragmatic Engineer",
+    "first_seen": "2026-10-20T18:47:35.579446+00:00",
+    "published": "2026-10-20T17:34:18+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/how-octave-built-a-secure-multi-tenant-ai-foundation-on-amazon-bedrock": {
+    "title": "How Octave built a secure multi-tenant AI foundation on Amazon Bedrock",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-10-20T18:47:35.579446+00:00",
+    "published": "2026-10-20T17:34:04+00:00"
+  },
+  "https://www.databricks.com/blog/introducing-agent-memory-databricks": {
+    "title": "Introducing Agent Memory on Databricks",
+    "source": "Databricks Blog",
+    "first_seen": "2026-10-20T18:47:35.579446+00:00",
+    "published": "2026-10-20T17:26:56+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.4-XFS-Checksumming": {
+    "title": "Improved Performance & Resource Usage For XFS Checksumming With Linux 7.4",
+    "source": "Phoronix",
+    "first_seen": "2026-10-20T18:47:35.579446+00:00",
+    "published": "2026-10-20T17:05:28+00:00"
+  },
+  "https://aws.amazon.com/blogs/aws/introducing-amazon-ecs-gateway-a-fully-managed-ingress-solution-for-ecs-services": {
+    "title": "Introducing Amazon ECS Gateway: A fully-managed ingress solution for ECS services",
+    "source": "AWS Blog",
+    "first_seen": "2026-10-20T18:47:35.579446+00:00",
+    "published": "2026-10-20T17:03:38+00:00"
+  },
+  "https://www.phoronix.com/news/Intel-AMD-oneDNN-Optimize": {
+    "title": "Intel & AMD Now Collaborating On Software Optimizations With PyTorch/oneDNN",
+    "source": "Phoronix",
+    "first_seen": "2026-10-20T18:47:35.579446+00:00",
+    "published": "2026-10-20T16:50:52+00:00"
+  },
+  "https://thenewstack.io/datadog-propolis-agentic-testing": {
+    "title": "Scripted tests can’t keep up with AI-written code. Datadog is betting agents can.",
+    "source": "The New Stack",
+    "first_seen": "2026-10-20T18:47:35.579446+00:00",
+    "published": "2026-10-20T16:49:53+00:00"
+  },
+  "https://devblogs.microsoft.com/devops/azure-devops-available-in-microsoft-copilot": {
+    "title": "Azure DevOps available in Microsoft Copilot",
+    "source": "MS DevOps Blog",
+    "first_seen": "2026-10-20T18:47:35.579446+00:00",
+    "published": "2026-10-20T16:48:07+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/access-openai-gpt-models-on-amazon-bedrock-from-canada-with-cross-region-inference": {
+    "title": "Access OpenAI GPT models on Amazon Bedrock from Canada with cross-Region inference",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-10-20T18:47:35.579446+00:00",
+    "published": "2026-10-20T16:42:53+00:00"
+  },
+  "https://github.com/google-pytorch/torch_tpu": {
+    "title": "Google open-sources TorchTPU, a native PyTorch back end for TPUs",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-20T18:47:35.579446+00:00",
+    "published": "2026-10-20T16:40:24+00:00"
+  },
+  "https://grafana.com/blog/observabilitycon-2026-announcements": {
+    "title": "ObservabilityCON 2026: A guide to all the announcements from Grafana Labs",
+    "source": "Grafana Blog",
+    "first_seen": "2026-10-20T18:47:35.579446+00:00",
+    "published": "2026-10-20T16:30:02+00:00"
+  },
+  "https://grafana.com/blog/grafana-marketplace": {
+    "title": "Expand what’s possible with Grafana: The Grafana Marketplace is now generally available",
+    "source": "Grafana Blog",
+    "first_seen": "2026-10-20T18:47:35.579446+00:00",
+    "published": "2026-10-20T16:30:02+00:00"
+  },
+  "https://grafana.com/blog/grafana-ai-next-gen-visualization": {
+    "title": "Grafana Pages: Turn data into interactive experiences with the next evolution of Grafana",
+    "source": "Grafana Blog",
+    "first_seen": "2026-10-20T18:47:35.579446+00:00",
+    "published": "2026-10-20T16:30:02+00:00"
+  },
+  "https://grafana.com/blog/grafana-ai-autonomous-operations": {
+    "title": "From production problem to proposed fix: Implement autonomous operations with Grafana AI",
+    "source": "Grafana Blog",
+    "first_seen": "2026-10-20T18:47:35.579446+00:00",
+    "published": "2026-10-20T16:30:02+00:00"
+  },
+  "https://grafana.com/blog/full-stack-observability-with-knowledge-graph": {
+    "title": "Full-stack observability in Grafana Cloud: More connections, richer context, and faster investigations for users and agents",
+    "source": "Grafana Blog",
+    "first_seen": "2026-10-20T18:47:35.579446+00:00",
+    "published": "2026-10-20T16:30:02+00:00"
+  },
+  "https://grafana.com/blog/cut-costs-keep-what-you-need-adaptive-telemetry": {
+    "title": "Break the link between data volume and your observability bill with Adaptive Telemetry",
+    "source": "Grafana Blog",
+    "first_seen": "2026-10-20T18:47:35.579446+00:00",
+    "published": "2026-10-20T16:30:02+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/discover-tools-at-runtime-with-aws-agent-registry": {
+    "title": "Discover tools at runtime with AWS Agent Registry",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-10-20T18:47:35.579446+00:00",
+    "published": "2026-10-20T16:22:24+00:00"
+  },
+  "https://huggingface.co/blog/allenai/fairstress": {
+    "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-10-20T18:47:35.579446+00:00",
+    "published": "2026-10-20T16:09:19+00:00"
+  },
+  "https://github.blog/ai-and-ml/github-copilot/how-3-java-champions-are-using-github-copilot-for-increased-productivity": {
+    "title": "How 3 Java Champions are using GitHub Copilot for increased productivity",
+    "source": "GitHub Blog",
+    "first_seen": "2026-10-20T18:47:35.579446+00:00",
+    "published": "2026-10-20T16:05:03+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/securing-ai-agent-identity-with-x-509-pki-on-aws": {
+    "title": "Securing AI agent identity with X.509 PKI on AWS",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-10-20T18:47:35.579446+00:00",
+    "published": "2026-10-20T16:03:48+00:00"
+  },
+  "https://mistral.ai/news/voxtral-3": {
+    "title": "Voxtral 3",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-20T18:47:35.579446+00:00",
+    "published": "2026-10-20T16:02:07+00:00"
+  },
+  "https://pytorch.org/blog/pytorch-foundation-welcomes-nine-new-members-as-momentum-builds-around-open-source-ai-center-of-gravity": {
+    "title": "PyTorch Foundation Welcomes Nine New Members As Momentum Builds Around Open Source AI Center of Gravity",
+    "source": "PyTorch Blog",
+    "first_seen": "2026-10-20T18:47:35.579446+00:00",
+    "published": "2026-10-20T16:01:06+00:00"
+  },
+  "https://pytorch.org/blog/nebius-joins-the-pytorch-foundation-as-a-platinum-member": {
+    "title": "Nebius Joins the PyTorch Foundation as a Platinum Member",
+    "source": "PyTorch Blog",
+    "first_seen": "2026-10-20T18:47:35.579446+00:00",
+    "published": "2026-10-20T16:00:41+00:00"
+  },
+  "https://pytorch.org/blog/introducing-torchtpu": {
+    "title": "Introducing TorchTPU",
+    "source": "PyTorch Blog",
+    "first_seen": "2026-10-20T18:47:35.579446+00:00",
+    "published": "2026-10-20T16:00:30+00:00"
+  },
+  "https://pytorch.org/blog/from-ktir-to-spyrecode-an-mlir-dataflow-backend-for-ibm-spyre": {
+    "title": "From KTIR to SpyreCode: An MLIR Dataflow Backend for IBM Spyre",
+    "source": "PyTorch Blog",
+    "first_seen": "2026-10-20T18:47:35.579446+00:00",
+    "published": "2026-10-20T16:00:15+00:00"
+  },
+  "https://lukaswerner.com/post/2026-10-20@bottom-up-vga": {
+    "title": "Making a VGA Driver in SystemVerilog",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-20T18:47:35.579446+00:00",
+    "published": "2026-10-20T16:00:15+00:00"
+  },
+  "https://pytorch.org/blog/nscale-joins-the-pytorch-foundation-as-a-platinum-member": {
+    "title": "Nscale Joins the PyTorch Foundation as a Platinum Member",
+    "source": "PyTorch Blog",
+    "first_seen": "2026-10-20T18:47:35.579446+00:00",
+    "published": "2026-10-20T16:00:06+00:00"
+  },
+  "https://thenewstack.io/review-decisions-not-code": {
+    "title": "How to review AI code without reading the code",
+    "source": "The New Stack",
+    "first_seen": "2026-10-20T18:47:35.579446+00:00",
+    "published": "2026-10-20T16:00:00+00:00"
+  },
+  "https://e360.yale.edu/digest/deepwater-horizon-deep-sea-recovery": {
+    "title": "Sixteen Years After Deepwater Horizon, Deep Sea Life Shows Few Signs of Recovery",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-20T18:47:35.579446+00:00",
+    "published": "2026-10-20T15:59:06+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/how-eon-built-multi-cloud-investigation-with-an-mcp-gateway-on-amazon-bedrock-agentcore": {
+    "title": "How Eon built multi-cloud investigation with an MCP Gateway on Amazon Bedrock AgentCore",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-10-20T18:47:35.579446+00:00",
+    "published": "2026-10-20T15:57:57+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/how-u-s-bank-migrated-119-tb-from-oracle-exadata-to-amazon-rds-for-oracle": {
+    "title": "How U.S. Bank migrated 119 TB from Oracle Exadata to Amazon RDS for Oracle",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-10-20T18:47:35.579446+00:00",
+    "published": "2026-10-20T15:53:13+00:00"
+  },
+  "https://lwn.net/Articles/1100520": {
+    "title": "[$] Discussing a rewrite of XArray",
+    "source": "LWN.net",
+    "first_seen": "2026-10-20T18:47:35.579446+00:00",
+    "published": "2026-10-20T15:46:37+00:00"
+  },
+  "https://sael.net/flatpack": {
+    "title": "IKEA – 3D Guide",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-20T18:47:35.579446+00:00",
+    "published": "2026-10-20T15:42:45+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/build-a-semantic-layer-for-agentic-ai-on-aws-with-denodo-and-amazon-bedrock-agentcore": {
+    "title": "Build a semantic layer for agentic AI on AWS with Denodo and Amazon Bedrock AgentCore",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-10-20T18:47:35.579446+00:00",
+    "published": "2026-10-20T15:39:04+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/build-a-semantic-layer-for-agentic-ai-on-aws-with-strategy-mosaic-and-amazon-bedrock-agentcore": {
+    "title": "Build a semantic layer for agentic AI on AWS with Strategy Mosaic and Amazon Bedrock AgentCore",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-10-20T18:47:35.579446+00:00",
+    "published": "2026-10-20T15:36:39+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/build-a-semantic-layer-for-agentic-ai-on-aws-with-atscale-and-amazon-bedrock-agentcore": {
+    "title": "Build a semantic layer for agentic AI on AWS with AtScale and Amazon Bedrock AgentCore",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-10-20T18:47:35.579446+00:00",
+    "published": "2026-10-20T15:33:54+00:00"
+  },
+  "https://blog.bytebytego.com/p/why-shopify-migrated-from-react-native": {
+    "title": "Why Shopify Migrated From React Native",
+    "source": "ByteByteGo",
+    "first_seen": "2026-10-20T18:47:35.579446+00:00",
+    "published": "2026-10-20T15:31:07+00:00"
+  },
+  "https://huggingface.co/blog/ibm-research/altk-evolve-bc": {
+    "title": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-10-20T18:47:35.579446+00:00",
+    "published": "2026-10-20T15:19:48+00:00"
+  },
+  "https://www.nber.org/papers/w35706": {
+    "title": "Why do we have so many meetings?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-20T18:47:35.579446+00:00",
+    "published": "2026-10-20T15:19:19+00:00"
+  },
+  "https://jevcards.com": {
+    "title": "Show HN: Jev Cards, Can you beat a vision model at a picture quiz?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-20T18:47:35.579446+00:00",
+    "published": "2026-10-20T15:11:56+00:00"
+  },
+  "https://github.com/AbdullahAlhariri/penmentor": {
+    "title": "Show HN: Penmentor – Claude marks up your handwritten math like a teacher",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-20T18:47:35.579446+00:00",
+    "published": "2026-10-20T15:10:54+00:00"
+  },
+  "https://news.ycombinator.com/item?id=50167583": {
+    "title": "Launch HN: Respan (YC W24) – Open-source Rust AI gateway built around plugins",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-20T18:47:35.579446+00:00",
+    "published": "2026-10-20T15:09:29+00:00"
+  },
+  "https://mastodon.gamedev.place/@AshleyGullen/117473851565913919": {
+    "title": "Facebook Pages require paid subscription to post more than two links per month",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-20T18:47:35.579446+00:00",
+    "published": "2026-10-20T15:06:08+00:00"
+  },
+  "https://thenewstack.io/deepseek-deepinfer-huawei-nvidia": {
+    "title": "DeepSeek open-sources the inference engine behind its API. And Huawei gets equal billing with Nvidia.",
+    "source": "The New Stack",
+    "first_seen": "2026-10-20T18:47:35.579446+00:00",
+    "published": "2026-10-20T14:58:36+00:00"
+  },
+  "https://lwn.net/Articles/1101643": {
+    "title": "eMudhra intermediate CA compromise",
+    "source": "LWN.net",
+    "first_seen": "2026-10-20T18:47:35.579446+00:00",
+    "published": "2026-10-20T14:56:23+00:00"
+  },
+  "https://www.databricks.com/blog/how-hamlet-uses-databricks-lakebase-postgres-test-changes-against-production-data": {
+    "title": "How Hamlet uses Databricks Lakebase Postgres to test changes against production data",
+    "source": "Databricks Blog",
+    "first_seen": "2026-10-20T18:47:35.579446+00:00",
+    "published": "2026-10-20T14:45:00+00:00"
+  },
+  "https://prestonbyrne.com/2026/10/20/ofcom-concedes-defeat": {
+    "title": "Ofcom concedes defeat in 4chan case",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-20T18:47:35.579446+00:00",
+    "published": "2026-10-20T14:30:31+00:00"
+  },
+  "https://www.phoronix.com/review/ubuntu-2610-arrow-lake": {
+    "title": "Intel Core Ultra 9 Arrow Lake On Star Labs StarFighter Shows Nice Gains On Ubuntu 26.10",
+    "source": "Phoronix",
+    "first_seen": "2026-10-20T18:47:35.579446+00:00",
+    "published": "2026-10-20T14:25:12+00:00"
+  },
+  "https://tyma.com/my-cringe-story": {
+    "title": "My Friend Bob Cringely",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-20T18:47:35.579446+00:00",
+    "published": "2026-10-20T14:13:49+00:00"
+  },
+  "https://thenewstack.io/beam-mac-mini-agents": {
+    "title": "Beam pulls single app windows off the Mac Mini running your agents",
+    "source": "The New Stack",
+    "first_seen": "2026-10-20T18:47:35.579446+00:00",
+    "published": "2026-10-20T14:07:14+00:00"
+  },
+  "https://realpython.com/courses/tell-your-tech-career-story": {
+    "title": "Tell Your Tech Career Story: Proof, Résumés, and Interviews",
+    "source": "Real Python",
+    "first_seen": "2026-10-20T18:47:35.579446+00:00",
+    "published": "2026-10-20T14:00:00+00:00"
+  },
+  "https://realpython.com/courses/building-ai-agent-langgraph-python": {
+    "title": "Building an AI Agent With LangGraph and Python",
+    "source": "Real Python",
+    "first_seen": "2026-10-20T18:47:35.579446+00:00",
+    "published": "2026-10-20T14:00:00+00:00"
+  },
+  "https://realpython.com/claude-code-skills": {
+    "title": "How to Use Claude Code Skills for Better Python Docstrings",
+    "source": "Real Python",
+    "first_seen": "2026-10-20T18:47:35.579446+00:00",
+    "published": "2026-10-20T14:00:00+00:00"
+  },
+  "https://emudhra.we-have-a-problem.com": {
+    "title": "EMudhra Intermediate CA Compromise",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-20T18:47:35.579446+00:00",
+    "published": "2026-10-20T13:58:33+00:00"
+  },
+  "https://yoyo-code.com/2026-is-exciting-year-for-rust-compiler-and-me": {
+    "title": "2026 is an exciting year for the Rust compiler (and me)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-20T18:47:35.579446+00:00",
+    "published": "2026-10-20T13:53:48+00:00"
+  },
+  "https://kaba.cx/posts/20261020_Tor": {
+    "title": "How I got over 300 Tor exit nodes removed",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-20T18:47:35.579446+00:00",
+    "published": "2026-10-20T13:39:24+00:00"
+  },
+  "https://www.joshwcomeau.com/css/interop-2027": {
+    "title": "The Future of CSS ✨",
+    "source": "Josh W. Comeau",
+    "first_seen": "2026-10-20T18:47:35.579446+00:00",
+    "published": "2026-10-20T13:15:00+00:00"
+  },
+  "https://www.science.org/doi/10.1126/science.ael8752": {
+    "title": "Demographic \"doomsday\" misses the mark",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-20T18:47:35.579446+00:00",
+    "published": "2026-10-20T12:22:28+00:00"
+  },
+  "https://openai.com/index/ted-taylor-restaurant": {
+    "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-10-20T18:47:35.579446+00:00",
+    "published": "2026-10-20T10:00:00+00:00"
   }
 }
