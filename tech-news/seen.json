@@ -110228,5 +110228,101 @@
     "source": "OpenAI Blog",
     "first_seen": "2026-10-20T18:47:35.579446+00:00",
     "published": "2026-10-20T10:00:00+00:00"
+  },
+  "https://www.thebeliever.net/the-other-epidemic": {
+    "title": "The Other Epidemic: Trying to get off benzodiazepines",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-20T23:30:40.186020+00:00",
+    "published": "2026-10-20T23:04:09+00:00"
+  },
+  "https://www.phoronix.com/news/COSMIC-Epoch-1.11": {
+    "title": "COSMIC Epoch 1.11 Released With Wayland xdg-dialog-v1, Better Multi-GPU Handling",
+    "source": "Phoronix",
+    "first_seen": "2026-10-20T23:30:40.186020+00:00",
+    "published": "2026-10-20T22:32:12+00:00"
+  },
+  "https://blog.cloudflare.com/emudhra-certificate-compromise": {
+    "title": "8 eMudhra certificates are compromised. Here's what you need to know",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-10-20T23:30:40.186020+00:00",
+    "published": "2026-10-20T22:20:16+00:00"
+  },
+  "https://thenewstack.io/respan-rust-ai-gateway": {
+    "title": "Respan spent two years building on LiteLLM. One upgrade made it start over.",
+    "source": "The New Stack",
+    "first_seen": "2026-10-20T23:30:40.186020+00:00",
+    "published": "2026-10-20T22:13:08+00:00"
+  },
+  "https://thenewstack.io/cloudflare-rust-typescript-tsrs": {
+    "title": "“We are not forking TypeScript”: Cloudflare spearheads Rust port written by agents, for agents",
+    "source": "The New Stack",
+    "first_seen": "2026-10-20T23:30:40.186020+00:00",
+    "published": "2026-10-20T21:36:25+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/beyond-the-kv-cache-training-and-serving-i14s-laplace-3b-linear-attention-model-on-aws-trainium2-with-native-pytorch": {
+    "title": "Beyond the KV cache: Training and serving i14’s Laplace 3B linear attention model on AWS Trainium2 with native PyTorch",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-10-20T23:30:40.186020+00:00",
+    "published": "2026-10-20T21:14:10+00:00"
+  },
+  "https://lwn.net/Articles/1101687": {
+    "title": "Critical PHP security update coming",
+    "source": "LWN.net",
+    "first_seen": "2026-10-20T23:30:40.186020+00:00",
+    "published": "2026-10-20T21:05:19+00:00"
+  },
+  "https://thenewstack.io/open-model-benchmarks-production": {
+    "title": "Assess the entire inference stack — not just open model benchmarks",
+    "source": "The New Stack",
+    "first_seen": "2026-10-20T23:30:40.186020+00:00",
+    "published": "2026-10-20T20:44:17+00:00"
+  },
+  "https://opentelemetry.io/blog/2026/kubecon-na": {
+    "title": "Join us for OpenTelemetry Talks and Activities at KubeCon NA 2026",
+    "source": "OpenTelemetry Blog",
+    "first_seen": "2026-10-20T23:30:40.186020+00:00",
+    "published": "2026-10-20T19:58:06+00:00"
+  },
+  "https://simonwillison.net/2026/Oct/20/battledrones": {
+    "title": "Battle Drones - a vibe coded RTS with audio-based multiplayer",
+    "source": "Simon Willison",
+    "first_seen": "2026-10-20T23:30:40.186020+00:00",
+    "published": "2026-10-20T19:34:19+00:00"
+  },
+  "https://blogs.lse.ac.uk/impactofsocialsciences/2026/10/19/academics-have-a-duty-to-defend-open-knowledge-systems-like-wikipedia": {
+    "title": "Academics have a duty to defend open knowledge systems like Wikipedia",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-20T23:30:40.186020+00:00",
+    "published": "2026-10-20T18:51:40+00:00"
+  },
+  "https://permit.petercai.com": {
+    "title": "SimCity, but with Permits",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-20T23:30:40.186020+00:00",
+    "published": "2026-10-20T18:29:09+00:00"
+  },
+  "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design": {
+    "title": "Claude designed protein binders against scorpion neurotoxins",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-20T23:30:40.186020+00:00",
+    "published": "2026-10-20T17:48:29+00:00"
+  },
+  "https://stevekrouse.com/ends": {
+    "title": "What shall I teach my son?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-20T23:30:40.186020+00:00",
+    "published": "2026-10-20T17:25:07+00:00"
+  },
+  "https://cloud.google.com/blog/products/ai-machine-learning/claude-opus-55-and-claude-sonnet-55-available-in-antigravity": {
+    "title": "Claude Opus 5.5 and Claude Sonnet 5.5 are now available in Google Antigravity",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-10-20T23:30:40.186020+00:00",
+    "published": "2026-10-20T16:00:00+00:00"
+  },
+  "https://jepsen.io/analyses/orkes-conductor-5.3.2": {
+    "title": "Jepsen: Orkes Conductor 5.3.2",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-20T23:30:40.186020+00:00",
+    "published": "2026-10-20T13:14:39+00:00"
   }
 }
