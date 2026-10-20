@@ -109526,5 +109526,299 @@
     "source": "Hugging Face Blog",
     "first_seen": "2026-10-19T23:59:50.934320+00:00",
     "published": "2026-10-19T00:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-Foundation-25p-AI-Slop": {
+    "title": "Linux Foundation Estimates 25% Of New Pull Requests To Be Low-Quality AI Slop",
+    "source": "Phoronix",
+    "first_seen": "2026-10-20T13:55:05.005486+00:00",
+    "published": "2026-10-20T13:18:46+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-Coredump-Sockets-Sparse": {
+    "title": "Linux Coredumps Via Sockets Can Be Much Smaller Now With Sparse Support",
+    "source": "Phoronix",
+    "first_seen": "2026-10-20T13:55:05.005486+00:00",
+    "published": "2026-10-20T13:11:11+00:00"
+  },
+  "https://lwn.net/Articles/1101536": {
+    "title": "OpenBSD 8.0 released",
+    "source": "LWN.net",
+    "first_seen": "2026-10-20T13:55:05.005486+00:00",
+    "published": "2026-10-20T13:07:14+00:00"
+  },
+  "https://lwn.net/Articles/1101617": {
+    "title": "Security updates for Tuesday",
+    "source": "LWN.net",
+    "first_seen": "2026-10-20T13:55:05.005486+00:00",
+    "published": "2026-10-20T13:06:38+00:00"
+  },
+  "https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web": {
+    "title": "Publish fake stats, get cited in LLMs",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-20T13:55:05.005486+00:00",
+    "published": "2026-10-20T13:06:22+00:00"
+  },
+  "https://www.tigerdata.com/blog/introducing-searchgres-js-composable-search-postgresql": {
+    "title": "Introducing searchgres.js: Composable Search in PostgreSQL",
+    "source": "Timescale Blog",
+    "first_seen": "2026-10-20T13:55:05.005486+00:00",
+    "published": "2026-10-20T13:00:20+00:00"
+  },
+  "https://thenewstack.io/ai-commoditizes-software-value": {
+    "title": "AI’s Midas problem: When code is free, features are worthless",
+    "source": "The New Stack",
+    "first_seen": "2026-10-20T13:55:05.005486+00:00",
+    "published": "2026-10-20T13:00:00+00:00"
+  },
+  "https://blog.cloudflare.com/typescript-rust-port": {
+    "title": "Introducing tsrs: a Port of TypeScript to Rust",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-10-20T13:55:05.005486+00:00",
+    "published": "2026-10-20T13:00:00+00:00"
+  },
+  "https://entropicthoughts.com/nixos-is-making-me-less-afraid": {
+    "title": "NixOS is making me less afraid",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-20T13:55:05.005486+00:00",
+    "published": "2026-10-20T12:43:05+00:00"
+  },
+  "https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads": {
+    "title": "Apple broke an essential presentation feature of iPads",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-20T13:55:05.005486+00:00",
+    "published": "2026-10-20T12:17:28+00:00"
+  },
+  "https://www.phoronix.com/news/BFS-Removed-With-Linux-7.4": {
+    "title": "BFS Removed With Linux 7.4 As Old UnixWare File-System",
+    "source": "Phoronix",
+    "first_seen": "2026-10-20T13:55:05.005486+00:00",
+    "published": "2026-10-20T12:13:56+00:00"
+  },
+  "https://www.phoronix.com/news/KDE-Plasma-6.8.1": {
+    "title": "KDE Plasma 6.8.1 Released With Dozens Of Fixes",
+    "source": "Phoronix",
+    "first_seen": "2026-10-20T13:55:05.005486+00:00",
+    "published": "2026-10-20T12:04:44+00:00"
+  },
+  "https://www.ycombinator.com/companies/hazel-2/jobs/PpNKYBS-full-stack-engineer-ts-sci": {
+    "title": "Hazel (YC W24) Is Hiring",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-20T13:55:05.005486+00:00",
+    "published": "2026-10-20T12:00:32+00:00"
+  },
+  "https://realpython.com/quizzes/tell-your-tech-career-story-tailored-cv": {
+    "title": "Quiz: Tell Your Tech Career Story: Write a Tailored CV",
+    "source": "Real Python",
+    "first_seen": "2026-10-20T13:55:05.005486+00:00",
+    "published": "2026-10-20T12:00:00+00:00"
+  },
+  "https://realpython.com/quizzes/tell-your-tech-career-story-show-proof": {
+    "title": "Quiz: Tell Your Tech Career Story: Show Proof of Your Skills",
+    "source": "Real Python",
+    "first_seen": "2026-10-20T13:55:05.005486+00:00",
+    "published": "2026-10-20T12:00:00+00:00"
+  },
+  "https://realpython.com/quizzes/tell-your-tech-career-story-know-your-story": {
+    "title": "Quiz: Tell Your Tech Career Story: Know Your Story",
+    "source": "Real Python",
+    "first_seen": "2026-10-20T13:55:05.005486+00:00",
+    "published": "2026-10-20T12:00:00+00:00"
+  },
+  "https://realpython.com/quizzes/tell-your-tech-career-story-interviews": {
+    "title": "Quiz: Tell Your Tech Career Story: Tell Your Story in Interviews",
+    "source": "Real Python",
+    "first_seen": "2026-10-20T13:55:05.005486+00:00",
+    "published": "2026-10-20T12:00:00+00:00"
+  },
+  "https://realpython.com/quizzes/tell-your-tech-career-story-get-noticed": {
+    "title": "Quiz: Tell Your Tech Career Story: Get Noticed",
+    "source": "Real Python",
+    "first_seen": "2026-10-20T13:55:05.005486+00:00",
+    "published": "2026-10-20T12:00:00+00:00"
+  },
+  "https://realpython.com/quizzes/building-ai-agent-langgraph-python": {
+    "title": "Quiz: Building an AI Agent With LangGraph and Python",
+    "source": "Real Python",
+    "first_seen": "2026-10-20T13:55:05.005486+00:00",
+    "published": "2026-10-20T12:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/Omarchy-4.5-RC1": {
+    "title": "Omarchy 4.5 Expanding To AArch64 World With Snapdragon X & NVIDIA N1X Laptops",
+    "source": "Phoronix",
+    "first_seen": "2026-10-20T13:55:05.005486+00:00",
+    "published": "2026-10-20T11:52:00+00:00"
+  },
+  "https://cloud.google.com/blog/topics/ai-infrastructure/torchtpu-is-now-open-source-run-native-pytorch-on-tpus": {
+    "title": "TorchTPU is now open source: Run native PyTorch on TPUs",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-10-20T13:55:05.005486+00:00",
+    "published": "2026-10-20T11:30:00+00:00"
+  },
+  "https://cloud.google.com/blog/topics/ai-infrastructure/llm-d-1-0-an-open-source-stack-for-distributed-inference": {
+    "title": "Announcing llm-d 1.0: Open distributed inference for agents on Google Cloud TPUs and GPUs",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-10-20T13:55:05.005486+00:00",
+    "published": "2026-10-20T11:30:00+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.4-Two-Byte-CMPXCHG": {
+    "title": "Linux 7.4 Adding New Emulation Function While Some Old CPUs May Soon Be Phased Out",
+    "source": "Phoronix",
+    "first_seen": "2026-10-20T13:55:05.005486+00:00",
+    "published": "2026-10-20T10:32:23+00:00"
+  },
+  "https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more": {
+    "title": "Google cloud outage takes down banks",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-20T13:55:05.005486+00:00",
+    "published": "2026-10-20T10:26:02+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.4-Rust": {
+    "title": "17k Lines Of New Rust Kernel Code Heading Into Linux 7.4",
+    "source": "Phoronix",
+    "first_seen": "2026-10-20T13:55:05.005486+00:00",
+    "published": "2026-10-20T10:04:57+00:00"
+  },
+  "https://cloud.google.com/blog/topics/public-sector/announcements-and-highlights-from-google-public-sector-summit-2026": {
+    "title": "Announcements and highlights from Google Public Sector Summit 2026",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-10-20T13:55:05.005486+00:00",
+    "published": "2026-10-20T10:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/topics/hybrid-cloud/new-innovations-in-google-distributed-cloud": {
+    "title": "Enabling the next era of sovereign AI: The latest Google Distributed Cloud innovations",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-10-20T13:55:05.005486+00:00",
+    "published": "2026-10-20T10:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/topics/hybrid-cloud/managed-rag-search-inside-the-sovereign-perimeter-gemini-on-gdc-enterprise-search": {
+    "title": "Managed RAG search inside the sovereign perimeter: Gemini on GDC enterprise search",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-10-20T13:55:05.005486+00:00",
+    "published": "2026-10-20T10:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/ai-machine-learning/gemini-for-government-services": {
+    "title": "Introducing Gemini for government services",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-10-20T13:55:05.005486+00:00",
+    "published": "2026-10-20T10:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/OpenBSD-8.0-Released": {
+    "title": "OpenBSD 8.0 Released With Intel Arc A-Series, Other Hardware Improvements",
+    "source": "Phoronix",
+    "first_seen": "2026-10-20T13:55:05.005486+00:00",
+    "published": "2026-10-20T09:44:40+00:00"
+  },
+  "https://github.com/deepseek-ai/DeepInfer": {
+    "title": "DeepSeek just open-sourced its inference engine",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-20T13:55:05.005486+00:00",
+    "published": "2026-10-20T09:08:54+00:00"
+  },
+  "https://blogs.microsoft.com/blog/2026/10/20/advancing-digital-sovereignty-with-greater-control-and-choice": {
+    "title": "Advancing digital sovereignty with greater control and choice",
+    "source": "Microsoft Blog",
+    "first_seen": "2026-10-20T13:55:05.005486+00:00",
+    "published": "2026-10-20T08:20:02+00:00"
+  },
+  "https://stackoverflow.blog/2026/10/20/don-t-forget-about-the-ui-for-ai": {
+    "title": "Don't forget about the UI for AI",
+    "source": "Stack Overflow Blog",
+    "first_seen": "2026-10-20T13:55:05.005486+00:00",
+    "published": "2026-10-20T07:40:00+00:00"
+  },
+  "https://github.com/microg/GmsCore/wiki": {
+    "title": "MicroG: Free-libre re-implementation of Google's proprietary Android user space",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-20T13:55:05.005486+00:00",
+    "published": "2026-10-20T06:37:07+00:00"
+  },
+  "https://planetscale.com/blog/neki-updates-and-preparing-for-production": {
+    "title": "Neki update: $50 Metal, read-only replicas, Azure, and more",
+    "source": "PlanetScale Blog",
+    "first_seen": "2026-10-20T13:55:05.005486+00:00",
+    "published": "2026-10-20T04:00:00+00:00"
+  },
+  "https://www.openbsd.org/80.html": {
+    "title": "OpenBSD 8.0",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-20T13:55:05.005486+00:00",
+    "published": "2026-10-20T02:06:40+00:00"
+  },
+  "https://www.phoronix.com/news/AMD-GAIA-0.25-Released": {
+    "title": "AMD GAIA 0.25 Brings Several Improvements For Local AI Agents On Ryzen AI",
+    "source": "Phoronix",
+    "first_seen": "2026-10-20T13:55:05.005486+00:00",
+    "published": "2026-10-20T00:25:41+00:00"
+  },
+  "https://www.databricks.com/blog/hp-ai-ready-cdp-databricks-customerlake": {
+    "title": "How HP Is Building an AI-Ready CDP with Databricks CustomerLake",
+    "source": "Databricks Blog",
+    "first_seen": "2026-10-20T13:55:05.005486+00:00",
+    "published": "2026-10-20T00:01:41+00:00"
+  },
+  "https://ipinfo.io/blog/france-fridges-hack": {
+    "title": "France's supermarket fridges were vulnerable online for months",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-20T13:55:05.005486+00:00",
+    "published": "2026-10-20T00:00:49+00:00"
+  },
+  "https://huggingface.co/blog/mps-pytorch-2-15": {
+    "title": "MPS in PyTorch 2.15",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-10-20T13:55:05.005486+00:00",
+    "published": "2026-10-20T00:00:00+00:00"
+  },
+  "https://huggingface.co/blog/anylanguagemodel-1-0": {
+    "title": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-10-20T13:55:05.005486+00:00",
+    "published": "2026-10-20T00:00:00+00:00"
+  },
+  "https://simonwillison.net/2026/Oct/19/my-obituary-for-programming": {
+    "title": "My obituary for programming",
+    "source": "Simon Willison",
+    "first_seen": "2026-10-20T13:55:05.005486+00:00",
+    "published": "2026-10-19T23:58:25+00:00"
+  },
+  "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions": {
+    "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-20T13:55:05.005486+00:00",
+    "published": "2026-10-19T23:22:18+00:00"
+  },
+  "https://projectdiscovery.io/research/how-abliterated-models-can-get-you-pwned": {
+    "title": "How abliterated models can get you pwned",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-20T13:55:05.005486+00:00",
+    "published": "2026-10-19T23:08:52+00:00"
+  },
+  "https://cretezy.com/2026/ad-free-android-tv": {
+    "title": "An ad-free Android TV",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-20T13:55:05.005486+00:00",
+    "published": "2026-10-19T22:32:37+00:00"
+  },
+  "https://mbuffett.com/posts/most-human-chess-bot": {
+    "title": "Spending 10 months building the most human-like chess bot",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-20T13:55:05.005486+00:00",
+    "published": "2026-10-19T16:30:41+00:00"
+  },
+  "https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19": {
+    "title": "DeepSeek banned from U.S. federal civilian agencies under new DHS order",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-20T13:55:05.005486+00:00",
+    "published": "2026-10-19T16:16:46+00:00"
+  },
+  "https://opensource.microsoft.com/blog/2026/10/19/introducing-scope-open-source-evaluation-for-ai-coding-agents": {
+    "title": "Introducing Scope: Open-source evaluation for AI coding agents",
+    "source": "Microsoft Open Source",
+    "first_seen": "2026-10-20T13:55:05.005486+00:00",
+    "published": "2026-10-19T16:00:00+00:00"
+  },
+  "https://heymaxwell.ai": {
+    "title": "Maxwell: A new kind of model that sits between code and hardware",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-20T13:55:05.005486+00:00",
+    "published": "2026-10-19T13:47:56+00:00"
   }
 }
