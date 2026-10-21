@@ -110324,5 +110324,371 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-10-20T23:30:40.186020+00:00",
     "published": "2026-10-20T13:14:39+00:00"
+  },
+  "https://blog.cloudflare.com/full-transaction-waf": {
+    "title": "Introducing full transaction detection for Cloudflare WAF",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-10-21T14:11:21.423035+00:00",
+    "published": "2026-10-21T14:10:42+00:00"
+  },
+  "https://thenewstack.io/ai-agent-trust-score": {
+    "title": "From feral to fiduciary: making AI agents serve your interests",
+    "source": "The New Stack",
+    "first_seen": "2026-10-21T14:11:21.423035+00:00",
+    "published": "2026-10-21T14:00:00+00:00"
+  },
+  "https://stackoverflow.blog/2026/10/21/survey-says-you-ll-swap-the-model-but-everything-you-build-around-it-is-staying-put": {
+    "title": "Survey Says: You'll swap the model, but everything you build around it is staying put",
+    "source": "Stack Overflow Blog",
+    "first_seen": "2026-10-21T14:11:21.423035+00:00",
+    "published": "2026-10-21T14:00:00+00:00"
+  },
+  "https://blog.cloudflare.com/php-vulnerabilities-waf-protection": {
+    "title": "Cloudflare deploys protections against php2shell vulnerability",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-10-21T14:11:21.423035+00:00",
+    "published": "2026-10-21T13:56:45+00:00"
+  },
+  "https://lwn.net/Articles/1102014": {
+    "title": "PHP patches released for two critical RCEs",
+    "source": "LWN.net",
+    "first_seen": "2026-10-21T14:11:21.423035+00:00",
+    "published": "2026-10-21T13:53:18+00:00"
+  },
+  "https://www.php.net/index.php": {
+    "title": "PHP 8.5.12, 8.4.27, 8.3.36 and 8.2.35 out",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-21T14:11:21.423035+00:00",
+    "published": "2026-10-21T13:50:05+00:00"
+  },
+  "https://github.com/php/php-src/releases/tag/php-8.2.35": {
+    "title": "Updated PHP version released to GitHub",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-21T14:11:21.423035+00:00",
+    "published": "2026-10-21T13:45:33+00:00"
+  },
+  "https://www.phoronix.com/news/PHP-New-Critical-CVEs-October": {
+    "title": "PHP Updates Released For Two Critical Code Execution Vulnerabilities",
+    "source": "Phoronix",
+    "first_seen": "2026-10-21T14:11:21.423035+00:00",
+    "published": "2026-10-21T13:43:31+00:00"
+  },
+  "https://www.wiz.io/blog/php2shell-php-rce": {
+    "title": "PHP2Shell: AI uncovers critical RCE in PHP",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-21T14:11:21.423035+00:00",
+    "published": "2026-10-21T13:43:19+00:00"
+  },
+  "https://lwn.net/Articles/1101758": {
+    "title": "Four stable kernels for Wednesday",
+    "source": "LWN.net",
+    "first_seen": "2026-10-21T14:11:21.423035+00:00",
+    "published": "2026-10-21T13:24:25+00:00"
+  },
+  "https://coached.com/essays/most-advice-is-right-for-the-person-giving-it": {
+    "title": "Most advice is right for the person giving it",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-21T14:11:21.423035+00:00",
+    "published": "2026-10-21T13:17:33+00:00"
+  },
+  "https://lwn.net/Articles/1102005": {
+    "title": "Security updates for Wednesday",
+    "source": "LWN.net",
+    "first_seen": "2026-10-21T14:11:21.423035+00:00",
+    "published": "2026-10-21T13:13:58+00:00"
+  },
+  "https://thenewstack.io/ai-coding-verification-loops": {
+    "title": "AI sped up coding. Sonar instills confidence with verification.",
+    "source": "The New Stack",
+    "first_seen": "2026-10-21T14:11:21.423035+00:00",
+    "published": "2026-10-21T13:00:00+00:00"
+  },
+  "https://openai.com/index/chatgpt-ads-expands-26-new-countries": {
+    "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-10-21T14:11:21.423035+00:00",
+    "published": "2026-10-21T13:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/topics/public-sector/google-public-sector-increases-partner-investments-for-frontline-adoption": {
+    "title": "Google Public Sector increases partner investments for frontline adoption",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-10-21T14:11:21.423035+00:00",
+    "published": "2026-10-21T13:00:00+00:00"
+  },
+  "https://blog.cloudflare.com/webmcp-commerce": {
+    "title": "How Commerce.com and Cloudflare are getting storefronts ready for AI agents",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-10-21T14:11:21.423035+00:00",
+    "published": "2026-10-21T13:00:00+00:00"
+  },
+  "https://huggingface.co/blog/nvidia/kumo-forecast": {
+    "title": "NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-10-21T14:11:21.423035+00:00",
+    "published": "2026-10-21T12:51:24+00:00"
+  },
+  "https://layerfs.ai": {
+    "title": "LayerFS: The filesystem for AI coding agents",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-21T14:11:21.423035+00:00",
+    "published": "2026-10-21T12:34:46+00:00"
+  },
+  "https://www.ncsc.nl/actueel": {
+    "title": "Dutch National Cyber Security Center is Offline because it uses PHP",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-21T14:11:21.423035+00:00",
+    "published": "2026-10-21T12:31:28+00:00"
+  },
+  "https://developer.nvidia.com/blog/design-proteins-with-rfd4-proteina-using-reward-guided-inference-time-search": {
+    "title": "Design Proteins with RFD4-Proteina Using Reward-Guided Inference-Time Search",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-10-21T14:11:21.423035+00:00",
+    "published": "2026-10-21T12:30:00+00:00"
+  },
+  "https://www.phoronix.com/news/AMD-AOD-Overclocking-Linux": {
+    "title": "AMD Working On Ryzen Overclocking Driver For Linux",
+    "source": "Phoronix",
+    "first_seen": "2026-10-21T14:11:21.423035+00:00",
+    "published": "2026-10-21T12:24:13+00:00"
+  },
+  "https://www.hirundo.io/blog/qwen3-coder-vulnerabilities": {
+    "title": "Qwen3-Coder writes less secure code when told it's for a US persona",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-21T14:11:21.423035+00:00",
+    "published": "2026-10-21T12:22:39+00:00"
+  },
+  "https://www.tigerdata.com/blog/designing-iiot-ingest-that-survives-cut-uplink": {
+    "title": "Designing IIoT Ingest That Survives a Cut Uplink",
+    "source": "Timescale Blog",
+    "first_seen": "2026-10-21T14:11:21.423035+00:00",
+    "published": "2026-10-21T12:08:45+00:00"
+  },
+  "https://realpython.com/quizzes/python-random": {
+    "title": "Quiz: Generating Random Data in Python (Guide)",
+    "source": "Real Python",
+    "first_seen": "2026-10-21T14:11:21.423035+00:00",
+    "published": "2026-10-21T12:00:00+00:00"
+  },
+  "https://realpython.com/quizzes/python-performance-optimization-guide": {
+    "title": "Quiz: Python Performance Optimization: A Practical Guide",
+    "source": "Real Python",
+    "first_seen": "2026-10-21T14:11:21.423035+00:00",
+    "published": "2026-10-21T12:00:00+00:00"
+  },
+  "https://openai.com/index/openai-models-google-cloud": {
+    "title": "OpenAI models are coming to Google Cloud",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-10-21T14:11:21.423035+00:00",
+    "published": "2026-10-21T12:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/ai-machine-learning/google-cloud-brings-openai-models-to-customers": {
+    "title": "Google Cloud expands model choice and flexibility, bringing OpenAI models to customers",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-10-21T14:11:21.423035+00:00",
+    "published": "2026-10-21T12:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.4-Sync-Close-Files": {
+    "title": "Linux 7.4 To Close Files Synchronously For close_range, exec & exit",
+    "source": "Phoronix",
+    "first_seen": "2026-10-21T14:11:21.423035+00:00",
+    "published": "2026-10-21T11:55:42+00:00"
+  },
+  "https://www.databricks.com/blog/databricks-ai-runtime-nvidia-train-fine-tune-models": {
+    "title": "Databricks AI Runtime and NVIDIA make it easier to customize open models with enterprise data",
+    "source": "Databricks Blog",
+    "first_seen": "2026-10-21T14:11:21.423035+00:00",
+    "published": "2026-10-21T11:30:00+00:00"
+  },
+  "https://thenewstack.io/nvidia-dsx-pod-containers": {
+    "title": "Nvidia wants AI factories built in real factories",
+    "source": "The New Stack",
+    "first_seen": "2026-10-21T14:11:21.423035+00:00",
+    "published": "2026-10-21T11:30:00+00:00"
+  },
+  "https://thenewstack.io/nvidia-agent-knowledge-foundation": {
+    "title": "Nvidia bets open models can give enterprise AI agents the context they’re missing",
+    "source": "The New Stack",
+    "first_seen": "2026-10-21T14:11:21.423035+00:00",
+    "published": "2026-10-21T11:30:00+00:00"
+  },
+  "https://cloud.google.com/blog/topics/ai-infrastructure/google-cloud-infrastructure-at-nvidia-gtc-berlin-2026": {
+    "title": "Google Cloud and NVIDIA expand co-engineering collaboration to scale infrastructure for the agentic era",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-10-21T14:11:21.423035+00:00",
+    "published": "2026-10-21T11:30:00+00:00"
+  },
+  "https://cloud.google.com/blog/topics/ai-infrastructure/confidential-g4-gpus-are-ga": {
+    "title": "Hardware-backed security at global scale: Confidential G4 with NVIDIA Blackwell is GA",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-10-21T14:11:21.423035+00:00",
+    "published": "2026-10-21T11:30:00+00:00"
+  },
+  "https://www.databricks.com/blog/ai-runtime-generally-available": {
+    "title": "AI Runtime is Generally Available",
+    "source": "Databricks Blog",
+    "first_seen": "2026-10-21T14:11:21.423035+00:00",
+    "published": "2026-10-21T11:20:00+00:00"
+  },
+  "https://www.cncf.io/blog/2026/10/21/before-you-evaluate-an-ai-sre-give-your-existing-agent-context": {
+    "title": "Before you evaluate an AI SRE, give your existing agent context",
+    "source": "CNCF Blog",
+    "first_seen": "2026-10-21T14:11:21.423035+00:00",
+    "published": "2026-10-21T11:00:00+00:00"
+  },
+  "https://martinfowler.com/fragments/2026-10-21.html": {
+    "title": "Fragments: October 21",
+    "source": "Martin Fowler",
+    "first_seen": "2026-10-21T14:11:21.423035+00:00",
+    "published": "2026-10-21T10:51:00+00:00"
+  },
+  "https://www.phoronix.com/news/Fwupd-To-Android-Integration": {
+    "title": "Fwupd Working Toward Proper Android Integration",
+    "source": "Phoronix",
+    "first_seen": "2026-10-21T14:11:21.423035+00:00",
+    "published": "2026-10-21T10:16:13+00:00"
+  },
+  "https://practical.engineering/blog/2026/10/20/whatever-happened-to-fire-escapes": {
+    "title": "Whatever Happened to Fire Escapes",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-21T14:11:21.423035+00:00",
+    "published": "2026-10-21T10:14:43+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.4-Kernfs-Scalability": {
+    "title": "Meta Makes Improvements To Kernfs Scalability With Linux 7.4",
+    "source": "Phoronix",
+    "first_seen": "2026-10-21T14:11:21.423035+00:00",
+    "published": "2026-10-21T09:54:53+00:00"
+  },
+  "https://developer.nvidia.com/blog/inside-nvidia-sentry-secure-ai-agents-at-runtime": {
+    "title": "Inside NVIDIA Sentry: Secure AI Agents at Runtime",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-10-21T14:11:21.423035+00:00",
+    "published": "2026-10-21T09:52:16+00:00"
+  },
+  "https://developer.nvidia.com/blog/how-nvidia-openshell-reference-architecture-secures-and-governs-ai-agent-workloads-at-scale": {
+    "title": "How NVIDIA OpenShell Reference Architecture Secures and Governs AI Agent Workloads at Scale",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-10-21T14:11:21.423035+00:00",
+    "published": "2026-10-21T09:50:14+00:00"
+  },
+  "https://www.phoronix.com/news/AMD-HIPRT-3.2": {
+    "title": "AMD HIPRT 3.2 Released With Medusa APU Support",
+    "source": "Phoronix",
+    "first_seen": "2026-10-21T14:11:21.423035+00:00",
+    "published": "2026-10-21T09:40:46+00:00"
+  },
+  "https://developer.nvidia.com/blog/developing-an-ai-factory-digital-twin-with-an-agent-assisted-workflow": {
+    "title": "Developing an AI Factory Digital Twin with an Agent-Assisted Workflow",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-10-21T14:11:21.423035+00:00",
+    "published": "2026-10-21T09:38:49+00:00"
+  },
+  "https://developer.nvidia.com/blog/achieve-productive-ai-capacity-faster-and-more-predictably-with-nvidia-dsx-pod": {
+    "title": "Achieve Productive AI Capacity Faster and More Predictably with NVIDIA DSX POD",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-10-21T14:11:21.423035+00:00",
+    "published": "2026-10-21T09:35:32+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.4-XFS": {
+    "title": "XFS Sees Small Performance Optimizations & Bug Fixes For Linux 7.4",
+    "source": "Phoronix",
+    "first_seen": "2026-10-21T14:11:21.423035+00:00",
+    "published": "2026-10-21T09:30:53+00:00"
+  },
+  "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds": {
+    "title": "Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-21T14:11:21.423035+00:00",
+    "published": "2026-10-21T09:08:08+00:00"
+  },
+  "https://openai.com/index/building-chatgpt-ad-stack": {
+    "title": "How we built ChatGPT’s novel ad stack for user trust and relevance",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-10-21T14:11:21.423035+00:00",
+    "published": "2026-10-21T07:00:00+00:00"
+  },
+  "https://openai.com/index/scaling-ai-research-for-complex-biological-data": {
+    "title": "Using thousands of AI agents to uncover new leads in biological data",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-10-21T14:11:21.423035+00:00",
+    "published": "2026-10-21T04:50:00+00:00"
+  },
+  "https://www.databricks.com/blog/deploy-rfd4-proteina-model-databricks": {
+    "title": "Deploy RFD4-Proteina on Databricks",
+    "source": "Databricks Blog",
+    "first_seen": "2026-10-21T14:11:21.423035+00:00",
+    "published": "2026-10-21T04:42:46+00:00"
+  },
+  "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026": {
+    "title": "Southeast Asia’s digital economy to hit $368 billion",
+    "source": "Google AI Blog",
+    "first_seen": "2026-10-21T14:11:21.423035+00:00",
+    "published": "2026-10-21T04:00:00+00:00"
+  },
+  "https://www.anthropic.com/research/attack-surface-reduction": {
+    "title": "Using Claude to reduce the attack surface of code",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-21T14:11:21.423035+00:00",
+    "published": "2026-10-21T03:36:43+00:00"
+  },
+  "https://github.com/zion-sati/NetWasm": {
+    "title": "C# now beats Rust on WASM size",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-21T14:11:21.423035+00:00",
+    "published": "2026-10-21T02:53:47+00:00"
+  },
+  "https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826": {
+    "title": "In Hilbert space, all things are quantumly possible",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-21T14:11:21.423035+00:00",
+    "published": "2026-10-21T02:04:15+00:00"
+  },
+  "https://unsung.aresluna.org/good-type-against-all-odds": {
+    "title": "Good type against all odds",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-21T14:11:21.423035+00:00",
+    "published": "2026-10-21T01:45:07+00:00"
+  },
+  "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations": {
+    "title": "Muse exposes users' personal and business secrets when they share conversations",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-21T14:11:21.423035+00:00",
+    "published": "2026-10-21T00:45:59+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-74-Intel-TDX-Dynamic-PAMT": {
+    "title": "Dynamic PAMT Merged For Linux 7.4 To Help Intel Servers Save Precious RAM",
+    "source": "Phoronix",
+    "first_seen": "2026-10-21T14:11:21.423035+00:00",
+    "published": "2026-10-21T00:26:59+00:00"
+  },
+  "https://engineering.grab.com/app-stability-at-scale-with-a-layered-defense": {
+    "title": "App stability at scale with a layered defense",
+    "source": "Grab Tech",
+    "first_seen": "2026-10-21T14:11:21.423035+00:00",
+    "published": "2026-10-21T00:23:00+00:00"
+  },
+  "https://www.elastic.co/blog/jina-model-inference-nvidia-rtx-gpus": {
+    "title": "Elastic looks to speed up Jina Model Inference by 8x using NVIDIA RTX GPUs",
+    "source": "Elastic Blog",
+    "first_seen": "2026-10-21T14:11:21.423035+00:00",
+    "published": "2026-10-21T00:00:00+00:00"
+  },
+  "https://go.dev/blog/survey2026-announce": {
+    "title": "Help set Go's priorities for next year",
+    "source": "Go Blog",
+    "first_seen": "2026-10-21T14:11:21.423035+00:00",
+    "published": "2026-10-21T00:00:00+00:00"
+  },
+  "https://simonwillison.net/2026/Oct/20/emudhra-certificates": {
+    "title": "eMudhra Intermediate CA Compromise",
+    "source": "Simon Willison",
+    "first_seen": "2026-10-21T14:11:21.423035+00:00",
+    "published": "2026-10-20T23:50:25+00:00"
+  },
+  "https://news-web.php.net/php.announce/509": {
+    "title": "Upcoming critical PHP security release (CVE-2026-109618 / -109619)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-21T14:11:21.423035+00:00",
+    "published": "2026-10-20T20:15:50+00:00"
   }
 }
