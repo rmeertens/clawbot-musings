@@ -110900,5 +110900,185 @@
     "source": "Python Insider",
     "first_seen": "2026-10-21T19:00:42.025288+00:00",
     "published": "2026-10-21T00:00:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/securing-quick-access-from-corporate-networks-with-aws-privatelink": {
+    "title": "Securing Quick access from corporate networks with AWS PrivateLink",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-10-21T23:45:42.558930+00:00",
+    "published": "2026-10-21T23:38:38+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/5-production-challenges-in-multi-agent-systems-and-how-deep-insight-solved-them": {
+    "title": "5 production challenges in multi-agent systems and how Deep Insight solved them",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-10-21T23:45:42.558930+00:00",
+    "published": "2026-10-21T23:36:47+00:00"
+  },
+  "https://aws.amazon.com/blogs/containers/observability-patterns-for-ai-agents-on-amazon-eks": {
+    "title": "Observability patterns for AI agents on Amazon EKS",
+    "source": "AWS Containers Blog",
+    "first_seen": "2026-10-21T23:45:42.558930+00:00",
+    "published": "2026-10-21T23:34:27+00:00"
+  },
+  "https://aws.amazon.com/blogs/security/amazon-threat-intelligence-identifies-php2shell-exploitation-prior-to-public-disclosure-in-madpot": {
+    "title": "Amazon Threat Intelligence identifies PHP2Shell exploitation prior to public disclosure in MadPot",
+    "source": "AWS Security Blog",
+    "first_seen": "2026-10-21T23:45:42.558930+00:00",
+    "published": "2026-10-21T22:36:26+00:00"
+  },
+  "https://thenewstack.io/ai-php2shell-disclosure-framework": {
+    "title": "AI found flaws in the code behind 70% of the web. The fix took two months.",
+    "source": "The New Stack",
+    "first_seen": "2026-10-21T23:45:42.558930+00:00",
+    "published": "2026-10-21T22:17:07+00:00"
+  },
+  "https://blog.railway.com/p/security-disclosure-wednesday-october-21st": {
+    "title": "Railway Security Disclosure",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-21T23:45:42.558930+00:00",
+    "published": "2026-10-21T21:58:03+00:00"
+  },
+  "https://aws.amazon.com/blogs/architecture/automate-medical-coding-with-step-functions-and-amazon-bedrock-agentcore": {
+    "title": "Automate medical coding with Step Functions and Amazon Bedrock AgentCore",
+    "source": "AWS Architecture Blog",
+    "first_seen": "2026-10-21T23:45:42.558930+00:00",
+    "published": "2026-10-21T21:26:23+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/adaptive-agentic-intelligence-framework-using-strands-agents": {
+    "title": "Adaptive agentic intelligence framework using Strands Agents",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-10-21T23:45:42.558930+00:00",
+    "published": "2026-10-21T21:23:26+00:00"
+  },
+  "https://thenewstack.io/anthropic-mythos-safety-pace": {
+    "title": "Amodei says Anthropic’s safety delay may have cost it an AI lead",
+    "source": "The New Stack",
+    "first_seen": "2026-10-21T23:45:42.558930+00:00",
+    "published": "2026-10-21T21:22:53+00:00"
+  },
+  "https://aws.amazon.com/security/security-bulletins/2026-143-aws": {
+    "title": "PHP web runtimes (CVE-2026-109618 and CVE-2026-109619)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-21T23:45:42.558930+00:00",
+    "published": "2026-10-21T21:12:59+00:00"
+  },
+  "https://www.phoronix.com/news/Linus-Kills-Get-Put-User-Linux": {
+    "title": "Linus Torvalds Eliminates Unsafe __get_user() & __put_user() Functions In Linux 7.4",
+    "source": "Phoronix",
+    "first_seen": "2026-10-21T23:45:42.558930+00:00",
+    "published": "2026-10-21T21:11:58+00:00"
+  },
+  "https://github.com/nthnclrk/CleanFrame": {
+    "title": "CleanFrame: A quieter home screen for Samsung The Frame",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-21T23:45:42.558930+00:00",
+    "published": "2026-10-21T21:08:59+00:00"
+  },
+  "https://openai.com/index/broad-access-through-consistent-standards": {
+    "title": "Broad access through consistent standards",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-10-21T23:45:42.558930+00:00",
+    "published": "2026-10-21T21:00:00+00:00"
+  },
+  "https://lwn.net/Articles/1102060": {
+    "title": "Today's PHP Security Release, and How We're Strengthening PHP Security (PHP Foundation)",
+    "source": "LWN.net",
+    "first_seen": "2026-10-21T23:45:42.558930+00:00",
+    "published": "2026-10-21T20:20:34+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.4-Crypto-Library": {
+    "title": "Linux 7.4 Kernel Crypto Library Enjoying Optimized AES Implementations On x86 & RISC-V",
+    "source": "Phoronix",
+    "first_seen": "2026-10-21T23:45:42.558930+00:00",
+    "published": "2026-10-21T20:11:03+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/train-qwen3-on-aws-trainium-with-torchtitan": {
+    "title": "Train Qwen3 on AWS Trainium with torchtitan",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-10-21T23:45:42.558930+00:00",
+    "published": "2026-10-21T20:00:22+00:00"
+  },
+  "https://pytorch.org/blog/torchtitan-update-new-sota-models-performance-at-scale-titanrl": {
+    "title": "TorchTitan Update: New SOTA Models, Performance at Scale, TitanRL",
+    "source": "PyTorch Blog",
+    "first_seen": "2026-10-21T23:45:42.558930+00:00",
+    "published": "2026-10-21T19:45:44+00:00"
+  },
+  "https://claude.com/resources/articles/claude-duet": {
+    "title": "Claude Duet",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-21T23:45:42.558930+00:00",
+    "published": "2026-10-21T19:40:18+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/how-u-s-hunger-connects-leaders-and-data-using-amazon-quick": {
+    "title": "How U.S. Hunger connects leaders and data using Amazon Quick",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-10-21T23:45:42.558930+00:00",
+    "published": "2026-10-21T19:19:50+00:00"
+  },
+  "https://claude.com/product/claude-duet": {
+    "title": "Claude Duet",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-21T23:45:42.558930+00:00",
+    "published": "2026-10-21T19:14:01+00:00"
+  },
+  "https://google.github.io/styleguide/rustguide.html": {
+    "title": "Google's Rust Style Guide",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-21T23:45:42.558930+00:00",
+    "published": "2026-10-21T19:11:57+00:00"
+  },
+  "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released": {
+    "title": "GitLab Critical Patch Release",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-21T23:45:42.558930+00:00",
+    "published": "2026-10-21T19:01:12+00:00"
+  },
+  "https://canarytokens.org": {
+    "title": "Canary Tokens",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-21T23:45:42.558930+00:00",
+    "published": "2026-10-21T18:45:04+00:00"
+  },
+  "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html": {
+    "title": "Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-21T23:45:42.558930+00:00",
+    "published": "2026-10-21T17:45:13+00:00"
+  },
+  "https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware": {
+    "title": "EA is shutting down BioWare",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-21T23:45:42.558930+00:00",
+    "published": "2026-10-21T17:29:33+00:00"
+  },
+  "https://www.oist.jp/news-center/news/2026/9/18/new-form-plastic-pollution-discovered-shores-vulnerable-coral-reefs": {
+    "title": "New plastic pollution discovered: 'Plasticorals' coral rubble fused with plastic",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-21T23:45:42.558930+00:00",
+    "published": "2026-10-21T16:20:37+00:00"
+  },
+  "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security": {
+    "title": "Today's PHP security release, and how we're strengthening security",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-21T23:45:42.558930+00:00",
+    "published": "2026-10-21T15:48:56+00:00"
+  },
+  "https://apnews.com/article/oregon-waterfall-for-sale-lawmakers-996de63462d49ec3ad9bee1629fb9488": {
+    "title": "Oregon lawmakers approve money to buy an iconic waterfall listed on Redfin",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-21T23:45:42.558930+00:00",
+    "published": "2026-10-21T15:20:04+00:00"
+  },
+  "https://duckdb.org/2026/10/21/announcing-duckdb-200": {
+    "title": "DuckDB 2.0.0 LTS “Cinnamon Teal”",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-21T23:45:42.558930+00:00",
+    "published": "2026-10-21T14:01:22+00:00"
+  },
+  "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor": {
+    "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-21T23:45:42.558930+00:00",
+    "published": "2026-10-21T14:00:26+00:00"
   }
 }
