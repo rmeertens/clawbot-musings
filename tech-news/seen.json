@@ -111080,5 +111080,161 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-10-21T23:45:42.558930+00:00",
     "published": "2026-10-21T14:00:26+00:00"
+  },
+  "https://thenewstack.io/ai-agent-security-lifecycle": {
+    "title": "AI agent security is a lifecycle — not a gatekeeper",
+    "source": "The New Stack",
+    "first_seen": "2026-10-22T14:09:35.047524+00:00",
+    "published": "2026-10-22T14:00:00+00:00"
+  },
+  "https://lwn.net/Articles/1102270": {
+    "title": "KeePassXC 2.8.0 released",
+    "source": "LWN.net",
+    "first_seen": "2026-10-22T14:09:35.047524+00:00",
+    "published": "2026-10-22T13:34:37+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-Kernel-Shadow-Stacks": {
+    "title": "x86 Kernel Shadow Stacks Being Worked On For Linux As Powerful Control Flow Protection",
+    "source": "Phoronix",
+    "first_seen": "2026-10-22T14:09:35.047524+00:00",
+    "published": "2026-10-22T13:22:56+00:00"
+  },
+  "https://lwn.net/Articles/1099606": {
+    "title": "[$] Rust features in the future",
+    "source": "LWN.net",
+    "first_seen": "2026-10-22T14:09:35.047524+00:00",
+    "published": "2026-10-22T13:19:56+00:00"
+  },
+  "https://lwn.net/Articles/1102265": {
+    "title": "Security updates for Thursday",
+    "source": "LWN.net",
+    "first_seen": "2026-10-22T14:09:35.047524+00:00",
+    "published": "2026-10-22T13:09:09+00:00"
+  },
+  "https://thenewstack.io/google-agent-compute-engine": {
+    "title": "Google turns the infrastructure behind Gemini’s agents into a cloud service",
+    "source": "The New Stack",
+    "first_seen": "2026-10-22T14:09:35.047524+00:00",
+    "published": "2026-10-22T13:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/topics/ai-infrastructure/agent-compute-engine-deep-dive": {
+    "title": "Inside Agent Compute Engine: Building the compute foundation for the agentic era",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-10-22T14:09:35.047524+00:00",
+    "published": "2026-10-22T13:00:00+00:00"
+  },
+  "https://blog.cloudflare.com/k-isms": {
+    "title": "Localizing compliance at scale: achieving South Korea’s ISMS certification",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-10-22T14:09:35.047524+00:00",
+    "published": "2026-10-22T13:00:00+00:00"
+  },
+  "https://www.tigerdata.com/blog/we-built-three-memory-systems-most-expressive-wasnt-most-useful": {
+    "title": "We built three memory systems. The most expressive one wasn’t the most useful.",
+    "source": "Timescale Blog",
+    "first_seen": "2026-10-22T14:09:35.047524+00:00",
+    "published": "2026-10-22T12:16:21+00:00"
+  },
+  "https://www.phoronix.com/news/Mesa-Loosens-AGENTS-MD": {
+    "title": "Mesa Loosens Rules Around AI Agents For Code Comments / Commit Messages",
+    "source": "Phoronix",
+    "first_seen": "2026-10-22T14:09:35.047524+00:00",
+    "published": "2026-10-22T12:03:30+00:00"
+  },
+  "https://realpython.com/quizzes/pipenv-guide": {
+    "title": "Quiz: Pipenv: A Guide to the Python Packaging Tool",
+    "source": "Real Python",
+    "first_seen": "2026-10-22T14:09:35.047524+00:00",
+    "published": "2026-10-22T12:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/Myrlyn-1.1-Released": {
+    "title": "Myrlyn 1.1 Released For SUSE/openSUSE GUI Package Manager",
+    "source": "Phoronix",
+    "first_seen": "2026-10-22T14:09:35.047524+00:00",
+    "published": "2026-10-22T11:47:43+00:00"
+  },
+  "https://www.docker.com/blog/docker-activestate-partnership": {
+    "title": "ActiveState Partners with Docker to Secure the Open Source in Enterprise Containers",
+    "source": "Docker Blog",
+    "first_seen": "2026-10-22T14:09:35.047524+00:00",
+    "published": "2026-10-22T11:30:00+00:00"
+  },
+  "https://www.cncf.io/blog/2026/10/22/filtering-and-reducing-ai-agent-telemetry-with-the-opentelemetry-collector": {
+    "title": "Filtering and reducing AI agent telemetry with the OpenTelemetry Collector",
+    "source": "CNCF Blog",
+    "first_seen": "2026-10-22T14:09:35.047524+00:00",
+    "published": "2026-10-22T11:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/Mesa-RADV-GFX8-FP16-Gaming": {
+    "title": "Mesa RADV Change Satisfies More Steam Play Games On Aging AMD GFX8 GPUs",
+    "source": "Phoronix",
+    "first_seen": "2026-10-22T14:09:35.047524+00:00",
+    "published": "2026-10-22T10:30:00+00:00"
+  },
+  "https://www.phoronix.com/news/LKML-New-Trend-Vulnerabilities": {
+    "title": "Several Linux Kernel Vulnerabilities Accidentally Posted To Public Kernel Mailing List",
+    "source": "Phoronix",
+    "first_seen": "2026-10-22T14:09:35.047524+00:00",
+    "published": "2026-10-22T10:05:53+00:00"
+  },
+  "https://www.phoronix.com/news/AMD-Zen-6-BTB-Linux-7.4-Merged": {
+    "title": "Linux 7.4 Adapts AMD Zen 6 For Less Costly CPU Security Mitigation",
+    "source": "Phoronix",
+    "first_seen": "2026-10-22T14:09:35.047524+00:00",
+    "published": "2026-10-22T09:40:39+00:00"
+  },
+  "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1": {
+    "title": "Ensemble forecasting with IBM Granite time-series models",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-10-22T14:09:35.047524+00:00",
+    "published": "2026-10-22T07:51:31+00:00"
+  },
+  "https://openai.com/index/forward-deployed-engineering-means": {
+    "title": "What FDE means at OpenAI",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-10-22T14:09:35.047524+00:00",
+    "published": "2026-10-22T06:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/topics/ai-infrastructure/introducing-agent-compute-engine-and-expanded-agent-governance": {
+    "title": "Introducing Agent Compute Engine and expanded agent governance",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-10-22T14:09:35.047524+00:00",
+    "published": "2026-10-22T04:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.4-Kbuild": {
+    "title": "Linux 7.4 Begins Landing Patches To Speed Up The Kernel Build Process",
+    "source": "Phoronix",
+    "first_seen": "2026-10-22T14:09:35.047524+00:00",
+    "published": "2026-10-22T00:52:38+00:00"
+  },
+  "https://aws.amazon.com/blogs/security/using-aws-waf-to-apply-mitigations-for-php2shell-rce-vulnerabilities-cve-2026-109618-and-cve-2026-109619": {
+    "title": "Using AWS WAF to apply mitigations for PHP2Shell RCE vulnerabilities (CVE-2026-109618 and CVE-2026-109619)",
+    "source": "AWS Security Blog",
+    "first_seen": "2026-10-22T14:09:35.047524+00:00",
+    "published": "2026-10-22T00:50:04+00:00"
+  },
+  "https://lwn.net/Articles/1100612": {
+    "title": "[$] LWN.net Weekly Edition for October 22, 2026",
+    "source": "LWN.net",
+    "first_seen": "2026-10-22T14:09:35.047524+00:00",
+    "published": "2026-10-22T00:29:22+00:00"
+  },
+  "https://www.thoughtworks.com/insights/blog/generative-ai/how-sensible-harness-help-teams-create-ai-first-delivery-environment": {
+    "title": "How Sensible Harness can help teams create an AI-first delivery environment",
+    "source": "ThoughtWorks",
+    "first_seen": "2026-10-22T14:09:35.047524+00:00",
+    "published": "2026-10-22T00:00:00+00:00"
+  },
+  "https://www.thoughtworks.com/insights/blog/generative-ai/dont-ask-ai-to-write-the-user-story-yet": {
+    "title": "Don’t ask AI to write the user story yet",
+    "source": "ThoughtWorks",
+    "first_seen": "2026-10-22T14:09:35.047524+00:00",
+    "published": "2026-10-22T00:00:00+00:00"
+  },
+  "https://fly.io/blog/sprites-block-device": {
+    "title": "SBD: We Have a Filesystem at Home",
+    "source": "Fly.io Blog",
+    "first_seen": "2026-10-22T14:09:35.047524+00:00",
+    "published": "2026-10-22T00:00:00+00:00"
   }
 }
