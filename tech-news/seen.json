@@ -111668,5 +111668,137 @@
     "source": "Discord Engineering",
     "first_seen": "2026-10-22T18:54:52.374925+00:00",
     "published": "2026-10-22T00:00:00+00:00"
+  },
+  "https://huggingface.co/blog/microsoft/thinkingbox-training": {
+    "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-10-22T23:44:04.168570+00:00",
+    "published": "2026-10-22T22:24:34+00:00"
+  },
+  "https://netflixtechblog.com/single-tenant-titus-vm-level-isolation-on-a-multi-tenant-container-platform-6d8b1909d163?source=rss----2615bd06b42e---4": {
+    "title": "Single-tenant Titus: VM-level isolation on a multi-tenant container platform",
+    "source": "Netflix Tech Blog",
+    "first_seen": "2026-10-22T23:44:04.168570+00:00",
+    "published": "2026-10-22T22:19:12+00:00"
+  },
+  "https://github.com/Coverage-Cat/consumer-agent-testing-tool": {
+    "title": "Show HN: CATT 0.2.1: Test agents/services against a Muse/Instinct-alike, in CI",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-22T23:44:04.168570+00:00",
+    "published": "2026-10-22T22:18:40+00:00"
+  },
+  "https://train.samismith.com": {
+    "title": "Railpass",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-22T23:44:04.168570+00:00",
+    "published": "2026-10-22T21:38:32+00:00"
+  },
+  "https://www.vanityfair.com/story/jared-kushner-hacked-phone-secret-negotiations": {
+    "title": "Jared Kushner Hacked Phone Reveals Secret Negotiations, Millions in Transactions",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-22T23:44:04.168570+00:00",
+    "published": "2026-10-22T21:24:41+00:00"
+  },
+  "https://webkit.org/blog/18482/release-notes-for-safari-technology-preview-255": {
+    "title": "Release Notes for Safari Technology Preview 255",
+    "source": "WebKit Blog",
+    "first_seen": "2026-10-22T23:44:04.168570+00:00",
+    "published": "2026-10-22T21:22:48+00:00"
+  },
+  "https://www.phoronix.com/news/Fedora-45-Second-NO-GO": {
+    "title": "Fedora 45 Hits A Second NO-GO: Not Releasing Until November",
+    "source": "Phoronix",
+    "first_seen": "2026-10-22T23:44:04.168570+00:00",
+    "published": "2026-10-22T21:20:50+00:00"
+  },
+  "https://cloud.google.com/blog/products/ai-machine-learning/expanding-claude-availability-on-google-cloud": {
+    "title": "Expanding Claude availability and deployment choice on Google Cloud",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-10-22T23:44:04.168570+00:00",
+    "published": "2026-10-22T21:00:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/aws/aws-continuum-for-code-vulnerabilities-is-now-generally-available": {
+    "title": "AWS Continuum for code vulnerabilities is now generally available",
+    "source": "AWS Blog",
+    "first_seen": "2026-10-22T23:44:04.168570+00:00",
+    "published": "2026-10-22T20:33:10+00:00"
+  },
+  "https://replit.com/blog/replit-monitoring-agent": {
+    "title": "Replit Monitoring Agent: Your very own software engineering team",
+    "source": "Replit Blog",
+    "first_seen": "2026-10-22T23:44:04.168570+00:00",
+    "published": "2026-10-22T20:24:13+00:00"
+  },
+  "https://simonwillison.net/2026/Oct/22/de-staat-freedom": {
+    "title": "DE STAAT - FREEDOM (Official Music Video)",
+    "source": "Simon Willison",
+    "first_seen": "2026-10-22T23:44:04.168570+00:00",
+    "published": "2026-10-22T19:42:26+00:00"
+  },
+  "https://stackoverflow.blog/2026/10/22/the-regression-tests-nobody-writes-capturing-how-software-actually-behaves": {
+    "title": "The Regression Tests Nobody Writes: Capturing How Software Actually Behaves",
+    "source": "Stack Overflow Blog",
+    "first_seen": "2026-10-22T23:44:04.168570+00:00",
+    "published": "2026-10-22T19:37:29+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-AMD-Zen-AI-Detection": {
+    "title": "AI Helping To Improve Linux's AMD Zen CPU Microarchitecture Detection",
+    "source": "Phoronix",
+    "first_seen": "2026-10-22T23:44:04.168570+00:00",
+    "published": "2026-10-22T19:21:54+00:00"
+  },
+  "https://openai.com/index/decisions-api": {
+    "title": "Build more responsive apps with the Decisions API",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-10-22T23:44:04.168570+00:00",
+    "published": "2026-10-22T19:00:00+00:00"
+  },
+  "https://github.com/maxilevi/project-hedra/tree/pre-ai": {
+    "title": "Hedra is a 3D open world game I wrote from scratch while in highschool",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-22T23:44:04.168570+00:00",
+    "published": "2026-10-22T18:44:36+00:00"
+  },
+  "https://www.typeui.sh/micro-interactions": {
+    "title": "Show HN: UI micro interactions prompts for AI",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-22T23:44:04.168570+00:00",
+    "published": "2026-10-22T18:32:57+00:00"
+  },
+  "https://arxiv.org/abs/2610.27251": {
+    "title": "AI and the Enclosure of the Scientific Commons",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-22T23:44:04.168570+00:00",
+    "published": "2026-10-22T18:28:16+00:00"
+  },
+  "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans": {
+    "title": "Every AI model has the same \"controversial\" take on humans",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-22T23:44:04.168570+00:00",
+    "published": "2026-10-22T16:08:00+00:00"
+  },
+  "https://www.techspot.com/news/114296-woman-spends-three-nights-jail-faces-six-years.html": {
+    "title": "Woman faces six years in prison over Cash App account she never opened",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-22T23:44:04.168570+00:00",
+    "published": "2026-10-22T13:11:00+00:00"
+  },
+  "https://wordpress.org/plugins/gdpr-compliant-recaptcha-for-all-forms": {
+    "title": "Show HN: Replacing CAPTCHAs with adaptive proof-of-work in WordPress",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-22T23:44:04.168570+00:00",
+    "published": "2026-10-22T13:03:14+00:00"
+  },
+  "https://arstechnica.com/gaming/2026/10/xbox-wants-you-to-pay-24-to-40-cents-per-hour-to-stream-games-you-already-bought": {
+    "title": "Xbox wants you to pay 24 to 40 cents per hour to stream games you bought",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-22T23:44:04.168570+00:00",
+    "published": "2026-10-22T11:42:03+00:00"
+  },
+  "https://news.ycombinator.com/item?id=50193416": {
+    "title": "Tell HN: I unknowingly broke the PHP RCE embargo. I am sorry.",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-22T23:44:04.168570+00:00",
+    "published": "2026-10-22T10:11:44+00:00"
   }
 }
