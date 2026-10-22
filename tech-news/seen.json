@@ -111236,5 +111236,437 @@
     "source": "Fly.io Blog",
     "first_seen": "2026-10-22T14:09:35.047524+00:00",
     "published": "2026-10-22T00:00:00+00:00"
+  },
+  "https://www.databricks.com/blog/ai-cost-management": {
+    "title": "The new economics of AI cost management",
+    "source": "Databricks Blog",
+    "first_seen": "2026-10-22T18:54:52.374925+00:00",
+    "published": "2026-10-22T19:14:24+00:00"
+  },
+  "https://thenewstack.io/letta-frontiermemory-agent-harness-benchmark": {
+    "title": "Five AI agent harnesses took the same memory test. The results weren’t even close.",
+    "source": "The New Stack",
+    "first_seen": "2026-10-22T18:54:52.374925+00:00",
+    "published": "2026-10-22T18:34:32+00:00"
+  },
+  "https://www.phoronix.com/news/Modular-MAX-Complete-Open": {
+    "title": "Modular's MAX Source Code Now Fully Opened, Under New MAX License",
+    "source": "Phoronix",
+    "first_seen": "2026-10-22T18:54:52.374925+00:00",
+    "published": "2026-10-22T18:32:34+00:00"
+  },
+  "https://www.databricks.com/blog/fraud-analyst-ai-coworker-detecting-telecom-fraud-real-time-one-platform": {
+    "title": "The Fraud Analyst AI Coworker: Detecting Telecom Fraud in Real-Time on One Platform",
+    "source": "Databricks Blog",
+    "first_seen": "2026-10-22T18:54:52.374925+00:00",
+    "published": "2026-10-22T18:30:00+00:00"
+  },
+  "https://www.databricks.com/blog/ai-bill-coming": {
+    "title": "The AI Bill is coming",
+    "source": "Databricks Blog",
+    "first_seen": "2026-10-22T18:54:52.374925+00:00",
+    "published": "2026-10-22T18:12:49+00:00"
+  },
+  "https://simonwillison.net/2026/Oct/22/donating-agent-skills": {
+    "title": "Donating Agent Skills to the Agentic AI Foundation",
+    "source": "Simon Willison",
+    "first_seen": "2026-10-22T18:54:52.374925+00:00",
+    "published": "2026-10-22T18:09:56+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/amazon-polly-delivers-a-major-upgrade-to-its-generative-engine": {
+    "title": "Amazon Polly delivers a major upgrade to its Generative engine",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-10-22T18:54:52.374925+00:00",
+    "published": "2026-10-22T18:06:35+00:00"
+  },
+  "https://www.biograph.com/newsroom/biograph-completes-first-u.s.-study-with-caristo-diagnostics%E2%80%99-ai-powered-coronary-inflammation-detection-finding-risk-in-over-42-of-asymptomatic-patients": {
+    "title": "AI analysis of CT scans finds 42.9% of patients have coronary inflammation",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-22T18:54:52.374925+00:00",
+    "published": "2026-10-22T18:02:54+00:00"
+  },
+  "https://github.com/rbartoli/agent-usage-guard": {
+    "title": "Show HN: agent-usage-guard – a Claude Code mod to protect your usage window",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-22T18:54:52.374925+00:00",
+    "published": "2026-10-22T18:02:38+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/how-iskaypet-unified-corporate-knowledge-with-amazon-bedrock-managed-knowledge-bases": {
+    "title": "How IskayPet unified corporate knowledge with Amazon Bedrock Managed Knowledge Bases",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-10-22T18:54:52.374925+00:00",
+    "published": "2026-10-22T18:01:53+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/announcing-new-ways-to-customize-models-with-sagemaker-ai-without-managing-gpus": {
+    "title": "Announcing new ways to customize models with SageMaker AI, without managing GPUs",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-10-22T18:54:52.374925+00:00",
+    "published": "2026-10-22T18:00:04+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/write-your-own-training-loop-without-managing-gpus-with-amazon-sagemaker-training-sessions": {
+    "title": "Write your own training loop — without managing GPUs — with Amazon SageMaker training session APIs",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-10-22T18:54:52.374925+00:00",
+    "published": "2026-10-22T18:00:01+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/deploy-ai-in-a-hipaa-eligible-environment-with-amazon-quick": {
+    "title": "Deploy AI in a HIPAA-eligible environment with Amazon Quick",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-10-22T18:54:52.374925+00:00",
+    "published": "2026-10-22T17:48:22+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/stream-low-latency-speech-from-ai-agents-using-kokoro-tts-on-amazon-sagemaker-ai": {
+    "title": "Stream low-latency speech from AI agents using Kokoro TTS on Amazon SageMaker AI",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-10-22T18:54:52.374925+00:00",
+    "published": "2026-10-22T17:45:58+00:00"
+  },
+  "https://pytorch.org/blog/meet-the-2026-pytorch-foundation-ambassadors": {
+    "title": "Meet the 2026 PyTorch Foundation Ambassadors",
+    "source": "PyTorch Blog",
+    "first_seen": "2026-10-22T18:54:52.374925+00:00",
+    "published": "2026-10-22T17:44:52+00:00"
+  },
+  "https://github.com/NVIDIA/OpenShell": {
+    "title": "Nvidia OpenShell",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-22T18:54:52.374925+00:00",
+    "published": "2026-10-22T17:44:06+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/from-problem-to-fix-in-minutes-automating-search-relevance-tuning-with-the-amazon-opensearch-search-relevance-agent": {
+    "title": "From problem to fix in minutes: Automating search relevance tuning with the Amazon OpenSearch Search Relevance Agent",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-10-22T18:54:52.374925+00:00",
+    "published": "2026-10-22T17:43:30+00:00"
+  },
+  "https://aws.amazon.com/blogs/compute/os-patching-and-upgrades-with-amazon-ec2-root-volume-replacement": {
+    "title": "OS patching and upgrades with Amazon EC2 root volume replacement",
+    "source": "AWS Compute Blog",
+    "first_seen": "2026-10-22T18:54:52.374925+00:00",
+    "published": "2026-10-22T17:30:32+00:00"
+  },
+  "https://www.docker.com/blog/security-update-on-php2shell-impact-for-docker-customers": {
+    "title": "Security Update on PHP2Shell: Impact for Docker Customers",
+    "source": "Docker Blog",
+    "first_seen": "2026-10-22T18:54:52.374925+00:00",
+    "published": "2026-10-22T17:22:47+00:00"
+  },
+  "https://github.blog/security/how-bug-bounty-sharpens-one-researchers-security-skills": {
+    "title": "How bug bounty sharpens one researcher’s security skills",
+    "source": "GitHub Blog",
+    "first_seen": "2026-10-22T18:54:52.374925+00:00",
+    "published": "2026-10-22T17:21:30+00:00"
+  },
+  "https://developer.nvidia.com/blog/how-to-read-data-into-gpu-memory-in-python-with-nvidia-gpudirect-storage": {
+    "title": "How to Read Data into GPU Memory in Python with NVIDIA GPUDirect Storage",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-10-22T18:54:52.374925+00:00",
+    "published": "2026-10-22T16:39:09+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/troubleshooting-data-mismatches-with-tablediff-on-amazon-rds-for-sql-server": {
+    "title": "Troubleshooting Data Mismatches with tablediff on Amazon RDS for SQL Server",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-10-22T18:54:52.374925+00:00",
+    "published": "2026-10-22T16:33:04+00:00"
+  },
+  "https://thenewstack.io/ramp-laminar-agent-harness": {
+    "title": "Ramp built an AI agent harness in six weeks — and LangChain’s CEO says it’s part of a bigger shift",
+    "source": "The New Stack",
+    "first_seen": "2026-10-22T18:54:52.374925+00:00",
+    "published": "2026-10-22T16:31:15+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/stop-guessing-auto-scaling-targets-for-tts-on-amazon-sagemaker-ai": {
+    "title": "Stop guessing auto scaling targets for TTS on Amazon SageMaker AI",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-10-22T18:54:52.374925+00:00",
+    "published": "2026-10-22T16:30:06+00:00"
+  },
+  "https://arc.net": {
+    "title": "A farewell to Arc browser",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-22T18:54:52.374925+00:00",
+    "published": "2026-10-22T16:27:47+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/how-rescale-built-an-ai-triage-agent-with-strands-agents-and-ai-dlc": {
+    "title": "How Rescale built an AI triage agent with Strands Agents and AI-DLC",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-10-22T18:54:52.374925+00:00",
+    "published": "2026-10-22T16:25:57+00:00"
+  },
+  "https://lwn.net/Articles/1102061": {
+    "title": "[$] The end of __get_user() and __put_user()",
+    "source": "LWN.net",
+    "first_seen": "2026-10-22T18:54:52.374925+00:00",
+    "published": "2026-10-22T16:25:50+00:00"
+  },
+  "https://www.frontiersin.org/news/2026/10/16/mini-brain-organoids-reading-braille-biohybrid-computing-frontiers-artificial-intelligence": {
+    "title": "Mini brain organoids 'reading' Braille key step towards biohybrid computing",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-22T18:54:52.374925+00:00",
+    "published": "2026-10-22T16:16:45+00:00"
+  },
+  "https://www.taler.net/en/news/2026-13.html": {
+    "title": "Getting ready to operate GNU Taler in Germany",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-22T18:54:52.374925+00:00",
+    "published": "2026-10-22T16:14:31+00:00"
+  },
+  "https://huggingface.co/blog/allenai/olmoearth-v1-3": {
+    "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-10-22T18:54:52.374925+00:00",
+    "published": "2026-10-22T16:11:31+00:00"
+  },
+  "https://thenewstack.io/openai-donates-open-responses": {
+    "title": "OpenAI donates Open Responses, its spec for a common LLM API, to the Agentic AI Foundation",
+    "source": "The New Stack",
+    "first_seen": "2026-10-22T18:54:52.374925+00:00",
+    "published": "2026-10-22T16:01:00+00:00"
+  },
+  "https://developer.nvidia.com/blog/running-frontier-class-ai-models-across-8-nvidia-dgx-spark-nodes": {
+    "title": "Running Frontier-Class AI Models Across 8 NVIDIA DGX Spark Nodes",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-10-22T18:54:52.374925+00:00",
+    "published": "2026-10-22T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/data-analytics/knowledge-catalog-self-learning-context-enrichment-for-ai-agents": {
+    "title": "Introducing new self-learning context enrichment in Knowledge Catalog",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-10-22T18:54:52.374925+00:00",
+    "published": "2026-10-22T16:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.4": {
+    "title": "Linux 7.4 Improves Scheduling Latency For Short-Slice Tasks, NVIDIA Vera SMT Preference",
+    "source": "Phoronix",
+    "first_seen": "2026-10-22T18:54:52.374925+00:00",
+    "published": "2026-10-22T15:42:11+00:00"
+  },
+  "https://thenewstack.io/penai-cobol-migration-benchmark": {
+    "title": "OpenAI’s COBOL migration score has made a striking leap",
+    "source": "The New Stack",
+    "first_seen": "2026-10-22T18:54:52.374925+00:00",
+    "published": "2026-10-22T15:34:58+00:00"
+  },
+  "https://simonwillison.net/2026/Oct/22/armin-ronacher": {
+    "title": "Quoting Armin Ronacher",
+    "source": "Simon Willison",
+    "first_seen": "2026-10-22T18:54:52.374925+00:00",
+    "published": "2026-10-22T15:34:13+00:00"
+  },
+  "https://www.techspot.com/news/114100-google-cleared-300-hectares-finnish-forest-data-center.html": {
+    "title": "Google cleared 300 hectares of Finnish forest",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-22T18:54:52.374925+00:00",
+    "published": "2026-10-22T15:32:46+00:00"
+  },
+  "https://blog.bytebytego.com/p/why-distributed-systems-prefer-independence": {
+    "title": "Why Distributed Systems Prefer Independence over Coordination",
+    "source": "ByteByteGo",
+    "first_seen": "2026-10-22T18:54:52.374925+00:00",
+    "published": "2026-10-22T15:30:47+00:00"
+  },
+  "https://github.com/oosexgang/hackios-xnu-kernel": {
+    "title": "Show HN: Run full iOS 16.5 firmware on Android Devices",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-22T18:54:52.374925+00:00",
+    "published": "2026-10-22T15:26:22+00:00"
+  },
+  "https://thenewstack.io/pytorch-tpu-trainium-migration": {
+    "title": "Google and AWS open new paths for PyTorch beyond Nvidia",
+    "source": "The New Stack",
+    "first_seen": "2026-10-22T18:54:52.374925+00:00",
+    "published": "2026-10-22T15:23:23+00:00"
+  },
+  "https://thenewstack.io/php2shell-chainguard-embargo-dispute": {
+    "title": "AI found a critical PHP flaw. The bigger failure began in 2024.",
+    "source": "The New Stack",
+    "first_seen": "2026-10-22T18:54:52.374925+00:00",
+    "published": "2026-10-22T15:01:54+00:00"
+  },
+  "https://thenewstack.io/production-ai-agent-ownership": {
+    "title": "Who on-calls an AI? This is the unresolved crisis of agent ownership",
+    "source": "The New Stack",
+    "first_seen": "2026-10-22T18:54:52.374925+00:00",
+    "published": "2026-10-22T15:00:00+00:00"
+  },
+  "https://opentelemetry.io/blog/2026/security-versioning-policy": {
+    "title": "Strengthening OpenTelemetry security while preserving API stability",
+    "source": "OpenTelemetry Blog",
+    "first_seen": "2026-10-22T18:54:52.374925+00:00",
+    "published": "2026-10-22T14:59:07+00:00"
+  },
+  "https://thenewstack.io/php2shell-ai-vulnerabilities-maintainers": {
+    "title": "PHP’s security scramble is just a preview: AI is digging up flaws faster than maintainers can fix them",
+    "source": "The New Stack",
+    "first_seen": "2026-10-22T18:54:52.374925+00:00",
+    "published": "2026-10-22T14:35:13+00:00"
+  },
+  "https://quad9.net/news/blog/au-revoir-france": {
+    "title": "Quad9 (DNS Resolver) to Exit France",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-22T18:54:52.374925+00:00",
+    "published": "2026-10-22T14:32:38+00:00"
+  },
+  "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types": {
+    "title": "Beyond tree cover: mapping the world’s forest types",
+    "source": "DeepMind Blog",
+    "first_seen": "2026-10-22T18:54:52.374925+00:00",
+    "published": "2026-10-22T14:30:24+00:00"
+  },
+  "https://www.cbc.ca/news/investigates/gambling-ads-restrictions-canada-9.7388888": {
+    "title": "MPs moving to restrict gambling ads in Canada",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-22T18:54:52.374925+00:00",
+    "published": "2026-10-22T14:26:40+00:00"
+  },
+  "https://thenewstack.io/deepseek-flash-haiku-test": {
+    "title": "DeepSeek V4.1-Flash-1017 vs. Claude Haiku 5.5: More accurate at a fraction of the price",
+    "source": "The New Stack",
+    "first_seen": "2026-10-22T18:54:52.374925+00:00",
+    "published": "2026-10-22T14:22:50+00:00"
+  },
+  "https://newsletter.pragmaticengineer.com/p/the-pulse-do-we-need-to-rethink-software": {
+    "title": "The Pulse: Time to rethink software security because of AI?",
+    "source": "The Pragmatic Engineer",
+    "first_seen": "2026-10-22T18:54:52.374925+00:00",
+    "published": "2026-10-22T14:08:21+00:00"
+  },
+  "https://pwn.watch": {
+    "title": "What's Getting Pwned",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-22T18:54:52.374925+00:00",
+    "published": "2026-10-22T14:08:12+00:00"
+  },
+  "https://realpython.com/python-supply-chain-security": {
+    "title": "Supply Chain Security for the Age of AI-Speed Exploits",
+    "source": "Real Python",
+    "first_seen": "2026-10-22T18:54:52.374925+00:00",
+    "published": "2026-10-22T14:00:00+00:00"
+  },
+  "https://realpython.com/python-program-structure": {
+    "title": "Python Program Lexical Structure",
+    "source": "Real Python",
+    "first_seen": "2026-10-22T18:54:52.374925+00:00",
+    "published": "2026-10-22T14:00:00+00:00"
+  },
+  "https://realpython.com/python-operators-expressions": {
+    "title": "Operators and Expressions in Python",
+    "source": "Real Python",
+    "first_seen": "2026-10-22T18:54:52.374925+00:00",
+    "published": "2026-10-22T14:00:00+00:00"
+  },
+  "https://realpython.com/python-matplotlib-guide": {
+    "title": "Python Plotting With Matplotlib (Guide)",
+    "source": "Real Python",
+    "first_seen": "2026-10-22T18:54:52.374925+00:00",
+    "published": "2026-10-22T14:00:00+00:00"
+  },
+  "https://realpython.com/python-itertools": {
+    "title": "Python itertools By Example",
+    "source": "Real Python",
+    "first_seen": "2026-10-22T18:54:52.374925+00:00",
+    "published": "2026-10-22T14:00:00+00:00"
+  },
+  "https://realpython.com/python-csv": {
+    "title": "Reading and Writing CSV Files in Python",
+    "source": "Real Python",
+    "first_seen": "2026-10-22T18:54:52.374925+00:00",
+    "published": "2026-10-22T14:00:00+00:00"
+  },
+  "https://realpython.com/python-concurrency": {
+    "title": "Speed Up Your Python Program With Concurrency",
+    "source": "Real Python",
+    "first_seen": "2026-10-22T18:54:52.374925+00:00",
+    "published": "2026-10-22T14:00:00+00:00"
+  },
+  "https://realpython.com/pygame-a-primer": {
+    "title": "Pygame: A Primer on Game Programming in Python",
+    "source": "Real Python",
+    "first_seen": "2026-10-22T18:54:52.374925+00:00",
+    "published": "2026-10-22T14:00:00+00:00"
+  },
+  "https://realpython.com/emacs-the-best-python-editor": {
+    "title": "Emacs: The Best Python Editor?",
+    "source": "Real Python",
+    "first_seen": "2026-10-22T18:54:52.374925+00:00",
+    "published": "2026-10-22T14:00:00+00:00"
+  },
+  "https://realpython.com/api-integration-in-python": {
+    "title": "Python and REST APIs: Interacting With Web Services",
+    "source": "Real Python",
+    "first_seen": "2026-10-22T18:54:52.374925+00:00",
+    "published": "2026-10-22T14:00:00+00:00"
+  },
+  "https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business": {
+    "title": "eMudhra to exit global SSL/TLS certificate business",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-22T18:54:52.374925+00:00",
+    "published": "2026-10-22T13:33:39+00:00"
+  },
+  "https://crystal-lang.org/2026/10/12/1.22.0-released": {
+    "title": "Crystal 1.22",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-22T18:54:52.374925+00:00",
+    "published": "2026-10-22T13:20:13+00:00"
+  },
+  "https://lastmuseum.com": {
+    "title": "The Last Museum: Semantic search across 5.8M artworks from major museums",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-22T18:54:52.374925+00:00",
+    "published": "2026-10-22T12:40:04+00:00"
+  },
+  "https://realpython.com/quizzes/python-supply-chain-security": {
+    "title": "Quiz: Supply Chain Security for the Age of AI-Speed Exploits",
+    "source": "Real Python",
+    "first_seen": "2026-10-22T18:54:52.374925+00:00",
+    "published": "2026-10-22T12:00:00+00:00"
+  },
+  "https://globus.software/blog/2026/10/16/cutting-map-polygons": {
+    "title": "Faster than earcut: triangulating 3.7M map polygons in 489 ms",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-22T18:54:52.374925+00:00",
+    "published": "2026-10-22T09:31:18+00:00"
+  },
+  "https://blog.sentry.io/when-you-need-a-metric": {
+    "title": "Should you use a log or a metric?",
+    "source": "Sentry Blog",
+    "first_seen": "2026-10-22T18:54:52.374925+00:00",
+    "published": "2026-10-22T09:00:00+00:00"
+  },
+  "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb": {
+    "title": "Jailbreaking the Switch 2",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-22T18:54:52.374925+00:00",
+    "published": "2026-10-22T08:01:52+00:00"
+  },
+  "https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf": {
+    "title": "The recently proposed o(n log n) integer multiplication algorithm [pdf]",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-22T18:54:52.374925+00:00",
+    "published": "2026-10-22T02:30:52+00:00"
+  },
+  "https://simedw.com/2026/10/21/world-model-terminal": {
+    "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-22T18:54:52.374925+00:00",
+    "published": "2026-10-22T02:18:41+00:00"
+  },
+  "https://www.redpanda.com/blog/how-to-build-and-reuse-ai-agents": {
+    "title": "Build an AI agent once and reuse it across teams",
+    "source": "Redpanda Blog",
+    "first_seen": "2026-10-22T18:54:52.374925+00:00",
+    "published": "2026-10-22T00:00:00+00:00"
+  },
+  "https://openai.com/index/uber-chatgpt-work-rollout": {
+    "title": "Uber brings ChatGPT Work to all employees with OpenAI",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-10-22T18:54:52.374925+00:00",
+    "published": "2026-10-22T00:00:00+00:00"
+  },
+  "https://discord.com/blog/discord-update-october-22-2026": {
+    "title": "Discord Update: October 22, 2026",
+    "source": "Discord Engineering",
+    "first_seen": "2026-10-22T18:54:52.374925+00:00",
+    "published": "2026-10-22T00:00:00+00:00"
   }
 }
