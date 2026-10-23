@@ -112034,5 +112034,323 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-10-23T13:53:23.228242+00:00",
     "published": "2026-10-22T19:54:04+00:00"
+  },
+  "https://netflixtechblog.com/beyond-api-compatibility-building-a-tool-to-measure-the-blast-radius-of-library-changes-9474f2fd4f90?source=rss----2615bd06b42e---4": {
+    "title": "Beyond API Compatibility: Building a Tool to Measure the Blast Radius of Library Changes",
+    "source": "Netflix Tech Blog",
+    "first_seen": "2026-10-23T18:46:33.993948+00:00",
+    "published": "2026-10-23T18:32:51+00:00"
+  },
+  "https://blog.cloudflare.com/origin-range-requests": {
+    "title": "Origin Range Requests: Serving large files without range-request tuning",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-10-23T18:46:33.993948+00:00",
+    "published": "2026-10-23T18:22:59+00:00"
+  },
+  "https://blog.cloudflare.com/post-quantum-geo-key-manager": {
+    "title": "Bringing post-quantum cryptography to geographically fenced key management",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-10-23T18:46:33.993948+00:00",
+    "published": "2026-10-23T18:06:56+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/multi-turn-reinforcement-learning-on-amazon-sagemaker-ai-a-hands-on-guide": {
+    "title": "Multi-Turn Reinforcement Learning on Amazon SageMaker AI: A hands-on guide",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-10-23T18:46:33.993948+00:00",
+    "published": "2026-10-23T17:48:54+00:00"
+  },
+  "https://twitter.com/robbietilton/status/2111936458923851923": {
+    "title": "I turned my TV into a Game Boy Color with a Pokemon town as my home screen",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-23T18:46:33.993948+00:00",
+    "published": "2026-10-23T17:40:22+00:00"
+  },
+  "https://www.jefftk.com/p/air-purifiers-as-white-noise-machines": {
+    "title": "Air Purifiers as White Noise Machines",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-23T18:46:33.993948+00:00",
+    "published": "2026-10-23T17:28:36+00:00"
+  },
+  "https://developer.nvidia.com/blog/scaling-nvidia-tensorrt-performance-optimization-beyond-a-single-build-route-with-the-global-performance-tuner-part-2": {
+    "title": "Scaling NVIDIA TensorRT Performance Optimization Beyond a Single Build Route with the Global Performance Tuner, Part 2",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-10-23T18:46:33.993948+00:00",
+    "published": "2026-10-23T17:27:52+00:00"
+  },
+  "https://developer.nvidia.com/blog/scaling-nvidia-tensorrt-performance-optimization-beyond-a-single-build-route-with-the-global-performance-tuner-part-1": {
+    "title": "Scaling NVIDIA TensorRT Performance Optimization Beyond a Single Build Route with the Global Performance Tuner, Part 1",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-10-23T18:46:33.993948+00:00",
+    "published": "2026-10-23T17:27:35+00:00"
+  },
+  "https://david.lequin.dev/blog/bi-software-is-dead": {
+    "title": "Can we replace a $150k Looker with a bucket of HTML files?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-23T18:46:33.993948+00:00",
+    "published": "2026-10-23T17:15:03+00:00"
+  },
+  "https://drop7.dev": {
+    "title": "Show HN: Searching for optimal strategies in a puzzle game with chance (Drop7)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-23T18:46:33.993948+00:00",
+    "published": "2026-10-23T17:13:27+00:00"
+  },
+  "http://leapsecond.com/time-nuts.htm": {
+    "title": "Time Nuts (2005)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-23T18:46:33.993948+00:00",
+    "published": "2026-10-23T17:12:51+00:00"
+  },
+  "https://brooker.co.za/blog/2026/10/23/animations.html": {
+    "title": "Animations for System Builders",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-23T18:46:33.993948+00:00",
+    "published": "2026-10-23T17:02:24+00:00"
+  },
+  "https://openai.com/index/scaling-storage-one-billion-users-part-two": {
+    "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-10-23T18:46:33.993948+00:00",
+    "published": "2026-10-23T17:00:00+00:00"
+  },
+  "https://www.kimi.ai/blog/kimi-k3-1-pro": {
+    "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-23T18:46:33.993948+00:00",
+    "published": "2026-10-23T16:59:08+00:00"
+  },
+  "https://alexsci.com/blog/uuidv7-is-weird": {
+    "title": "UUIDv7 doesn't have the properties you think it does",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-23T18:46:33.993948+00:00",
+    "published": "2026-10-23T16:39:45+00:00"
+  },
+  "https://isaacmarovitz.com/posts/sonic-06": {
+    "title": "The Missed Opportunities of Sonic 06",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-23T18:46:33.993948+00:00",
+    "published": "2026-10-23T16:38:35+00:00"
+  },
+  "https://www.henrikkarlsson.xyz/p/music": {
+    "title": "How Is Music Possible",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-23T18:46:33.993948+00:00",
+    "published": "2026-10-23T16:38:17+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/orchestrating-sagemaker-ai-endpoint-auto-scaling-with-aws-cdk": {
+    "title": "Orchestrating SageMaker AI endpoint auto scaling with AWS CDK",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-10-23T18:46:33.993948+00:00",
+    "published": "2026-10-23T16:30:10+00:00"
+  },
+  "https://www.phoronix.com/news/HPFS-For-Linux-Removal": {
+    "title": "HPFS Is The Latest File-System Slated For Removal On Linux",
+    "source": "Phoronix",
+    "first_seen": "2026-10-23T18:46:33.993948+00:00",
+    "published": "2026-10-23T16:27:08+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/visualize-points-and-routes-with-geojson-in-amazon-quick-sight-layer-maps": {
+    "title": "Visualize points and routes with GeoJSON in Amazon Quick Sight layer maps",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-10-23T18:46:33.993948+00:00",
+    "published": "2026-10-23T16:24:55+00:00"
+  },
+  "https://www.theideasletter.org/essay/total-historian": {
+    "title": "Total Historian",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-23T18:46:33.993948+00:00",
+    "published": "2026-10-23T16:23:29+00:00"
+  },
+  "https://blog.calif.io/p/iphone": {
+    "title": "Today, we hacked what we'd set out to hack: the iPhone",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-23T18:46:33.993948+00:00",
+    "published": "2026-10-23T16:21:50+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/how-bayer-crop-science-built-an-agentic-decision-engine-on-amazon-bedrock-agentcore-with-aws-unified-operations": {
+    "title": "How Bayer Crop Science built an agentic decision engine on Amazon Bedrock AgentCore with AWS Unified Operations",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-10-23T18:46:33.993948+00:00",
+    "published": "2026-10-23T16:21:36+00:00"
+  },
+  "https://huggingface.co/blog/allenai/litpivot": {
+    "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-10-23T18:46:33.993948+00:00",
+    "published": "2026-10-23T16:15:50+00:00"
+  },
+  "https://opentelemetry.io/blog/2026/ecosystem-lists-user-feedback": {
+    "title": "Help us understand how you use OpenTelemetry's ecosystem lists",
+    "source": "OpenTelemetry Blog",
+    "first_seen": "2026-10-23T18:46:33.993948+00:00",
+    "published": "2026-10-23T16:07:27+00:00"
+  },
+  "https://www.phoronix.com/news/Borealis-Vulkan-Driver": {
+    "title": "Borealis: Asahi Linux's Apple Silicon Mesa Vulkan Driver Forked For Vibe Coding",
+    "source": "Phoronix",
+    "first_seen": "2026-10-23T18:46:33.993948+00:00",
+    "published": "2026-10-23T16:00:38+00:00"
+  },
+  "https://lwn.net/Articles/1100271": {
+    "title": "[$] Seeking smaller kernel stacks",
+    "source": "LWN.net",
+    "first_seen": "2026-10-23T18:46:33.993948+00:00",
+    "published": "2026-10-23T14:59:24+00:00"
+  },
+  "https://blog.angular.dev/from-running-edge-rendered-angular-apps-on-cloudflare-workers-to-crafting-lifelike-speech-with-67513b4b85e1?source=rss----447683c3d9a3---4": {
+    "title": "From running edge-rendered Angular apps on Cloudflare Workers to crafting lifelike speech with…",
+    "source": "Angular Blog",
+    "first_seen": "2026-10-23T18:46:33.993948+00:00",
+    "published": "2026-10-23T14:58:56+00:00"
+  },
+  "https://developer.nvidia.com/blog/using-ai-agents-to-teach-robots-like-microduck-to-walk-in-simulation": {
+    "title": "Using AI Agents to Teach Robots Like Microduck to Walk in Simulation",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-10-23T18:46:33.993948+00:00",
+    "published": "2026-10-23T14:58:32+00:00"
+  },
+  "https://www.anthropic.com/research/alignment-assessment-ukaisi": {
+    "title": "An alignment assessment of the UK AISI cybertesting incident",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-23T18:46:33.993948+00:00",
+    "published": "2026-10-23T14:44:50+00:00"
+  },
+  "https://bottlecapai.com/post/thinkingcap-gemma-4-26b": {
+    "title": "Gemma-4-26B-A4B with 39-69% less thinking at same accuracy",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-23T18:46:33.993948+00:00",
+    "published": "2026-10-23T14:43:02+00:00"
+  },
+  "https://www.phoronix.com/news/oneDNN-3.14-Released": {
+    "title": "oneDNN 3.14 Released With ACE Support, Initial AMD Zen Optimizations",
+    "source": "Phoronix",
+    "first_seen": "2026-10-23T18:46:33.993948+00:00",
+    "published": "2026-10-23T14:12:33+00:00"
+  },
+  "https://thenewstack.io/php2shell-ai-patch-race": {
+    "title": "PHP2Shell was only the beginning: AI is accelerating the patch race",
+    "source": "The New Stack",
+    "first_seen": "2026-10-23T18:46:33.993948+00:00",
+    "published": "2026-10-23T14:00:00+00:00"
+  },
+  "https://thenewstack.io/linux-developer-device-management": {
+    "title": "A few engineers asked IT for Linux. Then it spread to 200 machines.",
+    "source": "The New Stack",
+    "first_seen": "2026-10-23T18:46:33.993948+00:00",
+    "published": "2026-10-23T14:00:00+00:00"
+  },
+  "https://realpython.com/python-web-applications": {
+    "title": "Python Web Applications: Deploy Your Script as a Flask App",
+    "source": "Real Python",
+    "first_seen": "2026-10-23T18:46:33.993948+00:00",
+    "published": "2026-10-23T14:00:00+00:00"
+  },
+  "https://realpython.com/python-sets": {
+    "title": "Sets in Python",
+    "source": "Real Python",
+    "first_seen": "2026-10-23T18:46:33.993948+00:00",
+    "published": "2026-10-23T14:00:00+00:00"
+  },
+  "https://realpython.com/python-property": {
+    "title": "Python's property(): Add Managed Attributes to Your Classes",
+    "source": "Real Python",
+    "first_seen": "2026-10-23T18:46:33.993948+00:00",
+    "published": "2026-10-23T14:00:00+00:00"
+  },
+  "https://realpython.com/python-metaclasses": {
+    "title": "Python Metaclasses",
+    "source": "Real Python",
+    "first_seen": "2026-10-23T18:46:33.993948+00:00",
+    "published": "2026-10-23T14:00:00+00:00"
+  },
+  "https://realpython.com/python-gil": {
+    "title": "What Is the Python Global Interpreter Lock (GIL)?",
+    "source": "Real Python",
+    "first_seen": "2026-10-23T18:46:33.993948+00:00",
+    "published": "2026-10-23T14:00:00+00:00"
+  },
+  "https://realpython.com/python-f-strings": {
+    "title": "Python's F-String for String Interpolation and Formatting",
+    "source": "Real Python",
+    "first_seen": "2026-10-23T18:46:33.993948+00:00",
+    "published": "2026-10-23T14:00:00+00:00"
+  },
+  "https://realpython.com/numpy-tutorial": {
+    "title": "NumPy Tutorial: Your First Steps Into Data Science in Python",
+    "source": "Real Python",
+    "first_seen": "2026-10-23T18:46:33.993948+00:00",
+    "published": "2026-10-23T14:00:00+00:00"
+  },
+  "https://realpython.com/get-started-with-django-1": {
+    "title": "Get Started With Django: Build a Portfolio App",
+    "source": "Real Python",
+    "first_seen": "2026-10-23T18:46:33.993948+00:00",
+    "published": "2026-10-23T14:00:00+00:00"
+  },
+  "https://realpython.com/aws-chalice-serverless-python": {
+    "title": "Building Serverless Python Apps Using AWS Chalice",
+    "source": "Real Python",
+    "first_seen": "2026-10-23T18:46:33.993948+00:00",
+    "published": "2026-10-23T14:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.4-Power-Management": {
+    "title": "Linux 7.4 Power Management Preps For AMD Ryzen Zen 6 & Intel Rugged Panther Lake",
+    "source": "Phoronix",
+    "first_seen": "2026-10-23T18:46:33.993948+00:00",
+    "published": "2026-10-23T13:51:29+00:00"
+  },
+  "https://music.apple.com/this-url-doesnt-exist": {
+    "title": "Apple Music 404 Not Found",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-23T18:46:33.993948+00:00",
+    "published": "2026-10-23T12:28:47+00:00"
+  },
+  "https://realpython.com/quizzes/get-started-with-django": {
+    "title": "Quiz: Get Started With Django: Build a Portfolio App",
+    "source": "Real Python",
+    "first_seen": "2026-10-23T18:46:33.993948+00:00",
+    "published": "2026-10-23T12:00:00+00:00"
+  },
+  "https://stackoverflow.blog/2026/10/23/rumors-of-the-saas-demise-are-greatly-exaggerated": {
+    "title": "Rumors of the SaaS demise are greatly exaggerated",
+    "source": "Stack Overflow Blog",
+    "first_seen": "2026-10-23T18:46:33.993948+00:00",
+    "published": "2026-10-23T07:40:00+00:00"
+  },
+  "https://swurf.org": {
+    "title": "Show HN: Swurf – Swipe through the real web",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-23T18:46:33.993948+00:00",
+    "published": "2026-10-23T06:54:52+00:00"
+  },
+  "https://www.thoughtworks.com/insights/articles/the-agentic-control-tower-supply-chain": {
+    "title": "The agentic control tower: From supply chain visibility to action",
+    "source": "ThoughtWorks",
+    "first_seen": "2026-10-23T18:46:33.993948+00:00",
+    "published": "2026-10-23T00:00:00+00:00"
+  },
+  "https://golangweekly.com/issues/621": {
+    "title": "Why Go had to hardcode a block on broken certs",
+    "source": "Golang Weekly",
+    "first_seen": "2026-10-23T18:46:33.993948+00:00",
+    "published": "2026-10-23T00:00:00+00:00"
+  },
+  "http://brooker.co.za/blog/2026/10/23/animations.html": {
+    "title": "Animations for System Builders: Metastability and Lost Writes",
+    "source": "Marc Brooker",
+    "first_seen": "2026-10-23T18:46:33.993948+00:00",
+    "published": "2026-10-23T00:00:00+00:00"
+  },
+  "https://www.impossiblemachines.xyz": {
+    "title": "Show HN: Impossible Machines: declaratively program the physical world",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-23T18:46:33.993948+00:00",
+    "published": "2026-10-22T23:54:28+00:00"
+  },
+  "https://www.axelmagn.com/blog/202610-zig-traits": {
+    "title": "We have traits at home",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-23T18:46:33.993948+00:00",
+    "published": "2026-10-22T23:24:17+00:00"
   }
 }
