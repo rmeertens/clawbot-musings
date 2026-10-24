@@ -112640,5 +112640,143 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-10-24T12:58:43.179129+00:00",
     "published": "2026-10-22T22:43:19+00:00"
+  },
+  "https://gizmodo.com/sam-altman-i-no-longer-think-were-gonna-be-able-to-just-patch-all-the-bugs-2000829947": {
+    "title": "Sam Altman: 'I No Longer Think We're Gonna Be Able to Just Patch All the Bugs'",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-24T17:41:48.864519+00:00",
+    "published": "2026-10-24T16:47:19+00:00"
+  },
+  "https://de.numista.com/9866": {
+    "title": "The St. Helena 5 pence coin shows Jonathan, a roughly 190 year old tortoise",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-24T17:41:48.864519+00:00",
+    "published": "2026-10-24T16:41:55+00:00"
+  },
+  "https://blog.roku.com/developer/gitlab-move": {
+    "title": "Roku developer repositories moved from GitHub to GitLab",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-24T17:41:48.864519+00:00",
+    "published": "2026-10-24T16:06:26+00:00"
+  },
+  "https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2": {
+    "title": "Neural chip decodes interactions between brain regions",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-24T17:41:48.864519+00:00",
+    "published": "2026-10-24T15:57:17+00:00"
+  },
+  "https://blog.bytebytego.com/p/ep230-rag-vs-agentic-rag": {
+    "title": "EP230: RAG vs Agentic RAG",
+    "source": "ByteByteGo",
+    "first_seen": "2026-10-24T17:41:48.864519+00:00",
+    "published": "2026-10-24T15:30:37+00:00"
+  },
+  "https://freedns.afraid.org": {
+    "title": "FreeDNS",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-24T17:41:48.864519+00:00",
+    "published": "2026-10-24T15:20:01+00:00"
+  },
+  "https://thenewstack.io/aws-says-its-ai-security-agent-fixes-89-of-bugs-but-theres-a-catch": {
+    "title": "AWS says its AI security agent fixes 89% of bugs — but there’s a catch",
+    "source": "The New Stack",
+    "first_seen": "2026-10-24T17:41:48.864519+00:00",
+    "published": "2026-10-24T14:30:00+00:00"
+  },
+  "https://thenewstack.io/agentic-software-factory-sensor": {
+    "title": "Building an agentic software factory? Start with the sensor.",
+    "source": "The New Stack",
+    "first_seen": "2026-10-24T17:41:48.864519+00:00",
+    "published": "2026-10-24T14:00:00+00:00"
+  },
+  "https://realpython.com/storing-images-in-python": {
+    "title": "Three Ways of Storing and Accessing Lots of Images in Python",
+    "source": "Real Python",
+    "first_seen": "2026-10-24T17:41:48.864519+00:00",
+    "published": "2026-10-24T14:00:00+00:00"
+  },
+  "https://realpython.com/python-string-formatting": {
+    "title": "Python String Formatting: Available Tools and Their Features",
+    "source": "Real Python",
+    "first_seen": "2026-10-24T17:41:48.864519+00:00",
+    "published": "2026-10-24T14:00:00+00:00"
+  },
+  "https://realpython.com/python-formatted-output": {
+    "title": "A Guide to Modern Python String Formatting Tools",
+    "source": "Real Python",
+    "first_seen": "2026-10-24T17:41:48.864519+00:00",
+    "published": "2026-10-24T14:00:00+00:00"
+  },
+  "https://realpython.com/python-dicts": {
+    "title": "Dictionaries in Python",
+    "source": "Real Python",
+    "first_seen": "2026-10-24T17:41:48.864519+00:00",
+    "published": "2026-10-24T14:00:00+00:00"
+  },
+  "https://realpython.com/intro-to-python-threading": {
+    "title": "An Intro to Threading in Python",
+    "source": "Real Python",
+    "first_seen": "2026-10-24T17:41:48.864519+00:00",
+    "published": "2026-10-24T14:00:00+00:00"
+  },
+  "https://realpython.com/alexa-python-skill": {
+    "title": "Alexa Python Development: Build and Deploy an Alexa Skill",
+    "source": "Real Python",
+    "first_seen": "2026-10-24T17:41:48.864519+00:00",
+    "published": "2026-10-24T14:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.4-memblock": {
+    "title": "Linux's Early Boot-Time Physical Memory Allocator Sees Big Speed-Up: ~268s To ~50ms",
+    "source": "Phoronix",
+    "first_seen": "2026-10-24T17:41:48.864519+00:00",
+    "published": "2026-10-24T13:00:00+00:00"
+  },
+  "https://thenewstack.io/why-kubernetes-autoscalers-fight": {
+    "title": "Why Kubernetes autoscalers keep fighting each other (and why the solution must be autonomous)",
+    "source": "The New Stack",
+    "first_seen": "2026-10-24T17:41:48.864519+00:00",
+    "published": "2026-10-24T13:00:00+00:00"
+  },
+  "https://realpython.com/quizzes/python-threading": {
+    "title": "Quiz: Python Threading",
+    "source": "Real Python",
+    "first_seen": "2026-10-24T17:41:48.864519+00:00",
+    "published": "2026-10-24T12:00:00+00:00"
+  },
+  "https://realpython.com/quizzes/python-json": {
+    "title": "Quiz: Working With JSON Data in Python",
+    "source": "Real Python",
+    "first_seen": "2026-10-24T17:41:48.864519+00:00",
+    "published": "2026-10-24T12:00:00+00:00"
+  },
+  "https://realpython.com/quizzes/python-function": {
+    "title": "Quiz: Defining Your Own Python Function",
+    "source": "Real Python",
+    "first_seen": "2026-10-24T17:41:48.864519+00:00",
+    "published": "2026-10-24T12:00:00+00:00"
+  },
+  "https://realpython.com/quizzes/python-formatted-output": {
+    "title": "Quiz: A Guide to Modern Python String Formatting Tools",
+    "source": "Real Python",
+    "first_seen": "2026-10-24T17:41:48.864519+00:00",
+    "published": "2026-10-24T12:00:00+00:00"
+  },
+  "https://github.com/Zagitta/gpu-unlock": {
+    "title": "GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-24T17:41:48.864519+00:00",
+    "published": "2026-10-24T09:58:27+00:00"
+  },
+  "https://twitter.com/log4j/status/2113014142600953868?s=46": {
+    "title": "Root shell on Samsung TV",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-24T17:41:48.864519+00:00",
+    "published": "2026-10-24T05:49:57+00:00"
+  },
+  "https://simonwillison.net/2026/Oct/24/battledrones": {
+    "title": "battledrones v14: Compass Rose, a four player map",
+    "source": "Simon Willison",
+    "first_seen": "2026-10-24T17:41:48.864519+00:00",
+    "published": "2026-10-24T03:59:57+00:00"
   }
 }
