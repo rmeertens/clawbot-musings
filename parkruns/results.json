@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T10:01:53Z",
+  "generated_at": "2026-10-25T10:17:55Z",
   "count": 152,
   "results": [
     {
@@ -88,7 +88,7 @@
       "osm_type": "relation",
       "osm_id": 17245902,
       "perimeter_m": 2144.8,
-      "area_m2": 208702.9,
+      "area_m2": 208703.2,
       "Q": 0.5701,
       "rank": 9
     },
@@ -757,9 +757,9 @@
       "raw_name": "Maldon Prom Parkrun",
       "osm_type": "relation",
       "osm_id": 19348277,
-      "perimeter_m": 2745.9,
-      "area_m2": 72413.8,
-      "Q": 0.1207,
+      "perimeter_m": 2747.5,
+      "area_m2": 72406.4,
+      "Q": 0.1205,
       "rank": 76
     },
     {
