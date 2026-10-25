@@ -112970,5 +112970,125 @@
     "source": "Real Python",
     "first_seen": "2026-10-25T13:25:18.778845+00:00",
     "published": "2026-10-24T14:00:00+00:00"
+  },
+  "https://talkweb.eu/openweb/4558": {
+    "title": "I refuse to accept a censored Internet. Join Me at FOSDEM 27",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-25T17:55:57.579353+00:00",
+    "published": "2026-10-25T17:30:55+00:00"
+  },
+  "https://lynchlab.net/llm-skin-cancer": {
+    "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-25T17:55:57.579353+00:00",
+    "published": "2026-10-25T17:15:38+00:00"
+  },
+  "https://gp-64.com/swr": {
+    "title": "Sabre Wulf Remastered",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-25T17:55:57.579353+00:00",
+    "published": "2026-10-25T17:15:16+00:00"
+  },
+  "https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133": {
+    "title": "A Mathematician Reads the AI Future",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-25T17:55:57.579353+00:00",
+    "published": "2026-10-25T16:31:21+00:00"
+  },
+  "https://github.com/socrates6969/jukebox-os": {
+    "title": "Jukebox-OS: Deterministic time-travel replay and ACID tool sandbox for AI agents",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-25T17:55:57.579353+00:00",
+    "published": "2026-10-25T16:29:46+00:00"
+  },
+  "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html": {
+    "title": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-25T17:55:57.579353+00:00",
+    "published": "2026-10-25T16:28:26+00:00"
+  },
+  "https://techbronerd.substack.com/p/openai-and-anthropic-wanted-to-replace": {
+    "title": "What Adobe v ArtCraft teaches us",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-25T17:55:57.579353+00:00",
+    "published": "2026-10-25T15:34:44+00:00"
+  },
+  "https://bigwhalehunting.com/workforce": {
+    "title": "Show HN: I put employees inside S&P 500 market-cap bubbles",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-25T17:55:57.579353+00:00",
+    "published": "2026-10-25T15:05:39+00:00"
+  },
+  "https://www.phoronix.com/news/Wayland-ext-transient-output": {
+    "title": "New Wayland Protocol Proposed For VNC/Remote Software",
+    "source": "Phoronix",
+    "first_seen": "2026-10-25T17:55:57.579353+00:00",
+    "published": "2026-10-25T15:05:18+00:00"
+  },
+  "https://www.tylerhogge.com/blog/a-few-thoughts-on-intensity": {
+    "title": "A few thoughts on intensity (2024)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-25T17:55:57.579353+00:00",
+    "published": "2026-10-25T14:37:49+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.4-Sound": {
+    "title": "Linux 7.4 Sound Changes Merged: \"The AI Flood Continues\"",
+    "source": "Phoronix",
+    "first_seen": "2026-10-25T17:55:57.579353+00:00",
+    "published": "2026-10-25T14:01:55+00:00"
+  },
+  "https://thenewstack.io/kubernetes-ready-ai-agents": {
+    "title": "Is Kubernetes ready for AI agents?",
+    "source": "The New Stack",
+    "first_seen": "2026-10-25T17:55:57.579353+00:00",
+    "published": "2026-10-25T14:00:00+00:00"
+  },
+  "https://realpython.com/python-with-statement": {
+    "title": "Python's with Statement: Manage External Resources Safely",
+    "source": "Real Python",
+    "first_seen": "2026-10-25T17:55:57.579353+00:00",
+    "published": "2026-10-25T14:00:00+00:00"
+  },
+  "https://realpython.com/python-modules-packages": {
+    "title": "Python Modules and Packages – An Introduction",
+    "source": "Real Python",
+    "first_seen": "2026-10-25T17:55:57.579353+00:00",
+    "published": "2026-10-25T14:00:00+00:00"
+  },
+  "https://realpython.com/python-logging": {
+    "title": "Logging in Python",
+    "source": "Real Python",
+    "first_seen": "2026-10-25T17:55:57.579353+00:00",
+    "published": "2026-10-25T14:00:00+00:00"
+  },
+  "https://realpython.com/python-code-quality": {
+    "title": "Python Code Quality: Best Practices and Tools",
+    "source": "Real Python",
+    "first_seen": "2026-10-25T17:55:57.579353+00:00",
+    "published": "2026-10-25T14:00:00+00:00"
+  },
+  "https://realpython.com/flask-connexion-rest-api-part-3": {
+    "title": "Python REST APIs With Flask, Connexion, and SQLAlchemy – Part 3",
+    "source": "Real Python",
+    "first_seen": "2026-10-25T17:55:57.579353+00:00",
+    "published": "2026-10-25T14:00:00+00:00"
+  },
+  "https://realpython.com/flask-connexion-rest-api-part-2": {
+    "title": "Python REST APIs With Flask, Connexion, and SQLAlchemy – Part 2",
+    "source": "Real Python",
+    "first_seen": "2026-10-25T17:55:57.579353+00:00",
+    "published": "2026-10-25T14:00:00+00:00"
+  },
+  "https://www.dreamhoststatus.com": {
+    "title": "Active incident at Dreamhost forcing password reset",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-25T17:55:57.579353+00:00",
+    "published": "2026-10-25T13:09:16+00:00"
+  },
+  "https://loeffelholz-codex.org/en": {
+    "title": "Tool book of a Nuremberg knight from 1505",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-25T17:55:57.579353+00:00",
+    "published": "2026-10-25T12:37:54+00:00"
   }
 }
