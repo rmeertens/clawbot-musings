@@ -112850,5 +112850,125 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-10-24T22:46:12.922912+00:00",
     "published": "2026-10-24T15:35:17+00:00"
+  },
+  "https://realpython.com/quizzes/python-pathlib": {
+    "title": "Quiz: Python's pathlib Module: Taming the File System",
+    "source": "Real Python",
+    "first_seen": "2026-10-25T13:25:18.778845+00:00",
+    "published": "2026-10-25T12:00:00+00:00"
+  },
+  "https://realpython.com/quizzes/build-a-python-url-shortener-with-fastapi": {
+    "title": "Quiz: Build a URL Shortener With FastAPI and Python",
+    "source": "Real Python",
+    "first_seen": "2026-10-25T13:25:18.778845+00:00",
+    "published": "2026-10-25T12:00:00+00:00"
+  },
+  "https://github.com/ihhub/fheroes2": {
+    "title": "fheroes2: A recreation of Heroes of Might and Magic II game engine",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-25T13:25:18.778845+00:00",
+    "published": "2026-10-25T11:09:12+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.4-Input": {
+    "title": "Cheap GameSir Nova Lite Gaming Controller Supported By Linux 7.4",
+    "source": "Phoronix",
+    "first_seen": "2026-10-25T13:25:18.778845+00:00",
+    "published": "2026-10-25T10:57:01+00:00"
+  },
+  "https://twitter.com/mike64_t/status/2114150399406202896": {
+    "title": "Samsung running a TensorFlow lite model on 960x540 image to track you",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-25T13:25:18.778845+00:00",
+    "published": "2026-10-25T10:42:01+00:00"
+  },
+  "https://www.phoronix.com/news/AV2-Adoption-Plus-SVT-AV2": {
+    "title": "AV2 Video Codec Adoption Talked Up, SVT-AV2 Being Developed",
+    "source": "Phoronix",
+    "first_seen": "2026-10-25T13:25:18.778845+00:00",
+    "published": "2026-10-25T10:42:00+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.4-Staging": {
+    "title": "Realtek rtl8723bs Driver Deleted From Staging Area In Linux 7.4",
+    "source": "Phoronix",
+    "first_seen": "2026-10-25T13:25:18.778845+00:00",
+    "published": "2026-10-25T10:27:17+00:00"
+  },
+  "https://www.phoronix.com/news/AMD-600-Series-Linux-Temp": {
+    "title": "AMD 600 Series Chipsets Now Have Temperature Monitoring Support On Linux",
+    "source": "Phoronix",
+    "first_seen": "2026-10-25T13:25:18.778845+00:00",
+    "published": "2026-10-25T10:14:00+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.4-Char-Misc": {
+    "title": "Google's C Binder Driver Removed With Rust Binder Ready For \"Few Billion Devices\"",
+    "source": "Phoronix",
+    "first_seen": "2026-10-25T13:25:18.778845+00:00",
+    "published": "2026-10-25T09:59:30+00:00"
+  },
+  "https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html": {
+    "title": "Nikon photography contest winner loses title after scientists spot signs of AI",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-25T13:25:18.778845+00:00",
+    "published": "2026-10-25T09:51:17+00:00"
+  },
+  "https://www.panamericandispatch.org/p/meta-ignores-brazilian-court-order": {
+    "title": "Meta Ignores Brazilian Court Order to End Bolsonaro Favoritism",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-25T13:25:18.778845+00:00",
+    "published": "2026-10-25T09:00:40+00:00"
+  },
+  "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras": {
+    "title": "Cerebras Deploys Trillion-Parameter AI Models",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-25T13:25:18.778845+00:00",
+    "published": "2026-10-25T01:33:49+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.4-Block": {
+    "title": "Linux 7.4 Block Updates Range From Floppy Disk Driver Fixes To Apple M4 NVMe Support",
+    "source": "Phoronix",
+    "first_seen": "2026-10-25T13:25:18.778845+00:00",
+    "published": "2026-10-25T00:42:28+00:00"
+  },
+  "https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt": {
+    "title": "Why Gopher in 2026?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-25T13:25:18.778845+00:00",
+    "published": "2026-10-24T23:33:19+00:00"
+  },
+  "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class": {
+    "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-25T13:25:18.778845+00:00",
+    "published": "2026-10-24T23:11:54+00:00"
+  },
+  "https://ratfactor.com/cards/limitations": {
+    "title": "The Importance of Limitations for Creativity and Learning (2023)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-25T13:25:18.778845+00:00",
+    "published": "2026-10-24T21:42:47+00:00"
+  },
+  "https://realpython.com/python-while-loop": {
+    "title": "Python while Loops: Repeating Tasks Conditionally",
+    "source": "Real Python",
+    "first_seen": "2026-10-25T13:25:18.778845+00:00",
+    "published": "2026-10-24T14:00:00+00:00"
+  },
+  "https://realpython.com/python-json": {
+    "title": "Working With JSON Data in Python",
+    "source": "Real Python",
+    "first_seen": "2026-10-25T13:25:18.778845+00:00",
+    "published": "2026-10-24T14:00:00+00:00"
+  },
+  "https://realpython.com/defining-your-own-python-function": {
+    "title": "Defining Your Own Python Function",
+    "source": "Real Python",
+    "first_seen": "2026-10-25T13:25:18.778845+00:00",
+    "published": "2026-10-24T14:00:00+00:00"
+  },
+  "https://realpython.com/async-io-python": {
+    "title": "Python's asyncio: A Hands-On Walkthrough",
+    "source": "Real Python",
+    "first_seen": "2026-10-25T13:25:18.778845+00:00",
+    "published": "2026-10-24T14:00:00+00:00"
   }
 }
