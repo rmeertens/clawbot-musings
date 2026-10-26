@@ -113186,5 +113186,377 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-10-25T22:52:50.886327+00:00",
     "published": "2026-10-25T16:27:12+00:00"
+  },
+  "https://blog.bytebytego.com/p/a-deep-dive-into-salesforces-agent": {
+    "title": "A Deep Dive into Salesforce’s Agent Tech Stack",
+    "source": "ByteByteGo",
+    "first_seen": "2026-10-26T15:33:28.162592+00:00",
+    "published": "2026-10-26T15:30:38+00:00"
+  },
+  "https://lwn.net/Articles/1102970": {
+    "title": "Systemd adds support for components written in Rust",
+    "source": "LWN.net",
+    "first_seen": "2026-10-26T15:33:28.162592+00:00",
+    "published": "2026-10-26T15:13:59+00:00"
+  },
+  "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-polly-generative-engine-torchneuron-for-trainium-and-more-october-26-2026": {
+    "title": "AWS Weekly Roundup: Amazon Polly Generative engine, TorchNeuron for Trainium, and more (October 26, 2026)",
+    "source": "AWS Blog",
+    "first_seen": "2026-10-26T15:33:28.162592+00:00",
+    "published": "2026-10-26T15:02:24+00:00"
+  },
+  "https://developer.nvidia.com/blog/how-nvidia-mission-control-2-5-brings-autonomous-recovery-to-kubernetes": {
+    "title": "How NVIDIA Mission Control 2.5 Brings Autonomous Recovery to Kubernetes",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-10-26T15:33:28.162592+00:00",
+    "published": "2026-10-26T15:00:00+00:00"
+  },
+  "https://www.theguardian.com/us-news/2026/oct/26/peta-monkey-experiment-video": {
+    "title": "Peta releases video showing experiments on infant monkeys at Univ of Washington",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-26T15:33:28.162592+00:00",
+    "published": "2026-10-26T14:50:50+00:00"
+  },
+  "https://github.com/RFnexus/partyline": {
+    "title": "Partyline: A group voice application for Reticulum, built on LXST",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-26T15:33:28.162592+00:00",
+    "published": "2026-10-26T14:42:24+00:00"
+  },
+  "https://www.reddit.com/r/amiga/comments/1xftc5s/amija_amiga_emulator_in_java": {
+    "title": "AmiJa, a cycle-exact Amiga emulator written in Java",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-26T15:33:28.162592+00:00",
+    "published": "2026-10-26T14:32:11+00:00"
+  },
+  "https://thenewstack.io/claude-codes-enterprise-20-to-1": {
+    "title": "Claude Code’s top enterprise users outspend other Claude users 20 to 1, Anthropic’s IPO filing says",
+    "source": "The New Stack",
+    "first_seen": "2026-10-26T15:33:28.162592+00:00",
+    "published": "2026-10-26T14:32:03+00:00"
+  },
+  "https://thenewstack.io/mandatory-vs-optional-platforms": {
+    "title": "Mandatory vs. optional platforms: Mandates deliver twice as often, and teams are dropping them anyway",
+    "source": "The New Stack",
+    "first_seen": "2026-10-26T15:33:28.162592+00:00",
+    "published": "2026-10-26T14:30:00+00:00"
+  },
+  "https://www.phoronix.com/news/Mesa-27.0-Goes-Kraid": {
+    "title": "Mesa 27.0 Switching To Kraid Compiler By Default For Arm Mali GPUs",
+    "source": "Phoronix",
+    "first_seen": "2026-10-26T15:33:28.162592+00:00",
+    "published": "2026-10-26T14:28:59+00:00"
+  },
+  "https://www.cnn.com/2026/10/26/australia/prisoner-vegemite-rejected-judge-scli-intl": {
+    "title": "Vegemite is not a human right",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-26T15:33:28.162592+00:00",
+    "published": "2026-10-26T14:17:51+00:00"
+  },
+  "https://thenewstack.io/next-ten-years-kubevirt": {
+    "title": "The next 10 years of KubeVirt",
+    "source": "The New Stack",
+    "first_seen": "2026-10-26T15:33:28.162592+00:00",
+    "published": "2026-10-26T14:00:00+00:00"
+  },
+  "https://tailscale.com/blog/what-is-tailscale-pam": {
+    "title": "Where Tailscale VPN ends and Tailscale PAM begins",
+    "source": "Tailscale Blog",
+    "first_seen": "2026-10-26T15:33:28.162592+00:00",
+    "published": "2026-10-26T14:00:00+00:00"
+  },
+  "https://realpython.com/python-web-scraping-practical-introduction": {
+    "title": "A Practical Introduction to Web Scraping in Python",
+    "source": "Real Python",
+    "first_seen": "2026-10-26T15:33:28.162592+00:00",
+    "published": "2026-10-26T14:00:00+00:00"
+  },
+  "https://realpython.com/python-uv": {
+    "title": "Managing Python Projects With uv: An All-in-One Solution",
+    "source": "Real Python",
+    "first_seen": "2026-10-26T15:33:28.162592+00:00",
+    "published": "2026-10-26T14:00:00+00:00"
+  },
+  "https://realpython.com/python-protocol": {
+    "title": "Python Protocols: Leveraging Structural Subtyping",
+    "source": "Real Python",
+    "first_seen": "2026-10-26T15:33:28.162592+00:00",
+    "published": "2026-10-26T14:00:00+00:00"
+  },
+  "https://realpython.com/python-double-underscore": {
+    "title": "Single and Double Underscores in Python Names",
+    "source": "Real Python",
+    "first_seen": "2026-10-26T15:33:28.162592+00:00",
+    "published": "2026-10-26T14:00:00+00:00"
+  },
+  "https://realpython.com/introduction-to-python-generators": {
+    "title": "How to Use Generators and yield in Python",
+    "source": "Real Python",
+    "first_seen": "2026-10-26T15:33:28.162592+00:00",
+    "published": "2026-10-26T14:00:00+00:00"
+  },
+  "https://realpython.com/intermediate-python-project-ideas": {
+    "title": "13 Project Ideas for Intermediate Python Developers",
+    "source": "Real Python",
+    "first_seen": "2026-10-26T15:33:28.162592+00:00",
+    "published": "2026-10-26T14:00:00+00:00"
+  },
+  "https://realpython.com/flask-google-login": {
+    "title": "Create a Flask Application With Google Login",
+    "source": "Real Python",
+    "first_seen": "2026-10-26T15:33:28.162592+00:00",
+    "published": "2026-10-26T14:00:00+00:00"
+  },
+  "https://realpython.com/command-line-interfaces-python-argparse": {
+    "title": "Build Command-Line Interfaces With Python's argparse",
+    "source": "Real Python",
+    "first_seen": "2026-10-26T15:33:28.162592+00:00",
+    "published": "2026-10-26T14:00:00+00:00"
+  },
+  "https://realpython.com/chromadb-vector-database": {
+    "title": "ChromaDB: Embeddings and Vector Databases in Python",
+    "source": "Real Python",
+    "first_seen": "2026-10-26T15:33:28.162592+00:00",
+    "published": "2026-10-26T14:00:00+00:00"
+  },
+  "https://www.phoronix.com/review/ubuntu-2610-snapdragon-x1e": {
+    "title": "Snapdragon X1 Elite / Acer Swift 14 AI Performance On The Ubuntu 26.10 X1E Concept",
+    "source": "Phoronix",
+    "first_seen": "2026-10-26T15:33:28.162592+00:00",
+    "published": "2026-10-26T13:55:24+00:00"
+  },
+  "https://freedom.press/the-classifieds/doj-says-presidents-should-be-able-to-sell-secrets-on-ebay": {
+    "title": "DOJ says presidents should be able to sell secrets on eBay",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-26T15:33:28.162592+00:00",
+    "published": "2026-10-26T13:54:44+00:00"
+  },
+  "https://www.apple.com/shop/buy-ipad/ipad-mini": {
+    "title": "OLED iPad Mini",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-26T15:33:28.162592+00:00",
+    "published": "2026-10-26T13:47:33+00:00"
+  },
+  "https://www.databricks.com/blog/media-industry-becoming-prediction-economy": {
+    "title": "The media industry is becoming a prediction economy",
+    "source": "Databricks Blog",
+    "first_seen": "2026-10-26T15:33:28.162592+00:00",
+    "published": "2026-10-26T13:36:46+00:00"
+  },
+  "https://thenewstack.io/minimax-flash-agent-tests": {
+    "title": "MiniMax M3.1 Flash vs. MiniMax M3: One is cheaper, but not faster or better",
+    "source": "The New Stack",
+    "first_seen": "2026-10-26T15:33:28.162592+00:00",
+    "published": "2026-10-26T13:30:00+00:00"
+  },
+  "https://www.apple.com/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever": {
+    "title": "The new iPad mini",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-26T15:33:28.162592+00:00",
+    "published": "2026-10-26T13:13:36+00:00"
+  },
+  "https://lwn.net/Articles/1102946": {
+    "title": "Security updates for Monday",
+    "source": "LWN.net",
+    "first_seen": "2026-10-26T15:33:28.162592+00:00",
+    "published": "2026-10-26T13:12:04+00:00"
+  },
+  "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm": {
+    "title": "Anthropic S-1",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-26T15:33:28.162592+00:00",
+    "published": "2026-10-26T13:04:50+00:00"
+  },
+  "https://devblogs.microsoft.com/devops/php2shell-and-azure-devops-what-to-check": {
+    "title": "PHP2Shell and Azure DevOps: what to check",
+    "source": "MS DevOps Blog",
+    "first_seen": "2026-10-26T15:33:28.162592+00:00",
+    "published": "2026-10-26T13:00:38+00:00"
+  },
+  "https://thenewstack.io/ai-agent-runtime-observability": {
+    "title": "The sandbox wasn’t enough: Why AI agent governance requires runtime observability",
+    "source": "The New Stack",
+    "first_seen": "2026-10-26T15:33:28.162592+00:00",
+    "published": "2026-10-26T13:00:00+00:00"
+  },
+  "https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm": {
+    "title": "Fixing Tool-Call Accuracy in vLLM",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-26T15:33:28.162592+00:00",
+    "published": "2026-10-26T12:59:48+00:00"
+  },
+  "https://www.brown.edu/news/2026-10-26/ai-data-workers": {
+    "title": "Brown student maps the hidden global labor powering AI",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-26T15:33:28.162592+00:00",
+    "published": "2026-10-26T12:58:27+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.4-EFI": {
+    "title": "Linux 7.4 EFI Brings Improvement For Helping Systemd When Kernel Booted Directly",
+    "source": "Phoronix",
+    "first_seen": "2026-10-26T15:33:28.162592+00:00",
+    "published": "2026-10-26T12:54:13+00:00"
+  },
+  "https://danielmiessler.com/blog/writing-is-closer-to-thought-than-code": {
+    "title": "Writing Is Closer to Thought Than Code",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-26T15:33:28.162592+00:00",
+    "published": "2026-10-26T12:32:15+00:00"
+  },
+  "https://www.phoronix.com/news/Nouveau-DKMS": {
+    "title": "Nouveau-DKMS Aims For Better NVIDIA Open-Source Experience On Old GPUs",
+    "source": "Phoronix",
+    "first_seen": "2026-10-26T15:33:28.162592+00:00",
+    "published": "2026-10-26T12:24:01+00:00"
+  },
+  "https://thenewstack.io/ai-observability-through-interoperability": {
+    "title": "The AI observability race will be won on interoperability",
+    "source": "The New Stack",
+    "first_seen": "2026-10-26T15:33:28.162592+00:00",
+    "published": "2026-10-26T12:00:00+00:00"
+  },
+  "https://realpython.com/quizzes/working-apis-reading-public-data": {
+    "title": "Quiz: Working With APIs in Python: Reading Public Data",
+    "source": "Real Python",
+    "first_seen": "2026-10-26T15:33:28.162592+00:00",
+    "published": "2026-10-26T12:00:00+00:00"
+  },
+  "https://realpython.com/quizzes/python-web-scraping-practical-introduction": {
+    "title": "Quiz: A Practical Introduction to Web Scraping in Python",
+    "source": "Real Python",
+    "first_seen": "2026-10-26T15:33:28.162592+00:00",
+    "published": "2026-10-26T12:00:00+00:00"
+  },
+  "https://realpython.com/quizzes/python-uv": {
+    "title": "Quiz: Managing Python Projects With uv: An All-in-One Solution",
+    "source": "Real Python",
+    "first_seen": "2026-10-26T15:33:28.162592+00:00",
+    "published": "2026-10-26T12:00:00+00:00"
+  },
+  "https://realpython.com/quizzes/generators-and-yield-in-python": {
+    "title": "Quiz: How to Use Generators and yield in Python",
+    "source": "Real Python",
+    "first_seen": "2026-10-26T15:33:28.162592+00:00",
+    "published": "2026-10-26T12:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-Core-MM-Tree": {
+    "title": "Linux 7.4 Begins Employing New \"Core MM\" Tree",
+    "source": "Phoronix",
+    "first_seen": "2026-10-26T15:33:28.162592+00:00",
+    "published": "2026-10-26T11:42:27+00:00"
+  },
+  "https://www.cncf.io/blog/2026/10/26/isolation-security-scale": {
+    "title": "Isolation. Security. Scale.",
+    "source": "CNCF Blog",
+    "first_seen": "2026-10-26T15:33:28.162592+00:00",
+    "published": "2026-10-26T11:30:00+00:00"
+  },
+  "https://pharo.org/news/2026-10-26-Pharo14Release.html": {
+    "title": "Pharo 14",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-26T15:33:28.162592+00:00",
+    "published": "2026-10-26T11:15:50+00:00"
+  },
+  "https://brennenputh.me/blog/printable-websites": {
+    "title": "Websites Should Be Printable",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-26T15:33:28.162592+00:00",
+    "published": "2026-10-26T10:32:14+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-CAS-Regression-AMD-HX-370": {
+    "title": "Linux Fixes AMD Ryzen AI 9 HX 370 Regression Due To Cache Aware Scheduling",
+    "source": "Phoronix",
+    "first_seen": "2026-10-26T15:33:28.162592+00:00",
+    "published": "2026-10-26T10:22:28+00:00"
+  },
+  "https://www.phoronix.com/news/Moxnox-OS": {
+    "title": "Moxnox: NT-Like, POSIX-Compatible Hobby OS Running Atop Btrfs",
+    "source": "Phoronix",
+    "first_seen": "2026-10-26T15:33:28.162592+00:00",
+    "published": "2026-10-26T10:04:34+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.4-EXT4": {
+    "title": "EXT4 Lands Optional Buffered IOmap For Significant Performance Win With Large Writes",
+    "source": "Phoronix",
+    "first_seen": "2026-10-26T15:33:28.162592+00:00",
+    "published": "2026-10-26T09:53:55+00:00"
+  },
+  "https://blocks.manifold3d.ch": {
+    "title": "Switzerland. Block by block. At 1:1 scale",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-26T15:33:28.162592+00:00",
+    "published": "2026-10-26T08:46:09+00:00"
+  },
+  "https://openai.com/index/fanatics-streamline-fan-experience": {
+    "title": "How Fanatics and OpenAI streamline the fan experience",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-10-26T15:33:28.162592+00:00",
+    "published": "2026-10-26T07:00:00+00:00"
+  },
+  "https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry": {
+    "title": "Behind the scenes at the NeXT Computer office",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-26T15:33:28.162592+00:00",
+    "published": "2026-10-26T03:31:11+00:00"
+  },
+  "https://github.com/KrushnaVardhanReddy/PaperPilot": {
+    "title": "PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-26T15:33:28.162592+00:00",
+    "published": "2026-10-26T03:29:05+00:00"
+  },
+  "https://titleart.dvy.io": {
+    "title": "Show HN: TitleArt – Make text like it's 1997",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-26T15:33:28.162592+00:00",
+    "published": "2026-10-26T03:23:57+00:00"
+  },
+  "https://www.phoronix.com/news/Redox-OS-September-2026": {
+    "title": "Redox OS Landed Nice Performance Improvements In September",
+    "source": "Phoronix",
+    "first_seen": "2026-10-26T15:33:28.162592+00:00",
+    "published": "2026-10-26T00:24:45+00:00"
+  },
+  "https://github.com/KillaBoi/StealMyBitcoin-PoC": {
+    "title": "Steal My Bitcoin CTF PoC",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-26T15:33:28.162592+00:00",
+    "published": "2026-10-26T00:15:17+00:00"
+  },
+  "https://www.thoughtworks.com/insights/blog/product-innovation/ethical-commercial-risk-regarding-product-development-gdr-ai": {
+    "title": "Ethical and commercial risk regarding product development, GDR and AI",
+    "source": "ThoughtWorks",
+    "first_seen": "2026-10-26T15:33:28.162592+00:00",
+    "published": "2026-10-26T00:00:00+00:00"
+  },
+  "https://blog.rust-lang.org/2026/10/26/how-to-fund-rust-contributors": {
+    "title": "How to fund Rust contributors",
+    "source": "Rust Blog",
+    "first_seen": "2026-10-26T15:33:28.162592+00:00",
+    "published": "2026-10-26T00:00:00+00:00"
+  },
+  "https://blog.python.org/2026/10/python-3152-31410-31318-31216-31118": {
+    "title": "Python 3.15.2, 3.14.10, 3.13.18, 3.12.16 and 3.11.18 are out",
+    "source": "Python Insider",
+    "first_seen": "2026-10-26T15:33:28.162592+00:00",
+    "published": "2026-10-26T00:00:00+00:00"
+  },
+  "https://arxiv.org/abs/2512.19428": {
+    "title": "Attention Is Not What You Need (2025)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-26T15:33:28.162592+00:00",
+    "published": "2026-10-25T23:52:05+00:00"
+  },
+  "https://simonwillison.net/2026/Oct/25/seam-cutter": {
+    "title": "Seam Cutter",
+    "source": "Simon Willison",
+    "first_seen": "2026-10-26T15:33:28.162592+00:00",
+    "published": "2026-10-25T15:10:19+00:00"
+  },
+  "https://realpython.com/flask-connexion-rest-api": {
+    "title": "Python REST APIs With Flask, Connexion, and SQLAlchemy – Part 1",
+    "source": "Real Python",
+    "first_seen": "2026-10-26T15:33:28.162592+00:00",
+    "published": "2026-10-25T14:00:00+00:00"
   }
 }
