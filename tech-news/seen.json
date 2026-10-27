@@ -113912,5 +113912,323 @@
     "source": "Apple ML Journal",
     "first_seen": "2026-10-27T00:07:32.552815+00:00",
     "published": "2026-10-26T00:00:00+00:00"
+  },
+  "https://grafana.com/blog/agent-observability-faq-understand-the-value-of-monitoring-evaluating-and-improving-your-ai-agents": {
+    "title": "Agent Observability FAQ: Understand the value of monitoring, evaluating, and improving your AI agents",
+    "source": "Grafana Blog",
+    "first_seen": "2026-10-27T14:58:56.009050+00:00",
+    "published": "2026-10-27T14:32:18+00:00"
+  },
+  "https://thenewstack.io/openai-devday-models-agents": {
+    "title": "“I don’t use Astra every day”: OpenAI developer lead tells TNS why",
+    "source": "The New Stack",
+    "first_seen": "2026-10-27T14:58:56.009050+00:00",
+    "published": "2026-10-27T14:23:01+00:00"
+  },
+  "https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans": {
+    "title": "The US Government Is Hiding Secret Court Ruling About How It Spies on Americans",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-27T14:58:56.009050+00:00",
+    "published": "2026-10-27T14:06:42+00:00"
+  },
+  "https://thenewstack.io/kubernetes-control-plane-failures": {
+    "title": "The hidden failure paths that affect Kubernetes control plane availability",
+    "source": "The New Stack",
+    "first_seen": "2026-10-27T14:58:56.009050+00:00",
+    "published": "2026-10-27T14:00:00+00:00"
+  },
+  "https://realpython.com/python-circular-imports": {
+    "title": "Python Circular Imports: Why They Happen and How to Fix Them",
+    "source": "Real Python",
+    "first_seen": "2026-10-27T14:58:56.009050+00:00",
+    "published": "2026-10-27T14:00:00+00:00"
+  },
+  "https://realpython.com/pyrefly-python": {
+    "title": "Pyrefly: A Fast Static Type Checker for Python Projects",
+    "source": "Real Python",
+    "first_seen": "2026-10-27T14:58:56.009050+00:00",
+    "published": "2026-10-27T14:00:00+00:00"
+  },
+  "https://realpython.com/mcp-vs-api": {
+    "title": "MCP vs API Calls: Which Should You Use for Python LLM Apps?",
+    "source": "Real Python",
+    "first_seen": "2026-10-27T14:58:56.009050+00:00",
+    "published": "2026-10-27T14:00:00+00:00"
+  },
+  "https://realpython.com/how-to-get-out-of-tutorial-hell": {
+    "title": "How to Get Out of Tutorial Hell",
+    "source": "Real Python",
+    "first_seen": "2026-10-27T14:58:56.009050+00:00",
+    "published": "2026-10-27T14:00:00+00:00"
+  },
+  "https://realpython.com/courses/exploring-ai-coding-agent-workflows": {
+    "title": "Exploring AI Coding Agent Workflows",
+    "source": "Real Python",
+    "first_seen": "2026-10-27T14:58:56.009050+00:00",
+    "published": "2026-10-27T14:00:00+00:00"
+  },
+  "https://lwn.net/Articles/1100873": {
+    "title": "[$] Guidelines for panics in kernel code",
+    "source": "LWN.net",
+    "first_seen": "2026-10-27T14:58:56.009050+00:00",
+    "published": "2026-10-27T13:56:24+00:00"
+  },
+  "https://privacy.claude.com/en/articles/7996868-is-my-data-used-for-model-training": {
+    "title": "Giving chat feedback gives Anthropic your data",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-27T14:58:56.009050+00:00",
+    "published": "2026-10-27T13:56:15+00:00"
+  },
+  "https://www.wiz.io/blog/php2shell-exploitation-so-far": {
+    "title": "PHP2Shell: Exploitation Attempts and Remediation Trends",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-27T14:58:56.009050+00:00",
+    "published": "2026-10-27T13:52:12+00:00"
+  },
+  "https://lwn.net/Articles/1103188": {
+    "title": "Security updates for Tuesday",
+    "source": "LWN.net",
+    "first_seen": "2026-10-27T14:58:56.009050+00:00",
+    "published": "2026-10-27T13:37:48+00:00"
+  },
+  "https://www.reuters.com/business/media-telecom/alleged-israeli-spy-company-heavily-targeted-starlink-users-sources-say-2026-10-27": {
+    "title": "Alleged Israeli spy company targeted Starlink users",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-27T14:58:56.009050+00:00",
+    "published": "2026-10-27T13:33:30+00:00"
+  },
+  "https://blog.adrq.dev/here-be-monsters-what-do-you-still-need-to-know-when-agents-do-the-work": {
+    "title": "Here Be Monsters: What Do You Still Need to Know When Agents Do the Work?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-27T14:58:56.009050+00:00",
+    "published": "2026-10-27T13:23:22+00:00"
+  },
+  "https://www.phoronix.com/news/Pavee-OS": {
+    "title": "Pavee OS: Ikey Doherty's New Daily-Driver Desktop Distro Being Built Atop Barney",
+    "source": "Phoronix",
+    "first_seen": "2026-10-27T14:58:56.009050+00:00",
+    "published": "2026-10-27T13:11:30+00:00"
+  },
+  "https://www.phoronix.com/news/KDE-Plasma-6.8.2": {
+    "title": "KDE Plasma 6.8.2 Released With Dozens Of Additional Bug Fixes",
+    "source": "Phoronix",
+    "first_seen": "2026-10-27T14:58:56.009050+00:00",
+    "published": "2026-10-27T13:02:10+00:00"
+  },
+  "https://www.apple.com/imac": {
+    "title": "New iMac with M6",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-27T14:58:56.009050+00:00",
+    "published": "2026-10-27T13:02:02+00:00"
+  },
+  "https://thenewstack.io/how-to-sandbox-agents": {
+    "title": "When “isolated” doesn’t mean isolated: How to sandbox AI agents",
+    "source": "The New Stack",
+    "first_seen": "2026-10-27T14:58:56.009050+00:00",
+    "published": "2026-10-27T13:00:00+00:00"
+  },
+  "https://blog.cloudflare.com/q3-2026-internet-disruption-summary": {
+    "title": "What took the Internet offline in Q3 2026",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-10-27T14:58:56.009050+00:00",
+    "published": "2026-10-27T13:00:00+00:00"
+  },
+  "https://blog.cloudflare.com/php-ctf": {
+    "title": "Introducing the Cloudflare PHP Capture the Flag challenge",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-10-27T14:58:56.009050+00:00",
+    "published": "2026-10-27T13:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.4-KVM": {
+    "title": "AMD EPYC Zen 6 PML Support, ARM64 On s390 Merged For Linux 7.4 KVM",
+    "source": "Phoronix",
+    "first_seen": "2026-10-27T14:58:56.009050+00:00",
+    "published": "2026-10-27T12:00:00+00:00"
+  },
+  "https://thenewstack.io/serverless-kubernetes-aws-fargate": {
+    "title": "One pod, one node: The architecture behind serverless Kubernetes on AWS",
+    "source": "The New Stack",
+    "first_seen": "2026-10-27T14:58:56.009050+00:00",
+    "published": "2026-10-27T12:00:00+00:00"
+  },
+  "https://realpython.com/quizzes/python-circular-imports": {
+    "title": "Quiz: Python Circular Imports: Why They Happen and How to Fix Them",
+    "source": "Real Python",
+    "first_seen": "2026-10-27T14:58:56.009050+00:00",
+    "published": "2026-10-27T12:00:00+00:00"
+  },
+  "https://realpython.com/quizzes/pyrefly-python": {
+    "title": "Quiz: Pyrefly: A Fast Static Type Checker for Python Projects",
+    "source": "Real Python",
+    "first_seen": "2026-10-27T14:58:56.009050+00:00",
+    "published": "2026-10-27T12:00:00+00:00"
+  },
+  "https://realpython.com/quizzes/mcp-vs-api": {
+    "title": "Quiz: MCP vs API Calls: Which Should You Use for Python LLM Apps?",
+    "source": "Real Python",
+    "first_seen": "2026-10-27T14:58:56.009050+00:00",
+    "published": "2026-10-27T12:00:00+00:00"
+  },
+  "https://realpython.com/quizzes/how-to-get-out-of-tutorial-hell": {
+    "title": "Quiz: How to Get Out of Tutorial Hell",
+    "source": "Real Python",
+    "first_seen": "2026-10-27T14:58:56.009050+00:00",
+    "published": "2026-10-27T12:00:00+00:00"
+  },
+  "https://realpython.com/quizzes/exploring-ai-coding-agent-workflows": {
+    "title": "Quiz: Exploring AI Coding Agent Workflows",
+    "source": "Real Python",
+    "first_seen": "2026-10-27T14:58:56.009050+00:00",
+    "published": "2026-10-27T12:00:00+00:00"
+  },
+  "https://www.bitlog.com/2026/10/27/software-may-be-getting-worse-but-it-used-to-be-horrible": {
+    "title": "Software may be getting worse, but it used to be horrible",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-27T14:58:56.009050+00:00",
+    "published": "2026-10-27T11:30:35+00:00"
+  },
+  "https://www.cncf.io/blog/2026/10/27/over-500-golden-kubestronauts-the-evolving-standard-for-cloud-native-mastery": {
+    "title": "Over 500 Golden Kubestronauts: The evolving standard for cloud native mastery",
+    "source": "CNCF Blog",
+    "first_seen": "2026-10-27T14:58:56.009050+00:00",
+    "published": "2026-10-27T11:30:00+00:00"
+  },
+  "https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c": {
+    "title": "Python's experimental JIT to be removed",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-27T14:58:56.009050+00:00",
+    "published": "2026-10-27T11:17:57+00:00"
+  },
+  "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup": {
+    "title": "Wikipedia's Cleanup of AI-Generated Content",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-27T14:58:56.009050+00:00",
+    "published": "2026-10-27T11:08:15+00:00"
+  },
+  "https://oioannou.com/blog/ai-promised-less-work": {
+    "title": "AI promised less work. I've never worked more",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-27T14:58:56.009050+00:00",
+    "published": "2026-10-27T11:08:14+00:00"
+  },
+  "https://open3dlab.com/news/roblox-downloaded-145-gb-of-models-from-our-sites": {
+    "title": "Roblox downloaded 145GB models from us (including adult content) without asking",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-27T14:58:56.009050+00:00",
+    "published": "2026-10-27T10:27:50+00:00"
+  },
+  "https://www.phoronix.com/news/Beeper-In-Kernel-Parsing-eBPF": {
+    "title": "Accelerating HTTP Web Servers With In-Kernel eBPF Deliver Up To 4.5x Throughput",
+    "source": "Phoronix",
+    "first_seen": "2026-10-27T14:58:56.009050+00:00",
+    "published": "2026-10-27T10:26:22+00:00"
+  },
+  "https://gforth.org/manual/1.0/NEWS.html": {
+    "title": "Gforth 1.0",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-27T14:58:56.009050+00:00",
+    "published": "2026-10-27T10:23:21+00:00"
+  },
+  "https://www.phoronix.com/news/NTFS-Linux-7.4-Improvements": {
+    "title": "Linux's Modern NTFS Driver Now Supports Alternate Data Streams (ADS)",
+    "source": "Phoronix",
+    "first_seen": "2026-10-27T14:58:56.009050+00:00",
+    "published": "2026-10-27T10:11:29+00:00"
+  },
+  "https://lists.debian.org/debian-devel/2026/10/msg00263.html": {
+    "title": "I will no longer upload to NEW",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-27T14:58:56.009050+00:00",
+    "published": "2026-10-27T09:59:05+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.4-HWMON": {
+    "title": "Linux 7.4 Expands Sensor Monitoring For More ASUS & MSI Motherboards, New Minisforum Driver",
+    "source": "Phoronix",
+    "first_seen": "2026-10-27T14:58:56.009050+00:00",
+    "published": "2026-10-27T09:52:30+00:00"
+  },
+  "https://www.phoronix.com/news/Firefox-159-Released": {
+    "title": "Firefox 159 Released With AMD  Linux Graphics Fix For Excessive Memory Use",
+    "source": "Phoronix",
+    "first_seen": "2026-10-27T14:58:56.009050+00:00",
+    "published": "2026-10-27T09:35:49+00:00"
+  },
+  "https://stackoverflow.blog/2026/10/27/elevators-toasters-and-the-birth-of-java": {
+    "title": "Elevators, toasters, and the birth of Java",
+    "source": "Stack Overflow Blog",
+    "first_seen": "2026-10-27T14:58:56.009050+00:00",
+    "published": "2026-10-27T07:40:00+00:00"
+  },
+  "https://j11g.com/the-mythical-man-month-in-the-age-of-ai": {
+    "title": "The Mythical Man-Month in the Age of AI",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-27T14:58:56.009050+00:00",
+    "published": "2026-10-27T06:25:37+00:00"
+  },
+  "https://www.unix.dog/~yosh/blog/2026-10-25_pratt-parsing.html": {
+    "title": "Writing about pratt parsing so I remember it",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-27T14:58:56.009050+00:00",
+    "published": "2026-10-27T06:02:23+00:00"
+  },
+  "https://kubernetes.io/blog/2026/10/27/announcing-workload-conformance-wg": {
+    "title": "Announcing the Workload Conformance Working Group",
+    "source": "Kubernetes Blog",
+    "first_seen": "2026-10-27T14:58:56.009050+00:00",
+    "published": "2026-10-27T04:30:00+00:00"
+  },
+  "https://cloud.google.com/blog/topics/public-sector/google-cloud-and-nasa-testing-robotic-systems-for-deep-space-missions": {
+    "title": "Google Cloud and NASA: Testing robotic systems for deep space missions",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-10-27T14:58:56.009050+00:00",
+    "published": "2026-10-27T04:00:00+00:00"
+  },
+  "https://eliasfarhan.ch/graphics/cpp/2026/01/27/why-i-teach-opengles.html": {
+    "title": "I still teach OpenGL ES 3.0",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-27T14:58:56.009050+00:00",
+    "published": "2026-10-27T02:15:10+00:00"
+  },
+  "https://github.com/otya128/winevdm": {
+    "title": "16-bit Windows (Windows 1.x, 2.x, 3.0, 3.1, etc.) on 64-bit Windows",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-27T14:58:56.009050+00:00",
+    "published": "2026-10-27T01:15:04+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.4-SoCs": {
+    "title": "Initial Support For The Apple M4 & Apple A18 Pro Make It Into Linux 7.4",
+    "source": "Phoronix",
+    "first_seen": "2026-10-27T14:58:56.009050+00:00",
+    "published": "2026-10-27T00:52:15+00:00"
+  },
+  "https://www.phoronix.com/news/Steam-Frame-FR-Linux-7.4": {
+    "title": "Steam Frame VR Headset Sees Mainline Support With Linux 7.4",
+    "source": "Phoronix",
+    "first_seen": "2026-10-27T14:58:56.009050+00:00",
+    "published": "2026-10-27T00:36:40+00:00"
+  },
+  "https://simonwillison.net/2026/Oct/26/gpt-61-terra": {
+    "title": "GPT-6.1 Terra",
+    "source": "Simon Willison",
+    "first_seen": "2026-10-27T14:58:56.009050+00:00",
+    "published": "2026-10-26T23:53:07+00:00"
+  },
+  "https://www.databricks.com/blog/unify-your-productivity-and-ai-data-lakeflow-connect": {
+    "title": "Unify your productivity and AI data with Lakeflow Connect",
+    "source": "Databricks Blog",
+    "first_seen": "2026-10-27T14:58:56.009050+00:00",
+    "published": "2026-10-26T23:20:12+00:00"
+  },
+  "https://simonwillison.net/2026/Oct/26/webframe-evaluation": {
+    "title": "webframe: evaluated as a scraper and a sandbox",
+    "source": "Simon Willison",
+    "first_seen": "2026-10-27T14:58:56.009050+00:00",
+    "published": "2026-10-26T16:15:00+00:00"
+  },
+  "https://azure.microsoft.com/en-us/blog/scale-reservoir-uncertainty-analysis-with-agile-reservoir-modeling": {
+    "title": "Scale reservoir uncertainty analysis with agile reservoir modeling",
+    "source": "Azure Blog",
+    "first_seen": "2026-10-27T14:58:56.009050+00:00",
+    "published": "2026-10-26T16:00:00+00:00"
   }
 }
