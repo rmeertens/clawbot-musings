@@ -113558,5 +113558,359 @@
     "source": "Real Python",
     "first_seen": "2026-10-26T15:33:28.162592+00:00",
     "published": "2026-10-25T14:00:00+00:00"
+  },
+  "https://nautil.us/just-imagining-a-workout-can-make-you-stronger-236068": {
+    "title": "Just Imagining a Workout Can Make You Stronger",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-27T00:07:32.552815+00:00",
+    "published": "2026-10-26T23:08:27+00:00"
+  },
+  "https://blog.cloudflare.com/kv-cache-exposure-remediation": {
+    "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-27T00:07:32.552815+00:00",
+    "published": "2026-10-26T22:41:48+00:00"
+  },
+  "https://thenewstack.io/openai-terra-bypassed-restrictions": {
+    "title": "OpenAI halved its agent’s price. Its own safety report flagged a catch.",
+    "source": "The New Stack",
+    "first_seen": "2026-10-27T00:07:32.552815+00:00",
+    "published": "2026-10-26T22:14:01+00:00"
+  },
+  "https://openai.com/index/greptile-code-review-codex-astra": {
+    "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-10-27T00:07:32.552815+00:00",
+    "published": "2026-10-26T22:00:00+00:00"
+  },
+  "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf": {
+    "title": "The Exponential Time Hypothesis Is False [pdf]",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-27T00:07:32.552815+00:00",
+    "published": "2026-10-26T21:59:15+00:00"
+  },
+  "https://openai.com/index/building-scientific-understanding-with-academic-communities": {
+    "title": "Working with academic communities to build scientific understanding",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-27T00:07:32.552815+00:00",
+    "published": "2026-10-26T21:35:28+00:00"
+  },
+  "https://corridorkey.com": {
+    "title": "CorridorKey 2.0",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-27T00:07:32.552815+00:00",
+    "published": "2026-10-26T21:18:05+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.4-CXL": {
+    "title": "Linux 7.4 Preps CXL For Very Neat Dynamic Capacity Devices \"DCD\"",
+    "source": "Phoronix",
+    "first_seen": "2026-10-27T00:07:32.552815+00:00",
+    "published": "2026-10-26T21:05:32+00:00"
+  },
+  "https://blog.bytebytego.com/p/last-chance-to-get-every-live-course": {
+    "title": "Last chance to get every live course in one membership",
+    "source": "ByteByteGo",
+    "first_seen": "2026-10-27T00:07:32.552815+00:00",
+    "published": "2026-10-26T20:24:39+00:00"
+  },
+  "https://cloud.google.com/blog/topics/financial-services/easy-to-integrate-compliant-by-design-bringing-the-swiss-franc-to-google-cloud-universal-ledger": {
+    "title": "Easy to integrate, compliant by design: Bringing the Swiss Franc to Google Cloud Universal Ledger",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-10-27T00:07:32.552815+00:00",
+    "published": "2026-10-26T20:00:00+00:00"
+  },
+  "https://thenewstack.io/kubernetes-agentic-ai-platforms": {
+    "title": "AI is changing Kubernetes; is your platform ready for 2027?",
+    "source": "The New Stack",
+    "first_seen": "2026-10-27T00:07:32.552815+00:00",
+    "published": "2026-10-26T19:51:04+00:00"
+  },
+  "https://www.databricks.com/blog/how-teach-databricks-free-edition": {
+    "title": "How to teach with Databricks Free Edition",
+    "source": "Databricks Blog",
+    "first_seen": "2026-10-27T00:07:32.552815+00:00",
+    "published": "2026-10-26T19:40:00+00:00"
+  },
+  "https://arxiv.org/abs/2512.13908": {
+    "title": "Magic state cultivation on a superconducting quantum processor",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-27T00:07:32.552815+00:00",
+    "published": "2026-10-26T19:37:59+00:00"
+  },
+  "https://www.phoronix.com/news/KMSCON-10.1-Released": {
+    "title": "KMSCON 10.1 Released With Support For Per-Monitor Configurations",
+    "source": "Phoronix",
+    "first_seen": "2026-10-27T00:07:32.552815+00:00",
+    "published": "2026-10-26T19:17:21+00:00"
+  },
+  "https://www.motherjones.com/environment/2026/10/epa-online-archive-deletion-zeldin-camp-lejeune-trump-clean-power": {
+    "title": "The EPA Is Quietly Killing Its Web Archive",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-27T00:07:32.552815+00:00",
+    "published": "2026-10-26T19:05:41+00:00"
+  },
+  "https://simonwillison.net/2026/Oct/26/jason-koebler": {
+    "title": "Quoting Jason Koebler",
+    "source": "Simon Willison",
+    "first_seen": "2026-10-27T00:07:32.552815+00:00",
+    "published": "2026-10-26T19:00:25+00:00"
+  },
+  "https://apnews.com/article/energy-critical-materials-minerals-helium-43da160adc1bad389fba0b9ffbd14c3c": {
+    "title": "US designates helium as a critical material",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-27T00:07:32.552815+00:00",
+    "published": "2026-10-26T18:31:39+00:00"
+  },
+  "https://webkit.org/blog/18515/webkit-features-for-safari-27-2": {
+    "title": "WebKit Features for Safari 27.2",
+    "source": "WebKit Blog",
+    "first_seen": "2026-10-27T00:07:32.552815+00:00",
+    "published": "2026-10-26T18:30:01+00:00"
+  },
+  "https://thenewstack.io/anthropic-s1-models-revenue": {
+    "title": "Most of Anthropic’s Q3 revenue came from models that barely existed six months ago",
+    "source": "The New Stack",
+    "first_seen": "2026-10-27T00:07:32.552815+00:00",
+    "published": "2026-10-26T18:29:26+00:00"
+  },
+  "https://pytorch.org/blog/optimizing-streaming-speech-recognition-on-arm-edge-devices-with-executorch": {
+    "title": "Optimizing Streaming Speech Recognition on Arm® Edge Devices with ExecuTorch",
+    "source": "PyTorch Blog",
+    "first_seen": "2026-10-27T00:07:32.552815+00:00",
+    "published": "2026-10-26T18:27:27+00:00"
+  },
+  "https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md": {
+    "title": "Type Server Protocol",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-27T00:07:32.552815+00:00",
+    "published": "2026-10-26T18:14:49+00:00"
+  },
+  "https://www.databricks.com/blog/building-live-intelligence-databricks-ai-search-supports-streaming-tables-materialized-views": {
+    "title": "Building live intelligence: Databricks AI Search supports Streaming Tables, Materialized Views, and Managed tables using Iceberg",
+    "source": "Databricks Blog",
+    "first_seen": "2026-10-27T00:07:32.552815+00:00",
+    "published": "2026-10-26T18:03:59+00:00"
+  },
+  "https://openai.com/index/introducing-gpt-6-1-terra": {
+    "title": "GPT-6.1 Terra",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-27T00:07:32.552815+00:00",
+    "published": "2026-10-26T18:01:17+00:00"
+  },
+  "https://aws.amazon.com/blogs/architecture/data-governance-with-annotations-in-amazon-s3": {
+    "title": "Data governance with annotations in Amazon S3",
+    "source": "AWS Architecture Blog",
+    "first_seen": "2026-10-27T00:07:32.552815+00:00",
+    "published": "2026-10-26T18:00:26+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/fleet-wide-computer-vision-lifecycle-at-the-edge-with-sagemaker-sdk-v3": {
+    "title": "Fleet-wide computer vision lifecycle at the edge with SageMaker SDK v3",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-10-27T00:07:32.552815+00:00",
+    "published": "2026-10-26T17:56:58+00:00"
+  },
+  "https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11": {
+    "title": "Oldest GUI application that still runs on Windows 11",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-27T00:07:32.552815+00:00",
+    "published": "2026-10-26T17:56:55+00:00"
+  },
+  "https://www.404media.co/in-leaked-audio-flock-ceo-tells-cops-backlash-to-the-company-isnt-real": {
+    "title": "In Leaked Audio, Flock CEO Tells Cops Backlash to the Company Isn't Real",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-27T00:07:32.552815+00:00",
+    "published": "2026-10-26T17:54:00+00:00"
+  },
+  "http://muratbuffalo.blogspot.com/2026/10/the-man-from-future-why-johnny-cant.html": {
+    "title": "A Man from the Future: Why Johnny Can't Stop Abstracting",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-27T00:07:32.552815+00:00",
+    "published": "2026-10-26T17:49:55+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.4-Media": {
+    "title": "Intel IPU8 Support Upstreamed In Linux 7.4 For Nova Lake Laptops",
+    "source": "Phoronix",
+    "first_seen": "2026-10-27T00:07:32.552815+00:00",
+    "published": "2026-10-26T17:48:22+00:00"
+  },
+  "https://aws.amazon.com/blogs/architecture/recommended-resilience-testing-in-the-next-generation-of-aws-resilience-hub": {
+    "title": "Recommended resilience testing in the next generation of AWS Resilience Hub",
+    "source": "AWS Architecture Blog",
+    "first_seen": "2026-10-27T00:07:32.552815+00:00",
+    "published": "2026-10-26T17:35:01+00:00"
+  },
+  "https://aws.amazon.com/blogs/containers/measuring-developer-experience-on-an-amazon-eks-developer-platform": {
+    "title": "Measuring developer experience on an Amazon EKS developer platform",
+    "source": "AWS Containers Blog",
+    "first_seen": "2026-10-27T00:07:32.552815+00:00",
+    "published": "2026-10-26T17:32:58+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/groundhog-day-for-ai-agents-prompt-caching-patterns-for-using-openai-models-on-amazon-bedrock": {
+    "title": "Groundhog Day for AI agents: Prompt caching patterns for using OpenAI models on Amazon Bedrock",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-10-27T00:07:32.552815+00:00",
+    "published": "2026-10-26T17:27:20+00:00"
+  },
+  "https://github.com/DilawarShafiq/nietzschian-debugger": {
+    "title": "Nietzschian Debugger",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-27T00:07:32.552815+00:00",
+    "published": "2026-10-26T17:25:30+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/the-new-york-times-cut-oracle-migration-time-from-18-to-5-months": {
+    "title": "The New York Times cut Oracle migration time from 18 to 5 months",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-10-27T00:07:32.552815+00:00",
+    "published": "2026-10-26T17:24:10+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/how-vestiaire-collective-achieved-near-zero-downtime-rds-for-mariadb-upgrades-with-amazon-rds-blue-green-deployments": {
+    "title": "How Vestiaire Collective achieved near-zero downtime RDS for MariaDB upgrades with Amazon RDS Blue/Green Deployments",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-10-27T00:07:32.552815+00:00",
+    "published": "2026-10-26T17:19:34+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/build-agentic-retrieval-on-a-managed-amazon-bedrock-knowledge-base-with-cdk": {
+    "title": "Build agentic retrieval on a Managed Amazon Bedrock Knowledge Base with CDK",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-10-27T00:07:32.552815+00:00",
+    "published": "2026-10-26T17:15:14+00:00"
+  },
+  "https://www.phoronix.com/news/KDE-KWin-Type": {
+    "title": "KWin-Type Introduced To Address KDE Wayland Usability Gap For Auto-Typing Text",
+    "source": "Phoronix",
+    "first_seen": "2026-10-27T00:07:32.552815+00:00",
+    "published": "2026-10-26T17:11:02+00:00"
+  },
+  "https://netflixtechblog.com/making-failure-diagnosis-reliable-with-pensive-ai-6b0811a1c015?source=rss----2615bd06b42e---4": {
+    "title": "Making Failure Diagnosis Reliable with Pensive AI",
+    "source": "Netflix Tech Blog",
+    "first_seen": "2026-10-27T00:07:32.552815+00:00",
+    "published": "2026-10-26T17:04:57+00:00"
+  },
+  "https://opentelemetry.io/blog/2026/case-for-opentelemetry-maintainership": {
+    "title": "The case for OpenTelemetry maintainership",
+    "source": "OpenTelemetry Blog",
+    "first_seen": "2026-10-27T00:07:32.552815+00:00",
+    "published": "2026-10-26T17:00:03+00:00"
+  },
+  "https://thenewstack.io/entire-trails-agentic-code-review": {
+    "title": "Ex-GitHub CEO launches a GitHub rival that reinvents the pull request",
+    "source": "The New Stack",
+    "first_seen": "2026-10-27T00:07:32.552815+00:00",
+    "published": "2026-10-26T17:00:00+00:00"
+  },
+  "https://github.com/FrigadeHQ/hob": {
+    "title": "Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-27T00:07:32.552815+00:00",
+    "published": "2026-10-26T16:12:29+00:00"
+  },
+  "https://netflixtechblog.com/multi-ratio-video-resizing-for-mobile-feed-and-marketing-2e6b42810f49?source=rss----2615bd06b42e---4": {
+    "title": "Multi‑Ratio Video Resizing for Mobile Feed and Marketing",
+    "source": "Netflix Tech Blog",
+    "first_seen": "2026-10-27T00:07:32.552815+00:00",
+    "published": "2026-10-26T16:01:02+00:00"
+  },
+  "https://engineering.fb.com/2026/10/26/open-source/ocp-summit-2026-meta-networking-talks": {
+    "title": "Meta Networking at the 2026 OCP Global Summit: Open Innovation for Scale-Up, Scale-Out, and Scale-Across AI Networks",
+    "source": "Meta Engineering",
+    "first_seen": "2026-10-27T00:07:32.552815+00:00",
+    "published": "2026-10-26T16:00:07+00:00"
+  },
+  "https://developer.nvidia.com/blog/how-nvidia-minerva-turns-telemetry-chaos-into-peak-gpu-yield": {
+    "title": "How NVIDIA Minerva Turns Telemetry Chaos Into Peak GPU Yield",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-10-27T00:07:32.552815+00:00",
+    "published": "2026-10-26T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/identity-security/scale-agents-securely-with-iam-helper-agent-skills-and-mcp-tools": {
+    "title": "Scale agents securely with IAM Helper Agent Skills and MCP Tools",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-10-27T00:07:32.552815+00:00",
+    "published": "2026-10-26T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/business-intelligence/lookml-metadata-indexing-in-knowledge-catalog-is-now-ga": {
+    "title": "Unifying enterprise context and semantics: LookML in Knowledge Catalog is now GA",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-10-27T00:07:32.552815+00:00",
+    "published": "2026-10-26T16:00:00+00:00"
+  },
+  "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks": {
+    "title": "Our newest AI Quest: Mapping the human brain",
+    "source": "Google AI Blog",
+    "first_seen": "2026-10-27T00:07:32.552815+00:00",
+    "published": "2026-10-26T16:00:00+00:00"
+  },
+  "https://css-tricks.com/css-tricks-has-a-new-owner": {
+    "title": "CSS-Tricks has a new owner",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-27T00:07:32.552815+00:00",
+    "published": "2026-10-26T15:51:23+00:00"
+  },
+  "https://replit.com/blog/rise-of-self-driving-company": {
+    "title": "The Rise of the Self-Driving Company",
+    "source": "Replit Blog",
+    "first_seen": "2026-10-27T00:07:32.552815+00:00",
+    "published": "2026-10-26T15:50:00+00:00"
+  },
+  "https://lwn.net/Articles/1102102": {
+    "title": "[$] Python's experimental JIT to be removed",
+    "source": "LWN.net",
+    "first_seen": "2026-10-27T00:07:32.552815+00:00",
+    "published": "2026-10-26T15:45:58+00:00"
+  },
+  "https://lwn.net/Articles/1102973": {
+    "title": "Two stable kernels for Monday",
+    "source": "LWN.net",
+    "first_seen": "2026-10-27T00:07:32.552815+00:00",
+    "published": "2026-10-26T15:45:34+00:00"
+  },
+  "https://www.seattletimes.com/business/microsoft/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce": {
+    "title": "Microsoft offers mass buyouts for roughly a quarter of its workforce",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-27T00:07:32.552815+00:00",
+    "published": "2026-10-26T15:35:12+00:00"
+  },
+  "https://blogs.microsoft.com/blog/2026/10/26/introducing-a-voluntary-exit-offer": {
+    "title": "Introducing a Voluntary Exit Offer",
+    "source": "Microsoft Blog",
+    "first_seen": "2026-10-27T00:07:32.552815+00:00",
+    "published": "2026-10-26T15:33:56+00:00"
+  },
+  "https://magazine.sebastianraschka.com/p/building-reasoning-models": {
+    "title": "Sebastian Raschka's from-scratch video course on building reasoning models",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-27T00:07:32.552815+00:00",
+    "published": "2026-10-26T15:11:59+00:00"
+  },
+  "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security": {
+    "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-10-27T00:07:32.552815+00:00",
+    "published": "2026-10-26T13:45:00+00:00"
+  },
+  "https://neon.com/blog/neon-docs-search-lakebase-search": {
+    "title": "Neon Docs search is now built on Neon",
+    "source": "Neon Blog",
+    "first_seen": "2026-10-27T00:07:32.552815+00:00",
+    "published": "2026-10-26T12:00:00+00:00"
+  },
+  "https://openai.com/index/chatgpt-expanding-world-of-work": {
+    "title": "ChatGPT’s expanding world of work",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-10-27T00:07:32.552815+00:00",
+    "published": "2026-10-26T10:00:00+00:00"
+  },
+  "https://openai.com/index/openai-cut-incident-investigation": {
+    "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-10-27T00:07:32.552815+00:00",
+    "published": "2026-10-26T07:00:00+00:00"
+  },
+  "https://machinelearning.apple.com/research/gharp-head-animation": {
+    "title": "GHARP: Real-Time Gaussian Head Animation from Large-Scale Reconstruction Prior",
+    "source": "Apple ML Journal",
+    "first_seen": "2026-10-27T00:07:32.552815+00:00",
+    "published": "2026-10-26T00:00:00+00:00"
   }
 }
