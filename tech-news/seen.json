@@ -114566,5 +114566,143 @@
     "source": "OpenAI Blog",
     "first_seen": "2026-10-27T19:47:50.928945+00:00",
     "published": "2026-10-27T00:00:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/security/introducing-route-53-resolved-ip-validation-for-aws-network-firewall": {
+    "title": "Introducing Route 53 Resolved IP Validation for AWS Network Firewall",
+    "source": "AWS Security Blog",
+    "first_seen": "2026-10-28T00:07:10.009964+00:00",
+    "published": "2026-10-27T23:46:13+00:00"
+  },
+  "https://thenewstack.io/genie-4-world-model": {
+    "title": "Google built AI agents a world to practice in. The physics still aren’t quite right.",
+    "source": "The New Stack",
+    "first_seen": "2026-10-28T00:07:10.009964+00:00",
+    "published": "2026-10-27T22:33:51+00:00"
+  },
+  "https://www.bettascore.ai/research/reliability-reviewers-vs-owners": {
+    "title": "Reviewers rarely talk about reliability. Owners bring it up twice as often",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-28T00:07:10.009964+00:00",
+    "published": "2026-10-27T22:31:15+00:00"
+  },
+  "https://www.anthropic.com/news/expanding-partnership-gsa": {
+    "title": "Expanding our partnership with GSA to bring Claude to all levels of government",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-28T00:07:10.009964+00:00",
+    "published": "2026-10-27T22:23:37+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/introducing-the-next-generation-of-serverless-time-series-for-amazon-opensearch-service": {
+    "title": "Introducing the next generation of serverless time series for Amazon OpenSearch Service",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-10-28T00:07:10.009964+00:00",
+    "published": "2026-10-27T21:40:22+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/from-problem-to-fix-in-minutes-automating-search-relevance-tuning-with-the-amazon-opensearch-service-relevance-agent": {
+    "title": "From Problem to Fix in Minutes: Automating Search Relevance Tuning with the Amazon OpenSearch Service Relevance Agent",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-10-28T00:07:10.009964+00:00",
+    "published": "2026-10-27T21:31:20+00:00"
+  },
+  "https://oxidt.com/blog/one-year-of-dioxus-fullstack-in-production-the-good-the-painful": {
+    "title": "One year of Dioxus fullstack in production: the good, the painful",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-28T00:07:10.009964+00:00",
+    "published": "2026-10-27T21:19:15+00:00"
+  },
+  "https://thenewstack.io/replit-self-driving-company": {
+    "title": "Replit’s CEO says an idea from 1937 could make the org chart obsolete",
+    "source": "The New Stack",
+    "first_seen": "2026-10-28T00:07:10.009964+00:00",
+    "published": "2026-10-27T21:16:40+00:00"
+  },
+  "https://www.phoronix.com/news/DMA-BUF-IO-uring-Linux-7.4": {
+    "title": "Linux 7.4 Introduces DMA-BUF Support To I/O Path With IO_uring",
+    "source": "Phoronix",
+    "first_seen": "2026-10-28T00:07:10.009964+00:00",
+    "published": "2026-10-27T21:09:43+00:00"
+  },
+  "https://thenewstack.io/php2shell-unpatched-php-servers": {
+    "title": "“The panic hasn’t turned into patching”: What security researchers really think about the PHP2Shell response",
+    "source": "The New Stack",
+    "first_seen": "2026-10-28T00:07:10.009964+00:00",
+    "published": "2026-10-27T20:54:37+00:00"
+  },
+  "https://www.anthropic.com/research/early-progress-drug-development": {
+    "title": "Early progress on accelerating drug development with Claude",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-28T00:07:10.009964+00:00",
+    "published": "2026-10-27T20:50:42+00:00"
+  },
+  "https://developer.nvidia.com/blog/memory-enforced-gpu-sharing-in-kubernetes-with-nvidia-cuda-13-4": {
+    "title": "Memory-Enforced GPU Sharing in Kubernetes with NVIDIA CUDA 13.4",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-10-28T00:07:10.009964+00:00",
+    "published": "2026-10-27T20:50:39+00:00"
+  },
+  "https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a": {
+    "title": "Raspberry Pi Zero 3W and Pi 4 Model A spotted in device trees",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-28T00:07:10.009964+00:00",
+    "published": "2026-10-27T20:48:49+00:00"
+  },
+  "https://hex.tech/blog/hex-new-era": {
+    "title": "Hex Raises $100M",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-28T00:07:10.009964+00:00",
+    "published": "2026-10-27T20:36:38+00:00"
+  },
+  "https://devblogs.microsoft.com/devops/azure-devops-server-rc-26h2-is-now-available": {
+    "title": "Azure DevOps Server RC (26H2) Is Now Available",
+    "source": "MS DevOps Blog",
+    "first_seen": "2026-10-28T00:07:10.009964+00:00",
+    "published": "2026-10-27T20:31:59+00:00"
+  },
+  "https://gracefulliberty.com/articles/four-months-of-zig": {
+    "title": "Four Months of Zig",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-28T00:07:10.009964+00:00",
+    "published": "2026-10-27T20:13:27+00:00"
+  },
+  "https://cloud.google.com/blog/products/infrastructure-modernization/vmware-solution-on-google-cloud": {
+    "title": "Introducing VMware solution on Google Cloud",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-10-28T00:07:10.009964+00:00",
+    "published": "2026-10-27T20:00:00+00:00"
+  },
+  "https://tailscale.com/ssh-investigation-update": {
+    "title": "Tailscale SSH: Investigation and remediation update",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-28T00:07:10.009964+00:00",
+    "published": "2026-10-27T19:55:21+00:00"
+  },
+  "https://www.brangus.io/survival-llm": {
+    "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-28T00:07:10.009964+00:00",
+    "published": "2026-10-27T19:55:06+00:00"
+  },
+  "https://www.phoronix.com/news/Raspberry-Pi-Zero-3-W-Pi-4-A": {
+    "title": "Raspberry Pi Zero 3 W & Raspberry Pi 4 Model A Surface In Linux Kernel Patches",
+    "source": "Phoronix",
+    "first_seen": "2026-10-28T00:07:10.009964+00:00",
+    "published": "2026-10-27T19:53:34+00:00"
+  },
+  "https://nextjs.org/blog/upcoming-nextjs-security-release-november-2026": {
+    "title": "Upcoming Next.js November Security Release",
+    "source": "Next.js Blog",
+    "first_seen": "2026-10-28T00:07:10.009964+00:00",
+    "published": "2026-10-27T18:00:00+00:00"
+  },
+  "https://news.vt.edu/articles/2026/10/cmi-monarchs.html": {
+    "title": "Radio-tagged Monarch butterflies",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-28T00:07:10.009964+00:00",
+    "published": "2026-10-27T17:48:15+00:00"
+  },
+  "https://openai.com/index/retell-ai": {
+    "title": "Retell uses OpenAI models to help power 100M monthly calls",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-10-28T00:07:10.009964+00:00",
+    "published": "2026-10-27T15:00:00+00:00"
   }
 }
