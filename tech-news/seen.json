@@ -114704,5 +114704,269 @@
     "source": "OpenAI Blog",
     "first_seen": "2026-10-28T00:07:10.009964+00:00",
     "published": "2026-10-27T15:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/Ubuntu-Core-Desktop-2026": {
+    "title": "Canonical Reviving Their Immutable Ubuntu Core Desktop",
+    "source": "Phoronix",
+    "first_seen": "2026-10-28T15:33:25.617174+00:00",
+    "published": "2026-10-28T15:11:24+00:00"
+  },
+  "https://thenewstack.io/nvidia-nemotron-promptable-transcription": {
+    "title": "Nvidia launches a promptable transcription model",
+    "source": "The New Stack",
+    "first_seen": "2026-10-28T15:33:25.617174+00:00",
+    "published": "2026-10-28T15:00:00+00:00"
+  },
+  "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary": {
+    "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-10-28T15:33:25.617174+00:00",
+    "published": "2026-10-28T14:58:17+00:00"
+  },
+  "https://stackoverflow.blog/2026/10/28/delivering-controlled-and-concentrated-context": {
+    "title": "Delivering controlled and concentrated context",
+    "source": "Stack Overflow Blog",
+    "first_seen": "2026-10-28T15:33:25.617174+00:00",
+    "published": "2026-10-28T14:55:00+00:00"
+  },
+  "https://www.phoronix.com/review/cachyos-ubuntu2610-fedora45": {
+    "title": "CachyOS vs. Fedora 45 vs. Ubuntu 26.10 Performance On AMD Ryzen 9",
+    "source": "Phoronix",
+    "first_seen": "2026-10-28T15:33:25.617174+00:00",
+    "published": "2026-10-28T14:46:46+00:00"
+  },
+  "https://carmelitegothic.com/cnc-stone-carving": {
+    "title": "CNC Stone Carving",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-28T15:33:25.617174+00:00",
+    "published": "2026-10-28T14:38:22+00:00"
+  },
+  "https://wiki.alpinebsd.org": {
+    "title": "AlpineBSD",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-28T15:33:25.617174+00:00",
+    "published": "2026-10-28T14:30:26+00:00"
+  },
+  "https://lwn.net/Articles/1102738": {
+    "title": "[$] The campaign to push Northstar into Linux distributions",
+    "source": "LWN.net",
+    "first_seen": "2026-10-28T15:33:25.617174+00:00",
+    "published": "2026-10-28T14:26:59+00:00"
+  },
+  "https://www.fluxlinks.com/blog/obsidian-canvas-vs-heptabase": {
+    "title": "An architectural comparison of Obsidian Canvas and Heptabase",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-28T15:33:25.617174+00:00",
+    "published": "2026-10-28T14:24:20+00:00"
+  },
+  "https://lwn.net/Articles/1103359": {
+    "title": "Redox OS ring buffers project summary",
+    "source": "LWN.net",
+    "first_seen": "2026-10-28T15:33:25.617174+00:00",
+    "published": "2026-10-28T14:05:05+00:00"
+  },
+  "https://thenewstack.io/governing-ai-agent-credentials": {
+    "title": "What happens when the agent is long gone, but its access key lives on?",
+    "source": "The New Stack",
+    "first_seen": "2026-10-28T15:33:25.617174+00:00",
+    "published": "2026-10-28T14:00:00+00:00"
+  },
+  "https://realpython.com/python-mcp-client": {
+    "title": "Build a Python MCP Client to Test Servers From Your Terminal",
+    "source": "Real Python",
+    "first_seen": "2026-10-28T15:33:25.617174+00:00",
+    "published": "2026-10-28T14:00:00+00:00"
+  },
+  "https://simonwillison.net/2026/Oct/28/vibe-game-development": {
+    "title": "The October inflection point for vibe game development",
+    "source": "Simon Willison",
+    "first_seen": "2026-10-28T15:33:25.617174+00:00",
+    "published": "2026-10-28T13:55:15+00:00"
+  },
+  "https://www.phoronix.com/news/NetBSD-New-Text-Editor": {
+    "title": "NetBSD Adds Alternative Text Editor To vi & xedit For Easing New Users",
+    "source": "Phoronix",
+    "first_seen": "2026-10-28T15:33:25.617174+00:00",
+    "published": "2026-10-28T13:48:00+00:00"
+  },
+  "https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai": {
+    "title": "Kentucky man becomes the first humanist granted religious exemption from AI",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-28T15:33:25.617174+00:00",
+    "published": "2026-10-28T13:41:30+00:00"
+  },
+  "https://www.nasscad.com/NASSCAD_V4_7_0.htm": {
+    "title": "Show HN: Nasscad – local-first 3D CAD for browser and Windows",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-28T15:33:25.617174+00:00",
+    "published": "2026-10-28T13:28:32+00:00"
+  },
+  "https://www.invenglobal.com/articles/27761/valve-responds-to-developers-fearing-ai-slop-and-clones": {
+    "title": "Valve Responds to Developers Fearing AI Slop and Clones",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-28T15:33:25.617174+00:00",
+    "published": "2026-10-28T13:27:24+00:00"
+  },
+  "https://www.technologyreview.com/2026/10/20/1145399/emacs-turns-50": {
+    "title": "Emacs Turns 50",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-28T15:33:25.617174+00:00",
+    "published": "2026-10-28T13:25:11+00:00"
+  },
+  "https://lwn.net/Articles/1103357": {
+    "title": "Security updates for Wednesday",
+    "source": "LWN.net",
+    "first_seen": "2026-10-28T15:33:25.617174+00:00",
+    "published": "2026-10-28T13:10:19+00:00"
+  },
+  "https://www.docker.com/blog/docker-navigator-partner-program": {
+    "title": "Win the Agentic Era, Together: Introducing the Docker Navigator Partner Program",
+    "source": "Docker Blog",
+    "first_seen": "2026-10-28T15:33:25.617174+00:00",
+    "published": "2026-10-28T13:00:00+00:00"
+  },
+  "https://thenewstack.io/durable-ai-agent-operations": {
+    "title": "AI agents need to be replaceable – without losing your work",
+    "source": "The New Stack",
+    "first_seen": "2026-10-28T15:33:25.617174+00:00",
+    "published": "2026-10-28T13:00:00+00:00"
+  },
+  "https://martinfowler.com/fragments/2026-10-28.html": {
+    "title": "Fragments: October 28",
+    "source": "Martin Fowler",
+    "first_seen": "2026-10-28T15:33:25.617174+00:00",
+    "published": "2026-10-28T12:55:00+00:00"
+  },
+  "https://www.phoronix.com/news/Jamey-Sharp-Praises-Wayland": {
+    "title": "X.Org XCB Co-Creator Praises Wayland's Protocol Design",
+    "source": "Phoronix",
+    "first_seen": "2026-10-28T15:33:25.617174+00:00",
+    "published": "2026-10-28T12:54:28+00:00"
+  },
+  "https://www.wired.com/story/ice-is-running-one-of-the-largest-anti-left-surveillance-operations-in-us-history": {
+    "title": "ICE Is Running One of the Largest Anti-Left Surveillance Ops in US History",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-28T15:33:25.617174+00:00",
+    "published": "2026-10-28T12:49:45+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-Provenance-Time-PTIME": {
+    "title": "Provenance Time Proposed As A New Timestamp For Linux",
+    "source": "Phoronix",
+    "first_seen": "2026-10-28T15:33:25.617174+00:00",
+    "published": "2026-10-28T12:23:10+00:00"
+  },
+  "https://thenewstack.io/openai-agentic-identity-scale": {
+    "title": "From human clicks to agentic velocity: What OpenAI’s 1.2 billion scale means for your auth",
+    "source": "The New Stack",
+    "first_seen": "2026-10-28T15:33:25.617174+00:00",
+    "published": "2026-10-28T12:00:00+00:00"
+  },
+  "https://realpython.com/quizzes/create-scalable-flask-web-app": {
+    "title": "Quiz: Creating a Scalable Flask Web Application From Scratch",
+    "source": "Real Python",
+    "first_seen": "2026-10-28T15:33:25.617174+00:00",
+    "published": "2026-10-28T12:00:00+00:00"
+  },
+  "https://www.reuters.com/business/media-telecom/amazon-signs-1157-billion-deal-satellite-firm-globalstar-challenge-starlink-2026-04-14/1157-billion-deal-satellite-firm-globalstar-challenge-starlink-2026-04-14": {
+    "title": "Amazon to buy satellite firm Globalstar in $11.57B deal",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-28T15:33:25.617174+00:00",
+    "published": "2026-10-28T11:54:23+00:00"
+  },
+  "https://www.phoronix.com/news/Hyprland-0.57": {
+    "title": "Hyprland 0.57 Released With Compiz Inspired Wobbly Windows",
+    "source": "Phoronix",
+    "first_seen": "2026-10-28T15:33:25.617174+00:00",
+    "published": "2026-10-28T11:45:33+00:00"
+  },
+  "https://support.apple.com/en-us/149555": {
+    "title": "About the compromised eMudhra intermediate CAs",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-28T15:33:25.617174+00:00",
+    "published": "2026-10-28T11:08:49+00:00"
+  },
+  "https://emudhra.we-have-a-problem.com/apple.html": {
+    "title": "Ten days later, Git on macOS still trusts the compromised eMudhra certificates",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-28T15:33:25.617174+00:00",
+    "published": "2026-10-28T11:03:40+00:00"
+  },
+  "https://www.phoronix.com/news/VKD3D-Proton-3.1": {
+    "title": "VKD3D-Proton 3.1 Released With New Features Ahead Of Big v3.2 Release",
+    "source": "Phoronix",
+    "first_seen": "2026-10-28T15:33:25.617174+00:00",
+    "published": "2026-10-28T10:27:21+00:00"
+  },
+  "https://www.phoronix.com/news/GhostBSD-26.2": {
+    "title": "GhostBSD 26.2 Released As FreeBSD 15.1 Powered OS With New Installer",
+    "source": "Phoronix",
+    "first_seen": "2026-10-28T15:33:25.617174+00:00",
+    "published": "2026-10-28T10:11:54+00:00"
+  },
+  "https://simonwillison.net/2026/Oct/28/terk-terkowitz": {
+    "title": "Quoting Terk Terkowitz",
+    "source": "Simon Willison",
+    "first_seen": "2026-10-28T15:33:25.617174+00:00",
+    "published": "2026-10-28T10:09:07+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.4-NTFS3": {
+    "title": "NTFS3 Hardened In Linux 7.4 Against Corrupted Or Maliciously-Crafted NTFS Volumes",
+    "source": "Phoronix",
+    "first_seen": "2026-10-28T15:33:25.617174+00:00",
+    "published": "2026-10-28T10:02:34+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-May-Retire-PPP-BSD-Comp": {
+    "title": "Retiring BSD-Compress Proposed For Linux PPP Network Code",
+    "source": "Phoronix",
+    "first_seen": "2026-10-28T15:33:25.617174+00:00",
+    "published": "2026-10-28T09:50:55+00:00"
+  },
+  "https://openai.com/index/legora-agentic-operating-system-for-legal-work": {
+    "title": "Legora is building the agentic operating system for legal work",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-10-28T15:33:25.617174+00:00",
+    "published": "2026-10-28T09:30:00+00:00"
+  },
+  "https://blog.codinghorror.com/suffering-as-a-feature": {
+    "title": "Suffering as a Feature",
+    "source": "Coding Horror",
+    "first_seen": "2026-10-28T15:33:25.617174+00:00",
+    "published": "2026-10-28T06:17:45+00:00"
+  },
+  "https://lexifina.com/blog/git-for-the-us-code": {
+    "title": "Git for the US Code",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-28T15:33:25.617174+00:00",
+    "published": "2026-10-28T01:47:50+00:00"
+  },
+  "https://tailscale.com/blog/tailscale-ssh-findings-fixes": {
+    "title": "Tailscale SSH: Findings and fixes",
+    "source": "Tailscale Blog",
+    "first_seen": "2026-10-28T15:33:25.617174+00:00",
+    "published": "2026-10-28T01:15:00+00:00"
+  },
+  "https://www.phoronix.com/news/Wine-Mesa-Map-Buffer-Client-Ptr": {
+    "title": "Wine Merges Support For MESA_map_buffer_client_pointer To Improve WoW64 32-bit OpenGL",
+    "source": "Phoronix",
+    "first_seen": "2026-10-28T15:33:25.617174+00:00",
+    "published": "2026-10-28T00:33:36+00:00"
+  },
+  "https://www.thoughtworks.com/insights/articles/rebuilding-self-hosted-github-actions-runners-on-aks": {
+    "title": "The 14 GB cold-start problem: Rebuilding self-hosted GitHub Actions runners on Azure Kubernetes Service",
+    "source": "ThoughtWorks",
+    "first_seen": "2026-10-28T15:33:25.617174+00:00",
+    "published": "2026-10-28T00:00:00+00:00"
+  },
+  "https://www.elastic.co/blog/forrester-wave-aiops-platforms-2026": {
+    "title": "Elastic is a Strong Performer in The Forrester Wave™ for AIOps Platforms, Q4 2026",
+    "source": "Elastic Blog",
+    "first_seen": "2026-10-28T15:33:25.617174+00:00",
+    "published": "2026-10-28T00:00:00+00:00"
+  },
+  "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth": {
+    "title": "Code-execution flaw in UEFI firmware threatens most servers on planet Earth",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-28T15:33:25.617174+00:00",
+    "published": "2026-10-27T20:35:09+00:00"
   }
 }
