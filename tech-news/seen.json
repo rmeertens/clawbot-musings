@@ -115304,5 +115304,335 @@
     "source": "Nuxt Blog",
     "first_seen": "2026-10-29T00:29:28.723759+00:00",
     "published": "2026-10-28T00:00:00+00:00"
+  },
+  "https://blog.bytebytego.com/p/data-movement-strategies-in-system": {
+    "title": "Data Movement Strategies In System Design",
+    "source": "ByteByteGo",
+    "first_seen": "2026-10-29T15:41:16.039690+00:00",
+    "published": "2026-10-29T15:31:02+00:00"
+  },
+  "https://grafana.com/blog/grafana-13-3-release-all-the-latest-features": {
+    "title": "Grafana 13.3 release: manage variables across dashboards, share findings with Notebooks, a UI refresh, and more",
+    "source": "Grafana Blog",
+    "first_seen": "2026-10-29T15:41:16.039690+00:00",
+    "published": "2026-10-29T15:01:42+00:00"
+  },
+  "https://www.databricks.com/blog/smarter-cost-controls-serverless": {
+    "title": "Smarter cost controls for serverless",
+    "source": "Databricks Blog",
+    "first_seen": "2026-10-29T15:41:16.039690+00:00",
+    "published": "2026-10-29T15:00:00+00:00"
+  },
+  "https://developer.nvidia.com/blog/unlocking-tensor-core-performance-for-machine-learning-interatomic-potentials": {
+    "title": "Unlocking Tensor Core Performance for Machine Learning Interatomic Potentials",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-10-29T15:41:16.039690+00:00",
+    "published": "2026-10-29T15:00:00+00:00"
+  },
+  "https://devblogs.microsoft.com/dotnet/blazor-welcomes-syncfusion": {
+    "title": "Blazor Welcomes Open-Source Contributions from Syncfusion",
+    "source": "MS .NET Blog",
+    "first_seen": "2026-10-29T15:41:16.039690+00:00",
+    "published": "2026-10-29T15:00:00+00:00"
+  },
+  "https://yle.fi/a/74-20254086": {
+    "title": "Finland investigate Google over destruction of 250k trees",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-29T15:41:16.039690+00:00",
+    "published": "2026-10-29T14:57:41+00:00"
+  },
+  "https://tabwidgets.com/blog/react-lazy-suspense-delay": {
+    "title": "React.lazy, Suspense and the Hidden 300 ms Delay",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-29T15:41:16.039690+00:00",
+    "published": "2026-10-29T14:50:17+00:00"
+  },
+  "https://thenewstack.io/mistral-chonk-coding-model": {
+    "title": "Mistral’s Large 4 open weights arrive with a 1-point coding lead over GLM-5.3: “There’s nothing you can’t do with this model that you can do with competitors.”",
+    "source": "The New Stack",
+    "first_seen": "2026-10-29T15:41:16.039690+00:00",
+    "published": "2026-10-29T14:49:44+00:00"
+  },
+  "https://about.doordash.com/en-us/news/doordash-to-acquire-instacart": {
+    "title": "DoorDash is acquiring Instacart for $17B",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-29T15:41:16.039690+00:00",
+    "published": "2026-10-29T14:40:43+00:00"
+  },
+  "https://martinfowler.com/bliki/LLM-Voice.html": {
+    "title": "Bliki: LLM Voice",
+    "source": "Martin Fowler",
+    "first_seen": "2026-10-29T15:41:16.039690+00:00",
+    "published": "2026-10-29T14:28:00+00:00"
+  },
+  "https://github.com/owls-on-wires/keplearn": {
+    "title": "Keplearn: Extract Equations from Data in Seconds",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-29T15:41:16.039690+00:00",
+    "published": "2026-10-29T14:22:53+00:00"
+  },
+  "https://mistral.ai/news/mistral-large-4-oss": {
+    "title": "Mistral Large 4 (Le Chonk) is now Open Weight",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-29T15:41:16.039690+00:00",
+    "published": "2026-10-29T14:13:21+00:00"
+  },
+  "https://simonwillison.net/2026/Oct/29/ben-hylak": {
+    "title": "Quoting Ben Hylak",
+    "source": "Simon Willison",
+    "first_seen": "2026-10-29T15:41:16.039690+00:00",
+    "published": "2026-10-29T14:06:27+00:00"
+  },
+  "https://lwn.net/Articles/1102593": {
+    "title": "[$] Containers as a recognized kernel object",
+    "source": "LWN.net",
+    "first_seen": "2026-10-29T15:41:16.039690+00:00",
+    "published": "2026-10-29T14:02:30+00:00"
+  },
+  "https://thenewstack.io/elastic-beanstalk-regulated-workloads": {
+    "title": "AWS Elastic Beanstalk for regulated workloads: Built for the next decade, not just the first deploy",
+    "source": "The New Stack",
+    "first_seen": "2026-10-29T15:41:16.039690+00:00",
+    "published": "2026-10-29T14:00:00+00:00"
+  },
+  "https://realpython.com/learn-with-mentor-ai-async-python": {
+    "title": "Learn With Mentor AI: A Guided Journey Through Async Python",
+    "source": "Real Python",
+    "first_seen": "2026-10-29T15:41:16.039690+00:00",
+    "published": "2026-10-29T14:00:00+00:00"
+  },
+  "https://oxide.computer/blog/self-hosted-ai-agents": {
+    "title": "Running Self-Hosted AI Agents",
+    "source": "Oxide Computer",
+    "first_seen": "2026-10-29T15:41:16.039690+00:00",
+    "published": "2026-10-29T14:00:00+00:00"
+  },
+  "https://martinfowler.com/rachels-ramblings/good-devs-wary.html": {
+    "title": "Why are good developers so wary of agentic development?",
+    "source": "Martin Fowler",
+    "first_seen": "2026-10-29T15:41:16.039690+00:00",
+    "published": "2026-10-29T13:50:00+00:00"
+  },
+  "https://www.vox.com/xpress/2014/11/12/7204453/martin-luther-king-fbi-letter": {
+    "title": "Read the letter the FBI sent MLK to try to convince him to kill himself (2014)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-29T15:41:16.039690+00:00",
+    "published": "2026-10-29T13:40:04+00:00"
+  },
+  "https://newsletter.pragmaticengineer.com/p/software-engineering-at-google-and": {
+    "title": "Software engineering at Google & CS education with Titus Winters",
+    "source": "The Pragmatic Engineer",
+    "first_seen": "2026-10-29T15:41:16.039690+00:00",
+    "published": "2026-10-29T13:37:13+00:00"
+  },
+  "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1": {
+    "title": "Granite Switch 4.1.1 — Update models like you update software",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-10-29T15:41:16.039690+00:00",
+    "published": "2026-10-29T13:37:07+00:00"
+  },
+  "https://www.phoronix.com/review/nvidia-vera-1p-2p": {
+    "title": "NVIDIA Vera Single vs. Dual Socket CPU Performance",
+    "source": "Phoronix",
+    "first_seen": "2026-10-29T15:41:16.039690+00:00",
+    "published": "2026-10-29T13:36:24+00:00"
+  },
+  "https://thenewstack.io/github-agentic-infrastructure-rebuild": {
+    "title": "“I don’t think the world needs a new GitHub”: What GitHub’s leaders really think about their new rivals",
+    "source": "The New Stack",
+    "first_seen": "2026-10-29T15:41:16.039690+00:00",
+    "published": "2026-10-29T13:30:00+00:00"
+  },
+  "https://lwn.net/Articles/1103666": {
+    "title": "Security updates for Thursday",
+    "source": "LWN.net",
+    "first_seen": "2026-10-29T15:41:16.039690+00:00",
+    "published": "2026-10-29T13:18:42+00:00"
+  },
+  "https://www.docker.com/blog/coding-agent-horror-stories-the-cve-that-did-not-exist": {
+    "title": "Coding Agent Horror Stories: The CVE That Did Not Exist",
+    "source": "Docker Blog",
+    "first_seen": "2026-10-29T15:41:16.039690+00:00",
+    "published": "2026-10-29T13:00:00+00:00"
+  },
+  "https://thenewstack.io/kubernetes-resource-composition-layer": {
+    "title": "Why Kubernetes platforms keep rebuilding a layer they could share",
+    "source": "The New Stack",
+    "first_seen": "2026-10-29T15:41:16.039690+00:00",
+    "published": "2026-10-29T13:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.4-Networking": {
+    "title": "Linux 7.4 Networking Brings Hardware Pacing Offload, New Drivers & More Performance",
+    "source": "Phoronix",
+    "first_seen": "2026-10-29T15:41:16.039690+00:00",
+    "published": "2026-10-29T12:55:00+00:00"
+  },
+  "https://blog.cloudflare.com/ddos-threat-report-2026-q3": {
+    "title": "Cloudflare DDoS Threat Report 2026 Q3: More swarms, fewer giants",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-10-29T15:41:16.039690+00:00",
+    "published": "2026-10-29T12:55:00+00:00"
+  },
+  "https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1": {
+    "title": "Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-29T15:41:16.039690+00:00",
+    "published": "2026-10-29T12:41:56+00:00"
+  },
+  "https://text.npr.org/nx-s1-6021497": {
+    "title": "Hackers expose the identities of more than 40k DHS employees",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-29T15:41:16.039690+00:00",
+    "published": "2026-10-29T12:31:09+00:00"
+  },
+  "https://iptrust.co/blog/if-ipv4-were-land": {
+    "title": "If IPv4 Were Land",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-29T15:41:16.039690+00:00",
+    "published": "2026-10-29T12:19:00+00:00"
+  },
+  "https://www.tigerdata.com/blog/adaptive-integer-compression-aic-in-timescaledb": {
+    "title": "Adaptive Integer Compression in TimescaleDB: Built for the Read Path",
+    "source": "Timescale Blog",
+    "first_seen": "2026-10-29T15:41:16.039690+00:00",
+    "published": "2026-10-29T12:02:58+00:00"
+  },
+  "https://thenewstack.io/ai-agent-sandboxing-kubernetes": {
+    "title": "The 5 essential layers of AI agent sandboxing on Kubernetes",
+    "source": "The New Stack",
+    "first_seen": "2026-10-29T15:41:16.039690+00:00",
+    "published": "2026-10-29T12:00:00+00:00"
+  },
+  "https://realpython.com/quizzes/learn-with-mentor-ai-async-python": {
+    "title": "Quiz: Learn With Mentor AI: A Guided Journey Through Async Python",
+    "source": "Real Python",
+    "first_seen": "2026-10-29T15:41:16.039690+00:00",
+    "published": "2026-10-29T12:00:00+00:00"
+  },
+  "https://realpython.com/quizzes/dicts-arrays-ideal-data-structure": {
+    "title": "Quiz: Dictionaries and Arrays: Selecting the Ideal Data Structure",
+    "source": "Real Python",
+    "first_seen": "2026-10-29T15:41:16.039690+00:00",
+    "published": "2026-10-29T12:00:00+00:00"
+  },
+  "https://mastodon.sdf.org/@netbsd/117518160563539748": {
+    "title": "NetBSD adds a new beginner-friendly text editor called atto",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-29T15:41:16.039690+00:00",
+    "published": "2026-10-29T11:59:01+00:00"
+  },
+  "https://publicpolicy.googleblog.com/2008/04/how-google-determines-names-for-bodies.html": {
+    "title": "Google determines the names for bodies of water in Google Earth (2008)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-29T15:41:16.039690+00:00",
+    "published": "2026-10-29T11:41:18+00:00"
+  },
+  "https://thenewstack.io/claude-duet-agent-judgment": {
+    "title": "“Urgency is an inherently subjective call”: Anthropic tells TNS how it grades Claude Duet",
+    "source": "The New Stack",
+    "first_seen": "2026-10-29T15:41:16.039690+00:00",
+    "published": "2026-10-29T11:00:00+00:00"
+  },
+  "https://electrek.co/2026/08/31/the-us-added-a-record-20-2-gwh-of-battery-storage-in-just-3-months": {
+    "title": "The US added a record 20.2 GWh of battery storage in just 3 months",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-29T15:41:16.039690+00:00",
+    "published": "2026-10-29T10:44:49+00:00"
+  },
+  "https://dreamgroup.com/blog/chained-php2shell-exploit-roots-25-servers": {
+    "title": "Chained PHP2Shell Exploit Roots 25 Servers, Including US Government Servers",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-29T15:41:16.039690+00:00",
+    "published": "2026-10-29T10:42:41+00:00"
+  },
+  "https://www.phoronix.com/news/AMD-ROCm-HRX-Loom-0.1": {
+    "title": "AMD's ROCm HRX Loom v0.1 Released For Targeting AMD CPUs, GPUs & NPUs",
+    "source": "Phoronix",
+    "first_seen": "2026-10-29T15:41:16.039690+00:00",
+    "published": "2026-10-29T10:22:15+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.4-Faster-FAT32": {
+    "title": "FAT32 File-System Seeing As Much As 265x Improvement With Linux 7.4",
+    "source": "Phoronix",
+    "first_seen": "2026-10-29T15:41:16.039690+00:00",
+    "published": "2026-10-29T10:06:09+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.5-drm-misc-next": {
+    "title": "Graphics/NPU Driver Changes Already Begin Queuing Up For What Will Be Linux 7.5",
+    "source": "Phoronix",
+    "first_seen": "2026-10-29T15:41:16.039690+00:00",
+    "published": "2026-10-29T09:48:22+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.4-KSMBD": {
+    "title": "KSMBD Adds New  Options With Linux 7.4",
+    "source": "Phoronix",
+    "first_seen": "2026-10-29T15:41:16.039690+00:00",
+    "published": "2026-10-29T09:33:13+00:00"
+  },
+  "https://smsofdeath.com": {
+    "title": "Zero click, silent, remote Android DoS",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-29T15:41:16.039690+00:00",
+    "published": "2026-10-29T07:08:50+00:00"
+  },
+  "https://blog.orange.tw/posts/2026-10-the-last-proof-of-human-craft-browser-full-chain": {
+    "title": "Forging a Microsoft Edge Full Chain with Logic Bugs Only",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-29T15:41:16.039690+00:00",
+    "published": "2026-10-29T06:47:28+00:00"
+  },
+  "https://kubernetes.io/blog/2026/10/29/sig-arch-ai-conformance-2026": {
+    "title": "From Working Group to SIG Architecture: spotlight on AI Conformance",
+    "source": "Kubernetes Blog",
+    "first_seen": "2026-10-29T15:41:16.039690+00:00",
+    "published": "2026-10-29T05:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/GXVK-3Dfx-Glide-Vulkan": {
+    "title": "GXVK: 3Dfx Glide API Implemented Atop Vulkan For Modern Usage",
+    "source": "Phoronix",
+    "first_seen": "2026-10-29T15:41:16.039690+00:00",
+    "published": "2026-10-29T00:44:56+00:00"
+  },
+  "https://www.databricks.com/blog/how-procore-powering-construction-analytics-opensharing-0": {
+    "title": "How Procore is powering construction analytics with OpenSharing",
+    "source": "Databricks Blog",
+    "first_seen": "2026-10-29T15:41:16.039690+00:00",
+    "published": "2026-10-29T00:29:00+00:00"
+  },
+  "https://divagr.com/blog/qwenputer": {
+    "title": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-29T15:41:16.039690+00:00",
+    "published": "2026-10-29T00:25:45+00:00"
+  },
+  "https://nodeweekly.com/issues/645": {
+    "title": "Node security releases to fix a Brotli flaw",
+    "source": "Node Weekly",
+    "first_seen": "2026-10-29T15:41:16.039690+00:00",
+    "published": "2026-10-29T00:00:00+00:00"
+  },
+  "https://huggingface.co/blog/mistral-large4": {
+    "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-10-29T15:41:16.039690+00:00",
+    "published": "2026-10-29T00:00:00+00:00"
+  },
+  "https://huggingface.co/blog/anydecisionmodel": {
+    "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-10-29T15:41:16.039690+00:00",
+    "published": "2026-10-29T00:00:00+00:00"
+  },
+  "https://huggingface.co/blog/announcing-project-protostar": {
+    "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-10-29T15:41:16.039690+00:00",
+    "published": "2026-10-29T00:00:00+00:00"
+  },
+  "https://stackoverflow.blog/2026/10/28/a-json-schema-is-not-an-ai-governance-layer": {
+    "title": "A JSON schema Is not an AI governance layer",
+    "source": "Stack Overflow Blog",
+    "first_seen": "2026-10-29T15:41:16.039690+00:00",
+    "published": "2026-10-28T19:27:07+00:00"
   }
 }
