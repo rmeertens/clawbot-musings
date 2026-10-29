@@ -114968,5 +114968,341 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-10-28T15:33:25.617174+00:00",
     "published": "2026-10-27T20:35:09+00:00"
+  },
+  "https://lwn.net/Articles/1102136": {
+    "title": "[$] LWN.net Weekly Edition for October 29, 2026",
+    "source": "LWN.net",
+    "first_seen": "2026-10-29T00:29:28.723759+00:00",
+    "published": "2026-10-29T00:19:08+00:00"
+  },
+  "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html": {
+    "title": "GitLab Security Incident: Attempted Exploitation of CVE-2026-97229",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-29T00:29:28.723759+00:00",
+    "published": "2026-10-28T23:45:46+00:00"
+  },
+  "https://data.stackexchange.com/stackoverflow/query/1926661": {
+    "title": "StackOverflow now gets fewer than 1000 questions a month",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-29T00:29:28.723759+00:00",
+    "published": "2026-10-28T23:35:02+00:00"
+  },
+  "https://simonwillison.net/2026/Oct/28/ted-sanders": {
+    "title": "Quoting Ted Sanders",
+    "source": "Simon Willison",
+    "first_seen": "2026-10-29T00:29:28.723759+00:00",
+    "published": "2026-10-28T23:23:21+00:00"
+  },
+  "https://lwn.net/Articles/1103426": {
+    "title": "A report from the LPC sched_ext microconference",
+    "source": "LWN.net",
+    "first_seen": "2026-10-29T00:29:28.723759+00:00",
+    "published": "2026-10-28T22:11:43+00:00"
+  },
+  "https://formlabs.com/products/form-studio-1-basic-founders-edition": {
+    "title": "Formlabs Studio 1 $699 Resin Printer",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-29T00:29:28.723759+00:00",
+    "published": "2026-10-28T21:19:30+00:00"
+  },
+  "https://furbo.org/2026/10/28/a-health-update": {
+    "title": "A Health Update",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-29T00:29:28.723759+00:00",
+    "published": "2026-10-28T21:13:21+00:00"
+  },
+  "https://v12.sh/blog/the-case-of-the-9bit-aes-key": {
+    "title": "The case of the 9 bit AES key",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-29T00:29:28.723759+00:00",
+    "published": "2026-10-28T20:51:44+00:00"
+  },
+  "https://www.reuters.com/legal/government/leak-website-releases-data-tens-thousands-dhs-employees-2026-10-28": {
+    "title": "Leak website releases data on DHS employees",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-29T00:29:28.723759+00:00",
+    "published": "2026-10-28T20:46:52+00:00"
+  },
+  "https://www.cncf.io/blog/2026/10/28/volcano-v1-16-released-namespacequeue-fairshare-and-a-broader-hypernode-ecosystem": {
+    "title": "Volcano v1.16 Released: NamespaceQueue, fairshare, and a broader HyperNode ecosystem",
+    "source": "CNCF Blog",
+    "first_seen": "2026-10-29T00:29:28.723759+00:00",
+    "published": "2026-10-28T20:45:08+00:00"
+  },
+  "https://nextjs.org/blog/ship-less-javascript-with-ai": {
+    "title": "Ship less JavaScript in Next.js with your AI agent",
+    "source": "Next.js Blog",
+    "first_seen": "2026-10-29T00:29:28.723759+00:00",
+    "published": "2026-10-28T20:00:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/compute/observing-aws-lambda-durable-functions-with-the-durable-execution-telemetry-exporter": {
+    "title": "Observing AWS Lambda durable functions with the Durable Execution Telemetry Exporter",
+    "source": "AWS Compute Blog",
+    "first_seen": "2026-10-29T00:29:28.723759+00:00",
+    "published": "2026-10-28T19:36:12+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-Considers-Dropping--KGDB": {
+    "title": "Linux Kernel Developers Considering Removal Of KGDB Debugging Functionality",
+    "source": "Phoronix",
+    "first_seen": "2026-10-29T00:29:28.723759+00:00",
+    "published": "2026-10-28T19:15:07+00:00"
+  },
+  "https://replit.com/blog/vibench-2-long-horizon-software-benchmark": {
+    "title": "ViBench 2.0: A Benchmark for Long-Horizon Software Building",
+    "source": "Replit Blog",
+    "first_seen": "2026-10-29T00:29:28.723759+00:00",
+    "published": "2026-10-28T18:50:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/architecture/how-revinate-accelerated-api-adoption-with-amazon-api-gateway": {
+    "title": "How Revinate accelerated API adoption with Amazon API Gateway",
+    "source": "AWS Architecture Blog",
+    "first_seen": "2026-10-29T00:29:28.723759+00:00",
+    "published": "2026-10-28T18:32:34+00:00"
+  },
+  "https://opentelemetry.io/blog/2026/filelog-protobuf-checkpoints": {
+    "title": "Faster, smaller checkpoints: the File Log receiver now uses protobuf",
+    "source": "OpenTelemetry Blog",
+    "first_seen": "2026-10-29T00:29:28.723759+00:00",
+    "published": "2026-10-28T18:28:33+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/building-an-agentic-ai-platform-on-amazon-bedrock-agentcore": {
+    "title": "Building an Agentic AI Platform on Amazon Bedrock AgentCore",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-10-29T00:29:28.723759+00:00",
+    "published": "2026-10-28T18:28:26+00:00"
+  },
+  "https://aws.amazon.com/blogs/architecture/automating-agentic-ai-well-architected-reviews-with-the-aws-agentic-ai-lens": {
+    "title": "Automating agentic AI Well-Architected reviews with the AWS Agentic AI Lens",
+    "source": "AWS Architecture Blog",
+    "first_seen": "2026-10-29T00:29:28.723759+00:00",
+    "published": "2026-10-28T18:25:50+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/distributed-training-with-ray-train-dlcs-and-efa-on-eks": {
+    "title": "Distributed training with Ray Train DLCs and EFA on EKS",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-10-29T00:29:28.723759+00:00",
+    "published": "2026-10-28T18:19:54+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/accelerating-software-delivery-with-agentic-qa-automation-using-amazon-nova-act-part-3": {
+    "title": "Accelerating software delivery with agentic QA automation using Amazon Nova Act – Part 3",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-10-29T00:29:28.723759+00:00",
+    "published": "2026-10-28T18:12:13+00:00"
+  },
+  "https://www.cartesia.ai/blog/from-tokens-to-bytes-part-1": {
+    "title": "Scaling Hierarchical Networks",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-29T00:29:28.723759+00:00",
+    "published": "2026-10-28T18:07:41+00:00"
+  },
+  "https://www.databricks.com/blog/voice-agents-are-here-context-turns-them-real-customer-value": {
+    "title": "Voice Agents are here. Context turns them into real customer value.",
+    "source": "Databricks Blog",
+    "first_seen": "2026-10-29T00:29:28.723759+00:00",
+    "published": "2026-10-28T18:00:00+00:00"
+  },
+  "https://www.quantamagazine.org/how-spiders-spin-silk-dope-into-natures-toughest-material-20261028": {
+    "title": "Spiders Spin 'Silk Dope' into Nature's Toughest Material",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-29T00:29:28.723759+00:00",
+    "published": "2026-10-28T17:45:24+00:00"
+  },
+  "https://pytorch.org/blog/pytorch-2-15-release-blog": {
+    "title": "PyTorch 2.15 Release Blog",
+    "source": "PyTorch Blog",
+    "first_seen": "2026-10-29T00:29:28.723759+00:00",
+    "published": "2026-10-28T17:44:20+00:00"
+  },
+  "https://thenewstack.io/android-agents-build-debug": {
+    "title": "Google just handed its rivals the keys to Android",
+    "source": "The New Stack",
+    "first_seen": "2026-10-29T00:29:28.723759+00:00",
+    "published": "2026-10-28T17:43:09+00:00"
+  },
+  "https://devblogs.microsoft.com/foundry/microsoft-copilot-harness-in-foundry": {
+    "title": "Introducing the Microsoft Copilot harness in Foundry Agent Service",
+    "source": "Azure Blog",
+    "first_seen": "2026-10-29T00:29:28.723759+00:00",
+    "published": "2026-10-28T17:40:56+00:00"
+  },
+  "https://www.phoronix.com/news/System76-Thelio-Prime-Mini-PC": {
+    "title": "System76 Introducing AMD-Powered Linux Small PC",
+    "source": "Phoronix",
+    "first_seen": "2026-10-29T00:29:28.723759+00:00",
+    "published": "2026-10-28T17:32:46+00:00"
+  },
+  "https://nullpt.rs/fingerprinting-bioweapons": {
+    "title": "Why is this fingerprinting script creating bioweapons?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-29T00:29:28.723759+00:00",
+    "published": "2026-10-28T17:13:29+00:00"
+  },
+  "https://www.apple.com/macbook-pro/proled-xdr-display": {
+    "title": "MacBook Pro with PROLED XDR Display and Touch",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-29T00:29:28.723759+00:00",
+    "published": "2026-10-28T17:10:37+00:00"
+  },
+  "https://slidebyside.com": {
+    "title": "Show HN: SlideBySide – Present slides without sharing your screen",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-29T00:29:28.723759+00:00",
+    "published": "2026-10-28T17:07:09+00:00"
+  },
+  "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon": {
+    "title": "Gemini 4 Carbon",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-29T00:29:28.723759+00:00",
+    "published": "2026-10-28T17:01:23+00:00"
+  },
+  "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model": {
+    "title": "Gemini 4 Carbon: Our next frontier model",
+    "source": "DeepMind Blog",
+    "first_seen": "2026-10-29T00:29:28.723759+00:00",
+    "published": "2026-10-28T17:00:58+00:00"
+  },
+  "https://blogs.microsoft.com/blog/2026/10/28/introducing-the-microsoft-copilot-harness-unlocking-the-potential-of-truly-multi-model-agentic-work": {
+    "title": "Introducing the Microsoft Copilot harness: Unlocking the potential of truly multi-model agentic work",
+    "source": "Microsoft Blog",
+    "first_seen": "2026-10-29T00:29:28.723759+00:00",
+    "published": "2026-10-28T16:51:35+00:00"
+  },
+  "https://simonwillison.net/2026/Oct/28/github-octoverse-2026": {
+    "title": "GitHub Octoverse 2026",
+    "source": "Simon Willison",
+    "first_seen": "2026-10-29T00:29:28.723759+00:00",
+    "published": "2026-10-28T16:45:23+00:00"
+  },
+  "https://thenewstack.io/github-copilot-fusion": {
+    "title": "GitHub debuts Copilot Fusion, a new model selection & orchestration system that beats Claude Code for half the API cost",
+    "source": "The New Stack",
+    "first_seen": "2026-10-29T00:29:28.723759+00:00",
+    "published": "2026-10-28T16:19:31+00:00"
+  },
+  "https://thenewstack.io/github-7-4b-commits-september": {
+    "title": "GitHub saw 7.4B commits in September, adding 4M CPU cores and 160 PB of storage to keep up",
+    "source": "The New Stack",
+    "first_seen": "2026-10-29T00:29:28.723759+00:00",
+    "published": "2026-10-28T16:10:00+00:00"
+  },
+  "https://github.blog/news-insights/company-news/github-universe-2026-evolving-every-layer-of-the-stack": {
+    "title": "GitHub Universe 2026: Evolving every layer of the stack",
+    "source": "GitHub Blog",
+    "first_seen": "2026-10-29T00:29:28.723759+00:00",
+    "published": "2026-10-28T16:09:28+00:00"
+  },
+  "https://grafana.com/blog/evaluate-ai-models-for-observability-o11y-bench-joins-fireworks-specialized-intelligence-index-and-reaches-v1-1": {
+    "title": "Evaluate AI models for observability: o11y-bench joins Fireworks' Specialized Intelligence Index and reaches v1.1",
+    "source": "Grafana Blog",
+    "first_seen": "2026-10-29T00:29:28.723759+00:00",
+    "published": "2026-10-28T16:08:24+00:00"
+  },
+  "https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents": {
+    "title": "Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents",
+    "source": "GitHub Blog",
+    "first_seen": "2026-10-29T00:29:28.723759+00:00",
+    "published": "2026-10-28T16:07:40+00:00"
+  },
+  "https://engineering.fb.com/2026/10/28/ml-applications/meta-andromeda-next-gen-ads-retrieval-gpu-co-design": {
+    "title": "Meta Andromeda: Powering the Next Generation of Ads Retrieval Through Model-System Co-Design",
+    "source": "Meta Engineering",
+    "first_seen": "2026-10-29T00:29:28.723759+00:00",
+    "published": "2026-10-28T16:00:01+00:00"
+  },
+  "https://replit.com/blog/architecture-behind-secure-agent-work": {
+    "title": "Replit’s Architecture Behind Secure Agent Work",
+    "source": "Replit Blog",
+    "first_seen": "2026-10-29T00:29:28.723759+00:00",
+    "published": "2026-10-28T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/topics/developers-practitioners/behind-the-scenes-two-months-later-how-we-ship-google-agent-skills-like-products": {
+    "title": "Behind the scenes, two months later: How we ship Google Agent Skills like products",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-10-29T00:29:28.723759+00:00",
+    "published": "2026-10-28T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/networking/gke-networking-dataplane-for-large-agentic-ai-workloads": {
+    "title": "How GKE networking scales to support high densities of concurrent AI agents",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-10-29T00:29:28.723759+00:00",
+    "published": "2026-10-28T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/databases/cloud-sql-blue-green-deployments": {
+    "title": "Near-zero downtime upgrades: Announcing Cloud SQL for MySQL blue-green deployments",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-10-29T00:29:28.723759+00:00",
+    "published": "2026-10-28T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/databases/alloydb-omni-delivers-a-web-ui-for-cluster-observability": {
+    "title": "Introducing the AlloyDB Omni web UI for easier cluster observability",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-10-29T00:29:28.723759+00:00",
+    "published": "2026-10-28T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/containers-kubernetes/using-vpc-flow-logs-to-troubleshoot-gke-workloads": {
+    "title": "How to troubleshoot GKE workloads faster with VPC Flow Logs",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-10-29T00:29:28.723759+00:00",
+    "published": "2026-10-28T16:00:00+00:00"
+  },
+  "https://surgehq.ai/blog/dayjob-tax": {
+    "title": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-29T00:29:28.723759+00:00",
+    "published": "2026-10-28T15:46:30+00:00"
+  },
+  "https://www.reddit.com/r/Seattle/comments/1xhf6qp/archivetoday_links_going_forward": {
+    "title": "Archive.today links going forward",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-29T00:29:28.723759+00:00",
+    "published": "2026-10-28T15:31:58+00:00"
+  },
+  "https://blog.bytebytego.com/p/how-uber-built-a-gateway-for-ai-agents": {
+    "title": "How Uber Built A Gateway For AI Agents To Access Tools",
+    "source": "ByteByteGo",
+    "first_seen": "2026-10-29T00:29:28.723759+00:00",
+    "published": "2026-10-28T15:31:05+00:00"
+  },
+  "https://cloud.google.com/blog/products/chrome-enterprise/step-in-to-a-new-dimension-with-xreal-aura-a-first-of-its-kind-wired-xr-glasses": {
+    "title": "Step into a new dimension with XREAL AURA, the first-of-its-kind wired XR glasses",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-10-29T00:29:28.723759+00:00",
+    "published": "2026-10-28T14:41:00+00:00"
+  },
+  "https://cursor.com/blog/agent-sdk": {
+    "title": "The Agent SDK",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-29T00:29:28.723759+00:00",
+    "published": "2026-10-28T14:02:20+00:00"
+  },
+  "https://openai.com/index/openai-servicenow-partnership-expansion": {
+    "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-10-29T00:29:28.723759+00:00",
+    "published": "2026-10-28T13:15:00+00:00"
+  },
+  "https://openai.com/index/the-future-of-the-firm": {
+    "title": "The future of the firm",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-10-29T00:29:28.723759+00:00",
+    "published": "2026-10-28T10:00:00+00:00"
+  },
+  "https://openai.com/index/legora": {
+    "title": "Legora is building the agentic operating system for legal work",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-10-29T00:29:28.723759+00:00",
+    "published": "2026-10-28T09:30:00+00:00"
+  },
+  "https://blog.sentry.io/agent-tracing-use-cases": {
+    "title": "Five things you can do with Sentry’s Agent Tracing",
+    "source": "Sentry Blog",
+    "first_seen": "2026-10-29T00:29:28.723759+00:00",
+    "published": "2026-10-28T09:00:00+00:00"
+  },
+  "https://nuxt.com/blog/devtools-v4": {
+    "title": "Nuxt DevTools v4",
+    "source": "Nuxt Blog",
+    "first_seen": "2026-10-29T00:29:28.723759+00:00",
+    "published": "2026-10-28T00:00:00+00:00"
   }
 }
