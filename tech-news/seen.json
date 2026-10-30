@@ -115958,5 +115958,221 @@
     "source": "Sentry Blog",
     "first_seen": "2026-10-30T00:29:00.040192+00:00",
     "published": "2026-10-29T00:00:00+00:00"
+  },
+  "https://lwn.net/Articles/1101647": {
+    "title": "[$] System-call wrappers for glibc",
+    "source": "LWN.net",
+    "first_seen": "2026-10-30T15:23:51.538039+00:00",
+    "published": "2026-10-30T15:07:29+00:00"
+  },
+  "https://developer.nvidia.com/blog/how-to-check-and-configure-nvidia-gpudirect-storage-for-your-platform": {
+    "title": "How to Check and Configure NVIDIA GPUDirect Storage for Your Platform",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-10-30T15:23:51.538039+00:00",
+    "published": "2026-10-30T15:01:36+00:00"
+  },
+  "https://thenewstack.io/gpt-6-1-terra-vs-gpt-6-astra": {
+    "title": "GPT-6.1 Terra vs. GPT-6 Astra: One sacrifices accuracy for lower cost and higher speed at high effort",
+    "source": "The New Stack",
+    "first_seen": "2026-10-30T15:23:51.538039+00:00",
+    "published": "2026-10-30T14:59:35+00:00"
+  },
+  "https://www.medpagetoday.com/opinion/second-opinions/123553?trw=no": {
+    "title": "Medicare Will Pay $50k for Your Heart Attack. It Should Pay $100 to Prevent It",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-30T15:23:51.538039+00:00",
+    "published": "2026-10-30T14:27:44+00:00"
+  },
+  "https://blog.cloudflare.com/private-origins-public-to-private": {
+    "title": "Cloudflare services for private origins is now generally available",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-10-30T15:23:51.538039+00:00",
+    "published": "2026-10-30T14:23:43+00:00"
+  },
+  "https://twitter.com/chasmmmmmmmmmmm/status/2116062991686721968": {
+    "title": "Anthropic Cracking Down on Video Game Rewrites",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-30T15:23:51.538039+00:00",
+    "published": "2026-10-30T14:22:52+00:00"
+  },
+  "https://lwn.net/Articles/1104177": {
+    "title": "Eight more stable kernel updates",
+    "source": "LWN.net",
+    "first_seen": "2026-10-30T15:23:51.538039+00:00",
+    "published": "2026-10-30T14:22:39+00:00"
+  },
+  "https://www.tomshardware.com/tech-industry/big-tech/cisco-gives-27-year-old-engineer-unlimited-ai-tokens-to-rewrite-98-percent-of-the-companys-legacy-code-in-24-months-president-plucks-former-startup-founder-telling-him-to-go-nuts": {
+    "title": "Cisco gives engineer unlimited AI tokens to rewrite 98% of the company's code",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-30T15:23:51.538039+00:00",
+    "published": "2026-10-30T14:08:20+00:00"
+  },
+  "https://tailscale.com/blog/tailscale-at-university": {
+    "title": "I wish I had Tailscale when I was at university",
+    "source": "Tailscale Blog",
+    "first_seen": "2026-10-30T15:23:51.538039+00:00",
+    "published": "2026-10-30T14:00:00+00:00"
+  },
+  "https://realpython.com/ai-benchmark-gpt-6-1-terra": {
+    "title": "GPT-6.1 Terra Draws a Python Reading a Book",
+    "source": "Real Python",
+    "first_seen": "2026-10-30T15:23:51.538039+00:00",
+    "published": "2026-10-30T14:00:00+00:00"
+  },
+  "https://lwn.net/Articles/1104174": {
+    "title": "Security updates for Friday",
+    "source": "LWN.net",
+    "first_seen": "2026-10-30T15:23:51.538039+00:00",
+    "published": "2026-10-30T13:37:12+00:00"
+  },
+  "https://www.theatlantic.com/science/2026/10/candy-corn-bug-shellac/689213": {
+    "title": "Just Noting That Your Candy Corn Is Made of Bug Secretions",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-30T15:23:51.538039+00:00",
+    "published": "2026-10-30T13:26:43+00:00"
+  },
+  "https://psychotechnology.substack.com/p/5-meo-dmt-sometimes-cancels-the-ebbinghaus": {
+    "title": "5-MeO-DMT sometimes cancels the Ebbinghaus illusion",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-30T15:23:51.538039+00:00",
+    "published": "2026-10-30T13:20:06+00:00"
+  },
+  "https://thenewstack.io/p99-conf-database-tradeoffs": {
+    "title": "What five P99 CONF talks reveal about database trade-offs",
+    "source": "The New Stack",
+    "first_seen": "2026-10-30T15:23:51.538039+00:00",
+    "published": "2026-10-30T13:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/topics/training-certifications/new-gemini-courses-for-financial-services-and-legal-teams": {
+    "title": "New Gemini courses for financial services and legal teams",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-10-30T15:23:51.538039+00:00",
+    "published": "2026-10-30T13:00:00+00:00"
+  },
+  "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes": {
+    "title": "The $6.3B Binance Hack Was Pulled Off in Just 20 Minutes",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-30T15:23:51.538039+00:00",
+    "published": "2026-10-30T12:50:01+00:00"
+  },
+  "https://www.phoronix.com/news/NULLos": {
+    "title": "Another Week, Another Vibe Coded OS; Closed-Source In The Name Of Security",
+    "source": "Phoronix",
+    "first_seen": "2026-10-30T15:23:51.538039+00:00",
+    "published": "2026-10-30T12:23:06+00:00"
+  },
+  "https://progressives.house.gov/2026/10/reps-casar-waters-lead-democratic-resolution-opposing-a-i-bubble-bailout-for-big-tech-commit-to-protecting-american-people-instead": {
+    "title": "US Reps Lead Democratic Resolution Opposing A.I. Bubble Bailout for Big Tech",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-30T15:23:51.538039+00:00",
+    "published": "2026-10-30T12:08:00+00:00"
+  },
+  "https://realpython.com/quizzes/inheritance-composition-python": {
+    "title": "Quiz: Inheritance and Composition: A Python OOP Guide",
+    "source": "Real Python",
+    "first_seen": "2026-10-30T15:23:51.538039+00:00",
+    "published": "2026-10-30T12:00:00+00:00"
+  },
+  "https://realpython.com/podcasts/rpp/317": {
+    "title": "The Real Python Podcast – Episode #317: Demystifying Python Memory Management & Choosing a Project Layout",
+    "source": "Real Python",
+    "first_seen": "2026-10-30T15:23:51.538039+00:00",
+    "published": "2026-10-30T12:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.4-IOMMU": {
+    "title": "AMD PerfOpt Makes it Into Linux 7.4 As A Nice Performance Boost For AMD iGPUs",
+    "source": "Phoronix",
+    "first_seen": "2026-10-30T15:23:51.538039+00:00",
+    "published": "2026-10-30T10:21:54+00:00"
+  },
+  "https://www.binarysecurity.no/posts/2026/10/one-root-case": {
+    "title": "Azure's Weakest Link – Five Full Cross-Tenant Compromises",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-30T15:23:51.538039+00:00",
+    "published": "2026-10-30T10:06:15+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-Patches-Intel-macsmc": {
+    "title": "Apple Silicon Linux Driver Adapted To Help Older Intel-Powered Macs",
+    "source": "Phoronix",
+    "first_seen": "2026-10-30T15:23:51.538039+00:00",
+    "published": "2026-10-30T10:05:47+00:00"
+  },
+  "https://www.phoronix.com/news/Vulkan-1.4.367": {
+    "title": "Vulkan 1.4.367 Released With VK_KHR_maintenance12",
+    "source": "Phoronix",
+    "first_seen": "2026-10-30T15:23:51.538039+00:00",
+    "published": "2026-10-30T09:58:03+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.4-I3C": {
+    "title": "I3C Hub & HDR-DDR Support Merged For Linux 7.4",
+    "source": "Phoronix",
+    "first_seen": "2026-10-30T15:23:51.538039+00:00",
+    "published": "2026-10-30T09:50:29+00:00"
+  },
+  "https://elect.horse": {
+    "title": "elect.horse",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-30T15:23:51.538039+00:00",
+    "published": "2026-10-30T09:14:34+00:00"
+  },
+  "https://stackoverflow.blog/2026/10/30/it-s-ok-that-computers-are-sometimes-better-than-us": {
+    "title": "It’s ok that computers are (sometimes) better than us",
+    "source": "Stack Overflow Blog",
+    "first_seen": "2026-10-30T15:23:51.538039+00:00",
+    "published": "2026-10-30T07:40:00+00:00"
+  },
+  "https://phorion.io/blog/offical-claude-code-vsx-compromise": {
+    "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-30T15:23:51.538039+00:00",
+    "published": "2026-10-30T07:09:12+00:00"
+  },
+  "https://www.workatastartup.com/jobs/98722": {
+    "title": "Wasmer (YC S19) Is Hiring OS/Hypervisor Experts in Europe",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-30T15:23:51.538039+00:00",
+    "published": "2026-10-30T07:00:35+00:00"
+  },
+  "https://www.cncf.io/blog/2026/10/29/kubecon-cloudnativecon-na-2026-end-user-tab-recommendations-and-tips": {
+    "title": "KubeCon + CloudNativeCon NA 2026: End User TAB recommendations and tips",
+    "source": "CNCF Blog",
+    "first_seen": "2026-10-30T15:23:51.538039+00:00",
+    "published": "2026-10-30T00:43:04+00:00"
+  },
+  "https://github.com/herdrdev/herdr-app": {
+    "title": "Herdr has released native app",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-30T15:23:51.538039+00:00",
+    "published": "2026-10-30T00:42:41+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.4-RISC-V": {
+    "title": "RISC-V Has A Nice Portable Performance Optimization With Linux 7.4",
+    "source": "Phoronix",
+    "first_seen": "2026-10-30T15:23:51.538039+00:00",
+    "published": "2026-10-30T00:36:39+00:00"
+  },
+  "https://cormacmccarthy.lib.utk.edu": {
+    "title": "Cormac McCarthy's Library",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-30T15:23:51.538039+00:00",
+    "published": "2026-10-30T00:31:00+00:00"
+  },
+  "https://golangweekly.com/issues/622": {
+    "title": "Wails 3 arrives after nearly four years",
+    "source": "Golang Weekly",
+    "first_seen": "2026-10-30T15:23:51.538039+00:00",
+    "published": "2026-10-30T00:00:00+00:00"
+  },
+  "https://adcochrane.wordpress.com/2026/10/29/lighthouses-war-and-a-puffling-the-isle-of-may": {
+    "title": "Lighthouses, War and a Puffling",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-30T15:23:51.538039+00:00",
+    "published": "2026-10-29T22:11:08+00:00"
+  },
+  "https://azure.microsoft.com/en-us/blog/azure-cloud-hsm-hardware-audit-logging-verifiable-audit-trails-for-security-and-compliance": {
+    "title": "Azure Cloud HSM Hardware Audit Logging: Verifiable audit trails for security and compliance",
+    "source": "Azure Blog",
+    "first_seen": "2026-10-30T15:23:51.538039+00:00",
+    "published": "2026-10-29T16:00:00+00:00"
   }
 }
