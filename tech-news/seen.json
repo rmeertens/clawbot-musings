@@ -115634,5 +115634,329 @@
     "source": "Stack Overflow Blog",
     "first_seen": "2026-10-29T15:41:16.039690+00:00",
     "published": "2026-10-28T19:27:07+00:00"
+  },
+  "https://github.com/mottopanikeiku/doomformer": {
+    "title": "Show HN: I Turned DOOM into a Transformer",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-30T00:29:00.040192+00:00",
+    "published": "2026-10-29T23:25:46+00:00"
+  },
+  "https://simonwillison.net/2026/Oct/29/api-credits": {
+    "title": "API credits benefit for eligible ChatGPT subscriptions",
+    "source": "Simon Willison",
+    "first_seen": "2026-10-30T00:29:00.040192+00:00",
+    "published": "2026-10-29T22:48:29+00:00"
+  },
+  "https://www.databricks.com/blog/announcing-general-availability-real-time-mode-spark-declarative-pipelines-databricks": {
+    "title": "Announcing General Availability of Real-Time Mode for Spark Declarative Pipelines on Databricks",
+    "source": "Databricks Blog",
+    "first_seen": "2026-10-30T00:29:00.040192+00:00",
+    "published": "2026-10-29T22:30:04+00:00"
+  },
+  "https://stackoverflow.blog/2026/10/29/the-reports-of-stack-overflow-s-death-are-greatly-exaggerated": {
+    "title": "The reports of Stack Overflow's death are greatly exaggerated",
+    "source": "Stack Overflow Blog",
+    "first_seen": "2026-10-30T00:29:00.040192+00:00",
+    "published": "2026-10-29T22:30:00+00:00"
+  },
+  "https://journal.animationstudies.org/article/id/66": {
+    "title": "A Pig, the State, and War: Porco Rosso (Kurenai No Buta) (2014)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-30T00:29:00.040192+00:00",
+    "published": "2026-10-29T22:26:38+00:00"
+  },
+  "https://thenewstack.io/openai-token-pricing-reversal": {
+    "title": "Sam Altman almost scrapped token pricing. Here’s why he backed off.",
+    "source": "The New Stack",
+    "first_seen": "2026-10-30T00:29:00.040192+00:00",
+    "published": "2026-10-29T22:19:18+00:00"
+  },
+  "https://claremontreviewofbooks.com/the-great-american-rascal": {
+    "title": "The Great American Rascal: Tom Sawyer at 150",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-30T00:29:00.040192+00:00",
+    "published": "2026-10-29T22:14:23+00:00"
+  },
+  "https://www.phoronix.com/news/Fedora-45-Ships-Next-Week": {
+    "title": "Fedora Linux 45 Shipping Next Week On 3 November",
+    "source": "Phoronix",
+    "first_seen": "2026-10-30T00:29:00.040192+00:00",
+    "published": "2026-10-29T22:00:54+00:00"
+  },
+  "https://thenewstack.io/ai-agents-compiler-guardrails": {
+    "title": "AWS’s Hydro team wants the compiler to catch coding agents’ mistakes",
+    "source": "The New Stack",
+    "first_seen": "2026-10-30T00:29:00.040192+00:00",
+    "published": "2026-10-29T21:53:05+00:00"
+  },
+  "https://convo.casa/@b/117525936178835007": {
+    "title": "Proton goes all in on using AI",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-30T00:29:00.040192+00:00",
+    "published": "2026-10-29T21:49:28+00:00"
+  },
+  "https://gizmodo.com/el-nino-is-already-flooding-californias-coasts-and-the-years-highest-tides-havent-arrived-2000832574": {
+    "title": "El Niño Is Flooding California's Coasts with the Highest Tides to Come",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-30T00:29:00.040192+00:00",
+    "published": "2026-10-29T21:48:35+00:00"
+  },
+  "https://labs.ycombinator.com/projects/games/index.html": {
+    "title": "We ran AI agent swarms in Minecraft and Mindustry",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-30T00:29:00.040192+00:00",
+    "published": "2026-10-29T21:40:28+00:00"
+  },
+  "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8": {
+    "title": "Binance-hacker-1029 – $5.6B stolen from Binance",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-30T00:29:00.040192+00:00",
+    "published": "2026-10-29T21:38:59+00:00"
+  },
+  "https://projects.freehackers.org/sylphide-os": {
+    "title": "Sylphide OS: a general-purpose OS for microcontroller-based computers",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-30T00:29:00.040192+00:00",
+    "published": "2026-10-29T20:59:55+00:00"
+  },
+  "https://elementary.codes": {
+    "title": "ElementaryUI – Swift, in the Browser",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-30T00:29:00.040192+00:00",
+    "published": "2026-10-29T20:56:39+00:00"
+  },
+  "https://thenewstack.io/microsoft-copilot-harness-foundry": {
+    "title": "Microsoft’s new Copilot harness makes agents easy — until you want to switch",
+    "source": "The New Stack",
+    "first_seen": "2026-10-30T00:29:00.040192+00:00",
+    "published": "2026-10-29T20:54:15+00:00"
+  },
+  "https://github.com/SheepSeb/tinyworldformer": {
+    "title": "A tiny world model running games on a Raspberry Pi Pico 2 W",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-30T00:29:00.040192+00:00",
+    "published": "2026-10-29T20:32:28+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/how-the-uk-amazon-quick-user-group-grew-in-2026": {
+    "title": "How the UK Amazon Quick User Group grew in 2026",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-10-30T00:29:00.040192+00:00",
+    "published": "2026-10-29T20:16:40+00:00"
+  },
+  "https://aws.amazon.com/blogs/architecture/how-bmw-group-accelerated-connected-vehicle-workloads-on-aws-graviton": {
+    "title": "How BMW Group accelerated connected vehicle workloads on AWS Graviton",
+    "source": "AWS Architecture Blog",
+    "first_seen": "2026-10-30T00:29:00.040192+00:00",
+    "published": "2026-10-29T20:11:14+00:00"
+  },
+  "https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html": {
+    "title": "Patrick Stewart has died",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-30T00:29:00.040192+00:00",
+    "published": "2026-10-29T19:41:39+00:00"
+  },
+  "https://lumi.codeberg.page/blog/software-community.html": {
+    "title": "The importance of communities around software",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-30T00:29:00.040192+00:00",
+    "published": "2026-10-29T19:27:47+00:00"
+  },
+  "https://github.com/johncassil/dontallow": {
+    "title": "Show HN: Auto Dismiss Mac OS \"Allow  to find devices on local networks?\"",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-30T00:29:00.040192+00:00",
+    "published": "2026-10-29T19:27:44+00:00"
+  },
+  "https://divergencelabs.com/publications/ige-preprint.pdf": {
+    "title": "IgE disruptor for food allergy with Claude-enabled antibody design [pdf]",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-30T00:29:00.040192+00:00",
+    "published": "2026-10-29T19:25:48+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/optimizing-apache-hbase-availability-on-amazon-emr-part-1-coordinator-startup-regionserver-recovery-and-regions-in-transition": {
+    "title": "Optimizing Apache HBase availability on Amazon EMR, Part 1: Coordinator startup, RegionServer recovery, and regions in transition",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-10-30T00:29:00.040192+00:00",
+    "published": "2026-10-29T18:25:48+00:00"
+  },
+  "https://aws.amazon.com/blogs/compute/unlocking-full-stack-observability-for-aws-outposts": {
+    "title": "Unlocking full-stack observability for AWS Outposts",
+    "source": "AWS Compute Blog",
+    "first_seen": "2026-10-30T00:29:00.040192+00:00",
+    "published": "2026-10-29T18:23:18+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/building-intent-driven-ui-testing-with-amazon-nova-act": {
+    "title": "Building intent-driven UI testing with Amazon Nova Act",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-10-30T00:29:00.040192+00:00",
+    "published": "2026-10-29T18:20:27+00:00"
+  },
+  "https://aws.amazon.com/blogs/architecture/how-boat-delivers-personalized-fitness-coaching-with-amazon-bedrock": {
+    "title": "How boAt delivers personalized fitness coaching with Amazon Bedrock",
+    "source": "AWS Architecture Blog",
+    "first_seen": "2026-10-30T00:29:00.040192+00:00",
+    "published": "2026-10-29T18:16:38+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/build-a-repeatable-php-to-java-migration-engine-with-kiro": {
+    "title": "Build a repeatable PHP-to-Java migration engine with Kiro",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-10-30T00:29:00.040192+00:00",
+    "published": "2026-10-29T18:14:17+00:00"
+  },
+  "https://www.cncf.io/blog/2026/10/29/the-boundary-problem-in-agentic-ai-is-a-platform-problem": {
+    "title": "The boundary problem in agentic AI is a platform problem",
+    "source": "CNCF Blog",
+    "first_seen": "2026-10-30T00:29:00.040192+00:00",
+    "published": "2026-10-29T18:11:50+00:00"
+  },
+  "https://nypost.com/2026/10/29/business/alleged-chinese-spy-had-close-relationship-with-nvidia-boss-jensen-huang-report": {
+    "title": "Alleged Chinese spy had 'close relationship' with Nvidia boss Jensen Huang",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-30T00:29:00.040192+00:00",
+    "published": "2026-10-29T17:43:48+00:00"
+  },
+  "https://fig.blue/posts/duet-is-the-future": {
+    "title": "Claude Duet is the first personal-assistant-type harness that feels useful",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-30T00:29:00.040192+00:00",
+    "published": "2026-10-29T17:24:25+00:00"
+  },
+  "https://simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-the-world": {
+    "title": "Building a multiplayer game world with autonomous Fable-class models",
+    "source": "Simon Willison",
+    "first_seen": "2026-10-30T00:29:00.040192+00:00",
+    "published": "2026-10-29T17:00:26+00:00"
+  },
+  "https://openai.com/index/updated-model-spec": {
+    "title": "An updated Model Spec for more capable and beneficial AI",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-10-30T00:29:00.040192+00:00",
+    "published": "2026-10-29T17:00:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/lend-and-borrow-resources-across-teams-with-aws-batchs-quota-management-for-sagemaker-training-jobs": {
+    "title": "Lend and borrow resources across teams with AWS Batch’s quota management for SageMaker Training jobs",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-10-30T00:29:00.040192+00:00",
+    "published": "2026-10-29T16:58:57+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/how-moengage-turned-over-400-apis-into-agent-tools-with-agentcore-gateway": {
+    "title": "How MoEngage turned over 400 APIs into agent tools with AgentCore Gateway",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-10-30T00:29:00.040192+00:00",
+    "published": "2026-10-29T16:54:52+00:00"
+  },
+  "https://www.phoronix.com/news/F2FS-Linux-7.4": {
+    "title": "F2FS Adds Opt-In Multi-Grain Timestamps With Linux 7.4, Other Improvements",
+    "source": "Phoronix",
+    "first_seen": "2026-10-30T00:29:00.040192+00:00",
+    "published": "2026-10-29T16:52:52+00:00"
+  },
+  "https://opentelemetry.io/blog/2026/gc-elections-results": {
+    "title": "Announcing the 2026 Governance Committee Election Results",
+    "source": "OpenTelemetry Blog",
+    "first_seen": "2026-10-30T00:29:00.040192+00:00",
+    "published": "2026-10-29T16:31:20+00:00"
+  },
+  "https://16colo.rs": {
+    "title": "16colo.rs – ANSI/ASCII art archive",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-30T00:29:00.040192+00:00",
+    "published": "2026-10-29T16:14:28+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/accelerate-agentic-ai-with-nvidia-nemotron-models-on-amazon-eks-and-sagemaker-hyperpod-eks": {
+    "title": "Accelerate agentic AI with NVIDIA Nemotron models on Amazon EKS and SageMaker HyperPod EKS",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-10-30T00:29:00.040192+00:00",
+    "published": "2026-10-29T16:11:08+00:00"
+  },
+  "https://engineering.fb.com/2026/10/29/security/catching-bugs-before-they-land-jittestings-human-on-the-loop-approach-at-full-scale": {
+    "title": "Catching Bugs Before They Land: JiTTesting’s Human-on-the-Loop Approach at Full Scale",
+    "source": "Meta Engineering",
+    "first_seen": "2026-10-30T00:29:00.040192+00:00",
+    "published": "2026-10-29T16:00:12+00:00"
+  },
+  "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-introducing-new-tier-for-google-cloud-vrp": {
+    "title": "Cloud CISO Perspectives: Introducing new $250,000 tier for Google Cloud VRP (Q&A)",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-10-30T00:29:00.040192+00:00",
+    "published": "2026-10-29T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/data-analytics/querying-databricks-iceberg-tables-with-google-clouds-lakehouse": {
+    "title": "Querying Databricks Apache Iceberg Tables with the borderless Lakehouse",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-10-30T00:29:00.040192+00:00",
+    "published": "2026-10-29T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/data-analytics/expanded-semantic-model-support-in-knowledge-catalog": {
+    "title": "Grounding agents in one context graph connecting semantic models you already trust",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-10-30T00:29:00.040192+00:00",
+    "published": "2026-10-29T16:00:00+00:00"
+  },
+  "https://news.ycombinator.com/item?id=50291116": {
+    "title": "Launch HN: Simantic (YC F26) – Firmware Simulation for AI Agents",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-30T00:29:00.040192+00:00",
+    "published": "2026-10-29T15:56:32+00:00"
+  },
+  "https://thenewstack.io/aws-mcp-agent-observability": {
+    "title": "Why MCP servers should tell agents what to do next",
+    "source": "The New Stack",
+    "first_seen": "2026-10-30T00:29:00.040192+00:00",
+    "published": "2026-10-29T15:55:39+00:00"
+  },
+  "https://sidbala.com/h-264-is-magic": {
+    "title": "H.264 Is Magic (2016)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-30T00:29:00.040192+00:00",
+    "published": "2026-10-29T15:53:03+00:00"
+  },
+  "https://www.construction-physics.com/p/a-new-kind-of-chemistry": {
+    "title": "A New Kind of Chemistry",
+    "source": "Construction Physics",
+    "first_seen": "2026-10-30T00:29:00.040192+00:00",
+    "published": "2026-10-29T15:45:10+00:00"
+  },
+  "https://skypilot.ai/blog/grace-blackwell-needs-a-new-scheduler": {
+    "title": "Grace Blackwell needs a new scheduler: 27% more usable GPUs from the same racks",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-30T00:29:00.040192+00:00",
+    "published": "2026-10-29T15:45:05+00:00"
+  },
+  "https://opentelemetry.io/blog/2026/collector-with-less-dependencies": {
+    "title": "Only include resource detectors you need by building your own Collector",
+    "source": "OpenTelemetry Blog",
+    "first_seen": "2026-10-30T00:29:00.040192+00:00",
+    "published": "2026-10-29T15:39:27+00:00"
+  },
+  "https://openai.com/index/how-we-detect-frontier-model-misalignment": {
+    "title": "How we detect frontier model misalignment",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-10-30T00:29:00.040192+00:00",
+    "published": "2026-10-29T09:00:00+00:00"
+  },
+  "https://openai.com/index/ropes-gray-ai-diligence": {
+    "title": "How Ropes & Gray is developing AI for transactional diligence",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-10-30T00:29:00.040192+00:00",
+    "published": "2026-10-29T07:00:00+00:00"
+  },
+  "https://planetscale.com/blog/designing-a-planned-switchover-for-minimum-disruption": {
+    "title": "Designing a planned switchover for minimum disruption",
+    "source": "PlanetScale Blog",
+    "first_seen": "2026-10-30T00:29:00.040192+00:00",
+    "published": "2026-10-29T00:00:00+00:00"
+  },
+  "https://matklad.github.io/2026/10/29/pub-calls-pub.html": {
+    "title": "Avoid Public Functions Calling Other Public Functions",
+    "source": "matklad",
+    "first_seen": "2026-10-30T00:29:00.040192+00:00",
+    "published": "2026-10-29T00:00:00+00:00"
+  },
+  "https://blog.sentry.io/measuring-soft-navigation-web-vitals": {
+    "title": "Measuring soft navigation web vitals",
+    "source": "Sentry Blog",
+    "first_seen": "2026-10-30T00:29:00.040192+00:00",
+    "published": "2026-10-29T00:00:00+00:00"
   }
 }
