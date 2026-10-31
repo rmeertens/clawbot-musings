@@ -116174,5 +116174,311 @@
     "source": "Azure Blog",
     "first_seen": "2026-10-30T15:23:51.538039+00:00",
     "published": "2026-10-29T16:00:00+00:00"
+  },
+  "https://tng.episodle.com": {
+    "title": "Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-31T00:12:59.088331+00:00",
+    "published": "2026-10-30T23:51:24+00:00"
+  },
+  "https://openai.com/index/fair-use-benefits-everyone": {
+    "title": "Fair Use Benefits Everyone",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-31T00:12:59.088331+00:00",
+    "published": "2026-10-30T23:33:55+00:00"
+  },
+  "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says": {
+    "title": "Anthropic to receive high 'junk' rating from credit agencies following IPO",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-31T00:12:59.088331+00:00",
+    "published": "2026-10-30T23:08:12+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/managing-amazon-bedrock-costs-end-to-end-a-playbook-for-finops-and-platform-teams": {
+    "title": "Managing Amazon Bedrock costs end to end: A playbook for FinOps and platform teams",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-10-31T00:12:59.088331+00:00",
+    "published": "2026-10-30T22:42:24+00:00"
+  },
+  "https://www.resetera.com/threads/france-is-getting-download-tax-for-content-providers-%E2%82%AC0-055-gb-for-data-delivered-to-french-users.1675109": {
+    "title": "France is getting download tax for content providers (€0.055/GB)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-31T00:12:59.088331+00:00",
+    "published": "2026-10-30T22:10:12+00:00"
+  },
+  "https://simonwillison.net/2026/Oct/30/nesformer": {
+    "title": "dbreunig/nesformer",
+    "source": "Simon Willison",
+    "first_seen": "2026-10-31T00:12:59.088331+00:00",
+    "published": "2026-10-30T21:59:22+00:00"
+  },
+  "https://status.linode.com/incidents/nt58zhx3pmgm": {
+    "title": "Linode Security Incident",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-31T00:12:59.088331+00:00",
+    "published": "2026-10-30T21:57:40+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/preview-web-apps-live-as-your-coding-agent-builds-them-with-amazon-bedrock-agentcore-runtime": {
+    "title": "Preview web apps live as your coding agent builds them with Amazon Bedrock AgentCore runtime",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-10-31T00:12:59.088331+00:00",
+    "published": "2026-10-30T21:40:03+00:00"
+  },
+  "https://developer.nvidia.com/blog/build-a-validated-kubernetes-runtime-for-nvidia-dynamo": {
+    "title": "Build a Validated Kubernetes Runtime for NVIDIA Dynamo",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-10-31T00:12:59.088331+00:00",
+    "published": "2026-10-30T21:35:31+00:00"
+  },
+  "https://www.firezone.dev/blog/introducing-sanstun": {
+    "title": "sanstun: A sans-IO, parallel-friendly WireGuard implementation in Rust",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-31T00:12:59.088331+00:00",
+    "published": "2026-10-30T21:30:00+00:00"
+  },
+  "https://www.otwstatus.org": {
+    "title": "AO3 Down for Maintenance",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-31T00:12:59.088331+00:00",
+    "published": "2026-10-30T21:17:23+00:00"
+  },
+  "https://www.databricks.com/blog/databricks-and-sap-unleash-end-end-data-ai-capabilities-level-enterprise-ai-transformation": {
+    "title": "Databricks and SAP unleash end-to-end data & AI capabilities to level up enterprise AI transformation",
+    "source": "Databricks Blog",
+    "first_seen": "2026-10-31T00:12:59.088331+00:00",
+    "published": "2026-10-30T21:00:00+00:00"
+  },
+  "https://developer.nvidia.com/blog/run-ai-models-for-edge-application-development-with-just-a-few-commands": {
+    "title": "Run AI Models for Edge Application Development with Just a Few Commands",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-10-31T00:12:59.088331+00:00",
+    "published": "2026-10-30T20:33:18+00:00"
+  },
+  "https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation": {
+    "title": "Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-31T00:12:59.088331+00:00",
+    "published": "2026-10-30T20:23:30+00:00"
+  },
+  "https://thenewstack.io/claude-ultra-session-limit": {
+    "title": "Anthropic just removed one of Claude’s biggest usage limits — but not for everyone",
+    "source": "The New Stack",
+    "first_seen": "2026-10-31T00:12:59.088331+00:00",
+    "published": "2026-10-30T20:14:04+00:00"
+  },
+  "https://thenewstack.io/ai-inference-kubernetes-observability": {
+    "title": "Busy GPUs can hide slow AI inference on Kubernetes",
+    "source": "The New Stack",
+    "first_seen": "2026-10-31T00:12:59.088331+00:00",
+    "published": "2026-10-30T19:56:41+00:00"
+  },
+  "https://blue-continuum.com/verne-paris": {
+    "title": "Jules Verne's Lost Novel",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-31T00:12:59.088331+00:00",
+    "published": "2026-10-30T19:55:10+00:00"
+  },
+  "https://www.sciencenorway.no/archaeology-climate-culture/the-oldest-ice-is-disappearing-the-stone-age-is-emerging-from-the-melting-ice/2713921": {
+    "title": "The oldest ice disappears and the Stone Age emerges from it",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-31T00:12:59.088331+00:00",
+    "published": "2026-10-30T19:51:33+00:00"
+  },
+  "https://www.databricks.com/blog/wealth-management-client-onboarding-needs-more-ai": {
+    "title": "Wealth Management Client Onboarding Needs More Than AI",
+    "source": "Databricks Blog",
+    "first_seen": "2026-10-31T00:12:59.088331+00:00",
+    "published": "2026-10-30T19:40:00+00:00"
+  },
+  "https://thenewstack.io/we-are-developers-tech-predictions": {
+    "title": "What worries Entire co-founder Thomas Dohmke about the future of tech?",
+    "source": "The New Stack",
+    "first_seen": "2026-10-31T00:12:59.088331+00:00",
+    "published": "2026-10-30T19:37:46+00:00"
+  },
+  "https://blog.persistent.info/2026/10/infinite-mac-beos.html": {
+    "title": "Infinite Mac: BeOS",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-31T00:12:59.088331+00:00",
+    "published": "2026-10-30T19:30:09+00:00"
+  },
+  "https://www.databricks.com/blog/deliberate-decisions-and-enterprise-ai-value": {
+    "title": "Deliberate decisions and enterprise AI value",
+    "source": "Databricks Blog",
+    "first_seen": "2026-10-31T00:12:59.088331+00:00",
+    "published": "2026-10-30T19:30:00+00:00"
+  },
+  "https://www.newyorker.com/magazine/2026/11/02/a-pickpockets-guide-to-new-york": {
+    "title": "A Pickpocket's Guide to New York",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-31T00:12:59.088331+00:00",
+    "published": "2026-10-30T19:26:39+00:00"
+  },
+  "https://status.bunny.net/incidents/p6gf1by9kr7m": {
+    "title": "Bunny CDN Security Incident",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-31T00:12:59.088331+00:00",
+    "published": "2026-10-30T19:05:22+00:00"
+  },
+  "https://www.phoronix.com/news/PostgreSQL-19-Late": {
+    "title": "PostgreSQL 19 Running Behind Schedule Due To AI/LLM Burden",
+    "source": "Phoronix",
+    "first_seen": "2026-10-31T00:12:59.088331+00:00",
+    "published": "2026-10-30T18:06:06+00:00"
+  },
+  "https://huggingface.co/blog/nvidia/nemotron-halloween": {
+    "title": "nemotron-halloween",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-10-31T00:12:59.088331+00:00",
+    "published": "2026-10-30T17:57:24+00:00"
+  },
+  "https://lwn.net/Articles/1102982": {
+    "title": "[$] Removing binder.c",
+    "source": "LWN.net",
+    "first_seen": "2026-10-31T00:12:59.088331+00:00",
+    "published": "2026-10-30T17:46:46+00:00"
+  },
+  "https://blog.cloudflare.com/emudhra-patching": {
+    "title": "4 real? Tracking exploitation and patching of eMudhra’s weak keys",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-10-31T00:12:59.088331+00:00",
+    "published": "2026-10-30T17:38:50+00:00"
+  },
+  "https://www.phoronix.com/news/Ubuntu-27.04-Opens-For-Dev": {
+    "title": "Ubuntu 27.04 \"Tenacious T-Rex\" Opens For Development",
+    "source": "Phoronix",
+    "first_seen": "2026-10-31T00:12:59.088331+00:00",
+    "published": "2026-10-30T17:32:48+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/how-worldwide-express-automated-freight-exceptions-with-amazon-bedrock": {
+    "title": "How Worldwide Express automated freight exceptions with Amazon Bedrock",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-10-31T00:12:59.088331+00:00",
+    "published": "2026-10-30T17:32:20+00:00"
+  },
+  "https://thenewstack.io/kubernetes-workload-conformance-ai": {
+    "title": "Kubernetes just formed a workload conformance group. Here’s why it matters for AI teams.",
+    "source": "The New Stack",
+    "first_seen": "2026-10-31T00:12:59.088331+00:00",
+    "published": "2026-10-30T17:29:11+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/configure-the-chatgpt-desktop-app-with-amazon-bedrock-in-aws-govcloud-us": {
+    "title": "Configure the ChatGPT desktop app with Amazon Bedrock in AWS GovCloud (US)",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-10-31T00:12:59.088331+00:00",
+    "published": "2026-10-30T17:27:45+00:00"
+  },
+  "https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii": {
+    "title": "My favourite PowerMac is a Nintendo Wii",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-31T00:12:59.088331+00:00",
+    "published": "2026-10-30T17:25:15+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/implement-least-privilege-access-with-designations-in-amazon-sagemaker-unified-studio": {
+    "title": "Implement least-privilege access with designations in Amazon SageMaker Unified Studio",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-10-31T00:12:59.088331+00:00",
+    "published": "2026-10-30T17:22:32+00:00"
+  },
+  "https://lwn.net/Articles/1104210": {
+    "title": "Haas: Postgres 19 is late, and it's AI's fault",
+    "source": "LWN.net",
+    "first_seen": "2026-10-31T00:12:59.088331+00:00",
+    "published": "2026-10-30T16:52:59+00:00"
+  },
+  "https://github.com/dbreunig/nesformer": {
+    "title": "Show HN: A working Nintendo in ~1GB of Qwen weights",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-31T00:12:59.088331+00:00",
+    "published": "2026-10-30T16:40:22+00:00"
+  },
+  "https://newsletter.pragmaticengineer.com/p/the-pulse-anthropic-kills-the-coding": {
+    "title": "The Pulse: Anthropic kills the coding interview",
+    "source": "The Pragmatic Engineer",
+    "first_seen": "2026-10-31T00:12:59.088331+00:00",
+    "published": "2026-10-30T16:37:51+00:00"
+  },
+  "https://developer.nvidia.com/blog/build-specialized-agents-on-a-stack-you-control-with-nvidia-nemoclaw": {
+    "title": "Build Specialized Agents on a Stack You Control with NVIDIA NemoClaw",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-10-31T00:12:59.088331+00:00",
+    "published": "2026-10-30T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/topics/cost-management/google-cloud-spend-caps-now-generally-available": {
+    "title": "Innovate on your own business terms: Google Cloud spend caps now generally available",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-10-31T00:12:59.088331+00:00",
+    "published": "2026-10-30T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/networking/the-three-layer-gke-network-mystery": {
+    "title": "When the Kubernetes API went silent: A three-layer networking mystery",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-10-31T00:12:59.088331+00:00",
+    "published": "2026-10-30T16:00:00+00:00"
+  },
+  "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling": {
+    "title": "AI isn't replacing SREs, it's deskilling them",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-31T00:12:59.088331+00:00",
+    "published": "2026-10-30T15:52:18+00:00"
+  },
+  "https://github.com/kevinraymond/florilegium": {
+    "title": "Florilegium: Procedural Flowers in LaTeX",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-31T00:12:59.088331+00:00",
+    "published": "2026-10-30T15:48:12+00:00"
+  },
+  "https://lwn.net/Articles/1104192": {
+    "title": "Remote code execution on Linux systems with multipath TCP",
+    "source": "LWN.net",
+    "first_seen": "2026-10-31T00:12:59.088331+00:00",
+    "published": "2026-10-30T15:45:27+00:00"
+  },
+  "https://tangled.org/blog/forge": {
+    "title": "The federated code forge",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-31T00:12:59.088331+00:00",
+    "published": "2026-10-30T15:44:29+00:00"
+  },
+  "https://opentelemetry.io/blog/2026/obi-v1-release": {
+    "title": "OpenTelemetry eBPF Instrumentation reaches v1.0.0",
+    "source": "OpenTelemetry Blog",
+    "first_seen": "2026-10-31T00:12:59.088331+00:00",
+    "published": "2026-10-30T15:42:24+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.4-x86-Platform-Driver": {
+    "title": "AMD Ryzen Zen 6 Looks Like It Will Be In Good Shape With Linux 7.4, Laptop Improvements",
+    "source": "Phoronix",
+    "first_seen": "2026-10-31T00:12:59.088331+00:00",
+    "published": "2026-10-30T15:24:46+00:00"
+  },
+  "https://sketch.wakeshift.ai/games/q5ucru": {
+    "title": "Show HN: Sketch Stadium – watch your agent play Pictionary",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-31T00:12:59.088331+00:00",
+    "published": "2026-10-30T15:23:11+00:00"
+  },
+  "https://status.northflank.com": {
+    "title": "Northflank Breached",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-31T00:12:59.088331+00:00",
+    "published": "2026-10-30T15:10:31+00:00"
+  },
+  "https://lethain.com/adopting-verification-pattern": {
+    "title": "Self-reinforcing quality / adopting verification pattern",
+    "source": "Will Larson",
+    "first_seen": "2026-10-31T00:12:59.088331+00:00",
+    "published": "2026-10-30T12:00:00+00:00"
+  },
+  "https://openai.com/index/helping-websites-express-ai-training-preferences": {
+    "title": "Making it easier for websites to express AI training preferences",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-10-31T00:12:59.088331+00:00",
+    "published": "2026-10-30T09:30:00+00:00"
+  },
+  "https://openai.com/index/community-safety-report-and-new-protections-for-teens": {
+    "title": "Community safety report and new protections for teens",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-10-31T00:12:59.088331+00:00",
+    "published": "2026-10-30T09:00:00+00:00"
   }
 }
