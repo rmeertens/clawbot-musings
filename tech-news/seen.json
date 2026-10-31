@@ -116480,5 +116480,203 @@
     "source": "OpenAI Blog",
     "first_seen": "2026-10-31T00:12:59.088331+00:00",
     "published": "2026-10-30T09:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/Enlightenment-0.28": {
+    "title": "Enlightenment 0.28 Released With Many Improvements",
+    "source": "Phoronix",
+    "first_seen": "2026-10-31T14:52:28.030996+00:00",
+    "published": "2026-10-31T14:46:26+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-Mint-October-2026": {
+    "title": "Linux Mint Developing New Apps For Terminal & System Monitoring",
+    "source": "Phoronix",
+    "first_seen": "2026-10-31T14:52:28.030996+00:00",
+    "published": "2026-10-31T14:36:11+00:00"
+  },
+  "https://thenewstack.io/jassy-bedrock-multimodel-prediction": {
+    "title": "Amazon CEO predicts 6 to 8 AI models will be ‘good enough’ for almost everything",
+    "source": "The New Stack",
+    "first_seen": "2026-10-31T14:52:28.030996+00:00",
+    "published": "2026-10-31T14:30:00+00:00"
+  },
+  "https://lwn.net/Articles/1104262": {
+    "title": "How We Could Have Backdoored Bash (Hacktron blog)",
+    "source": "LWN.net",
+    "first_seen": "2026-10-31T14:52:28.030996+00:00",
+    "published": "2026-10-31T14:00:42+00:00"
+  },
+  "https://demo.moneypouch.app/session/new": {
+    "title": "MoneyPouch – self hosted expense tracker",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-31T14:52:28.030996+00:00",
+    "published": "2026-10-31T14:00:12+00:00"
+  },
+  "https://thenewstack.io/shielding-the-patch-gap": {
+    "title": "Shielding the patch gap: The exploit doesn’t wait for Patch Tuesday",
+    "source": "The New Stack",
+    "first_seen": "2026-10-31T14:52:28.030996+00:00",
+    "published": "2026-10-31T14:00:00+00:00"
+  },
+  "https://thenewstack.io/gpt-6-1-terra-vs-claude-opus-5-5": {
+    "title": "GPT-6.1 Terra vs. Claude Opus 5.5: Cheaper and faster in three tests at max effort",
+    "source": "The New Stack",
+    "first_seen": "2026-10-31T14:52:28.030996+00:00",
+    "published": "2026-10-31T14:00:00+00:00"
+  },
+  "https://realpython.com/ai-news-weekly-2026-10-30": {
+    "title": "OpenAI Halves the Price of Its New Everyday AI Model",
+    "source": "Real Python",
+    "first_seen": "2026-10-31T14:52:28.030996+00:00",
+    "published": "2026-10-31T14:00:00+00:00"
+  },
+  "https://www.indiatoday.in/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26": {
+    "title": "AI startup hacks Anthropic, gains access to employee details, internal messages",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-31T14:52:28.030996+00:00",
+    "published": "2026-10-31T13:25:10+00:00"
+  },
+  "https://newrepublic.com/post/217281/meta-suspend-democratic-candidate-angie-nixon-instagram-account": {
+    "title": "Why Did Meta Suspend a US Senate Candidate's Instagram in the Middle of a Rally?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-31T14:52:28.030996+00:00",
+    "published": "2026-10-31T12:57:31+00:00"
+  },
+  "https://www.construction-physics.com/p/reading-list-103126": {
+    "title": "Reading List 10/31/26",
+    "source": "Construction Physics",
+    "first_seen": "2026-10-31T14:52:28.030996+00:00",
+    "published": "2026-10-31T12:34:23+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.4-Drops-Taint-Bind": {
+    "title": "New Linux 7.4 Feature For Reducing AI Noise Already Reverted Due To A \"Crazy Beast\"",
+    "source": "Phoronix",
+    "first_seen": "2026-10-31T14:52:28.030996+00:00",
+    "published": "2026-10-31T12:15:22+00:00"
+  },
+  "https://realpython.com/quizzes/socket-programming-in-python": {
+    "title": "Quiz: Socket Programming in Python",
+    "source": "Real Python",
+    "first_seen": "2026-10-31T14:52:28.030996+00:00",
+    "published": "2026-10-31T12:00:00+00:00"
+  },
+  "https://nullprogram.com/blog/2026/10/31": {
+    "title": "Prospero: A new coding harness for a more civilized age",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-31T14:52:28.030996+00:00",
+    "published": "2026-10-31T11:54:59+00:00"
+  },
+  "https://www.phoronix.com/news/KDE-Plasma-6.9-More-Performance": {
+    "title": "KDE Plasma 6.9 Lands Some New Performance Optimizations",
+    "source": "Phoronix",
+    "first_seen": "2026-10-31T14:52:28.030996+00:00",
+    "published": "2026-10-31T10:51:01+00:00"
+  },
+  "https://www.parameter.ai/labs/we-found-a-gap-at-openai": {
+    "title": "We Took over ChatGPT Accounts",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-31T14:52:28.030996+00:00",
+    "published": "2026-10-31T10:30:11+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.4-Ceph": {
+    "title": "Ceph In Linux 7.4 Adds Global Mount Option For Lazy I/O",
+    "source": "Phoronix",
+    "first_seen": "2026-10-31T14:52:28.030996+00:00",
+    "published": "2026-10-31T10:30:00+00:00"
+  },
+  "https://piefed.world/post/1503394": {
+    "title": "Molly(Signal fork) has not been updated since 3 months and is vulnerable",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-31T14:52:28.030996+00:00",
+    "published": "2026-10-31T10:23:41+00:00"
+  },
+  "https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament": {
+    "title": "Serbia just elected the world's brainiest parliament",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-31T14:52:28.030996+00:00",
+    "published": "2026-10-31T10:21:30+00:00"
+  },
+  "https://www.phoronix.com/news/GNOME-Establishes-RFC": {
+    "title": "GNOME Now Has An Established RFC Process, GNOME OS Continues Improving",
+    "source": "Phoronix",
+    "first_seen": "2026-10-31T14:52:28.030996+00:00",
+    "published": "2026-10-31T10:10:19+00:00"
+  },
+  "https://www.phoronix.com/news/DXVK-NVAPI-0.9.3": {
+    "title": "DXVK-NVAPI 0.9.3 Brings Nice Improvements For Linux Gamers On Latest NVIDIA Drivers",
+    "source": "Phoronix",
+    "first_seen": "2026-10-31T14:52:28.030996+00:00",
+    "published": "2026-10-31T10:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/CUDA-Oxide-0.3": {
+    "title": "CUDA Oxide 0.3 Vastly Improves Rust Support For NVIDIA CUDA Programming",
+    "source": "Phoronix",
+    "first_seen": "2026-10-31T14:52:28.030996+00:00",
+    "published": "2026-10-31T09:50:00+00:00"
+  },
+  "https://www.phoronix.com/news/Sculpt-OS-26.10": {
+    "title": "Sculpt OS 26.10 Released - Now Powered By Genode's Custom Microkernel",
+    "source": "Phoronix",
+    "first_seen": "2026-10-31T14:52:28.030996+00:00",
+    "published": "2026-10-31T09:37:22+00:00"
+  },
+  "https://xoranth.net/gcc-switch": {
+    "title": "Switch Lowering in GCC",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-31T14:52:28.030996+00:00",
+    "published": "2026-10-31T08:02:26+00:00"
+  },
+  "https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html": {
+    "title": "Digital Minimalism",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-31T14:52:28.030996+00:00",
+    "published": "2026-10-31T06:16:36+00:00"
+  },
+  "https://news.ycombinator.com/item?id=50312756": {
+    "title": "Tell HN: Scribd Breached",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-31T14:52:28.030996+00:00",
+    "published": "2026-10-31T02:46:36+00:00"
+  },
+  "https://www.phoronix.com/news/Wine-11.21-Released": {
+    "title": "Wine 11.21 Released With Better WoW64 OpenGL Performance",
+    "source": "Phoronix",
+    "first_seen": "2026-10-31T14:52:28.030996+00:00",
+    "published": "2026-10-31T00:29:01+00:00"
+  },
+  "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs": {
+    "title": "Cisco gives engineer unlimited AI tokens to rewrite legacy code",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-31T14:52:28.030996+00:00",
+    "published": "2026-10-30T14:08:20+00:00"
+  },
+  "https://realpython.com/python-requests": {
+    "title": "Python's Requests Library (Guide)",
+    "source": "Real Python",
+    "first_seen": "2026-10-31T14:52:28.030996+00:00",
+    "published": "2026-10-30T14:00:00+00:00"
+  },
+  "https://realpython.com/python-range": {
+    "title": "Python range(): Represent Numerical Ranges",
+    "source": "Real Python",
+    "first_seen": "2026-10-31T14:52:28.030996+00:00",
+    "published": "2026-10-30T14:00:00+00:00"
+  },
+  "https://realpython.com/python-pep8": {
+    "title": "How to Write Beautiful Python Code With PEP 8",
+    "source": "Real Python",
+    "first_seen": "2026-10-31T14:52:28.030996+00:00",
+    "published": "2026-10-30T14:00:00+00:00"
+  },
+  "https://realpython.com/python-getter-setter": {
+    "title": "Getters and Setters: Manage Attributes in Python",
+    "source": "Real Python",
+    "first_seen": "2026-10-31T14:52:28.030996+00:00",
+    "published": "2026-10-30T14:00:00+00:00"
+  },
+  "https://realpython.com/inheritance-composition-python": {
+    "title": "Inheritance and Composition: A Python OOP Guide",
+    "source": "Real Python",
+    "first_seen": "2026-10-31T14:52:28.030996+00:00",
+    "published": "2026-10-30T14:00:00+00:00"
   }
 }
