@@ -116780,5 +116780,107 @@
     "source": "Astro Blog",
     "first_seen": "2026-10-31T18:53:57.178504+00:00",
     "published": "2026-10-31T00:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/OpenShot-4.1-Released": {
+    "title": "OpenShot 4.1 Released With Auto-Optimize, CLI Automation & ARM64 Linux Builds",
+    "source": "Phoronix",
+    "first_seen": "2026-10-31T23:49:51.064861+00:00",
+    "published": "2026-10-31T23:28:50+00:00"
+  },
+  "https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts": {
+    "title": "How We Took Over ChatGPT Accounts",
+    "source": "Simon Willison",
+    "first_seen": "2026-10-31T23:49:51.064861+00:00",
+    "published": "2026-10-31T23:15:22+00:00"
+  },
+  "https://spectrum.ieee.org/early-electric-vehicles": {
+    "title": "When Electric Cars Were for Women",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-31T23:49:51.064861+00:00",
+    "published": "2026-10-31T23:08:12+00:00"
+  },
+  "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve": {
+    "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-31T23:49:51.064861+00:00",
+    "published": "2026-10-31T22:46:12+00:00"
+  },
+  "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644": {
+    "title": "An Italian Farmer Found Some Unknown Seeds in His Attic and Planted Them",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-31T23:49:51.064861+00:00",
+    "published": "2026-10-31T22:41:06+00:00"
+  },
+  "https://lwn.net/Articles/1104612": {
+    "title": "A massive pile of security updates for Saturday",
+    "source": "LWN.net",
+    "first_seen": "2026-10-31T23:49:51.064861+00:00",
+    "published": "2026-10-31T22:34:30+00:00"
+  },
+  "https://www.databricks.com/blog/lakebase-branching-cicd-lessons-100-pr-databases": {
+    "title": "Lakebase branching for CI/CD: lessons from 100 PR databases",
+    "source": "Databricks Blog",
+    "first_seen": "2026-10-31T23:49:51.064861+00:00",
+    "published": "2026-10-31T21:25:00+00:00"
+  },
+  "https://www.pgdp.net/c": {
+    "title": "Distributed Proofreaders",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-31T23:49:51.064861+00:00",
+    "published": "2026-10-31T20:56:12+00:00"
+  },
+  "https://learnfromx.com/research/anime-word-coverage-vs-lines-understood": {
+    "title": "With 86% of the words, you might understand only 38% of an anime's lines",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-31T23:49:51.064861+00:00",
+    "published": "2026-10-31T20:46:39+00:00"
+  },
+  "https://www.newyorker.com/culture/the-weekend-essay/dustin-hoffman-on-surviving-the-graduate": {
+    "title": "Surviving \"The Graduate\"",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-31T23:49:51.064861+00:00",
+    "published": "2026-10-31T20:02:06+00:00"
+  },
+  "https://karpathy.bearblog.dev/hacker-tube": {
+    "title": "HackerTube: YouTube built from videos recommended by HN",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-31T23:49:51.064861+00:00",
+    "published": "2026-10-31T19:56:53+00:00"
+  },
+  "https://twitter.com/jiahaoshao1/status/2116475922190922088": {
+    "title": "Anthropic blocks users for anything touching training larger models",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-31T23:49:51.064861+00:00",
+    "published": "2026-10-31T19:39:19+00:00"
+  },
+  "https://epoyraz.github.io/nes-contra-us": {
+    "title": "Show HN: NES Contra (1987) port (ASM –> C and then C –> WebAssembly)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-31T23:49:51.064861+00:00",
+    "published": "2026-10-31T19:18:48+00:00"
+  },
+  "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf": {
+    "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-31T23:49:51.064861+00:00",
+    "published": "2026-10-31T19:16:30+00:00"
+  },
+  "https://www.daemonology.net/blog/2026-10-31-The-Duty-of-a-Scholar.html": {
+    "title": "The Duty of a Scholar",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-31T23:49:51.064861+00:00",
+    "published": "2026-10-31T19:07:36+00:00"
+  },
+  "https://pivotlake.io/blog/its-the-memory-latency-stupid": {
+    "title": "It's the Memory Latency, Stupid",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-31T23:49:51.064861+00:00",
+    "published": "2026-10-31T18:38:16+00:00"
+  },
+  "https://github.com/kerlenton/bootgpt": {
+    "title": "Show HN: A language model that lives in a boot sector",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-10-31T23:49:51.064861+00:00",
+    "published": "2026-10-31T12:58:29+00:00"
   }
 }
