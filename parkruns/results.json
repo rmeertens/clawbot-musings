@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T10:17:55Z",
+  "generated_at": "2026-11-01T12:14:51Z",
   "count": 152,
   "results": [
     {
@@ -497,9 +497,9 @@
       "raw_name": "Squerryes Winery parkrun",
       "osm_type": "relation",
       "osm_id": 16240404,
-      "perimeter_m": 3171.0,
-      "area_m2": 174652.2,
-      "Q": 0.2183,
+      "perimeter_m": 3173.2,
+      "area_m2": 174546.1,
+      "Q": 0.2178,
       "rank": 50
     },
     {
