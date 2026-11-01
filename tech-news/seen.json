@@ -116882,5 +116882,209 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-10-31T23:49:51.064861+00:00",
     "published": "2026-10-31T12:58:29+00:00"
+  },
+  "https://lwn.net/Articles/1104629": {
+    "title": "Final release for the 7.2 stable series",
+    "source": "LWN.net",
+    "first_seen": "2026-11-01T15:31:12.939288+00:00",
+    "published": "2026-11-01T15:03:40+00:00"
+  },
+  "https://thenewstack.io/ai-code-review-invariants": {
+    "title": "A step-by-step guide for how to kill the line-by-line code review",
+    "source": "The New Stack",
+    "first_seen": "2026-11-01T15:31:12.939288+00:00",
+    "published": "2026-11-01T15:00:00+00:00"
+  },
+  "https://www.tomshardware.com/tech-industry/big-tech/police-chief-physically-unplugs-flock-cameras-after-the-company-ignores-contract-cancellation-city-takes-matters-into-its-own-hands-amid-privacy-controversies": {
+    "title": "Police chief unplugs Flock cameras after company ignores contract cancellation",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-01T15:31:12.939288+00:00",
+    "published": "2026-11-01T14:36:13+00:00"
+  },
+  "https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just": {
+    "title": "Lenovo's 'encrypted' fingerprint USB is just an unencrypted SD card in a case",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-01T15:31:12.939288+00:00",
+    "published": "2026-11-01T14:34:43+00:00"
+  },
+  "https://destiner.io/blog/post/pi-is-the-last-harness": {
+    "title": "Pi Is the Last Harness",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-01T15:31:12.939288+00:00",
+    "published": "2026-11-01T14:27:29+00:00"
+  },
+  "https://realpython.com/python-recursion": {
+    "title": "Recursion in Python: An Introduction",
+    "source": "Real Python",
+    "first_seen": "2026-11-01T15:31:12.939288+00:00",
+    "published": "2026-11-01T14:00:00+00:00"
+  },
+  "https://realpython.com/operator-function-overloading": {
+    "title": "Operator and Function Overloading in Custom Python Classes",
+    "source": "Real Python",
+    "first_seen": "2026-11-01T15:31:12.939288+00:00",
+    "published": "2026-11-01T14:00:00+00:00"
+  },
+  "https://realpython.com/documenting-python-code": {
+    "title": "Documenting Python Code: A Complete Guide",
+    "source": "Real Python",
+    "first_seen": "2026-11-01T15:31:12.939288+00:00",
+    "published": "2026-11-01T14:00:00+00:00"
+  },
+  "https://movq.de/blog/postings/2026-10-31/0/POSTING-en.html": {
+    "title": "Novellas with Groff",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-01T15:31:12.939288+00:00",
+    "published": "2026-11-01T13:51:41+00:00"
+  },
+  "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy": {
+    "title": "AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-01T15:31:12.939288+00:00",
+    "published": "2026-11-01T13:47:24+00:00"
+  },
+  "https://www.phoronix.com/news/KDE-Kwi-Terminal-Emulator": {
+    "title": "Kwi Being Developed As New KDE Terminal Emulator With 3x To 35x Performance",
+    "source": "Phoronix",
+    "first_seen": "2026-11-01T15:31:12.939288+00:00",
+    "published": "2026-11-01T13:41:39+00:00"
+  },
+  "https://arxiv.org/abs/2610.39302": {
+    "title": "Proving and Improving the Platonic Representation Hypothesis with JEPAs",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-01T15:31:12.939288+00:00",
+    "published": "2026-11-01T13:24:49+00:00"
+  },
+  "https://nssdc.gsfc.nasa.gov/planetary/lunar/moon_tree.html": {
+    "title": "The \"Moon Trees\"",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-01T15:31:12.939288+00:00",
+    "published": "2026-11-01T13:20:23+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.4-Massive-Window": {
+    "title": "The Linux 7.4 Merge Window Is Easily The Largest In Kernel History",
+    "source": "Phoronix",
+    "first_seen": "2026-11-01T15:31:12.939288+00:00",
+    "published": "2026-11-01T12:00:11+00:00"
+  },
+  "https://realpython.com/quizzes/documenting-python-code": {
+    "title": "Quiz: Documenting Python Code: A Complete Guide",
+    "source": "Real Python",
+    "first_seen": "2026-11-01T15:31:12.939288+00:00",
+    "published": "2026-11-01T12:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/OverlayFS-Many-Fixes": {
+    "title": "OverlayFS Sees Many Fixes Thanks To AI Code Review",
+    "source": "Phoronix",
+    "first_seen": "2026-11-01T15:31:12.939288+00:00",
+    "published": "2026-11-01T11:37:07+00:00"
+  },
+  "https://www.phoronix.com/news/October-2026-Highlights": {
+    "title": "AI Use In The Linux Kernel, Microsoft Defender On Linux & Other October Highlights",
+    "source": "Phoronix",
+    "first_seen": "2026-11-01T15:31:12.939288+00:00",
+    "published": "2026-11-01T10:54:04+00:00"
+  },
+  "https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/norwegian-scenic-routes/worlds-best-toilets": {
+    "title": "Restrooms along the Norwegian Scenic Routes",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-01T15:31:12.939288+00:00",
+    "published": "2026-11-01T10:47:58+00:00"
+  },
+  "https://xn--69f31l4t57c0mag4b613h.xn--7uh4898msjaso/🆆🆃🅵": {
+    "title": "Domain hacks with unusual Unicode characters (2018)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-01T15:31:12.939288+00:00",
+    "published": "2026-11-01T10:44:20+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.4-Perf-Tools": {
+    "title": "Linux's Perf Python Scripts More Robust & Faster With Linux 7.4",
+    "source": "Phoronix",
+    "first_seen": "2026-11-01T15:31:12.939288+00:00",
+    "published": "2026-11-01T10:38:55+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.4-Merge-Window": {
+    "title": "Linux 7.4 Merge Window Saw Nearly 20k Commits, Source Tree Approaching 42 Million Lines",
+    "source": "Phoronix",
+    "first_seen": "2026-11-01T15:31:12.939288+00:00",
+    "published": "2026-11-01T10:28:22+00:00"
+  },
+  "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks": {
+    "title": "The AI cost of JavaScript frameworks",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-01T15:31:12.939288+00:00",
+    "published": "2026-11-01T06:06:19+00:00"
+  },
+  "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing": {
+    "title": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-01T15:31:12.939288+00:00",
+    "published": "2026-11-01T02:19:53+00:00"
+  },
+  "https://arxiv.org/abs/2409.02292": {
+    "title": "Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM (2024)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-01T15:31:12.939288+00:00",
+    "published": "2026-11-01T01:46:29+00:00"
+  },
+  "https://www.phoronix.com/news/RAID-Drive-Replacement-Tonight": {
+    "title": "Brief Server Downtime Expected Tonight",
+    "source": "Phoronix",
+    "first_seen": "2026-11-01T15:31:12.939288+00:00",
+    "published": "2026-11-01T00:32:00+00:00"
+  },
+  "https://uvdn7.github.io/altoids-project": {
+    "title": "Altoids Project",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-01T15:31:12.939288+00:00",
+    "published": "2026-10-31T22:54:55+00:00"
+  },
+  "https://simonwillison.net/2026/Oct/31/datasette-llm": {
+    "title": "datasette-llm 0.1a9",
+    "source": "Simon Willison",
+    "first_seen": "2026-11-01T15:31:12.939288+00:00",
+    "published": "2026-10-31T22:10:01+00:00"
+  },
+  "https://fullycharged.show/podcasts/podcast-361-why-electrification-could-cut-global-energy-use-in-half": {
+    "title": "Electrification Could Cut Global Energy Use in Half",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-01T15:31:12.939288+00:00",
+    "published": "2026-10-31T19:13:34+00:00"
+  },
+  "https://realpython.com/python-zip-function": {
+    "title": "Using the Python zip() Function for Parallel Iteration",
+    "source": "Real Python",
+    "first_seen": "2026-11-01T15:31:12.939288+00:00",
+    "published": "2026-10-31T14:00:00+00:00"
+  },
+  "https://realpython.com/python-sockets": {
+    "title": "Socket Programming in Python (Guide)",
+    "source": "Real Python",
+    "first_seen": "2026-11-01T15:31:12.939288+00:00",
+    "published": "2026-10-31T14:00:00+00:00"
+  },
+  "https://realpython.com/python-random": {
+    "title": "Generating Random Data in Python (Guide)",
+    "source": "Real Python",
+    "first_seen": "2026-11-01T15:31:12.939288+00:00",
+    "published": "2026-10-31T14:00:00+00:00"
+  },
+  "https://realpython.com/python-gui-with-wxpython": {
+    "title": "How to Build a Python GUI Application With wxPython",
+    "source": "Real Python",
+    "first_seen": "2026-11-01T15:31:12.939288+00:00",
+    "published": "2026-10-31T14:00:00+00:00"
+  },
+  "https://realpython.com/oop-in-python-vs-java": {
+    "title": "Object-Oriented Programming in Python vs Java",
+    "source": "Real Python",
+    "first_seen": "2026-11-01T15:31:12.939288+00:00",
+    "published": "2026-10-31T14:00:00+00:00"
+  },
+  "https://www.nytimes.com/2026/10/28/world/americas/mexico-seaweed-navy.html": {
+    "title": "The Ocean 'Was the Color of Chocolate.' Mexico Declares War on Seaweed.",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-01T15:31:12.939288+00:00",
+    "published": "2026-10-31T13:41:18+00:00"
   }
 }
