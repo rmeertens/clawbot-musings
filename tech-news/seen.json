@@ -117200,5 +117200,425 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-11-01T23:59:43.453464+00:00",
     "published": "2026-10-31T17:29:39+00:00"
+  },
+  "https://devblogs.microsoft.com/oldnewthing/20261102-00?p=112818/": {
+    "title": "Sneaking into the auditorium for the Windows 2000 launch rehearsal",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-02T18:55:30.480715+00:00",
+    "published": "2026-11-02T18:12:48+00:00"
+  },
+  "https://aws.amazon.com/blogs/security/beyond-dkim-key-rotation-understanding-email-replay-attacks": {
+    "title": "Beyond DKIM key rotation: understanding email replay attacks",
+    "source": "AWS Security Blog",
+    "first_seen": "2026-11-02T18:55:30.480715+00:00",
+    "published": "2026-11-02T18:06:28+00:00"
+  },
+  "https://thenewstack.io/canva-brush-design-editing": {
+    "title": "Canva’s new design model doesn’t generate images. It writes code to edit them.",
+    "source": "The New Stack",
+    "first_seen": "2026-11-02T18:55:30.480715+00:00",
+    "published": "2026-11-02T18:06:26+00:00"
+  },
+  "https://developer.nvidia.com/blog/making-kubernetes-ai-ready-for-nvidia-vera-rubin-on-day-one": {
+    "title": "Making Kubernetes AI-Ready for NVIDIA Vera Rubin on Day One",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-11-02T18:55:30.480715+00:00",
+    "published": "2026-11-02T18:00:00+00:00"
+  },
+  "https://lwn.net/Articles/1102739": {
+    "title": "[$] The second part of the 7.4 merge window",
+    "source": "LWN.net",
+    "first_seen": "2026-11-02T18:55:30.480715+00:00",
+    "published": "2026-11-02T17:51:48+00:00"
+  },
+  "https://byesky.pirhoo.com": {
+    "title": "Byesky: Wipe your Bluesky account clean",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-02T18:55:30.480715+00:00",
+    "published": "2026-11-02T17:46:46+00:00"
+  },
+  "https://pytorch.org/blog/announcing-the-special-interest-group-sig-for-ray-on-accelerators": {
+    "title": "Announcing the Special Interest Group (SIG) for Ray on Accelerators",
+    "source": "PyTorch Blog",
+    "first_seen": "2026-11-02T18:55:30.480715+00:00",
+    "published": "2026-11-02T17:45:32+00:00"
+  },
+  "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026": {
+    "title": "The latest AI news we announced in October 2026",
+    "source": "Google AI Blog",
+    "first_seen": "2026-11-02T18:55:30.480715+00:00",
+    "published": "2026-11-02T17:45:00+00:00"
+  },
+  "https://blog.alxgsv.com/let-me-check": {
+    "title": "Let Me Ch...",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-02T18:55:30.480715+00:00",
+    "published": "2026-11-02T17:33:20+00:00"
+  },
+  "https://aws.amazon.com/blogs/architecture/how-to-run-a-dr-readiness-engagement": {
+    "title": "How to run a DR readiness engagement",
+    "source": "AWS Architecture Blog",
+    "first_seen": "2026-11-02T18:55:30.480715+00:00",
+    "published": "2026-11-02T17:26:49+00:00"
+  },
+  "https://aws.amazon.com/blogs/architecture/validating-your-dr-commitment-from-controlled-test-to-real-world-readiness": {
+    "title": "Validating your DR commitment: From controlled test to real-world readiness",
+    "source": "AWS Architecture Blog",
+    "first_seen": "2026-11-02T18:55:30.480715+00:00",
+    "published": "2026-11-02T17:26:33+00:00"
+  },
+  "https://aws.amazon.com/blogs/architecture/three-business-decisions-that-define-your-dr-success": {
+    "title": "Three business decisions that define your DR success",
+    "source": "AWS Architecture Blog",
+    "first_seen": "2026-11-02T18:55:30.480715+00:00",
+    "published": "2026-11-02T17:26:26+00:00"
+  },
+  "https://aws.amazon.com/blogs/architecture/automating-the-full-aws-drs-agent-lifecycle-install-heal-and-offboard": {
+    "title": "Automating the full AWS DRS agent lifecycle: Install, heal, and offboard",
+    "source": "AWS Architecture Blog",
+    "first_seen": "2026-11-02T18:55:30.480715+00:00",
+    "published": "2026-11-02T17:21:29+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/migrate-google-bigquery-to-an-open-lakehouse-on-aws-with-apache-iceberg": {
+    "title": "Migrate Google BigQuery to an open lakehouse on AWS with Apache Iceberg",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-11-02T18:55:30.480715+00:00",
+    "published": "2026-11-02T17:21:17+00:00"
+  },
+  "https://subvocal.company": {
+    "title": "Show HN: Subvocal – Talk to your computer without making noise",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-02T18:55:30.480715+00:00",
+    "published": "2026-11-02T17:16:17+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/prepare-web-content-for-amazon-bedrock-knowledge-bases-with-crawl4ai": {
+    "title": "Prepare web content for Amazon Bedrock Knowledge Bases with Crawl4AI",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-11-02T18:55:30.480715+00:00",
+    "published": "2026-11-02T17:11:21+00:00"
+  },
+  "https://momentic.ai": {
+    "title": "Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-02T18:55:30.480715+00:00",
+    "published": "2026-11-02T17:05:25+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/build-efficient-agents-with-knowledge-distillation-on-amazon-sagemaker-ai": {
+    "title": "Build efficient agents with knowledge distillation on Amazon SageMaker AI",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-11-02T18:55:30.480715+00:00",
+    "published": "2026-11-02T17:01:31+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/agentic-engineering-intelligence-with-amazon-nova-multimodal-embeddings-and-amazon-bedrock-agentcore": {
+    "title": "Agentic engineering intelligence with Amazon Nova Multimodal Embeddings and Amazon Bedrock AgentCore",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-11-02T18:55:30.480715+00:00",
+    "published": "2026-11-02T17:01:16+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/how-circle-k-accelerated-devops-incident-triage-to-under-15-minutes-with-amazon-bedrock": {
+    "title": "How Circle K accelerated DevOps incident triage to under 15 minutes with Amazon Bedrock",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-11-02T18:55:30.480715+00:00",
+    "published": "2026-11-02T17:00:58+00:00"
+  },
+  "https://bitmovin.com/careers/8660599002": {
+    "title": "Bitmovin (YC S15) Is Hiring Technical Graduates in Denver (Engineering/CS Focus)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-02T18:55:30.480715+00:00",
+    "published": "2026-11-02T17:00:41+00:00"
+  },
+  "https://developer.nvidia.com/blog/build-world-models-for-interactive-simulation-with-nvidia-cosmos": {
+    "title": "Build World Models for Interactive Simulation with NVIDIA Cosmos",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-11-02T18:55:30.480715+00:00",
+    "published": "2026-11-02T17:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/databases/use-dms-to-shrink-cloud-sql-for-sql-server-disk": {
+    "title": "Beyond Migration: Using Database Migration Service for disk shrinking",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-11-02T18:55:30.480715+00:00",
+    "published": "2026-11-02T17:00:00+00:00"
+  },
+  "https://blog.jsbarretto.com/post/laptop": {
+    "title": "My Favourite Laptop",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-02T18:55:30.480715+00:00",
+    "published": "2026-11-02T16:59:57+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/aws-contributes-a-large-transaction-binary-log-optimization-to-mysql": {
+    "title": "AWS contributes a large-transaction binary log optimization to MySQL",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-11-02T18:55:30.480715+00:00",
+    "published": "2026-11-02T16:57:08+00:00"
+  },
+  "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-gpt-6-1-terra-on-bedrock-step-functions-as-agent-tools-and-more-november-2-2026": {
+    "title": "AWS Weekly Roundup: GPT-6.1 Terra on Bedrock, Step Functions as agent tools, and more (November 2, 2026)",
+    "source": "AWS Blog",
+    "first_seen": "2026-11-02T18:55:30.480715+00:00",
+    "published": "2026-11-02T16:45:48+00:00"
+  },
+  "https://thenewstack.io/openai-chatgpt-codex-shared-limits": {
+    "title": "OpenAI’s new shared usage limit pits ChatGPT against Codex",
+    "source": "The New Stack",
+    "first_seen": "2026-11-02T18:55:30.480715+00:00",
+    "published": "2026-11-02T16:45:19+00:00"
+  },
+  "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11": {
+    "title": "Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-02T18:55:30.480715+00:00",
+    "published": "2026-11-02T16:40:29+00:00"
+  },
+  "https://namedaisy.com/blog/boy-names-that-became-girl-names": {
+    "title": "US boy names that became girl names and vice versa",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-02T18:55:30.480715+00:00",
+    "published": "2026-11-02T16:34:36+00:00"
+  },
+  "https://blog.bytebytego.com/p/how-nvidias-new-nemotron-model-works": {
+    "title": "How Nvidia's New Nemotron Model Works",
+    "source": "ByteByteGo",
+    "first_seen": "2026-11-02T18:55:30.480715+00:00",
+    "published": "2026-11-02T16:31:02+00:00"
+  },
+  "https://stephenjgallagher.substack.com/p/ai-can-draw-blueprints-now": {
+    "title": "Claude Opus 5.5 Can Draw Permit-Level Architectural Drawings",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-02T18:55:30.480715+00:00",
+    "published": "2026-11-02T16:25:33+00:00"
+  },
+  "https://p.migdal.pl/warsaw-vibe-voxel": {
+    "title": "Show HN: Warsaw in voxels – an interactive 3D map of the city centre",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-02T18:55:30.480715+00:00",
+    "published": "2026-11-02T16:25:26+00:00"
+  },
+  "https://posthog.com/blog/moving-off-duckdb": {
+    "title": "Moving our warehouse off DuckDB",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-02T18:55:30.480715+00:00",
+    "published": "2026-11-02T16:02:26+00:00"
+  },
+  "https://news.ycombinator.com/item?id=50338728": {
+    "title": "Ask HN: Who is hiring? (November 2026)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-02T18:55:30.480715+00:00",
+    "published": "2026-11-02T16:01:37+00:00"
+  },
+  "https://developer.nvidia.com/blog/support-new-ai-frameworks-faster-using-nvidia-workload-map": {
+    "title": "Support New AI Frameworks Faster Using NVIDIA Workload Map",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-11-02T18:55:30.480715+00:00",
+    "published": "2026-11-02T16:00:00+00:00"
+  },
+  "https://grafana.com/blog/instrumentation-hub-start-your-observability-journey-easier-and-still-stay-in-control": {
+    "title": "Instrumentation Hub in Grafana Cloud: start easier, stay in control",
+    "source": "Grafana Blog",
+    "first_seen": "2026-11-02T18:55:30.480715+00:00",
+    "published": "2026-11-02T15:44:53+00:00"
+  },
+  "https://opentelemetry.io/blog/2026/devex-keycloak": {
+    "title": "Keycloak's observability journey: a guide for project maintainers",
+    "source": "OpenTelemetry Blog",
+    "first_seen": "2026-11-02T18:55:30.480715+00:00",
+    "published": "2026-11-02T15:39:10+00:00"
+  },
+  "https://longcat.ai/blog/longcat-2.5": {
+    "title": "LongCat-2.5: Native Multimodality for Agentic Tasks",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-02T18:55:30.480715+00:00",
+    "published": "2026-11-02T15:00:26+00:00"
+  },
+  "https://openai.com/index/grid-protectors-program": {
+    "title": "Introducing the Grid Protectors Program",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-11-02T18:55:30.480715+00:00",
+    "published": "2026-11-02T15:00:00+00:00"
+  },
+  "https://retrogamecoders.com/c64-basic-dungeon-part11": {
+    "title": "C64 Basic Dungeon Crawler: Stairs, Levels and Levelling Up (Part 11)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-02T18:55:30.480715+00:00",
+    "published": "2026-11-02T14:56:21+00:00"
+  },
+  "https://chalmovsky.com/posts/wtf-ubuntu": {
+    "title": "WTF Ubuntu?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-02T18:55:30.480715+00:00",
+    "published": "2026-11-02T14:52:00+00:00"
+  },
+  "https://blog.cloudflare.com/dns-targeted-zone-builds": {
+    "title": "We halved DNS build delay and cut memory use by 85%",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-02T18:55:30.480715+00:00",
+    "published": "2026-11-02T14:47:28+00:00"
+  },
+  "https://deploymentsafety.openai.com/gpt-rosalind-6": {
+    "title": "GPT-Rosalind-6 System Card Addendum",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-02T18:55:30.480715+00:00",
+    "published": "2026-11-02T14:44:02+00:00"
+  },
+  "https://www.bloomberg.com/news/features/2026-09-17/san-francisco-s-ai-wealth-boom-skirts-engineers-as-openai-anthropic-ipos-near": {
+    "title": "Jobless tech workers are being left out of San Francisco's AI boom",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-02T18:55:30.480715+00:00",
+    "published": "2026-11-02T14:40:05+00:00"
+  },
+  "https://lwn.net/Articles/1104847": {
+    "title": "Shutting the Door on the XCPE Botnet (Threat Intelligence)",
+    "source": "LWN.net",
+    "first_seen": "2026-11-02T18:55:30.480715+00:00",
+    "published": "2026-11-02T14:29:37+00:00"
+  },
+  "https://lwn.net/Articles/1100894": {
+    "title": "[$] Managing the kernel CVE flood",
+    "source": "LWN.net",
+    "first_seen": "2026-11-02T18:55:30.480715+00:00",
+    "published": "2026-11-02T14:28:39+00:00"
+  },
+  "https://lwn.net/Articles/1104846": {
+    "title": "Tor Browser 16.0 released",
+    "source": "LWN.net",
+    "first_seen": "2026-11-02T18:55:30.480715+00:00",
+    "published": "2026-11-02T14:28:23+00:00"
+  },
+  "https://lwn.net/Articles/1104844": {
+    "title": "Security updates for Monday",
+    "source": "LWN.net",
+    "first_seen": "2026-11-02T18:55:30.480715+00:00",
+    "published": "2026-11-02T14:03:45+00:00"
+  },
+  "https://www.docker.com/blog/docker-sandbox-code-checkout-workflows": {
+    "title": "Where should your code live in a Docker Sandbox?",
+    "source": "Docker Blog",
+    "first_seen": "2026-11-02T18:55:30.480715+00:00",
+    "published": "2026-11-02T14:00:00+00:00"
+  },
+  "https://www.docker.com/blog/docker-blueprint-alliance-agent-baseline": {
+    "title": "The Ecosystem is the Answer: Docker, the Blueprint Alliance, and the Importance of Collaboration in the Agentic Era",
+    "source": "Docker Blog",
+    "first_seen": "2026-11-02T18:55:30.480715+00:00",
+    "published": "2026-11-02T14:00:00+00:00"
+  },
+  "https://realpython.com/python-news-november-2026": {
+    "title": "Python 3.15 Ships and Other Python News for November 2026",
+    "source": "Real Python",
+    "first_seen": "2026-11-02T18:55:30.480715+00:00",
+    "published": "2026-11-02T14:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/topics/threat-intelligence/shutting-the-door-on-the-xcpe-botnet": {
+    "title": "Shutting the Door on the XCPE Botnet",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-11-02T18:55:30.480715+00:00",
+    "published": "2026-11-02T14:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/topics/threat-intelligence/llmjacking-monetizing-compromised-cloud-models": {
+    "title": "The Rise of LLMJacking: How Threat Actors Monetize Compromised Cloud and Model Resources",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-11-02T18:55:30.480715+00:00",
+    "published": "2026-11-02T14:00:00+00:00"
+  },
+  "https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence": {
+    "title": "The U.S. Census Bureau and \"Super Intelligence\"",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-02T18:55:30.480715+00:00",
+    "published": "2026-11-02T13:55:45+00:00"
+  },
+  "https://www.cncf.io/blog/2026/11/02/the-linkerd-story-the-people-behind-the-service-mesh-a-new-documentary-premieres-at-kubecon-cloudnativecon-north-america-2026": {
+    "title": "The Linkerd Story: The people Behind The Service Mesh — A new documentary premieres at KubeCon + CloudNativeCon North America 2026",
+    "source": "CNCF Blog",
+    "first_seen": "2026-11-02T18:55:30.480715+00:00",
+    "published": "2026-11-02T12:00:00+00:00"
+  },
+  "https://realpython.com/quizzes/advanced-git-for-pythonistas": {
+    "title": "Quiz: Advanced Git Tips for Python Developers",
+    "source": "Real Python",
+    "first_seen": "2026-11-02T18:55:30.480715+00:00",
+    "published": "2026-11-02T12:00:00+00:00"
+  },
+  "https://neon.com/blog/managed-better-auth-oauth-provider-mcp": {
+    "title": "Managed Better Auth is now an OAuth provider, with MCP support",
+    "source": "Neon Blog",
+    "first_seen": "2026-11-02T18:55:30.480715+00:00",
+    "published": "2026-11-02T12:00:00+00:00"
+  },
+  "https://blog.trailofbits.com/2026/11/02/backporting-security-fixes-at-scale-with-codex": {
+    "title": "Backporting security fixes at scale with Codex",
+    "source": "Trail of Bits",
+    "first_seen": "2026-11-02T18:55:30.480715+00:00",
+    "published": "2026-11-02T12:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/RADV-Adopts-LLM-Policy": {
+    "title": "Radeon RADV Vulkan Driver Adopts An LLM Policy",
+    "source": "Phoronix",
+    "first_seen": "2026-11-02T18:55:30.480715+00:00",
+    "published": "2026-11-02T11:16:22+00:00"
+  },
+  "https://www.phoronix.com/news/FreeRDP-3.33": {
+    "title": "FreeRDP 3.33 Released With WebAssembly Support, Huge Influx Of Activity Due To AI",
+    "source": "Phoronix",
+    "first_seen": "2026-11-02T18:55:30.480715+00:00",
+    "published": "2026-11-02T11:07:14+00:00"
+  },
+  "https://www.phoronix.com/news/KDE-Linux-October-2026": {
+    "title": "KDE Linux Nearing Its Beta Milestone, Now Ships With NTSYNC By Default",
+    "source": "Phoronix",
+    "first_seen": "2026-11-02T18:55:30.480715+00:00",
+    "published": "2026-11-02T10:39:21+00:00"
+  },
+  "https://www.phoronix.com/news/Raspberry-Pi-5-16GB-385": {
+    "title": "Raspberry Pi 5 16GB Price Rises To $385 USD",
+    "source": "Phoronix",
+    "first_seen": "2026-11-02T18:55:30.480715+00:00",
+    "published": "2026-11-02T10:27:17+00:00"
+  },
+  "https://openai.com/index/lifeval": {
+    "title": "LifeVal",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-11-02T18:55:30.480715+00:00",
+    "published": "2026-11-02T09:00:00+00:00"
+  },
+  "https://blog.sentry.io/android-profilingmanager-perfetto": {
+    "title": "Android profiling now uses Perfetto via ProfilingManager",
+    "source": "Sentry Blog",
+    "first_seen": "2026-11-02T18:55:30.480715+00:00",
+    "published": "2026-11-02T09:00:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/security/inside-a-successful-aws-european-sovereign-cloud-exercise-to-demonstrate-independent-operation": {
+    "title": "Inside a successful AWS European Sovereign Cloud exercise to demonstrate independent operation",
+    "source": "AWS Security Blog",
+    "first_seen": "2026-11-02T18:55:30.480715+00:00",
+    "published": "2026-11-02T03:37:30+00:00"
+  },
+  "https://www.phoronix.com/news/Steam-Survey-October-2026": {
+    "title": "Steam On Linux Just Under 4% For October 2026",
+    "source": "Phoronix",
+    "first_seen": "2026-11-02T18:55:30.480715+00:00",
+    "published": "2026-11-02T01:47:46+00:00"
+  },
+  "https://lwn.net/Articles/1104654": {
+    "title": "Kernel prepatch 7.4-rc1",
+    "source": "LWN.net",
+    "first_seen": "2026-11-02T18:55:30.480715+00:00",
+    "published": "2026-11-02T00:17:08+00:00"
+  },
+  "https://www.elastic.co/blog/elastic-stack-9-5-6-released": {
+    "title": "Elastic Stack 9.5.6 released",
+    "source": "Elastic Blog",
+    "first_seen": "2026-11-02T18:55:30.480715+00:00",
+    "published": "2026-11-02T00:00:00+00:00"
+  },
+  "https://www.elastic.co/blog/elastic-stack-9-4-9-released": {
+    "title": "Elastic Stack 9.4.9 released",
+    "source": "Elastic Blog",
+    "first_seen": "2026-11-02T18:55:30.480715+00:00",
+    "published": "2026-11-02T00:00:00+00:00"
+  },
+  "https://www.elastic.co/blog/elastic-stack-8-19-24-released": {
+    "title": "Elastic Stack 8.19.24 released",
+    "source": "Elastic Blog",
+    "first_seen": "2026-11-02T18:55:30.480715+00:00",
+    "published": "2026-11-02T00:00:00+00:00"
   }
 }
