@@ -117620,5 +117620,209 @@
     "source": "Elastic Blog",
     "first_seen": "2026-11-02T18:55:30.480715+00:00",
     "published": "2026-11-02T00:00:00+00:00"
+  },
+  "https://krebsonsecurity.com/2026/11/tech-firms-dismantle-botnet-that-turned-1-3m-tv-boxes-into-proxies": {
+    "title": "Tech Firms Dismantle Botnet That Turned 1.3M TV Boxes Into Proxies",
+    "source": "Krebs on Security",
+    "first_seen": "2026-11-03T02:42:11.345092+00:00",
+    "published": "2026-11-03T02:24:31+00:00"
+  },
+  "https://hackertimes.ca": {
+    "title": "Show HN: Hacker Times, a New York Times-Inspired Version Hacker News",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-03T02:42:11.345092+00:00",
+    "published": "2026-11-03T01:53:34+00:00"
+  },
+  "https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio": {
+    "title": "DiscImageStudio: burn visible artwork onto CDs, DVDs and Blu-ray discs",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-03T02:42:11.345092+00:00",
+    "published": "2026-11-03T01:33:43+00:00"
+  },
+  "https://www.phoronix.com/news/Intel-SoundWire-Raptor-Lake": {
+    "title": "Intel Brings RPL-M/RPL-P SoundWire To Upstream Linux For Raptor Lake Powered Automobiles",
+    "source": "Phoronix",
+    "first_seen": "2026-11-03T02:42:11.345092+00:00",
+    "published": "2026-11-03T01:22:44+00:00"
+  },
+  "https://www.phoronix.com/news/AerynOS-2026.11": {
+    "title": "AerynOS 2026.11 Released With New Installer Option, Other Improvements",
+    "source": "Phoronix",
+    "first_seen": "2026-11-03T02:42:11.345092+00:00",
+    "published": "2026-11-03T00:40:38+00:00"
+  },
+  "https://news.ycombinator.com/item?id=50346164": {
+    "title": "Ask HN: Does anyone have a contact with Cleveland-area Ham club?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-03T02:42:11.345092+00:00",
+    "published": "2026-11-03T00:09:36+00:00"
+  },
+  "https://finance.yahoo.com/markets/article/the-intel-stock-collapse-is-getting-worse--and-the-37-trillion-chip-rout-is-spreading-212154947.html": {
+    "title": "Intel stock collapse worsens as $3.5T chip rout spreads",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-03T02:42:11.345092+00:00",
+    "published": "2026-11-03T00:08:53+00:00"
+  },
+  "https://thenewstack.io/openai-pando-git-backend": {
+    "title": "OpenAI built itself a new Git backend, too",
+    "source": "The New Stack",
+    "first_seen": "2026-11-03T02:42:11.345092+00:00",
+    "published": "2026-11-03T00:00:00+00:00"
+  },
+  "https://simonwillison.net/2026/Nov/2/llm": {
+    "title": "llm 0.37",
+    "source": "Simon Willison",
+    "first_seen": "2026-11-03T02:42:11.345092+00:00",
+    "published": "2026-11-02T23:49:30+00:00"
+  },
+  "https://developer.nvidia.com/blog/diagnose-distributed-ai-workload-failures-with-nvidia-attribution": {
+    "title": "Diagnose Distributed AI Workload Failures with NVIDIA Attribution",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-11-03T02:42:11.345092+00:00",
+    "published": "2026-11-02T23:39:34+00:00"
+  },
+  "https://www.c64-wiki.com/wiki/GUI64": {
+    "title": "GUI64 – GUI for the Commodore 64 running on top of the built-in ROM",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-03T02:42:11.345092+00:00",
+    "published": "2026-11-02T23:32:22+00:00"
+  },
+  "https://news.ycombinator.com/item?id=50345712": {
+    "title": "WorkOS reports security breach",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-03T02:42:11.345092+00:00",
+    "published": "2026-11-02T23:30:59+00:00"
+  },
+  "https://developer.nvidia.com/blog/keep-distributed-training-running-with-automated-workload-recovery": {
+    "title": "Keep Distributed Training Running with Automated Workload Recovery",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-11-03T02:42:11.345092+00:00",
+    "published": "2026-11-02T22:43:05+00:00"
+  },
+  "https://www.regenerator1.com/p/anthropics-growth-just-flattened": {
+    "title": "Anthropic's growth just flattened",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-03T02:42:11.345092+00:00",
+    "published": "2026-11-02T22:33:20+00:00"
+  },
+  "https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public": {
+    "title": "The SEC Should Block Anthropic's IPO to Protect the Public",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-03T02:42:11.345092+00:00",
+    "published": "2026-11-02T22:30:47+00:00"
+  },
+  "https://github.com/pigeon-labs-stack/v100-sxm2-reference": {
+    "title": "V100 SXM2 pinout and NVLink reference",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-03T02:42:11.345092+00:00",
+    "published": "2026-11-02T22:30:13+00:00"
+  },
+  "https://www6.slac.stanford.edu/news/2026-10-29-slac-researchers-find-proof-altermagnetism-new-magnetic-phase": {
+    "title": "SLAC researchers find proof of altermagnetism, a new magnetic phase",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-03T02:42:11.345092+00:00",
+    "published": "2026-11-02T21:42:25+00:00"
+  },
+  "https://aws.amazon.com/blogs/compute/introducing-queue-consumption-mode-for-apache-kafka-in-aws-lambda": {
+    "title": "Introducing queue consumption mode for Apache Kafka in AWS Lambda",
+    "source": "AWS Compute Blog",
+    "first_seen": "2026-11-03T02:42:11.345092+00:00",
+    "published": "2026-11-02T21:23:46+00:00"
+  },
+  "https://thenewstack.io/claude-code-developer-refusals": {
+    "title": "Developers are downgrading their AI on purpose — and it’s working",
+    "source": "The New Stack",
+    "first_seen": "2026-11-03T02:42:11.345092+00:00",
+    "published": "2026-11-02T21:03:31+00:00"
+  },
+  "https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html": {
+    "title": "Oracle files to sell $20B in new stock, bonds to finance AI buildout",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-03T02:42:11.345092+00:00",
+    "published": "2026-11-02T19:27:37+00:00"
+  },
+  "https://thenewstack.io/22842541cognition-devin-hierarchical-budgets": {
+    "title": "Your AI coding agent now runs on a budget — and it can cut you off mid-task",
+    "source": "The New Stack",
+    "first_seen": "2026-11-03T02:42:11.345092+00:00",
+    "published": "2026-11-02T19:03:38+00:00"
+  },
+  "https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era": {
+    "title": "Egoless Mathematics in the AI Era",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-03T02:42:11.345092+00:00",
+    "published": "2026-11-02T18:54:44+00:00"
+  },
+  "https://freenode.net/article/ubuntu-lts-kernels-still-unfixed-for-critical-cve-2026-98432": {
+    "title": "Ubuntu still has not released patch for Linux 0day RCE in almost 3 weeks",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-03T02:42:11.345092+00:00",
+    "published": "2026-11-02T18:39:38+00:00"
+  },
+  "https://rikiyat.github.io/blog/weight-space-programming": {
+    "title": "Astra can read and write weights to improve Qwen",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-03T02:42:11.345092+00:00",
+    "published": "2026-11-02T18:21:28+00:00"
+  },
+  "https://github.com/aaitor/skill-video-studio": {
+    "title": "Skill to Create Product Videos",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-03T02:42:11.345092+00:00",
+    "published": "2026-11-02T18:10:39+00:00"
+  },
+  "https://cloud.google.com/blog/topics/developers-practitioners/google-cloud-developer-plugin-now-available-in-antigravity-marketplace": {
+    "title": "Google Cloud Developer plugin now available in Antigravity Marketplace",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-11-03T02:42:11.345092+00:00",
+    "published": "2026-11-02T18:00:00+00:00"
+  },
+  "https://www.nist.gov/news-events/news/2026/11/self-employed-solopreneur-nist-has-cybersecurity-guide-just-you": {
+    "title": "Self-Employed? Solopreneur? NIST Has a Cybersecurity Guide Just for You",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-03T02:42:11.345092+00:00",
+    "published": "2026-11-02T17:47:40+00:00"
+  },
+  "https://polyend.com/whats-up/tracker-the-biggest-update-yet": {
+    "title": "Polyend releases the Tracker firmware source code",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-03T02:42:11.345092+00:00",
+    "published": "2026-11-02T17:20:13+00:00"
+  },
+  "https://news.ycombinator.com/item?id=50340088": {
+    "title": "Show HN: Subvocal – Talk to your computer without making noise",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-03T02:42:11.345092+00:00",
+    "published": "2026-11-02T17:16:17+00:00"
+  },
+  "https://openai.com/index/scaling-git-at-openai": {
+    "title": "Scaling Git at OpenAI",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-11-03T02:42:11.345092+00:00",
+    "published": "2026-11-02T15:30:00+00:00"
+  },
+  "https://www.databricks.com/blog/lakebase-postgres-now-generally-available-google-cloud": {
+    "title": "Lakebase Postgres is now generally available on Google Cloud",
+    "source": "Databricks Blog",
+    "first_seen": "2026-11-03T02:42:11.345092+00:00",
+    "published": "2026-11-02T14:26:08+00:00"
+  },
+  "https://openai.com/index/qodo-codex-plugin": {
+    "title": "Qodo builds context into AI code review with Codex",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-11-03T02:42:11.345092+00:00",
+    "published": "2026-11-02T00:00:00+00:00"
+  },
+  "https://openai.com/index/dan-driscoll-joins-openai": {
+    "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-11-03T02:42:11.345092+00:00",
+    "published": "2026-11-02T00:00:00+00:00"
+  },
+  "https://discord.com/blog/modernizing-the-video-playback-experience-at-discord": {
+    "title": "Modernizing the Video Playback Experience at Discord",
+    "source": "Discord Engineering",
+    "first_seen": "2026-11-03T02:42:11.345092+00:00",
+    "published": "2026-11-02T00:00:00+00:00"
   }
 }
