@@ -118160,5 +118160,329 @@
     "source": "OpenAI Blog",
     "first_seen": "2026-11-03T16:41:03.467996+00:00",
     "published": "2026-11-02T18:00:00+00:00"
+  },
+  "https://thenewstack.io/postman-plugin-coding-agents": {
+    "title": "A developer opened Postman. Then two AI coding agents changed without their permission.",
+    "source": "The New Stack",
+    "first_seen": "2026-11-04T00:57:19.719248+00:00",
+    "published": "2026-11-03T23:17:04+00:00"
+  },
+  "https://thenewstack.io/mazin-gilbert-aaif-interview": {
+    "title": "Can agent standards keep up with the companies building them?",
+    "source": "The New Stack",
+    "first_seen": "2026-11-04T00:57:19.719248+00:00",
+    "published": "2026-11-03T22:50:15+00:00"
+  },
+  "https://www.tigerdata.com/blog/timescaledb-enterprise-is-in-public-beta": {
+    "title": "Building the Modern Enterprise Historian: TimescaleDB Enterprise Is Now in Public Beta",
+    "source": "Timescale Blog",
+    "first_seen": "2026-11-04T00:57:19.719248+00:00",
+    "published": "2026-11-03T22:29:38+00:00"
+  },
+  "https://www.phoronix.com/news/GIMP-3.2.8-Released": {
+    "title": "GIMP 3.2.8 Released With Many Refinements, Numerous Security Fixes Due To AI Reports",
+    "source": "Phoronix",
+    "first_seen": "2026-11-04T00:57:19.719248+00:00",
+    "published": "2026-11-03T22:21:50+00:00"
+  },
+  "https://www.phoronix.com/news/NetBSD-11.1-Released": {
+    "title": "NetBSD 11.1 Released With Security Fixes & Other Improvements",
+    "source": "Phoronix",
+    "first_seen": "2026-11-04T00:57:19.719248+00:00",
+    "published": "2026-11-03T22:09:52+00:00"
+  },
+  "https://www.interdb.jp/pg/index.html": {
+    "title": "The Internals of PostgreSQL",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-04T00:57:19.719248+00:00",
+    "published": "2026-11-03T21:51:06+00:00"
+  },
+  "https://arxiv.org/abs/2605.29713": {
+    "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-04T00:57:19.719248+00:00",
+    "published": "2026-11-03T21:40:53+00:00"
+  },
+  "https://webkit.org/blog/18541/introducing-adaptive-dark-mode": {
+    "title": "Safari introduces Adaptive Dark Mode in 27.3",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-04T00:57:19.719248+00:00",
+    "published": "2026-11-03T21:39:05+00:00"
+  },
+  "https://grafana.com/blog/bridging-alloy-and-opentelemetry-the-otel-engine-is-now-in-public-preview": {
+    "title": "Bridging Alloy and OpenTelemetry: the OTel engine is now in Public Preview",
+    "source": "Grafana Blog",
+    "first_seen": "2026-11-04T00:57:19.719248+00:00",
+    "published": "2026-11-03T21:32:18+00:00"
+  },
+  "https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months": {
+    "title": "US tech giants' hidden AI debt swells 90% to $3.2T in 6 months",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-04T00:57:19.719248+00:00",
+    "published": "2026-11-03T21:26:44+00:00"
+  },
+  "https://github.com/finic-ai/kairos": {
+    "title": "Show HN: Kairos – Open-source risk and fraud decisioning platform",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-04T00:57:19.719248+00:00",
+    "published": "2026-11-03T21:16:48+00:00"
+  },
+  "https://www.databricks.com/blog/declare-and-optimize-unique-constraints-databricks": {
+    "title": "Declare and optimize with UNIQUE constraints on Databricks",
+    "source": "Databricks Blog",
+    "first_seen": "2026-11-04T00:57:19.719248+00:00",
+    "published": "2026-11-03T21:00:00+00:00"
+  },
+  "https://www.databricks.com/blog/claude-platform-now-supports-native-opentelemetry-observability-databricks-mlflow": {
+    "title": "Claude Platform now supports native OpenTelemetry observability in Databricks MLflow",
+    "source": "Databricks Blog",
+    "first_seen": "2026-11-04T00:57:19.719248+00:00",
+    "published": "2026-11-03T21:00:00+00:00"
+  },
+  "https://vinipsmaker.github.io/blog/article/pratt-parsing-is-a-black-box": {
+    "title": "Pratt parsing is a black box",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-04T00:57:19.719248+00:00",
+    "published": "2026-11-03T20:07:41+00:00"
+  },
+  "https://flipper.net/pages/flipper-one": {
+    "title": "Preparing for the Flipper One Kickstarter and opening pre-orders",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-04T00:57:19.719248+00:00",
+    "published": "2026-11-03T19:32:13+00:00"
+  },
+  "https://wadetregaskis.com/macos-27-golden-gate-does-not-actually-support-corestorage-or-hfs-volumes": {
+    "title": "macOS 27 does not support CoreStorage volumes",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-04T00:57:19.719248+00:00",
+    "published": "2026-11-03T19:27:53+00:00"
+  },
+  "https://ats-lang.sourceforge.net/DOCUMENT/INT2PROGINATS/HTML/book1.html": {
+    "title": "Introduction to Programming in ATS",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-04T00:57:19.719248+00:00",
+    "published": "2026-11-03T19:25:18+00:00"
+  },
+  "https://thenewstack.io/ai-coding-agents-security": {
+    "title": "Goldman Sachs restricted Claude Code for bankers — but made one surprising exception",
+    "source": "The New Stack",
+    "first_seen": "2026-11-04T00:57:19.719248+00:00",
+    "published": "2026-11-03T19:18:34+00:00"
+  },
+  "https://devblogs.microsoft.com/dotnet/delivering-skills-in-nuget-packages": {
+    "title": "Delivering Skills in NuGet packages",
+    "source": "MS .NET Blog",
+    "first_seen": "2026-11-04T00:57:19.719248+00:00",
+    "published": "2026-11-03T19:00:14+00:00"
+  },
+  "https://ben.stolovitz.com/posts/how-use-ai-oct-2026": {
+    "title": "How I use AI (Oct 2026)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-04T00:57:19.719248+00:00",
+    "published": "2026-11-03T18:11:11+00:00"
+  },
+  "https://nextjs.org/blog/november-2026-security-release": {
+    "title": "November 2026 Security Release",
+    "source": "Next.js Blog",
+    "first_seen": "2026-11-04T00:57:19.719248+00:00",
+    "published": "2026-11-03T18:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/topics/financial-services/how-nammu21-automates-syndicated-loans-on-google-cloud-universal-ledger": {
+    "title": "How Nammu21 automates syndicated loans on Google Cloud Universal Ledger",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-11-04T00:57:19.719248+00:00",
+    "published": "2026-11-03T18:00:00+00:00"
+  },
+  "https://devblogs.microsoft.com/dotnet/get-ready-for-dotnet-conf-2026": {
+    "title": "Get Ready for .NET Conf 2026!",
+    "source": "MS .NET Blog",
+    "first_seen": "2026-11-04T00:57:19.719248+00:00",
+    "published": "2026-11-03T17:30:00+00:00"
+  },
+  "https://github.com/postmanlabs/postman-app-support/issues/14370": {
+    "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-04T00:57:19.719248+00:00",
+    "published": "2026-11-03T17:22:37+00:00"
+  },
+  "https://huggingface.co/blog/allenai/statebench": {
+    "title": "StateBench: Testing how language models track state changes over long documents",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-11-04T00:57:19.719248+00:00",
+    "published": "2026-11-03T17:15:21+00:00"
+  },
+  "https://lwn.net/Articles/1105131": {
+    "title": "OpenSUSE Leap 16.1",
+    "source": "LWN.net",
+    "first_seen": "2026-11-04T00:57:19.719248+00:00",
+    "published": "2026-11-03T17:09:48+00:00"
+  },
+  "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity": {
+    "title": "Agentic cheminformatics with Google Antigravity",
+    "source": "DeepMind Blog",
+    "first_seen": "2026-11-04T00:57:19.719248+00:00",
+    "published": "2026-11-03T17:01:49+00:00"
+  },
+  "https://www.ashbyhq.com/careers?ashby_jid=695b1ce6-c375-4fad-94ef-61b50a3fbd28&utm_source=hn": {
+    "title": "Ashby (YC W19) Is Hiring EMs",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-04T00:57:19.719248+00:00",
+    "published": "2026-11-03T17:00:53+00:00"
+  },
+  "https://engineering.fb.com/2026/11/03/ml-applications/f3-lightning-how-meta-accelerates-ads-ml-features-to-production": {
+    "title": "F3 Lightning: How Meta Accelerates Ads ML Features to Production at Scale",
+    "source": "Meta Engineering",
+    "first_seen": "2026-11-04T00:57:19.719248+00:00",
+    "published": "2026-11-03T17:00:35+00:00"
+  },
+  "https://cloud.google.com/blog/topics/consulting/lessons-for-adopting-ai-agents": {
+    "title": "Leading in the agentic era: How to put people first as you adopt AI agents",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-11-04T00:57:19.719248+00:00",
+    "published": "2026-11-03T17:00:00+00:00"
+  },
+  "https://newsletter.pragmaticengineer.com/p/how-software-engineering-is-changing": {
+    "title": "How software engineering is changing: a tale of two eras",
+    "source": "The Pragmatic Engineer",
+    "first_seen": "2026-11-04T00:57:19.719248+00:00",
+    "published": "2026-11-03T16:58:22+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/bring-structured-and-unstructured-data-together-with-amazon-quick": {
+    "title": "Bring structured and unstructured data together with Amazon Quick",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-11-04T00:57:19.719248+00:00",
+    "published": "2026-11-03T16:49:29+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/servicenow-on-behalf-of-token-exchange-with-bedrock-agentcore-gateway": {
+    "title": "ServiceNow on-behalf-of token exchange with Bedrock AgentCore Gateway",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-11-04T00:57:19.719248+00:00",
+    "published": "2026-11-03T16:47:40+00:00"
+  },
+  "https://neufangled.com": {
+    "title": "Stringman, an $800 open-source room scale gripper robot",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-04T00:57:19.719248+00:00",
+    "published": "2026-11-03T16:47:29+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/how-gen-digital-built-norton-revamps-ai-curated-news-engine-with-amazon-bedrock-agentcore-web-search": {
+    "title": "How Gen Digital built Norton Revamp’s AI-curated News Engine with Amazon Bedrock AgentCore Web Search",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-11-04T00:57:19.719248+00:00",
+    "published": "2026-11-03T16:43:20+00:00"
+  },
+  "https://www.phoronix.com/review/linux-74-features": {
+    "title": "Linux 7.4 Features Steam Frame VR Headset, More AMD Zen 6 Enablement & Initial Apple M4 / A18 Pro Bring-Up",
+    "source": "Phoronix",
+    "first_seen": "2026-11-04T00:57:19.719248+00:00",
+    "published": "2026-11-03T16:42:22+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/build-a-semantic-layer-for-agentic-ai-with-edb-postgres-ai-and-amazon-bedrock-agentcore": {
+    "title": "Build a semantic layer for agentic AI with EDB Postgres AI and Amazon Bedrock AgentCore",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-11-04T00:57:19.719248+00:00",
+    "published": "2026-11-03T16:41:13+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/building-ultra-low-latency-voice-ai-applications-on-aws": {
+    "title": "Building ultra-low-latency voice AI applications on AWS",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-11-04T00:57:19.719248+00:00",
+    "published": "2026-11-03T16:40:54+00:00"
+  },
+  "https://arxiv.org/abs/2611.02618": {
+    "title": "USDB: Scaling Storage for Next-Generation Recommender Systems at ByteDance",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-04T00:57:19.719248+00:00",
+    "published": "2026-11-03T16:40:02+00:00"
+  },
+  "https://openathena.ai/blog/there-is-no-posttraining-data-commons": {
+    "title": "There is no posttraining data commons",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-04T00:57:19.719248+00:00",
+    "published": "2026-11-03T14:45:47+00:00"
+  },
+  "https://jivx.com/yt": {
+    "title": "Practice speaking Japanese with real YouTube videos, graded line by line",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-04T00:57:19.719248+00:00",
+    "published": "2026-11-03T14:41:02+00:00"
+  },
+  "https://openai.com/index/accelerating-engineering-for-the-physical-world": {
+    "title": "Accelerating engineering for the physical world",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-11-04T00:57:19.719248+00:00",
+    "published": "2026-11-03T12:00:00+00:00"
+  },
+  "https://blog.sentry.io/performance-wins-traces-coding-agent": {
+    "title": "Finding performance wins in our own traces with a coding agent",
+    "source": "Sentry Blog",
+    "first_seen": "2026-11-04T00:57:19.719248+00:00",
+    "published": "2026-11-03T09:00:00+00:00"
+  },
+  "https://www.hashicorp.com/blog/introducing-ibm-cloud-secrets-manager-vault-dedicated": {
+    "title": "Introducing IBM Cloud Secrets Manager Vault Dedicated: HashiCorp Vault Enterprise, managed by IBM",
+    "source": "HashiCorp Blog",
+    "first_seen": "2026-11-04T00:57:19.719248+00:00",
+    "published": "2026-11-03T08:00:00+00:00"
+  },
+  "https://openai.com/index/cisco-cyber": {
+    "title": "How Cisco defends at machine speed with OpenAI",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-11-04T00:57:19.719248+00:00",
+    "published": "2026-11-03T08:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/topics/developers-practitioners/evaluate-agent-skills-before-they-bloat-your-context-window": {
+    "title": "Five rules for evaluating agent skills before they bloat your context window",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-11-04T00:57:19.719248+00:00",
+    "published": "2026-11-03T08:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/ai-machine-learning/introducing-physical-engineerings-last-exam-for-agents": {
+    "title": "Introducing Physical-Engineering’s Last Exam for agents",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-11-04T00:57:19.719248+00:00",
+    "published": "2026-11-03T08:00:00+00:00"
+  },
+  "https://ziglang.org/news/0.17.1-released": {
+    "title": "0.17.1 Released",
+    "source": "Zig Lang",
+    "first_seen": "2026-11-04T00:57:19.719248+00:00",
+    "published": "2026-11-03T00:00:00+00:00"
+  },
+  "https://www.thoughtworks.com/insights/articles/the-token-bleed-reality": {
+    "title": "The token bleed reality: Bridging the chasm from unthrottled AI adoption to sustainable AI transformation",
+    "source": "ThoughtWorks",
+    "first_seen": "2026-11-04T00:57:19.719248+00:00",
+    "published": "2026-11-03T00:00:00+00:00"
+  },
+  "https://www.redpanda.com/blog/how-to-choose-ai-agent-governance-platform": {
+    "title": "Choosing an AI governance platform? Ask these 6 questions",
+    "source": "Redpanda Blog",
+    "first_seen": "2026-11-04T00:57:19.719248+00:00",
+    "published": "2026-11-03T00:00:00+00:00"
+  },
+  "https://planetscale.com/blog/the-hidden-latency-inside-your-database": {
+    "title": "The hidden latency inside your database",
+    "source": "PlanetScale Blog",
+    "first_seen": "2026-11-04T00:57:19.719248+00:00",
+    "published": "2026-11-03T00:00:00+00:00"
+  },
+  "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer": {
+    "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-11-04T00:57:19.719248+00:00",
+    "published": "2026-11-03T00:00:00+00:00"
+  },
+  "https://huggingface.co/blog/cwe-bench": {
+    "title": "CWE-bench v2: More coverage, quality, and transparency",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-11-04T00:57:19.719248+00:00",
+    "published": "2026-11-03T00:00:00+00:00"
+  },
+  "https://discord.com/blog/discord-gift-cards-the-easiest-holiday-gift-on-your-list": {
+    "title": "Discord Gift Cards: The Easiest Holiday Gift on Your List",
+    "source": "Discord Engineering",
+    "first_seen": "2026-11-04T00:57:19.719248+00:00",
+    "published": "2026-11-03T00:00:00+00:00"
   }
 }
