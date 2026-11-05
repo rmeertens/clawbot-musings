@@ -118796,5 +118796,317 @@
     "source": "ThoughtWorks",
     "first_seen": "2026-11-04T16:39:07.331258+00:00",
     "published": "2026-11-04T00:00:00+00:00"
+  },
+  "https://lwn.net/Articles/1103480": {
+    "title": "[$] LWN.net Weekly Edition for November 5, 2026",
+    "source": "LWN.net",
+    "first_seen": "2026-11-05T01:07:07.862053+00:00",
+    "published": "2026-11-05T00:42:51+00:00"
+  },
+  "https://www.spacex.com/starfall": {
+    "title": "SpaceX – Starfall",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-05T01:07:07.862053+00:00",
+    "published": "2026-11-05T00:18:18+00:00"
+  },
+  "https://webkit.org/blog/18602/release-notes-for-safari-technology-preview-256": {
+    "title": "Release Notes for Safari Technology Preview 256",
+    "source": "WebKit Blog",
+    "first_seen": "2026-11-05T01:07:07.862053+00:00",
+    "published": "2026-11-05T00:09:57+00:00"
+  },
+  "https://orchidfiles.com/youll-need-nerves-of-steel-to-work-with-ai-agents": {
+    "title": "You'll need nerves of steel to work with AI agents",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-05T01:07:07.862053+00:00",
+    "published": "2026-11-05T00:01:30+00:00"
+  },
+  "https://www.databricks.com/blog/introducing-apache-spark-43-now-available-databricks-runtime-19": {
+    "title": "Introducing Apache Spark® 4.3 - Now available in Databricks Runtime 19",
+    "source": "Databricks Blog",
+    "first_seen": "2026-11-05T01:07:07.862053+00:00",
+    "published": "2026-11-05T00:00:00+00:00"
+  },
+  "https://openai.com/index/introducing-images-2-6": {
+    "title": "Introducing Images 2.6",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-05T01:07:07.862053+00:00",
+    "published": "2026-11-04T23:35:44+00:00"
+  },
+  "https://aws.amazon.com/blogs/aws/amazon-s3-tables-now-offer-managed-migration-of-apache-hive-tables-to-apache-iceberg": {
+    "title": "Amazon S3 Tables now offer managed migration of Apache Hive tables to Apache Iceberg",
+    "source": "AWS Blog",
+    "first_seen": "2026-11-05T01:07:07.862053+00:00",
+    "published": "2026-11-04T23:34:52+00:00"
+  },
+  "https://openai.com/index/a-thousand-fewer-paths-to-root": {
+    "title": "Local privilege escalation vulnerabilities in Linux",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-05T01:07:07.862053+00:00",
+    "published": "2026-11-04T23:33:14+00:00"
+  },
+  "https://thenewstack.io/anthropic-flashprove-model-verification": {
+    "title": "Anthropic found a way to prove which AI model answered you — but there’s a costly catch",
+    "source": "The New Stack",
+    "first_seen": "2026-11-05T01:07:07.862053+00:00",
+    "published": "2026-11-04T22:50:18+00:00"
+  },
+  "https://aws.amazon.com/blogs/compute/implementing-postgresql-logical-replication-between-amazon-rds-for-postgresql-instances-on-separate-aws-outposts": {
+    "title": "Implementing PostgreSQL logical replication between Amazon RDS for PostgreSQL instances on separate AWS Outposts",
+    "source": "AWS Compute Blog",
+    "first_seen": "2026-11-05T01:07:07.862053+00:00",
+    "published": "2026-11-04T22:02:23+00:00"
+  },
+  "https://icode4.coffee?p=1746": {
+    "title": "Hacking the Xbox 360 Hypervisor Part 3: Bad Update Improvements",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-05T01:07:07.862053+00:00",
+    "published": "2026-11-04T22:01:49+00:00"
+  },
+  "https://developer.nvidia.com/blog/how-nvidia-uses-ai-agents-to-streamline-ai-factory-operations": {
+    "title": "How NVIDIA Uses AI Agents to Streamline AI Factory Operations",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-11-05T01:07:07.862053+00:00",
+    "published": "2026-11-04T22:00:17+00:00"
+  },
+  "https://www.phoronix.com/news/LZ4-1.11-Released": {
+    "title": "LZ4 1.11 Introduces Multi-Threaded Compression For liblz4, Other Performance Gains",
+    "source": "Phoronix",
+    "first_seen": "2026-11-05T01:07:07.862053+00:00",
+    "published": "2026-11-04T21:53:33+00:00"
+  },
+  "https://www.phoronix.com/news/NVIDIA-CUDA-13.5": {
+    "title": "NVIDIA CUDA 13.5 Released With Production Support For Vera Rubin",
+    "source": "Phoronix",
+    "first_seen": "2026-11-05T01:07:07.862053+00:00",
+    "published": "2026-11-04T21:11:41+00:00"
+  },
+  "https://dbushell.com/2026/11/03/xslt-rip": {
+    "title": "Death Comes for XSLT",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-05T01:07:07.862053+00:00",
+    "published": "2026-11-04T20:57:10+00:00"
+  },
+  "https://layer3intel.com/blog/residential-proxies-white-house-network": {
+    "title": "Residential proxies detected on White House network",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-05T01:07:07.862053+00:00",
+    "published": "2026-11-04T20:45:18+00:00"
+  },
+  "https://github.com/gauge-sh/gauge-cli": {
+    "title": "Show HN: Gauge – Open-Source CLI to recursively improve your docs",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-05T01:07:07.862053+00:00",
+    "published": "2026-11-04T20:31:30+00:00"
+  },
+  "https://pytorch.org/blog/call-for-proposals-pytorch-day-china-2026": {
+    "title": "Call for Proposals: PyTorch Day China 2026",
+    "source": "PyTorch Blog",
+    "first_seen": "2026-11-05T01:07:07.862053+00:00",
+    "published": "2026-11-04T20:29:55+00:00"
+  },
+  "https://www.databricks.com/blog/enterprise-case-open-weight-models-databricks": {
+    "title": "The Enterprise Case for Open-Weight Models on Databricks",
+    "source": "Databricks Blog",
+    "first_seen": "2026-11-05T01:07:07.862053+00:00",
+    "published": "2026-11-04T20:00:00+00:00"
+  },
+  "https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra": {
+    "title": "Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-05T01:07:07.862053+00:00",
+    "published": "2026-11-04T19:55:14+00:00"
+  },
+  "https://www.birdsoutsidemywindow.org/2026/11/03/insects-dont-swarm-at-led-lights": {
+    "title": "Insects don't swarm at LED lights",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-05T01:07:07.862053+00:00",
+    "published": "2026-11-04T19:50:23+00:00"
+  },
+  "https://www.phoronix.com/news/Intel-One-Mono-1.5": {
+    "title": "Intel One Mono Font Family Updated With Various Enhancements",
+    "source": "Phoronix",
+    "first_seen": "2026-11-05T01:07:07.862053+00:00",
+    "published": "2026-11-04T19:27:03+00:00"
+  },
+  "https://www.ricursive.com/ripple": {
+    "title": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-05T01:07:07.862053+00:00",
+    "published": "2026-11-04T18:53:29+00:00"
+  },
+  "https://fireflyk64.github.io/wcmulti": {
+    "title": "Show HN: After a decade of reversing, I got co-op working in DOS Wing Commander",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-05T01:07:07.862053+00:00",
+    "published": "2026-11-04T18:51:27+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/use-decision-models-with-amazon-bedrock-agentcore-evaluations": {
+    "title": "Use decision models with Amazon Bedrock AgentCore Evaluations",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-11-05T01:07:07.862053+00:00",
+    "published": "2026-11-04T18:46:36+00:00"
+  },
+  "https://developer.nvidia.com/blog/nvidia-cuda-13-5-brings-nvidia-vera-rubin-ga-support": {
+    "title": "NVIDIA CUDA 13.5 Brings NVIDIA Vera Rubin GA Support",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-11-05T01:07:07.862053+00:00",
+    "published": "2026-11-04T18:46:07+00:00"
+  },
+  "https://longreads.com/2026/11/03/murder-friendship-doubt": {
+    "title": "Have I befriended a murderer?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-05T01:07:07.862053+00:00",
+    "published": "2026-11-04T18:40:54+00:00"
+  },
+  "https://www.conductor.build/announcement": {
+    "title": "Conductor is joining Meta",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-05T01:07:07.862053+00:00",
+    "published": "2026-11-04T18:22:40+00:00"
+  },
+  "https://aws.amazon.com/blogs/compute/plan-and-measure-ec2-flexibility-with-amazon-ec2-capacity-manager": {
+    "title": "Plan and measure EC2 flexibility with Amazon EC2 Capacity Manager",
+    "source": "AWS Compute Blog",
+    "first_seen": "2026-11-05T01:07:07.862053+00:00",
+    "published": "2026-11-04T18:11:34+00:00"
+  },
+  "https://research.google/blog/agile-deliberation-how-ai-helps-humans-define-the-gray-areas": {
+    "title": "Agile Deliberation: How AI helps humans define the gray areas",
+    "source": "Google Research",
+    "first_seen": "2026-11-05T01:07:07.862053+00:00",
+    "published": "2026-11-04T18:07:05+00:00"
+  },
+  "https://thenewstack.io/render-vercel-ai-sandboxes": {
+    "title": "Render just removed its AI sandbox time limit — and Vercel still has a 24-hour cap",
+    "source": "The New Stack",
+    "first_seen": "2026-11-05T01:07:07.862053+00:00",
+    "published": "2026-11-04T18:04:17+00:00"
+  },
+  "https://thenewstack.io/failed-file-transfer-ai-troubleshooting": {
+    "title": "Fortra says AI could save file transfer admins up to 160 hours a year",
+    "source": "The New Stack",
+    "first_seen": "2026-11-05T01:07:07.862053+00:00",
+    "published": "2026-11-04T17:53:47+00:00"
+  },
+  "https://go.dev/blog/jsonv2": {
+    "title": "A new Go API for JSON",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-05T01:07:07.862053+00:00",
+    "published": "2026-11-04T17:52:11+00:00"
+  },
+  "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor": {
+    "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-11-05T01:07:07.862053+00:00",
+    "published": "2026-11-04T17:50:10+00:00"
+  },
+  "https://news.ycombinator.com/item?id=50368804": {
+    "title": "Launch HN: Kino AI (YC S23) – AI media manager and video editor",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-05T01:07:07.862053+00:00",
+    "published": "2026-11-04T17:31:53+00:00"
+  },
+  "https://www.anthropic.com/research/provable-inference": {
+    "title": "Progress on provable inference for large language models",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-05T01:07:07.862053+00:00",
+    "published": "2026-11-04T17:17:46+00:00"
+  },
+  "https://developer.nvidia.com/blog/how-nvidia-factory-operations-blueprint-coordinates-ai-agents-to-investigate-production-issues": {
+    "title": "How NVIDIA Factory Operations Blueprint Coordinates AI Agents to Investigate Production Issues",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-11-05T01:07:07.862053+00:00",
+    "published": "2026-11-04T17:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/topics/public-sector/highlights-and-reflections-from-google-public-sector-summit-where-mission-meets-moonshot": {
+    "title": "Highlights and reflections from Google Public Sector Summit: Where mission meets moonshot",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-11-05T01:07:07.862053+00:00",
+    "published": "2026-11-04T17:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/identity-security/helping-you-build-and-defend-at-machine-speed-in-the-agentic-era": {
+    "title": "Helping you build and defend at machine-speed in the agentic era",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-11-05T01:07:07.862053+00:00",
+    "published": "2026-11-04T17:00:00+00:00"
+  },
+  "https://thenewstack.io/claude-plugin-identity-issuer": {
+    "title": "“Signing in to your company’s plugins one by one is annoying”: Anthropic’s fix puts Claude in the identity business",
+    "source": "The New Stack",
+    "first_seen": "2026-11-05T01:07:07.862053+00:00",
+    "published": "2026-11-04T16:59:22+00:00"
+  },
+  "https://stackoverflow.blog/2026/11/04/your-net-parallel-loop-can-become-serial-in-a-one-cpu-container": {
+    "title": "Your .NET parallel loop can become serial in a one-CPU container",
+    "source": "Stack Overflow Blog",
+    "first_seen": "2026-11-05T01:07:07.862053+00:00",
+    "published": "2026-11-04T16:34:13+00:00"
+  },
+  "https://azure.microsoft.com/en-us/blog/predicting-and-detecting-failures-how-azure-strengthens-reliability-for-mission-critical-workloads": {
+    "title": "Predicting and detecting failures: How Azure strengthens reliability for mission-critical workloads",
+    "source": "Azure Blog",
+    "first_seen": "2026-11-05T01:07:07.862053+00:00",
+    "published": "2026-11-04T16:00:00+00:00"
+  },
+  "https://huggingface.co/moonshotai/Kimi-K3.1-Pro": {
+    "title": "Kimi K3.1 Pro model weights are out",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-05T01:07:07.862053+00:00",
+    "published": "2026-11-04T15:30:30+00:00"
+  },
+  "https://simonwillison.net/2026/Nov/4/datasette-llm": {
+    "title": "datasette-llm 0.1a10",
+    "source": "Simon Willison",
+    "first_seen": "2026-11-05T01:07:07.862053+00:00",
+    "published": "2026-11-04T15:26:02+00:00"
+  },
+  "https://neon.com/blog/inside-a-kylon-room-where-people-and-agents-build-apps-on-neon": {
+    "title": "Inside a Kylon room, where people and agents build apps on Neon",
+    "source": "Neon Blog",
+    "first_seen": "2026-11-05T01:07:07.862053+00:00",
+    "published": "2026-11-04T12:00:00+00:00"
+  },
+  "https://neon.com/blog/is-mcp-good-yet": {
+    "title": "Is MCP good yet?",
+    "source": "Neon Blog",
+    "first_seen": "2026-11-05T01:07:07.862053+00:00",
+    "published": "2026-11-04T09:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/chrome-enterprise/chrome-enterprise-premium-drives-50-projected-cost-reduction-for-mercari": {
+    "title": "Chrome Enterprise Premium drives 50%+ projected cost reduction for Mercari",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-11-05T01:07:07.862053+00:00",
+    "published": "2026-11-04T09:00:00+00:00"
+  },
+  "https://simonwillison.net/2026/Nov/4/datasette-apps": {
+    "title": "datasette-apps 0.3a0",
+    "source": "Simon Willison",
+    "first_seen": "2026-11-05T01:07:07.862053+00:00",
+    "published": "2026-11-04T00:29:36+00:00"
+  },
+  "https://www.elastic.co/blog/ai-adoption-in-soc": {
+    "title": "AI in the SOC: Where security teams stand",
+    "source": "Elastic Blog",
+    "first_seen": "2026-11-05T01:07:07.862053+00:00",
+    "published": "2026-11-04T00:00:00+00:00"
+  },
+  "https://openai.com/index/devrev-enterprise-self-service": {
+    "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-11-05T01:07:07.862053+00:00",
+    "published": "2026-11-04T00:00:00+00:00"
+  },
+  "https://simonwillison.net/2026/Nov/3/datasette-agent": {
+    "title": "datasette-agent 0.5a0",
+    "source": "Simon Willison",
+    "first_seen": "2026-11-05T01:07:07.862053+00:00",
+    "published": "2026-11-03T23:13:45+00:00"
+  },
+  "https://simonwillison.net/2026/Nov/3/llm": {
+    "title": "llm 0.37.1",
+    "source": "Simon Willison",
+    "first_seen": "2026-11-05T01:07:07.862053+00:00",
+    "published": "2026-11-03T21:41:42+00:00"
   }
 }
