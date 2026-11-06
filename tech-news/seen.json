@@ -119816,5 +119816,281 @@
     "source": "OpenAI Blog",
     "first_seen": "2026-11-06T01:14:08.650849+00:00",
     "published": "2026-11-05T08:00:00+00:00"
+  },
+  "https://www.thoughtworks.com/insights/blog/careers-at-thoughtworks/the-people-behind-our-onboarding-experience": {
+    "title": "Beyond the award: The people behind our onboarding experience",
+    "source": "ThoughtWorks",
+    "first_seen": "2026-11-06T16:24:28.385130+00:00",
+    "published": "2026-11-10T00:00:00+00:00"
+  },
+  "https://medium.com/pinterest-engineering/safe-and-efficient-multi-epoch-embedding-training-103bec2abc83?source=rss----4c5a5f6279b6---4": {
+    "title": "Safe and Efficient Multi-Epoch Embedding Training",
+    "source": "Pinterest Engineering",
+    "first_seen": "2026-11-06T16:24:28.385130+00:00",
+    "published": "2026-11-06T16:01:03+00:00"
+  },
+  "https://www.filfre.net/2026/11/deus-ex": {
+    "title": "Deus Ex",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-06T16:24:28.385130+00:00",
+    "published": "2026-11-06T15:44:36+00:00"
+  },
+  "https://thenewstack.io/cursor-ai-app-deployment": {
+    "title": "“Most apps never make it off localhost”: Cursor takes on Lovable and Replit with fully managed app deployment",
+    "source": "The New Stack",
+    "first_seen": "2026-11-06T16:24:28.385130+00:00",
+    "published": "2026-11-06T15:15:21+00:00"
+  },
+  "https://github.com/zalando-incubator/agentic-identity-broker": {
+    "title": "Show HN: Agentic Identity Broker, OAuth Delegation for AI Agents",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-06T16:24:28.385130+00:00",
+    "published": "2026-11-06T15:07:47+00:00"
+  },
+  "https://www.faa.gov/newsroom/trumps-transportation-secretary-sean-p-duffy-begins-retiring-decades-old-floppy-disks-air": {
+    "title": "FAA Begins Retiring Decades Old Floppy Disks from Air Traffic Control",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-06T16:24:28.385130+00:00",
+    "published": "2026-11-06T15:03:24+00:00"
+  },
+  "https://www.visualcapitalist.com/where-each-states-tax-revenue-comes-from": {
+    "title": "Where Each U.S. State Gets Its Tax Revenue From",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-06T16:24:28.385130+00:00",
+    "published": "2026-11-06T15:02:07+00:00"
+  },
+  "https://www.wired.com/story/rip-cybertruck-you-were-unloved-unwanted-and-utterly-absurd": {
+    "title": "RIP Cybertruck. You Were Unloved, Unwanted, and Utterly Absurd",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-06T16:24:28.385130+00:00",
+    "published": "2026-11-06T15:01:38+00:00"
+  },
+  "https://blog.angular.dev/core-vitals-optimization-ssr-deployments-and-signal-first-architecture-be82fd4a8c87?source=rss----447683c3d9a3---4": {
+    "title": "Core Vitals Optimization, SSR Deployments, and Signal-First Architecture ⚡",
+    "source": "Angular Blog",
+    "first_seen": "2026-11-06T16:24:28.385130+00:00",
+    "published": "2026-11-06T15:01:04+00:00"
+  },
+  "https://news.ycombinator.com/item?id=50393105": {
+    "title": "Ask HN: What in the world is taking Ubuntu so long?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-06T16:24:28.385130+00:00",
+    "published": "2026-11-06T14:58:33+00:00"
+  },
+  "https://sharedphysics.com/lippitt-knoster-in-practice-field-notes-for-managing-complex-projects": {
+    "title": "Lippitt-Knoster in Practice (Field Notes for Managing Complex Projects)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-06T16:24:28.385130+00:00",
+    "published": "2026-11-06T14:57:16+00:00"
+  },
+  "https://www.phoronix.com/review/cachyos-omarchy-benchmarks": {
+    "title": "Arch Linux vs. CachyOS vs. Omarchy 4.5 Performance Benchmarks",
+    "source": "Phoronix",
+    "first_seen": "2026-11-06T16:24:28.385130+00:00",
+    "published": "2026-11-06T14:55:52+00:00"
+  },
+  "https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287": {
+    "title": "University libraries are being swarmed by AI bots, putting public access at risk",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-06T16:24:28.385130+00:00",
+    "published": "2026-11-06T14:13:09+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-2026-x86-32-bit-Cleanup": {
+    "title": "Linux x86 32-bit Patches Clean Old Kernel Code After Recently Removing Vintage CPUs",
+    "source": "Phoronix",
+    "first_seen": "2026-11-06T16:24:28.385130+00:00",
+    "published": "2026-11-06T14:11:31+00:00"
+  },
+  "https://lwn.net/Articles/1105881": {
+    "title": "Security updates for Friday",
+    "source": "LWN.net",
+    "first_seen": "2026-11-06T16:24:28.385130+00:00",
+    "published": "2026-11-06T14:04:54+00:00"
+  },
+  "https://huggingface.co/blog/allenai/toyblocks": {
+    "title": "ToyBlocks: A controlled world for robot learning and evaluation",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-11-06T16:24:28.385130+00:00",
+    "published": "2026-11-06T14:00:48+00:00"
+  },
+  "https://realpython.com/ai-news-weekly-2026-11-06": {
+    "title": "A Fake Claude Code Extension Tried to Open a Backdoor to Your PC",
+    "source": "Real Python",
+    "first_seen": "2026-11-06T16:24:28.385130+00:00",
+    "published": "2026-11-06T14:00:00+00:00"
+  },
+  "https://blog.cloudflare.com/vole-mole": {
+    "title": "The post-quantum future of web privacy",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-11-06T16:24:28.385130+00:00",
+    "published": "2026-11-06T14:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/FEX-2611-Released": {
+    "title": "FEX Awaits The Linux Kernel To Align With Windows & macOS On ARM Register Usage",
+    "source": "Phoronix",
+    "first_seen": "2026-11-06T16:24:28.385130+00:00",
+    "published": "2026-11-06T13:12:24+00:00"
+  },
+  "https://www.construction-physics.com/p/how-do-building-codes-affect-the": {
+    "title": "How Do Building Codes Affect the Price of Housing?",
+    "source": "Construction Physics",
+    "first_seen": "2026-11-06T16:24:28.385130+00:00",
+    "published": "2026-11-06T13:01:35+00:00"
+  },
+  "https://www.cncf.io/blog/2026/11/06/faster-llm-inference-startup-what-you-need-to-know": {
+    "title": "Faster LLM inference startup: What you need to know",
+    "source": "CNCF Blog",
+    "first_seen": "2026-11-06T16:24:28.385130+00:00",
+    "published": "2026-11-06T12:00:00+00:00"
+  },
+  "https://realpython.com/quizzes/python-lbyl-vs-eafp": {
+    "title": "Quiz: LBYL vs EAFP: Preventing or Handling Errors in Python",
+    "source": "Real Python",
+    "first_seen": "2026-11-06T16:24:28.385130+00:00",
+    "published": "2026-11-06T12:00:00+00:00"
+  },
+  "https://realpython.com/podcasts/rpp/318": {
+    "title": "The Real Python Podcast – Episode #318: Free-Threaded Python: Why Python Devs Should Know About the ABI",
+    "source": "Real Python",
+    "first_seen": "2026-11-06T16:24:28.385130+00:00",
+    "published": "2026-11-06T12:00:00+00:00"
+  },
+  "https://blog.trailofbits.com/2026/11/06/after-binance-check-what-your-signing-systems-can-approve": {
+    "title": "After Binance, check what your signing systems can approve",
+    "source": "Trail of Bits",
+    "first_seen": "2026-11-06T16:24:28.385130+00:00",
+    "published": "2026-11-06T12:00:00+00:00"
+  },
+  "https://thenewstack.io/gvisor-cncf-kubernetes-open-source": {
+    "title": "Kubernetes, mark II? Why Google’s giving away gVisor, a code sandbox used by Anthropic and OpenAI",
+    "source": "The New Stack",
+    "first_seen": "2026-11-06T16:24:28.385130+00:00",
+    "published": "2026-11-06T11:49:04+00:00"
+  },
+  "https://github.com/Unleash/unleash": {
+    "title": "We've built an open-source feature flag server for 11 years",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-06T16:24:28.385130+00:00",
+    "published": "2026-11-06T11:40:06+00:00"
+  },
+  "https://www.phoronix.com/news/Ubuntu-Going-With-Firmware-HWE": {
+    "title": "Ubuntu Moving Ahead With Plans For Splitting Up Linux-Firmware, HWE Option",
+    "source": "Phoronix",
+    "first_seen": "2026-11-06T16:24:28.385130+00:00",
+    "published": "2026-11-06T11:19:09+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-Drop-RT_GROUP_SCHED": {
+    "title": "Linux Developers Look To Drop RT_GROUP_SCHED As It's \"Broken Beyond Repair\"",
+    "source": "Phoronix",
+    "first_seen": "2026-11-06T16:24:28.385130+00:00",
+    "published": "2026-11-06T11:09:14+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.4-rc2-Sound": {
+    "title": "Sound Subsystem Seeing Lots Of Fixes & Laptop/Device Quirks For Linux 7.4-rc2",
+    "source": "Phoronix",
+    "first_seen": "2026-11-06T16:24:28.385130+00:00",
+    "published": "2026-11-06T10:58:08+00:00"
+  },
+  "https://www.phoronix.com/news/OpenCV-5.1-Released": {
+    "title": "OpenCV 5.1 Brings More AVX-512 Optimizations, Other Improvements",
+    "source": "Phoronix",
+    "first_seen": "2026-11-06T16:24:28.385130+00:00",
+    "published": "2026-11-06T10:36:58+00:00"
+  },
+  "https://jhr.pensoft.net/articles.php?id=9096": {
+    "title": "Living beyond the limits of survival: wood ants trapped in a gigantic pitfall (2016)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-06T16:24:28.385130+00:00",
+    "published": "2026-11-06T10:21:15+00:00"
+  },
+  "https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105": {
+    "title": "Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-06T16:24:28.385130+00:00",
+    "published": "2026-11-06T09:27:12+00:00"
+  },
+  "https://www.anthropic.com/research/how-researchers-use-claude": {
+    "title": "AI for scientific discovery: How researchers use Claude",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-06T16:24:28.385130+00:00",
+    "published": "2026-11-06T09:13:30+00:00"
+  },
+  "https://stackoverflow.blog/2026/11/06/welcome-to-life-in-the-chip-age": {
+    "title": "Welcome to life in the chip age",
+    "source": "Stack Overflow Blog",
+    "first_seen": "2026-11-06T16:24:28.385130+00:00",
+    "published": "2026-11-06T08:40:00+00:00"
+  },
+  "https://www.norvig.com/chomsky.html": {
+    "title": "Chomsky and the Two Cultures of Statistical Learning (2011)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-06T16:24:28.385130+00:00",
+    "published": "2026-11-06T08:18:36+00:00"
+  },
+  "https://worldstrike.fun": {
+    "title": "Multiplayer tanks that demolish real buildings from OpenStreetMap",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-06T16:24:28.385130+00:00",
+    "published": "2026-11-06T07:55:48+00:00"
+  },
+  "https://apps.metaebene.me/en/kugelblitz": {
+    "title": "Kugelblitz – Mac-Native Google Earth Alternative",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-06T16:24:28.385130+00:00",
+    "published": "2026-11-06T07:47:38+00:00"
+  },
+  "https://github.com/ppmpreetham/BUI": {
+    "title": "Blender's UI and Runtime: Much Faster Than GPUI",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-06T16:24:28.385130+00:00",
+    "published": "2026-11-06T07:40:35+00:00"
+  },
+  "https://www.cert-in.org.in/s2cMainServlet?pageid=PUBVLNOTES01&VLCODE=CIVN-2026-0537": {
+    "title": "Hardcoded credentials and other issues in Tata Motors App",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-06T16:24:28.385130+00:00",
+    "published": "2026-11-06T07:28:39+00:00"
+  },
+  "https://www.reuters.com/business/world-at-work/britain-make-salary-disclosure-job-ads-mandatory-2026-11-05": {
+    "title": "Britain to make salary disclosure in job ads mandatory",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-06T16:24:28.385130+00:00",
+    "published": "2026-11-06T07:22:04+00:00"
+  },
+  "https://www.docker.com/blog/docker-sandboxes-vs-containers": {
+    "title": "Docker Sandboxes vs. Containers: Choosing the Right Isolation for AI Agents",
+    "source": "Docker Blog",
+    "first_seen": "2026-11-06T16:24:28.385130+00:00",
+    "published": "2026-11-06T03:17:04+00:00"
+  },
+  "https://www.thoughtworks.com/insights/blog/why-a-language-model-misses-fraud-in-your-transaction-data": {
+    "title": "Why a language model misses fraud in your transaction data",
+    "source": "ThoughtWorks",
+    "first_seen": "2026-11-06T16:24:28.385130+00:00",
+    "published": "2026-11-06T00:00:00+00:00"
+  },
+  "https://www.thoughtworks.com/insights/blog/data-strategy/closing-the-context-gap-is-what-banking-ai-needs": {
+    "title": "Closing the context gap is what banking AI needs",
+    "source": "ThoughtWorks",
+    "first_seen": "2026-11-06T16:24:28.385130+00:00",
+    "published": "2026-11-06T00:00:00+00:00"
+  },
+  "https://huggingface.co/blog/open-asr-leaderboard-liva": {
+    "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-11-06T16:24:28.385130+00:00",
+    "published": "2026-11-06T00:00:00+00:00"
+  },
+  "https://fly.io/blog/well-that-wasnt-fun": {
+    "title": "Well, That Wasn't Fun: October 16 '26",
+    "source": "Fly.io Blog",
+    "first_seen": "2026-11-06T16:24:28.385130+00:00",
+    "published": "2026-11-06T00:00:00+00:00"
+  },
+  "https://openai.com/index/australian-universities-ai-native-graduates": {
+    "title": "Australian universities are creating AI-native graduates",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-11-06T16:24:28.385130+00:00",
+    "published": "2026-11-05T17:00:00+00:00"
   }
 }
