@@ -120458,5 +120458,167 @@
     "source": "Google Cloud Blog",
     "first_seen": "2026-11-07T00:28:12.182907+00:00",
     "published": "2026-11-05T23:00:00+00:00"
+  },
+  "http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html": {
+    "title": "The $8 Linux Computer (2022)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-07T15:15:09.395087+00:00",
+    "published": "2026-11-07T14:00:20+00:00"
+  },
+  "https://realpython.com/python-thonny": {
+    "title": "Thonny: The Beginner-Friendly Python Editor",
+    "source": "Real Python",
+    "first_seen": "2026-11-07T15:15:09.395087+00:00",
+    "published": "2026-11-07T14:00:00+00:00"
+  },
+  "https://realpython.com/intro-to-pyenv": {
+    "title": "Managing Multiple Python Versions With pyenv",
+    "source": "Real Python",
+    "first_seen": "2026-11-07T15:15:09.395087+00:00",
+    "published": "2026-11-07T14:00:00+00:00"
+  },
+  "https://realpython.com/absolute-vs-relative-python-imports": {
+    "title": "Absolute vs Relative Imports in Python",
+    "source": "Real Python",
+    "first_seen": "2026-11-07T15:15:09.395087+00:00",
+    "published": "2026-11-07T14:00:00+00:00"
+  },
+  "https://www.construction-physics.com/p/reading-list-1172026": {
+    "title": "Reading List 11/7/2026",
+    "source": "Construction Physics",
+    "first_seen": "2026-11-07T15:15:09.395087+00:00",
+    "published": "2026-11-07T13:23:36+00:00"
+  },
+  "https://www.phoronix.com/news/HyprBSD": {
+    "title": "HyprBSD Provides Wayland-Based Desktop Built Atop FreeBSD, Complete With Steam Gaming",
+    "source": "Phoronix",
+    "first_seen": "2026-11-07T15:15:09.395087+00:00",
+    "published": "2026-11-07T12:45:00+00:00"
+  },
+  "https://www.cncf.io/blog/2026/11/07/we-organized-sustainability-month-heres-what-we-learned-%f0%9f%8c%b1": {
+    "title": "We organized Sustainability Month. Here’s what we learned. 🌱",
+    "source": "CNCF Blog",
+    "first_seen": "2026-11-07T15:15:09.395087+00:00",
+    "published": "2026-11-07T12:30:00+00:00"
+  },
+  "https://www.phoronix.com/news/Kmorph-Linux-Crash-Recovery": {
+    "title": "Kmorph Aims To Provide Rebootless Linux Kernel Crash Recovery",
+    "source": "Phoronix",
+    "first_seen": "2026-11-07T15:15:09.395087+00:00",
+    "published": "2026-11-07T12:05:00+00:00"
+  },
+  "https://realpython.com/quizzes/intro-to-pyenv": {
+    "title": "Quiz: Managing Multiple Python Versions With pyenv",
+    "source": "Real Python",
+    "first_seen": "2026-11-07T15:15:09.395087+00:00",
+    "published": "2026-11-07T12:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/KDE-Plasma-6.9-Leak-Desktop": {
+    "title": "KDE Plasma 6.9 Will Stop Leaking Memory When Right Clicking Files/Folders On Desktop",
+    "source": "Phoronix",
+    "first_seen": "2026-11-07T15:15:09.395087+00:00",
+    "published": "2026-11-07T11:34:48+00:00"
+  },
+  "https://www.phoronix.com/news/Vulkan-1.4.368": {
+    "title": "Vulkan 1.4.368 Released With New Extensions From Valve & NVIDIA",
+    "source": "Phoronix",
+    "first_seen": "2026-11-07T15:15:09.395087+00:00",
+    "published": "2026-11-07T10:53:10+00:00"
+  },
+  "https://www.phoronix.com/news/Azure-Linux-3.0.2022": {
+    "title": "Microsoft's Azure Linux 3.0.2022 Ships With More Than 470 Security Fixes",
+    "source": "Phoronix",
+    "first_seen": "2026-11-07T15:15:09.395087+00:00",
+    "published": "2026-11-07T10:37:42+00:00"
+  },
+  "https://www.phoronix.com/news/Asahi-Linux-7.3-Report": {
+    "title": "Asahi Linux Makes Progress On Gaming, More Apple Silicon Upstreaming",
+    "source": "Phoronix",
+    "first_seen": "2026-11-07T15:15:09.395087+00:00",
+    "published": "2026-11-07T10:21:03+00:00"
+  },
+  "https://uploadyourram.org": {
+    "title": "Upload Your RAM",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-07T15:15:09.395087+00:00",
+    "published": "2026-11-07T10:15:26+00:00"
+  },
+  "https://lwn.net/Articles/1105936": {
+    "title": "Asahi Linux 7.3 progress report",
+    "source": "LWN.net",
+    "first_seen": "2026-11-07T15:15:09.395087+00:00",
+    "published": "2026-11-07T09:49:38+00:00"
+  },
+  "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph": {
+    "title": "Every Mac comes with an (undocumented) family member classifier",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-07T15:15:09.395087+00:00",
+    "published": "2026-11-07T09:46:03+00:00"
+  },
+  "https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition": {
+    "title": "Running a law firm on Free software",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-07T15:15:09.395087+00:00",
+    "published": "2026-11-07T09:39:06+00:00"
+  },
+  "https://acid.vegas/blog/the-port-that-does-not-exist": {
+    "title": "Port 0: The Port That Does Not Exist",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-07T15:15:09.395087+00:00",
+    "published": "2026-11-07T09:38:26+00:00"
+  },
+  "https://nfsu2.xyz": {
+    "title": "Need for Speed Underground 2 online in the browser",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-07T15:15:09.395087+00:00",
+    "published": "2026-11-07T09:36:36+00:00"
+  },
+  "https://lwn.net/Articles/1105934": {
+    "title": "Amutable Foundations: A Technical Overview",
+    "source": "LWN.net",
+    "first_seen": "2026-11-07T15:15:09.395087+00:00",
+    "published": "2026-11-07T09:32:56+00:00"
+  },
+  "https://www.anthropic.com/research/components-of-agent-memory": {
+    "title": "The Components of Agent Memory",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-07T15:15:09.395087+00:00",
+    "published": "2026-11-07T06:39:04+00:00"
+  },
+  "https://www.science.org/content/article/barbarian-tribe-s-mythic-origin-story-true-ancient-dna-reveals": {
+    "title": "A barbarian tribe's mythic origin story is true, ancient DNA reveals",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-07T15:15:09.395087+00:00",
+    "published": "2026-11-07T04:54:36+00:00"
+  },
+  "https://www.multifamilydive.com/news/realpage-rent-pricing-case-360m-renters/873553": {
+    "title": "RealPage rent-pricing case wraps with nearly $360M to renters",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-07T15:15:09.395087+00:00",
+    "published": "2026-11-06T23:37:19+00:00"
+  },
+  "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/building-the-next-generation-of-multimodal-ai-experiences-with-fal-in-microsoft-/4570032": {
+    "title": "Building the next generation of multimodal AI experiences with fal in Microsoft Foundry",
+    "source": "Azure Blog",
+    "first_seen": "2026-11-07T15:15:09.395087+00:00",
+    "published": "2026-11-06T19:08:44+00:00"
+  },
+  "https://mattlakeman.org/2026/11/05/notes-on-san-marino": {
+    "title": "Notes on San Marino",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-07T15:15:09.395087+00:00",
+    "published": "2026-11-06T17:12:05+00:00"
+  },
+  "https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817": {
+    "title": "Tesla to wind down Cybertruck production",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-07T15:15:09.395087+00:00",
+    "published": "2026-11-06T12:13:51+00:00"
+  },
+  "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05": {
+    "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-07T15:15:09.395087+00:00",
+    "published": "2026-11-06T04:00:28+00:00"
   }
 }
