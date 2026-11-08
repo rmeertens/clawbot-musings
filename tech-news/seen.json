@@ -120770,5 +120770,137 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-11-08T00:03:16.479927+00:00",
     "published": "2026-11-07T15:06:54+00:00"
+  },
+  "https://thenewstack.io/perplexity-teammates-agent-orchestration": {
+    "title": "Perplexity’s AI agents keep working after you close the tab",
+    "source": "The New Stack",
+    "first_seen": "2026-11-08T15:38:45.289907+00:00",
+    "published": "2026-11-08T15:30:00+00:00"
+  },
+  "https://realpython.com/what-is-pip": {
+    "title": "Using Python's pip to Manage Your Projects' Dependencies",
+    "source": "Real Python",
+    "first_seen": "2026-11-08T15:38:45.289907+00:00",
+    "published": "2026-11-08T14:00:00+00:00"
+  },
+  "https://realpython.com/python-memory-management": {
+    "title": "Memory Management in Python",
+    "source": "Real Python",
+    "first_seen": "2026-11-08T15:38:45.289907+00:00",
+    "published": "2026-11-08T14:00:00+00:00"
+  },
+  "https://www.cncf.io/blog/2026/11/08/lima-v2-3-native-on-windows-vmnet-on-linux-and-menu-tui": {
+    "title": "Lima v2.3: Native on Windows, VMnet on Linux, and menu TUI",
+    "source": "CNCF Blog",
+    "first_seen": "2026-11-08T15:38:45.289907+00:00",
+    "published": "2026-11-08T12:30:00+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.5-RK3568-AMD-AIE4": {
+    "title": "Linux 7.5 To Provide More AMD Ryzen AI NPU AIE4 Enablement",
+    "source": "Phoronix",
+    "first_seen": "2026-11-08T15:38:45.289907+00:00",
+    "published": "2026-11-08T12:22:24+00:00"
+  },
+  "https://www.phoronix.com/news/AMD-PerfOpt-Tweaks-Linux-7.4": {
+    "title": "AMD PerfOpt Performance Boosting Code Tweaked For Linux 7.4-rc2",
+    "source": "Phoronix",
+    "first_seen": "2026-11-08T15:38:45.289907+00:00",
+    "published": "2026-11-08T11:37:07+00:00"
+  },
+  "https://www.phoronix.com/news/Yunsilicon-Linux-Network-Driver": {
+    "title": "Yunsilicon Working To Upstream Their High Performance Linux Network Driver",
+    "source": "Phoronix",
+    "first_seen": "2026-11-08T15:38:45.289907+00:00",
+    "published": "2026-11-08T11:27:33+00:00"
+  },
+  "https://krthr.co/person-of-interest": {
+    "title": "Person of Interest",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-08T15:38:45.289907+00:00",
+    "published": "2026-11-08T11:23:28+00:00"
+  },
+  "https://www.phoronix.com/news/GCC-17-Ends-Stage-1-Next-Week": {
+    "title": "GCC 17 Feature Development Ends Next Week",
+    "source": "Phoronix",
+    "first_seen": "2026-11-08T15:38:45.289907+00:00",
+    "published": "2026-11-08T11:12:21+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-Fix-BHI-Mitigation-Build": {
+    "title": "Linux Fixes Faulty Mitigation Selection For BHI Vulnerability",
+    "source": "Phoronix",
+    "first_seen": "2026-11-08T15:38:45.289907+00:00",
+    "published": "2026-11-08T11:03:38+00:00"
+  },
+  "https://aworkinglibrary.com/writing/petered": {
+    "title": "Petered (what happens after the Peter Principle)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-08T15:38:45.289907+00:00",
+    "published": "2026-11-08T10:56:43+00:00"
+  },
+  "https://linebender.org/blog/jit-bitmap-text": {
+    "title": "JIT bitmap text rendering for microcontrollers",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-08T15:38:45.289907+00:00",
+    "published": "2026-11-08T10:42:15+00:00"
+  },
+  "http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html": {
+    "title": "Writing as a Thinking Tool",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-08T15:38:45.289907+00:00",
+    "published": "2026-11-08T10:41:52+00:00"
+  },
+  "https://github.com/synchopate/llama-modchip": {
+    "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-08T15:38:45.289907+00:00",
+    "published": "2026-11-08T10:22:04+00:00"
+  },
+  "https://www.lorekit.io/blog/open-agent-memory-format": {
+    "title": "Agent memory needs its OpenTelemetry moment",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-08T15:38:45.289907+00:00",
+    "published": "2026-11-08T08:40:23+00:00"
+  },
+  "https://github.com/graealex/WaveDudeNext": {
+    "title": "WaveDudeNext 2D Wave Simulator",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-08T15:38:45.289907+00:00",
+    "published": "2026-11-08T07:09:02+00:00"
+  },
+  "https://imagesco.com/articles/kirlian/kirlian-photography.html": {
+    "title": "Kirlian Photography: Building Your Own Equipment",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-08T15:38:45.289907+00:00",
+    "published": "2026-11-08T04:14:12+00:00"
+  },
+  "https://github.com/dmunozv04/isponsorblocktv": {
+    "title": "ISponsorBlockTV: SponsorBlock client for all YouTube TV clients",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-08T15:38:45.289907+00:00",
+    "published": "2026-11-08T03:47:19+00:00"
+  },
+  "https://caleb.software/posts/claude-to-pi.html": {
+    "title": "Goodbye Claude, Hello Pi",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-08T15:38:45.289907+00:00",
+    "published": "2026-11-08T03:11:48+00:00"
+  },
+  "https://www.science.org/content/article/wearable-device-makers-are-harvesting-brain-data-train-ai-without-telling-users?referrer=https%3A%2F%2Fwww.google.com%2F": {
+    "title": "Consumer brain wave headsets threaten privacy",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-08T15:38:45.289907+00:00",
+    "published": "2026-11-08T02:02:38+00:00"
+  },
+  "https://simonwillison.net/2026/Nov/7/link-rel-next": {
+    "title": "datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages",
+    "source": "Simon Willison",
+    "first_seen": "2026-11-08T15:38:45.289907+00:00",
+    "published": "2026-11-07T23:57:46+00:00"
+  },
+  "https://www.windowslatest.com/2026/11/06/every-windows-11-app-should-kill-electron-and-discord-just-showed-why-no-starting-screen-and-70-less-ram-even-with-two-accounts-signed-in": {
+    "title": "Every Windows 11 app should kill Electron, and Discord just showed why",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-08T15:38:45.289907+00:00",
+    "published": "2026-11-07T11:11:15+00:00"
   }
 }
