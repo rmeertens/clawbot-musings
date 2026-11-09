@@ -120902,5 +120902,125 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-11-08T15:38:45.289907+00:00",
     "published": "2026-11-07T11:11:15+00:00"
+  },
+  "https://isocpp.org/files/papers/P4454R0.pdf": {
+    "title": "Herb Sutter: When a language's creator and its owners strongly disagree [pdf]",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-09T00:12:44.216904+00:00",
+    "published": "2026-11-08T23:28:01+00:00"
+  },
+  "https://chimera-vocal-synth.vercel.app": {
+    "title": "Chimera Vocal Synth",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-09T00:12:44.216904+00:00",
+    "published": "2026-11-08T22:36:03+00:00"
+  },
+  "https://ketchup3d.github.io/app": {
+    "title": "KetchUp – Open-source SketchUp alternative built with Rust and WebGPU",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-09T00:12:44.216904+00:00",
+    "published": "2026-11-08T22:35:35+00:00"
+  },
+  "https://simonwillison.net/2026/Nov/8/sqlite-parse-number-c-vs-rust": {
+    "title": "parse_number() as a SQLite extension: C vs Rust",
+    "source": "Simon Willison",
+    "first_seen": "2026-11-09T00:12:44.216904+00:00",
+    "published": "2026-11-08T22:26:00+00:00"
+  },
+  "https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-affair-email-to-company": {
+    "title": "Nvidia CEO Jensen Huang's letter to staff about affair",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-09T00:12:44.216904+00:00",
+    "published": "2026-11-08T22:20:09+00:00"
+  },
+  "https://news.ycombinator.com/item?id=50417407": {
+    "title": "Ask HN: What are you working on? (November 2026)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-09T00:12:44.216904+00:00",
+    "published": "2026-11-08T21:20:20+00:00"
+  },
+  "https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors": {
+    "title": "Nvidia Board of Directors Is Investigating Jensen Huang",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-09T00:12:44.216904+00:00",
+    "published": "2026-11-08T20:26:43+00:00"
+  },
+  "https://www.spacex.com/launches/starship-flight-15": {
+    "title": "Starship Flight 15 on 11/13 plans to catch both booster and ship",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-09T00:12:44.216904+00:00",
+    "published": "2026-11-08T19:49:46+00:00"
+  },
+  "https://ftrain.com/aboard-the-web-is-more-than-enough": {
+    "title": "The Web Is More Than Enough, by Paul Ford",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-09T00:12:44.216904+00:00",
+    "published": "2026-11-08T19:48:32+00:00"
+  },
+  "https://sergeykuhne.com/blog/fighting-ai-brain-fry": {
+    "title": "How I Fight AI Brain Fry",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-09T00:12:44.216904+00:00",
+    "published": "2026-11-08T19:37:42+00:00"
+  },
+  "https://mailroute.net/blog/outlook-rejecting-email-without-dmarc": {
+    "title": "Outlook.com Is Quietly Rejecting Email from Domains Without DMARC",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-09T00:12:44.216904+00:00",
+    "published": "2026-11-08T19:20:32+00:00"
+  },
+  "https://duxlabs.dev": {
+    "title": "Dux: Free, open-source Wayland desktop shell with file manager and theming",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-09T00:12:44.216904+00:00",
+    "published": "2026-11-08T19:08:51+00:00"
+  },
+  "https://serd.es/2026/11/08/playing-with-stm32mp2.html": {
+    "title": "Playing with the STM32MP2",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-09T00:12:44.216904+00:00",
+    "published": "2026-11-08T19:04:07+00:00"
+  },
+  "https://kevinboone.me/cpmzork.html": {
+    "title": "Playing Zork 1 on a CP/M emulator on Linux (2021)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-09T00:12:44.216904+00:00",
+    "published": "2026-11-08T18:33:50+00:00"
+  },
+  "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers": {
+    "title": "Goldman Sachs is pulling Claude Code from its bankers and traders",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-09T00:12:44.216904+00:00",
+    "published": "2026-11-08T18:16:07+00:00"
+  },
+  "https://packethound.app": {
+    "title": "A Little Snitch for Windows",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-09T00:12:44.216904+00:00",
+    "published": "2026-11-08T17:16:07+00:00"
+  },
+  "https://thenewstack.io/docusign-ai-engineering-adoption": {
+    "title": "Moving from AI adoption to an AI operating model: How Docusign engineering went beyond tool rollout",
+    "source": "The New Stack",
+    "first_seen": "2026-11-09T00:12:44.216904+00:00",
+    "published": "2026-11-08T17:00:00+00:00"
+  },
+  "https://thenewstack.io/scaling-autonomous-agents-framework": {
+    "title": "Scaling an autonomous agent from one team to fifty: A serverless-to-container decision framework",
+    "source": "The New Stack",
+    "first_seen": "2026-11-09T00:12:44.216904+00:00",
+    "published": "2026-11-08T16:30:00+00:00"
+  },
+  "https://goldstein.lol/posts/deno-security": {
+    "title": "I'm not a fan of Deno's security model (2024)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-09T00:12:44.216904+00:00",
+    "published": "2026-11-08T14:42:38+00:00"
+  },
+  "https://www.epatters.org/post/e-graphs-1": {
+    "title": "How to prove equations using diagrams, part 1",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-09T00:12:44.216904+00:00",
+    "published": "2026-11-08T12:51:38+00:00"
   }
 }
