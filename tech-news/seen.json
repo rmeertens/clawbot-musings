@@ -121694,5 +121694,431 @@
     "source": "Elastic Blog",
     "first_seen": "2026-11-10T03:01:27.513730+00:00",
     "published": "2026-11-09T00:00:00+00:00"
+  },
+  "https://blog.bytebytego.com/p/how-github-used-ai-to-port-copilot": {
+    "title": "How GitHub Used AI to Port Copilot From TypeScript to Rust in Record Time",
+    "source": "ByteByteGo",
+    "first_seen": "2026-11-10T16:38:58.245103+00:00",
+    "published": "2026-11-10T16:30:55+00:00"
+  },
+  "https://thenewstack.io/gemini-4-carbon-swarm": {
+    "title": "Google says its new AI proved Signal’s encryption in weeks",
+    "source": "The New Stack",
+    "first_seen": "2026-11-10T16:38:58.245103+00:00",
+    "published": "2026-11-10T16:17:22+00:00"
+  },
+  "https://www.blender.org/download/releases/5-3": {
+    "title": "Blender 5.3 released with Gaussian Splat support",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-10T16:38:58.245103+00:00",
+    "published": "2026-11-10T16:15:43+00:00"
+  },
+  "https://devblogs.microsoft.com/dotnet/announcing-dotnet-11": {
+    "title": "Announcing .NET 11",
+    "source": "MS .NET Blog",
+    "first_seen": "2026-11-10T16:38:58.245103+00:00",
+    "published": "2026-11-10T16:11:00+00:00"
+  },
+  "https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-november-2026-servicing-updates": {
+    "title": ".NET and .NET Framework November 2026 servicing updates",
+    "source": "MS .NET Blog",
+    "first_seen": "2026-11-10T16:38:58.245103+00:00",
+    "published": "2026-11-10T16:10:00+00:00"
+  },
+  "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available": {
+    "title": "Gemini 4 Carbon is now available",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-10T16:38:58.245103+00:00",
+    "published": "2026-11-10T16:07:15+00:00"
+  },
+  "https://deepmind.google/blog/gemini-4-carbon-is-now-available": {
+    "title": "Gemini 4 Carbon is now available",
+    "source": "DeepMind Blog",
+    "first_seen": "2026-11-10T16:38:58.245103+00:00",
+    "published": "2026-11-10T16:03:47+00:00"
+  },
+  "https://www.cncf.io/blog/2026/11/10/welcoming-openshell-to-the-cncf-open-governance-to-secure-agentic-ai": {
+    "title": "Welcoming OpenShell to the CNCF: Open Governance to Secure Agentic AI",
+    "source": "CNCF Blog",
+    "first_seen": "2026-11-10T16:38:58.245103+00:00",
+    "published": "2026-11-10T16:00:00+00:00"
+  },
+  "https://www.cncf.io/blog/2026/11/10/open-cluster-management-ocm-becomes-a-cncf-incubating-project": {
+    "title": "Open Cluster Management (OCM) becomes a CNCF Incubating Project",
+    "source": "CNCF Blog",
+    "first_seen": "2026-11-10T16:38:58.245103+00:00",
+    "published": "2026-11-10T16:00:00+00:00"
+  },
+  "https://www.cncf.io/blog/2026/11/10/jaeger-previews-ai-assisted-troubleshooting-and-genai-observability-for-opentelemetry-traces-at-kubecon": {
+    "title": "Jaeger Previews AI-Assisted Troubleshooting and GenAI Observability for OpenTelemetry Traces at KubeCon",
+    "source": "CNCF Blog",
+    "first_seen": "2026-11-10T16:38:58.245103+00:00",
+    "published": "2026-11-10T16:00:00+00:00"
+  },
+  "https://www.cncf.io/blog/2026/11/10/istio-enables-global-availability-for-all-workloads-traditional-agentic-and-beyond": {
+    "title": "Istio Enables Global Availability for All Workloads — Traditional, Agentic and Beyond",
+    "source": "CNCF Blog",
+    "first_seen": "2026-11-10T16:38:58.245103+00:00",
+    "published": "2026-11-10T16:00:00+00:00"
+  },
+  "https://www.cncf.io/blog/2026/11/10/donating-kuberay-to-cncf": {
+    "title": "Donating KubeRay to CNCF",
+    "source": "CNCF Blog",
+    "first_seen": "2026-11-10T16:38:58.245103+00:00",
+    "published": "2026-11-10T16:00:00+00:00"
+  },
+  "https://www.cncf.io/blog/2026/11/10/cloudnativepg-becomes-a-cncf-incubating-project": {
+    "title": "CloudNativePG becomes a CNCF Incubating Project",
+    "source": "CNCF Blog",
+    "first_seen": "2026-11-10T16:38:58.245103+00:00",
+    "published": "2026-11-10T16:00:00+00:00"
+  },
+  "https://developer.nvidia.com/blog/running-av-reasoning-models-within-onboard-compute-and-latency-limits": {
+    "title": "Running AV Reasoning Models Within Onboard Compute and Latency Limits",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-11-10T16:38:58.245103+00:00",
+    "published": "2026-11-10T16:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/topics/developers-practitioners/experimenting-with-clusternetworkpolicy-in-gke": {
+    "title": "Experimenting with ClusterNetworkPolicy in GKE",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-11-10T16:38:58.245103+00:00",
+    "published": "2026-11-10T16:00:00+00:00"
+  },
+  "https://text.npr.org/nx-s1-6029641": {
+    "title": "Palantir hires a former Democratic senator as it faces scrutiny in new Congress",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-10T16:38:58.245103+00:00",
+    "published": "2026-11-10T15:59:34+00:00"
+  },
+  "https://thenewstack.io/grok-api-watermarking-default": {
+    "title": "SpaceXSI quietly flips Grok API text watermarking to off by default",
+    "source": "The New Stack",
+    "first_seen": "2026-11-10T16:38:58.245103+00:00",
+    "published": "2026-11-10T15:58:44+00:00"
+  },
+  "https://www.phoronix.com/news/KORA-OS": {
+    "title": "KORA Announced As Linux Desktop OS \"For The Age of Intelligence\"",
+    "source": "Phoronix",
+    "first_seen": "2026-11-10T16:38:58.245103+00:00",
+    "published": "2026-11-10T15:53:43+00:00"
+  },
+  "https://thenewstack.io/cncf-developer-ai-adoption": {
+    "title": "New CNCF report: 75% of cloud-native developers ship code with AI. Jonathan Bryce explains why.",
+    "source": "The New Stack",
+    "first_seen": "2026-11-10T16:38:58.245103+00:00",
+    "published": "2026-11-10T15:42:54+00:00"
+  },
+  "https://lwn.net/Articles/1102549": {
+    "title": "[$] Synaptics patent claims stop work on DisplayLink drivers",
+    "source": "LWN.net",
+    "first_seen": "2026-11-10T16:38:58.245103+00:00",
+    "published": "2026-11-10T15:38:10+00:00"
+  },
+  "https://lwn.net/Articles/1106542": {
+    "title": "Firefox 160 released",
+    "source": "LWN.net",
+    "first_seen": "2026-11-10T16:38:58.245103+00:00",
+    "published": "2026-11-10T15:37:42+00:00"
+  },
+  "https://docodethatmatters.com/home-automation-overnight-success": {
+    "title": "Smart home devices should work without the internet",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-10T16:38:58.245103+00:00",
+    "published": "2026-11-10T15:25:20+00:00"
+  },
+  "https://tinyvalencia.com": {
+    "title": "Show HN: Valencia, Spain in Sim City/Isometric View",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-10T16:38:58.245103+00:00",
+    "published": "2026-11-10T15:12:16+00:00"
+  },
+  "https://stoppels.ch/2026/11/07/the-hardest-tarball.html": {
+    "title": "The Hardest Tarball?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-10T16:38:58.245103+00:00",
+    "published": "2026-11-10T15:00:39+00:00"
+  },
+  "https://www.tigerdata.com/blog/split-architecture-second-database": {
+    "title": "You Didn't Choose Your Split Architecture. You Accumulated It.",
+    "source": "Timescale Blog",
+    "first_seen": "2026-11-10T16:38:58.245103+00:00",
+    "published": "2026-11-10T15:00:26+00:00"
+  },
+  "https://newsletter.pragmaticengineer.com/p/software-correctness": {
+    "title": "Software correctness & supply chain security, with Sean Allen",
+    "source": "The Pragmatic Engineer",
+    "first_seen": "2026-11-10T16:38:58.245103+00:00",
+    "published": "2026-11-10T15:00:21+00:00"
+  },
+  "https://tailscale.com/blog/skill-sharing-with-aperture": {
+    "title": "Share skills across users, teams, and agents with Aperture",
+    "source": "Tailscale Blog",
+    "first_seen": "2026-11-10T16:38:58.245103+00:00",
+    "published": "2026-11-10T15:00:00+00:00"
+  },
+  "https://developer.nvidia.com/blog/start-and-restore-gpu-workloads-in-seconds-with-nvidia-snapshot": {
+    "title": "Start and Restore GPU Workloads in Seconds with NVIDIA Snapshot",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-11-10T16:38:58.245103+00:00",
+    "published": "2026-11-10T15:00:00+00:00"
+  },
+  "https://developer.nvidia.com/blog/manage-kubernetes-clusters-for-gpu-infrastructure-with-nvidia-kubernetes-engine": {
+    "title": "Manage Kubernetes Clusters for GPU Infrastructure with NVIDIA Kubernetes Engine",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-11-10T16:38:58.245103+00:00",
+    "published": "2026-11-10T15:00:00+00:00"
+  },
+  "https://developer.nvidia.com/blog/agent-substrate-advancing-kubernetes-for-agents-at-scale": {
+    "title": "Agent Substrate: Advancing Kubernetes for Agents at Scale",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-11-10T16:38:58.245103+00:00",
+    "published": "2026-11-10T15:00:00+00:00"
+  },
+  "https://www.newyorker.com/culture/infinite-scroll/the-death-knell-of-digital-search": {
+    "title": "The Death Knell of Digital Search",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-10T16:38:58.245103+00:00",
+    "published": "2026-11-10T14:41:36+00:00"
+  },
+  "https://martinfowler.com/fragments/2026-11-10.html": {
+    "title": "Fragments: November 10",
+    "source": "Martin Fowler",
+    "first_seen": "2026-11-10T16:38:58.245103+00:00",
+    "published": "2026-11-10T14:30:00+00:00"
+  },
+  "https://martinfowler.com/articles/durable-execution-agents.html": {
+    "title": "Long-horizon agents and durable execution",
+    "source": "Martin Fowler",
+    "first_seen": "2026-11-10T16:38:58.245103+00:00",
+    "published": "2026-11-10T14:10:00+00:00"
+  },
+  "https://lwn.net/Articles/1106522": {
+    "title": "Security updates for Tuesday",
+    "source": "LWN.net",
+    "first_seen": "2026-11-10T16:38:58.245103+00:00",
+    "published": "2026-11-10T14:03:54+00:00"
+  },
+  "https://realpython.com/courses/coding-interview-practice-prefix-sums-binary-search": {
+    "title": "Python Coding Interview Practice: Prefix Sums and Binary Search",
+    "source": "Real Python",
+    "first_seen": "2026-11-10T16:38:58.245103+00:00",
+    "published": "2026-11-10T14:00:00+00:00"
+  },
+  "https://realpython.com/courses/coding-interview-practice-hashing-two-pointers-sliding-windows": {
+    "title": "Python Coding Interview Practice: Hashing, Pointers, and Windows",
+    "source": "Real Python",
+    "first_seen": "2026-11-10T16:38:58.245103+00:00",
+    "published": "2026-11-10T14:00:00+00:00"
+  },
+  "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration": {
+    "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+    "source": "Google AI Blog",
+    "first_seen": "2026-11-10T16:38:58.245103+00:00",
+    "published": "2026-11-10T14:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/Eight-More-XOrg-Server-Issues": {
+    "title": "Eight More Security Issues Made Public For The X.Org Server / XWayland",
+    "source": "Phoronix",
+    "first_seen": "2026-11-10T16:38:58.245103+00:00",
+    "published": "2026-11-10T13:55:33+00:00"
+  },
+  "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare": {
+    "title": "Google Cloud launches Gemini for healthcare.",
+    "source": "Google AI Blog",
+    "first_seen": "2026-11-10T16:38:58.245103+00:00",
+    "published": "2026-11-10T13:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/Lorenzo-Stoakes-AI-Flood": {
+    "title": "Longtime Linux Developer Steps Down From Some Roles Due To Patch Flood Caused By AI",
+    "source": "Phoronix",
+    "first_seen": "2026-11-10T16:38:58.245103+00:00",
+    "published": "2026-11-10T12:54:35+00:00"
+  },
+  "https://letoverlambda.com": {
+    "title": "Let over Lambda–50 Years of Lisp (2008)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-10T16:38:58.245103+00:00",
+    "published": "2026-11-10T12:35:27+00:00"
+  },
+  "https://deepmind.google/blog/introducing-alphaproof-code": {
+    "title": "AlphaProof Code",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-10T16:38:58.245103+00:00",
+    "published": "2026-11-10T12:11:12+00:00"
+  },
+  "https://www.cncf.io/blog/2026/11/10/one-flag-many-guardrails-making-a-platform-safe-enough-to-delegate": {
+    "title": "One flag, many guardrails: Making a platform safe enough to delegate",
+    "source": "CNCF Blog",
+    "first_seen": "2026-11-10T16:38:58.245103+00:00",
+    "published": "2026-11-10T12:00:00+00:00"
+  },
+  "https://realpython.com/quizzes/getting-started-with-git": {
+    "title": "Quiz: Getting Started With Git",
+    "source": "Real Python",
+    "first_seen": "2026-11-10T16:38:58.245103+00:00",
+    "published": "2026-11-10T12:00:00+00:00"
+  },
+  "https://realpython.com/quizzes/coding-interview-practice-prefix-sums-binary-search": {
+    "title": "Quiz: Python Coding Interview Practice: Prefix Sums and Binary Search",
+    "source": "Real Python",
+    "first_seen": "2026-11-10T16:38:58.245103+00:00",
+    "published": "2026-11-10T12:00:00+00:00"
+  },
+  "https://realpython.com/quizzes/coding-interview-practice-hashing-two-pointers-sliding-windows": {
+    "title": "Quiz: Python Coding Interview Practice: Hashing, Pointers, and Windows",
+    "source": "Real Python",
+    "first_seen": "2026-11-10T16:38:58.245103+00:00",
+    "published": "2026-11-10T12:00:00+00:00"
+  },
+  "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life": {
+    "title": "Helping caregivers use AI in everyday life",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-11-10T16:38:58.245103+00:00",
+    "published": "2026-11-10T12:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/ai-machine-learning/gemini-for-healthcare": {
+    "title": "Introducing Gemini for healthcare",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-11-10T16:38:58.245103+00:00",
+    "published": "2026-11-10T12:00:00+00:00"
+  },
+  "https://github.com/HolyArrs/HolyArrs": {
+    "title": "Show HN: A 15 MB self-hosted Netflix and Spotify for your media server",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-10T16:38:58.245103+00:00",
+    "published": "2026-11-10T11:51:19+00:00"
+  },
+  "https://www.phoronix.com/news/ACE-v2-AVX10.3-Posted": {
+    "title": "x86 Ecosystem Advisory Group Posts ACE v2 & AVX10.3 Specs, GCC Patches Ready",
+    "source": "Phoronix",
+    "first_seen": "2026-11-10T16:38:58.245103+00:00",
+    "published": "2026-11-10T11:01:00+00:00"
+  },
+  "https://www.phoronix.com/news/openSUSE-Tumbleweed-Goes-Agama": {
+    "title": "openSUSE Tumbleweed Transitioning To Agama Installer",
+    "source": "Phoronix",
+    "first_seen": "2026-11-10T16:38:58.245103+00:00",
+    "published": "2026-11-10T10:53:06+00:00"
+  },
+  "https://www.phoronix.com/news/Fedora-46-Approves-RPM-v6": {
+    "title": "RPM v6 Format Approved For Fedora 46, ThinLTO Flag Rejected",
+    "source": "Phoronix",
+    "first_seen": "2026-11-10T16:38:58.245103+00:00",
+    "published": "2026-11-10T10:37:05+00:00"
+  },
+  "https://fakedos.com": {
+    "title": "'C:\\> FORMAT C:' – relax, it's just a screen saver",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-10T16:38:58.245103+00:00",
+    "published": "2026-11-10T10:32:36+00:00"
+  },
+  "https://www.phoronix.com/news/KDE-Plasma-6.8.3": {
+    "title": "KDE Plasma 6.8.3 Released With Dozens Of Fixes",
+    "source": "Phoronix",
+    "first_seen": "2026-11-10T16:38:58.245103+00:00",
+    "published": "2026-11-10T10:27:35+00:00"
+  },
+  "https://www.phoronix.com/news/exfatprogs-1.4.4": {
+    "title": "exfatprogs 1.4.4 Brings Speed-Up For Making New exFAT Filesystems",
+    "source": "Phoronix",
+    "first_seen": "2026-11-10T16:38:58.245103+00:00",
+    "published": "2026-11-10T10:18:02+00:00"
+  },
+  "https://connect.queenslibrary.org": {
+    "title": "Queens Public library under ransomware attack e-borrowing suspended",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-10T16:38:58.245103+00:00",
+    "published": "2026-11-10T09:04:39+00:00"
+  },
+  "https://openai.com/index/closing-ai-guidance-gap-education": {
+    "title": "Closing the AI guidance gap in education",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-11-10T16:38:58.245103+00:00",
+    "published": "2026-11-10T09:00:00+00:00"
+  },
+  "https://stackoverflow.blog/2026/11/10/customer-support-is-the-gnarliest-ai-problem": {
+    "title": "Customer support is the gnarliest AI problem",
+    "source": "Stack Overflow Blog",
+    "first_seen": "2026-11-10T16:38:58.245103+00:00",
+    "published": "2026-11-10T08:40:00+00:00"
+  },
+  "https://simonwillison.net/2026/Nov/10/muse-ember": {
+    "title": "Introducing Our Smallest, Most Efficient Model: Muse Ember",
+    "source": "Simon Willison",
+    "first_seen": "2026-11-10T16:38:58.245103+00:00",
+    "published": "2026-11-10T07:28:21+00:00"
+  },
+  "https://medium.com/wix-engineering/the-industrial-revolution-of-software-engineering-f77931ea3904?source=rss----e239c562f907---4": {
+    "title": "The Industrial Revolution of Software Engineering",
+    "source": "Wix Engineering",
+    "first_seen": "2026-11-10T16:38:58.245103+00:00",
+    "published": "2026-11-10T07:25:39+00:00"
+  },
+  "https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor": {
+    "title": "Fireworks AI security breach impacts Notion and their customers",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-10T16:38:58.245103+00:00",
+    "published": "2026-11-10T07:19:38+00:00"
+  },
+  "https://openai.com/index/ai-effect-on-freelance-work": {
+    "title": "Work at the Frontier: AI’s effect on freelance work",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-11-10T16:38:58.245103+00:00",
+    "published": "2026-11-10T07:00:00+00:00"
+  },
+  "https://opentelemetry.io/blog/2026/when-missing-telemetry-is-the-signal": {
+    "title": "When Missing Telemetry Is the Signal",
+    "source": "OpenTelemetry Blog",
+    "first_seen": "2026-11-10T16:38:58.245103+00:00",
+    "published": "2026-11-10T06:42:06+00:00"
+  },
+  "https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider": {
+    "title": "Amazon saves millions by replacing Sonnet 4.6 with Strands Decider",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-10T16:38:58.245103+00:00",
+    "published": "2026-11-10T06:01:08+00:00"
+  },
+  "https://simonwillison.net/2026/Nov/10/prompting-claude-fable-52": {
+    "title": "Quoting Prompting Claude Fable 5.2",
+    "source": "Simon Willison",
+    "first_seen": "2026-11-10T16:38:58.245103+00:00",
+    "published": "2026-11-10T05:34:14+00:00"
+  },
+  "https://maurycyz.com/projects/fading": {
+    "title": "Your TV can see through walls (2025)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-10T16:38:58.245103+00:00",
+    "published": "2026-11-10T05:24:45+00:00"
+  },
+  "https://simonwillison.net/2026/Nov/10/yonkers-rises": {
+    "title": "Yonkers Rises",
+    "source": "Simon Willison",
+    "first_seen": "2026-11-10T16:38:58.245103+00:00",
+    "published": "2026-11-10T03:53:04+00:00"
+  },
+  "https://www.elastic.co/blog/elastic-stack-8-19-25-released": {
+    "title": "Elastic Stack 8.19.25 released",
+    "source": "Elastic Blog",
+    "first_seen": "2026-11-10T16:38:58.245103+00:00",
+    "published": "2026-11-10T00:00:00+00:00"
+  },
+  "https://huggingface.co/blog/decision": {
+    "title": "Decision Models in Hugging Face",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-11-10T16:38:58.245103+00:00",
+    "published": "2026-11-10T00:00:00+00:00"
+  },
+  "https://hannahilea.com/blog/daylight-clock": {
+    "title": "Here comes the sun[light]:An ambient Daylight Clock with time and space controls",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-10T16:38:58.245103+00:00",
+    "published": "2026-11-09T20:00:32+00:00"
+  },
+  "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence": {
+    "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
+    "source": "DeepMind Blog",
+    "first_seen": "2026-11-10T16:38:58.245103+00:00",
+    "published": "2026-11-09T19:51:47+00:00"
   }
 }
