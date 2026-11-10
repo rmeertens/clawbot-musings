@@ -121466,5 +121466,233 @@
     "source": "Simon Willison",
     "first_seen": "2026-11-09T19:16:22.745292+00:00",
     "published": "2026-11-07T19:34:24+00:00"
+  },
+  "https://cloud.google.com/blog/topics/developers-practitioners/the-open-ai-native-stack-on-kubernetes-from-open-models-to-distributed-inference-and-agents": {
+    "title": "The open AI-native stack on Kubernetes: From open models to distributed inference and agents",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-11-10T03:01:27.513730+00:00",
+    "published": "2026-11-10T01:00:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/how-skills-and-agents-work-in-aws-quick": {
+    "title": "How skills and agents work in AWS Quick",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-11-10T03:01:27.513730+00:00",
+    "published": "2026-11-10T00:21:34+00:00"
+  },
+  "https://www.phoronix.com/news/Mesa-26.3-Released": {
+    "title": "Mesa 26.3 Released With VK_AMD_anti_lag For RADV, Many Other Vulkan Improvements",
+    "source": "Phoronix",
+    "first_seen": "2026-11-10T03:01:27.513730+00:00",
+    "published": "2026-11-10T00:19:46+00:00"
+  },
+  "https://simonwillison.net/2026/Nov/9/mysterious-beeps": {
+    "title": "Locating the source of a mysterious beep",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-10T03:01:27.513730+00:00",
+    "published": "2026-11-10T00:10:46+00:00"
+  },
+  "https://maurycyz.com/projects/badcert": {
+    "title": "Horible public key tricks",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-10T03:01:27.513730+00:00",
+    "published": "2026-11-10T00:07:17+00:00"
+  },
+  "https://simonwillison.net/2026/Nov/9/llm-anthropic": {
+    "title": "llm-anthropic 0.31",
+    "source": "Simon Willison",
+    "first_seen": "2026-11-10T03:01:27.513730+00:00",
+    "published": "2026-11-09T23:58:46+00:00"
+  },
+  "https://thenewstack.io/ramp-hires-teen-intern": {
+    "title": "A $60 billion fintech hired a 14-year-old. Its CEO explains why.",
+    "source": "The New Stack",
+    "first_seen": "2026-11-10T03:01:27.513730+00:00",
+    "published": "2026-11-09T23:18:34+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/automate-etl-pipeline-creation-with-amazon-bedrock-agentcore-and-aws-glue": {
+    "title": "Automate ETL pipeline creation with Amazon Bedrock AgentCore and AWS Glue",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-11-10T03:01:27.513730+00:00",
+    "published": "2026-11-09T23:15:31+00:00"
+  },
+  "https://www.phoronix.com/news/Firefox-160-Released": {
+    "title": "Firefox 160 Available With Speech-To-Text, MKV Files With FLAC / MP3 / PCM Audio",
+    "source": "Phoronix",
+    "first_seen": "2026-11-10T03:01:27.513730+00:00",
+    "published": "2026-11-09T23:12:33+00:00"
+  },
+  "https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game": {
+    "title": "Fable 5.2 one-shotted my nephew's dream game",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-10T03:01:27.513730+00:00",
+    "published": "2026-11-09T23:08:13+00:00"
+  },
+  "https://github.com/expo/exact": {
+    "title": "Exact – a new cross platform UI framework",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-10T03:01:27.513730+00:00",
+    "published": "2026-11-09T22:59:13+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/introducing-the-workday-data-cloud-integration-with-aws": {
+    "title": "Introducing the Workday Data Cloud integration with AWS",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-11-10T03:01:27.513730+00:00",
+    "published": "2026-11-09T22:21:40+00:00"
+  },
+  "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx": {
+    "title": "TPU 8tx and TPU 8i Max",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-10T03:01:27.513730+00:00",
+    "published": "2026-11-09T21:56:57+00:00"
+  },
+  "https://stackoverflow.blog/2026/11/09/never-share-your-password-again-the-oauth-2-0-solution": {
+    "title": "Never Share Your Password Again — The OAuth 2.0 Solution",
+    "source": "Stack Overflow Blog",
+    "first_seen": "2026-11-10T03:01:27.513730+00:00",
+    "published": "2026-11-09T20:50:38+00:00"
+  },
+  "https://aws.amazon.com/blogs/architecture/transforming-fleet-analytics-for-novus-hi-tech-through-agentic-ai": {
+    "title": "Transforming fleet analytics for Novus Hi-Tech through agentic AI",
+    "source": "AWS Architecture Blog",
+    "first_seen": "2026-11-10T03:01:27.513730+00:00",
+    "published": "2026-11-09T20:34:35+00:00"
+  },
+  "https://tailscale.com/blog/oauth-apps-ga": {
+    "title": "Grok Bot has a Tailscale integration—and now you can, too",
+    "source": "Tailscale Blog",
+    "first_seen": "2026-11-10T03:01:27.513730+00:00",
+    "published": "2026-11-09T20:30:00+00:00"
+  },
+  "https://research.google/blog/exploring-the-worlds-languages-with-language-explorer": {
+    "title": "Exploring the world's languages with Language Explorer",
+    "source": "Google Research",
+    "first_seen": "2026-11-10T03:01:27.513730+00:00",
+    "published": "2026-11-09T20:29:39+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/define-metrics-once-and-keep-them-correct-with-the-dbt-semantic-layer-on-amazon-redshift": {
+    "title": "Define metrics once and keep them correct with the dbt Semantic Layer on Amazon Redshift",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-11-10T03:01:27.513730+00:00",
+    "published": "2026-11-09T20:17:13+00:00"
+  },
+  "https://aws.amazon.com/blogs/architecture/how-deepl-keeps-closest-exit-routing-during-maintenance-with-aws-cloud-wan": {
+    "title": "How DeepL keeps closest-exit routing during maintenance with AWS Cloud WAN",
+    "source": "AWS Architecture Blog",
+    "first_seen": "2026-11-10T03:01:27.513730+00:00",
+    "published": "2026-11-09T20:15:09+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/single-shot-and-agentic-retrieval-with-amazon-bedrock-managed-knowledge-base": {
+    "title": "Single-shot and agentic retrieval with Amazon Bedrock Managed Knowledge Base",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-11-10T03:01:27.513730+00:00",
+    "published": "2026-11-09T20:13:18+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/assess-and-track-your-amazon-redshift-ra3-to-rg-modernization-with-cudos": {
+    "title": "Assess and track your Amazon Redshift RA3 to RG modernization with CUDOS",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-11-10T03:01:27.513730+00:00",
+    "published": "2026-11-09T20:11:01+00:00"
+  },
+  "https://artificialanalysis.ai/models/claude-fable-5-2": {
+    "title": "Claude Fable 5.2 scores 65 on Artificial Analysis, highest so far",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-10T03:01:27.513730+00:00",
+    "published": "2026-11-09T20:04:55+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/introducing-claude-fable-5-2-on-aws": {
+    "title": "Introducing Claude Fable 5.2 on AWS",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-11-10T03:01:27.513730+00:00",
+    "published": "2026-11-09T20:04:37+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/nvidia-nemotron-3-5-super-vl-is-now-available-in-amazon-sagemaker-jumpstart": {
+    "title": "NVIDIA Nemotron 3.5 Super VL is now available in Amazon SageMaker JumpStart",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-11-10T03:01:27.513730+00:00",
+    "published": "2026-11-09T20:01:20+00:00"
+  },
+  "https://postalpro.usps.com/zcb": {
+    "title": "USPS now offers official ZIP Code boundary polygons",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-10T03:01:27.513730+00:00",
+    "published": "2026-11-09T19:58:59+00:00"
+  },
+  "https://parkgraph.com/parking-app-fees": {
+    "title": "Parking-app convenience fees in 312 U.S. cities (median $0.35 per session)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-10T03:01:27.513730+00:00",
+    "published": "2026-11-09T19:55:53+00:00"
+  },
+  "https://www.databricks.com/blog/databricks-commitment-european-sovereignty": {
+    "title": "Databricks' Commitment to European Sovereignty",
+    "source": "Databricks Blog",
+    "first_seen": "2026-11-10T03:01:27.513730+00:00",
+    "published": "2026-11-09T19:40:00+00:00"
+  },
+  "https://yappologistic.github.io/CUI": {
+    "title": "CUI – Native UI components for C",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-10T03:01:27.513730+00:00",
+    "published": "2026-11-09T19:35:16+00:00"
+  },
+  "https://www.phoronix.com/news/AMDGPU-Patches-GFX13": {
+    "title": "AMDGPU Linux Driver Patches Posted For Enabling GFX13 Graphics IP - RDNA5",
+    "source": "Phoronix",
+    "first_seen": "2026-11-10T03:01:27.513730+00:00",
+    "published": "2026-11-09T19:11:37+00:00"
+  },
+  "https://someonewashere.app": {
+    "title": "Show HN: Someone Was Here – Find out who used your Mac while you were away",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-10T03:01:27.513730+00:00",
+    "published": "2026-11-09T18:50:56+00:00"
+  },
+  "https://e-means.github.io": {
+    "title": "E-means: Outperforming k-means in one-tenth the epochs",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-10T03:01:27.513730+00:00",
+    "published": "2026-11-09T18:45:43+00:00"
+  },
+  "https://github.com/thisisme6598/gemini_files": {
+    "title": "Google Gemini routes personal Drive files and emails to human annotators",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-10T03:01:27.513730+00:00",
+    "published": "2026-11-09T18:24:38+00:00"
+  },
+  "https://github.com/Dodaios/ste80-humanizer": {
+    "title": "Show HN: STE80 Humanizer – de-AI text by writing 80% of the way to ASD-STE100",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-10T03:01:27.513730+00:00",
+    "published": "2026-11-09T18:05:44+00:00"
+  },
+  "https://openai.com/index/control-room": {
+    "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-11-10T03:01:27.513730+00:00",
+    "published": "2026-11-09T13:00:00+00:00"
+  },
+  "https://blog.sentry.io/broken-release-database-load": {
+    "title": "How a broken release name overloaded our symbolication database",
+    "source": "Sentry Blog",
+    "first_seen": "2026-11-10T03:01:27.513730+00:00",
+    "published": "2026-11-09T09:00:00+00:00"
+  },
+  "https://openai.com/index/kuken": {
+    "title": "Kuken Industries searches 70 years of drawings in minutes",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-11-10T03:01:27.513730+00:00",
+    "published": "2026-11-09T08:00:00+00:00"
+  },
+  "https://openai.com/index/coderabbit-codex-daybreak": {
+    "title": "CodeRabbit scales agentic software development and ships 20x more",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-11-10T03:01:27.513730+00:00",
+    "published": "2026-11-09T08:00:00+00:00"
+  },
+  "https://www.elastic.co/blog/elastic-achieves-iso-iec-42001-certification": {
+    "title": "Elastic achieves ISO/IEC 42001 certification",
+    "source": "Elastic Blog",
+    "first_seen": "2026-11-10T03:01:27.513730+00:00",
+    "published": "2026-11-09T00:00:00+00:00"
   }
 }
