@@ -122456,5 +122456,437 @@
     "source": "Google Cloud Blog",
     "first_seen": "2026-11-11T00:56:43.723658+00:00",
     "published": "2026-11-10T12:00:00+00:00"
+  },
+  "https://www.cncf.io/blog/2026/11/11/introducing-cncf-user-groups-long-lived-homes-for-end-user-collaboration": {
+    "title": "Introducing CNCF User Groups: Long-lived homes for End User collaboration",
+    "source": "CNCF Blog",
+    "first_seen": "2026-11-11T16:42:47.600903+00:00",
+    "published": "2026-11-11T16:41:17+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/automate-aurora-zero-etl-recovery-after-global-failover": {
+    "title": "Automate Aurora zero-ETL recovery after global failover",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-11-11T16:42:47.600903+00:00",
+    "published": "2026-11-11T16:32:43+00:00"
+  },
+  "https://blog.bytebytego.com/p/the-roundup-by-bytebytego": {
+    "title": "The Roundup by ByteByteGo",
+    "source": "ByteByteGo",
+    "first_seen": "2026-11-11T16:42:47.600903+00:00",
+    "published": "2026-11-11T16:30:53+00:00"
+  },
+  "https://www.databricks.com/blog/air-gapped-not-data-dark-how-bright-machines-gives-customers-live-factory-dashboards-without": {
+    "title": "Air gapped, not data dark: how Bright Machines gives customers live factory dashboards without opening the plant",
+    "source": "Databricks Blog",
+    "first_seen": "2026-11-11T16:42:47.600903+00:00",
+    "published": "2026-11-11T16:10:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/governance-compliance-beyond-the-catalog-in-amazon-sagemaker-unified-studio": {
+    "title": "Governance compliance beyond the catalog in Amazon SageMaker Unified Studio",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-11-11T16:42:47.600903+00:00",
+    "published": "2026-11-11T16:08:47+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/accelerating-product-development-with-ai-driven-lifecycle-management-ai-pdlc-in-aws-quick": {
+    "title": "Accelerating product development with AI-driven lifecycle management (AI-PDLC) in AWS Quick",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-11-11T16:42:47.600903+00:00",
+    "published": "2026-11-11T16:05:33+00:00"
+  },
+  "https://www.databricks.com/blog/new-genie-autonomous-ai-complex-enterprise-work": {
+    "title": "The new Genie: autonomous AI for complex enterprise work",
+    "source": "Databricks Blog",
+    "first_seen": "2026-11-11T16:42:47.600903+00:00",
+    "published": "2026-11-11T16:00:00+00:00"
+  },
+  "https://thenewstack.io/specialized-ai-agent-workflows": {
+    "title": "Why Nitric stopped asking one AI agent to do everything",
+    "source": "The New Stack",
+    "first_seen": "2026-11-11T16:42:47.600903+00:00",
+    "published": "2026-11-11T16:00:00+00:00"
+  },
+  "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop": {
+    "title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
+    "source": "Google AI Blog",
+    "first_seen": "2026-11-11T16:42:47.600903+00:00",
+    "published": "2026-11-11T16:00:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/how-flickr-modernized-caching-with-amazon-elasticache-for-valkey": {
+    "title": "How Flickr modernized caching with Amazon ElastiCache for Valkey",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-11-11T16:42:47.600903+00:00",
+    "published": "2026-11-11T15:54:48+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/uaef-a-framework-agnostic-system-for-closed-loop-evaluation-of-ai-agents": {
+    "title": "UAEF: A framework-agnostic system for closed-loop evaluation of AI agents",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-11-11T16:42:47.600903+00:00",
+    "published": "2026-11-11T15:50:55+00:00"
+  },
+  "https://www.cncf.io/blog/2026/11/11/openshell-on-kubernetes-a-guide-for-platform-engineers": {
+    "title": "OpenShell on Kubernetes: A guide for platform engineers",
+    "source": "CNCF Blog",
+    "first_seen": "2026-11-11T16:42:47.600903+00:00",
+    "published": "2026-11-11T15:50:30+00:00"
+  },
+  "https://aws.amazon.com/blogs/compute/monitor-application-health-with-amazon-ec2-application-status-checks": {
+    "title": "Monitor application health with Amazon EC2 application status checks",
+    "source": "AWS Compute Blog",
+    "first_seen": "2026-11-11T16:42:47.600903+00:00",
+    "published": "2026-11-11T15:48:19+00:00"
+  },
+  "https://www.phoronix.com/review/amd-venice-nvidia-vera": {
+    "title": "AMD EPYC 9006 Venice vs. NVIDIA Vera Benchmarks For HPC Performance",
+    "source": "Phoronix",
+    "first_seen": "2026-11-11T16:42:47.600903+00:00",
+    "published": "2026-11-11T15:44:41+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/how-intuit-migrated-from-apache-hive-metastore-to-aws-glue-data-catalog": {
+    "title": "How Intuit migrated from Apache Hive Metastore to AWS Glue Data Catalog",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-11-11T16:42:47.600903+00:00",
+    "published": "2026-11-11T15:43:26+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/multi-tenancy-with-amazon-elasticache-choosing-the-right-isolation-model": {
+    "title": "Multi-tenancy with Amazon ElastiCache: Choosing the right isolation model",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-11-11T16:42:47.600903+00:00",
+    "published": "2026-11-11T15:40:48+00:00"
+  },
+  "https://aws.amazon.com/blogs/compute/building-a-gpu-workstation-for-visual-effects-with-amazon-ec2-part-5-security": {
+    "title": "Building a GPU workstation for visual effects with Amazon EC2: Part 5 – Security",
+    "source": "AWS Compute Blog",
+    "first_seen": "2026-11-11T16:42:47.600903+00:00",
+    "published": "2026-11-11T15:27:23+00:00"
+  },
+  "https://aws.amazon.com/blogs/compute/building-a-gpu-workstation-for-visual-effects-with-amazon-ec2-part-4-optimizations": {
+    "title": "Building a GPU workstation for visual effects with Amazon EC2: Part 4 – Optimizations",
+    "source": "AWS Compute Blog",
+    "first_seen": "2026-11-11T16:42:47.600903+00:00",
+    "published": "2026-11-11T15:27:19+00:00"
+  },
+  "https://aws.amazon.com/blogs/compute/building-a-gpu-workstation-for-visual-effects-with-amazon-ec2-part-3-windows": {
+    "title": "Building a GPU workstation for visual effects with Amazon EC2: Part 3 – Windows",
+    "source": "AWS Compute Blog",
+    "first_seen": "2026-11-11T16:42:47.600903+00:00",
+    "published": "2026-11-11T15:27:16+00:00"
+  },
+  "https://aws.amazon.com/blogs/compute/building-a-gpu-workstation-for-visual-effects-on-amazon-ec2-part-2-linux": {
+    "title": "Building a GPU workstation for visual effects on Amazon EC2: Part 2 – Linux",
+    "source": "AWS Compute Blog",
+    "first_seen": "2026-11-11T16:42:47.600903+00:00",
+    "published": "2026-11-11T15:27:12+00:00"
+  },
+  "https://aws.amazon.com/blogs/compute/build-a-gpu-workstation-for-visual-effects-on-amazon-ec2-part-1-setup": {
+    "title": "Build a GPU workstation for visual effects on Amazon EC2: Part 1 – Setup",
+    "source": "AWS Compute Blog",
+    "first_seen": "2026-11-11T16:42:47.600903+00:00",
+    "published": "2026-11-11T15:27:06+00:00"
+  },
+  "https://martinfowler.com/articles/tests-as-data.html": {
+    "title": "Tests as data: ensuring AI-generated code does what we want",
+    "source": "Martin Fowler",
+    "first_seen": "2026-11-11T16:42:47.600903+00:00",
+    "published": "2026-11-11T15:17:00+00:00"
+  },
+  "https://simonwillison.net/2026/Nov/11/anthropic-ipo-roadshow": {
+    "title": "Anthropic's IPO roadshow video",
+    "source": "Simon Willison",
+    "first_seen": "2026-11-11T16:42:47.600903+00:00",
+    "published": "2026-11-11T15:11:59+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/introducing-usage-based-pricing-for-amazon-sagemaker-ai-bidirectional-streaming": {
+    "title": "Introducing usage-based pricing for Amazon SageMaker AI bidirectional streaming",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-11-11T16:42:47.600903+00:00",
+    "published": "2026-11-11T15:10:23+00:00"
+  },
+  "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease": {
+    "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+    "source": "DeepMind Blog",
+    "first_seen": "2026-11-11T16:42:47.600903+00:00",
+    "published": "2026-11-11T15:00:15+00:00"
+  },
+  "https://www.databricks.com/blog/genie-one-ai-cowork-home-everyone": {
+    "title": "Genie One: The AI cowork home for everyone",
+    "source": "Databricks Blog",
+    "first_seen": "2026-11-11T16:42:47.600903+00:00",
+    "published": "2026-11-11T15:00:00+00:00"
+  },
+  "https://www.databricks.com/blog/genie-genie-ontology-delivers-16-accuracy-less-half-tokens": {
+    "title": "Genie with Genie Ontology Delivers 1.6× the Accuracy with Less than Half the Tokens",
+    "source": "Databricks Blog",
+    "first_seen": "2026-11-11T16:42:47.600903+00:00",
+    "published": "2026-11-11T15:00:00+00:00"
+  },
+  "https://www.databricks.com/blog/enterprise-context-action-genie-agents-now-analyze-more-data-sources-transform-your-work": {
+    "title": "From enterprise context to action: Genie Agents now analyze more data sources to transform your work",
+    "source": "Databricks Blog",
+    "first_seen": "2026-11-11T16:42:47.600903+00:00",
+    "published": "2026-11-11T15:00:00+00:00"
+  },
+  "https://www.databricks.com/blog/bring-your-business-context-chatgpt-claude-microsoft-copilot-cowork-and-grok-bot": {
+    "title": "Bring your business context to ChatGPT, Claude, Microsoft Copilot Cowork and Grok Bot",
+    "source": "Databricks Blog",
+    "first_seen": "2026-11-11T16:42:47.600903+00:00",
+    "published": "2026-11-11T15:00:00+00:00"
+  },
+  "https://www.databricks.com/blog/announcing-ga-genie-ontology": {
+    "title": "Announcing GA of Genie Ontology",
+    "source": "Databricks Blog",
+    "first_seen": "2026-11-11T16:42:47.600903+00:00",
+    "published": "2026-11-11T15:00:00+00:00"
+  },
+  "https://thenewstack.io/coreweave-tests-ai-integrations": {
+    "title": "CoreWeave tests AI integrations on its cloud before you migrate",
+    "source": "The New Stack",
+    "first_seen": "2026-11-11T16:42:47.600903+00:00",
+    "published": "2026-11-11T15:00:00+00:00"
+  },
+  "https://lwn.net/Articles/1105134": {
+    "title": "[$] Additional hardening for the glibc dynamic linker",
+    "source": "LWN.net",
+    "first_seen": "2026-11-11T16:42:47.600903+00:00",
+    "published": "2026-11-11T14:35:29+00:00"
+  },
+  "https://blog.cloudflare.com/choosing-quepaxa": {
+    "title": "Choosing QuePaxa, an unusual consensus algorithm",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-11-11T16:42:47.600903+00:00",
+    "published": "2026-11-11T14:24:46+00:00"
+  },
+  "https://massimo-nocentini.github.io/pharo-vm/world.html": {
+    "title": "Pharo in the Browser with WebAssembly",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-11T16:42:47.600903+00:00",
+    "published": "2026-11-11T14:21:27+00:00"
+  },
+  "https://lwn.net/Articles/1106876": {
+    "title": "Security updates for Wednesday",
+    "source": "LWN.net",
+    "first_seen": "2026-11-11T16:42:47.600903+00:00",
+    "published": "2026-11-11T14:15:31+00:00"
+  },
+  "https://blog.atuin.sh/threads-agent-sessions": {
+    "title": "Atuin Threads: All your agent sessions on every machine",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-11T16:42:47.600903+00:00",
+    "published": "2026-11-11T14:10:46+00:00"
+  },
+  "https://www.theverge.com/tech/1031507/apple-community-support-forum-shutting-down": {
+    "title": "Apple is killing its Support Community forum next week",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-11T16:42:47.600903+00:00",
+    "published": "2026-11-11T14:02:11+00:00"
+  },
+  "https://realpython.com/python-httpx": {
+    "title": "Python HTTPX: Making HTTP Requests With HTTPX2",
+    "source": "Real Python",
+    "first_seen": "2026-11-11T16:42:47.600903+00:00",
+    "published": "2026-11-11T14:00:00+00:00"
+  },
+  "https://www.theverge.com/tech/1012372/tv-privacy-acr-questions": {
+    "title": "I asked every TV manufacturer 17 questions about how they spy on you",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-11T16:42:47.600903+00:00",
+    "published": "2026-11-11T13:56:05+00:00"
+  },
+  "https://av.github.io/safe-sand": {
+    "title": "Hyper-Realistic Sand with WebGL2",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-11T16:42:47.600903+00:00",
+    "published": "2026-11-11T13:39:29+00:00"
+  },
+  "https://github.com/0xdeadf1sh/AssemblyForNeovim": {
+    "title": "Show HN: Godbolt-in-a-floating-window for Neovim (C, C++, Rust)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-11T16:42:47.600903+00:00",
+    "published": "2026-11-11T13:34:24+00:00"
+  },
+  "https://machinelearning.apple.com/research/attention-mamba-distillation": {
+    "title": "Attention to Mamba: A Recipe for Cross-Architecture Distillation",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-11T16:42:47.600903+00:00",
+    "published": "2026-11-11T13:29:46+00:00"
+  },
+  "https://www.eventfoundation.io/resources/blog/eventsourcingdb-1-3-0-is-available": {
+    "title": "EventSourcingDB 1.3.0 Is Available",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-11T16:42:47.600903+00:00",
+    "published": "2026-11-11T13:19:45+00:00"
+  },
+  "https://blog.mozilla.org/security/2026/11/10/open-research-stronger-privacy-making-firefox-users-harder-to-fingerprint": {
+    "title": "Open research, stronger privacy: Making Firefox users harder to fingerprint",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-11T16:42:47.600903+00:00",
+    "published": "2026-11-11T12:44:06+00:00"
+  },
+  "https://nathan.rs/posts/weight-space-lp": {
+    "title": "Can a Linear Program Do Weight-Space Programming?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-11T16:42:47.600903+00:00",
+    "published": "2026-11-11T12:30:17+00:00"
+  },
+  "https://www.experimental-history.com/p/we-need-more-goat-sacrifices": {
+    "title": "We need more goat sacrifices",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-11T16:42:47.600903+00:00",
+    "published": "2026-11-11T12:29:48+00:00"
+  },
+  "https://www.phoronix.com/news/AMD-GFX13-Initial-Mesa": {
+    "title": "Initial AMD RDNA5/GFX13 Code Sent Out For Mesa RADV & RadeonSI Drivers",
+    "source": "Phoronix",
+    "first_seen": "2026-11-11T16:42:47.600903+00:00",
+    "published": "2026-11-11T12:18:36+00:00"
+  },
+  "http://databasearchitects.blogspot.com/2026/11/next-level-benchmarking-overfitting.html": {
+    "title": "Next-Level Benchmarking Overfitting – Thomas Neumann",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-11T16:42:47.600903+00:00",
+    "published": "2026-11-11T12:09:49+00:00"
+  },
+  "https://pietromiotti.com/latest/maya-site?maya": {
+    "title": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-11T16:42:47.600903+00:00",
+    "published": "2026-11-11T12:05:22+00:00"
+  },
+  "https://www.possibilityspace.org/blog/posts/in-defence-of-giving-a-shit": {
+    "title": "In Defense of Giving a Shit",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-11T16:42:47.600903+00:00",
+    "published": "2026-11-11T12:00:45+00:00"
+  },
+  "https://news.ycombinator.com/item?id=50452404": {
+    "title": "Tinfoil (YC P25) is hiring an applied AI security engineer in San Francisco",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-11T16:42:47.600903+00:00",
+    "published": "2026-11-11T12:00:35+00:00"
+  },
+  "https://www.cncf.io/blog/2026/11/11/platform-engineering-needs-to-become-more-humanand-less": {
+    "title": "Platform engineering needs to become more human…and less",
+    "source": "CNCF Blog",
+    "first_seen": "2026-11-11T16:42:47.600903+00:00",
+    "published": "2026-11-11T12:00:00+00:00"
+  },
+  "https://realpython.com/quizzes/python-httpx": {
+    "title": "Quiz: Python HTTPX: Making HTTP Requests With HTTPX2",
+    "source": "Real Python",
+    "first_seen": "2026-11-11T16:42:47.600903+00:00",
+    "published": "2026-11-11T12:00:00+00:00"
+  },
+  "https://yaksoy.github.io/PhysicalRelighting": {
+    "title": "Physically Controllable Relighting of Photographs",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-11T16:42:47.600903+00:00",
+    "published": "2026-11-11T11:38:43+00:00"
+  },
+  "https://www.phoronix.com/news/FreeBSD-Q3-2026-Report": {
+    "title": "FreeBSD Working To Establish An AI Policy After Polling Developers",
+    "source": "Phoronix",
+    "first_seen": "2026-11-11T16:42:47.600903+00:00",
+    "published": "2026-11-11T11:30:00+00:00"
+  },
+  "https://www.phoronix.com/news/AMD-R300g-Better-Shaders-2026": {
+    "title": "ATI/AMD R300 To R500 GPUs See New 2026 OpenGL Linux Driver Optimizations",
+    "source": "Phoronix",
+    "first_seen": "2026-11-11T16:42:47.600903+00:00",
+    "published": "2026-11-11T11:01:52+00:00"
+  },
+  "https://www.phoronix.com/news/AMD-AOCC-6.0-Released": {
+    "title": "AMD AOCC 6.0 Brings Zen 6 Optimizations, New \"aof\" Fortran Compiler, aoc / aoc++ Branding",
+    "source": "Phoronix",
+    "first_seen": "2026-11-11T16:42:47.600903+00:00",
+    "published": "2026-11-11T10:54:19+00:00"
+  },
+  "https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100": {
+    "title": "Using voltage glitching to unleash the A100 in my mining card",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-11T16:42:47.600903+00:00",
+    "published": "2026-11-11T10:48:40+00:00"
+  },
+  "https://www.phoronix.com/news/Intel-CPU-Microcode-20261110": {
+    "title": "Intel Releases New CPU Microcode To Fix A Variety Of Functional Issues",
+    "source": "Phoronix",
+    "first_seen": "2026-11-11T16:42:47.600903+00:00",
+    "published": "2026-11-11T10:41:00+00:00"
+  },
+  "https://www.phoronix.com/news/Haiku-OS-October-2026": {
+    "title": "Haiku OS Now Has A UFS Driver, Two & Three Finger Tap Gestures",
+    "source": "Phoronix",
+    "first_seen": "2026-11-11T16:42:47.600903+00:00",
+    "published": "2026-11-11T10:26:00+00:00"
+  },
+  "https://opentelemetry.io/blog/2026/collector-batching-migration": {
+    "title": "Deprecating the Collector Batch Processor",
+    "source": "OpenTelemetry Blog",
+    "first_seen": "2026-11-11T16:42:47.600903+00:00",
+    "published": "2026-11-11T09:57:51+00:00"
+  },
+  "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu": {
+    "title": "Experience the art and legacy of Dr. Esther Mahlangu",
+    "source": "Google AI Blog",
+    "first_seen": "2026-11-11T16:42:47.600903+00:00",
+    "published": "2026-11-11T09:00:00+00:00"
+  },
+  "https://openai.com/index/chatgpt-plus-for-veterans": {
+    "title": "ChatGPT Plus for veterans and servicemembers",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-11-11T16:42:47.600903+00:00",
+    "published": "2026-11-11T08:00:00+00:00"
+  },
+  "https://github.com/gmkurtzer/ginux": {
+    "title": "Greg Kurtzer's Ginux is now a userspace kernel",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-11T16:42:47.600903+00:00",
+    "published": "2026-11-11T05:25:54+00:00"
+  },
+  "https://huggingface.co/blog/qvac/botpsy": {
+    "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-11-11T16:42:47.600903+00:00",
+    "published": "2026-11-11T05:01:16+00:00"
+  },
+  "https://github.com/adrbn/bo2-mac": {
+    "title": "Show HN: Black Ops II statically recompiled to native ARM64 macOS",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-11T16:42:47.600903+00:00",
+    "published": "2026-11-11T04:56:47+00:00"
+  },
+  "https://gatezh.com/posts/macos-secure-enclave-ssh-keys": {
+    "title": "Protecting SSH Keys with macOS Secure Enclave",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-11T16:42:47.600903+00:00",
+    "published": "2026-11-11T04:28:57+00:00"
+  },
+  "https://www.phoronix.com/news/Ubuntu-26.10-Does-upki": {
+    "title": "Ubuntu 26.10 Begins Rolling Out upki Support For Certificate Revocation",
+    "source": "Phoronix",
+    "first_seen": "2026-11-11T16:42:47.600903+00:00",
+    "published": "2026-11-11T01:43:13+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/introducing-kimi-k3-1-pro-on-amazon-bedrock": {
+    "title": "Introducing Kimi K3.1 Pro on Amazon Bedrock",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-11-11T16:42:47.600903+00:00",
+    "published": "2026-11-11T01:07:19+00:00"
+  },
+  "https://huggingface.co/blog/token-pooling": {
+    "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-11-11T16:42:47.600903+00:00",
+    "published": "2026-11-11T00:00:00+00:00"
+  },
+  "https://blog.rust-lang.org/2026/11/11/gsoc-2026-results": {
+    "title": "Google Summer of Code 2026 results",
+    "source": "Rust Blog",
+    "first_seen": "2026-11-11T16:42:47.600903+00:00",
+    "published": "2026-11-11T00:00:00+00:00"
+  },
+  "https://www.hashicorp.com/blog/from-insight-to-action-improving-infrastructure-risk-posture-with-terraform-and-c": {
+    "title": "From insight to action: improving infrastructure risk posture with Terraform and Concert",
+    "source": "HashiCorp Blog",
+    "first_seen": "2026-11-11T16:42:47.600903+00:00",
+    "published": "2026-11-10T17:00:00+00:00"
   }
 }
