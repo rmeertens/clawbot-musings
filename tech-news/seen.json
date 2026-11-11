@@ -122120,5 +122120,341 @@
     "source": "DeepMind Blog",
     "first_seen": "2026-11-10T16:38:58.245103+00:00",
     "published": "2026-11-09T19:51:47+00:00"
+  },
+  "https://openai.com/index/gilbert-tobin-sam-nickless": {
+    "title": "Gilbert + Tobin rethinks the business of law with AI",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-11-11T00:56:43.723658+00:00",
+    "published": "2026-11-12T00:00:00+00:00"
+  },
+  "https://github.com/enjoy-digital/litedram/blob/master/doc/manual/03_dram_interface.md": {
+    "title": "The DRAM interface and the PHY (why a DDR3+ interface must be tuned at boot)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-11T00:56:43.723658+00:00",
+    "published": "2026-11-10T23:41:41+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/build-a-daily-dependency-watcher-with-langgraph-and-amazon-bedrock-agentcore-web-search": {
+    "title": "Build a daily dependency watcher with LangGraph and Amazon Bedrock AgentCore web search",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-11-11T00:56:43.723658+00:00",
+    "published": "2026-11-10T23:34:05+00:00"
+  },
+  "https://aws.amazon.com/blogs/security/reduce-alert-fatigue-by-customizing-threat-detection-features-in-amazon-guardduty": {
+    "title": "Reduce alert fatigue by customizing threat detection features in Amazon GuardDuty",
+    "source": "AWS Security Blog",
+    "first_seen": "2026-11-11T00:56:43.723658+00:00",
+    "published": "2026-11-10T23:04:52+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/the-agent-evaluation-playbook-built-in-deepeval-and-autoeval-on-agentcore": {
+    "title": "The agent evaluation playbook: Built-in, DeepEval, and AutoEval on Amazon Bedrock AgentCore Evaluations",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-11-11T00:56:43.723658+00:00",
+    "published": "2026-11-10T22:35:03+00:00"
+  },
+  "https://www.vulncheck.com/blog/anthropic-glasswing-november-update": {
+    "title": "After 7 months, Glasswing overwelms maintainers with underwhelming findings",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-11T00:56:43.723658+00:00",
+    "published": "2026-11-10T22:17:56+00:00"
+  },
+  "https://pytorch.org/blog/executorch-webgpu-pytorch-models-on-the-gpu-in-the-browser": {
+    "title": "ExecuTorch WebGPU: PyTorch Models on the GPU, in the Browser",
+    "source": "PyTorch Blog",
+    "first_seen": "2026-11-11T00:56:43.723658+00:00",
+    "published": "2026-11-10T22:15:07+00:00"
+  },
+  "https://tendrils.co/blog/2026-11-10/30m-raised": {
+    "title": "$30M Raised to Redo the CPU",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-11T00:56:43.723658+00:00",
+    "published": "2026-11-10T22:14:03+00:00"
+  },
+  "https://krebsonsecurity.com/2026/11/microsoft-fixes-nearly-1100-security-vulnerabilities": {
+    "title": "Microsoft Fixes Nearly 1,100 Security Vulnerabilities",
+    "source": "Krebs on Security",
+    "first_seen": "2026-11-11T00:56:43.723658+00:00",
+    "published": "2026-11-10T21:55:03+00:00"
+  },
+  "https://rvpn.org": {
+    "title": "rVPN – stealth VPN with end-to-end encryption",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-11T00:56:43.723658+00:00",
+    "published": "2026-11-10T21:42:50+00:00"
+  },
+  "https://aws.amazon.com/blogs/security/aws-refreshes-processunity-global-risk-exchange-assessment-to-enhance-customers-third-party-due-diligence": {
+    "title": "AWS refreshes ProcessUnity Global Risk Exchange assessment to enhance customer’s third-party due diligence",
+    "source": "AWS Security Blog",
+    "first_seen": "2026-11-11T00:56:43.723658+00:00",
+    "published": "2026-11-10T21:31:14+00:00"
+  },
+  "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy": {
+    "title": "Apple has new Mac app coming to make running local AI models easy",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-11T00:56:43.723658+00:00",
+    "published": "2026-11-10T21:25:03+00:00"
+  },
+  "https://teorth.github.io/tao-web/six-math-essentials.html": {
+    "title": "Six Math Essentials by Terence Tao",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-11T00:56:43.723658+00:00",
+    "published": "2026-11-10T20:58:44+00:00"
+  },
+  "https://www.archives.gov/milestone-documents/sherman-anti-trust-act": {
+    "title": "Sherman Anti-Trust Act (1890)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-11T00:56:43.723658+00:00",
+    "published": "2026-11-10T20:56:16+00:00"
+  },
+  "https://eng.lyft.com/beyond-test-cards-a-fake-payment-provider-for-testing-at-scale-c69dddadb115?source=rss----25cd379abb8---4": {
+    "title": "Beyond Test Cards: A Fake Payment Provider for Testing at Scale",
+    "source": "Lyft Engineering",
+    "first_seen": "2026-11-11T00:56:43.723658+00:00",
+    "published": "2026-11-10T20:55:40+00:00"
+  },
+  "https://simonwillison.net/2026/Nov/10/llm-gemini": {
+    "title": "llm-gemini 0.36",
+    "source": "Simon Willison",
+    "first_seen": "2026-11-11T00:56:43.723658+00:00",
+    "published": "2026-11-10T20:09:44+00:00"
+  },
+  "https://thenewstack.io/claude-enterprise-apps-connectors": {
+    "title": "Anthropic wants Claude to be the front end for your entire enterprise app stack",
+    "source": "The New Stack",
+    "first_seen": "2026-11-11T00:56:43.723658+00:00",
+    "published": "2026-11-10T20:00:58+00:00"
+  },
+  "https://aws.amazon.com/blogs/compute/nitro-sandboxes-hardware-isolation-for-every-eks-pod-ecs-task-and-ec2-workload": {
+    "title": "Nitro Sandboxes: Hardware isolation for every EKS pod, ECS task, and EC2 workload",
+    "source": "AWS Compute Blog",
+    "first_seen": "2026-11-11T00:56:43.723658+00:00",
+    "published": "2026-11-10T20:00:39+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/46-fewer-nodes-2x-faster-indexing-confluent-on-amazon-opensearch-service": {
+    "title": "46% fewer nodes, 2× faster indexing: Confluent on Amazon OpenSearch Service",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-11-11T00:56:43.723658+00:00",
+    "published": "2026-11-10T19:56:57+00:00"
+  },
+  "https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america": {
+    "title": "Scion is back and is going to sell a kei truck in America",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-11T00:56:43.723658+00:00",
+    "published": "2026-11-10T19:50:46+00:00"
+  },
+  "https://alexwang.ai/posts/reasoning-as-pathfinding": {
+    "title": "What objective is reasoning solving?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-11T00:56:43.723658+00:00",
+    "published": "2026-11-10T19:25:14+00:00"
+  },
+  "https://lwn.net/Articles/1106569": {
+    "title": "Three new stable kernels for Tuesday",
+    "source": "LWN.net",
+    "first_seen": "2026-11-11T00:56:43.723658+00:00",
+    "published": "2026-11-10T19:06:06+00:00"
+  },
+  "https://fingerprinting.study": {
+    "title": "A comprehensive study of how fingerprintable users are",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-11T00:56:43.723658+00:00",
+    "published": "2026-11-10T19:03:54+00:00"
+  },
+  "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices": {
+    "title": "Gemini Intelligence: New features, on more devices",
+    "source": "Google AI Blog",
+    "first_seen": "2026-11-11T00:56:43.723658+00:00",
+    "published": "2026-11-10T19:00:00+00:00"
+  },
+  "https://www.databricks.com/blog/unity-catalog-metric-views-now-power-bi-one-unified-governed-semantic-layer-all-your-reporting": {
+    "title": "Unity Catalog Metric Views, now in Power BI: one unified, governed semantic layer for all your reporting and AI",
+    "source": "Databricks Blog",
+    "first_seen": "2026-11-11T00:56:43.723658+00:00",
+    "published": "2026-11-10T18:45:00+00:00"
+  },
+  "https://starlink.com/mini-2": {
+    "title": "Starlink Mini 2",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-11T00:56:43.723658+00:00",
+    "published": "2026-11-10T18:22:32+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/autonomous-treasury-agents-how-trovata-built-an-ai-native-solution-on-amazon-bedrock-and-agentcore": {
+    "title": "Autonomous treasury agents: How Trovata built an AI-native solution on Amazon Bedrock and AgentCore",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-11-11T00:56:43.723658+00:00",
+    "published": "2026-11-10T18:11:08+00:00"
+  },
+  "https://aws.amazon.com/blogs/security/digital-sovereignty-at-reinvent-2026-sessions-you-wont-want-to-miss": {
+    "title": "Digital sovereignty at re:Invent 2026: Sessions you won’t want to miss",
+    "source": "AWS Security Blog",
+    "first_seen": "2026-11-11T00:56:43.723658+00:00",
+    "published": "2026-11-10T18:10:41+00:00"
+  },
+  "https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f": {
+    "title": "Synaptics patent claims stop work on DisplayLink drivers",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-11T00:56:43.723658+00:00",
+    "published": "2026-11-10T18:02:02+00:00"
+  },
+  "https://github.com/GoogleChrome/modern-web-guidance": {
+    "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-11T00:56:43.723658+00:00",
+    "published": "2026-11-10T18:01:15+00:00"
+  },
+  "https://medium.com/airbnb-engineering/skipper-airbnbs-embedded-workflow-engine-is-now-open-source-78dd354f472b?source=rss----53c7c27702d5---4": {
+    "title": "Skipper, Airbnb’s embedded workflow engine, is now open source",
+    "source": "Airbnb Engineering",
+    "first_seen": "2026-11-11T00:56:43.723658+00:00",
+    "published": "2026-11-10T18:01:02+00:00"
+  },
+  "https://github.blog/open-source/git/git-security-vulnerabilities-announced-7": {
+    "title": "Git security vulnerabilities announced",
+    "source": "GitHub Blog",
+    "first_seen": "2026-11-11T00:56:43.723658+00:00",
+    "published": "2026-11-10T18:00:00+00:00"
+  },
+  "https://docs.modelplane.ai/guides/inference-guide": {
+    "title": "An Open Field Guide to Inference Engineering",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-11T00:56:43.723658+00:00",
+    "published": "2026-11-10T17:55:07+00:00"
+  },
+  "https://blog.val.town/winding-down": {
+    "title": "Val Town is winding down",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-11T00:56:43.723658+00:00",
+    "published": "2026-11-10T17:31:14+00:00"
+  },
+  "https://eng.lyft.com/hiring-junior-engineers-1edc53e0fd5f?source=rss----25cd379abb8---4": {
+    "title": "Hiring Junior Engineers",
+    "source": "Lyft Engineering",
+    "first_seen": "2026-11-11T00:56:43.723658+00:00",
+    "published": "2026-11-10T17:08:06+00:00"
+  },
+  "https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast": {
+    "title": "AMD's Zen 6 Family: Feeding the Beast",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-11T00:56:43.723658+00:00",
+    "published": "2026-11-10T17:02:32+00:00"
+  },
+  "https://engineering.fb.com/2026/11/10/ml-applications/your-algorithm-giving-people-more-ways-to-personalize-facebook-recommendations": {
+    "title": "Your Algorithm: Giving People More Ways to Personalize Facebook Recommendations",
+    "source": "Meta Engineering",
+    "first_seen": "2026-11-11T00:56:43.723658+00:00",
+    "published": "2026-11-10T17:00:49+00:00"
+  },
+  "https://www.phoronix.com/review/amd-epyc-9996": {
+    "title": "AMD EPYC 9996 Benchmarks Show Unparalleled Performance With 256 Zen 6C Cores",
+    "source": "Phoronix",
+    "first_seen": "2026-11-11T00:56:43.723658+00:00",
+    "published": "2026-11-10T17:00:04+00:00"
+  },
+  "https://www.phoronix.com/review/amd-epyc-9686f": {
+    "title": "AMD EPYC 9686F Linux Benchmarks: 96 Zen 6 Cores At Up To 5.3GHz",
+    "source": "Phoronix",
+    "first_seen": "2026-11-11T00:56:43.723658+00:00",
+    "published": "2026-11-10T17:00:03+00:00"
+  },
+  "https://www.phoronix.com/news/AMD-MEXT": {
+    "title": "AMD Talks Up Their MEXT Software Amid RAM Crisis - Linux Support But Not Open-Source",
+    "source": "Phoronix",
+    "first_seen": "2026-11-11T00:56:43.723658+00:00",
+    "published": "2026-11-10T17:00:02+00:00"
+  },
+  "https://www.phoronix.com/news/AMD-EPYC-Zen-7-Zen-8": {
+    "title": "AMD Confirms ACE With 7th Gen EPYC \"Florence\" While 8th Gen EPYC Is \"Ravenna\"",
+    "source": "Phoronix",
+    "first_seen": "2026-11-11T00:56:43.723658+00:00",
+    "published": "2026-11-10T17:00:01+00:00"
+  },
+  "https://www.phoronix.com/news/AMD-EPYC-Embedded-9006-Series": {
+    "title": "AMD EPYC Embedded 9006 Series SP7 Announced",
+    "source": "Phoronix",
+    "first_seen": "2026-11-11T00:56:43.723658+00:00",
+    "published": "2026-11-10T17:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/topics/partners/inside-the-gemini-factory-accelerating-partner-solutions": {
+    "title": "Inside the Gemini factory: Accelerating partner solutions",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-11-11T00:56:43.723658+00:00",
+    "published": "2026-11-10T17:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/identity-security/how-to-run-codemender-in-your-pull-requests": {
+    "title": "Don't just flag it, fix it: How to run CodeMender in your pull requests",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-11-11T00:56:43.723658+00:00",
+    "published": "2026-11-10T17:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/data-analytics/bigquery-measures-ga-unifying-bi-metrics-and-knowledge-graphs": {
+    "title": "BigQuery measures is now GA: Unifying BI metrics and knowledge graphs for AI accuracy",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-11-11T00:56:43.723658+00:00",
+    "published": "2026-11-10T17:00:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/how-tcs-built-an-agentic-test-orchestrator-with-amazon-bedrock-agentcore": {
+    "title": "How TCS built an agentic test orchestrator with Amazon Bedrock AgentCore",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-11-11T00:56:43.723658+00:00",
+    "published": "2026-11-10T16:59:43+00:00"
+  },
+  "https://engineering.fb.com/2026/11/10/open-source/tlx-a-hardware-native-gpu-compiler-for-production-ml": {
+    "title": "How We Built TLX: A Hardware-Native GPU Compiler for Production ML at Scale",
+    "source": "Meta Engineering",
+    "first_seen": "2026-11-11T00:56:43.723658+00:00",
+    "published": "2026-11-10T16:59:31+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-tokenomics-data-lake": {
+    "title": "Amazon Bedrock tokenomics data lake",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-11-11T00:56:43.723658+00:00",
+    "published": "2026-11-10T16:56:36+00:00"
+  },
+  "https://aws.amazon.com/blogs/architecture/self-service-regional-failover-with-amazon-application-recovery-controller-region-switch-and-centralized-ingress-controls": {
+    "title": "Self-service regional failover with Amazon Application Recovery Controller Region Switch and centralized ingress controls",
+    "source": "AWS Architecture Blog",
+    "first_seen": "2026-11-11T00:56:43.723658+00:00",
+    "published": "2026-11-10T16:48:09+00:00"
+  },
+  "https://pytorch.org/blog/optimizing-muse-spark-open-on-tpu-v7-with-sglang-torchtpu": {
+    "title": "Optimizing Muse Spark Open on TPU v7 with SGLang-TorchTPU",
+    "source": "PyTorch Blog",
+    "first_seen": "2026-11-11T00:56:43.723658+00:00",
+    "published": "2026-11-10T16:45:24+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/multiply-pre-recorded-streams-with-amazon-managed-service-for-apache-flink": {
+    "title": "Multiply pre-recorded streams with Amazon Managed Service for Apache Flink",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-11-11T00:56:43.723658+00:00",
+    "published": "2026-11-10T16:43:13+00:00"
+  },
+  "https://neil.fraser.name/news/2026/11/10": {
+    "title": ".name Grandfathered",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-11T00:56:43.723658+00:00",
+    "published": "2026-11-10T16:37:44+00:00"
+  },
+  "https://www.phoronix.com/news/Blender-5.3-Released": {
+    "title": "Blender 5.3 Released With NVIDIA DLSS 4.5 Ray Reconstruction, Vulkan Default",
+    "source": "Phoronix",
+    "first_seen": "2026-11-11T00:56:43.723658+00:00",
+    "published": "2026-11-10T16:34:56+00:00"
+  },
+  "https://realpython.com/ai-benchmark-claude-fable-5-2": {
+    "title": "Claude Fable 5.2 Draws a Python Reading a Book",
+    "source": "Real Python",
+    "first_seen": "2026-11-11T00:56:43.723658+00:00",
+    "published": "2026-11-10T14:00:00+00:00"
+  },
+  "https://neon.com/blog/whats-new-with-the-neon-backend": {
+    "title": "What's new with the Neon backend",
+    "source": "Neon Blog",
+    "first_seen": "2026-11-11T00:56:43.723658+00:00",
+    "published": "2026-11-10T12:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/topics/retail/the-blueprint-how-authentic-brands-group-expands-creativity-with-authos": {
+    "title": "The Blueprint: How Authentic Brands Group expands creativity with AuthOS",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-11-11T00:56:43.723658+00:00",
+    "published": "2026-11-10T12:00:00+00:00"
   }
 }
