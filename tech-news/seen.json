@@ -124058,5 +124058,275 @@
     "source": "OpenAI Blog",
     "first_seen": "2026-11-13T01:33:26.213070+00:00",
     "published": "2026-11-12T12:00:00+00:00"
+  },
+  "https://lwn.net/Articles/1103395": {
+    "title": "[$] 25 years of Buildroot",
+    "source": "LWN.net",
+    "first_seen": "2026-11-13T16:49:42.268658+00:00",
+    "published": "2026-11-13T16:35:03+00:00"
+  },
+  "https://www.phoronix.com/news/AMD-HRX-Loom-Experiment": {
+    "title": "AMD Leverages AI + HRX Loom In Experiment For Quickly Porting 50 LLMs To Client GPUs",
+    "source": "Phoronix",
+    "first_seen": "2026-11-13T16:49:42.268658+00:00",
+    "published": "2026-11-13T15:53:00+00:00"
+  },
+  "https://filemanager-cdn.mziq.com/published/3972906b-e50b-4f74-ab74-4d0d32125d11/9567a559-d20a-486e-a7ae-5c6bbc030c5e": {
+    "title": "Brazil's Caixa insurer breach exposes names and tax IDs of all 7.6M customers",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-13T16:49:42.268658+00:00",
+    "published": "2026-11-13T15:52:04+00:00"
+  },
+  "https://www.databricks.com/blog/openai-and-databricks-enterprise-ai-your-governed-data": {
+    "title": "OpenAI and Databricks: Enterprise AI on your governed data",
+    "source": "Databricks Blog",
+    "first_seen": "2026-11-13T16:49:42.268658+00:00",
+    "published": "2026-11-13T15:30:00+00:00"
+  },
+  "https://text.npr.org/nx-s1-6029408": {
+    "title": "Why is Google cutting off Search from AI-free schools? Here are some theories",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-13T16:49:42.268658+00:00",
+    "published": "2026-11-13T15:29:10+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.5-hwpoison-panic": {
+    "title": "Linux 7.5 To Include New hwpoison-panic Tool For Intentionally Crashing Your System",
+    "source": "Phoronix",
+    "first_seen": "2026-11-13T16:49:42.268658+00:00",
+    "published": "2026-11-13T15:26:14+00:00"
+  },
+  "https://www.youtube.com/watch?v=IRK8h67ol7Q": {
+    "title": "Jonathan Blow – If AI Solved Coding, Why Is My Software Still the Same? [video]",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-13T16:49:42.268658+00:00",
+    "published": "2026-11-13T15:08:44+00:00"
+  },
+  "https://www.echopress.com/business/minnesota-guitarists-invention-strikes-a-new-chord": {
+    "title": "Palmfrets, Minnesota guitarist's invention, strikes a new chord",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-13T16:49:42.268658+00:00",
+    "published": "2026-11-13T15:08:07+00:00"
+  },
+  "https://openai.com/index/introducing-chatgpt-wallet": {
+    "title": "Introducing ChatGPT Wallet",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-11-13T16:49:42.268658+00:00",
+    "published": "2026-11-13T15:00:00+00:00"
+  },
+  "https://myid.ie/business/eu-digital-wallet-tracker": {
+    "title": "EU Digital Identity Wallet rollout: every EU state on one board",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-13T16:49:42.268658+00:00",
+    "published": "2026-11-13T14:58:07+00:00"
+  },
+  "https://news.ycombinator.com/item?id=50484421": {
+    "title": "U.S. October PPI Rises 6.5% YoY, Highest in Nearly Four Years",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-13T16:49:42.268658+00:00",
+    "published": "2026-11-13T14:53:32+00:00"
+  },
+  "https://thenewstack.io/ai-agents-retrieval-agent-ready-schema": {
+    "title": "Here’s how to teach AI agents to search like human experts",
+    "source": "The New Stack",
+    "first_seen": "2026-11-13T16:49:42.268658+00:00",
+    "published": "2026-11-13T14:50:37+00:00"
+  },
+  "https://www.phoronix.com/news/AMD-AOCL-6.0": {
+    "title": "AMD AOCL 6.0 Introduces New RNG Library, Initial Zen 6 CPU Optimizations",
+    "source": "Phoronix",
+    "first_seen": "2026-11-13T16:49:42.268658+00:00",
+    "published": "2026-11-13T14:43:17+00:00"
+  },
+  "https://discourse.haskell.org/t/a-technical-vision-for-the-haskell-ecosystem/15078": {
+    "title": "A technical vision for the Haskell ecosystem",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-13T16:49:42.268658+00:00",
+    "published": "2026-11-13T14:43:12+00:00"
+  },
+  "https://lwn.net/Articles/1107473": {
+    "title": "Announcing XRAID: declustered parity RAID for zoned XFS",
+    "source": "LWN.net",
+    "first_seen": "2026-11-13T16:49:42.268658+00:00",
+    "published": "2026-11-13T14:39:47+00:00"
+  },
+  "https://github.com/lonewolf-im/lonewolf/releases/tag/v0.3.0": {
+    "title": "Lonewolf 0.3 – A standalone XMPP server written in Rust",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-13T16:49:42.268658+00:00",
+    "published": "2026-11-13T14:28:40+00:00"
+  },
+  "https://www.wired.com/story/exclusive-apple-tv-neuromancer-creator-interviews": {
+    "title": "The 42-Year Journey to Bring 'Neuromancer' to the Screen",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-13T16:49:42.268658+00:00",
+    "published": "2026-11-13T14:28:32+00:00"
+  },
+  "https://lwn.net/Articles/1107472": {
+    "title": "Security updates for Friday",
+    "source": "LWN.net",
+    "first_seen": "2026-11-13T16:49:42.268658+00:00",
+    "published": "2026-11-13T14:25:42+00:00"
+  },
+  "https://www.theguardian.com/technology/ng-interactive/2026/nov/13/universities-drop-flock-camera-contracts": {
+    "title": "US university students tell surveillance cameras to Flock off",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-13T16:49:42.268658+00:00",
+    "published": "2026-11-13T14:11:56+00:00"
+  },
+  "https://huggingface.co/blog/ggml-org/llama-cpp-v1": {
+    "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-11-13T16:49:42.268658+00:00",
+    "published": "2026-11-13T14:05:22+00:00"
+  },
+  "https://www.mtsoukalos.eu/2026/11/why-zig-over-c-for-systems-programming": {
+    "title": "Why Zig over C for Systems Programming",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-13T16:49:42.268658+00:00",
+    "published": "2026-11-13T14:01:13+00:00"
+  },
+  "https://realpython.com/meta-muse-python": {
+    "title": "Get Started With Meta Muse in Python: Spark and Glimmer",
+    "source": "Real Python",
+    "first_seen": "2026-11-13T16:49:42.268658+00:00",
+    "published": "2026-11-13T14:00:00+00:00"
+  },
+  "https://realpython.com/ai-news-weekly-2026-11-13": {
+    "title": "Anthropic and Google Make Their Best AI Models Cheaper",
+    "source": "Real Python",
+    "first_seen": "2026-11-13T16:49:42.268658+00:00",
+    "published": "2026-11-13T14:00:00+00:00"
+  },
+  "https://blog.cloudflare.com/spend-management": {
+    "title": "Introducing Spend Management: Spending limits and alerts for Cloudflare",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-11-13T16:49:42.268658+00:00",
+    "published": "2026-11-13T14:00:00+00:00"
+  },
+  "https://www.world-nuclear-news.org/articles/us-test-reactor-cleared-for-operations": {
+    "title": "US test reactor cleared for operations",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-13T16:49:42.268658+00:00",
+    "published": "2026-11-13T13:54:49+00:00"
+  },
+  "https://www.phoronix.com/news/XRAID-XFS-RAID": {
+    "title": "XRAID Publicly Released As New RAID Implementation For XFS",
+    "source": "Phoronix",
+    "first_seen": "2026-11-13T16:49:42.268658+00:00",
+    "published": "2026-11-13T13:22:22+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.5-GlandaGPU-Driver": {
+    "title": "Linux 7.5 To Upstream Driver For New Glanda GPU",
+    "source": "Phoronix",
+    "first_seen": "2026-11-13T16:49:42.268658+00:00",
+    "published": "2026-11-13T12:55:37+00:00"
+  },
+  "https://www.science.org/doi/10.1126/science.132.3436.1291": {
+    "title": "Doomsday: Friday, 13 November, A.D. 2026 (1960)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-13T16:49:42.268658+00:00",
+    "published": "2026-11-13T12:10:24+00:00"
+  },
+  "https://realpython.com/quizzes/working-json-data-python": {
+    "title": "Quiz: Working With JSON in Python",
+    "source": "Real Python",
+    "first_seen": "2026-11-13T16:49:42.268658+00:00",
+    "published": "2026-11-13T12:00:00+00:00"
+  },
+  "https://realpython.com/podcasts/rpp/319": {
+    "title": "The Real Python Podcast – Episode #319: Mentoring Developers Beyond the Code With Tim Schilling",
+    "source": "Real Python",
+    "first_seen": "2026-11-13T16:49:42.268658+00:00",
+    "published": "2026-11-13T12:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/Intel-GCC-Coral-Rapids-Razor": {
+    "title": "Intel Posts Initial GCC Compiler Code For Razor Lake & Coral Rapids",
+    "source": "Phoronix",
+    "first_seen": "2026-11-13T16:49:42.268658+00:00",
+    "published": "2026-11-13T11:29:00+00:00"
+  },
+  "https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391": {
+    "title": "AI Is Destroying the Trust Between Writers and Readers",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-13T16:49:42.268658+00:00",
+    "published": "2026-11-13T11:13:46+00:00"
+  },
+  "https://www.phoronix.com/news/NVIDIA-Upstream-vGPU-Nova": {
+    "title": "NVIDIA Highlights Their Open-Source vGPU Upstreaming Work Built Atop Nova",
+    "source": "Phoronix",
+    "first_seen": "2026-11-13T16:49:42.268658+00:00",
+    "published": "2026-11-13T11:09:59+00:00"
+  },
+  "https://www.phoronix.com/news/Dasharo-ACPI-Fan-Control-Driver": {
+    "title": "Dasharo ACPI Fan Control Linux Driver Posted For Adjusting Fan Curves",
+    "source": "Phoronix",
+    "first_seen": "2026-11-13T16:49:42.268658+00:00",
+    "published": "2026-11-13T10:51:34+00:00"
+  },
+  "https://status.claude.com/incidents/nn11wk485zfn": {
+    "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-13T16:49:42.268658+00:00",
+    "published": "2026-11-13T10:18:13+00:00"
+  },
+  "https://motherduck.com/blog/the-data-intelligence-engineer": {
+    "title": "The Dawn of the Data Intelligence Engineer",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-13T16:49:42.268658+00:00",
+    "published": "2026-11-13T09:08:18+00:00"
+  },
+  "https://stackoverflow.blog/2026/11/13/agentic-doesn-t-find-pages-it-assembles-answers": {
+    "title": "Agentic search doesn't find pages, it assembles answers",
+    "source": "Stack Overflow Blog",
+    "first_seen": "2026-11-13T16:49:42.268658+00:00",
+    "published": "2026-11-13T08:40:00+00:00"
+  },
+  "https://ice-wm.org": {
+    "title": "IceWM",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-13T16:49:42.268658+00:00",
+    "published": "2026-11-13T04:54:53+00:00"
+  },
+  "https://folklore.org/Switcher.html": {
+    "title": "Switcher (2004)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-13T16:49:42.268658+00:00",
+    "published": "2026-11-13T03:14:59+00:00"
+  },
+  "https://brave.com/blog/search-api-agentic-payments": {
+    "title": "Brave Search API now accepts agentic payments via the x402 protocol",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-13T16:49:42.268658+00:00",
+    "published": "2026-11-13T03:08:08+00:00"
+  },
+  "https://www.phoronix.com/news/Codex-R600-UVD-FIx-Linux-7.5": {
+    "title": "OpenAI Codex Helps Uncover & Fix A Nearly 20 Year Old Radeon Linux Driver Bug",
+    "source": "Phoronix",
+    "first_seen": "2026-11-13T16:49:42.268658+00:00",
+    "published": "2026-11-13T01:41:27+00:00"
+  },
+  "https://www.thoughtworks.com/insights/blog/generative-ai/specbench-tool-evaluate-ai-enabled-software-development-workflows": {
+    "title": "SpecBench: A tool to evaluate AI-enabled software development workflows",
+    "source": "ThoughtWorks",
+    "first_seen": "2026-11-13T16:49:42.268658+00:00",
+    "published": "2026-11-13T00:00:00+00:00"
+  },
+  "https://www.thoughtworks.com/insights/blog/generative-ai/attackers-are-targeting-the-ai-tools-that-produce-our-software": {
+    "title": "Attackers are targeting the AI tools that produce our software",
+    "source": "ThoughtWorks",
+    "first_seen": "2026-11-13T16:49:42.268658+00:00",
+    "published": "2026-11-13T00:00:00+00:00"
+  },
+  "https://golangweekly.com/issues/624": {
+    "title": "'Go aims to be a steady hand on the tiller.'",
+    "source": "Golang Weekly",
+    "first_seen": "2026-11-13T16:49:42.268658+00:00",
+    "published": "2026-11-13T00:00:00+00:00"
+  },
+  "https://fly.io/blog/throwing-out-the-phonebook": {
+    "title": "Throwing Out The Phonebook",
+    "source": "Fly.io Blog",
+    "first_seen": "2026-11-13T16:49:42.268658+00:00",
+    "published": "2026-11-13T00:00:00+00:00"
   }
 }
