@@ -123764,5 +123764,299 @@
     "source": "Hugging Face Blog",
     "first_seen": "2026-11-12T17:11:10.063318+00:00",
     "published": "2026-11-12T00:00:00+00:00"
+  },
+  "https://github.blog/news-insights/company-news/github-availability-report-october-2026": {
+    "title": "GitHub availability report: October 2026",
+    "source": "GitHub Blog",
+    "first_seen": "2026-11-13T01:33:26.213070+00:00",
+    "published": "2026-11-13T00:20:16+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/boosting-amazon-rds-with-aws-graviton5-benchmarks": {
+    "title": "Boosting Amazon RDS for PostgreSQL with AWS Graviton5: Benchmarks",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-11-13T01:33:26.213070+00:00",
+    "published": "2026-11-12T23:59:59+00:00"
+  },
+  "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer": {
+    "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-13T01:33:26.213070+00:00",
+    "published": "2026-11-12T23:06:17+00:00"
+  },
+  "https://simonwillison.net/2026/Nov/12/llm-gemini": {
+    "title": "llm-gemini 0.37",
+    "source": "Simon Willison",
+    "first_seen": "2026-11-13T01:33:26.213070+00:00",
+    "published": "2026-11-12T22:55:19+00:00"
+  },
+  "https://github.blog/ai-and-ml/github-copilot/build-once-run-on-any-agent-a-practical-guide-to-agent-skills": {
+    "title": "Build once, run on any agent: A practical guide to agent skills",
+    "source": "GitHub Blog",
+    "first_seen": "2026-11-13T01:33:26.213070+00:00",
+    "published": "2026-11-12T22:54:52+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/deploy-frontier-ai-models-on-aws-trainium-with-sglang-neuron": {
+    "title": "Deploy frontier AI models on AWS Trainium with SGLang-Neuron",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-11-13T01:33:26.213070+00:00",
+    "published": "2026-11-12T22:03:34+00:00"
+  },
+  "https://unemploymentlabs.com/checkpoint-forensics": {
+    "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-13T01:33:26.213070+00:00",
+    "published": "2026-11-12T21:56:11+00:00"
+  },
+  "https://aws.amazon.com/blogs/architecture/modular-regression-testing-framework-built-on-aws-for-large-scale-systems": {
+    "title": "Modular regression testing framework built on AWS for large-scale systems",
+    "source": "AWS Architecture Blog",
+    "first_seen": "2026-11-13T01:33:26.213070+00:00",
+    "published": "2026-11-12T21:51:43+00:00"
+  },
+  "https://www.databricks.com/blog/dispelling-ltap-myths": {
+    "title": "Dispelling LTAP myths",
+    "source": "Databricks Blog",
+    "first_seen": "2026-11-13T01:33:26.213070+00:00",
+    "published": "2026-11-12T21:49:43+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/how-natera-designed-an-agentic-ai-system-for-lab-ops-with-amazon-bedrock-agentcore": {
+    "title": "How Natera designed an agentic AI system for lab ops with Amazon Bedrock AgentCore",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-11-13T01:33:26.213070+00:00",
+    "published": "2026-11-12T21:47:07+00:00"
+  },
+  "https://thenewstack.io/gemini-4-hydrogen-orchestrator": {
+    "title": "Google’s Gemini 4 coding agent now switches models mid-task — and finishes 19% faster",
+    "source": "The New Stack",
+    "first_seen": "2026-11-13T01:33:26.213070+00:00",
+    "published": "2026-11-12T21:26:08+00:00"
+  },
+  "https://aws.amazon.com/blogs/containers/automatically-recover-from-gpu-failures-with-amazon-ecs-managed-instances": {
+    "title": "Automatically recover from GPU failures with Amazon ECS Managed Instances",
+    "source": "AWS Containers Blog",
+    "first_seen": "2026-11-13T01:33:26.213070+00:00",
+    "published": "2026-11-12T21:24:16+00:00"
+  },
+  "https://thenewstack.io/cursor-google-multiplayer-swarm": {
+    "title": "Google’s coding agents now /swarm for one developer. Cursor’s go multiplayer so teammates’ agents can talk.",
+    "source": "The New Stack",
+    "first_seen": "2026-11-13T01:33:26.213070+00:00",
+    "published": "2026-11-12T21:22:46+00:00"
+  },
+  "https://developer.apple.com/foundation-models-framework": {
+    "title": "Foundation Models framework",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-13T01:33:26.213070+00:00",
+    "published": "2026-11-12T21:13:26+00:00"
+  },
+  "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html": {
+    "title": "AI is turning Apple's app review process into a nightmare for synth developers",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-13T01:33:26.213070+00:00",
+    "published": "2026-11-12T21:09:49+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/four-amazon-bedrock-inference-choices-that-affect-cost": {
+    "title": "Four Amazon Bedrock inference choices that affect cost",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-11-13T01:33:26.213070+00:00",
+    "published": "2026-11-12T20:51:55+00:00"
+  },
+  "https://aws.amazon.com/blogs/architecture/scale-distributed-ai-workloads-with-ray-and-anyscale-on-amazon-ec2": {
+    "title": "Scale distributed AI workloads with Ray and Anyscale on Amazon EC2",
+    "source": "AWS Architecture Blog",
+    "first_seen": "2026-11-13T01:33:26.213070+00:00",
+    "published": "2026-11-12T20:51:20+00:00"
+  },
+  "https://twitter.com/charlieholtz/status/2120973052024598620": {
+    "title": "Announcement: Conductor Is Back",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-13T01:33:26.213070+00:00",
+    "published": "2026-11-12T20:37:55+00:00"
+  },
+  "https://aws.amazon.com/blogs/compute/per-customer-invoice-management-with-amazon-eventbridge-scheduler": {
+    "title": "Per-customer invoice management with Amazon EventBridge Scheduler",
+    "source": "AWS Compute Blog",
+    "first_seen": "2026-11-13T01:33:26.213070+00:00",
+    "published": "2026-11-12T20:26:38+00:00"
+  },
+  "https://openai.com/business/customer-stories/amplitude": {
+    "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-11-13T01:33:26.213070+00:00",
+    "published": "2026-11-12T20:00:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/architecture/inside-an-enterprise-ai-agent-a-governed-observable-loop-architecture": {
+    "title": "Inside an enterprise AI agent: A governed, observable loop architecture",
+    "source": "AWS Architecture Blog",
+    "first_seen": "2026-11-13T01:33:26.213070+00:00",
+    "published": "2026-11-12T19:31:28+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/tokenomics-at-scale-track-and-cap-amazon-bedrock-spend-per-iam-principal-with-cur-2-0-and-aws-budgets": {
+    "title": "Tokenomics at scale: Track and cap Amazon Bedrock spend per IAM principal with CUR 2.0 and AWS Budgets",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-11-13T01:33:26.213070+00:00",
+    "published": "2026-11-12T19:29:55+00:00"
+  },
+  "https://www.databricks.com/blog/how-constellation-building-governed-data-foundation-databricks": {
+    "title": "How Constellation is building a governed data foundation on Databricks",
+    "source": "Databricks Blog",
+    "first_seen": "2026-11-13T01:33:26.213070+00:00",
+    "published": "2026-11-12T19:21:00+00:00"
+  },
+  "https://www.databricks.com/blog/eclipse-aerospace-simplifies-flight-data-ingestion-databricks": {
+    "title": "Eclipse Aerospace simplifies flight-data ingestion with Databricks",
+    "source": "Databricks Blog",
+    "first_seen": "2026-11-13T01:33:26.213070+00:00",
+    "published": "2026-11-12T19:20:48+00:00"
+  },
+  "https://lwn.net/Articles/1107187": {
+    "title": "Rust 1.100.0 released",
+    "source": "LWN.net",
+    "first_seen": "2026-11-13T01:33:26.213070+00:00",
+    "published": "2026-11-12T19:09:19+00:00"
+  },
+  "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite": {
+    "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-11-13T01:33:26.213070+00:00",
+    "published": "2026-11-12T19:07:35+00:00"
+  },
+  "https://ray.hatchet.run": {
+    "title": "Distributed Ray Tracer",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-13T01:33:26.213070+00:00",
+    "published": "2026-11-12T19:06:23+00:00"
+  },
+  "https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857": {
+    "title": "Dwarf planet candidate appears which takes roughly 280 years to orbit our sun",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-13T01:33:26.213070+00:00",
+    "published": "2026-11-12T19:05:33+00:00"
+  },
+  "https://newsletter.pragmaticengineer.com/p/the-pulse-what-can-we-learn-from-114": {
+    "title": "The Pulse: What can we learn from the Railway hack?",
+    "source": "The Pragmatic Engineer",
+    "first_seen": "2026-11-13T01:33:26.213070+00:00",
+    "published": "2026-11-12T18:53:19+00:00"
+  },
+  "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity": {
+    "title": "Gemini 4 Hydrogen and Orchestrator",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-13T01:33:26.213070+00:00",
+    "published": "2026-11-12T18:52:01+00:00"
+  },
+  "https://www.phoronix.com/news/Rust-1.100-Released": {
+    "title": "Rust 1.100 Released With The \"Never\" Type Finally Stable",
+    "source": "Phoronix",
+    "first_seen": "2026-11-13T01:33:26.213070+00:00",
+    "published": "2026-11-12T18:51:12+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/optimizing-cost-per-task-and-proving-agent-roi-on-amazon-bedrock": {
+    "title": "Optimizing cost per task and proving agent ROI on Amazon Bedrock",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-11-13T01:33:26.213070+00:00",
+    "published": "2026-11-12T18:43:19+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/building-a-self-service-llm-gateway-with-amazon-bedrock-and-litellm": {
+    "title": "Building a self-service LLM gateway with Amazon Bedrock and LiteLLM",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-11-13T01:33:26.213070+00:00",
+    "published": "2026-11-12T18:41:12+00:00"
+  },
+  "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0": {
+    "title": "Rust 1.100",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-13T01:33:26.213070+00:00",
+    "published": "2026-11-12T18:39:05+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/using-aws-backup-to-resynchronize-a-sql-server-alwayson-availability-group": {
+    "title": "Using AWS Backup to resynchronize a SQL Server AlwaysOn Availability Group",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-11-13T01:33:26.213070+00:00",
+    "published": "2026-11-12T18:37:14+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/integrate-mcp-tools-agent-skills-and-aws-devops-agent-for-ai-driven-database-investigation": {
+    "title": "AI-driven database investigation using MCP, Agent Skills, and AWS DevOps Agent",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-11-13T01:33:26.213070+00:00",
+    "published": "2026-11-12T18:34:07+00:00"
+  },
+  "https://www.databricks.com/genie-migrate-for-lakehouse-generally-available": {
+    "title": "Migrate Effortlessly to the Databricks Lakehouse with Genie Migrate, now Generally Available",
+    "source": "Databricks Blog",
+    "first_seen": "2026-11-13T01:33:26.213070+00:00",
+    "published": "2026-11-12T18:26:29+00:00"
+  },
+  "https://mehmetince.net/part-3-6-how-i-ended-up-turning-a-22-year-old-postgresql-type-confusion-primitive-into-rce-cve-2026-6460": {
+    "title": "Turning a 22-year-old Postgres type-confusion primitive into RCE",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-13T01:33:26.213070+00:00",
+    "published": "2026-11-12T18:22:22+00:00"
+  },
+  "https://status.cloud.microsoft": {
+    "title": "Service degradation on Microsoft 365",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-13T01:33:26.213070+00:00",
+    "published": "2026-11-12T18:20:48+00:00"
+  },
+  "https://github.com/Parcha-ai/agentrun/blob/main/README.md": {
+    "title": "Show HN: AgentRun – open-source, Self-improving Managed Agents",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-13T01:33:26.213070+00:00",
+    "published": "2026-11-12T18:15:48+00:00"
+  },
+  "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen": {
+    "title": "Gemini 4 Hydrogen",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-13T01:33:26.213070+00:00",
+    "published": "2026-11-12T18:01:48+00:00"
+  },
+  "https://deepmind.google/blog/introducing-gemini-4-hydrogen": {
+    "title": "Introducing Gemini 4 Hydrogen",
+    "source": "DeepMind Blog",
+    "first_seen": "2026-11-13T01:33:26.213070+00:00",
+    "published": "2026-11-12T18:00:50+00:00"
+  },
+  "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade": {
+    "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+    "source": "Google AI Blog",
+    "first_seen": "2026-11-13T01:33:26.213070+00:00",
+    "published": "2026-11-12T18:00:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/run-agents-securely-and-efficiently-with-the-next-generation-agentcore-runtime": {
+    "title": "Run agents securely and efficiently with the next generation AgentCore runtime",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-11-13T01:33:26.213070+00:00",
+    "published": "2026-11-12T17:59:59+00:00"
+  },
+  "https://news.ycombinator.com/item?id=50471281": {
+    "title": "Show HN: Kapso – Iterative learning from enterprise data",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-13T01:33:26.213070+00:00",
+    "published": "2026-11-12T17:51:23+00:00"
+  },
+  "https://github.com/simpsoka/zigzag": {
+    "title": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-13T01:33:26.213070+00:00",
+    "published": "2026-11-12T17:02:42+00:00"
+  },
+  "https://www.databricks.com/blog/how-h6ai-builds-ai-powered-financial-automation-lakebase-postgres": {
+    "title": "How H6.ai builds AI-powered financial automation with Lakebase Postgres",
+    "source": "Databricks Blog",
+    "first_seen": "2026-11-13T01:33:26.213070+00:00",
+    "published": "2026-11-12T16:56:52+00:00"
+  },
+  "https://www.databricks.com/blog/lakehousert-scale-real-time-analytics-not-your-bill": {
+    "title": "Lakehouse//RT: Scale real-time analytics, not your bill",
+    "source": "Databricks Blog",
+    "first_seen": "2026-11-13T01:33:26.213070+00:00",
+    "published": "2026-11-12T16:53:43+00:00"
+  },
+  "https://openai.com/business/customer-stories/gondola": {
+    "title": "Gondola doubles revenue as its team builds more with Codex",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-11-13T01:33:26.213070+00:00",
+    "published": "2026-11-12T12:00:00+00:00"
   }
 }
