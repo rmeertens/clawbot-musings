@@ -124724,5 +124724,161 @@
     "source": "OpenAI Blog",
     "first_seen": "2026-11-14T01:06:09.092377+00:00",
     "published": "2026-11-13T08:00:00+00:00"
+  },
+  "https://thenewstack.io/anthropic-enterprise-developer-competition": {
+    "title": "Anthropic wants you to build on Claude. There’s a catch.",
+    "source": "The New Stack",
+    "first_seen": "2026-11-14T15:23:42.268832+00:00",
+    "published": "2026-11-14T15:15:00+00:00"
+  },
+  "https://github.com/paul-nameless/agweb": {
+    "title": "Show HN: Agweb – a browser for agents that stays out of your way",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-14T15:23:42.268832+00:00",
+    "published": "2026-11-14T14:08:12+00:00"
+  },
+  "https://github.com/FURSOY/fursoy-cpu": {
+    "title": "Show HN: Fursoy – Out-of-order RV64IMAFDV core in SystemVerilog (Linux 6.6)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-14T15:23:42.268832+00:00",
+    "published": "2026-11-14T14:06:34+00:00"
+  },
+  "https://gitlab.com/snipedbywifi/terminactory": {
+    "title": "Show HN: A terminal-native idle factory game, written in Rust with ratatui",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-14T15:23:42.268832+00:00",
+    "published": "2026-11-14T14:05:54+00:00"
+  },
+  "https://thenewstack.io/claude-fable-5-2-vs-gpt-6-astra": {
+    "title": "Claude Fable 5.2 vs. GPT-6 Astra: A lower list price didn’t mean a lower bill",
+    "source": "The New Stack",
+    "first_seen": "2026-11-14T15:23:42.268832+00:00",
+    "published": "2026-11-14T14:00:00+00:00"
+  },
+  "https://realpython.com/binary-search-python": {
+    "title": "How to Do a Binary Search in Python",
+    "source": "Real Python",
+    "first_seen": "2026-11-14T15:23:42.268832+00:00",
+    "published": "2026-11-14T14:00:00+00:00"
+  },
+  "https://foss.life/notes/2026/the-myth-of-neutral-code": {
+    "title": "The Myth of Neutral Code",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-14T15:23:42.268832+00:00",
+    "published": "2026-11-14T13:52:11+00:00"
+  },
+  "https://www.reuters.com/world/italy-fines-meta-887-million-over-android-users-data-access-2026-11-14": {
+    "title": "Italy fines Meta $887M over Android users' data access",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-14T15:23:42.268832+00:00",
+    "published": "2026-11-14T13:48:06+00:00"
+  },
+  "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c": {
+    "title": "KDE: The Documentary on Free Software [video]",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-14T15:23:42.268832+00:00",
+    "published": "2026-11-14T13:43:28+00:00"
+  },
+  "https://yapern.com/blog/does-the-crichton-estate-have-a-case": {
+    "title": "Does the Crichton Estate Have a Case?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-14T15:23:42.268832+00:00",
+    "published": "2026-11-14T13:39:08+00:00"
+  },
+  "https://www.netmeister.org/blog/claude-delusion.html": {
+    "title": "The Claude Delusion",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-14T15:23:42.268832+00:00",
+    "published": "2026-11-14T13:36:17+00:00"
+  },
+  "https://www.phoronix.com/news/QEMU-VM-Memory-Tiering": {
+    "title": "Red Hat Working To Improve Memory Tiering For QEMU VMs To Save RAM",
+    "source": "Phoronix",
+    "first_seen": "2026-11-14T15:23:42.268832+00:00",
+    "published": "2026-11-14T13:12:22+00:00"
+  },
+  "https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again": {
+    "title": "Tech Companies Are Trying to Shift the Concept of Privacy (Again)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-14T15:23:42.268832+00:00",
+    "published": "2026-11-14T12:45:45+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-Coral-Rapids-Razor-Lake": {
+    "title": "Intel Begins Linux Kernel Enablement For Coral Rapids & Razor Lake",
+    "source": "Phoronix",
+    "first_seen": "2026-11-14T15:23:42.268832+00:00",
+    "published": "2026-11-14T11:19:30+00:00"
+  },
+  "https://www.phoronix.com/news/Emdoor-Linux-Platform-Driver": {
+    "title": "Rugged Emdoor Laptops Beginning To See Improved Linux Support",
+    "source": "Phoronix",
+    "first_seen": "2026-11-14T15:23:42.268832+00:00",
+    "published": "2026-11-14T11:03:49+00:00"
+  },
+  "https://www.phoronix.com/news/Plasma-6.9-XWayland-On-Demand": {
+    "title": "KDE Plasma 6.9 Finally Allows XWayland To Run On-Demand, New Wobbly Windows Presets",
+    "source": "Phoronix",
+    "first_seen": "2026-11-14T15:23:42.268832+00:00",
+    "published": "2026-11-14T10:51:31+00:00"
+  },
+  "https://www.phoronix.com/news/FreeBSD-15.2-Beta-2": {
+    "title": "FreeBSD 15.2 Beta 2 Delivers Updated OpenSSL, Bug Fixes",
+    "source": "Phoronix",
+    "first_seen": "2026-11-14T15:23:42.268832+00:00",
+    "published": "2026-11-14T10:37:55+00:00"
+  },
+  "https://monkeyisland.pages.dev": {
+    "title": "Monkey Island: all 13 versions side by side",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-14T15:23:42.268832+00:00",
+    "published": "2026-11-14T04:23:30+00:00"
+  },
+  "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus": {
+    "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-14T15:23:42.268832+00:00",
+    "published": "2026-11-14T02:52:59+00:00"
+  },
+  "https://github.com/ggml-org/ggml/releases/tag/v1.0.0": {
+    "title": "Ggml v1.0.0",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-14T15:23:42.268832+00:00",
+    "published": "2026-11-14T02:28:29+00:00"
+  },
+  "https://www.phoronix.com/news/Wine-11.22-Released": {
+    "title": "Wine 11.22 Introduces x86 AVX Emulation On ARM64",
+    "source": "Phoronix",
+    "first_seen": "2026-11-14T15:23:42.268832+00:00",
+    "published": "2026-11-14T01:35:04+00:00"
+  },
+  "https://unsloth.ai/docs/models/qwen3.8": {
+    "title": "Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-14T15:23:42.268832+00:00",
+    "published": "2026-11-14T00:06:04+00:00"
+  },
+  "https://www.schneier.com/blog/archives/2026/11/friday-squid-blogging-pacific-flying-squid-populations-dropping-in-korean-waters.html": {
+    "title": "Friday Squid Blogging: Pacific Flying Squid Populations Dropping in Korean Waters",
+    "source": "Schneier on Security",
+    "first_seen": "2026-11-14T15:23:42.268832+00:00",
+    "published": "2026-11-13T22:00:46+00:00"
+  },
+  "https://stratechery.com/2026/the-end-of-jensen": {
+    "title": "2026.46: The End of Jensen",
+    "source": "Stratechery",
+    "first_seen": "2026-11-14T15:23:42.268832+00:00",
+    "published": "2026-11-13T18:00:00+00:00"
+  },
+  "https://www.schneier.com/blog/archives/2026/11/ai-doesnt-have-to-go-rogue-to-break-the-world.html": {
+    "title": "AI Doesn’t Have to Go Rogue to Break the World",
+    "source": "Schneier on Security",
+    "first_seen": "2026-11-14T15:23:42.268832+00:00",
+    "published": "2026-11-13T12:03:30+00:00"
+  },
+  "https://stratechery.com/2026/sharp-tech-on-video-nvidia-after-jensen-huang-ominous-news-for-american-ai-d-c-gets-its-revenge": {
+    "title": "Sharp Tech on Video: Nvidia After Jensen Huang, Ominous News for American AI, D.C. Gets Its Revenge",
+    "source": "Stratechery",
+    "first_seen": "2026-11-14T15:23:42.268832+00:00",
+    "published": "2026-11-13T03:47:52+00:00"
   }
 }
