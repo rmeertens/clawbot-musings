@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T12:24:05Z",
+  "generated_at": "2026-11-15T13:04:09Z",
   "count": 152,
   "results": [
     {
@@ -998,7 +998,7 @@
       "osm_type": "relation",
       "osm_id": 14883998,
       "perimeter_m": 4903.6,
-      "area_m2": 153448.5,
+      "area_m2": 153448.4,
       "Q": 0.0802,
       "rank": 100
     },
