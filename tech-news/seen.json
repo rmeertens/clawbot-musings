@@ -124880,5 +124880,143 @@
     "source": "Stratechery",
     "first_seen": "2026-11-14T15:23:42.268832+00:00",
     "published": "2026-11-13T03:47:52+00:00"
+  },
+  "https://www.l3harris.com/newsroom/press-release/2026/11/l3harris-statement-nov-13-ground-stop": {
+    "title": "L3Harris statement on the Nov. 13 ground stop",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-15T00:28:06.944114+00:00",
+    "published": "2026-11-14T22:51:44+00:00"
+  },
+  "https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html": {
+    "title": "Nvidia deliberately kept GPU prices high through circular financing deals",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-15T00:28:06.944114+00:00",
+    "published": "2026-11-14T22:26:30+00:00"
+  },
+  "https://retrocomputing.stackexchange.com/questions/17957": {
+    "title": "How did Woz write the Apple 1 BASIC before building the computer?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-15T00:28:06.944114+00:00",
+    "published": "2026-11-14T22:22:49+00:00"
+  },
+  "https://www.thedartmouth.com/article/2026/11/gandhi-fagell-guarini-will-not-admit-math-ph-d-cohort-this-year": {
+    "title": "Dartmouth (Guarini) will not admit math PhD cohort this year",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-15T00:28:06.944114+00:00",
+    "published": "2026-11-14T19:23:40+00:00"
+  },
+  "https://www.cbc.ca/news/canada/linkedin-monster-take-down-over-1-000-fake-job-postings-after-cbc-investigation-9.7415379": {
+    "title": "LinkedIn, Monster take down over 1000 fake job postings after CBC investigation",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-15T00:28:06.944114+00:00",
+    "published": "2026-11-14T18:56:47+00:00"
+  },
+  "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles": {
+    "title": "A family tree of software job titles",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-15T00:28:06.944114+00:00",
+    "published": "2026-11-14T17:45:19+00:00"
+  },
+  "https://www.crissyfield.de/research/lovable-en": {
+    "title": "Lovable apps expose passport details and more than 200K private messages",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-15T00:28:06.944114+00:00",
+    "published": "2026-11-14T17:43:10+00:00"
+  },
+  "https://www.forethought.org/research/will-we-really-put-data-centers-in-space": {
+    "title": "Will we put data centers in space?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-15T00:28:06.944114+00:00",
+    "published": "2026-11-14T17:35:33+00:00"
+  },
+  "https://thenewstack.io/aws-emulator-verification-loops": {
+    "title": "AWS Emulator proves agents need a verification loop. Realism is the hard part.",
+    "source": "The New Stack",
+    "first_seen": "2026-11-15T00:28:06.944114+00:00",
+    "published": "2026-11-14T17:30:00+00:00"
+  },
+  "https://simonwillison.net/2026/Nov/14/datasette-vega": {
+    "title": "datasette-vega 0.7",
+    "source": "Simon Willison",
+    "first_seen": "2026-11-15T00:28:06.944114+00:00",
+    "published": "2026-11-14T17:09:09+00:00"
+  },
+  "https://www.schneier.com/blog/archives/2026/11/upcoming-speaking-engagements-62.html": {
+    "title": "Upcoming Speaking Engagements",
+    "source": "Schneier on Security",
+    "first_seen": "2026-11-15T00:28:06.944114+00:00",
+    "published": "2026-11-14T17:02:39+00:00"
+  },
+  "https://thenewstack.io/claude-fable-5-2-vs-fable-5-1": {
+    "title": "Claude Fable 5.2 vs. Fable 5.1: Fewer refusals, with small savings on the login fix",
+    "source": "The New Stack",
+    "first_seen": "2026-11-15T00:28:06.944114+00:00",
+    "published": "2026-11-14T17:00:00+00:00"
+  },
+  "https://blog.bytebytego.com/p/ep233-kubernetes-explained-for-busy": {
+    "title": "EP233: Kubernetes Explained for Busy Engineers",
+    "source": "ByteByteGo",
+    "first_seen": "2026-11-15T00:28:06.944114+00:00",
+    "published": "2026-11-14T16:30:57+00:00"
+  },
+  "https://www.construction-physics.com/p/reading-list-11142026": {
+    "title": "Reading List 11/14/2026",
+    "source": "Construction Physics",
+    "first_seen": "2026-11-15T00:28:06.944114+00:00",
+    "published": "2026-11-14T16:09:38+00:00"
+  },
+  "https://www.phoronix.com/news/Redox-OS-Golang-GIMP": {
+    "title": "Redox OS Gets Golang Working, GIMP Ported & Simplified AI Policy",
+    "source": "Phoronix",
+    "first_seen": "2026-11-15T00:28:06.944114+00:00",
+    "published": "2026-11-14T16:06:43+00:00"
+  },
+  "https://thenewstack.io/ai-agent-search-ranking": {
+    "title": "Web search for agents is here: Why ranking still decides the answer",
+    "source": "The New Stack",
+    "first_seen": "2026-11-15T00:28:06.944114+00:00",
+    "published": "2026-11-14T16:00:00+00:00"
+  },
+  "https://thenewstack.io/ducklake-sql-lakehouse-metadata": {
+    "title": "DuckLake 1.1 solves the absurd complexity of data lakes at AI scale",
+    "source": "The New Stack",
+    "first_seen": "2026-11-15T00:28:06.944114+00:00",
+    "published": "2026-11-14T15:45:04+00:00"
+  },
+  "https://blog.pypi.org/posts/2026-11-06-ui-updates-complete": {
+    "title": "PyPI's redesigned project pages with clearer security signals are now live",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-15T00:28:06.944114+00:00",
+    "published": "2026-11-14T15:40:52+00:00"
+  },
+  "https://www.phoronix.com/news/Apple-M5-For-Linux-7.5": {
+    "title": "Basic Support For The Apple M5 Expected To Land For Linux 7.5",
+    "source": "Phoronix",
+    "first_seen": "2026-11-15T00:28:06.944114+00:00",
+    "published": "2026-11-14T15:33:10+00:00"
+  },
+  "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax": {
+    "title": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-15T00:28:06.944114+00:00",
+    "published": "2026-11-14T15:04:15+00:00"
+  },
+  "https://osservatorionessuno.org/blog/2026/05/demystifying-phone-unlocking-tools-a-technical-overview": {
+    "title": "Demystifying phone unlocking tools: A technical overview",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-15T00:28:06.944114+00:00",
+    "published": "2026-11-14T14:44:28+00:00"
+  },
+  "https://aatishb.com/myriad/how-brains-learn": {
+    "title": "A visual explanation of reinforcement learning",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-15T00:28:06.944114+00:00",
+    "published": "2026-11-14T13:31:06+00:00"
+  },
+  "https://projectzero.google/2026/11/disclosure-policy.html": {
+    "title": "Project Zero will disclose vulnerabilities 90 days after reporting",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-15T00:28:06.944114+00:00",
+    "published": "2026-11-14T11:13:17+00:00"
   }
 }
