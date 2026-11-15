@@ -125018,5 +125018,137 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-11-15T00:28:06.944114+00:00",
     "published": "2026-11-14T11:13:17+00:00"
+  },
+  "https://www.nytimes.com/2026/11/15/business/anthropic-ipo-filing-prospectus.html": {
+    "title": "A Human Reads the Anthropic IPO Filing",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-15T15:56:48.932143+00:00",
+    "published": "2026-11-15T15:18:06+00:00"
+  },
+  "https://thenewstack.io/duckdb-quack-database-protocol": {
+    "title": "DuckDB has an answer to “bloated” database messages",
+    "source": "The New Stack",
+    "first_seen": "2026-11-15T15:56:48.932143+00:00",
+    "published": "2026-11-15T15:05:56+00:00"
+  },
+  "https://thenewstack.io/claude-fable-5-2-vs-opus-5-5": {
+    "title": "Claude Fable 5.2 vs. Opus 5.5: Same scores at almost 4x the cost",
+    "source": "The New Stack",
+    "first_seen": "2026-11-15T15:56:48.932143+00:00",
+    "published": "2026-11-15T15:00:00+00:00"
+  },
+  "https://jakub.jankiewicz.org/blog/ai-code-open-source": {
+    "title": "All AI-generated code should be Open Source",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-15T15:56:48.932143+00:00",
+    "published": "2026-11-15T14:46:58+00:00"
+  },
+  "https://datatracker.ietf.org/doc/draft-banffy-httpbis-not-a-freezer": {
+    "title": "The Hypertext Transfer Protocol Status Code 483 (I'm Not a Freezer)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-15T15:56:48.932143+00:00",
+    "published": "2026-11-15T14:31:52+00:00"
+  },
+  "https://www.phoronix.com/news/AMD-Hybrid-Capacity-Aware-Sched": {
+    "title": "AMD Posts Linux Patches For Capacity Aware Scheduling On Hybrid CPUs",
+    "source": "Phoronix",
+    "first_seen": "2026-11-15T15:56:48.932143+00:00",
+    "published": "2026-11-15T14:20:01+00:00"
+  },
+  "https://realpython.com/python-scipy-cluster-optimize": {
+    "title": "Scientific Python: Using SciPy for Optimization",
+    "source": "Real Python",
+    "first_seen": "2026-11-15T15:56:48.932143+00:00",
+    "published": "2026-11-15T14:00:00+00:00"
+  },
+  "https://prog21.dadgum.com/116.html": {
+    "title": "Things That Turbo Pascal Is Smaller Than (2011)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-15T15:56:48.932143+00:00",
+    "published": "2026-11-15T13:44:16+00:00"
+  },
+  "https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use": {
+    "title": "The MacBook Pro's OLED PWM Problem: When a 'Better' Display Becomes Worse to Use",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-15T15:56:48.932143+00:00",
+    "published": "2026-11-15T13:15:22+00:00"
+  },
+  "https://lucypero.com/lucynes.html": {
+    "title": "A NES emulator written in Odin",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-15T15:56:48.932143+00:00",
+    "published": "2026-11-15T12:51:47+00:00"
+  },
+  "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings": {
+    "title": "Understanding Positional Embeddings in Modern LLMs",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-15T15:56:48.932143+00:00",
+    "published": "2026-11-15T12:14:06+00:00"
+  },
+  "https://www.phoronix.com/news/IBM-VMs-ARM64-On-s390": {
+    "title": "IBM Talks Up Their New Ability For Handling ARM64 Guest VMs on s390 Hardware",
+    "source": "Phoronix",
+    "first_seen": "2026-11-15T15:56:48.932143+00:00",
+    "published": "2026-11-15T11:42:22+00:00"
+  },
+  "https://www.nytimes.com/2026/11/15/us/politics/lutnick-pushed-to-weaken-chip-rules-that-overlap-with-his-family-business.html": {
+    "title": "Lutnick Pushed to Weaken Chip Rules That Overlap with His Family Business",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-15T15:56:48.932143+00:00",
+    "published": "2026-11-15T11:40:51+00:00"
+  },
+  "https://www.phoronix.com/news/AMD-Root-Guest-ARG-Linux": {
+    "title": "AMD ARG \"AMD Root Guest\" Linux Patches Coming In 2027",
+    "source": "Phoronix",
+    "first_seen": "2026-11-15T15:56:48.932143+00:00",
+    "published": "2026-11-15T11:24:06+00:00"
+  },
+  "https://www.phoronix.com/news/ASUS-Ascent-QN10-Linux": {
+    "title": "ASUS Ascent QN10 Mini PC Powered By Snapdragon X2 Elite Seeing Linux Support",
+    "source": "Phoronix",
+    "first_seen": "2026-11-15T15:56:48.932143+00:00",
+    "published": "2026-11-15T11:01:55+00:00"
+  },
+  "https://space.stackexchange.com/questions/37775": {
+    "title": "Why did some Apollo missions carry a grenade launcher?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-15T15:56:48.932143+00:00",
+    "published": "2026-11-15T09:06:43+00:00"
+  },
+  "https://nick-black.com/dankwiki/index.php?title=Book_list_for_streetfighting_computer_scientists": {
+    "title": "Book list for streetfighting computer scientists",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-15T15:56:48.932143+00:00",
+    "published": "2026-11-15T07:08:50+00:00"
+  },
+  "https://netbsd.org/~nia/disk-encrypt": {
+    "title": "Disk encryption on NetBSD – achieving secrecy",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-15T15:56:48.932143+00:00",
+    "published": "2026-11-15T05:29:54+00:00"
+  },
+  "https://jordi.inversethought.com/blog/25-of-my-favourite-modern-nes-games": {
+    "title": "My favourite modern NES games",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-15T15:56:48.932143+00:00",
+    "published": "2026-11-15T02:41:25+00:00"
+  },
+  "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal": {
+    "title": "Court denies motion to dismiss DRAM price fixing case",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-15T15:56:48.932143+00:00",
+    "published": "2026-11-15T01:18:36+00:00"
+  },
+  "https://simonwillison.net/2026/Nov/14/datasette-llm": {
+    "title": "datasette-llm 0.1a11",
+    "source": "Simon Willison",
+    "first_seen": "2026-11-15T15:56:48.932143+00:00",
+    "published": "2026-11-14T23:59:28+00:00"
+  },
+  "https://lithub.com/how-the-telephone-changed-the-world": {
+    "title": "The Telephone Changed the World",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-15T15:56:48.932143+00:00",
+    "published": "2026-11-14T22:56:09+00:00"
   }
 }
