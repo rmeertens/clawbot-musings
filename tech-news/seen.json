@@ -125150,5 +125150,143 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-11-15T15:56:48.932143+00:00",
     "published": "2026-11-14T22:56:09+00:00"
+  },
+  "https://www.databricks.com/blog/teach-genie-one-your-workflows-ultimate-guide-skills-genie-one": {
+    "title": "Teach Genie One your workflows: The ultimate guide for skills in Genie One",
+    "source": "Databricks Blog",
+    "first_seen": "2026-11-16T00:29:15.193522+00:00",
+    "published": "2026-11-16T17:00:00+00:00"
+  },
+  "https://tangled.org/nvim-mini.org/mini.nvim": {
+    "title": "Mini.nvim Is Now on Tangled",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-16T00:29:15.193522+00:00",
+    "published": "2026-11-15T23:55:41+00:00"
+  },
+  "https://www.reuters.com/world/china/jensen-huang-discusses-comeback-nvidia-ceo-with-allies-ft-reports-2026-11-15": {
+    "title": "Jensen Huang might return to Nvidia as CEO",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-16T00:29:15.193522+00:00",
+    "published": "2026-11-15T23:24:53+00:00"
+  },
+  "https://simonwillison.net/2026/Nov/15/datasette-2": {
+    "title": "datasette 0.65.6",
+    "source": "Simon Willison",
+    "first_seen": "2026-11-16T00:29:15.193522+00:00",
+    "published": "2026-11-15T23:18:17+00:00"
+  },
+  "https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism": {
+    "title": "Preserving 30 Years of Salon Journalism",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-16T00:29:15.193522+00:00",
+    "published": "2026-11-15T23:00:11+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.4-rc3-Released": {
+    "title": "Linux 7.4-rc3 Released: \"The Usual Noise All Over\"",
+    "source": "Phoronix",
+    "first_seen": "2026-11-16T00:29:15.193522+00:00",
+    "published": "2026-11-15T22:55:19+00:00"
+  },
+  "https://lastcomplication.com": {
+    "title": "Show HN: The Last Complication, a Zachtronics-style watchmaking puzzle game",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-16T00:29:15.193522+00:00",
+    "published": "2026-11-15T22:48:52+00:00"
+  },
+  "https://blog.bytebytego.com/p/last-call-for-enrollment-ai-engineering": {
+    "title": "LAST CALL FOR ENROLLMENT: AI Engineering Fundamentals",
+    "source": "ByteByteGo",
+    "first_seen": "2026-11-16T00:29:15.193522+00:00",
+    "published": "2026-11-15T22:15:41+00:00"
+  },
+  "https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026": {
+    "title": "Old Bitly Links Are Being Hijacked",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-16T00:29:15.193522+00:00",
+    "published": "2026-11-15T22:11:43+00:00"
+  },
+  "https://openai.com/index/step-toward-defining-the-standard-model": {
+    "title": "A step toward defining the Standard Model on a lattice",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-11-16T00:29:15.193522+00:00",
+    "published": "2026-11-15T22:00:01+00:00"
+  },
+  "https://openai.com/index/our-new-blog-for-science": {
+    "title": "Our new blog for science",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-11-16T00:29:15.193522+00:00",
+    "published": "2026-11-15T22:00:00+00:00"
+  },
+  "https://www.reuters.com/business/aerospace-defense/us-rocket-fails-after-launch-payload-amazon-internet-satellites-destroyed-2026-11-15": {
+    "title": "Boeing-Lockheed rocket fails mid-flight, destroys payload of Amazon satellites",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-16T00:29:15.193522+00:00",
+    "published": "2026-11-15T21:38:11+00:00"
+  },
+  "https://www.space.com/space-exploration/launches-spacecraft/ula-vulcan-centaur-return-to-flight-amazon-leo-internet-satellite-launch": {
+    "title": "Vulcan rocket fails during return-to-flight launch, 40 Amazon satellites lost",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-16T00:29:15.193522+00:00",
+    "published": "2026-11-15T20:37:28+00:00"
+  },
+  "https://baron.by.dai.studio": {
+    "title": "WebGL Flight Simulator with seed generated terrain",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-16T00:29:15.193522+00:00",
+    "published": "2026-11-15T20:20:05+00:00"
+  },
+  "https://news.ycombinator.com/item?id=50510042": {
+    "title": "Ask HN: Stripe closed us after one $1,500 invoice and never asked for evidence",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-16T00:29:15.193522+00:00",
+    "published": "2026-11-15T19:49:28+00:00"
+  },
+  "https://ductus.sorenblank.com": {
+    "title": "Handwriting, as a Font",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-16T00:29:15.193522+00:00",
+    "published": "2026-11-15T19:42:13+00:00"
+  },
+  "https://bruceroettgers.eu/blog/protomaps": {
+    "title": "Protomaps: Self-hosting map tiles has gotten cheap and easy",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-16T00:29:15.193522+00:00",
+    "published": "2026-11-15T19:26:22+00:00"
+  },
+  "https://github.com/eclipse-mosquitto/mosquitto": {
+    "title": "Eclipse Mosquitto – An open source MQTT broker",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-16T00:29:15.193522+00:00",
+    "published": "2026-11-15T18:36:40+00:00"
+  },
+  "https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html": {
+    "title": "Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-16T00:29:15.193522+00:00",
+    "published": "2026-11-15T18:36:10+00:00"
+  },
+  "https://www.youtube.com/watch?v=7_JF3etiAv8": {
+    "title": "A short explainer on how El Niño works [video]",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-16T00:29:15.193522+00:00",
+    "published": "2026-11-15T18:23:21+00:00"
+  },
+  "https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html": {
+    "title": "'Birdbrain' Is a Misnomer. Crows Make Decisions Faster Than We Can",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-16T00:29:15.193522+00:00",
+    "published": "2026-11-15T17:53:31+00:00"
+  },
+  "https://ykiko.me/en/articles/2105384023094834022": {
+    "title": "Clice v1.0 Released: Welcome to Modern C++",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-16T00:29:15.193522+00:00",
+    "published": "2026-11-15T17:22:32+00:00"
+  },
+  "https://joshblais.com/blog/emacs-as-my-browser": {
+    "title": "Emacs Is My Browser",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-16T00:29:15.193522+00:00",
+    "published": "2026-11-15T15:21:21+00:00"
   }
 }
