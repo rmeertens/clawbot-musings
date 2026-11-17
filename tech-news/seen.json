@@ -125804,5 +125804,257 @@
     "source": "Simon Willison",
     "first_seen": "2026-11-16T18:59:30.707439+00:00",
     "published": "2026-11-15T04:02:45+00:00"
+  },
+  "https://support.apple.com/en-us/149699": {
+    "title": "If an App Asks for Full Disk Access or System and App Protection Override",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-17T03:15:52.717130+00:00",
+    "published": "2026-11-17T02:17:04+00:00"
+  },
+  "https://get.mem.ai/blog/mem-is-shutting-down": {
+    "title": "Mem Is Shutting Down",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-17T03:15:52.717130+00:00",
+    "published": "2026-11-17T02:13:41+00:00"
+  },
+  "https://studio.sinapsdata.com.br": {
+    "title": "Show HN: A free interactive course on AI agent governance",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-17T03:15:52.717130+00:00",
+    "published": "2026-11-17T02:12:13+00:00"
+  },
+  "https://www.phoronix.com/news/HRX-Loom-0.2": {
+    "title": "AMD ROCm HRX's Loom 0.2 Expands C++ Support, Improved Targeting",
+    "source": "Phoronix",
+    "first_seen": "2026-11-17T03:15:52.717130+00:00",
+    "published": "2026-11-17T01:37:15+00:00"
+  },
+  "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-says-claude-mythos-slashed-software-work-to-onboard-amd-gpus-from-up-to-12-months-to-around-three-days-writing-almost-100-percent-of-kernels-autonomously-chips-away-at-nvidias-cuda-moat": {
+    "title": "Claude Mythos slashed software work to onboard AMD GPUs to around three days",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-17T03:15:52.717130+00:00",
+    "published": "2026-11-17T01:35:16+00:00"
+  },
+  "https://blog.antonio.cx/running-agents-with-lend": {
+    "title": "Running coding agents without handing them my credentials",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-17T03:15:52.717130+00:00",
+    "published": "2026-11-17T01:18:56+00:00"
+  },
+  "https://www.reuters.com/business/aerospace-defense/pentagon-fails-ninth-straight-audit-despite-progress-organizing-finances-2026-11-16": {
+    "title": "Pentagon fails ninth straight audit despite progress in organizing finances",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-17T03:15:52.717130+00:00",
+    "published": "2026-11-17T00:23:21+00:00"
+  },
+  "https://aws.amazon.com/blogs/containers/high-quality-cost-effective-ai-image-generation-on-amazon-ecs": {
+    "title": "High-quality cost-effective AI image generation on Amazon ECS",
+    "source": "AWS Containers Blog",
+    "first_seen": "2026-11-17T03:15:52.717130+00:00",
+    "published": "2026-11-17T00:19:06+00:00"
+  },
+  "https://simonwillison.net/2026/Nov/16/llm": {
+    "title": "llm 0.37.3",
+    "source": "Simon Willison",
+    "first_seen": "2026-11-17T03:15:52.717130+00:00",
+    "published": "2026-11-16T23:57:26+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/postgresql-large-objects-best-practices-for-amazon-aurora-and-rds": {
+    "title": "PostgreSQL large objects: Best practices for Amazon Aurora and RDS",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-11-17T03:15:52.717130+00:00",
+    "published": "2026-11-16T23:46:00+00:00"
+  },
+  "https://webkit.org/blog/18621/introducing-spatial-css-a-developer-preview": {
+    "title": "Introducing spatial CSS: A developer preview",
+    "source": "WebKit Blog",
+    "first_seen": "2026-11-17T03:15:52.717130+00:00",
+    "published": "2026-11-16T23:45:44+00:00"
+  },
+  "https://github.com/0nelight/sutra-os": {
+    "title": "Show HN: Sutra-OS – A self-hosted ontology platform",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-17T03:15:52.717130+00:00",
+    "published": "2026-11-16T23:25:41+00:00"
+  },
+  "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely": {
+    "title": "Optimizely Compromised, Served Malware on Zoom, GitLab",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-17T03:15:52.717130+00:00",
+    "published": "2026-11-16T23:00:34+00:00"
+  },
+  "https://xusheng.dev/posts/windows-coding-agent-telemetry": {
+    "title": "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-17T03:15:52.717130+00:00",
+    "published": "2026-11-16T22:58:20+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/build-memory-aware-ai-agents-with-agentic-retrieve-on-amazon-bedrock-managed-knowledge-base": {
+    "title": "Build memory-aware AI agents with Agentic Retrieve on Amazon Bedrock Managed Knowledge Base",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-11-17T03:15:52.717130+00:00",
+    "published": "2026-11-16T22:43:30+00:00"
+  },
+  "https://www.phoronix.com/news/AlmaLinux-10.3-Released": {
+    "title": "AlmaLinux 10.3 Released With ModSecurity Restored, Various Updates",
+    "source": "Phoronix",
+    "first_seen": "2026-11-17T03:15:52.717130+00:00",
+    "published": "2026-11-16T22:35:41+00:00"
+  },
+  "https://developer.nvidia.com/blog/accelerate-molecular-dynamics-simulations-with-accurate-flexible-primitives-using-nvidia-cupotential": {
+    "title": "Accelerate Molecular Dynamics Simulations with Accurate, Flexible Primitives Using NVIDIA cuPotential",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-11-17T03:15:52.717130+00:00",
+    "published": "2026-11-16T22:30:00+00:00"
+  },
+  "https://krebsonsecurity.com/2012/06/how-to-break-into-security-ptacek-edition": {
+    "title": "How to Break into Security, Ptacek Edition (2012)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-17T03:15:52.717130+00:00",
+    "published": "2026-11-16T22:19:23+00:00"
+  },
+  "https://www.cnn.com/2026/11/16/us/united-airlines-outage": {
+    "title": "United Airlines experiencing a widespread system outage, airline says",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-17T03:15:52.717130+00:00",
+    "published": "2026-11-16T22:14:38+00:00"
+  },
+  "https://thenewstack.io/cncf-bryce-ai-agents": {
+    "title": "AI agents were all over KubeCon. Production is another story",
+    "source": "The New Stack",
+    "first_seen": "2026-11-17T03:15:52.717130+00:00",
+    "published": "2026-11-16T22:08:42+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/how-duco-transforms-financial-data-automation-with-amazon-bedrock-agentcore": {
+    "title": "How Duco transforms financial data automation with Amazon Bedrock AgentCore",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-11-17T03:15:52.717130+00:00",
+    "published": "2026-11-16T22:06:08+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/taxonomy-of-multi-agent-design-patterns-anti-patterns-and-lessons-from-manufacturing": {
+    "title": "Taxonomy of multi-agent design patterns, anti-patterns, and lessons from manufacturing",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-11-17T03:15:52.717130+00:00",
+    "published": "2026-11-16T21:53:46+00:00"
+  },
+  "https://www.bugmenot.com": {
+    "title": "BugMeNot has closed",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-17T03:15:52.717130+00:00",
+    "published": "2026-11-16T21:32:17+00:00"
+  },
+  "https://thenewstack.io/autonomous-ai-exploit-agents": {
+    "title": "Google found hackers using autonomous AI agents to turn security patches into exploits",
+    "source": "The New Stack",
+    "first_seen": "2026-11-17T03:15:52.717130+00:00",
+    "published": "2026-11-16T21:27:38+00:00"
+  },
+  "https://opencode.ai/product/browse": {
+    "title": "OpenCode Browse",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-17T03:15:52.717130+00:00",
+    "published": "2026-11-16T21:20:37+00:00"
+  },
+  "https://ben3d.ca/blog/building-the-aaa-lighting-pipeline-in-threejs": {
+    "title": "My Quest to push native Three.js quality match AAA Game Engines",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-17T03:15:52.717130+00:00",
+    "published": "2026-11-16T21:07:43+00:00"
+  },
+  "https://www.cs.cmu.edu/learn": {
+    "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-17T03:15:52.717130+00:00",
+    "published": "2026-11-16T20:43:36+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/deliver-petabytes-of-apache-kafka-data-to-amazon-s3-at-up-to-60-lower-cost-with-amazon-msk-express-brokers": {
+    "title": "Deliver petabytes of Apache Kafka data to Amazon S3 at up to 60% lower cost with Amazon MSK Express brokers",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-11-17T03:15:52.717130+00:00",
+    "published": "2026-11-16T20:42:44+00:00"
+  },
+  "https://aws.amazon.com/blogs/containers/how-salesforce-efficiently-right-sizes-kubernetes-workloads-at-scale-on-amazon-eks": {
+    "title": "How Salesforce efficiently right-sizes Kubernetes workloads at scale on Amazon EKS",
+    "source": "AWS Containers Blog",
+    "first_seen": "2026-11-17T03:15:52.717130+00:00",
+    "published": "2026-11-16T20:40:26+00:00"
+  },
+  "https://news.ycombinator.com/item?id=50522776": {
+    "title": "Launch HN: Axonnic (YC F26) – Sleeves that track fingers and estimate force",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-17T03:15:52.717130+00:00",
+    "published": "2026-11-16T20:29:48+00:00"
+  },
+  "https://chillphysicsenjoyer.substack.com/p/chemistry-is-actually-geometry": {
+    "title": "Chemistry is Actually Geometry",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-17T03:15:52.717130+00:00",
+    "published": "2026-11-16T20:22:18+00:00"
+  },
+  "https://pytorch.org/blog/2026-pytorch-foundation-contributor-awards": {
+    "title": "Celebrating the 2026 PyTorch Foundation Contributor Award Winners and Nominees",
+    "source": "PyTorch Blog",
+    "first_seen": "2026-11-17T03:15:52.717130+00:00",
+    "published": "2026-11-16T20:16:55+00:00"
+  },
+  "https://blog.startifact.com/posts/how-rust-changed-me": {
+    "title": "Rust changed me as a developer",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-17T03:15:52.717130+00:00",
+    "published": "2026-11-16T20:16:50+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/migrate-apache-solr-to-amazon-opensearch-service-with-the-ai-driven-migration-assistant": {
+    "title": "Migrate Apache Solr to Amazon OpenSearch Service with the AI-driven Migration Assistant",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-11-17T03:15:52.717130+00:00",
+    "published": "2026-11-16T20:10:57+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/analyze-anthropic-usage-spend-and-access-with-aws-glue-amazon-s3-tables-and-aws-quick": {
+    "title": "Analyze Anthropic usage, spend, and access with AWS Glue, Amazon S3 Tables, and AWS Quick",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-11-17T03:15:52.717130+00:00",
+    "published": "2026-11-16T20:09:24+00:00"
+  },
+  "https://aws.amazon.com/blogs/architecture/announcing-updates-to-the-aws-well-architected-framework-3": {
+    "title": "Announcing updates to the AWS Well-Architected Framework",
+    "source": "AWS Architecture Blog",
+    "first_seen": "2026-11-17T03:15:52.717130+00:00",
+    "published": "2026-11-16T20:03:26+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/exploring-new-features-of-apache-tinkerpop-3-8-x-in-amazon-neptune": {
+    "title": "Exploring new features of Apache TinkerPop 3.8.x in Amazon Neptune",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-11-17T03:15:52.717130+00:00",
+    "published": "2026-11-16T19:31:48+00:00"
+  },
+  "https://opentelemetry.io/blog/2026/otel-community-awards": {
+    "title": "Announcing the 2026 OpenTelemetry Community Award Winners",
+    "source": "OpenTelemetry Blog",
+    "first_seen": "2026-11-17T03:15:52.717130+00:00",
+    "published": "2026-11-16T19:30:06+00:00"
+  },
+  "https://kubernetes.io/blog/2026/11/16/ipvs-removal": {
+    "title": "Scheduling the removal of the kube-proxy IPVS backend",
+    "source": "Kubernetes Blog",
+    "first_seen": "2026-11-17T03:15:52.717130+00:00",
+    "published": "2026-11-16T18:35:00+00:00"
+  },
+  "https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda": {
+    "title": "Technical issue at JPMorgan Chase triggers online banking delays for US banks",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-17T03:15:52.717130+00:00",
+    "published": "2026-11-16T18:31:30+00:00"
+  },
+  "https://www.databricks.com/blog/clean-data-was-never-enough-how-ifs-copperleaf-taught-ai-its-business-databricks-genie-one-0": {
+    "title": "Clean data was never enough: How IFS Copperleaf taught AI its business with Databricks Genie One",
+    "source": "Databricks Blog",
+    "first_seen": "2026-11-17T03:15:52.717130+00:00",
+    "published": "2026-11-16T18:30:56+00:00"
+  },
+  "https://blog.sentry.io/sentry-conventions": {
+    "title": "Naming is hard, semantics are hard(er): Inside Sentry Conventions",
+    "source": "Sentry Blog",
+    "first_seen": "2026-11-17T03:15:52.717130+00:00",
+    "published": "2026-11-16T11:00:00+00:00"
   }
 }
