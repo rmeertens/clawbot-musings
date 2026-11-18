@@ -126512,5 +126512,377 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-11-17T17:57:31.618033+00:00",
     "published": "2026-11-16T20:48:08+00:00"
+  },
+  "https://www.databricks.com/blog/how-we-raised-databricks-cluster-rate-limits-75": {
+    "title": "How we raised Databricks cluster rate limits by 7.5×",
+    "source": "Databricks Blog",
+    "first_seen": "2026-11-18T02:38:59.118740+00:00",
+    "published": "2026-11-18T02:30:31+00:00"
+  },
+  "https://www.phoronix.com/news/RBRD-Rust-Linux-RAM-Driver": {
+    "title": "RBRD: RAM-Backed Linux Block Driver Written In Rust For Better Safety But Slower Performance",
+    "source": "Phoronix",
+    "first_seen": "2026-11-18T02:38:59.118740+00:00",
+    "published": "2026-11-18T02:04:05+00:00"
+  },
+  "https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference": {
+    "title": "Cerebras Disaggregated Inference",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-18T02:38:59.118740+00:00",
+    "published": "2026-11-18T00:56:23+00:00"
+  },
+  "https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in": {
+    "title": "ID.me terms required for IRS sign-in",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-18T02:38:59.118740+00:00",
+    "published": "2026-11-18T00:51:45+00:00"
+  },
+  "https://revscope.co/blog/search-seo-geo-2026": {
+    "title": "Google's AI answers reducing search traffic by 40%",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-18T02:38:59.118740+00:00",
+    "published": "2026-11-18T00:17:58+00:00"
+  },
+  "https://cloud.google.com/blog/topics/developers-practitioners/how-to-build-durable-agentic-systems-with-google-antigravity-from-instructions-to-loops": {
+    "title": "How to Build Durable Agentic Systems with Google Antigravity: From Instructions to Loops",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-11-18T02:38:59.118740+00:00",
+    "published": "2026-11-18T00:11:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/accelerate-your-dynamodb-workloads-with-dynamodb-caching-with-amazon-elasticache-serverless-for-valkey": {
+    "title": "Accelerate your DynamoDB workloads with DynamoDB caching with Amazon ElastiCache Serverless for Valkey",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-11-18T02:38:59.118740+00:00",
+    "published": "2026-11-17T23:39:18+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/managed-nvidia-dynamo-on-amazon-sagemaker-hyperpod-inference": {
+    "title": "Managed NVIDIA Dynamo on Amazon SageMaker HyperPod Inference",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-11-18T02:38:59.118740+00:00",
+    "published": "2026-11-17T23:33:26+00:00"
+  },
+  "https://wiki.archiveteam.org/index.php/Apple_Discussions": {
+    "title": "Archive Team is archiving the Apple Support Community (closes November 20, 2026)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-18T02:38:59.118740+00:00",
+    "published": "2026-11-17T23:32:58+00:00"
+  },
+  "https://github.com/microsoft/onnxruntime": {
+    "title": "Microsoft's ONNX Runtime has disappeared from GitHub",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-18T02:38:59.118740+00:00",
+    "published": "2026-11-17T23:18:49+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/reduce-the-complexity-and-cost-of-real-time-processing-with-queues-in-amazon-kinesis-data-streams": {
+    "title": "Reduce the complexity and cost of real-time processing with queues in Amazon Kinesis Data Streams",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-11-18T02:38:59.118740+00:00",
+    "published": "2026-11-17T23:17:16+00:00"
+  },
+  "https://aws.amazon.com/blogs/security/introducing-simplified-onboarding-for-aws-waf-bot-control-at-the-targeted-inspection-level": {
+    "title": "Introducing simplified onboarding for AWS WAF Bot Control at the targeted inspection level",
+    "source": "AWS Security Blog",
+    "first_seen": "2026-11-18T02:38:59.118740+00:00",
+    "published": "2026-11-17T23:15:03+00:00"
+  },
+  "https://simonwillison.net/2026/Nov/17/external-sandboxes-for-coding-agents": {
+    "title": "External sandboxes for coding agents",
+    "source": "Simon Willison",
+    "first_seen": "2026-11-18T02:38:59.118740+00:00",
+    "published": "2026-11-17T22:52:29+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/reducing-token-costs-and-latency-in-amazon-bedrock-agentcore-json-workloads": {
+    "title": "Reducing token costs and latency in Amazon Bedrock AgentCore JSON workloads",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-11-18T02:38:59.118740+00:00",
+    "published": "2026-11-17T22:44:51+00:00"
+  },
+  "https://simonwillison.net/2026/Nov/17/gpt62-astra-and-sol": {
+    "title": "GPT‑6.2 Astra and GPT‑6.2 Sol",
+    "source": "Simon Willison",
+    "first_seen": "2026-11-18T02:38:59.118740+00:00",
+    "published": "2026-11-17T22:38:52+00:00"
+  },
+  "https://shivamduggal4.github.io/latent-lattice-language-models": {
+    "title": "Latent Lattice Language Models",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-18T02:38:59.118740+00:00",
+    "published": "2026-11-17T22:17:18+00:00"
+  },
+  "https://thenewstack.io/coding-agent-harness-costs": {
+    "title": "Your AI coding agent could cost 5x more depending on the harness, benchmark finds",
+    "source": "The New Stack",
+    "first_seen": "2026-11-18T02:38:59.118740+00:00",
+    "published": "2026-11-17T22:13:52+00:00"
+  },
+  "https://blog.cloudflare.com/quad9-withdrawal-from-france": {
+    "title": "Quad9's withdrawal from France: A canary in the coal mine",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-18T02:38:59.118740+00:00",
+    "published": "2026-11-17T22:13:34+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/amazon-msk-express-brokers-available-on-aws-graviton4-based-m8g-instances": {
+    "title": "Amazon MSK Express brokers available on AWS Graviton4-based M8g instances",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-11-18T02:38:59.118740+00:00",
+    "published": "2026-11-17T22:07:48+00:00"
+  },
+  "https://www.phoronix.com/news/Java4Shell-Vulnerability": {
+    "title": "Java4Shell Vulnerability For OpenJDK Java That Can Lead To Remote Code Execution",
+    "source": "Phoronix",
+    "first_seen": "2026-11-18T02:38:59.118740+00:00",
+    "published": "2026-11-17T21:35:01+00:00"
+  },
+  "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review": {
+    "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-18T02:38:59.118740+00:00",
+    "published": "2026-11-17T21:16:12+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/cut-generative-ai-costs-code-for-rules-models-for-judgment": {
+    "title": "Cut generative AI costs: Code for rules, models for judgment",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-11-18T02:38:59.118740+00:00",
+    "published": "2026-11-17T21:14:55+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-ai-real-time-endpoints-now-support-kv-cache-aware-routing": {
+    "title": "Amazon SageMaker AI real-time endpoints now support KV cache aware routing",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-11-18T02:38:59.118740+00:00",
+    "published": "2026-11-17T21:11:51+00:00"
+  },
+  "https://calif.io/java4shell": {
+    "title": "Java4Shell: RCE in OpenJDK when processing Base64",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-18T02:38:59.118740+00:00",
+    "published": "2026-11-17T21:11:28+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/use-query-statistics-to-find-slow-and-expensive-queries-in-aurora-dsql": {
+    "title": "Use query statistics to find slow and expensive queries in Aurora DSQL",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-11-18T02:38:59.118740+00:00",
+    "published": "2026-11-17T21:09:25+00:00"
+  },
+  "https://hy.tencent.ai/research/hy4-flash": {
+    "title": "Tencent Hy4 Flash",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-18T02:38:59.118740+00:00",
+    "published": "2026-11-17T21:06:08+00:00"
+  },
+  "https://devblogs.microsoft.com/dotnet/nuget-staged-publishing": {
+    "title": "Introducing staged publishing on NuGet.org",
+    "source": "MS .NET Blog",
+    "first_seen": "2026-11-18T02:38:59.118740+00:00",
+    "published": "2026-11-17T21:00:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/security/securely-exposing-amazon-bedrock-agentcore-runtime": {
+    "title": "Securely exposing Amazon Bedrock AgentCore Runtime",
+    "source": "AWS Security Blog",
+    "first_seen": "2026-11-18T02:38:59.118740+00:00",
+    "published": "2026-11-17T20:31:30+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/govern-and-discover-records-with-common-metadata-in-aws-agent-registry": {
+    "title": "Govern and discover records with common metadata in AWS Agent Registry",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-11-18T02:38:59.118740+00:00",
+    "published": "2026-11-17T20:31:04+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/secure-oauth-patterns-for-snowflake-cortex-ai-through-amazon-bedrock-agentcore": {
+    "title": "Secure OAuth patterns for Snowflake Cortex AI through Amazon Bedrock AgentCore",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-11-18T02:38:59.118740+00:00",
+    "published": "2026-11-17T20:25:23+00:00"
+  },
+  "https://devblogs.microsoft.com/devops/azure-devops-and-github-start-your-agentic-journey-where-you-are": {
+    "title": "Azure DevOps and GitHub: Start Your Agentic Journey Where You Are",
+    "source": "MS DevOps Blog",
+    "first_seen": "2026-11-18T02:38:59.118740+00:00",
+    "published": "2026-11-17T20:17:28+00:00"
+  },
+  "https://browser.engineering": {
+    "title": "Web Browser Engineering (2021)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-18T02:38:59.118740+00:00",
+    "published": "2026-11-17T20:01:35+00:00"
+  },
+  "https://nextjs.org/blog/how-were-using-ai-to-make-nextjs-more-secure": {
+    "title": "How we're using AI to make Next.js more secure",
+    "source": "Next.js Blog",
+    "first_seen": "2026-11-18T02:38:59.118740+00:00",
+    "published": "2026-11-17T20:00:00+00:00"
+  },
+  "https://thenewstack.io/astra-hides-coding-failures": {
+    "title": "OpenAI’s own tests show GPT-6.2 Astra is twice as likely to hide coding failures",
+    "source": "The New Stack",
+    "first_seen": "2026-11-18T02:38:59.118740+00:00",
+    "published": "2026-11-17T19:59:04+00:00"
+  },
+  "https://github.com/jquery/jquery/releases/tag/4.1.0": {
+    "title": "jQuery 4.1.0",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-18T02:38:59.118740+00:00",
+    "published": "2026-11-17T19:50:40+00:00"
+  },
+  "https://arxiv.org/abs/2611.09827": {
+    "title": "Effects of a Nuclear Detonation in Low Earth Orbit",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-18T02:38:59.118740+00:00",
+    "published": "2026-11-17T19:46:57+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/add-your-organizations-runbooks-and-policies-using-retrieval-augmented-generation-rag-on-amazon-aurora-postgresql": {
+    "title": "Add your organization’s runbooks and policies using Retrieval Augmented Generation (RAG) on Amazon Aurora PostgreSQL",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-11-18T02:38:59.118740+00:00",
+    "published": "2026-11-17T19:43:40+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/build-an-ai-powered-dba-assistant-for-amazon-aurora-and-amazon-rds-with-kiro": {
+    "title": "Build an AI-powered DBA assistant for Amazon Aurora and Amazon RDS with Kiro",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-11-18T02:38:59.118740+00:00",
+    "published": "2026-11-17T19:43:17+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/announcing-ai-data-preparation-capabilities-in-amazon-sagemaker-build-high-quality-datasets-for-model-development-workflows": {
+    "title": "Announcing AI data preparation capabilities in Amazon SageMaker: Build high-quality datasets for model development workflows",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-11-18T02:38:59.118740+00:00",
+    "published": "2026-11-17T19:40:01+00:00"
+  },
+  "https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969": {
+    "title": "350 years ago, Ole Rømer discovered that light has a finite speed",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-18T02:38:59.118740+00:00",
+    "published": "2026-11-17T19:25:27+00:00"
+  },
+  "https://thenewstack.io/microsoft-mai-code-2": {
+    "title": "Microsoft’s new coding model promises near-Opus performance at 5% of the cost",
+    "source": "The New Stack",
+    "first_seen": "2026-11-18T02:38:59.118740+00:00",
+    "published": "2026-11-17T19:14:48+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/getting-ai-out-of-the-demo-and-into-businesses-globally": {
+    "title": "Getting AI out of the demo and into businesses globally",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-11-18T02:38:59.118740+00:00",
+    "published": "2026-11-17T19:05:22+00:00"
+  },
+  "https://starsling.dev": {
+    "title": "Launch HN: StarSling (YC P25) – Self-improving CI for agent-volume repos",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-18T02:38:59.118740+00:00",
+    "published": "2026-11-17T19:01:43+00:00"
+  },
+  "https://www.databricks.com/blog/branch-sync-serve-what-our-lakebase-hackathon-taught-us-about-building-lakebase": {
+    "title": "Branch, sync, serve: What our Lakebase Hackathon taught us about building on Lakebase",
+    "source": "Databricks Blog",
+    "first_seen": "2026-11-18T02:38:59.118740+00:00",
+    "published": "2026-11-17T19:00:00+00:00"
+  },
+  "https://www.databricks.com/blog/azure-databricks-sessions-microsoft-ignite-2026": {
+    "title": "Azure Databricks sessions at Microsoft Ignite 2026",
+    "source": "Databricks Blog",
+    "first_seen": "2026-11-18T02:38:59.118740+00:00",
+    "published": "2026-11-17T19:00:00+00:00"
+  },
+  "https://www.solidjs.com/blog/solid-2-0-the-long-hold": {
+    "title": "Solid 2.0",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-18T02:38:59.118740+00:00",
+    "published": "2026-11-17T18:56:17+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/build-whatsapp-ai-agents-with-amazon-bedrock-agentcore": {
+    "title": "Build WhatsApp AI agents with Amazon Bedrock AgentCore",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-11-18T02:38:59.118740+00:00",
+    "published": "2026-11-17T18:48:50+00:00"
+  },
+  "https://thenewstack.io/microsoft-cobalt-200-ga": {
+    "title": "Microsoft’s ARM-based Cobalt 200 chips go GA. Why it matters for AI agents.",
+    "source": "The New Stack",
+    "first_seen": "2026-11-18T02:38:59.118740+00:00",
+    "published": "2026-11-17T18:42:11+00:00"
+  },
+  "https://aws.amazon.com/blogs/compute/securing-rest-apis-with-jwt-authorizers-in-amazon-api-gateway": {
+    "title": "Securing REST APIs with JWT authorizers in Amazon API Gateway",
+    "source": "AWS Compute Blog",
+    "first_seen": "2026-11-18T02:38:59.118740+00:00",
+    "published": "2026-11-17T18:39:16+00:00"
+  },
+  "https://blogs.microsoft.com/blog/2026/11/17/ignite-2026-building-the-frontier-ecosystem": {
+    "title": "Ignite 2026: Building the frontier ecosystem",
+    "source": "Microsoft Blog",
+    "first_seen": "2026-11-18T02:38:59.118740+00:00",
+    "published": "2026-11-17T18:36:03+00:00"
+  },
+  "https://cloud.google.com/blog/products/networking/cross-cloud-interconnect-for-microsoft-azure": {
+    "title": "Simplifying multicloud networking to Azure with partner Cross-Cloud Interconnect",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-11-18T02:38:59.118740+00:00",
+    "published": "2026-11-17T18:35:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/how-veeva-scaled-big-data-with-amazon-emr-on-eks": {
+    "title": "How Veeva scaled big data with Amazon EMR on EKS",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-11-18T02:38:59.118740+00:00",
+    "published": "2026-11-17T18:32:54+00:00"
+  },
+  "https://phrack.org/issues/73/introduction_md": {
+    "title": "Phrack 73 Released",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-18T02:38:59.118740+00:00",
+    "published": "2026-11-17T18:31:25+00:00"
+  },
+  "https://github.blog/open-source/maintainers/maintainers-dont-need-more-ai-bug-reports-they-need-fixes": {
+    "title": "Maintainers don’t need more AI bug reports. They need fixes.",
+    "source": "GitHub Blog",
+    "first_seen": "2026-11-18T02:38:59.118740+00:00",
+    "published": "2026-11-17T18:29:29+00:00"
+  },
+  "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash": {
+    "title": "MAI Code 2 and Code 2 Flash",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-18T02:38:59.118740+00:00",
+    "published": "2026-11-17T18:25:13+00:00"
+  },
+  "https://opentelemetry.io/blog/2026/blog-policy-update": {
+    "title": "Updates to our blog policy",
+    "source": "OpenTelemetry Blog",
+    "first_seen": "2026-11-18T02:38:59.118740+00:00",
+    "published": "2026-11-17T18:23:18+00:00"
+  },
+  "https://github.blog/engineering/engineering-principles/building-the-agent-host-protocol-for-sessions-that-continue-across-devices": {
+    "title": "Building the Agent Host Protocol for sessions that continue across devices",
+    "source": "GitHub Blog",
+    "first_seen": "2026-11-18T02:38:59.118740+00:00",
+    "published": "2026-11-17T18:20:40+00:00"
+  },
+  "https://newsletter.posthog.com/p/decision-models": {
+    "title": "Not Everything Needs an LLM",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-18T02:38:59.118740+00:00",
+    "published": "2026-11-17T18:16:18+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/reason-over-time-series-data-with-opentslm-on-amazon-sagemaker-jumpstart": {
+    "title": "Reason over time-series data with OpenTSLM on Amazon SageMaker JumpStart",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-11-18T02:38:59.118740+00:00",
+    "published": "2026-11-17T18:06:44+00:00"
+  },
+  "https://medium.com/airbnb-engineering/de-identifying-text-at-scale-how-airbnb-protects-personal-data-in-ai-training-32f3ff8ff7d0?source=rss----53c7c27702d5---4": {
+    "title": "De-identifying text at scale: How Airbnb protects personal data in AI training",
+    "source": "Airbnb Engineering",
+    "first_seen": "2026-11-18T02:38:59.118740+00:00",
+    "published": "2026-11-17T18:01:03+00:00"
+  },
+  "https://developer.apple.com/system-status": {
+    "title": "Apple Services Down",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-18T02:38:59.118740+00:00",
+    "published": "2026-11-17T17:47:14+00:00"
+  },
+  "https://openai.com/index/introducing-gpt-6-2-astra-sol": {
+    "title": "Introducing GPT-6.2 Astra and Sol",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-11-18T02:38:59.118740+00:00",
+    "published": "2026-11-17T17:45:00+00:00"
   }
 }
