@@ -126884,5 +126884,443 @@
     "source": "OpenAI Blog",
     "first_seen": "2026-11-18T02:38:59.118740+00:00",
     "published": "2026-11-17T17:45:00+00:00"
+  },
+  "https://www.databricks.com/blog/introducing-unity-gateway-insights": {
+    "title": "Introducing Unity Gateway Insights",
+    "source": "Databricks Blog",
+    "first_seen": "2026-11-18T17:39:22.853007+00:00",
+    "published": "2026-11-18T22:42:36+00:00"
+  },
+  "https://cloud.google.com/blog/products/chrome-enterprise/a-bridge-to-modernization-what-idcs-market-note-says-about-cameyo-by-google": {
+    "title": "A bridge to modernization: What IDC’s Market Note says about Cameyo by Google",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-11-18T17:39:22.853007+00:00",
+    "published": "2026-11-18T21:36:00+00:00"
+  },
+  "https://thenewstack.io/gpu-accelerated-vector-indexing": {
+    "title": "AI needs fresh data. Vector indexing is getting in the way",
+    "source": "The New Stack",
+    "first_seen": "2026-11-18T17:39:22.853007+00:00",
+    "published": "2026-11-18T17:11:35+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/which-aws-database-should-you-use": {
+    "title": "Which AWS Database should you use?",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-11-18T17:39:22.853007+00:00",
+    "published": "2026-11-18T17:10:51+00:00"
+  },
+  "https://www.phoronix.com/news/NVIDIA-620.73.04-Linux": {
+    "title": "NVIDIA 620.73.04 Linux Driver Released With Bug FIxes",
+    "source": "Phoronix",
+    "first_seen": "2026-11-18T17:39:22.853007+00:00",
+    "published": "2026-11-18T17:10:40+00:00"
+  },
+  "https://metalbear.com/blog/stop-deploying-to-ecs": {
+    "title": "Stop Deploying to ECS Just to See If Your Code Works",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-18T17:39:22.853007+00:00",
+    "published": "2026-11-18T17:05:13+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/introducing-the-apache-spark-optimization-agent-for-amazon-emr-serverless-and-aws-glue-etl": {
+    "title": "Introducing the Apache Spark optimization agent for Amazon EMR Serverless and AWS Glue ETL",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-11-18T17:39:22.853007+00:00",
+    "published": "2026-11-18T17:03:49+00:00"
+  },
+  "https://replit.com/blog/build-where-your-business-works-replit-at-microsoft-ignite": {
+    "title": "Build where your business works: Replit at Microsoft Ignite",
+    "source": "Replit Blog",
+    "first_seen": "2026-11-18T17:39:22.853007+00:00",
+    "published": "2026-11-18T17:00:00+00:00"
+  },
+  "https://developer.nvidia.com/blog/build-training-ready-physical-ai-datasets-with-two-prompts-in-nvidia-cosmos": {
+    "title": "Build Training-Ready Physical AI Datasets with Two Prompts in NVIDIA Cosmos",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-11-18T17:39:22.853007+00:00",
+    "published": "2026-11-18T17:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/networking/the-envoy-agentic-stack-routing-models-tokens-and-mcp": {
+    "title": "Building an agentic stack in Envoy: routing models, tokens, and MCP",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-11-18T17:39:22.853007+00:00",
+    "published": "2026-11-18T17:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/networking/run-aiml-workloads-on-ipv6-only-gke-clusters": {
+    "title": "Scaling massive AI/ML workloads with IPv6 on Google Kubernetes Engine clusters",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-11-18T17:39:22.853007+00:00",
+    "published": "2026-11-18T17:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/databases/database-center-assessments-for-cloud-sql-for-postgresql": {
+    "title": "Testing changes, fast: Introducing agentic assessments in Database Center",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-11-18T17:39:22.853007+00:00",
+    "published": "2026-11-18T17:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/data-analytics/introducing-okf-v0-3": {
+    "title": "What’s new in OKF v0.3: enterprise-ready knowledge, use cases, and skills",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-11-18T17:39:22.853007+00:00",
+    "published": "2026-11-18T17:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/application-development/lessons-from-building-sashiko-an-agentic-code-review-system": {
+    "title": "Sashiko: Lessons from building an agentic code review system for Linux",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-11-18T17:39:22.853007+00:00",
+    "published": "2026-11-18T17:00:00+00:00"
+  },
+  "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices": {
+    "title": "The Gemini app is now available on lower-memory Android devices.",
+    "source": "Google AI Blog",
+    "first_seen": "2026-11-18T17:39:22.853007+00:00",
+    "published": "2026-11-18T17:00:00+00:00"
+  },
+  "https://thenewstack.io/orkes-particledb-agentic-database": {
+    "title": "How Orkes ParticleDB turns an impressive demo into a remarkable application",
+    "source": "The New Stack",
+    "first_seen": "2026-11-18T17:39:22.853007+00:00",
+    "published": "2026-11-18T16:54:44+00:00"
+  },
+  "https://www.businesswire.com/news/home/20261118974464/en/Anthropic-is-Not-a-Safe-AI-Company---Broad-Coalition-of-Scientists-Legal-Scholars-and-Tech-Leaders-Challenge-Anthropics-Safety-Branding-Ahead-of-IPO": {
+    "title": "\"Anthropic Is Not a Safe AI Company\" – Coalition Challenges Anthropic Safety",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-18T17:39:22.853007+00:00",
+    "published": "2026-11-18T16:41:22+00:00"
+  },
+  "https://blog.bytebytego.com/p/evals-for-ai-engineers": {
+    "title": "Evals for AI Engineers",
+    "source": "ByteByteGo",
+    "first_seen": "2026-11-18T17:39:22.853007+00:00",
+    "published": "2026-11-18T16:31:02+00:00"
+  },
+  "https://recursiveai.org/blog/what-my-software-factory-built": {
+    "title": "Software Factory builds 30 complex open source libraries in a month",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-18T17:39:22.853007+00:00",
+    "published": "2026-11-18T16:26:42+00:00"
+  },
+  "https://www.rfc-editor.org/info/rfc2675": {
+    "title": "RFC 2675: IPv6 Jumbograms",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-18T17:39:22.853007+00:00",
+    "published": "2026-11-18T16:22:23+00:00"
+  },
+  "https://rshekhar.com/voyager": {
+    "title": "Show HN: Take Voyager 1 apart, down to a single memory chip",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-18T17:39:22.853007+00:00",
+    "published": "2026-11-18T16:18:51+00:00"
+  },
+  "https://lwn.net/Articles/1108362": {
+    "title": "NGINX2Root: Remote Code Execution vulnerabilities in nginx",
+    "source": "LWN.net",
+    "first_seen": "2026-11-18T17:39:22.853007+00:00",
+    "published": "2026-11-18T16:13:34+00:00"
+  },
+  "https://www.lkuffo.com/superemeans": {
+    "title": "SuperEMeans: Making e-means 3× faster",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-18T17:39:22.853007+00:00",
+    "published": "2026-11-18T16:09:50+00:00"
+  },
+  "https://microsoft.ai/news/microsoft-ignite-2026": {
+    "title": "Microsoft AI: Seven new world-class models at scalable price-performance",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-18T17:39:22.853007+00:00",
+    "published": "2026-11-18T16:08:24+00:00"
+  },
+  "https://www.terra.security/blog/kvm-guest-to-host-escape": {
+    "title": "CVE-2026-99312: KVM Guest-to-Host Escape",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-18T17:39:22.853007+00:00",
+    "published": "2026-11-18T16:06:21+00:00"
+  },
+  "https://exitpath-ruddy.vercel.app": {
+    "title": "Show HN: ExitPath – Open-source ways out of Slack, Notion and Microsoft 365",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-18T17:39:22.853007+00:00",
+    "published": "2026-11-18T16:04:43+00:00"
+  },
+  "https://www.databricks.com/blog/whats-new-genie-microsoft-copilot-cowork-and-chat-microsoft-teams-and-excel": {
+    "title": "What's new for Genie in Microsoft: Copilot Cowork and Chat, Microsoft Teams, and Excel.",
+    "source": "Databricks Blog",
+    "first_seen": "2026-11-18T17:39:22.853007+00:00",
+    "published": "2026-11-18T16:00:00+00:00"
+  },
+  "https://thenewstack.io/silent-ai-agent-failures": {
+    "title": "200 OK is dead as an AI agent health signal. Here’s what comes next.",
+    "source": "The New Stack",
+    "first_seen": "2026-11-18T17:39:22.853007+00:00",
+    "published": "2026-11-18T16:00:00+00:00"
+  },
+  "https://simonwillison.net/2026/Nov/18/daniel-stenberg": {
+    "title": "Quoting Daniel Stenberg",
+    "source": "Simon Willison",
+    "first_seen": "2026-11-18T17:39:22.853007+00:00",
+    "published": "2026-11-18T15:58:27+00:00"
+  },
+  "https://lwn.net/Articles/1108153": {
+    "title": "[$] Julia 1.13 brings REPL improvements and more",
+    "source": "LWN.net",
+    "first_seen": "2026-11-18T17:39:22.853007+00:00",
+    "published": "2026-11-18T15:56:18+00:00"
+  },
+  "https://ratwire.space": {
+    "title": "Ratwires – The Graffiti Wall of the Internet",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-18T17:39:22.853007+00:00",
+    "published": "2026-11-18T15:52:01+00:00"
+  },
+  "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg": {
+    "title": "AI Agents Ask Better Questions Than KPMG Accountants in Landmark Audit Trial",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-18T17:39:22.853007+00:00",
+    "published": "2026-11-18T15:49:34+00:00"
+  },
+  "https://www.inside-db.com": {
+    "title": "Inside Deutsche Bank",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-18T17:39:22.853007+00:00",
+    "published": "2026-11-18T15:38:33+00:00"
+  },
+  "https://sam.gov/workspace/contract/opp/8948e8601e964c6aba9c801eee16b1be/view": {
+    "title": "U.S. AirForce is looking for old storage Media (CF or PC cards)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-18T17:39:22.853007+00:00",
+    "published": "2026-11-18T15:35:44+00:00"
+  },
+  "https://nginx2root.com": {
+    "title": "NGINX2Root by Xint – From Nginx visitor to root of the server host",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-18T17:39:22.853007+00:00",
+    "published": "2026-11-18T15:24:17+00:00"
+  },
+  "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities": {
+    "title": "Pre-auth RCE in Nginx HTTP/2 handling",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-18T17:39:22.853007+00:00",
+    "published": "2026-11-18T15:19:55+00:00"
+  },
+  "https://www.yahoo.com/news/world/articles/russia-reportedly-planned-mass-casualty-090500574.html": {
+    "title": "Poland says it thwarted false flag operation near border with Kaliningrad",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-18T17:39:22.853007+00:00",
+    "published": "2026-11-18T15:18:30+00:00"
+  },
+  "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse": {
+    "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-11-18T17:39:22.853007+00:00",
+    "published": "2026-11-18T15:00:23+00:00"
+  },
+  "https://thenewstack.io/scylladb-s3-tiny-telemetry": {
+    "title": "S3 vs. ScyllaDB for tiny telemetry: What Red Canary learned the hard way",
+    "source": "The New Stack",
+    "first_seen": "2026-11-18T17:39:22.853007+00:00",
+    "published": "2026-11-18T15:00:00+00:00"
+  },
+  "https://developer.nvidia.com/blog/tackling-gpu-bottlenecks-in-plane-wave-dft-with-k-point-batching-and-mixed-precision": {
+    "title": "Tackling GPU Bottlenecks in Plane-Wave DFT with K-Point Batching and Mixed Precision",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-11-18T17:39:22.853007+00:00",
+    "published": "2026-11-18T15:00:00+00:00"
+  },
+  "https://blog.cloudflare.com/java4shell-waf-protection": {
+    "title": "How Cloudflare WAF helps protect against Java4Shell (CVE-2026-114938)",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-11-18T17:39:22.853007+00:00",
+    "published": "2026-11-18T14:52:10+00:00"
+  },
+  "https://pikuma.com/blog/history-of-x86-4004-to-486": {
+    "title": "The x86 CPU: From 4004 to 486",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-18T17:39:22.853007+00:00",
+    "published": "2026-11-18T14:47:53+00:00"
+  },
+  "https://simonwillison.net/2026/Nov/18/psf-end-of-year-fundraiser": {
+    "title": "The PSF end-of-year fundraiser",
+    "source": "Simon Willison",
+    "first_seen": "2026-11-18T17:39:22.853007+00:00",
+    "published": "2026-11-18T14:44:48+00:00"
+  },
+  "https://arxiv.org/abs/2510.18203": {
+    "title": "A Primer on Fourier Series",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-18T17:39:22.853007+00:00",
+    "published": "2026-11-18T14:44:33+00:00"
+  },
+  "https://www.cam.ac.uk/news/cambridge-dictionary-reveals-word-of-the-year-2026": {
+    "title": "'Human' Is Cambridge Dictionary's Word of the Year 2026",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-18T17:39:22.853007+00:00",
+    "published": "2026-11-18T14:43:52+00:00"
+  },
+  "https://lwn.net/Articles/1108354": {
+    "title": "Security updates for Wednesday",
+    "source": "LWN.net",
+    "first_seen": "2026-11-18T17:39:22.853007+00:00",
+    "published": "2026-11-18T14:17:35+00:00"
+  },
+  "https://www.databricks.com/blog/how-aumovio-centralized-ai-access-databricks-unity-gateway": {
+    "title": "How AUMOVIO centralized AI access with Databricks Unity Gateway",
+    "source": "Databricks Blog",
+    "first_seen": "2026-11-18T17:39:22.853007+00:00",
+    "published": "2026-11-18T14:03:54+00:00"
+  },
+  "https://www.sciencedaily.com/releases/2026/11/261110042543.htm": {
+    "title": "Energy drinks linked to 11 times more reports of cardiac arrest",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-18T17:39:22.853007+00:00",
+    "published": "2026-11-18T14:03:37+00:00"
+  },
+  "https://martinfowler.com/articles/data-contracts.html": {
+    "title": "Data Contracts",
+    "source": "Martin Fowler",
+    "first_seen": "2026-11-18T17:39:22.853007+00:00",
+    "published": "2026-11-18T14:02:00+00:00"
+  },
+  "https://www.docker.com/blog/agentic-ai-security-docker-governance": {
+    "title": "The Trust Layer: Securing Agentic AI with Docker AI Governance",
+    "source": "Docker Blog",
+    "first_seen": "2026-11-18T17:39:22.853007+00:00",
+    "published": "2026-11-18T14:00:00+00:00"
+  },
+  "https://thenewstack.io/ai-code-verification-gap": {
+    "title": "Why verification, not generation, is your secret to AI coding ROI",
+    "source": "The New Stack",
+    "first_seen": "2026-11-18T17:39:22.853007+00:00",
+    "published": "2026-11-18T14:00:00+00:00"
+  },
+  "https://realpython.com/nuitka": {
+    "title": "Nuitka: Compile Python Into a Standalone Executable",
+    "source": "Real Python",
+    "first_seen": "2026-11-18T17:39:22.853007+00:00",
+    "published": "2026-11-18T14:00:00+00:00"
+  },
+  "https://realpython.com/ai-benchmark-gpt-6-2-sol": {
+    "title": "GPT-6.2 Sol Draws a Python Reading a Book",
+    "source": "Real Python",
+    "first_seen": "2026-11-18T17:39:22.853007+00:00",
+    "published": "2026-11-18T14:00:00+00:00"
+  },
+  "https://realpython.com/ai-benchmark-gpt-6-2-astra": {
+    "title": "GPT-6.2 Astra Draws a Python Reading a Book",
+    "source": "Real Python",
+    "first_seen": "2026-11-18T17:39:22.853007+00:00",
+    "published": "2026-11-18T14:00:00+00:00"
+  },
+  "https://thenewstack.io/hugging-face-openrouter-inference": {
+    "title": "“Collaboration over competition”: Hugging Face hands model inference traffic to OpenRouter",
+    "source": "The New Stack",
+    "first_seen": "2026-11-18T17:39:22.853007+00:00",
+    "published": "2026-11-18T13:39:13+00:00"
+  },
+  "https://www.phoronix.com/news/Wine-OpenGL-Cross-Proc-Render": {
+    "title": "Wine Merges Remote OpenGL Swapchain Image Presentation, CEF Now Works With Wayland",
+    "source": "Phoronix",
+    "first_seen": "2026-11-18T17:39:22.853007+00:00",
+    "published": "2026-11-18T13:11:00+00:00"
+  },
+  "https://www.phoronix.com/news/Multi-Kernel-mklinux-7.0-mk5": {
+    "title": "Multikernel Linux Comes To ARM64, mklinux 7.0-mk5 Released",
+    "source": "Phoronix",
+    "first_seen": "2026-11-18T17:39:22.853007+00:00",
+    "published": "2026-11-18T13:02:12+00:00"
+  },
+  "https://www.cncf.io/blog/2026/11/18/optimizing-kubernetes-admission-control-where-kyvernos-cel-admission-cost-actually-goes": {
+    "title": "Optimizing Kubernetes admission control: Where Kyverno’s CEL admission cost actually goes",
+    "source": "CNCF Blog",
+    "first_seen": "2026-11-18T17:39:22.853007+00:00",
+    "published": "2026-11-18T12:30:00+00:00"
+  },
+  "https://www.schneier.com/blog/archives/2026/11/france-is-blaming-iran-for-the-fridge-cyberattack.html": {
+    "title": "France Is Blaming Iran for the Fridge Cyberattack",
+    "source": "Schneier on Security",
+    "first_seen": "2026-11-18T17:39:22.853007+00:00",
+    "published": "2026-11-18T12:05:35+00:00"
+  },
+  "https://realpython.com/quizzes/nuitka": {
+    "title": "Quiz: Nuitka: Compile Python Into a Standalone Executable",
+    "source": "Real Python",
+    "first_seen": "2026-11-18T17:39:22.853007+00:00",
+    "published": "2026-11-18T12:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/Sashiko-0.9.4-Released": {
+    "title": "AI-Powered Sashiko Introduces Experimental Patch Series Design Assessment",
+    "source": "Phoronix",
+    "first_seen": "2026-11-18T17:39:22.853007+00:00",
+    "published": "2026-11-18T11:13:06+00:00"
+  },
+  "https://www.phoronix.com/news/3mdeb-2026-Firmware-APU2": {
+    "title": "3mdeb Updates The Open-Source Firmware For Aging AMD Jaguar Powered PC Engines APU2",
+    "source": "Phoronix",
+    "first_seen": "2026-11-18T17:39:22.853007+00:00",
+    "published": "2026-11-18T11:00:02+00:00"
+  },
+  "https://stratechery.com/2026/nvidia-earnings-office-convergence-os-wars-ai-edition": {
+    "title": "Nvidia Earnings; Office Convergence; OS Wars, AI Edition",
+    "source": "Stratechery",
+    "first_seen": "2026-11-18T17:39:22.853007+00:00",
+    "published": "2026-11-18T11:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/Qualcomm-Ath12k-Linux-WiFi-8": {
+    "title": "Qualcomm Ath12k Linux Driver Preparing For New WiFi 8 Hardware",
+    "source": "Phoronix",
+    "first_seen": "2026-11-18T17:39:22.853007+00:00",
+    "published": "2026-11-18T10:40:00+00:00"
+  },
+  "https://www.phoronix.com/news/SDL-Nintendo-Switch-2-Linux": {
+    "title": "SDL Ready For Linux's New Nintendo Switch 2 Controller Driver",
+    "source": "Phoronix",
+    "first_seen": "2026-11-18T17:39:22.853007+00:00",
+    "published": "2026-11-18T10:22:22+00:00"
+  },
+  "https://krebsonsecurity.com/2026/11/attackers-used-optimizely-to-a-b-test-malware-on-top-websites": {
+    "title": "Attackers Used Optimizely to A/B Test Malware on Top Websites",
+    "source": "Krebs on Security",
+    "first_seen": "2026-11-18T17:39:22.853007+00:00",
+    "published": "2026-11-18T02:52:04+00:00"
+  },
+  "https://www.elastic.co/blog/elastic-cloud-serverless-now-available-azure-toronto": {
+    "title": "Celebrating Microsoft Ignite with Azure region expansion in Toronto",
+    "source": "Elastic Blog",
+    "first_seen": "2026-11-18T17:39:22.853007+00:00",
+    "published": "2026-11-18T00:00:00+00:00"
+  },
+  "https://planetscale.com/blog/planetscale-ranks-24-in-deloittes-technology-fast-500": {
+    "title": "PlanetScale ranks #24 in Deloitte's Technology Fast 500",
+    "source": "PlanetScale Blog",
+    "first_seen": "2026-11-18T17:39:22.853007+00:00",
+    "published": "2026-11-18T00:00:00+00:00"
+  },
+  "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership": {
+    "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-11-18T17:39:22.853007+00:00",
+    "published": "2026-11-18T00:00:00+00:00"
+  },
+  "https://openai.com/index/advancing-chip-design-with-our-models": {
+    "title": "Advancing chip design with OpenAI models",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-11-18T17:39:22.853007+00:00",
+    "published": "2026-11-18T00:00:00+00:00"
+  },
+  "https://huggingface.co/blog/rumble-2-flash": {
+    "title": "Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-11-18T17:39:22.853007+00:00",
+    "published": "2026-11-18T00:00:00+00:00"
+  },
+  "https://huggingface.co/blog/moe-expert-streaming": {
+    "title": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-11-18T17:39:22.853007+00:00",
+    "published": "2026-11-18T00:00:00+00:00"
+  },
+  "http://brooker.co.za/blog/2026/11/18/workload-mix.html": {
+    "title": "Traffic mix matters",
+    "source": "Marc Brooker",
+    "first_seen": "2026-11-18T17:39:22.853007+00:00",
+    "published": "2026-11-18T00:00:00+00:00"
   }
 }
