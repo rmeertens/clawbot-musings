@@ -128600,5 +128600,365 @@
     "source": "Databricks Blog",
     "first_seen": "2026-11-20T01:55:38.465376+00:00",
     "published": "2026-11-19T15:31:46+00:00"
+  },
+  "https://thenewstack.io/ai-agent-memory-boundaries": {
+    "title": "Your AI agent’s “memory problem” may be something else",
+    "source": "The New Stack",
+    "first_seen": "2026-11-20T17:23:11.278406+00:00",
+    "published": "2026-11-20T17:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/topics/developers-practitioners/how-to-fix-your-teams-api-keys": {
+    "title": "Ultimate guide for fixing your team’s API keys",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-11-20T17:23:11.278406+00:00",
+    "published": "2026-11-20T17:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/networking/ambient-networking-for-gke-sidecarless-service-mesh": {
+    "title": "Introducing ambient networking for GKE",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-11-20T17:23:11.278406+00:00",
+    "published": "2026-11-20T17:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/databases/how-spanner-graph-detects-google-ads-fraud-and-abuse": {
+    "title": "How Spanner Graph detects ads fraud and abuse at Google at multi-billion node scale",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-11-20T17:23:11.278406+00:00",
+    "published": "2026-11-20T17:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/databases/dynaport-modernizes-with-alloydb": {
+    "title": "DynaPORT modernization on Google Cloud with AlloyDB for PostgreSQL and GKE",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-11-20T17:23:11.278406+00:00",
+    "published": "2026-11-20T17:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/data-analytics/whats-new-in-managed-service-for-apache-spark-4-0": {
+    "title": "What’s new in Managed Service for Apache Spark 4.0",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-11-20T17:23:11.278406+00:00",
+    "published": "2026-11-20T17:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/data-analytics/vodafone-cuts-data-pipeline-costs-30-via-data-engineeringagent": {
+    "title": "How Vodafone is using the Data Engineering Agent to improve their data pipelines",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-11-20T17:23:11.278406+00:00",
+    "published": "2026-11-20T17:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/data-analytics/scaling-airflow-pipelines-with-ai-agents-on-managed-airflow": {
+    "title": "Drowning in clicks: Scaling Black Friday pipelines with Managed Airflow agents",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-11-20T17:23:11.278406+00:00",
+    "published": "2026-11-20T17:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/data-analytics/a-data-simulator-to-test-agents": {
+    "title": "Frontier and Center: Why your data agents need a “wind tunnel”",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-11-20T17:23:11.278406+00:00",
+    "published": "2026-11-20T17:00:00+00:00"
+  },
+  "https://news.ycombinator.com/item?id=50577613": {
+    "title": "I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-20T17:23:11.278406+00:00",
+    "published": "2026-11-20T16:45:25+00:00"
+  },
+  "https://thenewstack.io/anthropic-claude-code-verification": {
+    "title": "Anthropic says Claude writes and reviews 90% of its team’s code. The catch is how it checks the work.",
+    "source": "The New Stack",
+    "first_seen": "2026-11-20T17:23:11.278406+00:00",
+    "published": "2026-11-20T16:41:28+00:00"
+  },
+  "https://www.phoronix.com/review/system76-thelio-prime": {
+    "title": "System76 Thelio Prime: A Petite But Performant AMD-Powered Linux PC",
+    "source": "Phoronix",
+    "first_seen": "2026-11-20T17:23:11.278406+00:00",
+    "published": "2026-11-20T16:38:02+00:00"
+  },
+  "https://simonwillison.net/2026/Nov/20/levent-alpoge": {
+    "title": "Quoting Levent Alpöge",
+    "source": "Simon Willison",
+    "first_seen": "2026-11-20T17:23:11.278406+00:00",
+    "published": "2026-11-20T16:30:48+00:00"
+  },
+  "https://arxiv.org/abs/2611.21885": {
+    "title": "Language Models Can Rewrite Their Own Weights",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-20T17:23:11.278406+00:00",
+    "published": "2026-11-20T16:29:06+00:00"
+  },
+  "https://poolp.org/posts/2026-11-20/ill-never-buy-framework-hardware-again": {
+    "title": "I'll never buy Framework hardware again",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-20T17:23:11.278406+00:00",
+    "published": "2026-11-20T16:06:30+00:00"
+  },
+  "https://github.com/tristanbuckmaster/navier-stokes": {
+    "title": "Finite-time blow-up for the Navier–Stokes equations",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-20T17:23:11.278406+00:00",
+    "published": "2026-11-20T15:34:31+00:00"
+  },
+  "https://grafana.com/blog/from-ai-agents-to-fishing-dashboards-the-latest-stories-from-unprompted": {
+    "title": "From AI agents to fishing dashboards: The latest stories from Unprompted, the Grafana Labs engineering blog",
+    "source": "Grafana Blog",
+    "first_seen": "2026-11-20T17:23:11.278406+00:00",
+    "published": "2026-11-20T15:07:25+00:00"
+  },
+  "https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules": {
+    "title": "Why there are still no non-WebKit browsers on iOS",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-20T17:23:11.278406+00:00",
+    "published": "2026-11-20T15:03:31+00:00"
+  },
+  "https://tailscale.com/blog/iwo-secure-remote-access": {
+    "title": "Working remotely, staying connected: why digital security matters in the outdoors",
+    "source": "Tailscale Blog",
+    "first_seen": "2026-11-20T17:23:11.278406+00:00",
+    "published": "2026-11-20T15:00:00+00:00"
+  },
+  "https://lwn.net/Articles/1107830": {
+    "title": "[$] Bringing the Agama installer to openSUSE Tumbleweed",
+    "source": "LWN.net",
+    "first_seen": "2026-11-20T17:23:11.278406+00:00",
+    "published": "2026-11-20T14:49:13+00:00"
+  },
+  "https://www.databricks.com/blog/interactive-databricks-reference-architectures-across-70-industries": {
+    "title": "Interactive Databricks Reference Architectures Across 70 Industries",
+    "source": "Databricks Blog",
+    "first_seen": "2026-11-20T17:23:11.278406+00:00",
+    "published": "2026-11-20T14:48:28+00:00"
+  },
+  "https://www.phoronix.com/news/Fedora-Incident-Response-Policy": {
+    "title": "Fedora Incident Response Policy Drafted For Improving Workflow & Security Disclosures",
+    "source": "Phoronix",
+    "first_seen": "2026-11-20T17:23:11.278406+00:00",
+    "published": "2026-11-20T14:47:51+00:00"
+  },
+  "https://lwn.net/Articles/1108818": {
+    "title": "Beyls: Wrapping up LLVM's relicensing effort",
+    "source": "LWN.net",
+    "first_seen": "2026-11-20T17:23:11.278406+00:00",
+    "published": "2026-11-20T14:35:24+00:00"
+  },
+  "https://lwn.net/Articles/1108817": {
+    "title": "Vim Classic 8.3.1 released",
+    "source": "LWN.net",
+    "first_seen": "2026-11-20T17:23:11.278406+00:00",
+    "published": "2026-11-20T14:17:33+00:00"
+  },
+  "https://alpo.ge/remark.pdf": {
+    "title": "Anthropic employee claims general proof of the Riemann Hypothesis [pdf]",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-20T17:23:11.278406+00:00",
+    "published": "2026-11-20T14:16:21+00:00"
+  },
+  "https://realpython.com/ai-refactor-python": {
+    "title": "How to Refactor Python Code With an AI Agent",
+    "source": "Real Python",
+    "first_seen": "2026-11-20T17:23:11.278406+00:00",
+    "published": "2026-11-20T14:00:00+00:00"
+  },
+  "https://realpython.com/ai-news-weekly-2026-11-20": {
+    "title": "OpenAI Cuts the Price of Its Best AI Model by 20 Percent",
+    "source": "Real Python",
+    "first_seen": "2026-11-20T17:23:11.278406+00:00",
+    "published": "2026-11-20T14:00:00+00:00"
+  },
+  "https://lwn.net/Articles/1108811": {
+    "title": "Security updates for Friday",
+    "source": "LWN.net",
+    "first_seen": "2026-11-20T17:23:11.278406+00:00",
+    "published": "2026-11-20T13:52:40+00:00"
+  },
+  "https://www.phoronix.com/news/AMDXDNA-1.0-Linux-Driver": {
+    "title": "AMDXDNA Driver Reaches Version 1.0, Ryzen AI NPU10 & NPU11 Coming To Linux 7.5",
+    "source": "Phoronix",
+    "first_seen": "2026-11-20T17:23:11.278406+00:00",
+    "published": "2026-11-20T13:16:40+00:00"
+  },
+  "https://cekrem.github.io/posts/if-you-stop-writing-code-you-also-get-worse-at-reviewing-it": {
+    "title": "If you stop writing code, you also get worse at reviewing it",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-20T17:23:11.278406+00:00",
+    "published": "2026-11-20T12:41:38+00:00"
+  },
+  "https://www.cncf.io/blog/2026/11/20/when-a-sync-window-closes-how-argo-cd-self-heal-skipped-the-migration-hook": {
+    "title": "When a sync window closes: How Argo CD self-heal skipped the migration hook",
+    "source": "CNCF Blog",
+    "first_seen": "2026-11-20T17:23:11.278406+00:00",
+    "published": "2026-11-20T12:30:00+00:00"
+  },
+  "https://www.schneier.com/blog/archives/2026/11/opening-a-400-year-old-cryptex.html": {
+    "title": "Opening a 400-Year-Old Cryptex",
+    "source": "Schneier on Security",
+    "first_seen": "2026-11-20T17:23:11.278406+00:00",
+    "published": "2026-11-20T12:04:46+00:00"
+  },
+  "https://realpython.com/quizzes/python-interview-problem-parsing-csv-files": {
+    "title": "Quiz: Python Practice Problems: Parsing CSV Files",
+    "source": "Real Python",
+    "first_seen": "2026-11-20T17:23:11.278406+00:00",
+    "published": "2026-11-20T12:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/Rust-Coreutils-0.13": {
+    "title": "Rust Coreutils 0.13 Release Delivers More Performance, Better Compatibility",
+    "source": "Phoronix",
+    "first_seen": "2026-11-20T17:23:11.278406+00:00",
+    "published": "2026-11-20T11:16:03+00:00"
+  },
+  "https://www.phoronix.com/news/Vulkan-AMDX-Ray-Tracing-Struct": {
+    "title": "Vulkan 1.4.369 Introduces New AMD Extension For Improving Ray-Tracing Performance",
+    "source": "Phoronix",
+    "first_seen": "2026-11-20T17:23:11.278406+00:00",
+    "published": "2026-11-20T11:05:08+00:00"
+  },
+  "https://stratechery.com/2026/sharp-tech-on-video-jensens-not-coming-back-ai-shopping-the-iphone-duo": {
+    "title": "Sharp Tech on Video: Jensen’s Not Coming Back, AI Shopping, The iPhone Duo",
+    "source": "Stratechery",
+    "first_seen": "2026-11-20T17:23:11.278406+00:00",
+    "published": "2026-11-20T11:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/Cloud-Hypervisor-55": {
+    "title": "Cloud Hypervisor 55 Released With AArch64 Nested Virtualization, Up To 990 ARM vCPUs",
+    "source": "Phoronix",
+    "first_seen": "2026-11-20T17:23:11.278406+00:00",
+    "published": "2026-11-20T10:51:22+00:00"
+  },
+  "https://www.phoronix.com/news/Kwi-Terminal-First-Release": {
+    "title": "Kwi Sees First Release As KDE's New Terminal Emulator",
+    "source": "Phoronix",
+    "first_seen": "2026-11-20T17:23:11.278406+00:00",
+    "published": "2026-11-20T10:41:17+00:00"
+  },
+  "https://jeanmicheljarre.com/aaa/the-making-of-oxygene": {
+    "title": "The Making of Oxygene",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-20T17:23:11.278406+00:00",
+    "published": "2026-11-20T10:41:10+00:00"
+  },
+  "https://www.phoronix.com/news/FFmpeg-9.1-Released": {
+    "title": "FFmpeg 9.1 Released With NVIDIA Optical Flow FRUC, APV Vulkan Encoder",
+    "source": "Phoronix",
+    "first_seen": "2026-11-20T17:23:11.278406+00:00",
+    "published": "2026-11-20T10:30:05+00:00"
+  },
+  "https://architectlabs.com/blog/frostbite": {
+    "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-20T17:23:11.278406+00:00",
+    "published": "2026-11-20T10:01:41+00:00"
+  },
+  "https://startups.novumsignals.com": {
+    "title": "What people are building, discovered through new domains",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-20T17:23:11.278406+00:00",
+    "published": "2026-11-20T09:54:33+00:00"
+  },
+  "https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o": {
+    "title": "UK fridges secured from hackers",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-20T17:23:11.278406+00:00",
+    "published": "2026-11-20T09:52:20+00:00"
+  },
+  "https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it": {
+    "title": "If you can't explain something in simple terms, you don't understand it (2017)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-20T17:23:11.278406+00:00",
+    "published": "2026-11-20T09:43:19+00:00"
+  },
+  "https://signal.org/blog/protecting-your-privacy": {
+    "title": "Signal Is Serious About Protecting Your Privacy",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-20T17:23:11.278406+00:00",
+    "published": "2026-11-20T09:42:16+00:00"
+  },
+  "https://ecohustler.com/article/one-corporation-to-pollute-them-all": {
+    "title": "Carnival Cruises emits ten times more sulphur oxide than all of Europe's cars (2019)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-20T17:23:11.278406+00:00",
+    "published": "2026-11-20T09:13:09+00:00"
+  },
+  "https://stackoverflow.blog/2026/11/20/trying-to-get-our-arms-around-ai-efficiency": {
+    "title": "Trying to get our Arms around AI efficiency",
+    "source": "Stack Overflow Blog",
+    "first_seen": "2026-11-20T17:23:11.278406+00:00",
+    "published": "2026-11-20T08:40:00+00:00"
+  },
+  "https://em-online.bearblog.dev/i-can-tell-you-wrote-this-yourself": {
+    "title": "\"I can tell you wrote this yourself\"",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-20T17:23:11.278406+00:00",
+    "published": "2026-11-20T07:13:21+00:00"
+  },
+  "https://blog.angular.dev/the-momentum-across-the-global-angular-ecosystem-never-slows-down-7d69d0d07a69?source=rss----447683c3d9a3---4": {
+    "title": "The momentum across the global Angular ecosystem never slows down!",
+    "source": "Angular Blog",
+    "first_seen": "2026-11-20T17:23:11.278406+00:00",
+    "published": "2026-11-20T05:01:02+00:00"
+  },
+  "https://ffmpeg.org/download.html": {
+    "title": "FFmpeg 9.1 'Gauss'",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-20T17:23:11.278406+00:00",
+    "published": "2026-11-20T04:02:39+00:00"
+  },
+  "https://www.postgresql.org/docs/release/19.0": {
+    "title": "PostgreSQL 19",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-20T17:23:11.278406+00:00",
+    "published": "2026-11-20T03:45:45+00:00"
+  },
+  "https://simonwillison.net/2026/Nov/20/token-fraud-is-here-and-its-bad": {
+    "title": "Token fraud is here and it’s BAD (YouTube)",
+    "source": "Simon Willison",
+    "first_seen": "2026-11-20T17:23:11.278406+00:00",
+    "published": "2026-11-20T02:49:57+00:00"
+  },
+  "https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat": {
+    "title": "Postgres 19 Repack: Faster, Built-In Table Bloat Cleanup",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-20T17:23:11.278406+00:00",
+    "published": "2026-11-20T02:43:49+00:00"
+  },
+  "https://github.com/openssl/openssl/pull/33652": {
+    "title": "OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-20T17:23:11.278406+00:00",
+    "published": "2026-11-20T02:01:09+00:00"
+  },
+  "https://blog.cloudflare.com/nginx2root": {
+    "title": "nginx2root: Five new nginx vulnerabilities, and how Cloudflare protects origins from the worst of them",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-11-20T17:23:11.278406+00:00",
+    "published": "2026-11-20T01:58:29+00:00"
+  },
+  "https://seremot.com/p/vint-cerf-on-why-tcpip-was-never": {
+    "title": "Vint Cerf on why TCP/IP was never patented",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-20T17:23:11.278406+00:00",
+    "published": "2026-11-20T01:06:12+00:00"
+  },
+  "https://www.redpanda.com/blog/redpanda-streaming-26-3": {
+    "title": "Fencing and Shapeshifting: what’s new in Redpanda Streaming 26.3",
+    "source": "Redpanda Blog",
+    "first_seen": "2026-11-20T17:23:11.278406+00:00",
+    "published": "2026-11-20T00:00:00+00:00"
+  },
+  "https://huggingface.co/blog/harness-adapters-at-scale": {
+    "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-11-20T17:23:11.278406+00:00",
+    "published": "2026-11-20T00:00:00+00:00"
+  },
+  "https://golangweekly.com/issues/625": {
+    "title": "One Go GUI app, built five ways",
+    "source": "Golang Weekly",
+    "first_seen": "2026-11-20T17:23:11.278406+00:00",
+    "published": "2026-11-20T00:00:00+00:00"
+  },
+  "https://fly.io/blog/petsem": {
+    "title": "Petsem: Sometimes Dead Is Better",
+    "source": "Fly.io Blog",
+    "first_seen": "2026-11-20T17:23:11.278406+00:00",
+    "published": "2026-11-20T00:00:00+00:00"
   }
 }
