@@ -128180,5 +128180,425 @@
     "source": "Simon Willison",
     "first_seen": "2026-11-19T17:46:53.206417+00:00",
     "published": "2026-11-18T23:59:20+00:00"
+  },
+  "https://thenewstack.io/aws-decider-models-agents": {
+    "title": "Does your AI agent need an LLM to decide what to do next?",
+    "source": "The New Stack",
+    "first_seen": "2026-11-20T01:55:38.465376+00:00",
+    "published": "2026-11-20T01:37:32+00:00"
+  },
+  "https://aws.amazon.com/blogs/architecture/ai-coding-agents-on-amazon-ec2-mac-how-cognition-scales-devin-for-macos": {
+    "title": "AI coding agents on Amazon EC2 Mac: How Cognition scales Devin for macOS",
+    "source": "AWS Architecture Blog",
+    "first_seen": "2026-11-20T01:55:38.465376+00:00",
+    "published": "2026-11-20T01:10:14+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-inference-2026-launches-in-review-part-2": {
+    "title": "Amazon SageMaker Inference: 2026 launches in review, part 2",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-11-20T01:55:38.465376+00:00",
+    "published": "2026-11-20T00:34:07+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/use-kimi-code-cli-with-models-on-amazon-bedrock": {
+    "title": "Use Kimi Code CLI with models on Amazon Bedrock",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-11-20T01:55:38.465376+00:00",
+    "published": "2026-11-20T00:33:30+00:00"
+  },
+  "https://git-aarvin.github.io/mei": {
+    "title": "Gemini 4 Neon is the new #1 on the Models Engineering Index",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-20T01:55:38.465376+00:00",
+    "published": "2026-11-19T23:35:35+00:00"
+  },
+  "https://www.wsj.com/finance/banking/visa-mastercard-and-jpmorgan-customer-data-leaked-by-hackers-3b5a0f87": {
+    "title": "Visa, Mastercard and JPMorgan Customer Data Leaked by Hackers",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-20T01:55:38.465376+00:00",
+    "published": "2026-11-19T23:32:11+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/how-klaviyo-processes-3-billion-daily-events-at-scale-with-amazon-msk-express": {
+    "title": "How Klaviyo processes 3 billion daily events at scale with Amazon MSK Express",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-11-20T01:55:38.465376+00:00",
+    "published": "2026-11-19T23:18:51+00:00"
+  },
+  "https://aws.amazon.com/blogs/containers/karpenter-v1-15-gpu-aware-provisioning-smarter-node-repair-and-more": {
+    "title": "Karpenter v1.15: GPU-aware provisioning, smarter node repair, and more",
+    "source": "AWS Containers Blog",
+    "first_seen": "2026-11-20T01:55:38.465376+00:00",
+    "published": "2026-11-19T23:07:32+00:00"
+  },
+  "https://aws.amazon.com/blogs/architecture/how-country-road-group-built-a-pattern-driven-integration-solution-on-aws": {
+    "title": "How Country Road Group built a pattern-driven integration solution on AWS",
+    "source": "AWS Architecture Blog",
+    "first_seen": "2026-11-20T01:55:38.465376+00:00",
+    "published": "2026-11-19T23:07:30+00:00"
+  },
+  "https://aws.amazon.com/blogs/containers/your-guide-to-containers-at-aws-reinvent-2026": {
+    "title": "Your guide to containers at AWS re:Invent 2026",
+    "source": "AWS Containers Blog",
+    "first_seen": "2026-11-20T01:55:38.465376+00:00",
+    "published": "2026-11-19T23:05:29+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/enable-ai-agents-to-pay-for-aws-marketplace-x402-products-with-amazon-bedrock-agentcore-payments": {
+    "title": "Enable AI agents to pay for AWS Marketplace x402 products with Amazon Bedrock AgentCore payments",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-11-20T01:55:38.465376+00:00",
+    "published": "2026-11-19T23:02:16+00:00"
+  },
+  "https://cloud.google.com/blog/products/gaming/kult-built-a-gaming-companion-with-gemini-that-actually-knows-your-game": {
+    "title": "The Blueprint: How Kult built a gaming companion that actually knows your game",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-11-20T01:55:38.465376+00:00",
+    "published": "2026-11-19T23:00:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/deploy-amazon-rds-for-oracle-on-aws-outposts": {
+    "title": "Deploy Amazon RDS for Oracle on AWS Outposts",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-11-20T01:55:38.465376+00:00",
+    "published": "2026-11-19T22:59:53+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/announcing-in-place-upgrades-from-standard-brokers-to-express-brokers-for-amazon-msk": {
+    "title": "Announcing in-place upgrades from Standard brokers to Express brokers for Amazon MSK",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-11-20T01:55:38.465376+00:00",
+    "published": "2026-11-19T22:51:20+00:00"
+  },
+  "https://aws.amazon.com/blogs/security/your-aws-security-identity-and-governance-guide-to-reinvent-2026": {
+    "title": "Your AWS Security, Identity, and Governance guide to re:Invent 2026",
+    "source": "AWS Security Blog",
+    "first_seen": "2026-11-20T01:55:38.465376+00:00",
+    "published": "2026-11-19T22:31:34+00:00"
+  },
+  "https://regexr.com": {
+    "title": "RegExr: Temporarily Offline",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-20T01:55:38.465376+00:00",
+    "published": "2026-11-19T22:27:07+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/how-twilio-modernized-billing-at-70-lower-cost-with-amazon-redshift": {
+    "title": "How Twilio modernized billing at 70% lower cost with Amazon Redshift",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-11-20T01:55:38.465376+00:00",
+    "published": "2026-11-19T22:24:02+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/how-the-bmw-group-governs-hundreds-of-agents-across-thousands-of-developers": {
+    "title": "How the BMW Group governs hundreds of agents across thousands of developers",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-11-20T01:55:38.465376+00:00",
+    "published": "2026-11-19T22:20:23+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/run-your-whole-selling-business-in-aws-quick": {
+    "title": "Run your whole selling business in AWS Quick",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-11-20T01:55:38.465376+00:00",
+    "published": "2026-11-19T22:16:22+00:00"
+  },
+  "https://www.synology.com/en-uk/security/advisory/Synology_SA_26_21": {
+    "title": "Synology Security Advisory",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-20T01:55:38.465376+00:00",
+    "published": "2026-11-19T22:13:40+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/from-instant-aurora-postgresql-databases-to-production-ready-in-your-vpc": {
+    "title": "From instant Aurora PostgreSQL databases to production-ready in your VPC",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-11-20T01:55:38.465376+00:00",
+    "published": "2026-11-19T22:13:11+00:00"
+  },
+  "https://www.databricks.com/blog/why-postgresql-19-shipped-late": {
+    "title": "Why PostgreSQL 19 shipped late",
+    "source": "Databricks Blog",
+    "first_seen": "2026-11-20T01:55:38.465376+00:00",
+    "published": "2026-11-19T22:04:02+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.5-Restrict-proc-kcore": {
+    "title": "Linux 7.5 To Optionally Block /proc/kcore Access For Better Security",
+    "source": "Phoronix",
+    "first_seen": "2026-11-20T01:55:38.465376+00:00",
+    "published": "2026-11-19T22:03:06+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/understanding-and-optimizing-materialized-views-in-amazon-redshift": {
+    "title": "Understanding and optimizing materialized views in Amazon Redshift",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-11-20T01:55:38.465376+00:00",
+    "published": "2026-11-19T21:42:39+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/building-a-no-code-ai-app-on-amazon-aurora-dsql-with-agent-skills-plugins-and-mcp": {
+    "title": "Building a no-code AI app on Amazon Aurora DSQL with agent skills, plugins, and MCP",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-11-20T01:55:38.465376+00:00",
+    "published": "2026-11-19T21:40:34+00:00"
+  },
+  "https://thenewstack.io/gemini-mac-computer-use": {
+    "title": "Google just gave Gemini the run of your Mac — three days after Apple tightened the rules",
+    "source": "The New Stack",
+    "first_seen": "2026-11-20T01:55:38.465376+00:00",
+    "published": "2026-11-19T21:35:09+00:00"
+  },
+  "https://www.databricks.com/blog/genie-zeroops-now-public-beta-autonomous-agent-fixes-data-pipelines-lessons-80000-customer": {
+    "title": "Genie ZeroOps, now in public beta: An autonomous agent that fixes data pipelines, with lessons from 80,000 customer issues",
+    "source": "Databricks Blog",
+    "first_seen": "2026-11-20T01:55:38.465376+00:00",
+    "published": "2026-11-19T21:30:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-ai-now-detects-latency-drift-idle-gpus-and-missed-optimizations-on-your-inference-endpoints": {
+    "title": "Amazon SageMaker AI now detects latency drift, idle GPUs, and missed optimizations on your inference endpoints",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-11-20T01:55:38.465376+00:00",
+    "published": "2026-11-19T21:28:18+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/inside-amazon-connect-talent-the-science-of-structured-ai-interviews": {
+    "title": "Inside Amazon Connect Talent: The science of structured AI interviews",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-11-20T01:55:38.465376+00:00",
+    "published": "2026-11-19T21:23:20+00:00"
+  },
+  "https://aws.amazon.com/blogs/compute/handling-large-volume-of-transactions-with-aws-lambda-managed-instances": {
+    "title": "Handling large volume of transactions with AWS Lambda Managed Instances",
+    "source": "AWS Compute Blog",
+    "first_seen": "2026-11-20T01:55:38.465376+00:00",
+    "published": "2026-11-19T21:20:28+00:00"
+  },
+  "https://aws.amazon.com/blogs/security/introducing-the-new-aws-waf-security-analytics-dashboard": {
+    "title": "Introducing the new AWS WAF security analytics dashboard",
+    "source": "AWS Security Blog",
+    "first_seen": "2026-11-20T01:55:38.465376+00:00",
+    "published": "2026-11-19T21:10:43+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/securing-multi-team-amazon-neptune-with-tag-based-access-control": {
+    "title": "Securing multi-team Amazon Neptune with tag-based access control",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-11-20T01:55:38.465376+00:00",
+    "published": "2026-11-19T21:03:50+00:00"
+  },
+  "https://www.phoronix.com/news/LLVM-Re-Licensing-Complete": {
+    "title": "LLVM Effectively Completes Its Relicensing After Nearly A Decade Of Work",
+    "source": "Phoronix",
+    "first_seen": "2026-11-20T01:55:38.465376+00:00",
+    "published": "2026-11-19T21:02:56+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/introducing-amazon-emr-serverless-flex-run-non-urgent-spark-jobs-at-a-discount": {
+    "title": "Introducing Amazon EMR Serverless Flex: Run non-urgent Spark jobs at a discount",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-11-20T01:55:38.465376+00:00",
+    "published": "2026-11-19T20:58:07+00:00"
+  },
+  "https://blog.platypush.tech/article/Rewriting-my-voice-assistant-pipeline": {
+    "title": "Rebuilding my local voice assistant pipeline",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-20T01:55:38.465376+00:00",
+    "published": "2026-11-19T20:57:14+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/aws-positioned-highest-in-ability-to-execute-in-new-gartner-magic-quadrant-for-cloud-operational-database-management-systems": {
+    "title": "AWS positioned highest in Ability to Execute in new Gartner Magic Quadrant for Cloud Operational Database Management Systems",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-11-20T01:55:38.465376+00:00",
+    "published": "2026-11-19T20:55:23+00:00"
+  },
+  "https://simonwillison.net/2026/Nov/19/postgresql-19": {
+    "title": "PostgreSQL 19 Released",
+    "source": "Simon Willison",
+    "first_seen": "2026-11-20T01:55:38.465376+00:00",
+    "published": "2026-11-19T20:43:57+00:00"
+  },
+  "https://developer.nvidia.com/blog/reducing-rollout-bottlenecks-in-reinforcement-learning-with-nvidia-dynamo": {
+    "title": "Reducing Rollout Bottlenecks in Reinforcement Learning with NVIDIA Dynamo",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-11-20T01:55:38.465376+00:00",
+    "published": "2026-11-19T20:28:13+00:00"
+  },
+  "https://thenewstack.io/cognition-devin-bots-management": {
+    "title": "An engineer didn’t message his AI for 22 of 44 days. It built an Android app anyway.",
+    "source": "The New Stack",
+    "first_seen": "2026-11-20T01:55:38.465376+00:00",
+    "published": "2026-11-19T20:22:18+00:00"
+  },
+  "https://www.databricks.com/blog/genie-one-accuracy-why-curated-agents-need-governed-context": {
+    "title": "Genie One Accuracy: Why Curated Agents Need Governed Context",
+    "source": "Databricks Blog",
+    "first_seen": "2026-11-20T01:55:38.465376+00:00",
+    "published": "2026-11-19T20:15:41+00:00"
+  },
+  "https://aws.amazon.com/blogs/containers/use-amazon-ecr-global-authentication-token-across-aws-regions": {
+    "title": "Use Amazon ECR global authentication token across AWS Regions",
+    "source": "AWS Containers Blog",
+    "first_seen": "2026-11-20T01:55:38.465376+00:00",
+    "published": "2026-11-19T20:09:23+00:00"
+  },
+  "https://research.google/blog/a-game-you-cannot-win-unless-you-have-a-quantum-computer": {
+    "title": "A game you cannot win unless you have a quantum computer",
+    "source": "Google Research",
+    "first_seen": "2026-11-20T01:55:38.465376+00:00",
+    "published": "2026-11-19T20:03:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-agentcore-harness-adds-strands-harness-defaults-built-in-tools-and-lifecycle-hooks": {
+    "title": "Amazon Bedrock AgentCore harness adds Strands harness defaults, built-in tools, and lifecycle hooks",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-11-20T01:55:38.465376+00:00",
+    "published": "2026-11-19T20:01:06+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/amazon-polly-launches-voice-cloning-a-unique-voice-for-your-brand": {
+    "title": "Amazon Polly launches voice cloning: A unique voice for your brand",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-11-20T01:55:38.465376+00:00",
+    "published": "2026-11-19T19:53:32+00:00"
+  },
+  "https://www.databricks.com/blog/ai-architecture-patterns-regulated-industries": {
+    "title": "Four AI Architecture Patterns for Regulated Industries",
+    "source": "Databricks Blog",
+    "first_seen": "2026-11-20T01:55:38.465376+00:00",
+    "published": "2026-11-19T19:30:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/compute/announcing-30-minute-timeout-for-on-demand-aws-lambda-event-functions": {
+    "title": "Announcing 30-minute timeout for on-demand AWS Lambda Event Functions",
+    "source": "AWS Compute Blog",
+    "first_seen": "2026-11-20T01:55:38.465376+00:00",
+    "published": "2026-11-19T19:28:52+00:00"
+  },
+  "https://aws.amazon.com/blogs/security/how-aws-security-incident-response-triages-your-security-findings": {
+    "title": "How AWS Security Incident Response triages your security findings",
+    "source": "AWS Security Blog",
+    "first_seen": "2026-11-20T01:55:38.465376+00:00",
+    "published": "2026-11-19T19:20:58+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/performance-impact-of-excessive-logging-in-amazon-aurora-postgresql": {
+    "title": "Performance impact of excessive logging in Amazon Aurora PostgreSQL",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-11-20T01:55:38.465376+00:00",
+    "published": "2026-11-19T19:10:08+00:00"
+  },
+  "https://aws.amazon.com/blogs/compute/aws-lambda-durable-functions-observability-with-opentelemetry": {
+    "title": "AWS Lambda Durable Functions observability with OpenTelemetry",
+    "source": "AWS Compute Blog",
+    "first_seen": "2026-11-20T01:55:38.465376+00:00",
+    "published": "2026-11-19T19:09:43+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/how-moonfrog-scales-analytics-and-lowers-query-cost-with-amazon-redshift-rg-instances": {
+    "title": "How Moonfrog scales analytics and lowers query cost with Amazon Redshift RG instances",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-11-20T01:55:38.465376+00:00",
+    "published": "2026-11-19T19:07:32+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/optimize-ai-economics-on-amazon-bedrock-with-accentures-sequenced-approach": {
+    "title": "Optimize AI economics on Amazon Bedrock with Accenture’s sequenced approach",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-11-20T01:55:38.465376+00:00",
+    "published": "2026-11-19T18:48:55+00:00"
+  },
+  "https://www.youtube.com/watch?v=lwfewYL7X0o": {
+    "title": "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-20T01:55:38.465376+00:00",
+    "published": "2026-11-19T18:47:16+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/monitor-valkey-clusters-with-opentelemetry-metrics-in-amazon-elasticache": {
+    "title": "Monitor Valkey clusters with OpenTelemetry metrics in Amazon ElastiCache",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-11-20T01:55:38.465376+00:00",
+    "published": "2026-11-19T18:39:15+00:00"
+  },
+  "https://aws.amazon.com/blogs/database/amazon-elasticache-serverless-turns-three": {
+    "title": "Amazon ElastiCache Serverless turns three",
+    "source": "AWS Database Blog",
+    "first_seen": "2026-11-20T01:55:38.465376+00:00",
+    "published": "2026-11-19T18:35:55+00:00"
+  },
+  "https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine": {
+    "title": "The 98% Slot Machine: How Paid Advertising Became an Extraction Tax",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-20T01:55:38.465376+00:00",
+    "published": "2026-11-19T18:35:17+00:00"
+  },
+  "https://aws.amazon.com/blogs/compute/monitor-the-efficiency-and-availability-of-accelerated-computing-instances-with-amazon-ec2-detailed-monitoring-and-performance-status-checks": {
+    "title": "Monitor the efficiency and availability of accelerated computing instances with Amazon EC2 Detailed Monitoring and performance status checks",
+    "source": "AWS Compute Blog",
+    "first_seen": "2026-11-20T01:55:38.465376+00:00",
+    "published": "2026-11-19T18:34:57+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/from-learning-to-leaderboard-how-cisco-upskilled-1200-engineers-in-agentic-ai-with-aws-ai-league": {
+    "title": "From learning to leaderboard: How Cisco upskilled 1,200 engineers in agentic AI with AWS AI League",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-11-20T01:55:38.465376+00:00",
+    "published": "2026-11-19T18:26:22+00:00"
+  },
+  "https://thenewstack.io/agentic-ai-foundation-projects": {
+    "title": "“Be ready for change”: AAIF’s CTO on why the agent stack won’t settle",
+    "source": "The New Stack",
+    "first_seen": "2026-11-20T01:55:38.465376+00:00",
+    "published": "2026-11-19T18:24:12+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/keep-inference-running-through-regional-capacity-shortfalls-with-cross-region-inference-routing-in-amazon-sagemaker-ai": {
+    "title": "Keep inference running through regional capacity shortfalls with cross-Region inference routing in Amazon SageMaker AI",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-11-20T01:55:38.465376+00:00",
+    "published": "2026-11-19T18:20:54+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/protect-agent-tool-calls-with-skyflow-and-amazon-bedrock-agentcore-gateway": {
+    "title": "Protect agent tool calls with Skyflow and Amazon Bedrock AgentCore Gateway",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-11-20T01:55:38.465376+00:00",
+    "published": "2026-11-19T18:14:36+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/guardrails-and-cost-control-for-your-agentic-workloads-with-amazon-redshift": {
+    "title": "Guardrails and cost control for your agentic workloads with Amazon Redshift",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-11-20T01:55:38.465376+00:00",
+    "published": "2026-11-19T18:08:06+00:00"
+  },
+  "https://www.databricks.com/blog/how-partners-use-genies-free-tier-azure-databricks": {
+    "title": "How partners use Genie's free tier on Azure Databricks",
+    "source": "Databricks Blog",
+    "first_seen": "2026-11-20T01:55:38.465376+00:00",
+    "published": "2026-11-19T18:00:00+00:00"
+  },
+  "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval": {
+    "title": "Introducing Tool Retrieval in the Gemini API",
+    "source": "Google AI Blog",
+    "first_seen": "2026-11-20T01:55:38.465376+00:00",
+    "published": "2026-11-19T18:00:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/big-data/amazon-s3-tables-with-dbt-iceberg-based-data-transformations-using-aws-glue": {
+    "title": "Amazon S3 Tables with dbt: Iceberg-based data transformations using AWS Glue",
+    "source": "AWS Big Data Blog",
+    "first_seen": "2026-11-20T01:55:38.465376+00:00",
+    "published": "2026-11-19T17:58:50+00:00"
+  },
+  "https://www.anthropic.com/research/claude-black-hole-physics": {
+    "title": "Claude solves two open problems in the physics of black holes",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-20T01:55:38.465376+00:00",
+    "published": "2026-11-19T17:30:44+00:00"
+  },
+  "https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients": {
+    "title": "Pancreatic cancer halted by virus injection in three patients",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-20T01:55:38.465376+00:00",
+    "published": "2026-11-19T17:25:33+00:00"
+  },
+  "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19": {
+    "title": "Anthropic’s Nasdaq debut",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-20T01:55:38.465376+00:00",
+    "published": "2026-11-19T17:02:40+00:00"
+  },
+  "https://www.databricks.com/blog/java4shell-vulnerability-cve-2026-114938-assessment": {
+    "title": "Java4Shell vulnerability (CVE-2026-114938) assessment",
+    "source": "Databricks Blog",
+    "first_seen": "2026-11-20T01:55:38.465376+00:00",
+    "published": "2026-11-19T17:00:00+00:00"
+  },
+  "https://neon.com/blog/official-neon-terraform-provider": {
+    "title": "The Neon Terraform provider is now official",
+    "source": "Neon Blog",
+    "first_seen": "2026-11-20T01:55:38.465376+00:00",
+    "published": "2026-11-19T17:00:00+00:00"
+  },
+  "https://www.databricks.com/blog/postgresql-19-available-lakebase": {
+    "title": "PostgreSQL 19 is available on Lakebase",
+    "source": "Databricks Blog",
+    "first_seen": "2026-11-20T01:55:38.465376+00:00",
+    "published": "2026-11-19T15:31:46+00:00"
   }
 }
