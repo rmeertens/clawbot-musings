@@ -129248,5 +129248,155 @@
     "source": "Hugging Face Blog",
     "first_seen": "2026-11-21T01:51:00.976288+00:00",
     "published": "2026-11-20T00:00:00+00:00"
+  },
+  "https://thenewstack.io/ai-feature-flags-observability": {
+    "title": "Dynatrace just laid out its AI observability playbook at KubeCon. Here’s why it matters for developers.",
+    "source": "The New Stack",
+    "first_seen": "2026-11-21T16:28:00.062134+00:00",
+    "published": "2026-11-21T16:08:55+00:00"
+  },
+  "https://www.phoronix.com/news/Intel-LInux-NPU-Driver-1.39.1": {
+    "title": "Intel Linux NPU Driver 1.39.1 Released With Nova Lake Support",
+    "source": "Phoronix",
+    "first_seen": "2026-11-21T16:28:00.062134+00:00",
+    "published": "2026-11-21T15:51:35+00:00"
+  },
+  "https://onurgumus.github.io/zero-csharp/index.html": {
+    "title": "Show HN: Zero C#, Power of C# without any GC",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-21T16:28:00.062134+00:00",
+    "published": "2026-11-21T15:39:09+00:00"
+  },
+  "https://thenewstack.io/nvidia-droid-harness-nemotron": {
+    "title": "Nvidia used 20,000 training examples to fix its AI’s mistakes. Its coding score jumped.",
+    "source": "The New Stack",
+    "first_seen": "2026-11-21T16:28:00.062134+00:00",
+    "published": "2026-11-21T15:30:00+00:00"
+  },
+  "https://lethain.com/explorer-pattern": {
+    "title": "The Explorer Pattern for product invention and development.",
+    "source": "Will Larson",
+    "first_seen": "2026-11-21T16:28:00.062134+00:00",
+    "published": "2026-11-21T15:00:00+00:00"
+  },
+  "https://leanprover-community.github.io/blog/posts/riemann-hypothesis": {
+    "title": "Lean Verification of the Riemann Hypothesis - Joint statement by...",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-21T16:28:00.062134+00:00",
+    "published": "2026-11-21T14:36:45+00:00"
+  },
+  "https://realpython.com/ai-benchmark-inkling-2-mini": {
+    "title": "Inkling 2 Mini Draws a Python Reading a Book",
+    "source": "Real Python",
+    "first_seen": "2026-11-21T16:28:00.062134+00:00",
+    "published": "2026-11-21T14:00:00+00:00"
+  },
+  "https://realpython.com/ai-benchmark-gemini-4-neon": {
+    "title": "Gemini 4 Neon Draws a Python Reading a Book",
+    "source": "Real Python",
+    "first_seen": "2026-11-21T16:28:00.062134+00:00",
+    "published": "2026-11-21T14:00:00+00:00"
+  },
+  "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really": {
+    "title": "Derek Lowe: Detonating a Pile of Lead Azide",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-21T16:28:00.062134+00:00",
+    "published": "2026-11-21T13:23:14+00:00"
+  },
+  "https://simple-bench.com": {
+    "title": "Astra 6.2 and Sol 6.2 flop at Simple Bench",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-21T16:28:00.062134+00:00",
+    "published": "2026-11-21T13:16:12+00:00"
+  },
+  "https://www.construction-physics.com/p/reading-list-11212026": {
+    "title": "Reading List 11/21/2026",
+    "source": "Construction Physics",
+    "first_seen": "2026-11-21T16:28:00.062134+00:00",
+    "published": "2026-11-21T13:04:03+00:00"
+  },
+  "https://www.phoronix.com/news/Debian-13.8-Released": {
+    "title": "Debian 13.8 Released With 150+ Security Updates",
+    "source": "Phoronix",
+    "first_seen": "2026-11-21T16:28:00.062134+00:00",
+    "published": "2026-11-21T11:20:00+00:00"
+  },
+  "https://www.phoronix.com/news/KDE-Plasma-6.9-Cursor-Blinking": {
+    "title": "KDE Plasma 6.9 Allows Adjusting The Text Cursor Blinking Rate, Other Improvements",
+    "source": "Phoronix",
+    "first_seen": "2026-11-21T16:28:00.062134+00:00",
+    "published": "2026-11-21T10:51:46+00:00"
+  },
+  "https://www.phoronix.com/news/FreeDesktop.org-Redesigned-2026": {
+    "title": "FreeDesktop.org Launches Redesigned Website",
+    "source": "Phoronix",
+    "first_seen": "2026-11-21T16:28:00.062134+00:00",
+    "published": "2026-11-21T10:38:39+00:00"
+  },
+  "https://blog.tymscar.com/posts/studiodisplayethernet": {
+    "title": "My Monitor Was Cutting My Download Speed by 75%",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-21T16:28:00.062134+00:00",
+    "published": "2026-11-21T10:36:32+00:00"
+  },
+  "https://www.bbc.com/news/articles/cvze7de86pk3o": {
+    "title": "FBI reportedly investigating apparent hack of its criminal database",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-21T16:28:00.062134+00:00",
+    "published": "2026-11-21T10:33:57+00:00"
+  },
+  "https://www.phoronix.com/news/FreeBSD-15.2-Beta-3": {
+    "title": "FreeBSD 15.2 Beta 3 Released Following 17 Security Advisories",
+    "source": "Phoronix",
+    "first_seen": "2026-11-21T16:28:00.062134+00:00",
+    "published": "2026-11-21T10:26:22+00:00"
+  },
+  "https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html": {
+    "title": "RCE in Gnupg",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-21T16:28:00.062134+00:00",
+    "published": "2026-11-21T08:32:58+00:00"
+  },
+  "https://amateurphotographer.com/latest/these-astonishing-insect-portraits-reveal-a-hidden-world-you-never-knew-existed": {
+    "title": "Surprisingly Adorable Insect Portraits",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-21T16:28:00.062134+00:00",
+    "published": "2026-11-21T06:44:14+00:00"
+  },
+  "http://ricapar.net/ClawDOS": {
+    "title": "ClawDOS – An AI coding agent for DOS",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-21T16:28:00.062134+00:00",
+    "published": "2026-11-21T05:38:01+00:00"
+  },
+  "https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain": {
+    "title": "Clojure will affect the way you think about programming (2017)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-21T16:28:00.062134+00:00",
+    "published": "2026-11-21T02:40:39+00:00"
+  },
+  "https://news.ycombinator.com/item?id=50583761": {
+    "title": "Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-21T16:28:00.062134+00:00",
+    "published": "2026-11-20T23:18:32+00:00"
+  },
+  "https://replit.com/blog/build-with-private-data-using-tunnels": {
+    "title": "Securely connect Replit to your private network with Tunnels",
+    "source": "Replit Blog",
+    "first_seen": "2026-11-21T16:28:00.062134+00:00",
+    "published": "2026-11-20T17:55:00+00:00"
+  },
+  "https://klauria.tech/klauria-art": {
+    "title": "I'm quite pleased by the tech architecture of my art website",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-21T16:28:00.062134+00:00",
+    "published": "2026-11-20T17:03:39+00:00"
+  },
+  "https://realpython.com/any-python": {
+    "title": "How to Use any() in Python",
+    "source": "Real Python",
+    "first_seen": "2026-11-21T16:28:00.062134+00:00",
+    "published": "2026-11-20T14:00:00+00:00"
   }
 }
