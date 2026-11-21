@@ -128960,5 +128960,293 @@
     "source": "Fly.io Blog",
     "first_seen": "2026-11-20T17:23:11.278406+00:00",
     "published": "2026-11-20T00:00:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/new-in-aws-quick-more-capable-flows-an-updated-web-experience-and-agents-that-work-together": {
+    "title": "New in AWS Quick: More capable flows, an updated web experience, and agents that work together",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-11-21T01:51:00.976288+00:00",
+    "published": "2026-11-21T01:06:42+00:00"
+  },
+  "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud": {
+    "title": "CTO of ‘RansomwareHelp’ Indicted for Wire Fraud",
+    "source": "Krebs on Security",
+    "first_seen": "2026-11-21T01:51:00.976288+00:00",
+    "published": "2026-11-21T00:36:39+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/cut-self-hosted-llm-cost-and-latency-with-the-distributed-kv-caching-agent-skill": {
+    "title": "Cut self-hosted LLM cost and latency with the distributed KV caching agent skill",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-11-21T01:51:00.976288+00:00",
+    "published": "2026-11-21T00:14:26+00:00"
+  },
+  "https://borretti.me/article/re-riemann": {
+    "title": "Re: Riemann",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-21T01:51:00.976288+00:00",
+    "published": "2026-11-20T23:42:44+00:00"
+  },
+  "https://research.google/blog/how-google-duplex-evolved-to-also-call-businesses-for-you-in-gemini": {
+    "title": "How Google Duplex evolved to also call businesses for you in Gemini",
+    "source": "Google Research",
+    "first_seen": "2026-11-21T01:51:00.976288+00:00",
+    "published": "2026-11-20T23:30:30+00:00"
+  },
+  "https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/sir-brian-may-adds-new-dimension-to-hera-asteroid": {
+    "title": "Sir Brian May adds new dimension to Hera asteroid",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-21T01:51:00.976288+00:00",
+    "published": "2026-11-20T23:19:44+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/introducing-managed-cluster-extensions-for-observability-and-user-management-in-amazon-sagemaker-hyperpod-slurm": {
+    "title": "Introducing managed cluster extensions for observability and user management in Amazon SageMaker HyperPod Slurm",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-11-21T01:51:00.976288+00:00",
+    "published": "2026-11-20T23:07:03+00:00"
+  },
+  "https://aws.amazon.com/blogs/security/scope-down-permissions-of-existing-sessions-using-aws-sts-getscopedcredentials": {
+    "title": "Scope down permissions of existing sessions using AWS STS GetScopedCredentials",
+    "source": "AWS Security Blog",
+    "first_seen": "2026-11-21T01:51:00.976288+00:00",
+    "published": "2026-11-20T22:57:22+00:00"
+  },
+  "https://www.economist.com/science-and-technology/2026/11/20/ai-may-have-solved-the-most-important-problem-in-mathematics": {
+    "title": "AI may have solved the most important problem in mathematics",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-21T01:51:00.976288+00:00",
+    "published": "2026-11-20T22:46:59+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/introducing-amazon-sagemaker-hyperpod-global-inference-gateway-one-endpoint-across-regions-and-clusters": {
+    "title": "Introducing Amazon SageMaker HyperPod Global Inference Gateway: One endpoint across Regions and clusters",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-11-21T01:51:00.976288+00:00",
+    "published": "2026-11-20T22:35:24+00:00"
+  },
+  "https://ninlive.com": {
+    "title": "NINLIVE: The Nine Inch Nails live archive",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-21T01:51:00.976288+00:00",
+    "published": "2026-11-20T22:30:47+00:00"
+  },
+  "https://www.phoronix.com/news/Libreboot-Drops-AI-Policy": {
+    "title": "Libreboot Abandons Anti-AI Policy After One Month",
+    "source": "Phoronix",
+    "first_seen": "2026-11-21T01:51:00.976288+00:00",
+    "published": "2026-11-20T22:23:41+00:00"
+  },
+  "https://datatracker.ietf.org/doc/draft-ietf-plants-merkle-tree-certs": {
+    "title": "Merkle Tree Certificates",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-21T01:51:00.976288+00:00",
+    "published": "2026-11-20T22:19:23+00:00"
+  },
+  "https://www.researchgate.net/publication/418143113_The_Hungry_Butler_Effect_Concealed_Commercial_Incentives_and_the_Erosion_of_Epistemic_Rigour_in_Large_Language_Models": {
+    "title": "The Hungry Butler Effect: Concealed Commercial Incentives in LLMs",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-21T01:51:00.976288+00:00",
+    "published": "2026-11-20T22:18:20+00:00"
+  },
+  "https://www.schneier.com/blog/archives/2026/11/friday-squid-blogging-the-largest-squid-ever-filmed.html": {
+    "title": "Friday Squid Blogging: The Largest Squid Ever Filmed",
+    "source": "Schneier on Security",
+    "first_seen": "2026-11-21T01:51:00.976288+00:00",
+    "published": "2026-11-20T22:04:12+00:00"
+  },
+  "https://www.phoronix.com/news/GnuPG-GPGME-Critical": {
+    "title": "GnuPG's GPGME Affected By Critical Security Bug In Turn Affecting Mail Clients, Flatpak",
+    "source": "Phoronix",
+    "first_seen": "2026-11-21T01:51:00.976288+00:00",
+    "published": "2026-11-20T20:46:51+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/how-standard-bank-group-automates-ai-risk-assessment-for-generative-ai": {
+    "title": "How Standard Bank Group automates AI risk assessment for generative AI",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-11-21T01:51:00.976288+00:00",
+    "published": "2026-11-20T20:37:31+00:00"
+  },
+  "https://blog.cloudflare.com/ruby2shell-waf-protection": {
+    "title": "How Cloudflare WAF protects against ruby2shell (CVE-2026-132825)",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-11-21T01:51:00.976288+00:00",
+    "published": "2026-11-20T20:24:38+00:00"
+  },
+  "https://www.marketscreener.com/news/us-sec-s-nvidia-probe-is-examining-potential-accounting-issues-sources-say-ce785ed3dd8ff627": {
+    "title": "US SEC's Nvidia probe is examining potential accounting issues – sources",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-21T01:51:00.976288+00:00",
+    "published": "2026-11-20T20:22:41+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/announcing-amazon-textract-insights-verifiable-generative-ai-for-documents": {
+    "title": "Announcing Amazon Textract Insights: Verifiable generative AI for documents",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-11-21T01:51:00.976288+00:00",
+    "published": "2026-11-20T20:22:00+00:00"
+  },
+  "https://github.com/diggerhq/opencomputer": {
+    "title": "Show HN: OpenComputer – an open source alternative to Devin",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-21T01:51:00.976288+00:00",
+    "published": "2026-11-20T20:19:56+00:00"
+  },
+  "https://thinkingmachines.ai/news/inkling-2-mini": {
+    "title": "Inkling 2 Mini",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-21T01:51:00.976288+00:00",
+    "published": "2026-11-20T20:12:19+00:00"
+  },
+  "https://signoregalilei.com/2026/11/20/and-yet-it-moves": {
+    "title": "And yet, it moves",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-21T01:51:00.976288+00:00",
+    "published": "2026-11-20T20:07:55+00:00"
+  },
+  "https://www.masteringemacs.org/article/announcing-dreamcoder": {
+    "title": "DreamCoder: Coding harness and IDE from the author of Mastering Emacs",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-21T01:51:00.976288+00:00",
+    "published": "2026-11-20T20:03:59+00:00"
+  },
+  "https://scottaaronson.blog?p=10344": {
+    "title": "The stochastic parrots have apparently proved the Riemann Hypothesis",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-21T01:51:00.976288+00:00",
+    "published": "2026-11-20T20:03:07+00:00"
+  },
+  "https://blog.cloudflare.com/phpaftershell-waf-protection": {
+    "title": "How Cloudflare WAF helps protect against phpAfterShell and other critical PHP flaws",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-11-21T01:51:00.976288+00:00",
+    "published": "2026-11-20T20:00:45+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.5-DRM-8TB-mmap": {
+    "title": "Intel Preps Linux 7.5 Change To Better Handle Multiple GPUs With Lots Of VRAM",
+    "source": "Phoronix",
+    "first_seen": "2026-11-21T01:51:00.976288+00:00",
+    "published": "2026-11-20T19:41:29+00:00"
+  },
+  "https://thenewstack.io/opensearch-ai-agent-observability": {
+    "title": "“We are not querying like humans anymore”: OpenSearch’s Bianca Lewis on why AI agent mistakes look like successes",
+    "source": "The New Stack",
+    "first_seen": "2026-11-21T01:51:00.976288+00:00",
+    "published": "2026-11-20T19:37:08+00:00"
+  },
+  "https://winedroid.soham.sh/demo": {
+    "title": "Winedroid – run Android apps without Android (WASM demo)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-21T01:51:00.976288+00:00",
+    "published": "2026-11-20T19:30:16+00:00"
+  },
+  "https://simonwillison.net/2026/Nov/20/ravi-vakil": {
+    "title": "Quoting Ravi Vakil",
+    "source": "Simon Willison",
+    "first_seen": "2026-11-21T01:51:00.976288+00:00",
+    "published": "2026-11-20T19:21:49+00:00"
+  },
+  "https://stratechery.com/2026/down-in-dc": {
+    "title": "2026.47: Down in DC",
+    "source": "Stratechery",
+    "first_seen": "2026-11-21T01:51:00.976288+00:00",
+    "published": "2026-11-20T19:09:57+00:00"
+  },
+  "https://aws.amazon.com/blogs/architecture/how-bee-implemented-zero-operator-access-for-personal-ai-on-aws": {
+    "title": "How Bee implemented Zero Operator Access for personal AI on AWS",
+    "source": "AWS Architecture Blog",
+    "first_seen": "2026-11-21T01:51:00.976288+00:00",
+    "published": "2026-11-20T18:49:05+00:00"
+  },
+  "https://devblogs.microsoft.com/devops/copilot-code-reviews-for-azure-repos-is-generally-available": {
+    "title": "Copilot Code Reviews for Azure Repos is generally available",
+    "source": "MS DevOps Blog",
+    "first_seen": "2026-11-21T01:51:00.976288+00:00",
+    "published": "2026-11-20T18:41:47+00:00"
+  },
+  "https://martinfowler.com/fragments/2026-11-20.html": {
+    "title": "Fragments: November 20",
+    "source": "Martin Fowler",
+    "first_seen": "2026-11-21T01:51:00.976288+00:00",
+    "published": "2026-11-20T18:38:00+00:00"
+  },
+  "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh": {
+    "title": "Hurried Announcement: Alessandro Masullo GRH",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-21T01:51:00.976288+00:00",
+    "published": "2026-11-20T18:33:14+00:00"
+  },
+  "https://manidoraisamy.com/developer-to-architect.html": {
+    "title": "We promoted developers into architects without informing them",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-21T01:51:00.976288+00:00",
+    "published": "2026-11-20T18:17:51+00:00"
+  },
+  "https://ankitg.me/blog/vibecoding-inference-chip": {
+    "title": "Vibecoding an inference chip",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-21T01:51:00.976288+00:00",
+    "published": "2026-11-20T18:15:16+00:00"
+  },
+  "https://devblogs.microsoft.com/dotnet/ai-cross-platform-decision-matrix": {
+    "title": "AI is Changing the Cross-Platform Decision Matrix",
+    "source": "MS .NET Blog",
+    "first_seen": "2026-11-21T01:51:00.976288+00:00",
+    "published": "2026-11-20T18:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/GNOME-AMD-Content-Adaptive": {
+    "title": "AMD Contributes Integration For Content-Adaptive / Adaptive Backlight Modulation To GNOME",
+    "source": "Phoronix",
+    "first_seen": "2026-11-21T01:51:00.976288+00:00",
+    "published": "2026-11-20T17:52:31+00:00"
+  },
+  "https://aws.amazon.com/blogs/security/chinese-nexus-actors-cairn-ai-agents-found-a-zero-day-on-their-own": {
+    "title": "Chinese-nexus actor’s Cairn AI agents found a zero-day on their own",
+    "source": "AWS Security Blog",
+    "first_seen": "2026-11-21T01:51:00.976288+00:00",
+    "published": "2026-11-20T17:30:13+00:00"
+  },
+  "https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis": {
+    "title": "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-21T01:51:00.976288+00:00",
+    "published": "2026-11-20T17:21:36+00:00"
+  },
+  "https://stackoverflow.blog/2026/11/20/dispatches-from-o-reilly-inside-a-software-factory": {
+    "title": "Dispatches from O'Reilly: Inside a software factory",
+    "source": "Stack Overflow Blog",
+    "first_seen": "2026-11-21T01:51:00.976288+00:00",
+    "published": "2026-11-20T17:18:38+00:00"
+  },
+  "https://cloud.google.com/blog/products/identity-security/how-to-simplify-cloud-access-with-unified-access-policies": {
+    "title": "How to simplify cloud access with Unified Access Policies, now in preview",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-11-21T01:51:00.976288+00:00",
+    "published": "2026-11-20T17:00:00+00:00"
+  },
+  "https://openai.com/index/combatting-adversarial-distillation": {
+    "title": "Combatting adversarial distillation",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-11-21T01:51:00.976288+00:00",
+    "published": "2026-11-20T10:00:00+00:00"
+  },
+  "https://openai.com/index/introducing-medchembench": {
+    "title": "Can AI help scientists identify promising drug candidates?",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-11-21T01:51:00.976288+00:00",
+    "published": "2026-11-20T00:00:00+00:00"
+  },
+  "https://openai.com/business/customer-stories/hebbia": {
+    "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-11-21T01:51:00.976288+00:00",
+    "published": "2026-11-20T00:00:00+00:00"
+  },
+  "https://machinelearning.apple.com/research/depth-pro-2-monocular": {
+    "title": "Depth Pro 2: Sharp and Temporally Consistent Metric Monocular Depth",
+    "source": "Apple ML Journal",
+    "first_seen": "2026-11-21T01:51:00.976288+00:00",
+    "published": "2026-11-20T00:00:00+00:00"
+  },
+  "https://huggingface.co/blog/inkling2mini": {
+    "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-11-21T01:51:00.976288+00:00",
+    "published": "2026-11-20T00:00:00+00:00"
   }
 }
