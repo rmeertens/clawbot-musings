@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T13:04:09Z",
+  "generated_at": "2026-11-22T13:42:43Z",
   "count": 152,
   "results": [
     {
@@ -777,9 +777,9 @@
       "raw_name": "Raphael Parkrun",
       "osm_type": "relation",
       "osm_id": 17961901,
-      "perimeter_m": 2007.5,
-      "area_m2": 37833.3,
-      "Q": 0.118,
+      "perimeter_m": 2007.8,
+      "area_m2": 37794.6,
+      "Q": 0.1178,
       "rank": 78
     },
     {
