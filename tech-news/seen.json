@@ -129800,5 +129800,449 @@
     "source": "Will Larson",
     "first_seen": "2026-11-23T01:11:41.590969+00:00",
     "published": "2026-11-22T12:00:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/security/introducing-aws-waf-simplified-pricing": {
+    "title": "Introducing AWS WAF simplified pricing",
+    "source": "AWS Security Blog",
+    "first_seen": "2026-11-23T20:39:22.982978+00:00",
+    "published": "2026-11-23T20:35:03+00:00"
+  },
+  "https://aws.amazon.com/blogs/security/introducing-api-and-ai-security-on-aws-from-discovery-to-protection": {
+    "title": "Introducing API and AI security on AWS, from discovery to protection",
+    "source": "AWS Security Blog",
+    "first_seen": "2026-11-23T20:39:22.982978+00:00",
+    "published": "2026-11-23T20:25:17+00:00"
+  },
+  "https://thenewstack.io/anthropic-claude-ship-approvals": {
+    "title": "Anthropic’s Claude Ship lets Claude approve routine pull requests",
+    "source": "The New Stack",
+    "first_seen": "2026-11-23T20:39:22.982978+00:00",
+    "published": "2026-11-23T20:24:17+00:00"
+  },
+  "https://devblogs.microsoft.com/devops/agentic-autofix-for-advanced-security-for-azure-devops-public-preview": {
+    "title": "Agentic Autofix for GitHub Advanced Security for Azure DevOps is in public preview",
+    "source": "MS DevOps Blog",
+    "first_seen": "2026-11-23T20:39:22.982978+00:00",
+    "published": "2026-11-23T20:21:42+00:00"
+  },
+  "https://thenewstack.io/deepmind-lean-quantum-verification": {
+    "title": "Google’s AI agents cut quantum computing costs 290-fold — now you can check their work",
+    "source": "The New Stack",
+    "first_seen": "2026-11-23T20:39:22.982978+00:00",
+    "published": "2026-11-23T20:08:34+00:00"
+  },
+  "https://developer.nvidia.com/blog/accelerating-direct-sparse-solvers-for-computational-engineering-with-nvidia-cudss-1-0": {
+    "title": "Accelerating Direct Sparse Solvers for Computational Engineering with NVIDIA cuDSS 1.0",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-11-23T20:39:22.982978+00:00",
+    "published": "2026-11-23T19:59:40+00:00"
+  },
+  "https://arm.jonpalmisc.com": {
+    "title": "\"Per ARM's Request, This Site Will Be Discontinued on 4 December 2026\"",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-23T20:39:22.982978+00:00",
+    "published": "2026-11-23T19:17:55+00:00"
+  },
+  "https://www.phoronix.com/news/RadeonSI-Radeon-Disable-Default": {
+    "title": "Mesa 27.0 RadeonSI Gallium3D Disables Radeon Kernel Driver Support By Default",
+    "source": "Phoronix",
+    "first_seen": "2026-11-23T20:39:22.982978+00:00",
+    "published": "2026-11-23T19:11:36+00:00"
+  },
+  "https://github.com/glushchenko/fsnotes/discussions/2056": {
+    "title": "Apple removed my open-source app from EU App Stores after 9 years",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-23T20:39:22.982978+00:00",
+    "published": "2026-11-23T18:48:10+00:00"
+  },
+  "https://thenewstack.io/zai-glm54-loop-transformer": {
+    "title": "Z.ai ran the same 28 layers twice — and claims its 750B model can rival a 3-trillion-parameter one",
+    "source": "The New Stack",
+    "first_seen": "2026-11-23T20:39:22.982978+00:00",
+    "published": "2026-11-23T18:46:42+00:00"
+  },
+  "https://devblogs.microsoft.com/dotnet/local-models-dotnet-llama-windows": {
+    "title": "Run local models in your .NET apps with Llama on Windows",
+    "source": "MS .NET Blog",
+    "first_seen": "2026-11-23T20:39:22.982978+00:00",
+    "published": "2026-11-23T18:05:00+00:00"
+  },
+  "https://devblogs.microsoft.com/devops/new-guidance-to-optimize-git-performance-in-azure-repos": {
+    "title": "New guidance to optimize Git performance in Azure Repos",
+    "source": "MS DevOps Blog",
+    "first_seen": "2026-11-23T20:39:22.982978+00:00",
+    "published": "2026-11-23T18:00:44+00:00"
+  },
+  "https://thenewstack.io/aws-strands-decider-v2": {
+    "title": "AWS launches 5 new open decision models for AI agents",
+    "source": "The New Stack",
+    "first_seen": "2026-11-23T20:39:22.982978+00:00",
+    "published": "2026-11-23T18:00:00+00:00"
+  },
+  "https://research.google/blog/supercharging-transformer-residual-connections": {
+    "title": "Supercharging transformer residual connections",
+    "source": "Google Research",
+    "first_seen": "2026-11-23T20:39:22.982978+00:00",
+    "published": "2026-11-23T17:21:12+00:00"
+  },
+  "https://huggingface.co/blog/allenai/robotrack": {
+    "title": "RoboTrack: Point tracking for real-world robotic manipulation",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-11-23T20:39:22.982978+00:00",
+    "published": "2026-11-23T17:20:37+00:00"
+  },
+  "https://www.greptile.com/blog/trex-computer-use": {
+    "title": "How should an LLM see a computer?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-23T20:39:22.982978+00:00",
+    "published": "2026-11-23T17:19:25+00:00"
+  },
+  "https://blog.kagi.com/kagi-mail-public-beta": {
+    "title": "Kagi Mail (public beta)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-23T20:39:22.982978+00:00",
+    "published": "2026-11-23T17:17:01+00:00"
+  },
+  "https://developer.nvidia.com/blog/get-started-with-gpu-accelerated-duckdb-analytics-using-the-sirius-core-extension": {
+    "title": "Get Started with GPU-Accelerated DuckDB Analytics Using the Sirius Core Extension",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-11-23T20:39:22.982978+00:00",
+    "published": "2026-11-23T17:09:28+00:00"
+  },
+  "https://twitter.com/ylecun/status/2124550037912920090": {
+    "title": "Dario is hyping the dangers so OSS models are illegal and *he* stays in control",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-23T20:39:22.982978+00:00",
+    "published": "2026-11-23T17:07:26+00:00"
+  },
+  "https://www.easypost.com/careers": {
+    "title": "EasyPost (YC S13) Is Hiring",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-23T20:39:22.982978+00:00",
+    "published": "2026-11-23T17:00:05+00:00"
+  },
+  "https://cloud.google.com/blog/products/databases/alloydb-omni-integration-with-local-models": {
+    "title": "Data + AI Anywhere: AlloyDB Omni integration with local models",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-11-23T20:39:22.982978+00:00",
+    "published": "2026-11-23T17:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/data-analytics/how-sinch-migrated-from-snowflake-to-bigquery-to-power-ai": {
+    "title": "How Sinch modernized its enterprise data warehouse from Snowflake to BigQuery to power AI",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-11-23T20:39:22.982978+00:00",
+    "published": "2026-11-23T17:00:00+00:00"
+  },
+  "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps": {
+    "title": "A more tailored Google Search that’s uniquely yours",
+    "source": "Google AI Blog",
+    "first_seen": "2026-11-23T20:39:22.982978+00:00",
+    "published": "2026-11-23T17:00:00+00:00"
+  },
+  "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification": {
+    "title": "Finding faster quantum algorithms with agents and formal verification",
+    "source": "DeepMind Blog",
+    "first_seen": "2026-11-23T20:39:22.982978+00:00",
+    "published": "2026-11-23T16:59:40+00:00"
+  },
+  "https://aws.amazon.com/blogs/security/protect-identity-data-with-point-in-time-recovery-in-amazon-cognito": {
+    "title": "Protect identity data with point-in-time recovery in Amazon Cognito",
+    "source": "AWS Security Blog",
+    "first_seen": "2026-11-23T20:39:22.982978+00:00",
+    "published": "2026-11-23T16:43:50+00:00"
+  },
+  "https://www.phoronix.com/review/amd-epyc-9006-7601": {
+    "title": "AMD EPYC Zen 6 vs. Zen 1 Performance: 12.1x Geo Mean In Less Than 10 Years, Up To 133x In AI",
+    "source": "Phoronix",
+    "first_seen": "2026-11-23T20:39:22.982978+00:00",
+    "published": "2026-11-23T16:35:50+00:00"
+  },
+  "https://www.databricks.com/blog/announcing-general-availability-native-lakebase-postgres-sink-spark-structured-streaming": {
+    "title": "Announcing General Availability of native Lakebase Postgres sink for Spark Structured Streaming",
+    "source": "Databricks Blog",
+    "first_seen": "2026-11-23T20:39:22.982978+00:00",
+    "published": "2026-11-23T16:32:10+00:00"
+  },
+  "https://blog.bytebytego.com/p/doordash-dispatch-building-a-lightning": {
+    "title": "DoorDash Dispatch: Building a Lightning-Fast Delivery System",
+    "source": "ByteByteGo",
+    "first_seen": "2026-11-23T20:39:22.982978+00:00",
+    "published": "2026-11-23T16:31:03+00:00"
+  },
+  "https://ladybird.org/posts/alpha": {
+    "title": "Ladybird is now in alpha",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-23T20:39:22.982978+00:00",
+    "published": "2026-11-23T16:13:12+00:00"
+  },
+  "https://www.phoronix.com/news/Black-Friday-Week-2026": {
+    "title": "Black Friday / End Of Year Special & The Unfortunate Ad Network Situation This Year",
+    "source": "Phoronix",
+    "first_seen": "2026-11-23T20:39:22.982978+00:00",
+    "published": "2026-11-23T16:00:00+00:00"
+  },
+  "https://kubernetes.io/blog/2026/11/23/kubernetes-v1-38-sneak-peek": {
+    "title": "Kubernetes v1.38 Sneak Peek",
+    "source": "Kubernetes Blog",
+    "first_seen": "2026-11-23T20:39:22.982978+00:00",
+    "published": "2026-11-23T16:00:00+00:00"
+  },
+  "https://thenewstack.io/palo-alto-applied-computer-elastic-honeyhive": {
+    "title": "Palo Alto and Elastic snap up AI startups. The prize? Enterprise trust and control.",
+    "source": "The New Stack",
+    "first_seen": "2026-11-23T20:39:22.982978+00:00",
+    "published": "2026-11-23T15:22:07+00:00"
+  },
+  "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1y3jzqe/cyberleek_posted_the_gta_6_xbox_build_executable": {
+    "title": "Cyberleek posted the GTA 6 Xbox build executable",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-23T20:39:22.982978+00:00",
+    "published": "2026-11-23T14:49:44+00:00"
+  },
+  "https://lwn.net/Articles/1109269": {
+    "title": "CachyOS November 2026 release",
+    "source": "LWN.net",
+    "first_seen": "2026-11-23T20:39:22.982978+00:00",
+    "published": "2026-11-23T14:21:41+00:00"
+  },
+  "https://www.phoronix.com/news/Jensen-Back-NVIDIA-CEO": {
+    "title": "Jensen Huang Reinstated As NVIDIA CEO & Board Director",
+    "source": "Phoronix",
+    "first_seen": "2026-11-23T20:39:22.982978+00:00",
+    "published": "2026-11-23T14:20:05+00:00"
+  },
+  "https://boland.dev/snet": {
+    "title": "Building a wireless network adapter for the Super Nintendo",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-23T20:39:22.982978+00:00",
+    "published": "2026-11-23T14:16:37+00:00"
+  },
+  "https://www.phoronix.com/news/Firefox-161": {
+    "title": "Firefox 161 Brings Per-Site VPN Toggling, Classic Themes Section",
+    "source": "Phoronix",
+    "first_seen": "2026-11-23T20:39:22.982978+00:00",
+    "published": "2026-11-23T14:11:54+00:00"
+  },
+  "https://lwn.net/Articles/1109268": {
+    "title": "Security updates for Monday",
+    "source": "LWN.net",
+    "first_seen": "2026-11-23T20:39:22.982978+00:00",
+    "published": "2026-11-23T14:10:48+00:00"
+  },
+  "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html": {
+    "title": "Nvidia Reinstates Jensen Huang as CEO",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-23T20:39:22.982978+00:00",
+    "published": "2026-11-23T14:00:18+00:00"
+  },
+  "https://realpython.com/langchain-tutorial": {
+    "title": "LangChain Tutorial: From Prompts to RAG and AI Agents",
+    "source": "Real Python",
+    "first_seen": "2026-11-23T20:39:22.982978+00:00",
+    "published": "2026-11-23T14:00:00+00:00"
+  },
+  "https://blog.cloudflare.com/probing-dns-at-cloudflare": {
+    "title": "Probing DNS at Cloudflare",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-11-23T20:39:22.982978+00:00",
+    "published": "2026-11-23T14:00:00+00:00"
+  },
+  "https://huggingface.co/nari-labs/Qwen3.8-27B-NariQ-GGUF": {
+    "title": "NariQ: BF16-level Qwen3.8-27B in a 10 GB file",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-23T20:39:22.982978+00:00",
+    "published": "2026-11-23T13:42:38+00:00"
+  },
+  "https://lwn.net/Articles/1108909": {
+    "title": "Seven stable kernels for Monday",
+    "source": "LWN.net",
+    "first_seen": "2026-11-23T20:39:22.982978+00:00",
+    "published": "2026-11-23T13:23:43+00:00"
+  },
+  "https://www.phoronix.com/news/XNU-Linux": {
+    "title": "XNU Linux Lets macOS Userspace Processes Run On Linux",
+    "source": "Phoronix",
+    "first_seen": "2026-11-23T20:39:22.982978+00:00",
+    "published": "2026-11-23T13:14:13+00:00"
+  },
+  "https://www.phoronix.com/news/LibreOffice-27.2-Alpha-1": {
+    "title": "LibreOffice 27.2 Alpha 1 Released For Testing",
+    "source": "Phoronix",
+    "first_seen": "2026-11-23T20:39:22.982978+00:00",
+    "published": "2026-11-23T13:04:56+00:00"
+  },
+  "https://github.com/mikuta0407/win4wine": {
+    "title": "Win4wine – Run Windows Shell as the Linux Desktop on Wine",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-23T20:39:22.982978+00:00",
+    "published": "2026-11-23T12:28:11+00:00"
+  },
+  "https://www.schneier.com/blog/archives/2026/11/humans-have-rights-machines-do-not.html": {
+    "title": "Humans Have Rights. Machines Do Not.",
+    "source": "Schneier on Security",
+    "first_seen": "2026-11-23T20:39:22.982978+00:00",
+    "published": "2026-11-23T12:00:54+00:00"
+  },
+  "https://realpython.com/quizzes/langchain-tutorial": {
+    "title": "Quiz: LangChain Tutorial: From Prompts to RAG and AI Agents",
+    "source": "Real Python",
+    "first_seen": "2026-11-23T20:39:22.982978+00:00",
+    "published": "2026-11-23T12:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/VKD3D-2.2-Released": {
+    "title": "VKD3D 2.2 Released With More Improvements For Direct3D 12 On Vulkan",
+    "source": "Phoronix",
+    "first_seen": "2026-11-23T20:39:22.982978+00:00",
+    "published": "2026-11-23T11:36:58+00:00"
+  },
+  "https://blogs.gentoo.org/mgorny/2026/10/27/the-next-circle-of-security-hell": {
+    "title": "The next circle of security hell",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-23T20:39:22.982978+00:00",
+    "published": "2026-11-23T11:34:16+00:00"
+  },
+  "https://github.com/os6/nospeaker": {
+    "title": "Nospeaker ─ Make your MacBook's trackpad talk using its haptic motor",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-23T20:39:22.982978+00:00",
+    "published": "2026-11-23T11:31:54+00:00"
+  },
+  "https://www.phoronix.com/news/Mesa-27.0-AVX-512-LLVMpipe": {
+    "title": "Mesa 27.0 Merges LLVMpipe AVX-512 Support",
+    "source": "Phoronix",
+    "first_seen": "2026-11-23T20:39:22.982978+00:00",
+    "published": "2026-11-23T11:24:55+00:00"
+  },
+  "https://stratechery.com/2026/amazon-earnings-the-chip-question-about-agents": {
+    "title": "Amazon Earnings, The Chip Question, About Agents",
+    "source": "Stratechery",
+    "first_seen": "2026-11-23T20:39:22.982978+00:00",
+    "published": "2026-11-23T11:00:00+00:00"
+  },
+  "https://z.ai/blog/glm-5.4": {
+    "title": "GLM-5.4: Toward generalized coding with our first loop transformer",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-23T20:39:22.982978+00:00",
+    "published": "2026-11-23T10:06:43+00:00"
+  },
+  "https://jola.dev/posts/you-cant-afford-ssh-keys-disk": {
+    "title": "Don't keep your SSH keys on disk",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-23T20:39:22.982978+00:00",
+    "published": "2026-11-23T09:55:38+00:00"
+  },
+  "https://openai.com/business/learn/connected-intelligence-for-in-house-legal": {
+    "title": "Connected intelligence for in-house legal",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-11-23T20:39:22.982978+00:00",
+    "published": "2026-11-23T08:00:00+00:00"
+  },
+  "https://micjm.com/blog/yes-17m-lines-of-lean-is-a-lot": {
+    "title": "Yes, 17M lines of Lean is a lot",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-23T20:39:22.982978+00:00",
+    "published": "2026-11-23T05:00:49+00:00"
+  },
+  "https://github.com/AFK-surf/xnulinux": {
+    "title": "XNU Linux: Full OS X GUI Userspace on Linux",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-23T20:39:22.982978+00:00",
+    "published": "2026-11-23T03:49:24+00:00"
+  },
+  "https://spelunkr.tv": {
+    "title": "Free alternative TV network built from the Internet Archive's forgotten videos",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-23T20:39:22.982978+00:00",
+    "published": "2026-11-23T01:13:51+00:00"
+  },
+  "https://www.thoughtworks.com/insights/blog/technology-strategy/hackathon-pipeline": {
+    "title": "We started a hackathon; we got a pipeline",
+    "source": "ThoughtWorks",
+    "first_seen": "2026-11-23T20:39:22.982978+00:00",
+    "published": "2026-11-23T00:00:00+00:00"
+  },
+  "https://www.thoughtworks.com/insights/blog/generative-ai/understanding-context-development-lifecycle": {
+    "title": "Understanding the context development lifecycle",
+    "source": "ThoughtWorks",
+    "first_seen": "2026-11-23T20:39:22.982978+00:00",
+    "published": "2026-11-23T00:00:00+00:00"
+  },
+  "https://www.elastic.co/blog/whats-new-elastic-9-6-0": {
+    "title": "Elastic 9.6: AlertZero, ES|QL S3 Data Federation, Universal Alerting, and more!",
+    "source": "Elastic Blog",
+    "first_seen": "2026-11-23T20:39:22.982978+00:00",
+    "published": "2026-11-23T00:00:00+00:00"
+  },
+  "https://www.elastic.co/blog/iron-mountain-enterprise-search": {
+    "title": "From scattered searches to instant insight: Why Iron Mountain unified its enterprise search with Elastic",
+    "source": "Elastic Blog",
+    "first_seen": "2026-11-23T20:39:22.982978+00:00",
+    "published": "2026-11-23T00:00:00+00:00"
+  },
+  "https://www.elastic.co/blog/elastic-stack-9-5-7-released": {
+    "title": "Elastic Stack 9.5.7 released",
+    "source": "Elastic Blog",
+    "first_seen": "2026-11-23T20:39:22.982978+00:00",
+    "published": "2026-11-23T00:00:00+00:00"
+  },
+  "https://www.elastic.co/blog/elastic-stack-9-4-10-released": {
+    "title": "Elastic Stack 9.4.10 released",
+    "source": "Elastic Blog",
+    "first_seen": "2026-11-23T20:39:22.982978+00:00",
+    "published": "2026-11-23T00:00:00+00:00"
+  },
+  "https://www.elastic.co/blog/elastic-stack-8-19-26-released": {
+    "title": "Elastic Stack 8.19.26 released",
+    "source": "Elastic Blog",
+    "first_seen": "2026-11-23T20:39:22.982978+00:00",
+    "published": "2026-11-23T00:00:00+00:00"
+  },
+  "https://planetscale.com/blog/why-you-shouldnt-do-app-level-sharding": {
+    "title": "Why you shouldn't do application-level sharding",
+    "source": "PlanetScale Blog",
+    "first_seen": "2026-11-23T20:39:22.982978+00:00",
+    "published": "2026-11-23T00:00:00+00:00"
+  },
+  "https://huggingface.co/blog/agentic-evals": {
+    "title": "How to build and maintain an agentic evaluation",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-11-23T20:39:22.982978+00:00",
+    "published": "2026-11-23T00:00:00+00:00"
+  },
+  "https://fly.io/blog/holding-the-door-for-agents": {
+    "title": "Holding the Door for Agents",
+    "source": "Fly.io Blog",
+    "first_seen": "2026-11-23T20:39:22.982978+00:00",
+    "published": "2026-11-23T00:00:00+00:00"
+  },
+  "https://engineering.grab.com/replaying-merged-changes-knowledge-base-coding-agents-better": {
+    "title": "Replaying merged changes: how we test whether a knowledge base makes coding agents better",
+    "source": "Grab Tech",
+    "first_seen": "2026-11-23T20:39:22.982978+00:00",
+    "published": "2026-11-23T00:00:00+00:00"
+  },
+  "https://engineering.grab.com/part-1-ads-simulation-blogpost": {
+    "title": "Part 1: Simulation-first AI experimentation for ads at Grab",
+    "source": "Grab Tech",
+    "first_seen": "2026-11-23T20:39:22.982978+00:00",
+    "published": "2026-11-23T00:00:00+00:00"
+  },
+  "https://engineering.grab.com/how-grab-built-scarlet-blog": {
+    "title": "How Grab built Scarlet: the AI teammate that turns a Slack message into a production data pipeline",
+    "source": "Grab Tech",
+    "first_seen": "2026-11-23T20:39:22.982978+00:00",
+    "published": "2026-11-23T00:00:00+00:00"
+  },
+  "https://discord.com/blog/introducing-auto-clips": {
+    "title": "Introducing Auto Clips: Just Play the Game, We’ll Save the Clip",
+    "source": "Discord Engineering",
+    "first_seen": "2026-11-23T20:39:22.982978+00:00",
+    "published": "2026-11-23T00:00:00+00:00"
+  },
+  "https://realpython.com/top-python-game-engines": {
+    "title": "Top Python Game Engines",
+    "source": "Real Python",
+    "first_seen": "2026-11-23T20:39:22.982978+00:00",
+    "published": "2026-11-22T14:00:00+00:00"
   }
 }
