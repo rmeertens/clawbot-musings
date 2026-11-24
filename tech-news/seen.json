@@ -130442,5 +130442,413 @@
     "source": "Nuxt Blog",
     "first_seen": "2026-11-24T05:01:40.752834+00:00",
     "published": "2026-11-23T00:00:00+00:00"
+  },
+  "https://thenewstack.io/confluent-kafka-rust-agents": {
+    "title": "Confluent spent 3 months rewriting Kafka’s Java client in Rust with AI — and had to start over",
+    "source": "The New Stack",
+    "first_seen": "2026-11-24T19:45:20.950699+00:00",
+    "published": "2026-11-24T19:26:18+00:00"
+  },
+  "https://newsletter.pragmaticengineer.com/p/the-pragmatic-engineer-essay-challenge": {
+    "title": "The Pragmatic Engineer Essay Challenge: Category Winners (Part 1)",
+    "source": "The Pragmatic Engineer",
+    "first_seen": "2026-11-24T19:45:20.950699+00:00",
+    "published": "2026-11-24T19:16:38+00:00"
+  },
+  "https://protocolis.co/paper": {
+    "title": "Compiling Web Applications into Verified Operations for AI Agents",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-24T19:45:20.950699+00:00",
+    "published": "2026-11-24T19:12:02+00:00"
+  },
+  "https://charlie.fish/posts/2026/11/what-cloudflare-doesnt-tell-you": {
+    "title": "What Cloudflare Doesn't Tell You",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-24T19:45:20.950699+00:00",
+    "published": "2026-11-24T19:03:55+00:00"
+  },
+  "https://engelsbergideas.com/notebook/irans-quest-for-its-own-monroe-doctrine": {
+    "title": "Iran's quest for its own Monroe Doctrine",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-24T19:45:20.950699+00:00",
+    "published": "2026-11-24T18:58:59+00:00"
+  },
+  "https://github.com/openai/math/tree/main/preprints/VP-and-VNP-are-different-November-23-2026": {
+    "title": "OpenAI reveals they solved VP ≠ VNP before Anthropic",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-24T19:45:20.950699+00:00",
+    "published": "2026-11-24T18:55:12+00:00"
+  },
+  "https://developer.nvidia.com/blog/how-to-run-nvidia-cosmos-3-on-local-ai-devices-using-hugging-face-diffusers": {
+    "title": "How to Run NVIDIA Cosmos 3 on Local AI Devices Using Hugging Face Diffusers",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-11-24T19:45:20.950699+00:00",
+    "published": "2026-11-24T18:44:05+00:00"
+  },
+  "https://aws.amazon.com/blogs/security/aws-completed-its-second-iso-iec-420012023-surveillance-audit": {
+    "title": "AWS completed its second ISO/IEC 42001:2023 surveillance audit",
+    "source": "AWS Security Blog",
+    "first_seen": "2026-11-24T19:45:20.950699+00:00",
+    "published": "2026-11-24T18:32:21+00:00"
+  },
+  "https://thenewstack.io/claude-ship-automated-approvals": {
+    "title": "Anthropic let AI agents review each other’s code — one PR got stuck in a 50+ round loop overnight",
+    "source": "The New Stack",
+    "first_seen": "2026-11-24T19:45:20.950699+00:00",
+    "published": "2026-11-24T18:15:59+00:00"
+  },
+  "https://thenewstack.io/mcp-skills-tasks-claude": {
+    "title": "As MCP turns two, Claude gets Skills over MCP and better support for long-running tasks",
+    "source": "The New Stack",
+    "first_seen": "2026-11-24T19:45:20.950699+00:00",
+    "published": "2026-11-24T18:08:34+00:00"
+  },
+  "https://devblogs.microsoft.com/dotnet/document-extraction-dotnet-preview": {
+    "title": "Introducing DocumentExtractionClient (preview): Extract documents in .NET",
+    "source": "MS .NET Blog",
+    "first_seen": "2026-11-24T19:45:20.950699+00:00",
+    "published": "2026-11-24T18:05:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/security/aws-achieves-spains-national-limited-distribution-difusion-limitada-and-nato-restricted-accreditation-in-the-aws-europe-spain-region": {
+    "title": "AWS achieves Spain’s national Limited Distribution (Difusión Limitada) and NATO Restricted accreditation in the AWS Europe (Spain) Region",
+    "source": "AWS Security Blog",
+    "first_seen": "2026-11-24T19:45:20.950699+00:00",
+    "published": "2026-11-24T17:38:00+00:00"
+  },
+  "https://thenewstack.io/kubernetes-gpu-inference-startup": {
+    "title": "Getting a GPU is only the beginning. Ask AWS EKS.",
+    "source": "The New Stack",
+    "first_seen": "2026-11-24T19:45:20.950699+00:00",
+    "published": "2026-11-24T17:17:12+00:00"
+  },
+  "https://www.reuters.com/business/microsoft-declares-code-red-after-historic-outage-internal-memos-show-2026-11-24": {
+    "title": "Microsoft declares 'Code Red' after historic outage, internal memos show",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-24T19:45:20.950699+00:00",
+    "published": "2026-11-24T17:07:41+00:00"
+  },
+  "https://developer.nvidia.com/blog/whats-new-for-game-developers-ai-animation-and-rtx-tools": {
+    "title": "What’s New for Game Developers: AI Animation and RTX Tools",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-11-24T19:45:20.950699+00:00",
+    "published": "2026-11-24T17:00:00+00:00"
+  },
+  "https://developer.nvidia.com/blog/prepare-market-data-for-forecasting-with-nvidia-megatron-core": {
+    "title": "Prepare Market Data for Forecasting with NVIDIA Megatron Core",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-11-24T19:45:20.950699+00:00",
+    "published": "2026-11-24T17:00:00+00:00"
+  },
+  "https://cloud.google.com/blog/products/identity-security/deploying-agents-safely-in-your-enterprise": {
+    "title": "Built for trust and control: Powering the next wave of AI agents across Google Workspace and Google Cloud",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-11-24T19:45:20.950699+00:00",
+    "published": "2026-11-24T17:00:00+00:00"
+  },
+  "https://simonwillison.net/2026/Nov/24/astra-historical-mystery": {
+    "title": "GPT 6.2 Astra Solves a Historical Mystery",
+    "source": "Simon Willison",
+    "first_seen": "2026-11-24T19:45:20.950699+00:00",
+    "published": "2026-11-24T16:53:59+00:00"
+  },
+  "https://news.ycombinator.com/item?id=50630809": {
+    "title": "Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-24T19:45:20.950699+00:00",
+    "published": "2026-11-24T16:45:44+00:00"
+  },
+  "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance": {
+    "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-11-24T19:45:20.950699+00:00",
+    "published": "2026-11-24T16:34:13+00:00"
+  },
+  "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign": {
+    "title": "Active Intrusion Campaign Against Check Point Security Management Servers",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-24T19:45:20.950699+00:00",
+    "published": "2026-11-24T16:32:17+00:00"
+  },
+  "https://stackoverflow.blog/2026/11/24/prompt-injection-fixes-need-regression-tests": {
+    "title": "Prompt Injection Fixes Need Regression Tests",
+    "source": "Stack Overflow Blog",
+    "first_seen": "2026-11-24T19:45:20.950699+00:00",
+    "published": "2026-11-24T16:24:41+00:00"
+  },
+  "http://hypercritical.co/2026/11/23/jetty-pro": {
+    "title": "Jetty Pro",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-24T19:45:20.950699+00:00",
+    "published": "2026-11-24T16:23:02+00:00"
+  },
+  "https://www.worksinprogress.news/p/how-to-make-a-lovable-city": {
+    "title": "Camillo Sitte made the blueprint for beautiful cities",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-24T19:45:20.950699+00:00",
+    "published": "2026-11-24T16:19:55+00:00"
+  },
+  "https://lwn.net/Articles/1109478": {
+    "title": "Firefox 161.0 released",
+    "source": "LWN.net",
+    "first_seen": "2026-11-24T19:45:20.950699+00:00",
+    "published": "2026-11-24T16:18:02+00:00"
+  },
+  "https://www.phoronix.com/news/Ubuntu-AI-Desktop-Interact": {
+    "title": "Ubuntu Outlines Plans For Its AI-Powered New Way To Interact With The Ubuntu Desktop",
+    "source": "Phoronix",
+    "first_seen": "2026-11-24T19:45:20.950699+00:00",
+    "published": "2026-11-24T16:12:00+00:00"
+  },
+  "https://masondata.ai": {
+    "title": "Show HN: Mason – a lightweight Postgres read-replica, built on columnar storage",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-24T19:45:20.950699+00:00",
+    "published": "2026-11-24T16:11:52+00:00"
+  },
+  "https://www.upi.com/Top_News/US/2026/11/24/NVIDIA-partner-Megaspeed/1701795520063": {
+    "title": "Ex-Nvidia partner Megaspeed hit with U.S. Commerce Department export ban",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-24T19:45:20.950699+00:00",
+    "published": "2026-11-24T16:08:29+00:00"
+  },
+  "https://github.blog/news-insights/company-news/these-are-the-gifts-developers-will-actually-want": {
+    "title": "These are the gifts developers will actually want",
+    "source": "GitHub Blog",
+    "first_seen": "2026-11-24T19:45:20.950699+00:00",
+    "published": "2026-11-24T16:00:00+00:00"
+  },
+  "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state": {
+    "title": "How Gemini is changing the game for Golden State's organization and fans.",
+    "source": "Google AI Blog",
+    "first_seen": "2026-11-24T19:45:20.950699+00:00",
+    "published": "2026-11-24T16:00:00+00:00"
+  },
+  "https://stackoverflow.blog/2026/11/24/a-reboot-is-still-a-deployment": {
+    "title": "A Reboot Is Still a Deployment",
+    "source": "Stack Overflow Blog",
+    "first_seen": "2026-11-24T19:45:20.950699+00:00",
+    "published": "2026-11-24T15:52:06+00:00"
+  },
+  "https://arxiv.org/abs/2611.30835": {
+    "title": "The KL Divergence Is Never Negative, Except in PyTorch",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-24T19:45:20.950699+00:00",
+    "published": "2026-11-24T15:50:22+00:00"
+  },
+  "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-local-zone-in-bogota-30-minute-lambda-timeout-and-more-november-24-2026": {
+    "title": "AWS Weekly Roundup: Local Zone in Bogotá, 30-minute Lambda timeout, and more (November 24, 2026)",
+    "source": "AWS Blog",
+    "first_seen": "2026-11-24T19:45:20.950699+00:00",
+    "published": "2026-11-24T15:39:59+00:00"
+  },
+  "https://www.phoronix.com/review/ubuntu-2610-dell-xps-14": {
+    "title": "Ubuntu 26.10 Provides Some Performance Gains For Intel Panther Lake On The Dell XPS 14",
+    "source": "Phoronix",
+    "first_seen": "2026-11-24T19:45:20.950699+00:00",
+    "published": "2026-11-24T15:35:30+00:00"
+  },
+  "https://www.wsj.com/arts-culture/books/castles-review-playing-defense-da10d776?st=tR9KT4&reflink=desktopwebshare_permalink": {
+    "title": "'Castles' Review",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-24T19:45:20.950699+00:00",
+    "published": "2026-11-24T15:24:29+00:00"
+  },
+  "https://github.com/sous-labs/songe": {
+    "title": "A training engine for your local model, using your idle compute",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-24T19:45:20.950699+00:00",
+    "published": "2026-11-24T15:03:40+00:00"
+  },
+  "https://cloud.google.com/blog/products/chrome-enterprise/enabling-zero-trust-allens-move-to-chrome-enterprise-premium": {
+    "title": "Enabling zero trust: ALLEN’s move to Chrome Enterprise Premium",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-11-24T19:45:20.950699+00:00",
+    "published": "2026-11-24T15:02:00+00:00"
+  },
+  "https://www.frankchiarulli.com/blog/splitting-usb-c": {
+    "title": "Splitting USB-C: USB 3 and USB 2 on one port",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-24T19:45:20.950699+00:00",
+    "published": "2026-11-24T14:54:10+00:00"
+  },
+  "https://www.phoronix.com/news/Collabora-Online-Half-Memory": {
+    "title": "Collabora Online Sharply Reduces Server Memory Use With New Optimization",
+    "source": "Phoronix",
+    "first_seen": "2026-11-24T19:45:20.950699+00:00",
+    "published": "2026-11-24T14:50:00+00:00"
+  },
+  "https://lwn.net/Articles/1109472": {
+    "title": "Security updates for Tuesday",
+    "source": "LWN.net",
+    "first_seen": "2026-11-24T19:45:20.950699+00:00",
+    "published": "2026-11-24T14:03:12+00:00"
+  },
+  "https://realpython.com/python-conditional-statements": {
+    "title": "Conditional Statements in Python",
+    "source": "Real Python",
+    "first_seen": "2026-11-24T19:45:20.950699+00:00",
+    "published": "2026-11-24T14:00:00+00:00"
+  },
+  "https://realpython.com/k-means-clustering-python": {
+    "title": "K-Means Clustering in Python: A Practical Guide",
+    "source": "Real Python",
+    "first_seen": "2026-11-24T19:45:20.950699+00:00",
+    "published": "2026-11-24T14:00:00+00:00"
+  },
+  "https://realpython.com/courses/build-ai-agent-scratch-python": {
+    "title": "Build an AI Agent From Scratch in Python",
+    "source": "Real Python",
+    "first_seen": "2026-11-24T19:45:20.950699+00:00",
+    "published": "2026-11-24T14:00:00+00:00"
+  },
+  "https://developer.nvidia.com/blog/qa-how-everstone-brings-where-winds-meet-to-life-with-nvidia-dlss-5": {
+    "title": "Q&A: How Everstone Brings Where Winds Meet to Life with NVIDIA DLSS 5",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-11-24T19:45:20.950699+00:00",
+    "published": "2026-11-24T14:00:00+00:00"
+  },
+  "https://www.allthingsdistributed.com/2026/11/tech-predictions-for-2027-and-beyond.html?utm_campaign=inbound&utm_source=rss": {
+    "title": "Tech predictions for 2027 and beyond",
+    "source": "All Things Distributed",
+    "first_seen": "2026-11-24T19:45:20.950699+00:00",
+    "published": "2026-11-24T13:30:00+00:00"
+  },
+  "https://www.phoronix.com/news/TornadoVM-8.2": {
+    "title": "TornadoVM 8.2 Released With ROCm HIP Backend For AMD GPUs",
+    "source": "Phoronix",
+    "first_seen": "2026-11-24T19:45:20.950699+00:00",
+    "published": "2026-11-24T13:24:22+00:00"
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading": {
+    "title": "Anthropic breaks below $83 IPO price",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-24T19:45:20.950699+00:00",
+    "published": "2026-11-24T13:23:47+00:00"
+  },
+  "https://twitter.com/raul_bs3/status/2125213756238291075": {
+    "title": "GTA 6 Running on Windows",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-24T19:45:20.950699+00:00",
+    "published": "2026-11-24T13:19:31+00:00"
+  },
+  "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you": {
+    "title": "LLM agents work for their parent companies, not for you",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-24T19:45:20.950699+00:00",
+    "published": "2026-11-24T12:40:15+00:00"
+  },
+  "https://thenewstack.io/openclaw-vincent-koc-interview": {
+    "title": "OpenClaw at one: its chief architect on a year of explosive growth, wooing the enterprise, and being Meta’s muse",
+    "source": "The New Stack",
+    "first_seen": "2026-11-24T19:45:20.950699+00:00",
+    "published": "2026-11-24T12:39:32+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.4-rc5-HID": {
+    "title": "HID Patches For Linux 7.4-rc5 Bring AI Fixes Plus New Hardware",
+    "source": "Phoronix",
+    "first_seen": "2026-11-24T19:45:20.950699+00:00",
+    "published": "2026-11-24T12:08:19+00:00"
+  },
+  "https://www.schneier.com/blog/archives/2026/11/we-get-the-infrastructure-we-pay-for.html": {
+    "title": "We Get the Infrastructure We Pay For",
+    "source": "Schneier on Security",
+    "first_seen": "2026-11-24T19:45:20.950699+00:00",
+    "published": "2026-11-24T12:06:50+00:00"
+  },
+  "https://thenewstack.io/vercel-audited-zdr-inference": {
+    "title": "Vercel will make AI providers prove they don’t keep prompts. Here’s why it matters for developers.",
+    "source": "The New Stack",
+    "first_seen": "2026-11-24T19:45:20.950699+00:00",
+    "published": "2026-11-24T12:00:00+00:00"
+  },
+  "https://realpython.com/quizzes/python-conditional-statements": {
+    "title": "Quiz: Python Conditional Statements",
+    "source": "Real Python",
+    "first_seen": "2026-11-24T19:45:20.950699+00:00",
+    "published": "2026-11-24T12:00:00+00:00"
+  },
+  "https://realpython.com/quizzes/plotting-declarative-charts-with-altair": {
+    "title": "Quiz: Plotting Declarative Charts With Altair",
+    "source": "Real Python",
+    "first_seen": "2026-11-24T19:45:20.950699+00:00",
+    "published": "2026-11-24T12:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/zlib-rs-0.6.9": {
+    "title": "zlib-rs 0.6.9 Released With Performance Improvements",
+    "source": "Phoronix",
+    "first_seen": "2026-11-24T19:45:20.950699+00:00",
+    "published": "2026-11-24T11:11:56+00:00"
+  },
+  "https://stratechery.com/2026/the-individual-exception": {
+    "title": "The Individual Exception",
+    "source": "Stratechery",
+    "first_seen": "2026-11-24T19:45:20.950699+00:00",
+    "published": "2026-11-24T11:00:00+00:00"
+  },
+  "https://openai.com/index/searching-for-distant-planets-with-astra": {
+    "title": "Searching for distant planets with Astra",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-11-24T19:45:20.950699+00:00",
+    "published": "2026-11-24T11:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/SUSE-Agama-Adding-AI-MCP": {
+    "title": "SUSE Rolling Out \"The First AI-Ready OS Installer\"",
+    "source": "Phoronix",
+    "first_seen": "2026-11-24T19:45:20.950699+00:00",
+    "published": "2026-11-24T10:58:14+00:00"
+  },
+  "https://fzakaria.com/2026/11/12/worshipping-at-the-altar-of-brendan-gregg": {
+    "title": "Worshipping at the altar of Brendan Gregg",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-24T19:45:20.950699+00:00",
+    "published": "2026-11-24T10:50:14+00:00"
+  },
+  "https://www.phoronix.com/news/Proton-11.0-3-Released": {
+    "title": "Proton 11.0-3 Released For Valve's Steam Play With More Games Now Playable",
+    "source": "Phoronix",
+    "first_seen": "2026-11-24T19:45:20.950699+00:00",
+    "published": "2026-11-24T10:23:41+00:00"
+  },
+  "https://blog.sentry.io/expo-router-react-native-sdk": {
+    "title": "More ways to debug Expo apps with the React Native SDK",
+    "source": "Sentry Blog",
+    "first_seen": "2026-11-24T19:45:20.950699+00:00",
+    "published": "2026-11-24T09:00:00+00:00"
+  },
+  "https://simonwillison.net/2026/Nov/24/datasette-charts": {
+    "title": "datasette-charts 0.2a0",
+    "source": "Simon Willison",
+    "first_seen": "2026-11-24T19:45:20.950699+00:00",
+    "published": "2026-11-24T04:24:29+00:00"
+  },
+  "https://www.redpanda.com/blog/ai-agents-gitops-agentic-data-plane": {
+    "title": "Manage AI agents like code with GitOps",
+    "source": "Redpanda Blog",
+    "first_seen": "2026-11-24T19:45:20.950699+00:00",
+    "published": "2026-11-24T00:00:00+00:00"
+  },
+  "https://openai.com/business/customer-stories/intentful-dots": {
+    "title": "How Intentful uses dots to make more time for growth",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-11-24T19:45:20.950699+00:00",
+    "published": "2026-11-24T00:00:00+00:00"
+  },
+  "https://openai.com/business/customer-stories/ifood": {
+    "title": "How iFood scales coding agents across 15,000 repositories",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-11-24T19:45:20.950699+00:00",
+    "published": "2026-11-24T00:00:00+00:00"
+  },
+  "https://discord.com/blog/black-friday-2026": {
+    "title": "Black Friday Has Taken Over Discord",
+    "source": "Discord Engineering",
+    "first_seen": "2026-11-24T19:45:20.950699+00:00",
+    "published": "2026-11-24T00:00:00+00:00"
+  },
+  "https://www.hashicorp.com/blog/terraform-introduces-tfpolicy-support-for-stacks-scim-support-and-more": {
+    "title": "Terraform introduces tfpolicy support for Stacks, SCIM support, and more",
+    "source": "HashiCorp Blog",
+    "first_seen": "2026-11-24T19:45:20.950699+00:00",
+    "published": "2026-11-23T19:00:00+00:00"
   }
 }
