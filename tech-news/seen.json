@@ -130244,5 +130244,203 @@
     "source": "Real Python",
     "first_seen": "2026-11-23T20:39:22.982978+00:00",
     "published": "2026-11-22T14:00:00+00:00"
+  },
+  "https://stackoverflow.blog/2026/11/24/agent-swarms-need-more-than-a-message-board": {
+    "title": "Agent swarms need more than a message board",
+    "source": "Stack Overflow Blog",
+    "first_seen": "2026-11-24T05:01:40.752834+00:00",
+    "published": "2026-11-24T08:40:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/introducing-the-amazon-bedrock-trusted-access-api-with-anthropics-enterprise-frontier-safeguards-and-enterprise-data-controls": {
+    "title": "Introducing the Amazon Bedrock Trusted Access API with Anthropic’s Enterprise Frontier Safeguards and Enterprise Data Controls",
+    "source": "AWS ML Blog",
+    "first_seen": "2026-11-24T05:01:40.752834+00:00",
+    "published": "2026-11-24T05:01:14+00:00"
+  },
+  "https://salvageyarddrone.wordpress.com": {
+    "title": "Drone Maps of Salvage Yards",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-24T05:01:40.752834+00:00",
+    "published": "2026-11-24T04:00:28+00:00"
+  },
+  "https://simonwillison.net/2026/Nov/24/datasette-agent": {
+    "title": "datasette-agent 0.7a1",
+    "source": "Simon Willison",
+    "first_seen": "2026-11-24T05:01:40.752834+00:00",
+    "published": "2026-11-24T03:45:57+00:00"
+  },
+  "https://juncts.com/app?demo=1&utm_source=hackernews&utm_medium=launch&utm_campaign=launch-nov26": {
+    "title": "Show HN: Juncts, one DM inbox for five apps that Claude and ChatGPT can work in",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-24T05:01:40.752834+00:00",
+    "published": "2026-11-24T03:16:58+00:00"
+  },
+  "https://qsantos.fr/2026/11/20/hacking-radiators-for-fun-and-no-profit": {
+    "title": "Hacking radiators",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-24T05:01:40.752834+00:00",
+    "published": "2026-11-24T02:56:41+00:00"
+  },
+  "https://aws.amazon.com/blogs/security/know-the-identity-behind-the-role-authorize-and-audit-with-trusted-identity-propagation": {
+    "title": "Know the identity behind the role: Authorize and audit with trusted identity propagation",
+    "source": "AWS Security Blog",
+    "first_seen": "2026-11-24T05:01:40.752834+00:00",
+    "published": "2026-11-24T02:52:38+00:00"
+  },
+  "https://qsantos.fr/2026/11/19/making-a-dumb-tv-just-smart-enough": {
+    "title": "Making a dumb TV just smart enough",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-24T05:01:40.752834+00:00",
+    "published": "2026-11-24T02:46:54+00:00"
+  },
+  "https://davidtemkin.github.io/declarelang": {
+    "title": "Declare is a UI language for you and your AI",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-24T05:01:40.752834+00:00",
+    "published": "2026-11-24T02:36:56+00:00"
+  },
+  "https://www.governor.ny.gov/news/money-your-pockets-governor-hochul-signs-bill-restricting-exploitative-vehicle-subscription": {
+    "title": "New York Bans Subscription and Post-Purchase Fees on Cars",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-24T05:01:40.752834+00:00",
+    "published": "2026-11-24T02:27:02+00:00"
+  },
+  "https://wgna.com/car-bill-extra-fees": {
+    "title": "New York Bans Subscription and Post-Purchase Fees on Cars",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-24T05:01:40.752834+00:00",
+    "published": "2026-11-24T02:26:23+00:00"
+  },
+  "https://www.phoronix.com/news/Mesa-NVK-TTU-Instructions": {
+    "title": "Mesa's NVK NVIDIA Driver Another Step Closer To Vulkan Ray-Tracing",
+    "source": "Phoronix",
+    "first_seen": "2026-11-24T05:01:40.752834+00:00",
+    "published": "2026-11-24T01:52:24+00:00"
+  },
+  "https://www.databricks.com/blog/sharing-catalog-metadata-across-data-platforms-engines-and-agents": {
+    "title": "Sharing catalog metadata across data platforms, engines, and agents",
+    "source": "Databricks Blog",
+    "first_seen": "2026-11-24T05:01:40.752834+00:00",
+    "published": "2026-11-24T01:30:00+00:00"
+  },
+  "https://www.science.org/doi/10.1126/scisignal.aef1375": {
+    "title": "Alcohol use reduces efficacy of immunotherapy by disrupting antitumor immunity",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-24T05:01:40.752834+00:00",
+    "published": "2026-11-24T00:53:46+00:00"
+  },
+  "https://cobalt27.dev": {
+    "title": "The Power of GraphQL, Without GraphQL",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-24T05:01:40.752834+00:00",
+    "published": "2026-11-24T00:03:59+00:00"
+  },
+  "https://simonwillison.net/2026/Nov/23/glm-54": {
+    "title": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
+    "source": "Simon Willison",
+    "first_seen": "2026-11-24T05:01:40.752834+00:00",
+    "published": "2026-11-23T23:40:49+00:00"
+  },
+  "https://www.smithsonianmag.com/science-nature/the-search-for-a-top-dark-matter-candidate-was-losing-hope-then-came-a-potential-signal-will-it-be-enough-to-energize-the-struggling-field-180989923": {
+    "title": "The search for a top dark matter candidate",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-24T05:01:40.752834+00:00",
+    "published": "2026-11-23T23:12:40+00:00"
+  },
+  "https://viktorkrapivin.com/blog/nano5g-priv-prvd": {
+    "title": "Freeing the iPod Nano 5G",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-24T05:01:40.752834+00:00",
+    "published": "2026-11-23T23:03:13+00:00"
+  },
+  "https://www.phoronix.com/news/Zstandard-Zstd-1.6": {
+    "title": "Zstd 1.6 Released With Many Fixes, New Performance Optimizations",
+    "source": "Phoronix",
+    "first_seen": "2026-11-24T05:01:40.752834+00:00",
+    "published": "2026-11-23T23:00:32+00:00"
+  },
+  "https://stalw.art/blog/microsoft-exchange-replacement": {
+    "title": "Stalwart is now a drop-in replacement for Microsoft Exchange",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-24T05:01:40.752834+00:00",
+    "published": "2026-11-23T22:32:29+00:00"
+  },
+  "https://arxiv.org/abs/2602.20031": {
+    "title": "Latent Introspection: LLMs Can Detect Prior Concept Injections",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-24T05:01:40.752834+00:00",
+    "published": "2026-11-23T22:29:48+00:00"
+  },
+  "https://github.com/anthropics/formal-math/tree/main/vp-vnp": {
+    "title": "VP ≠ VNP over Every Field",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-24T05:01:40.752834+00:00",
+    "published": "2026-11-23T22:09:10+00:00"
+  },
+  "https://simonwillison.net/2026/Nov/23/ladybird": {
+    "title": "Ladybird's first alpha release",
+    "source": "Simon Willison",
+    "first_seen": "2026-11-24T05:01:40.752834+00:00",
+    "published": "2026-11-23T21:46:35+00:00"
+  },
+  "https://openai.com/index/introducing-shirudo": {
+    "title": "OpenAI and Cisco introduce Shirudo",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-11-24T05:01:40.752834+00:00",
+    "published": "2026-11-23T21:20:00+00:00"
+  },
+  "https://www.bored.com": {
+    "title": "Bored.com: Fun, interesting and cool websites to explore when bored",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-24T05:01:40.752834+00:00",
+    "published": "2026-11-23T21:01:16+00:00"
+  },
+  "https://www.phoronix.com/news/Ladybird-Browser-Alpha": {
+    "title": "Ladybird Web Browser/Engine Reaches Alpha",
+    "source": "Phoronix",
+    "first_seen": "2026-11-24T05:01:40.752834+00:00",
+    "published": "2026-11-23T21:00:14+00:00"
+  },
+  "https://github.com/zed-industries/gpui": {
+    "title": "GPUI is getting its own repository",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-24T05:01:40.752834+00:00",
+    "published": "2026-11-23T20:52:54+00:00"
+  },
+  "https://www.databricks.com/blog/what-5400-malicious-npm-packages-reveal-about-software-supply-chain-risk-2026": {
+    "title": "What 5,400 Malicious npm Packages Reveal about Software Supply Chain Risk in 2026",
+    "source": "Databricks Blog",
+    "first_seen": "2026-11-24T05:01:40.752834+00:00",
+    "published": "2026-11-23T20:47:23+00:00"
+  },
+  "https://cloud.google.com/blog/products/identity-security/google-is-named-a-leader-in-the-2026-gartner-magic-quadrant-for-siem": {
+    "title": "Google is named a Leader in the 2026 Gartner® Magic Quadrant™ for SIEM",
+    "source": "Google Cloud Blog",
+    "first_seen": "2026-11-24T05:01:40.752834+00:00",
+    "published": "2026-11-23T17:00:00+00:00"
+  },
+  "https://neon.com/blog/add-files-to-your-branches": {
+    "title": "Add files to your branches",
+    "source": "Neon Blog",
+    "first_seen": "2026-11-24T05:01:40.752834+00:00",
+    "published": "2026-11-23T12:00:00+00:00"
+  },
+  "https://openai.com/business/customer-stories/richpanel-ai-customer-support": {
+    "title": "Richpanel helps companies automate 50% of support in 30 days",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-11-24T05:01:40.752834+00:00",
+    "published": "2026-11-23T08:00:00+00:00"
+  },
+  "https://simonwillison.net/2026/Nov/23/datasette-charts": {
+    "title": "datasette-charts 0.1a0",
+    "source": "Simon Willison",
+    "first_seen": "2026-11-24T05:01:40.752834+00:00",
+    "published": "2026-11-23T00:37:20+00:00"
+  },
+  "https://nuxt.com/blog/v4-7": {
+    "title": "Nuxt 4.7",
+    "source": "Nuxt Blog",
+    "first_seen": "2026-11-24T05:01:40.752834+00:00",
+    "published": "2026-11-23T00:00:00+00:00"
   }
 }
