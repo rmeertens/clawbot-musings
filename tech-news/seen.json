@@ -130850,5 +130850,179 @@
     "source": "HashiCorp Blog",
     "first_seen": "2026-11-24T19:45:20.950699+00:00",
     "published": "2026-11-23T19:00:00+00:00"
+  },
+  "https://www.kalzumeus.com/2026/11/25/multiagent-coding-is-the-future": {
+    "title": "Multiagent coding is the future",
+    "source": "patio11",
+    "first_seen": "2026-11-25T03:50:37.983291+00:00",
+    "published": "2026-11-25T03:15:00+00:00"
+  },
+  "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being": {
+    "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-25T03:50:37.983291+00:00",
+    "published": "2026-11-25T02:34:21+00:00"
+  },
+  "https://jabza.github.io/labs/dlr-rider": {
+    "title": "A 1:1 replica of the London DLR",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-25T03:50:37.983291+00:00",
+    "published": "2026-11-25T02:31:49+00:00"
+  },
+  "https://www.phoronix.com/news/AMD-Zen-6-FRED-Benefits": {
+    "title": "Benchmarking The Performance Benefit Of FRED On AMD Zen 6",
+    "source": "Phoronix",
+    "first_seen": "2026-11-25T03:50:37.983291+00:00",
+    "published": "2026-11-25T01:55:19+00:00"
+  },
+  "https://farid-alexander.github.io/autograd-from-scratch": {
+    "title": "How PyTorch's autograd works, rebuilt in 60 lines of Python",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-25T03:50:37.983291+00:00",
+    "published": "2026-11-25T01:40:39+00:00"
+  },
+  "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf": {
+    "title": "Matrix Multiplication is Θ(n^2.25) [pdf]",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-25T03:50:37.983291+00:00",
+    "published": "2026-11-25T01:19:26+00:00"
+  },
+  "https://aws.amazon.com/blogs/security/introducing-context-aware-rules-for-aws-network-firewall": {
+    "title": "Introducing context-aware rules for AWS Network Firewall",
+    "source": "AWS Security Blog",
+    "first_seen": "2026-11-25T03:50:37.983291+00:00",
+    "published": "2026-11-25T01:19:20+00:00"
+  },
+  "https://aws.amazon.com/blogs/security/introducing-aws-network-firewall-next-generation-policy": {
+    "title": "Introducing AWS Network Firewall Next Generation policy",
+    "source": "AWS Security Blog",
+    "first_seen": "2026-11-25T03:50:37.983291+00:00",
+    "published": "2026-11-25T01:11:09+00:00"
+  },
+  "https://greydanus.github.io/2026/11/12/pengpt": {
+    "title": "PenGPT: A Generative Transformer for Handwriting and Sketches",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-25T03:50:37.983291+00:00",
+    "published": "2026-11-25T00:54:49+00:00"
+  },
+  "https://literaryreview.co.uk/here-in-the-world": {
+    "title": "Here in the World: Letters of Albert Camus, 1944–1959",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-25T03:50:37.983291+00:00",
+    "published": "2026-11-25T00:36:43+00:00"
+  },
+  "https://engineering.grab.com/part-2-ads-simulation-blogpost": {
+    "title": "Part 2: Generative bidders for ads at Grab",
+    "source": "Grab Tech",
+    "first_seen": "2026-11-25T03:50:37.983291+00:00",
+    "published": "2026-11-25T00:00:00+00:00"
+  },
+  "https://simonwillison.net/2026/Nov/24/llm-inflection-points": {
+    "title": "Three LLM inflection points in twelve months",
+    "source": "Simon Willison",
+    "first_seen": "2026-11-25T03:50:37.983291+00:00",
+    "published": "2026-11-24T23:02:07+00:00"
+  },
+  "https://thenewstack.io/teleport-agent-delegated-identity": {
+    "title": "Please don’t give the robot my SSH keys: How to keep AI out of trouble",
+    "source": "The New Stack",
+    "first_seen": "2026-11-25T03:50:37.983291+00:00",
+    "published": "2026-11-24T21:57:58+00:00"
+  },
+  "https://www.ed.ac.uk/news/heart-attack-and-stroke-risk-detectable-decades-in-advance": {
+    "title": "Heart attack and stroke risk detectable decades in advance",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-25T03:50:37.983291+00:00",
+    "published": "2026-11-24T21:51:21+00:00"
+  },
+  "https://aws.amazon.com/blogs/security/aws-network-firewall-introduces-automated-internet-firewall-mode-preview": {
+    "title": "AWS Network Firewall introduces automated internet firewall mode (Preview)",
+    "source": "AWS Security Blog",
+    "first_seen": "2026-11-25T03:50:37.983291+00:00",
+    "published": "2026-11-24T21:30:20+00:00"
+  },
+  "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities": {
+    "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-25T03:50:37.983291+00:00",
+    "published": "2026-11-24T21:02:22+00:00"
+  },
+  "https://www.phoronix.com/news/Linus-Torvalds-EXT4-AI-Big": {
+    "title": "Linus Torvalds: \"Tell Your AI Companion To Get Its Act Together\"",
+    "source": "Phoronix",
+    "first_seen": "2026-11-25T03:50:37.983291+00:00",
+    "published": "2026-11-24T21:01:36+00:00"
+  },
+  "https://www.phoronix.com/news/Pop-OS-26.04-Released": {
+    "title": "Pop!_OS 26.04 LTS Released With More COSMIC Apps, Remote Desktop & More",
+    "source": "Phoronix",
+    "first_seen": "2026-11-25T03:50:37.983291+00:00",
+    "published": "2026-11-24T21:00:00+00:00"
+  },
+  "https://news.ycombinator.com/item?id=50634426": {
+    "title": "Launch HN: Versine (YC F26) – MCP to send and receive money",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-25T03:50:37.983291+00:00",
+    "published": "2026-11-24T20:44:15+00:00"
+  },
+  "https://pytorch.org/blog/executorch-tensorrt-pytorch-robot-policies-at-nvidia-tensorrt-speed": {
+    "title": "ExecuTorch-TensorRT: PyTorch Robot Policies at NVIDIA TensorRT Speed",
+    "source": "PyTorch Blog",
+    "first_seen": "2026-11-25T03:50:37.983291+00:00",
+    "published": "2026-11-24T20:31:02+00:00"
+  },
+  "https://prismml.com/news/bonsai-2-5-27b": {
+    "title": "Ternary Bonsai 2.5 27B",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-25T03:50:37.983291+00:00",
+    "published": "2026-11-24T20:08:03+00:00"
+  },
+  "https://aws.amazon.com/blogs/security/delegate-user-access-to-ai-agents-with-amazon-cognito-token-exchange": {
+    "title": "Delegate user access to AI agents with Amazon Cognito token exchange",
+    "source": "AWS Security Blog",
+    "first_seen": "2026-11-25T03:50:37.983291+00:00",
+    "published": "2026-11-24T20:01:08+00:00"
+  },
+  "https://thenewstack.io/ai-coding-delivery-bottleneck": {
+    "title": "Move fast, don’t break 100 apps: Dan Garfield on keeping AI-powered coding on the rails",
+    "source": "The New Stack",
+    "first_seen": "2026-11-25T03:50:37.983291+00:00",
+    "published": "2026-11-24T19:48:46+00:00"
+  },
+  "https://andlukyane.com/blog/cayley-graphs-and-torchtpu": {
+    "title": "From CUDA and Jax to TorchTPU: Lessons from a Cayley Graph Solver",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-25T03:50:37.983291+00:00",
+    "published": "2026-11-24T19:40:43+00:00"
+  },
+  "https://www.databricks.com/blog/agentic-cdp-data-modeling-data-foundation": {
+    "title": "Data Modeling Best Practices for an Agentic CDP, Part 1: The Data Foundation",
+    "source": "Databricks Blog",
+    "first_seen": "2026-11-25T03:50:37.983291+00:00",
+    "published": "2026-11-24T19:36:52+00:00"
+  },
+  "https://stackoverflow.blog/2026/11/24/idempotency-when-you-don-t-control-the-other-end": {
+    "title": "Idempotency when you don't control the other end",
+    "source": "Stack Overflow Blog",
+    "first_seen": "2026-11-25T03:50:37.983291+00:00",
+    "published": "2026-11-24T17:01:51+00:00"
+  },
+  "https://eamonnsullivan.co.uk/posts/the-artificial-monkey-mind": {
+    "title": "The Artificial Monkey Mind",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-25T03:50:37.983291+00:00",
+    "published": "2026-11-24T11:19:00+00:00"
+  },
+  "https://tmos.org.au/news/new-rewritable-displays-can-show-an-image-for-months-without-power": {
+    "title": "New Rewritable Antimony Elenide Display Shows an Image for Months Without Power",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-25T03:50:37.983291+00:00",
+    "published": "2026-11-24T10:52:12+00:00"
+  },
+  "https://openai.com/business/customer-stories/clay-plugins-openai": {
+    "title": "Clay helps sales teams win with Codex and ChatGPT",
+    "source": "OpenAI Blog",
+    "first_seen": "2026-11-25T03:50:37.983291+00:00",
+    "published": "2026-11-24T00:00:00+00:00"
   }
 }
