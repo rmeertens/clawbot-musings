@@ -131024,5 +131024,323 @@
     "source": "OpenAI Blog",
     "first_seen": "2026-11-25T03:50:37.983291+00:00",
     "published": "2026-11-24T00:00:00+00:00"
+  },
+  "https://lwn.net/Articles/1109691": {
+    "title": "Dave Täht given the Jonathan B. Postel Service Award",
+    "source": "LWN.net",
+    "first_seen": "2026-11-25T18:52:17.632243+00:00",
+    "published": "2026-11-25T18:16:51+00:00"
+  },
+  "https://thenewstack.io/openai-matrix-multiplication-exponent": {
+    "title": "OpenAI claims to have solved a 57-year-old math problem at the heart of AI computation",
+    "source": "The New Stack",
+    "first_seen": "2026-11-25T18:52:17.632243+00:00",
+    "published": "2026-11-25T18:14:05+00:00"
+  },
+  "https://pytorch.org/blog/vllm-singapore-meetup-faster-prefill-agent-written-kernels-and-the-road-to-vera-rubin": {
+    "title": "vLLM Singapore Meetup: Faster Prefill, Agent-Written Kernels and the Road to Vera Rubin",
+    "source": "PyTorch Blog",
+    "first_seen": "2026-11-25T18:52:17.632243+00:00",
+    "published": "2026-11-25T18:03:15+00:00"
+  },
+  "https://aws.amazon.com/blogs/security/planning-for-99-99-percent-availability-with-the-amazon-cognito-plus-feature-plan": {
+    "title": "Planning for 99.99 percent availability with the Amazon Cognito Plus feature plan",
+    "source": "AWS Security Blog",
+    "first_seen": "2026-11-25T18:52:17.632243+00:00",
+    "published": "2026-11-25T17:50:39+00:00"
+  },
+  "https://spectator.com/article/britains-ghost-stations-are-fascinating": {
+    "title": "Britain's ghost stations",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-25T18:52:17.632243+00:00",
+    "published": "2026-11-25T17:43:46+00:00"
+  },
+  "https://newsletter.pragmaticengineer.com/p/how-anthropic-builds-software-in": {
+    "title": "How Anthropic builds software in 2026 with Katelyn Lesse",
+    "source": "The Pragmatic Engineer",
+    "first_seen": "2026-11-25T18:52:17.632243+00:00",
+    "published": "2026-11-25T17:31:32+00:00"
+  },
+  "https://thenewstack.io/jetbrains-mellum2-1-instruct-coding-model": {
+    "title": "JetBrains’ latest Mellum coding model uses 45% fewer tokens. It got there by not thinking.",
+    "source": "The New Stack",
+    "first_seen": "2026-11-25T18:52:17.632243+00:00",
+    "published": "2026-11-25T17:23:47+00:00"
+  },
+  "https://1password.com/blog/update-on-nov-2026-security-incident": {
+    "title": "1Password Security Incident",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-25T18:52:17.632243+00:00",
+    "published": "2026-11-25T17:18:26+00:00"
+  },
+  "https://david.alvarezrosa.com/posts/deriving-black-scholes": {
+    "title": "Deriving Black-Scholes",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-25T18:52:17.632243+00:00",
+    "published": "2026-11-25T17:18:15+00:00"
+  },
+  "https://research.google/blog/verifiable-social-reasoning-for-llm-assistants": {
+    "title": "Verifiable Social Reasoning for LLM Assistants",
+    "source": "Google Research",
+    "first_seen": "2026-11-25T18:52:17.632243+00:00",
+    "published": "2026-11-25T17:10:27+00:00"
+  },
+  "https://www.docker.com/blog/prove-your-ai-agent-guardrails-work": {
+    "title": "Prove your AI agent guardrails work",
+    "source": "Docker Blog",
+    "first_seen": "2026-11-25T18:52:17.632243+00:00",
+    "published": "2026-11-25T16:57:00+00:00"
+  },
+  "https://www.phoronix.com/review/postgresql-19-benchmarks": {
+    "title": "PostgreSQL 19 Delivering Nice Performance Gains, Benchmarks On 6th Gen AMD EPYC Venice",
+    "source": "Phoronix",
+    "first_seen": "2026-11-25T18:52:17.632243+00:00",
+    "published": "2026-11-25T16:31:14+00:00"
+  },
+  "https://github.blog/news-insights/company-news/art-of-play-in-the-age-of-ai": {
+    "title": "Art of play in the age of AI",
+    "source": "GitHub Blog",
+    "first_seen": "2026-11-25T18:52:17.632243+00:00",
+    "published": "2026-11-25T16:00:00+00:00"
+  },
+  "https://stackoverflow.blog/2026/11/25/when-ai-writes-the-code-what-counts-as-evidence": {
+    "title": "When AI Writes the Code, What Counts as Evidence?",
+    "source": "Stack Overflow Blog",
+    "first_seen": "2026-11-25T18:52:17.632243+00:00",
+    "published": "2026-11-25T15:59:41+00:00"
+  },
+  "https://www.githubstatus.com/incidents/qn8mfv6q5hlx": {
+    "title": "Investigating degraded experiences across GitHub products",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-25T18:52:17.632243+00:00",
+    "published": "2026-11-25T15:59:23+00:00"
+  },
+  "https://lemire.me/blog/2026/11/02/default-and-braces-are-not-the-same-constructor": {
+    "title": "In C++, = default and {} are not the same constructor",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-25T18:52:17.632243+00:00",
+    "published": "2026-11-25T15:20:15+00:00"
+  },
+  "https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts": {
+    "title": "A few questions for the guy who went snorkeling in a Home Depot retention pond",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-25T18:52:17.632243+00:00",
+    "published": "2026-11-25T15:14:32+00:00"
+  },
+  "https://www.reddit.com/r/singularity/comments/1y59ef1/rumor_that_openai_or_anthropic_found_a_way_to": {
+    "title": "Rumors swirling that labs might have cracked Factoring in P",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-25T18:52:17.632243+00:00",
+    "published": "2026-11-25T15:08:44+00:00"
+  },
+  "https://github.blog/ai-and-ml/github-copilot/how-to-choose-the-next-safe-step-in-application-modernization": {
+    "title": "How to choose the next safe step in application modernization",
+    "source": "GitHub Blog",
+    "first_seen": "2026-11-25T18:52:17.632243+00:00",
+    "published": "2026-11-25T15:00:00+00:00"
+  },
+  "https://s.conao3.com/blog/2026/e4f733": {
+    "title": "I checked Clojure's core with Lean and found unreported bugs",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-25T18:52:17.632243+00:00",
+    "published": "2026-11-25T14:56:52+00:00"
+  },
+  "https://www.phoronix.com/review/pop-os-2604-benchmarks": {
+    "title": "Pop!_OS 26.04 LTS vs. Pop!_OS 24.04 LTS Benchmarks",
+    "source": "Phoronix",
+    "first_seen": "2026-11-25T18:52:17.632243+00:00",
+    "published": "2026-11-25T14:38:32+00:00"
+  },
+  "https://lwn.net/Articles/1103714": {
+    "title": "[$] Tainting (or not) on manual driver binding",
+    "source": "LWN.net",
+    "first_seen": "2026-11-25T18:52:17.632243+00:00",
+    "published": "2026-11-25T14:36:07+00:00"
+  },
+  "https://lwn.net/Articles/1109662": {
+    "title": "Pop!_OS 26.04 LTS released",
+    "source": "LWN.net",
+    "first_seen": "2026-11-25T18:52:17.632243+00:00",
+    "published": "2026-11-25T14:34:00+00:00"
+  },
+  "https://lwn.net/Articles/1109650": {
+    "title": "Security updates for Wednesday",
+    "source": "LWN.net",
+    "first_seen": "2026-11-25T18:52:17.632243+00:00",
+    "published": "2026-11-25T14:06:22+00:00"
+  },
+  "https://realpython.com/pandas-project-gradebook": {
+    "title": "pandas Project: Make a Gradebook With Python & pandas",
+    "source": "Real Python",
+    "first_seen": "2026-11-25T18:52:17.632243+00:00",
+    "published": "2026-11-25T14:00:00+00:00"
+  },
+  "https://realpython.com/no-ai-slop-manifesto": {
+    "title": "The No AI Slop Manifesto: A Pledge to Own What Agents Ship",
+    "source": "Real Python",
+    "first_seen": "2026-11-25T18:52:17.632243+00:00",
+    "published": "2026-11-25T14:00:00+00:00"
+  },
+  "https://realpython.com/llm-evaluation": {
+    "title": "LLM Evaluation in Python: Build an Eval Harness From Scratch",
+    "source": "Real Python",
+    "first_seen": "2026-11-25T18:52:17.632243+00:00",
+    "published": "2026-11-25T14:00:00+00:00"
+  },
+  "https://blog.cloudflare.com/search-for-agents": {
+    "title": "Introducing Search for Agents",
+    "source": "Cloudflare Blog",
+    "first_seen": "2026-11-25T18:52:17.632243+00:00",
+    "published": "2026-11-25T14:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/Servo-0.8-October-2026": {
+    "title": "Servo Now Supports HTML Video Captions, Flutter Web Content Working",
+    "source": "Phoronix",
+    "first_seen": "2026-11-25T18:52:17.632243+00:00",
+    "published": "2026-11-25T13:58:00+00:00"
+  },
+  "https://www.phoronix.com/news/GNU-Linux-Libre-VIA-VT6656": {
+    "title": "GNU Linux-Libre Celebrates Reverse Engineered Firmware For Old 802.11 b/g WiFi Chipset",
+    "source": "Phoronix",
+    "first_seen": "2026-11-25T18:52:17.632243+00:00",
+    "published": "2026-11-25T13:35:59+00:00"
+  },
+  "https://github.com/google-research/google-research/tree/master/cogentic_research_papers": {
+    "title": "Google releases Cogentic papers on integer factorization, discrete logs and more",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-25T18:52:17.632243+00:00",
+    "published": "2026-11-25T13:33:07+00:00"
+  },
+  "https://www.cncf.io/blog/2026/11/25/%f0%9f%9a%80-the-story-behind-drone-2-my-kubecon-cloudnativecon-north-america-2026-keynote": {
+    "title": "🚀 The story behind “Drone 2”: My KubeCon + CloudNativeCon North America 2026 keynote",
+    "source": "CNCF Blog",
+    "first_seen": "2026-11-25T18:52:17.632243+00:00",
+    "published": "2026-11-25T12:30:00+00:00"
+  },
+  "https://www.schneier.com/blog/archives/2026/11/tracking-incidents-of-hacking-using-ai-tools.html": {
+    "title": "Tracking Incidents of Hacking Using AI Tools",
+    "source": "Schneier on Security",
+    "first_seen": "2026-11-25T18:52:17.632243+00:00",
+    "published": "2026-11-25T12:07:21+00:00"
+  },
+  "https://www.ycombinator.com/companies/hazel-2/jobs/8EhsvYE-product-designer-contract": {
+    "title": "Hazel (YC W24) Is Hiring a Product Designer",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-25T18:52:17.632243+00:00",
+    "published": "2026-11-25T12:00:34+00:00"
+  },
+  "https://realpython.com/quizzes/llm-evaluation": {
+    "title": "Quiz: LLM Evaluation in Python: Build an Eval Harness From Scratch",
+    "source": "Real Python",
+    "first_seen": "2026-11-25T18:52:17.632243+00:00",
+    "published": "2026-11-25T12:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-7.5-Intel-Xeon-P2PDMA": {
+    "title": "Linux 7.5 Whitelisting Intel Xeon Server CPUs For Peer-To-Peer DMA \"P2PDMA\"",
+    "source": "Phoronix",
+    "first_seen": "2026-11-25T18:52:17.632243+00:00",
+    "published": "2026-11-25T11:38:18+00:00"
+  },
+  "https://github.com/xoxorwr/pw-loudness-eq": {
+    "title": "Windows Loudness Equalization, reverse-engineered and ported to PipeWire",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-25T18:52:17.632243+00:00",
+    "published": "2026-11-25T11:34:25+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-Kernel-Disable-Profi": {
+    "title": "Linux 7.4 Disables LLVM Profi Usage To Avoid Performance Hit, Pathological Build Times",
+    "source": "Phoronix",
+    "first_seen": "2026-11-25T18:52:17.632243+00:00",
+    "published": "2026-11-25T11:27:04+00:00"
+  },
+  "https://www.phoronix.com/news/2026-Firmware-MSI-PRO-Z690-Z790": {
+    "title": "3mdeb Updates Their Open-Source Coreboot-Based Firmware For MSI PRO Z690-A/Z790-P",
+    "source": "Phoronix",
+    "first_seen": "2026-11-25T18:52:17.632243+00:00",
+    "published": "2026-11-25T11:10:02+00:00"
+  },
+  "https://www.phoronix.com/news/Alien-Arena-Flathub": {
+    "title": "Alien Arena Comes To Flathub, Rolls Out Many Optimizations",
+    "source": "Phoronix",
+    "first_seen": "2026-11-25T18:52:17.632243+00:00",
+    "published": "2026-11-25T10:52:52+00:00"
+  },
+  "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga": {
+    "title": "An Indic Voice Agent with CUGA",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-11-25T18:52:17.632243+00:00",
+    "published": "2026-11-25T10:22:09+00:00"
+  },
+  "https://neon.com/blog/rethinking-read-replicas-for-the-lakebase-architecture": {
+    "title": "Rethinking read replicas for the lakebase architecture",
+    "source": "Neon Blog",
+    "first_seen": "2026-11-25T18:52:17.632243+00:00",
+    "published": "2026-11-25T09:00:00+00:00"
+  },
+  "https://blog.sentry.io/quadratic-webhook-autoscaler-ceiling": {
+    "title": "How one quadratic webhook handler pinned our autoscaler at its ceiling",
+    "source": "Sentry Blog",
+    "first_seen": "2026-11-25T18:52:17.632243+00:00",
+    "published": "2026-11-25T09:00:00+00:00"
+  },
+  "https://arxiv.org/abs/2611.31286": {
+    "title": "The industrialization of noise: Automated proof-solving is the same old dead end [pdf]",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-25T18:52:17.632243+00:00",
+    "published": "2026-11-25T08:23:34+00:00"
+  },
+  "https://www.iankduncan.com/engineering/2026-11-19-smart-people-who-give-a-shit-use-tools": {
+    "title": "Smart people who give a shit use tools",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-25T18:52:17.632243+00:00",
+    "published": "2026-11-25T07:46:43+00:00"
+  },
+  "https://gpu-demo-gallery.pages.dev": {
+    "title": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-25T18:52:17.632243+00:00",
+    "published": "2026-11-25T04:31:48+00:00"
+  },
+  "https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each": {
+    "title": "Taking over US Treasury subdomains for $3 each",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-25T18:52:17.632243+00:00",
+    "published": "2026-11-25T04:27:55+00:00"
+  },
+  "https://buttons.joshwcomeau.com": {
+    "title": "Button Sounds – collection of professionally-recorded button clicks and presses",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-25T18:52:17.632243+00:00",
+    "published": "2026-11-25T03:23:07+00:00"
+  },
+  "https://basilhalperin.com/essays/macrohistory.html": {
+    "title": "Macrohistory in Six Facts",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-25T18:52:17.632243+00:00",
+    "published": "2026-11-25T03:04:46+00:00"
+  },
+  "https://rida.dev/blog/bypassing-ios-safari-60-fps-limit": {
+    "title": "Bypassing iOS Safari's 60 FPS Limit to Build Web Applications That Feel Native",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-25T18:52:17.632243+00:00",
+    "published": "2026-11-25T03:04:37+00:00"
+  },
+  "https://www.thoughtworks.com/insights/blog/generative-ai/building-code-argus-hackathon-to-agentic-devsecops": {
+    "title": "Building Code Argus: From hackathon idea to agentic DevSecOps",
+    "source": "ThoughtWorks",
+    "first_seen": "2026-11-25T18:52:17.632243+00:00",
+    "published": "2026-11-25T00:00:00+00:00"
+  },
+  "https://svelte.dev/blog/ten-years-of-svelte": {
+    "title": "Celebrating ten years of Svelte",
+    "source": "Svelte Blog",
+    "first_seen": "2026-11-25T18:52:17.632243+00:00",
+    "published": "2026-11-25T00:00:00+00:00"
+  },
+  "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb": {
+    "title": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-11-25T18:52:17.632243+00:00",
+    "published": "2026-11-25T00:00:00+00:00"
   }
 }
