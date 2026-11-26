@@ -131342,5 +131342,143 @@
     "source": "Hugging Face Blog",
     "first_seen": "2026-11-25T18:52:17.632243+00:00",
     "published": "2026-11-25T00:00:00+00:00"
+  },
+  "https://pytorch.org/blog/explore-the-pytorch-day-china-2026-schedule": {
+    "title": "Explore the PyTorch Day China 2026 Schedule",
+    "source": "PyTorch Blog",
+    "first_seen": "2026-11-26T03:15:13.087795+00:00",
+    "published": "2026-11-26T02:44:16+00:00"
+  },
+  "https://www.phoronix.com/news/Vulkan-Macs-Go-KosmicKrisp": {
+    "title": "KosmicKrisp Now The Go-To Solution For Vulkan On Macs In Place Of MoltenVK",
+    "source": "Phoronix",
+    "first_seen": "2026-11-26T03:15:13.087795+00:00",
+    "published": "2026-11-26T01:39:26+00:00"
+  },
+  "https://news.ycombinator.com/item?id=50649864": {
+    "title": "Tell HN: Lots of Ask HNs again",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-26T03:15:13.087795+00:00",
+    "published": "2026-11-26T00:43:34+00:00"
+  },
+  "https://aresluna.org/ui-style-guides": {
+    "title": "Collection of preserved UI style guides",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-26T03:15:13.087795+00:00",
+    "published": "2026-11-26T00:40:00+00:00"
+  },
+  "https://aws.amazon.com/blogs/security/make-post-quantum-cryptography-updates-routine-with-aws-lc": {
+    "title": "Make post-quantum cryptography updates routine with AWS-LC",
+    "source": "AWS Security Blog",
+    "first_seen": "2026-11-26T03:15:13.087795+00:00",
+    "published": "2026-11-26T00:15:29+00:00"
+  },
+  "https://simonwillison.net/2026/Nov/25/scott-aaronson": {
+    "title": "Quoting Scott Aaronson",
+    "source": "Simon Willison",
+    "first_seen": "2026-11-26T03:15:13.087795+00:00",
+    "published": "2026-11-25T23:26:32+00:00"
+  },
+  "https://aws.amazon.com/blogs/security/icymi-october-2026-aws-security": {
+    "title": "ICYMI: October 2026 @AWS Security",
+    "source": "AWS Security Blog",
+    "first_seen": "2026-11-26T03:15:13.087795+00:00",
+    "published": "2026-11-25T23:04:26+00:00"
+  },
+  "https://modaic.dev/blog/latency-doesnt-lie": {
+    "title": "Jev is probably Qwen3.5-35B-A3B",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-26T03:15:13.087795+00:00",
+    "published": "2026-11-25T22:57:04+00:00"
+  },
+  "https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os": {
+    "title": "Bare Metal Qwen",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-26T03:15:13.087795+00:00",
+    "published": "2026-11-25T22:15:34+00:00"
+  },
+  "https://nickvsnetworking.com/deploying-a-payphone-on-a-tiny-pacific-island-for-fun-and-zero-profit": {
+    "title": "Deploying a payphone on a tiny Pacific Island",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-26T03:15:13.087795+00:00",
+    "published": "2026-11-25T22:12:25+00:00"
+  },
+  "https://github.com/lsernau/grh-lean": {
+    "title": "Much shorter version of GRH Lean verification from Anthropic",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-26T03:15:13.087795+00:00",
+    "published": "2026-11-25T21:48:10+00:00"
+  },
+  "https://defang.io/blog/post/security-incident-november-2026": {
+    "title": "Defang Security Incident",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-26T03:15:13.087795+00:00",
+    "published": "2026-11-25T21:47:16+00:00"
+  },
+  "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features": {
+    "title": "The New York Times warns photographers not to update Photoshop over AI features",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-26T03:15:13.087795+00:00",
+    "published": "2026-11-25T21:18:02+00:00"
+  },
+  "https://aws.amazon.com/blogs/security/secure-agentic-access-to-aws-with-enterprise-managed-authorization": {
+    "title": "Secure agentic access to AWS with Enterprise-Managed Authorization",
+    "source": "AWS Security Blog",
+    "first_seen": "2026-11-26T03:15:13.087795+00:00",
+    "published": "2026-11-25T21:00:37+00:00"
+  },
+  "https://www.openwall.com/lists/oss-security/2026/11/25/9": {
+    "title": "Slow Ubuntu security response times",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-26T03:15:13.087795+00:00",
+    "published": "2026-11-25T20:38:00+00:00"
+  },
+  "https://opensec.in/blog/nfs2root-cve-2026-99362": {
+    "title": "Nfs2root: A 12-year-old pre-auth remote root in the Linux kernel's NFS server",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-26T03:15:13.087795+00:00",
+    "published": "2026-11-25T20:35:50+00:00"
+  },
+  "https://aws.amazon.com/blogs/security/reduce-operational-overhead-by-migrating-from-aws-cloudhsm-to-aws-kms": {
+    "title": "Reduce operational overhead by migrating from AWS CloudHSM to AWS KMS",
+    "source": "AWS Security Blog",
+    "first_seen": "2026-11-26T03:15:13.087795+00:00",
+    "published": "2026-11-25T19:54:52+00:00"
+  },
+  "https://thenewstack.io/anthropic-siren-sandbox-escape": {
+    "title": "Anthropic set more than 1,700 traps for Claude — what it found is both reassuring and unsettling",
+    "source": "The New Stack",
+    "first_seen": "2026-11-26T03:15:13.087795+00:00",
+    "published": "2026-11-25T19:45:18+00:00"
+  },
+  "https://developer.nvidia.com/blog/how-to-optimize-nvfp4-attention-on-nvidia-rtx-blackwell-through-register-recycling": {
+    "title": "How to Optimize NVFP4 Attention on NVIDIA RTX Blackwell Through Register Recycling",
+    "source": "NVIDIA Developer Blog",
+    "first_seen": "2026-11-26T03:15:13.087795+00:00",
+    "published": "2026-11-25T19:30:00+00:00"
+  },
+  "https://scottaaronson.blog?p=10379": {
+    "title": "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-26T03:15:13.087795+00:00",
+    "published": "2026-11-25T19:11:27+00:00"
+  },
+  "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents": {
+    "title": "Where scientists draw the line on AI agents",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-11-26T03:15:13.087795+00:00",
+    "published": "2026-11-25T18:52:55+00:00"
+  },
+  "https://github.com/openai/math/blob/main/preprints/Superpolynomial-graph-diameter-of-simple-polytopes-November-24-2026/paper.pdf": {
+    "title": "The polynomial Hirsch conjecture is false [pdf]",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-26T03:15:13.087795+00:00",
+    "published": "2026-11-25T17:34:34+00:00"
+  },
+  "https://neon.com/blog/every-app-needs-an-mcp-server": {
+    "title": "Every app needs an MCP server, and you can build it with Neon",
+    "source": "Neon Blog",
+    "first_seen": "2026-11-26T03:15:13.087795+00:00",
+    "published": "2026-11-25T09:00:00+00:00"
   }
 }
