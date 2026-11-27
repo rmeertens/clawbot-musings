@@ -131810,5 +131810,257 @@
     "source": "Hacker News (front)",
     "first_seen": "2026-11-27T03:19:48.370055+00:00",
     "published": "2026-11-26T09:44:23+00:00"
+  },
+  "https://neon.com/blog/postgres-mistakes-we-all-still-make": {
+    "title": "The Postgres mistakes we all still make",
+    "source": "Neon Blog",
+    "first_seen": "2026-11-27T18:31:20.502271+00:00",
+    "published": "2026-11-30T09:00:00+00:00"
+  },
+  "https://thesoapbox.email/archive/3": {
+    "title": "I'm Scared of AI",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-27T18:31:20.502271+00:00",
+    "published": "2026-11-27T17:45:31+00:00"
+  },
+  "https://idiotecon.substack.com/p/palliative-care-for-the-chronically": {
+    "title": "Palliative Care for the Chronically Online",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-27T18:31:20.502271+00:00",
+    "published": "2026-11-27T17:01:51+00:00"
+  },
+  "https://thenewstack.io/ntt-space-computing-networking": {
+    "title": "Houston, we have a networking problem: Why NTT thinks space computing is the final frontier",
+    "source": "The New Stack",
+    "first_seen": "2026-11-27T18:31:20.502271+00:00",
+    "published": "2026-11-27T17:00:00+00:00"
+  },
+  "https://thenewstack.io/vercel-workflow-sdk-harness": {
+    "title": "Vercel’s CEO thinks the next big AI speedup won’t come from smarter models",
+    "source": "The New Stack",
+    "first_seen": "2026-11-27T18:31:20.502271+00:00",
+    "published": "2026-11-27T16:50:06+00:00"
+  },
+  "https://thenewstack.io/vmware-private-cloud-kubernetes": {
+    "title": "A year from now, VMware wants AI troubleshooting your private cloud",
+    "source": "The New Stack",
+    "first_seen": "2026-11-27T18:31:20.502271+00:00",
+    "published": "2026-11-27T16:07:11+00:00"
+  },
+  "https://thenewstack.io/cognition-swe21-coding-model": {
+    "title": "Same coding model, 10x the token speed. How did Cognition do it?",
+    "source": "The New Stack",
+    "first_seen": "2026-11-27T18:31:20.502271+00:00",
+    "published": "2026-11-27T16:05:59+00:00"
+  },
+  "https://www.construction-physics.com/p/the-invention-algorithm": {
+    "title": "The Invention Algorithm",
+    "source": "Construction Physics",
+    "first_seen": "2026-11-27T18:31:20.502271+00:00",
+    "published": "2026-11-27T15:58:24+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-Drops-VME-Bus-User": {
+    "title": "Linux Dropping Last Of The 1980's VersaModular Eurocard \"VME\" vme_user Code Over AI/LLM Noise",
+    "source": "Phoronix",
+    "first_seen": "2026-11-27T18:31:20.502271+00:00",
+    "published": "2026-11-27T15:50:44+00:00"
+  },
+  "https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer": {
+    "title": "Credit card skimming scripts using WebRTC found on popular shopping sites",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-27T18:31:20.502271+00:00",
+    "published": "2026-11-27T15:40:31+00:00"
+  },
+  "https://www.phoronix.com/news/Linux-Mint-27-Beta": {
+    "title": "Linux Mint 27 Beta Released With New Apps, Full Wayland Support",
+    "source": "Phoronix",
+    "first_seen": "2026-11-27T18:31:20.502271+00:00",
+    "published": "2026-11-27T15:37:29+00:00"
+  },
+  "https://blog.bytebytego.com/p/limited-time-offer-all-in-one-interview-33c": {
+    "title": "⏳ LIMITED TIME OFFER: All in One Interview Prep Black Friday Sale",
+    "source": "ByteByteGo",
+    "first_seen": "2026-11-27T18:31:20.502271+00:00",
+    "published": "2026-11-27T15:30:45+00:00"
+  },
+  "https://cr.yp.to/proofs/falseccp.html": {
+    "title": "False computer-checked proofs",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-27T18:31:20.502271+00:00",
+    "published": "2026-11-27T15:26:09+00:00"
+  },
+  "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical": {
+    "title": "GPT 6.2 Astra Solves a Historical Mystery",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-27T18:31:20.502271+00:00",
+    "published": "2026-11-27T15:03:17+00:00"
+  },
+  "https://bouncemarket.minhanhday.com": {
+    "title": "Show HN: bouncemarket – a live prediction market game for a bouncing ball",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-27T18:31:20.502271+00:00",
+    "published": "2026-11-27T15:01:50+00:00"
+  },
+  "https://www.webosarchive.org/pivot/2026/11/27/the-story-so-far": {
+    "title": "Show HN: I restored Palm's last device, and brought its OS to other platforms",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-27T18:31:20.502271+00:00",
+    "published": "2026-11-27T14:37:02+00:00"
+  },
+  "https://lwn.net/Articles/1110189": {
+    "title": "Security updates for Friday",
+    "source": "LWN.net",
+    "first_seen": "2026-11-27T18:31:20.502271+00:00",
+    "published": "2026-11-27T14:22:47+00:00"
+  },
+  "https://www.spritefusion.com/blog/making-a-fantasy-map-like-a-16th-century-atlas": {
+    "title": "Making a 3D fantasy map like a 16th-Century atlas",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-27T18:31:20.502271+00:00",
+    "published": "2026-11-27T14:02:52+00:00"
+  },
+  "https://engineering.atspotify.com/2026/11/september-29-outage-incident-report-what-we-learnt": {
+    "title": "September 29 Outage Incident Report: What we learnt",
+    "source": "Spotify Engineering",
+    "first_seen": "2026-11-27T18:31:20.502271+00:00",
+    "published": "2026-11-27T14:00:11+00:00"
+  },
+  "https://realpython.com/ai-news-weekly-2026-11-27": {
+    "title": "Google Sets a Deadline for AI Agents Working in Gmail",
+    "source": "Real Python",
+    "first_seen": "2026-11-27T18:31:20.502271+00:00",
+    "published": "2026-11-27T14:00:00+00:00"
+  },
+  "https://onlinelibrary.wiley.com/doi/abs/10.1111/ssqu.70219": {
+    "title": "Mental Health Resources and Political Engagement",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-27T18:31:20.502271+00:00",
+    "published": "2026-11-27T13:01:02+00:00"
+  },
+  "https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163": {
+    "title": "US Air Force's cloud computing platform hacked",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-27T18:31:20.502271+00:00",
+    "published": "2026-11-27T12:54:11+00:00"
+  },
+  "https://www.eff.org/deeplinks/2026/11/new-york-and-california-age-gating-rules-go-effect-new-year": {
+    "title": "New York and California age gating rules go into effect in the new year",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-27T18:31:20.502271+00:00",
+    "published": "2026-11-27T12:43:40+00:00"
+  },
+  "https://eprint.iacr.org/2026/3020.pdf": {
+    "title": "A Deterministic Subexponential-Time Algorithm for the Discrete Logarithm Problem [pdf]",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-27T18:31:20.502271+00:00",
+    "published": "2026-11-27T12:08:51+00:00"
+  },
+  "https://www.kimi.ai/news/kimi-for-science-program": {
+    "title": "Kimi for Science: More scientific ideas, made possible",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-27T18:31:20.502271+00:00",
+    "published": "2026-11-27T12:03:11+00:00"
+  },
+  "https://www.schneier.com/blog/archives/2026/11/recent-outages-have-economic-causes.html": {
+    "title": "Recent Outages Have Economic Causes",
+    "source": "Schneier on Security",
+    "first_seen": "2026-11-27T18:31:20.502271+00:00",
+    "published": "2026-11-27T12:02:23+00:00"
+  },
+  "https://realpython.com/quizzes/python-timer": {
+    "title": "Quiz: Python Timer Functions: Three Ways to Monitor Your Code",
+    "source": "Real Python",
+    "first_seen": "2026-11-27T18:31:20.502271+00:00",
+    "published": "2026-11-27T12:00:00+00:00"
+  },
+  "https://realpython.com/podcasts/rpp/320": {
+    "title": "The Real Python Podcast – Episode #320: Optimizing Python Performance & Building a Django Static Site",
+    "source": "Real Python",
+    "first_seen": "2026-11-27T18:31:20.502271+00:00",
+    "published": "2026-11-27T12:00:00+00:00"
+  },
+  "https://www.phoronix.com/news/systemd-263-rc1": {
+    "title": "systemd 263-rc1 Ships Initial Rust Code, Experimental Pseudo TTY Broker & Manifest",
+    "source": "Phoronix",
+    "first_seen": "2026-11-27T18:31:20.502271+00:00",
+    "published": "2026-11-27T11:42:12+00:00"
+  },
+  "https://www.phoronix.com/news/Intel-Efficient-64-bit-e64-ANV": {
+    "title": "Intel's Vulkan Linux Driver Now Enables Efficient 64-bit Mode \"e64\" By Default",
+    "source": "Phoronix",
+    "first_seen": "2026-11-27T18:31:20.502271+00:00",
+    "published": "2026-11-27T11:26:10+00:00"
+  },
+  "https://www.phoronix.com/news/ZenSMU-Linux-TUI-GUI": {
+    "title": "ZenSMU Provides A Rust CLI/TUI & GUI For AMD Ryzen Monitoring/Tweaking",
+    "source": "Phoronix",
+    "first_seen": "2026-11-27T18:31:20.502271+00:00",
+    "published": "2026-11-27T11:05:00+00:00"
+  },
+  "https://www.phoronix.com/news/Intel-Compute-26.44.40734.8": {
+    "title": "Intel Compute Runtime 26.44.40734.8 Had OpenCL 3.1 But Reverted, More Performance",
+    "source": "Phoronix",
+    "first_seen": "2026-11-27T18:31:20.502271+00:00",
+    "published": "2026-11-27T10:52:29+00:00"
+  },
+  "https://blog.pimalaya.org/pimalaya-goes-stable": {
+    "title": "Pimalaya goes stable: Himalaya v3 and the pimdir standard",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-27T18:31:20.502271+00:00",
+    "published": "2026-11-27T09:50:02+00:00"
+  },
+  "https://stackoverflow.blog/2026/11/27/sandboxes-secure-inference-and-rogue-agents": {
+    "title": "Sandboxes, secure inference, and keeping agents from going rogue",
+    "source": "Stack Overflow Blog",
+    "first_seen": "2026-11-27T18:31:20.502271+00:00",
+    "published": "2026-11-27T08:40:00+00:00"
+  },
+  "https://twitter.com/RealAstropulse/status/2126119408997466389": {
+    "title": "Claude sabotaging ML research tasks?",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-27T18:31:20.502271+00:00",
+    "published": "2026-11-27T08:28:08+00:00"
+  },
+  "https://construct22.com": {
+    "title": "Group chat where your AI talks behind your back",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-27T18:31:20.502271+00:00",
+    "published": "2026-11-27T06:44:34+00:00"
+  },
+  "https://www.buynothingday.co.uk": {
+    "title": "Buy Nothing Day – Friday November 27th 2026",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-27T18:31:20.502271+00:00",
+    "published": "2026-11-27T05:52:42+00:00"
+  },
+  "https://blainehansen.me/post/mainstream-verifiable-language": {
+    "title": "The need for a formally verifiable mainstream programming language",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-27T18:31:20.502271+00:00",
+    "published": "2026-11-27T05:22:06+00:00"
+  },
+  "https://herecomesthemoon.net/2026/11/whats-claudes-fursona": {
+    "title": "\"What's Claude's fursona?\" and other questions",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-27T18:31:20.502271+00:00",
+    "published": "2026-11-27T04:56:18+00:00"
+  },
+  "https://www.thoughtworks.com/insights/blog/machine-learning-and-ai/refactoring_the_engine_an_incremental_path_to_AI_assisted_delivery": {
+    "title": "Refactoring the Engine: An Incremental Path to AI-Assisted Delivery",
+    "source": "ThoughtWorks",
+    "first_seen": "2026-11-27T18:31:20.502271+00:00",
+    "published": "2026-11-27T00:00:00+00:00"
+  },
+  "https://huggingface.co/blog/video-trainium3": {
+    "title": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+    "source": "Hugging Face Blog",
+    "first_seen": "2026-11-27T18:31:20.502271+00:00",
+    "published": "2026-11-27T00:00:00+00:00"
+  },
+  "https://golangweekly.com/issues/626": {
+    "title": "A mammoth tour of Go's tooling for 2026",
+    "source": "Golang Weekly",
+    "first_seen": "2026-11-27T18:31:20.502271+00:00",
+    "published": "2026-11-27T00:00:00+00:00"
   }
 }
