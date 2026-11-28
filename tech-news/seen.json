@@ -132212,5 +132212,155 @@
     "source": "Rust Blog",
     "first_seen": "2026-11-28T02:59:02.115792+00:00",
     "published": "2026-11-27T00:00:00+00:00"
+  },
+  "https://thenewstack.io/cisa-kev-vulnerability-exposure": {
+    "title": "CISA adds a flaw to its exploited vulnerabilities list. How fast can you tell if you’re exposed?",
+    "source": "The New Stack",
+    "first_seen": "2026-11-28T17:14:00.381322+00:00",
+    "published": "2026-11-28T17:00:00+00:00"
+  },
+  "https://thenewstack.io/shadow-ai-employee-retention": {
+    "title": "Shadow AI is not just a tech problem; it’s a people problem, too",
+    "source": "The New Stack",
+    "first_seen": "2026-11-28T17:14:00.381322+00:00",
+    "published": "2026-11-28T16:00:00+00:00"
+  },
+  "https://twitter.com/TimSweeneyEpic/status/2126682647862862063": {
+    "title": "Silently degrading the model's capabilities IS sabotage",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-28T17:14:00.381322+00:00",
+    "published": "2026-11-28T15:55:54+00:00"
+  },
+  "https://www.phoronix.com/news/Armbian-Agentic-Desktop": {
+    "title": "Armbian Now Offering \"Agentic Desktop\" Version With Hyprland",
+    "source": "Phoronix",
+    "first_seen": "2026-11-28T17:14:00.381322+00:00",
+    "published": "2026-11-28T15:44:06+00:00"
+  },
+  "https://thenewstack.io/karpathy-claude-code-map": {
+    "title": "Andrej Karpathy let Claude Code run for 7 hours. It wrote 45,000 lines of code and skipped a few states.",
+    "source": "The New Stack",
+    "first_seen": "2026-11-28T17:14:00.381322+00:00",
+    "published": "2026-11-28T15:30:00+00:00"
+  },
+  "https://pages.ethanmdavidson.com/ai-physics-breakthrough": {
+    "title": "Physics Breakthrough Simulator",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-28T17:14:00.381322+00:00",
+    "published": "2026-11-28T14:52:45+00:00"
+  },
+  "https://www.engadget.com/2329389/google-will-soon-share-android-developers-addresses-publicly": {
+    "title": "Google will soon share Android developers' addresses publicly",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-28T17:14:00.381322+00:00",
+    "published": "2026-11-28T14:23:44+00:00"
+  },
+  "https://github.com/RiccardoSottini/AffrescoUI": {
+    "title": "Why stop at Emacs? Native apps you or an AI reprogram in Clojure while they run",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-28T17:14:00.381322+00:00",
+    "published": "2026-11-28T14:09:39+00:00"
+  },
+  "https://www.phoronix.com/news/Wine-Staging-11.23": {
+    "title": "Wine-Staging 11.23 Released With Fix For Steam",
+    "source": "Phoronix",
+    "first_seen": "2026-11-28T17:14:00.381322+00:00",
+    "published": "2026-11-28T13:20:58+00:00"
+  },
+  "https://github.com/MVS-sysgen/sysgen": {
+    "title": "IBM MVS 3.8j Community Edition (52-year old OS)",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-28T17:14:00.381322+00:00",
+    "published": "2026-11-28T13:17:39+00:00"
+  },
+  "https://thestacksentinel.com/articles/postgresql-18-7-and-19-0-expression-aggregates-31-6-slower-a64ecb0f": {
+    "title": "PostgreSQL 18.7 and 19.0: Expression Aggregates 31.6% Slower",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-28T17:14:00.381322+00:00",
+    "published": "2026-11-28T13:10:35+00:00"
+  },
+  "https://scriptor-pro.github.io/luciole-mono": {
+    "title": "Show HN: Luciole Mono – terminal font designed for legibility",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-28T17:14:00.381322+00:00",
+    "published": "2026-11-28T12:50:15+00:00"
+  },
+  "https://realpython.com/quizzes/python-asterisk-and-slash-special-parameters": {
+    "title": "Quiz: What Are Python Asterisk and Slash Special Parameters For?",
+    "source": "Real Python",
+    "first_seen": "2026-11-28T17:14:00.381322+00:00",
+    "published": "2026-11-28T12:00:00+00:00"
+  },
+  "https://malspark.com/blog/malicious-gguf-models-hugging-face": {
+    "title": "GGUF LLM Models with Hidden Malware on Hugging Face Reached 2400 Victims",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-28T17:14:00.381322+00:00",
+    "published": "2026-11-28T11:57:04+00:00"
+  },
+  "https://consumerrights.wiki/w/Audible_removes_download_option_for_purchased_audiobooks": {
+    "title": "Audible removes download option for purchased audiobooks",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-28T17:14:00.381322+00:00",
+    "published": "2026-11-28T11:51:27+00:00"
+  },
+  "https://github.com/p-e-w/heretic/issues/601": {
+    "title": "Farewell",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-28T17:14:00.381322+00:00",
+    "published": "2026-11-28T11:42:26+00:00"
+  },
+  "https://www.phoronix.com/news/FFmpeg-oneVPL-Super-Resolution": {
+    "title": "Intel Contributes oneVPL AI Super Resolution Integration To FFmpeg",
+    "source": "Phoronix",
+    "first_seen": "2026-11-28T17:14:00.381322+00:00",
+    "published": "2026-11-28T11:35:39+00:00"
+  },
+  "https://www.phoronix.com/news/New-ReFS-FUSE-Driver-2026": {
+    "title": "AI & Reverse Engineering Lead To New Linux Driver For Microsoft's ReFS",
+    "source": "Phoronix",
+    "first_seen": "2026-11-28T17:14:00.381322+00:00",
+    "published": "2026-11-28T11:20:34+00:00"
+  },
+  "https://www.phoronix.com/news/KDE-Plasma-6.9-End-November": {
+    "title": "KDE Plasma 6.9 Lands More Improvements Ahead Of The Holidays",
+    "source": "Phoronix",
+    "first_seen": "2026-11-28T17:14:00.381322+00:00",
+    "published": "2026-11-28T10:54:07+00:00"
+  },
+  "https://xinyadu.github.io/blog/claude-code-sabotage.html": {
+    "title": "Claude Code sabotage: preliminary benchmarking",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-28T17:14:00.381322+00:00",
+    "published": "2026-11-28T10:37:40+00:00"
+  },
+  "https://www.filfre.net/2026/11/diablo-ii": {
+    "title": "Diablo II",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-28T17:14:00.381322+00:00",
+    "published": "2026-11-28T09:54:19+00:00"
+  },
+  "https://www-cs-faculty.stanford.edu/~knuth/moratorium.html": {
+    "title": "Knuth: Moratorium on Error Reports",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-28T17:14:00.381322+00:00",
+    "published": "2026-11-28T03:49:21+00:00"
+  },
+  "https://unkernel.dev": {
+    "title": "Unkernel: Real Linux kernel, compiled to WebAssembly",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-28T17:14:00.381322+00:00",
+    "published": "2026-11-28T03:19:20+00:00"
+  },
+  "https://www.worldofinteriors.com/story/paolo-soleri-arconsati-arizona": {
+    "title": "Paolo Soleri built a utopian eco-city in the Arizona desert",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-28T17:14:00.381322+00:00",
+    "published": "2026-11-27T13:30:20+00:00"
+  },
+  "https://www.citroenet.org.uk/miscellaneous/hydraulics/hydraulics-1.html": {
+    "title": "Citroën Hydraulic System",
+    "source": "Hacker News (front)",
+    "first_seen": "2026-11-28T17:14:00.381322+00:00",
+    "published": "2026-11-27T03:10:19+00:00"
   }
 }
